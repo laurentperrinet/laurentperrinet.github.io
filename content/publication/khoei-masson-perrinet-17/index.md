@@ -14,9 +14,6 @@ url_custom = [{name = "Press release", url = "http://www.cnrs.fr/insb/recherche/
 # Is this a featured publication? (true/false)
 featured = true
 
-[header]
-  image = "header.png"
-
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
@@ -26,6 +23,10 @@ featured = true
     focal_point = ""
 
 +++
+
+[header]
+  image = "header.png"
+
 
 # Visual illusions: their origin lies in prediction
 
