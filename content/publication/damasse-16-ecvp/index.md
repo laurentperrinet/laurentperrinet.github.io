@@ -8,4 +8,3 @@ featured = false
 publication = "*Proceedings of ECVP*"
 url_pdf = "https://laurentperrinet.github.io/Publications/Damasse16ecvp"
 +++
-
