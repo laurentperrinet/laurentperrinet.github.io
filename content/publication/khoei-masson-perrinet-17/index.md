@@ -15,19 +15,22 @@ url_poster = "http://www.cnrs.fr/insb/recherche/parutions/articles2017/l-perrine
 # Is this a featured publication? (true/false)
 featured = true
 
+[header]
+  image = "header.png"
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Top"
+    image = "header.png"
+    # Focal point (optional)
+    # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+    focal_point = "Top"
 
 +++
 
 # Visual illusions: their origin lies in prediction
 
-{{< figure src="flash_lag.gif" title="*Flash-Lag Effect.* The flash-lag effect. When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash. Still, after several decades of debates, there is no consensus regarding the underlying mechanisms." >}}
+{{< figure src="flash_lag.gif" title="*Flash-Lag Effect.* When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash. Still, after several decades of debates, there is no consensus regarding the underlying mechanisms." >}}
 
 **Researchers from the Timone Institute of Neurosciences bring a new theoretical hypothesis on a visual illusion discovered at the beginning of the 20th century. This illusion remained misunderstood while it poses fundamental questions about how our brains represent events in space and time. This study published on January 26, 2017 in the journal PLOS Computational Biology, shows that the solution lies in the predictive mechanisms intrinsic to the neural processing of information.**
 
