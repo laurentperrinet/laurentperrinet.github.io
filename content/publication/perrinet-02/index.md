@@ -1,0 +1,13 @@
++++
+title = "Coherence detection in a spiking neuron via Hebbian learning"
+date = 2002-06-01
+authors = ["L. Perrinet"]
+publication_types = ["2"]
+abstract = ""
+featured = false
+publication = "*Neurocomputing*"
+tags = ["stdp"]
+url_pdf = "http://dx.doi.org/10.1016/s0925-2312(02)00374-0"
+doi = "10.1016/s0925-2312(02)00374-0"
++++
+
