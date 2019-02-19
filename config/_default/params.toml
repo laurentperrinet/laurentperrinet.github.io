@@ -22,7 +22,7 @@ twitter = "laurentperrinet"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = "boards.jpg"
+logo = "hulk.png"
 
 # Enable global source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
@@ -52,12 +52,10 @@ time_format = "15:04"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "laurent.perrinet@univ-amu.fr"
 phone = "888 888 88 88"
-address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+address = "Faculté de Médecine - Bâtiment Neurosciences,<br> 27, Bd Jean Moulin, 13385 Marseille Cedex 05,<br> France "
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00<br>
-                  Otherwise email to book an appointment"""
+office_hours = "email to book an appointment"
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
@@ -68,9 +66,20 @@ contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
+
+# [[http://www.citeulike.org/user/LaurentPerrinet|CiteUlike]]
+# [[http://www.mendeley.com/profiles/laurent-perrinet/|Mendeley]]
+# [[http://www.scopus.com/authid/detail.url?authorId=23029018400|SCOPUS]]
+# [[http://orcid.org/0000-0002-9536-010X|ORCID]]
+# [[http://scholar.google.com/citations?user=TVyUV38AAAAJ&hl=en|Google scholar]]
+# [[http://www.researcherid.com/rid/C-4900-2009|ResercherID]]
+# [[http://google.com/+LaurentPerrinet|G+]]
+# [[http://www.facebook.com/laurent.perrinet|FB]]
+# [[http://apps.webofknowledge.com/CitationReport.do?product=UA&search_mode=CitationReport&SID=Y2I7LtBLzKVoeUGmtwz&page=1&cr_pqid=9&viewType=summary|ISI]]
+#  [[https://publons.com/a/1206845/|publons]]
 
 # Display a map.
 # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
@@ -129,7 +138,7 @@ sharing = true
 [publications]
   # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "January 2006"
+  date_format = "2006-01-02"
 
   # Citation style ("apa" or "mla")
   citation_style = "apa"
