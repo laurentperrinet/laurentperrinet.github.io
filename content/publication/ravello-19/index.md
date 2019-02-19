@@ -24,14 +24,14 @@ featured = true
 
 +++
 
-{{< tweet 1092211339311923201 >}}
+{{< tweet 1092139540788244480 >}}
 
 # Dès la rétine, le système visuel préfère des images naturelles
 
 *Dans la rétine, au premier étage du traitement de l'image visuelle, on peut obtenir des représentations extrêmement fines. Une collaboration entre des chercheurs français et chiliens a permis de mettre en évidence que, dans la rétine de rongeurs, une représentation de la vitesse de l'image visuelle est précisément codée. Dans cette collaboration pluridisciplinaire, l'utilisation d'un modèle du fonctionnement de la rétine a permis de générer un nouveau type de stimuli visuels qui a révélé des résultats expérimentaux surprenants.*
 
 {{< tweet 1092200890377879552 >}}
-{{< tweet 1092139540788244480 >}}
+{{< tweet 1092211339311923201 >}}
 
 La rétine est la première étape du traitement visuel, aux capacités étonnantes. À la différence d'un simple capteur comme ceux qu’on trouve dans les appareils photographiques numériques, ce mince tissu neuronal est un système complexe et encore largement méconnu. Une meilleure connaissance de cette structure est essentielle pour la construction de capteurs du futur efficaces et économes -par exemple ceux qui équiperont les futures voitures autonomes- mais aussi pour mieux comprendre des pathologies comme la Déficience Maculaire Liée à l'Age (DMLA). Une des facettes méconnues de la rétine est sa capacité à détecter des mouvements et cet article permet de mieux comprendre une partie des mécanismes en jeu.
 
@@ -46,5 +46,5 @@ Ces textures complexes sont plus proches des images naturellement observées et 
 
  {{< figure src="http://www4.cnrs-dir.fr/insb/z-outils/images/site/recherche/publis/2019/article-perrinet.jpg" title="our une cellule représentative, on montre ici la réponse au cours du temps sous forme d'impulsions pour différentes présentations (Trial) ainsi que la moyenne de cette réponse (Firing rate). Les différentes colonnes représentent différentes vitesses des stimulations sur la rétine. Les différentes lignes sont différentes stimulations. En bleu, une stimulation classique sous forme de réseaux de lignes (« Grating »). En vert et Orange, la réponse à une texture progressivement plus complexe (de « Mc Narrow » à « MC Broad »). Si les réponses aux différents stimulations sont en moyenne similaires, elles sont variables d’essai en essai et une analyse statistique a permis de montrer que dans la majorité des cellules, les réponses sont d'autant plus précises que la stimulation est complexe. © Cesar Ravello " >}}
 
-{{< video library="1" src="http://www4.cnrs-dir.fr/insb/z-outils/images/site/recherche/publis/2019/video_perrinet.mp4" controls="yes" >}}
+{{< video library="1" src="video_perrinet.mp4" controls="yes" >}}
 Cette vidéo montre les trois classes de stimulations utilisées dans cette étude. En plus des réseaux sinusoïdaux (“Grating”) qui sont classiquement utilisés en neurosciences, cette étude a utilisé des textures aléatoires (Motion Clouds (MC)) qui sont inspirées de modèles du traitement visuel. Ils permettent en particulier de manipuler des paramètres visuels critiques comme la variété de fréquences spatiales qui sont superposées: soit unique (“Grating”), fine (“MC Narrow”), soit plus large (“MC Broad”). Ces vidéos ont été directement projetées sur des rétines posées sur des grilles d’électrodes qui permettent de mesurer l’activité neurale (voir figure). © Laurent Perrinet / Cesar Ravello
