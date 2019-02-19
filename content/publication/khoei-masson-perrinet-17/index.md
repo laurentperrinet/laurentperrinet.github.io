@@ -17,15 +17,11 @@ featured = true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
-    image = "header.png"
     # Focal point (optional)
     # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
     focal_point = ""
 
 +++
-
-[header]
-  image = "header.png"
 
 
 # Visual illusions: their origin lies in prediction
