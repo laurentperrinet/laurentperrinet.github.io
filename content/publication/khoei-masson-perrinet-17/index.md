@@ -8,6 +8,10 @@ publication = "*PLoS Computational Biology*"
 url_pdf = "http://dx.doi.org/10.1371/journal.pcbi.1005068"
 doi = "10.1371/journal.pcbi.1005068"
 
+url_code = "https://github.com/laurentperrinet/Khoei_2017_PLoSCB"
+url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-01771125"
+url_poster = "http://www.cnrs.fr/insb/recherche/parutions/articles2017/l-perrinet.html"
+url_source = "#"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -21,3 +25,8 @@ featured = true
   focal_point = ""
 
 +++
+
+
+{{< tweet 829354100273745920 >}}
+
+{{< tweet 829474896023474176 >}}
