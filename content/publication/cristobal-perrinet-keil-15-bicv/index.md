@@ -22,13 +22,14 @@ As state-of-the-art imaging technologies becomes more and more advanced, yieldin
 
 {{< figure src="header.jpg" >}}
 
-
 This is a comprehensive and rigorous reference in the area of biologically motivated vision sensors. The study of biologically visual systems can be considered as a two way avenue. On the one hand, biological organisms can provide a source of inspiration for new computational efficient and robust vision models and on the other hand machine vision approaches can provide new insights for understanding biological visual systems. Along the different chapters, this book covers a wide range of topics from fundamental to more specialized topics, including visual analysis based on a computational level, hardware implementation, and the design of new more advanced vision sensors. The last two sections of the book provide an overview of a few representative applications and current state of the art of the research in this area. This makes it a valuable book for graduate, Master, PhD students and also researchers in the field.
 
 This book contains 17 chapters that have been organized in four different parts:
-* Fundamentals
-* Sensing
-* Modeling
-* Applications
+ * Fundamentals
+ * Sensing
+ * Modeling
+ * Applications
+
+See the [Table of contents](http://bicv.github.io/toc/).
 
 {{< figure src="mindmap.png" >}}
