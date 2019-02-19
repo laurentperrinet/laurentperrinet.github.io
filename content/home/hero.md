@@ -3,7 +3,7 @@
 widget = "hero"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Exploring the computational priciples of vision"
+title = "Novel computational paradigms for vision"
 
 # Order that this section will appear in.
 weight = 3
@@ -23,9 +23,9 @@ weight = 3
 #  label = '<i class="fas fa-download"></i> Install Now'
 +++
 
-Let's admit it: brains are not computers. Indeed, computers are still deceptive compared to perceptual systems. Think for instance about architectures capable of feeding noisy, ambiguous and rapidly varying raw data to your computer. Or think about architecture performing this in an autonomous manner...
+Let's admit it: brains are not computers. Indeed, computers are still deceptive compared to biological perceptual systems. Think for instance about solutions for noisy, ambiguous and rapidly varying raw data. Think about performing this in an autonomous manner and with a low energetic cost...
 
-To narrow the gap between neuroscience and the theory of sensory processing computations, I am interested in *bridging statistics of geometrical regularities in natural scenes with the properties of neural computations* as they are observed in low-level sensory processes or through low-level behavior. For instance, has the predictability of the motion of objects in physical space an impact in the activity of neurons that detect and subsequently on eye movements? What mechanisms are used to learn statistical regularities? What happens if these adaptive mechanisms are dysfunctional?
+To narrow the gap between neuroscience and the theory of sensory processing computations, I am interested in *bridging statistics of geometrical regularities in natural scenes with the properties of neural computations* as they are observed in low-level sensory processes or through low-level behavior.
 
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/laurentperrinet" data-size="large" data-show-count="true" aria-label="Follow @laurentperrinet on GitHub">Follow @laurentperrinet</a>
