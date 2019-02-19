@@ -8,5 +8,9 @@ featured = false
 publication = "*PLoS Computational Biology*"
 url_pdf = "http://dx.doi.org/10.1371/journal.pcbi.1005068"
 doi = "10.1371/journal.pcbi.1005068"
-+++
 
+
+# Is this a featured publication? (true/false)
+featured = true
+
++++

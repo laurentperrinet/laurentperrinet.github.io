@@ -9,5 +9,7 @@ publication = "*Scientific Reports*"
 tags = ["assofield"]
 url_pdf = "http://www.nature.com/articles/srep11400"
 doi = "10.1038/srep11400"
-+++
 
+# Is this a featured publication? (true/false)
+featured = true
++++

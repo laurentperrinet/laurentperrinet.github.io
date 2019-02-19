@@ -9,5 +9,7 @@ publication = "*Biological Cybernetics*"
 tags = ["active-inference", "bayesian", "bicv-sparse", "delays", "eye", "eye-movements", "free-energy", "freemove", "generalized-coordinates", "generalized-filtering", "oculomotor", "perception", "smooth-pursuit", "tracking-eye-movements", "variational-filtering"]
 url_pdf = "https://hal.archives-ouvertes.fr/hal-01382350"
 doi = "10.1007/s00422-014-0620-8"
-+++
 
+# Is this a featured publication? (true/false)
+featured = true
++++
