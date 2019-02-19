@@ -24,16 +24,16 @@ featured = true
 
 +++
 
-{{< tweet 1092139540788244480 >}}
-
 # Dès la rétine, le système visuel préfère des images naturelles
 
 *Dans la rétine, au premier étage du traitement de l'image visuelle, on peut obtenir des représentations extrêmement fines. Une collaboration entre des chercheurs français et chiliens a permis de mettre en évidence que, dans la rétine de rongeurs, une représentation de la vitesse de l'image visuelle est précisément codée. Dans cette collaboration pluridisciplinaire, l'utilisation d'un modèle du fonctionnement de la rétine a permis de générer un nouveau type de stimuli visuels qui a révélé des résultats expérimentaux surprenants.*
 
-{{< tweet 1092200890377879552 >}}
-{{< tweet 1092211339311923201 >}}
+{{< tweet 1092139540788244480 >}}
 
 La rétine est la première étape du traitement visuel, aux capacités étonnantes. À la différence d'un simple capteur comme ceux qu’on trouve dans les appareils photographiques numériques, ce mince tissu neuronal est un système complexe et encore largement méconnu. Une meilleure connaissance de cette structure est essentielle pour la construction de capteurs du futur efficaces et économes -par exemple ceux qui équiperont les futures voitures autonomes- mais aussi pour mieux comprendre des pathologies comme la Déficience Maculaire Liée à l'Age (DMLA). Une des facettes méconnues de la rétine est sa capacité à détecter des mouvements et cet article permet de mieux comprendre une partie des mécanismes en jeu.
+
+{{< tweet 1092200890377879552 >}}
+{{< tweet 1092211339311923201 >}}
 
 Conciliant modélisation et neurophysiologie, cette étude a permis de faire des prédictions sur le traitement de l'information rétinienne et en particulier de générer des textures synthétiques qui sont optimales pour ces modèles (voir film). Les enregistrements effectués sur la rétine de rongeurs diurnes Octodon degus ont ensuite permis de mesurer la sélectivité à la vitesse mais aussi de valider une nouvelle fois ces modèles en reconstruisant l'image d'entrée à partir de l'activité neurale.
 
