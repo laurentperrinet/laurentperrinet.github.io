@@ -7,7 +7,7 @@ abstract = "Neurons in the input layer of primary visual cortex in primates deve
 featured = false
 publication = "*Neural Computation*"
 tags = ["adaptive", "assofield", "cell", "coding", "competition-optimized", "cooperative", "fields", "hebbian", "homeostasis", "images", "khoei13jpp", "learning", "matching", "natural", "neural", "of", "overcomplete_dictionaries", "perrinet10shl", "perrinet11sfn", "perrinet12pred", "population", "pursuit", "receptive", "sanz12jnp", "simple", "sparse", "sparse_coding", "sparse_hebbian_learning", "sparse_spike_coding", "statistics", "unsupervised"]
-url_pdf = "https://laurentperrinet.github.io/Publications/Perrinet10shl"
+url_pdf = "https://invibe.net/LaurentPerrinet/Publications/Perrinet10shl"
 doi = "10.1162/neco.2010.05-08-795"
 +++
 

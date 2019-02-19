@@ -7,6 +7,6 @@ abstract = ""
 featured = false
 publication = ""
 tags = ["Image texture ; Neuroscience ; Computer vision ; Retina"]
-url_pdf = "https://laurentperrinet.github.io/Publications/Ravello16droplets"
+url_pdf = "https://invibe.net/LaurentPerrinet/Publications/Ravello16droplets"
 +++
 

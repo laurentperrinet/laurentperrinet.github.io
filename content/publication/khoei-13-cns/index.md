@@ -7,7 +7,7 @@ abstract = ""
 featured = false
 publication = ""
 tags = ["bayesian", "khoei14fle", "models"]
-url_pdf = "https://laurentperrinet.github.io/Publications/Khoei13cns"
+url_pdf = "https://invibe.net/LaurentPerrinet/Publications/Khoei13cns"
 doi = "10.1186/1471-2202-14-S1-P314"
 +++
 

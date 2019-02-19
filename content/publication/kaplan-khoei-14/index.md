@@ -7,7 +7,7 @@ abstract = ""
 featured = false
 publication = "*IEEE International Joint Conference on Neural Networks (IJCNN) 2014 Beijing, China*"
 tags = ["bayesian", "khoei14fle", "models"]
-url_pdf = "https://laurentperrinet.github.io/Publications/Kaplan14beijing"
+url_pdf = "https://invibe.net/LaurentPerrinet/Publications/Kaplan14beijing"
 doi = "10.1109/IJCNN.2014.6889847"
 +++
 

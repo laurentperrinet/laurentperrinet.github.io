@@ -6,6 +6,6 @@ publication_types = ["1"]
 abstract = ""
 featured = false
 publication = "*Proceedings of SfN 2016*"
-url_pdf = "https://laurentperrinet.github.io/Publications/Mansour16ecvp"
+url_pdf = "https://invibe.net/LaurentPerrinet/Publications/Mansour16ecvp"
 +++
 

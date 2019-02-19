@@ -6,5 +6,5 @@ publication_types = ["1"]
 abstract = ""
 featured = false
 publication = "*Proceedings of ECVP*"
-url_pdf = "https://laurentperrinet.github.io/Publications/Damasse16ecvp"
+url_pdf = "https://invibe.net/LaurentPerrinet/Publications/Damasse16ecvp"
 +++
