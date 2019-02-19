@@ -5,7 +5,7 @@ widget = "posts"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Recent Posts"
+title = "Recent Events"
 subtitle = ""
 
 # Number of recent posts to list.
@@ -22,4 +22,3 @@ view = 2
 filter_tag = ""
 filter_category = ""
 +++
-

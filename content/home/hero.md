@@ -3,7 +3,7 @@
 widget = "hero"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Academic"
+title = "Exploring the computational priciples of vision"
 
 # Order that this section will appear in.
 weight = 3
@@ -19,12 +19,15 @@ weight = 3
 #   Activate the button by specifying a URL and button label below.
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 [cta]
-  url = "./post/getting-started/"
-  label = '<i class="fas fa-download"></i> Install Now'
+  url = "./post/EtienneRey/"
+#  label = '<i class="fas fa-download"></i> Install Now'
 +++
 
-The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes :rocket:
-<div style="margin-top: -0.5rem;">
+Let's admit it: brains are not computers. Indeed, computers are still deceptive compared to perceptual systems. Think for instance about architectures capable of feeding noisy, ambiguous and rapidly varying raw data to your computer. Or think about architecture performing this in an autonomous manner...
+
+To narrow the gap between neuroscience and the theory of sensory processing computations, I am interested in *bridging statistics of geometrical regularities in natural scenes with the properties of neural computations* as they are observed in low-level sensory processes or through low-level behavior. For instance, has the predictability of the motion of objects in physical space an impact in the activity of neurons that detect and subsequently on eye movements? What mechanisms are used to learn statistical regularities? What happens if these adaptive mechanisms are dysfunctional? 
+
+<!-- <div style="margin-top: -0.5rem;">
   <a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">
   Latest release <!-- V -->
   </a>
@@ -32,4 +35,4 @@ The highly flexible website framework for Hugo with an extensible plugin mechani
 <div class="mt-3">
   <a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a>
 </div>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+<script async defer src="https://buttons.github.io/buttons.js"></script> -->
