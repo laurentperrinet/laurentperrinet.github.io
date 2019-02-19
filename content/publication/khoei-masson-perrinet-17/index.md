@@ -12,4 +12,12 @@ doi = "10.1371/journal.pcbi.1005068"
 # Is this a featured publication? (true/false)
 featured = true
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
+
 +++
