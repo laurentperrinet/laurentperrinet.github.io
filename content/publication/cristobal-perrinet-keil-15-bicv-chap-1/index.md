@@ -1,7 +1,7 @@
 +++
 title = "Introduction"
 date = 2015-11-01
-authors = ["Gabriel Cristóbal", "Laurent Perrinet", "Matthias S. Keil"]
+authors = ["Gabriel Cristóbal", "Laurent U Perrinet", "Matthias S. Keil"]
 publication_types = ["6"]
 abstract = ""
 featured = false

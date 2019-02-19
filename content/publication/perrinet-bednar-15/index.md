@@ -1,7 +1,7 @@
 +++
 title = "Edge co-occurrences can account for rapid categorization of natural versus animal images"
 date = 2015-01-01
-authors = ["Laurent U. Perrinet", "James A. Bednar"]
+authors = ["Laurent U Perrinet", "James A. Bednar"]
 publication_types = ["2"]
 abstract = ""
 publication = "*Scientific Reports*"

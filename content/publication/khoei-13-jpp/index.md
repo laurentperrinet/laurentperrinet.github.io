@@ -1,7 +1,7 @@
 +++
 title = "Motion-based prediction explains the role of tracking in motion extrapolation"
 date = 2013-11-01
-authors = ["Mina A. Khoei", "Guillaume S. Masson", "Laurent U. Perrinet"]
+authors = ["Mina A. Khoei", "Guillaume S. Masson", "Laurent U Perrinet"]
 publication_types = ["2"]
 abstract = ""
 featured = false

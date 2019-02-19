@@ -1,7 +1,7 @@
 +++
 title = "A recurrent Bayesian model of dynamic motion integration for smooth pursuit"
 date = 2010-01-01
-authors = ["Amarender Bogadhi", "Anna Montagnini", "Pascal Mamassian", "Laurent U. Perrinet", "Guillaume S. Masson"]
+authors = ["Amarender Bogadhi", "Anna Montagnini", "Pascal Mamassian", "Laurent U Perrinet", "Guillaume S. Masson"]
 publication_types = ["1"]
 abstract = ""
 featured = false

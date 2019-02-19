@@ -1,7 +1,7 @@
 +++
 title = "A Mathematical Account of Dynamic Texture Synthesis for Probing Visual Perception"
 date = 2015-01-01
-authors = ["Jonathan Vacher", "Andrew Isaac Meso", "Laurent Perrinet", "Gabriel Peyre"]
+authors = ["Jonathan Vacher", "Andrew Isaac Meso", "Laurent U Perrinet", "Gabriel Peyre"]
 publication_types = ["1"]
 abstract = ""
 featured = false

@@ -1,7 +1,7 @@
 +++
 title = "Speed-Selectivity in Retinal Ganglion Cells is Sharpened by Broad Spatial Frequency, Naturalistic Stimuli"
 date = 2019-01-01
-authors = ["César R. Ravello", "Laurent U. Perrinet", "María-José Escobar", "Adrián G. Palacios"]
+authors = ["César R. Ravello", "Laurent U Perrinet", "María-José Escobar", "Adrián G. Palacios"]
 publication_types = ["2"]
 abstract = ""
 publication = "*Scientific Reports*"

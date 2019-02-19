@@ -1,7 +1,7 @@
 +++
 title = "Emergence of filters from natural scenes in a sparse spike coding scheme."
 date = 2003-01-01
-authors = ["Laurent U. Perrinet", "Manuel Samuelides", "Simon J. Thorpe"]
+authors = ["Laurent U Perrinet", "Manuel Samuelides", "Simon J. Thorpe"]
 publication_types = ["2"]
 abstract = ""
 featured = false

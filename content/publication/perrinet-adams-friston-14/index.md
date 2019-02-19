@@ -1,7 +1,7 @@
 +++
 title = "Active inference, eye movements and oculomotor delays"
 date = 2014-12-01
-authors = ["Laurent U. Perrinet", "Rick A. Adams", "Karl J. Friston"]
+authors = ["Laurent U Perrinet", "Rick A. Adams", "Karl J. Friston"]
 publication_types = ["2"]
 abstract = "This paper considers the problem of sensorimotor delays in the optimal control of (smooth) eye movements under uncertainty. Specifically, we consider delays in the visuo-oculomotor loop and their implications for active inference. Active inference uses a generalisation of Kalman filtering to provide Bayes optimal estimates of hidden states and action in generalised coordinates of motion. Representing hidden states in generalised coordinates provides a simple way of compensating for both sensory and oculomotor delays. The efficacy of this scheme is illustrated using neuronal simulations of pursuit initiation responses, with and without compensation. We then consider an extension of the generative model to simulate smooth pursuit eye movements---in which the visuo-oculomotor system believes both the target and its centre of gaze are attracted to a (hidden) point moving in the visual field. Finally, the generative model is equipped with a hierarchical structure, so that it can recognise and remember unseen (occluded) trajectories and emit anticipatory responses. These simulations speak to a straightforward and neurobiologically plausible solution to the generic problem of integrating information from different sources with different temporal delays and the particular difficulties encountered when a system---like the oculomotor system---tries to control its environment with delayed signals."
 publication = "*Biological Cybernetics*"

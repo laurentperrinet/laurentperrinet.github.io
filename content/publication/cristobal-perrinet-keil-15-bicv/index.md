@@ -1,7 +1,7 @@
 +++
 title = "Biologically Inspired Computer Vision"
 date = 2015-11-01
-authors = ["Gabriel Cristóbal", "Laurent Perrinet", "Matthias S. Keil"]
+authors = ["Gabriel Cristóbal", "Laurent U Perrinet", "Matthias S. Keil"]
 publication_types = ["5"]
 abstract = ""
 publication = ""
