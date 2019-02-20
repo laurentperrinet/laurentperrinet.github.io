@@ -1,25 +1,25 @@
 +++
 # Project title.
-title = "Tout public!"
+title = "Motion Clouds"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Listes d'actions destinées à la culture scientifique et au public en général."
+summary = "**MotionClouds** are random dynamic stimuli optimized to study motion perception."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["EtienneRey", "PollyMaggoo"]
+tags = ["psychophysics", "motion-clouds"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://invibe.net/LaurentPerrinet/TagToutPublic"
+external_link = "http://motionclouds.invibe.net/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
 [image]
   # Caption (optional)
-  caption = "Photo by Toa Heftiba on Unsplash"
+  caption = "Snapshot of a Motion Cloud"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
