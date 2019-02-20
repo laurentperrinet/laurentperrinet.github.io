@@ -50,19 +50,27 @@ for key in keys:
 
 # print('dico', dico)
 
+dico['kaplan-khoei-14'] = 'Kaplan14beijing'
 
 # 3- generating all conversion strings
 
 import glob
 
-for filename in glob.glob('content/publication/*'):
-    # print("filename", filename)
-    new_key = filename.split('content/publication/')[-1]
-    if not new_key in ['___template___',  'person-re-id', '_index.md']:
-        old_key = dico[new_key]
-        input = 'https://invibe.net/LaurentPerrinet/Publications/' + old_key
-        output = 'https://laurentperrinet.github.io/publication/' + new_key
-        print('input', input, ' -> output', output)
+# for filename in glob.glob('content/publication/*'):
+#     # print("filename", filename)
+#     new_key = filename.split('content/publication/')[-1]
+#     if not new_key in ['___template___',  'person-re-id', '_index.md']:
+#         old_key = dico[new_key]
+#         input = 'https://invibe.net/LaurentPerrinet/Publications/' + old_key
+#         output = 'https://laurentperrinet.github.io/publication/' + new_key
+#         print('input', input, ' -> output', output)
+#
+
+for new_key in dico.keys():
+    old_key = dico[new_key]
+    input = 'https://invibe.net/LaurentPerrinet/Publications/' + old_key
+    output = 'https://laurentperrinet.github.io/publication/' + new_key
+    print('input', input, ' -> output', output)
 
 # 4- replacing strings in a file
 
@@ -89,12 +97,8 @@ for filename in glob.glob('**', recursive=True):
     ext = filename.split('.')[-1].lower()
     if os.path.isfile(filename) and ext not in ['jpg', 'png', 'gif', 'mp4']:
         print("Processing filename", filename)
-        for filename_ in glob.glob('content/publication/*'):
-            # print("filename", filename)
-            new_key = filename_.split('content/publication/')[-1]
-            if not new_key in ['___template___',  'person-re-id', '_index.md']:
-                old_key = dico[new_key]
-                input = 'https://invibe.net/LaurentPerrinet/Publications/' + old_key
-                output = 'https://laurentperrinet.github.io/publication/' + new_key
-                #print('input', input, ' -> output', output)
-                inplace_change(filename, input, output, verbose=False)
+        for new_key in dico.keys(): 
+            old_key = dico[new_key]
+            input = 'https://invibe.net/LaurentPerrinet/Publications/' + old_key
+            output = 'https://laurentperrinet.github.io/publication/' + new_key
+            inplace_change(filename, input, output, verbose=False)

@@ -8,7 +8,7 @@ publication = ""
 url_pdf = "http://onlinelibrary.wiley.com/book/10.1002/9783527680863"
 doi = "10.1002/9783527680863"
 url_preprint = "http://bicv.github.io/"
-url_custom = [{name = "Table of contents", url = "http://bicv.github.io/toc/"}, {name = "communiqué de presse", url = "http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html"}, {name = "supplementary information", url = "http://www.nature.com/article-assets/npg/srep/2015/150622/srep11400/extref/srep11400-s1.pdf"}, {name = "supplementary material", url = "http://invibe.net/LaurentPerrinet/Publications/PerrinetBednar15?action=AttachFile&do=get&target=PerrinetBednar15supplementary.pdf"}]
+url_custom = [{name = "Table of contents", url = "http://bicv.github.io/toc/"}, {name = "communiqué de presse", url = "http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html"}, {name = "supplementary information", url = "http://www.nature.com/article-assets/npg/srep/2015/150622/srep11400/extref/srep11400-s1.pdf"}, {name = "supplementary material", url = "https://invibe.net/LaurentPerrinet/Publications/PerrinetBednar15?action=AttachFile&do=get&target=PerrinetBednar15supplementary.pdf"}]
 
 
 
