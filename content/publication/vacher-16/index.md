@@ -9,4 +9,10 @@ publication = ""
 tags = ["Motion perception", "Psychophysics", "Bayesian Modelling", "Dynamic textures", "Stochastic Par-tial Differential Equations", "Computer Science - Computer Vision and Pattern Recognition", "Quantitative Biology - Neurons and Cognition"]
 projects = ["motion-clouds"]
 tags = ["motion-clouds", "sanz-12"]
+url_pdf = "https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01142"
+doi = "10.1162/neco_a_01142"
+url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-01901635"
+
+publication = "*Neural computation*"
+
 +++
