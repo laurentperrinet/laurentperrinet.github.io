@@ -7,7 +7,9 @@ abstract = "Under natural viewing conditions, large eye movements are interspace
 featured = false
 publication = "*Journal of Vision*"
 tags = ["microsaccades"]
+projects = ["motion-clouds"]
+tags = ["motion-clouds", "sanz-12"]
+
 url_pdf = "http://dx.doi.org/10.1167/14.10.110"
 doi = "10.1167/14.10.110"
 +++
-

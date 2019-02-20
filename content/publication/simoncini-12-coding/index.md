@@ -9,5 +9,7 @@ publication = "*Front. Neurosci. Conference Abstract: Neural Coding, Decision-Ma
 tags = ["eye movements", "motion perception", "psychophysics"]
 url_pdf = "http://www.frontiersin.org/myfrontiers/abstractdetails.aspx?abs_doi=10.3389/conf.fnins.2012.86.00016"
 doi = "10.3389/conf.fnins.2012.86.00016"
-+++
+projects = ["motion-clouds"]
+tags = ["motion-clouds", "sanz-12"]
 
++++

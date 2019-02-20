@@ -89,12 +89,13 @@ def inplace_change(filename, old_string, new_string, verbose=True):
         f.write(s)
 
 # https://stackoverflow.com/a/17548459/234547
-inplace_change('content/publication/damasse-16-ecvp/cite.bib', 'https://laurentperrinet.github.io/publication/damasse-16-ecvp', 'https://laurentperrinet.github.io/publication/damasse-16-ecvp')
+# inplace_change('content/publication/damasse-16-ecvp/cite.bib', 'https://laurentperrinet.github.io/publication/damasse-16-ecvp', 'https://laurentperrinet.github.io/publication/damasse-16-ecvp')
 
 # 5- replacing all pairs of strings in all file
 import os
-#for filename in glob.glob('../motionclouds.invibe.net/**', recursive=True):
-for filename in glob.glob('../laurentperrinet.github.io_sciblog/**', recursive=True):
+# for filename in glob.glob('../motionclouds.invibe.net/**', recursive=True):
+# for filename in glob.glob('../laurentperrinet.github.io_sciblog/**', recursive=True):
+for filename in glob.glob('**', recursive=True):
     ext = filename.split('.')[-1].lower()
     #if os.path.isfile(filename) and ext not in ['jpg', 'png', 'gif', 'mp4', 'pyc', 'h5', 'mat']:
     print("Processing filename", filename)

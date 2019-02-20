@@ -8,4 +8,5 @@ featured = false
 publication = ""
 tags = ["Motion perception", "Psychophysics", "Bayesian Modelling", "Dynamic textures", "Stochastic Par-tial Differential Equations", "Computer Science - Computer Vision and Pattern Recognition", "Quantitative Biology - Neurons and Cognition"]
 projects = ["motion-clouds"]
+tags = ["motion-clouds", "sanz-12"]
 +++

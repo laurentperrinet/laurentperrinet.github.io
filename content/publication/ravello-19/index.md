@@ -7,6 +7,8 @@ abstract = ""
 publication = "*Scientific Reports*"
 url_pdf = "https://doi.org/10.1038%2Fs41598-018-36861-8"
 doi = "10.1038/s41598-018-36861-8"
+tags = ["motion-clouds", "sanz-12"]
+projects = ["motion-clouds"]
 
 url_preprint = "https://www.biorxiv.org/content/10.1101/350330v1"
 url_custom = [{name = "Press release", url = "http://www4.cnrs-dir.fr/insb/recherche/parutions/articles2019/l-perrinet.html"}]
