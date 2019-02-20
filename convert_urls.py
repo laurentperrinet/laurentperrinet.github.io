@@ -93,12 +93,15 @@ inplace_change('content/publication/damasse-16-ecvp/cite.bib', 'https://laurentp
 
 # 5- replacing all pairs of strings in all file
 import os
-for filename in glob.glob('**', recursive=True):
+for filename in glob.glob('../motionclouds.invibe.net/**', recursive=True):
     ext = filename.split('.')[-1].lower()
-    if os.path.isfile(filename) and ext not in ['jpg', 'png', 'gif', 'mp4']:
-        print("Processing filename", filename)
-        for new_key in dico.keys(): 
-            old_key = dico[new_key]
-            input = 'https://invibe.net/LaurentPerrinet/Publications/' + old_key
-            output = 'https://laurentperrinet.github.io/publication/' + new_key
+    #if os.path.isfile(filename) and ext not in ['jpg', 'png', 'gif', 'mp4', 'pyc', 'h5', 'mat']:
+    print("Processing filename", filename)
+    for new_key in dico.keys():
+        old_key = dico[new_key]
+        input = 'https://invibe.net/LaurentPerrinet/Publications/' + old_key
+        output = 'https://laurentperrinet.github.io/publication/' + new_key
+        try:
             inplace_change(filename, input, output, verbose=False)
+        except:
+            print('failed for extension', ext)
