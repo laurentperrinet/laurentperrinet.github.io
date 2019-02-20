@@ -79,7 +79,7 @@ def inplace_change(filename, old_string, new_string, verbose=True):
     with open(filename) as f:
         s = f.read()
         if old_string not in s:
-            if verbose: print ('"{old_string}" not found in {filename}.'.format(**locals()))
+            # if verbose: print ('"{old_string}" not found in {filename}.'.format(**locals()))
             return
 
     # Safely write the changed content, if found in the file
@@ -93,7 +93,8 @@ inplace_change('content/publication/damasse-16-ecvp/cite.bib', 'https://laurentp
 
 # 5- replacing all pairs of strings in all file
 import os
-for filename in glob.glob('../motionclouds.invibe.net/**', recursive=True):
+#for filename in glob.glob('../motionclouds.invibe.net/**', recursive=True):
+for filename in glob.glob('../laurentperrinet.github.io_sciblog/**', recursive=True):
     ext = filename.split('.')[-1].lower()
     #if os.path.isfile(filename) and ext not in ['jpg', 'png', 'gif', 'mp4', 'pyc', 'h5', 'mat']:
     print("Processing filename", filename)
@@ -102,6 +103,6 @@ for filename in glob.glob('../motionclouds.invibe.net/**', recursive=True):
         input = 'https://invibe.net/LaurentPerrinet/Publications/' + old_key
         output = 'https://laurentperrinet.github.io/publication/' + new_key
         try:
-            inplace_change(filename, input, output, verbose=False)
+            inplace_change(filename, input, output, verbose=True)
         except:
             print('failed for extension', ext)
