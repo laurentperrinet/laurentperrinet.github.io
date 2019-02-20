@@ -7,6 +7,6 @@ abstract = "Humans are able to interact successfully with moving objects in our 
 featured = false
 publication = "*VSS Conference Abstract*"
 tags = ["motion"]
-url_pdf = "https://invibe.net/LaurentPerrinet/Publications/Meso13vss"
+url_pdf = "https://laurentperrinet.github.io/publication/meso-13-vss"
 +++
 

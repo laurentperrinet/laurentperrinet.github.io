@@ -7,7 +7,7 @@ abstract = "Predictive coding hypothesizes that the brain explicitly infers upco
 featured = false
 publication = "*Front. Comput. Neurosci. 7:112.*"
 tags = ["motion detection", "motion extrapolation", "probabilistic representation", "predictive coding", "network of spiking neurons", "large-scale neuromorphic systems"]
-url_pdf = "https://invibe.net/LaurentPerrinet/Publications/Kaplan13"
+url_pdf = "https://laurentperrinet.github.io/publication/kaplan-13"
 doi = "10.3389/fncom.2013.00112"
 +++
 

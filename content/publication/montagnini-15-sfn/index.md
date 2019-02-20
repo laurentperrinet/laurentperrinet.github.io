@@ -7,6 +7,6 @@ abstract = ""
 featured = false
 publication = ""
 tags = ["bayesian models"]
-url_pdf = "https://invibe.net/LaurentPerrinet/Publications/Montagnini15sfn"
+url_pdf = "https://laurentperrinet.github.io/publication/montagnini-15-sfn"
 +++
 

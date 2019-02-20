@@ -7,6 +7,6 @@ abstract = "Oriented edges in images of natural scenes tend to be aligned in col
 featured = false
 publication = "*Society for Neuroscience Abstracts*"
 tags = ["sanz12jnp"]
-url_pdf = "https://invibe.net/LaurentPerrinet/Publications/Perrinet11sfn"
+url_pdf = "https://laurentperrinet.github.io/publication/perrinet-11-sfn"
 +++
 

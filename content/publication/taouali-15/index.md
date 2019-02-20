@@ -7,7 +7,7 @@ abstract = "The repeated presentation of an identical visual stimulus in the rec
 featured = false
 publication = "*Journal of Neurophysiology*"
 tags = ["decoding", "spikes", "taouali14"]
-url_pdf = "https://invibe.net/LaurentPerrinet/Publications/Taouali15"
+url_pdf = "https://laurentperrinet.github.io/publication/taouali-15"
 doi = "10.1152/jn.00194.2015"
 +++
 

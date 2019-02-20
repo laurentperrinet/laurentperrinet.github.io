@@ -7,7 +7,7 @@ abstract = "Most studies on the dynamics of recurrent cortical networks are eith
 featured = false
 publication = "*Frontiers in Computational Neuroscience*"
 tags = ["dynamical_model", "lateral_connections", "patch-based", "recurrent_neural_networks"]
-url_pdf = "https://invibe.net/LaurentPerrinet/Publications/Voges12"
+url_pdf = "https://laurentperrinet.github.io/publication/voges-12"
 doi = "10.3389/fncom.2012.00041"
 +++
 

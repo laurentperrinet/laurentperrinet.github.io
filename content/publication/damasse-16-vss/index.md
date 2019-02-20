@@ -6,7 +6,7 @@ publication_types = ["1"]
 abstract = ""
 featured = false
 publication = "*Proceedings of VSS*"
-url_pdf = "https://invibe.net/LaurentPerrinet/Publications/Damasse16vss"
+url_pdf = "https://laurentperrinet.github.io/publication/damasse-16-vss"
 doi = "10.1167/16.12.1356"
 +++
 

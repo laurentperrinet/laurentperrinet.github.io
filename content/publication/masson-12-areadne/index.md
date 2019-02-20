@@ -7,6 +7,6 @@ abstract = "In low-level sensory systems, it is still unclear how the noisy info
 featured = false
 publication = "*Proceedings of AREADNE*"
 tags = ["aperture problem", "probabilistic representation", "predictive coding", "emergence"]
-url_pdf = "https://invibe.net/LaurentPerrinet/Publications/Masson12areadne"
+url_pdf = "https://laurentperrinet.github.io/publication/masson-12-areadne"
 +++
 
