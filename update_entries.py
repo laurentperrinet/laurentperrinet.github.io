@@ -173,7 +173,7 @@ if True:
             elif 'journal' in entry:
                 parsed_toml['publication'] = f'*{clean_bibtex_str(entry["journal"])}*'
             else:
-                parsed_toml['publication'] = '""'
+                parsed_toml['publication'] = ''
 
             if 'keywords' in entry:
                 parsed_toml['tags'] = clean_bibtex_tags(entry["keywords"], normalize)

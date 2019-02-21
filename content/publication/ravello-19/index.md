@@ -1,6 +1,6 @@
 +++title = "Speed-Selectivity in Retinal Ganglion Cells is Sharpened by Broad Spatial Frequency, Naturalistic Stimuli"
 date = "2019-01"
-authors = [ "César R. Ravello", "Laurent U Perrinet", "Marı́a-José Escobar", "Adrián G. Palacios",]
+authors = [ "Cesar U Ravello", "Laurent U Perrinet", "Marı́a-José Escobar", "Adrián G Palacios",]
 publication_types = [ "2",]
 abstract = "Motion detection represents one of the critical tasks of the visual system and has motivated a large body of research. However, it remains unclear precisely why the response of retinal ganglion cells (RGCs) to simple artificial stimuli does not predict their response to complex, naturalistic stimuli. To explore this topic, we use Motion Clouds (MC), which are synthetic textures that preserve properties of natural images and are merely parameterized, in particular by modulating the spatiotemporal spectrum complexity of the stimulus by adjusting the frequency bandwidths. By stimulating the retina of the diurnal rodent, Octodon degus with MC we show that the RGCs respond to increasingly complex stimuli by narrowing their adjustment curves in response to movement. At the level of the population, complex stimuli produce a sparser code while preserving movement information; therefore, the stimuli are encoded more efficiently. Interestingly, these properties were observed throughout different populations of RGCs. Thus, our results reveal that the response at the level of RGCs is modulated by the naturalness of the stimulus - in particular for motion - which suggests that the tuning to the statistics of natural images already emerges at the level of the retina."
 publication = "*Scientific Reports*"
@@ -40,6 +40,7 @@ Ces textures complexes sont plus proches des images naturellement observées et 
 
 {{< video src="video_perrinet.mp4" controls="yes" >}}
 Cette vidéo montre les trois classes de stimulations utilisées dans cette étude. En plus des réseaux sinusoïdaux (“Grating”) qui sont classiquement utilisés en neurosciences, cette étude a utilisé des textures aléatoires (Motion Clouds (MC)) qui sont inspirées de modèles du traitement visuel. Ils permettent en particulier de manipuler des paramètres visuels critiques comme la variété de fréquences spatiales qui sont superposées: soit unique (“Grating”), fine (“MC Narrow”), soit plus large (“MC Broad”). Ces vidéos ont été directement projetées sur des rétines posées sur des grilles d’électrodes qui permettent de mesurer l’activité neurale (voir figure). © Laurent Perrinet / Cesar Ravello
+
 
 
 

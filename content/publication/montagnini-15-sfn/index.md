@@ -4,10 +4,11 @@ authors = [ "Anna Montagnini", "Jean-Bernard Damasse", "Laurent U Perrinet", "La
 publication_types = [ "1",]
 abstract = ""
 featured = false
-publication = "\"\""
+publication = ""
 tags = [ "bayesian models",]
 url_pdf = "https://laurentperrinet.github.io/publication/montagnini-15-sfn"
 +++
+
 
 
 

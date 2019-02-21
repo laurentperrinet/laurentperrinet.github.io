@@ -9,8 +9,9 @@ projects = [ "motion-clouds",]
 url_pdf = "https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01142"
 doi = "10.1162/neco_a_01142"
 url_preprint = "https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01142"
-publication = "\"\""
+publication = ""
 +++
+
 
 
 

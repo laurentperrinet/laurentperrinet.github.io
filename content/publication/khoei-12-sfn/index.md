@@ -4,10 +4,11 @@ authors = [ "Mina A. Khoei", "Laurent U Perrinet", "Guillaume S. Masson",]
 publication_types = [ "1",]
 abstract = ""
 featured = false
-publication = "\"\""
+publication = ""
 tags = [ "bayesian models",]
 url_pdf = "https://laurentperrinet.github.io/publication/khoei-12-sfn"
 +++
+
 
 
 

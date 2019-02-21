@@ -3,7 +3,7 @@ date = "2015-11"
 authors = [ "Gabriel Cristóbal", "Laurent Perrinet", "Matthias S. Keil",]
 publication_types = [ "5",]
 abstract = ""
-publication = "\"\""
+publication = ""
 url_pdf = "http://onlinelibrary.wiley.com/book/10.1002/9783527680863"
 doi = "10.1002/9783527680863"
 url_preprint = "http://bicv.github.io/"
@@ -43,6 +43,7 @@ This book contains 17 chapters that have been organized in four different parts:
 See the [Table of contents](http://bicv.github.io/toc/).
 
 {{< figure src="mindmap.png" >}}
+
 
 
 
