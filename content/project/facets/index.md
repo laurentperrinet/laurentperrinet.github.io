@@ -1,27 +1,16 @@
 +++
 # Project title.
-title = "FACETS (2006--2010)"
+title = "FACETS (2006/2010)"
 
 # Date this page was created.
 date = 2015-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "FACETS: Fast Analog Computing with Emergent Transient States (2006--2010)."
+summary = "FACETS: Fast Analog Computing with Emergent Transient States (2006/2010)."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant"]
-
-# Optional external URL for project (replaces project detail page).
-external_link = "http://facets.kip.uni-heidelberg.de/jss/Publications/author_Perrinet"
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references
-#   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides = "example-slides"
+categories = ["grant"]
 
 +++
 

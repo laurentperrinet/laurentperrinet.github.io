@@ -1,20 +1,16 @@
 +++
 # Project title.
-title = "ANR CausaL (2018--2022)"
+title = "ANR CausaL (2018/2022)"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "ANR CausaL (2018--2022) : Cognitive​ ​architectures​ ​of​ Causal​ ​Learning."
+summary = "ANR CausaL (2018/2022) : Cognitive​ ​architectures​ ​of​ Causal​ ​Learning."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant"]
-
-# Optional external URL for project (replaces project detail page).
-external_link = "http://neuro-marseille.org/en/phd-program-en/"
-
+categories = ["grant"]
 
 +++
 

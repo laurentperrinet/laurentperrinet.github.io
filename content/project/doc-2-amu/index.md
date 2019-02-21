@@ -1,20 +1,16 @@
 +++
 # Project title.
-title = "DOC2AMU (2016--2019)"
+title = "DOC2AMU (2016/2019)"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "DOC2AMU: An Excellence Fellowship (2016--2019)."
+summary = "DOC2AMU: An Excellence Fellowship (2016/2019)."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant"]
-
-# Optional external URL for project (replaces project detail page).
-external_link = "https://doc2amu.univ-amu.fr/en"
-
+categories = ["grant"]
 
 +++
 

@@ -1,19 +1,16 @@
 +++
 # Project title.
-title = "ANR Horizontal-V1 (2017--2021)"
+title = "ANR Horizontal-V1 (2017/2021)"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "ANR Horizontal-V1 (2017--2021): Connectivité Horizontale et Prédiction de Cohérences dans l'Intégration de Contour et Mouvement dans le Cortex Visuel Primaire"
+summary = "ANR Horizontal-V1 (2017/2021): Connectivité Horizontale et Prédiction de Cohérences dans l'Intégration de Contour et Mouvement dans le Cortex Visuel Primaire"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant"]
-
-# Optional external URL for project (replaces project detail page).
-external_link = ""
+categories = ["grant"]
 
 +++
 

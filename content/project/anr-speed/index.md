@@ -1,20 +1,16 @@
 +++
 # Project title.
-title = "ANR SPEED (2013--2016)"
+title = "ANR SPEED (2013/2016)"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "ANR SPEED: Traitement de la vitesse dans les scènes visuelles naturelles (2013--2016)."
+summary = "ANR SPEED: Traitement de la vitesse dans les scènes visuelles naturelles (2013/2016)."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant"]
-
-# Optional external URL for project (replaces project detail page).
-external_link = ""
-
+categories = ["grant"]
 
 +++
 

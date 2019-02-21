@@ -10,17 +10,13 @@ summary = "A grant from the Ph.D. program in Integrative and Clinical Neuroscien
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant"]
-
-# Optional external URL for project (replaces project detail page).
-external_link = "http://neuro-marseille.org/en/phd-program-en/"
-
+categories = ["grant"]
 
 +++
 
 Description
 
-    The Ph.D. program in Integrative and Clinical Neuroscience (Aix-Marseille University) is offering in 2017 three Ph.D. scholarships to Master students graduated from highly ranked international universities (outside France). We were awarded with one PhD position for Angelo Franciosini at the "Institut de Neurosciences de la Timone" (team "Inference and Visual Behavior"), CNRS, Marseille (France) to study trajectories in natural images and the sensory processing of contours.
+    The [Ph.D. program in Integrative and Clinical Neuroscience](http://neuro-marseille.org/en/phd-program-en/) (Aix-Marseille University) is offering in 2017 three Ph.D. scholarships to Master students graduated from highly ranked international universities (outside France). We were awarded with one PhD position for Angelo Franciosini at the "Institut de Neurosciences de la Timone" (team "Inference and Visual Behavior"), CNRS, Marseille (France) to study trajectories in natural images and the sensory processing of contours.
 
 Funding
 

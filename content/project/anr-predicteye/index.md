@@ -1,19 +1,16 @@
 +++
 # Project title.
-title = "ANR PredictEye (2018--2022)"
+title = "ANR PredictEye (2018/2022)"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "ANR PredictEye (2018--2022) : Mapping and predicting trajectories for eye movements"
+summary = "ANR PredictEye (2018/2022) : Mapping and predicting trajectories for eye movements"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant"]
-
-# Optional external URL for project (replaces project detail page).
-external_link = ""
+categories = ["grant"]
 
 +++
 

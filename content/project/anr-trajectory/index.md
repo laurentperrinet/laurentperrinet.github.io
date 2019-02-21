@@ -1,20 +1,16 @@
 +++
 # Project title.
-title = "ANR TRAJECTORY (2016--2019)"
+title = "ANR TRAJECTORY (2016/2019)"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "ANR TRAJECTORY (2016--2019)."
+summary = "ANR TRAJECTORY (2016/2019)."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant"]
-
-# Optional external URL for project (replaces project detail page).
-external_link = "http://neuro-marseille.org/en/phd-program-en/"
-
+categories = ["grant"]
 
 +++
 
@@ -26,6 +22,14 @@ Addressing this question is particularly challenging, as it requires to probe th
 
 The project is timely because partners master new tools such as multi-electrode arrays and voltage-sensitive dye imaging for investigating the dynamics of neuronal populations covering a large segment of the motion trajectory, both in retina and V1. Second, it is strategic: motion trajectories are a fundamental aspect of visual processing that is also a technological obstacle in computer vision and neuroprostheses design. Third, this project is unique by proposing to jointly investigate retinal and V1 levels within a single experimental and theoretical framework. Lastly, it is mature being grounded on (i) preliminary data paving the way of the three different aims and (ii) a history of strong interactions between the different groups that have decided to join their efforts.
 
+
+## The Marseille team
+
+*    Frédéric Chavane (DR, CNRS, NEOPTO team) is working in the field of vision research for about 20 years with a special interest in the role of lateral interactions in the integration of sensory input in the primary visual cortex. His recent work suggest that lateral interactions mediated by horizontal intracortical connectivity participates actively in the input normalization that controls a wide range of function, from the contrast-response gain to the representation of illusory or real motion. His expertise range from microscopic (intracellular recordings) to mesoscopic (optical imaging, multi-electrode array) recording scales in the primary visual cortex of anesthetized and awake behaving animals.
+
+*    Laurent Perrinet (CR, CNRS, NEOPTO team). His scientific interests focus on bridging computational understanding of neural dynamics and low-level sensory processing by focusing on motion perception. He is the author of papers in machine learning, computational neuroscience and behavioral psychology. One key concept is the use of statistical regularities from natural scenes as a main drive to integrate local neural information into a global understanding of the scene. In a recent paper that he coauthored (in Nature Neuroscience), he developed a method to use synthesized stimuli targeted to analyze physiological data in a system-identification approach.
+
+*    Ivo Vanzetta (CR, CNRS, NEOPTO team). His scientific interests focus on how to optimally use photonics-based imaging methods to investigate visual information processing in low-level visual areas, in the anesthetized and awake animal (rodent & primate). As can be seen from his bibliographic record, these methods include optical imaging of intrinsic signals and voltage sensitive dyes and, recently, 2 photon microscopy. Finally I. Vanzetta has an ongoing collaboration with L. Perrinet on the utilization of well-controlled, synthesized nature-like visual stimuli to probe the response characteristics of the primate's visual system (Sanz-Leon & al. 2012).
 
 
 Acknowledgement

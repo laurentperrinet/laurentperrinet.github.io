@@ -1,32 +1,21 @@
 
 +++
 # Project title.
-title = "FACETS-ITN (2010--2013)"
+title = "FACETS-ITN (2010/2013)"
 
 # Date this page was created.
 date = 2015-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "FACETS-ITN: From Neuroscience to neuro-inspired computing (2010--2013)."
+summary = "FACETS-ITN: From Neuroscience to neuro-inspired computing (2010/2013)."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant"]
-
-# Optional external URL for project (replaces project detail page).
-external_link = "http://facets.kip.uni-heidelberg.de/ITN/index.html"
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references
-#   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides = "example-slides"
+categories = ["grant"]
 
 +++
 
-FACETS-ITN: From Neuroscience to neuro-inspired computing (2010--2013)
+FACETS-ITN: From Neuroscience to neuro-inspired computing (2010/2013)
 ======================================================================
 
 <a href="http://facets.kip.uni-heidelberg.de/ITN/index.html" class="http"><img src="http://facets.kip.uni-heidelberg.de/images/e/e3/Public--ITN_PositionsPoster2.png" title="http://facets.kip.uni-heidelberg.de/ITN/index.html" alt="http://facets.kip.uni-heidelberg.de/ITN/index.html" class="external_image" style="width:25.0%" /></a>
