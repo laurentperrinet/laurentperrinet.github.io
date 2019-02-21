@@ -1,19 +1,29 @@
-+++
-title = "Biologically Inspired Computer Vision"
-date = 2015-11-01
-authors = ["Gabriel Cristóbal", "Laurent U Perrinet", "Matthias S. Keil"]
-publication_types = ["5"]
++++title = "Biologically Inspired Computer Vision"
+date = "2015-11"
+authors = [ "Gabriel Cristóbal", "Laurent Perrinet", "Matthias S. Keil",]
+publication_types = [ "5",]
 abstract = ""
-publication = ""
+publication = "\"\""
 url_pdf = "http://onlinelibrary.wiley.com/book/10.1002/9783527680863"
 doi = "10.1002/9783527680863"
 url_preprint = "http://bicv.github.io/"
-url_custom = [{name = "Table of contents", url = "http://bicv.github.io/toc/"}, {name = "communiqué de presse", url = "http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html"}, {name = "supplementary information", url = "http://www.nature.com/article-assets/npg/srep/2015/150622/srep11400/extref/srep11400-s1.pdf"}, {name = "supplementary material", url = "https://invibe.net/LaurentPerrinet/Publications/PerrinetBednar15?action=AttachFile&do=get&target=PerrinetBednar15supplementary.pdf"}]
-
-
-
-# Is this a featured publication? (true/false)
 featured = true
+[[url_custom]]
+name = "Table of contents"
+url = "http://bicv.github.io/toc/"
+
+[[url_custom]]
+name = "communiqué de presse"
+url = "http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html"
+
+[[url_custom]]
+name = "supplementary information"
+url = "http://www.nature.com/article-assets/npg/srep/2015/150622/srep11400/extref/srep11400-s1.pdf"
+
+[[url_custom]]
+name = "supplementary material"
+url = "https://invibe.net/LaurentPerrinet/Publications/PerrinetBednar15?action=AttachFile&do=get&target=PerrinetBednar15supplementary.pdf"
+
 +++
 
 # Biologically Inspired Computer Vision
@@ -33,3 +43,6 @@ This book contains 17 chapters that have been organized in four different parts:
 See the [Table of contents](http://bicv.github.io/toc/).
 
 {{< figure src="mindmap.png" >}}
+
+
+

@@ -18,11 +18,12 @@ with open(bibtex, 'r', encoding='utf-8') as bibtex_file:
         #parse_bibtex_entry(entry, pub_dir=pub_dir, featured=featured, overwrite=overwrite, normalize=normalize)
         keys.append(entry['ID'])
 
-writer = BibTexWriter()
-writer.indent = '    '     # indent entries with 4 spaces instead of one
-writer.order_entries_by = ('ID')
-with open(bibtex, 'w') as bibfile:
-    bibfile.write(writer.write(bib_database))
+if False:
+    writer = BibTexWriter()
+    writer.indent = '    '     # indent entries with 4 spaces instead of one
+    writer.order_entries_by = ('ID')
+    with open(bibtex, 'w') as bibfile:
+        bibfile.write(writer.write(bib_database))
 
 # 2- making a dictionary to slugify
 from academic import slugify
@@ -189,13 +190,11 @@ if True:
 
 
             metadata[1] = toml.dumps(parsed_toml)
-            if new_key == 'fleuriet-11':
-                print(parsed_toml)
-                print(authors)
-                # Save Markdown file.
-                try:
-                    print(f"Saving Markdown to '{file_path}'")
-                    with open(file_path, 'w', encoding='utf-8') as f:
-                        f.write('+++'.join(metadata))
-                except IOError:
-                    print('ERROR: could not save file.')
+
+            # Save Markdown file.
+            try:
+                print(f"Saving Markdown to '{file_path}'")
+                with open(file_path, 'w', encoding='utf-8') as f:
+                    f.write('+++'.join(metadata))
+            except IOError:
+                print('ERROR: could not save file.')

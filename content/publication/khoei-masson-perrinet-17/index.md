@@ -1,26 +1,20 @@
-+++
-title = "The flash-lag effect as a motion-based predictive shift"
-date = 2017-01-26
-authors = ["Mina A. Khoei", "Guillaume S. Masson", "Laurent U Perrinet"]
-publication_types = ["2"]
-abstract = "Due to its inherent neural delays, the visual system has an outdated access to sensory information about the current position of moving objects. In contrast, living organisms are remarkably able to track and intercept moving objects under a large range of challenging environmental conditions. Physiological, behavioral and psychophysical evidences strongly suggest that position coding is extrapolated using an explicit and reliable representation of object’s motion but it is still unclear how these two representations interact. For instance, the so-called flash-lag effect supports the idea of a differential processing of position between moving and static objects. Although elucidating such mechanisms is crucial in our understanding of the dynamics of visual processing, a theory is still missing to explain the different facets of this visual illusion. Here, we reconsider several of the key aspects of the flash-lag effect in order to explore the role of motion upon neural coding of objects’ position. First, we formalize the problem using a Bayesian modeling framework which includes a graded representation of the degree of belief about visual motion. We introduce a motion-based prediction model as a candidate explanation for the perception of coherent motion. By including the knowledge of a fixed delay, we can model the dynamics of sensory information integration by extrapolating the information acquired at previous instants in time. Next, we simulate the optimal estimation of object position with and without delay compensation and compared it with human perception under a broad range of different psychophysical conditions. Our computational study suggests that the explicit, probabilistic representation of velocity information is crucial in explaining position coding, and therefore the flash-lag effect. We discuss these theoretical results in light of the putative corrective mechanisms that can be used to cancel out the detrimental effects of neural delays and illuminate the more general question of the dynamical representation at the present time of spatial information in the visual pathways."
++++title = "The flash-lag effect as a motion-based predictive shift"
+date = "2017"
+authors = [ "Mina A. Khoei", "Guillaume S. Masson", "Laurent U. Perrinet",]
+publication_types = [ "2",]
+abstract = "Due to its inherent neural delays, the visual system has an outdated access to sensory information about the current position of moving objects. In contrast, living organisms are remarkably able to track and intercept moving objects under a large range of challenging environmental conditions. Physiological, behavioral and psychophysical evidences strongly suggest that position coding is extrapolated using an explicit and reliable representation of object's motion but it is still unclear how these two representations interact. For instance, the so-called flash-lag effect supports the idea of a differential processing of position between moving and static objects. Although elucidating such mechanisms is crucial in our understanding of the dynamics of visual processing, a theory is still missing to explain the different facets of this visual illusion. Here, we reconsider several of the key aspects of the flash-lag effect in order to explore the role of motion upon neural coding of objects' position. First, we formalize the problem using a Bayesian modeling framework which includes a graded representation of the degree of belief about visual motion. We introduce a motion-based prediction model as a candidate explanation for the perception of coherent motion. By including the knowledge of a fixed delay, we can model the dynamics of sensory information integration by extrapolating the information acquired at previous instants in time. Next, we simulate the optimal estimation of object position with and without delay compensation and compared it with human perception under a broad range of different psychophysical conditions. Our computational study suggests that the explicit, probabilistic representation of velocity information is crucial in explaining position coding, and therefore the flash-lag effect. We discuss these theoretical results in light of the putative corrective mechanisms that can be used to cancel out the detrimental effects of neural delays and illuminate the more general question of the dynamical representation of spatial information at the present time in the visual pathways."
 publication = "*PLoS Computational Biology*"
 url_pdf = "http://dx.doi.org/10.1371/journal.pcbi.1005068"
 doi = "10.1371/journal.pcbi.1005068"
 url_code = "https://github.com/laurentperrinet/Khoei_2017_PLoSCB"
-url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-01771125"
-url_custom = [{name = "Press release", url = "http://www.cnrs.fr/insb/recherche/parutions/articles2017/l-perrinet.html"}]
-
-# Is this a featured publication? (true/false)
+url_preprint = "http://dx.doi.org/10.1371/journal.pcbi.1005068"
 featured = true
+[[url_custom]]
+name = "Press release"
+url = "http://www.cnrs.fr/insb/recherche/parutions/articles2017/l-perrinet.html"
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
-    # Focal point (optional)
-    # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-    focal_point = ""
-
+focal_point = ""
 +++
 
 
@@ -41,3 +35,6 @@ The researchers show that this hypothesis also makes it possible to explain the 
 Despite the simplicity of this solution, parodiction has elements that may seem counter-intuitive. Indeed, in this model, the physical world is considered "hidden", that is to say, it can only be guessed by our sensations and our experience. The role of visual perception is then to deliver to our central nervous system the most likely information despite the different sources of noise, ambiguity and time delays. According to the authors of this publication, the visual treatment would consist in a "simulation" of the visual world projected at the present time, even before the visual information can actually modulate, confirm or cancel this simulation. This hypothesis, which seems to belong to "science fiction", is being tested with more detailed and biologically plausible hierarchical neural network models that should allow us to better understand the mysteries underlying our perception. Visual illusions have still the power to amaze us!
 
 {{< tweet 829474896023474176 >}}
+
+
+
