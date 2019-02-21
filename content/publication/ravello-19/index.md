@@ -15,14 +15,6 @@ url_custom = [{name = "Press release", url = "http://www4.cnrs-dir.fr/insb/reche
 
 # Is this a featured publication? (true/false)
 featured = true
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-[image]
-    # Focal point (optional)
-    # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-    focal_point = ""
-
 +++
 
 # Dès la rétine, le système visuel préfère des images naturelles
