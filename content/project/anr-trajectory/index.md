@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "ANR TRAJECTORY (2016--2019)
+title = "ANR TRAJECTORY (2016--2019)"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
