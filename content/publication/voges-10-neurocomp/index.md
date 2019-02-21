@@ -4,9 +4,10 @@ authors = [ "Nicole Voges", "Laurent U Perrinet",]
 publication_types = [ "2",]
 abstract = "We study cortical network dynamics for a more realistic network model. It represents, in terms of spatial scale, a large piece of cortex allowing for long-range connections, resulting in a rather sparse connectivity. We use two different types of conductance-based I&F neurons as excitatory and in- hibitory units, as well as specific connection probabilities. In order to re- main computationally tractable, we reduce neuron density, modelling part of the missing internal input via external poissonian spike trains. Compared to previous studies, we observe significant changes in the dynamical phase space: Altered activity patterns require another regularity measure than the coefficient of variation. We identify two types of mixed states, where differ- ent phases coexist in certain regions of the phase space. More notably, our boundary between high and low activity states depends predominantly on the relation between excitatory and inhibitory synaptic strength instead of the input rate. Key words:Artificial neural networks, Data analysis, Simulation, Spiking neurons. This work is supported by EC IP project FP6-015879 (FACETS)."
 featured = false
-publication = "*Journal of Physiology (Paris)*"
+publication = "*Journal of Physiology-Paris*"
 tags = [ "lateral-connections",]
 +++
+
 
 
 

@@ -8,7 +8,9 @@ publication = "*VSS Conference Abstract*"
 tags = [ "motion-clouds", "sanz-12",]
 projects = [ "motion-clouds",]
 url_pdf = "https://laurentperrinet.github.io/publication/meso-13-vss"
+doi = "10.1167/13.9.354"
 +++
+
 
 
 
