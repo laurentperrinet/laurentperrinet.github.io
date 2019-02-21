@@ -3,11 +3,10 @@ title = "Speed-Selectivity in Retinal Ganglion Cells is Sharpened by Broad Spati
 date = 2019-01-01
 authors = ["César R. Ravello", "Laurent U Perrinet", "María-José Escobar", "Adrián G. Palacios"]
 publication_types = ["2"]
-abstract = ""
+abstract = "Motion detection represents one of the critical tasks of the visual system and has motivated a large body of research. However, it remains unclear precisely why the response of retinal ganglion cells (RGCs) to simple artificial stimuli does not predict their response to complex, naturalistic stimuli. To explore this topic, we use Motion Clouds (MC), which are synthetic textures that preserve properties of natural images and are merely parameterized, in particular by modulating the spatiotemporal spectrum complexity of the stimulus by adjusting the frequency bandwidths. By stimulating the retina of the diurnal rodent, Octodon degus with MC we show that the RGCs respond to increasingly complex stimuli by narrowing their adjustment curves in response to movement. At the level of the population, complex stimuli produce a sparser code while preserving movement information; therefore, the stimuli are encoded more efficiently. Interestingly, these properties were observed throughout different populations of RGCs. Thus, our results reveal that the response at the level of RGCs is modulated by the naturalness of the stimulus - in particular for motion - which suggests that the tuning to the statistics of natural images already emerges at the level of the retina."
 publication = "*Scientific Reports*"
 tags = ["motion-clouds", "sanz-12"]
 projects = ["motion-clouds"]
-
 url_pdf = "https://doi.org/10.1038%2Fs41598-018-36861-8"
 doi = "10.1038/s41598-018-36861-8"
 url_preprint = "https://www.biorxiv.org/content/10.1101/350330v1"

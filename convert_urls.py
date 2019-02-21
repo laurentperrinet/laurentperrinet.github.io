@@ -3,7 +3,7 @@
 # 1- getting all citekeys
 import bibtexparser
 from bibtexparser.bparser import BibTexParser
-from bibtexparser.bwriter import BibTexWriter
+# from bibtexparser.bwriter import BibTexWriter
 from bibtexparser.bibdatabase import BibDatabase
 from bibtexparser.customization import convert_to_unicode
 
