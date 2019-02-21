@@ -4,7 +4,7 @@
 import bibtexparser
 from bibtexparser.bparser import BibTexParser
 from bibtexparser.bwriter import BibTexWriter
-#from bibtexparser.bibdatabase import BibDatabase
+from bibtexparser.bibdatabase import BibDatabase
 from bibtexparser.customization import convert_to_unicode
 
 bibtex = '../perrinet_curriculum-vitae_tex/LaurentPerrinet.bib'
@@ -31,100 +31,150 @@ dico = {}
 for key in keys:
     dico[slugify(key)] = key
 
-# 3- updating bibtex with the metadata
 import os
 import glob
 import toml
 
-for file_path in glob.glob('content/publication/**/index.md'):
-    new_key = file_path.split('content/publication/')[-1].split('/index.md')[0]
-    if not new_key in ['___template___',  'person-re-id', '_index.md']:
-        with open(file_path, 'r', encoding='utf-8') as source_file:
-            page = source_file.read() + '\n'
-        metadata = page.split('+++')
-        parsed_toml = toml.loads(metadata[1])
-        #print(parsed_toml)
+if False:
+    # 3- updating bibtex with the metadata
+    for file_path in glob.glob('content/publication/**/index.md'):
+        new_key = file_path.split('content/publication/')[-1].split('/index.md')[0]
+        if not new_key in ['___template___',  'person-re-id', '_index.md']:
+            with open(file_path, 'r', encoding='utf-8') as source_file:
+                page = source_file.read() + '\n'
+            metadata = page.split('+++')
+            parsed_toml = toml.loads(metadata[1])
+            #print(parsed_toml)
 
-        #for new_key in dico.keys():
-        old_key = dico[new_key]
-        print('input', old_key, ' -> output', new_key)
-        #bib_database.get_entry_dict()[old_key]
-        translate = {'abstract':'abstract', 'tags':'keywords', 'projects':'projects',
-                    'url_pdf':'url', 'url_preprint':'preprint', 'doi':'doi'}
-        for key in ['projects', 'tags']:
-            if key in parsed_toml.keys():
-                tags = parsed_toml[key] #bib_database.entries_dict[old_key][translate['tags']]
-                #print(tags)
-                if not type(tags) == str:
-                    parsed_toml[key] = ','.join(tags)
-                #print(parsed_toml['tags'])
+            #for new_key in dico.keys():
+            old_key = dico[new_key]
+            print('input', old_key, ' -> output', new_key)
+            #bib_database.get_entry_dict()[old_key]
+            translate = {'abstract':'abstract', 'tags':'keywords', 'projects':'projects',
+                        'url_pdf':'url', 'url_preprint':'preprint', 'doi':'doi'}
+            for key in ['projects', 'tags']:
+                if key in parsed_toml.keys():
+                    tags = parsed_toml[key] #bib_database.entries_dict[old_key][translate['tags']]
+                    #print(tags)
+                    if not type(tags) == str:
+                        parsed_toml[key] = ','.join(tags)
+                    #print(parsed_toml['tags'])
 
-        for key in translate.keys():
-            if key in parsed_toml.keys():
-                if key == 'abstract':
-                    if parsed_toml[key] == "": break
-                #print(parsed_toml[key])
+            for key in translate.keys():
+                if key in parsed_toml.keys():
+                    if key == 'abstract':
+                        if parsed_toml[key] == "": break
+                    #print(parsed_toml[key])
 
-                bib_database.entries_dict[old_key][translate[key]] = parsed_toml[key]
+                    bib_database.entries_dict[old_key][translate[key]] = parsed_toml[key]
 
-writer = BibTexWriter()
-writer.indent = '    '     # indent entries with 4 spaces instead of one
-writer.order_entries_by = ('ID')
-with open('bibtex.bib', 'w') as bibfile:
-    bibfile.write(writer.write(bib_database))
+    writer = BibTexWriter()
+    writer.indent = '    '     # indent entries with 4 spaces instead of one
+    writer.order_entries_by = ('ID')
+    with open('bibtex.bib', 'w') as bibfile:
+        bibfile.write(writer.write(bib_database))
 
 
 # 4- updating metadata with bibtex
-if False:
-    # Prepare TOML front matter for Markdown file.
-    frontmatter = ['+++']
-    frontmatter.append(f'title = "{clean_bibtex_str(entry["title"])}"')
-    if 'month' in entry:
-        frontmatter.append(f"date = {entry['year']}-{month2number(entry['month'])}-01")
-    else:
-        frontmatter.append(f"date = {entry['year']}-01-01")
+normalize = True
+pub_dir = 'publication'
+if True:
+    for file_path in glob.glob(f"content/{pub_dir}/**/index.md"):
+        new_key = file_path.split('content/publication/')[-1].split('/index.md')[0]
+        if not new_key in ['___template___',  'person-re-id']:
 
-    authors = None
-    if 'author' in entry:
-        authors = entry['author']
-    elif 'editor' in entry:
-        authors = entry['editor']
-    if authors:
-        authors = clean_bibtex_authors([i.strip() for i in authors.replace('\n', ' ').split(' and ')])
-        frontmatter.append(f"authors = [{', '.join(authors)}]")
 
-    frontmatter.append(f'publication_types = ["{PUB_TYPES.get(entry["ENTRYTYPE"], 0)}"]')
+            with open(file_path, 'r', encoding='utf-8') as source_file:
+                page = source_file.read() + '\n'
+            metadata = page.split('+++')
+            parsed_toml = toml.loads(metadata[1])
 
-    if 'abstract' in entry:
-        frontmatter.append(f'abstract = "{clean_bibtex_str(entry["abstract"])}"')
-    else:
-        frontmatter.append('abstract = ""')
-
-    frontmatter.append(f'featured = {str(featured).lower()}')
-
-    # Publication name.
-    if 'booktitle' in entry:
-        frontmatter.append(f'publication = "*{clean_bibtex_str(entry["booktitle"])}*"')
-    elif 'journal' in entry:
-        frontmatter.append(f'publication = "*{clean_bibtex_str(entry["journal"])}*"')
-    else:
-        frontmatter.append('publication = ""')
-
-    if 'keywords' in entry:
-        frontmatter.append(f'tags = [{clean_bibtex_tags(entry["keywords"], normalize)}]')
-
-    if 'url' in entry:
-        frontmatter.append(f'url_pdf = "{clean_bibtex_str(entry["url"])}"')
-
-    if 'doi' in entry:
-        frontmatter.append(f'doi = "{entry["doi"]}"')
-
-    frontmatter.append('+++\n\n')
+            old_key = dico[new_key]
+            entry = bib_database.entries_dict[old_key]
+            #bib_database.get_entry_dict()[old_key]
+            bundle_path = f"content/{pub_dir}/{slugify(entry['ID'])}"
+            cite_path = os.path.join(bundle_path, f"{slugify(entry['ID'])}.bib")
+            # Save citation file.
+            print(f'Saving citation to {cite_path}')
+            db = BibDatabase()
+            db.entries = [entry]
+            writer = BibTexWriter()
+            with open(cite_path, 'w', encoding='utf-8') as f:
+                f.write(writer.write(db))
+            #
+            #
+            # print('input', old_key, ' -> output', new_key)
+            # translate = {'abstract':'abstract', 'tags':'keywords', 'projects':'projects',
+            #             'url_pdf':'url', 'url_preprint':'preprint', 'doi':'doi'}
+            #
+            # # Prepare TOML front matter for Markdown file.
+            # parsed_toml['title'] = clean_bibtex_str(entry["title"])
+            # if 'date' in entry:
+            #     parsed_toml['date'] = clean_bibtex_str(entry["date"])
+            # else:
+            #     if 'month' in entry:
+            #         parsed_toml['date'] = f"date = {entry['year']}-{month2number(entry['month'])}-01"
+            #     else:
+            #         parsed_toml['date'] = f"date = {entry['year']}-{month2number(entry['month'])}-01-01"
+            #
+            # authors = None
+            # if 'author' in entry:
+            #     authors = entry['author']
+            # elif 'editor' in entry:
+            #     authors = entry['editor']
+            # if authors:
+            #     authors = clean_bibtex_authors([i.strip() for i in authors.replace('\n', ' ').split(' and ')])
+            #     parsed_toml['authors'] = f"[{', '.join(authors)}]"
+            #
+            # #frontmatter.append(f'publication_types = ["{PUB_TYPES.get(entry["ENTRYTYPE"], 0)}"]')
+            #
+            # if 'abstract' in entry:
+            #     parsed_toml['abstract'] = clean_bibtex_str(entry["abstract"])
+            # else:
+            #     parsed_toml['abstract'] = ""
+            #
+            # #frontmatter.append(f'featured = {str(featured).lower()}')
+            #
+            # # Publication name.
+            # if 'booktitle' in entry:
+            #     frontmatter.append(f'publication = "*{clean_bibtex_str(entry["booktitle"])}*"')
+            # elif 'journal' in entry:
+            #     frontmatter.append(f'publication = "*{clean_bibtex_str(entry["journal"])}*"')
+            # else:
+            #     frontmatter.append('publication = ""')
+            #
+            # if 'keywords' in entry:
+            #     frontmatter.append(f'tags = [{clean_bibtex_tags(entry["keywords"], normalize)}]')
+            #
+            # if 'url' in entry:
+            #     frontmatter.append(f'url_pdf = "{clean_bibtex_str(entry["url"])}"')
+            #
+            # if 'doi' in entry:
+            #     frontmatter.append(f'doi = "{entry["doi"]}"')
+            #
+            #
+            # for key in ['projects', 'tags']:
+            #     if key in parsed_toml.keys():
+            #         tags = parsed_toml[key] #bib_database.entries_dict[old_key][translate['tags']]
+            #         #print(tags)
+            #         if not type(tags) == str:
+            #             parsed_toml[key] = ','.join(tags)
+            #         #print(parsed_toml['tags'])
+            #
+            # for key in translate.keys():
+            #     if key in parsed_toml.keys():
+            #         if key == 'abstract':
+            #             if parsed_toml[key] == "": break
+            #         #print(parsed_toml[key])
+            #
+            #         bib_database.entries_dict[old_key][translate[key]] = parsed_toml[key]
+            #
+            # metadata[1] = toml.dumps(parsed_toml)
 
     # Save Markdown file.
     try:
-        print(f"Saving Markdown to '{markdown_path}'")
-        with open(markdown_path, 'w', encoding='utf-8') as f:
-            f.write("\n".join(frontmatter))
+        print(f"Saving Markdown to '{file_path}'")
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.write('+++'.join(metadata))
     except IOError:
         print('ERROR: could not save file.')
