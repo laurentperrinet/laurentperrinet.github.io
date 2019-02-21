@@ -5,8 +5,9 @@ publication_types = [ "1",]
 abstract = ""
 featured = false
 publication = "*Proceedings of ESANN*"
-tags = [ "area-v1", "receptive_field", "sparse_coding",]
+tags = [ "area-v1", "receptive_field", "sparse coding",]
 +++
+
 
 
 

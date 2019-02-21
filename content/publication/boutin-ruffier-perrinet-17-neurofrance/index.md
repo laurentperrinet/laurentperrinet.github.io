@@ -6,12 +6,14 @@ abstract = "One core advantage of sparse representations is the efficient coding
 featured = false
 publication = "*NeuroFrance 2017, International Conference from the Société des Neurosciences, Bordeaux, France*"
 code = "https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars"
+tags = [ "sparse coding",]
 +++
 
 
 * This work is a followup of [Perrinet, 2010, Neural Computation]({{< ref "/publication/perrinet-10-shl" >}})
 * the [poster (PDF)](https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars/raw/master/docs/BoutinRuffierPerrinet17neurofrance.pdf) will be presented Thursday, May 18 @ [NeuroFrance, Bordeaux](http://www.professionalabstracts.com/sn2017/programme-sn2017.pdf).
 * see a follow-up publication on [BoutinRuffierPerrinet17spars]({{< ref "/publication/boutin-ruffier-perrinet-17-spars" >}})
+
 
 
 
