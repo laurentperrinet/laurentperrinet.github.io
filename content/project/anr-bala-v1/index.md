@@ -1,0 +1,29 @@
++++
+# Project title.
+title = "ANR  (2013--2016)"
+
+# Date this page was created.
+date = 2016-04-27T00:00:00
+
+# Project summary to display on homepage.
+summary = "."
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["grant"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = "http://neuro-marseille.org/en/phd-program-en/"
+
+
++++
+
+# ANR BalaV1: Balanced states in area V1 (2013--2016)
+
+In carnivores and primates the orientation selectivity (OS) of the cells in the primary visual cortex (V1) is organized in maps in which preferred orientations (POs) of the cells change gradually except near “pin- wheels”, around which all orientations are present. Over the last half-century the mechanism for OS has been hotly debated. However the theories that purport to explain OS have almost all considered cortical networks in which the neurons receive input preferentially from cells with similar PO. Such theories certainly capture the connectivity for neurons in orientation domains where neurons are surrounded by other cells with similar PO. However this does not necessarily hold near pinwheels: because of the discontinuous change in orientation preference at the pinwheel, neurons in this area are surrounded by cells of all preferred orientations. Thus if the probability of connection is solely dependent on anatomical distance, the inputs that these neurons receive should represent all orientations by roughly the same amount. Thus one may expect that the response of the cells near pinwheels should hardly vary with orientation, in contrast to experimental data. As a result, the common belief is that, at least near pinwheels, the connectivity depends also on the differences between preferred orientation. The situation near pinwheels in V1 of carnivores and primates is similar to that in the whole of V1 of rodents. In these species, neurons in V1 are OS but the network does not exhibit an orientation map and the surround of the cells represents all orientations roughly equally. In a recent theoretical paper (Hansel and van Vreeswijk 2012) we have demonstrated that in this situation, the response of the cells can still be orientation selective provided that the network operates in the balanced regime. Here we hypothesize that V1 with an orientation map operates in the balanced regime and therefore neurons can exhibit OS near pinwheels even in the absence of functional specific connectivity. The goal of this interdisciplinary project is to investigate whether the “balance hypothesis” holds for layer 2/3 in V1 of primate and carnivore and whether the functional organization observed in that layer can be accounted for without feature specific connectivity. We will combine modeling and experiments to investigate how the response of the neurons – the mean firing, the mean voltage, the inhibitory and excitatory conductances and importantly, the power spectrum of their fluctuations – vary with the location in the map, and also how a population of neurons – LFP, voltage-sensitive dye imaging or 2 photons – is affected by the various para- meters used to test the system. Whether V1 indeed operates in the balanced regime in more realistic conditions will be further investigated by determining how the local network responds to visual stimuli beyond the classical receptive field. We will investigate this issue in models of layer 2/3 representing multiple hyper- columns to characterize center-surround interactions and their dependence on the long-range connectivity. This will provide us with predictions for center-surround interactions for cells near pinwheels and in orientation domains. These predictions will be tested experimentally.
+
+The proposed project is new and ambitious. It aims at building a comprehensive and coherent understand- ing of the physiology of V1 layer 2/3 on several spatial scales from single cells to several hypercolumns and to account for this in mechanistic models. To accomplish these ambitious aims, we propose a combination of experimental and computational studies that take advantage of the unique strengths and the complementarity of expertise of 3 research teams. The Paris team has extensive experience in large-scale modeling of V1. The Toulouse and Marseille teams master both intra- and extracellular electrophysiology. In addition, the Marseille team is expert in microscopic and mesoscopic imaging techniques in V1.
+
+Acknowledgement
+
+    This work was supported by ANR project "BalaV1" N° ANR-13-BSV4-0014-02.  

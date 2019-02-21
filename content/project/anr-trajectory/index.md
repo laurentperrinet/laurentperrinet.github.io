@@ -1,9 +1,9 @@
 +++
 # Project title.
-title = "ANR TRAJECTORY (2016--2019)"
+title = "ANR TRAJECTORY (2016--2019)
 
 # Date this page was created.
-date = 2015-04-27T00:00:00
+date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
 summary = "ANR TRAJECTORY (2016--2019)."
@@ -13,10 +13,12 @@ summary = "ANR TRAJECTORY (2016--2019)."
 tags = ["grant"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://brainscales.kip.uni-heidelberg.de/"
+external_link = "http://neuro-marseille.org/en/phd-program-en/"
 
 
 +++
+
+
 
 Global motion processing is a major computational task of biological visual systems. When an object moves across the visual field, the sequence of visited positions is strongly correlated in space and time, forming a trajectory. These correlated images generate a sequence of local activation of the feed-forward stream. Local properties such as position, direction and orientation can be extracted at each time step by a feed-forward cascade of linear filters and static non-linearities. However such local, piecewise, analysis ignores the recent history of motion and faces several difficulties, such as systematic delays, ambiguous information processing (e.g., aperture and correspondence problems61) high sensitivity to noise and segmentation problems when several objects are present. Indeed, two main aspects of visual processing have been largely ignored by the dominant, classical feed-forward scheme. First, natural inputs are often ambiguous, dynamic and non-stationary as, e.g., objects moving along complex trajectories. To process them, the visual system must segment them from the scene, estimate their position and direction over time and predict their future location and velocity. Second, each of these processing steps, from the retina to the highest cortical areas, is implemented by an intricate interplay of feed-forward, feedback and horizontal interactions1. Thus, at each stage, a moving object will not only be processed locally, but also generate a lateral propagation of information. Despite decades of motion processing research, it is still unclear how the early visual system processes motion trajectories. We, among others, have proposed that anisotropic diffusion of motion information in retinotopic maps can contribute resolving many of these difficulties25 13. Under this perspective, motion integration, anticipation and prediction would be jointly achieved through the interactions between feed-forward, lateral and feedback propagations within a common spatial reference frame, the retinotopic maps.
 
@@ -24,13 +26,8 @@ Addressing this question is particularly challenging, as it requires to probe th
 
 The project is timely because partners master new tools such as multi-electrode arrays and voltage-sensitive dye imaging for investigating the dynamics of neuronal populations covering a large segment of the motion trajectory, both in retina and V1. Second, it is strategic: motion trajectories are a fundamental aspect of visual processing that is also a technological obstacle in computer vision and neuroprostheses design. Third, this project is unique by proposing to jointly investigate retinal and V1 levels within a single experimental and theoretical framework. Lastly, it is mature being grounded on (i) preliminary data paving the way of the three different aims and (ii) a history of strong interactions between the different groups that have decided to join their efforts.
 
-## The Marseille team
 
-*    Frédéric Chavane (DR, CNRS, NEOPTO team) is working in the field of vision research for about 20 years with a special interest in the role of lateral interactions in the integration of sensory input in the primary visual cortex. His recent work suggest that lateral interactions mediated by horizontal intracortical connectivity participates actively in the input normalization that controls a wide range of function, from the contrast-response gain to the representation of illusory or real motion. His expertise range from microscopic (intracellular recordings) to mesoscopic (optical imaging, multi-electrode array) recording scales in the primary visual cortex of anesthetized and awake behaving animals.
 
-*    Laurent Perrinet (CR, CNRS, NEOPTO team). His scientific interests focus on bridging computational understanding of neural dynamics and low-level sensory processing by focusing on motion perception. He is the author of papers in machine learning, computational neuroscience and behavioral psychology. One key concept is the use of statistical regularities from natural scenes as a main drive to integrate local neural information into a global understanding of the scene. In a recent paper that he coauthored (in Nature Neuroscience), he developed a method to use synthesized stimuli targeted to analyze physiological data in a system-identification approach.
-
-*    Ivo Vanzetta (CR, CNRS, NEOPTO team). His scientific interests focus on how to optimally use photonics-based imaging methods to investigate visual information processing in low-level visual areas, in the anesthetized and awake animal (rodent & primate). As can be seen from his bibliographic record, these methods include optical imaging of intrinsic signals and voltage sensitive dyes and, recently, 2 photon microscopy. Finally I. Vanzetta has an ongoing collaboration with L. Perrinet on the utilization of well-controlled, synthesized nature-like visual stimuli to probe the response characteristics of the primate's visual system (Sanz-Leon & al. 2012).
-
+Acknowledgement
 
 This work was supported by ANR project "TRAJECTORY" N° ANR-15-CE37-0011.
