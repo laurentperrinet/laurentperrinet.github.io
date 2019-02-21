@@ -37,6 +37,7 @@ import glob
 import toml
 
 if False:
+    from academic import clean_bibtex_str
     # 3- updating bibtex with the metadata
     for file_path in glob.glob('content/publication/**/index.md'):
         new_key = file_path.split('content/publication/')[-1].split('/index.md')[0]
@@ -53,6 +54,12 @@ if False:
             #bib_database.get_entry_dict()[old_key]
             translate = {'abstract':'abstract', 'tags':'keywords', 'projects':'projects',
                         'url_pdf':'url', 'url_preprint':'preprint', 'doi':'doi'}
+
+            if 'date' in parsed_toml.keys():
+                # parsed_toml['date'] = clean_bibtex_str(entry["date"])
+                bib_database.entries_dict[old_key]['year'] = parsed_toml['date'][:4]
+
+
             for key in ['projects', 'tags']:
                 if key in parsed_toml.keys():
                     tags = parsed_toml[key] #bib_database.entries_dict[old_key][translate['tags']]
@@ -72,7 +79,7 @@ if False:
     writer = BibTexWriter()
     writer.indent = '    '     # indent entries with 4 spaces instead of one
     writer.order_entries_by = ('ID')
-    with open('bibtex.bib', 'w') as bibfile:
+    with open(bibtex, 'w') as bibfile:
         bibfile.write(writer.write(bib_database))
 
 
