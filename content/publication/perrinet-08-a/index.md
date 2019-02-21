@@ -5,8 +5,9 @@ publication_types = [ "1",]
 abstract = ""
 featured = false
 publication = "*Proceedings of COSYNE, 2008*"
-tags = [ "bayesian", "center-surround", "eye", "following", "integration", "interactions", "model", "motion", "movements", "ocular", "perception", "response", "tracking", "visual",]
+tags = [ "bayesian", "center-surround interactions", "eye", "following", "integration", "interactions", "model", "motion", "movements", "ocular", "perception", "response", "tracking", "visual",]
 +++
+
 
 
 
