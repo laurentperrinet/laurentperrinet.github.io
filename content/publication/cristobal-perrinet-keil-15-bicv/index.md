@@ -1,6 +1,6 @@
 +++title = "Biologically Inspired Computer Vision"
 date = "2015-11"
-authors = [ "Gabriel Cristóbal", "Laurent Perrinet", "Matthias S. Keil",]
+authors = [ "Gabriel Cristóbal", "Laurent U Perrinet", "Matthias S. Keil",]
 publication_types = [ "5",]
 abstract = ""
 publication = ""
@@ -43,6 +43,7 @@ This book contains 17 chapters that have been organized in four different parts:
 See the [Table of contents](http://bicv.github.io/toc/).
 
 {{< figure src="mindmap.png" >}}
+
 
 
 
