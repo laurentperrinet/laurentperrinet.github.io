@@ -19,7 +19,7 @@ external_link = "https://doc2amu.univ-amu.fr/en"
 +++
 
 
-DOC2AMU is co-funded by the prestigious Marie Skłodowska-Curie COFUND action within the H2020 Research and Innovation programme of the European Union and by the Regional Council of Provence-Alpes-Côte d’Azur, with a contribution from A*MIDEX Foundation.
+[DOC2AMU](https://doc2amu.univ-amu.fr/en) is co-funded by the prestigious Marie Skłodowska-Curie COFUND action within the H2020 Research and Innovation programme of the European Union and by the Regional Council of Provence-Alpes-Côte d’Azur, with a contribution from A*MIDEX Foundation.
 
 Within this programme, the PhD fellows will sign a three-year work contract with one of the 12 Doctoral Schools of AMU. Numerous advantages
 
