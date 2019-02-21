@@ -3,7 +3,7 @@
 # 1- getting all citekeys
 import bibtexparser
 from bibtexparser.bparser import BibTexParser
-#from bibtexparser.bwriter import BibTexWriter
+from bibtexparser.bwriter import BibTexWriter
 #from bibtexparser.bibdatabase import BibDatabase
 from bibtexparser.customization import convert_to_unicode
 
@@ -18,6 +18,11 @@ with open(bibtex, 'r', encoding='utf-8') as bibtex_file:
         #parse_bibtex_entry(entry, pub_dir=pub_dir, featured=featured, overwrite=overwrite, normalize=normalize)
         keys.append(entry['ID'])
 
+writer = BibTexWriter()
+writer.indent = '    '     # indent entries with 4 spaces instead of one
+writer.order_entries_by = ('ID')
+with open(bibtex, 'w') as bibfile:
+    bibfile.write(writer.write(bib_database))
 
 # 2- making a dictionary to slugify
 from academic import slugify
@@ -30,7 +35,6 @@ for key in keys:
 import os
 import glob
 import toml
-from bibtexparser.bwriter import BibTexWriter
 
 for file_path in glob.glob('content/publication/**/index.md'):
     new_key = file_path.split('content/publication/')[-1].split('/index.md')[0]
@@ -45,14 +49,27 @@ for file_path in glob.glob('content/publication/**/index.md'):
         old_key = dico[new_key]
         print('input', old_key, ' -> output', new_key)
         #bib_database.get_entry_dict()[old_key]
-        translate = {'abstract':'abstract', 'tags':'tags', #'projects':'projects',
+        translate = {'abstract':'abstract', 'tags':'keywords', 'projects':'projects',
                     'url_pdf':'url', 'url_preprint':'preprint', 'doi':'doi'}
+        for key in ['projects', 'tags']:
+            if key in parsed_toml.keys():
+                tags = parsed_toml[key] #bib_database.entries_dict[old_key][translate['tags']]
+                #print(tags)
+                if not type(tags) == str:
+                    parsed_toml[key] = ','.join(tags)
+                #print(parsed_toml['tags'])
+
         for key in translate.keys():
             if key in parsed_toml.keys():
-                print(parsed_toml[key])
+                if key == 'abstract':
+                    if parsed_toml[key] == "": break
+                #print(parsed_toml[key])
+
                 bib_database.entries_dict[old_key][translate[key]] = parsed_toml[key]
 
 writer = BibTexWriter()
+writer.indent = '    '     # indent entries with 4 spaces instead of one
+writer.order_entries_by = ('ID')
 with open('bibtex.bib', 'w') as bibfile:
     bibfile.write(writer.write(bib_database))
 
