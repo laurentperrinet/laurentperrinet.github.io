@@ -40,10 +40,10 @@ See also:
 -   The [FACETS research project](http://facets.kip.uni-heidelberg.de) which
     ended on 31 August 2010.
 
--   The [FACETS-ITN Marie-Curie]({{< ref "/projects/facets-itn" >}}) initital
+-   The [FACETS-ITN Marie-Curie]({{< ref "/projects/facets-itn/index.md" >}}) initital
     training network for graduate training continues until August 2013
 
--   The [BrainScaleS project]({{< ref "/projects/brain-scales" >}}) builds on
+-   The [BrainScaleS project]({{< ref "/projects/brain-scales/index.md" >}}) builds on
     and extends the research done in FACETS. This 4 year project started
     on 1 January 2011 <span id="line-14" class="anchor"></span><span
     id="line-15" class="anchor"></span>
