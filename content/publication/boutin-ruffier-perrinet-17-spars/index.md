@@ -9,7 +9,6 @@ publication = "*SPARS2017, Lisbon*"
 code = "https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars"
 +++
 
-
- * This work is a followup of [Perrinet, 2010, Neural Computation]({{< ref "/content/publication/perrinet-10-shl" >}})
+ * This work is a followup of [Perrinet, 2010, Neural Computation]({{< ref "publication/perrinet-10-shl/index.md" >}})
  * code is available @ https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars and heavily uses https://github.com/bicv/SparseHebbianLearning
  ** the [poster (PDF)](https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars/raw/master/docs/BoutinRuffierPerrinet17spars.pdf)  will be presented Thursday, May 18 @ [[http://www.professionalabstracts.com/sn2017/programme-sn2017.pdf|NeuroFrance, Bordeaux]].
