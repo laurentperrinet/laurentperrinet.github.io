@@ -9,7 +9,7 @@ publication = "*NeuroFrance 2017, International Conference from the Société de
 +++
 
 
- * This work is a followup of [Perrinet, 2010, Neural Computation]({{< ref "../perrinet-10-shl" >}})
+ * This work is a followup of [Perrinet, 2010, Neural Computation]({{< ref "publication/perrinet-10-shl" >}})
  * code is available @ https://github.com/bicv/SparseHebbianLearning
  * the [poster (PDF)](https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars/raw/master/docs/BoutinRuffierPerrinet17neurofrance.pdf) will be presented Thursday, May 18 @ [[http://www.professionalabstracts.com/sn2017/programme-sn2017.pdf|NeuroFrance, Bordeaux]].
- * see a follow-up publication on [BoutinRuffierPerrinet17spars]({{< ref "../boutin-ruffier-perrinet-17-spars" >}})
+ * see a follow-up publication on [BoutinRuffierPerrinet17spars]({{< ref "publication/boutin-ruffier-perrinet-17-spars" >}})
