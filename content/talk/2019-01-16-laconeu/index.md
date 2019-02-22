@@ -1,7 +1,7 @@
 +++
 title = "Efficient coding of visual information in neural computations"
 date = 2019-01-16
-authors = [ "INT Laurent Perrinet",]
+authors = [ "Laurent U Perrinet",]
 abstract = ""
 featured = false
 publication = "*LACONEU 2019: 5th Latin-American Summer School in Computational Neuroscience, Valparaiso (Chile)*"

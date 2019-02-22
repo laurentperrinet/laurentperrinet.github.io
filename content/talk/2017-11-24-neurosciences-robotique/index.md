@@ -1,7 +1,7 @@
 +++
 title = "Unsupervised learning applied to robotic vision"
 date = 2017-11-24
-authors = [ "Victor Boutin", "Franck Ruffier", "Laurent U. Perrinet",]
+authors = [ "Victor Boutin", "Franck Ruffier", "Laurent U Perrinet",]
 abstract = ""
 featured = false
 publication = "*Journee du GT 8 (Neurosciences - Robotique)*"

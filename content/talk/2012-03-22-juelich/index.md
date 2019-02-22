@@ -1,7 +1,7 @@
 +++
 title = "Motion Clouds: Model-based stimulus synthesis of natural-like random textures for the study of motion perception"
 date = 2012-03-22
-authors = [ "Laurent U. Perrinet",]
+authors = [ "Laurent U Perrinet",]
 abstract = ""
 featured = false
 publication = "*2nd BrainScaleS Plenary Meeting - Friday, March 22nd, 2012*"

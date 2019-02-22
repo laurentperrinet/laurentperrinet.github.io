@@ -1,7 +1,7 @@
 +++
 title = "Role of dynamics in neural computations underlying visual processing"
 date = 2019-01-17
-authors = [ "INT Laurent Perrinet",]
+authors = [ "Laurent U Perrinet",]
 abstract = ""
 featured = true
 publication = "*LACONEU 2019: 5th Latin-American Summer School in Computational Neuroscience, Valparaiso (Chile)*"

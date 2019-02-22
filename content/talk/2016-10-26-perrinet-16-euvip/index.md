@@ -1,7 +1,7 @@
 +++
 title = "Biologically-inspired characterization of sparseness in natural images"
 date = 2016-10-26
-authors = [ "Laurent U. Perrinet",]
+authors = [ "Laurent U Perrinet",]
 abstract = ""
 featured = false
 publication = "*EUVIP (Special Session): Biologically Inspired Computer Vision - October 16th, 2016*"

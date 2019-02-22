@@ -1,7 +1,7 @@
 +++
 title = "Reinforcement contingencies modulate anticipatory smooth eye movements"
 date = 2016-11-03
-authors = [ "Jean-Bernard Damasse", "Laurent Perrinet", "Jeremie Jozefowiez", "Laurent Madelain", "Anna Montagnini",]
+authors = [ "Jean-Bernard Damasse", "Laurent U Perrinet", "Jeremie Jozefowiez", "Laurent Madelain", "Anna Montagnini",]
 abstract = ""
 featured = false
 publication = "*GDR Vision, Toulouse, Nov 3rd, 2016*"

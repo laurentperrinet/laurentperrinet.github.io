@@ -1,7 +1,7 @@
 +++
 title = "Tutorial on predictive coding"
 date = 2017-06-30
-authors = [ "Laurent U. Perrinet",]
+authors = [ "Laurent U Perrinet",]
 abstract = ""
 featured = false
 publication = "*Telluride Neuromorphic Workshop, Workgroup on Compound Eyes and Event-based Vision*"

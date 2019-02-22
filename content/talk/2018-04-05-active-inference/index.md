@@ -1,7 +1,7 @@
 +++
 title = "Principles and psychophysics of Active Inference"
 date = 2018-04-05
-authors = [ "Laurent Perrinet", "Chloé Pasturel", "INT Anna Montagnini",]
+authors = [ "Laurent U Perrinet", "Chloé Pasturel", "INT Anna Montagnini",]
 abstract = ""
 featured = false
 publication = "*Probabilities and Optimal Inference to Understand the Brain, INT, Marseille (France)*"
