@@ -9,7 +9,7 @@ from bibtexparser.bwriter import BibTexWriter
 from bibtexparser.bibdatabase import BibDatabase
 from bibtexparser.customization import convert_to_unicode
 
-bibtex = '../perrinet_curriculum-vitae_tex/LaurentPerrinet_{type}.bib'
+bibtex = f'../perrinet_curriculum-vitae_tex/LaurentPerrinet_{type}.bib'
 keys = []
 # Load BibTeX file for parsing.
 with open(bibtex, 'r', encoding='utf-8') as bibtex_file:
