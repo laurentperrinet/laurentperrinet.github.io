@@ -18,7 +18,7 @@ with open(bibtex, 'r', encoding='utf-8') as bibtex_file:
         #parse_bibtex_entry(entry, pub_dir=pub_dir, featured=featured, overwrite=overwrite, normalize=normalize)
         keys.append(entry['ID'])
 
-if True:
+if False:
     writer = BibTexWriter()
     writer.indent = '    '     # indent entries with 4 spaces instead of one
     writer.order_entries_by = ('ID')
