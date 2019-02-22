@@ -1,6 +1,6 @@
 +++
 title = "Role of dynamics in neural computations underlying  visual processing"
-date = 2019-01-01
+date = 2019-01-17
 authors = ["INT Laurent Perrinet"]
 publication_types = ["1"]
 abstract = ""

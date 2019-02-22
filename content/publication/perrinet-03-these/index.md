@@ -6,8 +6,14 @@ publication_types = [ "4",]
 abstract = ""
 featured = false
 publication = ""
-tags = [ "vision; stdp",]
+tags = [ "stdp",]
 +++
+
+
+
+
+
+
 
 
 

@@ -28,7 +28,7 @@ if False:
         bibfile.write(writer.write(bib_database))
 
 # 2- making a dictionary to slugify
-from academic import slugify
+from academic import slugify, month2number
 
 dico = {}
 for key in keys:
@@ -156,7 +156,7 @@ if True:
                 if 'month' in entry:
                     parsed_toml['date'] = f"{entry['year']}-{month2number(entry['month'])}-01"
                 else:
-                    parsed_toml['date'] = f"{entry['year']}-{month2number(entry['month'])}-01-01"
+                    parsed_toml['date'] = f"{entry['year']}-01-01"
 
             authors = None
             if 'author' in entry:

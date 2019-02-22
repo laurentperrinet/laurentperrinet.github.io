@@ -5,12 +5,15 @@ authors = [ "Laurent U Perrinet", "Rick A. Adams", "Karl J Friston",]
 publication_types = [ "2",]
 abstract = "This paper considers the problem of sensorimotor delays in the optimal control of (smooth) eye movements under uncertainty. Specifically, we consider delays in the visuo-oculomotor loop and their implications for active inference. Active inference uses a generalisation of Kalman filtering to provide Bayes optimal estimates of hidden states and action in generalised coordinates of motion. Representing hidden states in generalised coordinates provides a simple way of compensating for both sensory and oculomotor delays. The efficacy of this scheme is illustrated using neuronal simulations of pursuit initiation responses, with and without compensation. We then consider an extension of the generative model to simulate smooth pursuit eye movements---in which the visuo-oculomotor system believes both the target and its centre of gaze are attracted to a (hidden) point moving in the visual field. Finally, the generative model is equipped with a hierarchical structure, so that it can recognise and remember unseen (occluded) trajectories and emit anticipatory responses. These simulations speak to a straightforward and neurobiologically plausible solution to the generic problem of integrating information from different sources with different temporal delays and the particular difficulties encountered when a system---like the oculomotor system---tries to control its environment with delayed signals."
 publication = "*Biological Cybernetics*"
-tags = [ "active inference", "bayesian models", "Biologically Inspired Computer vision", "eye movements", "eye movements", "free energy", "free energy", "free energy", "free energy", "eye movements", "motion detection", "motion detection", "eye movements",]
+tags = [ "free energy", "eye movements", "active inference", "bayesian models", "Biologically Inspired Computer vision", "motion detection",]
 url_pdf = "http://link.springer.com/article/10.1007%2Fs00422-014-0620-8"
 url_preprint = "http://link.springer.com/article/10.1007%2Fs00422-014-0620-8"
 doi = "10.1007/s00422-014-0620-8"
 featured = true
 +++
+
+
+
 
 
 
@@ -22,6 +25,9 @@ Tracking eye movements face a difficult task: they have to be fast while they su
 
 
 {{< figure src="featured.png" title="**(A)** This figure reports the response of predictive processing during the simulation of pursuit initiation, using a single sweep of a visual target, while compensating for sensory motor delays. Here, we see horizontal excursions of oculomotor angle (red line). One can see clearly the initial displacement of the target that is suppressed by action after a few hundred milliseconds. Additionally, we illustrate the effects of assuming wrong sensorimotor delays on pursuit initiation. Under pure sensory delays (blue dotted line), one can see clearly the delay in sensory predictions, in relation to the true inputs. With pure motor delays (blue dashed line) and with combined sensorimotor delays (blue line) there is a failure of optimal control with oscillatory fluctuations in oculomotor trajectories, which may become unstable. **(B)** This figure reports the simulation of smooth pursuit when the target motion is hemi-sinusoidal, as would happen for a pendulum that would be stopped at each half cycle left of the vertical (broken black lines in the lower-right panel). We report the horizontal excursions of oculomotor angle. The generative model used here has been equipped with a second hierarchical level that contains hidden states, modeling latent periodic behavior of the (hidden) causes of target motion. With this addition, the improvement in pursuit accuracy apparent at the onset of the second cycle of motion is observed (pink shaded area), similar to psychophysical experimentss." >}}
+
+
+
 
 
 

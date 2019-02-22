@@ -6,8 +6,14 @@ publication_types = [ "1",]
 abstract = ""
 featured = false
 publication = "*Proceedings of COSYNE, 2008*"
-tags = [ "sparse hebbian learning", "bayesian models", "coding decoding", "spike", "bayesian models", "spike", "sparse coding", "spike",]
+tags = [ "coding decoding", "bayesian models", "sparse coding", "spike", "sparse hebbian learning",]
 +++
+
+
+
+
+
+
 
 
 

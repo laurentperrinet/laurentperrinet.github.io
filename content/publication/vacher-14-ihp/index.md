@@ -7,8 +7,14 @@ abstract = "This work extends the MotionClouds dynamic texture model testing asp
 featured = false
 publication = "*IHP workshop*"
 projects = [ "motion-clouds",]
-tags = [ "motion-clouds", "motion-clouds",]
+tags = [ "motion-clouds",]
 +++
+
+
+
+
+
+
 
 
 

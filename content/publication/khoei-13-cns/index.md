@@ -6,10 +6,20 @@ publication_types = [ "1",]
 abstract = ""
 featured = false
 publication = ""
-tags = [ "bayesian models", "khoei14fle", "motion detection",]
+tags = [ "bayesian models", "motion detection", "khoei14fle",]
 url_pdf = "https://laurentperrinet.github.io/publication/khoei-13-cns"
 doi = "10.1186/1471-2202-14-S1-P314"
 +++
+
+
+
+
+
+
+
+
+
+
 
 
 
