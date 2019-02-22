@@ -1,6 +1,6 @@
 +++
 title = "Edge co-occurrences and categorizing natural images"
-date = 2013-07-05T00:00:00
+date = 2013-07-05
 authors = [ "Laurent Perrinet", "David Fitzpatrick", "James A. Bednar",]
 abstract = ""
 featured = false

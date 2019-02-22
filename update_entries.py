@@ -85,8 +85,10 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
     import datetime
     import dateutil.parser
 
-    def getDateTimeFromISO8601String(s):
+    def getDateTimeFromISO8601String(s, full=False):
         d = dateutil.parser.parse(s)
+        if not full:
+            d = d.date()
         return d
 
     def clean_bibtex_tags(s, normalize=False):
@@ -203,7 +205,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
                     if 'booktitle' in entry:
                         parsed_toml['event'] = f'{clean_bibtex_str(entry["booktitle"])}'
                     if 'time_start' in entry:
-                        parsed_toml['time_start'] = getDateTimeFromISO8601String(f'{clean_bibtex_str(entry["time_start"])}')
+                        parsed_toml['time_start'] = getDateTimeFromISO8601String(f'{clean_bibtex_str(entry["time_start"])}', full=True)
 
                 elif type == 'Publications':
 

@@ -1,6 +1,6 @@
 +++
 title = "Sparse Image Coding Using an Asynchronous Spiking Neural Network"
-date = 2002-02-22T00:00:00
+date = 2002-02-22
 authors = [ "Laurent U Perrinet", "Manuel Samuelides",]
 publication_types = [ "1",]
 abstract = ""

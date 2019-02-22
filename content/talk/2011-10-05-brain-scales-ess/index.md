@@ -1,6 +1,6 @@
 +++
 title = "Demo 1, Task4: Implementation of models showing emergence of cortical fields and maps"
-date = 2011-10-05T00:00:00
+date = 2011-10-05
 authors = [ "Laurent Perrinet",]
 abstract = ""
 featured = false

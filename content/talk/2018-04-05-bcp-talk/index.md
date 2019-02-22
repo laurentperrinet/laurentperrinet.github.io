@@ -1,6 +1,6 @@
 +++
 title = "Principles and psychophysics of Active Inference in anticipating a dynamic, switching probabilistic bias"
-date = 2018-04-05T00:00:00
+date = 2018-04-05
 authors = [ "Laurent Perrinet", "Chloé Pasturel", "INT Anna Montagnini",]
 abstract = ""
 featured = false

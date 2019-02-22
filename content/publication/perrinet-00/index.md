@@ -1,6 +1,6 @@
 +++
 title = "A generative model for Spike Time Dependent Hebbian Plasticity"
-date = 2000-02-22T00:00:00
+date = 2000-02-22
 authors = [ "Laurent U Perrinet", "Manuel Samuelides",]
 publication_types = [ "1",]
 abstract = ""

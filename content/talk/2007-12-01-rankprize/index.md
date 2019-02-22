@@ -1,6 +1,6 @@
 +++
 title = "What efficient code for adaptive spiking representations?"
-date = 2007-12-01T00:00:00
+date = 2007-12-01
 authors = [ "Laurent Perrinet",]
 abstract = ""
 featured = false
