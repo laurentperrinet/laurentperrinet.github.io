@@ -8,36 +8,3 @@ featured = false
 publication = "*Proceedings of COSYNE, 2008*"
 tags = [ "eye movements", "lateral connections", "visual perception", "bayesian models", "motion detection", "center-surround interactions",]
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

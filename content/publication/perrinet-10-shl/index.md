@@ -11,35 +11,3 @@ url_pdf = "https://laurentperrinet.github.io/publication/perrinet-10-shl"
 doi = "10.1162/neco.2010.05-08-795"
 url_preprint = "https://laurentperrinet.github.io/publication/perrinet-10-shl"
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

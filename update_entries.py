@@ -1,7 +1,8 @@
 
 # for type in ['Presentations', 'Publications', 'Events']:
-#for type in ['Presentations']:
+type = 'Presentations'
 type = 'Publications'
+
 # 1- getting all citekeys
 import bibtexparser
 from bibtexparser.bparser import BibTexParser
@@ -11,7 +12,7 @@ from bibtexparser.customization import convert_to_unicode
 
 bibtex = f'../perrinet_curriculum-vitae_tex/LaurentPerrinet_{type}.bib'
 keys = []
-# Load BibTeX file for parsing.
+# 1- Load BibTeX file for parsing.
 with open(bibtex, 'r', encoding='utf-8') as bibtex_file:
     parser = BibTexParser(common_strings=True)
     parser.customization = convert_to_unicode
@@ -19,13 +20,6 @@ with open(bibtex, 'r', encoding='utf-8') as bibtex_file:
     for entry in bib_database.entries:
         #parse_bibtex_entry(entry, pub_dir=pub_dir, featured=featured, overwrite=overwrite, normalize=normalize)
         keys.append(entry['ID'])
-
-if False:
-    writer = BibTexWriter()
-    writer.indent = '    '     # indent entries with 4 spaces instead of one
-    writer.order_entries_by = ('ID')
-    with open(bibtex, 'w') as bibfile:
-        bibfile.write(writer.write(bib_database))
 
 # 2- making a dictionary to slugify
 from academic import slugify, month2number
@@ -122,7 +116,10 @@ def clean_bibtex_authors(author_str):
     return authors
 
 normalize = False
-pub_dir = 'content/publication'
+if type == 'Presentations':
+    pub_dir = 'content/talk'
+elif type == 'Publications':
+    pub_dir = 'content/publication'
 if True:
     for file_path in glob.glob(f"{pub_dir}/**/index.md"):
         new_key = file_path.split(f'{pub_dir}/')[-1].split('/index.md')[0]
@@ -198,12 +195,19 @@ if True:
             if 'doi' in entry:
                 parsed_toml['doi'] = f'{entry["doi"]}'
 
+            if type == 'Presentations':
+                pub_dir = 'content/talk'
+            elif type == 'Publications':
+                pub_dir = 'content/publication'
+
+
             metadata[1] = toml.dumps(parsed_toml)
 
             # Save Markdown file.
             try:
                 print(f"Saving Markdown to '{file_path}'")
+                page = '+++\n'.join(metadata).strip('\n')
                 with open(file_path, 'w', encoding='utf-8') as f:
-                    f.write('+++\n'.join(metadata))
+                    f.write(page + '\n')
             except IOError:
                 print('ERROR: could not save file.')

@@ -9,36 +9,3 @@ publication = ""
 tags = [ "bayesian models",]
 url_pdf = "https://laurentperrinet.github.io/publication/montagnini-15-sfn"
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

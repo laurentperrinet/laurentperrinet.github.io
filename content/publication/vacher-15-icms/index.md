@@ -9,35 +9,3 @@ publication = "*ICMS 2015 conference*"
 projects = [ "motion-clouds",]
 tags = [ "motion-clouds",]
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

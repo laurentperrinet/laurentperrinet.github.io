@@ -10,36 +10,3 @@ tags = [ "Biologically Inspired Computer vision",]
 url_pdf = "https://arxiv.org/abs/1611.07831"
 doi = "10.1002/9783527680863.ch12"
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

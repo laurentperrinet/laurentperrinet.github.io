@@ -8,36 +8,3 @@ featured = false
 publication = "*Actes de Neurosciences et Sciences de l'Ingenieur, L'Agelonde,*"
 tags = [ "stdp", "sparse hebbian learning",]
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

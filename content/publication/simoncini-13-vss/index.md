@@ -9,35 +9,3 @@ publication = "*VSS Conference Abstract*"
 projects = [ "motion-clouds",]
 tags = [ "motion-clouds", "psychophysics", "motion detection", "eye movements",]
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -12,35 +12,3 @@ doi = "10.1152/jn.00737.2011"
 url_preprint = "http://dx.doi.org/10.1152/jn.00737.2011"
 projects = [ "motion-clouds",]
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

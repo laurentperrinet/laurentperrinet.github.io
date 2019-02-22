@@ -10,36 +10,3 @@ tags = [ "association field", "area-v1",]
 url_pdf = "http://dx.doi.org/10.1016/j.jphysparis.2009.11.004"
 doi = "10.1016/j.jphysparis.2009.11.004"
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

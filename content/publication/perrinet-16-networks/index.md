@@ -9,36 +9,3 @@ publication = "*Complex Networks: from theory to interdisciplinary applications.
 url_pdf = "https://laurentperrinet.github.io/publication/perrinet-16-networks"
 tags = [ "active inference",]
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -10,36 +10,3 @@ tags = [ "coding decoding", "dictionaries", "matching pursuit", "bayesian models
 url_pdf = "http://dx.doi.org/10.1016/j.jphysparis.2005.09.012"
 doi = "10.1016/j.jphysparis.2005.09.012"
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

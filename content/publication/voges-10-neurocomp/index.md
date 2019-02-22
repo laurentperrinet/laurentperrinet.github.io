@@ -8,36 +8,3 @@ featured = false
 publication = "*Journal of Physiology-Paris*"
 tags = [ "lateral connections",]
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

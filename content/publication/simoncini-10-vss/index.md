@@ -9,35 +9,3 @@ publication = "*Vision Science Society*"
 tags = [ "motion-clouds", "psychophysics", "motion detection", "eye movements",]
 projects = [ "motion-clouds",]
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

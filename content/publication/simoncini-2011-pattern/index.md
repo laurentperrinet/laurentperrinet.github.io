@@ -10,36 +10,3 @@ tags = [ "motion-clouds", "psychophysics", "motion detection", "eye movements",]
 url_pdf = "http://dx.doi.org/10.1167/11.11.749"
 doi = "10.1167/11.11.749"
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

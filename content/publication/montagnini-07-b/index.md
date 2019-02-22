@@ -8,36 +8,3 @@ featured = false
 publication = "*Journal of Vision*"
 tags = [ "bayesian models",]
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

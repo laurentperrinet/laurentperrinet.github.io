@@ -8,36 +8,3 @@ featured = false
 publication = "*Eighth Göttingen Meeting of the German Neuroscience Society*"
 tags = [ "lateral connections",]
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -10,36 +10,3 @@ tags = [ "bayesian models",]
 url_pdf = "http://dx.doi.org/10.1016/j.jphysparis.2007.10.013"
 doi = "10.1016/j.jphysparis.2007.10.013"
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

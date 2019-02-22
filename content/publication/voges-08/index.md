@@ -8,36 +8,3 @@ featured = false
 publication = "*FENS Abstract*"
 tags = [ "lateral connections",]
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

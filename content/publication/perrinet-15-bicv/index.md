@@ -9,36 +9,3 @@ publication = "*Biologically Inspired Computer Vision*"
 tags = [ "Biologically Inspired Computer vision",]
 url_pdf = "https://arxiv.org/abs/1701.06859"
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

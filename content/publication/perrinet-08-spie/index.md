@@ -8,36 +8,3 @@ featured = false
 publication = "*Optical and Digital Image Processing Conference 7000 - Proceedings of SPIE Volume 7000, 7 - 11 April 2008*"
 tags = [ "coding decoding", "matching pursuit", "Biologically Inspired Computer vision", "sparse coding", "spike", "inhibition", "association field", "sparse hebbian learning",]
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

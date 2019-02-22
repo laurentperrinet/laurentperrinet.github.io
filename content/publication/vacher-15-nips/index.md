@@ -10,35 +10,3 @@ url_pdf = "http://papers.nips.cc/paper/5769-biologically-inspired-dynamic-textur
 projects = [ "motion-clouds",]
 tags = [ "motion-clouds",]
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

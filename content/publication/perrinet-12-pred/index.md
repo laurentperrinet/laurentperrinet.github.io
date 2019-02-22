@@ -8,36 +8,3 @@ featured = false
 publication = "*Neural Computation*"
 tags = [ "bayesian models", "predictive coding", "motion prediction", "aperture problem",]
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

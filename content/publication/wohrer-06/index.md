@@ -8,36 +8,3 @@ featured = false
 publication = "*Perception*"
 tags = [ "retina",]
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

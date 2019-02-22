@@ -9,36 +9,3 @@ publication = "*Eighth Göttingen Meeting of the German Neuroscience Society*"
 tags = [ "pynn",]
 projects = [ "facets", " facets-itn", " brainscales",]
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -9,36 +9,3 @@ publication = "*CNS 2013, Paris.*"
 url_pdf = "https://laurentperrinet.github.io/publication/perrinet-13-cns"
 tags = [ "active inference",]
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -10,36 +10,3 @@ tags = [ "Biologically Inspired Computer vision", "sparse coding", "Image textur
 url_pdf = "http://dx.doi.org/10.1007/978-3-642-41827-3_27"
 doi = "10.1007/978-3-642-41827-3_27"
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

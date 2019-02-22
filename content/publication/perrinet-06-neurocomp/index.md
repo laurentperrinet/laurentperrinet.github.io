@@ -8,36 +8,3 @@ featured = false
 publication = "*1ère conférence francophone NEUROsciences COMPutationnelles - NeuroComp*"
 tags = [ "eye movements", "matching pursuit", "bayesian models", "aperture problem", "motion detection",]
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

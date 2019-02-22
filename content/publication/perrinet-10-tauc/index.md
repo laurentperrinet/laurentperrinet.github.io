@@ -9,36 +9,3 @@ publication = "*LADISLAV TAUC & GDR MSPC NEUROSCIENCES CONFERENCE, From Mathemat
 tags = [ "coding decoding", "eye movements", "bayesian models", "motion detection", "center-surround interactions",]
 url_pdf = "http://www.incm.cnrs-mrs.fr/LaurentPerrinet/Presentations/10-12-17_TaucTalk"
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

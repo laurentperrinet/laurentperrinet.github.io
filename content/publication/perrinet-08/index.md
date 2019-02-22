@@ -8,36 +8,3 @@ featured = false
 publication = "*Proceedings of COSYNE, 2008*"
 tags = [ "coding decoding", "bayesian models", "sparse coding", "spike", "sparse hebbian learning",]
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

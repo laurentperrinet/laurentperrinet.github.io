@@ -8,36 +8,3 @@ featured = false
 publication = "*Vision Science Society*"
 tags = [ "motion detection",]
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

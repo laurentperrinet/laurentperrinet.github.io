@@ -10,36 +10,3 @@ tags = [ "sparse coding", "area-v1", "receptive field",]
 url_pdf = "http://dx.doi.org/10.1016/j.neucom.2004.01.133"
 doi = "10.1016/j.neucom.2004.01.133"
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

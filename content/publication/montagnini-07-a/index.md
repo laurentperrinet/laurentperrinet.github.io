@@ -8,36 +8,3 @@ featured = false
 publication = "*Perception 36 ECVP Abstract Supplement*"
 tags = [ "motion detection",]
 +++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
