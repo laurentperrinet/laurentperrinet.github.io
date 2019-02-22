@@ -7,7 +7,10 @@ abstract = "This paper presents for the first time the embedded stand-alone vers
 featured = false
 publication = "*ISCAS2018, IEEE International Symposium on Circuits and Systems*"
 url_pdf = "https://ieeexplore.ieee.org/abstract/document/8351433"
+tags = [ "Biologically Inspired Computer vision",]
 +++
+
+
 
 
 

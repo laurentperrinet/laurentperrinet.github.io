@@ -6,9 +6,11 @@ publication_types = [ "1",]
 abstract = ""
 featured = false
 publication = "*European Retina Meeting 2015*"
-tags = [ "motion-clouds", "sanz-12",]
+tags = [ "Retina",]
 projects = [ "motion-clouds",]
 +++
+
+
 
 
 

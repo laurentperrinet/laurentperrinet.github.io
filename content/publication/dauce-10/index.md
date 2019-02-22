@@ -8,7 +8,10 @@ featured = false
 publication = "*Journal of Physiology-Paris*"
 url_pdf = "http://dx.doi.org/10.1016/j.jphysparis.2009.11.001"
 doi = "10.1016/j.jphysparis.2009.11.001"
+tags = [ "computational neuroscience",]
 +++
+
+
 
 
 

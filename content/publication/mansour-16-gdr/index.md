@@ -7,9 +7,11 @@ abstract = ""
 featured = false
 publication = "*GDR Vision, Toulouse, Nov 3rd, 2016*"
 url_pdf = "https://laurentperrinet.github.io/publication/mansour-16-gdr"
-tags = [ "motion-clouds", "sanz-12",]
+tags = [ "eye movements",]
 projects = [ "motion-clouds",]
 +++
+
+
 
 
 

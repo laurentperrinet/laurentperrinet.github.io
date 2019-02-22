@@ -7,8 +7,10 @@ abstract = ""
 featured = false
 publication = "*ICMS 2015 conference*"
 projects = [ "motion-clouds",]
-tags = [ "motion-clouds", "sanz-12",]
+tags = [ "motion-clouds",]
 +++
+
+
 
 
 
