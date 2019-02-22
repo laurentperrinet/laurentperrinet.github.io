@@ -207,6 +207,8 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
                         parsed_toml['event'] = f'{clean_bibtex_str(entry["booktitle"])}'
                     if 'time_start' in entry:
                         parsed_toml['time_start'] = getDateTimeFromISO8601String(f'{clean_bibtex_str(entry["time_start"])}', full=True)
+                    else:
+                        parsed_toml['time_start'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["ID"][:10]))
 
                 elif type == 'Publications':
 

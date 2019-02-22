@@ -7,4 +7,5 @@ featured = false
 publication = "*Society for Neuroscience Abstracts*"
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2011-11-15_sfn"
 event = "Society for Neuroscience Abstracts"
+time_start = 2011-11-15
 +++

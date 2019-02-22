@@ -9,4 +9,5 @@ url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2019-01-14_LACONEU"
 event = "LACONEU 2019: 5th Latin-American Summer School in Computational Neuroscience"
 event_url = "http://www.laconeu.cl"
 location = "Valparaiso (Chile)"
+time_start = 2019-01-14
 +++

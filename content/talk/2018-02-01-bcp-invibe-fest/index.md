@@ -7,4 +7,5 @@ featured = false
 publication = "*Visual motion Fest - Invibe Team – INT / Marseille February 1 & 2, 2018*"
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2018-02-01_BCP_INVIBE_fest"
 event = "Visual motion Fest - Invibe Team -- INT / Marseille February 1 & 2, 2018"
+time_start = 2018-02-01
 +++

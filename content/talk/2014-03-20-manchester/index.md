@@ -7,4 +7,5 @@ featured = false
 publication = "*4th BrainScaleS Plenary meeting - March 20th, 2014*"
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2014-03-20_Manchester"
 event = "4th BrainScaleS Plenary meeting - March 20th, 2014"
+time_start = 2014-03-20
 +++

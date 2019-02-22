@@ -48,6 +48,7 @@ url = "https://invibe.net/LaurentPerrinet/Publications/PerrinetBednar15?action=A
 
 
 
+
 # A study of how people can quickly spot animals by sight is helping uncover the workings of the human brain.
 
 Scientists examined why volunteers who were shown hundreds of pictures - some with animals and some without - were able to detect animals in as little as one-tenth of a second.

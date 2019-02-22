@@ -7,4 +7,5 @@ featured = false
 publication = "*First GDR BioComp workshop, Saint-Paul de Vence, October 7th, 2015*"
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2015-10-07_GDR-BioComp"
 event = "First GDR BioComp workshop, Saint-Paul de Vence, October 7th, 2015"
+time_start = 2015-10-07
 +++

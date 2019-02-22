@@ -7,4 +7,5 @@ featured = false
 publication = "*Proceedings of SfN, 2011*"
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2011-09-28_ermites"
 event = "Proceedings of SfN, 2011"
+time_start = 2011-09-28
 +++

@@ -7,4 +7,5 @@ featured = false
 publication = "*Workshop SIGMA'2016: Signal, Image, Geometry, Modelling, Approximation*"
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2016-11-03_SIGMA"
 event = "Workshop SIGMA'2016: Signal, Image, Geometry, Modelling, Approximation"
+time_start = 2016-11-03
 +++

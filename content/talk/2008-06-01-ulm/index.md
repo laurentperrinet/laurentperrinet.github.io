@@ -6,4 +6,5 @@ abstract = "The machinery behind the visual perception of motion and the subsequ
 featured = false
 publication = ""
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2008-06_Ulm"
+time_start = 2008-06-01
 +++

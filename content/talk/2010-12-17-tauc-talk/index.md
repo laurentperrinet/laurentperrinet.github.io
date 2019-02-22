@@ -8,4 +8,5 @@ publication = "*LADISLAV TAUC & GDR MSPC NEUROSCIENCES CONFERENCE, From Mathemat
 tags = [ " motion-based segmentation", " 2D Motion", " ocular following response", " probabilistic framework", " Motion perception", " PDE", " divisive normalization.", " center-surround stimulation", " Navier-Stokes", " Bayesian modeling", " particles", " neural masses", "Neuronal representation", " center-surround integration",]
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2010-12-17_TaucTalk"
 event = "LADISLAV TAUC & GDR MSPC NEUROSCIENCES CONFERENCE, From Mathematical Image Analysis to Neurogeometry of the Brain"
+time_start = 2010-12-17
 +++

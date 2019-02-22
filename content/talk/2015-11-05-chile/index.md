@@ -7,4 +7,5 @@ featured = false
 publication = "*Universidad Técnica Federico Santa María, Valparaíso, Chile, November 5th, 2015*"
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2015-11-05_Chile"
 event = "Universidad Técnica Federico Santa Marı́a, Valparaśo, Chile, November 5th, 2015"
+time_start = 2015-11-05
 +++

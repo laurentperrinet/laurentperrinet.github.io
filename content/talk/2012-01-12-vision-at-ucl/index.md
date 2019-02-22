@@ -8,4 +8,5 @@ publication = "*Vision@UCL seminar - Thursday, 12th January, 5pm*"
 tags = [ " motion-based segmentation", " 2D Motion", " ocular following response", " probabilistic framework", " Motion perception", " PDE", " divisive normalization.", " center-surround stimulation", " Navier-Stokes", " Bayesian modeling", " particles", " neural masses", "Neuronal representation", " center-surround integration",]
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2012-01-12_VisionAtUcl"
 event = "Vision@UCL seminar - Thursday, 12th January, 5pm"
+time_start = 2012-01-12
 +++

@@ -7,4 +7,5 @@ featured = false
 publication = "*A  seminar from the Institute for Adaptive and Neural Computation (ANC)*"
 url_pdf = "http://invibe.net/cgi-bin/index.cgi/Presentations/2012-01-24_Edinburgh"
 event = "A seminar from the Institute for Adaptive and Neural Computation (ANC)"
+time_start = 2012-01-24
 +++

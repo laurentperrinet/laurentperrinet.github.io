@@ -8,4 +8,5 @@ publication = "*Brain meeting at FIL, London - Friday, January 27th, 2012*"
 tags = [ " predictive coding", " free-energy", " temporal delays", " probabilistic representation", "eye movements", " motion detection",]
 url_pdf = "Presentations/2012-01-27_FIL"
 event = "Brain meeting at FIL, London - Friday, January 27th, 2012"
+time_start = 2012-01-27
 +++

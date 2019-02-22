@@ -8,4 +8,5 @@ publication = "*1ère conférence francophone NEUROsciences COMPutationnelles - 
 tags = [ "Object motion", " Smooth pursuit eye movement", " Temporal evolution.", " Bayesian model", " recursive inference", " Aperture problem",]
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2006_neurocomp"
 event = "1ère conférence francophone NEUROsciences COMPutationnelles - NeuroComp"
+time_start = 2006-01-01
 +++
