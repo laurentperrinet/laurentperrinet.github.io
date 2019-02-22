@@ -1,6 +1,6 @@
 +++
 title = "Tutorial on predictive coding"
-date = 2017-06-30
+date = 1973-02-23
 authors = [ "Laurent U. Perrinet",]
 abstract = ""
 featured = false

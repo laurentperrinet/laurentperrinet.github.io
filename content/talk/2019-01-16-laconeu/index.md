@@ -1,6 +1,6 @@
 +++
 title = "Efficient coding of visual information in neural computations"
-date = 2019-01-16
+date = 1973-02-23
 authors = [ "INT Laurent Perrinet",]
 abstract = ""
 featured = false

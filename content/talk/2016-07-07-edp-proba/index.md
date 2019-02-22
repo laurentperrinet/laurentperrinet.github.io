@@ -1,6 +1,6 @@
 +++
 title = "Modelling the dynamics of cognitive processes: from the Bayesian brain to particles"
-date = 2016-07-07
+date = 1973-02-23
 authors = [ "Laurent U. Perrinet",]
 abstract = ""
 featured = false

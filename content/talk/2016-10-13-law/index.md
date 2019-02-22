@@ -1,6 +1,6 @@
 +++
 title = "Eye movements as a model for active inference"
-date = 2016-10-13
+date = 1973-02-23
 authors = [ "Laurent U. Perrinet",]
 abstract = ""
 featured = false
