@@ -1,6 +1,6 @@
 +++
 title = "Control of the temporal interplay between excitation and inhibition by the statistics of visual input"
-date = 1973-02-23
+date = 2009-07-18
 authors = [ "Jens Kremkow", "Laurent Perrinet", "Cyril Monier", "Yves Fregnac", "Guillaume S. Masson", "Ad Aertsen",]
 abstract = ""
 featured = false

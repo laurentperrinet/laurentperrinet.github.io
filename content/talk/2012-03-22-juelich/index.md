@@ -1,6 +1,6 @@
 +++
 title = "Motion Clouds: Model-based stimulus synthesis of natural-like random textures for the study of motion perception"
-date = 1973-02-23
+date = 2012-03-22
 authors = [ "Laurent U. Perrinet",]
 abstract = ""
 featured = false

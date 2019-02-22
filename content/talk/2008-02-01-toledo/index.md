@@ -1,6 +1,6 @@
 +++
 title = "Modeling of spikes, sparseness and adaptation in the primary visual cortex: applications to imaging"
-date = 1973-02-23
+date = 2008-02-01
 authors = [ "Laurent Perrinet",]
 abstract = ""
 featured = false

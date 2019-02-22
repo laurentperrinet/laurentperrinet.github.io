@@ -1,6 +1,6 @@
 +++
 title = "Probabilities, Bayes and the Free-energy principle"
-date = 1973-02-23
+date = 2018-03-26
 authors = [ "Laurent U Perrinet",]
 abstract = ""
 featured = false

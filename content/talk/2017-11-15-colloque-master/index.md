@@ -1,6 +1,6 @@
 +++
 title = "What dynamic neural codes for efficient visual processing"
-date = 1973-02-23
+date = 2017-11-15
 authors = [ "Laurent U. Perrinet",]
 abstract = ""
 featured = false
