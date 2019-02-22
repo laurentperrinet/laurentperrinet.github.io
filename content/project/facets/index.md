@@ -10,7 +10,8 @@ summary = "FACETS: Fast Analog Computing with Emergent Transient States (2006/20
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-categories = ["grant"]
+tags = ["grant"]
+
 
 +++
 

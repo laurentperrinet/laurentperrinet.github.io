@@ -10,7 +10,8 @@ summary = "DOC2AMU: An Excellence Fellowship (2016/2019)."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-categories = ["grant"]
+tags = ["grant"]
+
 
 +++
 

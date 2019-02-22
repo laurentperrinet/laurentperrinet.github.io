@@ -10,7 +10,8 @@ summary = "A grant from the Ph.D. program in Integrative and Clinical Neuroscien
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-categories = ["grant"]
+tags = ["grant"]
+
 
 +++
 

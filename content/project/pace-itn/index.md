@@ -10,7 +10,8 @@ summary = "PACE-ITN: ITN Marie Curie network (2015/2019)."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-categories = ["grant"]
+tags = ["grant"]
+
 
 +++
 
