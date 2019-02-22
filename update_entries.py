@@ -120,10 +120,10 @@ def clean_bibtex_authors(author_str):
     return authors
 
 normalize = False
-pub_dir = 'publication'
+pub_dir = 'content/publication'
 if True:
-    for file_path in glob.glob(f"content/{pub_dir}/**/index.md"):
-        new_key = file_path.split('content/{pub_dir}/')[-1].split('/index.md')[0]
+    for file_path in glob.glob(f"{pub_dir}/**/index.md"):
+        new_key = file_path.split(f'{pub_dir}/')[-1].split('/index.md')[0]
         if not new_key in ['___template___',  'person-re-id']:
             with open(file_path, 'r', encoding='utf-8') as source_file:
                 page = source_file.read() + '\n'
@@ -133,7 +133,7 @@ if True:
             old_key = dico[new_key]
             entry = bib_database.entries_dict[old_key]
             #bib_database.get_entry_dict()[old_key]
-            bundle_path = f"content/{pub_dir}/{slugify(entry['ID'])}"
+            bundle_path = f"{pub_dir}/{slugify(entry['ID'])}"
             cite_path = os.path.join(bundle_path, f"{slugify(entry['ID'])}.bib")
             # Save citation file.
             print(f'Saving citation to {cite_path}')

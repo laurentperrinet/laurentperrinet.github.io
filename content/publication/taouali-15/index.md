@@ -8,7 +8,9 @@ publication = "*Journal of Neurophysiology*"
 tags = [ "decoding", "spikes", "taouali14",]
 url_pdf = "https://laurentperrinet.github.io/publication/taouali-15"
 doi = "10.1152/jn.00194.2015"
+projects = [ "bala-v1",]
 +++
+
 
 
 

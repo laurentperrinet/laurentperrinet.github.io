@@ -5,7 +5,9 @@ publication_types = [ "1",]
 abstract = ""
 featured = false
 publication = "*6th Workshop of the Computational Neuroscience Network in Marseille*"
+projects = [ "bala-v1",]
 +++
+
 
 
 

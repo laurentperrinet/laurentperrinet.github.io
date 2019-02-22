@@ -8,7 +8,9 @@ publication = "*Journal of Vision*"
 tags = [ "assofield",]
 url_pdf = "http://dx.doi.org/10.1167/14.10.1310"
 doi = "10.1167/14.10.1310"
+projects = [ "bala-v1",]
 +++
+
 
 
 

@@ -5,7 +5,9 @@ publication_types = [ "1",]
 abstract = ""
 featured = false
 publication = "*Proceedings of AREADNE*"
+projects = [ "bala-v1",]
 +++
+
 
 
 

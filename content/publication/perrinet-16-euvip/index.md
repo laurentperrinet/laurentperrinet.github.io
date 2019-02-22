@@ -8,7 +8,9 @@ publication = "*2016 6th European Workshop on Visual Information Processing (EUV
 url_pdf = "https://doi.org/10.1109/EUVIP.2016.7764592"
 doi = "10.1109/EUVIP.2016.7764592"
 tags = [ "Computer vision", "Image texture", "Machine vision", "Neuroscience",]
+projects = [ "bala-v1",]
 +++
+
 
 
 

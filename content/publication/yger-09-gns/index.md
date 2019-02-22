@@ -6,7 +6,9 @@ abstract = "NeuralEnsemble (http://neuralensemble.org) is a multilateral effort 
 featured = false
 publication = "*Eighth Göttingen Meeting of the German Neuroscience Society*"
 tags = [ "neuralensemble", "neurotools", "pynn",]
+projects = [ "facets", " facets-itn", " brainscales",]
 +++
+
 
 
 

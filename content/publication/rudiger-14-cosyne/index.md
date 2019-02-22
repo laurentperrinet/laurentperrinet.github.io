@@ -6,7 +6,9 @@ abstract = ""
 featured = false
 publication = "*Proceedings of COSYNE*"
 url_pdf = "http://goo.gl/RJpJR4"
+projects = [ "bala-v1",]
 +++
+
 
 
 
