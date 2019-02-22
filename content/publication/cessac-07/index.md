@@ -6,8 +6,10 @@ publication_types = [ "5",]
 abstract = ""
 featured = false
 publication = "*Topics in Dynamical Neural Networks: From Large Scale Neural Networks to Motor Control and Vision*"
-tags = [ "computational-neuroscience",]
+tags = [ "computational neuroscience",]
 +++
+
+
 
 
 

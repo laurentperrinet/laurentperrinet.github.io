@@ -6,10 +6,12 @@ publication_types = [ "1",]
 abstract = ""
 featured = false
 publication = "*Vision Science Society*"
-tags = [ "bayesian",]
+tags = [ "bayesian models",]
 url_pdf = "http://dx.doi.org/10.1167/10.7.545"
 doi = "10.1167/10.7.545"
 +++
+
+
 
 
 

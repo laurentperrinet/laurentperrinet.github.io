@@ -6,10 +6,12 @@ publication_types = [ "2",]
 abstract = ""
 featured = false
 publication = "*Journal of Physiology-Paris*"
-tags = [ "khoei13jpp", "motion-extrapolation", "neural_representation",]
+tags = [ "motion detection",]
 url_pdf = "http://www.citeulike.org/user/LaurentPerrinet/article/12281049"
 doi = "10.1016/j.jphysparis.2013.08.001"
 +++
+
+
 
 
 

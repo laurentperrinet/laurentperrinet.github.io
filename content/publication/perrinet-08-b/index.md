@@ -6,8 +6,10 @@ publication_types = [ "0",]
 abstract = ""
 featured = false
 publication = "*Proceedings of NeuroComp08, Marseille*"
-tags = [ "computational-neuroscience",]
+tags = [ "computational neuroscience",]
 +++
+
+
 
 
 

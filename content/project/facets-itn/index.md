@@ -1,18 +1,17 @@
 
 +++
 # Project title.
-title = "FACETS-ITN (2010/2013)"
+title = "BrainScaleS (2011/2014)"
 
 # Date this page was created.
 date = 2015-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "FACETS-ITN: From Neuroscience to neuro-inspired computing (2010/2013)."
+summary = "BrainScaleS: Brain-inspired multiscale computation in neuromorphic hybrid systems (2011/2014)."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["grant"]
-
 
 +++
 

@@ -11,6 +11,7 @@ tags = [ "sparse coding",]
 +++
 
 
+
 From biological vision to unsupervised hierarchical sparse coding
 =================================================================
 
@@ -23,6 +24,7 @@ From biological vision to unsupervised hierarchical sparse coding
 4. get full proceedings @ <a href="https://arxiv.org/html/1812.00648">https://arxiv.org/html/1812.00648</a>
 
 5. Poster <a href="https://invibe.net/LaurentPerrinet/Publications/BoutinFranciosiniRuffierPerrinet18itwist?action=AttachFile&do=get&target=BoutinFranciosiniRuffierPerrinet18itwist.pdf" title="PDF">PDF</a>
+
 
 
 

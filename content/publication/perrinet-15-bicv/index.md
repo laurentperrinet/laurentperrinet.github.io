@@ -6,9 +6,11 @@ publication_types = [ "6",]
 abstract = ""
 featured = false
 publication = "*Biologically Inspired Computer Vision*"
-tags = [ "bicv-sparse",]
+tags = [ "Biologically Inspired Computer vision",]
 url_pdf = "https://arxiv.org/abs/1701.06859"
 +++
+
+
 
 
 

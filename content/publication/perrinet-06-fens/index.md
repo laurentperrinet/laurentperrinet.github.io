@@ -6,8 +6,10 @@ publication_types = [ "1",]
 abstract = ""
 featured = false
 publication = "*FENS*"
-tags = [ "motion",]
+tags = [ "motion detection",]
 +++
+
+
 
 
 

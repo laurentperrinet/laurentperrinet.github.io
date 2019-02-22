@@ -6,8 +6,10 @@ publication_types = [ "1",]
 abstract = ""
 featured = false
 publication = "*Actes de Neurosciences et Sciences de l'Ingenieur, L'Agelonde,*"
-tags = [ "sparse_spike_coding",]
+tags = [ "sparse hebbian learning",]
 +++
+
+
 
 
 

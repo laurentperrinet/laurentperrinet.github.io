@@ -6,8 +6,10 @@ publication_types = [ "1",]
 abstract = ""
 featured = false
 publication = "*Proceedings of NeuroComp08, Marseille*"
-tags = [ "lateral-connections",]
+tags = [ "lateral connections",]
 +++
+
+
 
 
 

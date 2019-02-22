@@ -6,9 +6,11 @@ publication_types = [ "2",]
 abstract = ""
 featured = false
 publication = "*Neurocomputing*"
-tags = [ "integration",]
+tags = [ "center-surround interactions",]
 doi = "10.1016/S0925-2312(01)00460-X"
 +++
+
+
 
 
 
