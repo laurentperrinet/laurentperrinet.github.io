@@ -197,8 +197,10 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
                     parsed_toml['doi'] = f'{entry["doi"]}'
 
                 if type == 'Presentations':
-                    parsed_toml['date'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["ID"][:10]))
-                    #parsed_toml['date'] = getDateTimeFromISO8601String('1973-02-23')
+                    # parsed_toml['date'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["ID"][:10]))
+                    # parsed_toml['date'] = getDateTimeFromISO8601String('1973-02-23')
+                    parsed_toml['date'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["Date-Modified"]))
+
 
                     for this_key in ['event_url', 'location']:
                         if this_key in entry:
