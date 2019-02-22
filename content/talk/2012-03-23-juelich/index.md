@@ -1,6 +1,6 @@
 +++
 title = "Apparent motion in V1 - Probabilistic approaches"
-date = 2012-03-23
+date = 2012-01-01
 authors = [ "Laurent U Perrinet",]
 abstract = ""
 featured = false

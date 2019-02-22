@@ -1,6 +1,6 @@
 +++
 title = "Expériences autour de la perception de la forme en art et science"
-date = 2018-01-25
+date = 2018-01-01
 authors = [ "Laurent U Perrinet", "Etienne Rey",]
 abstract = ""
 featured = false

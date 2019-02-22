@@ -17,7 +17,7 @@ url_slides = ""
 url_video = ""
 url_code = ""
 math = true
-date = 2019-04-18
+date = 2019-01-01
 
 [image]
 caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"

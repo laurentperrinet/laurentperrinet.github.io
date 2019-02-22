@@ -1,6 +1,6 @@
 +++
 title = "Models of low-level vision: linking probabilistic models and neural masses"
-date = 2010-01-08
+date = 2010-01-01
 authors = [ "Laurent U Perrinet", "Guillaume S. Masson",]
 abstract = ""
 featured = false

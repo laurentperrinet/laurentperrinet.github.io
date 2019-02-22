@@ -1,6 +1,6 @@
 +++
 title = "Principles and psychophysics of Active Inference"
-date = 2018-04-05
+date = 2018-01-01
 authors = [ "Laurent U Perrinet", "Chloé Pasturel", "INT Anna Montagnini",]
 abstract = ""
 featured = false

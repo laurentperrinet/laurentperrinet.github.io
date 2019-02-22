@@ -1,6 +1,6 @@
 +++
 title = "Tutorial: Sparse optimization in neural computations"
-date = 2017-01-19
+date = 2017-01-01
 authors = [ "Laurent U Perrinet",]
 abstract = ""
 featured = false

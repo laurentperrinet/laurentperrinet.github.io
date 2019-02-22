@@ -1,6 +1,6 @@
 +++
 title = "Unsupervised learning applied to robotic vision"
-date = 2017-11-24
+date = 2017-01-01
 authors = [ "Victor Boutin", "Franck Ruffier", "Laurent U Perrinet",]
 abstract = ""
 featured = false

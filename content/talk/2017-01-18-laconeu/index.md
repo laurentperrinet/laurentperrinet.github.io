@@ -1,6 +1,6 @@
 +++
 title = "Back to the present: how neurons deal with delays"
-date = 2017-01-18
+date = 2017-01-01
 authors = [ "Laurent U Perrinet",]
 abstract = ""
 featured = false
