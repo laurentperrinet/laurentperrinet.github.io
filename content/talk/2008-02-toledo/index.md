@@ -1,0 +1,11 @@
++++
+title = "Modeling of spikes, sparseness and adaptation in the primary visual cortex: applications to imaging"
+date = 2008-01-01
+authors = ["Laurent Perrinet"]
+publication_types = ["1"]
+abstract = ""
+featured = false
+publication = "*Prisma workshop, Toledo (Spain), February 7, 2008*"
+url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2008-02_toledo"
++++
+

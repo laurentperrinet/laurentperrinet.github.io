@@ -10,7 +10,7 @@ subtitle = ""
 weight = 30
 
 # Number of talks to list.
-count = 10
+count = 5
 
 # View.
 #   1 = List
@@ -21,4 +21,3 @@ view = 2
 # Exclude talks that are shown in the Featured Talks widget?
 exclude_featured = false
 +++
-

@@ -1,5 +1,7 @@
 
-
+# for type in ['Presentations', 'Publications', 'Events']:
+#for type in ['Presentations']:
+type = 'Publications'
 # 1- getting all citekeys
 import bibtexparser
 from bibtexparser.bparser import BibTexParser
@@ -7,7 +9,7 @@ from bibtexparser.bwriter import BibTexWriter
 from bibtexparser.bibdatabase import BibDatabase
 from bibtexparser.customization import convert_to_unicode
 
-bibtex = '../perrinet_curriculum-vitae_tex/LaurentPerrinet.bib'
+bibtex = '../perrinet_curriculum-vitae_tex/LaurentPerrinet_{type}.bib'
 keys = []
 # Load BibTeX file for parsing.
 with open(bibtex, 'r', encoding='utf-8') as bibtex_file:

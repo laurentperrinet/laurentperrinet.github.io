@@ -1,0 +1,13 @@
++++
+title = "Signature of an anticipatory response in area V1 as modeled by a probabilistic model and a spiking neural network"
+date = 2014-01-01
+authors = ["Bernhard A. Kaplan", "Mina A. Khoei", "Anders Lansner", "Laurent U. Perrinet"]
+publication_types = ["1"]
+abstract = ""
+featured = false
+publication = "*2014 International Joint Conference on Neural Networks (IJCNN)*"
+tags = ["bayesian", "bicv-motion", "khoei14thesis", "khoei15fle", "models", "neural_delays"]
+url_pdf = "http://invibe.net/LaurentPerrinet/Publications/KaplanKhoei14"
+doi = "10.1109/IJCNN.2014.6889847"
++++
+
