@@ -1,6 +1,6 @@
 +++
 title = "Dynamical contrast gain control mechanisms in a layer 2/3 model of the primary visual cortex"
-date = 2006-02-22
+date = 2006-02-23
 authors = [ "Laurent U Perrinet", "Jens Kremkow",]
 publication_types = [ "1",]
 abstract = ""

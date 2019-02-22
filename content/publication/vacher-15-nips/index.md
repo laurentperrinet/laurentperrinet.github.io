@@ -1,6 +1,6 @@
 +++
 title = "Biologically Inspired Dynamic Textures for Probing Motion Perception"
-date = 2015-02-22
+date = 2015-02-23
 authors = [ "Jonathan Vacher", "Andrew Isaac Meso", "Laurent U Perrinet", "Gabriel Peyré",]
 publication_types = [ "6",]
 abstract = ""

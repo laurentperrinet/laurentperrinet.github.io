@@ -1,6 +1,6 @@
 +++
 title = "Biologically Inspired Computer Vision"
-date = 2015-11-22
+date = 2015-11-23
 authors = [ "Gabriel Cristóbal", "Laurent U Perrinet", "Matthias S. Keil",]
 publication_types = [ "5",]
 abstract = ""
@@ -27,6 +27,7 @@ name = "supplementary material"
 url = "https://invibe.net/LaurentPerrinet/Publications/PerrinetBednar15?action=AttachFile&do=get&target=PerrinetBednar15supplementary.pdf"
 
 +++
+
 
 
 

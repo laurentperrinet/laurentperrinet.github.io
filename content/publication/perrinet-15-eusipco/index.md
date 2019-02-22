@@ -1,12 +1,12 @@
 +++
 title = "Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences"
-date = 2015-08-22
+date = 2015-08-23
 authors = [ "Laurent U Perrinet", "James A. Bednar",]
 publication_types = [ "1",]
 abstract = "Oriented edges in images of natural scenes tend to be aligned in co-linear or co-circular arrangements, with lines and smooth curves more common than other possible arrangements of edges (the g̈ood continuation lawöf Gestalt psychology). The visual system appears to take advantage of this prior knowledge about natural images, with human contour detection and grouping performance well predicted by such an s̈̈ociation field̈ẅ̈een edge elements. Geisler et al (2001) have estimated this prior information available to the visual system by extracting contours from a database of natural images, and showed that these statistics could predict behavioral data from humans in a line completion task. In this paper, we show that an association field of this type can be used for the sparse representation of natural images."
 featured = false
 publication = "*European Signal Processing Conference 2015 (EUSIPCO 2015)*"
-tags = [ "sparselets", "coding decoding", "lateral connections", "Biologically Inspired Computer vision", "sparse coding", "association field", "staistics of natural images",]
+tags = [ "association field", "sparse coding", "sparselets", "Biologically Inspired Computer vision", "staistics of natural images", "coding decoding", "lateral connections",]
 url_pdf = "http://dx.doi.org/10.1109/EUSIPCO.2015.7362781"
 doi = "10.1109/EUSIPCO.2015.7362781"
 projects = [ "bala-v1",]

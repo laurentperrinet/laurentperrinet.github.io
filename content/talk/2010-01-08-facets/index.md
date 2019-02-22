@@ -5,6 +5,6 @@ authors = [ "Laurent Perrinet", "Guillaume S. Masson",]
 abstract = ""
 featured = false
 publication = ""
-tags = [ " bayesian modeling", " 2D Motion", " motion-based segmentation", " Motion perception", " neural masses", " Navier-Stokes", " ocular following response", " probabilistic framework", " center-surround integration", " PDE", " center-surround stimulation", " divisive normalization.", " particles", "Neuronal representation",]
+tags = [ " motion-based segmentation", " 2D Motion", " ocular following response", " probabilistic framework", " Motion perception", " PDE", " divisive normalization.", " center-surround stimulation", " Navier-Stokes", " bayesian modeling", " particles", " neural masses", "Neuronal representation", " center-surround integration",]
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2010-01-08_facets"
 +++

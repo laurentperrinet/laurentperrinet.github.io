@@ -1,6 +1,6 @@
 +++
 title = "Role of motion-based prediction in motion extrapolation"
-date = 2012-02-22
+date = 2012-02-23
 authors = [ "Mina A. Khoei", "Laurent U Perrinet", "Guillaume S Masson",]
 publication_types = [ "1",]
 abstract = ""

@@ -6,5 +6,8 @@ abstract = ""
 featured = false
 publication = "*Workshop on Computational Neuroscience entitled \"New trends and challenges for 2030\"*"
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2017-01-18_LACONEU"
-event = "Workshop on Computational Neuroscience entitled \\\"New trends and challenges for 2030\\\""
+event = "Workshop on Computational Neuroscience \\\"New trends and challenges for 2030\\\""
+event_url = "http://cinv.uv.cl/laconeu-workshop"
+location = "Valparaiso (Chile)"
+time_start = 2017-01-18T09:00:00
 +++

@@ -1,6 +1,6 @@
 +++
 title = "Modeling the effect of dynamic contingencies on anticipatory eye movements"
-date = 2016-02-22
+date = 2016-02-23
 authors = [ "Jean-Bernard Damasse", "Anna Montagnini", "Laurent U Perrinet",]
 publication_types = [ "1",]
 abstract = ""

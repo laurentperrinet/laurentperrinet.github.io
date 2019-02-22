@@ -1,12 +1,12 @@
 +++
 title = "Sparse Approximation of Images Inspired from the Functional Architecture of the Primary Visual Areas"
-date = 2007-02-22
+date = 2007-02-23
 authors = [ "Sylvain Fischer", "Rafael Redondo", "Laurent U Perrinet", "Gabriel Cristóbal",]
 publication_types = [ "2",]
 abstract = ""
 featured = false
 publication = "*EURASIP Journal on Advances in Signal Processing*"
-tags = [ "Biologically Inspired Computer vision", "motion-clouds", "association field", "log-gabor",]
+tags = [ "Biologically Inspired Computer vision", "log-gabor", "motion-clouds", "association field",]
 url_pdf = "http://dx.doi.org/10.1155/2007/90727"
 doi = "10.1155/2007/90727"
 +++
