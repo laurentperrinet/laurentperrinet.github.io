@@ -123,7 +123,7 @@ normalize = False
 pub_dir = 'publication'
 if True:
     for file_path in glob.glob(f"content/{pub_dir}/**/index.md"):
-        new_key = file_path.split('content/publication/')[-1].split('/index.md')[0]
+        new_key = file_path.split('content/{pub_dir}/')[-1].split('/index.md')[0]
         if not new_key in ['___template___',  'person-re-id']:
             with open(file_path, 'r', encoding='utf-8') as source_file:
                 page = source_file.read() + '\n'
@@ -186,6 +186,7 @@ if True:
                 parsed_toml['tags'] = clean_bibtex_tags(entry["keywords"], normalize)
             if 'projects' in entry:
                 parsed_toml['projects'] = clean_bibtex_tags(entry["projects"], normalize)
+                print(parsed_toml['projects'])
 
             if 'url' in entry:
                 parsed_toml['url_pdf'] = f'{clean_bibtex_str(entry["url"])}'
@@ -194,7 +195,6 @@ if True:
 
             if 'doi' in entry:
                 parsed_toml['doi'] = f'{entry["doi"]}'
-
 
             metadata[1] = toml.dumps(parsed_toml)
 
