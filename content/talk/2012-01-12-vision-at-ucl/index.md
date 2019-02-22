@@ -1,12 +1,11 @@
 +++
 title = "Motion-based prediction is sufficient to solve the aperture problem"
-date = 2012-01-01
-authors = ["Laurent Perrinet"]
-publication_types = ["1"]
+date = 2012-01-12T00:00:00
+authors = [ "Laurent Perrinet",]
 abstract = "In low-level sensory systems, it is still unclear how the noisy information collected locally by neurons may give rise to a coherent global percept. This is well demonstrated for the detection of motion in the aperture problem: as luminance of an elongated line is symmetrical along its axis, tangential velocity is ambiguous when measured locally. Here, we develop the hypothesis that motion-based predictive coding is sufficient to infer global motion. Our implementation is based on a context-dependent diffusion of a probabilistic representation of motion. We observe in simulations a progressive solution to the aperture problem similar to psychophysics and behavior. We demonstrate that this solution is the result of  two underlying mechanisms. First, we demonstrate the formation of a tracking behavior favoring temporally coherent features independently of their texture. Second, we observe that incoherent features are explained away while coherent information diffuses progressively to the global scale. Most previous models included ad-hoc mechanisms such as end-stopped cells or a selection layer to track specific luminance-based features. Here, we have proved that motion-based predictive coding, as it is  implemented in this functional model, is sufficient to solve the aperture problem. This simpler solution may give insights in the role of prediction underlying a large class of sensory computations.  "
 featured = false
 publication = "*Vision@UCL seminar - Thursday, 12th January, 5pm*"
-tags = ["Neuronal representation", "Bayesian modeling", "ocular following response", "center-surround stimulation", "probabilistic framework", "Motion perception", "motion-based segmentation", "PDE", "neural masses", "Navier-Stokes", "particles", "2D Motion", "center-surround integration", "divisive normalization."]
+tags = [ " 2D Motion", " motion-based segmentation", " Motion perception", " neural masses", " Navier-Stokes", " ocular following response", " probabilistic framework", " center-surround integration", " PDE", " center-surround stimulation", " divisive normalization.", " particles", "Neuronal representation", " Bayesian modeling",]
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2012-01-12_VisionAtUcl"
+event = "Vision@UCL seminar - Thursday, 12th January, 5pm"
 +++
-

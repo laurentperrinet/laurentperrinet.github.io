@@ -1,6 +1,6 @@
 +++
 title = "Sparse Approximation of Images Inspired from the Functional Architecture of the Primary Visual Areas"
-date = "2007"
+date = 2007-02-22T00:00:00
 authors = [ "Sylvain Fischer", "Rafael Redondo", "Laurent U Perrinet", "Gabriel Cristóbal",]
 publication_types = [ "2",]
 abstract = ""

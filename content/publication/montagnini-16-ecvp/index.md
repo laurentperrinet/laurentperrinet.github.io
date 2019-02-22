@@ -1,6 +1,6 @@
 +++
 title = "Effects of motion predictability on anticipatory and visually-guided eye movements: a common prior for sensory processing and motor control?"
-date = "2016"
+date = 2016-02-22T00:00:00
 authors = [ "Anna Montagnini", "Jean-Bernard Damasse", "Laurent U Perrinet", "Guillaume S Masson",]
 publication_types = [ "1",]
 abstract = ""

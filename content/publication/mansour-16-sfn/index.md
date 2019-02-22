@@ -1,6 +1,6 @@
 +++
 title = "Voluntary tracking the moving clouds : Effects of speed variability on human smooth pursuit"
-date = "2016"
+date = 2016-02-22T00:00:00
 authors = [ "Kiana Mansour Pour", "Laurent U Perrinet", "Guillaume S Masson", "Anna Montagnini",]
 publication_types = [ "1",]
 abstract = ""

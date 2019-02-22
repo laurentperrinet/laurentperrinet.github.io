@@ -1,6 +1,6 @@
 +++
 title = "Dynamical emergence of a neural solution for motion integration"
-date = "2010"
+date = 2010-02-22T00:00:00
 authors = [ "Laurent U Perrinet", "Guillaume S Masson",]
 publication_types = [ "1",]
 abstract = ""

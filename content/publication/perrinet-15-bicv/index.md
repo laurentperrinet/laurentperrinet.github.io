@@ -1,6 +1,6 @@
 +++
 title = "Sparse Models for Computer Vision"
-date = "2015-11"
+date = 2015-11-22T00:00:00
 authors = [ "Laurent U Perrinet",]
 publication_types = [ "6",]
 abstract = ""
