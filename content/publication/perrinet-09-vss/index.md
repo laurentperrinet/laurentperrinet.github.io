@@ -1,4 +1,5 @@
-+++title = "Inferring monkey ocular following responses from V1 population dynamics using a probabilistic model of motion integration"
++++
+title = "Inferring monkey ocular following responses from V1 population dynamics using a probabilistic model of motion integration"
 date = "2009"
 authors = [ "Laurent U Perrinet", "Alexandre Reynaud", "Frédéric Chavane", "Guillaume S Masson",]
 publication_types = [ "1",]
@@ -7,6 +8,8 @@ featured = false
 publication = "*Vision Science Society*"
 tags = [ "motion",]
 +++
+
+
 
 
 

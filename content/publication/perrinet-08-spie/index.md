@@ -1,4 +1,5 @@
-+++title = "Adaptive Sparse Spike Coding : applications of Neuroscience to the compression of natural images"
++++
+title = "Adaptive Sparse Spike Coding : applications of Neuroscience to the compression of natural images"
 date = "2008"
 authors = [ "Laurent U Perrinet",]
 publication_types = [ "1",]
@@ -7,6 +8,8 @@ featured = false
 publication = "*Optical and Digital Image Processing Conference 7000 - Proceedings of SPIE Volume 7000, 7 - 11 April 2008*"
 tags = [ "assofield", "coding", "competition", "computation", "correlation-based", "decorrelation", "inhibition", "matching", "neural", "optimized", "population", "pursuit", "sparse", "spike", "spike-event",]
 +++
+
+
 
 
 

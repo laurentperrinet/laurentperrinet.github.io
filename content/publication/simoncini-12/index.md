@@ -1,4 +1,5 @@
-+++title = "More is not always better: dissociation between perception and action explained by adaptive gain control"
++++
+title = "More is not always better: dissociation between perception and action explained by adaptive gain control"
 date = "2012"
 authors = [ "Claudio Simoncini", "Laurent U Perrinet", "Anna Montagnini", "Pascal Mamassian", "Guillaume S Masson",]
 publication_types = [ "2",]
@@ -12,7 +13,9 @@ featured = true
 +++
 
 
+
 {{< figure src="flash_lag.gif" title="*Band-pass motion stimuli for perception and action tasks.* (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples. Human performance was measured for two different tasks, run in parallel blocks. (b) For ocular tracking, motion stimuli were presented for a short duration (200ms) in the wake of a centering saccade to control both attention and fixation states. (c) For speed discrimination, test and reference stimuli were presented successively for the same duration and subjects were instructed to indicate whether the test stimulus was perceived as slower or faster than reference. " >}}
+
 
 
 

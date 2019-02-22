@@ -1,4 +1,5 @@
-+++title = "Motion Clouds: Model-based stimulus synthesis of natural-like random textures for the study of motion perception"
++++
+title = "Motion Clouds: Model-based stimulus synthesis of natural-like random textures for the study of motion perception"
 date = "2012-03-14"
 authors = [ "Paula S. Leon", "Ivo Vanzetta", "Guillaume S Masson", "Laurent U Perrinet",]
 publication_types = [ "2",]
@@ -11,6 +12,8 @@ doi = "10.1152/jn.00737.2011"
 url_preprint = "http://dx.doi.org/10.1152/jn.00737.2011"
 projects = [ "motion-clouds",]
 +++
+
+
 
 
 

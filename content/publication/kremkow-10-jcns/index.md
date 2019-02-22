@@ -1,4 +1,5 @@
-+++title = "Functional consequences of correlated excitatory and inhibitory conductances in cortical networks"
++++
+title = "Functional consequences of correlated excitatory and inhibitory conductances in cortical networks"
 date = "2010-06"
 authors = [ "Jens Kremkow", "Laurent U Perrinet", "Guillaume S Masson", "Ad M. Aertsen",]
 publication_types = [ "2",]
@@ -9,6 +10,8 @@ tags = [ "coding", "conductances", "correlated", "integration", "propagation", "
 url_pdf = "http://www.ncbi.nlm.nih.gov/pubmed/20490645"
 doi = "10.1007/s10827-010-0240-9"
 +++
+
+
 
 
 

@@ -1,4 +1,5 @@
-+++title = "Active inference, smooth pursuit and oculomotor delays."
++++
+title = "Active inference, smooth pursuit and oculomotor delays."
 date = "2012"
 authors = [ "Laurent U Perrinet", "Rick A. Adams", "Karl J Friston",]
 publication_types = [ "1",]
@@ -7,6 +8,8 @@ featured = false
 publication = "*Proceedings of AREADNE, Santorini, Greece, 21-24 June 2012, published by The AREADNE Foundation, Inc., Cambridge, Massachusetts, USA, http://areadne.org.*"
 tags = [ "active inference",]
 +++
+
+
 
 
 

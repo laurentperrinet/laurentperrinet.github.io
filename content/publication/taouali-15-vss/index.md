@@ -1,4 +1,5 @@
-+++title = "A dynamic model for decoding direction and orientation in macaque primary visual cortex"
++++
+title = "A dynamic model for decoding direction and orientation in macaque primary visual cortex"
 date = "2016"
 authors = [ "Wahiba Taouali", "Giacomo Benvenuti", "Frédéric Chavane", "Laurent U Perrinet",]
 publication_types = [ "1",]
@@ -9,6 +10,8 @@ url_pdf = "http://jov.arvojournals.org/article.aspx?articleid=2433592"
 doi = "10.1167/15.12.484"
 projects = [ "bala-v1",]
 +++
+
+
 
 
 

@@ -1,4 +1,5 @@
-+++title = "Coding static natural images using spiking event times: do neurons cooperate?"
++++
+title = "Coding static natural images using spiking event times: do neurons cooperate?"
 date = "2004-09"
 authors = [ "Laurent U Perrinet", "Manuel Samuelides", "Simon J Thorpe",]
 publication_types = [ "2",]
@@ -9,6 +10,8 @@ tags = [ "assofield", "asynchronous", "coding", "computing", "images", "matching
 url_pdf = "http://dx.doi.org/10.1109/TNN.2004.833303"
 doi = "10.1109/TNN.2004.833303"
 +++
+
+
 
 
 

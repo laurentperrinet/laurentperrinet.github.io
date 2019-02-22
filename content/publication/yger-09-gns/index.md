@@ -1,4 +1,5 @@
-+++title = "NeuralEnsemble: Towards a meta-environment for network modeling and data analysis"
++++
+title = "NeuralEnsemble: Towards a meta-environment for network modeling and data analysis"
 date = "2009"
 authors = [ "Pierre Yger", "Daniel Bruderle", "Jochen Eppler", "Jens Kremkow", "Dejan Pecevski", "Laurent U Perrinet", "Michael Schmuker", "Eilif Muller", "Andrew P Davison",]
 publication_types = [ "1",]
@@ -8,6 +9,8 @@ publication = "*Eighth Göttingen Meeting of the German Neuroscience Society*"
 tags = [ "neuralensemble", "neurotools", "pynn",]
 projects = [ "facets", " facets-itn", " brainscales",]
 +++
+
+
 
 
 

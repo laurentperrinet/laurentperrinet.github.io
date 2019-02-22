@@ -1,4 +1,5 @@
-+++title = "Complex dynamics in recurrent cortical networks based on spatially realistic connectivities"
++++
+title = "Complex dynamics in recurrent cortical networks based on spatially realistic connectivities"
 date = "2012"
 authors = [ "Nicole Voges", "Laurent U Perrinet",]
 publication_types = [ "2",]
@@ -9,6 +10,8 @@ tags = [ "dynamical_model", "lateral-connections", "patch-based", "recurrent_neu
 url_pdf = "https://laurentperrinet.github.io/publication/voges-12"
 doi = "10.3389/fncom.2012.00041"
 +++
+
+
 
 
 

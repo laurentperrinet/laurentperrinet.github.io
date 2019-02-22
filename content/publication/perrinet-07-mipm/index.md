@@ -1,4 +1,5 @@
-+++title = "Neural Codes for Adaptive Sparse Representations of Natural Images"
++++
+title = "Neural Codes for Adaptive Sparse Representations of Natural Images"
 date = "2007"
 authors = [ "Laurent U Perrinet",]
 publication_types = [ "1",]
@@ -7,6 +8,8 @@ featured = false
 publication = "*Mathematical image processing meeting (Marseille, France) September 5, 2007*"
 tags = [ "unsupervised_learning",]
 +++
+
+
 
 
 

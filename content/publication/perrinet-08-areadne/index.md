@@ -1,4 +1,5 @@
-+++title = "Decoding the population dynamics underlying ocular following response using a probabilistic framework"
++++
+title = "Decoding the population dynamics underlying ocular following response using a probabilistic framework"
 date = "2008"
 authors = [ "Laurent U Perrinet", "Guillaume S Masson",]
 publication_types = [ "1",]
@@ -7,6 +8,8 @@ featured = false
 publication = "*Proceedings of AREADNE, 2008*"
 tags = [ "bayesian", "center-surround interactions", "divisive normalization", "eye", "following", "integration", "interactions", "model", "motion", "movements", "normalization", "ocular", "perception", "response", "tracking", "visual perception",]
 +++
+
+
 
 
 

@@ -1,4 +1,5 @@
-+++title = "An efficiency razor for model selection and adaptation in the primary visual cortex"
++++
+title = "An efficiency razor for model selection and adaptation in the primary visual cortex"
 date = "2006"
 authors = [ "Laurent U Perrinet",]
 publication_types = [ "1",]
@@ -7,6 +8,8 @@ featured = false
 publication = "*Fifteenth Annual Computational Neuroscience Meeting*"
 tags = [ "unsupervised_learning",]
 +++
+
+
 
 
 

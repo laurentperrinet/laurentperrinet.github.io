@@ -1,4 +1,5 @@
-+++title = "From biological vision to unsupervised hierarchical sparse coding"
++++
+title = "From biological vision to unsupervised hierarchical sparse coding"
 date = "2018"
 authors = [ "Victor Boutin", "Angelo Franciosini", "Franck Ruffier", "Laurent U Perrinet",]
 publication_types = [ "1",]
@@ -8,6 +9,7 @@ publication = "*iTwist, 2018*"
 url_pdf = "https://arxiv.org/abs/1812.01335"
 tags = [ "sparse coding",]
 +++
+
 
 From biological vision to unsupervised hierarchical sparse coding
 =================================================================
@@ -21,6 +23,7 @@ From biological vision to unsupervised hierarchical sparse coding
 4. get full proceedings @ <a href="https://arxiv.org/html/1812.00648">https://arxiv.org/html/1812.00648</a>
 
 5. Poster <a href="https://invibe.net/LaurentPerrinet/Publications/BoutinFranciosiniRuffierPerrinet18itwist?action=AttachFile&do=get&target=BoutinFranciosiniRuffierPerrinet18itwist.pdf" title="PDF">PDF</a>
+
 
 
 

@@ -1,4 +1,5 @@
-+++title = "Sparse Gabor wavelets by local operations"
++++
+title = "Sparse Gabor wavelets by local operations"
 date = "2005-06-29"
 authors = [ "Sylvain Fischer", "Rafael Redondo", "Laurent U Perrinet", "Gabriel Cristóbal",]
 publication_types = [ "1",]
@@ -9,6 +10,8 @@ tags = [ "area-v1", "log-gabor", "receptive_field", "sparse coding",]
 url_pdf = "http://dx.doi.org/10.1117/12.608403"
 doi = "10.1117/12.608403"
 +++
+
+
 
 
 

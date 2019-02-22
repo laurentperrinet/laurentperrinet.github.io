@@ -1,4 +1,5 @@
-+++title = "Phase space analysis of networks based on biologically realistic parameters."
++++
+title = "Phase space analysis of networks based on biologically realistic parameters."
 date = "2010-11-10"
 authors = [ "Nicole Voges", "Laurent U Perrinet",]
 publication_types = [ "2",]
@@ -9,6 +10,8 @@ tags = [ "area-v1", "association field", "assofield", "perrinet11sfn",]
 url_pdf = "http://dx.doi.org/10.1016/j.jphysparis.2009.11.004"
 doi = "10.1016/j.jphysparis.2009.11.004"
 +++
+
+
 
 
 

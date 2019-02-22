@@ -1,4 +1,5 @@
-+++title = "Compensation of oculomotor delays in the visual system's network."
++++
+title = "Compensation of oculomotor delays in the visual system's network."
 date = "2016"
 authors = [ "Laurent U Perrinet", "Rick A. Adams", "Karl J Friston",]
 publication_types = [ "1",]
@@ -8,6 +9,8 @@ publication = "*Complex Networks: from theory to interdisciplinary applications.
 url_pdf = "https://laurentperrinet.github.io/publication/perrinet-16-networks"
 tags = [ "active inference",]
 +++
+
+
 
 
 

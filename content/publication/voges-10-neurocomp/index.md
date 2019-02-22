@@ -1,4 +1,5 @@
-+++title = "Phase space analysis of networks based on biologically realistic parameters"
++++
+title = "Phase space analysis of networks based on biologically realistic parameters"
 date = "2010"
 authors = [ "Nicole Voges", "Laurent U Perrinet",]
 publication_types = [ "2",]
@@ -7,6 +8,8 @@ featured = false
 publication = "*Journal of Physiology-Paris*"
 tags = [ "lateral-connections",]
 +++
+
+
 
 
 

@@ -1,4 +1,5 @@
-+++title = "Suppressive waves disambiguate the representation of long-range apparent motion in awake monkey V1"
++++
+title = "Suppressive waves disambiguate the representation of long-range apparent motion in awake monkey V1"
 date = "2018-07-20"
 authors = [ "Sandrine Chemla", "Alexandre Reynaud", "Matteo diVolo", "Yann Zerlaut", "Laurent U Perrinet", "Alain Destexhe", "Frédéric Chavane",]
 publication_types = [ "2",]
@@ -8,6 +9,8 @@ publication = ""
 url_pdf = "http://biorxiv.org/lookup/doi/10.1101/372763"
 doi = "10/gdvqbh"
 +++
+
+
 
 
 

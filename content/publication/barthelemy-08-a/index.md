@@ -1,4 +1,5 @@
-+++title = "Dynamics of distributed 1D and 2D motion representations for short-latency ocular following."
++++
+title = "Dynamics of distributed 1D and 2D motion representations for short-latency ocular following."
 date = "2008-02"
 authors = [ "Frédéric V. Barthélemy", "Laurent U Perrinet", "Eric Castet", "Guillaume S Masson",]
 publication_types = [ "2",]
@@ -9,6 +10,8 @@ tags = [ "bayesian", "khoei13jpp", "model", "motion-clouds", "motion-integration
 url_pdf = "http://dx.doi.org/10.1016/j.visres.2007.10.020"
 doi = "10.1016/j.visres.2007.10.020"
 +++
+
+
 
 
 

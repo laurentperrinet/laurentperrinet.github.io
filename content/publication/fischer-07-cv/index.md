@@ -1,4 +1,5 @@
-+++title = "Self-Invertible 2D Log-Gabor Wavelets"
++++
+title = "Self-Invertible 2D Log-Gabor Wavelets"
 date = "2007-01-13"
 authors = [ "Sylvain Fischer", "Filip Šroubek", "Laurent U Perrinet", "Rafael Redondo", "Gabriel Cristóbal",]
 publication_types = [ "2",]
@@ -9,6 +10,8 @@ tags = [ "denoising", "filters", "image", "log-gabor", "oriented", "transforms",
 url_pdf = "http://dx.doi.org/10.1007/s11263-006-0026-8"
 doi = "10.1007/s11263-006-0026-8"
 +++
+
+
 
 
 

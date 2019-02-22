@@ -1,4 +1,5 @@
-+++title = "Probabilistic models of the low-level visual system: the role of prediction in detecting motion"
++++
+title = "Probabilistic models of the low-level visual system: the role of prediction in detecting motion"
 date = "2010"
 authors = [ "Laurent U Perrinet",]
 publication_types = [ "1",]
@@ -8,6 +9,8 @@ publication = "*LADISLAV TAUC & GDR MSPC NEUROSCIENCES CONFERENCE, From Mathemat
 tags = [ "bayesian", "center-surround interactions", "divisive normalization", "motion-perception", "motion-segmentation", "motion_2d", "navier-stokes", "neural_masses", "neuronal_representation", "ocular_following_response", "particle-filter", "pde", "probabilistic_framework",]
 url_pdf = "http://www.incm.cnrs-mrs.fr/LaurentPerrinet/Presentations/10-12-17_TaucTalk"
 +++
+
+
 
 
 

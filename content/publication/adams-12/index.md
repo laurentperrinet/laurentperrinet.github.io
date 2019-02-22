@@ -1,4 +1,5 @@
-+++title = "Smooth Pursuit and Visual Occlusion: Active Inference and Oculomotor Control in Schizophrenia"
++++
+title = "Smooth Pursuit and Visual Occlusion: Active Inference and Oculomotor Control in Schizophrenia"
 date = "2012-10-26"
 authors = [ "Rick A. Adams", "Laurent U Perrinet", "Karl J Friston",]
 publication_types = [ "2",]
@@ -9,6 +10,8 @@ tags = [ "occlusion", "schizophrenia", "spem; active inference",]
 url_pdf = "http://dx.doi.org/10.1371/journal.pone.0047502"
 doi = "10.1371/journal.pone.0047502"
 +++
+
+
 
 
 

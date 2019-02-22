@@ -202,6 +202,6 @@ if True:
             try:
                 print(f"Saving Markdown to '{file_path}'")
                 with open(file_path, 'w', encoding='utf-8') as f:
-                    f.write('+++'.join(metadata))
+                    f.write('+++\n'.join(metadata))
             except IOError:
                 print('ERROR: could not save file.')

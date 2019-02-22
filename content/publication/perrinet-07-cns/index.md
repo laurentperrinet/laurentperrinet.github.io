@@ -1,4 +1,5 @@
-+++title = "On efficient sparse spike coding schemes for learning natural scenes in the primary visual cortex"
++++
+title = "On efficient sparse spike coding schemes for learning natural scenes in the primary visual cortex"
 date = "2007"
 authors = [ "Laurent U Perrinet",]
 publication_types = [ "1",]
@@ -9,6 +10,8 @@ tags = [ "area-v1",]
 url_pdf = "http://dx.doi.org/10.1186/1471-2202-8-S2-P206"
 doi = "10.1186/1471-2202-8-S2-P206"
 +++
+
+
 
 
 

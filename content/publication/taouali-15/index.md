@@ -1,4 +1,5 @@
-+++title = "Testing the Odds of Inherent versus Observed Over-dispersion in Neural Spike Counts"
++++
+title = "Testing the Odds of Inherent versus Observed Over-dispersion in Neural Spike Counts"
 date = "2015-10-07"
 authors = [ "Wahiba Taouali", "Giacomo Benvenuti", "Pascal Wallisch", "Frédéric Chavane", "Laurent U Perrinet",]
 publication_types = [ "2",]
@@ -10,6 +11,8 @@ url_pdf = "https://laurentperrinet.github.io/publication/taouali-15"
 doi = "10.1152/jn.00194.2015"
 projects = [ "bala-v1",]
 +++
+
+
 
 
 

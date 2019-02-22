@@ -1,4 +1,5 @@
-+++title = "On overdispersion in neuronal evoked activity"
++++
+title = "On overdispersion in neuronal evoked activity"
 date = "2015"
 authors = [ "Wahiba Taouali", "Giacomo Benvenuti", "Pascal Wallisch", "Frédéric Chavane", "Laurent U Perrinet",]
 publication_types = [ "1",]
@@ -7,6 +8,8 @@ featured = false
 publication = "*ICMNS 2015 conference*"
 projects = [ "bala-v1",]
 +++
+
+
 
 
 

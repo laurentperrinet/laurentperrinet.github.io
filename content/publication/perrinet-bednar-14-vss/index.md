@@ -1,4 +1,5 @@
-+++title = "Edge co-occurrences are sufficient to categorize natural versus animal images"
++++
+title = "Edge co-occurrences are sufficient to categorize natural versus animal images"
 date = "2014-08-22"
 authors = [ "Laurent U Perrinet", "James A. Bednar",]
 publication_types = [ "2",]
@@ -10,6 +11,8 @@ url_pdf = "http://dx.doi.org/10.1167/14.10.1310"
 doi = "10.1167/14.10.1310"
 projects = [ "bala-v1",]
 +++
+
+
 
 
 

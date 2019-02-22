@@ -1,4 +1,5 @@
-+++title = "Network of integrate-and-fire neurons using Rank Order Coding B: spike timing dependant plasticity and emergence of orientation selectivity."
++++
+title = "Network of integrate-and-fire neurons using Rank Order Coding B: spike timing dependant plasticity and emergence of orientation selectivity."
 date = "2001"
 authors = [ "Arnaud Delorme", "Laurent U Perrinet", "Simon J Thorpe", "Manuel Samuelides",]
 publication_types = [ "2",]
@@ -9,6 +10,8 @@ tags = [ "stdp",]
 url_pdf = "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.18.4990"
 doi = "10.1.1.18.4990"
 +++
+
+
 
 
 

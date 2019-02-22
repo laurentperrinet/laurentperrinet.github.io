@@ -1,4 +1,5 @@
-+++title = "Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize"
++++
+title = "Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize"
 date = "2011-09-23"
 authors = [ "Claudio Simoncini", "Anna Montagnini", "Laurent U Perrinet", "Pascal Mamassian", "Guillaume S Masson",]
 publication_types = [ "2",]
@@ -9,6 +10,8 @@ tags = [ "motion_clouds",]
 url_pdf = "http://dx.doi.org/10.1167/11.11.749"
 doi = "10.1167/11.11.749"
 +++
+
+
 
 
 

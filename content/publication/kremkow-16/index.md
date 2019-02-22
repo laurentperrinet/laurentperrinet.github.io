@@ -1,4 +1,5 @@
-+++title = "Push-Pull Receptive Field Organization and Synaptic Depression: Mechanisms for Reliably Encoding Naturalistic Stimuli in V1"
++++
+title = "Push-Pull Receptive Field Organization and Synaptic Depression: Mechanisms for Reliably Encoding Naturalistic Stimuli in V1"
 date = "2016"
 authors = [ "Jens Kremkow", "Laurent U Perrinet", "Cyril Monier", "Jose-Manuel Alonso", "Ad M. Aertsen", "Yves Frégnac", "Guillaume S Masson",]
 publication_types = [ "2",]
@@ -9,6 +10,8 @@ tags = [ "Visual Cortex", "area-v1", "natural visual stimuli", "push-pull recept
 url_pdf = "http://journal.frontiersin.org/article/10.3389/fncir.2016.00037/full"
 doi = "10.3389/fncir.2016.00037"
 +++
+
+
 
 
 

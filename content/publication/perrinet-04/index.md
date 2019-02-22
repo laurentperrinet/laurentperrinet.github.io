@@ -1,4 +1,5 @@
-+++title = "Finding Independent Components using spikes : a natural result of hebbian learning in a sparse spike coding scheme"
++++
+title = "Finding Independent Components using spikes : a natural result of hebbian learning in a sparse spike coding scheme"
 date = "2004-01"
 authors = [ "Laurent U Perrinet",]
 publication_types = [ "2",]
@@ -9,6 +10,8 @@ tags = [ "area-v1", "sparselet", "unsupervised_learning",]
 url_pdf = "http://dx.doi.org/10.1023/B:NACO.0000027753.27593.a7"
 doi = "10.1023/B:NACO.0000027753.27593.a7"
 +++
+
+
 
 
 

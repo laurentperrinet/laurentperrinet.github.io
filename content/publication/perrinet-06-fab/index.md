@@ -1,4 +1,5 @@
-+++title = "Dynamical contrast gain control mechanisms in a layer 2/3 model of the primary visual cortex"
++++
+title = "Dynamical contrast gain control mechanisms in a layer 2/3 model of the primary visual cortex"
 date = "2006"
 authors = [ "Laurent U Perrinet", "Jens Kremkow",]
 publication_types = [ "1",]
@@ -7,6 +8,8 @@ featured = false
 publication = "*The Functional Architecture of the Brain : from Dendrites to Networks. Symposium in honour of Dr Suzanne Tyc-Dumont. 4- 5 May 2006. GLM, Marseille, France*"
 tags = [ "gain_control",]
 +++
+
+
 
 
 

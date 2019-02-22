@@ -1,4 +1,5 @@
-+++title = "A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise"
++++
+title = "A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise"
 date = "2014"
 authors = [ "Wahiba Taouali", "Laurent U Perrinet",]
 publication_types = [ "1",]
@@ -7,6 +8,8 @@ featured = false
 publication = "*6th Workshop of the Computational Neuroscience Network in Marseille*"
 projects = [ "bala-v1",]
 +++
+
+
 
 
 

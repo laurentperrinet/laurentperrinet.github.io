@@ -1,4 +1,5 @@
-+++title = "PyNN: A Common Interface for Neuronal Network Simulators"
++++
+title = "PyNN: A Common Interface for Neuronal Network Simulators"
 date = "2008"
 authors = [ "Andrew P Davison", "Daniel Bruderle", "Jochen Eppler", "Jens Kremkow", "Eilif Muller", "Dejan Pecevski", "Laurent U Perrinet", "Pierre Yger",]
 publication_types = [ "2",]
@@ -9,6 +10,8 @@ tags = [ "computational-neuroscience", "kaplan13", "pynn",]
 url_pdf = "http://dx.doi.org/10.3389/neuro.11.011.2008"
 doi = "10.3389/neuro.11.011.2008"
 +++
+
+
 
 
 

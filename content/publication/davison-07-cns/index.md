@@ -1,4 +1,5 @@
-+++title = "PyNN: towards a universal neural simulator API in Python"
++++
+title = "PyNN: towards a universal neural simulator API in Python"
 date = "2007"
 authors = [ "Andrew P Davison", "Pierre Yger", "Jens Kremkow", "Laurent U Perrinet", "Eilif Muller",]
 publication_types = [ "1",]
@@ -9,6 +10,8 @@ tags = [ "pynn",]
 url_pdf = "http://dx.doi.org/10.1186/1471-2202-8-S2-P2"
 doi = "10.1186/1471-2202-8-S2-P2"
 +++
+
+
 
 
 

@@ -1,4 +1,5 @@
-+++title = "Dynamic inference for motion tracking"
++++
+title = "Dynamic inference for motion tracking"
 date = "2007"
 authors = [ "Anna Montagnini", "Pascal Mamassian", "Laurent U Perrinet", "Eric Castet", "Guillaume S Masson",]
 publication_types = [ "1",]
@@ -7,6 +8,8 @@ featured = false
 publication = "*Perception 36 ECVP Abstract Supplement*"
 tags = [ "motion",]
 +++
+
+
 
 
 

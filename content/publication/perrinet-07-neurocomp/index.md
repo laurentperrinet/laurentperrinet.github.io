@@ -1,4 +1,5 @@
-+++title = "Modeling spatial integration in the ocular following response using a probabilistic framework"
++++
+title = "Modeling spatial integration in the ocular following response using a probabilistic framework"
 date = "2007"
 authors = [ "Laurent U Perrinet", "Guillaume S Masson",]
 publication_types = [ "2",]
@@ -9,6 +10,8 @@ tags = [ "bayesian", "center-surround interactions", "eye", "following", "integr
 url_pdf = "http://dx.doi.org/10.1016/j.jphysparis.2007.10.011"
 doi = "10.1016/j.jphysparis.2007.10.011"
 +++
+
+
 
 
 

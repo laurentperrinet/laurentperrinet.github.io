@@ -1,4 +1,5 @@
-+++title = "Input-output transformation in the visuo-oculomotor loop: modeling the ocular following response to center-surround stimulation in a probabilistic framework"
++++
+title = "Input-output transformation in the visuo-oculomotor loop: modeling the ocular following response to center-surround stimulation in a probabilistic framework"
 date = "2006"
 authors = [ "Laurent U Perrinet", "Frédéric V. Barthélemy", "Guillaume S Masson",]
 publication_types = [ "1",]
@@ -7,6 +8,8 @@ featured = false
 publication = "*1ère conférence francophone NEUROsciences COMPutationnelles - NeuroComp*"
 tags = [ "aperture", "bayesian", "evolution", "eye", "inference", "model", "motion", "movement", "object", "problem", "pursuit", "recursive", "smooth", "temporal",]
 +++
+
+
 
 
 

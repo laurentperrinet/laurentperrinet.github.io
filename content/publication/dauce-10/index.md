@@ -1,4 +1,5 @@
-+++title = "Computational Neuroscience, from Multiple Levels to Multi-level"
++++
+title = "Computational Neuroscience, from Multiple Levels to Multi-level"
 date = "2010"
 authors = [ "Emmanuel Daucé", "Laurent U Perrinet",]
 publication_types = [ "2",]
@@ -8,6 +9,8 @@ publication = "*Journal of Physiology-Paris*"
 url_pdf = "http://dx.doi.org/10.1016/j.jphysparis.2009.11.001"
 doi = "10.1016/j.jphysparis.2009.11.001"
 +++
+
+
 
 
 

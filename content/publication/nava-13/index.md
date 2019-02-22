@@ -1,4 +1,5 @@
-+++title = "Advances in Texture Analysis for Emphysema Classification"
++++
+title = "Advances in Texture Analysis for Emphysema Classification"
 date = "2013"
 authors = [ "Rodrigo Nava", "J. Victor Marcos", "Boris Escalante-Ramirez", "Gabriel Cristóbal", "Laurent U Perrinet", "Raúl S. J. Estépar",]
 publication_types = [ "6",]
@@ -9,6 +10,8 @@ tags = [ "sparse coding", "texture", "translational-science",]
 url_pdf = "http://dx.doi.org/10.1007/978-3-642-41827-3_27"
 doi = "10.1007/978-3-642-41827-3_27"
 +++
+
+
 
 
 

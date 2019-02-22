@@ -1,4 +1,5 @@
-+++title = "Motion-based prediction is sufficient to solve the aperture problem"
++++
+title = "Motion-based prediction is sufficient to solve the aperture problem"
 date = "2012"
 authors = [ "Guillaume S Masson", "Laurent U Perrinet",]
 publication_types = [ "1",]
@@ -8,6 +9,8 @@ publication = "*Proceedings of AREADNE*"
 tags = [ "aperture problem", "probabilistic representation", "predictive coding", "emergence",]
 url_pdf = "https://laurentperrinet.github.io/publication/masson-12-areadne"
 +++
+
+
 
 
 

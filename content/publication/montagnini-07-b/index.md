@@ -1,4 +1,5 @@
-+++title = "Visual tracking of ambiguous moving objects: A recursive Bayesian model"
++++
+title = "Visual tracking of ambiguous moving objects: A recursive Bayesian model"
 date = "2007"
 authors = [ "Anna Montagnini", "Pascal Mamassian", "Laurent U Perrinet", "Guillaume S Masson",]
 publication_types = [ "2",]
@@ -7,6 +8,8 @@ featured = false
 publication = "*Journal of Vision*"
 tags = [ "bayesian",]
 +++
+
+
 
 
 

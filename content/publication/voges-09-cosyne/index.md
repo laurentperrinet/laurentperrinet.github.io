@@ -1,4 +1,5 @@
-+++title = "Dynamical state spaces of cortical networks representing various horizontal connectivities"
++++
+title = "Dynamical state spaces of cortical networks representing various horizontal connectivities"
 date = "2009"
 authors = [ "Nicole Voges", "Laurent U Perrinet",]
 publication_types = [ "1",]
@@ -7,6 +8,8 @@ featured = false
 publication = "*Proceedings of COSYNE, 2009*"
 tags = [ "lateral-connections",]
 +++
+
+
 
 
 

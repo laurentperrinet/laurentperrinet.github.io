@@ -1,4 +1,5 @@
-+++title = "Anticipatory smooth eye movements and reinforcement"
++++
+title = "Anticipatory smooth eye movements and reinforcement"
 date = "2015"
 authors = [ "Jean-Bernard Damasse", "Laurent Madelain", "Laurent U Perrinet", "Anna Montagnini",]
 publication_types = [ "1",]
@@ -8,6 +9,8 @@ publication = "*Proceedings of VSS*"
 url_pdf = "http://jov.arvojournals.org/article.aspx?articleid=2434129"
 doi = "10.1167/15.12.1019"
 +++
+
+
 
 
 

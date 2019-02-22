@@ -1,4 +1,5 @@
-+++title = "Anisotropic connectivity implements motion-based prediction in a spiking neural network"
++++
+title = "Anisotropic connectivity implements motion-based prediction in a spiking neural network"
 date = "2013-09-17"
 authors = [ "Bernhard A. Kaplan", "Anders Lansner", "Guillaume S Masson", "Laurent U Perrinet",]
 publication_types = [ "2",]
@@ -9,6 +10,8 @@ tags = [ "motion detection", "motion extrapolation", "probabilistic representati
 url_pdf = "https://laurentperrinet.github.io/publication/kaplan-13"
 doi = "10.3389/fncom.2013.00112"
 +++
+
+
 
 
 

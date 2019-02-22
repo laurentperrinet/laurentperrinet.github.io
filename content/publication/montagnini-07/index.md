@@ -1,4 +1,5 @@
-+++title = "Bayesian modeling of dynamic motion integration"
++++
+title = "Bayesian modeling of dynamic motion integration"
 date = "2007-01"
 authors = [ "Anna Montagnini", "Pascal Mamassian", "Laurent U Perrinet", "Eric Castet", "Guillaume S Masson",]
 publication_types = [ "2",]
@@ -9,6 +10,8 @@ tags = [ "bayesian", "kaplan13", "khoei13jpp", "perrinet12pred",]
 url_pdf = "http://dx.doi.org/10.1016/j.jphysparis.2007.10.013"
 doi = "10.1016/j.jphysparis.2007.10.013"
 +++
+
+
 
 
 

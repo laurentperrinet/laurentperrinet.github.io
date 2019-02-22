@@ -1,4 +1,5 @@
-+++title = "M2APix: a bio-inspired auto-adaptive visual sensor for robust ground height estimation"
++++
+title = "M2APix: a bio-inspired auto-adaptive visual sensor for robust ground height estimation"
 date = "2018"
 authors = [ "Julien Dupeyroux", "Victor Boutin", "Julien R Serres", "Laurent U Perrinet", "Stéphane Viollet",]
 publication_types = [ "1",]
@@ -7,6 +8,8 @@ featured = false
 publication = "*ISCAS2018, IEEE International Symposium on Circuits and Systems*"
 url_pdf = "https://ieeexplore.ieee.org/abstract/document/8351433"
 +++
+
+
 
 
 

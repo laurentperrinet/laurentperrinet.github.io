@@ -1,4 +1,5 @@
-+++title = "Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences"
++++
+title = "Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences"
 date = "2015-08"
 authors = [ "Laurent U Perrinet", "James A. Bednar",]
 publication_types = [ "1",]
@@ -10,6 +11,8 @@ url_pdf = "http://dx.doi.org/10.1109/EUSIPCO.2015.7362781"
 doi = "10.1109/EUSIPCO.2015.7362781"
 projects = [ "bala-v1",]
 +++
+
+
 
 
 

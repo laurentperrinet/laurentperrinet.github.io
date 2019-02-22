@@ -1,4 +1,5 @@
-+++title = "Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception."
++++
+title = "Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception."
 date = "2012"
 authors = [ "Claudio Simoncini", "Anna Montagnini", "Laurent U Perrinet", "Guillaume S Masson",]
 publication_types = [ "1",]
@@ -10,6 +11,8 @@ projects = [ "motion-clouds",]
 url_pdf = "http://www.journalofvision.org/content/12/9/1014.abstract?sid=9c51ff88-5b9a-4d1b-aaf1-a1219bd02b0a"
 doi = "10.1167/12.9.1014"
 +++
+
+
 
 
 

@@ -1,4 +1,5 @@
-+++title = "Control of the temporal interplay between excitation and inhibition by the statistics of visual input: a V1 network modelling study"
++++
+title = "Control of the temporal interplay between excitation and inhibition by the statistics of visual input: a V1 network modelling study"
 date = "2008"
 authors = [ "Jens Kremkow", "Laurent U Perrinet", "Pierre Baudot", "Manu Levy", "Olivier Marre", "Cyril Monier", "Yves Frégnac", "Guillaume S Masson", "Ad M. Aertsen",]
 publication_types = [ "1",]
@@ -7,6 +8,8 @@ featured = false
 publication = "*Proceedings of the Society for Neuroscience conference*"
 tags = [ "feed-forward_inhibition", "large_scale_networks",]
 +++
+
+
 
 
 

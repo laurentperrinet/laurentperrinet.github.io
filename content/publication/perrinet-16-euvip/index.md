@@ -1,4 +1,5 @@
-+++title = "Biologically-inspired characterization of sparseness in natural images"
++++
+title = "Biologically-inspired characterization of sparseness in natural images"
 date = "2016-10"
 authors = [ "Laurent U Perrinet",]
 publication_types = [ "1",]
@@ -10,6 +11,8 @@ doi = "10.1109/EUVIP.2016.7764592"
 tags = [ "Computer vision", "Image texture", "Machine vision", "Neuroscience",]
 projects = [ "bala-v1",]
 +++
+
+
 
 
 

@@ -1,4 +1,5 @@
-+++title = "Coherence detection in a spiking neuron via hebbian learning"
++++
+title = "Coherence detection in a spiking neuron via hebbian learning"
 date = "2002"
 authors = [ "Laurent U Perrinet", "Manuel Samuelides",]
 publication_types = [ "2",]
@@ -9,6 +10,8 @@ tags = [ "coding", "dependent", "hebb", "hebbian", "kinetic", "model", "networks
 url_pdf = "http://dx.doi.org/10.1016/S0925-2312(02)00374-0"
 doi = "10.1016/S0925-2312(02)00374-0"
 +++
+
+
 
 
 

@@ -1,4 +1,5 @@
-+++title = "Decoding center-surround interactions in population of neurons for the ocular following response"
++++
+title = "Decoding center-surround interactions in population of neurons for the ocular following response"
 date = "2009"
 authors = [ "Laurent U Perrinet", "Nicole Voges", "Jens Kremkow", "Guillaume S Masson",]
 publication_types = [ "1",]
@@ -7,6 +8,8 @@ featured = false
 publication = "*Proceedings of COSYNE, 2009*"
 tags = [ "bayesian", "center-surround interactions", "eye", "following", "integration", "interactions", "model", "motion", "movements", "ocular", "perception", "response", "tracking", "visual perception",]
 +++
+
+
 
 
 

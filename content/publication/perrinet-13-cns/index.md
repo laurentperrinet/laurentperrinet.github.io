@@ -1,4 +1,5 @@
-+++title = "Active inference, eye movements and oculomotor delays."
++++
+title = "Active inference, eye movements and oculomotor delays."
 date = "2013"
 authors = [ "Laurent U Perrinet", "Rick A. Adams", "Karl J Friston",]
 publication_types = [ "1",]
@@ -8,6 +9,8 @@ publication = "*CNS 2013, Paris.*"
 url_pdf = "https://laurentperrinet.github.io/publication/perrinet-13-cns"
 tags = [ "active inference",]
 +++
+
+
 
 
 

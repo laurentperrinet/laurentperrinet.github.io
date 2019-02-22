@@ -1,4 +1,5 @@
-+++title = "Synchrony in thalamic inputs enhances propagation of activity through cortical layers"
++++
+title = "Synchrony in thalamic inputs enhances propagation of activity through cortical layers"
 date = "2007"
 authors = [ "Jens Kremkow", "Laurent U Perrinet", "Arvind Kumar", "Ad M. Aertsen", "Guillaume S Masson",]
 publication_types = [ "2",]
@@ -9,6 +10,8 @@ tags = [ "cortex",]
 url_pdf = "http://dx.doi.org/10.1186/1471-2202-8-S2-P180"
 doi = "10.1186/1471-2202-8-S2-P180"
 +++
+
+
 
 
 

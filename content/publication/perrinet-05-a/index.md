@@ -1,4 +1,5 @@
-+++title = "Dynamics of motion representation in short-latency ocular following: A two-pathways Bayesian model"
++++
+title = "Dynamics of motion representation in short-latency ocular following: A two-pathways Bayesian model"
 date = "2005"
 authors = [ "Laurent U Perrinet", "Frédéric V. Barthélemy", "Eric Castet", "Guillaume S Masson",]
 publication_types = [ "1",]
@@ -7,6 +8,8 @@ featured = false
 publication = "*Perception*"
 tags = [ "bayesian", "models",]
 +++
+
+
 
 
 

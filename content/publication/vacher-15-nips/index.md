@@ -1,4 +1,5 @@
-+++title = "Biologically Inspired Dynamic Textures for Probing Motion Perception"
++++
+title = "Biologically Inspired Dynamic Textures for Probing Motion Perception"
 date = "2015"
 authors = [ "Jonathan Vacher", "Andrew Isaac Meso", "Laurent U Perrinet", "Gabriel Peyré",]
 publication_types = [ "6",]
@@ -9,6 +10,8 @@ url_pdf = "http://papers.nips.cc/paper/5769-biologically-inspired-dynamic-textur
 projects = [ "motion-clouds",]
 tags = [ "motion-clouds", "sanz-12",]
 +++
+
+
 
 
 

@@ -1,4 +1,5 @@
-+++title = "Pursuing motion illusions: a realistic oculomotor framework for Bayesian inference"
++++
+title = "Pursuing motion illusions: a realistic oculomotor framework for Bayesian inference"
 date = "2011-04-22"
 authors = [ "Amarender Bogadhi", "Anna Montagnini", "Pascal Mamassian", "Laurent U Perrinet", "Guillaume S Masson",]
 publication_types = [ "2",]
@@ -9,6 +10,8 @@ tags = [ "bayesian", "kaplan13", "khoei13jpp", "perrinet12pred",]
 url_pdf = "http://dx.doi.org/10.1016/j.visres.2010.10.021"
 doi = "10.1016/j.visres.2010.10.021"
 +++
+
+
 
 
 

@@ -1,4 +1,5 @@
-+++title = "The characteristics of microsaccadic eye movements varied with the change of strategy in a match-to-sample task."
++++
+title = "The characteristics of microsaccadic eye movements varied with the change of strategy in a match-to-sample task."
 date = "2014-08-22"
 authors = [ "Claudio Simoncini", "Anna Montagnini", "Laurent U Perrinet", "Guillaume S Masson",]
 publication_types = [ "2",]
@@ -10,6 +11,8 @@ projects = [ "motion-clouds",]
 url_pdf = "http://dx.doi.org/10.1167/14.10.110"
 doi = "10.1167/14.10.110"
 +++
+
+
 
 
 

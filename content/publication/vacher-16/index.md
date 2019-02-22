@@ -1,4 +1,5 @@
-+++title = "Bayesian Modeling of Motion Perception using Dynamical Stochastic Textures"
++++
+title = "Bayesian Modeling of Motion Perception using Dynamical Stochastic Textures"
 date = "2016"
 authors = [ "Jonathan Vacher", "Andrew Isaac Meso", "Laurent U Perrinet", "Gabriel Peyré",]
 publication_types = [ "2",]
@@ -11,6 +12,8 @@ doi = "10.1162/neco_a_01142"
 url_preprint = "https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01142"
 publication = ""
 +++
+
+
 
 
 

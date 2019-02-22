@@ -1,4 +1,5 @@
-+++title = "Beyond simply faster and slower: exploring paradoxes in speed perception"
++++
+title = "Beyond simply faster and slower: exploring paradoxes in speed perception"
 date = "2014-08-22"
 authors = [ "Andrew Isaac Meso", "Claudio Simoncini", "Laurent U Perrinet", "Guillaume S Masson",]
 publication_types = [ "2",]
@@ -10,6 +11,8 @@ projects = [ "motion-clouds",]
 url_pdf = "http://dx.doi.org/10.1167/14.10.491"
 doi = "10.1167/14.10.491"
 +++
+
+
 
 
 

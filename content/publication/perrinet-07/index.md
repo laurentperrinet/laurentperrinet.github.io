@@ -1,4 +1,5 @@
-+++title = "Dynamical Neural Networks: modeling low-level vision at short latencies"
++++
+title = "Dynamical Neural Networks: modeling low-level vision at short latencies"
 date = "2007-03"
 authors = [ "Laurent U Perrinet",]
 publication_types = [ "6",]
@@ -9,6 +10,8 @@ tags = [ "bayesian", "bayesian models", "center-surround interactions", "center-
 url_pdf = "http://dx.doi.org/10.1016/j.jphysparis.2007.10.011"
 doi = "10.1016/j.jphysparis.2007.10.011"
 +++
+
+
 
 
 

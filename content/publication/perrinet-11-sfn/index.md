@@ -1,4 +1,5 @@
-+++title = "Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1"
++++
+title = "Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1"
 date = "2011"
 authors = [ "Laurent U Perrinet", "David Fitzpatrick", "James A. Bednar",]
 publication_types = [ "1",]
@@ -9,6 +10,8 @@ tags = [ "sanz12jnp",]
 url_pdf = "https://laurentperrinet.github.io/publication/perrinet-11-sfn"
 projects = [ "bala-v1",]
 +++
+
+
 
 
 

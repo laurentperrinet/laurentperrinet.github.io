@@ -1,4 +1,5 @@
-+++title = "The behavioral receptive field underlying motion integration for primate tracking eye movements"
++++
+title = "The behavioral receptive field underlying motion integration for primate tracking eye movements"
 date = "2012-03-21"
 authors = [ "Guillaume S Masson", "Laurent U Perrinet",]
 publication_types = [ "2",]
@@ -9,6 +10,8 @@ tags = [ "behavioral_receptive_field", "eye movements", "motion_estimation", "pr
 url_pdf = "http://view.ncbi.nlm.nih.gov/pubmed/21421006"
 doi = "10.1016/j.neubiorev.2011.03.009"
 +++
+
+
 
 
 

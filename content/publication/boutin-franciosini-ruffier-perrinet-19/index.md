@@ -1,4 +1,5 @@
-+++title = "Meaningful representations emerge from Sparse Deep Predictive Coding"
++++
+title = "Meaningful representations emerge from Sparse Deep Predictive Coding"
 date = "2019"
 authors = [ "Victor Boutin", "Angelo Franciosini", "Franck Ruffier", "Laurent U Perrinet",]
 publication_types = [ "2",]
@@ -9,6 +10,8 @@ url_pdf = "https://arxiv.org/abs/1902.07651"
 url_preprint = "https://arxiv.org/abs/1902.07651"
 tags = [ "sparse coding",]
 +++
+
+
 
 
 

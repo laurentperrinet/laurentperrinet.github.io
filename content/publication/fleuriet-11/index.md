@@ -1,4 +1,5 @@
-+++title = "Saccadic foveation of a moving visual target in the rhesus monkey"
++++
+title = "Saccadic foveation of a moving visual target in the rhesus monkey"
 date = "2011-02-01"
 authors = [ "Jérôme Fleuriet", "S. Hugues", "Laurent U Perrinet", "L. Goffart",]
 publication_types = [ "2",]
@@ -9,6 +10,8 @@ tags = [ "eye-movements", "eye_velocity", "motion", "motion-estimation", "moving
 url_pdf = "http://dx.doi.org/10.1152/jn.00622.2010"
 doi = "10.1152/jn.00622.2010"
 +++
+
+
 
 
 

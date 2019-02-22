@@ -1,4 +1,5 @@
-+++title = "Motion-based prediction model for flash lag effect"
++++
+title = "Motion-based prediction model for flash lag effect"
 date = "2014-08-22"
 authors = [ "Mina A. Khoei", "Laurent U Perrinet", "Guillaume S Masson",]
 publication_types = [ "2",]
@@ -9,6 +10,8 @@ tags = [ "khoei14fle",]
 url_pdf = "http://dx.doi.org/10.1167/14.10.471"
 doi = "10.1167/14.10.471"
 +++
+
+
 
 
 

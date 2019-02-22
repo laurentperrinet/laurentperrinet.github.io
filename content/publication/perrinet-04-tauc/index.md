@@ -1,4 +1,5 @@
-+++title = "Feature detection using spikes : the greedy approach."
++++
+title = "Feature detection using spikes : the greedy approach."
 date = "2004-07"
 authors = [ "Laurent U Perrinet",]
 publication_types = [ "2",]
@@ -9,6 +10,8 @@ tags = [ "coding", "computation", "dictionaries", "distributed", "ies", "inverse
 url_pdf = "http://dx.doi.org/10.1016/j.jphysparis.2005.09.012"
 doi = "10.1016/j.jphysparis.2005.09.012"
 +++
+
+
 
 
 

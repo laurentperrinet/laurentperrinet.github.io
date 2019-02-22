@@ -1,4 +1,5 @@
-+++title = "Dynamics of cortical networks including long-range patchy connections"
++++
+title = "Dynamics of cortical networks including long-range patchy connections"
 date = "2009"
 authors = [ "Nicole Voges", "Laurent U Perrinet",]
 publication_types = [ "1",]
@@ -7,6 +8,8 @@ featured = false
 publication = "*Eighth Göttingen Meeting of the German Neuroscience Society*"
 tags = [ "lateral-connections",]
 +++
+
+
 
 
 

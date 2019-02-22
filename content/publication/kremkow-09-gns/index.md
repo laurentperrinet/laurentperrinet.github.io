@@ -1,4 +1,5 @@
-+++title = "Functional consequences of correlated excitation and inhibition on single neuron integration and signal propagation through synfire chains"
++++
+title = "Functional consequences of correlated excitation and inhibition on single neuron integration and signal propagation through synfire chains"
 date = "2009"
 authors = [ "Jens Kremkow", "Laurent U Perrinet", "Guillaume S Masson", "Ad M. Aertsen",]
 publication_types = [ "1",]
@@ -7,6 +8,8 @@ featured = false
 publication = "*Eighth Göttingen Meeting of the German Neuroscience Society*"
 tags = [ "feed-forward_inhibition", "large_scale_networks",]
 +++
+
+
 
 
 

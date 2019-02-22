@@ -1,4 +1,5 @@
-+++title = "Modeling of simple cells through a sparse overcomplete gabor wavelet representation based on local inhibition and facilitation"
++++
+title = "Modeling of simple cells through a sparse overcomplete gabor wavelet representation based on local inhibition and facilitation"
 date = "2005-08"
 authors = [ "Rafael Redondo", "Sylvain Fischer", "Laurent U Perrinet", "Gabriel Cristóbal",]
 publication_types = [ "1",]
@@ -7,6 +8,8 @@ featured = false
 publication = "*Perception*"
 tags = [ "log-gabor",]
 +++
+
+
 
 
 

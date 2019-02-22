@@ -1,4 +1,5 @@
-+++title = "Efficient representation of natural images using local cooperation"
++++
+title = "Efficient representation of natural images using local cooperation"
 date = "2005"
 authors = [ "Sylvain Fischer", "Rafael Redondo", "Laurent U Perrinet", "Gabriel Cristóbal",]
 publication_types = [ "1",]
@@ -7,6 +8,8 @@ featured = false
 publication = "*Perception*"
 tags = [ "matching-pursuit",]
 +++
+
+
 
 
 

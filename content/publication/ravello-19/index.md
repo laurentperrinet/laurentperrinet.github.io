@@ -1,4 +1,5 @@
-+++title = "Speed-Selectivity in Retinal Ganglion Cells is Sharpened by Broad Spatial Frequency, Naturalistic Stimuli"
++++
+title = "Speed-Selectivity in Retinal Ganglion Cells is Sharpened by Broad Spatial Frequency, Naturalistic Stimuli"
 date = "2019-01"
 authors = [ "Cesar U Ravello", "Laurent U Perrinet", "Maria-José Escobar", "Adrián G Palacios",]
 publication_types = [ "2",]
@@ -15,6 +16,7 @@ name = "Press release"
 url = "http://www4.cnrs-dir.fr/insb/recherche/parutions/articles2019/l-perrinet.html"
 
 +++
+
 
 # Dès la rétine, le système visuel préfère des images naturelles
 
@@ -40,6 +42,7 @@ Ces textures complexes sont plus proches des images naturellement observées et 
 
 {{< video src="video_perrinet.mp4" controls="yes" >}}
 Cette vidéo montre les trois classes de stimulations utilisées dans cette étude. En plus des réseaux sinusoïdaux (“Grating”) qui sont classiquement utilisés en neurosciences, cette étude a utilisé des textures aléatoires (Motion Clouds (MC)) qui sont inspirées de modèles du traitement visuel. Ils permettent en particulier de manipuler des paramètres visuels critiques comme la variété de fréquences spatiales qui sont superposées: soit unique (“Grating”), fine (“MC Narrow”), soit plus large (“MC Broad”). Ces vidéos ont été directement projetées sur des rétines posées sur des grilles d’électrodes qui permettent de mesurer l’activité neurale (voir figure). © Laurent Perrinet / Cesar Ravello
+
 
 
 

@@ -1,4 +1,5 @@
-+++title = "Different pooling of motion information for perceptual speed discrimination and behavioral speed estimation"
++++
+title = "Different pooling of motion information for perceptual speed discrimination and behavioral speed estimation"
 date = "2010"
 authors = [ "Claudio Simoncini", "Laurent U Perrinet", "Anna Montagnini", "Pascal Mamassian", "Guillaume S Masson",]
 publication_types = [ "1",]
@@ -8,6 +9,8 @@ publication = "*Vision Science Society*"
 tags = [ "motion-clouds", "sanz12jnp",]
 projects = [ "motion-clouds",]
 +++
+
+
 
 
 

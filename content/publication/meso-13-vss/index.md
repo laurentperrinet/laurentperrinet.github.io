@@ -1,4 +1,5 @@
-+++title = "How and why do image frequency properties influence perceived speed?"
++++
+title = "How and why do image frequency properties influence perceived speed?"
 date = "2013"
 authors = [ "Andrew Isaac Meso", "Claudio Simoncini", "Laurent U Perrinet", "Guillaume S Masson",]
 publication_types = [ "1",]
@@ -10,6 +11,8 @@ projects = [ "motion-clouds",]
 url_pdf = "https://laurentperrinet.github.io/publication/meso-13-vss"
 doi = "10.1167/13.9.354"
 +++
+
+
 
 
 

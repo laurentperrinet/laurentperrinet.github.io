@@ -1,4 +1,5 @@
-+++title = "Dynamic Textures For Probing Motion Perception"
++++
+title = "Dynamic Textures For Probing Motion Perception"
 date = "2014"
 authors = [ "Jonathan Vacher", "Andrew Isaac Meso", "Laurent U Perrinet", "Gabriel Peyré",]
 publication_types = [ "1",]
@@ -8,6 +9,8 @@ publication = "*IHP workshop*"
 projects = [ "motion-clouds",]
 tags = [ "motion-clouds", "sanz-12",]
 +++
+
+
 
 
 
