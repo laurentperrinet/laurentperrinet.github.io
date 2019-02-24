@@ -9,5 +9,5 @@ publication = "*Journal of Vision*"
 tags = [ "association field",]
 url_pdf = "http://dx.doi.org/10.1167/14.10.1310"
 doi = "10.1167/14.10.1310"
-projects = [ "bala-v1",]
+projects = [ "anr-bala-v1",]
 +++

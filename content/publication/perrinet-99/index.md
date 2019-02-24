@@ -1,10 +1,10 @@
 +++
 title = "Apprentissage hebbien d'un reseau de neurones asynchrone a codage par rang"
-date = 1999-02-23
+date = 1999-02-25
 authors = [ "Laurent U Perrinet",]
 publication_types = [ "4",]
 abstract = ""
 featured = false
 publication = ""
-tags = [ "unsupervised learning", "rank-order-coding",]
+tags = [ "rank-order-coding", "unsupervised learning",]
 +++

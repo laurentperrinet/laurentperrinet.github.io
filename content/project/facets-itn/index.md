@@ -1,13 +1,13 @@
 
 +++
 # Project title.
-title = "BrainScaleS (2011/2014)"
+title = "FACETS-ITN (2010/2013)"
 
 # Date this page was created.
 date = 2015-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "BrainScaleS: Brain-inspired multiscale computation in neuromorphic hybrid systems (2011/2014)."
+summary = "FACETS-ITN: From Neuroscience to neuro-inspired computing (2010/2013)"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -41,5 +41,4 @@ See also:
 
 -   The [BrainScaleS project]({{< ref "/project/brain-scales/index.md" >}}) builds on
     and extends the research done in FACETS. This 4 year project started
-    on 1 January 2011 <span id="line-14" class="anchor"></span><span
-    id="line-15" class="anchor"></span>
+    on January 1st, 2011.

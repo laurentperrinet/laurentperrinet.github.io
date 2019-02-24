@@ -35,5 +35,4 @@ See also:
 
 -   The [BrainScaleS project]({{< ref "/project/brain-scales/index.md" >}}) builds on
     and extends the research done in FACETS. This 4 year project started
-    on 1 January 2011 <span id="line-14" class="anchor"></span><span
-    id="line-15" class="anchor"></span>
+    on January 1st, 2011.

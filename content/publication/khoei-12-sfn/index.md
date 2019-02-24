@@ -1,11 +1,11 @@
 +++
 title = "Role of motion-based prediction in motion extrapolation"
-date = 2012-02-23
+date = 2012-02-25
 authors = [ "Mina A. Khoei", "Laurent U Perrinet", "Guillaume S Masson",]
 publication_types = [ "1",]
 abstract = ""
 featured = false
 publication = ""
-tags = [ "bayesian models",]
+tags = [ "Bayesian model",]
 url_pdf = "https://laurentperrinet.github.io/publication/khoei-12-sfn"
 +++
