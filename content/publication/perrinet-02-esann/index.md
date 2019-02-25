@@ -8,3 +8,6 @@ featured = false
 publication = "*Proceedings of ESANN*"
 tags = [ "receptive field", "area-v1", "sparse coding",]
 +++
+
+
+{{< figure src="lena256pyr.gif" title="*Progressive reconstruction of a static image using spikes in a Laplacian pyramid.*" >}}
