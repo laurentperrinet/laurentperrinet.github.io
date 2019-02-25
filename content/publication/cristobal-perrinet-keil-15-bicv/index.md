@@ -14,35 +14,7 @@ url_code = "url = \\\"http://bicv.github.io/toc/"
 +++
 
 
-
-
-
 {{< figure src="header.jpg" title="Biologically Inspired Computer vision" >}}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Biologically Inspired Computer Vision
 
