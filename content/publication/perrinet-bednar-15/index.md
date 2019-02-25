@@ -13,25 +13,13 @@ url_code = "https://github.com/laurentperrinet/PerrinetBednar15"
 url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-01202447"
 featured = true
 projects = [ "anr-bala-v1",]
-[[url_custom]]
-name = "Press release"
-url = "http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html"
-
-[[url_custom]]
-name = "communiqué de presse"
-url = "http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html"
-
-[[url_custom]]
-name = "supplementary information"
-url = "http://www.nature.com/article-assets/npg/srep/2015/150622/srep11400/extref/srep11400-s1.pdf"
-
-[[url_custom]]
-name = "supplementary material"
-url = "https://invibe.net/LaurentPerrinet/Publications/PerrinetBednar15?action=AttachFile&do=get&target=PerrinetBednar15supplementary.pdf"
 
 +++
 
-
+* [Press release](http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html)
+* [communiqué de presse](http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html)
+* [supplementary information](http://www.nature.com/article-assets/npg/srep/2015/150622/srep11400/extref/srep11400-s1.pdf)
+* [supplementary material](hhttps://invibe.net/LaurentPerrinet/Publications/PerrinetBednar15?action=AttachFile&do=get&target=PerrinetBednar15supplementary.pdf)
 
 # A study of how people can quickly spot animals by sight is helping uncover the workings of the human brain.
 

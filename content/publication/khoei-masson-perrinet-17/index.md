@@ -12,14 +12,11 @@ url_preprint = "http://dx.doi.org/10.1371/journal.pcbi.1005068"
 featured = true
 tags = [ "motion prediction", "Bayesian model",]
 url_press = "http://www.cnrs.fr/insb/recherche/parutions/articles2017/l-perrinet.html"
-[[url_custom]]
-name = "Press release"
-url = "http://www.cnrs.fr/insb/recherche/parutions/articles2017/l-perrinet.html"
 
-[image]
-focal_point = ""
 +++
 
+
+* [Press release](http://www.cnrs.fr/insb/recherche/parutions/articles2017/l-perrinet.html")
 
 
 # Visual illusions: their origin lies in prediction

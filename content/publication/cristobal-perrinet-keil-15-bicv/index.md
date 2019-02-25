@@ -10,27 +10,8 @@ doi = "10.1002/9783527680863"
 url_preprint = "http://bicv.github.io/"
 featured = true
 tags = [ "Biologically Inspired Computer vision",]
-[[url_custom]]
-name = "Table of contents"
-url = "http://bicv.github.io/toc/"
-
-[[url_custom]]
-name = "communiqué de presse"
-url = "http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html"
-
-[[url_custom]]
-name = "supplementary information"
-url = "http://www.nature.com/article-assets/npg/srep/2015/150622/srep11400/extref/srep11400-s1.pdf"
-
-[[url_custom]]
-name = "supplementary material"
-url = "https://invibe.net/LaurentPerrinet/Publications/PerrinetBednar15?action=AttachFile&do=get&target=PerrinetBednar15supplementary.pdf"
 
 +++
-
-
-
-
 
 
 
