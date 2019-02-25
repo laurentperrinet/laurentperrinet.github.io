@@ -15,7 +15,7 @@ tags = [ "Biologically Inspired Computer vision",]
 
 
 
-
+{{< figure src="header.jpg" title="Biologically Inspired Computer vision" >}}
 
 
 
