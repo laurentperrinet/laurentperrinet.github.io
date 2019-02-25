@@ -10,4 +10,5 @@ event = "First GDR BioComp workshop, , October 7th, 2015"
 time_start = 2019-04-18T13:00:00
 event_url = "http://gdr-biocomp.fr/colloque/"
 location = "Saint-Paul de Vence"
+[image]
 +++
