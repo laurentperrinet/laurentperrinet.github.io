@@ -12,8 +12,6 @@ summary = "ANR BalaV1: Balanced states in area V1 (2013--2016)"
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["grant"]
 
-url = "http://www.agence-nationale-recherche.fr/Project-ANR-13-BSV4-0014"
-
 +++
 
 # ANR BalaV1: Balanced states in area V1 (2013/2016)
