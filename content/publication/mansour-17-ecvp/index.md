@@ -6,7 +6,7 @@ publication_types = [ "1",]
 abstract = ""
 featured = false
 publication = "*Proceedings of ECVP*"
-tags = [ "eye movements; motion detection; motion-clouds",]
+tags = [ "motion detection", "motion-clouds", "eye movements",]
 url_pdf = "http://invibe.net/LaurentPerrinet/Publications/Mansour17ecvp"
 projects = [ "pace-itn",]
 +++
