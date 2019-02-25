@@ -11,4 +11,6 @@ time_start = 2016-10-26T13:00:00
 tags = [ "Biologically Inspired Computer vision",]
 event_url = "http://invibe.net/LaurentPerrinet/Events/2016-10-26_EUVIP_BICV"
 location = "Ecole Centrale Marseille "
+url_slides = "https://laurentperrinet.github.io/sciblog/files/2016-10-26_Perrinet16EUVIP_talk.html"
+url_code = "https://hal-amu.archives-ouvertes.fr/hal-01461404"
 +++

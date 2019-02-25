@@ -10,4 +10,5 @@ tags = [ "staistics of natural images", "matching pursuit", "unsupervised learni
 url_pdf = "https://laurentperrinet.github.io/publication/perrinet-10-shl"
 doi = "10.1162/neco.2010.05-08-795"
 url_preprint = "https://laurentperrinet.github.io/publication/perrinet-10-shl"
+url_code = "https://laurentperrinet.github.io/publication/perrinet-10-shl"
 +++

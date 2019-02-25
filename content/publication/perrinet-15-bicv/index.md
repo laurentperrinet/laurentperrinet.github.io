@@ -8,4 +8,5 @@ featured = false
 publication = "*Biologically Inspired Computer Vision*"
 tags = [ "Biologically Inspired Computer vision", "sparse coding",]
 url_pdf = "http://onlinelibrary.wiley.com/doi/10.1002/9783527680863.ch14/summary"
+url_code = "https://github.com/bicv/Perrinet2015BICV_sparse"
 +++

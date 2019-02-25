@@ -10,4 +10,5 @@ event = "A seminar at the CerCo, Toulouse, France"
 time_start = 2013-07-05T13:00:00
 tags = [ "Biologically Inspired Computer vision",]
 location = "CerCo, Toulouse"
+url_slides = "http://invibe.net/LaurentPerrinet/Presentations/2013-07-05_Cerco?action=AttachFile&do=get&target=perrinet13cerco.pdf"
 +++

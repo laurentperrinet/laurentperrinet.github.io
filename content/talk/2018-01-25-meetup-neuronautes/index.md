@@ -11,4 +11,5 @@ time_start = 2018-01-25T13:00:00
 tags = [ "Biologically Inspired Computer vision",]
 event_url = "https://www.facebook.com/events/211121069456116/"
 location = "Salle des voutes campus Saint Charles "
+url_slides = "https://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.html"
 +++

@@ -13,9 +13,9 @@ featured = false
 projects = [ "anr-horizontal-v1",]
 tags = []
 url_pdf = "https://laurentperrinet.github.io/talk/2019-04-18_jnlf"
-url_slides = ""
+url_slides = "https://laurentperrinet.github.io/2019-01-14_LACONEU"
 url_video = ""
-url_code = ""
+url_code = "https://github.com/laurentperrinet/2019-01-14_LACONEU"
 math = true
 date = 2019-01-01
 

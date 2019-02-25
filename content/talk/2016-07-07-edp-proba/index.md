@@ -10,4 +10,5 @@ event = "Summer School: PDE and Probability for Life Sciences"
 time_start = 2016-07-07T13:00:00
 event_url = "http://scientific-events.weebly.com/prog-1426.html"
 location = "CIRM, Marseille"
+url_slides = "https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba"
 +++

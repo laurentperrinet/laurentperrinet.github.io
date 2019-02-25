@@ -10,4 +10,5 @@ event = "Second BrainScaleS plenary Meeting - WP4"
 time_start = 2012-03-22T14:00:00
 projects = [ "brainscales",]
 location = "Forschungszentrum Jülich"
+url_slides = "http://invibe.net/LaurentPerrinet/Presentations/2012-03-22_Juelich?action=AttachFile&do=get&target=perrinet12wp4_handout.pdf"
 +++

@@ -10,4 +10,5 @@ event = "Telluride Neuromorphic Workshop, Workgroup on Compound Eyes and Event-b
 time_start = 2017-06-28T13:00:00
 event_url = "http://telluride.iniforum.ch/2017/workgroups/neuromorphic-event-based-compound-eyes-and-vision/"
 location = "Telluride, CO"
+url_slides = "https://laurentperrinet.github.io/sciblog/files/2017-06-30_Telluride.html"
 +++

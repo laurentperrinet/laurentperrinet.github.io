@@ -10,4 +10,6 @@ event = "PhD program in Neuroscience, Marseille - March 27th, 2018"
 time_start = 2018-03-26T13:00:00
 event_url = "http://invibe.net/LaurentPerrinet/Presentations/2018-03-26_cours-NeuroComp"
 location = "INT, Marseille"
+url_slides = "https://laurentperrinet.github.io/2018-03-26_cours-NeuroComp_FEP"
+url_code = "https://github.com/laurentperrinet/2018-03-26_cours-NeuroComp_FEP"
 +++

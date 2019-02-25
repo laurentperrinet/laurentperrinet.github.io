@@ -10,4 +10,6 @@ event = "Probabilities and Optimal Inference to Understand the Brain"
 time_start = 2018-04-05T14:00:00
 event_url = "http://invibe.net/cgi-bin/index.cgi/Events/2018-04-05_OptInferBrainWorkshop"
 location = "INT, Marseille (France)"
+url_slides = "https://laurentperrinet.github.io/2018-04-05_BCP_talk/"
+url_code = "https://github.com/laurentperrinet/2018-04-05_BCP_talk/"
 +++

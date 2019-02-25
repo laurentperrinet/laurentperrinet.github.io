@@ -10,4 +10,6 @@ event = "Lyon Active inference Workshop (LAW)"
 time_start = 2016-10-13T10:00:00
 event_url = "https://law2016.sciencesconf.org/"
 location = "Lyon, France"
+url_slides = "https://laurentperrinet.github.io/sciblog/files/2016-10-13_LAW.html"
+url_code = ""
 +++
