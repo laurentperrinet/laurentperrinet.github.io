@@ -10,8 +10,10 @@ doi = "10.1002/9783527680863"
 url_preprint = "http://bicv.github.io/"
 featured = true
 tags = [ "Biologically Inspired Computer vision",]
-
+url_code = "url = \\\"http://bicv.github.io/toc/"
 +++
+
+
 
 
 

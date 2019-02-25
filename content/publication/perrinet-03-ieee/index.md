@@ -13,4 +13,6 @@ doi = "10.1109/TNN.2004.833303"
 
 
 
+
+
 {{< figure src="v1_tiger.gif" title="*Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.*" >}}

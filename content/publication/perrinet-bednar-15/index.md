@@ -13,8 +13,9 @@ url_code = "https://github.com/laurentperrinet/PerrinetBednar15"
 url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-01202447"
 featured = true
 projects = [ "anr-bala-v1",]
-
 +++
+
+
 
 * [Press release](http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html)
 * [communiqué de presse](http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html)
