@@ -8,4 +8,4 @@ cd ../hugo_academic
 
 ipython3 update_entries.py
 
-./deploy.sh ' updating metadata '
+./update_gitpages.sh ' updating metadata '
