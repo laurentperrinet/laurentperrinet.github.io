@@ -6,5 +6,5 @@ publication_types = [ "1",]
 abstract = ""
 featured = false
 publication = "*Proceedings of DYNN*"
-tags = [ "stdp", "unsupervised learning", "sparse hebbian learning",]
+tags = [ "sparse hebbian learning", "unsupervised learning", "stdp",]
 +++

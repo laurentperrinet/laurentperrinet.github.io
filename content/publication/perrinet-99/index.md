@@ -6,5 +6,5 @@ publication_types = [ "4",]
 abstract = ""
 featured = false
 publication = ""
-tags = [ "rank-order-coding", "unsupervised learning",]
+tags = [ "unsupervised learning", "rank-order-coding",]
 +++

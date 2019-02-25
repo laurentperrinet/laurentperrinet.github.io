@@ -8,4 +8,5 @@ featured = false
 publication = "*The 7th Japanese-French Frontiers of Science Symposium.*"
 url_pdf = "https://laurentperrinet.github.io/publication/perrinet-13-jffos"
 tags = [ "active inference",]
+projects = [ "codde",]
 +++

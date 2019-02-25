@@ -7,10 +7,11 @@ abstract = "Moving objects generate motion information at different scales, whic
 publication = "*Nature Neuroscience*"
 url_pdf = "http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.3229.html"
 doi = "doi:10.1038/nn.3229"
-tags = [ "motion-clouds", "psychophysics", "eye movements", "motion detection",]
-projects = [ "motion-clouds",]
+tags = [ "motion detection", "eye movements", "psychophysics", "motion-clouds",]
+projects = [ "motion-clouds; codde",]
 featured = true
 +++
+
 
 
 

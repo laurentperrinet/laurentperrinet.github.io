@@ -132,7 +132,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
     if True:
         for file_path in glob.glob(f"{pub_dir}/**/index.md"):
             new_key = file_path.split(f'{pub_dir}/')[-1].split('/index.md')[0]
-            if not new_key in ['___template___',  'person-re-id']:
+            if not new_key in ['___template___',  'person-re-id', 'template']:
                 with open(file_path, 'r', encoding='utf-8') as source_file:
                     page = source_file.read() + '\n'
                 metadata = page.split('+++')

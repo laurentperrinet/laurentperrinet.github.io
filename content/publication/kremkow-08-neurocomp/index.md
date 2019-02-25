@@ -6,5 +6,5 @@ publication_types = [ "1",]
 abstract = ""
 featured = false
 publication = "*Proceedings of NeuroComp08, Marseille*"
-tags = [ "feed-forward_inhibition", "large-scale_networks",]
+tags = [ "large-scale_networks", "feed-forward_inhibition",]
 +++

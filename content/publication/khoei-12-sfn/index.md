@@ -6,6 +6,6 @@ publication_types = [ "1",]
 abstract = ""
 featured = false
 publication = ""
-tags = [ "Bayesian model",]
+tags = [ "motion prediction", "Bayesian model",]
 url_pdf = "https://laurentperrinet.github.io/publication/khoei-12-sfn"
 +++
