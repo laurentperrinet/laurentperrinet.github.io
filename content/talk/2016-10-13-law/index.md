@@ -5,7 +5,9 @@ authors = [ "Laurent U Perrinet",]
 abstract = ""
 featured = false
 publication = "*Lyon Active Inference Workshop (LAW) https://law2016.sciencesconf.org/ - October 13th, 2016*"
-url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2016-10-13_LAW"
-event = "Lyon Active Inference Workshop (LAW) https://law2016.sciencesconf.org/ - October 13th, 2016"
-time_start = 2016-10-13
+url_pdf = ""
+event = "Lyon Active inference Workshop (LAW)"
+time_start = 2016-10-13T10:00:00
+event_url = "https://law2016.sciencesconf.org/"
+location = "Lyon, France"
 +++

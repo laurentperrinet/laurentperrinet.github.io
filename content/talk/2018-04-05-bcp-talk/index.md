@@ -5,7 +5,9 @@ authors = [ "Laurent U Perrinet", "Chloé Pasturel", "INT Anna Montagnini",]
 abstract = ""
 featured = false
 publication = "*Probabilities and Optimal Inference to Understand the Brain, INT, Marseille (France)*"
-url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2018-04-05_BCP_talk"
-event = "Probabilities and Optimal Inference to Understand the Brain, INT, Marseille (France)"
-time_start = 2018-04-05
+url_pdf = ""
+event = "Probabilities and Optimal Inference to Understand the Brain"
+time_start = 2018-04-05T14:00:00
+event_url = "http://invibe.net/cgi-bin/index.cgi/Events/2018-04-05_OptInferBrainWorkshop"
+location = "INT, Marseille (France)"
 +++
