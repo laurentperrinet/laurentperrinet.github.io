@@ -1,6 +1,6 @@
 +++
 title = "Modelling spiking neural networks using Brian, Nest and pyNN"
-date = 2019-01-14
+date = 2019-01-01
 authors = [ "Laurent U Perrinet",]
 abstract = ""
 featured = false
