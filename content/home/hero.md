@@ -2,25 +2,35 @@
 # Hero widget.
 widget = "hero"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-
-title = "Novel visual computations"
-
 # Order that this section will appear in.
 weight = 3
 
-# Overlay a color or image (optional).
-#   Deactivate an option by commenting out the line, prefixing it with `#`.
-[header]
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/Etienne-Rey-TROPIQUE.JPG"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+title = "Novel visual computations"
 
-# Call to action button (optional).
-#   Activate the button by specifying a URL and button label below.
-#   Deactivate by commenting out parameters, prefixing lines with `#`.
-# [cta]
-#  url = "./post/etienne-rey/"
-#  label = '<i class="fas fa-download"></i> Install Now'
+[design.background]
+# Apply a background color, gradient, or image.
+#   Uncomment (by removing `#`) an option to apply it.
+#   Choose a light or dark text color by setting `text_color_light`.
+#   Any HTML color name or Hex value is valid.
+
+# Background color.
+# color = "navy"
+
+# Background gradient.
+# gradient_start = "#4bb4e3"
+# gradient_end = "#2b94c3"
+
+# Background image.
+image = "headers/Etienne-Rey-TROPIQUE.JPG"  # Name of image in `static/img/`.
+image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+# Text color (true=light or false=dark).
+text_color_light = true
+
+# Call to action links (optional).
+#   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
+#   Remove a link/note by deleting a cta/note block.
+
 +++
 
 Let's admit it: brains are not computers. Indeed, computers are still deceptive compared to biological perceptual systems. Think for instance about solutions for noisy, ambiguous and rapidly varying raw data. Think about performing this in an autonomous manner and with a low energetic cost...
