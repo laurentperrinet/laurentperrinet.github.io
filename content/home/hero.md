@@ -21,7 +21,7 @@ title = "Novel visual computations"
 # gradient_end = "#2b94c3"
 
 # Background image.
-image = "headers/Etienne-Rey-TROPIQUE.JPG"  # Name of image in `static/img/`.
+image = "headers/Etienne-Rey-TROPIQUE_header.jpg"  # Name of image in `static/img/`.
 image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
 # Text color (true=light or false=dark).
