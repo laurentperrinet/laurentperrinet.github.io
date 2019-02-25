@@ -9,6 +9,6 @@ tags = [ "motion prediction", " Bayesian model", " dynamics", "motion detection"
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2012-01-12_VisionAtUcl"
 event = "Vision@UCL seminar"
 time_start = 2012-01-12T17:00:00
-location = "Malet Place Eng Bldg 1.03 (first floor). "
+location = "Malet Place Eng Bldg 1.03 (first floor)."
 url_slides = "http://invibe.net/LaurentPerrinet/Presentations/2012-01-12_VisionAtUcl?action=AttachFile&do=get&target=perrinet12ucl_handout.pdf"
 +++

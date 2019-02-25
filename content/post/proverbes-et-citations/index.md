@@ -1,6 +1,6 @@
 +++
 title = "Proverbes Et Citations"
-subtitle = "... glanés au cours des années"
+summary = "Proverbes et citations glanés au cours des années"
 
 date = 2016-04-20T00:00:00
 lastmod = 2018-01-13T00:00:00

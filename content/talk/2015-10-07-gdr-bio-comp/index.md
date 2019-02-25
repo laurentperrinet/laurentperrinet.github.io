@@ -10,7 +10,7 @@ event = "First GDR BioComp workshop"
 time_start = 2015-10-07T13:00:00
 event_url = "http://gdr-biocomp.fr/colloque/"
 location = "Saint-Paul de Vence"
-url_slides = "http://invibe.net/LaurentPerrinet/Presentations/2015-10-07_GDR-BioComp?action=AttachFile&do=view&target=Perrinet15biocomp_slides.pdf  "
+url_slides = "http://invibe.net/LaurentPerrinet/Presentations/2015-10-07_GDR-BioComp?action=AttachFile&do=view&target=Perrinet15biocomp_slides.pdf"
 
 [image]
 +++

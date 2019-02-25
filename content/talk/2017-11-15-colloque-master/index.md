@@ -6,8 +6,8 @@ abstract = "This seminar is an exercise to introduce the AMU masters into the fo
 featured = false
 publication = "*Colloque : \"CODAGES ET REPRESENTATIONS\", MASTER DE NEUROSCIENCES 2ème année*"
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2017-11-15_ColloqueMaster"
-event = "Colloque : \\\"CODAGES ET REPRESENTATIONS\\\", MASTER DE NEUROSCIENCES 2ème année; Comité d’organisation: Francesca SARGOLINI, Christian Bénar, Paolo GUBELLINI, Christian GESTREAU "
-time_start = 2019-04-18T13:00:00
+event = "Colloque : \\\"CODAGES ET REPRESENTATIONS\\\", MASTER DE NEUROSCIENCES 2ème année; Comité d'organisation: Francesca SARGOLINI, Christian Bénar, Paolo GUBELLINI, Christian GESTREAU"
+time_start = 2017-11-15T13:00:00
 location = "Aix-Marseille Université, Campus Saint-Charles, Salle des voûtes"
-url_slides = "https://laurentperrinet.github.io/sciblog/files/2017-11-15_ColloqueMaster.html "
+url_slides = "https://laurentperrinet.github.io/sciblog/files/2017-11-15_ColloqueMaster.html"
 +++
