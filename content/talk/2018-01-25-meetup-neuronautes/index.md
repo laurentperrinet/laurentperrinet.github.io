@@ -8,4 +8,5 @@ publication = "*Meetup Art et Neurosciences*"
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2018-01-25_meetup-neuronautes"
 event = "Meetup Art et Neurosciences"
 time_start = 2018-01-25
+tags = [ "Biologically Inspired Computer vision",]
 +++

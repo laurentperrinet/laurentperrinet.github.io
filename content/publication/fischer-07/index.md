@@ -6,7 +6,7 @@ publication_types = [ "2",]
 abstract = ""
 featured = false
 publication = "*EURASIP Journal on Advances in Signal Processing*"
-tags = [ "Biologically Inspired Computer vision", "motion-clouds", "association field", "log-gabor",]
+tags = [ "Biologically Inspired Computer vision", "log-gabor", "association field", "motion-clouds",]
 url_pdf = "http://dx.doi.org/10.1155/2007/90727"
 doi = "10.1155/2007/90727"
 +++

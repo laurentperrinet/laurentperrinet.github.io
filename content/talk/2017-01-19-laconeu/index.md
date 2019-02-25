@@ -10,4 +10,5 @@ event = "LACONEU 2017: 4th Latin-American Summer School in Computational Neurosc
 event_url = "http://www.laconeu.cl"
 location = "Valparaiso (Chile)"
 time_start = 2017-01-19T10:45:00
+tags = [ "Biologically Inspired Computer vision",]
 +++

@@ -7,4 +7,5 @@ abstract = "We consider the problem of sensorimotor delays in the optimal contro
 featured = false
 publication = "*Proceedings of AREADNE, Santorini, Greece, 21-24 June 2012, published by The AREADNE Foundation, Inc., Cambridge, Massachusetts, USA, http://areadne.org.*"
 tags = [ "active inference",]
+projects = [ "codde",]
 +++

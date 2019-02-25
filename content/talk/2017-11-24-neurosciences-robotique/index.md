@@ -8,4 +8,5 @@ publication = "*Journee du GT 8 (Neurosciences - Robotique)*"
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2017-11-24_NeurosciencesRobotique"
 event = "Journee du GT 8 (Neurosciences - Robotique)"
 time_start = 2017-11-24
+tags = [ "sparse coding",]
 +++

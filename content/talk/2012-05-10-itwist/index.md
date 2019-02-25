@@ -8,4 +8,5 @@ publication = "*iTWIST '12 workshop*"
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2012-05-10_itwist"
 event = "iTWIST '12 workshop"
 time_start = 2012-05-10
+tags = [ "sparse coding",]
 +++
