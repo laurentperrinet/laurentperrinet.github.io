@@ -1,6 +1,3 @@
 [submodule "themes/academic"]
 	path = themes/academic
 	url = https://github.com/gcushen/hugo-academic.git
-[submodule "laurentperrinet.github.io"]
-	path = laurentperrinet.github.io
-	url = https://github.com/laurentperrinet/laurentperrinet.github.io.git
