@@ -11,6 +11,7 @@ url_code = "https://github.com/laurentperrinet/Khoei_2017_PLoSCB"
 url_preprint = "http://dx.doi.org/10.1371/journal.pcbi.1005068"
 featured = true
 tags = [ "motion prediction", "Bayesian model",]
+url_press = "http://www.cnrs.fr/insb/recherche/parutions/articles2017/l-perrinet.html"
 [[url_custom]]
 name = "Press release"
 url = "http://www.cnrs.fr/insb/recherche/parutions/articles2017/l-perrinet.html"
