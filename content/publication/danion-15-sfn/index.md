@@ -8,4 +8,5 @@ featured = false
 publication = ""
 tags = [ "Bayesian model",]
 url_pdf = "https://laurentperrinet.github.io/publication/danion-15-sfn"
+projects = [ "anr-rem",]
 +++

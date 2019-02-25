@@ -7,4 +7,5 @@ abstract = ""
 featured = false
 publication = "*FENS Abstract*"
 tags = [ "lateral connections",]
+projects = [ "facets",]
 +++

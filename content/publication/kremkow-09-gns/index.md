@@ -7,4 +7,5 @@ abstract = "Neurons receive a large number of excitatory and inhibitory synaptic
 featured = false
 publication = "*Eighth Göttingen Meeting of the German Neuroscience Society*"
 tags = [ "large-scale_networks", "feed-forward_inhibition",]
+projects = [ "facets",]
 +++

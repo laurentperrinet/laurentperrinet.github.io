@@ -7,4 +7,5 @@ abstract = "Short presentation of a large moving pattern elicits an Ocular Follo
 featured = false
 publication = "*Proceedings of COSYNE, 2009*"
 tags = [ "center-surround interactions", "motion detection", "eye movements", "lateral connections", "Bayesian model", "visual perception",]
+projects = [ "facets",]
 +++

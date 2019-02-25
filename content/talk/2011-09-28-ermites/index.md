@@ -11,4 +11,5 @@ time_start = 2011-09-28T13:00:00
 tags = [ "sparse coding",]
 event_url = "http://glotin.univ-tln.fr/ERMITES11/index.xhtml"
 location = "Porquerolles la Perle des Iles d'Or - Var (France)"
+projects = [ "brain-scales",]
 +++

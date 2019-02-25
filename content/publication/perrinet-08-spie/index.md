@@ -7,4 +7,5 @@ abstract = "If modern computers are sometimes superior to cognition in some spec
 featured = false
 publication = "*Optical and Digital Image Processing Conference 7000 - Proceedings of SPIE Volume 7000, 7 - 11 April 2008*"
 tags = [ "matching pursuit", "inhibition", "sparse coding", "sparse hebbian learning", "association field", "coding decoding", "Biologically Inspired Computer vision", "spike",]
+projects = [ "facets",]
 +++

@@ -8,4 +8,5 @@ publication = "*GDR Vision, Toulouse, Nov 3rd, 2016*"
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2016-11-03_gdr"
 event = "GDR Vision, Toulouse, Nov 3rd, 2016"
 time_start = 2016-11-03
+projects = [ "anr-rem; pace-itn",]
 +++

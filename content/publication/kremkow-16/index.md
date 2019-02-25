@@ -9,4 +9,5 @@ publication = "*Frontiers in Neural Circuits*"
 tags = [ "area-v1", "staistics of natural images",]
 url_pdf = "http://journal.frontiersin.org/article/10.3389/fncir.2016.00037/full"
 doi = "10.3389/fncir.2016.00037"
+projects = [ "facets",]
 +++

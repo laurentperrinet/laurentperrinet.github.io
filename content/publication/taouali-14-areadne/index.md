@@ -6,6 +6,6 @@ publication_types = [ "1",]
 abstract = ""
 featured = false
 publication = "*Proceedings of AREADNE*"
-projects = [ "anr-bala-v1",]
+projects = [ "anr-bala-v1; brain-scales",]
 tags = [ "coding decoding",]
 +++

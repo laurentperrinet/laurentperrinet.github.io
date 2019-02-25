@@ -7,4 +7,5 @@ abstract = ""
 featured = false
 publication = "*Proceedings of COSYNE, 2008*"
 tags = [ "center-surround interactions", "motion detection", "eye movements", "lateral connections", "Bayesian model", "visual perception",]
+projects = [ "facets",]
 +++

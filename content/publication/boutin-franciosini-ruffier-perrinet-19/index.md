@@ -9,4 +9,5 @@ publication = "*submitted to Neural Networks*"
 url_pdf = "https://arxiv.org/abs/1902.07651"
 url_preprint = "https://arxiv.org/abs/1902.07651"
 tags = [ "sparse coding",]
+projects = [ "doc-2-amu",]
 +++

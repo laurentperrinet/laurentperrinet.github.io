@@ -8,4 +8,5 @@ featured = false
 publication = ""
 tags = [ "motion prediction", "Bayesian model",]
 url_pdf = "https://laurentperrinet.github.io/publication/khoei-12-sfn"
+projects = [ "facets-itn",]
 +++

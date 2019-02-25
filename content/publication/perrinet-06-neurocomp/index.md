@@ -7,4 +7,5 @@ abstract = "The quality of the representation of an object's motion is limited b
 featured = false
 publication = "*1ère conférence francophone NEUROsciences COMPutationnelles - NeuroComp*"
 tags = [ "matching pursuit", "aperture problem", "motion detection", "eye movements", "Bayesian model",]
+projects = [ "facets",]
 +++

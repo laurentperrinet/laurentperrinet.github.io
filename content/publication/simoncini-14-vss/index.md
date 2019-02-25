@@ -7,7 +7,7 @@ abstract = "Under natural viewing conditions, large eye movements are interspace
 featured = false
 publication = "*Journal of Vision*"
 tags = [ "motion detection", "eye movements", "psychophysics", "motion-clouds",]
-projects = [ "motion-clouds; codde",]
+projects = [ "motion-clouds; codde; brain-scales",]
 url_pdf = "http://dx.doi.org/10.1167/14.10.110"
 doi = "10.1167/14.10.110"
 +++

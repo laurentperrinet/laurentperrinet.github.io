@@ -9,4 +9,5 @@ publication = "*BMC Neuroscience*"
 tags = [ "pynn",]
 url_pdf = "http://dx.doi.org/10.1186/1471-2202-8-S2-P180"
 doi = "10.1186/1471-2202-8-S2-P180"
+projects = [ "facets",]
 +++

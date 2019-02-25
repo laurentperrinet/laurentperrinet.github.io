@@ -9,4 +9,5 @@ publication = "*Frontiers in Neuroinformatics*"
 tags = [ "pynn", "computational neuroscience",]
 url_pdf = "http://dx.doi.org/10.3389/neuro.11.011.2008"
 doi = "10.3389/neuro.11.011.2008"
+projects = [ "facets",]
 +++

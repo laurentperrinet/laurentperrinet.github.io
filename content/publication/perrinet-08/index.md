@@ -7,4 +7,5 @@ abstract = ""
 featured = false
 publication = "*Proceedings of COSYNE, 2008*"
 tags = [ "sparse coding", "sparse hebbian learning", "coding decoding", "spike", "Bayesian model",]
+projects = [ "facets",]
 +++

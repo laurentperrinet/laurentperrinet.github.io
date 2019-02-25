@@ -7,4 +7,5 @@ abstract = "Most studies of cor tical network dynamics are either based on purel
 featured = false
 publication = "*Proceedings of COSYNE, 2009*"
 tags = [ "lateral connections",]
+projects = [ "facets",]
 +++

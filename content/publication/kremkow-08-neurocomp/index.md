@@ -7,4 +7,5 @@ abstract = ""
 featured = false
 publication = "*Proceedings of NeuroComp08, Marseille*"
 tags = [ "large-scale_networks", "feed-forward_inhibition",]
+projects = [ "facets",]
 +++

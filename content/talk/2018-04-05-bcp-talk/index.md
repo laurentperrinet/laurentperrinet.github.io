@@ -12,4 +12,5 @@ event_url = "http://invibe.net/cgi-bin/index.cgi/Events/2018-04-05_OptInferBrain
 location = "INT, Marseille (France)"
 url_slides = "https://laurentperrinet.github.io/2018-04-05_BCP_talk/"
 url_code = "https://github.com/laurentperrinet/2018-04-05_BCP_talk/"
+projects = [ "pace-itn",]
 +++

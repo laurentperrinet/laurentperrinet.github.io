@@ -9,4 +9,5 @@ publication = "*Frontiers in Computational Neuroscience*"
 tags = [ "large-scale_networks", "pynn", "motion detection", "motion prediction", "predictive coding", "spike", "Bayesian model",]
 url_pdf = "https://laurentperrinet.github.io/publication/kaplan-13"
 doi = "10.3389/fncom.2013.00112"
+projects = [ "facets-itn",]
 +++

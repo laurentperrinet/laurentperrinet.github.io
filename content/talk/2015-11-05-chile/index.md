@@ -10,4 +10,5 @@ event = "Charla"
 time_start = 2015-11-05T13:00:00
 event_url = "http://www.eventos.usm.cl/evento/charla-motion-based-prediction-with-neuromorphic-hardware/"
 location = "Universidad Técnica Federico Santa Marı́a, Valparaśo, Chile"
+projects = [ "anr-bala-v1",]
 +++

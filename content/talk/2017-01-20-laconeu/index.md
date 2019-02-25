@@ -11,4 +11,5 @@ event_url = "http://www.laconeu.cl"
 location = "Valparaiso (Chile)"
 time_start = 2017-01-20T10:45:00
 url_slides = "https://laurentperrinet.github.io/sciblog/files/2017-01-20_LACONEU.html"
+projects = [ "anr-trajectory",]
 +++

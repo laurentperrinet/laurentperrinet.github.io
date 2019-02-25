@@ -12,4 +12,5 @@ location = "Valparaiso (Chile)"
 time_start = 2019-01-16T10:45:00
 url_slides = "https://laurentperrinet.github.io/2019-01-16_LACONEU/"
 url_code = "https://github.com/laurentperrinet/2019-01-16_LACONEU/"
+projects = [ "anr-horizontal-v1",]
 +++

@@ -9,4 +9,5 @@ publication = "*Journal of Physiology-Paris*"
 tags = [ "area-v1", "association field",]
 url_pdf = "http://dx.doi.org/10.1016/j.jphysparis.2009.11.004"
 doi = "10.1016/j.jphysparis.2009.11.004"
+projects = [ "facets",]
 +++

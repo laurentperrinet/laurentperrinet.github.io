@@ -9,7 +9,7 @@ url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2011-10-05_BrainScale
 event = "Using the ESS + Neuromorphic hardware Workshop"
 time_start = 2011-10-05T13:00:00
 tags = [ "sparse coding",]
-projects = [ "brainscales",]
+projects = [ "brain-scales",]
 event_url = "https://brainscales.kip.uni-heidelberg.de/jss/AttendMeeting?m=showAgenda&meetingID=15"
 location = "TU Dresden, Germany"
 url_slides = "http://invibe.net/LaurentPerrinet/Presentations/2011-10-05_BrainScalesESS?action=AttachFile&do=get&target=perrinet11brainscales_talk.pdf"

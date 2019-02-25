@@ -9,4 +9,5 @@ publication = "*Journal of Computational Neuroscience*"
 tags = [ "inhibition", "pynn", "feed-forward_inhibition",]
 url_pdf = "http://dx.doi.org/10.1007/s10827-010-0240-9"
 doi = "10.1007/s10827-010-0240-9"
+projects = [ "facets",]
 +++

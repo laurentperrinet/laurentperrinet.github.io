@@ -12,4 +12,5 @@ location = "Valparaiso (Chile)"
 time_start = 2017-01-19T10:45:00
 tags = [ "Biologically Inspired Computer vision",]
 url_slides = "https://laurentperrinet.github.io/sciblog/files/2017-01-19_LACONEU.html"
+projects = [ "anr-trajectory",]
 +++

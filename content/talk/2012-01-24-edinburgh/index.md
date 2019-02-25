@@ -10,4 +10,5 @@ event = "A seminar from the Institute for Adaptive and Neural Computation (ANC)"
 time_start = 2012-01-24T13:00:00
 event_url = "http://www.anc.ed.ac.uk/events/anc-dtc-seminar-laurent-perrinet"
 location = "IF 4.31/4.33, Institute for Adaptive and Neural Computation (ANC) @ The University of Edinburgh"
+projects = [ "brain-scales",]
 +++

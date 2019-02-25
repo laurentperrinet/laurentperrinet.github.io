@@ -8,4 +8,5 @@ publication = "*Macroscopic aspects of neuronal activity: ''Macroscopic models, 
 url_pdf = "http://invibe.net/LaurentPerrinet/Publications/Perrinet09vss"
 event = "Macroscopic aspects of neuronal activity: ''Macroscopic models, LFP models and VSD models'' a FACETS workshop in Marseille, Nov. 30th /Dec. 1st"
 time_start = 2009-11-30
+projects = [ "facets",]
 +++

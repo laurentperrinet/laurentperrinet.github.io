@@ -7,7 +7,7 @@ abstract = "Estimating object speed in visual scenes is a critical part of perce
 featured = false
 publication = "*Journal of Vision*"
 tags = [ "motion-clouds",]
-projects = [ "motion-clouds",]
+projects = [ "motion-clouds; anr-speed",]
 url_pdf = "http://dx.doi.org/10.1167/14.10.491"
 doi = "10.1167/14.10.491"
 +++

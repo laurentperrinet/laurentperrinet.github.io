@@ -1,0 +1,13 @@
++++
+title = "Dynamic modulation of volatility by reward contingencies: effects on anticipatory smooth eye movement"
+date = 2017-08-01
+authors = [ "Jean-Bernard Damasse", "Anna Montagnini", "Laurent U Perrinet",]
+publication_types = [ "1",]
+abstract = ""
+featured = false
+publication = "*Proceedings of Vision Sciences Society Annual Meeting*"
+tags = [ "Smooth pursuit eye movement; eye movements",]
+url_pdf = "http://jov.arvojournals.org/article.aspx?doi=10.1167/17.10.273"
+doi = "10.1167/17.10.273"
+projects = [ "anr-rem",]
++++

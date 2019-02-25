@@ -33,6 +33,19 @@ The project is timely because partners master new tools such as multi-electrode 
 *    Ivo Vanzetta (CR, CNRS, NEOPTO team). His scientific interests focus on how to optimally use photonics-based imaging methods to investigate visual information processing in low-level visual areas, in the anesthetized and awake animal (rodent & primate). As can be seen from his bibliographic record, these methods include optical imaging of intrinsic signals and voltage sensitive dyes and, recently, 2 photon microscopy. Finally I. Vanzetta has an ongoing collaboration with L. Perrinet on the utilization of well-controlled, synthesized nature-like visual stimuli to probe the response characteristics of the primate's visual system (Sanz-Leon & al. 2012).
 
 
-Acknowledgement
+## Progress meeting ANR TRAJECTORY
+
+* Time    January 15th, 2018
+* Location     INT
+* General presentation of the grant, see [Anr TRAJECTORY](http://invibe.net/LaurentPerrinet/TagAnrTRAJECTORY)
+* Overview of my current projects    https://laurentperrinet.github.io/sciblog/files/2017-11-15_ColloqueMaster.html
+* MotionClouds with trajectories    https://laurentperrinet.github.io/sciblog/posts/2018-01-16-testing-more-complex-trajectories.html
+
+
+
+{{< figure src="http://invibe.net/cgi-bin/index.cgi/Presentations/2012-04-16_InriaIntMeeting?action=AttachFile&do=get&target=sequence_ABCD.gif" title="*A predictive sequence is essential in resolving the coherence problem.*  The sequence in which a set of local motion is shown is essential for the detection of global motion. we replicate here the experiments by Scott Watamaniuk and colleagues. They have shown behaviourally that a dot in noise is much more detectable when it follows a coherent trajectory, up to an order of magnitude of 10 times what would be predicted by the local components of the trajectory. In this  movie we observe white noise and at first sight, no information is detectable. In fact, there is a dot moving along some smooth linear trajectory. Since this is compatible with a predictive sequence, it is much easier to see the dot (from left to right in the top of the image, a smooth pursuit helps to catch it). This simple experiment shows that, even if local motion is similar in both movies, a coherent trajectory is more easy to track. Obviously, we may thus conclude that the whole trajectory is more that its individual parts, and that the independence hypothesis does not hold if we want to account for the predictive information in input sequences such as seems to be crucial for the AP.  "">}}
+
+
+## Acknowledgement
 
 This work was supported by ANR project "TRAJECTORY" N° ANR-15-CE37-0011.
