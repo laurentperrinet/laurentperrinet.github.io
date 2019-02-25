@@ -3,7 +3,7 @@
 widget = "hero"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Novel computational paradigms for vision"
+title = "Novel visual computations"
 
 # Order that this section will appear in.
 weight = 3
