@@ -6,6 +6,8 @@ abstract = " We stand at a point in history where our phones have become smart b
 featured = false
 publication = "*Universidad Técnica Federico Santa María, Valparaíso, Chile, November 5th, 2015*"
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2015-11-05_Chile"
-event = "Universidad Técnica Federico Santa Marı́a, Valparaśo, Chile, November 5th, 2015"
-time_start = 2015-11-05
+event = "Charla"
+time_start = 2015-11-05T13:00:00
+event_url = "http://www.eventos.usm.cl/evento/charla-motion-based-prediction-with-neuromorphic-hardware/"
+location = "Universidad Técnica Federico Santa Marı́a, Valparaśo, Chile"
 +++

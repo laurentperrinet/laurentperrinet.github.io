@@ -5,7 +5,7 @@ authors = [ "Laurent U Perrinet", "Guillaume S Masson",]
 abstract = ""
 featured = false
 publication = ""
-tags = [ " motion prediction", " Bayesian model", " dynamics", "motion detection", " motion detection", "eye movements", " center-surround interactions",]
+tags = [ "motion prediction", " Bayesian model", " dynamics", "motion detection", " motion detection", "eye movements", " center-surround interactions",]
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2010-01-08_facets"
 time_start = 2010-01-08
 +++
