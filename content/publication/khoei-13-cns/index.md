@@ -1,6 +1,6 @@
 +++
 title = "Motion-based prediction and development of the response to an 'on the way' stimulus"
-date = 2013-02-25
+date = 2013-02-27
 authors = [ "Mina A. Khoei", "Giacomo Benvenuti", "Frédéric Chavane", "Laurent U Perrinet",]
 publication_types = [ "1",]
 abstract = ""

@@ -1,6 +1,6 @@
 +++
 title = "Efficient Source Detection Using Integrate-and-Fire Neurons"
-date = 2005-02-25
+date = 2005-02-27
 authors = [ "Laurent U Perrinet",]
 publication_types = [ "6",]
 abstract = ""

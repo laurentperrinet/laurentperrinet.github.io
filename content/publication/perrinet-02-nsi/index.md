@@ -1,6 +1,6 @@
 +++
 title = "Visual Strategies for Sparse Spike Coding"
-date = 2002-02-25
+date = 2002-02-27
 authors = [ "Laurent U Perrinet", "Manuel Samuelides",]
 publication_types = [ "1",]
 abstract = ""

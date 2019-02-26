@@ -39,7 +39,7 @@ The project is timely because partners master new tools such as multi-electrode 
 * Location     INT
 * General presentation of the grant, see [Anr TRAJECTORY](http://invibe.net/LaurentPerrinet/TagAnrTRAJECTORY)
 * Overview of my current projects    https://laurentperrinet.github.io/sciblog/files/2017-11-15_ColloqueMaster.html
-* MotionClouds with trajectories    https://laurentperrinet.github.io/sciblog/posts/2018-01-16-testing-more-complex-trajectories.html
+* MotionClouds with trajectories    https://laurentperrinet.github.io/sciblog/posts/2018-01-16-testing-more-complex-trajectories.html or https://laurentperrinet.github.io/sciblog/posts/2018-11-13-testing-more-complex-trajectories.html
 
 
 

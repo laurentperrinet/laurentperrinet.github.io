@@ -1,6 +1,6 @@
 +++
 title = "Dynamics of cortical networks based on patchy connectivity patterns"
-date = 2008-02-25
+date = 2008-02-27
 authors = [ "Nicole Voges", "Jens Kremkow", "Laurent U Perrinet",]
 publication_types = [ "1",]
 abstract = ""

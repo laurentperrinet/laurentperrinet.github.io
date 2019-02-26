@@ -1,6 +1,6 @@
 +++
 title = "A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise"
-date = 2014-02-25
+date = 2014-02-27
 authors = [ "Wahiba Taouali", "Laurent U Perrinet",]
 publication_types = [ "1",]
 abstract = ""

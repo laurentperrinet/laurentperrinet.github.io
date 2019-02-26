@@ -1,6 +1,6 @@
 +++
 title = "Eye tracking a self-moved target with complex hand-target dynamics"
-date = 2015-02-25
+date = 2015-02-27
 authors = [ "Fréderic Danion", "Caroline Landelle", "Anna Montagnini", "Laurent U Perrinet", "Laurent Madelain",]
 publication_types = [ "1",]
 abstract = ""
