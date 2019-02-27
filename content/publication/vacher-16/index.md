@@ -9,6 +9,6 @@ tags = [ "motion detection", "motion-clouds", "Bayesian model", "Psychophysics",
 projects = [ "motion-clouds; anr-speed",]
 url_pdf = "https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01142"
 doi = "10.1162/neco_a_01142"
-url_preprint = "https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01142"
+url_preprint = "https://arxiv.org/abs/1611.01390"
 publication = "*Neural Computation*"
 +++
