@@ -19,6 +19,7 @@ featured = true
 
 
 
+
 * [Press release](http://www4.cnrs-dir.fr/insb/recherche/parutions/articles2019/l-perrinet.html)
 
 # Dès la rétine, le système visuel préfère des images naturelles
