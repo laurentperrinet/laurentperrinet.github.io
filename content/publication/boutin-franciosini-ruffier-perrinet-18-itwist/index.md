@@ -51,6 +51,7 @@ projects = [ "doc-2-amu",]
 
 
 
+
 From biological vision to unsupervised hierarchical sparse coding
 =================================================================
 
