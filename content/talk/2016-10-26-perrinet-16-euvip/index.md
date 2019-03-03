@@ -1,6 +1,6 @@
 +++
 title = "Biologically-inspired characterization of sparseness in natural images"
-date = 2016-10-26
+date = 2016-10-26T13:00:00
 authors = [ "Laurent U Perrinet",]
 abstract = ""
 featured = false

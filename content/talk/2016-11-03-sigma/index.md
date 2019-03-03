@@ -1,6 +1,6 @@
 +++
 title = "The flash-lag effect as a motion-based predictive shift"
-date = 2016-11-03
+date = 2016-11-03T13:00:00
 authors = [ "Laurent U Perrinet",]
 abstract = ""
 featured = false

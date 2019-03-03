@@ -1,6 +1,6 @@
 +++
 title = "Categorization of microscopy images using a biologically inspired edge co-occurrences descriptor"
-date = 2016-10-26
+date = 2016-10-26T13:00:00
 authors = [ "Lionel Fillatre", "Michel Barlaud", "Laurent U Perrinet",]
 abstract = ""
 featured = false
