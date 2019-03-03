@@ -53,7 +53,7 @@
   name = "Talks"
   url = "/talk/"
   weight = 33
-# 
+#
 # [[main]]
 #   name = "Events"
 #   url = "/events/"
@@ -63,11 +63,11 @@
   name = "Projects"
   url = "#projects"
   weight = 40
-
-[[main]]
-  name = "Grants"
-  url = "/grants/"
-  weight = 50
+# 
+# [[main]]
+#   name = "Grants"
+#   url = "/grants/"
+#   weight = 50
 
 [[main]]
   name = "Contact"
