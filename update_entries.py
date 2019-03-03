@@ -158,7 +158,14 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
                 parsed_toml['title'] = clean_bibtex_str(entry["title"])
 
                 if 'date' in entry:
-                    parsed_toml['date'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["date"]))
+                    date_str = clean_bibtex_str(entry["date"])
+                    # print('len(date_str)', len(date_str))
+                    if len(date_str) == 4:
+                        if 'month' in entry:
+                            date_str = f"{date_str}-{month2number(entry['month'])}-01"
+                        else:
+                            date_str = f"{date_str}-01-01"
+                    parsed_toml['date'] = getDateTimeFromISO8601String(date_str)
                 else:
                     if 'month' in entry:
                         parsed_toml['date'] = getDateTimeFromISO8601String(f"{entry['year']}-{month2number(entry['month'])}-01")
@@ -230,6 +237,10 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
                         parsed_toml['publication'] = ''
 
                 metadata[1] = toml.dumps(parsed_toml)
+                if not len(metadata) == 3 : print('Z'*150, '  len(metadata)', len(metadata))
+
+                # clean-up: strip double lines
+                metadata[2] = metadata[2].replace('\n\n', '\n')
 
                 # Save Markdown file.
                 try:

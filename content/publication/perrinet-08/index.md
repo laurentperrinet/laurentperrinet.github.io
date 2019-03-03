@@ -1,6 +1,6 @@
 +++
 title = "What adaptive code for efficient spiking representations? A model for the formation of receptive fields of simple cells"
-date = 2008-03-03
+date = 2008-01-01
 authors = [ "Laurent U Perrinet",]
 publication_types = [ "1",]
 abstract = ""

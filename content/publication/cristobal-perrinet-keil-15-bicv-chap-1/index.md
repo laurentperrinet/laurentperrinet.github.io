@@ -12,14 +12,4 @@ doi = "10.1002/9783527680863.ch1"
 tags = [ "Biologically Inspired Computer vision",]
 +++
 
-
-
-
-
-
-
-
-
-
-
 {{< figure src="mindmap.png" title="Mindmap of the book contents. Cross-links between chapters have been indicated as thin lines." >}}

@@ -1,6 +1,6 @@
 +++
 title = "Spatiotemporal tuning of retinal ganglion cells dependent on the context of signal presentation"
-date = 2015-03-03
+date = 2015-01-01
 authors = [ "Cesar U Ravello", "F. Olivares", "R. Herzog", "Laurent U Perrinet", "Maria-José Escobar", "Adrián G Palacios",]
 publication_types = [ "1",]
 abstract = ""
