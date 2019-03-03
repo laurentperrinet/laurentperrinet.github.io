@@ -6,7 +6,7 @@ publication_types = [ "2",]
 abstract = ""
 featured = false
 publication = "*Neurocomputing*"
-tags = [ "sparse coding", "association field", "matching pursuit",]
+tags = [ "matching pursuit", "sparse coding", "association field",]
 url_pdf = "http://dx.doi.org/10.1016/j.neucom.2004.01.010"
 doi = "10.1016/j.neucom.2004.01.010"
 +++

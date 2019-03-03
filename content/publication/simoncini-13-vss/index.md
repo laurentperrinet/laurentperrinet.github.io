@@ -7,5 +7,5 @@ abstract = "The visual system does not process information instantaneously, but 
 featured = false
 publication = "*VSS Conference Abstract*"
 projects = [ "motion-clouds; codde; brain-scales",]
-tags = [ "motion detection", "eye movements", "motion-clouds", "psychophysics",]
+tags = [ "psychophysics", "eye movements", "motion detection", "motion-clouds",]
 +++

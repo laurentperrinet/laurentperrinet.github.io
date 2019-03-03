@@ -7,6 +7,6 @@ abstract = ""
 featured = false
 publication = "*Proceedings of ECVP*"
 url_pdf = "https://laurentperrinet.github.io/publication/damasse-16-ecvp"
-tags = [ "eye movements", "Smooth pursuit eye movement",]
+tags = [ "Smooth pursuit eye movement", "eye movements",]
 projects = [ "anr-rem",]
 +++

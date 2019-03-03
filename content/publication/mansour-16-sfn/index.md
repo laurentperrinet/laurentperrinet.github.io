@@ -7,6 +7,6 @@ abstract = ""
 featured = false
 publication = "*Proceedings of SfN 2016*"
 url_pdf = "https://laurentperrinet.github.io/publication/mansour-16-ecvp"
-tags = [ "motion detection", "eye movements", "motion-clouds",]
+tags = [ "eye movements", "motion detection", "motion-clouds",]
 projects = [ "pace-itn",]
 +++

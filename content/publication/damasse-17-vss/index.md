@@ -6,7 +6,7 @@ publication_types = [ "1",]
 abstract = ""
 featured = false
 publication = "*Proceedings of Vision Sciences Society Annual Meeting*"
-tags = [ "eye movements", "Smooth pursuit eye movement",]
+tags = [ "Smooth pursuit eye movement", "eye movements",]
 url_pdf = "http://jov.arvojournals.org/article.aspx?doi=10.1167/17.10.273"
 doi = "10.1167/17.10.273"
 projects = [ "anr-rem",]
