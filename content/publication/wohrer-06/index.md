@@ -1,6 +1,6 @@
 +++
 title = "Contrast sensitivity adaptation in a virtual spiking retina and its adequation with mammalians retinas"
-date = 2006-02-27
+date = 2006-03-03
 authors = [ "Adrien Wohrer", "Guillaume S Masson", "Laurent U Perrinet", "Pierre Kornprobst", "Thierry Vieville",]
 publication_types = [ "1",]
 abstract = ""

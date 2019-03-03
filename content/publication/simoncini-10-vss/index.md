@@ -1,6 +1,6 @@
 +++
 title = "Different pooling of motion information for perceptual speed discrimination and behavioral speed estimation"
-date = 2010-02-27
+date = 2010-03-03
 authors = [ "Claudio Simoncini", "Laurent U Perrinet", "Anna Montagnini", "Pascal Mamassian", "Guillaume S Masson",]
 publication_types = [ "1",]
 abstract = ""

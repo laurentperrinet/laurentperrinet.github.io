@@ -1,6 +1,6 @@
 +++
 title = "Functional properties of feed-forward inhibition"
-date = 2008-10-27
+date = 2008-10-03
 authors = [ "Jens Kremkow", "Laurent U Perrinet", "Ad M. Aertsen", "Guillaume S Masson",]
 publication_types = [ "1",]
 abstract = ""

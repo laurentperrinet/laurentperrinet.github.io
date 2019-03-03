@@ -1,6 +1,6 @@
 +++
 title = "Signature of an anticipatory response in area V1 as modeled by a probabilistic model and a spiking neural network"
-date = 2014-02-27
+date = 2014-03-03
 authors = [ "Bernhard A. Kaplan", "Mina A. Khoei", "Anders Lansner", "Laurent U Perrinet",]
 publication_types = [ "2",]
 abstract = ""

@@ -88,6 +88,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
     def getDateTimeFromISO8601String(s, full=False):
         d = dateutil.parser.parse(s)
         if not full:
+            # then get the current date
             d = d.date()
         return d
 
