@@ -1,6 +1,6 @@
 +++
 title = "Estimating and anticipating a dynamic probabilistic bias in visual motion direction"
-date = 2018-01-01
+date = 2018-02-01
 authors = [ "Laurent U Perrinet", "Chloé Pasturel", "Anna Montagnini",]
 abstract = ""
 featured = false

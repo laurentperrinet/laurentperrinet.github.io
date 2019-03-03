@@ -32,52 +32,52 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
     import glob
     import toml
 
-    if False:
-        from academic import clean_bibtex_str
-        # 3- updating bibtex with the metadata
-        for file_path in glob.glob('content/publication/**/index.md'):
-            new_key = file_path.split('content/publication/')[-1].split('/index.md')[0]
-            if not new_key in ['___template___',  'person-re-id', '_index.md']:
-                with open(file_path, 'r', encoding='utf-8') as source_file:
-                    page = source_file.read() + '\n'
-                metadata = page.split('+++')
-                parsed_toml = toml.loads(metadata[1])
-                #print(parsed_toml)
-
-                #for new_key in dico.keys():
-                old_key = dico[new_key]
-                print('input', old_key, ' -> output', new_key)
-                #bib_database.get_entry_dict()[old_key]
-                translate = {'abstract':'abstract', 'tags':'keywords', 'projects':'projects',
-                            'url_pdf':'url', 'url_preprint':'preprint', 'doi':'doi'}
-
-                if 'date' in parsed_toml.keys():
-                    # parsed_toml['date'] = clean_bibtex_str(entry["date"])
-                    bib_database.entries_dict[old_key]['year'] = parsed_toml['date'][:4]
-
-
-                for key in ['projects', 'tags']:
-                    if key in parsed_toml.keys():
-                        tags = parsed_toml[key] #bib_database.entries_dict[old_key][translate['tags']]
-                        #print(tags)
-                        if not type(tags) == str:
-                            parsed_toml[key] = ','.join(tags)
-                        #print(parsed_toml['tags'])
-
-                for key in translate.keys():
-                    if key in parsed_toml.keys():
-                        if key == 'abstract':
-                            if parsed_toml[key] == "": break
-                        #print(parsed_toml[key])
-
-                        bib_database.entries_dict[old_key][translate[key]] = parsed_toml[key]
-
-        writer = BibTexWriter()
-        writer.indent = '    '     # indent entries with 4 spaces instead of one
-        writer.order_entries_by = ('ID')
-        with open(bibtex, 'w') as bibfile:
-            bibfile.write(writer.write(bib_database))
-
+    # if False: # THIS is BIBTEX CLEANER ...
+    #     from academic import clean_bibtex_str
+    #     # 3- updating bibtex with the metadata
+    #     for file_path in glob.glob('content/publication/**/index.md'):
+    #         new_key = file_path.split('content/publication/')[-1].split('/index.md')[0]
+    #         if not new_key in ['___template___',  'person-re-id', '_index.md']:
+    #             with open(file_path, 'r', encoding='utf-8') as source_file:
+    #                 page = source_file.read() + '\n'
+    #             metadata = page.split('+++')
+    #             parsed_toml = toml.loads(metadata[1])
+    #             #print(parsed_toml)
+    #
+    #             #for new_key in dico.keys():
+    #             old_key = dico[new_key]
+    #             print('input', old_key, ' -> output', new_key)
+    #             #bib_database.get_entry_dict()[old_key]
+    #             translate = {'abstract':'abstract', 'tags':'keywords', 'projects':'projects',
+    #                         'url_pdf':'url', 'url_preprint':'preprint', 'doi':'doi'}
+    #
+    #             if 'date' in parsed_toml.keys():
+    #                 # parsed_toml['date'] = clean_bibtex_str(entry["date"])
+    #                 bib_database.entries_dict[old_key]['year'] = parsed_toml['date'][:4]
+    #
+    #
+    #             for key in ['projects', 'tags']:
+    #                 if key in parsed_toml.keys():
+    #                     tags = parsed_toml[key] #bib_database.entries_dict[old_key][translate['tags']]
+    #                     #print(tags)
+    #                     if not type(tags) == str:
+    #                         parsed_toml[key] = ','.join(tags)
+    #                     #print(parsed_toml['tags'])
+    #
+    #             for key in translate.keys():
+    #                 if key in parsed_toml.keys():
+    #                     if key == 'abstract':
+    #                         if parsed_toml[key] == "": break
+    #                     #print(parsed_toml[key])
+    #
+    #                     bib_database.entries_dict[old_key][translate[key]] = parsed_toml[key]
+    #
+    #     writer = BibTexWriter()
+    #     writer.indent = '    '     # indent entries with 4 spaces instead of one
+    #     writer.order_entries_by = ('ID')
+    #     with open(bibtex, 'w') as bibfile:
+    #         bibfile.write(writer.write(bib_database))
+    #
 
     # 4- updating metadata with bibtex
     from academic import PUB_TYPES, clean_bibtex_str#, clean_bibtex_authors#, clean_bibtex_tags
@@ -130,123 +130,119 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
         pub_dir = 'content/talk'
     elif type == 'Publications':
         pub_dir = 'content/publication'
-    if True:
-        for file_path in glob.glob(f"{pub_dir}/**/index.md"):
-            new_key = file_path.split(f'{pub_dir}/')[-1].split('/index.md')[0]
-            if not new_key in ['___template___',  'person-re-id', 'template']:
-                with open(file_path, 'r', encoding='utf-8') as source_file:
-                    page = source_file.read() + '\n'
-                metadata = page.split('+++')
-                parsed_toml = toml.loads(metadata[1])
 
-                old_key = dico[new_key]
-                entry = bib_database.entries_dict[old_key]
-                #bib_database.get_entry_dict()[old_key]
-                bundle_path = f"{pub_dir}/{slugify(entry['ID'])}"
-                cite_path = os.path.join(bundle_path, f"{slugify(entry['ID'])}.bib")
-                # Save citation file.
-                print(f'Saving citation to {cite_path}')
-                db = BibDatabase()
-                db.entries = [entry]
-                writer = BibTexWriter()
-                with open(cite_path, 'w', encoding='utf-8') as f:
-                    f.write(writer.write(db))
+    for file_path in glob.glob(f"{pub_dir}/**/index.md"):
+        new_key = file_path.split(f'{pub_dir}/')[-1].split('/index.md')[0]
+        if not new_key in ['___template___',  'person-re-id', 'template']:
+            with open(file_path, 'r', encoding='utf-8') as source_file:
+                page = source_file.read() + '\n'
+            metadata = page.split('+++')
+            parsed_toml = toml.loads(metadata[1])
 
-                print('input', old_key, ' -> output', new_key)
+            old_key = dico[new_key]
+            entry = bib_database.entries_dict[old_key]
+            #bib_database.get_entry_dict()[old_key]
+            bundle_path = f"{pub_dir}/{slugify(entry['ID'])}"
+            cite_path = os.path.join(bundle_path, f"{slugify(entry['ID'])}.bib")
+            # Save citation file.
+            print(f'Saving citation to {cite_path}')
+            db = BibDatabase()
+            db.entries = [entry]
+            writer = BibTexWriter()
+            with open(cite_path, 'w', encoding='utf-8') as f:
+                f.write(writer.write(db))
 
-                # Prepare TOML front matter for Markdown file.
-                parsed_toml['title'] = clean_bibtex_str(entry["title"])
+            print('input', old_key, ' -> output', new_key)
 
-                if 'date' in entry:
-                    date_str = clean_bibtex_str(entry["date"])
-                    # print('len(date_str)', len(date_str))
-                    if len(date_str) == 4:
-                        if 'month' in entry:
-                            date_str = f"{date_str}-{month2number(entry['month'])}-01"
-                        else:
-                            date_str = f"{date_str}-01-01"
-                    parsed_toml['date'] = getDateTimeFromISO8601String(date_str)
+            # Prepare TOML front matter for Markdown file.
+            parsed_toml['title'] = clean_bibtex_str(entry["title"])
+
+            if 'date' in entry:
+                date_str = clean_bibtex_str(entry["date"])
+            else:
+                date_str = clean_bibtex_str(entry["year"])
+            # print('len(date_str)', len(date_str))
+            if len(date_str) == 4:
+                # the date is just the year, so we guess from the rest of the information...
+                if 'month' in entry:
+                    date_str = f"{date_str}-{month2number(entry['month'])}-01"
                 else:
-                    if 'month' in entry:
-                        parsed_toml['date'] = getDateTimeFromISO8601String(f"{entry['year']}-{month2number(entry['month'])}-01")
-                    else:
-                        parsed_toml['date'] = getDateTimeFromISO8601String(f"{entry['year']}-01-01")
+                    date_str = f"{date_str}-01-01"
+            parsed_toml['date'] = getDateTimeFromISO8601String(date_str)
 
-                authors = None
-                if 'author' in entry:
-                    authors = entry['author']
-                elif 'editor' in entry:
-                    authors = entry['editor']
-                if authors:
-                    authors = clean_bibtex_authors([i.strip() for i in authors.replace('\n', ' ').split(' and ')])
-                    parsed_toml['authors'] = authors #f"[{', '.join(authors)}]"
+            authors = None
+            if 'author' in entry:
+                authors = entry['author']
+            elif 'editor' in entry:
+                authors = entry['editor']
+            if authors:
+                authors = clean_bibtex_authors([i.strip() for i in authors.replace('\n', ' ').split(' and ')])
+                parsed_toml['authors'] = authors #f"[{', '.join(authors)}]"
 
-                if 'abstract' in entry:
-                    parsed_toml['abstract'] = clean_bibtex_str(entry["abstract"])
+            if 'abstract' in entry:
+                parsed_toml['abstract'] = clean_bibtex_str(entry["abstract"])
+            else:
+                parsed_toml['abstract'] = ""
+
+            #frontmatter.append(f'featured = {str(featured).lower()}')
+
+            if 'keywords' in entry:
+                parsed_toml['tags'] = clean_bibtex_tags(entry["keywords"], normalize)
+            if 'projects' in entry:
+                parsed_toml['projects'] = clean_bibtex_tags(entry["projects"], normalize)
+                print(parsed_toml['projects'])
+
+            for url_key in ['url_slides', 'url_code', 'url_slides']:
+                if url_key in entry:
+                    parsed_toml[url_key] = f'{clean_bibtex_str(entry[url_key])}'
+
+            if 'preprint' in entry:
+                parsed_toml['url_preprint'] = f'{clean_bibtex_str(entry["url"])}'
+
+            if 'doi' in entry:
+                parsed_toml['doi'] = f'{entry["doi"]}'
+
+            if type == 'Presentations':
+                # if 'time_start' in entry:
+                #     parsed_toml['date'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["time_start"]))
+                # else:
+                #     parsed_toml['date'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["ID"][:10]))
+                #     # parsed_toml['date'] = getDateTimeFromISO8601String('1973-02-23')
+                parsed_toml['date'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["ID"][:10]))
+
+                for this_key in ['event_url', 'location']:
+                    if this_key in entry:
+                        parsed_toml[this_key] = f'{clean_bibtex_str(entry[this_key])}'
+                if 'booktitle' in entry:
+                    parsed_toml['event'] = f'{clean_bibtex_str(entry["booktitle"])}'
+                if 'time_start' in entry:
+                    parsed_toml['time_start'] = getDateTimeFromISO8601String(f'{clean_bibtex_str(entry["time_start"])}', full=True)
                 else:
-                    parsed_toml['abstract'] = ""
+                    parsed_toml['time_start'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["ID"][:10]))
 
-                #frontmatter.append(f'featured = {str(featured).lower()}')
+            elif type == 'Publications':
 
-                if 'keywords' in entry:
-                    parsed_toml['tags'] = clean_bibtex_tags(entry["keywords"], normalize)
-                if 'projects' in entry:
-                    parsed_toml['projects'] = clean_bibtex_tags(entry["projects"], normalize)
-                    print(parsed_toml['projects'])
+                parsed_toml['publication_types'] = [f'{PUB_TYPES.get(entry["ENTRYTYPE"], 0)}']
 
-                for url_key in ['url_slides', 'url_code', 'url_slides']:
-                    if url_key in entry:
-                        parsed_toml[url_key] = f'{clean_bibtex_str(entry[url_key])}'
+                # Publication name.
+                if 'booktitle' in entry:
+                    parsed_toml['publication'] = f'*{clean_bibtex_str(entry["booktitle"])}*'
+                elif 'journal' in entry:
+                    parsed_toml['publication'] = f'*{clean_bibtex_str(entry["journal"])}*'
+                else:
+                    parsed_toml['publication'] = ''
 
-                if 'preprint' in entry:
-                    parsed_toml['url_preprint'] = f'{clean_bibtex_str(entry["url"])}'
+            metadata[1] = toml.dumps(parsed_toml)
+            if not len(metadata) == 3 : print('Z'*150, '  len(metadata)', len(metadata))
 
-                if 'doi' in entry:
-                    parsed_toml['doi'] = f'{entry["doi"]}'
+            # clean-up: strip double lines
+            metadata[2] = metadata[2].replace('\n\n', '\n')
 
-                if type == 'Presentations':
-                    # if 'Date-Modified' in entry:
-                    #     parsed_toml['date'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["Date-Modified"]))
-                    # else:
-                    #     parsed_toml['date'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["ID"][:10]))
-                    #     # parsed_toml['date'] = getDateTimeFromISO8601String('1973-02-23')
-                    parsed_toml['date'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["ID"][:4]) + '-01-01')
-
-
-
-                    for this_key in ['event_url', 'location']:
-                        if this_key in entry:
-                            parsed_toml[this_key] = f'{clean_bibtex_str(entry[this_key])}'
-                    if 'booktitle' in entry:
-                        parsed_toml['event'] = f'{clean_bibtex_str(entry["booktitle"])}'
-                    if 'time_start' in entry:
-                        parsed_toml['time_start'] = getDateTimeFromISO8601String(f'{clean_bibtex_str(entry["time_start"])}', full=True)
-                    else:
-                        parsed_toml['time_start'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["ID"][:10]))
-
-                elif type == 'Publications':
-
-                    parsed_toml['publication_types'] = [f'{PUB_TYPES.get(entry["ENTRYTYPE"], 0)}']
-
-                    # Publication name.
-                    if 'booktitle' in entry:
-                        parsed_toml['publication'] = f'*{clean_bibtex_str(entry["booktitle"])}*'
-                    elif 'journal' in entry:
-                        parsed_toml['publication'] = f'*{clean_bibtex_str(entry["journal"])}*'
-                    else:
-                        parsed_toml['publication'] = ''
-
-                metadata[1] = toml.dumps(parsed_toml)
-                if not len(metadata) == 3 : print('Z'*150, '  len(metadata)', len(metadata))
-
-                # clean-up: strip double lines
-                metadata[2] = metadata[2].replace('\n\n', '\n')
-
-                # Save Markdown file.
-                try:
-                    print(f"Saving Markdown to '{file_path}'")
-                    page = '+++\n'.join(metadata).strip('\n')
-                    with open(file_path, 'w', encoding='utf-8') as f:
-                        f.write(page + '\n')
-                except IOError:
-                    print('ERROR: could not save file.')
+            # Save Markdown file.
+            try:
+                print(f"Saving Markdown to '{file_path}'")
+                page = '+++\n'.join(metadata).strip('\n')
+                with open(file_path, 'w', encoding='utf-8') as f:
+                    f.write(page + '\n')
+            except IOError:
+                print('ERROR: could not save file.')
