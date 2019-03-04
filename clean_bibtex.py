@@ -18,7 +18,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
             if 'keywords' in entry.keys():
                 print('->', entry['keywords'], end='...')
                 entry['keywords'] = entry['keywords'].replace('; ', ',').replace(';', ',')
-                tags = set(entry['keywords'].split(','))
+                tags = set(sorted(entry['keywords'].split(','), key=str.lower))
                 entry['keywords'] = ','.join(tags)
                 print('->', entry['keywords'])
 

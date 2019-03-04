@@ -6,7 +6,7 @@ publication_types = [ "1",]
 abstract = ""
 featured = false
 publication = "*Proceedings of ESANN*"
-tags = [ "area-v1", "sparse coding", "receptive field",]
+tags = [ "area-v1", "receptive field", "sparse coding",]
 +++
 
 {{< figure src="lena256pyr.gif" title="*Progressive reconstruction of a static image using spikes in a Laplacian pyramid.*" >}}

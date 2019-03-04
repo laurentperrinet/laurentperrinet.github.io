@@ -6,7 +6,7 @@ publication_types = [ "3",]
 abstract = ""
 featured = false
 publication = ""
-tags = [ "Image texture", "sparse coding", "Retina", "Biologically Inspired Computer vision",]
+tags = [ "Retina", "Biologically Inspired Computer vision", "sparse coding", "Image texture",]
 projects = [ "motion-clouds",]
 url_pdf = "https://laurentperrinet.github.io/publication/ravello-16-droplets"
 +++
