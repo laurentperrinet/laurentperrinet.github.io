@@ -7,7 +7,6 @@ abstract = "As it is confronted to inherent neural delays, how does the visual s
 featured = false
 publication = "*IEEE International Joint Conference on Neural Networks (IJCNN) 2014 Beijing, China*"
 tags = [ "Bayesian model", "motion prediction", "motion detection", "pynn",]
-url_pdf = "https://laurentperrinet.github.io/publication/kaplan-14-beijing"
 doi = "10.1109/IJCNN.2014.6889847"
 projects = [ "brain-scales; facets-itn",]
 +++
