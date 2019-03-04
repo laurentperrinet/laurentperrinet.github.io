@@ -8,6 +8,6 @@ featured = false
 publication = "*Proceedings of VSS*"
 url_pdf = "http://jov.arvojournals.org/article.aspx?articleid=2434129"
 doi = "10.1167/15.12.1019"
-tags = [ "Smooth pursuit eye movement", "eye movements",]
+tags = [ "eye movements", "Smooth pursuit eye movement",]
 projects = [ "anr-rem",]
 +++

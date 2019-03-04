@@ -5,8 +5,8 @@ authors = [ "Kiana Mansour Pour", "Laurent U Perrinet", "Guillaume S Masson", "A
 publication_types = [ "1",]
 abstract = ""
 featured = false
-publication = "*Proceedings of SfN 2016*"
+publication = "*Proceedings of the Society for Neuroscience conference*"
 url_pdf = "https://laurentperrinet.github.io/publication/mansour-16-ecvp"
-tags = [ "eye movements", "motion detection", "motion-clouds",]
+tags = [ "motion-clouds", "motion detection", "eye movements",]
 projects = [ "pace-itn",]
 +++

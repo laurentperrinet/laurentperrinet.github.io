@@ -8,6 +8,6 @@ featured = false
 publication = "*2016 6th European Workshop on Visual Information Processing (EUVIP)*"
 url_pdf = "https://doi.org/10.1109/EUVIP.2016.7764592"
 doi = "10.1109/EUVIP.2016.7764592"
-tags = [ "sparse coding", "Biologically Inspired Computer vision", "Image texture",]
+tags = [ "Image texture", "sparse coding", "Biologically Inspired Computer vision",]
 projects = [ "anr-bala-v1",]
 +++

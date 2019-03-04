@@ -6,6 +6,6 @@ publication_types = [ "1",]
 abstract = ""
 featured = false
 publication = "*Vision Science Society*"
-tags = [ "psychophysics", "eye movements", "motion detection", "motion-clouds",]
+tags = [ "motion-clouds", "motion detection", "eye movements", "psychophysics",]
 projects = [ "codde",]
 +++

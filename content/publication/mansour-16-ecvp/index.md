@@ -7,6 +7,6 @@ abstract = ""
 featured = false
 publication = "*Proceedings of ECVP*"
 url_pdf = "https://laurentperrinet.github.io/publication/mansour-16-ecvp"
-tags = [ "eye movements", "motion detection", "motion-clouds",]
+tags = [ "motion-clouds", "motion detection", "eye movements",]
 projects = [ "pace-itn",]
 +++
