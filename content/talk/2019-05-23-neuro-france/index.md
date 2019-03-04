@@ -6,7 +6,7 @@ abstract = "Animal behavior has to constantly adapt to changes in the environmen
 featured = false
 publication = "*Probabilities and Optimal Inference to Understand the Brain, INT, Marseille (France)*"
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2018-04-05_ActiveInference"
-event = "Probabilities and Optimal Inference to Understand the Brain, INT, Marseille (France)"
+event = "Colloque international de la Société des Neurosciences 2019 (NeuroFrance 2019), Marseille (France)"
 time_start = 2019-05-23T11:00:00
 projects = [ "pace-itn",]
 +++
