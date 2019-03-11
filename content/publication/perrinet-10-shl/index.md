@@ -9,6 +9,6 @@ publication = "*Neural Computation*"
 tags = [ "association field", "coding decoding", "eye movements", "homeostasis", "matching pursuit", "motion-clouds", "receptive field", "sparse coding", "sparse hebbian learning", "staistics of natural images", "unsupervised learning",]
 url_pdf = "https://laurentperrinet.github.io/publication/perrinet-10-shl"
 doi = "10.1162/neco.2010.05-08-795"
-url_preprint = "https://laurentperrinet.github.io/publication/perrinet-10-shl"
+url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-00156610"
 url_code = "https://laurentperrinet.github.io/publication/perrinet-10-shl"
 +++

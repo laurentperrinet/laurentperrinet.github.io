@@ -9,4 +9,5 @@ publication = "*Neurocomputing*"
 tags = [ "association field", "matching pursuit", "sparse coding",]
 url_pdf = "http://dx.doi.org/10.1016/j.neucom.2004.01.010"
 doi = "10.1016/j.neucom.2004.01.010"
+url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-00276638"
 +++

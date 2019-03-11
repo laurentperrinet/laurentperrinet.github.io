@@ -197,7 +197,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
                     parsed_toml[url_key] = f'{clean_bibtex_str(entry[url_key])}'
 
             if 'preprint' in entry:
-                parsed_toml['url_preprint'] = f'{clean_bibtex_str(entry["url"])}'
+                parsed_toml['url_preprint'] = f'{clean_bibtex_str(entry["preprint"])}'
 
             if 'doi' in entry:
                 parsed_toml['doi'] = f'{entry["doi"]}'

@@ -10,4 +10,5 @@ tags = [ "computational neuroscience", "pynn",]
 url_pdf = "http://dx.doi.org/10.3389/neuro.11.011.2008"
 doi = "10.3389/neuro.11.011.2008"
 projects = [ "facets",]
+url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-00586786"
 +++

@@ -7,7 +7,7 @@ abstract = "This paper considers the problem of sensorimotor delays in the optim
 publication = "*Biological Cybernetics*"
 tags = [ "active inference", "Bayesian model", "Biologically Inspired Computer vision", "eye movements", "free energy", "motion detection",]
 url_pdf = "http://link.springer.com/article/10.1007%2Fs00422-014-0620-8"
-url_preprint = "http://link.springer.com/article/10.1007%2Fs00422-014-0620-8"
+url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-01382350"
 doi = "10.1007/s00422-014-0620-8"
 featured = true
 +++

@@ -18,16 +18,18 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
             #parse_bibtex_entry(entry, pub_dir=pub_dir, featured=featured, overwrite=overwrite, normalize=normalize)
             for tag_key in ['projects', 'keywords']:
                 if tag_key in entry.keys():
-                    print('before sorting ->', entry[tag_key], end='')
                     # extract tags and remove unwnated spaces
                     tags = entry[tag_key]
+                    tags_old = tags
                     tags = tags.replace(';', ',')
                     tags = tags.replace(', ', ',').replace(' ,', ',')
                     # sort tags
                     tags = sorted(list(set(tags.split(','))), key=str.lower)
                     # concatenate tags in one string
                     entry[tag_key] = ','.join(tags)
-                    print(' after sorting ->', tags, entry[tag_key])
+                    if not tags_old == tags:
+                        print('before sorting ->"', tags_old, end='"')
+                        print(' after sorting ->"', entry[tag_key], end='"\n')
 
             keys.append(entry['ID'])
 

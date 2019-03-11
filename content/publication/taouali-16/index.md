@@ -10,4 +10,5 @@ tags = [ "coding decoding", "spike",]
 url_pdf = "http://www.ncbi.nlm.nih.gov/pubmed/26445864 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4760471"
 doi = "10.1152/jn.00194.2015"
 projects = [ "anr-bala-v1", "brain-scales",]
+url_preprint = "https://arxiv.org/abs/1611.04364"
 +++

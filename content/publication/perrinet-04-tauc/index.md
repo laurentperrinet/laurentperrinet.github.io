@@ -9,4 +9,5 @@ publication = "*Journal of Physiology-Paris*"
 tags = [ "Bayesian model", "coding decoding", "matching pursuit", "sparse coding", "sparse hebbian learning", "spike",]
 url_pdf = "http://dx.doi.org/10.1016/j.jphysparis.2005.09.012"
 doi = "10.1016/j.jphysparis.2005.09.012"
+url_preprint = "https://arxiv.org/abs/q-bio/0611003"
 +++

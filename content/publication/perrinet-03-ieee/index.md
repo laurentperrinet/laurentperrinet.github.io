@@ -9,6 +9,7 @@ publication = "*IEEE Transactions on Neural Networks*"
 tags = [ "association field", "Biologically Inspired Computer vision", "coding decoding", "computational neuroscience", "matching pursuit", "sparse coding", "sparse hebbian learning", "spike", "staistics of natural images",]
 url_pdf = "http://dx.doi.org/10.1109/TNN.2004.833303"
 doi = "10.1109/TNN.2004.833303"
+url_preprint = "https://arxiv.org/abs/q-bio/0611002"
 +++
 
 {{< figure src="v1_tiger.gif" title="*Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.*" >}}

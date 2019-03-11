@@ -10,4 +10,5 @@ url_pdf = "https://doi.org/10.1109/EUVIP.2016.7764592"
 doi = "10.1109/EUVIP.2016.7764592"
 tags = [ "Biologically Inspired Computer vision", "Image texture", "sparse coding",]
 projects = [ "anr-bala-v1",]
+url_preprint = "https://arxiv.org/abs/1702.02485"
 +++

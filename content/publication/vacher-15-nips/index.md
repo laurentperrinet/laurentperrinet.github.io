@@ -9,4 +9,5 @@ publication = "*Advances in Neural Information Processing Systems 28*"
 url_pdf = "http://papers.nips.cc/paper/5769-biologically-inspired-dynamic-textures-for-probing-motion-perception.pdf"
 projects = [ "anr-speed",]
 tags = [ "motion-clouds",]
+url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-01225867"
 +++
