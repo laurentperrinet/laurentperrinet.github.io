@@ -8,5 +8,5 @@ featured = false
 publication = "*GDR Vision, Lille, 2017*"
 tags = [ "motion anticipation",]
 url_pdf = "http://invibe.net/LaurentPerrinet/Publications/Perrinet17gdr"
-projects = [ "anr-rem; pace-itn",]
+projects = [ "anr-rem", "pace-itn",]
 +++

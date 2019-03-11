@@ -8,5 +8,5 @@ featured = false
 publication = "*Proceedings of the Society for Neuroscience conference*"
 tags = [ "motion-clouds",]
 url_pdf = "https://laurentperrinet.github.io/publication/perrinet-11-sfn"
-projects = [ "anr-bala-v1; brain-scales",]
+projects = [ "anr-bala-v1", "brain-scales",]
 +++

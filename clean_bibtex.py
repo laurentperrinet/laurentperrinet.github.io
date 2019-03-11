@@ -1,3 +1,4 @@
+# normalize entries in the bibtex file
 
 import bibtexparser
 from bibtexparser.bparser import BibTexParser
@@ -15,17 +16,23 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
         bib_database = bibtexparser.load(bibtex_file, parser=parser)
         for entry in bib_database.entries:
             #parse_bibtex_entry(entry, pub_dir=pub_dir, featured=featured, overwrite=overwrite, normalize=normalize)
-            if 'keywords' in entry.keys():
-                print('->', entry['keywords'], end='...')
-                entry['keywords'] = entry['keywords'].replace('; ', ',').replace(';', ',')
-                tags = set(sorted(entry['keywords'].split(','), key=str.lower))
-                entry['keywords'] = ','.join(tags)
-                print('->', entry['keywords'])
+            for tag_key in ['projects', 'keywords']:
+                if tag_key in entry.keys():
+                    print('before sorting ->', entry[tag_key], end='')
+                    # extract tags and remove unwnated spaces
+                    tags = entry[tag_key]
+                    tags = tags.replace(';', ',')
+                    tags = tags.replace(', ', ',').replace(' ,', ',')
+                    # sort tags
+                    tags = sorted(list(set(tags.split(','))), key=str.lower)
+                    # concatenate tags in one string
+                    entry[tag_key] = ','.join(tags)
+                    print(' after sorting ->', tags, entry[tag_key])
 
             keys.append(entry['ID'])
 
     writer = BibTexWriter()
     writer.indent = '    '     # indent entries with 4 spaces instead of one
-    writer.order_entries_by = ('ID')
+    #writer.order_entries_by = ('ID', 'year')
     with open(bibtex, 'w') as bibfile:
         bibfile.write(writer.write(bib_database))

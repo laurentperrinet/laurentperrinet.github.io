@@ -1,5 +1,5 @@
 +++
-title = "Motion Clouds: Model-based stimulus synthesis of natural-like random textures for the study of motion perception"
+title = "motion-clouds: Model-based stimulus synthesis of natural-like random textures for the study of motion perception"
 date = 2012-03-22T14:00:00
 authors = [ "Laurent U Perrinet",]
 abstract = ""

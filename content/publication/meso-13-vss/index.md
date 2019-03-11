@@ -7,7 +7,7 @@ abstract = "Humans are able to interact successfully with moving objects in our 
 featured = false
 publication = "*VSS Conference Abstract*"
 tags = [ "motion-clouds",]
-projects = [ "motion-clouds; anr-speed",]
+projects = [ "anr-speed", "motion-clouds",]
 url_pdf = "https://laurentperrinet.github.io/publication/meso-13-vss"
 doi = "10.1167/13.9.354"
 +++

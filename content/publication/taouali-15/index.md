@@ -9,5 +9,5 @@ publication = "*Journal of Neurophysiology*"
 tags = [ "coding decoding", "spike",]
 url_pdf = "https://laurentperrinet.github.io/publication/taouali-15"
 doi = "10.1152/jn.00194.2015"
-projects = [ "anr-bala-v1; brain-scales",]
+projects = [ "anr-bala-v1", "brain-scales",]
 +++
