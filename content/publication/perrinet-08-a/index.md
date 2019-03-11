@@ -6,6 +6,6 @@ publication_types = [ "1",]
 abstract = ""
 featured = false
 publication = "*Proceedings of COSYNE, 2008*"
-tags = [ "eye movements", "visual perception", "lateral connections", "motion detection", "center-surround interactions", "Bayesian model",]
+tags = [ "visual perception", "Bayesian model", "lateral connections", "center-surround interactions", "motion detection", "eye movements",]
 projects = [ "facets",]
 +++

@@ -6,7 +6,7 @@ publication_types = [ "1",]
 abstract = ""
 featured = false
 publication = "*Proceedings of Tauc*"
-tags = [ "Visual perception", " Bayesian model", "motion prediction", " center-surround interactions", " tracking eye movements", " Ocular Following Response",]
+tags = [ "motion prediction", " tracking eye movements", " center-surround interactions", " Bayesian model", "Visual perception", " Ocular Following Response",]
 url_pdf = "http://invibe.net/LaurentPerrinet/Publications/Khoei10tauc"
 projects = [ "facets-itn; facets",]
 +++

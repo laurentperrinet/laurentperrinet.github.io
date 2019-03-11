@@ -17,7 +17,7 @@ url_slides = "https://laurentperrinet.github.io/2019-01-14_LACONEU"
 url_video = ""
 url_code = "https://github.com/laurentperrinet/2019-01-14_LACONEU"
 math = true
-date = 2019-01-01
+date = 2019-04-18T13:00:00
 
 [image]
 caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"

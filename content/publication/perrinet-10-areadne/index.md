@@ -6,6 +6,6 @@ publication_types = [ "1",]
 abstract = ""
 featured = false
 publication = "*Proceedings of AREADNE*"
-tags = [ "eye movements", "visual perception", "motion prediction", "lateral connections", "motion detection", "center-surround interactions", "Bayesian model",]
+tags = [ "visual perception", "Bayesian model", "motion prediction", "lateral connections", "center-surround interactions", "motion detection", "eye movements",]
 projects = [ "facets",]
 +++

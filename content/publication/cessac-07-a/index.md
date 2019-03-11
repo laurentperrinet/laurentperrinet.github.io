@@ -1,6 +1,6 @@
 +++
 title = "Introduction"
-date = 2007-03-04
+date = 2007-03-11
 authors = [ "Bruno Cessac", "Emmanuel Daucé", "Laurent U Perrinet", "Manuel Samuelides",]
 publication_types = [ "2",]
 abstract = ""

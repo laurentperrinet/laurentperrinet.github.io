@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-python3 clean_bibtex.py
-
 # Display available updates to Academic.
 cd themes/academic
 git fetch

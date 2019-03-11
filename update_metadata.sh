@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+python3 clean_bibtex.py
+
 cd ../perrinet_curriculum-vitae_tex
 
 git pull ; git commit -m ' updating citations  ' -a ; git push
