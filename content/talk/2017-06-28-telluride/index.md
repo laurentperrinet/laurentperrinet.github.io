@@ -1,6 +1,6 @@
 +++
 title = "Back to the present: dealing with delays in biological and neuromorphic systems"
-date = 2017-06-28T13:00:00
+date = "2017-01-01"
 authors = [ "Laurent U Perrinet",]
 abstract = ""
 featured = false

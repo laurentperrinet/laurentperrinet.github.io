@@ -222,7 +222,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
                     parsed_toml['time_start'] = getDateTimeFromISO8601String(f'{clean_bibtex_str(entry["time_start"])}', full=True)
                     parsed_toml['date'] = parsed_toml['time_start'] # overwrite date
                     # HACK to show the entry
-                    parsed_toml['date'] = parsed_toml['time_start'][:4] + '-01-01' # overwrite date
+                    parsed_toml['date'] = str(parsed_toml['time_start'])[:4] + '-01-01' # overwrite date
                 else:
                     parsed_toml['time_start'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["ID"][:10]))
 

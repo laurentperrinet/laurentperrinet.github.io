@@ -1,6 +1,6 @@
 +++
 title = "What dynamic neural codes for efficient visual processing"
-date = 2017-11-15T13:00:00
+date = "2017-01-01"
 authors = [ "Laurent U Perrinet",]
 abstract = "This seminar is an exercise to introduce the AMU masters into the format of international conferences. As such, we will try to introduce new concepts and results which will not be found in textbooks."
 featured = false

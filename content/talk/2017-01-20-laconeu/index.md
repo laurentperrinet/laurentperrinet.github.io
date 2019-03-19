@@ -1,6 +1,6 @@
 +++
 title = "Tutorial: Active inference for eye movements: Bayesian methods, neural inference, dynamics"
-date = 2017-01-20T10:45:00
+date = "2017-01-01"
 authors = [ "Laurent U Perrinet",]
 abstract = ""
 featured = false
