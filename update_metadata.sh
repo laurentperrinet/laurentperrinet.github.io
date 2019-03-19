@@ -1,11 +1,20 @@
 #!/usr/bin/env bash
 
+
+echo -e "\033[0;32mupdating metadata...\033[0m"
+
+msg="updating metadata `date`"
+if [ $# -eq 1 ]
+  then msg="$1"
+fi
+
 python3 clean_bibtex.py
 
 cd ../perrinet_curriculum-vitae_tex
 
-git pull ; git commit -m ' updating citations  ' -a ; git push
+git pull ; git commit  -m "$msg" -a ; git push
 
+echo -e "\033[0;32mrecompiling website...\033[0m"
 cd ../hugo_academic
 
 # academic import --bibtex  ../perrinet_curriculum-vitae_tex/LaurentPerrinet_Publications.bib
@@ -14,4 +23,5 @@ cd ../hugo_academic
 
 ipython3 update_entries.py
 
-./update_gitpages.sh ' updating metadata '
+echo -e "\033[0;32mpushing website...\033[0m"
+./update_gitpages.sh $msg

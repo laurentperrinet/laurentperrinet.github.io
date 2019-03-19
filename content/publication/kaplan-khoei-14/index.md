@@ -9,4 +9,5 @@ publication = "*IEEE International Joint Conference on Neural Networks (IJCNN) 2
 tags = [ "Bayesian model", "motion detection", "motion prediction", "pynn",]
 doi = "10.1109/IJCNN.2014.6889847"
 projects = [ "brain-scales", "facets-itn",]
+url_pdf = "https://laurentperrinet.github.io/publication/kaplan-khoei-14"
 +++

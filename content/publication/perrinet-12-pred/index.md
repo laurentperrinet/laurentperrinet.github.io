@@ -7,4 +7,5 @@ abstract = "In low-level sensory systems, it is still unclear how the noisy info
 featured = false
 publication = "*Neural Computation*"
 tags = [ "aperture problem", "Bayesian model", "motion prediction", "predictive coding",]
+url_pdf = "https://arxiv.org/abs/1208.6471"
 +++
