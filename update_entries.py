@@ -1,3 +1,4 @@
+verbose = False
 
 for type in ['Presentations', 'Publications']:#, 'Events']:
     # type = 'Presentations'
@@ -145,14 +146,14 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
             bundle_path = f"{pub_dir}/{slugify(entry['ID'])}"
             cite_path = os.path.join(bundle_path, f"{slugify(entry['ID'])}.bib")
             # Save citation file.
-            print(f'Saving citation to {cite_path}')
+            if verbose: print(f'Saving citation to {cite_path}')
             db = BibDatabase()
             db.entries = [entry]
             writer = BibTexWriter()
             with open(cite_path, 'w', encoding='utf-8') as f:
                 f.write(writer.write(db))
 
-            print('input', old_key, ' -> output', new_key)
+            if verbose: print('input', old_key, ' -> output', new_key)
 
             # Prepare TOML front matter for Markdown file.
             parsed_toml['title'] = clean_bibtex_str(entry["title"])
@@ -190,7 +191,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
                 parsed_toml['tags'] = clean_bibtex_tags(entry["keywords"], normalize)
             if 'projects' in entry:
                 parsed_toml['projects'] = clean_bibtex_tags(entry["projects"], normalize)
-                print(parsed_toml['projects'])
+                if verbose: print(parsed_toml['projects'])
 
             for url_key in ['url_slides', 'url_code', 'url_slides']:
                 if url_key in entry:
@@ -221,7 +222,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
                 if 'time_start' in entry:
                     parsed_toml['time_start'] = getDateTimeFromISO8601String(f'{clean_bibtex_str(entry["time_start"])}', full=True)
                     parsed_toml['date'] = parsed_toml['time_start'] # overwrite date
-                    # HACK to show the entry
+                    # HACK to show the entry = Scheduled page publish date.
                     parsed_toml['date'] = str(parsed_toml['time_start'])[:4] + '-01-01' # overwrite date
                 else:
                     parsed_toml['time_start'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["ID"][:10]))
@@ -246,7 +247,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
 
             # Save Markdown file.
             try:
-                print(f"Saving Markdown to '{file_path}'")
+                if verbose: print(f"Saving Markdown to '{file_path}'")
                 page = '+++\n'.join(metadata).strip('\n')
                 with open(file_path, 'w', encoding='utf-8') as f:
                     f.write(page + '\n')
