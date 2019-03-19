@@ -1,5 +1,5 @@
 # normalize entries in the bibtex file
-
+verbose = False
 import bibtexparser
 from bibtexparser.bparser import BibTexParser
 from bibtexparser.bwriter import BibTexWriter
@@ -28,8 +28,9 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
                     # concatenate tags in one string
                     entry[tag_key] = ','.join(tags)
                     if not tags_old == tags:
-                        print('before sorting ->"', tags_old, end='"')
-                        print(' after sorting ->"', entry[tag_key], end='"\n')
+                        if verbose:
+                            print('before sorting ->"', tags_old, end='"')
+                            print(' after sorting ->"', entry[tag_key], end='"\n')
 
             keys.append(entry['ID'])
 

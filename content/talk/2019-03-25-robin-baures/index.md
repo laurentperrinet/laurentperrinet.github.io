@@ -10,5 +10,5 @@ url_pdf = "https://laurentperrinet.github.io/talk/2019-03-25-robin-baures"
 event_url = "http://www.cerco.ups-tlse.fr/Robin-Baures"
 location = "Toulouse, France"
 event = "HDR Robin Baures"
-time_start = 2019-03-25T14:00:00
+time_start = 2019-03-25T14:30:00
 +++
