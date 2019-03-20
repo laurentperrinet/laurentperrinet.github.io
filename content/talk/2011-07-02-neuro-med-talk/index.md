@@ -8,5 +8,5 @@ publication = "*Atelier Neurosciences Computationnelles, 2-3 Juillet 2011 Khemis
 tags = [ " dynamics", "Bayesian model", "eye movements", "motion detection", "motion prediction",]
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2011-07-02_NeuroMedTalk"
 event = "Atelier Neurosciences Computationnelles, 2-3 Juillet 2011 Khemisset, Maroc"
-time_start = 2011-07-02
+publishDate = "2011-01-01"
 +++

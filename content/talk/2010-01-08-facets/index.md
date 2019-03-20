@@ -7,5 +7,5 @@ featured = false
 publication = ""
 tags = [ " center-surround interactions", "Bayesian model", "dynamics", "eye movements", "motion detection", "motion prediction",]
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2010-01-08_facets"
-time_start = 2010-01-08
+publishDate = "2010-01-01"
 +++

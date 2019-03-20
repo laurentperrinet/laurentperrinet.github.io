@@ -227,8 +227,11 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
                 else:
                     #parsed_toml['time_start'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["ID"][:10]))
                     parsed_toml['date'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["ID"][:10]))
-                parsed_toml['date'] = str(parsed_toml['time_start'])[:4] + '-01-01' # overwrite date
+                parsed_toml['publishDate'] = str(parsed_toml['date'])[:4] + '-01-01' # overwrite date
+                # remove obsolete entry:
+                parsed_toml.pop("time_start", None)
                 
+
             elif type == 'Publications':
 
                 parsed_toml['publication_types'] = [f'{PUB_TYPES.get(entry["ENTRYTYPE"], 0)}']

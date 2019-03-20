@@ -10,5 +10,5 @@ url_pdf = "http://invibe.net/LaurentPerrinet/Publications/KaplanKhoei14"
 doi = "10.1109/IJCNN.2014.6889847"
 location = "Beijing, China"
 event = "2014 International Joint Conference on Neural Networks (IJCNN)"
-time_start = 2014-04-25
+publishDate = "2014-01-01"
 +++
