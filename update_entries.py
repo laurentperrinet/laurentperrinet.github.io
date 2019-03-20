@@ -184,6 +184,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
                 parsed_toml['abstract'] = clean_bibtex_str(entry["abstract"])
             else:
                 parsed_toml['abstract'] = ""
+                # TODO:  add optionally a summary
 
             #frontmatter.append(f'featured = {str(featured).lower()}')
 
@@ -230,7 +231,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
                 parsed_toml['publishDate'] = str(parsed_toml['date'])[:4] + '-01-01' # overwrite date
                 # remove obsolete entry:
                 parsed_toml.pop("time_start", None)
-                
+
 
             elif type == 'Publications':
 
@@ -243,6 +244,10 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
                     parsed_toml['publication'] = f'*{clean_bibtex_str(entry["journal"])}*'
                 else:
                     parsed_toml['publication'] = ''
+
+                # TODO:  optional abbreviated version.
+                # publication_short = "In *ICMEW*"
+
 
             metadata[1] = toml.dumps(parsed_toml)
             if not len(metadata) == 3 : print('Z'*150, '  len(metadata)', len(metadata))

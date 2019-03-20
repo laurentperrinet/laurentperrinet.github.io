@@ -23,8 +23,8 @@ email = "laurent.perrinet@univ-amu.fr"
 
 # List (academic) interests or hobbies
 interests = [
-  "Machine Learning",
   "Computational Neuroscience",
+  "Machine Learning",
   "Vision"
 ]
 
