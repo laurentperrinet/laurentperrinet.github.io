@@ -3,7 +3,6 @@ title = "Input-output transformation in the visuo-oculomotor loop: modeling the 
 date = 2006-01-01
 authors = [ "Laurent U Perrinet", "Jens Kremkow", "Frédéric V. Barthélemy", "Guillaume S Masson", "Frédéric Chavane",]
 publication_types = [ "1",]
-abstract = ""
 featured = false
 publication = "*FENS*"
 tags = [ "motion detection",]

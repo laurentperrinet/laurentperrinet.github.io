@@ -180,11 +180,11 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
                 authors = clean_bibtex_authors([i.strip() for i in authors.replace('\n', ' ').split(' and ')])
                 parsed_toml['authors'] = authors #f"[{', '.join(authors)}]"
 
-            if 'abstract' in entry:
-                parsed_toml['abstract'] = clean_bibtex_str(entry["abstract"])
-            else:
-                parsed_toml['abstract'] = ""
-                # TODO:  add optionally a summary
+            for this_key in ['abstract', 'summary']:
+                if this_key in entry:
+                    parsed_toml[this_key] = clean_bibtex_str(entry[this_key])
+                else:
+                    parsed_toml.pop(this_key, None)
 
             #frontmatter.append(f'featured = {str(featured).lower()}')
 

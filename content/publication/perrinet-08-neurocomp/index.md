@@ -3,7 +3,6 @@ title = "Proceedings of the second french conference on Computational Neuroscien
 date = 2008-10-20
 authors = [ "Laurent U Perrinet", "Emmanuel Daucé",]
 publication_types = [ "0",]
-abstract = ""
 featured = false
 publication = "*Proceedings of NeuroComp08, Marseille*"
 tags = [ "computational neuroscience",]

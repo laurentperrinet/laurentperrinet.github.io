@@ -3,7 +3,6 @@ title = "Dynamic modulation of volatility by reward contingencies: effects on an
 date = 2017-08-01
 authors = [ "Jean-Bernard Damasse", "Anna Montagnini", "Laurent U Perrinet",]
 publication_types = [ "1",]
-abstract = ""
 featured = false
 publication = "*Proceedings of Vision Sciences Society Annual Meeting*"
 tags = [ "eye movements", "Smooth pursuit eye movement",]

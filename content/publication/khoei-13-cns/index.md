@@ -3,7 +3,6 @@ title = "Motion-based prediction and development of the response to an 'on the w
 date = 2013-01-01
 authors = [ "Mina A. Khoei", "Giacomo Benvenuti", "Frédéric Chavane", "Laurent U Perrinet",]
 publication_types = [ "1",]
-abstract = ""
 featured = false
 publication = "*CNS 2013, Paris*"
 tags = [ "Bayesian model", "motion detection", "motion prediction",]

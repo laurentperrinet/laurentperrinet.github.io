@@ -3,7 +3,6 @@ title = "Network of integrate-and-fire neurons using Rank Order Coding A: how to
 date = 2001-01-01
 authors = [ "Laurent U Perrinet", "Arnaud Delorme", "Simon J Thorpe", "Manuel Samuelides",]
 publication_types = [ "2",]
-abstract = ""
 featured = false
 publication = "*Neurocomputing*"
 tags = [ "center-surround interactions",]

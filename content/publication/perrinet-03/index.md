@@ -3,7 +3,6 @@ title = "Emergence of filters from natural scenes in a sparse spike coding schem
 date = 2003-01-01
 authors = [ "Laurent U Perrinet", "Manuel Samuelides", "Simon J Thorpe",]
 publication_types = [ "2",]
-abstract = ""
 featured = false
 publication = "*Neurocomputing*"
 tags = [ "area-v1", "receptive field", "sparse coding",]

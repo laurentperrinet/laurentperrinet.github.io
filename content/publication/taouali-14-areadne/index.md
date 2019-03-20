@@ -3,7 +3,6 @@ title = "A Simple Model of Orientation Encoding Accounting For Multivariate Neur
 date = 2014-01-01
 authors = [ "Wahiba Taouali", "Laurent U Perrinet",]
 publication_types = [ "1",]
-abstract = ""
 featured = false
 publication = "*Proceedings of AREADNE*"
 projects = [ "anr-bala-v1", "brain-scales",]

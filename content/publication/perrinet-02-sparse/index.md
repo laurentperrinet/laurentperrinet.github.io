@@ -3,7 +3,6 @@ title = "Sparse spike coding in an asynchronous feed-forward multi-layer neural 
 date = 2004-03-20
 authors = [ "Laurent U Perrinet", "Manuel Samuelides", "Simon J Thorpe",]
 publication_types = [ "2",]
-abstract = ""
 featured = false
 publication = "*Neurocomputing*"
 tags = [ "association field", "matching pursuit", "sparse coding",]

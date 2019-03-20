@@ -3,7 +3,6 @@ title = "Differential response of the retinal neural code with respect to the sp
 date = 2016-11-20
 authors = [ "Cesar U Ravello", "Maria-José Escobar", "Adrián G Palacios", "Laurent U Perrinet",]
 publication_types = [ "3",]
-abstract = ""
 featured = false
 publication = ""
 tags = [ "Biologically Inspired Computer vision", "Image texture", "Retina", "sparse coding",]

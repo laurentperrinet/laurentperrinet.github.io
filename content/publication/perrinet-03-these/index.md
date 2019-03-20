@@ -3,7 +3,6 @@ title = "Comment déchiffrer le code impulsionnel de la vision ? Étude du flux 
 date = 2003-01-01
 authors = [ "Laurent U Perrinet",]
 publication_types = [ "4",]
-abstract = ""
 featured = false
 publication = ""
 tags = [ "stdp",]
