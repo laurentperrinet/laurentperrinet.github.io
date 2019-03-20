@@ -212,21 +212,23 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
                 # else:
                 #     parsed_toml['date'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["ID"][:10]))
                 #     # parsed_toml['date'] = getDateTimeFromISO8601String('1973-02-23')
-                parsed_toml['date'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["ID"][:10]))
 
                 for this_key in ['event_url', 'location']:
                     if this_key in entry:
                         parsed_toml[this_key] = f'{clean_bibtex_str(entry[this_key])}'
                 if 'booktitle' in entry:
                     parsed_toml['event'] = f'{clean_bibtex_str(entry["booktitle"])}'
+
                 if 'time_start' in entry:
                     parsed_toml['time_start'] = getDateTimeFromISO8601String(f'{clean_bibtex_str(entry["time_start"])}', full=True)
                     parsed_toml['date'] = parsed_toml['time_start'] # overwrite date
                     # HACK to show the entry = Scheduled page publish date.
-                    parsed_toml['date'] = str(parsed_toml['time_start'])[:4] + '-01-01' # overwrite date
-                else:
-                    parsed_toml['time_start'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["ID"][:10]))
 
+                else:
+                    #parsed_toml['time_start'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["ID"][:10]))
+                    parsed_toml['date'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["ID"][:10]))
+                parsed_toml['date'] = str(parsed_toml['time_start'])[:4] + '-01-01' # overwrite date
+                
             elif type == 'Publications':
 
                 parsed_toml['publication_types'] = [f'{PUB_TYPES.get(entry["ENTRYTYPE"], 0)}']
