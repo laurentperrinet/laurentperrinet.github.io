@@ -1,6 +1,6 @@
 +++
 title = "From the retina to action: Predictive processing in the visual system"
-date = 2019-03-25T14:00:00
+date = 2019-03-25T14:30:00
 all_day = false
 publishDate = "2019-01-01"
 authors = [ "Laurent U Perrinet",]
@@ -9,7 +9,7 @@ projects = [ "anr-horizontal-v1",]
 url_slides = "https://laurentperrinet.github.io/2019-03-25_RobinBaures"
 url_code = "https://github.com/laurentperrinet/2019-03-25_RobinBaures"
 url_pdf = "https://laurentperrinet.github.io/talk/2019-03-25-robin-baures"
-event_url = "https://www.jnlf.fr/agenda/jnlf-lille-2019"
+event_url = "http://www.cerco.ups-tlse.fr/Robin-Baures"
 location = "Toulouse, France"
 event = "HDR Robin Baures"
 +++
