@@ -3,7 +3,6 @@ title = "Sparse Approximation of Images Inspired from the Functional Architectur
 date = 2007-01-01
 authors = [ "Sylvain Fischer", "Rafael Redondo", "Laurent U Perrinet", "Gabriel Cristóbal",]
 publication_types = [ "2",]
-abstract = ""
 featured = false
 publication = "*EURASIP Journal on Advances in Signal Processing*"
 tags = [ "association field", "Biologically Inspired Computer vision", "log-gabor", "motion-clouds",]

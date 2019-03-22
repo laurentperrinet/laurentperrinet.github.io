@@ -3,7 +3,6 @@ title = "Modeling spatial integration in the ocular following response to center
 date = 2008-01-01
 authors = [ "Laurent U Perrinet", "Guillaume S Masson",]
 publication_types = [ "1",]
-abstract = ""
 featured = false
 publication = "*Proceedings of COSYNE, 2008*"
 tags = [ "Bayesian model", "center-surround interactions", "eye movements", "lateral connections", "motion detection", "visual perception",]

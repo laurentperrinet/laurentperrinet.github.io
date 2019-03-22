@@ -8,6 +8,6 @@ publication = "*Brain meeting at FIL, London - Friday, January 27th, 2012*"
 tags = [ " dynamics", "Bayesian model", "eye movements", "free energy", "motion detection", "predictive coding",]
 url_pdf = "Presentations/2012-01-27_FIL"
 event = "Brain meeting at FIL, London - Friday, January 27th, 2012"
-time_start = 2012-01-27
 projects = [ "brain-scales",]
+publishDate = "2012-01-01"
 +++
