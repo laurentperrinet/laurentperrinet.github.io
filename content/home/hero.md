@@ -18,11 +18,11 @@ title = "Novel visual computations"
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   gradient_start = "#4bb4e3"
   gradient_end = "#2b94c3"
-  
+
   # Background image.
   image = "headers/Etienne-Rey-TROPIQUE_header.jpg"  # Name of image in `static/img/`.
   image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -36,9 +36,9 @@ title = "Novel visual computations"
 
 +++
 
-Let's admit it: brains are not computers. Indeed, computers are still deceptive compared to biological perceptual systems. Think for instance about solutions for noisy, ambiguous and rapidly varying raw data. Think about performing this in an autonomous manner and with a low energetic cost...
+Let's admit it: brains are not computers. Indeed, computers are still deceptive compared to biological perceptual systems. Think about rapidly detecting a novel object in clutter. Think about performing this with little supervision at a low energetic cost...
 
-To narrow the gap between neuroscience and the theory of sensory processing computations, I am interested in *bridging statistics of geometrical regularities in natural scenes with the properties of neural computations* as they are observed in low-level sensory processes or through low-level behavior.
+To narrow the gap between neuroscience and the theory of sensory processing computations, I am interested in *bridging  geometrical regularities found in natural scenes with the properties of neural computations* as they are observed in  sensory processes or behavior.
 
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/laurentperrinet" data-size="large" data-show-count="true" aria-label="Follow @laurentperrinet on GitHub">Follow @laurentperrinet</a>
