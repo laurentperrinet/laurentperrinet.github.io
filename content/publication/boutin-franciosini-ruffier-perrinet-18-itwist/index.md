@@ -13,8 +13,15 @@ projects = [ "doc-2-amu",]
 
 From biological vision to unsupervised hierarchical sparse coding
 =================================================================
-1. accepted submission @ <a href="https://sites.google.com/view/itwist18" class="https">iTWIST: international Traveling Workshop on Interactions between low-complexity data models and Sensing Techniques</a>, 21 - 23 November​, 2018
-2. <a href="https://sites.google.com/view/itwist18/program#h.p_9OOcrreKb--s" class="https">poster session</a> scheduled on Thursday, November 22th, from 10h30 till 12h00.
+[I'm a link](https://www.google.com)
+1. accepted submission @ [iTWIST: international Traveling Workshop on Interactions between low-complexity data models and Sensing Techniques](https://sites.google.com/view/itwist18), 21 - 23 November​, 2018
+
+2. [poster session](https://sites.google.com/view/itwist18/program#h.p_9OOcrreKb--s) scheduled on Thursday, November 22th, from 10h30 till 12h00.
+
 3. CIRM, Marseille, France. <span id="line-10" class="anchor"></span>
-4. get full proceedings @ <a href="https://arxiv.org/html/1812.00648">https://arxiv.org/html/1812.00648</a>
-5. Poster <a href="https://invibe.net/LaurentPerrinet/Publications/BoutinFranciosiniRuffierPerrinet18itwist?action=AttachFile&do=get&target=BoutinFranciosiniRuffierPerrinet18itwist.pdf" title="PDF">PDF</a>
+
+4. get the [full proceedings](https://arxiv.org/html/1812.00648)
+
+5. Poster as [PDF](https://invibe.net/LaurentPerrinet/Publications/BoutinFranciosiniRuffierPerrinet18itwist?action=AttachFile&do=get&target=BoutinFranciosiniRuffierPerrinet18itwist.pdf)
+
+6. check-out our preprint on [SDPC]({{< ref "publication/boutin-franciosini-ruffier-perrinet-19/" >}})

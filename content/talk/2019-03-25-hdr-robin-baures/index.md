@@ -13,3 +13,5 @@ event_url = "http://www.cerco.ups-tlse.fr/Robin-Baures"
 location = "Toulouse (France)"
 event = "HDR Robin Baurès"
 +++
+
+* check-out our preprint on [SDPC]({{< ref "publication/boutin-franciosini-ruffier-perrinet-19/" >}})
