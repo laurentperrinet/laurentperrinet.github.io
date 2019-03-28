@@ -24,4 +24,4 @@ From biological vision to unsupervised hierarchical sparse coding
 
 5. Poster as [PDF](https://invibe.net/LaurentPerrinet/Publications/BoutinFranciosiniRuffierPerrinet18itwist?action=AttachFile&do=get&target=BoutinFranciosiniRuffierPerrinet18itwist.pdf)
 
-6. check-out our preprint on [SDPC]({{< ref "publication/boutin-franciosini-ruffier-perrinet-19/index.md" >}})
+6. check-out our preprint on [SDPC]({{< ref "/publication/boutin-franciosini-ruffier-perrinet-19/index.md" >}})
