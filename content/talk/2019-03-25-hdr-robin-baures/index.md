@@ -14,4 +14,4 @@ location = "Toulouse (France)"
 event = "HDR Robin Baurès"
 +++
 
-* check-out our preprint on [SDPC]({{< ref "publication/boutin-franciosini-ruffier-perrinet-19/" >}})
+* check-out our preprint on [SDPC]({{< ref "/publication/boutin-franciosini-ruffier-perrinet-19/index.md" >}})
