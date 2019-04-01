@@ -12,13 +12,8 @@ projects = [ "doc-2-amu",]
 +++
 
 1. accepted submission @ [iTWIST: international Traveling Workshop on Interactions between low-complexity data models and Sensing Techniques](https://sites.google.com/view/itwist18), 21 - 23 November​, 2018
-
 2. [poster session](https://sites.google.com/view/itwist18/program#h.p_9OOcrreKb--s) scheduled on Thursday, November 22th, from 10h30 till 12h00.
-
 3. CIRM, Marseille, France. <span id="line-10" class="anchor"></span>
-
 4. get the [full proceedings](https://arxiv.org/html/1812.00648)
-
 5. Poster as [PDF](https://invibe.net/LaurentPerrinet/Publications/BoutinFranciosiniRuffierPerrinet18itwist?action=AttachFile&do=get&target=BoutinFranciosiniRuffierPerrinet18itwist.pdf)
-
 6. check-out our preprint on [SDPC]({{< ref "/publication/boutin-franciosini-ruffier-perrinet-19/index.md" >}})
