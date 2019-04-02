@@ -1,4 +1,4 @@
-default: gitpages
+default: metadata
 
 gitpages:
 	sh ./update_gitpages.sh
