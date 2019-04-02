@@ -231,6 +231,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
                 parsed_toml['publishDate'] = str(parsed_toml['date'])[:4] + '-01-01' # overwrite date
                 # remove obsolete entry:
                 parsed_toml.pop("time_start", None)
+                parsed_toml.pop("time_end", None)
 
 
             elif type == 'Publications':
