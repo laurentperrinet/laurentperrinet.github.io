@@ -13,3 +13,8 @@ url_code = "https://github.com/laurentperrinet/2019-01-18_LACONEU/"
 projects = [ "anr-horizontal-v1",]
 publishDate = "2019-01-01"
 +++
+
+* previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})
+* previous talk @ [INVIBE FEST, Paris]({{< ref "/talk/2018-02-01-bcp-invibe-fest/index.md" >}})
+* previous talk @ [Brain workshop, Marseille]({{< ref "/talk/2018-04-05-bcp-talk/index.md" >}})
+* next talk @ [CAUSAL Kick-off, Marseille]({{< ref "/talk/2019-04-05-bbcp-causal-kickoff/index.md" >}})

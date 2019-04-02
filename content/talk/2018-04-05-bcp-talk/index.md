@@ -13,3 +13,8 @@ url_code = "https://github.com/laurentperrinet/2018-04-05_BCP_talk/"
 projects = [ "pace-itn",]
 publishDate = "2018-01-01"
 +++
+
+* previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})
+* previous talk @ [INVIBE FEST, Paris]({{< ref "/talk/2018-02-01-bcp-invibe-fest/index.md" >}})
+* next talk @ [LACONEU, Chile]({{< ref "/talk/2019-01-18-laconeu/index.md" >}})
+* next talk @ [CAUSAL Kick-off, Marseille]({{< ref "/talk/2019-04-05-bbcp-causal-kickoff/index.md" >}})

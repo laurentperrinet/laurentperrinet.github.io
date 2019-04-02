@@ -8,3 +8,8 @@ url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2018-02-01_BCP_INVIBE
 event = "Visual motion Fest - Invibe Team -- INT / Marseille February 1 & 2, 2018"
 publishDate = "2018-01-01"
 +++
+
+* previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})
+* next talk @ [Brain workshop, Marseille]({{< ref "/talk/2018-04-05-bcp-talk/index.md" >}})
+* next talk @ [LACONEU, Chile]({{< ref "/talk/2019-01-18-laconeu/index.md" >}})
+* next talk @ [CAUSAL Kick-off, Marseille]({{< ref "/talk/2019-04-05-bbcp-causal-kickoff/index.md" >}})
