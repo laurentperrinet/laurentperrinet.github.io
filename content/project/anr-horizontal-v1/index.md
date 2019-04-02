@@ -15,7 +15,7 @@ tags = ["grant"]
 
 +++
 
-* [Official website](http://www.agence-nationale-recherche.fr/Project-ANR-17-CE37-0006)
+* Description on the official website of the [ANR](http://www.agence-nationale-recherche.fr/Project-ANR-17-CE37-0006)
 
 The Horizontal-V1 project aims at understanding the emergence of sensory predictions linking local shape attributes (orientation, contour) to global indices of movement (direction, speed, trajectory) at the earliest stage of cortical processing (primary visual cortex, i.e. V1). We will study how the long-distance "horizontal" connectivity, intrinsic to V1 and the feedback from higher cortical areas contribute to a dynamic processing of local-to-global features as a function of the context (eg displacement along a trajectory; during reafference change induced by eye-movements...). We will search to characterize the dynamic processes based on lateral propagation intra-V1, through which spatio-temporal inferences (continuous movement or apparent motion sequences) facilitating spatial ("filling-in") or positional ("flash-lag") future expected responses may be generated. The project will use a variety of animations of local oriented stimuli forming, according to their spatial and temporal coherence, predictable global patterns, apparent motion sequences and/or continuous trajectories. We will measure the cortical dynamics at two scales of neuronal integration, from micro- (intracellular, SUA) to meso-scopic levels (multi-electrode arrays (MEA) and voltage sensitive dye imaging (VSDI)) in the anesthetized (cat, marmoset) and awake fixating animal (macaca mulata). In a second step, we will combine these multiscale observations to constrain a structuro-functional model of low-level perception, integrating the micro-meso constraints. Two laboratories will participate in synergy to the project: UNIC-Gif (Dir. Yves Frégnac, DRCE2 CNRS, coordinator) and INT-Marseille (NeOpTo Team Dir. Frederic Chavane, DR2 CNRS).
 
@@ -42,4 +42,4 @@ The second task is more data-driven (as well as phenomenological for the feedbac
 
 Acknowledgement
 
-    This work was supported by ANR project "Horizontal-V1" N° ANR-XXXXXXX.
+    This work was supported by ANR project "Horizontal-V1" N° ANR-17-CE37-0006.
