@@ -70,6 +70,9 @@ contact_links = [
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
+# researcherid <span id='badgeCont483598' style='width:26px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont483598&mashlet=badge&showTitle=false&className=a&rid=C-4900-2009&size=small'></script></span>
+
+
 # #acl All:read
 #  Business Card ::
 # || Laurent Perrinet - Team !NeOpTo <<BR>> [[http://www.int.univ-amu.fr/PERRINET-Laurent|Institut de Neurosciences de la Timone]] UMR 7289 <<BR>> Aix Marseille Université, CNRS, 13385 cedex 5, Marseille, France <<BR>> ''Researcher'' <<BR>>  http://invibe.net/LaurentPerrinet ||
