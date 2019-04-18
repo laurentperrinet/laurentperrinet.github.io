@@ -22,6 +22,5 @@ summary = "Les objectifs sont : – mieux comprendre la fonction de la perceptio
 doi = "10.1016/j.neurol.2019.01.031"
 
 [image]
-caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
 focal_point = "Right"
 +++
