@@ -62,6 +62,7 @@ appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
+# see http://jpswalsh.github.io/academicons/
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/laurentperrinet"},
   {icon = "keybase", icon_pack = "fab", name = "researcherID", link = "https://twitter.com/laurentperrinet"},
@@ -75,6 +76,7 @@ contact_links = [
 
 # *  researcherid <span id='badgeCont483598' style='width:26px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont483598&mashlet=badge&showTitle=false&className=a&rid=C-4900-2009&size=small'></script></span>
 
+# http://orcid.org/0000-0002-9536-010X
 
 # #acl All:read
 #  Business Card ::
