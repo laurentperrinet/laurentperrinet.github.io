@@ -52,7 +52,7 @@ time_format = "15:04"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "laurent.perrinet@univ-amu.fr"
 phone = "888 888 88 88"
-address = "Faculté de Médecine - Bâtiment Neurosciences,<br> 27, Bd Jean Moulin, 13385 Marseille Cedex 05,<br> France "
+address = "Institut de Neurosciences de la Timone (UMR 7289) <br> Aix Marseille Université, CNRS <br> Faculté de Médecine - Bâtiment Neurosciences,<br> 27, Bd Jean Moulin, 13385 Marseille Cedex 05,<br> France "
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = "email to book an appointment"
@@ -117,7 +117,7 @@ map = 2
 map_api_key = ""
 latitude = "43.2869"
 longitude = "5.4035"
-zoom = 15
+zoom = 10
 
 ############################
 ## Plugins                ##
