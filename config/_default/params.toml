@@ -65,18 +65,23 @@ appointment_url = ""
 # see http://jpswalsh.github.io/academicons/
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/laurentperrinet"},
-  {icon = "keybase", icon_pack = "fab", name = "researcherID", link = "https://twitter.com/laurentperrinet"},
-  {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/laurent-perrinet-1857b9/"},
+  {icon = "orcid", icon_pack = "ai", name = "OrcID", link = "http://orcid.org/0000-0002-9536-010X"},
+  # arxiv
   {icon = "publons", icon_pack = "ai", name = "Publons", link = "https://publons.com/a/1206845/"},
+  {icon = "researcherid", icon_pack = "ai", name = "researcherID", link = "http://www.researcherid.com/rid/C-4900-2009"},
+  {icon = "google-scholar", icon_pack = "ai", name = "Google Scholar", link = "http://scholar.google.com/citations?user=TVyUV38AAAAJ&hl=en"},
+  {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/laurent-perrinet-1857b9/"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
+
+# http://jpswalsh.github.io/academicons/
 # *  researcherid <span id='badgeCont483598' style='width:26px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont483598&mashlet=badge&showTitle=false&className=a&rid=C-4900-2009&size=small'></script></span>
 
-# http://orcid.org/0000-0002-9536-010X
+#
 
 # #acl All:read
 #  Business Card ::
@@ -90,7 +95,9 @@ contact_links = [
 # ||<tablewidth="400px"width="100px"> Email || <<MailTo(Laurent DOT Perrinet AT laposte DOT net)>> ||
 # || Mobile || +33 6 19 47 81 20 ||
 # ##|| Facebook || http://www.facebook.com/laurent.perrinet  ||
-# || Social networks || [[http://www.citeulike.org/user/LaurentPerrinet|CiteUlike]]<<BR>>[[http://www.mendeley.com/profiles/laurent-perrinet/|Mendeley]]<<BR>>[[http://www.scopus.com/authid/detail.url?authorId=23029018400|SCOPUS]]<<BR>>[[http://orcid.org/0000-0002-9536-010X|ORCID]]<<BR>>[[http://scholar.google.com/citations?user=TVyUV38AAAAJ&hl=en|Google scholar]]<<BR>>[[http://www.researcherid.com/rid/C-4900-2009|ResercherID]]<<BR>>[[http://google.com/+LaurentPerrinet|G+]]<<BR>>[[http://www.facebook.com/laurent.perrinet|FB]]<<BR>>[[http://apps.webofknowledge.com/CitationReport.do?product=UA&search_mode=CitationReport&SID=Y2I7LtBLzKVoeUGmtwz&page=1&cr_pqid=9&viewType=summary|ISI]] <<BR>> [[https://publons.com/a/1206845/|publons]] <<BR>> [[https://twitter.com/laurentperrinet|twitter]]||
+# || Social networks || [[http://www.citeulike.org/user/LaurentPerrinet|CiteUlike]]<<BR>>[[http://www.mendeley.com/profiles/laurent-perrinet/|Mendeley]]<<BR>>[[http://www.scopus.com/authid/detail.url?authorId=23029018400|SCOPUS]]
+#
+# http://apps.webofknowledge.com/CitationReport.do?product=UA&search_mode=CitationReport&SID=Y2I7LtBLzKVoeUGmtwz&page=1&cr_pqid=9&viewType=summary|ISI]]
 
 # [[http://www.citeulike.org/user/LaurentPerrinet|CiteUlike]]
 # [[http://www.mendeley.com/profiles/laurent-perrinet/|Mendeley]]
