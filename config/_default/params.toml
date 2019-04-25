@@ -32,7 +32,7 @@ highlight = true
 
 # Enable global LaTeX math rendering?
 #   If false, you can enable it locally on a per page basis.
-math = false
+math = true
 
 # Privacy pack
 #   Show a cookie consent message to visitors
@@ -52,7 +52,7 @@ time_format = "15:04"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "laurent.perrinet@univ-amu.fr"
 phone = "+33 619 478 120"
-address = "Institut de Neurosciences de la Timone (UMR 7289) <br> Aix Marseille Université, CNRS <br> Faculté de Médecine - Bâtiment Neurosciences,<br> 27, Bd Jean Moulin, 13385 Marseille Cedex 05,<br> France "
+address = "NeOpTo Team <BR>  Institut de Neurosciences de la Timone (UMR 7289) <br> Aix Marseille Université, CNRS <br> Faculté de Médecine - Bâtiment Neurosciences,<br> 27, Bd Jean Moulin, 13385 Marseille Cedex 05,<br> France "
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = "email to book an appointment"
@@ -66,7 +66,7 @@ appointment_url = ""
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/laurentperrinet"},
   {icon = "orcid", icon_pack = "ai", name = "OrcID", link = "http://orcid.org/0000-0002-9536-010X"},
-  # arxiv
+  {icon = "arxiv", icon_pack = "ai", name = "arXiv", link = "https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Perrinet%2C+L&terms-0-field=author&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first"},
   {icon = "publons", icon_pack = "ai", name = "Publons", link = "https://publons.com/a/1206845/"},
   {icon = "researcherid", icon_pack = "ai", name = "researcherID", link = "http://www.researcherid.com/rid/C-4900-2009"},
   {icon = "google-scholar", icon_pack = "ai", name = "Google Scholar", link = "http://scholar.google.com/citations?user=TVyUV38AAAAJ&hl=en"},
@@ -79,36 +79,8 @@ contact_links = [
 
 
 # http://jpswalsh.github.io/academicons/
-# *  researcherid <span id='badgeCont483598' style='width:26px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont483598&mashlet=badge&showTitle=false&className=a&rid=C-4900-2009&size=small'></script></span>
 
-#
-
-# #acl All:read
-#  Business Card ::
-# || Laurent Perrinet - Team !NeOpTo <<BR>> [[http://www.int.univ-amu.fr/PERRINET-Laurent|Institut de Neurosciences de la Timone]] UMR 7289 <<BR>> Aix Marseille Université, CNRS, 13385 cedex 5, Marseille, France <<BR>> ''Researcher'' <<BR>>  http://invibe.net/LaurentPerrinet ||
-#  Work ::
-# ||<tablewidth="400px"width="100px"> Email || <<MailTo(Laurent DOT Perrinet AT univ-amu  DOT fr)>> ||
-# ||<style="vertical-align: top;"> Address || Institut de Neurosciences de la Timone (UMR 7289) <<BR>> Aix Marseille Université, CNRS <<BR>> Faculté de Médecine - Bâtiment Neurosciences <<BR>> 27, Bd Jean Moulin  <<BR>> 13385 Marseille Cedex 05 <<BR>> France  ||
 # ||<style="vertical-align: top;"> Phone || +33.491 324 044 ||
-# ## ||<style="vertical-align: top;"> Current Address || Wellcome Trust Centre for Neuroimaging - 12 Queen Square - London - WC1N 3BG - Telephone: +44 20 7833 7472 ||
-#  Personal ::
-# ||<tablewidth="400px"width="100px"> Email || <<MailTo(Laurent DOT Perrinet AT laposte DOT net)>> ||
-# || Mobile || +33 6 19 47 81 20 ||
-# ##|| Facebook || http://www.facebook.com/laurent.perrinet  ||
-# || Social networks || [[http://www.citeulike.org/user/LaurentPerrinet|CiteUlike]]<<BR>>[[http://www.mendeley.com/profiles/laurent-perrinet/|Mendeley]]<<BR>>[[http://www.scopus.com/authid/detail.url?authorId=23029018400|SCOPUS]]
-#
-# http://apps.webofknowledge.com/CitationReport.do?product=UA&search_mode=CitationReport&SID=Y2I7LtBLzKVoeUGmtwz&page=1&cr_pqid=9&viewType=summary|ISI]]
-
-# [[http://www.citeulike.org/user/LaurentPerrinet|CiteUlike]]
-# [[http://www.mendeley.com/profiles/laurent-perrinet/|Mendeley]]
-# [[http://www.scopus.com/authid/detail.url?authorId=23029018400|SCOPUS]]
-# [[http://orcid.org/0000-0002-9536-010X|ORCID]]
-# [[http://scholar.google.com/citations?user=TVyUV38AAAAJ&hl=en|Google scholar]]
-# [[http://www.researcherid.com/rid/C-4900-2009|ResercherID]]
-# [[http://google.com/+LaurentPerrinet|G+]]
-# [[http://www.facebook.com/laurent.perrinet|FB]]
-# [[http://apps.webofknowledge.com/CitationReport.do?product=UA&search_mode=CitationReport&SID=Y2I7LtBLzKVoeUGmtwz&page=1&cr_pqid=9&viewType=summary|ISI]]
-#  [[https://publons.com/a/1206845/|publons]]
 
 # Display a map.
 # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
@@ -191,10 +163,10 @@ sharing = true
   #   2: Algolia (https://www.algolia.com)
   engine = 1
 
-  # Configuration of Algolia search engine.
-  # Paste the values from your Algolia dashboard.
-  [search.algolia]
-    app_id = ""
-    api_key = ""
-    index_name = ""
-    show_logo = false
+# Configuration of Algolia search engine.
+# Paste the values from your Algolia dashboard.
+[search.algolia]
+  app_id = ""
+  api_key = ""
+  index_name = ""
+  show_logo = false
