@@ -11,4 +11,4 @@ publishDate = "2009-01-01"
 +++
 
 
-* see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publications/perrinet-09-kremkow-10-jcns/index.md" >}})
+* see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publications/kremkow-10-jcns/index.md" >}})

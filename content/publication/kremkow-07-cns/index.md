@@ -1,4 +1,4 @@
-+++
+kremkow-10-jcns+++
 title = "Synchrony in thalamic inputs enhances propagation of activity through cortical layers"
 date = 2007-01-01
 authors = [ "Jens Kremkow", "Laurent U Perrinet", "Arvind Kumar", "Ad M Aertsen", "Guillaume S Masson",]
@@ -12,4 +12,4 @@ doi = "10.1186/1471-2202-8-S2-P180"
 projects = [ "facets",]
 +++
 
-* see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publications/perrinet-09-kremkow-10-jcns/index.md" >}})
+* see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publications/kremkow-10-jcns/index.md" >}})

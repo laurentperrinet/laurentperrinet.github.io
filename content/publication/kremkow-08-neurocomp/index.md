@@ -9,4 +9,4 @@ tags = [ "feed-forward_inhibition", "large-scale_networks",]
 projects = [ "facets",]
 +++
 
-* see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publications/perrinet-09-kremkow-10-jcns/index.md" >}})
+* see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publications/kremkow-10-jcns/index.md" >}})
