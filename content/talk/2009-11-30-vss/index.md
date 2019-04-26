@@ -10,4 +10,4 @@ projects = [ "facets",]
 publishDate = "2009-01-01"
 +++
 
-* see this more recent poster @ [VSS]({{< ref "/publications/perrinet-09-vss/index.md" >}})
+* see this more recent poster @ [VSS]({{< ref "/publication/perrinet-09-vss/index.md" >}})
