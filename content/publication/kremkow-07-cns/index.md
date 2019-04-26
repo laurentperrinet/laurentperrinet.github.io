@@ -12,4 +12,4 @@ doi = "10.1186/1471-2202-8-S2-P180"
 projects = [ "facets",]
 +++
 
-* see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publications/kremkow-10-jcns/index.md" >}})
+* see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publication/kremkow-10-jcns/index.md" >}})
