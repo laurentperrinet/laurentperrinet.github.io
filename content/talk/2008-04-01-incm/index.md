@@ -8,4 +8,5 @@ publication = "*Séminaires de l'INCM, April 11th, 2008*"
 event = "Séminaires de l'INCM, April 11th, 2008"
 projects = [ "facets",]
 publishDate = "2008-01-01"
+url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2008-04_incm"
 +++

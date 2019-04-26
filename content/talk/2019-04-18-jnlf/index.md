@@ -20,5 +20,4 @@ date = 2019-04-18T13:00:00
 publishDate = "2019-01-01"
 summary = "Les objectifs sont : – mieux comprendre la fonction de la perception visuelle en explorant certaines limites ; – mieux comprendre l’importance de l’aspect dynamique de la perception ; – mieux comprendre le rôle de l’action dans la perception."
 doi = "10.1016/j.neurol.2019.01.031"
-
 +++

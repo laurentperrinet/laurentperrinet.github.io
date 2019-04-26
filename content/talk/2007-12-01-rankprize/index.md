@@ -6,4 +6,5 @@ featured = false
 publication = "*The Rank Prize Funds, Mini-Symposium on Representations of the Visual World in the Brain*"
 event = "The Rank Prize Funds, Mini-Symposium on Representations of the Visual World in the Brain"
 publishDate = "2007-01-01"
+url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2007-12_rankprize"
 +++

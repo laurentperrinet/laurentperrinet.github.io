@@ -7,4 +7,5 @@ featured = false
 publication = "*Mathematical image processing meeting (Marseille, France) September 5*"
 event = "Mathematical image processing meeting (Marseille, France) September 5"
 publishDate = "2007-01-01"
+url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2007-09_mipm"
 +++
