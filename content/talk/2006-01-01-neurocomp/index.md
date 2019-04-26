@@ -10,3 +10,5 @@ url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2006_neurocomp"
 event = "1ère conférence francophone NEUROsciences COMPutationnelles - NeuroComp"
 publishDate = "2006-01-01"
 +++
+
+* related publications  @ [FENS 2006]({{< ref "/publication/perrinet-06-fens/index.md" >}}),   @ [NeuroComp 2008]({{< ref "/publication/perrinet-08-neurocomp/index.md" >}}) and   @ [AREADNE 2008]({{< ref "/publication/perrinet-08-areadne/index.md" >}})
