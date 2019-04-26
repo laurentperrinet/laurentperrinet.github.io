@@ -3,8 +3,9 @@ title = "Modeling of spikes, sparseness and adaptation in the primary visual cor
 date = 2008-02-01
 authors = [ "Laurent U Perrinet",]
 featured = false
-publication = "*Prisma workshop, Toledo (Spain), February 7, 2008*"
-url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2008-02_toledo"
+publication = "Prisma workshop, Toledo (Spain), February 7, 2008"
 event = "Prisma workshop, Toledo (Spain), February 7, 2008"
 publishDate = "2008-01-01"
 +++
+
+* related publications  @ [FENS 2006]({{< ref "/publication/perrinet-06-fens/index.md" >}}),   @ [NeuroComp 2008]({{< ref "/publication/perrinet-08-neurocomp/index.md" >}}) and   @ [AREADNE 2008]({{< ref "/publication/perrinet-08-areadne/index.md" >}})

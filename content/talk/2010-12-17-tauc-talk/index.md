@@ -6,7 +6,12 @@ abstract = "Sensory informations such as visual images are inherently variable. 
 featured = false
 publication = "*LADISLAV TAUC & GDR MSPC NEUROSCIENCES CONFERENCE, From Mathematical Image Analysis to Neurogeometry of the Brain*"
 tags = [ " center-surround interactions", "Bayesian model", "dynamics", "eye movements", "motion detection", "motion prediction",]
-url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2010-12-17_TaucTalk"
 event = "LADISLAV TAUC & GDR MSPC NEUROSCIENCES CONFERENCE, From Mathematical Image Analysis to Neurogeometry of the Brain"
 publishDate = "2010-01-01"
 +++
+
+An event ranging "From Mathematical Image Analysis to Neurogeometry of the Brain" [LADISLAV TAUC & GDR MSPC NEUROSCIENCES CONFERENCE](http://www.conftauc.cnrs-gif.fr/programme.php).
+
+* related publication from Mina Khoei @ [TAUC 2012]({{< ref "/publication/khoei-10-tauc/index.md" >}})
+
+* see this more recent talk @ [UCL, London]({{< ref "/talk/2012-01-12-vision-at-ucl/index.md" >}})

@@ -6,7 +6,12 @@ abstract = "Sensory informations such as visual images are inherently variable. 
 featured = false
 publication = "*Atelier Neurosciences Computationnelles, 2-3 Juillet 2011 Khemisset, Maroc*"
 tags = [ " dynamics", "Bayesian model", "eye movements", "motion detection", "motion prediction",]
-url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2011-07-02_NeuroMedTalk"
 event = "Atelier Neurosciences Computationnelles, 2-3 Juillet 2011 Khemisset, Maroc"
 publishDate = "2011-01-01"
 +++
+
+La finalité de cette manifestation est de permettre à nos chercheurs de se réunir en groupes de travail et en ateliers afin de découvrir la thématique des neurosciences et son interdisciplinarité. La manifestation se tient dans le cadre des activités du laboratoire LAMS, de ABC MATHINFO, du GDRI NeurO et du réseau méditerranéen [NeuroMed](http://www.neuromedproject.eu/).
+
+* related publication @ [SPIE 2008]({{< ref "/publication/khoei-10-tauc/index.md" >}})
+
+* see this more recent talk @ [UCL, London]({{< ref "/talk/2012-01-12-vision-at-ucl/index.md" >}})

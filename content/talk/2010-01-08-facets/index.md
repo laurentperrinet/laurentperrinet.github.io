@@ -5,6 +5,7 @@ authors = [ "Laurent U Perrinet", "Guillaume S Masson",]
 featured = false
 publication = ""
 tags = [ " center-surround interactions", "Bayesian model", "dynamics", "eye movements", "motion detection", "motion prediction",]
-url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2010-01-08_facets"
 publishDate = "2010-01-01"
 +++
+
+* see this more recent talk @ [UCL, London]({{< ref "/talk/2012-01-12-vision-at-ucl/index.md" >}})
