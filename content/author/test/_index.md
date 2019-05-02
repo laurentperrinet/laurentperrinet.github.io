@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Mina Khoei"
+name = "Mina A. Khoei"
 
 # Username (this should match the folder name)
 authors = ["alumni"]
