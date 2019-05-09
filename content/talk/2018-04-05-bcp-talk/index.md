@@ -1,7 +1,7 @@
 +++
 title = "Principles and psychophysics of Active Inference in anticipating a dynamic, switching probabilistic bias"
 date = 2018-04-05T14:00:00
-authors = [ "Laurent U Perrinet", "Chloé Pasturel", "INT Anna Montagnini",]
+authors = [ "Laurent U Perrinet", "Chloé Pasturel", "Anna Montagnini",]
 featured = false
 publication = "*Probabilities and Optimal Inference to Understand the Brain, INT, Marseille (France)*"
 url_pdf = "https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/"

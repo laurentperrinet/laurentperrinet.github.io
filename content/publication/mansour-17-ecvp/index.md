@@ -1,7 +1,7 @@
 +++
 title = "How the dynamics of human smooth pursuit is influenced by speed uncertainty"
 date = 2017-01-01
-authors = [ "Kiana Mansour Pour", "Laurent U Perrinet", "Guillaume S. Masson", "Anna Montagnini",]
+authors = [ "Kiana Mansour Pour", "Laurent U Perrinet", "Guillaume S Masson", "Anna Montagnini",]
 publication_types = [ "1",]
 featured = false
 publication = "*Proceedings of ECVP*"

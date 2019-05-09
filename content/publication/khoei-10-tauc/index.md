@@ -1,7 +1,7 @@
 +++
 title = "Dynamical emergence of a neural solution for motion integration"
 date = 2010-01-01
-authors = [ "Mina A. Khoei", "Laurent U Perrinet", "Guillaume S. Masson",]
+authors = [ "Mina A Khoei", "Laurent U Perrinet", "Guillaume S Masson",]
 publication_types = [ "1",]
 featured = false
 publication = "*Proceedings of Tauc*"

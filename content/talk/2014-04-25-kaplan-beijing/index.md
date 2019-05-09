@@ -1,7 +1,7 @@
 +++
 title = "Signature of an anticipatory response in area V1 as modeled by a probabilistic model and a spiking neural network"
 date = 2014-04-25
-authors = [ "Bernhard A Kaplan", "Mina A. Khoei", "Anders Lansner", "Laurent U Perrinet",]
+authors = [ "Bernhard A Kaplan", "Mina A Khoei", "Anders Lansner", "Laurent U Perrinet",]
 featured = false
 publication = "*2014 International Joint Conference on Neural Networks (IJCNN)*"
 tags = [ " dynamics", "Bayesian model", "Biologically Inspired Computer vision", "motion detection",]
