@@ -42,12 +42,12 @@ user_groups = ["Alumni"]
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.co.uk/citations?user=oHLjQTEAAAAJ"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://www.linkedin.com/in/mina-a-khoei-58673526"
 
 +++
 
