@@ -1,7 +1,7 @@
 +++
 title = "A low-cost, accessible eye tracking framework"
 date = 2018-01-01
-authors = [ "Laurent Perrinet",]
+authors = [ "Laurent U Perrinet",]
 publication_types = [ "1",]
 abstract = "Recording eye movements is a technique that attracts an increasing number of scientists, but also in the general public. Indeed, this allows to quantitatively measure a number of useful dimensions of perception and behavior in general. However, most existing trackers rely on expensive or technically complex solutions. Here, we propose a simple framework to record eye movements using any camera, such as a webcam. As a proof of concept, the recorded image is processed in real-time to detect from a simple sub-set of eye movements : left, center, right or blink. The processing is based on two stages. First, we use a pre-trained computer vision algorithm to extract the image of the face. Second, we used a classical deep-learning architecture to learn to classify these sub-images. This network is a 3 layered convolutional neural network, for which we optimized performance as measured by the accuracy with cross-validation on a wide range of the network's hyper-parameters. Over a dataset of more than 1000 images, this network achieves an average accuracy of approximately 97%. We also provide with an integration with the psychopy library which shows that frames can be processed on a standard laptop at a rate of approximately 25Hz."
 featured = false

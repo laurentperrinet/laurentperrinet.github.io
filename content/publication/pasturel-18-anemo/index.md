@@ -1,7 +1,7 @@
 +++
 title = "ANEMO: Quantitative tools for the ANalysis of Eye MOvements"
 date = 2018-01-01
-authors = [ "Chloé Pasturel", "Anna Montagnini", "Laurent Perrinet",]
+authors = [ "Chloé Pasturel", "Anna Montagnini", "Laurent U Perrinet",]
 publication_types = [ "1",]
 featured = false
 publication = "*Grenoble Workshop on Models and Analysis of Eye Movements, Grenoble, France*"

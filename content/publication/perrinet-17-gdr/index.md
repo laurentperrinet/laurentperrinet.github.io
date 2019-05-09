@@ -1,7 +1,7 @@
 +++
 title = "Expériences autour de la perception de la forme en art et science"
 date = 2017-01-01
-authors = [ "Laurent Perrinet", "Etienne Rey",]
+authors = [ "Laurent U Perrinet", "Etienne Rey",]
 publication_types = [ "1",]
 featured = false
 publication = "*GDR Vision, Lille, 2017*"
