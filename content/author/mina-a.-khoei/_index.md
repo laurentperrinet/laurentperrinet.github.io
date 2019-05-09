@@ -14,9 +14,6 @@ role = "Phd in Computational Neuroscience"
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include XXX, YYY and ZZZ."
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups = ["Alumni"]
@@ -32,12 +29,6 @@ user_groups = ["Alumni"]
   course = "Phd in Computational Neuroscience"
   institution = "Aix-Marseille Université"
   year = 2014
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-
 
 [[social]]
   icon = "google-scholar"
