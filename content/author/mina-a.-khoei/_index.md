@@ -12,7 +12,7 @@ superuser = false
 role = "Phd in Computational Neuroscience"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include XXX, YYY and ZZZ."
+bio = "During my PhD, I focused on predictive coding and motion coherence."
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -41,8 +41,6 @@ user_groups = ["Alumni"]
   link = "https://www.linkedin.com/in/mina-a-khoei-58673526"
 
 +++
-
-
 # Emerging properties in a neural field model implementing probabilistic prediction (PhD, 2011-2014)
 
 In the early visual system, information about the visual world as represented by neural activity is dynamically building up from sensory input but also by contextual information coming from neighboring cells and re-entrant signal from other cortical areas. Low-level sensory areas are therefore an excellent model for exploring how neural computations solve the problem of selecting a single, coherent and global representation from the dispersed information collected locally and in parallel by neurons. Our goal in this program is to study the dynamics of neural fields implementing probabilistic computations for early sensory processing. Emphasis will be put onto the role of anisotropic diffusion, in particular within a cortical area through lateral interactions.
