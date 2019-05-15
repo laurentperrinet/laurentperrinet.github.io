@@ -1,9 +1,9 @@
 +++
 # Display name
-name = "Jean-Bernard Damasse"
+name = "Jens Kremkow"
 
 # Username (this should match the folder name)
-authors = ["jean-bernard-damasse"]
+authors = ["jens-kremkow"]
 
 # Is this the primary user of the site?
 superuser = false
@@ -12,7 +12,7 @@ superuser = false
 role = "Phd in Computational Neuroscience"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "During my PhD, I focused on Gaze orientation and reinforcemnet learning."
+bio = "During my PhD, I focused on the interplay of Excitation and Inhibition in Visual Cortical Circuits."
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -23,7 +23,7 @@ user_groups = ["Alumni"]
 [[education.courses]]
   course = "Phd in Computational Neuroscience"
   institution = "Aix-Marseille Université"
-  year = 2017
+  year = 2009
 
 [[social]]
   icon = "github"
@@ -32,8 +32,19 @@ user_groups = ["Alumni"]
 
 +++
 
-# Smooth pursuit eye movements and learning: Role of motion probability and reinforcement contingencies (PhD, 2014-2017)
+# Correlating Excitation and Inhibition in Visual Cortical Circuits: Functional Consequences and Biological Feasibility  (PhD, 2006-01 / 2009-05)
 
-In the continuous flow of sensory evidence, cognitive systems must provide rapid behavioral choices across different time scales. For instance, seeing a moving object may result in various responses such as catching or avoiding collision depending on the trajectory and the nature of the object, but also depending on the recent experience and the expectations associated with that object and its motion properties. The principal goal of the larger scientific project in which this PhD thesis is inscribed (see ANR-REM project) is the analysis of reinforcement learning processes in the domain of voluntary eye movements (saccades and smooth pursuit eye movements) in humans. Within this PhD project we will use a dual approach, based on behavioural experiments on human subjects and on computational modelling of the experimental data, in order to address this important question, with a particular emphasis on the time course of learning effects and on the hypothesised role of probabilistic inference as underlying mechanism. <<BR>> Visually driven eye movements provide an ideal experimental preparation to probe sensorimotor behavior across different time-scales, processing levels (from sensory encoding to the final categorical choice) and movement repertoire (e.g. smooth pursuit and saccades). In addition, a remarkable flexibility of oculomotor behaviors has been highlighted by manipulating the expectancy for sensory features or the outcome associated to particular motor responses.
+The goal of the FACETS (Fast Analog Computing with Emergent Transient States) project was to create a theoretical and experimental foundation for the realisation of novel computing paradigms which exploit the concepts experimentally observed in biological nervous systems. The continuous interaction and scientific exchange between biological experiments, computer modelling and hardware emulations within the project provides a unique research infrastructure that will in turn provide an improved insight into the computing principles of the brain. This insight may potentially contribute to an improved understanding of mental disorders in the human brain and help to develop remedies.
 
-* thesis available @ https://www.theses.fr/s137225
+
+* Venue: Thèse de Doctorat de l’Université d’Aix-Marseille II, Ecole Doctorale des Sciences de la Vie et de la Santé Marseille, France en Cotutelle avec la Fakultät für Biologie Albert-Ludwigs-Universität Freiburg im Breisgau, Allemagne
+* Thesis director: Guillaume MASSON and Dr. Laurent PERRINET
+
+##  Description of the PHD thesis project
+
+The primary visual cortex (V1) is one of the most studied cortical area in neuroscience. Together with the retina and the lateral geniculate nucleus (LGN), it forms the early visual system, which has become a common model for studying computational principles in the sensory systems. Simple artificial stimuli (such as drifting gratings (DG)) have given precious insights into the neural basis of visual processing. However, recently more researchers have used more complex natural images (NI) visual stimuli, arguing that the low dimensional artificial stimuli are not sufficient for a complete understanding of the visual system. For example, whereas the responses of V1 neurons to DG are dense but with variable spike timings, the neurons are activated with only few and precise spikes to NI. Furthermore, if linear receptive field models provide a good fit to responses during simple stimuli, they often fail during NI.
+
+To investigate the mechanisms behind the stimulus dependent responses of cortical neurons we have built a biophysical, yet simple and comprehensible, model of the early visual system. We show how the spatial and temporal stimulus properties interact with the model architecture to give rise to differential response behaviour. Our results show in particular that during NI, the LGN afferents show epochs of correlated activity. These temporal correlations are necessary to induce transient excitatory synaptic inputs, and result in precise spike timings in V1. Furthermore, the sparseness of the responses to NI can be explained by a hardwired, correlated and lagging inhibitory conductance, or conductance temporal window, which is induced by the interactions of the thalamocortical circuit with the spatiotemporal correlations in the stimulus.
+
+We continue by investigating the origin of nonlinear responses during NI in the temporal window, by comparing models of different complexity. Our results suggest first that adaptive processes shape the responses, depending on the temporal properties of the stimuli. The different spatial properties can result in nonlinear inputs through the recurrent cortical network. We then study the functional consequences of correlated excitatory and inhibitory condutances in more details in general models. These results show that: (1) spiking of individual neurons becomes sparse and precise, (2) the selectivity of signal propagation increases and the detailed delay allows to gate the propagation through feed-forward structures (3) and recurrent cortical networks are more stable and more likely to elicit in vivo type activity states.
+Lastly our work illustrates new advances in methods of constructing and exchanging models of neuronal systems by the means of a simulator independent description language (called PyNN). We use this new tool to investigate the feasibility of comparing software simulations with neuromorphic hardware emulations. The presented work give new perspectives on the way conductances can be used for computations and it opens the door for more elaborated models of visual system's mechanisms.

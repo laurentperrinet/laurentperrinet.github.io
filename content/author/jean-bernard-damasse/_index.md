@@ -1,9 +1,9 @@
 +++
 # Display name
-name = "Victor Boutin"
+name = "Jean-Bernard Damasse"
 
 # Username (this should match the folder name)
-authors = ["victor-boutin"]
+authors = ["jean-bernard-damasse"]
 
 # Is this the primary user of the site?
 superuser = false
@@ -12,7 +12,7 @@ superuser = false
 role = "Phd in Computational Neuroscience"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "During my PhD, I focused on predictive coding in a bio-inspired neural network."
+bio = "During my PhD, I focused on Gaze orientation and reinforcemnet learning."
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -23,7 +23,7 @@ user_groups = ["Alumni"]
 [[education.courses]]
   course = "Phd in Computational Neuroscience"
   institution = "Aix-Marseille Université"
-  year = 2014
+  year = 2017
 
 [[social]]
   icon = "github"
@@ -32,73 +32,11 @@ user_groups = ["Alumni"]
 
 +++
 
-# Controlling an aerial robot by human semaphore gestures using a bio-inspired neural network (PhD, 12/2016-02/2020)
+# Smooth pursuit eye movements and learning: Role of motion probability and reinforcement contingencies (PhD, 2014-2017)
 
-* Venue: Aix-Marseille University [DOC2AMU](https://doc2amu.univ-amu.fr/fr/victor-boutin-doctorant-promotion-2016) is an innovative H2020-MSCA-COFUND
-* Keywords: Aerial Robots, Vision, Neural Networks, Bio-Inspired Computer Vision, Gaze orientation, learning
-* Thesis director: Dr. Laurent PERRINET, Director's research unit: Institut de Neurosciences de la Timone (INT)
-* Thesis co-supervisition: Dr. Franck RUFFIER Co-director's research unit: Institut des Sciences du Mouvement (ISM)
+* Thesis director: Anna Montagnini
+* Thesis co-supervisition: Laurent Perrinet
 
-##  Description of the PHD thesis project
+In the continuous flow of sensory evidence, cognitive systems must provide rapid behavioral choices across different time scales. For instance, seeing a moving object may result in various responses such as catching or avoiding collision depending on the trajectory and the nature of the object, but also depending on the recent experience and the expectations associated with that object and its motion properties. The principal goal of the larger scientific project in which this PhD thesis is inscribed (see ANR-REM project) is the analysis of reinforcement learning processes in the domain of voluntary eye movements (saccades and smooth pursuit eye movements) in humans. Within this PhD project we will use a dual approach, based on behavioural experiments on human subjects and on computational modelling of the experimental data, in order to address this important question, with a particular emphasis on the time course of learning effects and on the hypothesised role of probabilistic inference as underlying mechanism. <<BR>> Visually driven eye movements provide an ideal experimental preparation to probe sensorimotor behavior across different time-scales, processing levels (from sensory encoding to the final categorical choice) and movement repertoire (e.g. smooth pursuit and saccades). In addition, a remarkable flexibility of oculomotor behaviors has been highlighted by manipulating the expectancy for sensory features or the outcome associated to particular motor responses.
 
-Robotics is a rapidly evolving technology that allows for fast, low-risk
-and low-cost tasks with a worldwide market of over 80 billion dollars
-over the next few years. In particular, aerial robots, also known as
-drones, provide a breakthrough to easily image and access all sorts of
-terrains and situations and are useful for instance in surveillance and
-forensics, emergency industrial inspection or a search and rescue
-operation. A major difficulty for their global acceptance is the
-difficulty for controlling their flight and interacting with them.
-
-Indeed, aerial robots are generally operated using a (central) ground
-station which is not compatible with the time pressure required by
-emergency conditions, for instance when
-rescuing a person out of reach with the ground station. This PhD project
-aims at concealing such obstacles and construct an aerial robot which is
-able to be autonomously and interactively controlled by simple human
-gestures, for instance that of a rescuer. The main scientific challenges
-are (i) to embed in the aerial robot all the electronics for the visual
-system from the retina to the control signals to the propellers, (ii) to
-very quickly recognize a variety of simple gestures on-board using a
-neuromimetic architecture and (iii) to make the robot react in real time
-to these gestures. As such, this project is inter-disciplinary by
-positively combining advanced algorithms from event-based bio-inspired
-computer vision and the latest technology in aerial robots.
-
- 1. R. Benosman , S.-H. Leng , C. Clercq , C. Bartolozzi & M. Srinivasan (2012) “Asynchronous frameless event-based optical flow”, Neural Networks - Elsevier
-
- 2. S.-C. Liu & T. Delbruck (2010) “Neuromorphic sensory systems”, Current opinion in neurobiology - Elsevier
-
- 3. J. Nagi, A. Giusti, G. A. Di Caro, L. M. Gambardella (2014) “HRI in the Sky, Controlling UAVs using Face Poses and Hand Gestures”, HRI
-
-
-## 3I dimensions and other aspects of the project
-
- The present PhD proposal is at the crossroad between various
- disciplines. It first concerns biology and neuroscience because its
- event-based approach is strongly inspired from the neuronal network
- observed in animals such as insects to primates and used for navigation,
- obstacle avoidance, and sensori-motor control. It is also covering
- electronics, aerial robotics and signal processing as the main project
- achievement is to create a working spike-based electronic architecture
- able to recognize body movement, and to use it to control the robot.
- Such an oucome will have beneficial outcomes with respects to the SRI-S3
- regional strategy, in particular with respect to “risks, security and
- safety”.
-
- This project is a partnership between two different doctoral schools
- based in Marseille: the EDSMH at ISM for the robotic part, and the EDSVS
- at INT concerning visual processing and spike-based processing methods.
- This partnership will provide the ESR with the best resources to achieve
- his goals. In particular, the ISM owns a brand new flying arena (funded
- by Robotex project, www.marseilles-flying-arena.eu) equipped with
- high-tech motion capture tools (Vicon) and the INT has a entire
- technological platform dedicated for high-performance computing and
- measurement tool prototyping.
-
- Combining neuroscience and robotics to design novel electronic
- architectures is an innovative and a valuable approach in Robotics. The
- doctoral student selected for this project will acquire experience in
- bio-inspired hardware architectures, which is going to be valuable in
- his career as there is a need to adapt actual electronic architecture to
- for instance spike-based visual processing.
+* thesis available @ https://www.theses.fr/s137225
