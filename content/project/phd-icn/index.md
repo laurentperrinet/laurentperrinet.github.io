@@ -10,21 +10,21 @@ summary = "A grant from the Ph.D. program in Integrative and Clinical Neuroscien
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant"]
+tags = ["grant", "current-grant", "phd-icn"]
 
+authors = ["angelo-franciosini"]
 
 +++
 
-Description
+## Description
 
-    The [Ph.D. program in Integrative and Clinical Neuroscience](http://neuro-marseille.org/en/phd-program-en/) (Aix-Marseille University) is offering in 2017 three Ph.D. scholarships to Master students graduated from highly ranked international universities (outside France). We were awarded with one PhD position for Angelo Franciosini at the "Institut de Neurosciences de la Timone" (team "Inference and Visual Behavior"), CNRS, Marseille (France) to study trajectories in natural images and the sensory processing of contours.
+The [Ph.D. program in Integrative and Clinical Neuroscience](http://neuro-marseille.org/en/phd-program-en/) (Aix-Marseille University) is offering in 2017 three Ph.D. scholarships to Master students graduated from highly ranked international universities (outside France). We were awarded with one PhD position for Angelo Franciosini at the "Institut de Neurosciences de la Timone" (team "Inference and Visual Behavior"), CNRS, Marseille (France) to study trajectories in natural images and the sensory processing of contours.
 
-Funding
+##Funding
 
-    This project is funded by the Aix-Marseille Université, which was awarded the prestigious status of "Excellence Initiative" (A*MIDEX) by the French Government and considering interdisciplinary studies as one of its main axes of growth. Within this program, the PhD fellow will sign a three-year work contract. They will enroll the ICN PhD program offering personalized follow-up to the students, a wide spectrum of scientific and professional training activities including specialized courses and career development activities and interactions with multi-disciplinary researchers at Aix-Marseille University and top world-wide visiting speakers, in a vibrant international community of students.
+This project is funded by the Aix-Marseille Université, which was awarded the prestigious status of "Excellence Initiative" (A*MIDEX) by the French Government and considering interdisciplinary studies as one of its main axes of growth. Within this program, the PhD fellow will sign a three-year work contract. They will enroll the ICN PhD program offering personalized follow-up to the students, a wide spectrum of scientific and professional training activities including specialized courses and career development activities and interactions with multi-disciplinary researchers at Aix-Marseille University and top world-wide visiting speakers, in a vibrant international community of students.
 
 
-Acknowledgement
+## Acknowledgement
 
-    This work was supported by the Ph.D. program in Integrative and Clinical Neuroscience (formerly "Ph.D. program in Integrative and Clinical Neuroscience").
-    It received funding by the Aix-Marseille Université through the prestigious status of "Excellence Initiative" (A*MIDEX) awarded by the French Government.     
+This work was supported by the Ph.D. program in Integrative and Clinical Neuroscience (formerly "Ph.D. program in Integrative and Clinical Neuroscience"). It received funding by the Aix-Marseille Université through the prestigious status of "Excellence Initiative" (A*MIDEX) awarded by the French Government.     
