@@ -36,7 +36,7 @@ user_groups = ["Alumni"]
   link = "https://scholar.google.co.uk/citations?user=oHLjQTEAAAAJ"
 
 [[social]]
-  icon = "github"
+  icon = "linkedin"
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/mina-a-khoei-58673526"
 
