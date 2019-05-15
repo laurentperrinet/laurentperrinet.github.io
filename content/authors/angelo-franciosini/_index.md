@@ -30,7 +30,7 @@ tags = ["phd-icn"]
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://www.researchgate.net/profile/AngeloFranciosini"
+  link = "https://github.com/AngeloFranciosini"
 
 [[social]]
   icon = "researchgate"
