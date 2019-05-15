@@ -8,6 +8,12 @@
   url = "#about"
   weight = 10
 
+
+[[main]]
+  name = "People"
+  url = "#people"
+  weight = 15
+
 [[main]]
   identifier = "pub"
   name = "Publications"
