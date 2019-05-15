@@ -41,11 +41,16 @@ link = "https://github.com/VictorBoutin"
   icon_pack = "ai"
   link = "https://www.researchgate.net/profile/Angelo_Franciosini"
 
-
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
   link = "https://twitter.com/RaguDellaNonna"
+
+
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/angelo-franciosini-325900132"
 
 +++
 
