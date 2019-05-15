@@ -18,6 +18,8 @@ bio = "During my PhD, I focused on predictive coding in a bio-inspired neural ne
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups = ["Alumni"]
 
+tags = ["phd-icn"]
+
 # List qualifications (such as academic degrees)
 
 [[education.courses]]
