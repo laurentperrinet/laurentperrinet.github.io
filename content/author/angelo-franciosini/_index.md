@@ -26,9 +26,26 @@ user_groups = ["Alumni"]
   year = 2014
 
 [[social]]
+icon = "github"
+icon_pack = "fab"
+link = "https://github.com/VictorBoutin"
+
+
+[[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/VictorBoutin"
+  link = "https://www.researchgate.net/profile/AngeloFranciosini"
+
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/Angelo_Franciosini"
+
+
+[[social]]
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "https://twitter.com/RaguDellaNonna"
 
 +++
 

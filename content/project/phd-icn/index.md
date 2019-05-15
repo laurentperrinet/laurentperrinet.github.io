@@ -12,7 +12,7 @@ summary = "A grant from the Ph.D. program in Integrative and Clinical Neuroscien
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["grant", "current-grant", "phd-icn"]
 
-authors = ["angelo-franciosini"]
+authors = ["angelo-franciosini", "laurent-u-perrinet"]
 
 +++
 
