@@ -75,7 +75,7 @@ Finally, those two tasks converge to a long-term goal of '''understanding the im
 
 ### Feasibility
 
- The project is based on existing expertise and libraries in computer vision and computational neuroscience. The extension of this expertise to the dynamical domain will be made possible thanks to an existing collaboration ([[http://www.cmla.ens-cachan.fr/version-francaise/haut-de-page/annuaire/morel-jean-michel-780.kjsp|JM Morel at ENS-Cachan]], [[http://www.gpeyre.com/|G Peyré at ENS-Ulm]]). The groundbreaking nature of the work takes advantage of the interaction with  neurophysiological and psychophysical experiments thanks to the use of synthetic textures (collaboration with F Chavane, INT; Y Fregnac, UNIC) as planned in a the parallel (approved) grant [[TagAnrHorizontalV1|Horizontal-V1]].
+ The project is based on existing expertise and libraries in computer vision and computational neuroscience. The extension of this expertise to the dynamical domain will be made possible thanks to an existing collaboration ([JM Morel at ENS-Cachan](http://www.cmla.ens-cachan.fr/version-francaise/haut-de-page/annuaire/morel-jean-michel-780.kjsp), [G Peyré at ENS-Ulm](http://www.gpeyre.com)). The groundbreaking nature of the work takes advantage of the interaction with  neurophysiological and psychophysical experiments thanks to the use of synthetic textures (collaboration with F Chavane, INT; Y Fregnac, UNIC) as planned in a the parallel (approved) grant [Horizontal-V1](https://laurentperrinet.github.io/project/anr-horizontal-v1/).
 
 ### References
 
