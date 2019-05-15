@@ -10,7 +10,7 @@ summary = "ANR CausaL (2018/2022) : Cognitive​ ​architectures​ ​of​ Ca
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant"]
+tags = ["grant", "current-grant"]
 
 +++
 

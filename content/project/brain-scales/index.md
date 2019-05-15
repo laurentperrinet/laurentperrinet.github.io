@@ -10,7 +10,7 @@ summary = "BrainScaleS: Brain-inspired multiscale computation in neuromorphic hy
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant"]
+tags = ["grant", "past-grant"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

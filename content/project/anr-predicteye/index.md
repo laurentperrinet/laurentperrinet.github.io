@@ -10,7 +10,7 @@ summary = "ANR PredictEye (2018/2022) : Mapping and predicting trajectories for 
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant"]
+tags = ["grant", "current-grant"]
 
 
 +++

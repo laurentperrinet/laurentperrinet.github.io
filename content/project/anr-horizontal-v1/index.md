@@ -10,7 +10,7 @@ summary = "ANR Horizontal-V1 (2017/2021): Connectivité Horizontale et Prédicti
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant"]
+tags = ["grant", "current-grant"]
 
 
 +++

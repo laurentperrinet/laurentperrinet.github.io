@@ -10,7 +10,7 @@ summary = "Algorithmes événementiels d’Intelligence Artificielle / Event-Bas
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant"]
+tags = ["grant", "current-grant"]
 
 
 +++

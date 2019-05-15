@@ -10,7 +10,7 @@ summary = "ANR SPEED: Traitement de la vitesse dans les scènes visuelles nature
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant"]
+tags = ["grant", "past-grant"]
 
 
 +++

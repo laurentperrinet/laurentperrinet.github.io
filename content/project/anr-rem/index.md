@@ -10,7 +10,7 @@ summary = "ANR REM : Renforcement et mouvements oculaires (2013/2016)."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant"]
+tags = ["grant", "past-grant"]
 
 
 +++

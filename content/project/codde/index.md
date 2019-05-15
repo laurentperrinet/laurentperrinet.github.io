@@ -10,7 +10,7 @@ summary = "CODDE: understanding brain and behaviour (2008/2012)."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant"]
+tags = ["grant", "past-grant"]
 
 
 +++
