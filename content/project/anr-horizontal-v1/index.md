@@ -12,7 +12,6 @@ summary = "ANR Horizontal-V1 (2017/2021): Connectivité Horizontale et Prédicti
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["grant", "current-grant"]
 
-
 +++
 
 * Description on the official website of the [ANR](http://www.agence-nationale-recherche.fr/Project-ANR-17-CE37-0006)
@@ -40,6 +39,6 @@ Similarly, we expect to see that the different independent features should decom
 
 The second task is more data-driven (as well as phenomenological for the feedback circuit part, since largely unknown). Since simulations will depend on close interactions with WP1 and WP2 measurements, it will be developed by the WP3-Post-Doc in the second half of the grant. It will benefit from existing structuro-functional models addressing separately two distinct levels of neural integration, microscopic (conductance-based in Kremkow et al, 2016; Antolik et al, submitted, Chariker et al, 2016) and mesoscopic (VSD-like mean field in Rankin and Chavane, 2017). Efforts will be made to merge these models to fit - in a unified multiscale biologically realistic model - the cellular and VSD data targeting critically horizontal propagation. The parameterization should be flexible enough to produce a generic cortical architecture accounting possibly for species-specificity (Antolik for cat; Chaliker for monkey)
 
-Acknowledgement
+## Acknowledgement
 
-    This work was supported by ANR project "Horizontal-V1" N° ANR-17-CE37-0006.
+This work was supported by ANR project "Horizontal-V1" N° ANR-17-CE37-0006.

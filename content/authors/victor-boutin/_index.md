@@ -9,7 +9,7 @@ authors = ["victor-boutin"]
 superuser = false
 
 # Role/position
-role = "Phd in Computational Neuroscience"
+role = "Phd candidate in Computational Neuroscience"
 
 # Short bio (displayed in user profile at end of posts)
 bio = "During my PhD, I focused on predictive coding in a bio-inspired neural network."
