@@ -24,15 +24,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
-a  Research interests
+
   [[content.filter_button]]
     name = "Grants"
     tag = "grant"
-
-  [[content.filter_button]]
-    name = "Research interests"
-    tag = "research-interests"
-
 
   [[content.filter_button]]
     name = "Current Grants"
@@ -42,6 +37,10 @@ a  Research interests
   [[content.filter_button]]
     name = "Past Grants"
     tag = "past-grant"
+
+  [[content.filter_button]]
+    name = "Research interests"
+    tag = "research-interests"
 
   [[content.filter_button]]
     name = "Other"
