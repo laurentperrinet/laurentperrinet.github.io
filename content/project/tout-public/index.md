@@ -10,7 +10,7 @@ summary = "Listes d'actions destinées à la culture scientifique et au public e
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["EtienneRey", "PollyMaggoo"]
+tags = ["research-interests", "EtienneRey", "PollyMaggoo"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://invibe.net/LaurentPerrinet/TagToutPublic"
