@@ -25,7 +25,7 @@ authors = ["laurent-u-perrinet"]
 
 * "Man's maturity is to have regained the seriousness that he had as a child at play." (Friedrich Nietzsche)
 
-* "There are 10 types of people in the world. Those who understand binary, those who don't, those who weren't expecting a base 8 joke, and 5 other types of people." [[http://unix.stackexchange.com/questions/178162/why-does-bash-think-016-1-15|John Story]]
+* "There are 10 types of people in the world. Those who understand binary, those who don't, those who weren't expecting a base 8 joke, and 5 other types of people." [John Story](http://unix.stackexchange.com/questions/178162/why-does-bash-think-016-1-15)
 
 * "Ce qui fut se refait; tout coule comme une eau / Et rien dessous le Ciel ne se voit de nouveau/ Mais la forme se change en une autre nouvelle/ Et ce changement-là. Vivre au monde s'appelle" - Ronsard, Hymnes.
 
@@ -47,7 +47,7 @@ authors = ["laurent-u-perrinet"]
 
 * "voir des objets ne consiste pas à en extraire des traits visuels, mais à guider visuellement l'action dirigée vers eux."  (Francisco Varela in ''L'inscription corporelle de l'esprit'')
 
-* "la mémoire n’est pas faite pour se rappeler du passé mais pour prédire le futur." ([[http://dpea-archi.philo.over-blog.com/article-interview-de-alain-berthoz-par-thierry-paquot-61601814.html|Alain Berthoz]] , 2010)
+* "la mémoire n’est pas faite pour se rappeler du passé mais pour prédire le futur." ([Alain Berthoz](http://dpea-archi.philo.over-blog.com/article-interview-de-alain-berthoz-par-thierry-paquot-61601814.html) , 2010)
 
 * In the days when the Sussman was a novice, Minsky once came to him as he sat hacking at the PDP-6. "What are you doing?", asked Minsky. "I am training a randomly wired neural net to play Tic-tac-toe", Sussman replied. "Why is the net wired randomly?", asked Minsky. "I do not want it to have any preconceptions of how to play", Sussman said. Minsky then shut his eyes. "Why do you close your eyes?" Sussman asked his teacher. "So that the room will be empty." At that moment, Sussman was enlightened.
 
@@ -63,7 +63,7 @@ authors = ["laurent-u-perrinet"]
 
 * "In theory there is no difference between theory and practice. In practice there is." Yogi Berra
 
-* "Les décorations, c'est comme les bombes, ça tombe toujours sur ceux qui ne les méritent pas" [[http://www.lemonde.fr/societe/article/2010/03/22/proces-viguier-deux-hommes-en-colere_1322481_3224_1.html|Me Dupond-Moretti]]
+* "Les décorations, c'est comme les bombes, ça tombe toujours sur ceux qui ne les méritent pas" [Me Dupond-Moretti](http://www.lemonde.fr/societe/article/2010/03/22/proces-viguier-deux-hommes-en-colere_1322481_3224_1.html)
 
 * "Science is what we understand well enough to explain to a computer. Art is everything else we do." D. Knuth, foreword to "A=B" (1995)
 
@@ -79,7 +79,7 @@ authors = ["laurent-u-perrinet"]
 
 * "In the past the man has been first, in the future the system must be first." (F. Taylor)
 
-* "L'autorité n'admet que deux rôles : le bourreau et la victime, transforme les gens en poupées qui ne connaissent plus que peur et haine, tandis que la culture plonge dans les abysses. L'autorité déforme ses enfants et change leur amour en un combat de coq... L'effondrement de l'autorité aura des répercussions sur le bureau, l'église et l'école. Tout est lié. L'égalité et la liberté ne sont pas des luxes que l'on écarte impunément. Sans ceux-ci, l'ordre ne peut survivre longtemps sans se rapprocher de profondeurs inimaginables." Alan Moore, [[http://fr.wikipedia.org/wiki/V_pour_Vendetta|V pour Vendetta]]
+* "L'autorité n'admet que deux rôles : le bourreau et la victime, transforme les gens en poupées qui ne connaissent plus que peur et haine, tandis que la culture plonge dans les abysses. L'autorité déforme ses enfants et change leur amour en un combat de coq... L'effondrement de l'autorité aura des répercussions sur le bureau, l'église et l'école. Tout est lié. L'égalité et la liberté ne sont pas des luxes que l'on écarte impunément. Sans ceux-ci, l'ordre ne peut survivre longtemps sans se rapprocher de profondeurs inimaginables." Alan Moore, [V pour Vendetta](http://fr.wikipedia.org/wiki/V_pour_Vendetta)
 
 * "In a widely circulated joke [from the days of the first computer], a group of engineers assemble the most powerful computer that had ever been conceived and ask it the ultimate question: Is there a God? After several tense minutes of clicking and clacking and flashing of lights, a card pops out which reads: There is ''now''." (Alwyn Scott in ''How Smart is a Neuron?'' in A Review of Christof Kochs' ''Biophysics of Computation'' )
 
@@ -121,7 +121,7 @@ authors = ["laurent-u-perrinet"]
 
 * "I have come to believe that the whole world is an enigma, a harmless enigma that is made terrible by our own mad attempt to interpret it as though it had an underlying truth."  -- Umberto Eco
 
-* Nos idées doivent être aussi vastes que la nature pour pouvoir en rendre compte." [[http://www.evene.fr/citations/auteur.php?ida=813&celebrite=arthur-conan-doyle|Arthur Conan Doyle]]
+* Nos idées doivent être aussi vastes que la nature pour pouvoir en rendre compte." [Arthur Conan Doyle](http://www.evene.fr/citations/auteur.php?ida=813&celebrite=arthur-conan-doyle|)
 
 * "Tout le monde savait que ce truc là était impossible a faire. Jusqu'au jour ou est arrivé quelqu'un qui ne le savait pas, et qui l'a fait." Winston Churchill
 
@@ -137,7 +137,7 @@ authors = ["laurent-u-perrinet"]
 
 * Bayes maxim : "condition the joint probability on what we know and marginalize on what we don't care" John Coughlan (in prob. models / kersten)
 
-* Monty Python's "Life of Brian":{{{(Brian)-"You are all individuals!" (crowd)-"We are all individuals!"(Brian)-"You have to be different!" (crowd)-"Yes, we are all different!" (loner)-"I'm not."}}}
+* Monty Python's "Life of Brian": {{{(Brian)-"You are all individuals!" (crowd)-"We are all individuals!"(Brian)-"You have to be different!" (crowd)-"Yes, we are all different!" (loner)-"I'm not."}}}
 
 * Monty Python's "Life of Brian": (Brian:) "You have to work it out for yourselves!" (Crowd:) "Yes, we have to work it out for ourselves... (silence) Tell us more!"
 
