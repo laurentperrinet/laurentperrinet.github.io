@@ -49,8 +49,7 @@ Wahiba hold the postdoctoral position at the ["Institut de Neurosciences de la T
  * The work is done in collaboration with a post-doc in physiology, with Frederic Chavane, that focused on the role of propagation and diffusion of activity at the level of neuronal population in V1 of awake monkeys (using Voltage-sensitive dye imaging and UTAH array recording).
 
 ## Context
-[[https://brainscales.kip.uni-heidelberg.de/index.html|{{https://brainscales.kip.uni-heidelberg.de/images/thumb/e/e2/Public--BrainScalesLogo.svg/100px-Public--BrainScalesLogo.svg.png||width=5%, align="right"}}]] This grant was funded by a large European integrated project called "[BrainScales](https://brainscales.kip.uni-heidelberg.de/index.html)" whose aim is to understand brain information processing at multiple spatial and temporal scales. The successful applicants will have the opportunity to interact with a large and exciting consortium composed of 18 europeans teams working in biology, modeling and hardware.
-
+{{< figure src="https://brainscales.kip.uni-heidelberg.de/images/thumb/e/e2/Public--BrainScalesLogo.svg/100px-Public--BrainScalesLogo.svg.png" title="This grant was funded by a large European integrated project called [BrainScales](https://brainscales.kip.uni-heidelberg.de/index.html) whose aim is to understand brain information processing at multiple spatial and temporal scales. The successful applicants will have the opportunity to interact with a large and exciting consortium composed of 18 europeans teams working in biology, modeling and hardware." numbered="false" >}}
 
  References::
 

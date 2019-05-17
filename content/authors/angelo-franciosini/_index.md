@@ -51,7 +51,7 @@ tags = ["phd-icn"]
 
 # Trajectories in natural images and the sensory processing of contours (PhD position, 2017 / 2021)
 
-* Venue: Aix-Marseille Université's [[TagIcnPhdProgram|Neuroschool PhD program in Neuroscience]] (formerly known as "Ph.D. program in Integrative and Clinical Neuroscience")
+* Venue: Aix-Marseille Université's [Neuroschool PhD program in Neuroscience](https://laurentperrinet.github.io/project/phd-icn/) (formerly known as "Ph.D. program in Integrative and Clinical Neuroscience")
 
 * Keywords: Vision, Neural Networks, Bio-Inspired Computer Vision, contours, learning
 
