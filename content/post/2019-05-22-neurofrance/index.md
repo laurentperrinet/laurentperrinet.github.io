@@ -35,7 +35,6 @@ authors = ["laurent-u-perrinet"]
 * L. Perrinet (Marseille)
 
 
-
 ### S17.4 	Is laziness contagious? A computational approach to attitude alignment / La fainéantise est-elle contagieuse? Une approche computationnelle de l´alignement des attitudes
 
 * J. Daunizeau (Paris)
