@@ -2,7 +2,7 @@
 title = "*Active Inference*: Theoretical neuroscience Symposium at NeuroFrance 2019"
 summary = "We organize a Symposium at NeuroFrance 2019 entitled Active Inference: Bridging theoretical and experimental neurosciences. This is part of a series of theoretical neuroscience symposia organized in this international conference from the french Neursocience Society."
 
-date = 2019-05-22T00:00:00
+date = 2019-05-20T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -19,13 +19,13 @@ categories = []
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 # projects = ["internal-project"]
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = ""
@@ -57,7 +57,7 @@ categories = []
 ### S17.3 	Principles and psychophysics of active inference in anticipating a dynamic, switching probabilistic bias / Principes et psychophysique de l'inférence active dans l´estimation d'un biais dynamique et volatile de probabilité
 
 * L. Perrinet (Marseille)
-* see more info on this [talk]({{< ref "/talk/2019-05-23-neurofrance/index.md" >}}) 
+* see more info on this [talk]({{< ref "/talk/2019-05-23-neurofrance/index.md" >}})
 
 
 ### S17.4 	Is laziness contagious? A computational approach to attitude alignment / La fainéantise est-elle contagieuse? Une approche computationnelle de l´alignement des attitudes
