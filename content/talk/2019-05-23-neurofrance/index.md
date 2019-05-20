@@ -10,3 +10,5 @@ event = "Colloque international de la Société des Neurosciences 2019 (NeuroFra
 projects = [ "pace-itn",]
 publishDate = "2019-01-01"
 +++
+
+* This is part of the [Active Inference symposium]({{< ref "/post/2019-05-23-neurofrance/index.md" >}}) @ [NeuroFrance](https://www.neurosciences.asso.fr/V2/colloques/SN19/)
