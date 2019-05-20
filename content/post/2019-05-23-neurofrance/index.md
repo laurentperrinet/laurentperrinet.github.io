@@ -3,12 +3,36 @@ title = "*Active Inference*: Theoretical neuroscience Symposium at NeuroFrance 2
 summary = "We organize a Symposium at NeuroFrance 2019 entitled Active Inference: Bridging theoretical and experimental neurosciences. This is part of a series of theoretical neuroscience symposia organized in this international conference from the french Neursocience Society."
 
 date = 2019-05-22T00:00:00
-lastmod = 2019-05-22T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["laurent-u-perrinet"]
 
+# Is this a featured post? (true/false)
+featured = false
+
+# Tags and categories
+# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+categories = []
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+# projects = ["internal-project"]
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
 +++
 
 
