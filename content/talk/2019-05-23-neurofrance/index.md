@@ -9,8 +9,8 @@ url_pdf = "https://laurentperrinet.github.io/talk/2019-05-23-neurofrance"
 event = "Colloque international de la Société des Neurosciences 2019"
 projects = [ "pace-itn",]
 publishDate = "2019-01-01"
-url_slides = "https://laurentperrinet.github.io/2019-05-23_Neurofrance"
-url_code = "https://github.com/laurentperrinet/2019-05-23_Neurofrance/"
+url_slides = "https://invibe.github.io/2019-05-23_Neurofrance"
+url_code = "https://github.com/invibe/2019-05-23_Neurofrance/"
 location = "Marseille (France)"
 +++
 
