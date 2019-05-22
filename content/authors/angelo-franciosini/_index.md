@@ -23,9 +23,9 @@ tags = ["phd-icn"]
 # List qualifications (such as academic degrees)
 
 [[education.courses]]
-  course = "Phd in Computational Neuroscience"
+  course = "Phd candidate in Computational Neuroscience"
   institution = "Aix-Marseille Université"
-  year = 2014
+  year = 2021
 
 [[social]]
   icon = "github"
