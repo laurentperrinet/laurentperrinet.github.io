@@ -56,7 +56,6 @@ tags = ["phd-icn"]
 * Keywords: Vision, Neural Networks, Bio-Inspired Computer Vision, contours, learning
 
 * Thesis director: Dr. Laurent PERRINET, Director's research unit: Institut de Neurosciences de la Timone (INT)
-* Thesis co-supervisition: Dr. Franck RUFFIER Co-director's research unit: Institut des Sciences du Mouvement (ISM)
 
 ##  Description of the PHD thesis project
 
