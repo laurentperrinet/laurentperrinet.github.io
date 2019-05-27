@@ -11,3 +11,8 @@ url_pdf = "http://www.citeulike.org/user/LaurentPerrinet/article/12281049"
 doi = "10.1016/j.jphysparis.2013.08.001"
 projects = [ "facets-itn",]
 +++
+
+
+* Based on [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})
+
+* See a followup in [Khoei et al, 2013]({{< ref "/publication/khoei-13-jpp" >}})

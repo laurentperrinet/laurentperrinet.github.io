@@ -9,3 +9,7 @@ tags = [ "bayesian models", "motion prediction",]
 url_pdf = "https://invibe.net/LaurentPerrinet/Publications/Khoei11ecvp?action=AttachFile&do=view&target=Khoei11ecvp_poster.pdf"
 projects = [ "facets", "facets-itn",]
 +++
+
+* Based on [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})
+
+* See a followup in [Khoei et al, 2013]({{< ref "/publication/khoei-13-jpp" >}})
