@@ -10,3 +10,5 @@ tags = [ "aperture problem", "Bayesian model", "motion prediction", "predictive 
 url_pdf = "https://laurentperrinet.github.io/publication/masson-12-areadne"
 projects = [ "codde",]
 +++
+
+* See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

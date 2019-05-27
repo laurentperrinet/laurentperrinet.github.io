@@ -12,3 +12,5 @@ url_slides = "https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-pro
 projects = [ "anr-bala-v1", "brain-scales",]
 publishDate = "2016-01-01"
 +++
+
+* See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

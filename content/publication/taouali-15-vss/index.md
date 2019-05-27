@@ -11,3 +11,6 @@ doi = "10.1167/15.12.484"
 projects = [ "anr-bala-v1", "brain-scales",]
 tags = [ "coding decoding",]
 +++
+
+
+* This is a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

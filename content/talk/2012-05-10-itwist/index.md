@@ -12,3 +12,6 @@ event_url = "https://sites.google.com/site/itwist1st/home"
 url_slides = "http://invibe.net/LaurentPerrinet/Presentations/2012-05-10?action=AttachFile&do=get&target=Perrinet12itwist.pdf"
 publishDate = "2012-01-01"
 +++
+
+
+* See a followup in [Perrinet and Bednar, 2015]({{< ref "/publication/perrinet-bednar-15" >}})

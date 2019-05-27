@@ -12,3 +12,6 @@ location = "IF 4.31/4.33, Institute for Adaptive and Neural Computation (ANC) @ 
 projects = [ "brain-scales",]
 publishDate = "2012-01-01"
 +++
+
+
+* See a followup in [Perrinet and Bednar, 2015]({{< ref "/publication/perrinet-bednar-15" >}})

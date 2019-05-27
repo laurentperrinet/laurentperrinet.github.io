@@ -11,3 +11,5 @@ url_pdf = "http://dx.doi.org/10.1167/14.10.1310"
 doi = "10.1167/14.10.1310"
 projects = [ "anr-bala-v1",]
 +++
+
+* See a followup in [Perrinet and Bednar, 2015]({{< ref "/publication/perrinet-bednar-15" >}})

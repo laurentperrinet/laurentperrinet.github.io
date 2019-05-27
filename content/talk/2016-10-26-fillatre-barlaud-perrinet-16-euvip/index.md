@@ -13,3 +13,5 @@ url_slides = "https://laurentperrinet.github.io/sciblog/files/2016-10-26_Fillatr
 url_code = "https://hal-amu.archives-ouvertes.fr/hal-01461404"
 publishDate = "2016-01-01"
 +++
+
+* See a followup in [Perrinet and Bednar, 2015]({{< ref "/publication/perrinet-bednar-15" >}})

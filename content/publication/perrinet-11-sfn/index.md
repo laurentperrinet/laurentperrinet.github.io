@@ -10,3 +10,6 @@ tags = [ "motion-clouds",]
 url_pdf = "https://laurentperrinet.github.io/publication/perrinet-11-sfn"
 projects = [ "anr-bala-v1", "brain-scales",]
 +++
+
+
+* See a followup in [Perrinet and Bednar, 2015]({{< ref "/publication/perrinet-bednar-15" >}})

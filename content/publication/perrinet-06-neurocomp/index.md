@@ -9,3 +9,5 @@ publication = "*1ère conférence francophone NEUROsciences COMPutationnelles - 
 tags = [ "aperture problem", "Bayesian model", "eye movements", "matching pursuit", "motion detection",]
 projects = [ "facets",]
 +++
+
+* See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

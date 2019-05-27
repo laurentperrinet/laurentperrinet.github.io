@@ -10,3 +10,5 @@ event = "Society for Neuroscience Abstracts"
 location = "Washington, DC"
 publishDate = "2011-01-01"
 +++
+
+* See a followup in [Perrinet and Bednar, 2015]({{< ref "/publication/perrinet-bednar-15" >}})

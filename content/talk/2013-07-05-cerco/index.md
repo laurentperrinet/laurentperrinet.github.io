@@ -12,3 +12,5 @@ url_slides = "http://invibe.net/LaurentPerrinet/Presentations/2013-07-05_Cerco?a
 projects = [ "brain-scales",]
 publishDate = "2013-01-01"
 +++
+
+* See a followup in [Perrinet and Bednar, 2015]({{< ref "/publication/perrinet-bednar-15" >}})
