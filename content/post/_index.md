@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Events
 
 # View.
 #   1 = List
