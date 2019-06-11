@@ -11,6 +11,8 @@ authors = ["laurent-u-perrinet"]
 
 +++
 
+* "I do know what time is," Tubby declared. He paused. "Time," he added slowly -- "time is what keeps everything from happening at once. I know that--I seen it in print too." (Ray Cummings)
+
 * "You don’t see it because it’s there, it’s there because you see it."
 
 * "Ni rire, ni pleurer, ni haïr, mais comprendre" (Baruch Spinoza)
