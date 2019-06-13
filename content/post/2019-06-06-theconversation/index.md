@@ -35,6 +35,15 @@ projects = ["tout-public"]
   focal_point = ""
 +++
 
-https://laurentperrinet.github.io/2019-05_illusions-visuelles/
+Publication d'un nouvel article généraliste autour des "Illusions et hallucinations visuelles" à découvrir sur le site [TheConversation](https://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389):
 
-Les objectifs sont : – mieux comprendre la fonction de la perception visuelle en explorant certaines limites ; – mieux comprendre l’importance de l’aspect dynamique de la perception ; – mieux comprendre le rôle de l’action dans la perception.
+{{< tweet 1136743272024612886 >}}
+
+Les objectifs sont :
+– mieux comprendre la fonction de la perception visuelle en explorant certaines limites ;
+– mieux comprendre l’importance de l’aspect dynamique de la perception ;
+– mieux comprendre le rôle de l’action dans la perception.
+
+{{< tweet 1136989689867620353 >}}
+
+Une version étendue est accessible sur le [repo GitHub](https://laurentperrinet.github.io/2019-05_illusions-visuelles/), ainsi que les [sources](https://github.com/laurentperrinet/2019-05_illusions-visuelles).
