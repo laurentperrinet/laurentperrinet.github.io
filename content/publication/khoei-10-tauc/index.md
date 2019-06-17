@@ -5,7 +5,7 @@ authors = [ "Mina A Khoei", "Laurent U Perrinet", "Guillaume S Masson",]
 publication_types = [ "1",]
 featured = false
 publication = "*Proceedings of Tauc*"
-tags = [ " Bayesian model", "center-surround interactions", "motion prediction", "Ocular Following Response", "tracking eye movements", "Visual perception",]
+tags = [ "Bayesian model", "center-surround interactions", "motion prediction", "Ocular Following Response", "tracking eye movements", "Visual perception",]
 url_pdf = "http://invibe.net/LaurentPerrinet/Publications/Khoei10tauc"
 projects = [ "facets", "facets-itn",]
 +++
