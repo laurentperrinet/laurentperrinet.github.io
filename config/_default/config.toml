@@ -34,6 +34,7 @@ googleAnalytics = "UA-140381649-1"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 
+removePathAccents = true
 
 publishdir = "laurentperrinet.github.io"
 
