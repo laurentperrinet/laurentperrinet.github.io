@@ -7,4 +7,6 @@ abstract = "In computer vision, the visual search task consists in extracting a 
 featured = false
 publication = "*in preparation*"
 tags = [ "Active Inference", "Deep Learning", "Object localization", "Visual search", "Visuomotor control",]
+projects = [ "spikeai",]
+url_pdf = "https://github.com/laurentperrinet/WhereIsMyMNIST"
 +++
