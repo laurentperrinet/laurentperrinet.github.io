@@ -1,5 +1,5 @@
 +++
-title = "Feature detection using spikes : the greedy approach."
+title = "Feature detection using spikes : the greedy approach"
 date = 2004-07-18
 authors = [ "Laurent U Perrinet",]
 publication_types = [ "2",]

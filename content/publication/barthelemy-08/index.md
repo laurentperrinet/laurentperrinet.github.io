@@ -1,5 +1,5 @@
 +++
-title = "Dynamics of distributed 1D and 2D motion representations for short-latency ocular following."
+title = "Dynamics of distributed 1D and 2D motion representations for short-latency ocular following"
 date = 2008-02-18
 authors = [ "Frédéric V. Barthélemy", "Laurent U Perrinet", "Eric Castet", "Guillaume S Masson",]
 publication_types = [ "2",]

@@ -1,5 +1,5 @@
 +++
-title = "Effect of image statistics on fixational eye movements."
+title = "Effect of image statistics on fixational eye movements"
 date = 2012-01-01
 authors = [ "Claudio Simoncini", "Anna Montagnini", "Laurent U Perrinet", "Guillaume S Masson",]
 publication_types = [ "1",]
