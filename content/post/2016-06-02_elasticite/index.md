@@ -20,6 +20,7 @@ summary = "L'installation ''Elasticité dynamique'' agit comme un filtre et gén
 projects = ["art-science", "tout-public"]
 
 +++
+
 # Elasticité dynamique @  Fondation Vasarely à Aix-en-Provence
 
  * 2016, https://github.com/NaturalPatterns/elasticite
