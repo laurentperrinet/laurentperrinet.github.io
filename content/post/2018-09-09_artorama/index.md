@@ -10,7 +10,7 @@ draft = false
 authors = ["laurent-u-perrinet"]
 
 tags = ["art-science"]
-summary = "Create a beautifully simple website or blog in under 10 minutes."
+summary = "L'installation ''Elasticité dynamique'' agit comme un filtre et génère de nouveaux espaces démultipliés, comme un empilement quasi infini d'horizons. Par principe de réflexion, la pièce absorbe l'image de l'environnement et accumule les points de vue ; le mouvement permanent requalifie continuellement ce qui est regardé et entendu."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -30,15 +30,16 @@ Mécènes du Sud invite chaque année un artiste lauréat pour concevoir un stan
 
  - En collaboration avec le chercheur Laurent Perrinet, CNRS-AMU / Institut de Neurosciences de la Timone
 
-Links / Liens:
+## Links / Liens:
 
  - ART-O-RAMA - http://art-o-rama.fr/en
  - https://www.lemonde.fr/argent/article/2018/08/19/avec-art-o-rama-marseille-se-demarque-sur-le-marche-de-l-art_5343904_1657007.html
  - https://www.apollo-magazine.com/why-manifesta-makes-sense-in-marseille/
+ - Retour par [En revenant de l'expo !](https://www.enrevenantdelexpo.com/2018/09/07/retour-sur-art-o-rama-2018-j1-marseille-1er-partie/)
+
 
 ![Sortie modèle OptimalPacking](https://i0.wp.com/www.enrevenantdelexpo.com/wp-content/uploads/2018/09/Art-O-Rama-2018-M%C3%A9c%C3%A8nes-du-Sud-%C3%89ienne-Rey-01.jpg)
 
-Retour par [En revenant de l'expo !](https://www.enrevenantdelexpo.com/2018/09/07/retour-sur-art-o-rama-2018-j1-marseille-1er-partie/)
 
 
  - SALON INTERNATIONAL D'ART CONTEMPORAIN ART-O-RAMA
