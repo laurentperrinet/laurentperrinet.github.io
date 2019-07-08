@@ -1,5 +1,5 @@
 +++
-title = "Elasticité dynamique"
+title = "TROPIQUE"
 subtitle = "Sculpture immersive."
 date = 2016-04-20T00:00:00
 lastmod = 2018-01-13T00:00:00
@@ -52,7 +52,7 @@ Etienne Rey investigates the invisible and mutual relationships which take place
 
 Accueilli en résidence dans le cadre des résidences de recherche de l’IMéRA pendant 6 mois (3 périodes de 2 mois),et soutenu dans le cadre d'un Atelier de l'!EuroMéditerranée, ce projet est élaboré en collaboration avec des chercheurs. Nous abordons ainsi les questions de la cognition et de la perception de l’espace liées à la vue, à l’audition, et au déplacement, auxquelles nous lierons les questions relatives à la diffusion de phénomènes ondulatoires.
 
-## news 
+## news
 
 
 || [[http://ondesparalleles.org/projets/space-odyssey/|space odyssée]] a [[http://www.institutfrancais-seoul.com/portfolio-item/exposition-home-cinema/|l'institut francais en Coree du Sud de juin a octobre 2016]]||
