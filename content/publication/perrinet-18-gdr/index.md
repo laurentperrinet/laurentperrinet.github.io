@@ -10,3 +10,9 @@ tags = [ "motion anticipation",]
 url_pdf = "http://invibe.net/LaurentPerrinet/Publications/Perrinet18gdr"
 projects = [ "pace-itn",]
 +++
+
+ - poster presented @ [[https://gdrvision2018.sciencesconf.org/|GDR vision, Paris]].
+ - program : https://gdrvision2018.sciencesconf.org/data/pages/posters_GDRVision2018.pdf
+ - poster : https://github.com/laurentperrinet/Perrinet18gdr/raw/master/Perrinet18gdr.pdf
+ - poster (code) :  https://github.com/laurentperrinet/Perrinet18gdr/
+ - source code for this framework: https://github.com/laurentperrinet/CatchTheEye
