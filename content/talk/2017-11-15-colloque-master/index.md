@@ -11,3 +11,13 @@ location = "Aix-Marseille Université, Campus Saint-Charles, Salle des voûtes"
 url_slides = "https://laurentperrinet.github.io/sciblog/files/2017-11-15_ColloqueMaster.html"
 publishDate = "2017-01-01"
 +++
+
+## References
+
+ - unsupervised learning : [Perrinet (2010)](https://laurentperrinet.github.io/publication/perrinet-10-shl/)
+
+ - [Biologically inspired computer vision](https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/)
+
+  - supervised learning : https://www.nature.com/articles/srep11400 ([more info](https://laurentperrinet.github.io/publication/perrinet-bednar-15/))
+
+  - dynamics: Khoei et al (2017) - http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005068 ( [more info](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/) )
