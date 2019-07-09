@@ -6,7 +6,7 @@ publication_types = [ "1",]
 featured = false
 publication = "*Perception*"
 tags = [ "bayesian models", "motion prediction",]
-url_pdf = "https://invibe.net/LaurentPerrinet/Publications/Khoei11ecvp?action=AttachFile&do=view&target=Khoei11ecvp_poster.pdf"
+url_pdf = "https://laurentperrinet.github.io/publication/khoei-11-ecvp/"
 projects = [ "facets", "facets-itn",]
 +++
 

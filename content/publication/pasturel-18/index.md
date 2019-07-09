@@ -7,6 +7,6 @@ abstract = "Humans are able to accurately track a moving object with a combinati
 featured = false
 publication = ""
 tags = [ "motion anticipation",]
-url_pdf = "http://invibe.net/LaurentPerrinet/Publications/Pasturel18"
+url_pdf = "https://laurentperrinet.github.io/publication/pasturel-18"
 projects = [ "pace-itn",]
 +++

@@ -6,6 +6,6 @@ publication_types = [ "1",]
 featured = false
 publication = "*Proceedings of GDR Vision (Lyon, France)*"
 tags = [ "eye movements", "Smooth pursuit eye movement",]
-url_pdf = "http://invibe.net/LaurentPerrinet/Publications/Damasse14gdr"
+url_pdf = "https://laurentperrinet.github.io/publication/damasse-14-gdr"
 projects = [ "anr-rem",]
 +++

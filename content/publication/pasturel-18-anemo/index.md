@@ -6,6 +6,6 @@ publication_types = [ "1",]
 featured = false
 publication = "*Grenoble Workshop on Models and Analysis of Eye Movements, Grenoble, France*"
 tags = [ "motion anticipation",]
-url_pdf = "http://invibe.net/LaurentPerrinet/Publications/Pasturel18anemo"
+url_pdf = "https://laurentperrinet.github.io/publication/pasturel-18-anemo"
 projects = [ "pace-itn",]
 +++
