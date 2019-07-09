@@ -7,7 +7,7 @@ abstract = "Recording eye movements is a technique that attracts an increasing n
 featured = false
 publication = "*GDR Vision, Paris, 2018*"
 tags = [ "motion anticipation",]
-url_pdf = "http://invibe.net/LaurentPerrinet/Publications/Perrinet18gdr"
+url_pdf = "https://github.com/laurentperrinet/Perrinet18gdr"
 projects = [ "pace-itn",]
 +++
 

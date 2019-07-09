@@ -7,6 +7,6 @@ abstract = " The properties of motion processing for driving smooth eye movement
 featured = false
 publication = "*GDR Vision, Lille, 2017*"
 tags = [ "eye movements", "motion detection", "motion-clouds",]
-url_pdf = "http://invibe.net/LaurentPerrinet/Publications/Mansour17gdr"
+url_pdf = "https://laurentperrinet.github.io/publication/mansour-17-gdr"
 projects = [ "pace-itn",]
 +++

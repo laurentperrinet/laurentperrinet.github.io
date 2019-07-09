@@ -5,6 +5,6 @@ authors = [ "Angelo Franciosini", "Laurent U Perrinet",]
 publication_types = [ "1",]
 featured = false
 publication = "*Curves and Surfaces 2018, Arcachon*"
-url_pdf = "http://invibe.net/LaurentPerrinet/Publications/FranciosiniPerrinet18cs?action=AttachFile&do=get&target=2018-06-29_FranciosiniBoutinPerrinet18cs.pdf"
+url_pdf = "https://laurentperrinet.github.io/publication/franciosini-perrinet-18-cs/"
 projects = [ "doc-2-amu", "phd-icn",]
 +++

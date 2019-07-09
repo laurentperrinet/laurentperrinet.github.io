@@ -6,6 +6,6 @@ publication_types = [ "1",]
 featured = false
 publication = "*GDR Vision, Lille, 2017*"
 tags = [ "Bayesian model", "motion detection",]
-url_pdf = "http://invibe.net/LaurentPerrinet/Publications/Pasturel17gdr"
+url_pdf = "https://laurentperrinet.github.io/publication/pasturel-17-gdr"
 projects = [ "anr-rem",]
 +++

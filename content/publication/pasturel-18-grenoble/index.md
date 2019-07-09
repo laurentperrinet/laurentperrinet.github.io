@@ -7,6 +7,6 @@ abstract = "Humans are able to accurately track a moving object with a combinati
 featured = false
 publication = "*Grenoble Workshop on Models and Analysis of Eye Movements, Grenoble, France*"
 tags = [ "motion anticipation",]
-url_pdf = "http://invibe.net/LaurentPerrinet/Publications/Pasturel18grenoble"
+url_pdf = "https://laurentperrinet.github.io/publication/pasturel-18-grenoble"
 projects = [ "pace-itn",]
 +++
