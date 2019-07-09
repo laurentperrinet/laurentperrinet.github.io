@@ -12,9 +12,6 @@ summary = "Listes d'actions destinées à la culture scientifique et au public e
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["research-interests", "EtienneRey", "PollyMaggoo"]
 
-# Optional external URL for project (replaces project detail page).
-external_link = "https://invibe.net/LaurentPerrinet/TagToutPublic"
-
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
 [image]
