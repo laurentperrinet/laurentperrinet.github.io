@@ -9,36 +9,29 @@ publication = "**"
 projects = [ "tout-public",]
 event_url = "http://lesa.univ-amu.fr/?q=node/391"
 location = "Marseille, France"
-event = "in \\"La modélisation de la genèse physico-mathématique du vivant\\" / BIOMORPHISME ET CREATION ARTISTIQUExa0– Session 3"
 publishDate = "2018-01-01"
 url_pdf = "https://laurentperrinet.github.io/sciblog/files/2018-10-11_BioMorphisme.html"
+event = "in 'La modélisation de la genèse physico-mathématique du vivant' / BIOMORPHISME ET CREATION ARTISTIQUE Session 3"
 +++
 
 # La modélisation biomorphique de la perception visuelle
-
 ## in "La modélisation de la genèse physico-mathématique du vivant"
-
 ## BIOMORPHISME ET CREATION ARTISTIQUE – Session 3
-
   - Date  
     11 Octobre 2018
   - Atelier  
     Séminaire/workshop organisé dans le cadre du projet Biomorphisme.
     Approches sensibles et conceptuelles des formes du vivant
     <http://lesa.univ-amu.fr/?q=node/391> <http://centregranger.cnrs.fr>
-
   - Location  
     Bâtiment Egger, dans la salle E 215 (2ème étage côté voie ferrée) -
     3 avenue R. Schuman - Aix-en-Provence
-
   - Visuels  
     [HTML](https://laurentperrinet.github.io/sciblog/files/2018-10-11_BioMorphisme.html)
-
   - Organisation  
     Jean Arnaud, PR arts plastiques au LESA-AMU ; Julien Bernard, MCF
     philosophe des sciences au Centre GG Granger-AMU ; Sylvie Pic,
     artiste
-
   - Résumé  
     La vision utilise un faisceau d'informations de différentes qualités
     pour atteindre une perception unifiée du monde environnant. Elle
@@ -93,6 +86,5 @@ url_pdf = "https://laurentperrinet.github.io/sciblog/files/2018-10-11_BioMorphis
     les différentes méthodes utilisées, comme l'utilisation des limites
     perceptives, et aussi les résultats apportés par une telle
     collaboration.
-
   - Mots-Clés  
     art cinétique ; science ; vision ; perception ; modèle interne
