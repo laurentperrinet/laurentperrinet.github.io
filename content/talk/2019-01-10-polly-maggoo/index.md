@@ -1,5 +1,5 @@
 +++
-title = "Intervention"
+title = "Rencontre avec les collégiens marseillais"
 date = 2019-01-10T09:30:00
 authors = [ "Laurent U Perrinet",]
 publication_types = [ "1",]

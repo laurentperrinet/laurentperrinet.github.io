@@ -1,5 +1,5 @@
 +++
-title = "Intervention"
+title = "Intervention fête de la science 2018"
 date = 2018-10-10T18:30:00
 authors = [ "Laurent U Perrinet",]
 publication_types = [ "1",]

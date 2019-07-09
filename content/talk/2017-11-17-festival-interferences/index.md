@@ -1,5 +1,5 @@
 +++
-title = "Participation au jury"
+title = "Participation au jury du FESTIVAL INTERFÉRENCES\u200b"
 date = 2017-11-17T18:30:00
 authors = [ "Laurent U Perrinet",]
 publication_types = [ "1",]
@@ -15,7 +15,7 @@ publishDate = "2017-01-01"
 
 # FESTIVAL INTERFÉRENCES​
 ## Cinéma Documentaire et Débat Public
-| ![FESTIVAL INTERFÉRENCES​](https://static.wixstatic.com/media/e37617_35d8c5b48dd340a481db5f711aeaa35a~mv2_d_1772_2480_s_2.jpg/v1/fill/w_600,h_797,al_c,q_85,usm_0.66_1.00_0.01/e37617_35d8c5b48dd340a481db5f711aeaa35a~mv2_d_1772_2480_s_2.jpg "FESTIVAL INTERFÉRENCES​") |
+![FESTIVAL INTERFÉRENCES​](https://static.wixstatic.com/media/e37617_35d8c5b48dd340a481db5f711aeaa35a~mv2_d_1772_2480_s_2.jpg/v1/fill/w_600,h_797,al_c,q_85,usm_0.66_1.00_0.01/e37617_35d8c5b48dd340a481db5f711aeaa35a~mv2_d_1772_2480_s_2.jpg "FESTIVAL INTERFÉRENCES​")
 Le collectif Scènes Publiques composé de citoyens, chercheurs et
 cinéastes, organise la deuxième édition du Festival Interférences du 8
 au 18 novembre 2017 à Lyon. J'ai eu la chance de pouvoir participer au

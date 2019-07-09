@@ -1,5 +1,5 @@
 +++
-title = "Participation au jury"
+title = "Participation au jury et entretien avec Clara Delmon"
 date = 2016-11-20T09:00:00
 authors = [ "Laurent U Perrinet",]
 publication_types = [ "1",]
