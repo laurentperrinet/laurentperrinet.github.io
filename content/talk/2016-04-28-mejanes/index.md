@@ -17,7 +17,6 @@ publishDate = "2016-01-01"
 # Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
 ## Cycle de conférences "Tous connectés", Bibliothèque de Méjanes
 ![conférence tout public à la Bibliothèque de Méjanes (Aix-en-Provence, Avril 2016)](featured.jpg "conférence tout public à la Bibliothèque de Méjanes (Aix-en-Provence, Avril 2016)")
-
   - Date  
     28 Avril 2016
   - Location  

@@ -15,7 +15,6 @@ publishDate = "2010-01-01"
 
 # Diffraction monochromatique, spectre audiographique
 ![Diffraction](ttp://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg)
-
  - Diffraction est une sculpture en suspension composée d’une multitude de plaques de matière transparente et réfléchissante. L’installation met en jeu notre perception de l’espace par des phénomènes de résonance et de réflection de la lumière. Chaque lieu d’exposition donne à expérimenter et à élaborer, in situ, de nouvelles formes. A Seconde Nature, Etienne Rey abordera la relation entre le volume et le son en prenant comme base de construction un spectre audio, en collaboration avec l’artiste sonore Mathias Delplanque.
  - Live de Mathias Delplanque et rencontre autour de Diffraction, le Mercredi 14 avril 2010: A l’occasion de cette rencontre publique, quatre chercheurs spécialistes de l’architecture, de la perception, du son, et de la lumière exposeront depuis leurs domaines de recherches les processus engagés autour de Diffraction.`
   - Farid Ameziane, Ecole Nationale Supérieure d’Architecture de Marseille Luminy (EAML), Directeur de l’InsARTis, Marseille
@@ -30,7 +29,6 @@ publishDate = "2010-01-01"
  - 13100 Aix-en-Provence
  - (!) visitez le site de Seconde Nature
  ## notes de l'intervention de Laurent Perrinet
-
    - **Qu'est-ce que voir?** En perception, les neurones « parlent » tous
      en même temps par de brèves impulsions électrochimiques, générant un
      mélange de signaux, un bruit. Pourtant c'est par eux que nous
@@ -44,7 +42,6 @@ publishDate = "2010-01-01"
      logique du langage, dans cet algorithme, beaucoup d’autres chaînes
      et logiques se mêlent. Comment vont-elles « parler » entre elles ?
      Existe-t-il des **algorithmes biologiques** ?
-
 ![OUCHI](ouchi.jpg)
 Définir ce « langage », c'est comprendre comment une **somme
 d’informations locales** peut produire une **perception globale**.
@@ -56,7 +53,6 @@ les neurones pour communiquer (code neuronal ? existe-t-il un même
 exemple la sélectivité à l'orientation. Les phénomènes d’orientation
 sont radicaux à la fin de l’expérience, « gelant » son évolution. Un
 lien évident avec l’installation *Phytosphère* d’Etienne Rey.
-
 L’information dans le cerveau se propage **par diffusion, par
 diffraction** (contamination des informations entre neurones pour
 occuper l’espace), en **lien avec le travail sur la lumière d’Etienne
@@ -66,7 +62,6 @@ oculaire. Les neurosciences cherchent à savoir comment comprendre la
 **globalité par l'émergence**.
 Il y a donc une **superposition d’états**, comme dans la *diffraction*
 d’Etienne Rey.
-
 En perception, le mécanisme
 neuronal cherche à **sortir de l’ambiguïté** première quand il connaît
 une image : il **superpose** des particules élémentaires d'information,

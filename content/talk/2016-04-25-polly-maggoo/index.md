@@ -31,7 +31,6 @@ perception, ... et qui sont projetés lors de la séance, avec des élèves
 de 4e lors d’une séance Cinésciences au collège Clair Soleil, 53
 Boulevard Charles Moretti, 13014 Marseille. Une occasion aussi de parler
 du métier de chercheur.
-
   - Date  
     25 Avril 2016
   - Location  

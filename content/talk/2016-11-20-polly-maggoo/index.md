@@ -15,9 +15,7 @@ publishDate = "2016-01-01"
 +++
 
 # RENCONTRES INTERNATIONALES SCIENCES & CINÉMAS
-
 ## cinéma les Variétés
-
 ![http://pollymaggoo.org/wp-content/uploads/2016/10/RISC2016\_A3-724x1024.jpg](http://pollymaggoo.org/wp-content/uploads/2016/10/RISC2016_A3-724x1024.jpg
 "http://pollymaggoo.org/wp-content/uploads/2016/10/RISC2016_A3-724x1024.jpg")
 L'Association Polly Maggoo <http://www.pollymaggoo.org/> programme la
@@ -40,7 +38,6 @@ du métier de chercheur.
     "addendum" court métrage de Jérôme Lefdup et "Poétique du cerveau"
     long métrage de Nurith Aviv
 # entretien avec Clara Delmon
-
 L'occasion aussi d'un entretien avec Clara Delmon dans le cadre de son
 mémoire de DSAA (Diplôme Supérieur d’Arts Appliqués) mention Design
 Graphique à Marseille, disponible sur
