@@ -19,7 +19,7 @@ summary = "À la Fondation Vasarely à Aix-en-Provence, Etienne Rey a choisi d�
 #   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["art-science", "tout-public"]
+projects = ["art-science"]
 
 +++
 

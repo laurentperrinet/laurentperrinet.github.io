@@ -19,7 +19,7 @@ summary = "L’installation Turbulences explore l’émergence de caustiques, ph
 #   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["art-science", "tout-public"]
+projects = ["art-science"]
 
 +++
 

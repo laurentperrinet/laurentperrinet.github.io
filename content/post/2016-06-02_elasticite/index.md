@@ -17,7 +17,7 @@ summary = "L'installation ''Elasticité dynamique'' agit comme un filtre et gén
 #   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["art-science", "tout-public"]
+projects = ["art-science"]
 
 +++
 # Elasticité dynamique @  Fondation Vasarely à Aix-en-Provence

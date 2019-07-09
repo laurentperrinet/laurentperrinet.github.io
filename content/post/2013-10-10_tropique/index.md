@@ -17,7 +17,7 @@ summary = "Tropique is an immersive installation which puts in link the percepti
 #   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["art-science", "tout-public"]
+projects = ["art-science"]
 
 +++
 
