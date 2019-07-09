@@ -1,0 +1,19 @@
++++
+title = "Qui créera le premier ordinateur intelligent?"
+date = 2010-01-01
+authors = ["Laurent Perrinet"]
+publication_types = ["2"]
+abstract = ""
+featured = false
+publication = "*DocSciences*"
+url_pdf = "https://interstices.info/qui-creera-le-premier-ordinateur-intelligent/"
++++
+
+# Qui créera le premier ordinateur intelligent?
+
+Les ordinateurs classiques sont de plus en plus puissants, mais restent toujours aussi « stupides ». Impossible d’en trouver un avec lequel on puisse dialoguer de façon naturelle. Aucun système visuel artificiel ne voit aussi bien que nous, ou qu’une mouche ! Alors qui inventera le premier calculateur intelligent ?
+
+
+![Code neural](https://interstices.info/wp-content/uploads/jalios/intelligent/vision.jpg)
+Le code neural (En haut : © F. Chavane, en bas : © T. Bal).
+Le code neural est mieux compris grâce aux techniques d’imagerie récentes. Les neurosciences computationnelles permettent d’étudier les propriétés des réseaux de neurones.
