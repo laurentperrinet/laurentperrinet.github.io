@@ -1,5 +1,5 @@
 +++
-title = "Elasticité dynamique"
+title = "TRAMES"
 subtitle = "Installation à la Fondation Vasarely à Aix-en-Provence."
 
 
@@ -23,7 +23,7 @@ projects = ["art-science", "tout-public"]
 
 +++
 
- # Elasticité dynamique
+ # TRAMES
 
  À la Fondation Vasarely à Aix-en-Provence, Etienne Rey a choisi d’installer dans la salle des Intégrations architectoniques un ballet visuel hypnotique.
 
