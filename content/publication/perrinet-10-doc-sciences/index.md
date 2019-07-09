@@ -11,7 +11,6 @@ projects = [ "anr-rem", "pace-itn", "tout-public",]
 
 # Qui créera le premier ordinateur intelligent?
 Les ordinateurs classiques sont de plus en plus puissants, mais restent toujours aussi « stupides ». Impossible d’en trouver un avec lequel on puisse dialoguer de façon naturelle. Aucun système visuel artificiel ne voit aussi bien que nous, ou qu’une mouche ! Alors qui inventera le premier calculateur intelligent ?
-
 ![Code neural](featured.jpg)
 Le code neural (En haut : © F. Chavane, en bas : © T. Bal).
 Le code neural est mieux compris grâce aux techniques d’imagerie récentes. Les neurosciences computationnelles permettent d’étudier les propriétés des réseaux de neurones.
