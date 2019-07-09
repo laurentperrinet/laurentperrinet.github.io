@@ -140,7 +140,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
             metadata = page.split('+++')
             parsed_toml = toml.loads(metadata[1])
 
-            print('old_key =', old_key, 'dico[new_key]', dico[new_key])
+            print('new_key =', new_key, 'dico[new_key]', dico[new_key])
             old_key = dico[new_key]
             entry = bib_database.entries_dict[old_key]
             #bib_database.get_entry_dict()[old_key]
