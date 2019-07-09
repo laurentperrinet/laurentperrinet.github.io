@@ -1,17 +1,20 @@
 +++
 title = "Diffraction monochromatique, spectre audiographique"
-date = 2010-01-01
-authors = ["Laurent U Perrinet"]
-publication_types = ["1"]
+date = 2010-04-14T19:00:00
+authors = [ "Laurent U Perrinet",]
+publication_types = [ "1",]
 abstract = "En perception, les neurones « parlent » tous en même temps par de brèves impulsions électrochimiques, générant un mélange de signaux, un bruit. Pourtant c'est par eux que nous pensons, voyons, sentons. Les ordinateurs sont différents, plus rapides. Ils sont construits avec pour modèle la grammaire humaine autour d’une unité centrale, car on imaginait la cognition sous cet angle à leur invention. Le bit est le quantum d’un algorithme mécanique (thèse de Church-Turing). Une théorie tranche par rapport à la précédente, proposée par «von Neumann» : beaucoup d’unités sont présentes dans le cerveau. Comparée à la chaîne logique du langage, dans cet algorithme, beaucoup d’autres chaînes et logiques se mêlent. Comment vont-elles « parler » entre elles ? Existe-t-il des algorithmes biologiques ? "
 featured = false
 publication = "*intervention autour du vernissage de \"Diffraction monochromatique, spectre audiographique\" d'Etienne Rey. *"
+projects = [ "art-science", "tout-public",]
+event_url = "http://ondesparalleles.org/projets/vortex-polychromatique-diffraction/"
+location = "Aix-enProvence (France)"
+event = "intervention autour du vernissage de \\\"Diffraction monochromatique, spectre audiographique\\\" d'Etienne Rey. "
+publishDate = "2010-01-01"
 +++
 
 # Diffraction monochromatique, spectre audiographique
-
 ![Diffraction](ttp://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg)
-
 
  - Diffraction est une sculpture en suspension composée d’une multitude de plaques de matière transparente et réfléchissante. L’installation met en jeu notre perception de l’espace par des phénomènes de résonance et de réflection de la lumière. Chaque lieu d’exposition donne à expérimenter et à élaborer, in situ, de nouvelles formes. A Seconde Nature, Etienne Rey abordera la relation entre le volume et le son en prenant comme base de construction un spectre audio, en collaboration avec l’artiste sonore Mathias Delplanque.
  - Live de Mathias Delplanque et rencontre autour de Diffraction, le Mercredi 14 avril 2010: A l’occasion de cette rencontre publique, quatre chercheurs spécialistes de l’architecture, de la perception, du son, et de la lumière exposeront depuis leurs domaines de recherches les processus engagés autour de Diffraction.`
@@ -20,19 +23,13 @@ publication = "*intervention autour du vernissage de \"Diffraction monochromatiq
   - Fabrice Mortessagne, Directeur du laboratoire de Physique de la Matière Condensée (LPMC), Nice-Sophia Antipolis
   - Laurent Perrinet, Chercheur à l’Institut de Neurosciences Cognitives de Méditerranée, Equipe DyVA, Marseille
   - Modératrice : Colette Tron, Fondatrice d’Alphabetville, Marseille
-
  - Entrée libre & gratuite - 19h, durée 2h.
-
  - Renseignements pratiques :
-
  - Espace Sextius investi par Seconde Nature  :
  - 27bis rue du 11 novembre,
  - 13100 Aix-en-Provence
-
  - (!) visitez le site de Seconde Nature
-
  ## notes de l'intervention de Laurent Perrinet
-
 
    - **Qu'est-ce que voir?** En perception, les neurones « parlent » tous
      en même temps par de brèves impulsions électrochimiques, générant un
@@ -48,9 +45,7 @@ publication = "*intervention autour du vernissage de \"Diffraction monochromatiq
      et logiques se mêlent. Comment vont-elles « parler » entre elles ?
      Existe-t-il des **algorithmes biologiques** ?
 
-
 ![OUCHI](ouchi.jpg)
-
 Définir ce « langage », c'est comprendre comment une **somme
 d’informations locales** peut produire une **perception globale**.
 Comment en jouant avec les atomes du code, en les superposant, les «
@@ -62,7 +57,6 @@ exemple la sélectivité à l'orientation. Les phénomènes d’orientation
 sont radicaux à la fin de l’expérience, « gelant » son évolution. Un
 lien évident avec l’installation *Phytosphère* d’Etienne Rey.
 
-
 L’information dans le cerveau se propage **par diffusion, par
 diffraction** (contamination des informations entre neurones pour
 occuper l’espace), en **lien avec le travail sur la lumière d’Etienne
@@ -70,10 +64,8 @@ Rey.** L'image a besoin de 30 millisecondes pour se diffuser de l’œil
 vers l’arrière du crâne et 85 millisecondes pour produire un réflexe
 oculaire. Les neurosciences cherchent à savoir comment comprendre la
 **globalité par l'émergence**.
-
 Il y a donc une **superposition d’états**, comme dans la *diffraction*
 d’Etienne Rey.
-
 
 En perception, le mécanisme
 neuronal cherche à **sortir de l’ambiguïté** première quand il connaît
@@ -88,7 +80,6 @@ la sortie de l'ambiguité depuis l'image pixel vient de l'introduction de
 ces contraintes. Ainsi quand nous voyons un objet, nous le « capturons
 ». Quand nous sommes vus, nous cherchons à nous séparer de cette
 capture.
-
 Un problème classique est l'ambiguité du monde sensible. Une couleur que
 l’on ne voit pas va apparaître visuellement. **L’inpainting** créé une
 œuvre qui correspond à un mécanisme neuronal, cherchant à reproduire
@@ -103,9 +94,7 @@ mettre en lumière le symptome d**'autisme**. Dans un schéma montrant un
 bloc derrière un arbre, dépassant des deux côtés, sera découpé
 visuellement par l’autiste en plusieurs morceaux distincts. Il ne
 généralise pas l’information.
-
 ![diffractionFriche_0134.jpg](featured.jpg)
-
 Comment être sûr d’une perception globale
 en désignant les modules de l’installation d’Etienne Rey, ou signifiants
 des atomes, dans ce passage du local au global ? Les modules ne se
@@ -122,7 +111,6 @@ déplacement. En effet, les personnes penchent la tête dans
 l’installation s*pirale* en container, d’Etienne Rey, pour le festival
 Ozosphère à Strasbourg. Ce phénomène est à rattaché aux théories sur la
 perception.
-
 **Biographie** Laurent Perrinet, chercheur à l’Institut de Neurosciences
 Cognitives de la Méditerranée à Marseille, unité mixte du CNRS, aime
 citer « La vie de Brian » des Monty Python : (Brian:) "You have to work

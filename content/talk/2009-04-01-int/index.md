@@ -7,7 +7,7 @@ featured = false
 publication = ""
 projects = [ "facets",]
 publishDate = "2009-01-01"
-url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/09-04_INT"
+url_pdf = "https://laurentperrinet.github.io/talk/2008-04-01-incm/"
 +++
 
 * see this more recent talk @ [UCL, London]({{< ref "/talk/2012-01-12-vision-at-ucl/index.md" >}})
