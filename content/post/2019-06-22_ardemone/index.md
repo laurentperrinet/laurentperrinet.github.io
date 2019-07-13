@@ -26,7 +26,9 @@ projects = ["art-science"]
 
 # « Densité flou » (2019)
 
+
 ![Étienne Rey - Horizon faille - Densité flou, 2019 - Sans gravité - une poétique de l’air à - Ardenome - Avignon](https://www.enrevenantdelexpo.com/wp-content/uploads/2019/05/Étienne-Rey-Horizon-faille-Densité-flou-2019-Sans-gravité-une-poétique-de-l’air-à-Ardenome-Avignon-02.jpg)
+
 
 # « Tension superficielle » (2019)
 
