@@ -7,7 +7,7 @@ lastmod = 2018-01-13T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["laurent-u-perrinet"]
+authors = ["laurent-u-perrinet", "etienne-rey"]
 
 tags = ["art-science"]
 summary = "L’installation Turbulences explore l’émergence de caustiques, phénomènes caractéristiques de la relation entre l’eau, la lumière et l’air. Le mouvement y perturbe un état optique stable. La turbulence des plis lumineux donne l’illusion d’un corps flottant."

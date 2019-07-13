@@ -6,7 +6,7 @@ lastmod = 2018-01-13T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["laurent-u-perrinet"]
+authors = ["laurent-u-perrinet", "etienne-rey"]
 
 tags = ["art-science"]
 summary = "Tropique is an immersive installation which puts in link the perception of the space connected to the movement, to the light and to the sound."
