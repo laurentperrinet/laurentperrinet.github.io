@@ -43,6 +43,8 @@ Devant l’œuvre en constante métamorphose, l’alphabet plastique de Vasarely
 
 # Elasticité dynamique @  104 (Paris)
 
+{{< vimeo 150813922 >}}
+
  - LIEU:: NEMO, BIENNALE INTERNATIONALE DES ARTS NUMERIQUES - CENTQUATRE - 104
  - EXPOSITION : [Prosopopées : Quand les objets prennent vie](http://www.104.fr/programmation/evenement.html?evenement=518)
  - VERNISSAGE : SAMEDI 5 DÉCEMBRE 14h > 23h30
