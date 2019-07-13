@@ -1,0 +1,53 @@
++++
+title = "Sans gravité – une poétique de l’air"
+subtitle = "Sans gravité – une poétique de l’air – Ardenome à Avignon"
+
+date = 2016-04-20T00:00:00
+lastmod = 2018-01-13T00:00:00
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["laurent-u-perrinet", "etienne-rey"]
+
+tags = ["art-science"]
+summary = "L'installation ''Elasticité dynamique'' agit comme un filtre et génère de nouveaux espaces démultipliés, comme un empilement quasi infini d'horizons. Par principe de réflexion, la pièce absorbe l'image de l'environnement et accumule les points de vue ; le mouvement permanent requalifie continuellement ce qui est regardé et entendu."
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects = ["art-science"]
+
++++
+
+{{< vimeo 317504725 >}}
+
+# « Densité flou » (2019)
+
+![Étienne Rey - Horizon faille - Densité flou, 2019 - Sans gravité - une poétique de l’air à - Ardenome - Avignon](https://www.enrevenantdelexpo.com/wp-content/uploads/2019/05/Étienne-Rey-Horizon-faille-Densité-flou-2019-Sans-gravité-une-poétique-de-l’air-à-Ardenome-Avignon-02.jpg)
+
+# « Tension superficielle » (2019)
+
+![Étienne Rey – Horizon faille – Tension superficielle, 2019 – Sans gravité – une poétique de l’air à – Ardenome – Avignon](https://i1.wp.com/www.enrevenantdelexpo.com/wp-content/uploads/2019/05/%C3%89tienne-Rey-Horizon-faille-Tension-superficielle-2019-Sans-gravit%C3%A9-une-po%C3%A9tique-de-l%E2%80%99air-%C3%A0-Ardenome-Avignon-00_1.jpg)
+
+## SANS GRAVITÉ, UNE POÉTIQUE DE L'AIR - ETIENNE REY / MATHILDE LAVENNE / HUGO DEVERCHÈRE / EDITH DEKYNDT - 23 MARS > 22 JUIN 2019
+
+Sans Gravité a été conçue par EDIS dans le cadre de “Chroniques, Biennale des Imaginaires Numériques”, qui réunit un ensemble d’institutions culturelles de la Région PACA.
+Après Aix-Marseille, l’Ardenome à Avignon est la seconde étape
+de ce parcours régional.
+
+## Links / Liens:
+
+ - ardemone https://www.ardenome.fr/sans-gravite-ardenome-chroniques
+
+ - Retour par [En revenant de l'expo !](https://www.enrevenantdelexpo.com/2019/05/17/sans-gravite-une-poetique-de-air-ardenome-avignon/)
+
+
+
+
+ - SALON INTERNATIONAL D'ART CONTEMPORAIN ART-O-RAMA
+ - SALON : 31 AOÛT > 2 SEPTEMBRE 2018
+ - EXPOSITION > 9 SEPTEMBRE 2018
+ - ESPACE PARTENAIRES - J1, QUAI DE LA JOLIETTE, MARSEILLE 2e

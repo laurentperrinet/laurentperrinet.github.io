@@ -28,6 +28,8 @@ projects = ["art-science"]
 
  ![Sortie modèle](http://www.ran-dan.net/eng/wp-content/uploads/2012/01/E-REY-TropiqueS2-G-1024x576.jpg)
 
+ ![Tropique d'Etienne Rey La Coop 2012 / Crédits photo Philippe Groslier](https://www.ososphere.org/catalogue/wp-content/uploads/2016/05/tropique_rey_oso2012_groslier8_Web_nb.jpg)
+
 ''Etienne Rey investigates the invisible and mutual relationships which take place between human and his environment. [Prize-winner of the 1st call for projects of the RAN](http://digitalperformanceculture.blog.fr/2012/02/18/tropique-d-etienne-rey-12817804/), its project of immersive installation Tropique puts in link the perception of the space connected to the movement, to the light and to the sound. Within the framework of a residence of creation in the Centre des arts, the object of which is ” to sculpt the light “, he presents a work in progress of this installation.''
 
 ![Tropique](http://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_b.jpg)
