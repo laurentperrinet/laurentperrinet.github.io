@@ -72,6 +72,9 @@ Accueilli en résidence dans le cadre des résidences de recherche de l’IMéRA
  - Installation [Space Odyssey](http://ondesparalleles.org/projets/space-odyssey/) : Tournée en Corée avec Mac de Créteil en 2016 / dates et lieux à venir.
  - Installation [Space Odyssey](http://ondesparalleles.org/projets/space-odyssey/) : FESTIVAL VIA / MAUBEUGE / 12 AU 22 MARS 2015 - FESTIVAL EXIT / CRÉTEIL / 26 MARS AU 05 AVRIL 2015 - LE PRINTEMPS À SAINT SAUVEUR / LILLE / 27 AVRIL 2016 AU 28 AOÛT 2016 : [Home Cinema](http://www.maccreteil.com/fr/mac/event/338/Home-cinema-Festival-Exit#sthash.bEyRuaDX.dpuf). À lire, sur [digitatarti](http://www.digitalarti.com/fr/blog/digitalarti_mag/home_cinema_matiere_audiovisuelle_modulable_pour_hyper_spectateur).
 Installation [Tropique](http://ondesparalleles.org/projets/tropique-7/) : Festival international d’arts multidisciplinaires et électroniques [Le Mois Multi 16 / Québec du 4 février au 1 mars 2015](http://mmrectoverso.org/fr/mois-multi/spectacles/installations-2/tropique/)
+
+{{< youtube lA2bovigzLg >}}
+
  - Installation [Space Odyssey](http://ondesparalleles.org/projets/space-odyssey/) : Lille 3000, du 26 SEPT 2015 > 17 JAN 2016
  - Installation [Space Odyssey](http://ondesparalleles.org/projets/space-odyssey/) : FESTIVAL INTERNATIONAL EXIT 2015 Créteil du 26 MARS -> 05 AVRIL 2015
  - Installation [Space Odyssey](http://ondesparalleles.org/projets/space-odyssey/) : Festival Via 2015, Maubeuge du jeudi 12 mars 2015 au dimanche 22 mars 2015
