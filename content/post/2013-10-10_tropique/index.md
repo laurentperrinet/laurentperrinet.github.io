@@ -24,6 +24,8 @@ projects = ["art-science"]
 
 # TROPIQUE
 
+{{< vimeo 32459175 >}}
+
  * https://github.com/NaturalPatterns/Tropique
 
  ![Sortie modèle](http://www.ran-dan.net/eng/wp-content/uploads/2012/01/E-REY-TropiqueS2-G-1024x576.jpg)
@@ -43,6 +45,8 @@ projects = ["art-science"]
 
 Etienne Rey investigates the invisible and mutual relationships which take place between human and his environment. Prize-winner of the 1st call for projects of the RAN, its project of immersive installation Tropique puts in link the perception of the space connected to the movement, to the light and to the sound. Within the framework of a residence of creation in the Centre des arts, the object of which is ” to sculpt the light “, he presents a work in progress of this installation.''
 
+{{< vimeo 33718945 >}}
+
 
 ![Tropique](http://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_d.jpg)
 
@@ -55,6 +59,8 @@ Etienne Rey investigates the invisible and mutual relationships which take place
 Accueilli en résidence dans le cadre des résidences de recherche de l’IMéRA pendant 6 mois (3 périodes de 2 mois),et soutenu dans le cadre d'un Atelier de l'!EuroMéditerranée, ce projet est élaboré en collaboration avec des chercheurs. Nous abordons ainsi les questions de la cognition et de la perception de l’espace liées à la vue, à l’audition, et au déplacement, auxquelles nous lierons les questions relatives à la diffusion de phénomènes ondulatoires.
 
 ## news
+
+{{< vimeo 56198653 >}}
 
 
  - [space odyssée](http://ondesparalleles.org/projets/space-odyssey/) à [l'institut francais en Coree du Sud de juin a octobre 2016](http://www.institutfrancais-seoul.com/portfolio-item/exposition-home-cinema/)
