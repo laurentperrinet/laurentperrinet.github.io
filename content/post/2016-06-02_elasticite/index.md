@@ -51,6 +51,8 @@ Devant l’œuvre en constante métamorphose, l’alphabet plastique de Vasarely
  - EXPOSITION : DU 6 DÉCEMBRE 2015 AU 18 JANVIER 2016
  - VIDEOS : https://vimeo.com/150654250 : installation;  https://vimeo.com/146242233 : simulation, Crédits : Elasticité dynamique © Etienne Rey, Adagp Paris 2015
 
+ {{< youtube UvE3ysXieSk >}}
+
 ||<tablestyle="width: 90%; float: center; margin-left:20px; margin-right:20px; border-style: 0px;  font-size: 10pt;">{{http://www.lafriche.org/public_data/diapo/resident/1454686884/desk/2._elasticite_dynamique-etienne_rey-photoquentin_chevrier_pour_art2m_et_arcadi_ile_de_france.jpg
 
     Elasticité dynamique est composée des pièces Expansion, Trame et Lignes sonores. Volume hexagonal en miroir de 7 mètres de diamètre, Expansion fonctionne comme une chambre d'écho. A l'intérieur de ce volume se situe Trame. Constituée de 25 lames de miroir en rotation, cette pièce réoriente continuellement le regard. Quant à Lignes sonores, elle est formée de quatre monolithes orientés vers Expansion et émet des sons qui se réorientent en fonction du mouvement des lames. (© Etienne Rey, Adagp Paris 2015)''|width="100%"}}Elasticité dynamique est composée des pièces Expansion, Trame et Lignes sonores. <<BR>> Volume hexagonal en miroir de 7 mètres de diamètre, Expansion fonctionne comme une chambre d'écho. A l'intérieur de ce volume se situe Trame. Constituée de 25 lames de miroir en rotation, cette pièce réoriente continuellement le regard. Quant à Lignes sonores, elle est formée de quatre monolithes orientés vers Expansion et émet des sons qui se réorientent en fonction du mouvement des lames. <<BR>>(© Etienne Rey, Adagp Paris 2015)
