@@ -23,4 +23,5 @@ abstract = "In computer vision, the visual search task consists in extracting a 
 
  ![Results: failure to classify](https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-32.png)
 
- ![Results: failure to locate](https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-47.png)
+
+{{< figure src="https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-47.png" title="Results: failure to locate" >}}
