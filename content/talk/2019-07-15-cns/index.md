@@ -17,11 +17,10 @@ abstract = "In computer vision, the visual search task consists in extracting a 
 
  - download a [preliminary PDF](https://laurentperrinet.github.io/talk/2019-07-15-cns/2019-07-15-cns.pdf)
 
- ![Problem setting](https://raw.githubusercontent.com/SpikeAI/2019-07-15_CNS/master/figures/fig_intro.jpg)
+{{< figure src="https://raw.githubusercontent.com/SpikeAI/2019-07-15_CNS/master/figures/fig_intro.jpg" title="Problem setting" >}}
 
- ![Results: success](https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-20.png)
+{{< figure src="https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-20.png" title="Results: success" >}}
 
- ![Results: failure to classify](https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-32.png)
-
+{{< figure src="https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-32.png" title="Results: failure to classify" >}}
 
 {{< figure src="https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-47.png" title="Results: failure to locate" >}}
