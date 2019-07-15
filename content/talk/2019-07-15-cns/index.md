@@ -16,3 +16,4 @@ abstract = "In computer vision, the visual search task consists in extracting a 
 +++
 
  - download a [preliminary PDF](https://laurentperrinet.github.io/talk/2019-07-15-cns/2019-07-15-cns.pdf)
+ - download a [preliminary PDF]({{< relref "2019-07-15-cns.pdf" >}})
