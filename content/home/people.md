@@ -12,6 +12,7 @@ subtitle = ""
 #   Edit each user's `user_groups` to add them to one or more of these groups.
 #"Researcher",
 user_groups = [
-               "Collaborators",
-               "Alumni"]
+    "Mentors",
+    "Collaborators",
+    "Alumni"]
 +++
