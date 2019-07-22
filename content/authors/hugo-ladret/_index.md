@@ -37,7 +37,7 @@ user_groups = ["Alumni"]
 
 +++
 
-# PhD Student (2019-09 / 2013-11)
+# PhD Student (2019-09 / 2013-11): A multiscale cortical model to account for orientation selectivity in natural-like stimulations
 
  * Aix-Marseille Université, Institut des Neurosciences de la Timone
  * Université de Montréal, Laboratoire des Neurosciences de la Vision
@@ -54,7 +54,7 @@ Building upon our previous work, we are investigating how recurrent neural netwo
 To be able to generalize our findings, I created a model of the early visual pathway (retina and thalamus) that generates neural activity from any natural image, based on data gathered in biological systems for the past several decades.
 The output from this early visual pathway is then processed by a recurrent spiking neural network whose dynamics match that of the primary visual cortex.
 
-We showed that Spike Timing Dependant Plasticity (STDP) and recurrence are key components that allow spiking neural networks to extract patterns from noisy input and build strong internal representations. Such representations not only correctlt predict spatial informations (for example the organization of a visual scene) but also predict temporal structure underlying such informations. 
+We showed that Spike Timing Dependant Plasticity (STDP) and recurrence are key components that allow spiking neural networks to extract patterns from noisy input and build strong internal representations. Such representations not only correctlt predict spatial informations (for example the organization of a visual scene) but also predict temporal structure underlying such informations.
 
  * source code : https://github.com/hugoladret/InternshipM2
 
