@@ -11,7 +11,7 @@ summary = "FACETS-ITN: From Neuroscience to neuro-inspired computing (2010/2013)
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant"]
+tags = ["grant", "past-grant"]
 
 +++
 
