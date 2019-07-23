@@ -25,11 +25,6 @@ user_groups = ["Alumni"]
   institution = "Aix-Marseille Université"
   year = 2017
 
-[[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/VictorBoutin"
-
 +++
 
 # Smooth pursuit eye movements and learning: Role of motion probability and reinforcement contingencies (PhD, 2014-2017)

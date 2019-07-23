@@ -7,4 +7,5 @@ featured = false
 publication = "*CNS*2019, Barcelona*"
 projects = [ "doc-2-amu", "phd-icn",]
 url_pdf = "https://www.cnsorg.org/cns-2019-poster-presentation-guide"
+tags = [ "Deep Learning",]
 +++

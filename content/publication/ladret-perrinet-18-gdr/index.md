@@ -9,6 +9,7 @@ publication = "*GDR Vision, Paris, 2018*"
 url_pdf = "https://github.com/hugoladret/InternshipM1/raw/master/2018-06_POSTER_final.pdf"
 projects = [ "pace-itn",]
 url_code = "https://github.com/hugoladret/InternshipM1"
+tags = [ "area-v1",]
 +++
 
 

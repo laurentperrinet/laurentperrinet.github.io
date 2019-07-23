@@ -25,11 +25,6 @@ user_groups = ["Alumni"]
   institution = "Aix-Marseille Université"
   year = 2009
 
-[[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/VictorBoutin"
-
 +++
 
 # Correlating Excitation and Inhibition in Visual Cortical Circuits: Functional Consequences and Biological Feasibility  (PhD, 2006-01 / 2009-05)

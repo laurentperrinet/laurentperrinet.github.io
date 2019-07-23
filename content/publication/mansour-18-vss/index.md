@@ -8,4 +8,5 @@ featured = false
 publication = "*Journal of Vision, Vol.18, 345, proceedings of VSS*"
 url_pdf = "https://laurentperrinet.github.io/publication/mansour-18-vss"
 doi = "10.1167/18.10.345"
+tags = [ "motion detection",]
 +++

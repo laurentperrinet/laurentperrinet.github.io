@@ -7,7 +7,7 @@ abstract = "The formation of connections between neural cells is essentially eme
 featured = false
 publication = "*iTwist, 2018*"
 url_pdf = "https://arxiv.org/abs/1812.01335"
-tags = [ "sparse coding",]
+tags = [ "Deep Learning",]
 projects = [ "doc-2-amu", "phd-icn",]
 +++
 

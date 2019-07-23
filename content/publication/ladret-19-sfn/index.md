@@ -7,4 +7,5 @@ abstract = "A key property of the neurons in the primary visual cortex (V1) is t
 featured = false
 publication = "*Proceedings of the Society for Neuroscience conference*"
 projects = [ "anr-horizontal-v1",]
+tags = [ "area-v1",]
 +++

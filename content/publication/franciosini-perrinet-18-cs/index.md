@@ -7,4 +7,5 @@ featured = false
 publication = "*Curves and Surfaces 2018, Arcachon*"
 url_pdf = "https://laurentperrinet.github.io/publication/franciosini-perrinet-18-cs/"
 projects = [ "doc-2-amu", "phd-icn",]
+tags = [ "Deep Learning",]
 +++
