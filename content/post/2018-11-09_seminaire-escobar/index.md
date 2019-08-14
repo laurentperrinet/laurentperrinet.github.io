@@ -1,6 +1,6 @@
 +++
 title = "Retinal computations"
-subtitle = "A seminar at the Institute of Neurosciences Timone in Marseille"
+subtitle = "A seminar by [María José Escobar, Ph.D.](http://profesores.elo.utfsm.cl/~mjescobar/) at the Institute of Neurosciences Timone in Marseille."
 
 date = 2018-11-09T00:00:00
 lastmod = 2018-11-09T00:00:00
