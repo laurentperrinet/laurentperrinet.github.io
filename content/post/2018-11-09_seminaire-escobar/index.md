@@ -1,6 +1,6 @@
 +++
 title = "Retinal computations"
-subtitle = "a seminar at the Institute of Neurosciences Timone in Marseille"
+subtitle = "A seminar at the Institute of Neurosciences Timone in Marseille"
 
 date = 2018-11-09T00:00:00
 lastmod = 2018-11-09T00:00:00
@@ -9,7 +9,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["laurent-u-perrinet"]
 
-tags = ["art-science"]
+tags = ["events"]
 summary = "L'installation ''Elasticité dynamique'' agit comme un filtre et génère de nouveaux espaces démultipliés, comme un empilement quasi infini d'horizons. Par principe de réflexion, la pièce absorbe l'image de l'environnement et accumule les points de vue ; le mouvement permanent requalifie continuellement ce qui est regardé et entendu."
 
 # Projects (optional).
@@ -18,7 +18,7 @@ summary = "L'installation ''Elasticité dynamique'' agit comme un filtre et gén
 #   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["art-science"]
+projects = []
 
 +++
 
