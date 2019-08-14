@@ -20,10 +20,10 @@ summary = "L'installation ''Elasticité dynamique'' agit comme un filtre et gén
 #   Otherwise, set `projects = []`.
 projects = []
 
-image:
-  placement: 2
-  focal_point: "Center"
-  preview_only: false
+[image]
+  placement = 2
+  focal_point = "Center"
+  preview_only = false
 +++
 
 # 2018-11-09 : "Retinal computations" by Maria José Escobar (Chile)
