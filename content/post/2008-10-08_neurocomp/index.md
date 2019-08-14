@@ -1,9 +1,9 @@
 +++
-title = "2008-10-08 : Neurocomp08"
-subtitle = "2008-10-08 : Deuxième conférence française de Neurosciences Computationnelles"
+title = "2010-05-27 : Neurocomp08"
+subtitle = "2010-05-27 : Deuxième conférence française de Neurosciences Computationnelles"
 
-date = 2008-10-08T00:00:00
-lastmod = 2008-10-08T00:00:00
+date = 2010-05-27T00:00:00
+lastmod = 2010-05-27T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
