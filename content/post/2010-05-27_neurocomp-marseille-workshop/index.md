@@ -89,7 +89,7 @@ Université de la Méditerranée - Marseille
 
 *<a href="http://www.ceremade.dauphine.fr/~peyre/" class="http">Gabriel Peyré</a>*
 CNRS and Université Paris-Dauphine
-<a href="http://www.ceremade.dauphine.fr/~peyre/talks/2010-05-20-neurosciences-marseilles.pdf" class="http">'''«Sparse Geometric Processing of Natural Images»'''</a>
+<a href="http://www.ceremade.dauphine.fr/~peyre/talks/2010-05-20-neurosciences-marseilles.pdf" class="http">**«Sparse Geometric Processing of Natural Images»**</a>
 In this talk, I will review recent works on the sparse representations
 of natural images. I will in particular focus on both the application of
 these emerging models to image processing problems, and their potential
@@ -114,8 +114,7 @@ in hand to design and analyze new cortical imaging methods.
 
 *<a href="http://www.crea.polytechnique.fr/JeanPetitot/home.html" class="http">Jean Petitot</a>*
 Centre d'Analyse et de Mathématique Sociales, Ecole des Hautes Etudes en
-Sciences Sociales - Paris **
-«Neurogeometry of visual perception»**
+Sciences Sociales - Paris **«Neurogeometry of visual perception»**
 In relation with experimental data, we propose a geometric model of the
 functional architecture of the primary visual cortex (V1) explaining
 contour integration. The aim is to better understand the type of
@@ -165,7 +164,7 @@ on questionnaires, as well as with other measures of personality traits.
 
 14h45-15h45
 
-*<a href="http://www.informatik.uni-ulm.de/ni/staff/HNeumann/" class="http">Heiko Neumann</a>*(in
+*<a href="http://www.informatik.uni-ulm.de/ni/staff/HNeumann/" class="http">Heiko Neumann</a>* (in
 collaboration with Florian Raudies)
 Inst. of Neural Information Processing, Ulm University Germany
 **«Cortical mechanisms of transparent motion perception – a neural
