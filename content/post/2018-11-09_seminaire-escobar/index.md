@@ -1,5 +1,5 @@
 +++
-title = "Retinal computations"
+title = "2018-11-09 : Retinal computations"
 subtitle = "A seminar by [María José Escobar, Ph.D.](http://profesores.elo.utfsm.cl/~mjescobar/) at the Institute of Neurosciences Timone in Marseille."
 
 date = 2018-11-09T00:00:00
@@ -20,9 +20,13 @@ summary = "L'installation ''Elasticité dynamique'' agit comme un filtre et gén
 #   Otherwise, set `projects = []`.
 projects = []
 
+image:
+  placement: 1
+  focal_point: "Center"
+  preview_only: false
 +++
 
-# Retinal computations by Maria José Escobar (Chile)
+# 2018-11-09 : "Retinal computations" by Maria José Escobar (Chile)
 
 During a seminar at the Institute of Neurosciences Timone in Marseille, [María José Escobar, Ph.D.](http://profesores.elo.utfsm.cl/~mjescobar/) :
 
