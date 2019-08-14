@@ -24,7 +24,6 @@ projects = []
 
 # Retinal computations by Maria José Escobar (Chile)
 
-During a seminar at the Institute of Neurosciences Timone in Marseille, [María José Escobar, Ph.D.](http://profesores.elo.utfsm.cl/~mjescobar/)
+During a seminar at the Institute of Neurosciences Timone in Marseille, [María José Escobar, Ph.D.](http://profesores.elo.utfsm.cl/~mjescobar/) :
 
-
-    "Retinal computations" : The retina is part of the nervous system and consists in well-organized layers of different cell types and functions. Those cells have been vastly studied in various animal models, and also the circuits conveying to different functional categories. All these different types of either physiological properties or computation equivalents revealed the retina as not a single light to electricity encoder but a pre-processing layer, which is in charge to extract relevant visual signals from the environment that are critical for animal survival. During this seminar, we describe some of the computations performed by the retina, and how this knowledge can be applied to solve engineering problems, such as image processing and robot controllers.
+>    "Retinal computations" : The retina is part of the nervous system and consists in well-organized layers of different cell types and functions. Those cells have been vastly studied in various animal models, and also the circuits conveying to different functional categories. All these different types of either physiological properties or computation equivalents revealed the retina as not a single light to electricity encoder but a pre-processing layer, which is in charge to extract relevant visual signals from the environment that are critical for animal survival. During this seminar, we describe some of the computations performed by the retina, and how this knowledge can be applied to solve engineering problems, such as image processing and robot controllers.
