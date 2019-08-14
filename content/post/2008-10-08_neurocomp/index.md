@@ -9,7 +9,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["laurent-u-perrinet"]
 
-tags = ["events"]
+tags = ["events", "computational-neuroscience"]
 summary = "La deuxième conférence française de Neurosciences Computationnelles, Neurocomp08, s'est déroulée à la Faculté de Médecine de Marseille du 8 au 11 octobre 2008."
 
 # Projects (optional).

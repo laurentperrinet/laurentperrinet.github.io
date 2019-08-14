@@ -9,7 +9,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["laurent-u-perrinet"]
 
-tags = ["events"]
+tags = ["events", "computational-neuroscience"]
 summary = "Computational Neuroscience: From Representations to Behavior, the Second NeuroComp Marseille Workshop."
 
 # Projects (optional).

@@ -41,6 +41,8 @@ width="100%"}
 
 We held a CodeJam 22nd-24th June 2010, in Marseille.
 
+![Participants](http://neuralensemble.org/media/images/codejam4_group_photo.jpg)
+
 -   From the
     [website](http://neuralensemble.org/meetings/CodeJam4/):
 
