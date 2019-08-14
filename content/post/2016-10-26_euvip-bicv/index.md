@@ -10,7 +10,7 @@ draft = false
 authors = ["laurent-u-perrinet"]
 
 tags = ["events", "bicv"]
-summary = "L'installation ''Elasticité dynamique'' agit comme un filtre et génère de nouveaux espaces démultipliés, comme un empilement quasi infini d'horizons. Par principe de réflexion, la pièce absorbe l'image de l'environnement et accumule les points de vue ; le mouvement permanent requalifie continuellement ce qui est regardé et entendu."
+summary = "EUVIP Session 7: Biologically Inspired Computer Vision (Special Session)."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

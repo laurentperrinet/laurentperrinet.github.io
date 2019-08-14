@@ -10,7 +10,7 @@ draft = false
 authors = ["laurent-u-perrinet"]
 
 tags = ["events"]
-summary = "L'installation ''Elasticité dynamique'' agit comme un filtre et génère de nouveaux espaces démultipliés, comme un empilement quasi infini d'horizons. Par principe de réflexion, la pièce absorbe l'image de l'environnement et accumule les points de vue ; le mouvement permanent requalifie continuellement ce qui est regardé et entendu."
+summary = "A seminar by [María José Escobar, Ph.D.](http://profesores.elo.utfsm.cl/~mjescobar/) at the Institute of Neurosciences Timone in Marseille."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

@@ -1,6 +1,6 @@
 +++
-title = "Theoretical neuroscience Symposium on Active Inference at NeuroFrance 2019"
-summary = "We organize a Symposium at NeuroFrance 2019 entitled Active Inference: Bridging theoretical and experimental neurosciences. This is part of a series of theoretical neuroscience symposia organized in this international conference from the french Neursocience Society."
+title = "2019-05-20: Symposium on Active Inference at NeuroFrance 2019"
+summary = "We organized a Symposium at NeuroFrance 2019 entitled *Active Inference: Bridging theoretical and experimental neurosciences*. This is part of a series of theoretical neuroscience symposia organized in this international conference from the french Neursocience Society."
 
 date = 2019-05-20T00:00:00
 draft = false
