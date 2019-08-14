@@ -1,6 +1,6 @@
 +++
 title = "Coherence detection in a spiking neuron via Hebbian learning"
-date = 2002-06-24
+date = 2002-06-14
 authors = [ "Laurent U Perrinet",]
 publication_types = [ "2",]
 featured = false
