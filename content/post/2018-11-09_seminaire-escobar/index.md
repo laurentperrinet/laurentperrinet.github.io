@@ -21,7 +21,7 @@ summary = "L'installation ''Elasticité dynamique'' agit comme un filtre et gén
 projects = []
 
 image:
-  placement: 1
+  placement: 2
   focal_point: "Center"
   preview_only: false
 +++
