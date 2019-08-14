@@ -10,7 +10,7 @@ draft = false
 authors = ["laurent-u-perrinet"]
 
 tags = ["events"]
-summary = "La deuxième conférence française de Neurosciences Computationnelles, "Neurocomp08", s'est déroulée à la Faculté de Médecine de Marseille du 8 au 11 octobre 2008."
+summary = "La deuxième conférence française de Neurosciences Computationnelles, Neurocomp08, s'est déroulée à la Faculté de Médecine de Marseille du 8 au 11 octobre 2008."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
