@@ -1,5 +1,5 @@
 +++
-title = "Introduction"
+title = "Introduction to Topics in Dynamical Neural Networks: From Large Scale Neural Networks to Motor Control and Vision"
 date = 2007-03-18
 authors = [ "Bruno Cessac", "Emmanuel Daucé", "Laurent U Perrinet", "Manuel Samuelides",]
 publication_types = [ "2",]
