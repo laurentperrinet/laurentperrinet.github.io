@@ -9,7 +9,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["laurent-u-perrinet"]
 
-tags = ["events", "facets"]
+tags = ["events"]
 summary = "We held a CodeJam 22nd-24th June 2010, in Marseille."
 
 # Projects (optional).

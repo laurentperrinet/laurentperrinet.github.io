@@ -9,7 +9,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["laurent-u-perrinet"]
 
-tags = ["events", "bicv"]
+tags = ["events", "Biologically Inspired Computer Vision"]
 summary = "EUVIP Session 7: Biologically Inspired Computer Vision (Special Session)."
 
 # Projects (optional).
@@ -18,7 +18,7 @@ summary = "EUVIP Session 7: Biologically Inspired Computer Vision (Special Sessi
 #   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["bicv"]
 
 [image]
   placement = 2
