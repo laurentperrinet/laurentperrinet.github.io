@@ -1,5 +1,5 @@
 +++
-title = "2018-04-05_OptInferBrainWorkshop"
+title = "2018-04-05 : *Probabilities and Optimal Inference to understand the Brain* Workshop"
 summary = "We organize a Symposium at NeuroFrance 2019 entitled Active Inference: Bridging theoretical and experimental neurosciences. This is part of a series of theoretical neuroscience symposia organized in this international conference from the french Neursocience Society."
 
 date = 2018-04-05T00:00:00
@@ -37,9 +37,8 @@ categories = []
 
 ![participants](IMG_20180406_164630.jpg)
 
-Probabilities and Optimal Inference to understand the Brain ===========================================================
-
-a 2-day workshop at the Institute of Neurosciences Timone in Marseille ----------------------------------------------------------------------
+# Probabilities and Optimal Inference to understand the Brain
+## a 2-day workshop at the Institute of Neurosciences Timone in Marseille
 
 ![affiche](featured.png)
 
