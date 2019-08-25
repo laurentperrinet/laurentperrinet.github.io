@@ -3,13 +3,13 @@ title = "Diffraction monochromatique, spectre audiographique"
 date = 2010-04-14T19:00:00
 authors = [ "Laurent U Perrinet",]
 publication_types = [ "1",]
-abstract = "En perception, les neurones « parlent » tous en même temps par de brèves impulsions électrochimiques, générant un mélange de signaux, un bruit. Pourtant c'est par eux que nous pensons, voyons, sentons. Les ordinateurs sont différents, plus rapides. Ils sont construits avec pour modèle la grammaire humaine autour d’une unité centrale, car on imaginait la cognition sous cet angle à leur invention. Le bit est le quantum d’un algorithme mécanique (thèse de Church-Turing). Une théorie tranche par rapport à la précédente, proposée par «von Neumann» : beaucoup d’unités sont présentes dans le cerveau. Comparée à la chaîne logique du langage, dans cet algorithme, beaucoup d’autres chaînes et logiques se mêlent. Comment vont-elles « parler » entre elles ? Existe-t-il des algorithmes biologiques ? "
+abstract = "En perception, les neurones « parlent » tous en même temps par de brèves impulsions électrochimiques, générant un mélange de signaux, un bruit. Pourtant c'est par eux que nous pensons, voyons, sentons. Les ordinateurs sont différents, plus rapides. Ils sont construits avec pour modèle la grammaire humaine autour d'une unité centrale, car on imaginait la cognition sous cet angle à leur invention. Le bit est le quantum d'un algorithme mécanique (thèse de Church-Turing). Une théorie tranche par rapport à la précédente, proposée par «von Neumann» : beaucoup d'unités sont présentes dans le cerveau. Comparée à la chaı̂ne logique du langage, dans cet algorithme, beaucoup d'autres chan̂es et logiques se mêlent. Comment vont-elles « parler » entre elles ? Existe-t-il des algorithmes biologiques ? "
 featured = false
 publication = "*intervention autour du vernissage de \"Diffraction monochromatique, spectre audiographique\" d'Etienne Rey. *"
 projects = [ "art-science", "tout-public",]
 event_url = "http://ondesparalleles.org/projets/vortex-polychromatique-diffraction/"
 location = "Aix-enProvence (France)"
-event = "intervention autour du vernissage de \\\"Diffraction monochromatique, spectre audiographique\\\" d'Etienne Rey. "
+event = "intervention autour du vernissage de \\\"Diffraction monochromatique, spectre audiographique\\\" d'Etienne Rey."
 publishDate = "2010-01-01"
 +++
 

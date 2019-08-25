@@ -1,5 +1,5 @@
 +++
-title = "Peut-on parler d’intelligence mécanique?"
+title = "Peut-on parler d'intelligence mécanique?"
 date = 2009-11-24T18:30:00
 authors = [ "Laurent U Perrinet", "Thierry Viéville",]
 publication_types = [ "1",]
@@ -10,7 +10,7 @@ doi = "10.1016/j.neurol.2019.01.031"
 projects = [ "tout-public",]
 event_url = "http://asts.paris/"
 location = "Marseille, France"
-event = "Cycle de conférences organisé par l’Association Science Technologie Société - PACA ayant pour thème cette année : \\\"Biologie et civilisation : les chemins de l’intelligence\\\". "
+event = "Cycle de conférences organisé par l'Association Science Technologie Société - PACA ayant pour thème cette année : \\\"Biologie et civilisation : les chemins de l'intelligence\\\"."
 publishDate = "2009-01-01"
 +++
 

@@ -3,7 +3,6 @@ title = "Participation au jury et entretien avec Clara Delmon"
 date = 2016-11-20T09:00:00
 authors = [ "Laurent U Perrinet",]
 publication_types = [ "1",]
-abstract = ""
 featured = false
 publication = "*Cinésciences, collège Clair Soleil (Marseille)*"
 url_pdf = "https://laurentperrinet.github.io/sciblog/files/2016-04-25_pollymagoo/"
