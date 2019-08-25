@@ -5,7 +5,7 @@ authors = [ "Mina A Khoei", "Laurent U Perrinet", "Amarender Bogadhi", "Anna Mon
 publication_types = [ "1",]
 featured = false
 publication = "*Perception*"
-tags = [ "bayesian models", "motion prediction",]
+tags = [ "bayesian model", "motion prediction",]
 url_pdf = "https://laurentperrinet.github.io/publication/khoei-11-ecvp/"
 projects = [ "facets", "facets-itn",]
 +++
