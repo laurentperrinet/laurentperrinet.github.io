@@ -23,6 +23,10 @@ user_groups = ["Collaborators"]
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/etienne-rey-a07b5718/"
 
+[[social]]
+    icon = "code"
+    icon_pack = "fab"
+    link = "http://ondesparalleles.org/"
 
 [[social]]
     icon = "instagram"
