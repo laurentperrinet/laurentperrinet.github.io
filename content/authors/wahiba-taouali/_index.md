@@ -35,10 +35,16 @@ user_groups = ["Alumni"]
   icon_pack = "ai"
   link = "https://scholar.google.co.uk/citations?user=oHLjQTEAAAAJ"
 
-[[social]]
-  icon = "linkedin"
-  icon_pack = "fab"
-  link = "https://www.linkedin.com/in/wahiba-taouali/"
+  [[social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/wahiba-taouali/"
+
+    [[social]]
+      icon = "github"
+      icon_pack = "fab"
+      link = "https://github.com/taoualiw"
+
 
 +++
 # Motion Integration By V1 Population  (Post-Doc, 2013-03 / 2015-01)
