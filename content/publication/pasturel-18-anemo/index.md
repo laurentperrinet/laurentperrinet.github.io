@@ -9,3 +9,8 @@ tags = [ "motion anticipation",]
 url_pdf = "https://laurentperrinet.github.io/publication/pasturel-18-anemo"
 projects = [ "pace-itn",]
 +++
+
+
+* as presented at https://eyemovements.sciencesconf.org/
+* get the [[https://github.com/invibe/ANEMO/raw/master/2018-05-04_Poster_Grenobe/Pasturel_etal2018_grenoble.pdf|poster]]
+* code : https://github.com/invibe/ANEMO/
