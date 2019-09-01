@@ -8,7 +8,7 @@ publication = "*Universidad Técnica Federico Santa María, Valparaíso, Chile, 
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2015-11-05_Chile"
 event = "Charla"
 event_url = "http://www.eventos.usm.cl/evento/charla-motion-based-prediction-with-neuromorphic-hardware/"
-location = "Universidad Técnica Federico Santa Marı́a, Valparaśo, Chile"
+location = "Universidad Técnica Federico Santa Marı́a, Valparaiso (Chile)"
 projects = [ "anr-bala-v1",]
 publishDate = "2015-01-01"
 +++

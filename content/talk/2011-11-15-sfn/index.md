@@ -11,4 +11,11 @@ location = "Washington, DC"
 publishDate = "2011-01-01"
 +++
 
+* Abstract Control Number: 17671
+* Presentation Number: 530.04
+* Presentation Time: 8:45am - 9:00am
+* session:
+ * Session Type: Nanosymposium
+ * Session Number: 530
+ * Session Title: Development of Motor and Sensory Systems
 * See a followup in [Perrinet and Bednar, 2015]({{< ref "/publication/perrinet-bednar-15" >}})
