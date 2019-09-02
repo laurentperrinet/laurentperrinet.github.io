@@ -25,6 +25,7 @@ projects = []
   focal_point = "Center"
   preview_only = false
 +++
+
 PhD Program: course in Computational Neuroscience
 =================================================
 
