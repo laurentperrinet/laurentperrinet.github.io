@@ -7,5 +7,5 @@ featured = false
 publication = "*Proceedings of COSYNE*"
 url_pdf = "http://goo.gl/RJpJR4"
 projects = [ "anr-bala-v1",]
-tags = [ "staistics of natural images",]
+tags = [ "statistics of natural images",]
 +++

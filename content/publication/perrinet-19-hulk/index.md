@@ -8,4 +8,5 @@ featured = false
 publication = "*Vision*"
 tags = [ "area-v1", "Bayesian model",]
 projects = [ "anr-horizontal-v1", "spikeai",]
+url_pdf = "https://github.com/SpikeAI/HULK"
 +++

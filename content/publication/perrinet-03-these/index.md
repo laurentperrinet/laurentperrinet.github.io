@@ -5,5 +5,6 @@ authors = [ "Laurent U Perrinet",]
 publication_types = [ "4",]
 featured = false
 publication = ""
-tags = [ "stdp",]
+tags = [ "lateral connections", "rank-order-coding", "sparse coding", "spike", "stdp",]
+url_pdf = "https://laurentperrinet.github.io/publication/perrinet-03-these"
 +++
