@@ -11,3 +11,5 @@ location = "Beijing, China"
 event = "2014 International Joint Conference on Neural Networks (IJCNN)"
 publishDate = "2014-01-01"
 +++
+
+* see [Kaplan and al, 2014]({{< ref "/publication/kaplan-khoei-14" >}})
