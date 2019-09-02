@@ -8,7 +8,7 @@ publication = "*A  seminar from the Institute for Adaptive and Neural Computatio
 url_pdf = "http://invibe.net/cgi-bin/index.cgi/Presentations/2012-01-24_Edinburgh"
 event = "A seminar from the Institute for Adaptive and Neural Computation (ANC)"
 event_url = "http://www.anc.ed.ac.uk/events/anc-dtc-seminar-laurent-perrinet"
-location = "IF 4.31/4.33, Institute for Adaptive and Neural Computation (ANC) @ The University of Edinburgh"
+location = "Room IF 4.31/4.33, Institute for Adaptive and Neural Computation (ANC) at the University of Edinburgh"
 projects = [ "brain-scales",]
 publishDate = "2012-01-01"
 +++

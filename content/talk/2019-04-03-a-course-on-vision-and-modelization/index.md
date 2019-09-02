@@ -11,6 +11,6 @@ projects = [ "anr-horizontal-v1",]
 url_slides = "https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization"
 url_code = "https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/"
 location = "Marseille (France)"
-event = "Licence Sciences & Humanité"
+event = "Licence Sciences et Humanité"
 publishDate = "2019-01-01"
 +++

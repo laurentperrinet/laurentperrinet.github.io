@@ -1,6 +1,6 @@
 +++
 title = "Dynamic modulation of volatility by reward contingencies: effects on anticipatory smooth eye movement"
-date = 2017-08-01
+date = 2017-01-01
 authors = [ "Jean-Bernard Damasse", "Anna Montagnini", "Laurent U Perrinet",]
 publication_types = [ "1",]
 featured = false

@@ -1,5 +1,5 @@
 +++
-title = "Participation au jury du FESTIVAL INTERFÉRENCES\u200b"
+title = "Participation au jury"
 date = 2017-11-17T18:30:00
 authors = [ "Laurent U Perrinet",]
 publication_types = [ "1",]
@@ -7,8 +7,8 @@ featured = false
 publication = "**"
 projects = [ "tout-public",]
 event_url = "http://www.lacitedoc.com/interferences-programmation\u200b"
-location = "Marseille, France"
-event = "FESTIVAL INTERFÉRENCES\u200b - Cinéma Documentaire et Débat Public"
+location = "Lyon, France"
+event = "Festival Interférences - Cinéma Documentaire et Débat Public"
 publishDate = "2017-01-01"
 +++
 

@@ -9,7 +9,7 @@ url_pdf = "https://laurentperrinet.github.io/sciblog/files/2016-04-25_pollymagoo
 projects = [ "tout-public",]
 event_url = "http://www.pollymaggoo.org/"
 location = "Marseille, France"
-event = "RENCONTRES INTERNATIONALES SCIENCES & CINÉMAS"
+event = "Rencontres Internationales Sciences Et Cinémas"
 publishDate = "2016-01-01"
 +++
 
