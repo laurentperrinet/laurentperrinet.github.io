@@ -8,4 +8,5 @@ featured = false
 publication = "*The Conversation*"
 url_pdf = "https://laurentperrinet.github.io/publication/perrinet-19-illusions/"
 projects = [ "anr-horizontal-v1", "tout-public",]
+url_preprint = "https://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389"
 +++
