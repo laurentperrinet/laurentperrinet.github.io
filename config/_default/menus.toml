@@ -15,40 +15,9 @@
   weight = 15
 
 [[main]]
-  identifier = "pub"
   name = "Publications"
-  url = "#publications_featured"
+  url = "#featured"
   weight = 20
-
-[[main]]
-  parent = "pub"
-  name = "Recent Publications"
-  url = "#publications"
-  weight = 25
-
-[[main]]
-  parent = "pub"
-  name = "All Publications"
-  url = "/publication/"
-  weight = 27
-
-[[main]]
-  parent = "pub"
-  name = "Publications in journals"
-  url = "/publication/#2"
-  weight = 27
-
-[[main]]
-  parent = "pub"
-  name = "Publications in journals"
-  url = "/publication/#2"
-  weight = 28
-
-[[main]]
-  parent = "pub"
-  name = "Publications in books"
-  url = "/publication/#26"
-  weight = 29
 
 [[main]]
   name = "Events"
