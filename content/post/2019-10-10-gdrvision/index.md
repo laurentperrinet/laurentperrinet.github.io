@@ -38,4 +38,9 @@ categories = []
 Avec Anna Montagnini, Manuel Vidal et Françoise Vitu, nouis organisons cette année le GDR Vision à Marseille les journées du 10 et 11 octobre.
 
 * plus d'infos sur https://gdrvision2019.sciencesconf.org/
-* nous aurons un atelier méthodologique le jeudi matin sur les apports possibles du Deep Learning pour les sciences de la vision: Utiliser l'apprentissage profond en vision 
+* nous aurons un atelier méthodologique le jeudi matin sur les apports possibles du Deep Learning pour les sciences de la vision: Utiliser l'apprentissage profond en vision
+
+Réunions passées:
+
+* Lille: https://gdrvision2017.sciencesconf.org/
+* Paris: https://gdrvision2018.sciencesconf.org/
