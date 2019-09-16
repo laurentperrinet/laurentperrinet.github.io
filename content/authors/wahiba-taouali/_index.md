@@ -52,7 +52,9 @@ user_groups = ["Alumni"]
 ## Description
 Wahiba hold the postdoctoral position at the ["Institut de Neurosciences de la Timone"](http://www.int.univ-amu.fr/spip.php?rubrique2&lang=en), CNRS, Marseille (France) to study object motion integration and representation at the level of V1 populations:
  * The objective is in modeling, with Laurent Perrinet, anisotropic diffusive processes, such as observed in V1, at the functional and neural levels.
- * The work is done in collaboration with a post-doc in physiology, with Frédéric Chavane, that focused on the role of propagation and diffusion of activity at the level of neuronal population in V1 of awake monkeys (using Voltage-sensitive dye imaging and UTAH array recording).
+ * The work was done in collaboration with a post-doc in physiology, with Frédéric Chavane, that focused on the role of propagation and diffusion of activity at the level of neuronal population in V1 of awake monkeys (using Voltage-sensitive dye imaging and UTAH array recording).
+
+Wahiba is now scientific software developper at [Enthought](https://www.enthought.com/).
 
 ## Context
 {{< figure src="https://brainscales.kip.uni-heidelberg.de/images/thumb/e/e2/Public--BrainScalesLogo.svg/100px-Public--BrainScalesLogo.svg.png" title="This grant was funded by a large European integrated project called [BrainScales](https://brainscales.kip.uni-heidelberg.de/index.html) whose aim is to understand brain information processing at multiple spatial and temporal scales. The successful applicants will have the opportunity to interact with a large and exciting consortium composed of 18 europeans teams working in biology, modeling and hardware." numbered="false" >}}
