@@ -1,6 +1,6 @@
 +++
 title = "Operant reinforcement versus reward expectancy: effects on anticipatory eye movements"
-date = 2016-09-11
+date = 2016-09-16
 authors = [ "Jean-Bernard Damasse", "Laurent U Perrinet", "Jeremie Jozefowiez", "Laurent Madelain", "Anna Montagnini",]
 publication_types = [ "1",]
 featured = false
