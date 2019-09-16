@@ -39,6 +39,7 @@ Avec Anna Montagnini, Manuel Vidal et Françoise Vitu, nouis organisons cette an
 
 * plus d'infos sur https://gdrvision2019.sciencesconf.org/
 * nous aurons un atelier méthodologique le jeudi matin sur les apports possibles du Deep Learning pour les sciences de la vision: Utiliser l'apprentissage profond en vision
+* la session spéciale du jeudi est sponsorisée par la [projet SpikeAI](https://laurentperrinet.github.io/project/spikeai/)
 
 Réunions passées:
 
