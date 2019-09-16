@@ -2,7 +2,7 @@
 title = "2019-10-10: Atelier Utiliser l'apprentissage profond en vision"
 summary = "Le GDR Vision réunit toute la communauté française de chercheurs en vision. Nous aurons un atelier méthodologique le jeudi matin sur les apports possibles du Deep Learning pour les sciences de la vision: Utiliser l'apprentissage profond en vision."
 
-date = 2019-05-20T00:00:00
+date = 2019-10-10T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
