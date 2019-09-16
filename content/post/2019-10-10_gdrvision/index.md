@@ -38,7 +38,7 @@ categories = []
 Avec Anna Montagnini, Manuel Vidal et Françoise Vitu, nous organisons cette année le GDR Vision à Marseille les journées du 10 et 11 octobre.
 
 * plus d'infos sur https://gdrvision2019.sciencesconf.org/
-* nous aurons un atelier méthodologique le jeudi matin sur les apports possibles du Deep Learning pour les sciences de la vision: [Utiliser l'apprentissage profond en vision](https://laurentperrinet.github.io/post/2019-10-10-gdrvision-atelier/)
+* nous aurons un atelier méthodologique le jeudi matin sur les apports possibles du Deep Learning pour les sciences de la vision: [Utiliser l'apprentissage profond en vision](https://laurentperrinet.github.io/post/2019-10-10_gdrvision-atelier/)
 * la session spéciale du jeudi est sponsorisée par la [projet SpikeAI](https://laurentperrinet.github.io/project/spikeai/)
 
 Réunions passées:

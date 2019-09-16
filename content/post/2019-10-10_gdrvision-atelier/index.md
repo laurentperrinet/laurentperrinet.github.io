@@ -38,3 +38,5 @@ projects = ["spikeai"]
 * https://github.com/SpikeAI/2019-10-10_ML-tutorial
 
 * Atelier concocté en collaboration avec [Chloé Pasturel](https://github.com/chloepasturel).
+
+* cet atelier fait partie du [GDR vision 2019](https://laurentperrinet.github.io/post/2019-10-10_gdrvision/)
