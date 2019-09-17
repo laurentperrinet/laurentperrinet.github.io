@@ -1,6 +1,6 @@
 +++
 title = "Sparse spike coding in an asynchronous feed-forward multi-layer neural network using matching pursuit"
-date = 2004-03-16
+date = 2004-03-17
 authors = [ "Laurent U Perrinet", "Manuel Samuelides", "Simon J Thorpe",]
 publication_types = [ "2",]
 featured = false
