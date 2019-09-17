@@ -1,6 +1,7 @@
 +++
 title = "A dynamic model for decoding direction and orientation in macaque primary visual cortex"
-publishDate = 2019-09-23
+date = 2019-09-23
+publishDate = 2019-09-17
 authors = [ "Wahiba Taouali", "Giacomo Benvenuti", "Frédéric Chavane", "Laurent U Perrinet",]
 publication_types = [ "1",]
 featured = false
