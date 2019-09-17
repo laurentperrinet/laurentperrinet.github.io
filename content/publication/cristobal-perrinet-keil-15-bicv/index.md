@@ -11,6 +11,7 @@ url_preprint = "http://bicv.github.io/"
 featured = true
 tags = [ "Biologically Inspired Computer vision",]
 url_code = "http://bicv.github.io/toc/"
+publishDate = "2019-09-17"
 +++
 
 {{< figure src="header.jpg" title="Biologically Inspired Computer vision" >}}

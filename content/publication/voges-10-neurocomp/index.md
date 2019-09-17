@@ -8,4 +8,5 @@ featured = false
 publication = "*Journal of Physiology-Paris*"
 tags = [ "lateral connections",]
 projects = [ "facets",]
+publishDate = "2019-09-17"
 +++

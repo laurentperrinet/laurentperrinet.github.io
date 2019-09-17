@@ -9,4 +9,5 @@ publication = "*Neuroscience and biobehavioral reviews*"
 tags = [ "eye movements", "motion detection",]
 url_pdf = "http://view.ncbi.nlm.nih.gov/pubmed/21421006"
 doi = "10.1016/j.neubiorev.2011.03.009"
+publishDate = "2019-09-17"
 +++

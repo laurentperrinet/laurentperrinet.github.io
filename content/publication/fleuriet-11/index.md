@@ -9,4 +9,5 @@ publication = "*Journal of Neurophysiology*"
 tags = [ "eye movements", "motion detection",]
 url_pdf = "http://dx.doi.org/10.1152/jn.00622.2010"
 doi = "10.1152/jn.00622.2010"
+publishDate = "2019-09-17"
 +++

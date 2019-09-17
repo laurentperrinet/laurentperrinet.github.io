@@ -9,4 +9,5 @@ publication = "*NeuroFrance 2019, International Conference from the Société de
 url_pdf = "https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/790"
 projects = [ "doc-2-amu", "phd-icn",]
 tags = [ "Deep Learning",]
+publishDate = "2019-09-17"
 +++

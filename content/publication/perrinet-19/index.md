@@ -8,4 +8,5 @@ featured = false
 publication = ""
 tags = [ "active inference", "area-v1", "Bayesian model",]
 projects = [ "anr-horizontal-v1", "spikeai",]
+publishDate = "2019-09-17"
 +++

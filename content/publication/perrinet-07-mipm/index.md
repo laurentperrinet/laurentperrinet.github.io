@@ -7,4 +7,5 @@ abstract = "I will illustrate in this talk how computational neuroscience may in
 featured = false
 publication = "*Mathematical image processing meeting (Marseille, France) September 5, 2007*"
 tags = [ "unsupervised learning",]
+publishDate = "2019-09-17"
 +++

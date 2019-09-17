@@ -9,4 +9,5 @@ publication = "*Journal of Physiology-Paris*"
 tags = [ "Bayesian model", "center-surround interactions", "eye movements", "lateral connections", "motion detection", "visual perception",]
 url_pdf = "http://dx.doi.org/10.1016/j.jphysparis.2007.10.011"
 doi = "10.1016/j.jphysparis.2007.10.011"
+publishDate = "2019-09-17"
 +++

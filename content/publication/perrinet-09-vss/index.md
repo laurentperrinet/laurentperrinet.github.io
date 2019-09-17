@@ -8,4 +8,5 @@ featured = false
 publication = "*Vision Science Society*"
 tags = [ "motion detection",]
 projects = [ "facets",]
+publishDate = "2019-09-17"
 +++

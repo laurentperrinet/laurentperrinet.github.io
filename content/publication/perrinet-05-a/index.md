@@ -7,4 +7,5 @@ abstract = "The integration of information is essential to measure the exact 2D 
 featured = false
 publication = "*Perception*"
 tags = [ "Bayesian model", "motion detection",]
+publishDate = "2019-09-17"
 +++

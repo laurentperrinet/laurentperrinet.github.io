@@ -6,4 +6,5 @@ publication_types = [ "1",]
 featured = false
 publication = "*Actes de Neurosciences et Sciences de l'Ingenieur, L'Agelonde,*"
 tags = [ "sparse hebbian learning", "stdp",]
+publishDate = "2019-09-17"
 +++

@@ -9,4 +9,5 @@ publication = "*Microtechnologies for the New Millennium 2005*"
 tags = [ "area-v1", "Biologically Inspired Computer vision", "log-gabor", "receptive field", "sparse coding",]
 url_pdf = "http://dx.doi.org/10.1117/12.608403"
 doi = "10.1117/12.608403"
+publishDate = "2019-09-17"
 +++

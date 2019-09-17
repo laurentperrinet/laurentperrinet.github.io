@@ -9,4 +9,5 @@ publication = "*Optical and Digital Image Processing Conference 7000 - Proceedin
 tags = [ "association field", "Biologically Inspired Computer vision", "coding decoding", "inhibition", "matching pursuit", "sparse coding", "sparse hebbian learning", "spike",]
 projects = [ "facets",]
 url_pdf = "https://arxiv.org/abs/0804.4830"
+publishDate = "2019-09-17"
 +++

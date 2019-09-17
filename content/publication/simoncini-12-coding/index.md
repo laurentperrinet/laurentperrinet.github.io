@@ -10,4 +10,5 @@ tags = [ "eye movements", "motion detection", "motion-clouds", "psychophysics",]
 url_pdf = "http://www.frontiersin.org/myfrontiers/abstractdetails.aspx?abs_doi=10.3389/conf.fnins.2012.86.00016"
 doi = "10.3389/conf.fnins.2012.86.00016"
 projects = [ "codde", "motion-clouds",]
+publishDate = "2019-09-17"
 +++

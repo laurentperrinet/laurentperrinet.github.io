@@ -8,4 +8,5 @@ featured = false
 publication = "*Proceedings of the Society for Neuroscience conference*"
 projects = [ "anr-horizontal-v1",]
 tags = [ "area-v1",]
+publishDate = "2019-09-17"
 +++

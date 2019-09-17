@@ -9,4 +9,5 @@ publication = "*Natural Computing*"
 tags = [ "area-v1", "sparselets", "unsupervised learning",]
 url_pdf = "http://dx.doi.org/10.1023/B:NACO.0000027753.27593.a7"
 doi = "10.1023/B:NACO.0000027753.27593.a7"
+publishDate = "2019-09-17"
 +++

@@ -8,4 +8,5 @@ featured = false
 publication = "*Proceedings of COSYNE, 2009*"
 tags = [ "lateral connections",]
 projects = [ "facets",]
+publishDate = "2019-09-17"
 +++

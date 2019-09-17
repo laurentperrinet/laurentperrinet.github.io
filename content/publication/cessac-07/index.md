@@ -6,4 +6,5 @@ publication_types = [ "5",]
 featured = false
 publication = "*Topics in Dynamical Neural Networks: From Large Scale Neural Networks to Motor Control and Vision*"
 tags = [ "computational neuroscience",]
+publishDate = "2019-09-17"
 +++

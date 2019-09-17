@@ -8,4 +8,5 @@ featured = false
 publication = "*VSS Conference Abstract*"
 projects = [ "brain-scales", "codde", "motion-clouds",]
 tags = [ "eye movements", "motion detection", "motion-clouds", "psychophysics",]
+publishDate = "2019-09-17"
 +++

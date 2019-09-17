@@ -9,4 +9,5 @@ publication = "*submitted to Society for Neuroscience, 2019*"
 url_pdf = "https://arxiv.org/abs/1812.01335"
 projects = [ "doc-2-amu", "phd-icn",]
 tags = [ "Deep Learning",]
+publishDate = "2019-09-17"
 +++

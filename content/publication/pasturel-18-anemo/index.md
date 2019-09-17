@@ -8,6 +8,7 @@ publication = "*Grenoble Workshop on Models and Analysis of Eye Movements, Greno
 tags = [ "motion anticipation",]
 url_pdf = "https://laurentperrinet.github.io/publication/pasturel-18-anemo"
 projects = [ "pace-itn",]
+publishDate = "2019-09-17"
 +++
 
 

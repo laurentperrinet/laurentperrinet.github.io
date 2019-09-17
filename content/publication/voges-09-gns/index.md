@@ -8,4 +8,5 @@ featured = false
 publication = "*Eighth Göttingen Meeting of the German Neuroscience Society*"
 tags = [ "lateral connections",]
 projects = [ "facets",]
+publishDate = "2019-09-17"
 +++

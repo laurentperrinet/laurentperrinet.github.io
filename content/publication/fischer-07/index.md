@@ -8,4 +8,5 @@ publication = "*EURASIP Journal on Advances in Signal Processing*"
 tags = [ "association field", "Biologically Inspired Computer vision", "log-gabor", "motion-clouds",]
 url_pdf = "http://dx.doi.org/10.1155/2007/90727"
 doi = "10.1155/2007/90727"
+publishDate = "2019-09-17"
 +++

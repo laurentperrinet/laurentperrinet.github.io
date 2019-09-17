@@ -10,4 +10,5 @@ tags = [ "eye movements", "motion detection", "motion-clouds", "psychophysics",]
 projects = [ "brain-scales", "codde", "motion-clouds",]
 url_pdf = "http://dx.doi.org/10.1167/14.10.110"
 doi = "10.1167/14.10.110"
+publishDate = "2019-09-17"
 +++

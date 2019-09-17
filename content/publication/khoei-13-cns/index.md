@@ -9,6 +9,7 @@ tags = [ "Bayesian model", "motion detection", "motion prediction",]
 url_pdf = "https://laurentperrinet.github.io/publication/khoei-13-cns"
 doi = "10.1186/1471-2202-14-S1-P314"
 projects = [ "facets-itn",]
+publishDate = "2019-09-17"
 +++
 
 * Based on [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

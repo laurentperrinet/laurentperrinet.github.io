@@ -9,6 +9,7 @@ publication = "*Proceedings of AREADNE*"
 tags = [ "aperture problem", "Bayesian model", "motion prediction", "predictive coding",]
 url_pdf = "https://laurentperrinet.github.io/publication/masson-12-areadne"
 projects = [ "codde",]
+publishDate = "2019-09-17"
 +++
 
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

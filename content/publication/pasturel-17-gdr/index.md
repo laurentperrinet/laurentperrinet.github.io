@@ -8,4 +8,5 @@ publication = "*GDR Vision, Lille, 2017*"
 tags = [ "Bayesian model", "motion detection",]
 url_pdf = "https://laurentperrinet.github.io/publication/pasturel-17-gdr"
 projects = [ "anr-rem",]
+publishDate = "2019-09-17"
 +++

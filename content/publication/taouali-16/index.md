@@ -11,4 +11,5 @@ url_pdf = "http://www.ncbi.nlm.nih.gov/pubmed/26445864"
 doi = "10.1152/jn.00194.2015"
 projects = [ "anr-bala-v1", "brain-scales",]
 url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-01396311"
+publishDate = "2019-09-17"
 +++

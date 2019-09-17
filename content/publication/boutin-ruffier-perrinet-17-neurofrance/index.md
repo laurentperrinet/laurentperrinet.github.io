@@ -9,6 +9,7 @@ publication = "*NeuroFrance 2017, International Conference from the Société de
 code = "https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars"
 tags = [ "sparse coding",]
 projects = [ "doc-2-amu",]
+publishDate = "2019-09-17"
 +++
 
 * This work is a followup of [Perrinet, 2010, Neural Computation]({{< ref "/publication/perrinet-10-shl" >}})

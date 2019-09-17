@@ -10,4 +10,5 @@ url_pdf = "https://ieeexplore.ieee.org/abstract/document/8351433"
 tags = [ "Biologically Inspired Computer vision",]
 projects = [ "doc-2-amu",]
 url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-01899440"
+publishDate = "2019-09-17"
 +++

@@ -7,6 +7,7 @@ featured = false
 publication = "*DocSciences*"
 url_pdf = "https://interstices.info/qui-creera-le-premier-ordinateur-intelligent/"
 projects = [ "tout-public",]
+publishDate = "2019-09-17"
 +++
 
 # Qui créera le premier ordinateur intelligent?

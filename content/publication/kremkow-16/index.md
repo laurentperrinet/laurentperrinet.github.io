@@ -11,4 +11,5 @@ url_pdf = "http://journal.frontiersin.org/article/10.3389/fncir.2016.00037/full"
 doi = "10.3389/fncir.2016.00037"
 projects = [ "facets",]
 url_preprint = "https://hal.archives-ouvertes.fr/hal-02062034"
+publishDate = "2019-09-17"
 +++

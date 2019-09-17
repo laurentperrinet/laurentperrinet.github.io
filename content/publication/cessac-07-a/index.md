@@ -8,4 +8,5 @@ publication = "*The European Physical Journal Special Topics*"
 url_pdf = "http://www.springerlink.com/index/10.1140/epjst/e2007-00057-3"
 doi = "10.1140/epjst/e2007-00057-3"
 tags = [ "computational neuroscience",]
+publishDate = "2019-09-17"
 +++

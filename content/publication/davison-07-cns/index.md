@@ -10,4 +10,5 @@ tags = [ "pynn",]
 url_pdf = "http://dx.doi.org/10.1186/1471-2202-8-S2-P2"
 doi = "10.1186/1471-2202-8-S2-P2"
 projects = [ "facets",]
+publishDate = "2019-09-17"
 +++

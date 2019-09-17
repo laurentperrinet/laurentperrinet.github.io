@@ -6,4 +6,5 @@ publication_types = [ "0",]
 featured = false
 publication = "*Proceedings of NeuroComp08, Marseille*"
 tags = [ "computational neuroscience",]
+publishDate = "2019-09-17"
 +++

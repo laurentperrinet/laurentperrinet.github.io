@@ -10,4 +10,5 @@ tags = [ "lateral connections",]
 url_pdf = "https://laurentperrinet.github.io/publication/voges-12"
 doi = "10.3389/fncom.2012.00041"
 projects = [ "brain-scales", "codde", "facets",]
+publishDate = "2019-09-17"
 +++

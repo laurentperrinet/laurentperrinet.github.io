@@ -9,4 +9,5 @@ url_pdf = "http://papers.nips.cc/paper/5769-biologically-inspired-dynamic-textur
 projects = [ "anr-speed",]
 tags = [ "motion-clouds",]
 url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-01225867"
+publishDate = "2019-09-17"
 +++

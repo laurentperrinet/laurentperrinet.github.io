@@ -10,6 +10,7 @@ url_pdf = "http://link.springer.com/article/10.1007%2Fs00422-014-0620-8"
 url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-01382350"
 doi = "10.1007/s00422-014-0620-8"
 featured = true
+publishDate = "2019-09-17"
 +++
 
 # Active Inference, tracking eye movements and oculomotor delays

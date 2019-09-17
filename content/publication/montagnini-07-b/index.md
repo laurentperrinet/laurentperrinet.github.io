@@ -7,4 +7,5 @@ abstract = "Perceptual and oculomotor data demonstrate that, when the visual inf
 featured = false
 publication = "*Journal of Vision*"
 tags = [ "Bayesian model",]
+publishDate = "2019-09-17"
 +++

@@ -7,4 +7,5 @@ featured = false
 publication = "*Vision Science Society*"
 tags = [ "eye movements", "motion detection", "motion-clouds", "psychophysics",]
 projects = [ "codde",]
+publishDate = "2019-09-17"
 +++

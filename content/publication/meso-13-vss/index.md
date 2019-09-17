@@ -10,4 +10,5 @@ tags = [ "motion-clouds",]
 projects = [ "anr-speed", "motion-clouds",]
 url_pdf = "https://laurentperrinet.github.io/publication/meso-13-vss"
 doi = "10.1167/13.9.354"
+publishDate = "2019-09-17"
 +++

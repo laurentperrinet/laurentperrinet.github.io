@@ -6,6 +6,7 @@ publication_types = [ "1",]
 featured = false
 publication = "*Proceedings of ESANN*"
 tags = [ "area-v1", "receptive field", "sparse coding",]
+publishDate = "2019-09-17"
 +++
 
 {{< figure src="lena256pyr.gif" title="*Progressive reconstruction of a static image using spikes in a Laplacian pyramid.*" >}}

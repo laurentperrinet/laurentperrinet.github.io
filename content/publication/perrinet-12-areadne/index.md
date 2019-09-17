@@ -8,4 +8,5 @@ featured = false
 publication = "*Proceedings of AREADNE, Santorini, Greece, 21-24 June 2012, published by The AREADNE Foundation, Inc., Cambridge, Massachusetts, USA, http://areadne.org*"
 tags = [ "active inference",]
 projects = [ "codde",]
+publishDate = "2019-09-17"
 +++

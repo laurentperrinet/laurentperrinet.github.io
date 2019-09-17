@@ -10,6 +10,7 @@ url_pdf = "https://github.com/hugoladret/InternshipM1/raw/master/2018-06_POSTER_
 projects = [ "pace-itn",]
 url_code = "https://github.com/hugoladret/InternshipM1"
 tags = [ "area-v1",]
+publishDate = "2019-09-17"
 +++
 
 

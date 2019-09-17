@@ -10,4 +10,5 @@ tags = [ "eye movements", "motion detection", "motion-clouds", "psychophysics",]
 url_pdf = "http://www.journalofvision.org/content/12/9/1014.abstract?sid=9c51ff88-5b9a-4d1b-aaf1-a1219bd02b0a"
 doi = "10.1167/11.11.749"
 projects = [ "codde", "motion-clouds",]
+publishDate = "2019-09-17"
 +++

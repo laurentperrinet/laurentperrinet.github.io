@@ -7,4 +7,5 @@ featured = false
 publication = "*Neurocomputing*"
 tags = [ "center-surround interactions",]
 doi = "10.1016/S0925-2312(01)00460-X"
+publishDate = "2019-09-17"
 +++

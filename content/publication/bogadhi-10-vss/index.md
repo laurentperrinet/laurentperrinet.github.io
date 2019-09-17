@@ -9,4 +9,5 @@ tags = [ "Bayesian model",]
 url_pdf = "http://dx.doi.org/10.1167/10.7.545"
 doi = "10.1167/10.7.545"
 projects = [ "codde",]
+publishDate = "2019-09-17"
 +++

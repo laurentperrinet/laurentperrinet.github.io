@@ -9,4 +9,5 @@ publication = "*International Journal of Computer Vision*"
 tags = [ "Biologically Inspired Computer vision", "log-gabor", "visual perception",]
 url_pdf = "http://dx.doi.org/10.1007/s11263-006-0026-8"
 doi = "10.1007/s11263-006-0026-8"
+publishDate = "2019-09-17"
 +++

@@ -8,4 +8,5 @@ publication = "*Proceedings of COSYNE*"
 url_pdf = "http://goo.gl/RJpJR4"
 projects = [ "anr-bala-v1",]
 tags = [ "statistics of natural images",]
+publishDate = "2019-09-17"
 +++

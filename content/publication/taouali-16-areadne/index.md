@@ -9,4 +9,5 @@ publication = "*Proceedings of AREADNE*"
 tags = [ "coding decoding",]
 doi = "10.1167/15.12.484"
 projects = [ "anr-bala-v1", "brain-scales",]
+publishDate = "2019-09-17"
 +++

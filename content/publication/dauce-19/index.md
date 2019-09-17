@@ -10,4 +10,5 @@ tags = [ "Active Inference", "Deep Learning", "Object localization", "Visual sea
 projects = [ "spikeai",]
 url_pdf = "https://github.com/laurentperrinet/WhereIsMyMNIST"
 doi = "10.1101/725879"
+publishDate = "2019-09-17"
 +++

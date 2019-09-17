@@ -10,6 +10,7 @@ tags = [ "motion detection", "motion prediction",]
 url_pdf = "http://dx.doi.org/10.1167/14.10.471"
 doi = "10.1167/14.10.471"
 projects = [ "facets-itn",]
+publishDate = "2019-09-17"
 +++
 
 

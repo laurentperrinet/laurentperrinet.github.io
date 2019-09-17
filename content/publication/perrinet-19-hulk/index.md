@@ -10,4 +10,5 @@ tags = [ "area-v1", "gain control", "homeostasis", "matching pursuit", "sparse c
 projects = [ "anr-horizontal-v1", "spikeai",]
 url_pdf = "https://github.com/SpikeAI/HULK"
 doi = "10.3390/vision3030047"
+publishDate = "2019-09-17"
 +++

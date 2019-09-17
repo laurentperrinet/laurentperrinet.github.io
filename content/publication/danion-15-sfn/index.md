@@ -8,4 +8,5 @@ publication = "*Proceedings of the Society for Neuroscience conference*"
 tags = [ "Bayesian model",]
 url_pdf = "https://laurentperrinet.github.io/publication/danion-15-sfn"
 projects = [ "anr-rem",]
+publishDate = "2019-09-17"
 +++

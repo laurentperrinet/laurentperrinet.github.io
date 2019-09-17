@@ -7,4 +7,5 @@ abstract = "Low-level perceptual computations may be understood in terms of effi
 featured = false
 publication = "*Perception*"
 tags = [ "Biologically Inspired Computer vision", "matching pursuit",]
+publishDate = "2019-09-17"
 +++

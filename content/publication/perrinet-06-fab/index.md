@@ -7,4 +7,5 @@ abstract = "Computations in a cortical column are characterized by the dynamical
 featured = false
 publication = "*The Functional Architecture of the Brain : from Dendrites to Networks. Symposium in honour of Dr Suzanne Tyc-Dumont. 4- 5 May 2006. GLM, Marseille, France*"
 tags = [ "gain control",]
+publishDate = "2019-09-17"
 +++

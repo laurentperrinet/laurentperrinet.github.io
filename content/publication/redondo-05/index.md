@@ -7,4 +7,5 @@ abstract = "We present a biologically plausible model of simple cortical cells a
 featured = false
 publication = "*Perception*"
 tags = [ "log-gabor",]
+publishDate = "2019-09-17"
 +++

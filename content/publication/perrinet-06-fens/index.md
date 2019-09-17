@@ -6,4 +6,5 @@ publication_types = [ "1",]
 featured = false
 publication = "*FENS*"
 tags = [ "motion detection",]
+publishDate = "2019-09-17"
 +++

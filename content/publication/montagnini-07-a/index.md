@@ -7,4 +7,5 @@ abstract = "When the visual information about an object's motion differs at the 
 featured = false
 publication = "*Perception 36 ECVP Abstract Supplement*"
 tags = [ "motion detection",]
+publishDate = "2019-09-17"
 +++

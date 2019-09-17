@@ -9,6 +9,7 @@ tags = [ "active inference", "Bayesian model", "eye movements", "free energy",]
 url_pdf = "http://dx.doi.org/10.3389/fpsyg.2012.00151"
 doi = "10.3389/fpsyg.2012.00151"
 featured = true
+publishDate = "2019-09-17"
 
 [image]
 focal_point = ""

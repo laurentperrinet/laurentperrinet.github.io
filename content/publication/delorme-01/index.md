@@ -9,4 +9,5 @@ publication = "*Neurocomputing*"
 tags = [ "stdp",]
 url_pdf = "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.18.4990"
 doi = "10.1.1.18.4990"
+publishDate = "2019-09-17"
 +++

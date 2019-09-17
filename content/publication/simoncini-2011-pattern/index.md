@@ -9,4 +9,5 @@ publication = "*Journal of Vision*"
 tags = [ "eye movements", "motion detection", "motion-clouds", "psychophysics",]
 url_pdf = "http://dx.doi.org/10.1167/11.11.749"
 doi = "10.1167/11.11.749"
+publishDate = "2019-09-17"
 +++

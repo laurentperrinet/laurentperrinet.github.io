@@ -9,6 +9,7 @@ publication = "*1ère conférence francophone NEUROsciences COMPutationnelles (N
 tags = [ "Aperture problem", "Bayesian model", "Object motion", "recursive inference", "Smooth pursuit eye movement", "Temporal evolution",]
 url_pdf = "http://dx.doi.org/10.1016/j.jphysparis.2007.10.013"
 doi = "10.1016/j.jphysparis.2007.10.013"
+publishDate = "2019-09-17"
 +++
 
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

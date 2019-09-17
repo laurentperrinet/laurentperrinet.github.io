@@ -9,4 +9,5 @@ publication = "*Sixteenth Annual Computational Neuroscience Meeting: CNS*2007, T
 tags = [ "area-v1",]
 url_pdf = "http://dx.doi.org/10.1186/1471-2202-8-S2-P206"
 doi = "10.1186/1471-2202-8-S2-P206"
+publishDate = "2019-09-17"
 +++

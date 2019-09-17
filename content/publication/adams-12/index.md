@@ -9,4 +9,5 @@ publication = "*PLoS ONE*"
 tags = [ "active inference", "Bayesian model", "eye movements", "motion detection",]
 url_pdf = "http://dx.doi.org/10.1371/journal.pone.0047502"
 doi = "10.1371/journal.pone.0047502"
+publishDate = "2019-09-17"
 +++

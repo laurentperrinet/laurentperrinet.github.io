@@ -7,4 +7,5 @@ featured = false
 publication = "*Proceedings of COSYNE, 2008*"
 tags = [ "Bayesian model", "coding decoding", "sparse coding", "sparse hebbian learning", "spike",]
 projects = [ "facets",]
+publishDate = "2019-09-17"
 +++

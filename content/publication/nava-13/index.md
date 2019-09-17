@@ -9,4 +9,5 @@ publication = "*Progress in Pattern Recognition, Image Analysis, Computer Vision
 tags = [ "Biologically Inspired Computer vision", "Image texture", "sparse coding",]
 url_pdf = "http://dx.doi.org/10.1007/978-3-642-41827-3_27"
 doi = "10.1007/978-3-642-41827-3_27"
+publishDate = "2019-09-17"
 +++

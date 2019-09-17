@@ -10,4 +10,5 @@ tags = [ "association field", "Biologically Inspired Computer vision", "coding d
 url_pdf = "http://dx.doi.org/10.1109/EUSIPCO.2015.7362781"
 doi = "10.1109/EUSIPCO.2015.7362781"
 projects = [ "anr-bala-v1", "brain-scales",]
+publishDate = "2019-09-17"
 +++

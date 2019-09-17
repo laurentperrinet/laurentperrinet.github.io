@@ -8,4 +8,5 @@ featured = false
 publication = "*Doc2AMU Doctoral Day - 2017-10-13*"
 tags = [ "Deep Learning",]
 projects = [ "doc-2-amu", "phd-icn",]
+publishDate = "2019-09-17"
 +++

@@ -8,4 +8,5 @@ featured = false
 publication = "*Fifteenth Annual Computational Neuroscience Meeting (CNS*2006)*"
 tags = [ "unsupervised learning",]
 url_pdf = "https://ocns.memberclicks.net/assets/docs/CNS_Program_books/2006booklet.pdf"
+publishDate = "2019-09-17"
 +++

@@ -8,4 +8,5 @@ publication = ""
 tags = [ "Biologically Inspired Computer vision", "Image texture", "Retina", "sparse coding",]
 projects = [ "motion-clouds",]
 url_pdf = "https://laurentperrinet.github.io/publication/ravello-16-droplets"
+publishDate = "2019-09-17"
 +++

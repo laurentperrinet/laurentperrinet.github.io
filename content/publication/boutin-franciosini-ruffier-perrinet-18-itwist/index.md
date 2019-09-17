@@ -9,6 +9,7 @@ publication = "*iTwist, 2018*"
 url_pdf = "https://arxiv.org/abs/1812.01335"
 tags = [ "Deep Learning",]
 projects = [ "doc-2-amu", "phd-icn",]
+publishDate = "2019-09-17"
 +++
 
 1. accepted submission @ [iTWIST: international Traveling Workshop on Interactions between low-complexity data models and Sensing Techniques](https://sites.google.com/view/itwist18), 21 - 23 November​, 2018

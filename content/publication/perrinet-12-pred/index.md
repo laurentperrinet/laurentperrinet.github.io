@@ -8,6 +8,7 @@ featured = false
 publication = "*Neural Computation*"
 tags = [ "aperture problem", "Bayesian model", "motion prediction", "predictive coding",]
 url_pdf = "https://arxiv.org/abs/1208.6471"
+publishDate = "2019-09-17"
 +++
 
 

@@ -8,4 +8,5 @@ publication = "*GDR Vision, Toulouse, Nov 3rd, 2016*"
 url_pdf = "https://laurentperrinet.github.io/publication/mansour-16-gdr"
 tags = [ "eye movements", "motion detection", "motion-clouds",]
 projects = [ "pace-itn",]
+publishDate = "2019-09-17"
 +++
