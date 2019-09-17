@@ -172,6 +172,11 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
                     date_str = f"{date_str}-01-01"
             parsed_toml['date'] = getDateTimeFromISO8601String(date_str)
 
+            # Time stamping the entry to be published today
+            if not 'publishDate' in parsed_toml.keys():
+                today = datetime.datetime.now().date().isoformat()#[2:]
+                parsed_toml['publishDate'] = today
+
             authors = None
             if 'author' in entry:
                 authors = entry['author']
@@ -229,7 +234,9 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
                 else:
                     #parsed_toml['time_start'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["ID"][:10]))
                     parsed_toml['date'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["ID"][:10]))
-                parsed_toml['publishDate'] = str(parsed_toml['date'])[:4] + '-01-01' # overwrite date
+
+
+                #parsed_toml['publishDate'] = today #str(parsed_toml['date'])[:4] + '-01-01' # overwrite date
                 # remove obsolete entry:
                 parsed_toml.pop("time_start", None)
                 parsed_toml.pop("time_end", None)
