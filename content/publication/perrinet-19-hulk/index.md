@@ -20,7 +20,7 @@ publishDate = "2019-09-17"
 <BR>
 
 
- * paper info : https://laurentperrinet.github.io/publication/perrinet-19-hulk/
+ * supplementary info : https://spikeai.github.io/HULK/
  * [PDF](https://www.mdpi.com/2411-5150/3/3/47/pdf)
  * code for paper: https://github.com/SpikeAI/HULK
  * code for framework: https://github.com/bicv/SparseHebbianLearning/
