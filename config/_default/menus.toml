@@ -44,6 +44,12 @@
   url = "#projects"
   weight = 40
 
+
+[[main]]
+  name = "Grants"
+  url = "#grants"
+  weight = 43
+
 [[main]]
   name = "BlogBook"
   url = "https://laurentperrinet.github.io/sciblog/"
