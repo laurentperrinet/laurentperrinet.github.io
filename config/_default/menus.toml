@@ -6,27 +6,27 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 10
+  weight = 5
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
-
-[[main]]
-  name = "People"
-  url = "#people"
-  weight = 15
-
-[[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 20
+  weight = 10
 
 [[main]]
   name = "Featured"
   url = "#featured"
+  weight = 20
+
+[[main]]
+  name = "Publications"
+  url = "#publications"
   weight = 25
+
+[[main]]
+  name = "People"
+  url = "#people"
+  weight = 27
 
 [[main]]
   name = "Events"
