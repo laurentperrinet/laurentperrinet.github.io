@@ -14,11 +14,9 @@ publishDate = "2019-09-17"
 +++
 
 # "An adaptive algorithm for unsupervised learning"
-
 <BR>
 <center><a href="https://laurentperrinet.github.io/publication/perrinet-19"><video controls autoplay loop src="https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4" width=61.8%/></a> </center>
 <BR>
-
 
  * supplementary info : https://spikeai.github.io/HULK/
  * [PDF](https://www.mdpi.com/2411-5150/3/3/47/pdf)
