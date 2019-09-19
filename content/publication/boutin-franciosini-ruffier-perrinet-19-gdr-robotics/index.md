@@ -9,5 +9,5 @@ publication = "*GdR Robotics - 2019-06-05*"
 tags = [ "Deep Learning",]
 projects = [ "doc-2-amu", "phd-icn",]
 publishDate = "2019-09-17"
-grants = [ "doc-2-amu", "phd-icn",]
+grants = [ "doc-2-amu", "phd-icn; mesocentre",]
 +++

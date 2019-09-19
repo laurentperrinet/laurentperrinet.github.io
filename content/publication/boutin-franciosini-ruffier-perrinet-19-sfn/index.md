@@ -10,5 +10,5 @@ url_pdf = "https://arxiv.org/abs/1812.01335"
 projects = [ "doc-2-amu", "phd-icn",]
 tags = [ "Deep Learning",]
 publishDate = "2019-09-17"
-grants = [ "doc-2-amu", "phd-icn",]
+grants = [ "doc-2-amu", "phd-icn; mesocentre",]
 +++

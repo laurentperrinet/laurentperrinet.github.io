@@ -11,7 +11,7 @@ url_preprint = "https://arxiv.org/abs/1902.07651"
 tags = [ "sparse coding",]
 projects = [ "doc-2-amu", "phd-icn",]
 publishDate = "2019-09-17"
-grants = [ "doc-2-amu", "phd-icn",]
+grants = [ "doc-2-amu", "phd-icn; mesocentre",]
 +++
 
  * presented during this [talk]({{< ref "/talk/2019-03-25-hdr-robin-baures/index.md" >}})

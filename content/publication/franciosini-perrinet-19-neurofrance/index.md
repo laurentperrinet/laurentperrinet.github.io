@@ -10,5 +10,5 @@ url_pdf = "https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/
 projects = [ "doc-2-amu", "phd-icn",]
 tags = [ "Deep Learning",]
 publishDate = "2019-09-17"
-grants = [ "doc-2-amu", "phd-icn",]
+grants = [ "doc-2-amu", "phd-icn", "mesocentre",]
 +++
