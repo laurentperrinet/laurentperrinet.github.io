@@ -8,7 +8,7 @@ featured = false
 publication = "*Vision*"
 tags = [ "area-v1", "gain control", "homeostasis", "matching pursuit", "sparse coding", "sparse hebbian learning", "unsupervised learning",]
 projects = [ "anr-horizontal-v1", "spikeai",]
-url_pdf = "https://github.com/SpikeAI/HULK"
+url_pdf = "https://spikeai.github.io/HULK/"
 doi = "10.3390/vision3030047"
 publishDate = "2019-09-17"
 +++
