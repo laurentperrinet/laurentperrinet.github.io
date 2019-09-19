@@ -8,6 +8,7 @@ publication = "*Proceedings of NeuroComp08, Marseille*"
 tags = [ "feed-forward_inhibition", "large-scale_networks",]
 projects = [ "facets",]
 publishDate = "2019-09-17"
+grants = [ "facets",]
 +++
 
 * see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publication/kremkow-10-jcns/index.md" >}})

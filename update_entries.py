@@ -196,9 +196,11 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
 
             if 'keywords' in entry:
                 parsed_toml['tags'] = clean_bibtex_tags(entry["keywords"], normalize)
-            if 'projects' in entry:
-                parsed_toml['projects'] = clean_bibtex_tags(entry["projects"], normalize)
-                if verbose: print(parsed_toml['projects'])
+
+            for this_key in ['grants', 'projects']:
+                if this_key in entry:
+                    parsed_toml[this_key] = clean_bibtex_tags(entry[this_key], normalize)
+                    if verbose: print(parsed_toml[this_key])
 
             for url_key in ['url_slides', 'url_code', 'url_slides']:
                 if url_key in entry:

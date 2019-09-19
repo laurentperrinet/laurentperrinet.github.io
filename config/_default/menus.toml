@@ -8,6 +8,10 @@
   url = "#about"
   weight = 10
 
+[[main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 4
 
 [[main]]
   name = "People"
@@ -33,32 +37,16 @@
   name = "Talks"
   url = "/talk/"
   weight = 33
-#
-# [[main]]
-#   name = "Events"
-#   url = "/events/"
-#   weight = 33
-
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 40
-
 
 [[main]]
   name = "Grants"
   url = "#grants"
-  weight = 43
+  weight = 40
 
 [[main]]
   name = "BlogBook"
   url = "https://laurentperrinet.github.io/sciblog/"
-  weight = 45
-#
-# [[main]]
-#   name = "Grants"
-#   url = "/grants/"
-#   weight = 50
+  weight = 50
 
 [[main]]
   name = "Contact"

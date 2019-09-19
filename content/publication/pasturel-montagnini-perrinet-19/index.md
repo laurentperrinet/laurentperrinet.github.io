@@ -10,4 +10,5 @@ tags = [ "motion anticipation",]
 url_pdf = "https://github.com/laurentperrinet/PasturelMontagniniPerrinet2019"
 projects = [ "pace-itn",]
 publishDate = "2019-09-17"
+grants = [ "pace-itn",]
 +++

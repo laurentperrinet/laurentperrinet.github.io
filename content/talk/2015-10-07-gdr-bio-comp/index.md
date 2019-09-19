@@ -12,6 +12,7 @@ location = "Saint-Paul de Vence"
 url_slides = "http://invibe.net/LaurentPerrinet/Presentations/2015-10-07_GDR-BioComp?action=AttachFile&do=view&target=Perrinet15biocomp_slides.pdf"
 projects = [ "brain-scales",]
 publishDate = "2015-01-01"
+grants = [ "brain-scales",]
 
 [image]
 +++

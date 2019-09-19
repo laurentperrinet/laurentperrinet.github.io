@@ -8,4 +8,5 @@ publication = "*FENS Abstract*"
 tags = [ "lateral connections",]
 projects = [ "facets",]
 publishDate = "2019-09-17"
+grants = [ "facets",]
 +++

@@ -9,7 +9,7 @@ event = "JNLF 2019, Revue Neurologique, Volume 175, Supplement 1, Page S165"
 event_url = "https://www.jnlf.fr/agenda/jnlf-lille-2019"
 location = "Lille, France"
 featured = false
-projects = [ "anr-horizontal-v1", "tout-public",]
+projects = [ "tout-public",]
 tags = []
 url_pdf = "https://laurentperrinet.github.io/talk/2019-04-18-jnlf"
 url_slides = "https://laurentperrinet.github.io/2019-04-18_JNLF"
@@ -20,4 +20,5 @@ date = 2019-04-18T13:00:00
 publishDate = "2019-01-01"
 summary = "Les objectifs sont : -- mieux comprendre la fonction de la perception visuelle en explorant certaines limites ; -- mieux comprendre l'importance de l'aspect dynamique de la perception ; -- mieux comprendre le rôle de l'action dans la perception."
 doi = "10.1016/j.neurol.2019.01.031"
+grants = [ "anr-horizontal-v1",]
 +++

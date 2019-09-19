@@ -10,6 +10,7 @@ tags = [ "motion anticipation",]
 url_pdf = "https://github.com/laurentperrinet/Perrinet18gdr"
 projects = [ "pace-itn",]
 publishDate = "2019-09-17"
+grants = [ "pace-itn",]
 +++
 
  - poster presented @ [[https://gdrvision2018.sciencesconf.org/|GDR vision, Paris]].

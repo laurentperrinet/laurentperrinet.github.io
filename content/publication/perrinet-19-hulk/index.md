@@ -11,13 +11,13 @@ projects = [ "anr-horizontal-v1", "spikeai",]
 url_pdf = "https://spikeai.github.io/HULK/"
 doi = "10.3390/vision3030047"
 publishDate = "2019-09-17"
+grants = [ "anr-horizontal-v1", "spikeai",]
 +++
 
 # "An adaptive algorithm for unsupervised learning"
 <BR>
 <center><a href="https://laurentperrinet.github.io/publication/perrinet-19"><video controls autoplay loop src="https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4" width=61.8%/></a> </center>
 <BR>
-
  * supplementary info : https://spikeai.github.io/HULK/
  * [PDF](https://www.mdpi.com/2411-5150/3/3/47/pdf)
  * code for paper: https://github.com/SpikeAI/HULK

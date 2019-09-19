@@ -12,6 +12,7 @@ url_slides = "https://laurentperrinet.github.io/2019-01-18_LACONEU/"
 url_code = "https://github.com/laurentperrinet/2019-01-18_LACONEU/"
 projects = [ "anr-horizontal-v1",]
 publishDate = "2019-01-01"
+grants = [ "anr-horizontal-v1",]
 +++
 
 * previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})

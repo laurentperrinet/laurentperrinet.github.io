@@ -12,6 +12,7 @@ url_pdf = "https://laurentperrinet.github.io/2019-03-25_HDR_RobinBaures"
 event_url = "http://www.cerco.ups-tlse.fr/Robin-Baures"
 location = "Toulouse (France)"
 event = "HDR Robin Baurès, Toulouse (France)"
+grants = [ "anr-horizontal-v1",]
 +++
 
 * check-out our preprint on [SDPC]({{< ref "/publication/boutin-franciosini-ruffier-perrinet-19/index.md" >}})

@@ -12,6 +12,7 @@ url_slides = "https://laurentperrinet.github.io/sciblog/files/2016-10-13_LAW.htm
 url_code = ""
 projects = [ "anr-rem", "pace-itn",]
 publishDate = "2016-01-01"
+grants = [ "anr-rem", "pace-itn",]
 +++
 
 * next talk @ [INVIBE FEST, Paris]({{< ref "/talk/2018-02-01-bcp-invibe-fest/index.md" >}})

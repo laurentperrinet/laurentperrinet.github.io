@@ -11,6 +11,7 @@ doi = "10.1109/IJCNN.2014.6889847"
 projects = [ "brain-scales", "facets-itn",]
 url_pdf = "https://laurentperrinet.github.io/publication/kaplan-khoei-14"
 publishDate = "2019-09-17"
+grants = [ "brain-scales", "facets-itn",]
 +++
 
 * Based on [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

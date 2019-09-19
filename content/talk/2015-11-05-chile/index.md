@@ -11,4 +11,5 @@ event_url = "http://www.eventos.usm.cl/evento/charla-motion-based-prediction-wit
 location = "Universidad Tecnica Federico Santa Maria, Valparaiso (Chile)"
 projects = [ "anr-bala-v1",]
 publishDate = "2015-01-01"
+grants = [ "anr-bala-v1",]
 +++

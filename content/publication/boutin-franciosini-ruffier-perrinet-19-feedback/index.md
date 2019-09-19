@@ -9,4 +9,5 @@ publication = "*Submitted*"
 tags = [ "sparse coding",]
 projects = [ "doc-2-amu", "phd-icn",]
 publishDate = "2019-09-17"
+grants = [ "doc-2-amu", "phd-icn",]
 +++

@@ -9,6 +9,7 @@ tags = [ "Bayesian model", "motion prediction",]
 url_pdf = "https://laurentperrinet.github.io/publication/khoei-12-sfn"
 projects = [ "facets-itn",]
 publishDate = "2019-09-17"
+grants = [ "facets-itn",]
 +++
 
 * Based on [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

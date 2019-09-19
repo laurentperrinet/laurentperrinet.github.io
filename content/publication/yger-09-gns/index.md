@@ -9,4 +9,5 @@ publication = "*Eighth Göttingen Meeting of the German Neuroscience Society*"
 tags = [ "pynn",]
 projects = [ "brain-scales", "facets", "facets-itn",]
 publishDate = "2019-09-17"
+grants = [ "brain-scales", "facets", "facets-itn",]
 +++

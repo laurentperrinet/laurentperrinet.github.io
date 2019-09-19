@@ -12,6 +12,7 @@ doi = "10.1038/s41598-018-36861-8"
 url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-02007905"
 featured = true
 publishDate = "2019-09-17"
+grants = [ "motion-clouds",]
 +++
 
 * [Press release](http://www4.cnrs-dir.fr/insb/recherche/parutions/articles2019/l-perrinet.html)

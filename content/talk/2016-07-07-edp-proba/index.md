@@ -11,6 +11,7 @@ location = "CIRM, Marseille"
 url_slides = "https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba"
 projects = [ "anr-bala-v1", "brain-scales",]
 publishDate = "2016-01-01"
+grants = [ "anr-bala-v1", "brain-scales",]
 +++
 
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

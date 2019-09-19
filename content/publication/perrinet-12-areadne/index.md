@@ -9,4 +9,5 @@ publication = "*Proceedings of AREADNE, Santorini, Greece, 21-24 June 2012, publ
 tags = [ "active inference",]
 projects = [ "codde",]
 publishDate = "2019-09-17"
+grants = [ "codde",]
 +++

@@ -7,7 +7,8 @@ abstract = "Les illusions visuelles sont des créations d'artistes, de scientifi
 featured = false
 publication = "*The Conversation*"
 url_pdf = "https://laurentperrinet.github.io/publication/perrinet-19-illusions/"
-projects = [ "anr-horizontal-v1", "tout-public",]
+projects = [ "tout-public",]
 url_preprint = "https://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389"
 publishDate = "2019-09-17"
+grants = [ "anr-horizontal-v1",]
 +++

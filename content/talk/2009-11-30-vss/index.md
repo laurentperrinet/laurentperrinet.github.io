@@ -8,6 +8,7 @@ publication = "*Macroscopic aspects of neuronal activity: ''Macroscopic models, 
 event = "Macroscopic aspects of neuronal activity: ''Macroscopic models, LFP models and VSD models'' a FACETS workshop in Marseille, Nov. 30th /Dec. 1st"
 projects = [ "facets",]
 publishDate = "2009-01-01"
+grants = [ "facets",]
 +++
 
 * see this more recent poster @ [VSS]({{< ref "/publication/perrinet-09-vss/index.md" >}})

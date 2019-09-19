@@ -8,6 +8,7 @@ doi = "doi:10.1186/1471-2202-10-S1-O21"
 event = "Eighteenth Annual Computational Neuroscience Meeting: CNS*2009 Berlin, Germany. 18--23 July 2009"
 projects = [ "facets",]
 publishDate = "2009-01-01"
+grants = [ "facets",]
 +++
 
 

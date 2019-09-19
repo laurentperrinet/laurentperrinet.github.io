@@ -10,4 +10,5 @@ url_pdf = "https://laurentperrinet.github.io/publication/perrinet-13-cns"
 tags = [ "active inference",]
 projects = [ "codde",]
 publishDate = "2019-09-17"
+grants = [ "codde",]
 +++

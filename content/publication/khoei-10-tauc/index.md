@@ -9,6 +9,7 @@ tags = [ "Bayesian model", "center-surround interactions", "motion prediction", 
 url_pdf = "https://laurentperrinet.github.io/publication/khoei-10-tauc/"
 projects = [ "facets", "facets-itn",]
 publishDate = "2019-09-17"
+grants = [ "facets", "facets-itn",]
 +++
 
 

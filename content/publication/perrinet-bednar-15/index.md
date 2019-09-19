@@ -14,6 +14,7 @@ url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-01202447"
 featured = true
 projects = [ "anr-bala-v1",]
 publishDate = "2019-09-17"
+grants = [ "anr-bala-v1",]
 +++
 
 * [Press release](http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html)

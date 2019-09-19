@@ -13,6 +13,7 @@ url_code = "https://github.com/laurentperrinet/2019-04-05_BBCP_causal_kickoff/"
 location = "INT, Marseille (France)"
 event = "CausaL Kick-off"
 publishDate = "2019-01-01"
+grants = [ "anr-causal",]
 +++
 
 * previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})

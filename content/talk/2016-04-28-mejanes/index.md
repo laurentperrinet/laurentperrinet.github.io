@@ -12,6 +12,7 @@ event_url = ""
 location = "Marseille, France"
 event = "Cycle de conférences \\\"Tous connectés\\\", Bibliothèque de Méjanes"
 publishDate = "2016-01-01"
+grants = [ "tout-public",]
 +++
 
 # Les illusions visuelles, un révélateur du fonctionnement de notre cerveau

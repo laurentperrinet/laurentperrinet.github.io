@@ -12,6 +12,7 @@ location = "Malet Place Eng Bldg 1.03 (first floor)."
 url_slides = "http://invibe.net/LaurentPerrinet/Presentations/2012-01-12_VisionAtUcl?action=AttachFile&do=get&target=perrinet12ucl_handout.pdf"
 projects = [ "brain-scales",]
 publishDate = "2012-01-01"
+grants = [ "brain-scales",]
 +++
 
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

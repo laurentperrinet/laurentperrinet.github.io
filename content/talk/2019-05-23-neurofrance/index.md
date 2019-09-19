@@ -12,6 +12,7 @@ publishDate = "2019-01-01"
 url_slides = "https://invibe.github.io/2019-05-23_Neurofrance"
 url_code = "https://github.com/invibe/2019-05-23_Neurofrance/"
 location = "Marseille (France)"
+grants = [ "pace-itn",]
 +++
 
 * This is part of the [Active Inference symposium]({{< ref "/post/2019-05-23-neurofrance/index.md" >}}) @ [NeuroFrance](https://www.neurosciences.asso.fr/V2/colloques/SN19/) SYMPOSIUM, Room 7

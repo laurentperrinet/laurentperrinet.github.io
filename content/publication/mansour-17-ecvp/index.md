@@ -9,4 +9,5 @@ tags = [ "eye movements", "motion detection", "motion-clouds",]
 url_pdf = "https://laurentperrinet.github.io/publication/mansour-17-ecvp/"
 projects = [ "pace-itn",]
 publishDate = "2019-09-17"
+grants = [ "pace-itn",]
 +++

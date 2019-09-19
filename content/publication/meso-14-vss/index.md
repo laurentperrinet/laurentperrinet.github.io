@@ -11,4 +11,5 @@ projects = [ "anr-speed", "motion-clouds",]
 url_pdf = "http://dx.doi.org/10.1167/14.10.491"
 doi = "10.1167/14.10.491"
 publishDate = "2019-09-17"
+grants = [ "anr-speed", "motion-clouds",]
 +++

@@ -10,4 +10,5 @@ tags = [ "association field", "Biologically Inspired Computer vision", "coding d
 projects = [ "facets",]
 url_pdf = "https://arxiv.org/abs/0804.4830"
 publishDate = "2019-09-17"
+grants = [ "facets",]
 +++

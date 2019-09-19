@@ -11,6 +11,7 @@ location = "CerCo, Toulouse"
 url_slides = "http://invibe.net/LaurentPerrinet/Presentations/2013-07-05_Cerco?action=AttachFile&do=get&target=perrinet13cerco.pdf"
 projects = [ "brain-scales",]
 publishDate = "2013-01-01"
+grants = [ "brain-scales",]
 +++
 
 * See a followup in [Perrinet and Bednar, 2015]({{< ref "/publication/perrinet-bednar-15" >}})

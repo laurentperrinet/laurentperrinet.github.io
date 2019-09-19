@@ -10,4 +10,5 @@ projects = [ "brain-scales",]
 location = "Forschungszentrum Jülich"
 url_slides = "http://invibe.net/LaurentPerrinet/Presentations/2012-03-22_Juelich?action=AttachFile&do=get&target=perrinet12wp4_handout.pdf"
 publishDate = "2012-01-01"
+grants = [ "brain-scales",]
 +++

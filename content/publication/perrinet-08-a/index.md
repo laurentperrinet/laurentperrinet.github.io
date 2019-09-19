@@ -8,4 +8,5 @@ publication = "*Proceedings of COSYNE, 2008*"
 tags = [ "Bayesian model", "center-surround interactions", "eye movements", "lateral connections", "motion detection", "visual perception",]
 projects = [ "facets",]
 publishDate = "2019-09-17"
+grants = [ "facets",]
 +++

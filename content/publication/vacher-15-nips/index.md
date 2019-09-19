@@ -10,4 +10,5 @@ projects = [ "anr-speed",]
 tags = [ "motion-clouds",]
 url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-01225867"
 publishDate = "2019-09-17"
+grants = [ "anr-speed",]
 +++

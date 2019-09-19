@@ -11,4 +11,5 @@ tags = [ "Biologically Inspired Computer vision",]
 projects = [ "doc-2-amu",]
 url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-01899440"
 publishDate = "2019-09-17"
+grants = [ "doc-2-amu",]
 +++

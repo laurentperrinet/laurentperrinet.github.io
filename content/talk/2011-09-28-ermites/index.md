@@ -12,6 +12,7 @@ event_url = "http://glotin.univ-tln.fr/ERMITES11/index.xhtml"
 location = "Porquerolles la Perle des Iles d'Or - Var (France)"
 projects = [ "brain-scales",]
 publishDate = "2011-01-01"
+grants = [ "brain-scales",]
 +++
 
 * See a followup in [Perrinet and Bednar, 2015]({{< ref "/publication/perrinet-bednar-15" >}})

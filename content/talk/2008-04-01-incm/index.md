@@ -9,4 +9,5 @@ event = "Séminaires de l'INCM, April 11th, 2008"
 projects = [ "facets",]
 publishDate = "2008-01-01"
 url_pdf = "https://laurentperrinet.github.io/talk/2008-04-01-incm/"
+grants = [ "facets",]
 +++

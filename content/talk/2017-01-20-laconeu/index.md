@@ -11,4 +11,5 @@ location = "Valparaiso (Chile)"
 url_slides = "https://laurentperrinet.github.io/sciblog/files/2017-01-20_LACONEU.html"
 projects = [ "anr-trajectory",]
 publishDate = "2017-01-01"
+grants = [ "anr-trajectory",]
 +++

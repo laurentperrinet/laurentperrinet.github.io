@@ -13,4 +13,5 @@ projects = [ "anr-bala-v1",]
 url_preprint = "https://arxiv.org/abs/1702.02485"
 url_code = "https://github.com/bicv/Perrinet16EUVIP"
 publishDate = "2019-09-17"
+grants = [ "anr-bala-v1",]
 +++
