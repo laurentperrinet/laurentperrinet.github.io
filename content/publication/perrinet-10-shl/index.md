@@ -13,3 +13,5 @@ url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-00156610"
 url_code = "https://laurentperrinet.github.io/publication/perrinet-10-shl"
 publishDate = "2019-09-17"
 +++
+
+![header](perrinet-10-shl.png)

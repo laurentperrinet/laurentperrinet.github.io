@@ -11,3 +11,5 @@ url_pdf = "http://dx.doi.org/10.1016/j.jphysparis.2007.10.011"
 doi = "10.1016/j.jphysparis.2007.10.011"
 publishDate = "2019-09-17"
 +++
+
+![header](perrinet-07-neurocomp.png)

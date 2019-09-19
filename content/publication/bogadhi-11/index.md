@@ -14,4 +14,5 @@ publishDate = "2019-09-17"
 grants = [ "codde",]
 +++
 
+![header](bogadhi-11.png)
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

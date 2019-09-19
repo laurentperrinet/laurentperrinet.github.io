@@ -14,3 +14,5 @@ url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-00586786"
 publishDate = "2019-09-17"
 grants = [ "facets",]
 +++
+
+![header](davison-08.png)
