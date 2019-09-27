@@ -12,3 +12,6 @@ projects = [ "pace-itn",]
 publishDate = "2019-09-17"
 grants = [ "pace-itn",]
 +++
+
+* get a [preprint](https://www.biorxiv.org/content/10.1101/784116v1)
+* source code for [paper](https://github.com/laurentperrinet/PasturelMontagniniPerrinet2019) and for the [framework](https://github.com/chloepasturel/AnticipatorySPEM)
