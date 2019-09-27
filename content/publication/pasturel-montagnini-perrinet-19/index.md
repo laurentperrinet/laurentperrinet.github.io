@@ -1,5 +1,5 @@
 +++
-title = "Humans adapt their eye movements to the volatility of visual motion properties, and know about it"
+title = "Humans adapt their anticipatory eye movements to the volatility of visual motion properties"
 date = 2019-09-26
 authors = [ "Chloé Pasturel", "Anna Montagnini", "Laurent U Perrinet",]
 publication_types = [ "2",]
