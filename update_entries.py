@@ -23,7 +23,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
             keys.append(entry['ID'])
 
     # 2- making a dictionary to slugify
-    from academic import slugify, month2number
+    from academic.cli import slugify, month2number
 
     dico = {}
     for key in keys:
