@@ -8,7 +8,7 @@ publication = "*CNS 2013, Paris*"
 tags = [ "Bayesian model", "motion detection", "motion prediction",]
 url_pdf = "https://laurentperrinet.github.io/publication/khoei-13-cns"
 doi = "10.1186/1471-2202-14-S1-P314"
-projects = [ "facets-itn",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "facets-itn",]
 +++

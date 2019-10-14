@@ -7,7 +7,7 @@ abstract = "Within the central nervous system, visual areas are essential in tra
 featured = false
 publication = ""
 tags = [ "active inference", "area-v1", "Bayesian model",]
-projects = [ "anr-horizontal-v1", "spikeai",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "anr-horizontal-v1", "spikeai",]
 +++

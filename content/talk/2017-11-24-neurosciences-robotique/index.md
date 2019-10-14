@@ -7,7 +7,7 @@ publication = "*Journee du GT 8 (Neurosciences - Robotique)*"
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2017-11-24_NeurosciencesRobotique"
 event = "Journee du GT 8 (Neurosciences - Robotique)"
 tags = [ "sparse coding",]
-projects = [ "doc-2-amu",]
+projects = []
 event_url = "http://www.isir.upmc.fr/index.php?op=view_page&id=1463&menuid=17"
 location = "IMERA (Aix-Marseille Université)"
 url_slides = ""

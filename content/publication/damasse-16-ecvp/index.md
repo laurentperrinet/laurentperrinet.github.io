@@ -7,7 +7,7 @@ featured = false
 publication = "*Proceedings of ECVP*"
 url_pdf = "https://laurentperrinet.github.io/publication/damasse-16-ecvp"
 tags = [ "eye movements", "Smooth pursuit eye movement",]
-projects = [ "anr-rem",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "anr-rem",]
 +++

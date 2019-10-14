@@ -9,7 +9,7 @@ url_pdf = "http://invibe.net/cgi-bin/index.cgi/Presentations/2012-01-24_Edinburg
 event = "A seminar from the Institute for Adaptive and Neural Computation (ANC)"
 event_url = "http://www.anc.ed.ac.uk/events/anc-dtc-seminar-laurent-perrinet"
 location = "Room IF 4.31/4.33, Institute for Adaptive and Neural Computation (ANC) at the University of Edinburgh"
-projects = [ "brain-scales",]
+projects = []
 publishDate = "2012-01-01"
 grants = [ "brain-scales",]
 +++

@@ -6,7 +6,7 @@ abstract = "Short presentation of a large moving pattern elicits an ocular follo
 featured = false
 publication = "*Macroscopic aspects of neuronal activity: ''Macroscopic models, LFP models and VSD models'' a FACETS workshop in Marseille, Nov. 30th /Dec. 1st*"
 event = "Macroscopic aspects of neuronal activity: ''Macroscopic models, LFP models and VSD models'' a FACETS workshop in Marseille, Nov. 30th /Dec. 1st"
-projects = [ "facets",]
+projects = []
 publishDate = "2009-01-01"
 grants = [ "facets",]
 +++

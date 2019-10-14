@@ -7,7 +7,7 @@ featured = false
 publication = "*Proceedings of Tauc*"
 tags = [ "Bayesian model", "center-surround interactions", "motion prediction", "Ocular Following Response", "tracking eye movements", "Visual perception",]
 url_pdf = "https://laurentperrinet.github.io/publication/khoei-10-tauc/"
-projects = [ "facets", "facets-itn",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "facets", "facets-itn",]
 +++

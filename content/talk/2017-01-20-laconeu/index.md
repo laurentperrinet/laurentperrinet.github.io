@@ -9,7 +9,7 @@ event = "LACONEU 2017: 4th Latin-American Summer School in Computational Neurosc
 event_url = "http://www.laconeu.cl"
 location = "Valparaiso (Chile)"
 url_slides = "https://laurentperrinet.github.io/sciblog/files/2017-01-20_LACONEU.html"
-projects = [ "anr-trajectory",]
+projects = []
 publishDate = "2017-01-01"
 grants = [ "anr-trajectory",]
 +++

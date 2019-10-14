@@ -7,7 +7,7 @@ abstract = "In the primary visual cortex (V1), single cell responses to simple v
 featured = false
 publication = "*Proceedings of the Society for Neuroscience conference*"
 tags = [ "feed-forward_inhibition", "large-scale_networks",]
-projects = [ "facets",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "facets",]
 +++

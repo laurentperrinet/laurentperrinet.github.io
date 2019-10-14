@@ -6,7 +6,7 @@ publication_types = [ "1",]
 featured = false
 publication = "*Proceedings of NeuroComp08, Marseille*"
 tags = [ "feed-forward_inhibition", "large-scale_networks",]
-projects = [ "facets",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "facets",]
 +++

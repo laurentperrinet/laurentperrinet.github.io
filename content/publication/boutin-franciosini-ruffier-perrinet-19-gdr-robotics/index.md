@@ -7,7 +7,7 @@ abstract = "The brain has to solve inverse problems to correctly interpret senso
 featured = false
 publication = "*GdR Robotics - 2019-06-05*"
 tags = [ "Deep Learning",]
-projects = [ "doc-2-amu", "phd-icn",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "doc-2-amu", "phd-icn; mesocentre",]
 +++

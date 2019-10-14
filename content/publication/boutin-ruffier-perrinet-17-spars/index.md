@@ -8,7 +8,7 @@ featured = false
 publication = "*SPARS2017, Lisbon*"
 code = "https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars"
 tags = [ "sparse coding",]
-projects = [ "doc-2-amu",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "doc-2-amu",]
 +++

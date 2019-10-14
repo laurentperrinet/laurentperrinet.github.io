@@ -7,7 +7,7 @@ featured = false
 publication = "*Perception*"
 tags = [ "bayesian model", "motion prediction",]
 url_pdf = "https://laurentperrinet.github.io/publication/khoei-11-ecvp/"
-projects = [ "facets", "facets-itn",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "facets", "facets-itn",]
 +++

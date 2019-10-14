@@ -9,7 +9,7 @@ publication = "*Proceedings of VSS*"
 url_pdf = "http://jov.arvojournals.org/article.aspx?articleid=2434129"
 doi = "10.1167/15.12.1019"
 tags = [ "eye movements", "Smooth pursuit eye movement",]
-projects = [ "anr-rem",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "anr-rem",]
 +++

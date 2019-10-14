@@ -6,7 +6,7 @@ publication_types = [ "1",]
 featured = false
 publication = "*Proceedings of COSYNE, 2008*"
 tags = [ "Bayesian model", "coding decoding", "sparse coding", "sparse hebbian learning", "spike",]
-projects = [ "facets",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "facets",]
 +++

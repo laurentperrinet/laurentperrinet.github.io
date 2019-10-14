@@ -8,7 +8,7 @@ featured = false
 publication = ""
 tags = [ "motion anticipation",]
 url_pdf = "https://laurentperrinet.github.io/publication/pasturel-18"
-projects = [ "pace-itn",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "pace-itn",]
 +++

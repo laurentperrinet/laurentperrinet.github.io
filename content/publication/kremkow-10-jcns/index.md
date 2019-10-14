@@ -9,7 +9,7 @@ publication = "*Journal of Computational Neuroscience*"
 tags = [ "center-surround interactions", "coding decoding", "pynn", "sparse coding",]
 url_pdf = "http://www.ncbi.nlm.nih.gov/pubmed/20490645"
 doi = "10.1007/s10827-010-0240-9"
-projects = [ "facets",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "facets",]
 +++

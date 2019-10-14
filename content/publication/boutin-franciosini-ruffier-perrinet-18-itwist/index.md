@@ -8,7 +8,7 @@ featured = false
 publication = "*iTwist, 2018*"
 url_pdf = "https://arxiv.org/abs/1812.01335"
 tags = [ "Deep Learning",]
-projects = [ "doc-2-amu", "phd-icn",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "doc-2-amu", "phd-icn",]
 +++

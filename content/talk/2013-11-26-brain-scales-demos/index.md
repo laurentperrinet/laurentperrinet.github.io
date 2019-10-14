@@ -6,7 +6,7 @@ featured = false
 publication = "*Demo 1-3: Apparent Motion in V1/ MT/MST: Neural Implementation of Probabilistic Approaches*"
 url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2013-11-26_BrainScalesDemos"
 event = "Demo 1-3: Apparent Motion in V1/ MT/MST: Neural Implementation of Probabilistic Approaches"
-projects = [ "brain-scales",]
+projects = []
 publishDate = "2013-01-01"
 grants = [ "brain-scales",]
 +++

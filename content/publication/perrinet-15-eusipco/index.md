@@ -9,7 +9,7 @@ publication = "*European Signal Processing Conference 2015 (EUSIPCO 2015)*"
 tags = [ "association field", "Biologically Inspired Computer vision", "coding decoding", "lateral connections", "sparse coding", "sparselets", "statistics of natural images",]
 url_pdf = "http://dx.doi.org/10.1109/EUSIPCO.2015.7362781"
 doi = "10.1109/EUSIPCO.2015.7362781"
-projects = [ "anr-bala-v1", "brain-scales",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "anr-bala-v1", "brain-scales",]
 +++

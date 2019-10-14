@@ -10,7 +10,7 @@ url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2012-01-12_VisionAtUc
 event = "Vision@UCL seminar"
 location = "Malet Place Eng Bldg 1.03 (first floor)."
 url_slides = "http://invibe.net/LaurentPerrinet/Presentations/2012-01-12_VisionAtUcl?action=AttachFile&do=get&target=perrinet12ucl_handout.pdf"
-projects = [ "brain-scales",]
+projects = []
 publishDate = "2012-01-01"
 grants = [ "brain-scales",]
 +++

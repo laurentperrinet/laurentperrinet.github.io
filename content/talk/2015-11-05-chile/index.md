@@ -9,7 +9,7 @@ url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2015-11-05_Chile"
 event = "Charla"
 event_url = "http://www.eventos.usm.cl/evento/charla-motion-based-prediction-with-neuromorphic-hardware/"
 location = "Universidad Tecnica Federico Santa Maria, Valparaiso (Chile)"
-projects = [ "anr-bala-v1",]
+projects = []
 publishDate = "2015-01-01"
 grants = [ "anr-bala-v1",]
 +++

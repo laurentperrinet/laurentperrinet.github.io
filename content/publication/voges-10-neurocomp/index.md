@@ -7,7 +7,7 @@ abstract = "We study cortical network dynamics for a more realistic network mode
 featured = false
 publication = "*Journal of Physiology-Paris*"
 tags = [ "lateral connections",]
-projects = [ "facets",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "facets",]
 +++

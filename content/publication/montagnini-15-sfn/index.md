@@ -7,7 +7,7 @@ featured = false
 publication = "*Proceedings of the Society for Neuroscience conference*"
 tags = [ "Bayesian model",]
 url_pdf = "https://laurentperrinet.github.io/publication/montagnini-15-sfn"
-projects = [ "anr-rem",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "anr-rem",]
 +++

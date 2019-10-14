@@ -8,7 +8,7 @@ url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2016-11-03_SIGMA"
 event = "Workshop SIGMA'2016: Signal, Image, Geometry, Modelling, Approximation"
 location = "CIRM"
 url_slides = "https://laurentperrinet.github.io/sciblog/files/2016-11-03_SIGMA.html"
-projects = [ "pace-itn",]
+projects = []
 publishDate = "2016-01-01"
 grants = [ "pace-itn",]
 +++

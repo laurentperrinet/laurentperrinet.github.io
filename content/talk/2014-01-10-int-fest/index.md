@@ -8,7 +8,7 @@ publication = "*Marseille INT Fest, January 10th, 2014*"
 tags = [ "Bayesian model", "dynamics", "eye movements", "free energy", "motion detection", "predictive coding",]
 url_pdf = "http://invibe.net/cgi-bin/index.cgi/Presentations/2014-01-10_INTFest"
 event = "Marseille INT Fest, January 10th, 2014"
-projects = [ "brain-scales",]
+projects = []
 publishDate = "2014-01-01"
 grants = [ "brain-scales",]
 +++

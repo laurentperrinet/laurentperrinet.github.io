@@ -12,7 +12,7 @@ math = true
 url_code = "https://github.com/laurentperrinet/PerrinetBednar15"
 url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-01202447"
 featured = true
-projects = [ "anr-bala-v1",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "anr-bala-v1",]
 +++

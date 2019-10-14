@@ -7,7 +7,7 @@ abstract = "Short presentation of a large moving pattern elicits an ocular follo
 featured = false
 publication = "*Vision Science Society*"
 tags = [ "motion detection",]
-projects = [ "facets",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "facets",]
 +++

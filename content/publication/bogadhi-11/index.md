@@ -9,7 +9,7 @@ publication = "*Vision research*"
 tags = [ "Bayesian model", "predictive coding",]
 url_pdf = "http://dx.doi.org/10.1016/j.visres.2010.10.021"
 doi = "10.1016/j.visres.2010.10.021"
-projects = [ "codde",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "codde",]
 +++

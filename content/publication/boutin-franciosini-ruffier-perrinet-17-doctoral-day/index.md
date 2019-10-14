@@ -7,7 +7,7 @@ abstract = "Improve performances of existing recognition computer vision algorit
 featured = false
 publication = "*Doc2AMU Doctoral Day - 2017-10-13*"
 tags = [ "Deep Learning",]
-projects = [ "doc-2-amu", "phd-icn",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "doc-2-amu", "phd-icn",]
 +++

@@ -8,7 +8,7 @@ featured = false
 publication = "*Proceedings of VSS*"
 url_pdf = "http://jov.arvojournals.org/article.aspx?articleid=2433592"
 doi = "10.1167/15.12.484"
-projects = [ "anr-bala-v1", "brain-scales",]
+projects = []
 tags = [ "coding decoding",]
 publishDate = "2019-09-17"
 grants = [ "anr-bala-v1", "brain-scales",]

@@ -7,7 +7,7 @@ abstract = "Most studies of cortical network dynamics are either based on purely
 featured = false
 publication = "*Eighth Göttingen Meeting of the German Neuroscience Society*"
 tags = [ "lateral connections",]
-projects = [ "facets",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "facets",]
 +++

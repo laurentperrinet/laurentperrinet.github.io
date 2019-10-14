@@ -9,7 +9,7 @@ event = "Summer School: PDE and Probability for Life Sciences"
 event_url = "http://scientific-events.weebly.com/prog-1426.html"
 location = "CIRM, Marseille"
 url_slides = "https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba"
-projects = [ "anr-bala-v1", "brain-scales",]
+projects = []
 publishDate = "2016-01-01"
 grants = [ "anr-bala-v1", "brain-scales",]
 +++

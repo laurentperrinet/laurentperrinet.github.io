@@ -8,7 +8,7 @@ featured = false
 publication = "*GDR Vision, Paris, 2018*"
 tags = [ "motion anticipation",]
 url_pdf = "https://github.com/laurentperrinet/Perrinet18gdr"
-projects = [ "pace-itn",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "pace-itn",]
 +++

@@ -199,8 +199,11 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
 
             for this_key in ['grants', 'projects']:
                 if this_key in entry:
+                    parsed_toml['projects'] = []
                     parsed_toml[this_key] = clean_bibtex_tags(entry[this_key], normalize)
                     if verbose: print(parsed_toml[this_key])
+                    # print(parsed_toml['projects'])
+
 
             for url_key in ['url_slides', 'url_code', 'url_slides']:
                 if url_key in entry:

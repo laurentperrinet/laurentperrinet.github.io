@@ -9,7 +9,7 @@ publication = "*Vision research*"
 tags = [ "Bayesian model", "eye movements", "motion detection", "motion-clouds",]
 url_pdf = "http://dx.doi.org/10.1016/j.visres.2007.10.020"
 doi = "10.1016/j.visres.2007.10.020"
-projects = [ "facets",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "facets",]
 +++

@@ -6,7 +6,7 @@ publication_types = [ "1",]
 featured = false
 publication = "*FENS Abstract*"
 tags = [ "lateral connections",]
-projects = [ "facets",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "facets",]
 +++

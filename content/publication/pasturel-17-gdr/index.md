@@ -7,7 +7,7 @@ featured = false
 publication = "*GDR Vision, Lille, 2017*"
 tags = [ "Bayesian model", "motion detection",]
 url_pdf = "https://laurentperrinet.github.io/publication/pasturel-17-gdr"
-projects = [ "anr-rem",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "anr-rem",]
 +++

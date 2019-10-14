@@ -7,7 +7,7 @@ abstract = " The brain has to solve inverse problems to correctly interpret sens
 featured = false
 publication = "*Doc2AMU Doctoral Day - 2018-11-23*"
 tags = [ "Deep Learning",]
-projects = [ "doc-2-amu", "phd-icn",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "doc-2-amu", "phd-icn",]
 +++

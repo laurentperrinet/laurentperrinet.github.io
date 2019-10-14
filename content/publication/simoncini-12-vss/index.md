@@ -7,7 +7,7 @@ abstract = "Under natural viewing conditions, small movements of the eyes preven
 featured = false
 publication = "*VSS Conference Abstract*"
 tags = [ "eye movements", "motion detection", "motion-clouds", "psychophysics",]
-projects = [ "codde", "motion-clouds",]
+projects = []
 url_pdf = "http://www.journalofvision.org/content/12/9/1014.abstract?sid=9c51ff88-5b9a-4d1b-aaf1-a1219bd02b0a"
 doi = "10.1167/12.9.1014"
 publishDate = "2019-09-17"

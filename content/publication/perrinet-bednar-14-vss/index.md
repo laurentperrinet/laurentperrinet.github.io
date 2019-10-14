@@ -9,7 +9,7 @@ publication = "*Journal of Vision*"
 tags = [ "association field", "Biologically Inspired Computer vision", "sparse coding",]
 url_pdf = "http://dx.doi.org/10.1167/14.10.1310"
 doi = "10.1167/14.10.1310"
-projects = [ "anr-bala-v1",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "anr-bala-v1",]
 +++

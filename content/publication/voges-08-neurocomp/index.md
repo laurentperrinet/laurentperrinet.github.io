@@ -6,7 +6,7 @@ publication_types = [ "1",]
 featured = false
 publication = "*Proceedings of NeuroComp08, Marseille*"
 tags = [ "lateral connections",]
-projects = [ "facets",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "facets",]
 +++

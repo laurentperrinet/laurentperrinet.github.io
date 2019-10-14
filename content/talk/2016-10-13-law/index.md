@@ -10,7 +10,7 @@ event_url = "https://law2016.sciencesconf.org/"
 location = "Lyon, France"
 url_slides = "https://laurentperrinet.github.io/sciblog/files/2016-10-13_LAW.html"
 url_code = ""
-projects = [ "anr-rem", "pace-itn",]
+projects = []
 publishDate = "2016-01-01"
 grants = [ "anr-rem", "pace-itn",]
 +++

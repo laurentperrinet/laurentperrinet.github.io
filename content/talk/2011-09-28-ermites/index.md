@@ -10,7 +10,7 @@ event = "Proceedings of SfN, 2011"
 tags = [ "sparse coding",]
 event_url = "http://glotin.univ-tln.fr/ERMITES11/index.xhtml"
 location = "Porquerolles la Perle des Iles d'Or - Var (France)"
-projects = [ "brain-scales",]
+projects = []
 publishDate = "2011-01-01"
 grants = [ "brain-scales",]
 +++

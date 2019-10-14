@@ -7,7 +7,7 @@ abstract = "From a computer science perspective, the problem of optimal represen
 featured = false
 publication = "*Submitted*"
 tags = [ "sparse coding",]
-projects = [ "doc-2-amu", "phd-icn",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "doc-2-amu", "phd-icn; mesocentre",]
 +++

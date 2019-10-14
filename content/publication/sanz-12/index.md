@@ -10,7 +10,7 @@ tags = [ "log-gabor", "motion-clouds",]
 url_pdf = "http://dx.doi.org/10.1152/jn.00737.2011"
 doi = "10.1152/jn.00737.2011"
 url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-00726828"
-projects = [ "motion-clouds",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "motion-clouds",]
 +++

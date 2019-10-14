@@ -8,7 +8,7 @@ featured = false
 publication = "*GDR Vision, Lille, 2017*"
 tags = [ "eye movements", "motion detection", "motion-clouds",]
 url_pdf = "https://laurentperrinet.github.io/publication/mansour-17-gdr"
-projects = [ "pace-itn",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "pace-itn",]
 +++

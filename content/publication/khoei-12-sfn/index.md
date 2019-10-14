@@ -7,7 +7,7 @@ featured = false
 publication = "*Proceedings of the Society for Neuroscience conference*"
 tags = [ "Bayesian model", "motion prediction",]
 url_pdf = "https://laurentperrinet.github.io/publication/khoei-12-sfn"
-projects = [ "facets-itn",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "facets-itn",]
 +++

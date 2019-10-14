@@ -10,7 +10,7 @@ event_url = "https://laurentperrinet.github.io/post/2018-04-05_optimal-inference
 location = "INT, Marseille (France)"
 url_slides = "https://laurentperrinet.github.io/2018-04-05_BCP_talk/"
 url_code = "https://github.com/laurentperrinet/2018-04-05_BCP_talk/"
-projects = [ "pace-itn",]
+projects = []
 publishDate = "2018-01-01"
 grants = [ "pace-itn",]
 +++

@@ -9,7 +9,7 @@ publication = "*Submitted*"
 url_pdf = "https://arxiv.org/abs/1902.07651"
 url_preprint = "https://arxiv.org/abs/1902.07651"
 tags = [ "sparse coding",]
-projects = [ "doc-2-amu", "phd-icn",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "doc-2-amu", "phd-icn; mesocentre",]
 +++

@@ -12,7 +12,7 @@ url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-01771125"
 featured = true
 tags = [ "Bayesian model", "motion prediction",]
 url_press = "http://www.cnrs.fr/insb/recherche/parutions/articles2017/l-perrinet.html"
-projects = [ "facets-itn",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "facets-itn",]
 +++

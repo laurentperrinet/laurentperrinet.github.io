@@ -9,7 +9,7 @@ url_pdf = "https://jov.arvojournals.org/article.aspx?articleid=2707670"
 doi = "10.1167/18.11.14"
 url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-01901640v1"
 tags = [ "eye movements",]
-projects = [ "anr-rem", "pace-itn",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "anr-rem", "pace-itn",]
 +++

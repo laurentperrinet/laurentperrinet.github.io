@@ -9,7 +9,7 @@ event = "Workshop on Computational Neuroscience \\\"New trends and challenges fo
 event_url = "http://cinv.uv.cl/laconeu-workshop"
 location = "Valparaiso (Chile)"
 url_slides = "https://laurentperrinet.github.io/sciblog/files/2017-01-18_LACONEU.html"
-projects = [ "anr-trajectory",]
+projects = []
 publishDate = "2017-01-01"
 grants = [ "anr-trajectory",]
 +++

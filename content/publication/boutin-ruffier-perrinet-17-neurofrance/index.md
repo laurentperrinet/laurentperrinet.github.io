@@ -8,7 +8,7 @@ featured = false
 publication = "*NeuroFrance 2017, International Conference from the Société des Neurosciences, Bordeaux, France*"
 code = "https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars"
 tags = [ "sparse coding",]
-projects = [ "doc-2-amu",]
+projects = []
 publishDate = "2019-09-17"
 grants = [ "doc-2-amu",]
 +++
