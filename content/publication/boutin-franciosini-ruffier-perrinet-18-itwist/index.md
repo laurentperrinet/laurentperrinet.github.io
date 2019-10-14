@@ -18,4 +18,4 @@ grants = [ "doc-2-amu", "phd-icn",]
 3. CIRM, Marseille, France. <span id="line-10" class="anchor"></span>
 4. get the [full proceedings](https://arxiv.org/html/1812.00648)
 5. Poster as [PDF](https://invibe.net/LaurentPerrinet/Publications/BoutinFranciosiniRuffierPerrinet18itwist?action=AttachFile&do=get&target=BoutinFranciosiniRuffierPerrinet18itwist.pdf)
-6. check-out our preprint on [SDPC]({{< ref "/publication/boutin-franciosini-ruffier-perrinet-19/index.md" >}})
+6. check-out our preprint on [SDPC]({{< ref "/publication/boutin-franciosini-chavane-ruffier-perrinet-19/index.md" >}})

@@ -15,4 +15,4 @@ event = "HDR Robin Baurès, Toulouse (France)"
 grants = [ "anr-horizontal-v1",]
 +++
 
-* check-out our preprint on [SDPC]({{< ref "/publication/boutin-franciosini-ruffier-perrinet-19/index.md" >}})
+* check-out our preprint on [SDPC]({{< ref "/publication/boutin-franciosini-chavane-ruffier-perrinet-19/index.md" >}})
