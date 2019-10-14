@@ -81,7 +81,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
     #
 
     # 4- updating metadata with bibtex
-    from academic import PUB_TYPES, clean_bibtex_str #, clean_bibtex_authors#, clean_bibtex_tags
+    from academic.cli import PUB_TYPES, clean_bibtex_str #, clean_bibtex_authors#, clean_bibtex_tags
 
     import datetime
     import dateutil.parser
