@@ -1,5 +1,5 @@
 +++
-title = "Meaningful representations emerge from Sparse Deep Predictive Coding"
+title = "Sparse Deep Predictive Coding captures contour integration behavior of the early visual system"
 date = 2019-02-20
 authors = [ "Victor Boutin", "Angelo Franciosini", "Frédéric Y Chavane", "Franck Ruffier", "Laurent U Perrinet",]
 publication_types = [ "2",]
