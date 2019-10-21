@@ -43,7 +43,10 @@ Italics with _underscores_.
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
-Italics with _unde sensory-evoked traveling waves rscores_.
+In this post-doctoral project, we propose to address these major limitations by incorporating a new dynamical feature of cortical circuits: _unde sensory-evoked traveling waves rscores_.
+
+
+**In this post-doctoral project, we propose to address these major limitations by incorporating a new dynamical feature of cortical circuits: _sensory-evoked traveling waves_.** 
 
 In this post-doctoral project, we propose to address these major limitations by incorporating a new dynamical feature of cortical circuits: <it>sensory-evoked traveling waves<\it> ([Muller el al, 2018](#muller2018cortical)). Indeed, the architecture of primary visual cortex (V1) contains dense local connectivity with sparse long-range connections ([Voges and Perrinet, 2012](#Voges12)). Such connections add to the traditional convolutional kernel a novel interaction kernel within a single layer (across positions and channels). This introduces a recurrent network architecture which integrates sensory input and current activity. Coupled with the continuous time dynamics of cortical circuits, this architecture provides the necessary conditions for generating traveling waves. Inspired by recent work in neuroscience uncovering the ubiquity of these waves during visual processing, we aim to design a self-supervised CNN that will exploit these dynamics for new applications in computer vision.
 
