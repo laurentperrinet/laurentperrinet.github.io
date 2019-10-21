@@ -14,8 +14,6 @@ summary = "Post-doc in Marseille, France on Visual computations using Traveling 
 
 projects = []
 
-bibliography = "wave.bib"
-
 # https://pixabay.com/photos/drops-of-water-water-liquid-fresh-578897/
 [image]
   # Caption (optional)
