@@ -27,11 +27,11 @@ Dear colleagues,
 
 Applications are welcome for a post-doctoral position at [INT](http://www.int.univ-amu.fr/?lang=en)-[Marseille](https://en.wikipedia.org/wiki/Marseille), France.
 
-In collaboration with [Lyle Muller](https://www.mullerlab.ca), Yves Fregnac and Frédéric Chavane, we aim at exploring novel visual computations using traveling waves. We are seeking candidates with a strong background in machine learning, computer vision and computational neuroscience.
+In collaboration with [Yves Fregnac](http://neuro-psi.cnrs.fr/spip.php?article934&lang=fr), [Lyle Muller](https://www.mullerlab.ca) and [Frédéric Chavane](http://www.int.univ-amu.fr/spip.php?page=equipe&equipe=NeOpTo&lang=en), we aim at exploring novel visual computations using traveling waves. We are seeking candidates with a strong background in machine learning, computer vision and computational neuroscience.
 
 The project will be coordinated by Laurent Perrinet. For more information visit [https://laurentperrinet.github.io/post/2019-10-21_postdoc-position](https://laurentperrinet.github.io/post/2019-10-21_postdoc-position).
 
-To obtain further information or send applications (including a full CV, a letter of motivation, 2 reference names), please contact: [Laurent.Perrinet@univ-amu.fr](mailto:Laurent.Perrinet@univ-amu.fr) . The appointment is for 18 month. The starting date is set to January 6th, 2020 but can be flexibly extended. Applications are welcome immediately and until the end of year 2019.
+To obtain further information or send applications (including a full CV, a letter of motivation, 2 reference names), please contact: [Laurent.Perrinet@univ-amu.fr](mailto:Laurent.Perrinet@univ-amu.fr). The appointment is for 18 month. The starting date is set to January 6th, 2020 but can be flexibly extended. Applications are welcome immediately and until the end of year 2019.
 
 Thanks for distributing this announcement to potential candidates!
 
