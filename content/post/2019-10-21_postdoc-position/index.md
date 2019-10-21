@@ -1,5 +1,5 @@
 +++
-title = "2019-10-21_postdoc-position"
+title = "Postdoc position on Visual computations using Traveling Waves"
 subtitle = "Post-doc in Marseille, France on Visual computations using Traveling Waves."
 
 date = 2019-10-21T09:00:00
@@ -22,8 +22,6 @@ projects = []
   focal_point = "Center"
   preview_only = false
 +++
-
-# Post-doc in Marseille, France on Visual computations using Traveling Waves
 
 Dear colleagues,
 
