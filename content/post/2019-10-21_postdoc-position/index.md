@@ -14,7 +14,7 @@ summary = "Post-doc in Marseille, France on Visual computations using Traveling 
 
 projects = []
 
-bibliography= "wave.bib"
+bibliography = "wave.bib"
 
 # https://pixabay.com/photos/drops-of-water-water-liquid-fresh-578897/
 [image]
@@ -118,3 +118,5 @@ the [Institut de Neurosciences de la
 Timone](http://www.int.univ-amu.fr/?lang=en) in
 [Marseille](https://en.wikipedia.org/wiki/Marseille), a lively town by
 the Mediterranean sea in the south of France.
+
+# References
