@@ -31,7 +31,7 @@ In collaboration with [Yves Fregnac](http://neuro-psi.cnrs.fr/spip.php?article93
 
 The project will be coordinated by Laurent Perrinet. For more information visit [https://laurentperrinet.github.io/post/2019-10-21_postdoc-position](https://laurentperrinet.github.io/post/2019-10-21_postdoc-position).
 
-To obtain further information or send applications (including a full CV, a letter of motivation, 2 reference names), please contact: [Laurent.Perrinet@univ-amu.fr](mailto:Laurent.Perrinet@univ-amu.fr). The appointment is for 18 month. The starting date is set to January 6th, 2020 but can be flexibly extended. Applications are welcome immediately and until the end of year 2019.
+The starting date is set to January 6th, 2020 but can be flexibly extended. To obtain further information or send applications (including a full CV, a letter of motivation, 2 reference names), please contact: [Laurent.Perrinet@univ-amu.fr](mailto:Laurent.Perrinet@univ-amu.fr). The appointment is for 18 month. Applications are welcome immediately and until the end of year 2019.
 
 Thanks for distributing this announcement to potential candidates!
 
