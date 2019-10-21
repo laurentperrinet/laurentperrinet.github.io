@@ -35,7 +35,7 @@ To obtain further information or send applications (including a full CV, a lette
 
 Thanks for distributing this announcement to potential candidates!
 
-# detailed description
+# Detailed description: Visual computations using Traveling Waves
 
 Biological vision is surprisingly efficient. To understand this
 efficiency, Deep learning and convolutional neural networks (CNNs) have
@@ -43,16 +43,16 @@ recently produced great advances in computer. However, these algorithms
 now face multiple challenges: learned architectures are often not
 interpretable, disproportionally energy greedy, and often lack the
 integration of contextual information. Such feats are fundamental
-features of human visual behavior. Is is clear today that nonlinear,
-recurrent interactions are key to this efficiency [Kietzmann el al, 2019](#Kietzmann19). We
+features of human visual behavior. It is clear today that nonlinear,
+recurrent interactions are key to this efficiency ([Kietzmann el al, 2019](#Kietzmann19)). We
 will use inspiration from neurophysiology to resolve this apparent gap
 between traditional CNNs and biological visual systems.
 
 In this post-doctoral project, we propose to address these major
 limitations by incorporating a new dynamical feature of cortical
-circuits: sensory-evoked traveling waves [Muller el al, 2018](#muller2018cortical). Indeed,
+circuits: *sensory-evoked traveling waves* ([Muller el al, 2018](#muller2018cortical)). Indeed,
 the architecture of primary visual cortex (V1) contains dense local
-connectivity with sparse long-range connections [Voges and Perrinet, 2012](#Voges12). Such
+connectivity with sparse long-range connections ([Voges and Perrinet, 2012](#Voges12)). Such
 connections add to the traditional convolutional kernel a novel
 interaction kernel within a single layer (across positions and
 channels). This introduces a recurrent network architecture which
@@ -66,11 +66,11 @@ vision.
 
 We first expect to extend results of self-supervised learning that we
 have obtained on complex static
-images [Boutin el al, 2019](#BoutinFranciosiniChavaneRuffierPerrinet19) and which
+images ([Boutin el al, 2019](#BoutinFranciosiniChavaneRuffierPerrinet19)) and which
 phenomenologically correspond to an "association field". Such
 processes have a huge importance in the dynamics of visual processing.
 In particular, we will disentangle the different forms of interactions
-in form and motion ()[Gerard-Mercier el al, 2016](#gerard2016synaptic); [Chavane el al, 2000](#Chavane2000)). Analyzing the
+in form and motion ([Gerard-Mercier el al, 2016](#gerard2016synaptic); [Chavane el al, 2000](#Chavane2000))). Analyzing the
 activity of the network using tools from
 neurophysiology ([Muller el al, 2014](#muller2014stimulus); [Chemla el al, 2019](#Chemla2018)), we will analyze the
 role of observed traveling waves in forming efficient representations
@@ -125,43 +125,39 @@ the Mediterranean sea in the south of France.
 
 <a name="BoutinFranciosiniChavaneRuffierPerrinet19">
 Boutin, Victor, Angelo Franciosini, Frédéric Y Chavane, Franck Ruffier,
-and Laurent U Perrinet. 2019. "[Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system.](https://arxiv.org/abs/1902.07651)"
-</a>
+and Laurent U Perrinet. 2019. </a> "[Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system.](https://arxiv.org/abs/1902.07651)"
 
 <a name="Chavane2000">
 Chavane, F., C. Monier, V. Bringuier, P. Baudot, L. Borg-Graham, J.
-Lorenceau, and Y. Frégnac. 2000. "[The Visual Cortical Association Field: A Gestalt Concept or a Psychophysiological Entity?](https://doi.org/10.1016/S0928-4257(00)01096-2)" *Journal of Physiology Paris* 94 (5-6): 333--42.
-</a>
+Lorenceau, and Y. Frégnac. 2000. </a> "[The Visual Cortical Association Field: A Gestalt Concept or a Psychophysiological Entity?](https://doi.org/10.1016/S0928-4257(00)01096-2)" *Journal of Physiology Paris* 94 (5-6): 333--42.
+
 
 <a name="Chemla2018">
 Chemla, Sandrine, Alexandre Reynaud, Matteo diVolo, Yann Zerlaut,
-Laurent Perrinet, Alain Destexhe, and Frédéric Chavane. 2018.
+Laurent Perrinet, Alain Destexhe, and Frédéric Chavane. </a> 2018.
 "[Suppressive Waves Disambiguate the Representation of Long-Range Apparent Motion in Awake Monkey V1](https://doi.org/10.1101/372763)"".
-</a>
+
 
 <a name="gerard2016synaptic">
 Gerard-Mercier, Florian, Pedro V Carelli, Marc Pananceau, Xoana G
-Troncoso, and Yves Frégnac. 2016. "[Synaptic Correlates of Low-Level Perception in V1](https://www.jneurosci.org/content/36/14/3925)." *Journal of Neuroscience* 36 (14): 3925--42.
-</a>
+Troncoso, and Yves Frégnac. 2016. </a> "[Synaptic Correlates of Low-Level Perception in V1](https://www.jneurosci.org/content/36/14/3925)." *Journal of Neuroscience* 36 (14): 3925--42.
+
 
 <a name="Kietzmann19">
-Kietzmann, Tim C., Courtney J. Spoerer, Lynn K. A. Sörensen, Radoslaw M. Cichy, Olaf Hauk, and Nikolaus Kriegeskorte. 2019. "[Recurrence Is Required to Capture the Representational Dynamics of the Human Visual System.](https://doi.org/10/gf9j2t)." *Proceedings of the National Academy of Sciences*,
+Kietzmann, Tim C., Courtney J. Spoerer, Lynn K. A. Sörensen, Radoslaw M. Cichy, Olaf Hauk, and Nikolaus Kriegeskorte. </a> 2019. "[Recurrence Is Required to Capture the Representational Dynamics of the Human Visual System.](https://doi.org/10/gf9j2t)." *Proceedings of the National Academy of Sciences*,
 October, 201905544.
 
-</a>
 
 <a name="muller2014stimulus">
 Muller, Lyle, Alexandre Reynaud, Frédéric Chavane, and Alain Destexhe.
-2014. "[The Stimulus-Evoked Population Response in Visual Cortex of Awake Monkey Is a Propagating Wave.](http://www.int.univ-amu.fr/IMG/pdf/Muller_Nature_Communications2014.pdf)" *Nature Communications* 5: 3675.
-</a>
+</a> 2014. "[The Stimulus-Evoked Population Response in Visual Cortex of Awake Monkey Is a Propagating Wave.](http://www.int.univ-amu.fr/IMG/pdf/Muller_Nature_Communications2014.pdf)" *Nature Communications* 5: 3675.
+
 
 <a name="muller2018cortical">
 Muller, Lyle, Frédéric Chavane, John Reynolds, and Terrence J Sejnowski.
-2018. "[Cortical Travelling Waves: Mechanisms and Computational
+</a> 2018. "[Cortical Travelling Waves: Mechanisms and Computational
 Principles](https://papers.cnl.salk.edu/PDFs/Cortical%20travelling%20waves_%20mechanisms%20and%20computational%20principles.%202018-4515.pdf)." *Nature Reviews Neuroscience* 19 (5): 255.
-</a>
+
 
 <a name="Voges12">
-Voges, Nicole, and Laurent U Perrinet. 2012. "[Complex Dynamics in Recurrent Cortical Networks Based on Spatially Realistic Connectivities.](https://doi.org/10.3389/fncom.2012.00041)" *Frontiers in Computational Neuroscience* 6.
-
-</a>
+Voges, Nicole, and Laurent U Perrinet.</a> 2012. "[Complex Dynamics in Recurrent Cortical Networks Based on Spatially Realistic Connectivities.](https://doi.org/10.3389/fncom.2012.00041)" *Frontiers in Computational Neuroscience* 6.
