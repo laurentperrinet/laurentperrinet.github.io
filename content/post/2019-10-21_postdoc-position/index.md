@@ -125,57 +125,43 @@ the Mediterranean sea in the south of France.
 
 <a name="BoutinFranciosiniChavaneRuffierPerrinet19">
 Boutin, Victor, Angelo Franciosini, Frédéric Y Chavane, Franck Ruffier,
-and Laurent U Perrinet. 2019. "Meaningful Representations Emerge from
-Sparse Deep Predictive Coding." [Submitted]{.T1}, February.
-[[https://arxiv.org/abs/1902.07651](https://arxiv.org/abs/1902.07651).
+and Laurent U Perrinet. 2019. "[Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system.](https://arxiv.org/abs/1902.07651)"
 </a>
 
 <a name="Chavane2000">
 Chavane, F., C. Monier, V. Bringuier, P. Baudot, L. Borg-Graham, J.
-Lorenceau, and Y. Frégnac. 2000. "The Visual Cortical Association Field:
-A Gestalt Concept or a Psychophysiological Entity?" [Journal of
-Physiology Paris]{.T1} 94 (5-6): 333--42.
-[[https://doi.org/10.1016/S0928-4257(00)01096-2](https://doi.org/10.1016/S0928-4257(00)01096-2).
+Lorenceau, and Y. Frégnac. 2000. "[The Visual Cortical Association Field: A Gestalt Concept or a Psychophysiological Entity?](https://doi.org/10.1016/S0928-4257(00)01096-2)" *Journal of Physiology Paris* 94 (5-6): 333--42.
 </a>
 
 <a name="Chemla2018">
 Chemla, Sandrine, Alexandre Reynaud, Matteo diVolo, Yann Zerlaut,
 Laurent Perrinet, Alain Destexhe, and Frédéric Chavane. 2018.
-"Suppressive Waves Disambiguate the Representation of Long-Range
-Apparent Motion in Awake Monkey V1," July.
-[[https://doi.org/10.1101/372763](https://doi.org/10.1101/372763).
+"[Suppressive Waves Disambiguate the Representation of Long-Range Apparent Motion in Awake Monkey V1](https://doi.org/10.1101/372763)"".
 </a>
 
 <a name="gerard2016synaptic">
 Gerard-Mercier, Florian, Pedro V Carelli, Marc Pananceau, Xoana G
-Troncoso, and Yves Frégnac. 2016. "[Synaptic Correlates of Low-Level
-Perception in V1](https://www.jneurosci.org/content/36/14/3925)." Journal of Neuroscience 36 (14): 3925--42.
+Troncoso, and Yves Frégnac. 2016. "[Synaptic Correlates of Low-Level Perception in V1](https://www.jneurosci.org/content/36/14/3925)." *Journal of Neuroscience* 36 (14): 3925--42.
 </a>
 
 <a name="Kietzmann19">
-Kietzmann, Tim C., Courtney J. Spoerer, Lynn K. A. Sörensen, Radoslaw M.
-Cichy, Olaf Hauk, and Nikolaus Kriegeskorte. 2019. "Recurrence Is
-Required to Capture the Representational Dynamics of the Human Visual
-System." [Proceedings of the National Academy of Sciences]{.T1},
+Kietzmann, Tim C., Courtney J. Spoerer, Lynn K. A. Sörensen, Radoslaw M. Cichy, Olaf Hauk, and Nikolaus Kriegeskorte. 2019. "[Recurrence Is Required to Capture the Representational Dynamics of the Human Visual System.](https://doi.org/10/gf9j2t)." *Proceedings of the National Academy of Sciences*,
 October, 201905544.
-[[https://doi.org/10/gf9j2t](https://doi.org/10/gf9j2t).
+
+</a>
+
+<a name="muller2014stimulus">
+Muller, Lyle, Alexandre Reynaud, Frédéric Chavane, and Alain Destexhe.
+2014. "[The Stimulus-Evoked Population Response in Visual Cortex of Awake Monkey Is a Propagating Wave.](http://www.int.univ-amu.fr/IMG/pdf/Muller_Nature_Communications2014.pdf)" *Nature Communications* 5: 3675.
 </a>
 
 <a name="muller2018cortical">
 Muller, Lyle, Frédéric Chavane, John Reynolds, and Terrence J Sejnowski.
 2018. "[Cortical Travelling Waves: Mechanisms and Computational
-Principles](https://papers.cnl.salk.edu/PDFs/Cortical%20travelling%20waves_%20mechanisms%20and%20computational%20principles.%202018-4515.pdf)." [Nature Reviews Neuroscience]{.T1} 19 (5): 255.
-</a>
-
-<a name="muller2014stimulus">
-Muller, Lyle, Alexandre Reynaud, Frédéric Chavane, and Alain Destexhe.
-2014. "[The Stimulus-Evoked Population Response in Visual Cortex of Awake
-Monkey Is a Propagating Wave.](http://www.int.univ-amu.fr/IMG/pdf/Muller_Nature_Communications2014.pdf)" [Nature Communications]{.T1} 5: 3675.
+Principles](https://papers.cnl.salk.edu/PDFs/Cortical%20travelling%20waves_%20mechanisms%20and%20computational%20principles.%202018-4515.pdf)." *Nature Reviews Neuroscience* 19 (5): 255.
 </a>
 
 <a name="Voges12">
-Voges, Nicole, and Laurent U Perrinet. 2012. "Complex Dynamics in
-Recurrent Cortical Networks Based on Spatially Realistic
-Connectivities." [Frontiers in Computational Neuroscience]{.T1} 6.
-[[https://doi.org/10.3389/fncom.2012.00041](https://doi.org/10.3389/fncom.2012.00041).
+Voges, Nicole, and Laurent U Perrinet. 2012. "[Complex Dynamics in Recurrent Cortical Networks Based on Spatially Realistic Connectivities.](https://doi.org/10.3389/fncom.2012.00041)" *Frontiers in Computational Neuroscience* 6.
+
 </a>
