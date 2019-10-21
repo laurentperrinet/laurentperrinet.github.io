@@ -46,15 +46,15 @@ now face multiple challenges: learned architectures are often not
 interpretable, disproportionally energy greedy, and often lack the
 integration of contextual information. Such feats are fundamental
 features of human visual behavior. Is is clear today that nonlinear,
-recurrent interactions are key to this efficiency [@Kietzmann19]. We
+recurrent interactions are key to this efficiency [Kietzmann el al, 2019](#Kietzmann19). We
 will use inspiration from neurophysiology to resolve this apparent gap
 between traditional CNNs and biological visual systems.
 
 In this post-doctoral project, we propose to address these major
 limitations by incorporating a new dynamical feature of cortical
-circuits: sensory-evoked traveling waves [@muller2018cortical]. Indeed,
+circuits: sensory-evoked traveling waves [Muller el al, 2018](#muller2018cortical). Indeed,
 the architecture of primary visual cortex (V1) contains dense local
-connectivity with sparse long-range connections [@Voges12]. Such
+connectivity with sparse long-range connections [Voges and Perrinet, 2012](#Voges12). Such
 connections add to the traditional convolutional kernel a novel
 interaction kernel within a single layer (across positions and
 channels). This introduces a recurrent network architecture which
@@ -68,13 +68,13 @@ vision.
 
 We first expect to extend results of self-supervised learning that we
 have obtained on complex static
-images [@BoutinFranciosiniChavaneRuffierPerrinet19] and which
+images [Boutin el al, 2019](#BoutinFranciosiniChavaneRuffierPerrinet19) and which
 phenomenologically correspond to an "association field". Such
 processes have a huge importance in the dynamics of visual processing.
 In particular, we will disentangle the different forms of interactions
-in form and motion [@gerard2016synaptic; @Chavane2000]. Analyzing the
+in form and motion ()[Gerard-Mercier el al, 2016](#gerard2016synaptic); [Chavane el al, 2000](#Chavane2000)). Analyzing the
 activity of the network using tools from
-neurophysiology [@muller2014stimulus; @Chemla2018], we will analyze the
+neurophysiology ([Muller el al, 2014](#muller2014stimulus); [Chemla el al, 2019](#Chemla2018)), we will analyze the
 role of observed traveling waves in forming efficient representations
 of the visual world. Lastly, we will analyze how those algorithms scale
 to the learning of the processing of representations invariant to common
@@ -125,59 +125,59 @@ the Mediterranean sea in the south of France.
 
 # References
 
-[@muller2018cortical]: http://dx.doi.org/10.1371/journal.pmed.0020124 "Ioannidis JPA. Why Most Published Research Findings Are False. PLoS Medicine. Public Library of Science; 2005;2(8):e124. Available from: http://dx.doi.org/10.1371/journal.pmed.0020124"
+<a name="BoutinFranciosiniChavaneRuffierPerrinet19">
+Boutin, Victor, Angelo Franciosini, Frédéric Y Chavane, Franck Ruffier,
+and Laurent U Perrinet. 2019. "Meaningful Representations Emerge from
+Sparse Deep Predictive Coding." [Submitted]{.T1}, February.
+[[https://arxiv.org/abs/1902.07651](https://arxiv.org/abs/1902.07651).
+</a>
 
-- id: muller2014stimulus
-  type: article-journal
-  author:
-  - family: Muller
-    given: Lyle
-  - family: Reynaud
-    given: Alexandre
-  - family: Chavane
-    given: Frédéric
-  - family: Destexhe
-    given: Alain
-  issued:
-  - year: 2014
-  title: The stimulus-evoked population response in visual cortex of awake monkey
-    is a propagating wave
-  container-title: Nature Communications
-  publisher: Nature Publishing Group
-  page: '3675'
-  volume: '5'
+<a name="Chavane2000">
+Chavane, F., C. Monier, V. Bringuier, P. Baudot, L. Borg-Graham, J.
+Lorenceau, and Y. Frégnac. 2000. "The Visual Cortical Association Field:
+A Gestalt Concept or a Psychophysiological Entity?" [Journal of
+Physiology Paris]{.T1} 94 (5-6): 333--42.
+[[https://doi.org/10.1016/S0928-4257(00)01096-2](https://doi.org/10.1016/S0928-4257(00)01096-2).
+</a>
 
-- id: BoutinFranciosiniRuffierPerrinet19
-  type: article-journal
-  author:
-  - family: Boutin
-    given: Victor
-  - family: Franciosini
-    given: Angelo
-  - family: Ruffier
-    given: Franck
-  - family: Perrinet
-    given: Laurent U
-  issued:
-  - year: 2019
-    month: 2
-    day: 20
-  title: Meaningful representations emerge from sparse deep predictive coding
-  container-title: arXiv
-  abstract: The formation of connections between neural cells is essentially emerging
-    from an unsupervised learning process. During the development of primary visual
-    cortex (V1) of mammals, for example, one may observe the emergence of cells selective
-    to localized and oriented features. This leads to the development of a rough contour-based
-    representation of the retinal image in area V1. We modeled the formation of this
-    representation along the thalamo-cortical pathway using a sparse unsupervised
-    learning algorithm in a hierarchical network. This algorithm alternates (i) a
-    coding phase to encode the information and (ii) a learning phase to find the proper
-    encoder (also called dictionary). We replicated and adapted the Multi-Layer Convolutional
-    Sparse Coding (ML-CSC) model from Michael Elad’s group i̧teSulam2017. As an application,
-    we have trained our implementation on a database containing images from faces.
-    The extracted features show similarities with some of the neuron’s receptive field
-    found in V1 and beyond. Furthermore, our results demonstrate the potential application
-    of such a strategy to the fast classification of images, for example in hierarchical
-    and dynamical architectures.
-  keyword: sparse coding
-  URL: https://arxiv.org/abs/1902.07651
+<a name="Chemla2018">
+Chemla, Sandrine, Alexandre Reynaud, Matteo diVolo, Yann Zerlaut,
+Laurent Perrinet, Alain Destexhe, and Frédéric Chavane. 2018.
+"Suppressive Waves Disambiguate the Representation of Long-Range
+Apparent Motion in Awake Monkey V1," July.
+[[https://doi.org/10.1101/372763](https://doi.org/10.1101/372763).
+</a>
+
+<a name="gerard2016synaptic">
+Gerard-Mercier, Florian, Pedro V Carelli, Marc Pananceau, Xoana G
+Troncoso, and Yves Frégnac. 2016. "[Synaptic Correlates of Low-Level
+Perception in V1](https://www.jneurosci.org/content/36/14/3925)." Journal of Neuroscience 36 (14): 3925--42.
+</a>
+
+<a name="Kietzmann19">
+Kietzmann, Tim C., Courtney J. Spoerer, Lynn K. A. Sörensen, Radoslaw M.
+Cichy, Olaf Hauk, and Nikolaus Kriegeskorte. 2019. "Recurrence Is
+Required to Capture the Representational Dynamics of the Human Visual
+System." [Proceedings of the National Academy of Sciences]{.T1},
+October, 201905544.
+[[https://doi.org/10/gf9j2t](https://doi.org/10/gf9j2t).
+</a>
+
+<a name="muller2018cortical">
+Muller, Lyle, Frédéric Chavane, John Reynolds, and Terrence J Sejnowski.
+2018. "[Cortical Travelling Waves: Mechanisms and Computational
+Principles](https://papers.cnl.salk.edu/PDFs/Cortical%20travelling%20waves_%20mechanisms%20and%20computational%20principles.%202018-4515.pdf)." [Nature Reviews Neuroscience]{.T1} 19 (5): 255.
+</a>
+
+<a name="muller2014stimulus">
+Muller, Lyle, Alexandre Reynaud, Frédéric Chavane, and Alain Destexhe.
+2014. "[The Stimulus-Evoked Population Response in Visual Cortex of Awake
+Monkey Is a Propagating Wave.](http://www.int.univ-amu.fr/IMG/pdf/Muller_Nature_Communications2014.pdf)" [Nature Communications]{.T1} 5: 3675.
+</a>
+
+<a name="Voges12">
+Voges, Nicole, and Laurent U Perrinet. 2012. "Complex Dynamics in
+Recurrent Cortical Networks Based on Spatially Realistic
+Connectivities." [Frontiers in Computational Neuroscience]{.T1} 6.
+[[https://doi.org/10.3389/fncom.2012.00041](https://doi.org/10.3389/fncom.2012.00041).
+</a>
