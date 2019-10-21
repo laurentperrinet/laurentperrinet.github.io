@@ -17,7 +17,7 @@ projects = []
 # https://pixabay.com/photos/drops-of-water-water-liquid-fresh-578897/
 [image]
   # Caption (optional)
-  caption = "Photo from [Etienne Rey](https://www.enrevenantdelexpo.com/2019/05/17/sans-gravite-une-poetique-de-air-ardenome-avignon/#jp-carousel-30344)"
+  caption = "Artwork [Etienne Rey](https://laurentperrinet.github.io/post/2019-06-22_ardemone/), photo [Jean Luc Cougy](https://www.enrevenantdelexpo.com/2019/05/17/sans-gravite-une-poetique-de-air-ardenome-avignon/)"
   placement = 2
   focal_point = "Center"
   preview_only = false
