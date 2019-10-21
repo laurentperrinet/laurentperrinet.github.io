@@ -14,7 +14,10 @@ summary = "Post-doc in Marseille, France on Visual computations using Traveling 
 
 projects = []
 
+# https://pixabay.com/photos/drops-of-water-water-liquid-fresh-578897/
 [image]
+  # Caption (optional)
+  caption = "Photo by [Rony Michaud](https://pixabay.com/users/ronymichaud-647623/)"
   placement = 2
   focal_point = "Center"
   preview_only = false
