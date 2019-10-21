@@ -33,7 +33,7 @@ In collaboration with [Lyle Muller](https://www.mullerlab.ca), Yves Fregnac and 
 
 The project will be coordinated by Laurent Perrinet. For more information visit [https://laurentperrinet.github.io/post/2019-10-21_postdoc-position](https://laurentperrinet.github.io/post/2019-10-21_postdoc-position).
 
-To obtain further information or send applications (including a full CV, a letter of motivation, 2 reference names), please contact: [Laurent.Perrinet@univ-amu.fr](mailto:Laurent.Perrinet@univ-amu.fr) . The appointment is for 18 month. The starting date is set to January 6th, 2020 but can be flexibly extended.  Applications are welcome immediately and until the end of year 2019.
+To obtain further information or send applications (including a full CV, a letter of motivation, 2 reference names), please contact: [Laurent.Perrinet@univ-amu.fr](mailto:Laurent.Perrinet@univ-amu.fr) . The appointment is for 18 month. The starting date is set to January 6th, 2020 but can be flexibly extended. Applications are welcome immediately and until the end of year 2019.
 
 Thanks for distributing this announcement to potential candidates!
 
@@ -48,7 +48,8 @@ integration of contextual information. Such feats are fundamental
 features of human visual behavior. Is is clear today that nonlinear,
 recurrent interactions are key to this efficiency [@Kietzmann19]. We
 will use inspiration from neurophysiology to resolve this apparent gap
-between traditional CNNs and biological visual systems.\
+between traditional CNNs and biological visual systems.
+
 In this post-doctoral project, we propose to address these major
 limitations by incorporating a new dynamical feature of cortical
 circuits: sensory-evoked traveling waves [@muller2018cortical]. Indeed,
@@ -59,21 +60,22 @@ interaction kernel within a single layer (across positions and
 channels). This introduces a recurrent network architecture which
 integrates sensory input and current activity. Coupled with the
 continuous time dynamics of cortical circuits, this architecture
-provides the necessary conditions for generating travelling waves.
+provides the necessary conditions for generating traveling waves.
 Inspired by recent work in neuroscience uncovering the ubiquity of these
 waves during visual processing, we aim to design a self-supervised CNN
 that will exploit these dynamics for new applications in computer
-vision.\
+vision.
+
 We first expect to extend results of self-supervised learning that we
 have obtained on complex static
 images [@BoutinFranciosiniChavaneRuffierPerrinet19] and which
-phenomenologically correspond to an \"association field\". Such
+phenomenologically correspond to an "association field". Such
 processes have a huge importance in the dynamics of visual processing.
 In particular, we will disentangle the different forms of interactions
-in form and motion [@gerard2016synaptic; @Chavane2000]. Analysing the
+in form and motion [@gerard2016synaptic; @Chavane2000]. Analyzing the
 activity of the network using tools from
 neurophysiology [@muller2014stimulus; @Chemla2018], we will analyze the
-role of observed travelling waves in forming efficient representations
+role of observed traveling waves in forming efficient representations
 of the visual world. Lastly, we will analyze how those algorithms scale
 to the learning of the processing of representations invariant to common
 geometrical transforms as is believed to be implemented in biological
@@ -84,7 +86,8 @@ Expected profile of the candidate
 
 Candidates should have at least a PhD degree in the domain of
 computational neuroscience, physics or engineering, and a solid training
-in machine learning and computer vision.\
+in machine learning and computer vision.
+
 Good command of programming tools (Python scripting) is required.
 Multidisciplinary background would be strongly appreciated and in
 particular an advanced knowledge in mathematics, for a deep
@@ -92,7 +95,8 @@ understanding of signal processing methods, along with strong
 computational skills. The candidate needs to show a keen interest in
 neuroscience. Moreover the candidate will have to be curious about
 neuronal networks in general and neuro-mimetic approaches to robotics in
-particular even if this specific knowledge is not mandatory.\
+particular even if this specific knowledge is not mandatory.
+
 The candidate has to fluently speak English to understand publications
 and to attend international conferences and workshops. The candidate has
 to show good skills in computer science (programming skills,
