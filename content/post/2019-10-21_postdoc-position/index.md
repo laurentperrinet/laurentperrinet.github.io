@@ -58,34 +58,34 @@ This project is funded by the French National Research Agency (ANR) under the [A
 
 # References
 
-* <a name="Antolik2019"> Antolik, J, C Monier, Y Frégnac, AP Davison. 2019. </a> "[A comprehensive data-driven model of cat primary visual cortex.](https://www.biorxiv.org/content/10.1101/416156v1)" *BioRxiv*, 416156.
+* <a name="Antolik2019"> Antolik, J, C Monier, Y Frégnac, AP Davison. (2019). </a> "[A comprehensive data-driven model of cat primary visual cortex.](https://www.biorxiv.org/content/10.1101/416156v1)" *BioRxiv*, 416156.
 
-* <a name="BoutinFranciosiniChavaneRuffierPerrinet19"> Boutin, Victor, Angelo Franciosini, Frédéric Chavane, Franck Ruffier, and Laurent U Perrinet. 2019. </a> "[Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system.](https://arxiv.org/abs/1902.07651)" *arXiv*
+* <a name="BoutinFranciosiniChavaneRuffierPerrinet19"> Boutin, Victor, Angelo Franciosini, Frédéric Chavane, Franck Ruffier, and Laurent U Perrinet. (2019). </a> "[Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system.](https://arxiv.org/abs/1902.07651)" *arXiv*
 
-* <a name="Chavane2000"> Chavane, F., C. Monier, V. Bringuier, P. Baudot, L. Borg-Graham, J. Lorenceau, and Y. Frégnac. 2000. </a> "[The Visual Cortical Association Field: A Gestalt Concept or a Psychophysiological Entity?](https://doi.org/10.3389/fnsys.2011.00004)" *Frontiers in System Neuroscience* 4(5): 1-26.
+* <a name="Chavane2000"> Chavane, F., C. Monier, V. Bringuier, P. Baudot, L. Borg-Graham, J. Lorenceau, and Y. Frégnac. 2000. </a> "[The Visual Cortical Association Field: A Gestalt Concept or a Psychophysiological Entity?](http://invibe.net/biblio_database_dyva/woda/data/att/7a9a.file.pdf)" *Frontiers in System Neuroscience* 4(5): 1-26.
 
-* <a name="Chavane2011"> Chavane, F., Sharon, D., Jancke, D., Marre, O., Fregnac, Y. and Grinvald, A.  2000. </a> "[Lateral spread of orientation selectivity in V1 is controlled by intracortical cooperativity.](https://doi.org/10.1016/S0928-4257(00)01096-2)" *Journal of Physiology Paris* 94 (5-6): 333--42.
+* <a name="Chavane2011"> Chavane, F., Sharon, D., Jancke, D., Marre, O., Fregnac, Y. and Grinvald, A.  (2011). </a> "[Lateral spread of orientation selectivity in V1 is controlled by intracortical cooperativity.](https://doi.org/10.1016/S0928-4257(00)01096-2)" *Journal of Physiology Paris* 94 (5-6): 333--42.
 
-* <a name="Chemla2018"> Chemla, Sandrine, Alexandre Reynaud, Matteo diVolo, Yann Zerlaut, Laurent Perrinet, Alain Destexhe, and Frédéric Chavane. </a> 2018. "[Suppressive Waves Disambiguate the Representation of Long-Range Apparent Motion in Awake Monkey V1](https://doi.org/10.1101/372763)"".
+* <a name="Chemla2018"> Chemla, Sandrine, Alexandre Reynaud, Matteo diVolo, Yann Zerlaut, Laurent Perrinet, Alain Destexhe, and Frédéric Chavane. </a> (2018). "[Suppressive Waves Disambiguate the Representation of Long-Range Apparent Motion in Awake Monkey V1](https://doi.org/10.1101/372763)"".
 
-* <a name="Field1993"> Field, D.J., Hayes, A. and Hess, R.F. 1993. </a> "[Contour integration by the human visual system: Evidence for a local “association field”.](https://doi.org/10.1016/0042-6989(93)90156-Q)." *Vision Research* 33 (2), pp. 173-193.
+* <a name="Field1993"> Field, D.J., Hayes, A. and Hess, R.F. (1993). </a> "[Contour integration by the human visual system: Evidence for a local “association field”.](https://doi.org/10.1016/0042-6989(93)90156-Q)." *Vision Research* 33 (2), pp. 173-193.
 
-* <a name="Fregnac2012"> Frégnac, Y. (2012)  </a> "[Reading out the synaptic echoes of low-level perception in V1.](https://www.jneurosci.org/content/36/14/3925)." *European Conference in Computer Vision* 486-495. Springer, Berlin, Heidelberg.
+* <a name="Fregnac2012"> Frégnac, Y. (2012)  </a> "[Reading out the synaptic echoes of low-level perception in V1.](https://hal.archives-ouvertes.fr/hal-01685152/)." *European Conference in Computer Vision* 486-495. Springer, Berlin, Heidelberg.
 
 * <a name="Fregnac2016"> Frégnac, Y., Fournier, J., Gerard-Mercier, F., Monier, C., Carelli, P., , M., Troncoso, X. (2016).  </a> "[The Visual Brain: Computing Through Multiscale Complexity.](https://link-springer-com.insb.bib.cnrs.fr/content/pdf/10.1007%2F978-3-319-28802-4_4.pdf)." In *Micro-, Meso- and Macro-Dynamics of the Brain* pp 43-57.
 
-* <a name="gerard2016synaptic"> Gerard-Mercier, Florian, Pedro V Carelli, Marc Pananceau, Xoana G Troncoso, and Yves Frégnac. 2016. </a> "[Synaptic Correlates of Low-Level Perception in V1](https://www.jneurosci.org/content/36/14/3925)." *Journal of Neuroscience* 36 (14): 3925--42.
+* <a name="gerard2016synaptic"> Gerard-Mercier, Florian, Pedro V Carelli, Marc Pananceau, Xoana G Troncoso, and Yves Frégnac. (2016). </a> "[Synaptic Correlates of Low-Level Perception in V1](https://www.jneurosci.org/content/36/14/3925)." *Journal of Neuroscience* 36 (14): 3925--42.
 
 * <a name="Keller2019">Keller, A., Roth, M.M. and Scanziani, M. (2019).  </a> 2019. "[The feedback receptive field of neurons in the mammalian primary visual cortex.](https://www.abstractsonline.com/pp8/#!/7883/presentation/65856)." *American Society for Neuroscience Abstracts*,  403.13. Chicago.
 
-* <a name="Kietzmann19">Kietzmann, Tim C., Courtney J. Spoerer, Lynn K. A. Sörensen, Radoslaw M. Cichy, Olaf Hauk, and Nikolaus Kriegeskorte. </a> 2019. "[Recurrence Is Required to Capture the Representational Dynamics of the Human Visual System.](https://doi.org/10/gf9j2t)." *Proceedings of the National Academy of Sciences*, October, 201905544.
+* <a name="Kietzmann19">Kietzmann, Tim C., Courtney J. Spoerer, Lynn K. A. Sörensen, Radoslaw M. Cichy, Olaf Hauk, and Nikolaus Kriegeskorte. </a> (2019). "[Recurrence Is Required to Capture the Representational Dynamics of the Human Visual System.](https://doi.org/10/gf9j2t)." *Proceedings of the National Academy of Sciences*, October, 201905544.
 
 * <a name="Li2002">Li W, Piëch V, Gilbert CD</a>  (2006). "[Contour saliency in primary visual cortex. Neuron 50(6):951–962](http://www.paper.edu.cn/scholar/showpdf/MUz2UN2INTA0eQxeQh)." *Proceedings of the National Academy of Sciences*, October, 201905544.
 
-* <a name="muller2014stimulus">Muller, Lyle, Alexandre Reynaud, Frédéric Chavane, and Alain Destexhe. </a> 2014. "[The Stimulus-Evoked Population Response in Visual Cortex of Awake Monkey Is a Propagating Wave.](http://www.int.univ-amu.fr/IMG/pdf/Muller_Nature_Communications2014.pdf)" *Nature Communications* 5: 3675.
+* <a name="muller2014stimulus">Muller, Lyle, Alexandre Reynaud, Frédéric Chavane, and Alain Destexhe. </a> (2014). "[The Stimulus-Evoked Population Response in Visual Cortex of Awake Monkey Is a Propagating Wave.](http://www.int.univ-amu.fr/IMG/pdf/Muller_Nature_Communications2014.pdf)" *Nature Communications* 5: 3675.
 
-* <a name="muller2018cortical"> Muller, Lyle, Frédéric Chavane, John Reynolds, and Terrence J Sejnowski. </a> 2018. "[Cortical Travelling Waves: Mechanisms and Computational Principles](https://papers.cnl.salk.edu/PDFs/Cortical%20travelling%20waves_%20mechanisms%20and%20computational%20principles.%202018-4515.pdf)." *Nature Reviews Neuroscience* 19 (5): 255.
+* <a name="muller2018cortical"> Muller, Lyle, Frédéric Chavane, John Reynolds, and Terrence J Sejnowski. </a> (2018). "[Cortical Travelling Waves: Mechanisms and Computational Principles](https://papers.cnl.salk.edu/PDFs/Cortical%20travelling%20waves_%20mechanisms%20and%20computational%20principles.%202018-4515.pdf)." *Nature Reviews Neuroscience* 19 (5): 255.
 
-* <a name="Tang18">Tang, Hanlin, Martin Schrimpf, William Lotter, Charlotte Moerman, Ana Paredes, Josue Ortega Caro, Walter Hardesty, David Cox, and Gabriel Kreiman. </a> 2018. "[Recurrent computations for visual pattern completion](https://doi.org/10.1073/pnas.1719397115)." *Proceedings of the National Academy of Sciences* 115 (35) 8835-8840.
+* <a name="Tang18">Tang, Hanlin, Martin Schrimpf, William Lotter, Charlotte Moerman, Ana Paredes, Josue Ortega Caro, Walter Hardesty, David Cox, and Gabriel Kreiman. </a> (2018). "[Recurrent computations for visual pattern completion](https://doi.org/10.1073/pnas.1719397115)." *Proceedings of the National Academy of Sciences* 115 (35) 8835-8840.
 
-* <a name="Voges12"> Voges, Nicole, and Laurent U Perrinet.</a> 2012. "[Complex Dynamics in Recurrent Cortical Networks Based on Spatially Realistic Connectivities.](https://doi.org/10.3389/fncom.2012.00041)" *Frontiers in Computational Neuroscience* 6.
+* <a name="Voges12"> Voges, Nicole, and Laurent U Perrinet.</a> (2012). "[Complex Dynamics in Recurrent Cortical Networks Based on Spatially Realistic Connectivities.](https://doi.org/10.3389/fncom.2012.00041)" *Frontiers in Computational Neuroscience* 6.
