@@ -48,7 +48,6 @@ The proposed work will be organized as a collaboration between two labs (INT, Ma
 3. The implementation of this kernel inspired by CNN theory will be incorporated in biologically realistic models of the early visual system ([Antolik et al., 2019](#Antolik2019))), and simulations of the lateral diffusion kernel will be developed in collaboration with [Jan Antolik](http://antolik.net/), external collaborator to the ANR grant.  In parallel, using tools linking neural activity to VSD imaging ([Muller et al., 2014](#muller2014stimulus); [Chemla et al., 2019](#Chemla2018)), we will analyze at a more mesocopic level the role of observed traveling waves in forming efficient representations of the visual world.
 
 ## Expected profile of the candidate
-
 Candidates should have at least a PhD degree in the domain of computational neuroscience, physics, engineering or related, and a solid training in machine learning and computer vision.
 
 The candidate has to show good skills in computer science (programming skills, architecture understanding, ...), and in image processing methods. Good command of programming tools (Python scripting) is required. Multidisciplinary background would be strongly appreciated and in particular an advanced knowledge in mathematics, for a deep understanding of signal processing methods, along with strong computational skills. The candidate needs to show a keen interest in neuroscience. It is a bonus if the candidate is curious about neuroscience and visual perception.
