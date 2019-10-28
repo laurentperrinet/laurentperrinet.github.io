@@ -27,7 +27,7 @@ Dear colleagues,
 
 Applications are welcome for a post-doctoral position at [INT](http://www.int.univ-amu.fr/?lang=en)-[Marseille](https://en.wikipedia.org/wiki/Marseille), France. Your mission will be to explore novel visual computations using spatio-temporal diffusion kernels and traveling waves. The project is funded by the [ANR Horizontal V1](https://laurentperrinet.github.io/grant/anr-horizontal-v1/) grant from the French National Research Agency (ANR) and will be coordinated by [Laurent Perrinet](https://laurentperrinet.github.io/), in collaboration with [Yves Fregnac](http://neuro-psi.cnrs.fr/spip.php?article934&lang=fr), [Lyle Muller](https://www.mullerlab.ca) and [Frédéric Chavane](http://www.int.univ-amu.fr/spip.php?page=equipe&equipe=NeOpTo&lang=en). We are seeking candidates with a strong background in machine learning, computer vision and computational neuroscience.
 
-For more information, visit [https://laurentperrinet.github.io/post/2019-10-21_postdoc-position](https://laurentperrinet.github.io/post/2019-10-21_postdoc-position).
+For more information, visit [https://laurentperrinet.github.io/post/2019-10-28_postdoc-position](https://laurentperrinet.github.io/post/2019-10-28_postdoc-position).
 
 The starting date is set to January 6th, 2020 but can be flexibly extended. To obtain further information or send applications (including a full CV, a letter of motivation, 2 reference names), please contact: [Laurent.Perrinet@univ-amu.fr](mailto:Laurent.Perrinet@univ-amu.fr). The appointment is for 18 month. Applications are welcome immediately and until the end of year 2019.
 
