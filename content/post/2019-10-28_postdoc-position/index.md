@@ -50,7 +50,7 @@ The proposed work will be organized as a collaboration between two labs (INT, Ma
 ## Expected profile of the candidate
 Candidates should have at least a PhD degree in the domain of computational neuroscience, physics, engineering or related, and a solid training in machine learning and computer vision.
 
-The candidate has to show good skills in computer science (programming skills, architecture understanding, ...), and in image processing methods. Good command of programming tools (Python scripting) is required. Multidisciplinary background would be strongly appreciated and in particular an advanced knowledge in mathematics, for a deep understanding of signal processing methods, along with strong computational skills. The candidate needs to show a keen interest in neuroscience. It is a bonus if the candidate is curious about neuroscience and visual perception.
+The candidate has to show good skills in computer science (programming skills, architecture understanding, git versioning, ...), and in image processing methods. Good command of programming tools (Python scripting) is required. Multidisciplinary background would be strongly appreciated and in particular an advanced knowledge in mathematics, for a deep understanding of signal processing methods, along with strong computational skills. The candidate needs to show a keen interest in neuroscience. It is a bonus if the candidate is curious about neuroscience and visual perception.
 
 The candidate has to fluently speak English to understand publications and to attend international conferences and workshops. The preferred candidate will have the ability to work autonomously, and needs to be flexible to comply with the working method of the supervisors.
 
