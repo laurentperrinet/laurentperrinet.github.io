@@ -68,7 +68,7 @@ This project is funded by the French National Research Agency (ANR) under the [A
 
 * <a name="Chavane2011"> Chavane, F., Sharon, D., Jancke, D., Marre, O., Frégnac, Y. and Grinvald, A.  (2011). </a> "[Lateral spread of orientation selectivity in V1 is controlled by intracortical cooperativity.](https://doi.org/10.1016/S0928-4257(00)01096-2)" *Journal of Physiology Paris* 94 (5-6): 333--42.
 
-* <a name="Chemla2018"> Chemla, Sandrine, Alexandre Reynaud, Matteo diVolo, Yann Zerlaut, Laurent Perrinet, Alain Destexhe, and Frédéric Chavane. </a> (2018). "[Suppressive Waves Disambiguate the Representation of Long-Range Apparent Motion in Awake Monkey V1.](https://doi.org/10.1101/372763)" *Journal of Neuroscience*.
+* <a name="Chemla2018"> Chemla, Sandrine, Alexandre Reynaud, Matteo diVolo, Yann Zerlaut, Laurent Perrinet, Alain Destexhe, and Frédéric Chavane. </a> (2018). "[Suppressive Waves Disambiguate the Representation of Long-Range Apparent Motion in Awake Monkey V1.](https://doi.org/10.1523/JNEUROSCI.2792-18.2019)" *Journal of Neuroscience* 39 (22) 4282-4298.
 
 * <a name="Field1993"> Field, D.J., Hayes, A. and Hess, R.F. (1993). </a> "[Contour integration by the human visual system: Evidence for a local “association field”.](https://doi.org/10.1016/0042-6989(93)90156-Q)" *Vision Research* 33 (2), pp. 173-193.
 
