@@ -1,6 +1,6 @@
 +++
 title = "Analyzing cortical network dynamics with respect to different connectivity assumptions"
-date = 2008-10-17
+date = 2008-10-03
 authors = [ "Nicole Voges", "Laurent U Perrinet",]
 publication_types = [ "1",]
 featured = false

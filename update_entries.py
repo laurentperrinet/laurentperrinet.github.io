@@ -145,7 +145,11 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
             entry = bib_database.entries_dict[old_key]
             #bib_database.get_entry_dict()[old_key]
             bundle_path = f"{pub_dir}/{slugify(entry['ID'])}"
-            cite_path = os.path.join(bundle_path, f"{slugify(entry['ID'])}.bib")
+            
+            #  old_cite_path = os.path.join(bundle_path, f"{slugify(entry['ID'])}.bib")
+            cite_path = os.path.join(bundle_path, "cite.bib")
+            # import os
+            # os.rename(old_cite_path, cite_path)
             # Save citation file.
             if verbose: print(f'Saving citation to {cite_path}')
             db = BibDatabase()
