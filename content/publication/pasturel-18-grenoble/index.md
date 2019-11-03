@@ -15,5 +15,5 @@ grants = [ "pace-itn",]
 
 
 * as presented at https://eyemovements.sciencesconf.org/
-* get the [[https://github.com/chloepasturel/AnticipatorySPEM/raw/master/2018-06-05_Poster_Workshop_Grenoble/Pasturel_etal2018grenoble.pdf|poster]]
+* get the [poster](https://github.com/chloepasturel/AnticipatorySPEM/raw/master/Poster/2018-06-05_Poster_Workshop_Grenoble/Pasturel_etal2018grenoble.pdf)
 * code : https://github.com/chloepasturel/AnticipatorySPEM/
