@@ -14,5 +14,5 @@ grants = [ "pace-itn",]
 
 
 * as presented at https://eyemovements.sciencesconf.org/
-* get the [poster](https://github.com/invibe/ANEMO/raw/master/2018-05-04_Poster_Grenobe/Pasturel_etal2018_grenoble.pdf)
+* get the [poster](https://github.com/invibe/ANEMO/raw/master/2018-05-04_Poster_Grenoble/Pasturel_etal2018_grenoble.pdf)
 * code : https://github.com/invibe/ANEMO/
