@@ -15,5 +15,6 @@ url_preprint = "https://www.biorxiv.org/content/10.1101/784116v1"
 url_code = "https://github.com/laurentperrinet/PasturelMontagniniPerrinet2019"
 +++
 
+* see a write-up in "[Humans adapt their anticipatory eye movements to the volatility of visual motion properties](https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-19/)"
 * get a [preprint](https://www.biorxiv.org/content/10.1101/784116v1)
 * source code for [paper](https://github.com/laurentperrinet/PasturelMontagniniPerrinet2019) and for the [framework](https://github.com/chloepasturel/AnticipatorySPEM)
