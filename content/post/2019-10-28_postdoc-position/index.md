@@ -22,6 +22,7 @@ projects = []
   focal_point = "Center"
   preview_only = false
 +++
+{{< tweet 1188940039293751297 >}}
 
 Dear colleagues,
 
