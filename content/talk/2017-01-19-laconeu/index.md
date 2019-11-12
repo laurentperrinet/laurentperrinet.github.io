@@ -10,7 +10,7 @@ event_url = "http://www.laconeu.cl"
 location = "Valparaiso (Chile)"
 tags = [ "Biologically Inspired Computer vision",]
 url_slides = "https://laurentperrinet.github.io/sciblog/files/2017-01-19_LACONEU.html"
-projects = []
+projects = [ "open-science",]
 publishDate = "2017-01-01"
 grants = [ "anr-trajectory",]
 +++

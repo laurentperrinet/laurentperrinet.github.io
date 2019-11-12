@@ -10,7 +10,7 @@ event = "4th BrainScaleS Plenary meeting"
 event_url = "https://brainscales.kip.uni-heidelberg.de/internal/jss/AttendMeeting?m=showAgenda&meetingID=45"
 location = "Manchester (UK)"
 url_slides = "http://invibe.net/LaurentPerrinet/Presentations/2014-03-20_Manchester?action=AttachFile&do=get&target=14-03-20_BK_LP_MK_handout.pdf"
-projects = []
+projects = [ "open-science",]
 publishDate = "2014-01-01"
 grants = [ "brain-scales",]
 +++

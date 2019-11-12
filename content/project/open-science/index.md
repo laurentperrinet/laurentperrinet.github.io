@@ -10,7 +10,7 @@ summary = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["psychophysics", "motion-clouds"]
+tags = ["log-gabor", "psychophysics", "motion-clouds"]
 
 # Optional external URL for project (replaces project detail page).
 

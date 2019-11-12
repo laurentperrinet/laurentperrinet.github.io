@@ -11,4 +11,5 @@ location = "INT, Marseille"
 url_slides = "https://laurentperrinet.github.io/2018-03-26_cours-NeuroComp_FEP"
 url_code = "https://github.com/laurentperrinet/2018-03-26_cours-NeuroComp_FEP"
 publishDate = "2018-01-01"
+projects = [ "open-science",]
 +++

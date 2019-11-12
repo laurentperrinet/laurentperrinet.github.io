@@ -7,7 +7,7 @@ featured = false
 publication = "*Grenoble Workshop on Models and Analysis of Eye Movements, Grenoble, France*"
 tags = [ "motion anticipation",]
 url_pdf = "https://laurentperrinet.github.io/publication/pasturel-18-anemo"
-projects = []
+projects = [ "open-science",]
 publishDate = "2019-09-17"
 grants = [ "pace-itn",]
 +++

@@ -11,5 +11,5 @@ projects = []
 url_pdf = "https://laurentperrinet.github.io/publication/meso-13-vss"
 doi = "10.1167/13.9.354"
 publishDate = "2019-09-17"
-grants = [ "anr-speed", "motion-clouds",]
+grants = [ "anr-speed",]
 +++

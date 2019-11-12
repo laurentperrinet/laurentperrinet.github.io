@@ -11,5 +11,5 @@ url_pdf = "http://www.journalofvision.org/content/12/9/1014.abstract?sid=9c51ff8
 doi = "10.1167/11.11.749"
 projects = []
 publishDate = "2019-09-17"
-grants = [ "codde", "motion-clouds",]
+grants = [ "codde",]
 +++

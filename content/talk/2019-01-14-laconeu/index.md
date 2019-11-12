@@ -10,7 +10,7 @@ event_url = "http://www.laconeu.cl"
 location = "Valparaiso (Chile)"
 url_slides = "https://laurentperrinet.github.io/2019-01-14_LACONEU"
 url_code = "https://github.com/laurentperrinet/2019-01-14_LACONEU"
-projects = []
+projects = [ "open-science",]
 publishDate = "2019-01-01"
 grants = [ "anr-horizontal-v1",]
 +++

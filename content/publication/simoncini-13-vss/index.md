@@ -9,5 +9,5 @@ publication = "*VSS Conference Abstract*"
 projects = []
 tags = [ "eye movements", "motion detection", "motion-clouds", "psychophysics",]
 publishDate = "2019-09-17"
-grants = [ "brain-scales", "codde", "motion-clouds",]
+grants = [ "brain-scales", "codde",]
 +++

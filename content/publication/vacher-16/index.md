@@ -12,5 +12,5 @@ doi = "10.1162/neco_a_01142"
 url_preprint = "https://arxiv.org/abs/1611.01390"
 publication = "*Neural Computation*"
 publishDate = "2019-09-17"
-grants = [ "anr-speed", "motion-clouds",]
+grants = [ "anr-speed",]
 +++

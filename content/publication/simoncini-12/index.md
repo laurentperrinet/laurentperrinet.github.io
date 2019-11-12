@@ -11,7 +11,7 @@ tags = [ "eye movements", "motion detection", "motion-clouds", "psychophysics",]
 projects = []
 featured = true
 publishDate = "2019-09-17"
-grants = [ "codde", "motion-clouds",]
+grants = [ "codde",]
 +++
 
 ![header](simoncini-12.png)
