@@ -24,6 +24,20 @@ tags = ["log-gabor", "psychophysics", "motion-clouds"]
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
+To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences. This includes code to reproduce results obtained in papers (e.g. [(Perrinet, Adams and Friston, 2015)](https://github.com/laurentperrinet/PerrinetAdamsFriston14), [(Perrinet and Bednar, 2015)](https://github.com/laurentperrinet/PerrinetBednar15), [(Khoei et, 2017)](https://github.com/laurentperrinet/Khoei_2017_PLoSCB), [(Perrinet, 2019)](https://github.com/laurentperrinet/2019-05_illusions-visuelles) or courses and slides (e.g. [2019-04-03_a_course_on_vision_and_modelization](https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization), [2019-04-18_JNLF](https://github.com/laurentperrinet/2019-04-18_JNLF), ...)
+
+
+# bayesianchangepoint
+
+An implementation of [Adams &amp; MacKay 2007 "Bayesian Online Changepoint Detection"](http://arxiv.org/abs/0710.3742) in Python.
+
+* [Source code](https://github.com/laurentperrinet/bayesianchangepoint)
+
+# LeCheapEyeTracker
+
+Work-in-progress eye Tracker based on webcams.
+
+* [Source code](https://github.com/laurentperrinet/LeCheapEyeTracker)
 
 # Biologically inspired computer vision
 
@@ -51,6 +65,13 @@ This algorithm was presented in the following paper, which is available as a rep
 
 * [Web-site](https://pythonhosted.org/SparseEdges)
 * [Source code](https://github.com/bicv/SparseEdges/)
+
+##  SparseHebbianLearning : unsupervised learning of natural images
+
+This is a collection of python scripts to test learning strategies to efficiently code natural image patches. This is here restricted to the framework of the SparseNet algorithm from Bruno Olshausen (http://redwood.berkeley.edu/bruno/sparsenet/).
+
+* [Source code](https://github.com/bicv/SparseHebbianLearning/)
+
 
 # MotionClouds
 
