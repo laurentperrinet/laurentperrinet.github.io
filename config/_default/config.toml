@@ -19,7 +19,7 @@ This material is presented to ensure timely dissemination of scholarly and techn
 Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
 """
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-140381649-1"
+# googleAnalytics = "UA-140381649-1"
 # <!-- Global site tag (gtag.js) - Google Analytics -->
 # <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140381649-1"></script>
 # <script>
