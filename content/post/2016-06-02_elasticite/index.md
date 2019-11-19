@@ -22,6 +22,8 @@ projects = ["art-science"]
 +++
 # Elasticité dynamique @  Fondation Vasarely à Aix-en-Provence
 
+{{< vimeo 198189587 >}}
+
  * 2016, https://github.com/NaturalPatterns/elasticite
 
 L'installation ''Elasticité dynamique'' agit comme un filtre et génère de nouveaux espaces démultipliés, comme un empilement quasi infini d'horizons.
