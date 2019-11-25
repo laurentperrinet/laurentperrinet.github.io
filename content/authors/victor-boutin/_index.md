@@ -36,6 +36,12 @@ tags = [ "doc-2-amu"]
 
 # Controlling an aerial robot by human semaphore gestures using a bio-inspired neural network (PhD, 12/2016-02/2020)
 
+The brain is a complex machinery that is incredibly efficient and flexible. Thanks to efficient training processes, it tackles a high diversity of tasks with a high robustness. In contrast, states-of-the-art machine learning algorithms exhibit great performances, but are also highly task-specialized. Consequently, neuroscience is potentially a great source of inspiration to design more efficient artificial intelligence algorithms.
+
+In particular, vision is predominant compared to other senses in terms of computational resources. So understanding visual processing has the potential to reveal the core computational mechanisms that give the brain such performances. In my research, I am interested in extracting the fundamental principles that are at stake in the visual system, and to apply them to develop better machine learning algorithms. As I consequence, I tend to adopt a cross-level analysis approach. I develop algorithms that simultaneously model low-level neural mechanisms and account for higher-level visual tasks such as object recognition, denoising, inpainting, image generation, etc.
+
+The ultimate objective would be to develop a framework that successfully solves all these visual tasks without being extensively retrained from scratch for each of those tasks. Such an algorithm would be a first step towards the ultimate goal of every researcher in machine learning, that is, general artificial intelligence.
+
 * Venue: Aix-Marseille University [DOC2AMU](https://doc2amu.univ-amu.fr/fr/victor-boutin-doctorant-promotion-2016) is an innovative H2020-MSCA-COFUND
 * Keywords: Aerial Robots, Vision, Neural Networks, Bio-Inspired Computer Vision, Gaze orientation, learning
 * Thesis director: Dr. Laurent PERRINET, Director's research unit: Institut de Neurosciences de la Timone (INT)
