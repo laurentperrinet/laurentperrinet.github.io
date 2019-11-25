@@ -34,7 +34,7 @@ tags = [ "doc-2-amu"]
 
 +++
 
-# Controlling an aerial robot by human semaphore gestures using a bio-inspired neural network (PhD, 12/2016-02/2020)
+# Controlling an aerial robot by human semaphore gestures using a bio-inspired neural network (PhD, 12/2016 - 02/2020)
 
 The brain is a complex machinery that is incredibly efficient and flexible. Thanks to efficient training processes, it tackles a high diversity of tasks with a high robustness. In contrast, states-of-the-art machine learning algorithms exhibit great performances, but are also highly task-specialized. Consequently, neuroscience is potentially a great source of inspiration to design more efficient artificial intelligence algorithms.
 
