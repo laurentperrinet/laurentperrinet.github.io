@@ -18,6 +18,10 @@ projects = ["tout-public"]
 
 +++
 
+* Cette présentation lors des [NeuroStories](http://neuroschool-stories.com/) vise à aborder la notion de temps dans le cerveau.
+
+* Le texte de cette présentation est reprise dans cet article de [The Conversation](https://laurentperrinet.github.io/publication/perrinet-19-temps/) ([lien direct](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567)).
+
 * [Neurostories: d'autres videos du flash-lag effect](https://laurentperrinet.github.io/sciblog/posts/2019-10-07-neurostories-videos-of-my-talk.html)
 
 * "Chaque année, NeuroSchool nous raconte des histoires sur un thème à la fois philosophique et scientifique. L’objectif est de faire connaître, d’une manière inventive, les recherches de pointe menées à Marseille et ailleurs, dans le domaine des neurosciences. Le format inventif associe des NeuroStories et des causeries scientifiques." http://neuroschool-stories.com/
