@@ -11,6 +11,8 @@ authors = ["laurent-u-perrinet"]
 
 +++
 
+* "C'est ce que je fais qui m'apprend ce que je cherche." Pierre Soulages
+
 * “**Harry Potter:** Is this real? Or has this been happening inside my head?  **Professor Albus Dumbledore:** Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?” ― (J.K. Rowling, [Harry Potter and the Deathly Hallows](https://www.goodreads.com/work/quotes/2963218))
 
 * "I do know what time is," Tubby declared. He paused. "Time," he added slowly -- "time is what keeps everything from happening at once. I know that--I seen it in print too." (Ray Cummings)
