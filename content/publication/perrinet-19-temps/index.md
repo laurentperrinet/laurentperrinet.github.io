@@ -13,5 +13,8 @@ publishDate = "2019-09-17"
 grants = [ "anr-horizontal-v1",]
 +++
 
+* Un article dans [The Conversation](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567) dont l'objectif est d'être accessible et réutilisable (dans des cours d'introduction aux neurosciences, sciences cognitives, vision, réseaux de neurones, içntelleigence artificielle).
 
- * Laurent Perrinet a reçu des financements de l'Agence Nationale de la Recherche (ANR HOR-V1 ANR-17-CE37-0006) et du CNRS (SpikeAI). Cet article n’aurait pas vu le jour sans la journée des Neurostories  de la NeuroSchool d’Aix-Marseille Université, ceux qui l’ont fait vivre et parmi eux: François Féron, Alexia Belleville, Jean-Marc Michelangeli, Camille Grasso, Daniele Schön, Anne-Marie François-Bellan, Jennifer Coull, Corine Sombrun et Francis Taulelle.
+* [Neurostories: d'autres videos du flash-lag effect](https://laurentperrinet.github.io/sciblog/posts/2019-10-07-neurostories-videos-of-my-talk.html)
+
+* Laurent Perrinet a reçu des financements de l'Agence Nationale de la Recherche (ANR HOR-V1 ANR-17-CE37-0006) et du CNRS (SpikeAI). Cet article n’aurait pas vu le jour sans la journée des [Neurostories](https://laurentperrinet.github.io/post/2019-10-07_neurostories/) de la NeuroSchool d’Aix-Marseille Université, ceux qui l’ont fait vivre et parmi eux: François Féron, Alexia Belleville, Jean-Marc Michelangeli, Camille Grasso, Daniele Schön, Anne-Marie François-Bellan, Jennifer Coull, Corine Sombrun et Francis Taulelle.

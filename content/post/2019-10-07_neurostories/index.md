@@ -18,5 +18,6 @@ projects = ["tout-public"]
 
 +++
 
+* [Neurostories: d'autres videos du flash-lag effect](https://laurentperrinet.github.io/sciblog/posts/2019-10-07-neurostories-videos-of-my-talk.html)
 
 * "Chaque année, NeuroSchool nous raconte des histoires sur un thème à la fois philosophique et scientifique. L’objectif est de faire connaître, d’une manière inventive, les recherches de pointe menées à Marseille et ailleurs, dans le domaine des neurosciences. Le format inventif associe des NeuroStories et des causeries scientifiques." http://neuroschool-stories.com/
