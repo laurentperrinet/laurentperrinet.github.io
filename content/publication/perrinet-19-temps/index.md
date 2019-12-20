@@ -24,17 +24,13 @@ grants = [ "anr-horizontal-v1",]
 
 * Un article dans [The Conversation](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567) dont l'objectif est d'être accessible et réutilisable (dans des cours d'introduction aux neurosciences, sciences cognitives, vision, réseaux de neurones, intelligence artificielle).
 
-* Le flash-lag effect original
+* Le flash-lag effect original:
 
-<BR>
-<center><video controls autoplay loop src="https://laurentperrinet.github.io/publication/perrinet-19-temps/A-flash_lag.mp4" width=61.8%/></center>
-<BR>
+{{< video src="A-flash_lag.mp4" autoplay="yes" >}}
 
 * la même chose avec un arrêt:
 
-<BR>
-<center><video controls autoplay loop src="https://laurentperrinet.github.io/publication/perrinet-19-temps/B-flash_lag_stop.mp4" width=61.8%/></center>
-<BR>
+{{< video src="B-flash_lag_stop.mp4" autoplay="yes" >}}
 
 * pour illustrer la fleche du temps (" Or dans tout système, d’après le second principe de la thermodynamique, le désordre mesuré par l’entropie se doit d’augmenter. Voilà pourquoi il existe une asymétrie dans l’écoulement du temps, c’est-à-dire une flèche du temps. Résultat, si l’on filme une partie de billard, on trouvera incongru cette séquence si on la projette dans le sens inverse du temps. "), on peut aussi utiliser cette video d'un bocal qui se brise qu'il est aisé de lire dans le sens inverse du temps:
 
