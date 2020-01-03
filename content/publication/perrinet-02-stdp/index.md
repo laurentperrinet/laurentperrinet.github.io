@@ -1,5 +1,5 @@
 +++
-title = "Coherence detection in a spiking neuron via hebbian learning"
+title = "Coherence detection in a spiking neuron via Hebbian learning"
 date = 2002-01-01
 authors = [ "Laurent U Perrinet", "Manuel Samuelides",]
 publication_types = [ "2",]

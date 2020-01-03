@@ -10,4 +10,5 @@ tags = [ "active inference", "area-v1", "Bayesian model",]
 projects = []
 publishDate = "2019-09-17"
 grants = [ "anr-horizontal-v1", "spikeai",]
+url_pdf = "https://laurentperrinet.github.io/publication/perrinet-19/"
 +++

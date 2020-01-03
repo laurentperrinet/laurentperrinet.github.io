@@ -7,7 +7,7 @@ abstract = "Sensory informations such as visual images are inherently variable. 
 featured = false
 publication = "*LADISLAV TAUC and GDR MSPC NEUROSCIENCES CONFERENCE, From Mathematical Image Analysis to Neurogeometry of the Brain*"
 tags = [ "Bayesian model", "center-surround interactions", "coding decoding", "eye movements", "motion detection",]
-url_pdf = "http://www.incm.cnrs-mrs.fr/LaurentPerrinet/Presentations/10-12-17_TaucTalk"
+url_pdf = "https://laurentperrinet.github.io/publication/perrinet-10-tauc/"
 publishDate = "2019-09-17"
 +++
 
