@@ -11,6 +11,7 @@ event_url = "http://www.pollymaggoo.org/"
 location = "Marseille, France"
 event = "Cinéma et sciences : rencontre avec les collégiens marseillais"
 publishDate = "2019-01-01"
+url_pdf = "https://laurentperrinet.github.io/talk/2019-01-10-polly-maggoo/"
 +++
 
 # Cinéma et sciences : rencontre avec les collégiens marseillais

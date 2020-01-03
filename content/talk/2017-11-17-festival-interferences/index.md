@@ -10,6 +10,7 @@ event_url = "http://www.lacitedoc.com/interferences-programmation\u200b"
 location = "Lyon, France"
 event = "Festival Interférences - Cinéma Documentaire et Débat Public"
 publishDate = "2017-01-01"
+url_pdf = "https://laurentperrinet.github.io/talk/2017-11-17-festival-interferences/"
 +++
 
 

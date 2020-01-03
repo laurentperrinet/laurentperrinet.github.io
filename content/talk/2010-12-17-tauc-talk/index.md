@@ -8,6 +8,7 @@ publication = "*LADISLAV TAUC & GDR MSPC NEUROSCIENCES CONFERENCE, From Mathemat
 tags = [ "Bayesian model", "center-surround interactions", "dynamics", "eye movements", "motion detection", "motion prediction",]
 event = "LADISLAV TAUC and GDR MSPC NEUROSCIENCES CONFERENCE, From Mathematical Image Analysis to Neurogeometry of the Brain"
 publishDate = "2010-01-01"
+url_pdf = "https://laurentperrinet.github.io/talk/2010-12-17-tauc-talk/"
 +++
 
 An event ranging "From Mathematical Image Analysis to Neurogeometry of the Brain" [LADISLAV TAUC & GDR MSPC NEUROSCIENCES CONFERENCE](http://www.conftauc.cnrs-gif.fr/programme.php).

@@ -9,6 +9,7 @@ event = "Macroscopic aspects of neuronal activity: ''Macroscopic models, LFP mod
 projects = []
 publishDate = "2009-01-01"
 grants = [ "facets",]
+url_pdf = "https://laurentperrinet.github.io/talk/2009-11-30-vss/"
 +++
 
 * see this more recent poster @ [VSS]({{< ref "/publication/perrinet-09-vss/index.md" >}})

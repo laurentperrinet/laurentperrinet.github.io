@@ -4,7 +4,7 @@ date = 2018-02-01
 authors = [ "Laurent U Perrinet", "Chloé Pasturel", "Anna Montagnini",]
 featured = false
 publication = "*Visual motion Fest - Invibe Team – INT / Marseille February 1 & 2, 2018*"
-url_pdf = "http://invibe.net/LaurentPerrinet/Presentations/2018-02-01_BCP_INVIBE_fest"
+url_pdf = "https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/"
 event = "Visual motion Fest - Invibe Team -- INT / Marseille February 1 and 2, 2018"
 publishDate = "2018-01-01"
 +++

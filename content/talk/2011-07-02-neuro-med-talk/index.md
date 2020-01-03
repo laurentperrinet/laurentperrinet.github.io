@@ -8,6 +8,7 @@ publication = "*Atelier Neurosciences Computationnelles, 2-3 Juillet 2011 Khemis
 tags = [ "Bayesian model", "dynamics", "eye movements", "motion detection", "motion prediction",]
 event = "Atelier Neurosciences Computationnelles, 2-3 Juillet 2011 Khemisset, Maroc"
 publishDate = "2011-01-01"
+url_pdf = "https://laurentperrinet.github.io/talk/2011-07-02-neuro-med-talk/"
 +++
 
 La finalité de cette manifestation est de permettre à nos chercheurs de se réunir en groupes de travail et en ateliers afin de découvrir la thématique des neurosciences et son interdisciplinarité. La manifestation se tient dans le cadre des activités du laboratoire LAMS, de ABC MATHINFO, du GDRI NeurO et du réseau méditerranéen [NeuroMed](http://www.neuromedproject.eu/).

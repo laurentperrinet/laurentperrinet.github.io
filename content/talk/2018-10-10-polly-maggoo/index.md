@@ -10,6 +10,7 @@ event_url = "http://www.pollymaggoo.org/"
 location = "Marseille, France"
 event = "FÊTE DE LA SCIENCE 2018 : Alcazar / MERLAN"
 publishDate = "2018-01-01"
+url_pdf = "https://laurentperrinet.github.io/talk/2018-10-10-polly-maggoo/"
 +++
 
 # FÊTE DE LA SCIENCE 2018 : Alcazar / MERLAN

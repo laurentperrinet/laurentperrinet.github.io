@@ -11,6 +11,7 @@ event_url = "http://ondesparalleles.org/projets/vortex-polychromatique-diffracti
 location = "Aix-enProvence (France)"
 event = "intervention autour du vernissage de \\\"Diffraction monochromatique, spectre audiographique\\\" d'Etienne Rey."
 publishDate = "2010-01-01"
+url_pdf = "https://laurentperrinet.github.io/talk/2010-04-14-ondes-paralleles/"
 +++
 
 # Diffraction monochromatique, spectre audiographique
