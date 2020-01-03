@@ -12,6 +12,8 @@ url_pdf = "https://spikeai.github.io/HULK/"
 doi = "10.3390/vision3030047"
 publishDate = "2019-09-17"
 grants = [ "anr-horizontal-v1", "spikeai; mesocentre",]
+url_code = "https://github.com/SpikeAI/HULK"
+url_preprint = "https://laurentperrinet.github.io/publication/perrinet-19-hulk/"
 +++
 
 # "An adaptive algorithm for unsupervised learning"
