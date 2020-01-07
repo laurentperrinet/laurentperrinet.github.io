@@ -1,7 +1,7 @@
 +++
 title = "Qui créera le premier ordinateur intelligent?"
 date = 2011-06-20
-authors = [ "Laurent Perrinet",]
+authors = [ "Laurent U Perrinet",]
 publication_types = [ "2",]
 featured = false
 publication = "*DocSciences*"
