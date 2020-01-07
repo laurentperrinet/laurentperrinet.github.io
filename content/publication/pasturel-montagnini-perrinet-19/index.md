@@ -7,12 +7,13 @@ abstract = "Humans are able to accurately track a moving object with a combinati
 featured = false
 publication = "*Submitted*"
 tags = [ "motion anticipation",]
-url_pdf = "https://github.com/laurentperrinet/PasturelMontagniniPerrinet2019"
+url_pdf = "https://www.biorxiv.org/content/10.1101/784116v1"
 projects = []
 publishDate = "2019-09-17"
 grants = [ "pace-itn",]
 url_preprint = "https://www.biorxiv.org/content/10.1101/784116v1"
 url_code = "https://github.com/laurentperrinet/PasturelMontagniniPerrinet2019"
+doi = "10.1101/784116 "
 +++
 
 * get a [preprint](https://www.biorxiv.org/content/10.1101/784116v1)
