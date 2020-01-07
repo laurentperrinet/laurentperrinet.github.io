@@ -138,7 +138,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
             with open(file_path, 'r', encoding='utf-8') as source_file:
                 page = source_file.read() + '\n'
             metadata = page.split('+++')
-            print(metadata[1])
+            print(metadata)
             parsed_toml = toml.loads(metadata[1])
 
             # print('new_key =', new_key, 'dico[new_key]', dico[new_key])
