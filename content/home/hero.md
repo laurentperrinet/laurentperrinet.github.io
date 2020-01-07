@@ -18,11 +18,11 @@ title = "Novel visual computations"
 
   # Background color.
   # color = "navy"
-
+  
   # Background gradient.
   gradient_start = "#4bb4e3"
   gradient_end = "#2b94c3"
-
+  
   # Background image.
   image = "headers/Etienne-Rey-TROPIQUE_header.jpg"  # Name of image in `static/img/`.
   image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
