@@ -138,6 +138,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
             with open(file_path, 'r', encoding='utf-8') as source_file:
                 page = source_file.read() + '\n'
             metadata = page.split('+++')
+            print(metadata[1])
             parsed_toml = toml.loads(metadata[1])
 
             # print('new_key =', new_key, 'dico[new_key]', dico[new_key])
@@ -145,7 +146,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
             entry = bib_database.entries_dict[old_key]
             #bib_database.get_entry_dict()[old_key]
             bundle_path = f"{pub_dir}/{slugify(entry['ID'])}"
-            
+
             #  old_cite_path = os.path.join(bundle_path, f"{slugify(entry['ID'])}.bib")
             cite_path = os.path.join(bundle_path, "cite.bib")
             # import os
