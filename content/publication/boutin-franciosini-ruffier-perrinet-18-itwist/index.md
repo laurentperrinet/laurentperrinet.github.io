@@ -17,5 +17,5 @@ grants = [ "doc-2-amu", "phd-icn",]
 2. [poster session](https://sites.google.com/view/itwist18/program#h.p_9OOcrreKb--s) scheduled on Thursday, November 22th, from 10h30 till 12h00.
 3. CIRM, Marseille, France. <span id="line-10" class="anchor"></span>
 4. get the [full proceedings](https://arxiv.org/html/1812.00648)
-5. Poster as [PDF](https://invibe.net/LaurentPerrinet/Publications/BoutinFranciosiniRuffierPerrinet18itwist?action=AttachFile&do=get&target=BoutinFranciosiniRuffierPerrinet18itwist.pdf)
+5. Poster as [PDF](boutin-franciosini-ruffier-perrinet-18-itwist.pdf)
 6. check-out our preprint on [SDPC]({{< ref "/publication/boutin-franciosini-chavane-ruffier-perrinet-19/index.md" >}})

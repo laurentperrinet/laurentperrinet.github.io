@@ -65,7 +65,7 @@ This project is funded by the French National Research Agency (ANR) under the [A
 
 * <a name="BoutinFranciosiniChavaneRuffierPerrinet19"> Boutin, Victor, Angelo Franciosini, Frédéric Chavane, Franck Ruffier, and Laurent U Perrinet. (2019). </a> "[Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system.](https://arxiv.org/abs/1902.07651)" *arXiv*
 
-* <a name="Chavane2000"> Chavane, F., C. Monier, V. Bringuier, P. Baudot, L. Borg-Graham, J. Lorenceau, and Y. Frégnac. 2000. </a> "[The Visual Cortical Association Field: A Gestalt Concept or a Psychophysiological Entity?](http://invibe.net/biblio_database_dyva/woda/data/att/7a9a.file.pdf)" *Frontiers in System Neuroscience* 4(5): 1-26.
+* <a name="Chavane2000"> Chavane, F., C. Monier, V. Bringuier, P. Baudot, L. Borg-Graham, J. Lorenceau, and Y. Frégnac. 2000. </a> "The Visual Cortical Association Field: A Gestalt Concept or a Psychophysiological Entity?" *Frontiers in System Neuroscience* 4(5): 1-26.
 
 * <a name="Chavane2011"> Chavane, F., Sharon, D., Jancke, D., Marre, O., Frégnac, Y. and Grinvald, A.  (2011). </a> "[Lateral spread of orientation selectivity in V1 is controlled by intracortical cooperativity.](https://doi.org/10.1016/S0928-4257(00)01096-2)" *Journal of Physiology Paris* 94 (5-6): 333--42.
 

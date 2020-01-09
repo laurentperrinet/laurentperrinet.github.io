@@ -9,7 +9,7 @@ url_pdf = "https://laurentperrinet.github.io/talk/2012-05-10-itwist/"
 event = "iTWIST '12 workshop"
 tags = [ "sparse coding",]
 event_url = "https://sites.google.com/site/itwist1st/home"
-url_slides = "http://invibe.net/LaurentPerrinet/Presentations/2012-05-10?action=AttachFile&do=get&target=Perrinet12itwist.pdf"
+url_slides = "Perrinet12itwist.pdf"
 publishDate = "2012-01-01"
 +++
 

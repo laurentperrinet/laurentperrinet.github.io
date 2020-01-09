@@ -78,7 +78,7 @@ Reception and coffee
 
 9h30-10h00
 
-*<a href="http://invibe.net/LaurentPerrinet" class="http">Laurent Perrinet</a>*
+*<a href="https://laurentperrinet.github.io/" class="http">Laurent Perrinet</a>*
 Institut de Neurosciences Cognitives de la Méditerranée, CNRS and
 Université de la Méditerranée - Marseille
 **«Presentation of the Workshop and Topic»**

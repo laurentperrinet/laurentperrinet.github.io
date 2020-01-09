@@ -9,7 +9,7 @@ tags = [ "Bayesian model", "center-surround interactions", "dynamics", "eye move
 url_pdf = "https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/"
 event = "Vision@UCL seminar"
 location = "Malet Place Eng Bldg 1.03 (first floor)."
-url_slides = "http://invibe.net/LaurentPerrinet/Presentations/2012-01-12_VisionAtUcl?action=AttachFile&do=get&target=perrinet12ucl_handout.pdf"
+url_slides = "perrinet12ucl_handout.pdf"
 projects = []
 publishDate = "2012-01-01"
 grants = [ "brain-scales",]

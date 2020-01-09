@@ -9,7 +9,7 @@ url_pdf = "https://laurentperrinet.github.io/talk/2015-10-07-gdr-bio-comp/"
 event = "First GDR BioComp workshop"
 event_url = "http://gdr-biocomp.fr/colloque/"
 location = "Saint-Paul de Vence"
-url_slides = "http://invibe.net/LaurentPerrinet/Presentations/2015-10-07_GDR-BioComp?action=AttachFile&do=view&target=Perrinet15biocomp_slides.pdf"
+url_slides = "https://laurentperrinet.github.io/sciblog/files/2015-10-07_Perrinet15biocomp_slides.pdf"
 projects = []
 publishDate = "2015-01-01"
 grants = [ "brain-scales",]

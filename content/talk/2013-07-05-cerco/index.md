@@ -8,7 +8,7 @@ url_pdf = "https://laurentperrinet.github.io/talk/2013-07-05-cerco/"
 event = "CerCo 20th anniversary"
 tags = [ "Biologically Inspired Computer vision",]
 location = "CerCo, Toulouse"
-url_slides = "http://invibe.net/LaurentPerrinet/Presentations/2013-07-05_Cerco?action=AttachFile&do=get&target=perrinet13cerco.pdf"
+url_slides = "perrinet13cerco.pdf"
 projects = []
 publishDate = "2013-01-01"
 grants = [ "brain-scales",]

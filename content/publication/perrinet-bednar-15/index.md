@@ -20,7 +20,7 @@ grants = [ "anr-bala-v1",]
 * [Press release](http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html)
 * [communiqué de presse](http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html)
 * [supplementary information](http://www.nature.com/article-assets/npg/srep/2015/150622/srep11400/extref/srep11400-s1.pdf)
-* [supplementary material](hhttps://invibe.net/LaurentPerrinet/Publications/PerrinetBednar15?action=AttachFile&do=get&target=PerrinetBednar15supplementary.pdf)
+* [supplementary material](PerrinetBednar15supplementary.pdf)
 # A study of how people can quickly spot animals by sight is helping uncover the workings of the human brain.
 Scientists examined why volunteers who were shown hundreds of pictures - some with animals and some without - were able to detect animals in as little as one-tenth of a second.
 They found that one of the first parts of the brain to process visual information - the primary visual cortex - can control this fast response.

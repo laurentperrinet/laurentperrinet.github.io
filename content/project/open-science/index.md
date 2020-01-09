@@ -83,5 +83,5 @@ This is a collection of python scripts to test learning strategies to efficientl
 
 **MotionClouds** are random dynamic stimuli optimized to study motion perception.
 
-* [Web-site](http://www.motionclouds.invibe.net)
+* [Web-site](https://neuralensemble.github.io/MotionClouds/)
 * [Source code](https://github.com/NeuralEnsemble/MotionClouds)

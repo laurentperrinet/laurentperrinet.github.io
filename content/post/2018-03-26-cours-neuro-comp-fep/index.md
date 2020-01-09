@@ -78,16 +78,16 @@ program
 
 ### day 1 : 2018-03-26 : an introduction to Computational Neuroscience
 
--   09:30-12:30 = [Introduction to modeling single neurons](http://invibe.net/LaurentPerrinet/Presentations/2017-03-06_cours-NeuroComp?action=AttachFile&do=view&target=2017-03-06_LaurentPezard.pdf "Introduction to modeling single neurons") (LaP)
+-   09:30-12:30 = [Introduction to modeling single neurons](https://laurentperrinet.github.io/sciblog/files/2015-12-08_cours_neurocomp/2017-03-06_LaurentPezard.pdf "Introduction to modeling single neurons") (LaP)
 
--   14:00-17:00 = [An introduction to neural masses: modeling assemblies of neurons up to capturing resting state dynamics in a mean-field model - presentation of the Virtual Brain software](http://invibe.net/LaurentPerrinet/Presentations/2017-03-06_cours-NeuroComp?action=AttachFile&do=view&target=2017-Lecture_INT_MeanField_to_TVB.pdf "An introduction to neural masses: modeling assemblies of neurons up to capturing resting state dynamics in a mean-field model - presentation of the Virtual Brain software") (DaB)
+-   14:00-17:00 = An introduction to neural masses: modeling assemblies of neurons up to capturing resting state dynamics in a mean-field model - presentation of the Virtual Brain software (DaB)
 
 ### day 2 : 2018-03-27 : Information theory / bayesian models
 
--   09:15-10:30 = [An overview on "What is encoding?" "What is decoding?": formalization of the notion of information in neural activity](http://invibe.net/LaurentPerrinet/Presentations/2017-03-06_cours-NeuroComp?action=AttachFile&do=view&target=2017-Lecture_INT_InfoTheory.pdf "An overview on "What is encoding?" "What is decoding?": formalization of the notion of information in neural activity") (DaB)
+-   09:15-10:30 = An overview on "What is encoding?" "What is decoding?": formalization of the notion of information in neural activity (DaB)
 
 -   11:00-12:15 = (...continued after the coffee break: ) Live information! From sharing information to transferring information (and a glimpse into the zoo of higher-order friends) (DaB)
--   14:00-17:10 = [Probabilities, the Free-energy principle and Active Inference](http://invibe.net/LaurentPerrinet/Presentations/2018-03-26_cours-NeuroComp_FEP) (LuP).
+-   14:00-17:10 = [Probabilities, the Free-energy principle and Active Inference](https://laurentperrinet.github.io/sciblog/files/2018-03-26_cours-NeuroComp_FEP.html) (LuP).
 
 ### day 3 : 2018-03-28 : Practical course on Information theory
 

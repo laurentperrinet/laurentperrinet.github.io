@@ -8,7 +8,7 @@ url_pdf = "https://laurentperrinet.github.io/talk/2012-03-23-juelich/"
 event = "Second BrainScaleS plenary Meeting - WP5"
 projects = []
 location = "Forschungszentrum Jülich"
-url_slides = "http://invibe.net/LaurentPerrinet/Presentations/2012-03-23_Juelich?action=AttachFile&do=get&target=perrinet12wp5_handout.pdf"
+url_slides = "perrinet12wp5_handout.pdf"
 publishDate = "2012-01-01"
 grants = [ "brain-scales",]
 +++

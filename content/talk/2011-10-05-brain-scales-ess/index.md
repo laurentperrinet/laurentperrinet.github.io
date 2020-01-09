@@ -10,7 +10,7 @@ tags = [ "sparse coding",]
 projects = []
 event_url = "https://brainscales.kip.uni-heidelberg.de/jss/AttendMeeting?m=showAgenda&meetingID=15"
 location = "TU Dresden, Germany"
-url_slides = "http://invibe.net/LaurentPerrinet/Presentations/2011-10-05_BrainScalesESS?action=AttachFile&do=get&target=perrinet11brainscales_talk.pdf"
+url_slides = "2011-10-05-brain-scales-ess-talk.pdf"
 publishDate = "2011-01-01"
 grants = [ "brain-scales",]
 +++
