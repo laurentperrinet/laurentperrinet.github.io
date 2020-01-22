@@ -170,9 +170,9 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
                 date_str = clean_bibtex_str(entry["year"])
             # print('len(date_str)', len(date_str))
             if len(date_str) == 4:
-                print(date_str, entry['month'])
                 # the date is just the year, so we guess from the rest of the information...
                 if 'month' in entry:
+                    print(date_str, entry['month'])
                     date_str = f"{date_str}-{month2number(entry['month'])}-01"
                 else:
                     date_str = f"{date_str}-01-01"
