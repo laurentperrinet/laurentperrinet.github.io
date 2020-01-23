@@ -12,7 +12,7 @@ superuser = false
 role = "Phd candidate in Computational Neuroscience"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "During my PhD, I focused on predictive coding in a bio-inspired neural network."
+bio = "During my PhD, I am focusing on predictive coding in a bio-inspired neural network."
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
