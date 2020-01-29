@@ -1,5 +1,5 @@
 ---
-title: "Des illusions aux hallucinations visuelles: <BR> une porte sur la perception"
+title: "Des illusions aux hallucinations visuelles: une porte sur la perception"
 date: 2020-01-20
 publishDate: 2020-01-29T14:47:47.321007Z
 authors: ["Laurent U Perrinet"]
@@ -9,4 +9,3 @@ featured: false
 publication: "*Cinéma et sciences : rencontre avec les élèves du lycée des métiers*"
 url_pdf: "https://laurentperrinet.github.io/talk/2020-01-20-atelier-sciences-cinema"
 ---
-
