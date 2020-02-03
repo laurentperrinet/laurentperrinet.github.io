@@ -18,6 +18,7 @@ echo -e "\033[0;32mrecompiling website...\033[0m"
 
 cd ../hugo_academic
 
+# >>> see MAKE NEW_ENTRIES <<<
 # o ../perrinet_curriculum-vitae_tex/LaurentPerrinet_*bib
 # academic import --bibtex  ../perrinet_curriculum-vitae_tex/LaurentPerrinet_Publications.bib
 #

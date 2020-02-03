@@ -12,3 +12,6 @@ new_entries:
 
 metadata:
 	sh ./update_metadata.sh
+
+academic:
+	sh ./update_academic.sh
