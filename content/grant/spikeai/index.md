@@ -24,3 +24,17 @@ The SpikeAI project targets analog computing for artificial intelligence in the 
 
 
 * Get [more information](https://spikeai.github.io/).
+
+## outcomes
+
+The main goal was mainly to build a network of actors and to answer to relevant calls in the field of biomimetic research. We have communicated through the diffusion of computational frameworks and actions which are gathered online @ https://github.com/SpikeAI.
+
+Summary of the actions taken:
+
+- We had a APROVIS3D FPP meeting April 23-24, 2019 in Lille with all partners. The call could support the travel of the 5 participants from outside Lille. During these two days, we had a first day to know each other better and a second day devoted to writing the grant proposal.
+
+- With the help of this call, we could kickstart a collaboration within this European consortium which helped successfully achieve a large-scale grant proposal (CHIST-ERA : https://laurentperrinet.github.io/grant/aprovis-3-d/ ).
+
+- We organized a tutorial on deep learning during the GDR Vision, see https://github.com/SpikeAI/2019-10-10_ML-tutorial and https://laurentperrinet.github.io/post/2019-10-10_gdrvision-atelier/
+
+- We could invite a major actor of the modeling of biomimetic computations, Ryad Benosman, to the GDR vision meeting. The call could support his travel and accommodation and was acknowledged in all communications (see https://gdrvision2019.sciencesconf.org/resource/page/id/6).
