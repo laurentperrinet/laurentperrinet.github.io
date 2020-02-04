@@ -12,6 +12,6 @@ url_code = "https://github.com/laurentperrinet/2020-01-20_atelier_sciences_cinem
 publication = "*Cinéma et sciences  = rencontre avec les élèves du lycée des métiers*"
 url_pdf = "https://laurentperrinet.github.io/talk/2020-01-20-atelier-sciences-cinema"
 event_url = "http://www.pollymaggoo.org/"
-location = "Vedène (France)"
+location = "Lycée Professionnel Domaine Eguille;xa0Vedène (France)"
 event = "Cinéma et sciences : rencontre avec les élèves du lycée des métiers"
 +++
