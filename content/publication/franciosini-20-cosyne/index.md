@@ -10,4 +10,5 @@ tags = [ "sparse coding",]
 projects = []
 publishDate = "2020-01-07"
 grants = [ "doc-2-amu", "phd-icn; mesocentre",]
+url_pdf = "https://laurentperrinet.github.io/publication/franciosini-20-cosyne/"
 +++
