@@ -10,5 +10,5 @@ tags = [ "sparse coding",]
 projects = []
 publishDate = "2020-01-07"
 grants = [ "doc-2-amu", "phd-icn; mesocentre",]
-url_pdf = "https://sigma2020.projet.liris.cnrs.fr/"
+url_pdf = "https://conferences.cirm-math.fr/2152.html"
 +++
