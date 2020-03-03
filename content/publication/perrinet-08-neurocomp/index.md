@@ -1,6 +1,6 @@
 +++
 title = "Proceedings of the second french conference on Computational Neuroscience, Marseille"
-date = 2008-10-02
+date = 2008-10-03
 authors = [ "Laurent U Perrinet", "Emmanuel Daucé",]
 publication_types = [ "5",]
 featured = false
