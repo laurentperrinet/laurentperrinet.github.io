@@ -20,6 +20,7 @@ url_preprint = "https://laurentperrinet.github.io/publication/perrinet-19-hulk/"
 <BR>
 <center><a href="https://laurentperrinet.github.io/publication/perrinet-19"><video controls autoplay loop src="https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4" width=61.8%/></a> </center>
 <BR>
+## supplementary material
 * supplementary info : https://spikeai.github.io/HULK/
 * [Abstract](https://www.mdpi.com/2411-5150/3/3/47)
 * [HTML](https://www.mdpi.com/2411-5150/3/3/47/htm)
@@ -28,6 +29,5 @@ url_preprint = "https://laurentperrinet.github.io/publication/perrinet-19-hulk/"
 * code for framework: https://github.com/bicv/SparseHebbianLearning/
 * code for figures https://github.com/SpikeAI/HULK/blob/master/Annex.ipynb (which is rendered @ https://spikeai.github.io/HULK/ )
 * [video abstract](https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4) (and the [code](https://laurentperrinet.github.io/sciblog/posts/2019-09-11_video-abstract-vision.html) for generating it)
-
 <!--
 {{< figure src="flash_lag.gif" title="*Flash-Lag Effect.* When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash. Still, after several decades of debates, there is no consensus regarding the underlying mechanisms." >}} -->
