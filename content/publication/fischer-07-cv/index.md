@@ -10,6 +10,7 @@ tags = [ "Biologically Inspired Computer vision", "log-gabor", "visual perceptio
 url_pdf = "http://dx.doi.org/10.1007/s11263-006-0026-8"
 doi = "10.1007/s11263-006-0026-8"
 publishDate = "2019-09-17"
+url_code = "https://github.com/bicv/LogGabor"
 +++
 
 
