@@ -16,8 +16,8 @@ url_code = "https://github.com/SpikeAI/HULK"
 url_preprint = "https://laurentperrinet.github.io/publication/perrinet-19-hulk/"
 +++
 
-# "An adaptive algorithm for unsupervised learning"
 {{< video src="https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4" controls="yes" >}}
+# "An adaptive algorithm for unsupervised learning"
  * supplementary info : https://spikeai.github.io/HULK/
  * [Abstract](https://www.mdpi.com/2411-5150/3/3/47)
  * [HTML](https://www.mdpi.com/2411-5150/3/3/47/htm)
