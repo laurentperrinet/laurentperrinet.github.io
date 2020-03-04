@@ -28,7 +28,7 @@ projects = []
 
 Date : Vendredi 13 mars à 14h
 
-Lieu:  salle de thèse n°2 bât Faculté de médecine  (how to [get there](https://medecine.univ-amu.fr/fr/salle-theses-ndeg2))
+Lieu:  salle de thèse n°2 bât Faculté de médecine  (how to [get there](http://www.int.univ-amu.fr/contact))
 
 La thèse sera suivie d’un pot au R+4 de l’[Institut de Neurosciences de la Timone](http://www.int.univ-amu.fr/?lang=en) (how to [get there](http://www.int.univ-amu.fr/contact))
 
