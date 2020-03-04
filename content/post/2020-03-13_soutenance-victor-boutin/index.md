@@ -10,7 +10,7 @@ draft = false
 authors = ["laurent-u-perrinet", "victor-boutin"]
 
 tags = ["events"]
-summary = "Victor Boutin (Equipe NeOpTo) soutiendra sa thèse de doctorat intitulée: "Sparse deep predictive coding: a bio-inspired model of visual perception" / "Etude d’un algorithme hiérarchique et codage épars de prédictif : vers un modèle bio-inspiré de la perception visuelle" le Vendredi 13 mars à 14h"
+summary = "Victor Boutin (Equipe NeOpTo) soutiendra sa thèse de doctorat intitulée: *Sparse deep predictive coding: a bio-inspired model of visual perception* / **Etude d’un algorithme hiérarchique et codage épars de prédictif : vers un modèle bio-inspiré de la perception visuelle** le Vendredi 13 mars à 14h"
 
 projects = []
 
