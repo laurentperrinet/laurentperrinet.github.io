@@ -2,8 +2,8 @@
 title = "2020-03-13 Soutenance Victor Boutin"
 subtitle = "Victor Boutin (Equipe NeOpTo) Soutiendra sa thèse de doctorat intitulée Vendredi 13 mars à 14h"
 
-date = 2020-03-03T14:00:00
-lastmod = 2020-03-03T09:00:00
+date = 2020-03-04T09:00:00
+lastmod = 2020-03-04T09:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
