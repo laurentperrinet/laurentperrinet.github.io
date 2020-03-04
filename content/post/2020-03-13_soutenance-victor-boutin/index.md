@@ -1,6 +1,6 @@
 +++
 title = "2020-03-13 Soutenance Victor Boutin"
-subtitle = "Victor Boutin (Equipe NeOpTo) Soutiendra sa thèse de doctorat intitulée Vendredi 13 mars à 14h"
+subtitle = "Victor Boutin (Equipe NeOpTo) soutiendra sa thèse de doctorat intitulée Vendredi 13 mars à 14h"
 
 date = 2020-03-04T09:00:00
 lastmod = 2020-03-04T09:00:00
@@ -10,7 +10,7 @@ draft = false
 authors = ["laurent-u-perrinet", "victor-boutin"]
 
 tags = ["events"]
-summary = "Victor Boutin (Equipe NeOpTo) soutiendra sa thèse de doctorat intitulée: *Sparse deep predictive coding: a bio-inspired model of visual perception* / **Etude d’un algorithme hiérarchique et codage épars de prédictif : vers un modèle bio-inspiré de la perception visuelle** le Vendredi 13 mars à 14h"
+summary = "Victor Boutin (Equipe NeOpTo) soutiendra sa thèse de doctorat intitulée: *Sparse deep predictive coding: a bio-inspired model of visual perception* / **Etude d’un algorithme hiérarchique et codage épars et prédictif : vers un modèle bio-inspiré de la perception visuelle** le Vendredi 13 mars à 14h"
 
 projects = []
 
@@ -22,10 +22,7 @@ projects = []
   preview_only = false
 
 +++
-
-# Sparse deep predictive coding: a bio-inspired model of visual perception
-# Etude d’un algorithme hiérarchique et codage épars de prédictif : vers un modèle bio-inspiré de la perception visuelle
-
+{{< tweet 1235128290458951680 >}}
 Date : Vendredi 13 mars à 14h
 
 Lieu:  salle de thèse n°2 bât Faculté de médecine  (how to [get there](http://www.int.univ-amu.fr/contact))
