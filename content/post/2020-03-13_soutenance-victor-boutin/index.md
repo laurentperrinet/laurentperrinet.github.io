@@ -14,6 +14,13 @@ summary = "Victor Boutin (Equipe NeOpTo) soutiendra sa thèse de doctorat intitu
 
 projects = []
 
+[image]
+  # Caption (optional)
+  caption = "[ilbusca / Getty Images ](https://www.thoughtco.com/abbreviations-and-titles-used-in-college-1857653)"
+  placement = 2
+  focal_point = "Center"
+  preview_only = false
+
 +++
 
 # Sparse deep predictive coding: a bio-inspired model of visual perception
