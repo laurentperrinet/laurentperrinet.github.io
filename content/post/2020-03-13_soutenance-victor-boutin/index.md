@@ -1,5 +1,5 @@
 +++
-title = "2020-03-13_soutenance-victor-boutin"
+title = "2020-03-13 Soutenance Victor Boutin"
 subtitle = "Victor Boutin (Equipe NeOpTo) Soutiendra sa thèse de doctorat intitulée Vendredi 13 mars à 14h"
 
 date = 2020-03-13T14:00:00
