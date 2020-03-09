@@ -34,14 +34,14 @@ La thèse sera suivie d’un pot au R+4 de l’[Institut de Neurosciences de la 
 
 ## Jury
 
-* Ryad Benosman, Université Pierre et Marie Curie, Rapporteur
-* Simon Thorpe, CNRS, Rapporteur
-* Sandrine Anthoine, CNRS, Examinateur
+* [Ryad Benosman](https://scholar.google.fr/citations?user=_ZTFUooAAAAJ&hl=fr), Université Pierre et Marie Curie, Rapporteur
+* [Simon Thorpe](https://scholar.google.fr/citations?hl=fr&user=uR-7ex4AAAAJ), CNRS, Rapporteur
+* [Sandrine Anthoine](https://www.i2m.univ-amu.fr/perso/sandrine.anthoine/), CNRS, Examinateur
 * [Yves Frégnac](http://neuro-psi.cnrs.fr/spip.php?article934&lang=fr), CNRS, Examinateur
-* Sid Kouider, CNRS, Examinateur
+* [Sid Kouider](https://sidkouider.com/), CNRS, Examinateur
 * [Laurent Perrinet](https://laurentperrinet.github.io/), CNRS, Directeur de thèse
-* Franck Ruffier, CNRS, Co-directeur de thèse
-* Mossadek Talby, AMU, Jury invité
+* [Franck Ruffier](http://www.ism.univ-amu.fr/ruffier/), CNRS, Co-directeur de thèse
+* [Mossadek Talby](https://www.researchgate.net/profile/Mossadek_Talby), AMU, Jury invité
 
 
 ## Abstract
