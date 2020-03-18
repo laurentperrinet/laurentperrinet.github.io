@@ -9,7 +9,7 @@ authors = ["hugo-ladret"]
 superuser = false
 
 # Role/position
-role = "master in Computational Neuroscience"
+role = "Phd candidate in Computational Neuroscience"
 
 # Short bio (displayed in user profile at end of posts)
 bio = "During my master, I focused on a bio-inspired neural network."
@@ -19,6 +19,11 @@ bio = "During my master, I focused on a bio-inspired neural network."
 user_groups = ["Alumni"]
 
 # List qualifications (such as academic degrees)
+
+[[education.courses]]
+  course = "Phd candidate in Computational Neuroscience"
+  institution = "Aix-Marseille Université"
+  year = 2023
 
 [[education.courses]]
   course = "Master in Neuroscience"
