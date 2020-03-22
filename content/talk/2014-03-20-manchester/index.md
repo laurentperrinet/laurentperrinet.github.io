@@ -39,4 +39,3 @@ title: 'WP5 - Demo 1.3 : Spiking model of motion-based prediction'
 url_pdf: https://laurentperrinet.github.io/talk/2014-03-20-manchester/
 url_slides: 14-03-20_BK_LP_MK_handout.pdf
 ---
-

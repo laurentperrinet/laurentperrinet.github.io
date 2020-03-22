@@ -48,4 +48,7 @@ title: 'Edge statistics in natural images versus laboratory animal environments:
 url_pdf: https://laurentperrinet.github.io/talk/2012-05-10-itwist/
 url_slides: Perrinet12itwist.pdf
 ---
+
+
+
 * See a followup in [Perrinet and Bednar, 2015]({{< ref "/publication/perrinet-bednar-15" >}})

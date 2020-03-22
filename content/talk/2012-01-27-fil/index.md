@@ -35,4 +35,3 @@ tags:
 title: Grabbing, tracking and sniffing as models for motion detection and eye movements
 url_pdf: https://laurentperrinet.github.io/talk/2012-01-27-fil/
 ---
-

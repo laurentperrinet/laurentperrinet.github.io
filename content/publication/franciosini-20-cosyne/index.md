@@ -71,5 +71,8 @@ title: Modelling Complex-cells and topological structure in the visual cortex of
   using Sparse Predictive Coding
 url_pdf: https://laurentperrinet.github.io/publication/franciosini-20-cosyne/
 ---
+
+
+
 {{< tweet 1233458739220504578 >}}
 {{< figure src="poster.jpg" width="100%" >}}

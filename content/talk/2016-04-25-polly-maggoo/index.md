@@ -21,6 +21,9 @@ publishDate: '2016-01-01'
 title: Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
 url_pdf: https://laurentperrinet.github.io/sciblog/files/2016-04-25_pollymagoo/
 ---
+
+
+
 # Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
 ## Cinésciences, collège Clair Soleil
 L'Association Polly Maggoo <http://www.pollymaggoo.org/> met en place

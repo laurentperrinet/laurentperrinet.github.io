@@ -14,4 +14,3 @@ tags:
 - unsupervised learning
 title: A generative model for Spike Time Dependent Hebbian Plasticity
 ---
-

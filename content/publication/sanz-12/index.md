@@ -34,4 +34,7 @@ title: 'Motion Clouds: Model-based stimulus synthesis of natural-like random tex
 url_pdf: http://dx.doi.org/10.1152/jn.00737.2011
 url_preprint: https://hal-amu.archives-ouvertes.fr/hal-00726828
 ---
+
+
+
 ![header](sanz-12.png)

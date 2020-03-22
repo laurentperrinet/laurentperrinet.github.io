@@ -12,8 +12,8 @@ abstract: Motion detection represents one of the critical tasks of the visual sy
   a sparser code while preserving movement information; therefore, the stimuli are
   encoded more efficiently. Interestingly, these properties were observed throughout
   different populations of RGCs. Thus, our results reveal that the response at the
-  level of RGCs is modulated by the naturalness of the stimulus - in particular for
-  motion - which suggests that the tuning to the statistics of natural images already
+  level of RGCs is modulated by the naturalness of the stimulus -in particular for
+  motion- which suggests that the tuning to the statistics of natural images already
   emerges at the level of the retina.
 authors:
 - Cesar U Ravello
@@ -39,6 +39,9 @@ title: Speed-Selectivity in Retinal Ganglion Cells is Sharpened by Broad Spatial
 url_pdf: https://doi.org/10.1038%2Fs41598-018-36861-8
 url_preprint: https://hal-amu.archives-ouvertes.fr/hal-02007905
 ---
+
+
+
 * [Press release](http://www4.cnrs-dir.fr/insb/recherche/parutions/articles2019/l-perrinet.html)
 # Dès la rétine, le système visuel préfère des images naturelles
 *Dans la rétine, au premier étage du traitement de l'image visuelle, on peut obtenir des représentations extrêmement fines. Une collaboration entre des chercheurs français et chiliens a permis de mettre en évidence que, dans la rétine de rongeurs, une représentation de la vitesse de l'image visuelle est précisément codée. Dans cette collaboration pluridisciplinaire, l'utilisation d'un modèle du fonctionnement de la rétine a permis de générer un nouveau type de stimuli visuels qui a révélé des résultats expérimentaux surprenants.*

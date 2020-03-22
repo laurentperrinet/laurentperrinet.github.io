@@ -4,7 +4,7 @@ authors:
 - Laurent U Perrinet
 - Ad M Aertsen
 - Guillaume S Masson
-date: 2008-10-04
+date: 2008-10-22
 featured: false
 grants:
 - facets
@@ -18,4 +18,7 @@ tags:
 - large-scale_networks
 title: Functional properties of feed-forward inhibition
 ---
+
+
+
 * see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publication/kremkow-10-jcns/index.md" >}})

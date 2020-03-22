@@ -35,4 +35,3 @@ title: On efficient sparse spike coding schemes for learning natural scenes in t
   primary visual cortex
 url_pdf: http://dx.doi.org/10.1186/1471-2202-8-S2-P206
 ---
-

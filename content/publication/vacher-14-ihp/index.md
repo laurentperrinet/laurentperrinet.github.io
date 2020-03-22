@@ -19,4 +19,3 @@ tags:
 - motion-clouds
 title: Dynamic Textures For Probing Motion Perception
 ---
-

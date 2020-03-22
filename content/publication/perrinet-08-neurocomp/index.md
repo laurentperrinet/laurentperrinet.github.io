@@ -2,7 +2,7 @@
 authors:
 - Laurent U Perrinet
 - Emmanuel Daucé
-date: 2008-10-04
+date: 2008-10-22
 featured: false
 publication: '*Proceedings of NeuroComp08, Marseille*'
 publication_types:
@@ -14,4 +14,3 @@ title: Proceedings of the second french conference on Computational Neuroscience
   Marseille
 url_pdf: https://hal.archives-ouvertes.fr/NEUROCOMP08
 ---
-

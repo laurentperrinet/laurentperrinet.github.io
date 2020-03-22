@@ -33,6 +33,9 @@ title: Selectivity to oriented patterns of different precisions
 url_code: https://github.com/hugoladret/InternshipM1
 url_pdf: https://github.com/hugoladret/InternshipM1/raw/master/2018-06_POSTER_final.pdf
 ---
+
+
+
 * poster présenté au [GDR vision, Paris](https://gdrvision2018.sciencesconf.org).
 * program : https://gdrvision2018.sciencesconf.org/data/pages/posters_GDRVision2018.pdf
 * [Poster (pdf)](https://github.com/hugoladret/InternshipM1/raw/master/2018-06_POSTER_final.pdf)

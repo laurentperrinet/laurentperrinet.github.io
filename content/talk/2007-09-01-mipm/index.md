@@ -21,4 +21,3 @@ publishDate: '2007-01-01'
 title: Neural Codes for Adaptive Sparse Representations of Natural Images
 url_pdf: https://laurentperrinet.github.io/talk/2007-09-01-mipm
 ---
-

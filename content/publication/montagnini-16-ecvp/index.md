@@ -19,4 +19,3 @@ title: 'Effects of motion predictability on anticipatory and visually-guided eye
   a common prior for sensory processing and motor control?'
 url_pdf: https://laurentperrinet.github.io/publication/montagnini-16-ecvp
 ---
-

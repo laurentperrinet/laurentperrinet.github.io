@@ -45,4 +45,7 @@ url_code: https://laurentperrinet.github.io/publication/perrinet-10-shl
 url_pdf: https://arxiv.org/abs/0706.3177
 url_preprint: https://hal-amu.archives-ouvertes.fr/hal-00156610
 ---
+
+
+
 ![header](perrinet-10-shl.png)

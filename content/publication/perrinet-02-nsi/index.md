@@ -13,4 +13,3 @@ tags:
 - stdp
 title: Visual Strategies for Sparse Spike Coding
 ---
-

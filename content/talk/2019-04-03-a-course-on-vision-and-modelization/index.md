@@ -29,4 +29,3 @@ url_code: https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_m
 url_pdf: https://laurentperrinet.github.io/talk/2019-04-03-a-course-on-vision-and-modelization
 url_slides: https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization
 ---
-

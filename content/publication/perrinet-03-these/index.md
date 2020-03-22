@@ -18,4 +18,3 @@ title: Comment déchiffrer le code impulsionnel de la vision ? Étude du flux pa
 url_pdf: https://laurentperrinet.github.io/publication/perrinet-03-these
 url_preprint: https://tel.archives-ouvertes.fr/tel-00002693/file/tel-000026931.pdf
 ---
-

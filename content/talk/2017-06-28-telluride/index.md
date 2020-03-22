@@ -14,4 +14,3 @@ title: 'Back to the present: dealing with delays in biological and neuromorphic 
 url_pdf: https://laurentperrinet.github.io/talk/2017-06-28-telluride
 url_slides: https://laurentperrinet.github.io/sciblog/files/2017-06-28_Telluride.html
 ---
-

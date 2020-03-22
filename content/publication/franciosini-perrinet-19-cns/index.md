@@ -18,4 +18,3 @@ tags:
 title: Modelling Complex Cells of Early Visual Cortex using Predictive Coding
 url_pdf: https://www.cnsorg.org/cns-2019-poster-presentation-guide
 ---
-

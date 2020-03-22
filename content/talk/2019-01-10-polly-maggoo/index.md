@@ -20,6 +20,9 @@ publishDate: '2019-01-01'
 title: Rencontre avec les collégiens marseillais
 url_pdf: https://laurentperrinet.github.io/talk/2019-01-10-polly-maggoo/
 ---
+
+
+
 # Cinéma et sciences : rencontre avec les collégiens marseillais
 L'Association Polly Maggoo <http://www.pollymaggoo.org/> met en place
 tout le long de l’année, des actions de culture scientifique et

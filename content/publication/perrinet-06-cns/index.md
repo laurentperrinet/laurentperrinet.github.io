@@ -25,4 +25,3 @@ title: An efficiency razor for model selection and adaptation in the primary vis
   cortex
 url_pdf: https://ocns.memberclicks.net/assets/docs/CNS_Program_books/2006booklet.pdf
 ---
-

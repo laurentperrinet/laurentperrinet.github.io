@@ -25,7 +25,7 @@ abstract: 'When objects are in motion, the local orientation of their contours a
   the orientation and the direction of motion of an ambiguous moving bar can be progressively
   decoded in V1. This is a signature of a dynamic solution to the aperture problem
   in area V1, similarly to what was already found in area MT [3].  [1] M. Jazayeri
-  and J.A. Movshon. Optimal representation of sensory information by neural pop- ulations.
+  and J.A. Movshon. Optimal representation of sensory information by neural populations.
   Nature Neuroscience, 9(5):690--696, 2006. [2] W. Taouali, G. Benvenuti, P. Wallisch,
   F. Chavane, L. Perrinet. Testing the Odds of Inherent versus Observed Over-dispersion
   in Neural Spike Counts. Journal of Neurophysiology, 2015. [3] C. Pack, R. Born.
@@ -51,4 +51,3 @@ title: A dynamic model for decoding direction and orientation in macaque primary
   cortex
 url_pdf: https://laurentperrinet.github.io/publication/perrinet-19-nccd
 ---
-

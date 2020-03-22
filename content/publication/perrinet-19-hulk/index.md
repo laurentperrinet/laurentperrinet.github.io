@@ -49,6 +49,9 @@ url_code: https://github.com/SpikeAI/HULK
 url_pdf: https://spikeai.github.io/HULK/
 url_preprint: https://laurentperrinet.github.io/publication/perrinet-19-hulk/
 ---
+
+
+
 # "An adaptive algorithm for unsupervised learning"
 {{< video src="https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4" controls="yes" >}}
  * supplementary info : https://spikeai.github.io/HULK/

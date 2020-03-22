@@ -21,4 +21,3 @@ tags:
 title: Modeling spatial integration in the ocular following response to center-surround
   stimulation using a probabilistic framework
 ---
-

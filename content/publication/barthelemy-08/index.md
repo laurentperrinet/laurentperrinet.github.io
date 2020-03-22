@@ -27,7 +27,7 @@ authors:
 - Laurent U Perrinet
 - Eric Castet
 - Guillaume S Masson
-date: 2008-02-04
+date: 2008-02-22
 doi: 10.1016/j.visres.2007.10.020
 featured: false
 grants:
@@ -46,4 +46,7 @@ title: Dynamics of distributed 1D and 2D motion representations for short-latenc
   ocular following
 url_pdf: http://dx.doi.org/10.1016/j.visres.2007.10.020
 ---
+
+
+
 ![header](barthelemy-08.png)

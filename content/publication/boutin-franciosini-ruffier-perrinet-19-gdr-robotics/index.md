@@ -29,4 +29,3 @@ tags:
 - Deep Learning
 title: Top-down connection in Hierarchical Sparse Coding
 ---
-

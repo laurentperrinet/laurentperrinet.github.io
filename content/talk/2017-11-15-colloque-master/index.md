@@ -17,6 +17,9 @@ title: What dynamic neural codes for efficient visual processing
 url_pdf: https://laurentperrinet.github.io/talk/2017-11-15-colloque-master/
 url_slides: https://laurentperrinet.github.io/sciblog/files/2017-11-15_ColloqueMaster.html
 ---
+
+
+
 ## References
  - unsupervised learning : [Perrinet (2010)](https://laurentperrinet.github.io/publication/perrinet-10-shl/)
  - [Biologically inspired computer vision](https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/)

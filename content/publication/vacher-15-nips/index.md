@@ -19,4 +19,3 @@ title: Biologically Inspired Dynamic Textures for Probing Motion Perception
 url_pdf: http://papers.nips.cc/paper/5769-biologically-inspired-dynamic-textures-for-probing-motion-perception.pdf
 url_preprint: https://hal-amu.archives-ouvertes.fr/hal-01225867
 ---
-

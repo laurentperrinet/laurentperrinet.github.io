@@ -19,4 +19,3 @@ tags:
 title: Spatiotemporal tuning of retinal ganglion cells dependent on the context of
   signal presentation
 ---
-

@@ -29,4 +29,3 @@ title: 'Illusions et hallucinations visuelles : une porte sur la perception'
 url_pdf: https://laurentperrinet.github.io/publication/perrinet-19-illusions/
 url_preprint: https://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389
 ---
-

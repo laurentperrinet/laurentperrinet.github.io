@@ -15,6 +15,9 @@ publishDate: '2018-01-01'
 title: Intervention fête de la science 2018
 url_pdf: https://laurentperrinet.github.io/talk/2018-10-10-polly-maggoo/
 ---
+
+
+
 # FÊTE DE LA SCIENCE 2018 : Alcazar / MERLAN
 L'Association Polly Maggoo <http://www.pollymaggoo.org/> met en place
 tout le long de l’année, des actions de culture scientifique et

@@ -5,7 +5,7 @@ authors:
 - Jeremie Jozefowiez
 - Laurent Madelain
 - Anna Montagnini
-date: 2016-09-04
+date: 2016-09-22
 doi: 10.1167/16.12.1356
 featured: false
 grants:
@@ -22,4 +22,3 @@ title: 'Operant reinforcement versus reward expectancy: effects on anticipatory 
   movements'
 url_pdf: http://jov.arvojournals.org/article.aspx?doi=10.1167/16.12.1356
 ---
-

@@ -41,4 +41,3 @@ title: 'Adaptive Sparse Spike Coding : applications of Neuroscience to the compr
   of natural images'
 url_pdf: https://arxiv.org/abs/0804.4830
 ---
-

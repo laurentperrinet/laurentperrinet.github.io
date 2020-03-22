@@ -46,4 +46,3 @@ url_code: https://github.com/laurentperrinet/WhereIsMyMNIST
 url_pdf: https://github.com/laurentperrinet/WhereIsMyMNIST
 url_preprint: https://www.biorxiv.org/content/10.1101/725879v2
 ---
-

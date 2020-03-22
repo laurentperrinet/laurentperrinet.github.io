@@ -17,4 +17,3 @@ url_code: https://github.com/laurentperrinet/2019-01-17_LACONEU/
 url_pdf: https://laurentperrinet.github.io/talk/2019-01-17-laconeu/
 url_slides: https://laurentperrinet.github.io/2019-01-17_LACONEU/
 ---
-

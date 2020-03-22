@@ -20,4 +20,3 @@ tags:
 title: A recurrent Bayesian model of dynamic motion integration for smooth pursuit
 url_pdf: http://dx.doi.org/10.1167/10.7.545
 ---
-

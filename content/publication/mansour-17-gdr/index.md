@@ -15,7 +15,7 @@ abstract: ' The properties of motion processing for driving smooth eye movements
   phase of smooth pursuit eye movements. Participants were instructed to pursue a
   large patch of moving clouds (mean speeds: 5, 10 or 20◦/s) embedded within a smoothing
   Gaussian window of standard deviation 5◦. The motion stimuli were presented with
-  four different spatial frequency band- widths and two different mean spatial frequencies
+  four different spatial frequency bandwidths and two different mean spatial frequencies
   (0.3 and 1 cpd). We observed that smaller bandwidth textures exhibit a stronger
   spectral energy within the low spatial frequency range (below 1cpd), yielding to
   shorter latency of smooth pursuit eye movements. A weak and less consistent effect
@@ -47,4 +47,3 @@ title: 'Voluntary tracking the moving clouds : Effects of speed variability on h
   smooth pursuit'
 url_pdf: https://laurentperrinet.github.io/publication/mansour-17-gdr
 ---
-

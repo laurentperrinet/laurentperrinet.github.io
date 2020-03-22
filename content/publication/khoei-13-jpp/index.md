@@ -31,7 +31,7 @@ authors:
 - Mina A Khoei
 - Guillaume S Masson
 - Laurent U Perrinet
-date: 2013-11-04
+date: 2013-11-22
 doi: 10.1016/j.jphysparis.2013.08.001
 featured: false
 grants:
@@ -47,6 +47,9 @@ tags:
 title: Motion-based prediction explains the role of tracking in motion extrapolation
 url_pdf: http://www.citeulike.org/user/LaurentPerrinet/article/12281049
 ---
+
+
+
 * Based on [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})
 * See a followup in [Khoei et al, 2017]({{< ref "/publication/khoei-masson-perrinet-17" >}})
 {{< figure src="figure1.jpg" title="Figure 1: The problem of fragmented trajectories and motion extrapolation. As an object moves in visual space (as represented here for commodity by the red trajectory of a tennis ball in a space–time diagram with a one-dimensional space on the vertical axis), the sensory flux may be interrupted by a sudden and transient blank (as denoted by the vertical, gray area and the dashed trajectory). How can the instantaneous position of the dot be estimated at the time of reappearance? This mechanism is the basis of motion extrapolation and is rooted on the prior knowledge on the coherency of trajectories in natural images. We show below the typical eye velocity profile that is observed during Smooth Pursuit Eye Movements (SPEM) as a prototypical sensory response. It consists of three phases: first, a convergence of the eye velocity toward the physical speed, second, a drop of velocity during the blank and finally, a sudden catch-up of speed at reappearance (Becker and Fuchs, 1985)." >}}

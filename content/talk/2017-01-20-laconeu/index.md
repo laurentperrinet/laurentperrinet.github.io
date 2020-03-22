@@ -17,4 +17,3 @@ title: 'Tutorial: Active inference for eye movements: Bayesian methods, neural i
 url_pdf: https://laurentperrinet.github.io/talk/2017-01-20-laconeu/
 url_slides: https://laurentperrinet.github.io/sciblog/files/2017-01-20_LACONEU.html
 ---
-

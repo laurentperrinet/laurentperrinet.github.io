@@ -21,4 +21,3 @@ publishDate: '2013-01-01'
 title: Why methods and tools are the key to artificial brain-like systems
 url_pdf: https://laurentperrinet.github.io/talk/2013-03-21-marseille/
 ---
-

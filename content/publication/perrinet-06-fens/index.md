@@ -16,4 +16,3 @@ tags:
 title: 'Input-output transformation in the visuo-oculomotor loop: modeling the ocular
   following response to center-surround stimulation in a probabilistic framework'
 ---
-

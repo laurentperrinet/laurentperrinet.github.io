@@ -16,4 +16,3 @@ url_code: https://hal-amu.archives-ouvertes.fr/hal-01461404
 url_pdf: https://laurentperrinet.github.io/publication/perrinet-16-euvip/
 url_slides: https://laurentperrinet.github.io/sciblog/files/2016-10-26_Perrinet16EUVIP_talk.html
 ---
-

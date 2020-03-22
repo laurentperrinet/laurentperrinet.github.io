@@ -25,4 +25,3 @@ tags:
 - Deep Learning
 title: Unsupervised Hierarchical Sparse Coding algorithm inspired by Biological Vision
 ---
-

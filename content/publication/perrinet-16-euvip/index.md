@@ -12,7 +12,7 @@ abstract: Natural images follow statistics inherited by the structure of our phy
   class of natural images and provide perspectives for their use in neurophysiology.
 authors:
 - Laurent U Perrinet
-date: 2016-10-04
+date: 2016-10-22
 doi: 10.1109/EUVIP.2016.7764592
 featured: false
 grants:
@@ -31,4 +31,3 @@ url_code: https://github.com/bicv/Perrinet16EUVIP
 url_pdf: https://doi.org/10.1109/EUVIP.2016.7764592
 url_preprint: https://arxiv.org/abs/1702.02485
 ---
-

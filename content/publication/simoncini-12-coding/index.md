@@ -50,4 +50,3 @@ title: 'Measuring speed of moving textures: Different pooling of motion informat
   for human ocular following and perception.'
 url_pdf: http://www.frontiersin.org/myfrontiers/abstractdetails.aspx?abs_doi=10.3389/conf.fnins.2012.86.00016
 ---
-

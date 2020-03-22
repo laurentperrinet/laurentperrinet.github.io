@@ -37,4 +37,3 @@ title: 'From neural activity to behavior: computational neuroscience as a synthe
   approach for understanding the neural code.'
 url_pdf: https://laurentperrinet.github.io/talk/2008-04-01-incm/
 ---
-

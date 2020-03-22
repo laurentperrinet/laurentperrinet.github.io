@@ -49,4 +49,3 @@ title: Suppressive waves disambiguate the representation of long-range apparent 
 url_pdf: http://www.jneurosci.org/content/early/2019/03/18/JNEUROSCI.2792-18.2019
 url_preprint: http://biorxiv.org/lookup/doi/10.1101/372763
 ---
-

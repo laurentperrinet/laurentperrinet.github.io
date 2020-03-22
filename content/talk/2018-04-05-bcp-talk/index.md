@@ -20,6 +20,9 @@ url_code: https://github.com/laurentperrinet/2018-04-05_BCP_talk/
 url_pdf: https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/
 url_slides: https://laurentperrinet.github.io/2018-04-05_BCP_talk/
 ---
+
+
+
 * previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})
 * previous talk @ [INVIBE FEST, Paris]({{< ref "/talk/2018-02-01-bcp-invibe-fest/index.md" >}})
 * next talk @ [LACONEU, Chile]({{< ref "/talk/2019-01-18-laconeu/index.md" >}})

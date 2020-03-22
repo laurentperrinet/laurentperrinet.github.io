@@ -58,4 +58,3 @@ tags:
 title: On the Origins of Hierarchy in Visual Processing
 url_pdf: https://laurentperrinet.github.io/publication/franciosini-perrinet-18-cs/
 ---
-

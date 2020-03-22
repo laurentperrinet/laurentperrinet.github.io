@@ -14,4 +14,3 @@ tags:
 title: Dynamical contrast gain control mechanisms in a layer 2/3 model of the primary
   visual cortex
 ---
-

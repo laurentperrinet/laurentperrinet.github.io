@@ -18,4 +18,7 @@ title: 'Modelling the dynamics of cognitive processes: from the Bayesian brain t
 url_pdf: https://laurentperrinet.github.io/talk/2016-07-07-edp-proba/
 url_slides: https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba
 ---
+
+
+
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

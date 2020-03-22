@@ -4,7 +4,7 @@ authors:
 - Maria-José Escobar
 - Adrián G Palacios
 - Laurent U Perrinet
-date: 2016-11-04
+date: 2016-11-22
 featured: false
 projects:
 - motion-clouds
@@ -21,4 +21,3 @@ title: Differential response of the retinal neural code with respect to the spar
   of natural images
 url_pdf: https://laurentperrinet.github.io/publication/ravello-16-droplets
 ---
-

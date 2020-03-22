@@ -33,7 +33,7 @@ title: Proverbes Et Citations
 
 * "Hanlon's Razor: Never attribute to malice what is adequately explained by stupidity."
 
-* "Essentially, all models are wrong, but some are useful." --- Box, George E. P.; Norman R. Draper (1987). Empirical Model-Building and Response Surfaces, p. 424, Wiley. ISBN 0471810339
+* "Essentially, all models are wrong, but some are useful."  Box, George E. P.; Norman R. Draper (1987). Empirical Model-Building and Response Surfaces, p. 424, Wiley. ISBN 0471810339
 
 * "Computers were around for 50 years before we figured out how to create the internet for example."
 

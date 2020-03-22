@@ -42,4 +42,3 @@ tags:
 - lateral connections
 title: Dynamics of cortical networks including long-range patchy connections
 ---
-

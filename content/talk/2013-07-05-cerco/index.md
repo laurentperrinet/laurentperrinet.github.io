@@ -18,4 +18,7 @@ title: Edge co-occurrences and categorizing natural images
 url_pdf: https://laurentperrinet.github.io/talk/2013-07-05-cerco/
 url_slides: perrinet13cerco.pdf
 ---
+
+
+
 * See a followup in [Perrinet and Bednar, 2015]({{< ref "/publication/perrinet-bednar-15" >}})

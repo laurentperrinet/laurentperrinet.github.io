@@ -53,4 +53,7 @@ tags:
 title: 'Control of the temporal interplay between excitation and inhibition by the
   statistics of visual input: a V1 network modelling study'
 ---
+
+
+
 * see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publication/kremkow-10-jcns/index.md" >}})

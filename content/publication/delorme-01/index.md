@@ -24,4 +24,3 @@ title: 'Network of integrate-and-fire neurons using Rank Order Coding B: spike t
   dependant plasticity and emergence of orientation selectivity'
 url_pdf: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.18.4990
 ---
-

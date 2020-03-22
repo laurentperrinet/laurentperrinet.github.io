@@ -2,7 +2,7 @@
 abstract: It is generally assumed that neurons in the central nervous system communicate
   through temporal firing patterns. As a first step, we will study the learning of
   a layer of realistic neurons in the particular case where the relevant messages
-  are formed by temporally cor- related patterns, or synfire patterns. The model is
+  are formed by temporally correlated patterns, or synfire patterns. The model is
   a layer of Integrate-and-Fire (IF) neurons with synaptic current dynamics that adapts
   by minimizing a cost according to a gradient descent scheme. This leads to a rule
   similar to Spike-Time Dependent Hebbian Plasticity (STDHP). Our results show that
@@ -12,7 +12,7 @@ abstract: It is generally assumed that neurons in the central nervous system com
 authors:
 - Laurent U Perrinet
 - Manuel Samuelides
-date: 2002-06-04
+date: 2002-06-22
 doi: 10.1016/S0925-2312(02)00374-0
 featured: false
 publication: '*Neurocomputing*'
@@ -28,4 +28,7 @@ tags:
 title: Coherence detection in a spiking neuron via Hebbian learning
 url_pdf: http://dx.doi.org/10.1016/S0925-2312(02)00374-0
 ---
+
+
+
 ![header](perrinet-02-stdp.png)

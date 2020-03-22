@@ -37,4 +37,3 @@ tags:
 - Bayesian model
 title: 'Visual tracking of ambiguous moving objects: A recursive Bayesian model'
 ---
-

@@ -48,7 +48,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
         return d
 
     def clean_bibtex_tags(s, normalize=False):
-        """Clean BibTeX keywords and convert to TOML tags"""
+        """Clean BibTeX keywords and convert to yaml tags"""
         tags = clean_bibtex_str(s).split(',')
         #tags = [f'"{tag.strip()}"' for tag in tags]
         if normalize:
@@ -95,7 +95,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
                 page = source_file.read() + '\n'
             metadata = page.split('---')
             # print(metadata)
-            parsed_toml = yaml.load(metadata[1])
+            parsed_yaml = yaml.load(metadata[1])
 
             # print('new_key =', new_key, 'dico[new_key]', dico[new_key])
             old_key = dico[new_key]
@@ -226,8 +226,9 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
 
 
             metadata[1] = yaml.dump(parsed_yaml, encoding=('utf-8'), allow_unicode=True)
+            metadata[1] = metadata[1].decode('utf-8')
 
-            if not len(metadata) == 3 : print('Z'*150, '  len(metadata)', len(metadata))
+            if not len(metadata) == 3 : print('Z'*150, '  len(metadata)', len(metadata), 'new_key', new_key)
 
             # clean-up: strip double lines
             # metadata[2] = metadata[2].replace('\n\n', '\n')

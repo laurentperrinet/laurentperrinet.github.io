@@ -47,4 +47,3 @@ title: The characteristics of microsaccadic eye movements varied with the change
   strategy in a match-to-sample task
 url_pdf: http://dx.doi.org/10.1167/14.10.110
 ---
-

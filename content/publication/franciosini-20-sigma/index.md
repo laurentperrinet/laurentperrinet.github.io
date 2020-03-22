@@ -71,4 +71,3 @@ title: Modelling Complex-cells and topological structure in the visual cortex of
   using Sparse Predictive Coding
 url_pdf: https://conferences.cirm-math.fr/2152.html
 ---
-

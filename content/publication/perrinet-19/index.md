@@ -44,4 +44,3 @@ title: 'From the retina to action: Dynamics of predictive processing in the visu
   system'
 url_pdf: https://laurentperrinet.github.io/publication/perrinet-19/
 ---
-

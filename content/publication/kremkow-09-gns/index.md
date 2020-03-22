@@ -22,14 +22,14 @@ abstract: 'Neurons receive a large number of excitatory and inhibitory synaptic 
   EU-15879-FACETS, BMBF 01GQ0420 to BCCN Freiburg [1] Kumar A., Schrader S., Aertsen
   A. and Rotter S. (2008). The high-conductance state of cortical networks. Neural
   Computation, 20(1):1--43. [2] Okun M. and Lampl I. (2008). Instantaneous correlation
-  of excitation and inhibition during ongoing and sensory- evoked activities. Nat
-  Neurosci, 11(5):535--7. [3] Baudot P., Levy M., Marre O., Monier C. and Frégnac
-  (2008). [4] Abeles M. (1991). Corticonics: Neural circuits of the cerebral cortex.
-  Cambridge, UK [5] Diesmann M., Gewaltig M-O and Aertsen A. (1999). Stable propagation
-  of synchronous spiking in cortical neural networks. Nature, 402(6761):529--33. [6]
-  Kumar A., Rotter S. and Aertsen A. (2008), Conditions for propagating synchronous
-  spiking and asynchronous firing rates in a cortical network model. J Neurosci 28
-  (20), 5268--80. Preliminary Program'
+  of excitation and inhibition during ongoing and sensory-evoked activities. Nat Neurosci,
+  11(5):535--7. [3] Baudot P., Levy M., Marre O., Monier C. and Frégnac (2008). [4]
+  Abeles M. (1991). Corticonics: Neural circuits of the cerebral cortex. Cambridge,
+  UK [5] Diesmann M., Gewaltig M-O and Aertsen A. (1999). Stable propagation of synchronous
+  spiking in cortical neural networks. Nature, 402(6761):529--33. [6] Kumar A., Rotter
+  S. and Aertsen A. (2008), Conditions for propagating synchronous spiking and asynchronous
+  firing rates in a cortical network model. J Neurosci 28 (20), 5268--80. Preliminary
+  Program'
 authors:
 - Jens Kremkow
 - Laurent U Perrinet
@@ -50,4 +50,7 @@ tags:
 title: Functional consequences of correlated excitation and inhibition on single neuron
   integration and signal propagation through synfire chains
 ---
+
+
+
 * see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publication/kremkow-10-jcns/index.md" >}})

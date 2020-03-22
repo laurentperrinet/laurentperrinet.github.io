@@ -16,4 +16,3 @@ tags:
 - motion-clouds
 title: A Mathematical Account of Dynamic Texture Synthesis for Probing Visual Perception
 ---
-

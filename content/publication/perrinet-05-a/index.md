@@ -40,4 +40,3 @@ tags:
 title: 'Dynamics of motion representation in short-latency ocular following: A two-pathways
   Bayesian model'
 ---
-

@@ -2,7 +2,7 @@
 authors:
 - Nicole Voges
 - Laurent U Perrinet
-date: 2008-10-04
+date: 2008-10-22
 featured: false
 grants:
 - facets
@@ -16,4 +16,3 @@ tags:
 title: Analyzing cortical network dynamics with respect to different connectivity
   assumptions
 ---
-

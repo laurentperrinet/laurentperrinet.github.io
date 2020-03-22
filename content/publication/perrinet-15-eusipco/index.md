@@ -12,7 +12,7 @@ abstract: Oriented edges in images of natural scenes tend to be aligned in co-li
 authors:
 - Laurent U Perrinet
 - James A Bednar
-date: 2015-08-04
+date: 2015-08-22
 doi: 10.1109/EUSIPCO.2015.7362781
 featured: false
 grants:
@@ -34,4 +34,3 @@ tags:
 title: Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences
 url_pdf: http://dx.doi.org/10.1109/EUSIPCO.2015.7362781
 ---
-

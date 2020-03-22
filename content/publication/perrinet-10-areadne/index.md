@@ -21,4 +21,3 @@ tags:
 - visual perception
 title: Dynamical emergence of a neural solution for motion integration
 ---
-

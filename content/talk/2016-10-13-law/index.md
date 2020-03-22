@@ -18,6 +18,9 @@ url_code: ''
 url_pdf: https://laurentperrinet.github.io/talk/2016-10-13-law/
 url_slides: https://laurentperrinet.github.io/sciblog/files/2016-10-13_LAW.html
 ---
+
+
+
 * next talk @ [INVIBE FEST, Paris]({{< ref "/talk/2018-02-01-bcp-invibe-fest/index.md" >}})
 * next talk @ [Brain workshop, Marseille]({{< ref "/talk/2018-04-05-bcp-talk/index.md" >}})
 * next talk @ [LACONEU, Chile]({{< ref "/talk/2019-01-18-laconeu/index.md" >}})

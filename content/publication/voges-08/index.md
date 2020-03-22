@@ -16,4 +16,3 @@ tags:
 - lateral connections
 title: Dynamics of cortical networks based on patchy connectivity patterns
 ---
-

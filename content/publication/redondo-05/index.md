@@ -29,7 +29,7 @@ authors:
 - Sylvain Fischer
 - Laurent U Perrinet
 - Gabriel Cristóbal
-date: 2005-08-04
+date: 2005-08-22
 featured: false
 publication: '*Perception*'
 publication_types:
@@ -40,4 +40,7 @@ tags:
 title: Modeling of simple cells through a sparse overcomplete gabor wavelet representation
   based on local inhibition and facilitation
 ---
+
+
+
 {{< figure src="https://laurentperrinet.github.io/publication/fischer-07/figure2.png" width="80%" title="Schematic structure of the primary visual cortex implemented in the present study. Simple cortical cells are modeled through log-Gabor functions. They are organized in pairs in quadrature of phase (dark-gray circles). For each position the set of different orientations compose a pinwheel (large light-gray circles). The retinotopic organization induces that adjacent spatial positions are arranged in adjacent pinwheels. Inhibition interactions occur towards the closest adjacent positions which are in the direc-tions perpendicular to the cell preferred orientation and toward adjacent orientations (light-red connections). Facilitation occurs to-wards co-aligned cells up to a larger distance (dark-blue connections). " >}}

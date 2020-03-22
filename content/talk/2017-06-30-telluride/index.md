@@ -14,4 +14,3 @@ title: Tutorial on predictive coding
 url_pdf: https://laurentperrinet.github.io/talk/2017-06-30-telluride
 url_slides: https://laurentperrinet.github.io/sciblog/files/2017-06-30_Telluride.html
 ---
-

@@ -14,4 +14,3 @@ title: Apparent motion in V1 - Probabilistic approaches
 url_pdf: https://laurentperrinet.github.io/talk/2012-03-23-juelich/
 url_slides: perrinet12wp5_handout.pdf
 ---
-

@@ -47,4 +47,3 @@ title: A hierarchical, multi-layer convolutional sparse coding algorithm based o
   predictive coding
 url_pdf: https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/790
 ---
-

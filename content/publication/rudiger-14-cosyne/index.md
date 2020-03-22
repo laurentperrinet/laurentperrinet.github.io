@@ -20,4 +20,3 @@ title: Relationship between natural image statistics and lateral connectivity in
   primary visual cortex
 url_pdf: http://goo.gl/RJpJR4
 ---
-

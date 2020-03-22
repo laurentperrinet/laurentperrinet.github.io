@@ -18,4 +18,3 @@ title: 'MotionClouds: Model-based stimulus synthesis of natural-like random text
 url_pdf: https://laurentperrinet.github.io/talk/2012-03-22-juelich/
 url_slides: perrinet12wp4_handout.pdf
 ---
-

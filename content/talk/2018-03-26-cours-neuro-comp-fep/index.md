@@ -15,4 +15,3 @@ url_code: https://github.com/laurentperrinet/2018-03-26_cours-NeuroComp_FEP
 url_pdf: https://laurentperrinet.github.io/talk/2018-03-26-cours-neuro-comp-fep/
 url_slides: https://laurentperrinet.github.io/2018-03-26_cours-NeuroComp_FEP
 ---
-

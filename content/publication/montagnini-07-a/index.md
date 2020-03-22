@@ -29,4 +29,3 @@ tags:
 - motion detection
 title: Dynamic inference for motion tracking
 ---
-

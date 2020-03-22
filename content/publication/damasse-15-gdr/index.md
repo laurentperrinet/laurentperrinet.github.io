@@ -19,4 +19,3 @@ tags:
 title: Anticipatory smooth eye movements as operant behavior
 url_pdf: https://laurentperrinet.github.io/publication/damasse-15-gdr
 ---
-

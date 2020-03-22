@@ -39,6 +39,9 @@ url_code: https://github.com/laurentperrinet/2019-04-05_BBCP_causal_kickoff/
 url_pdf: https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff
 url_slides: https://laurentperrinet.github.io/2019-04-05_BBCP_causal_kickoff
 ---
+
+
+
 * previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})
 * previous talk @ [INVIBE FEST, Paris]({{< ref "/talk/2018-02-01-bcp-invibe-fest/index.md" >}})
 * previous talk @ [Brain workshop, Marseille]({{< ref "/talk/2018-04-05-bcp-talk/index.md" >}})

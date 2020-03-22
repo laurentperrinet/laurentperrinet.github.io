@@ -19,4 +19,7 @@ url_code: https://hal-amu.archives-ouvertes.fr/hal-01461404
 url_pdf: https://laurentperrinet.github.io/talk/2016-10-26-fillatre-barlaud-perrinet-16-euvip/
 url_slides: https://laurentperrinet.github.io/sciblog/files/2016-10-26_FillatreBarlaudPerrinet16EUVIP_talk.html
 ---
+
+
+
 * See a followup in [Perrinet and Bednar, 2015]({{< ref "/publication/perrinet-bednar-15" >}})

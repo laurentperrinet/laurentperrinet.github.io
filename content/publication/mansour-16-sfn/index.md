@@ -21,4 +21,3 @@ title: 'Voluntary tracking the moving clouds : Effects of speed variability on h
   smooth pursuit'
 url_pdf: https://laurentperrinet.github.io/publication/mansour-16-ecvp
 ---
-

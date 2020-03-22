@@ -22,4 +22,3 @@ tags:
 - Deep Learning
 title: Controlling an aerial robot with human gestures using bio-inspired algorithm
 ---
-

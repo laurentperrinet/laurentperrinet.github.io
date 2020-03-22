@@ -20,4 +20,7 @@ publishDate: '2009-01-01'
 title: Control of the temporal interplay between excitation and inhibition by the
   statistics of visual input
 ---
+
+
+
 * see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publication/kremkow-10-jcns/index.md" >}})

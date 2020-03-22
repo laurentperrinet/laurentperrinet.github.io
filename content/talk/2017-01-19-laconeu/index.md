@@ -18,4 +18,3 @@ title: 'Tutorial: Sparse optimization in neural computations'
 url_pdf: https://laurentperrinet.github.io/talk/2017-01-19-laconeu/
 url_slides: https://laurentperrinet.github.io/sciblog/files/2017-01-19_LACONEU.html
 ---
-
