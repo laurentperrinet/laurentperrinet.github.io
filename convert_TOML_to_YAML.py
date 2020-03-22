@@ -6,18 +6,15 @@ import toml
 import yaml
 
 VERB = False
-VERB = True
+# VERB = True
 
-for file_path in glob.glob("content/authors/emmanuel-dauce/*.md", recursive=True):
+for file_path in glob.glob("content/**/*.md", recursive=True):
     if VERB: print('Handling file :', file_path)
     # loads file
     with open(file_path, 'r', encoding='utf-8') as source_file:
         page = source_file.read() + '\n'
-
         # extracts and parses metadata
         parts = page.split('+++')
-        # print(metadata)
-        if not len(parts) == 3 : print('Handling file :', file_path, 'Warn:  len(metadata) =', len(parts), '... ignoring file')
     # closes file
 
     if len(parts) == 3 :
@@ -42,3 +39,5 @@ for file_path in glob.glob("content/authors/emmanuel-dauce/*.md", recursive=True
                 f.write(page + '\n')
         except IOError:
             print('ERROR: could not save file ', file_path)
+    else:
+        print('Handling file :', file_path, 'Warn:  len(metadata) =', len(parts), '... ignoring file')
