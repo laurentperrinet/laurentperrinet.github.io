@@ -24,7 +24,7 @@ cd ../hugo_academic
 #
 # academic import --publication-dir talk --bibtex  ../perrinet_curriculum-vitae_tex/LaurentPerrinet_Presentations.bib
 
-ipython3 update_entries.py
+python3 update_metadata.py
 
 echo -e "\033[0;32mpushing website...\033[0m"
 ./update_gitpages.sh $msg
