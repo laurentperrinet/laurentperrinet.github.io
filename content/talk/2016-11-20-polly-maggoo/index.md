@@ -18,6 +18,7 @@ url_pdf: https://laurentperrinet.github.io/talk/2016-11-20-polly-maggoo/
 
 
 
+
 # RENCONTRES INTERNATIONALES SCIENCES & CINÉMAS
 ## cinéma les Variétés
 ![http://pollymaggoo.org/wp-content/uploads/2016/10/RISC2016\_A3-724x1024.jpg](http://pollymaggoo.org/wp-content/uploads/2016/10/RISC2016_A3-724x1024.jpg
