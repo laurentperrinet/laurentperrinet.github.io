@@ -1,18 +1,20 @@
-+++
-title = "Participation au jury et entretien avec Clara Delmon"
-date = 2016-11-20T09:00:00
-authors = [ "Laurent U Perrinet",]
-publication_types = [ "1",]
-featured = false
-publication = "*Cinésciences, collège Clair Soleil (Marseille)*"
-url_pdf = "https://laurentperrinet.github.io/talk/2016-11-20-polly-maggoo/"
-projects = [ "tout-public",]
-event_url = "http://www.pollymaggoo.org/"
-location = "Marseille, France"
-event = "Rencontres Internationales Sciences Et Cinémas"
-publishDate = "2016-01-01"
-+++
-
+---
+authors:
+- Laurent U Perrinet
+date: 2016-11-20 09:00:00
+event: Rencontres Internationales Sciences Et Cinémas
+event_url: http://www.pollymaggoo.org/
+featured: false
+location: Marseille, France
+projects:
+- tout-public
+publication: '*Cinésciences, collège Clair Soleil (Marseille)*'
+publication_types:
+- '1'
+publishDate: '2016-01-01'
+title: Participation au jury et entretien avec Clara Delmon
+url_pdf: https://laurentperrinet.github.io/talk/2016-11-20-polly-maggoo/
+---
 # RENCONTRES INTERNATIONALES SCIENCES & CINÉMAS
 ## cinéma les Variétés
 ![http://pollymaggoo.org/wp-content/uploads/2016/10/RISC2016\_A3-724x1024.jpg](http://pollymaggoo.org/wp-content/uploads/2016/10/RISC2016_A3-724x1024.jpg

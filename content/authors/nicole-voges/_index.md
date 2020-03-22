@@ -1,46 +1,28 @@
-+++
-# Display name
-name = "Nicole Voges"
-
-# Username (this should match the folder name)
-authors = ["nicole-voges"]
-
-# Is this the primary user of the site?
-superuser = false
-
-# Role/position
-role = "PostDoc in Computational Neuroscience"
-
-# Short bio (displayed in user profile at end of posts)
-bio = "Motion Integration By V1 Population  (Post-Doc, 2013-03 / 2015-01)."
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Alumni"]
-
-# List qualifications (such as academic degrees)
-
-[[education.courses]]
-  course = "PostDoc in Computational Neuroscience"
-  institution = "Aix-Marseille Université"
-  year = 2016
-
-[[education.courses]]
-  course = "PostDoc in Computational Neuroscience"
-  institution = "Aix-Marseille Université"
-  year = 2013
-
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=oHLjQTEAAAAJ"
-
-[[social]]
-  icon = "linkedin"
-  icon_pack = "fab"
-  link = "https://www.linkedin.com/in/wahiba-taouali/"
-
-+++
+---
+authors:
+- nicole-voges
+bio: Motion Integration By V1 Population  (Post-Doc, 2013-03 / 2015-01).
+education:
+  courses:
+  - course: PostDoc in Computational Neuroscience
+    institution: Aix-Marseille Université
+    year: 2016
+  - course: PostDoc in Computational Neuroscience
+    institution: Aix-Marseille Université
+    year: 2013
+name: Nicole Voges
+role: PostDoc in Computational Neuroscience
+social:
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=oHLjQTEAAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/wahiba-taouali/
+superuser: false
+user_groups:
+- Alumni
+---
 # Complex dynamics in recurrent cortical networks based on spatially realistic connectivities (Post-Doc, 2008 / 2010)
 
 ## Description

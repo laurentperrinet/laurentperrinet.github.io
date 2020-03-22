@@ -1,47 +1,28 @@
-+++
-# Display name
-name = "Hugo Ladret"
-
-# Username (this should match the folder name)
-authors = ["hugo-ladret"]
-
-# Is this the primary user of the site?
-superuser = false
-
-# Role/position
-role = "Phd candidate in Computational Neuroscience"
-
-# Short bio (displayed in user profile at end of posts)
-bio = "During my master, I focused on a bio-inspired neural network."
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Alumni"]
-
-# List qualifications (such as academic degrees)
-
-[[education.courses]]
-  course = "Phd candidate in Computational Neuroscience"
-  institution = "Aix-Marseille Université"
-  year = 2023
-
-[[education.courses]]
-  course = "Master in Neuroscience"
-  institution = "Aix-Marseille Université"
-  year = 2019
-
-[[social]]
-    icon = "github"
-    icon_pack = "fab"
-    link = "https://github.com/hugoladret"
-
-[[social]]
-  icon = "linkedin"
-  icon_pack = "fab"
-  link = "https://www.linkedin.com/in/hugoladret/"
-
-+++
-
+---
+authors:
+- hugo-ladret
+bio: During my master, I focused on a bio-inspired neural network.
+education:
+  courses:
+  - course: Phd candidate in Computational Neuroscience
+    institution: Aix-Marseille Université
+    year: 2023
+  - course: Master in Neuroscience
+    institution: Aix-Marseille Université
+    year: 2019
+name: Hugo Ladret
+role: Phd candidate in Computational Neuroscience
+social:
+- icon: github
+  icon_pack: fab
+  link: https://github.com/hugoladret
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/hugoladret/
+superuser: false
+user_groups:
+- Alumni
+---
 # PhD Student (2019-09 / 2013-11): A multiscale cortical model to account for orientation selectivity in natural-like stimulations
 
  * Aix-Marseille Université, Institut des Neurosciences de la Timone

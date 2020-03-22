@@ -1,27 +1,20 @@
-+++
-title = "Instabilité (series) @ Art-O-Rama"
-subtitle = "Installation (sérigraphie, dessin mural, lumière), 2018;  Guest artist, Mécènes du Sud / Art-O-Rama (Fair), Marseille I 2018."
-
-date = 2016-04-20T00:00:00
-lastmod = 2018-01-13T00:00:00
-draft = false
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["laurent-u-perrinet", "etienne-rey"]
-
-tags = ["art-science"]
-summary = "Installation (sérigraphie, dessin mural, lumière), 2018;  Guest artist, Mécènes du Sud / Art-O-Rama (Fair), Marseille I 2018."
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects = ["art-science"]
-
-+++
-
+---
+authors:
+- laurent-u-perrinet
+- etienne-rey
+date: 2016-04-20 00:00:00
+draft: false
+lastmod: 2018-01-13 00:00:00
+projects:
+- art-science
+subtitle: Installation (sérigraphie, dessin mural, lumière), 2018;  Guest artist,
+  Mécènes du Sud / Art-O-Rama (Fair), Marseille I 2018.
+summary: Installation (sérigraphie, dessin mural, lumière), 2018;  Guest artist, Mécènes
+  du Sud / Art-O-Rama (Fair), Marseille I 2018.
+tags:
+- art-science
+title: Instabilité (series) @ Art-O-Rama
+---
 # Instabilité (series)
 
 ## Installation (sérigraphie, dessin mural, lumière), 2018;  Guest artist, Mécènes du Sud / Art-O-Rama (Fair), Marseille I 2018

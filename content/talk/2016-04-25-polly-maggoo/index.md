@@ -1,19 +1,26 @@
-+++
-title = "Les illusions visuelles, un révélateur du fonctionnement de notre cerveau"
-date = 2016-04-25T09:00:00
-authors = [ "Laurent U Perrinet",]
-publication_types = [ "1",]
-abstract = "Ce lundi 25 avril de 9h à 12h, je suis venu échanger au côté de Serge Dentin autour de films traitant du rapport fiction/réel, des illusion visuelles (\\\" Qu'est ce qu'une image? \\\"), des rapports d'échelles, de la perception, ... et qui sont projetés lors de la séance, avec des élèves de 4e lors d'une séance Cinésciences au collège Clair Soleil, 53 Boulevard Charles Moretti, 13014 Marseille. Une occasion aussi de parler du métier de chercheur."
-featured = false
-publication = "**"
-projects = [ "tout-public",]
-url_pdf = "https://laurentperrinet.github.io/sciblog/files/2016-04-25_pollymagoo/"
-event_url = "http://www.pollymaggoo.org/"
-location = "Marseille, France"
-event = "Cinésciences, collège Clair Soleil (Marseille)"
-publishDate = "2016-01-01"
-+++
-
+---
+abstract: Ce lundi 25 avril de 9h à 12h, je suis venu échanger au côté de Serge Dentin
+  autour de films traitant du rapport fiction/réel, des illusion visuelles (\" Qu'est
+  ce qu'une image? \"), des rapports d'échelles, de la perception, ... et qui sont
+  projetés lors de la séance, avec des élèves de 4e lors d'une séance Cinésciences
+  au collège Clair Soleil, 53 Boulevard Charles Moretti, 13014 Marseille. Une occasion
+  aussi de parler du métier de chercheur.
+authors:
+- Laurent U Perrinet
+date: 2016-04-25 09:00:00
+event: Cinésciences, collège Clair Soleil (Marseille)
+event_url: http://www.pollymaggoo.org/
+featured: false
+location: Marseille, France
+projects:
+- tout-public
+publication: '**'
+publication_types:
+- '1'
+publishDate: '2016-01-01'
+title: Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
+url_pdf: https://laurentperrinet.github.io/sciblog/files/2016-04-25_pollymagoo/
+---
 # Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
 ## Cinésciences, collège Clair Soleil
 L'Association Polly Maggoo <http://www.pollymaggoo.org/> met en place

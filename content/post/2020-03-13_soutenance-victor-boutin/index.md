@@ -1,28 +1,26 @@
-+++
-title = "2020-03-13 Soutenance Victor Boutin"
-subtitle = "Victor Boutin (Equipe NeOpTo) soutiendra sa thèse de doctorat le Vendredi 13 mars à 14h"
-
-date = 2020-03-04T09:00:00
-lastmod = 2020-03-04T09:00:00
-draft = false
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["laurent-u-perrinet", "victor-boutin"]
-
-tags = ["events"]
-summary = "Victor Boutin (Equipe NeOpTo) soutiendra sa thèse de doctorat intitulée: *Sparse deep predictive coding: a bio-inspired model of visual perception* / **Etude d’un algorithme hiérarchique et codage épars et prédictif : vers un modèle bio-inspiré de la perception visuelle** le Vendredi 13 mars à 14h"
-
-projects = []
-
-[image]
-  # Caption (optional)
-  caption = "[ilbusca / Getty Images ](https://www.thoughtco.com/abbreviations-and-titles-used-in-college-1857653)"
-  placement = 2
-  focal_point = "Center"
-  preview_only = false
-
-+++
-
+---
+authors:
+- laurent-u-perrinet
+- victor-boutin
+date: 2020-03-04 09:00:00
+draft: false
+image:
+  caption: '[ilbusca / Getty Images ](https://www.thoughtco.com/abbreviations-and-titles-used-in-college-1857653)'
+  focal_point: Center
+  placement: 2
+  preview_only: false
+lastmod: 2020-03-04 09:00:00
+projects: []
+subtitle: Victor Boutin (Equipe NeOpTo) soutiendra sa thèse de doctorat le Vendredi
+  13 mars à 14h
+summary: 'Victor Boutin (Equipe NeOpTo) soutiendra sa thèse de doctorat intitulée:
+  *Sparse deep predictive coding: a bio-inspired model of visual perception* / **Etude
+  d’un algorithme hiérarchique et codage épars et prédictif : vers un modèle bio-inspiré
+  de la perception visuelle** le Vendredi 13 mars à 14h'
+tags:
+- events
+title: 2020-03-13 Soutenance Victor Boutin
+---
 {{< tweet 1235128290458951680 >}}
 
 Date : Vendredi 13 mars à 14h

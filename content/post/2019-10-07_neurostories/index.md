@@ -1,23 +1,21 @@
-+++
-title = "2019-10-07: Le temps des sens"
-summary = "Dans le monde qui nous entoure, nous percevons le temps s’écouler de façon immuable et universelle. Pourtant, il existe un temps pour chaque sens. Laurent Perrinet (AMU) exposera la dynamique des réseaux de neurones et le temps particulier qui sont associés à l’un d’entre eux, la vision."
-
-date = 2019-10-07T18:00:00
-draft = false
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["laurent-u-perrinet"]
-
-# Is this a featured post? (true/false)
-featured = true
-
-tags = ["events", "vision"]
-categories = []
-
-projects = ["tout-public"]
-
-+++
-
+---
+authors:
+- laurent-u-perrinet
+categories: []
+date: 2019-10-07 18:00:00
+draft: false
+featured: true
+projects:
+- tout-public
+summary: Dans le monde qui nous entoure, nous percevons le temps s’écouler de façon
+  immuable et universelle. Pourtant, il existe un temps pour chaque sens. Laurent
+  Perrinet (AMU) exposera la dynamique des réseaux de neurones et le temps particulier
+  qui sont associés à l’un d’entre eux, la vision.
+tags:
+- events
+- vision
+title: '2019-10-07: Le temps des sens'
+---
 * Cette présentation lors des [NeuroStories](http://neuroschool-stories.com/) vise à aborder la notion de temps dans le cerveau.
 
 * Le texte de cette présentation est reprise dans cet article de [The Conversation](https://laurentperrinet.github.io/publication/perrinet-19-temps/) ([lien direct](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567)).

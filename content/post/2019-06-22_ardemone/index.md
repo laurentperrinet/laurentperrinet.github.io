@@ -1,27 +1,18 @@
-+++
-title = "Sans gravité – une poétique de l’air"
-subtitle = "Sans gravité – une poétique de l’air – Ardenome à Avignon"
-
-date = 2016-04-20T00:00:00
-lastmod = 2018-01-13T00:00:00
-draft = false
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["laurent-u-perrinet", "etienne-rey"]
-
-tags = ["art-science"]
-summary = "Sans gravité – une poétique de l’air – Ardenome à Avignon."
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects = ["art-science"]
-
-+++
-
+---
+authors:
+- laurent-u-perrinet
+- etienne-rey
+date: 2016-04-20 00:00:00
+draft: false
+lastmod: 2018-01-13 00:00:00
+projects:
+- art-science
+subtitle: Sans gravité – une poétique de l’air – Ardenome à Avignon
+summary: Sans gravité – une poétique de l’air – Ardenome à Avignon.
+tags:
+- art-science
+title: Sans gravité – une poétique de l’air
+---
 {{< vimeo 317504725 >}}
 
 # « Densité flou » (2019)

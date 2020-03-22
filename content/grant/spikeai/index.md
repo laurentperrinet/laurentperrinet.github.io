@@ -1,20 +1,12 @@
-+++
-# Project title.
-title = "SpikeAI: laureat du Défi Biomimétisme (2019)"
-
-# Date this page was created.
-date = 2019-04-15T10:00:00
-
-# Project summary to display on homepage.
-summary = "Algorithmes événementiels d’Intelligence Artificielle / Event-Based Artificial Inteligence (2019)."
-
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant", "past-grant"]
-
-
-+++
-
+---
+date: 2019-04-15 10:00:00
+summary: Algorithmes événementiels d’Intelligence Artificielle / Event-Based Artificial
+  Inteligence (2019).
+tags:
+- grant
+- past-grant
+title: 'SpikeAI: laureat du Défi Biomimétisme (2019)'
+---
 # Description
 
 * Le projet SpikeAI est lauréat de l'[appel à projets 2019 *Biomimétisme*](http://www.cnrs.fr/mi/spip.php?article1452&lang=fr) :

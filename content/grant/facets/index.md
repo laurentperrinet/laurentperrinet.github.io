@@ -1,20 +1,11 @@
-+++
-# Project title.
-title = "FACETS (2006/2010)"
-
-# Date this page was created.
-date = 2015-04-27T00:00:00
-
-# Project summary to display on homepage.
-summary = "FACETS: Fast Analog Computing with Emergent Transient States (2006/2010)."
-
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant", "past-grant"]
-
-
-+++
-
+---
+date: 2015-04-27 00:00:00
+summary: 'FACETS: Fast Analog Computing with Emergent Transient States (2006/2010).'
+tags:
+- grant
+- past-grant
+title: FACETS (2006/2010)
+---
 List of publications that were funded by the
 <a href="http://facets.kip.uni-heidelberg.de/" class="http">FACETS</a>
 project (more

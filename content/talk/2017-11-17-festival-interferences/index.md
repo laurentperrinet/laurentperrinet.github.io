@@ -1,19 +1,20 @@
-+++
-title = "Participation au jury"
-date = 2017-11-17T18:30:00
-authors = [ "Laurent U Perrinet",]
-publication_types = [ "1",]
-featured = false
-publication = "**"
-projects = [ "tout-public",]
-event_url = "http://www.lacitedoc.com/interferences-programmation\u200b"
-location = "Lyon, France"
-event = "Festival Interférences - Cinéma Documentaire et Débat Public"
-publishDate = "2017-01-01"
-url_pdf = "https://laurentperrinet.github.io/talk/2017-11-17-festival-interferences/"
-+++
-
-
+---
+authors:
+- Laurent U Perrinet
+date: 2017-11-17 18:30:00
+event: Festival Interférences - Cinéma Documentaire et Débat Public
+event_url: http://www.lacitedoc.com/interferences-programmation​
+featured: false
+location: Lyon, France
+projects:
+- tout-public
+publication: '**'
+publication_types:
+- '1'
+publishDate: '2017-01-01'
+title: Participation au jury
+url_pdf: https://laurentperrinet.github.io/talk/2017-11-17-festival-interferences/
+---
 # FESTIVAL INTERFÉRENCES​
 ## Cinéma Documentaire et Débat Public
 ![FESTIVAL INTERFÉRENCES​](https://static.wixstatic.com/media/e37617_35d8c5b48dd340a481db5f711aeaa35a~mv2_d_1772_2480_s_2.jpg/v1/fill/w_600,h_797,al_c,q_85,usm_0.66_1.00_0.01/e37617_35d8c5b48dd340a481db5f711aeaa35a~mv2_d_1772_2480_s_2.jpg "FESTIVAL INTERFÉRENCES​")

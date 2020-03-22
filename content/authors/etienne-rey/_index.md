@@ -1,46 +1,24 @@
-+++
-# Display name
-name = "Étienne Rey"
-
-# Username (this should match the folder name)
-authors = ["etienne-rey"]
-
-# Is this the primary user of the site?
-superuser = false
-
-# Role/position
-# role = "master in Computational Neuroscience"
-
-# Short bio (displayed in user profile at end of posts)
-# bio = "During my master, I focused on a bio-inspired neural network."
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Collaborators"]
-
-[[social]]
-  icon = "linkedin"
-  icon_pack = "fab"
-  link = "https://www.linkedin.com/in/etienne-rey-a07b5718/"
-
-[[social]]
-    icon = "code"
-    icon_pack = "fab"
-    link = "http://ondesparalleles.org/"
-
-[[social]]
-    icon = "instagram"
-    icon_pack = "fab"
-    link = "https://www.instagram.com/etienne_rey_/"
-
-
-[[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/EtienneRey"
-
-+++
-
+---
+authors:
+- etienne-rey
+name: Étienne Rey
+social:
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/etienne-rey-a07b5718/
+- icon: code
+  icon_pack: fab
+  link: http://ondesparalleles.org/
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/etienne_rey_/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/EtienneRey
+superuser: false
+user_groups:
+- Collaborators
+---
 # collaboration avec Etienne Rey
 
 

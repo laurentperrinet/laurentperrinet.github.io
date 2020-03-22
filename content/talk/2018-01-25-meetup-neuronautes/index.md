@@ -1,19 +1,23 @@
-+++
-title = "Expériences autour de la perception de la forme en art et science"
-date = 2018-01-25T18:30:00
-authors = [ "Laurent U Perrinet", "Etienne Rey",]
-featured = false
-publication = "*Meetup Art et Neurosciences*"
-url_pdf = "https://laurentperrinet.github.io/talk/2018-01-25-meetup-neuronautes/"
-event = "Meetup Art et Neurosciences, Association NeuroNautes"
-tags = [ "Biologically Inspired Computer vision",]
-event_url = "https://www.facebook.com/events/211121069456116/"
-location = "Salle des voutes campus Saint Charles"
-url_slides = "https://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.html"
-publishDate = "2018-01-01"
-projects = [ "art-science", "tout-public",]
-+++
-
+---
+authors:
+- Laurent U Perrinet
+- Etienne Rey
+date: 2018-01-25 18:30:00
+event: Meetup Art et Neurosciences, Association NeuroNautes
+event_url: https://www.facebook.com/events/211121069456116/
+featured: false
+location: Salle des voutes campus Saint Charles
+projects:
+- art-science
+- tout-public
+publication: '*Meetup Art et Neurosciences*'
+publishDate: '2018-01-01'
+tags:
+- Biologically Inspired Computer vision
+title: Expériences autour de la perception de la forme en art et science
+url_pdf: https://laurentperrinet.github.io/talk/2018-01-25-meetup-neuronautes/
+url_slides: https://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.html
+---
 # Meetup Art et Neurosciences
   - Quoi  
     Meetup Art et Neurosciences

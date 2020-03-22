@@ -1,12 +1,19 @@
-+++
-title = "A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise"
-date = 2014-01-01
-authors = [ "Wahiba Taouali", "Laurent U Perrinet",]
-publication_types = [ "1",]
-featured = false
-publication = "*6th Workshop of the Computational Neuroscience Network in Marseille*"
-projects = []
-tags = [ "coding decoding",]
-publishDate = "2019-09-17"
-grants = [ "anr-bala-v1", "brain-scales",]
-+++
+---
+authors:
+- Wahiba Taouali
+- Laurent U Perrinet
+date: 2014-01-01
+featured: false
+grants:
+- anr-bala-v1
+- brain-scales
+projects: []
+publication: '*6th Workshop of the Computational Neuroscience Network in Marseille*'
+publication_types:
+- '1'
+publishDate: '2019-09-17'
+tags:
+- coding decoding
+title: A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise
+---
+

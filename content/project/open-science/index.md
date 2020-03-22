@@ -1,29 +1,15 @@
-+++
-# Project title.
-title = "Open Science"
-
-# Date this page was created.
-date = 2016-04-27T00:00:00
-
-# Project summary to display on homepage.
-summary = ""
-
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["log-gabor", "psychophysics", "motion-clouds"]
-
-# Optional external URL for project (replaces project detail page).
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
-  # Caption (optional)
-  caption = "Snapshot of a Motion Cloud"
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
-+++
+---
+date: 2016-04-27 00:00:00
+image:
+  caption: Snapshot of a Motion Cloud
+  focal_point: Smart
+summary: ''
+tags:
+- log-gabor
+- psychophysics
+- motion-clouds
+title: Open Science
+---
 To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences. This includes code to reproduce results obtained in papers (e.g. [(Perrinet, Adams and Friston, 2015)](https://github.com/laurentperrinet/PerrinetAdamsFriston14), [(Perrinet and Bednar, 2015)](https://github.com/laurentperrinet/PerrinetBednar15), [(Khoei et, 2017)](https://github.com/laurentperrinet/Khoei_2017_PLoSCB), [(Perrinet, 2019)](https://github.com/laurentperrinet/2019-05_illusions-visuelles) or courses and slides (e.g. [2019-04-03_a_course_on_vision_and_modelization](https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization), [2019-04-18_JNLF](https://github.com/laurentperrinet/2019-04-18_JNLF), ...) and also the development of the following libraries on GitHub.
 
 

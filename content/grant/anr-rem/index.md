@@ -1,21 +1,11 @@
-+++
-# Project title.
-title = "ANR REM (2013/2016)"
-
-# Date this page was created.
-date = 2016-04-27T00:00:00
-
-# Project summary to display on homepage.
-summary = "ANR REM : Renforcement et mouvements oculaires (2013/2016)."
-
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant", "past-grant"]
-
-
-+++
-
-
+---
+date: 2016-04-27 00:00:00
+summary: 'ANR REM : Renforcement et mouvements oculaires (2013/2016).'
+tags:
+- grant
+- past-grant
+title: ANR REM (2013/2016)
+---
 {{< figure src="http://static.tvtropes.org/pmwiki/pub/images/R.E.M..jpg" alt="We were open :-)" lightbox="true" >}}
 
 

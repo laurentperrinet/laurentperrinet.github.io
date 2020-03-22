@@ -1,10 +1,16 @@
-+++
-title = "Visual Strategies for Sparse Spike Coding"
-date = 2002-01-01
-authors = [ "Laurent U Perrinet", "Manuel Samuelides",]
-publication_types = [ "1",]
-featured = false
-publication = "*Actes de Neurosciences et Sciences de l'Ingenieur, L'Agelonde,*"
-tags = [ "sparse hebbian learning", "stdp",]
-publishDate = "2019-09-17"
-+++
+---
+authors:
+- Laurent U Perrinet
+- Manuel Samuelides
+date: 2002-01-01
+featured: false
+publication: '*Actes de Neurosciences et Sciences de l''Ingenieur, L''Agelonde,*'
+publication_types:
+- '1'
+publishDate: '2019-09-17'
+tags:
+- sparse hebbian learning
+- stdp
+title: Visual Strategies for Sparse Spike Coding
+---
+

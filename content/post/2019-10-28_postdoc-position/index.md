@@ -1,27 +1,27 @@
-+++
-title = "Postdoc position on Visual computations using Spatio-temporal Diffusion Kernels and Traveling Waves"
-subtitle = "18 month Post-doc position coordinated by [Laurent Perrinet](https://laurentperrinet.github.io/), supported by (INT, Marseille) and [Yves Frégnac](http://neuro-psi.cnrs.fr/spip.php?article934&lang=fr) (UNIC-NeuroPSI, Gif)."
-
-date = 2019-10-21T09:00:00
-lastmod = 2019-10-21T09:00:00
-draft = false
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["laurent-u-perrinet"]
-
-tags = ["events"]
-summary = "18 month Post-doc position coordinated by [Laurent Perrinet](https://laurentperrinet.github.io/), supported by (INT, Marseille) and [Yves Frégnac](http://neuro-psi.cnrs.fr/spip.php?article934&lang=fr) (UNIC-NeuroPSI, Gif)."
-
-projects = []
-
-# https://pixabay.com/photos/drops-of-water-water-liquid-fresh-578897/
-[image]
-  # Caption (optional)
-  caption = "Artwork by [Etienne Rey](https://laurentperrinet.github.io/post/2019-06-22_ardemone/), photo [Jean Luc Cougy](https://www.enrevenantdelexpo.com/2019/05/17/sans-gravite-une-poetique-de-air-ardenome-avignon/)"
-  placement = 2
-  focal_point = "Center"
-  preview_only = false
-+++
+---
+authors:
+- laurent-u-perrinet
+date: 2019-10-21 09:00:00
+draft: false
+image:
+  caption: Artwork by [Etienne Rey](https://laurentperrinet.github.io/post/2019-06-22_ardemone/),
+    photo [Jean Luc Cougy](https://www.enrevenantdelexpo.com/2019/05/17/sans-gravite-une-poetique-de-air-ardenome-avignon/)
+  focal_point: Center
+  placement: 2
+  preview_only: false
+lastmod: 2019-10-21 09:00:00
+projects: []
+subtitle: 18 month Post-doc position coordinated by [Laurent Perrinet](https://laurentperrinet.github.io/),
+  supported by (INT, Marseille) and [Yves Frégnac](http://neuro-psi.cnrs.fr/spip.php?article934&lang=fr)
+  (UNIC-NeuroPSI, Gif).
+summary: 18 month Post-doc position coordinated by [Laurent Perrinet](https://laurentperrinet.github.io/),
+  supported by (INT, Marseille) and [Yves Frégnac](http://neuro-psi.cnrs.fr/spip.php?article934&lang=fr)
+  (UNIC-NeuroPSI, Gif).
+tags:
+- events
+title: Postdoc position on Visual computations using Spatio-temporal Diffusion Kernels
+  and Traveling Waves
+---
 {{< tweet 1188940039293751297 >}}
 
 Dear colleagues,

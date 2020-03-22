@@ -1,54 +1,33 @@
-+++
-# Display name
-name = "Angelo Franciosini"
-
-# Username (this should match the folder name)
-authors = ["angelo-franciosini"]
-
-# Is this the primary user of the site?
-superuser = false
-
-# Role/position
-role = "Phd candidate in Computational Neuroscience"
-
-# Short bio (displayed in user profile at end of posts)
-bio = "During my PhD, I am focusing on predictive coding in a bio-inspired neural network."
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Alumni"]
-
-tags = ["phd-icn"]
-
-# List qualifications (such as academic degrees)
-
-[[education.courses]]
-  course = "Phd candidate in Computational Neuroscience"
-  institution = "Aix-Marseille Université"
-  year = 2021
-
-[[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/AngeloFranciosini"
-
-[[social]]
-  icon = "researchgate"
-  icon_pack = "ai"
-  link = "https://www.researchgate.net/profile/Angelo_Franciosini"
-
-[[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/RaguDellaNonna"
-
-[[social]]
-  icon = "linkedin"
-  icon_pack = "fab"
-  link = "https://www.linkedin.com/in/angelo-franciosini-325900132"
-
-+++
-
+---
+authors:
+- angelo-franciosini
+bio: During my PhD, I am focusing on predictive coding in a bio-inspired neural network.
+education:
+  courses:
+  - course: Phd candidate in Computational Neuroscience
+    institution: Aix-Marseille Université
+    year: 2021
+name: Angelo Franciosini
+role: Phd candidate in Computational Neuroscience
+social:
+- icon: github
+  icon_pack: fab
+  link: https://github.com/AngeloFranciosini
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Angelo_Franciosini
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/RaguDellaNonna
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/angelo-franciosini-325900132
+superuser: false
+tags:
+- phd-icn
+user_groups:
+- Alumni
+---
 # Trajectories in natural images and the sensory processing of contours (PhD position, 2017 / 2021)
 
 * Venue: Aix-Marseille Université's [Neuroschool PhD program in Neuroscience](https://laurentperrinet.github.io/project/phd-icn/) (formerly known as "Ph.D. program in Integrative and Clinical Neuroscience")

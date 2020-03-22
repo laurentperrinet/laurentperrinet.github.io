@@ -1,20 +1,23 @@
-+++
-title = "Eye movements as a model for active inference"
-date = 2016-10-13T10:00:00
-authors = [ "Laurent U Perrinet",]
-featured = false
-publication = "*Lyon Active Inference Workshop (LAW) https://law2016.sciencesconf.org/ - October 13th, 2016*"
-url_pdf = "https://laurentperrinet.github.io/talk/2016-10-13-law/"
-event = "Lyon Active inference Workshop (LAW)"
-event_url = "https://law2016.sciencesconf.org/"
-location = "Lyon, France"
-url_slides = "https://laurentperrinet.github.io/sciblog/files/2016-10-13_LAW.html"
-url_code = ""
-projects = []
-publishDate = "2016-01-01"
-grants = [ "anr-rem", "pace-itn",]
-+++
-
+---
+authors:
+- Laurent U Perrinet
+date: 2016-10-13 10:00:00
+event: Lyon Active inference Workshop (LAW)
+event_url: https://law2016.sciencesconf.org/
+featured: false
+grants:
+- anr-rem
+- pace-itn
+location: Lyon, France
+projects: []
+publication: '*Lyon Active Inference Workshop (LAW) https://law2016.sciencesconf.org/
+  - October 13th, 2016*'
+publishDate: '2016-01-01'
+title: Eye movements as a model for active inference
+url_code: ''
+url_pdf: https://laurentperrinet.github.io/talk/2016-10-13-law/
+url_slides: https://laurentperrinet.github.io/sciblog/files/2016-10-13_LAW.html
+---
 * next talk @ [INVIBE FEST, Paris]({{< ref "/talk/2018-02-01-bcp-invibe-fest/index.md" >}})
 * next talk @ [Brain workshop, Marseille]({{< ref "/talk/2018-04-05-bcp-talk/index.md" >}})
 * next talk @ [LACONEU, Chile]({{< ref "/talk/2019-01-18-laconeu/index.md" >}})

@@ -1,21 +1,16 @@
-+++
-# Project title.
-title = "PhD ICN (2017 / 2021)"
-
-# Date this page was created.
-date = 2016-04-27T00:00:00
-
-# Project summary to display on homepage.
-summary = "A grant from the Ph.D. program in Integrative and Clinical Neuroscience (PhD position, 2017 / 2021)."
-
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant", "current-grant", "phd-icn"]
-
-authors = ["angelo-franciosini", "laurent-u-perrinet"]
-
-+++
-
+---
+authors:
+- angelo-franciosini
+- laurent-u-perrinet
+date: 2016-04-27 00:00:00
+summary: A grant from the Ph.D. program in Integrative and Clinical Neuroscience (PhD
+  position, 2017 / 2021).
+tags:
+- grant
+- current-grant
+- phd-icn
+title: PhD ICN (2017 / 2021)
+---
 ## Description
 
 The [Ph.D. program in Integrative and Clinical Neuroscience](http://neuro-marseille.org/en/phd-program-en/) (Aix-Marseille University) is offering in 2017 three Ph.D. scholarships to Master students graduated from highly ranked international universities (outside France). We were awarded with one PhD position for Angelo Franciosini at the "Institut de Neurosciences de la Timone" (team "Inference and Visual Behavior"), CNRS, Marseille (France) to study trajectories in natural images and the sensory processing of contours.

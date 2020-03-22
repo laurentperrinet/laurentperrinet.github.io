@@ -1,32 +1,19 @@
-+++
-# Display name
-name = "Jens Kremkow"
-
-# Username (this should match the folder name)
-authors = ["jens-kremkow"]
-
-# Is this the primary user of the site?
-superuser = false
-
-# Role/position
-role = "Phd in Computational Neuroscience"
-
-# Short bio (displayed in user profile at end of posts)
-bio = "During my PhD, I focused on the interplay of Excitation and Inhibition in Visual Cortical Circuits."
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Alumni"]
-
-# List qualifications (such as academic degrees)
-
-[[education.courses]]
-  course = "Phd in Computational Neuroscience"
-  institution = "Aix-Marseille Université"
-  year = 2009
-
-+++
-
+---
+authors:
+- jens-kremkow
+bio: During my PhD, I focused on the interplay of Excitation and Inhibition in Visual
+  Cortical Circuits.
+education:
+  courses:
+  - course: Phd in Computational Neuroscience
+    institution: Aix-Marseille Université
+    year: 2009
+name: Jens Kremkow
+role: Phd in Computational Neuroscience
+superuser: false
+user_groups:
+- Alumni
+---
 # Correlating Excitation and Inhibition in Visual Cortical Circuits: Functional Consequences and Biological Feasibility  (PhD, 2006-01 / 2009-05)
 
 The goal of the FACETS (Fast Analog Computing with Emergent Transient States) project was to create a theoretical and experimental foundation for the realisation of novel computing paradigms which exploit the concepts experimentally observed in biological nervous systems. The continuous interaction and scientific exchange between biological experiments, computer modelling and hardware emulations within the project provides a unique research infrastructure that will in turn provide an improved insight into the computing principles of the brain. This insight may potentially contribute to an improved understanding of mental disorders in the human brain and help to develop remedies.

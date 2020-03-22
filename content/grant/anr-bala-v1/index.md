@@ -1,19 +1,11 @@
-+++
-# Project title.
-title = "ANR BalaV1 (2013/2016)"
-
-# Date this page was created.
-date = 2016-04-27T00:00:00
-
-# Project summary to display on homepage.
-summary = "ANR BalaV1: Balanced states in area V1 (2013--2016)"
-
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant", "past-grant"]
-
-+++
-
+---
+date: 2016-04-27 00:00:00
+summary: 'ANR BalaV1: Balanced states in area V1 (2013--2016)'
+tags:
+- grant
+- past-grant
+title: ANR BalaV1 (2013/2016)
+---
 # ANR BalaV1: Balanced states in area V1 (2013/2016)
 
 * [Official website](http://www.agence-nationale-recherche.fr/Project-ANR-13-BSV4-0014)

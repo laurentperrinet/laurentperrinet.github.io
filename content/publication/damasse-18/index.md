@@ -1,15 +1,24 @@
-+++
-title = "Reinforcement effects in anticipatory smooth eye movements"
-date = 2018-10-01
-authors = [ "Jean-Bernard Damasse", "Laurent U Perrinet", "Laurent Madelain", "Anna Montagnini",]
-publication_types = [ "2",]
-featured = false
-publication = "*Journal of Vision*"
-url_pdf = "https://jov.arvojournals.org/article.aspx?articleid=2707670"
-doi = "10.1167/18.11.14"
-url_preprint = "https://hal-amu.archives-ouvertes.fr/hal-01901640v1"
-tags = [ "eye movements",]
-projects = []
-publishDate = "2019-09-17"
-grants = [ "anr-rem", "pace-itn",]
-+++
+---
+authors:
+- Jean-Bernard Damasse
+- Laurent U Perrinet
+- Laurent Madelain
+- Anna Montagnini
+date: 2018-10-01
+doi: 10.1167/18.11.14
+featured: false
+grants:
+- anr-rem
+- pace-itn
+projects: []
+publication: '*Journal of Vision*'
+publication_types:
+- '2'
+publishDate: '2019-09-17'
+tags:
+- eye movements
+title: Reinforcement effects in anticipatory smooth eye movements
+url_pdf: https://jov.arvojournals.org/article.aspx?articleid=2707670
+url_preprint: https://hal-amu.archives-ouvertes.fr/hal-01901640v1
+---
+

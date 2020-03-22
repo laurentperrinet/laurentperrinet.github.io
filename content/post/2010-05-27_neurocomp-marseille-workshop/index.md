@@ -1,32 +1,22 @@
-+++
-title = "Computational Neuroscience: From Representations to Behavior"
-subtitle = "Second NeuroComp Marseille Workshop"
-
-date = 2008-10-08T00:00:00
-lastmod = 2008-10-08T00:00:00
-draft = false
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["laurent-u-perrinet"]
-
-tags = ["events", "computational-neuroscience"]
-summary = "Computational Neuroscience: From Representations to Behavior, the Second NeuroComp Marseille Workshop."
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects = []
-
-[image]
-  placement = 2
-  focal_point = "Center"
-  preview_only = false
-+++
-
-
+---
+authors:
+- laurent-u-perrinet
+date: 2008-10-08 00:00:00
+draft: false
+image:
+  focal_point: Center
+  placement: 2
+  preview_only: false
+lastmod: 2008-10-08 00:00:00
+projects: []
+subtitle: Second NeuroComp Marseille Workshop
+summary: 'Computational Neuroscience: From Representations to Behavior, the Second
+  NeuroComp Marseille Workshop.'
+tags:
+- events
+- computational-neuroscience
+title: 'Computational Neuroscience: From Representations to Behavior'
+---
 Computational Neuroscience: From Representations to Behavior
 ============================================================
 

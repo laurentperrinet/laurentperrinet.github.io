@@ -1,11 +1,8 @@
-+++
-title = "Slides"
-
-[slides]
-# Choose a theme from https://github.com/hakimel/reveal.js#theming
-theme = "black"
-+++
-
+---
+slides:
+  theme: black
+title: Slides
+---
 # Welcome to Slides
 
 [Academic](https://sourcethemes.com/academic/)

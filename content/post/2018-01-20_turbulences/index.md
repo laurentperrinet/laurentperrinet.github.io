@@ -1,29 +1,21 @@
-+++
-title = "Turbulences"
-subtitle = "Installation in situ, 2018; Collection of the François Schneider Foundation, Wattwiller I 2018"
-
-date = 2016-04-20T00:00:00
-lastmod = 2018-01-13T00:00:00
-draft = false
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["etienne-rey"]
-
-tags = ["art-science"]
-summary = "L’installation Turbulences explore l’émergence de caustiques, phénomènes caractéristiques de la relation entre l’eau, la lumière et l’air. Le mouvement y perturbe un état optique stable. La turbulence des plis lumineux donne l’illusion d’un corps flottant."
-
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects = ["art-science"]
-
-+++
-
-
+---
+authors:
+- etienne-rey
+date: 2016-04-20 00:00:00
+draft: false
+lastmod: 2018-01-13 00:00:00
+projects:
+- art-science
+subtitle: Installation in situ, 2018; Collection of the François Schneider Foundation,
+  Wattwiller I 2018
+summary: L’installation Turbulences explore l’émergence de caustiques, phénomènes
+  caractéristiques de la relation entre l’eau, la lumière et l’air. Le mouvement y
+  perturbe un état optique stable. La turbulence des plis lumineux donne l’illusion
+  d’un corps flottant.
+tags:
+- art-science
+title: Turbulences
+---
 # Turbulences
 
 {{< vimeo 303255760 >}}

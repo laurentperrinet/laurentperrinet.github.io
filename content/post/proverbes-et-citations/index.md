@@ -1,16 +1,12 @@
-+++
-title = "Proverbes Et Citations"
-summary = "Proverbes et citations glanés au cours des années"
-
-date = 2016-04-20T00:00:00
-lastmod = 2018-01-13T00:00:00
-draft = false
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["laurent-u-perrinet"]
-
-+++
-
+---
+authors:
+- laurent-u-perrinet
+date: 2016-04-20 00:00:00
+draft: false
+lastmod: 2018-01-13 00:00:00
+summary: Proverbes et citations glanés au cours des années
+title: Proverbes Et Citations
+---
 * "C'est ce que je fais qui m'apprend ce que je cherche." Pierre Soulages
 
 * “**Harry Potter:** Is this real? Or has this been happening inside my head?  **Professor Albus Dumbledore:** Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?” ― (J.K. Rowling, [Harry Potter and the Deathly Hallows](https://www.goodreads.com/work/quotes/2963218))

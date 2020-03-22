@@ -1,16 +1,21 @@
-+++
-title = "Tutorial: Sparse optimization in neural computations"
-date = 2017-01-19T10:45:00
-authors = [ "Laurent U Perrinet",]
-featured = false
-publication = "*LACONEU2017:  4th Latin-American Summer School in Computational Neuroscience*"
-url_pdf = "https://laurentperrinet.github.io/talk/2017-01-19-laconeu/"
-event = "LACONEU 2017: 4th Latin-American Summer School in Computational Neuroscience"
-event_url = "http://www.laconeu.cl"
-location = "Valparaiso (Chile)"
-tags = [ "Biologically Inspired Computer vision",]
-url_slides = "https://laurentperrinet.github.io/sciblog/files/2017-01-19_LACONEU.html"
-projects = [ "open-science",]
-publishDate = "2017-01-01"
-grants = [ "anr-trajectory",]
-+++
+---
+authors:
+- Laurent U Perrinet
+date: 2017-01-19 10:45:00
+event: 'LACONEU 2017: 4th Latin-American Summer School in Computational Neuroscience'
+event_url: http://www.laconeu.cl
+featured: false
+grants:
+- anr-trajectory
+location: Valparaiso (Chile)
+projects:
+- open-science
+publication: '*LACONEU2017:  4th Latin-American Summer School in Computational Neuroscience*'
+publishDate: '2017-01-01'
+tags:
+- Biologically Inspired Computer vision
+title: 'Tutorial: Sparse optimization in neural computations'
+url_pdf: https://laurentperrinet.github.io/talk/2017-01-19-laconeu/
+url_slides: https://laurentperrinet.github.io/sciblog/files/2017-01-19_LACONEU.html
+---
+

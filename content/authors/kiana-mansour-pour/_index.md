@@ -1,32 +1,18 @@
-+++
-# Display name
-name = "Kiana Mansour-Pour"
-
-# Username (this should match the folder name)
-authors = ["kiana-mansour-pour"]
-
-# Is this the primary user of the site?
-superuser = false
-
-# Role/position
-role = "Phd in Computational Neuroscience"
-
-# Short bio (displayed in user profile at end of posts)
-bio = "During my PhD, I focused on smooth eye movements."
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Alumni"]
-
-# List qualifications (such as academic degrees)
-
-[[education.courses]]
-  course = "Phd in Computational Neuroscience"
-  institution = "Aix-Marseille Université"
-  year = 2019
-
-+++
-
+---
+authors:
+- kiana-mansour-pour
+bio: During my PhD, I focused on smooth eye movements.
+education:
+  courses:
+  - course: Phd in Computational Neuroscience
+    institution: Aix-Marseille Université
+    year: 2019
+name: Kiana Mansour-Pour
+role: Phd in Computational Neuroscience
+superuser: false
+user_groups:
+- Alumni
+---
 # Predicting and selecting sensory events: inference for smooth eye movements (PhD: 2015 - 2019)
 
 * Funding: This position is funded by the Marie Skodowska-Curie program of the H2020 European Union program, as part of the [Innovative Training Network PACE (Perception and Action in Complex Environments)](https://laurentperrinet.github.io/project/pace-itn/).

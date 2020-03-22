@@ -1,12 +1,16 @@
-+++
-title = "Efficient Source Detection Using Integrate-and-Fire Neurons"
-date = 2005-01-01
-authors = [ "Laurent U Perrinet",]
-publication_types = [ "1",]
-featured = false
-publication = "*International Conference on Artificial Neural Networks*"
-tags = [ "spike",]
-url_pdf = "http://dx.doi.org/10.1007/11550822_27"
-doi = "10.1007/11550822_27"
-publishDate = "2019-09-17"
-+++
+---
+authors:
+- Laurent U Perrinet
+date: 2005-01-01
+doi: 10.1007/11550822_27
+featured: false
+publication: '*International Conference on Artificial Neural Networks*'
+publication_types:
+- '1'
+publishDate: '2019-09-17'
+tags:
+- spike
+title: Efficient Source Detection Using Integrate-and-Fire Neurons
+url_pdf: http://dx.doi.org/10.1007/11550822_27
+---
+

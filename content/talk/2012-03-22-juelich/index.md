@@ -1,15 +1,21 @@
-+++
-title = "MotionClouds: Model-based stimulus synthesis of natural-like random textures for the study of motion perception"
-date = 2012-03-22T14:00:00
-authors = [ "Laurent U Perrinet",]
-featured = false
-publication = "*2nd BrainScaleS Plenary Meeting - Friday, March 22nd, 2012*"
-url_pdf = "https://laurentperrinet.github.io/talk/2012-03-22-juelich/"
-event = "Second BrainScaleS plenary Meeting - WP4"
-projects = [ "open-science",]
-location = "Forschungszentrum Jülich"
-url_slides = "perrinet12wp4_handout.pdf"
-publishDate = "2012-01-01"
-grants = [ "brain-scales",]
-tags = [ "motion-clouds",]
-+++
+---
+authors:
+- Laurent U Perrinet
+date: 2012-03-22 14:00:00
+event: Second BrainScaleS plenary Meeting - WP4
+featured: false
+grants:
+- brain-scales
+location: Forschungszentrum Jülich
+projects:
+- open-science
+publication: '*2nd BrainScaleS Plenary Meeting - Friday, March 22nd, 2012*'
+publishDate: '2012-01-01'
+tags:
+- motion-clouds
+title: 'MotionClouds: Model-based stimulus synthesis of natural-like random textures
+  for the study of motion perception'
+url_pdf: https://laurentperrinet.github.io/talk/2012-03-22-juelich/
+url_slides: perrinet12wp4_handout.pdf
+---
+

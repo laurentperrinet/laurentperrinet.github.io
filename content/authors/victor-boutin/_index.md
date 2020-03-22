@@ -1,39 +1,24 @@
-+++
-# Display name
-name = "Victor Boutin"
-
-# Username (this should match the folder name)
-authors = ["victor-boutin"]
-
-# Is this the primary user of the site?
-superuser = false
-
-# Role/position
-role = "Phd candidate in Computational Neuroscience"
-
-# Short bio (displayed in user profile at end of posts)
-bio = "During my PhD, I focused on predictive coding in a bio-inspired neural network."
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Alumni"]
-
-tags = [ "doc-2-amu"]
-
-# List qualifications (such as academic degrees)
-
-[[education.courses]]
-  course = "Phd in Computational Neuroscience"
-  institution = "Aix-Marseille Université"
-  year = 2014
-
-[[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/VictorBoutin"
-
-+++
-
+---
+authors:
+- victor-boutin
+bio: During my PhD, I focused on predictive coding in a bio-inspired neural network.
+education:
+  courses:
+  - course: Phd in Computational Neuroscience
+    institution: Aix-Marseille Université
+    year: 2014
+name: Victor Boutin
+role: Phd candidate in Computational Neuroscience
+social:
+- icon: github
+  icon_pack: fab
+  link: https://github.com/VictorBoutin
+superuser: false
+tags:
+- doc-2-amu
+user_groups:
+- Alumni
+---
 # Controlling an aerial robot by human semaphore gestures using a bio-inspired neural network (PhD, 12/2016 - 02/2020)
 
 The brain is a complex machinery that is incredibly efficient and flexible. Thanks to efficient training processes, it tackles a high diversity of tasks with a high robustness. In contrast, states-of-the-art machine learning algorithms exhibit great performances, but are also highly task-specialized. Consequently, neuroscience is potentially a great source of inspiration to design more efficient artificial intelligence algorithms.

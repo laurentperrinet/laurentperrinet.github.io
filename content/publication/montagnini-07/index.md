@@ -1,15 +1,35 @@
-+++
-title = "Bayesian modeling of dynamic motion integration"
-date = 2007-01-04
-authors = [ "Anna Montagnini", "Pascal Mamassian", "Laurent U Perrinet", "Eric Castet", "Guillaume S Masson",]
-publication_types = [ "2",]
-abstract = "The quality of the representation of an object's motion is limited by the noise in the sensory input as well as by an intrinsic ambiguity due to the spatial limi- tation of the visual motion analyzers (aperture prob- lem). Perceptual and oculomotor data demonstrate that motion processing of extended ob jects is initially dominated by the local 1D motion cues orthogonal to the ob ject's edges, whereas 2D information takes pro- gressively over and leads to the final correct represen- tation of global motion. A Bayesian framework ac- counting for the sensory noise and general expectancies for ob ject velocities has proven successful in explaining several experimental findings concerning early motion processing [1, 2, 3]. However, a complete functional model, encompassing the dynamical evolution of ob- ject motion perception is still lacking. Here we outline several experimental observations concerning human smooth pursuit of moving ob jects and more particu- larly the time course of its initiation phase. In addi- tion, we propose a recursive extension of the Bayesian model, motivated and constrained by our oculomotor data, to describe the dynamical integration of 1D and 2D motion information."
-featured = false
-publication = "*Neuro-Computation: From Sensorimotor Integration to Computational Frameworks*"
-tags = [ "Bayesian model",]
-url_pdf = "http://dx.doi.org/10.1016/j.jphysparis.2007.10.013"
-doi = "10.1016/j.jphysparis.2007.10.013"
-publishDate = "2019-09-17"
-+++
-
+---
+abstract: The quality of the representation of an object's motion is limited by the
+  noise in the sensory input as well as by an intrinsic ambiguity due to the spatial
+  limi- tation of the visual motion analyzers (aperture prob- lem). Perceptual and
+  oculomotor data demonstrate that motion processing of extended ob jects is initially
+  dominated by the local 1D motion cues orthogonal to the ob ject's edges, whereas
+  2D information takes pro- gressively over and leads to the final correct represen-
+  tation of global motion. A Bayesian framework ac- counting for the sensory noise
+  and general expectancies for ob ject velocities has proven successful in explaining
+  several experimental findings concerning early motion processing [1, 2, 3]. However,
+  a complete functional model, encompassing the dynamical evolution of ob- ject motion
+  perception is still lacking. Here we outline several experimental observations concerning
+  human smooth pursuit of moving ob jects and more particu- larly the time course
+  of its initiation phase. In addi- tion, we propose a recursive extension of the
+  Bayesian model, motivated and constrained by our oculomotor data, to describe the
+  dynamical integration of 1D and 2D motion information.
+authors:
+- Anna Montagnini
+- Pascal Mamassian
+- Laurent U Perrinet
+- Eric Castet
+- Guillaume S Masson
+date: 2007-01-04
+doi: 10.1016/j.jphysparis.2007.10.013
+featured: false
+publication: '*Neuro-Computation: From Sensorimotor Integration to Computational Frameworks*'
+publication_types:
+- '2'
+publishDate: '2019-09-17'
+tags:
+- Bayesian model
+title: Bayesian modeling of dynamic motion integration
+url_pdf: http://dx.doi.org/10.1016/j.jphysparis.2007.10.013
+---
 ![header](montagnini-07.png)

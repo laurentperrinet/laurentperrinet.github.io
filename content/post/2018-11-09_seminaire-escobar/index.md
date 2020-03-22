@@ -1,31 +1,22 @@
-+++
-title = "2018-11-09 : Retinal computations"
-subtitle = "A seminar by [María José Escobar, Ph.D.](http://profesores.elo.utfsm.cl/~mjescobar/) at the Institute of Neurosciences Timone in Marseille."
-
-date = 2018-11-09T00:00:00
-lastmod = 2018-11-09T00:00:00
-draft = false
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["laurent-u-perrinet"]
-
-tags = ["events"]
-summary = "A seminar by [María José Escobar, Ph.D.](http://profesores.elo.utfsm.cl/~mjescobar/) at the Institute of Neurosciences Timone in Marseille."
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects = []
-
-[image]
-  placement = 2
-  focal_point = "Center"
-  preview_only = false
-+++
-
+---
+authors:
+- laurent-u-perrinet
+date: 2018-11-09 00:00:00
+draft: false
+image:
+  focal_point: Center
+  placement: 2
+  preview_only: false
+lastmod: 2018-11-09 00:00:00
+projects: []
+subtitle: A seminar by [María José Escobar, Ph.D.](http://profesores.elo.utfsm.cl/~mjescobar/)
+  at the Institute of Neurosciences Timone in Marseille.
+summary: A seminar by [María José Escobar, Ph.D.](http://profesores.elo.utfsm.cl/~mjescobar/)
+  at the Institute of Neurosciences Timone in Marseille.
+tags:
+- events
+title: '2018-11-09 : Retinal computations'
+---
 # 2018-11-09 : "Retinal computations" by Maria José Escobar (Chile)
 
 During a seminar at the Institute of Neurosciences Timone in Marseille, [María José Escobar, Ph.D.](http://profesores.elo.utfsm.cl/~mjescobar/) :

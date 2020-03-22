@@ -1,14 +1,25 @@
-+++
-title = "Operant reinforcement versus reward expectancy: effects on anticipatory eye movements"
-date = 2016-09-04
-authors = [ "Jean-Bernard Damasse", "Laurent U Perrinet", "Jeremie Jozefowiez", "Laurent Madelain", "Anna Montagnini",]
-publication_types = [ "1",]
-featured = false
-publication = "*Proceedings of VSS*"
-url_pdf = "http://jov.arvojournals.org/article.aspx?doi=10.1167/16.12.1356"
-doi = "10.1167/16.12.1356"
-tags = [ "eye movements", "Smooth pursuit eye movement",]
-projects = []
-publishDate = "2019-09-17"
-grants = [ "anr-rem",]
-+++
+---
+authors:
+- Jean-Bernard Damasse
+- Laurent U Perrinet
+- Jeremie Jozefowiez
+- Laurent Madelain
+- Anna Montagnini
+date: 2016-09-04
+doi: 10.1167/16.12.1356
+featured: false
+grants:
+- anr-rem
+projects: []
+publication: '*Proceedings of VSS*'
+publication_types:
+- '1'
+publishDate: '2019-09-17'
+tags:
+- eye movements
+- Smooth pursuit eye movement
+title: 'Operant reinforcement versus reward expectancy: effects on anticipatory eye
+  movements'
+url_pdf: http://jov.arvojournals.org/article.aspx?doi=10.1167/16.12.1356
+---
+

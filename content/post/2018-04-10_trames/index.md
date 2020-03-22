@@ -1,28 +1,18 @@
-+++
-title = "TRAMES"
-subtitle = "Installation à la Fondation Vasarely à Aix-en-Provence."
-
-
-date = 2016-04-20T00:00:00
-lastmod = 2018-01-13T00:00:00
-draft = false
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["laurent-u-perrinet"]
-
-tags = ["art-science"]
-summary = "À la Fondation Vasarely à Aix-en-Provence, Etienne Rey a choisi d’installer dans la salle des Intégrations architectoniques un ballet visuel hypnotique."
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects = ["art-science"]
-
-+++
-
+---
+authors:
+- laurent-u-perrinet
+date: 2016-04-20 00:00:00
+draft: false
+lastmod: 2018-01-13 00:00:00
+projects:
+- art-science
+subtitle: Installation à la Fondation Vasarely à Aix-en-Provence.
+summary: À la Fondation Vasarely à Aix-en-Provence, Etienne Rey a choisi d’installer
+  dans la salle des Intégrations architectoniques un ballet visuel hypnotique.
+tags:
+- art-science
+title: TRAMES
+---
  # TRAMES
 
  {{< vimeo 191830797 >}}

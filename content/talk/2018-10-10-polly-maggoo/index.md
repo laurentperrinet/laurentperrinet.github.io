@@ -1,18 +1,20 @@
-+++
-title = "Intervention fête de la science 2018"
-date = 2018-10-10T18:30:00
-authors = [ "Laurent U Perrinet",]
-publication_types = [ "1",]
-featured = false
-publication = "**"
-projects = [ "tout-public",]
-event_url = "http://www.pollymaggoo.org/"
-location = "Marseille, France"
-event = "FÊTE DE LA SCIENCE 2018 : Alcazar / MERLAN"
-publishDate = "2018-01-01"
-url_pdf = "https://laurentperrinet.github.io/talk/2018-10-10-polly-maggoo/"
-+++
-
+---
+authors:
+- Laurent U Perrinet
+date: 2018-10-10 18:30:00
+event: 'FÊTE DE LA SCIENCE 2018 : Alcazar / MERLAN'
+event_url: http://www.pollymaggoo.org/
+featured: false
+location: Marseille, France
+projects:
+- tout-public
+publication: '**'
+publication_types:
+- '1'
+publishDate: '2018-01-01'
+title: Intervention fête de la science 2018
+url_pdf: https://laurentperrinet.github.io/talk/2018-10-10-polly-maggoo/
+---
 # FÊTE DE LA SCIENCE 2018 : Alcazar / MERLAN
 L'Association Polly Maggoo <http://www.pollymaggoo.org/> met en place
 tout le long de l’année, des actions de culture scientifique et

@@ -1,22 +1,13 @@
-+++
-# Project title.
-title = "BrainScaleS (2011/2014) "
-
-# Date this page was created.
-date = 2015-04-27T00:00:00
-
-# Project summary to display on homepage.
-summary = "BrainScaleS: Brain-inspired multiscale computation in neuromorphic hybrid systems (2011/2014)."
-
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant", "past-grant"]
-
-# Optional external URL for project (replaces project detail page).
-external_link = ""
-
-+++
-
+---
+date: 2015-04-27 00:00:00
+external_link: ''
+summary: 'BrainScaleS: Brain-inspired multiscale computation in neuromorphic hybrid
+  systems (2011/2014).'
+tags:
+- grant
+- past-grant
+title: 'BrainScaleS (2011/2014) '
+---
 List of publications that were funded by European Union's project Number FP7-269921, "[BrainScales](http://brainscales.kip.uni-heidelberg.de/)".
 
 See also:

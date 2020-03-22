@@ -1,32 +1,18 @@
-+++
-# Display name
-name = "Jean-Bernard Damasse"
-
-# Username (this should match the folder name)
-authors = ["jean-bernard-damasse"]
-
-# Is this the primary user of the site?
-superuser = false
-
-# Role/position
-role = "Phd in Computational Neuroscience"
-
-# Short bio (displayed in user profile at end of posts)
-bio = "During my PhD, I focused on Gaze orientation and reinforcemnet learning."
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Alumni"]
-
-# List qualifications (such as academic degrees)
-
-[[education.courses]]
-  course = "Phd in Computational Neuroscience"
-  institution = "Aix-Marseille Université"
-  year = 2017
-
-+++
-
+---
+authors:
+- jean-bernard-damasse
+bio: During my PhD, I focused on Gaze orientation and reinforcemnet learning.
+education:
+  courses:
+  - course: Phd in Computational Neuroscience
+    institution: Aix-Marseille Université
+    year: 2017
+name: Jean-Bernard Damasse
+role: Phd in Computational Neuroscience
+superuser: false
+user_groups:
+- Alumni
+---
 # Smooth pursuit eye movements and learning: Role of motion probability and reinforcement contingencies (PhD, 2014-2017)
 
 * Thesis director: Anna Montagnini

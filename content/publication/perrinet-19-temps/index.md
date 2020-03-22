@@ -1,22 +1,29 @@
-+++
-title = "Temps et cerveau : comment notre perception nous fait voyager dans le temps"
-date = 2019-01-01
-authors = [ "Laurent U Perrinet",]
-publication_types = [ "2",]
-abstract = "Lorsque nous observons un sablier, lorsque nous fixons notre regard sur les grains de sable qui tombent, nous avons le sentiment que le temps s'écoule de façon continue. Nous pensons qu'il en est ainsi depuis la naissance du monde, et que rien ne peut contredire cette vérité universelle. Pourtant, nos perceptions sensorielles et les neurones qui en sont à l'origine ont une toute autre manière de scander le temps. Une manière subjective et sensuelle, au sens propre du terme."
-featured = false
-publication = "*The Conversation*"
-url_pdf = "https://laurentperrinet.github.io/publication/perrinet-19-temps/"
-projects = [ "tout-public",]
-url_preprint = "https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567"
-publishDate = "2019-09-17"
-grants = [ "anr-horizontal-v1",]
-
-[image]
-caption = "Un pélican en vol photographié par Étienne-Jules Marey en 1882. https://commons.wikimedia.org/wiki/File:Marey_-_birds.jpg "
-focal_point = ""
-+++
-
+---
+abstract: Lorsque nous observons un sablier, lorsque nous fixons notre regard sur
+  les grains de sable qui tombent, nous avons le sentiment que le temps s'écoule de
+  façon continue. Nous pensons qu'il en est ainsi depuis la naissance du monde, et
+  que rien ne peut contredire cette vérité universelle. Pourtant, nos perceptions
+  sensorielles et les neurones qui en sont à l'origine ont une toute autre manière
+  de scander le temps. Une manière subjective et sensuelle, au sens propre du terme.
+authors:
+- Laurent U Perrinet
+date: 2019-01-01
+featured: false
+grants:
+- anr-horizontal-v1
+image:
+  caption: 'Un pélican en vol photographié par Étienne-Jules Marey en 1882. https://commons.wikimedia.org/wiki/File:Marey_-_birds.jpg '
+  focal_point: ''
+projects:
+- tout-public
+publication: '*The Conversation*'
+publication_types:
+- '2'
+publishDate: '2019-09-17'
+title: 'Temps et cerveau : comment notre perception nous fait voyager dans le temps'
+url_pdf: https://laurentperrinet.github.io/publication/perrinet-19-temps/
+url_preprint: https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567
+---
 * Un article dans [The Conversation](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567) dont l'objectif est d'être accessible et réutilisable (dans des cours d'introduction aux neurosciences, sciences cognitives, vision, réseaux de neurones, intelligence artificielle).
 * Le flash-lag effect original:
 {{< video src="flash_lag.mp4" autoplay="yes" >}}

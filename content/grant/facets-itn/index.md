@@ -1,20 +1,11 @@
-
-+++
-# Project title.
-title = "FACETS-ITN (2010/2013)"
-
-# Date this page was created.
-date = 2015-04-27T00:00:00
-
-# Project summary to display on homepage.
-summary = "FACETS-ITN: From Neuroscience to neuro-inspired computing (2010/2013)"
-
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant", "past-grant"]
-
-+++
-
+---
+date: 2015-04-27 00:00:00
+summary: 'FACETS-ITN: From Neuroscience to neuro-inspired computing (2010/2013)'
+tags:
+- grant
+- past-grant
+title: FACETS-ITN (2010/2013)
+---
 FACETS-ITN: From Neuroscience to neuro-inspired computing (2010/2013)
 ======================================================================
 

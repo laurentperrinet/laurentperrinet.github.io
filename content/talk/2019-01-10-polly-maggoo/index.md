@@ -1,19 +1,25 @@
-+++
-title = "Rencontre avec les collégiens marseillais"
-date = 2019-01-10T09:30:00
-authors = [ "Laurent U Perrinet",]
-publication_types = [ "1",]
-abstract = "Le jeudi 10 janvier 2019, je suis venu échanger au côté de Serge Dentin autour de films traitant du rapport fiction/réel, des illusion visuelles (\\\" Qu'est ce qu'une image? \\\"), des rapports d'échelles, de la perception, ... et qui sont projetés lors de la séance, avec les élèves de deux classes de 4ème. Une occasion aussi de parler du métier de chercheur."
-featured = false
-publication = "**"
-projects = [ "tout-public",]
-event_url = "http://www.pollymaggoo.org/"
-location = "Marseille, France"
-event = "Cinéma et sciences : rencontre avec les collégiens marseillais"
-publishDate = "2019-01-01"
-url_pdf = "https://laurentperrinet.github.io/talk/2019-01-10-polly-maggoo/"
-+++
-
+---
+abstract: Le jeudi 10 janvier 2019, je suis venu échanger au côté de Serge Dentin
+  autour de films traitant du rapport fiction/réel, des illusion visuelles (\" Qu'est
+  ce qu'une image? \"), des rapports d'échelles, de la perception, ... et qui sont
+  projetés lors de la séance, avec les élèves de deux classes de 4ème. Une occasion
+  aussi de parler du métier de chercheur.
+authors:
+- Laurent U Perrinet
+date: 2019-01-10 09:30:00
+event: 'Cinéma et sciences : rencontre avec les collégiens marseillais'
+event_url: http://www.pollymaggoo.org/
+featured: false
+location: Marseille, France
+projects:
+- tout-public
+publication: '**'
+publication_types:
+- '1'
+publishDate: '2019-01-01'
+title: Rencontre avec les collégiens marseillais
+url_pdf: https://laurentperrinet.github.io/talk/2019-01-10-polly-maggoo/
+---
 # Cinéma et sciences : rencontre avec les collégiens marseillais
 L'Association Polly Maggoo <http://www.pollymaggoo.org/> met en place
 tout le long de l’année, des actions de culture scientifique et

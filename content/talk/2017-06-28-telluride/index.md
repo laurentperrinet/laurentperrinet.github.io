@@ -1,13 +1,17 @@
-+++
-title = "Back to the present: dealing with delays in biological and neuromorphic systems"
-date = 2017-06-28T13:00:00
-authors = [ "Laurent U Perrinet",]
-featured = false
-publication = "*Workshop on Computational Neuroscience entitled \"New trends and challenges for 2030\"*"
-url_pdf = "https://laurentperrinet.github.io/talk/2017-06-28-telluride"
-event = "Workshop on Computational Neuroscience entitled \\\"Neuromorphic Event-based Compound Eyes and Vision\\\"\\\""
-event_url = "http://telluride.iniforum.ch/2017/workgroups/neuromorphic-event-based-compound-eyes-and-vision/"
-location = "Telluride, CO"
-url_slides = "https://laurentperrinet.github.io/sciblog/files/2017-06-28_Telluride.html"
-publishDate = "2017-01-01"
-+++
+---
+authors:
+- Laurent U Perrinet
+date: 2017-06-28 13:00:00
+event: Workshop on Computational Neuroscience entitled \"Neuromorphic Event-based
+  Compound Eyes and Vision\"\"
+event_url: http://telluride.iniforum.ch/2017/workgroups/neuromorphic-event-based-compound-eyes-and-vision/
+featured: false
+location: Telluride, CO
+publication: '*Workshop on Computational Neuroscience entitled "New trends and challenges
+  for 2030"*'
+publishDate: '2017-01-01'
+title: 'Back to the present: dealing with delays in biological and neuromorphic systems'
+url_pdf: https://laurentperrinet.github.io/talk/2017-06-28-telluride
+url_slides: https://laurentperrinet.github.io/sciblog/files/2017-06-28_Telluride.html
+---
+

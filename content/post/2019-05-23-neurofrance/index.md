@@ -1,41 +1,22 @@
-+++
-title = "2019-05-20: Symposium on Active Inference at NeuroFrance 2019"
-summary = "We organized a Symposium at NeuroFrance 2019 entitled *Active Inference: Bridging theoretical and experimental neurosciences*. This is part of a series of theoretical neuroscience symposia organized in this international conference from the french Neursocience Society."
-
-date = 2019-05-20T00:00:00
-draft = false
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["laurent-u-perrinet"]
-
-# Is this a featured post? (true/false)
-featured = true
-
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["events", "probalistic-inference"]
-categories = []
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-# projects = ["internal-project"]
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-[image]
-  # Caption (optional)
-  caption = ""
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
-+++
-
-
+---
+authors:
+- laurent-u-perrinet
+categories: []
+date: 2019-05-20 00:00:00
+draft: false
+featured: true
+image:
+  caption: ''
+  focal_point: ''
+summary: 'We organized a Symposium at NeuroFrance 2019 entitled *Active Inference:
+  Bridging theoretical and experimental neurosciences*. This is part of a series of
+  theoretical neuroscience symposia organized in this international conference from
+  the french Neursocience Society.'
+tags:
+- events
+- probalistic-inference
+title: '2019-05-20: Symposium on Active Inference at NeuroFrance 2019'
+---
 ## Active Inference: Bridging theoretical and experimental neurosciences. / Inference Active: Un pont entre neurosciences théoriques et expérimentales.
 
 [![Site NeuroFrance](https://neuro-marseille.org/wp-content/uploads/2018/07/capture-decran-2018-07-06-a-190423.png)](https://www.neurosciences.asso.fr/V2/colloques/SN19/index_en.php)

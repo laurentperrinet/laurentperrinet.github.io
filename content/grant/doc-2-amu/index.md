@@ -1,20 +1,11 @@
-+++
-# Project title.
-title = "DOC2AMU (2016/2019)"
-
-# Date this page was created.
-date = 2016-04-27T00:00:00
-
-# Project summary to display on homepage.
-summary = "DOC2AMU: An Excellence Fellowship (2016/2019)."
-
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["grant", "past-grant"]
-
-+++
-
-
+---
+date: 2016-04-27 00:00:00
+summary: 'DOC2AMU: An Excellence Fellowship (2016/2019).'
+tags:
+- grant
+- past-grant
+title: DOC2AMU (2016/2019)
+---
 [DOC2AMU](https://doc2amu.univ-amu.fr/en) is co-funded by the prestigious Marie Skłodowska-Curie COFUND action within the H2020 Research and Innovation programme of the European Union and by the Regional Council of Provence-Alpes-Côte d’Azur, with a contribution from A*MIDEX Foundation.
 
 Within this programme, the PhD fellows will sign a three-year work contract with one of the 12 Doctoral Schools of AMU. Numerous advantages

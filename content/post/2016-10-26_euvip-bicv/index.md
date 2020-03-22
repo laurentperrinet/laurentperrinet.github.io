@@ -1,31 +1,22 @@
-+++
-title = "2016-10-26 : EUVIP BICV"
-subtitle = "EUVIP Session 7: Biologically Inspired Computer Vision (Special Session)."
-
-date = 2016-10-26T00:00:00
-lastmod = 2016-10-26T00:00:00
-draft = false
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["laurent-u-perrinet"]
-
-tags = ["events", "Biologically Inspired Computer Vision"]
-summary = "EUVIP Session 7: Biologically Inspired Computer Vision (Special Session)."
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects = ["bicv"]
-
-[image]
-  placement = 2
-  focal_point = "Center"
-  preview_only = false
-+++
-
+---
+authors:
+- laurent-u-perrinet
+date: 2016-10-26 00:00:00
+draft: false
+image:
+  focal_point: Center
+  placement: 2
+  preview_only: false
+lastmod: 2016-10-26 00:00:00
+projects:
+- bicv
+subtitle: 'EUVIP Session 7: Biologically Inspired Computer Vision (Special Session).'
+summary: 'EUVIP Session 7: Biologically Inspired Computer Vision (Special Session).'
+tags:
+- events
+- Biologically Inspired Computer Vision
+title: '2016-10-26 : EUVIP BICV'
+---
 # 2016-10-26 : EUVIP Special Session on *Biologically Inspired Computer Vision*
 
 ## description of the session
