@@ -273,7 +273,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
             if not len(metadata) == 3 : print('Z'*150, '  len(metadata)', len(metadata))
 
             # clean-up: strip double lines
-            metadata[2] = metadata[2].replace('\n\n', '\n')
+            # metadata[2] = metadata[2].replace('\n\n', '\n')
 
             # Save Markdown file.
             try:
