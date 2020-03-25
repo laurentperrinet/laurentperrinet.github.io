@@ -21,7 +21,7 @@ To enable the dissemination of the knowledge that is produced in our lab, we sha
 
 # bayesianchangepoint
 
-An implementation of [Adams &amp; MacKay 2007 "Bayesian Online Changepoint Detection"](http://arxiv.org/abs/0710.3742) in Python.
+An implementation of [Adams &amp; MacKay 2007 "Bayesian Online Changepoint Detection"](http://arxiv.org/abs/0710.3742) for binary inputs in Python.
 
 * [Source code](https://github.com/laurentperrinet/bayesianchangepoint)
 
