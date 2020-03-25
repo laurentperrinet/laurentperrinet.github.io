@@ -2,7 +2,7 @@
 authors:
 - Laurent U Perrinet
 - Emmanuel Daucé
-date: 2008-10-22
+date: 2008-10-25
 featured: false
 publication: '*Proceedings of NeuroComp08, Marseille*'
 publication_types:

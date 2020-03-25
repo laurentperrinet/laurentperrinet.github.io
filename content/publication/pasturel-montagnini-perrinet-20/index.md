@@ -22,7 +22,7 @@ featured: false
 grants:
 - pace-itn
 projects: []
-publication: '*Submitted*'
+publication: '*PLoS Computational Biology*'
 publication_types:
 - '2'
 publishDate: '2019-09-17'
@@ -30,10 +30,11 @@ tags:
 - motion anticipation
 title: Humans adapt their anticipatory eye movements to the volatility of visual motion
   properties
-url_code: https://github.com/laurentperrinet/PasturelMontagniniPerrinet2019
+url_code: https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020
 url_pdf: https://www.biorxiv.org/content/10.1101/784116v2
 url_preprint: https://www.biorxiv.org/content/10.1101/784116v2
 ---
+
 
 
 

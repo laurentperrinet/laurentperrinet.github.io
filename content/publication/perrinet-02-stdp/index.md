@@ -12,7 +12,7 @@ abstract: It is generally assumed that neurons in the central nervous system com
 authors:
 - Laurent U Perrinet
 - Manuel Samuelides
-date: 2002-06-22
+date: 2002-06-25
 doi: 10.1016/S0925-2312(02)00374-0
 featured: false
 publication: '*Neurocomputing*'
@@ -28,6 +28,7 @@ tags:
 title: Coherence detection in a spiking neuron via Hebbian learning
 url_pdf: http://dx.doi.org/10.1016/S0925-2312(02)00374-0
 ---
+
 
 
 

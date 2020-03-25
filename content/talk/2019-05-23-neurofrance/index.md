@@ -40,6 +40,7 @@ url_slides: https://invibe.github.io/2019-05-23_Neurofrance
 
 
 
+
 * This is part of the [Active Inference symposium]({{< ref "/post/2019-05-23-neurofrance/index.md" >}}) @ [NeuroFrance](https://www.neurosciences.asso.fr/V2/colloques/SN19/) SYMPOSIUM, Room 7
 23.05.2019, 11:00 -- 13:00
 * in french: Principes et psychophysique de l´Inférence Active dans l'estimation d'un biais dynamique et volatile de probabilité
