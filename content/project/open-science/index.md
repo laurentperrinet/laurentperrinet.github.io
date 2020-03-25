@@ -44,7 +44,7 @@ This library collects different Image Processing tools for use with the  [LogGab
 
 This library collects different Image Processing tools for use with the  [LogGabor](https://pythonhosted.org/LogGabor/) and  [SparseEdges](https://pythonhosted.org/SparseEdges/) libraries.
 
-* [Web-site]((https://pythonhosted.org/LogGabor)
+* [Web-site](https://pythonhosted.org/LogGabor)
 * [Source code](https://github.com/bicv/LogGabor/)
 
 ## SparseEdges: sparse coding of natural images
