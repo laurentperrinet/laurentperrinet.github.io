@@ -51,6 +51,7 @@ url_pdf: https://laurentperrinet.github.io/publication/kaplan-khoei-14
 
 
 
+
 * Based on [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})
 * See a followup in [Khoei et al, 2013]({{< ref "/publication/khoei-13-jpp" >}})
 {{< figure src="https://www.frontiersin.org/files/Articles/53894/fncom-07-00112-r2/image_m/fncom-07-00112-g003.jpg" title="Figure 4: *Rasterplot of input and output spikes.* The raster plot from excitatory neurons is ordered according to their position. Each input spike is a blue dot and each output spike is a black dot. While input is scattered during blanking periods (Figure 1), the network output shows shows some tuned activity during the blank (compare with the activity before visual stimulation). To decode such patterns of activity we used a maximum-likelihood estimation technique based on the tuning curve of the neurons." >}}
