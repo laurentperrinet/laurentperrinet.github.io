@@ -2,7 +2,7 @@
 
 # see https://gohugo.io/hosting-and-deployment/hosting-on-github/
 
-echo "\033[0;32mCommit changes to source repo to GitHub...\033[0m"
+echo -e "\033[0;32mCommit changes to source repo to GitHub...\033[0m"
 
 git add .
 
@@ -15,7 +15,7 @@ git commit -m "$msg"
 git push origin master
 
 
-echo "\033[0;32mDeploying updates to GitHub pages repo...\033[0m"
+echo -e "\033[0;32mDeploying updates to GitHub pages repo...\033[0m"
 
 # Build the project.
 hugo -t academic
