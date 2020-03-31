@@ -13,7 +13,7 @@ if [ ! -d .git ]; then
 fi
 
 function view_update () {
-  echo -e "Checking for updates...\n"
+  echo "Checking for updates...\n"
   cd themes/academic
   git fetch
   git log --pretty=oneline --abbrev-commit --decorate HEAD..origin/master
@@ -42,7 +42,7 @@ function do_update () {
 
 # Display currently installed version (although could be between versions if updated to master rather than tag)
 version=$(sed -n 's/^version = "//p' themes/academic/data/academic.toml)
-echo -e "Source Themes Academic v$version\n"
+echo "Source Themes Academic v$version\n"
 
 # Display available updates
 view_update
