@@ -1,5 +1,5 @@
 ---
-abstract: $<$p$>$What are the neural mechanisms underlying motion integration of translating
+abstract: What are the neural mechanisms underlying motion integration of translating
   objects? Visual motion integration is generally conceived of as a feedforward, hierarchical,
   information processing. However, feedforward models fail to account for many contextual
   effects revealed using natural moving stimuli. In particular, a translating object
@@ -11,7 +11,7 @@ abstract: $<$p$>$What are the neural mechanisms underlying motion integration of
   guided by a phenomenological model of propagation dynamics, we demonstrate that
   this anticipatory response arises from the interplay between horizontal and feedback
   networks driving V1 neurons well ahead of their feedforward inputs. This mechanism
-  could subtend several perceptual contextual effects observed with translating objects.$<$/p$>$
+  could subtend several perceptual contextual effects observed with translating objects.
 authors:
 - Giacomo Benvenuti
 - Sandrine Chemla
