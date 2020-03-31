@@ -3,7 +3,7 @@
 
 echo -e "\033[0;32mupdating metadata...\033[0m"
 
-msg = "updating metadata `date`"
+msg="updating metadata `date`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
