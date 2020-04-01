@@ -21,7 +21,7 @@ social:
   link: https://www.linkedin.com/in/wahiba-taouali/
 superuser: false
 user_groups:
-- Former Alumni
+- Former Students
 ---
 # Complex dynamics in recurrent cortical networks based on spatially realistic connectivities (Post-Doc, 2008 / 2010)
 

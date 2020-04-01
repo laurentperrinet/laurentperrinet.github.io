@@ -21,7 +21,7 @@ social:
   link: https://www.linkedin.com/in/hugoladret/
 superuser: false
 user_groups:
-- Alumni
+- Current Students
 ---
 # PhD Student (2019-09 / 2013-11): A multiscale cortical model to account for orientation selectivity in natural-like stimulations
 

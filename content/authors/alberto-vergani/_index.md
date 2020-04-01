@@ -18,7 +18,7 @@ superuser: false
 tags:
 - phd-icn
 user_groups:
-- Alumni
+- Current Students
 ---
 
 # Detailed description: Visual computations using Spatio-temporal Diffusion Kernels and Traveling Waves

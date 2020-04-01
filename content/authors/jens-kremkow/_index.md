@@ -12,7 +12,7 @@ name: Jens Kremkow
 role: Phd in Computational Neuroscience
 superuser: false
 user_groups:
-- Former Alumni
+- Former Students
 ---
 # Correlating Excitation and Inhibition in Visual Cortical Circuits: Functional Consequences and Biological Feasibility  (PhD, 2006-01 / 2009-05)
 

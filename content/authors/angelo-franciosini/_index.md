@@ -26,7 +26,7 @@ superuser: false
 tags:
 - phd-icn
 user_groups:
-- Alumni
+- Current Students
 ---
 # Trajectories in natural images and the sensory processing of contours (PhD position, 2017 / 2021)
 

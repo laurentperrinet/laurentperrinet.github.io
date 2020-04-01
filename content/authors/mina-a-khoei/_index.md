@@ -21,7 +21,7 @@ social:
   link: https://www.linkedin.com/in/mina-a-khoei-58673526
 superuser: false
 user_groups:
-- Former Alumni
+- Former Students
 ---
 # Emerging properties in a neural field model implementing probabilistic prediction (PhD, 2011-2014)
 

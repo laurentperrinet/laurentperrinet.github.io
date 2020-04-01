@@ -24,7 +24,7 @@ social:
   link: https://github.com/taoualiw
 superuser: false
 user_groups:
-- Former Alumni
+- Former Students
 ---
 # Motion Integration By V1 Population  (Post-Doc, 2013-03 / 2015-01)
 

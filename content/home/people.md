@@ -7,8 +7,8 @@ content:
   user_groups:
   - Mentors
   - Collaborators
-  - Alumni
-  - Former Alumni
+  - Current Students
+  - Former Students
 design:
   background: {}
   show_interests: true
