@@ -8,6 +8,7 @@ content:
   - Mentors
   - Collaborators
   - Alumni
+  - Former Alumni
 design:
   background: {}
   show_interests: true
@@ -18,4 +19,3 @@ title: This would not be possible without...
 weight: 27
 widget: people
 ---
-

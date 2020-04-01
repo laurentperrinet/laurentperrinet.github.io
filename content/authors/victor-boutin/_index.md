@@ -17,7 +17,7 @@ superuser: false
 tags:
 - doc-2-amu
 user_groups:
-- Alumni
+- Former Alumni
 ---
 # Controlling an aerial robot by human semaphore gestures using a bio-inspired neural network (PhD, 12/2016 - 02/2020)
 

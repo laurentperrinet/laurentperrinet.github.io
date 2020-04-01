@@ -11,7 +11,7 @@ name: Kiana Mansour-Pour
 role: Phd in Computational Neuroscience
 superuser: false
 user_groups:
-- Alumni
+- Former Alumni
 ---
 # Predicting and selecting sensory events: inference for smooth eye movements (PhD: 2015 - 2019)
 
