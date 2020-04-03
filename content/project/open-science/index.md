@@ -24,6 +24,7 @@ To enable the dissemination of the knowledge that is produced in our lab, we sha
 An implementation of [Adams &amp; MacKay 2007 "Bayesian Online Changepoint Detection"](http://arxiv.org/abs/0710.3742) for binary inputs in Python.
 
 * [Source code](https://github.com/laurentperrinet/bayesianchangepoint)
+* See the final publication @ [Pasturel, Montagnini and Perrinet (2020)]({{< ref "/publication/pasturel-montagnini-perrinet-20/index.md" >}})
 
 # LeCheapEyeTracker
 
