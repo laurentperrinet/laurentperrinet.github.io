@@ -4,7 +4,7 @@ authors:
 - Emmanuel Daucé
 - Laurent U Perrinet
 - Manuel Samuelides
-date: 2007-03-31
+date: 2007-03-03
 featured: false
 publication: '*Topics in Dynamical Neural Networks: From Large Scale Neural Networks
   to Motor Control and Vision*'

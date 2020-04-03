@@ -9,6 +9,7 @@ grants:
 - anr-horizontal-v1
 location: Valparaiso (Chile)
 projects:
+- course
 - open-science
 publication: '*LACONEU 2019: 5th Latin-American Summer School in Computational Neuroscience,
   Valparaiso (Chile)*'

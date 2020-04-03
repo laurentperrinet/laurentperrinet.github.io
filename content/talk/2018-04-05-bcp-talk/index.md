@@ -21,6 +21,7 @@ url_pdf: https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/
 url_slides: https://laurentperrinet.github.io/2018-04-05_BCP_talk/
 ---
 
+
 * See the final publication @ [Pasturel, Montagnini and Perrinet (2020)]({{< ref "/publication/pasturel-montagnini-perrinet-20/index.md" >}})
 * previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})
 * previous talk @ [INVIBE FEST, Paris]({{< ref "/talk/2018-02-01-bcp-invibe-fest/index.md" >}})

@@ -19,7 +19,8 @@ featured: false
 grants:
 - anr-horizontal-v1
 location: Marseille (France)
-projects: []
+projects:
+- course
 publication: '*Licence Sciences & Humanité*'
 publication_types:
 - '1'
