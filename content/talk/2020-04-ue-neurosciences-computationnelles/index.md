@@ -13,20 +13,20 @@ abstract: Visual areas are essential in transforming the raw luminous signal int
   study in neurophysiology and psychophysics.
 authors:
 - Laurent U Perrinet
-date: 2019-04-03 16:00:00
-event: Licence Sciences et Humanité
+date: 2020-04-03 16:00:00
+event: Master Neurosciences et Sciences Cognitives
 featured: false
 grants:
 - anr-horizontal-v1
 location: Marseille (France)
 projects:
 - courses
-publication: '*Licence Sciences & Humanité*'
+publication: '*Master Neurosciences et Sciences Cognitives*'
 publication_types:
 - '1'
-publishDate: '2019-01-01'
+publishDate: 2020-04-03 11:10:57.326003+00:00
 title: 'From the retina to action: Understanding visual processing'
-url_code: https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/
-url_pdf: https://laurentperrinet.github.io/talk/2019-04-03-a-course-on-vision-and-modelization
-url_slides: https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization
+url_code: https://github.com/laurentperrinet/2020-04_UE-neurosciences-computationnelles
+url_pdf: https://laurentperrinet.github.io/talk/2020-04_UE-neurosciences-computationnelles
+url_slides: https://laurentperrinet.github.io/2020-04_UE-neurosciences-computationnelles
 ---

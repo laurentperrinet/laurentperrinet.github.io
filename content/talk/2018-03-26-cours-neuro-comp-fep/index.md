@@ -7,7 +7,7 @@ event_url: https://laurentperrinet.github.io/post/2018-03-26-cours-neuro-comp-fe
 featured: false
 location: INT, Marseille
 projects:
-- course
+- courses
 - open-science
 publication: '*PhD program in  Neuroscience, Marseille - March 27th, 2018*'
 publishDate: '2018-01-01'

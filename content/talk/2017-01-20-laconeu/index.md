@@ -9,7 +9,7 @@ grants:
 - anr-trajectory
 location: Valparaiso (Chile)
 projects:
-- course
+- courses
 - open-science
 publication: '*LACONEU2017:  4th Latin-American Summer School in Computational Neuroscience*'
 publishDate: '2017-01-01'
