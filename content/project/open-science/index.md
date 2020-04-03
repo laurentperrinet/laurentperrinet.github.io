@@ -3,7 +3,7 @@ date: 2016-04-27 00:00:00
 image:
   caption: Snapshot of a Motion Cloud
   focal_point: Smart
-summary: ''
+summary: 'To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences.'
 tags:
 - log-gabor
 - psychophysics
