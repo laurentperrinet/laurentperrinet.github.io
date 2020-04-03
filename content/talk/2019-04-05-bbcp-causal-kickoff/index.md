@@ -40,14 +40,9 @@ url_pdf: https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff
 url_slides: https://laurentperrinet.github.io/2019-04-05_BBCP_causal_kickoff
 ---
 
-
-
-
-
-
-
-
+* See the final publication @ [Pasturel, Montagnini and Perrinet (2020)]({{< ref "/publication/pasturel-montagnini-perrinet-20/index.md" >}})
 * previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})
 * previous talk @ [INVIBE FEST, Paris]({{< ref "/talk/2018-02-01-bcp-invibe-fest/index.md" >}})
 * previous talk @ [Brain workshop, Marseille]({{< ref "/talk/2018-04-05-bcp-talk/index.md" >}})
 * previous talk @ [LACONEU, Chile]({{< ref "/talk/2019-01-18-laconeu/index.md" >}})
+* next talk @ [NeuroFrance, Marseille]({{< ref "/talk/2019-05-23-neurofrance/index.md" >}})
