@@ -58,6 +58,7 @@ url_press: http://www.cnrs.fr/insb/recherche/parutions/articles2017/l-perrinet.h
 
 
 
+
 * [Press release](http://www.cnrs.fr/insb/recherche/parutions/articles2017/l-perrinet.html")
 # Visual illusions: their origin lies in prediction
 {{< figure src="flash_lag.gif" title="*Flash-Lag Effect.* When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash. Still, after several decades of debates, there is no consensus regarding the underlying mechanisms." >}}
