@@ -28,4 +28,10 @@ publishDate: '2019-09-17'
 title: 'Illusions et hallucinations visuelles : une porte sur la perception'
 url_pdf: https://laurentperrinet.github.io/publication/perrinet-19-illusions/
 url_preprint: https://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389
+url_video: https://www.youtube.com/watch?v=jJKTdlChefc
 ---
+
+
+* Ce texte est disponible dans cet article de [The Conversation](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567).
+
+* Voir la @ [présentation au NeuroStories]({{< ref "/post/2019-10-07_neurostories/index.md" >}})

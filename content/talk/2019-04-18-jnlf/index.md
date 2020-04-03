@@ -41,5 +41,10 @@ url_code: https://github.com/laurentperrinet/2019-04-18_JNLF/
 url_pdf: https://laurentperrinet.github.io/talk/2019-04-18-jnlf
 url_preprint: https://www.em-consulte.com/e-tap/1283936/ftafhrsrftfxjyjaaumj
 url_slides: https://laurentperrinet.github.io/2019-04-18_JNLF
-url_video: ''
+url_video: https://www.youtube.com/watch?v=jJKTdlChefc
 ---
+
+
+* Le texte de cette présentation est reprise dans cet article de [The Conversation](https://laurentperrinet.github.io/publication/perrinet-19-temps/) ([lien direct](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567)).
+
+* Voir la @ [présentation au NeuroStories]({{< ref "/post/2019-10-07_neurostories/index.md" >}})
