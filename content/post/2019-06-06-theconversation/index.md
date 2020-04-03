@@ -23,9 +23,9 @@ Publication d'un nouvel article généraliste autour des "Illusions et hallucina
 
 Les objectifs sont :
 
-– mieux comprendre la fonction de la perception visuelle en explorant certaines limites ;
-– mieux comprendre l’importance de l’aspect dynamique de la perception ;
-– mieux comprendre le rôle de l’action dans la perception.
+* mieux comprendre la fonction de la perception visuelle en explorant certaines limites ;
+* mieux comprendre l’importance de l’aspect dynamique de la perception ;
+* mieux comprendre le rôle de l’action dans la perception.
 
 {{< tweet 1136989689867620353 >}}
 
