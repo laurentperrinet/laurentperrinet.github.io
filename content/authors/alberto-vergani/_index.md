@@ -1,6 +1,6 @@
 ---
 authors:
-- angelo-franciosini
+- alberto-vergani
 bio: During my Post-Doc, I am focusing on traveling waves in a bio-inspired neural network.
 name: Alberto Arturo Vergani
 role: Post-Doc in Computational Neuroscience
@@ -15,6 +15,16 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/alberto-arturo-vergani-75288330
 superuser: false
+
+education:
+  courses:
+  - course: Research Fellow in Neuromorphic Computing.
+    institution: Middlesex University, Department of Computer Science, London, UK
+    year: 2019
+  - course: PhD in Computer Science and Mathematics
+    institution: University of Insubria, Varese, Italy
+    year: 2018
+
 tags:
 - phd-icn
 user_groups:
