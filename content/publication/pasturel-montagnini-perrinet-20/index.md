@@ -49,7 +49,6 @@ The current health situation has shown us how abruptly our environment can chang
 
 These theoretical and experimental results show that in this realistic situation in which the context changes at random moments throughout the experiment, our sensory system adapts to volatility in an adaptive manner over the course of the trials. In particular, the experiments show in two behavioural experiments that humans adapt to volatility at the early sensorimotor level, through their anticipatory eye movements, but also at a higher cognitive level, through explicit evaluations. These results thus suggest that humans (and future artificial systems) can use much richer adaptation strategies than previously assumed. They provide a better understanding of how humans adapt to changing environments in order to make judgements or plan responses based on information that varies over time.
 
-More information: https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/
 
  * get a [preprint](https://www.biorxiv.org/content/10.1101/784116v1)
  * [Abstract](https://www.biorxiv.org/content/10.1101/784116v2)
