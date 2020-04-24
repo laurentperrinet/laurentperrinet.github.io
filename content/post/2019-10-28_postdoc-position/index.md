@@ -63,13 +63,13 @@ This project is funded by the French National Research Agency (ANR) under the [A
 
 ```mermaid
 gantt
-  dateFormat  YYYY-MM-DD
+  dateFormat  YYYY-MM
   section Publication of offer
-  Publication of offer           :a1, 2019-10-21, 1m
-  End collecting offers      :after a1  , 1m
+  Publication of offer           :a1, 2019-10-21, 30d
+  End collecting offers      :after a1 , 30d
   section Selection
-  Selection process      :2020-01-21, 1m
-  Final decision      : 1m
+  Selection process      :2020-01-21, 30d
+  Final decision      : 30d
 ```
 
 # References
