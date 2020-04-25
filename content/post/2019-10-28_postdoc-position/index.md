@@ -65,11 +65,11 @@ This project is funded by the French National Research Agency (ANR) under the [A
 gantt
   dateFormat  YYYY-MM
   section Publication of offer
-  Publication of offer           :a1, 2019-10-21, 30d
+  Publication of offer           :a1, 2019-10-21 , 30d
   End collecting offers      :after a1 , 30d
   section Selection
-  Selection process      :2020-01-21, 30d
-  Final decision      : 30d
+  Selection process      :a2, 2020-01-21 , 30d
+  Final decision      :after a2 ,  30d
 ```
 
 # References
