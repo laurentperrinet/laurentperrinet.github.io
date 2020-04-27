@@ -36,6 +36,7 @@ url_video: https://www.youtube.com/watch?v=jJKTdlChefc
 
 
 
+
 * Ce texte est disponible dans cet article de [The Conversation](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567).
 
 * Voir la @ [présentation au NeuroStories]({{< ref "/post/2019-10-07_neurostories/index.md" >}})
