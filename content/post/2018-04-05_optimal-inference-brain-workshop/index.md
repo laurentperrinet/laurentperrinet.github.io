@@ -4,7 +4,7 @@ authors:
 categories: []
 date: 2018-04-05 00:00:00
 draft: false
-featured: true
+featured: false
 image:
   caption: ''
   focal_point: ''

@@ -50,6 +50,7 @@ url_video: https://www.youtube.com/watch?v=jJKTdlChefc
 
 
 
+
 * Le texte de cette présentation est reprise dans cet article de [The Conversation](https://laurentperrinet.github.io/publication/perrinet-19-temps/) ([lien direct](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567)).
 
 * Voir la @ [présentation au NeuroStories]({{< ref "/post/2019-10-07_neurostories/index.md" >}})
