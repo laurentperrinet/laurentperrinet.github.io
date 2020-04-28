@@ -1,7 +1,7 @@
 ---
 authors:
 - emmanuel-dauce
-name: Emmanuel Daucé
+title: Emmanuel Daucé
 superuser: false
 user_groups:
 - Collaborators

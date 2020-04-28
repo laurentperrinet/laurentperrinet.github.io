@@ -7,7 +7,7 @@ education:
   - course: Phd in Computational Neuroscience
     institution: Aix-Marseille Université
     year: 2017
-name: Jean-Bernard Damasse
+title: Jean-Bernard Damasse
 role: Phd in Computational Neuroscience
 superuser: false
 user_groups:

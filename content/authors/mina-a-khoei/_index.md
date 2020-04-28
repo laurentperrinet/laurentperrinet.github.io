@@ -10,7 +10,7 @@ education:
   - course: Phd in Computational Neuroscience
     institution: Aix-Marseille Université
     year: 2014
-name: Mina A Khoei
+title: Mina A Khoei
 role: Phd in Computational Neuroscience
 social:
 - icon: google-scholar

@@ -1,8 +1,27 @@
 ---
+# Display name
+title: Laurent U Perrinet
+
+# Username (this should match the folder name)
 authors:
 - laurent-u-perrinet
+
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position
+role: Researcher in Computational Neuroscience
+
+
+# Organizations/Affiliations
+organizations:
+- title: Institut de Neurosciences de la Timone
+  url: http://www.int.univ-amu.fr/PERRINET-Laurent
+
+# Short bio (displayed in user profile at end of posts)
 bio: My research interests include Machine Learning and computational neuroscience
-  applied to Vision.
+applied to Vision.
+
 education:
   courses:
   - course: 'Habilitation à diriger des recherches '
@@ -14,18 +33,12 @@ education:
   - course: M.S. in Engineering
     institution: Supaéro, Toulouse, France
     year: 1998
-email: laurent.perrinet@univ-amu.fr
+
 interests:
 - Computational Neuroscience
 - Machine Learning
 - Vision
-name: Laurent U Perrinet
-organizations:
-- !!python/object/new:toml.decoder.DynamicInlineTableDict
-  dictitems:
-    name: Institut de Neurosciences de la Timone
-    url: http://www.int.univ-amu.fr/PERRINET-Laurent
-role: Researcher in Computational Neuroscience
+
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,7 +55,10 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/laurentperrinet/
-superuser: true
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: laurent.perrinet@univ-amu.fr
+
 user_groups:
 - Researcher
 ---

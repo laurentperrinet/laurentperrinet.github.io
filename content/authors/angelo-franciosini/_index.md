@@ -7,7 +7,7 @@ education:
   - course: Phd candidate in Computational Neuroscience
     institution: Aix-Marseille Université
     year: 2021
-name: Angelo Franciosini
+title: Angelo Franciosini
 role: Phd candidate in Computational Neuroscience
 social:
 - icon: github

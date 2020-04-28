@@ -1,7 +1,7 @@
 ---
 authors:
 - laurent-madelain
-name: Laurent Madelain
+title: Laurent Madelain
 superuser: false
 user_groups:
 - Collaborators

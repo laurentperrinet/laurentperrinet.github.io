@@ -1,7 +1,7 @@
 ---
 authors:
 - yves-fregnac
-name: Yves Fregnac
+title: Yves Fregnac
 superuser: false
 user_groups:
 - Mentors

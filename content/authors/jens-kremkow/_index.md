@@ -8,7 +8,7 @@ education:
   - course: Phd in Computational Neuroscience
     institution: Aix-Marseille Université
     year: 2009
-name: Jens Kremkow
+title: Jens Kremkow
 role: Phd in Computational Neuroscience
 superuser: false
 user_groups:

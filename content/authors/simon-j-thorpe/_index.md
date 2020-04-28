@@ -1,7 +1,7 @@
 ---
 authors:
 - simon-j-thorpe
-name: Simon Thorpe
+title: Simon Thorpe
 superuser: false
 user_groups:
 - Mentors

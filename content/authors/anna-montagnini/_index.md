@@ -1,7 +1,7 @@
 ---
 authors:
 - anna-montagnini
-name: Anna Montagnini
+title: Anna Montagnini
 superuser: false
 user_groups:
 - Collaborators

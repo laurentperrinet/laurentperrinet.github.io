@@ -7,7 +7,7 @@ education:
   - course: Phd in Computational Neuroscience
     institution: Aix-Marseille Université
     year: 2019
-name: Kiana Mansour-Pour
+title: Kiana Mansour-Pour
 role: Phd in Computational Neuroscience
 superuser: false
 user_groups:

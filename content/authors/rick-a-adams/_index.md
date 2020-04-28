@@ -1,7 +1,7 @@
 ---
 authors:
 - rick-a-adams
-name: Rick A Adams
+title: Rick A Adams
 superuser: false
 user_groups:
 - Collaborators

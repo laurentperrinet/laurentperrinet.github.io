@@ -1,7 +1,7 @@
 ---
 authors:
 - manuel-samuelides
-name: Manuel Samuelides
+title: Manuel Samuelides
 superuser: false
 user_groups:
 - Mentors

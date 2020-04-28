@@ -10,7 +10,7 @@ education:
   - course: Master in Neuroscience
     institution: Aix-Marseille Université
     year: 2019
-name: Hugo Ladret
+title: Hugo Ladret
 role: Phd candidate in Computational Neuroscience
 social:
 - icon: github

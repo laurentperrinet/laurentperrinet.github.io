@@ -10,7 +10,7 @@ education:
   - course: PostDoc in Computational Neuroscience
     institution: Aix-Marseille Université
     year: 2013
-name: Nicole Voges
+title: Nicole Voges
 role: PostDoc in Computational Neuroscience
 social:
 - icon: google-scholar

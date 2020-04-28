@@ -10,7 +10,7 @@ education:
   - course: PostDoc in Computational Neuroscience
     institution: Aix-Marseille Université
     year: 2013
-name: Wahiba Taouali
+title: Wahiba Taouali
 role: PostDoc in Computational Neuroscience
 social:
 - icon: google-scholar
