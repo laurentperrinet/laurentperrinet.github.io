@@ -19,8 +19,7 @@ organizations:
   url: http://www.int.univ-amu.fr/PERRINET-Laurent
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Machine Learning and computational neuroscience
-applied to Vision.
+bio: My research interests include Machine Learning and computational neuroscience applied to Vision.
 
 education:
   courses:
