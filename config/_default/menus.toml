@@ -9,13 +9,18 @@
   weight = 5
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Featured"
+  url = "#featured"
   weight = 10
 
 [[main]]
-  name = "Featured"
-  url = "#featured"
+  name = "Events"
+  url = "#posts"
+  weight = 15
+
+[[main]]
+  name = "Projects"
+  url = "#projects"
   weight = 20
 
 [[main]]
@@ -27,11 +32,6 @@
   name = "People"
   url = "#people"
   weight = 27
-
-[[main]]
-  name = "Events"
-  url = "#posts"
-  weight = 30
 
 [[main]]
   name = "Talks"
