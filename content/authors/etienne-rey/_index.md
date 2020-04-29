@@ -9,7 +9,7 @@ social:
 - icon: code
   icon_pack: fab
   link: http://ondesparalleles.org/
-- icon: id-card
+- icon: usb
   icon_pack: fab
   link: http://www.documentsdartistes.org/artistes/rey/repro.html
 - icon: instagram
