@@ -44,5 +44,5 @@ title: A dual foveal-peripheral visual processing model implements efficient sac
   selection
 url_code: https://github.com/laurentperrinet/WhereIsMyMNIST
 url_pdf: https://github.com/laurentperrinet/WhereIsMyMNIST
-url_preprint: https://www.biorxiv.org/content/10.1101/725879v2
+url_preprint: https://www.biorxiv.org/content/10.1101/725879v3
 ---
