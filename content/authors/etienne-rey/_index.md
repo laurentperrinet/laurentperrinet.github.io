@@ -7,10 +7,10 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/etienne-rey-a07b5718/
 - icon: code
-  icon_pack: fab
+  icon_pack: fas
   link: http://ondesparalleles.org/
 - icon: usb
-  icon_pack: fab
+  icon_pack: fas
   link: http://www.documentsdartistes.org/artistes/rey/repro.html
 - icon: instagram
   icon_pack: fab
