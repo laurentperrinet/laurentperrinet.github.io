@@ -10,7 +10,7 @@ social:
   icon_pack: fas
   link: http://ondesparalleles.org/
 - icon: usb
-  icon_pack: fas
+  icon_pack: fab
   link: http://www.documentsdartistes.org/artistes/rey/repro.html
 - icon: instagram
   icon_pack: fab
