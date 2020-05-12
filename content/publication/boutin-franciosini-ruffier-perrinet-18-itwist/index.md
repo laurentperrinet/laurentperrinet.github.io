@@ -57,4 +57,4 @@ url_preprint: https://arxiv.org/abs/1812.01335
 3. CIRM, Marseille, France. <span id="line-10" class="anchor"></span>
 4. get the [full proceedings](https://arxiv.org/html/1812.00648)
 5. Poster as [PDF](boutin-franciosini-ruffier-perrinet-18-itwist.pdf)
-6. check-out our preprint on [SDPC]({{< ref "/publication/boutin-franciosini-chavane-ruffier-perrinet-19/index.md" >}})
+6. check-out our preprint on [SDPC]({{< ref "/publication/boutin-franciosini-chavane-ruffier-perrinet-20/index.md" >}})
