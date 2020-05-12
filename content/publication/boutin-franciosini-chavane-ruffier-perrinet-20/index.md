@@ -27,7 +27,7 @@ authors:
 - Frédéric Y Chavane
 - Franck Ruffier
 - Laurent U Perrinet
-date: 2019-02-20
+date: 2020-05-12
 featured: false
 grants:
 - doc-2-amu
@@ -44,6 +44,7 @@ title: Sparse Deep Predictive Coding captures contour integration capabilities o
 url_pdf: https://arxiv.org/abs/1902.07651
 url_preprint: https://arxiv.org/abs/1902.07651
 ---
+
 
 
 
