@@ -4,7 +4,7 @@ authors:
 - Maria-José Escobar
 - Adrián G Palacios
 - Laurent U Perrinet
-date: 2016-11-29
+date: 2016-11-12
 featured: false
 projects:
 - motion-clouds

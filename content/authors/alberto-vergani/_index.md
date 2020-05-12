@@ -39,7 +39,7 @@ Biological vision is surprisingly efficient. To take advantage of this efficienc
 
 The proposed work will be organized as a collaboration between two labs (INT, Marseille and UNIC, Gif) along three tasks to be integrated in a unified model:
 
-1. The starting point will be to extend results of self-supervised learning that we have obtained on static, natural images ([Boutin et al., 2019](#BoutinFranciosiniChavaneRuffierPerrinet19)) showing in a recurrent cortical-like artificial CNN architecture the emergence of interactions which phenomenologically correspond to the "association field" described at the psychophysical ([Field et al., 1993](#Field1993)), spiking ([Li and Gilbert, 2002](#Li2002)) and synaptic ([Gerard-Mercier et al., 2016](#gerard2016synaptic)) levels.
+1. The starting point will be to extend results of self-supervised learning that we have obtained on static, natural images ([Boutin et al., 2019](#BoutinFranciosiniChavaneRuffierPerrinet20)) showing in a recurrent cortical-like artificial CNN architecture the emergence of interactions which phenomenologically correspond to the "association field" described at the psychophysical ([Field et al., 1993](#Field1993)), spiking ([Li and Gilbert, 2002](#Li2002)) and synaptic ([Gerard-Mercier et al., 2016](#gerard2016synaptic)) levels.
 
 2. The central aim will be to develop a dynamical version of this feedback/lateral kernel in the context of the [ANR Horizontal-V1](https://laurentperrinet.github.io/grant/anr-horizontal-v1/) project, linking the two labs and confronted to their recent electrophysiological data pointing to different classes of spatio-temporal diffusion and different degree of anisotropies during apparent and continuous motion.
 
@@ -55,7 +55,7 @@ This project is funded by the French National Research Agency (ANR) under the [A
 
 * <a name="Antolik2019"> Antolik, J, C Monier, Y Frégnac, AP Davison. (2019). </a> "[A comprehensive data-driven model of cat primary visual cortex.](https://www.biorxiv.org/content/10.1101/416156v1)" *BioRxiv*, 416156.
 
-* <a name="BoutinFranciosiniChavaneRuffierPerrinet19"> Boutin, Victor, Angelo Franciosini, Frédéric Chavane, Franck Ruffier, and Laurent U Perrinet. (2019). </a> "[Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system.](https://arxiv.org/abs/1902.07651)" *arXiv*
+* <a name="BoutinFranciosiniChavaneRuffierPerrinet20"> Boutin, Victor, Angelo Franciosini, Frédéric Chavane, Franck Ruffier, and Laurent U Perrinet. (2019). </a> "[Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system.](https://arxiv.org/abs/1902.07651)" *arXiv*
 
 * <a name="Chavane2000"> Chavane, F., C. Monier, V. Bringuier, P. Baudot, L. Borg-Graham, J. Lorenceau, and Y. Frégnac. 2000. </a> "The Visual Cortical Association Field: A Gestalt Concept or a Psychophysiological Entity?" *Frontiers in System Neuroscience* 4(5): 1-26.
 
