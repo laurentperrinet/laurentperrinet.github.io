@@ -7,7 +7,8 @@ date: 2019-01-01
 featured: false
 grants:
 - doc-2-amu
-- phd-icn; mesocentre
+- phd-icn
+- mesocentre
 projects: []
 publication: '*CNS*2019, Barcelona*'
 publication_types:

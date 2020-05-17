@@ -31,7 +31,8 @@ date: 2020-05-12
 featured: false
 grants:
 - doc-2-amu
-- phd-icn; mesocentre
+- phd-icn
+- mesocentre
 projects: []
 publication: '*Submitted*'
 publication_types:
@@ -44,6 +45,7 @@ title: Sparse Deep Predictive Coding captures contour integration capabilities o
 url_pdf: https://arxiv.org/abs/1902.07651
 url_preprint: https://arxiv.org/abs/1902.07651
 ---
+
 
 
 

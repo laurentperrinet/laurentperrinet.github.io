@@ -19,7 +19,8 @@ date: 2019-01-01
 featured: false
 grants:
 - doc-2-amu
-- phd-icn; mesocentre
+- phd-icn
+- mesocentre
 projects: []
 publication: '*GdR Robotics - 2019-06-05*'
 publication_types:

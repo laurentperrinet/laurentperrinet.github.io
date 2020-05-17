@@ -59,7 +59,8 @@ date: 2020-03-30
 featured: false
 grants:
 - doc-2-amu
-- phd-icn; mesocentre
+- phd-icn
+- mesocentre
 projects: []
 publication: '*SIGMA''2020 (Signal, Image, Geometry, Modelling, Approximation)*'
 publication_types:

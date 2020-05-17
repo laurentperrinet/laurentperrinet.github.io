@@ -59,7 +59,8 @@ date: 2020-09-27
 featured: false
 grants:
 - doc-2-amu
-- phd-icn; mesocentre
+- phd-icn
+- mesocentre
 projects: []
 publication: '*Computational and Systems Neuroscience (Cosyne) 2020*'
 publication_types:
@@ -71,6 +72,7 @@ title: Modelling Complex-cells and topological structure in the visual cortex of
   using Sparse Predictive Coding
 url_pdf: https://laurentperrinet.github.io/publication/franciosini-20-cosyne/
 ---
+
 
 
 

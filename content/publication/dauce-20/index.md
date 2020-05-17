@@ -28,7 +28,8 @@ date: 2019-08-05
 doi: 10.1101/725879
 featured: false
 grants:
-- spikeai; mesocentre
+- spikeai
+- mesocentre
 projects: []
 publication: '*Submitted*'
 publication_types:

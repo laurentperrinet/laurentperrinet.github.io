@@ -30,7 +30,8 @@ doi: 10.3390/vision3030047
 featured: false
 grants:
 - anr-horizontal-v1
-- spikeai; mesocentre
+- spikeai
+- mesocentre
 projects: []
 publication: '*Vision*'
 publication_types:
@@ -49,6 +50,7 @@ url_code: https://github.com/SpikeAI/HULK
 url_pdf: https://spikeai.github.io/HULK/
 url_preprint: https://laurentperrinet.github.io/publication/perrinet-19-hulk/
 ---
+
 
 
 

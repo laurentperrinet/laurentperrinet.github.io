@@ -25,7 +25,8 @@ date: 2020-02-04
 featured: false
 grants:
 - doc-2-amu
-- phd-icn; mesocentre
+- phd-icn
+- mesocentre
 projects: []
 publication: '*Submitted*'
 publication_types:

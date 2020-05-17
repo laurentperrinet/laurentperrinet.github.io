@@ -9,7 +9,8 @@ date: 2019-01-01
 featured: false
 grants:
 - doc-2-amu
-- phd-icn; mesocentre
+- phd-icn
+- mesocentre
 projects: []
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
@@ -20,6 +21,7 @@ tags:
 title: Sparse Deep Predictive Coding to model visual object recognition
 url_pdf: https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19-sfn/
 ---
+
 
 
 
