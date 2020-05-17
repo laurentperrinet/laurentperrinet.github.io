@@ -69,4 +69,5 @@ title: Functional consequences of correlated excitation and inhibition on single
 
 
 
+
 * see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publication/kremkow-10-jcns/index.md" >}})
