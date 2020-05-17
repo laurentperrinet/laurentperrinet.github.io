@@ -34,7 +34,7 @@ abstract: Oriented edges in images of natural scenes tend to be aligned in colli
 authors:
 - Laurent U Perrinet
 - David Fitzpatrick
-- James A. Bednar
+- James A Bednar
 date: 2012-05-10 13:00:00
 event: iTWIST '12 workshop
 event_url: https://sites.google.com/site/itwist1st/home
@@ -48,6 +48,7 @@ title: 'Edge statistics in natural images versus laboratory animal environments:
 url_pdf: https://laurentperrinet.github.io/talk/2012-05-10-itwist/
 url_slides: Perrinet12itwist.pdf
 ---
+
 
 
 

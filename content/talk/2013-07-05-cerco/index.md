@@ -2,7 +2,7 @@
 authors:
 - Laurent U Perrinet
 - David Fitzpatrick
-- James A. Bednar
+- James A Bednar
 date: 2013-07-05 13:00:00
 event: CerCo 20th anniversary
 featured: false
@@ -18,6 +18,7 @@ title: Edge co-occurrences and categorizing natural images
 url_pdf: https://laurentperrinet.github.io/talk/2013-07-05-cerco/
 url_slides: perrinet13cerco.pdf
 ---
+
 
 
 

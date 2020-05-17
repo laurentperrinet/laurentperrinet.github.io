@@ -50,6 +50,7 @@ url_slides: https://laurentperrinet.github.io/2019-04-05_BBCP_causal_kickoff
 
 
 
+
 * See the final publication @ [Pasturel, Montagnini and Perrinet (2020)]({{< ref "/publication/pasturel-montagnini-perrinet-20/index.md" >}})
 * previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})
 * previous talk @ [INVIBE FEST, Paris]({{< ref "/talk/2018-02-01-bcp-invibe-fest/index.md" >}})
