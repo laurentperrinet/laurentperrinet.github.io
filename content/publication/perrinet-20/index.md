@@ -26,7 +26,7 @@ abstract: Within the central nervous system, visual areas are essential in trans
   we will enumerate some possible implementations using biomimetic neural networks.
 authors:
 - Laurent U Perrinet
-date: 2019-01-01
+date: 2020-01-01
 featured: false
 grants:
 - anr-horizontal-v1

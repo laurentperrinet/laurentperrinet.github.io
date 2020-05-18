@@ -42,6 +42,7 @@ url_preprint: https://www.biorxiv.org/content/10.1101/784116v2
 
 
 
+
 # "Humans adapt their anticipatory eye movements to the volatility of visual motion properties"
 
 {{< video src="https://raw.githubusercontent.com/chloepasturel/AnticipatorySPEM/master/2020-03_video-abstract/PasturelMontagniniPerrinet2020_video-abstract.mp4" controls="yes" >}}
