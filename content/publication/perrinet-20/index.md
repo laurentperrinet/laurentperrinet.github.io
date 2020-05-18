@@ -42,5 +42,5 @@ tags:
 - Bayesian model
 title: 'From the retina to action: Dynamics of predictive processing in the visual
   system'
-url_pdf: https://laurentperrinet.github.io/publication/perrinet-19/
+url_pdf: https://laurentperrinet.github.io/publication/perrinet-20/
 ---
