@@ -35,7 +35,7 @@ projects: []
 publication: '*The Philosophy and Science of Predictive Processing*'
 publication_types:
 - '6'
-publishDate: '2019-09-17'
+publishDate: '2020-05-17'
 tags:
 - active inference
 - area-v1
