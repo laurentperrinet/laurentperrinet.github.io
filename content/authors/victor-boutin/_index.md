@@ -8,7 +8,7 @@ education:
     institution: Aix-Marseille Université
     year: 2014
 title: Victor Boutin
-role: Phd candidate in Computational Neuroscience
+role: Phd in Computational Neuroscience
 social:
 - icon: github
   icon_pack: fab
