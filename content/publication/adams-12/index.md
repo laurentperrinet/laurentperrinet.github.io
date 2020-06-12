@@ -21,7 +21,7 @@ abstract: 'This paper introduces a model of oculomotor control during the smooth
 authors:
 - Rick A Adams
 - Laurent U Perrinet
-- Karl J Friston
+- Karl Friston
 date: 2012-10-26
 doi: 10.1371/journal.pone.0047502
 featured: false
@@ -38,6 +38,7 @@ title: 'Smooth Pursuit and Visual Occlusion: Active Inference and Oculomotor Con
   in Schizophrenia'
 url_pdf: http://dx.doi.org/10.1371/journal.pone.0047502
 ---
+
 
 
 

@@ -14,7 +14,7 @@ abstract: 'If perception corresponds to hypothesis testing (Gregory, 1980); then
   the way that sensory evidence is accumulated or assimilated into beliefs about the
   world.'
 authors:
-- Karl J Friston
+- Karl Friston
 - Rick A Adams
 - Laurent U Perrinet
 - Michael Breakspear
@@ -35,6 +35,7 @@ tags:
 title: 'Perceptions as Hypotheses: Saccades as Experiments'
 url_pdf: http://dx.doi.org/10.3389/fpsyg.2012.00151
 ---
+
 
 
 

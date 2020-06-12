@@ -19,7 +19,7 @@ authors:
 - Laurent U Perrinet
 - Guillaume S Masson
 - Ad M Aertsen
-date: 2010-06-18
+date: 2010-06-12
 doi: 10.1007/s10827-010-0240-9
 featured: false
 grants:
@@ -38,6 +38,7 @@ title: Functional consequences of correlated excitatory and inhibitory conductan
   in cortical networks
 url_pdf: http://www.ncbi.nlm.nih.gov/pubmed/20490645
 ---
+
 
 
 

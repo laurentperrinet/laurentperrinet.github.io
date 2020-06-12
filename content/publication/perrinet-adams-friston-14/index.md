@@ -20,7 +20,7 @@ abstract: This paper considers the problem of sensorimotor delays in the optimal
 authors:
 - Laurent U Perrinet
 - Rick A Adams
-- Karl J Friston
+- Karl Friston
 date: 2014-12-16
 doi: 10.1007/s00422-014-0620-8
 publication: '*Biological Cybernetics*'
@@ -38,6 +38,7 @@ title: Active inference, eye movements and oculomotor delays
 url_pdf: http://link.springer.com/article/10.1007%2Fs00422-014-0620-8
 url_preprint: https://hal-amu.archives-ouvertes.fr/hal-01382350
 ---
+
 
 
 

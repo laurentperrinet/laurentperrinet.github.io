@@ -16,7 +16,7 @@ abstract: The quality of the representation of an object's motion is limited by 
   1D and 2D motion information.
 authors:
 - Laurent U Perrinet
-- Frédéric V. Barthélemy
+- Frédéric V Barthélemy
 - Guillaume S Masson
 date: 2006-01-01
 event: 1ère conférence francophone NEUROsciences COMPutationnelles - NeuroComp
@@ -34,6 +34,7 @@ title: 'Input-output transformation in the visuo-oculomotor loop: modeling the o
   following response to center-surround stimulation in a probabilistic framework'
 url_pdf: https://laurentperrinet.github.io/publication/perrinet-06-neurocomp/
 ---
+
 
 
 

@@ -23,7 +23,7 @@ authors:
 - Laurent U Perrinet
 - Manuel Samuelides
 - Simon J Thorpe
-date: 2004-09-18
+date: 2004-09-12
 doi: 10.1109/TNN.2004.833303
 featured: false
 publication: '*IEEE Transactions on Neural Networks*'
@@ -42,6 +42,7 @@ title: 'Coding static natural images using spiking event times: do neurons coope
 url_pdf: http://dx.doi.org/10.1109/TNN.2004.833303
 url_preprint: https://arxiv.org/abs/q-bio/0611002
 ---
+
 
 
 

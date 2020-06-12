@@ -21,7 +21,7 @@ abstract: We consider the problem of sensorimotor delays in the optimal control 
 authors:
 - Laurent U Perrinet
 - Rick A Adams
-- Karl J Friston
+- Karl Friston
 date: 2012-01-01
 featured: false
 grants:

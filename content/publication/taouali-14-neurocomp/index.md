@@ -28,4 +28,5 @@ title: A Simple Model of Orientation Encoding Accounting For Multivariate Neural
 
 
 
+
 * see a follow-up in this [publication]({{< ref "/publication/taouali-16" >}})
