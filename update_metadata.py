@@ -95,7 +95,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
                 page = source_file.read() + '\n'
             metadata = page.split('---')
             # print(metadata)
-            parsed_yaml = yaml.load(metadata[1])
+            parsed_yaml = yaml.load(metadata[1], Loader=yaml.FullLoader)
 
             # print('new_key =', new_key, 'dico[new_key]', dico[new_key])
             old_key = dico[new_key]
