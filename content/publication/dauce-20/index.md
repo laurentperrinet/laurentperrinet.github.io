@@ -24,14 +24,14 @@ authors:
 - Emmanuel Daucé
 - Pierre Albigès
 - Laurent U Perrinet
-date: 2019-08-05
+date: 2020-06-05
 doi: 10.1101/725879
 featured: false
 grants:
 - spikeai
 - mesocentre
 projects: []
-publication: '*Submitted*'
+publication: '*Journal of Vision*'
 publication_types:
 - '2'
 publishDate: '2019-09-17'

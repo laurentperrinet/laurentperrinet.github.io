@@ -77,4 +77,5 @@ title: 'Control of the temporal interplay between excitation and inhibition by t
 
 
 
+
 * see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publication/kremkow-10-jcns/index.md" >}})

@@ -17,7 +17,7 @@ abstract: The representation of images in the brain is known to be sparse. That 
   coding schemes, sparse models being one simple and efficient instance of such schemes.
 authors:
 - Laurent U Perrinet
-date: 2015-11-12
+date: 2015-11-15
 doi: 10.1002/9783527680863.ch14
 featured: false
 publication: '*Biologically Inspired Computer Vision*'

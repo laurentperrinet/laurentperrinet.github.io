@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 
-echo -e "\033[0;32mupdating metadata...\033[0m"
+echo "\033[0;32mupdating metadata...\033[0m"
 
 msg="updating metadata `date`"
 if [ $# -eq 1 ]
@@ -14,7 +14,7 @@ cd ../perrinet_curriculum-vitae_tex
 
 git pull ; git commit  -m "$msg" -a ; git push
 
-echo -e "\033[0;32mrecompiling website...\033[0m"
+echo "\033[0;32mrecompiling website...\033[0m"
 
 cd ../hugo_academic
 
@@ -25,5 +25,5 @@ cd ../hugo_academic
 
 python3 update_metadata.py
 
-echo -e "\033[0;32mpushing website...\033[0m"
+echo "\033[0;32mpushing website...\033[0m"
 ./update_gitpages.sh $msg

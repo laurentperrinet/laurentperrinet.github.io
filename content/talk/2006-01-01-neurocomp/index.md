@@ -58,5 +58,6 @@ url_pdf: https://laurentperrinet.github.io/publication/perrinet-06-neurocomp/
 
 
 
+
 * related publication @ [SPIE 2008]({{< ref "/publication/perrinet-08-spie/index.md" >}})
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})
