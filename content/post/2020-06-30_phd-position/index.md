@@ -5,14 +5,14 @@ summary: CD Doctorant "Vision ultra-rapide par réseaux de neurones impulsionnel
 authors:
 - laurent-u-perrinet
 date: 2020-06-30 09:00:00
-draft: true
+draft: false
 image:
   caption: Artwork by [Etienne Rey](https://laurentperrinet.github.io/post/2019-06-22_ardemone/),
     photo [Jean Luc Cougy](https://www.enrevenantdelexpo.com/2019/05/17/sans-gravite-une-poetique-de-air-ardenome-avignon/)
   focal_point: Center
   placement: 2
   preview_only: false
-lastmod: 2020-06-30 09:00:00
+lastmod: 2020-06-15 09:00:00
 projects: []
 
 tags:
@@ -25,13 +25,13 @@ Applications are welcome for a doctoral position at [INT](http://www.int.univ-am
 
 For more information, visit [https://laurentperrinet.github.io/post/2020-06-30_phd-position](https://laurentperrinet.github.io/post/2020-06-30_phd-position).
 
-The starting date is set to October 1st, 2020. To obtain further information or send applications (including a full CV, a letter of motivation, 2 reference names), please contact: [Laurent.Perrinet@univ-amu.fr](mailto:Laurent.Perrinet@univ-amu.fr). The appointment is for 36 month. Applications are welcome immediately.
+The starting date is set to October 1st, 2020. To obtain further information, please contact me @ [Laurent.Perrinet@univ-amu.fr](mailto:Laurent.Perrinet@univ-amu.fr). The appointment is for 36 month. Applications are welcome immediately.
 
 Thanks for distributing this announcement to potential candidates!
 
 # Detailed description: Visual computations using Spatio-temporal Diffusion Kernels and Traveling Waves
 
-Biological vision is surprisingly efficient. To take advantage of this efficiency, Deep learning and convolutional neural networks (CNNs) have recently produced great advances in artificial computer vision. However, these algorithms now face multiple challenges: learned architectures are often not interpretable, disproportionally energy greedy, and often lack the integration of contextual information that seems optimized in biological vision and human perception. Also it is relatively slow compared to biological vision. It is believed that one major factor of this rapidity is the fact that visual information is represented by short pulses (spikes) at analog – not discrete – times. However, computer vision algorithms using such representation still lack in practice, and its high potential is largely underexploited. Inspired from biology, the project addresses the scientific question of developing a low-power sensing and processing architecture of visual scenes, running on analog devices without a central clock and aims to validate them in real-life situations. More specifically, the project will develop new paradigms for biologically inspired vision, from sensing to processing, in order to help machines such as Unmanned Autonomous Vehicles (UAV), autonomous vehicles, or robots gain high-level understanding from visual scenes.
+Biological vision is surprisingly efficient. To take advantage of this efficiency, Deep learning and convolutional neural networks (CNNs) have recently produced great advances in artificial computer vision. However, these algorithms now face multiple challenges: learned architectures are often not interpretable, disproportionally energy greedy, and often lack the integration of contextual information that seems optimized in biological vision and human perception. In some aspects, it is relatively slow compared to biological vision. It is believed that one major factor of this rapidity is the fact that visual information is represented by short pulses (spikes) at analog – not discrete – times. However, computer vision algorithms using such representation still lack in practice, and its high potential is largely underexploited. Inspired from biology, the project addresses the scientific question of developing a low-power sensing and processing architecture of visual scenes, running on analog devices without a central clock and aims to validate them in real-life situations. More specifically, the project will develop new paradigms for biologically inspired vision, from sensing to processing, in order to help machines such as Unmanned Autonomous Vehicles (UAV), autonomous vehicles, or robots gain high-level understanding from visual scenes.
 
 **In this doctoral project, we propose to address these major limitations by focusing on specific dynamical features of cortical circuits: _lateral diffusion of sensory-evoked traveling waves_ ([Chavane et al., 2011](#Chavane2000); [Muller et al., 2018](#muller2018cortical)) and _dynamic neuronal association fields_ ([Frégnac et al., 2012](#Frégnac2012); [Frégnac et al., 2016](#Frégnac2016); [Gerard-Mercier et al., 2016](#gerard2016synaptic))**. Indeed, the architecture of primary visual cortex (V1), the direct target of the feedforward visual flow, contains dense local recurrent connectivity with sparse long-range connections ([Voges and Perrinet, 2012](#Voges12)). One starting point will be to extend results of self-supervised learning that we have obtained on static, natural images ([Boutin et al., 2019](#BoutinFranciosiniChavaneRuffierPerrinet20)) showing in a recurrent cortical-like artificial CNN architecture the emergence of interactions which phenomenologically correspond to the "association field" described at the psychophysical ([Field et al., 1993](#Field1993)), spiking ([Li and Gilbert, 2002](#Li2002)) and synaptic ([Gerard-Mercier et al., 2016](#gerard2016synaptic)) levels. Such connections add to the traditional convolutional kernels representing feedforward and local recurrent amplification a novel lateral interaction kernel within a single layer (across positions and channels). Less studied, but probably decisive in active vision, recurrent cortico-cortical loops add a level of distributed top-down complexity which participates to the lateral integration of sensory input and perceptual context ([Keller et al., 2019](#Keller2019)). Coupled with the dynamics of cortical circuits, this elaborate multiplexed architecture provides the conditions possible for generating information diffusion through traveling waves. We aim to design a self-supervised CNN that will exploit these dynamics for new applications in computer vision.
 
@@ -53,7 +53,7 @@ La vision biologique est étonnamment efficace. Pour tirer parti de cette effica
 
 ## FR: Contexte de travail
 La thèse sera effectuée dans l'équipe "NEuronal OPerations in visual TOpographic maps" (NeOpTo) au sein de l'Institut de Neurosciences de la Timone (INT). L'équipe de recherche est dirigée par F. Chavane (DR2, CNRS) et accueille actuellement 4 personnels permanents, 3 post-doctorants et 4 doctorants. Les thématiques de recherche de l'équipe sont centrées sur les opérations neuronales au sein de cartes corticales visuelles. En effet, le long de la hiérarchie corticale, les caractéristiques de bas niveau telles que la position, l’orientation du stimulus visuel (mais aussi la tonalité auditive, le toucher somatosensoriel, etc...) mais aussi les caractéristiques de niveau supérieur (telles que les visages, les points de vue d’objets, etc...) sont représentées topographiquement sur la surface corticale.
-
+Nous espérons développer ces algorithmes en collaboration avec [Ryad Benosman](https://scholar.google.fr/citations?user=_ZTFUooAAAAJ&hl=fr) (Université Pierre et Marie Curie) et [Stéphane Viollet](https://scholar.google.co.uk/citations?user=iIGoymcAAAAJ) (équipe biorobotique, Institut des Sciences du Mouvement).
 
 
 # References
