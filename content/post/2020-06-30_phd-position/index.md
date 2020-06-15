@@ -4,7 +4,7 @@ subtitle: Offre de thèse "Vision ultra-rapide par réseaux de neurones impulsio
 summary: CD Doctorant "Vision ultra-rapide par réseaux de neurones impulsionnels" H/F (MARSEILLE)
 authors:
 - laurent-u-perrinet
-date: 2020-06-30 09:00:00
+date: 2020-06-15 09:00:00
 draft: false
 image:
   caption: Artwork by [Etienne Rey](https://laurentperrinet.github.io/post/2019-06-22_ardemone/),
