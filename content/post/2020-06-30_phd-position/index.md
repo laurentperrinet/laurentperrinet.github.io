@@ -18,6 +18,8 @@ tags:
 - events
 ---
 
+The information below is {{< hl >}}in draft mode{{< /hl >}} and is subject to changes.
+
 Dear colleagues,
 
 Applications are welcome for a doctoral position at [INT](http://www.int.univ-amu.fr/?lang=en) in [Marseille](https://en.wikipedia.org/wiki/Marseille), France. Your mission will be to build ultra-fast vision algorithms using event-based cameras and spiking neural networks. The project is funded by the [APROVIS3D](https://laurentperrinet.github.io/grant/aprovis-3-d/) grant (ANR-19-CHR3-0008-03) and will be coordinated by [Laurent Perrinet](https://laurentperrinet.github.io/). We are seeking candidates with a strong background in machine learning, computer vision and computational neuroscience.
