@@ -11,10 +11,10 @@ image:
   preview_only: false
 lastmod: 2019-10-21 09:00:00
 projects: []
-subtitle: 18 month Post-doc position coordinated by [Laurent Perrinet](https://laurentperrinet.github.io/),
+subtitle: THE POSITION HAS BEEN FILLED. 18 month Post-doc position coordinated by [Laurent Perrinet](https://laurentperrinet.github.io/),
   supported by (INT, Marseille) and [Yves Frégnac](http://neuro-psi.cnrs.fr/spip.php?article934&lang=fr)
   (UNIC-NeuroPSI, Gif).
-summary: 18 month Post-doc position coordinated by [Laurent Perrinet](https://laurentperrinet.github.io/),
+summary: THE POSITION HAS BEEN FILLED. 18 month Post-doc position coordinated by [Laurent Perrinet](https://laurentperrinet.github.io/),
   supported by (INT, Marseille) and [Yves Frégnac](http://neuro-psi.cnrs.fr/spip.php?article934&lang=fr)
   (UNIC-NeuroPSI, Gif).
 tags:
