@@ -1,4 +1,5 @@
 ---
+title: 2020-03-13: Soutenance Victor Boutin
 authors:
 - laurent-u-perrinet
 - victor-boutin
@@ -19,7 +20,6 @@ summary: 'Victor Boutin (Equipe NeOpTo) soutiendra sa thèse de doctorat intitul
   de la perception visuelle** le Vendredi 13 mars à 14h'
 tags:
 - events
-title: 2020-03-13 Soutenance Victor Boutin
 ---
 {{< tweet 1235128290458951680 >}}
 
