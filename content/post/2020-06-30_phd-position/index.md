@@ -17,8 +17,9 @@ projects: []
 tags:
 - events
 ---
-
+{{% alert warning %}}
 The information below is {{< hl >}}in draft mode{{< /hl >}} and is subject to changes.
+{{% /alert %}}
 
 Dear colleagues,
 
