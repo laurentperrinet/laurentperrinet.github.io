@@ -44,6 +44,7 @@ url_pdf: https://laurentperrinet.github.io/sciblog/files/2018-10-11_BioMorphisme
 
 
 
+
 # La modélisation biomorphique de la perception visuelle
 ## in "La modélisation de la genèse physico-mathématique du vivant"
 ## BIOMORPHISME ET CREATION ARTISTIQUE – Session 3
