@@ -53,7 +53,7 @@ social:
   link: http://www.researcherid.com/rid/C-4900-2009
 - icon: zotero
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=TVyUV38AAAAJ
+  link: https://www.zotero.org/groups/2485979/laurent_perrinet/library
 - icon: publons
   icon_pack: ai
   link: https://publons.com/a/1206845/
