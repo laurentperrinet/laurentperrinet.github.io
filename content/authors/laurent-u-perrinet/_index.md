@@ -48,12 +48,33 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=TVyUV38AAAAJ
+- icon: researcherid
+  icon_pack: ai
+  link: http://www.researcherid.com/rid/C-4900-2009
+- icon: zotero
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=TVyUV38AAAAJ
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/a/1206845/
+- icon: orcid
+  icon_pack: ai
+  link: http://orcid.org/0000-0002-9536-010X
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Perrinet%2C+L&terms-0-field=author&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/a/1206845/
 - icon: github
   icon_pack: fab
   link: https://github.com/laurentperrinet
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/laurentperrinet/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/laurent-perrinet-1857b9/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: laurent.perrinet@univ-amu.fr
