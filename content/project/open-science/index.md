@@ -26,6 +26,13 @@ An implementation of [Adams &amp; MacKay 2007 "Bayesian Online Changepoint Detec
 * [Source code](https://github.com/laurentperrinet/bayesianchangepoint)
 * See the final publication @ [Pasturel, Montagnini and Perrinet (2020)]({{< ref "/publication/pasturel-montagnini-perrinet-20/index.md" >}})
 
+# ANEMO: Quantitative tools for the ANalysis of Eye MOvements
+
+This implementation proposes a set of robust fitting methods for the extraction of eye movements  parameters.
+
+* [Source code](https://github.com/invibe/ANEMO/)
+* See a poster @ [Pasturel, Montagnini and Perrinet (2018)]({{< ref "/publication/pasturel-18-anemo/index.md" >}})
+
 # LeCheapEyeTracker
 
 Work-in-progress : an eye tracker based on webcams.
