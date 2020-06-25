@@ -10,7 +10,7 @@ tags:
 - motion-clouds
 title: Open Science
 ---
-To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences. This includes code to reproduce results obtained in papers (e.g. [(Perrinet, Adams and Friston, 2015)](https://github.com/laurentperrinet/PerrinetAdamsFriston14), [(Perrinet and Bednar, 2015)](https://github.com/laurentperrinet/PerrinetBednar15), [(Khoei et, 2017)](https://github.com/laurentperrinet/Khoei_2017_PLoSCB), [(Perrinet, 2019)](https://github.com/laurentperrinet/2019-05_illusions-visuelles) or courses and slides (e.g. [2019-04-03_a_course_on_vision_and_modelization](https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization), [2019-04-18_JNLF](https://github.com/laurentperrinet/2019-04-18_JNLF), ...) and also the development of the following libraries on GitHub.
+To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences. This includes code to reproduce results obtained in papers (e.g. [(Perrinet, Adams and Friston, 2015)](https://github.com/laurentperrinet/PerrinetAdamsFriston14), [(Perrinet and Bednar, 2015)](https://github.com/laurentperrinet/PerrinetBednar15), [(Khoei et, 2017)](https://github.com/laurentperrinet/Khoei_2017_PLoSCB), [(Perrinet, 2019)](https://github.com/laurentperrinet/2019-05_illusions-visuelles), [(Pasturel et al, 2020)]({{< ref "/publication/pasturel-montagnini-perrinet-20/index.md" >}}), [(Daucé et al, 2020)]({{< ref "/publication/dauce-20/index.md" >}})) or courses and slides (e.g. [2019-04-03: vision and modelization](https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization), [2019-04-18_JNLF](https://github.com/laurentperrinet/2019-04-18_JNLF), ...) and also the development of the following libraries on GitHub.
 
 
 <!-- Place this tag where you want the button to render. -->
@@ -79,3 +79,11 @@ This is a collection of python scripts to test learning strategies to efficientl
 
 * [Web-site](https://neuralensemble.github.io/MotionClouds/)
 * [Source code](https://github.com/NeuralEnsemble/MotionClouds)
+
+
+# PyNN
+
+**PyNN** is a simulator-independent language for building neuronal network models.
+
+* [Web-site](https://neuralensemble.github.io/PyNN/)
+* [Source code](https://github.com/NeuralEnsemble/PyNN)
