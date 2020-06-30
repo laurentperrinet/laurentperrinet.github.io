@@ -22,9 +22,9 @@ Dear colleagues,
 
 Applications are welcome for a fully funded doctoral position at [INT](http://www.int.univ-amu.fr/?lang=en) in [Marseille](https://en.wikipedia.org/wiki/Marseille), France. Your mission will be to build ultra-fast vision algorithms using event-based cameras and spiking neural networks. The project is funded by the [APROVIS3D](https://laurentperrinet.github.io/grant/aprovis-3-d/) grant (ANR-19-CHR3-0008-03) and will be coordinated by [Laurent Perrinet](https://laurentperrinet.github.io/). The work will be carried out in collaboration with a leading computer science institute at Université Côte d’Azur (Sophia Antipolis, France), the Laboratoire d'Informatique, Signaux et Systèmes de Sophia-Antipolis (I3S, UMR7271 - UNS CNRS), that will be part of the supervision team. We are seeking candidates with a strong background in machine learning, computer vision and computational neuroscience.
 
-For more information, visit [https://laurentperrinet.github.io/post/2020-06-30_phd-position](https://laurentperrinet.github.io/post/2020-06-30_phd-position). To candidate, follow instructions on the dedicated [server from the CNRS](https://bit.ly/3igRji4).
+To obtain further information, please visit [https://laurentperrinet.github.io/post/2020-06-30_phd-position](https://laurentperrinet.github.io/post/2020-06-30_phd-position) or contact me @ [Laurent.Perrinet@univ-amu.fr](mailto:Laurent.Perrinet@univ-amu.fr). To candidate, follow instructions on the dedicated [server from the CNRS](https://bit.ly/3igRji4).
 
-The starting date is set to October 1st, 2020. To obtain further information, please contact me @ [Laurent.Perrinet@univ-amu.fr](mailto:Laurent.Perrinet@univ-amu.fr). The appointment is for 36 month. Applications are welcome immediately.
+The starting date is set to October 1st, 2020 and the appointment is for 36 month. Applications are welcome immediately.
 
 Thanks for distributing this announcement to potential candidates!
 
