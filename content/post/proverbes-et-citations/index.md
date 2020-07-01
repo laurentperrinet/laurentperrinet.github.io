@@ -7,6 +7,9 @@ lastmod: 2018-01-13 00:00:00
 summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
+
+* "Science is like sex: sometimes something useful comes out, but that is not the reason we are doing it" -- (Richard Feynman)
+
 * "Mathematics is no more computation than typing is literature." (John Allen Paulos)
 
 * "C'est ce que je fais qui m'apprend ce que je cherche." Pierre Soulages
