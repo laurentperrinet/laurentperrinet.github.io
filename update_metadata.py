@@ -167,7 +167,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
                     # print(parsed_yaml['projects'])
 
 
-            for url_key in ['url_slides', 'url_code', 'url_slides']:
+            for url_key in ['url_slides', 'url_code', 'url_link']:
                 if url_key in entry:
                     parsed_yaml[url_key] = f'{clean_bibtex_str(entry[url_key])}'
 
