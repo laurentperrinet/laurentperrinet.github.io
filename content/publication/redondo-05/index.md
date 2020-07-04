@@ -29,7 +29,7 @@ authors:
 - Sylvain Fischer
 - Laurent U Perrinet
 - Gabriel Cristóbal
-date: 2005-08-17
+date: 2005-08-04
 featured: false
 publication: '*Perception*'
 publication_types:
@@ -40,6 +40,7 @@ tags:
 title: Modeling of simple cells through a sparse overcomplete gabor wavelet representation
   based on local inhibition and facilitation
 ---
+
 
 
 
