@@ -1,7 +1,7 @@
 ---
 authors:
 - victor-boutin
-bio: During my PhD, I focused on predictive coding in a bio-inspired neural network.
+bio: During my PhD, I focused on predictive coding in bio-inspired neural networks.
 education:
   courses:
   - course: Phd in Computational Neuroscience
