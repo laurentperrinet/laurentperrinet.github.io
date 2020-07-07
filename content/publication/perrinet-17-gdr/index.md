@@ -67,6 +67,7 @@ url_pdf: https://github.com/NaturalPatterns/2017-10-12_GDR
 
 
 
+
 # Expériences autour de la perception de la forme en art et science
 La vision utilise un faisceau d'informations de différentes qualités pour atteindre une perception unifiée du monde environnant. Nous avons utilisé lors de plusieurs projets art-science (voir https://github.com/NaturalPatterns) des installations permettant de manipuler explicitement des composantes de ce flux d'information et de révéler des ambiguités dans notre perception.
 ![Tropique](http://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_b.jpg)

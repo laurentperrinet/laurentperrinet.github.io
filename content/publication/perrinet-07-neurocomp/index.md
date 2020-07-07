@@ -68,4 +68,5 @@ url_pdf: http://dx.doi.org/10.1016/j.jphysparis.2007.10.011
 
 
 
+
 ![header](perrinet-07-neurocomp.png)

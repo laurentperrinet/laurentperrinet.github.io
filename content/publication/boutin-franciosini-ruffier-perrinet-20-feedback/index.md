@@ -28,7 +28,7 @@ grants:
 - phd-icn
 - mesocentre
 projects: []
-publication: '*Submitted*'
+publication: '*Neural Computation*'
 publication_types:
 - '2'
 publishDate: '2019-09-17'
