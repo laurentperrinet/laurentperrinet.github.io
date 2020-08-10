@@ -50,4 +50,5 @@ url_pdf: https://laurentperrinet.github.io/talk/2014-04-25-kaplan-beijing/
 
 
 
+
 * see [Kaplan and al, 2014]({{< ref "/publication/kaplan-khoei-14" >}})
