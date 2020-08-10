@@ -51,4 +51,5 @@ title: What adaptive code for efficient spiking representations? A model for the
 
 
 
+
 ![header](perrinet-08.png)

@@ -52,6 +52,7 @@ url_slides: https://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-ne
 
 
 
+
 # Meetup Art et Neurosciences
   - Quoi  
     Meetup Art et Neurosciences
