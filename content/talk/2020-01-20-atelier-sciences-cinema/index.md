@@ -32,13 +32,12 @@ url_pdf: https://laurentperrinet.github.io/talk/2020-01-20-atelier-sciences-cine
 url_slides: https://laurentperrinet.github.io/2020-01-20_atelier_sciences_cinema
 ---
 
-
-
-
 {{< tweet 1284791644240347138 >}}
 
-* Le texte de cette présentation est reprise dans cet article de [The Conversation](https://laurentperrinet.github.io/publication/perrinet-19-temps/) ([lien direct](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567)).
-
 {{< vimeo 398661322 >}}
+
+* Le film "ÇA TOURNE" a été sélectionné pour faire partie de la compétition catégorie «FILMS SCOLAIRES" diffusée du 4 au 7 novembre 2020 dans le cadre du festival "7ème Art Jeunes Talent! : http://www.festivaltournezjeunesse.com
+
+* Le texte de cette présentation est reprise dans cet article de [The Conversation](https://laurentperrinet.github.io/publication/perrinet-19-temps/) ([lien direct](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567)).
 
 * Voir la @ [présentation au NeuroStories]({{< ref "/post/2019-10-07_neurostories/index.md" >}})
