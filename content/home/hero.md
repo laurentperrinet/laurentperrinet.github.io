@@ -24,7 +24,8 @@ title = "Novel visual computations"
   gradient_end = "#2b94c3"
 
   # Background image.
-  image = "img/headers/Etienne-Rey-TROPIQUE_small.jpg"  # Name of image in `static/img/`.https://laurentperrinet.github.io/img/headers/Etienne-Rey-TROPIQUE_small.jpg
+  # image = "img/headers/Etienne-Rey-TROPIQUE_small.jpg"  # Name of image in `static/img/`.
+  image = "Etienne-Rey-TROPIQUE_small.jpg"  # Name of image in `static/img/`.
   image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
