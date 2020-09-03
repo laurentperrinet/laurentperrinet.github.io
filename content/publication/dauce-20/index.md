@@ -25,7 +25,7 @@ authors:
 - Pierre Albigès
 - Laurent U Perrinet
 date: 2020-06-05
-doi: 10.1101/725879
+doi: 10.1167/jov.20.8.22
 featured: false
 grants:
 - spikeai
@@ -44,6 +44,6 @@ tags:
 title: A dual foveal-peripheral visual processing model implements efficient saccade
   selection
 url_code: https://github.com/laurentperrinet/WhereIsMyMNIST
-url_pdf: https://github.com/laurentperrinet/WhereIsMyMNIST
+url_pdf: https://laurentperrinet.github.io/publication/dauce-20/
 url_preprint: https://www.biorxiv.org/content/10.1101/725879v3
 ---
