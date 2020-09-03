@@ -32,6 +32,7 @@ url_pdf: https://laurentperrinet.github.io/talk/2020-01-20-atelier-sciences-cine
 url_slides: https://laurentperrinet.github.io/2020-01-20_atelier_sciences_cinema
 ---
 
+
 {{< tweet 1284791644240347138 >}}
 
 {{< vimeo 398661322 >}}

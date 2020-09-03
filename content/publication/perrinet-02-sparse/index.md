@@ -3,7 +3,7 @@ authors:
 - Laurent U Perrinet
 - Manuel Samuelides
 - Simon J Thorpe
-date: 2004-03-10
+date: 2004-03-03
 doi: 10.1016/j.neucom.2004.01.010
 featured: false
 publication: '*Neurocomputing*'

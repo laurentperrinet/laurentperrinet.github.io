@@ -31,7 +31,7 @@ authors:
 - Mina A Khoei
 - Guillaume S Masson
 - Laurent U Perrinet
-date: 2013-11-10
+date: 2013-11-03
 doi: 10.1016/j.jphysparis.2013.08.001
 featured: false
 grants:
@@ -45,8 +45,9 @@ tags:
 - motion detection
 - motion prediction
 title: Motion-based prediction explains the role of tracking in motion extrapolation
-url_pdf: http://www.citeulike.org/user/LaurentPerrinet/article/12281049
+url_pdf: https://laurentperrinet.github.io/publication/khoei-13-jpp/
 ---
+
 
 
 
