@@ -37,8 +37,6 @@ url_preprint: https://www.biorxiv.org/content/10.1101/784116v3
 
 # "Humans adapt their anticipatory eye movements to the volatility of visual motion properties"
 
-<!-- {{< video src="https://raw.githubusercontent.com/chloepasturel/AnticipatorySPEM/master/2020-03_video-abstract/PasturelMontagniniPerrinet2020_video-abstract.mp4" controls="yes" >}} -->
-
 ## At what point should we become alarmed? When faced with changes in the environment, the sensory system provides an effective response.
 
 The current health situation has shown us how abruptly our environment can change from one state to another, tragically illustrating the volatility we can face. To understand this notion of volatility, let's take the case of a doctor who, among the patients he receives, usually diagnoses one out of ten cases of flu. Suddenly, he gets 5 out of 10 patients who test positive. Is this an unfortunate coincidence or are we now sure that there is a switch to a flu episode? Recent events have shown us how difficult it is to make a rational decision in times of uncertainty, and in particular to decide *when* to act. However, mathematical solutions exist that adapt our behavior by optimally combining the information explored recently with that exploited in the past. In an article published in PLoS Computational Biology, Pasturel, Montagnini and Perrinet show that our brain responds to changes in the sensory environment in the same way as this mathematical model.
