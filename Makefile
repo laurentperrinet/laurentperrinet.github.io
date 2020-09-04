@@ -1,17 +1,17 @@
 default: gitpages
 
 gitpages:
-	sh ./update_gitpages.sh
+	sh scripts/update_gitpages.sh
 
 entries:
-	python3 ./update_entries.py
+	python3 scripts/update_entries.py
 
 new_entries:
 	academic import --bibtex  ../perrinet_curriculum-vitae_tex/LaurentPerrinet_Publications.bib
 	academic import --publication-dir talk --bibtex  ../perrinet_curriculum-vitae_tex/LaurentPerrinet_Presentations.bib
 
 metadata:
-	sh ./update_metadata.sh
+	sh scripts/update_metadata.sh
 
 academic:
-	sh ./update_academic.sh
+	sh scripts/update_academic.sh

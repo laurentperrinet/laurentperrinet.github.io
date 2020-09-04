@@ -1,2 +1,6 @@
 public/
 .idea/
+
+# Hugo
+/resources/
+public/
