@@ -16,5 +16,5 @@ max_line_length = 100
 [*.md]
 trim_trailing_whitespace = false
 
-[wowchemy/layouts/shortcodes/*.html]
+[layouts/shortcodes/*.html]
 insert_final_newline = false
