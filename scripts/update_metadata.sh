@@ -9,13 +9,13 @@ fi
 
 python ../scripts/clean_bibtex.py
 
-cd ../perrinet_curriculum-vitae_tex
+cd ../../perrinet_curriculum-vitae_tex
 
 git pull ; git commit  -m "$msg" -a ; git push
 
 echo "\033[0;32mrecompiling website...\033[0m"
 
-cd ../hugo_academic
+cd ../hugo_academic/scripts
 
 # >>> see MAKE NEW_ENTRIES <<<
 # o ../perrinet_curriculum-vitae_tex/LaurentPerrinet_*bib
