@@ -13,7 +13,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
     from bibtexparser.bibdatabase import BibDatabase
     from bibtexparser.customization import convert_to_unicode
 
-    bibtex = f'../perrinet_curriculum-vitae_tex/LaurentPerrinet_{type}.bib'
+    bibtex = f'../../perrinet_curriculum-vitae_tex/LaurentPerrinet_{type}.bib'
     keys = []
     # 1- Load BibTeX file for parsing.
     with open(bibtex, 'r', encoding='utf-8') as bibtex_file:
