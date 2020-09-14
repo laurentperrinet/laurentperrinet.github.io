@@ -21,7 +21,7 @@ echo ">>> Deploying updates to GitHub pages repo..."
 hugo
 
 # Go To Public folder
-cd laurentperrinet.github.io
+cd ../laurentperrinet.github.io
 # Add changes to git.
 git add .
 
