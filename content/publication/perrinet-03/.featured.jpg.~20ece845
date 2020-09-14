@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
+  <s:exception>Sabre\DAV\Exception</s:exception>
+  <s:message>An exception occurred while executing 'INSERT INTO `oc_file_locks` (`key`, `lock`, `ttl`) VALUES(?, ?, ?)' with params ["files\/9174c1e84b1b74c8064a5102715b718e", 1, 1599735812]:
+
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction</s:message>
+</d:error>
