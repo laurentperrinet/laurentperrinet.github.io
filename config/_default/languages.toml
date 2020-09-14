@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception</s:exception>
-  <s:message>An exception occurred while executing 'INSERT INTO `oc_file_locks` (`key`, `lock`, `ttl`) VALUES(?, ?, ?)' with params ["files\/852d2823b987d1419f438bbc974dfb15", 1, 1599734304]:
+# Languages
+#   Create a `[X]` block for each language you want, where X is the language ID.
+#   Refer to https://sourcethemes.com/academic/docs/language/
 
-SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction</s:message>
-</d:error>
-s"
+# Configure the English version of the site.
+[en]
+  languageCode = "en-us"
+  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+
+# Uncomment the lines below to configure your website in a second language.
+#[zh]
+#  languageCode = "zh-Hans"
 #  contentDir = "content/zh"
 #  title = "Chinese website title..."
 #  [zh.params]
