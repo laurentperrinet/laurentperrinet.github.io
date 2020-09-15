@@ -36,3 +36,5 @@ url_code: https://github.com/laurentperrinet/2020-09-14_IWAI/
 url_pdf: https://laurentperrinet.github.io/talk/2019-07-15-cns
 url_slides: https://laurentperrinet.github.io/2020-09-14_IWAI
 ---
+
+{{< tweet 1305488089989754883 >}}

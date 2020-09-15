@@ -47,3 +47,5 @@ url_code: https://github.com/laurentperrinet/WhereIsMyMNIST
 url_pdf: https://laurentperrinet.github.io/publication/dauce-20/
 url_preprint: https://www.biorxiv.org/content/10.1101/725879v3
 ---
+
+{{< tweet 1305488088412688385 >}}
