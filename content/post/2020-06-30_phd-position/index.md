@@ -1,7 +1,7 @@
 ---
 title: PhD offer "Ultra-fast vision using Spiking Neural Networks"
-subtitle: CD Doctorant "Vision ultra-rapide par réseaux de neurones impulsionnels" H/F (MARSEILLE)
-summary: Offre de thèse "Vision ultra-rapide par réseaux de neurones impulsionnels" à Marseille
+subtitle: THE POSITION HAS BEEN FILLED. CD Doctorant "Vision ultra-rapide par réseaux de neurones impulsionnels" H/F (MARSEILLE)
+summary: THE POSITION HAS BEEN FILLED. Offre de thèse "Vision ultra-rapide par réseaux de neurones impulsionnels" à Marseille
 authors:
 - laurent-u-perrinet
 date: 2020-06-30 09:00:00
@@ -17,6 +17,9 @@ projects: []
 tags:
 - events
 ---
+{{% alert warning %}}
+THE POSITION HAS BEEN FILLED.
+{{% /alert %}}
 
 Dear colleagues,
 
