@@ -39,5 +39,4 @@ url_slides: https://laurentperrinet.github.io/2020-09-14_IWAI
 
 {{< tweet 1305488089989754883 >}}
 
-
-{{< video src="https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true" controls="yes" >}}
+{{< figure src="https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true" >}}
