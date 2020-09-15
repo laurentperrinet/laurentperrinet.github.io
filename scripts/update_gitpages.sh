@@ -1,6 +1,9 @@
 #!/bin/bash
 
 # see https://gohugo.io/hosting-and-deployment/hosting-on-github/
+# https://wowchemy.com/docs/deployment/
+
+# got to root folder
 cd ..
 
 echo ">>> Commit changes to source repo to GitHub..."
