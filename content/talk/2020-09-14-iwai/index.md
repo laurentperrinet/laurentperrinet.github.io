@@ -21,7 +21,7 @@ abstract: Visual search is an essential cognitive ability, offering a prototypic
 authors:
 - Emmanuel Daucé
 - Laurent Perrinet
-date: 2020-09-14 12:40:00
+date: 2020-09-14 18:00:01
 event: IWAI*2020
 featured: false
 location: Ghent (Belgium), gone virtual
