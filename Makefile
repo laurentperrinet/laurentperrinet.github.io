@@ -1,5 +1,9 @@
 default: gitpages
 
+update:
+	git submodule update --init --recursive
+	git pull
+
 gitpages:
 	cd scripts; sh update_gitpages.sh
 
