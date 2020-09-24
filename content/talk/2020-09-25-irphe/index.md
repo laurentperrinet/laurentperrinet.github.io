@@ -11,8 +11,6 @@ url_code: https://github.com/laurentperrinet/2020-09-25_IRPHE/
 url_slides: https://laurentperrinet.github.io/2020-09-25_IRPHE
 ---
 
-# Understanding natural vision <BR> using deep predictive coding
-
 * What:: talk @ [Séminaire à l'Institut de Recherche sur les Phénomènes Hors Équilibre (IRPHÉ)](https://laurentperrinet.github.io/talk/2020-09-25-irphe)
 * Who:: Perrinet, Laurent U
 * Where: Marseille (France), see https://laurentperrinet.github.io/talk/2020-09-25-irphe
