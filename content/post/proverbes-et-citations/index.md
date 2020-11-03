@@ -8,11 +8,13 @@ summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
 
-* "Science is like sex: sometimes something useful comes out, but that is not the reason we are doing it" -- (Richard Feynman)
+* "We are all prodigious Olympians in perceptual and motor areas, so good that we make the difficult look easy." (Hans Moravec)
+
+* "Science is like sex: sometimes something useful comes out, but that is not the reason we are doing it." (Richard Feynman)
 
 * "Mathematics is no more computation than typing is literature." (John Allen Paulos)
 
-* "C'est ce que je fais qui m'apprend ce que je cherche." Pierre Soulages
+* "C'est ce que je fais qui m'apprend ce que je cherche." (Pierre Soulages)
 
 * “**Harry Potter:** Is this real? Or has this been happening inside my head?  **Professor Albus Dumbledore:** Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?” ― (J.K. Rowling, [Harry Potter and the Deathly Hallows](https://www.goodreads.com/work/quotes/2963218))
 

@@ -26,7 +26,6 @@ title: Postdoc position on Visual computations using Spatio-temporal Diffusion K
 THE POSITION HAS BEEN FILLED.
 {{% /alert %}}
 
-
 {{< tweet 1188940039293751297 >}}
 
 Dear colleagues,

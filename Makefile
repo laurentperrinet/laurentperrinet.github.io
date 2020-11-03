@@ -1,6 +1,7 @@
 default: gitpages
 
 update:
+	hugo mod get github.com/wowchemy/wowchemy-hugo-modules/wowchemy/@master
 	git submodule update --init --recursive
 	git pull
 
