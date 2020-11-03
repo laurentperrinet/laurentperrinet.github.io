@@ -22,6 +22,7 @@ authors:
 - Franck Ruffier
 - Laurent U Perrinet
 date: 2020-02-04
+doi: 10.1162/neco_a_01325
 featured: false
 grants:
 - doc-2-amu
