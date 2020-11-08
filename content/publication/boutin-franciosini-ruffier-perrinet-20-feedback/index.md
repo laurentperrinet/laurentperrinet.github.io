@@ -22,6 +22,7 @@ authors:
 - Franck Ruffier
 - Laurent U Perrinet
 date: 2020-02-04
+doi: 10.1162/neco_a_01325
 featured: false
 grants:
 - doc-2-amu
@@ -39,3 +40,6 @@ title: Effect of top-down connections in Hierarchical Sparse Coding
 url_pdf: https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/
 url_preprint: https://arxiv.org/abs/2002.00892
 ---
+{{< tweet 1323549136088694790 >}}
+
+ * get the code @ https://github.com/VictorBoutin/SPC_2L
