@@ -8,6 +8,8 @@ summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
 
+* "The question of whether a computer can think is no more interesting than the question of whether a submarine can swim." - Edsger W. Dijkstra
+
 * "We are all prodigious Olympians in perceptual and motor areas, so good that we make the difficult look easy." (Hans Moravec)
 
 * "Science is like sex: sometimes something useful comes out, but that is not the reason we are doing it." (Richard Feynman)
