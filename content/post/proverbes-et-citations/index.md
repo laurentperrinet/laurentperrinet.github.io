@@ -8,6 +8,8 @@ summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
 
+* “Slow is smooth, smooth is fast.”  [Emily Harrington on El Cap](https://www.nytimes.com/2020/11/09/sports/emily-harrington-free-climb-yosemite.html)
+
 * "The question of whether a computer can think is no more interesting than the question of whether a submarine can swim." - Edsger W. Dijkstra
 
 * "We are all prodigious Olympians in perceptual and motor areas, so good that we make the difficult look easy." (Hans Moravec)
