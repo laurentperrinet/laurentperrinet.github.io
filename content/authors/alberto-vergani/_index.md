@@ -14,6 +14,10 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/alberto-arturo-vergani-75288330
+  link: https://www.researchgate.net/profile/Alberto_Vergani
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCzxesD7KEVc55s5aQaZug4Q
 superuser: false
 
 education:
