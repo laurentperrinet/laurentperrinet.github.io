@@ -6,6 +6,7 @@ update:
 	git pull
 
 gitpages:
+	cd laurentperrinet.github.io; git checkout master; 	git pull
 	cd scripts; sh update_gitpages.sh
 
 entries:
