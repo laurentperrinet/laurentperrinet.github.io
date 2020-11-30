@@ -44,3 +44,25 @@ title: 'From the retina to action: Dynamics of predictive processing in the visu
   system'
 url_pdf: https://laurentperrinet.github.io/publication/perrinet-20/
 ---
+
+This chapter is available as part of the book "[The Philosophy and Science of Predictive Processing](https://www.bloomsbury.com/uk/the-philosophy-and-science-of-predictive-processing-9781350099753/)"
+
+List of Contributors :
+ * Preface: The Brain as a Prediction Machine, Anil Seth
+ * Introduction, Dina Mendonça, Manuel Curado & Steven S. Gouveia
+ * Part I: Predictive Processing: Philosophical Approaches
+  1. Predictive Processing and Representation: How Less Can Be More, Erik Myin and Thomas van Es
+  2. A Humean Challenge to Predictive Coding, Colin Klein
+  3. Are Markov Blankets Real and Does it Matter?, Richard Menary and Alexander J. Gillett
+  4. Predictive Processing and Metaphysical Views of the Self, Robert Clowes and Klaus Gärtner
+ * Part II: Predictive Processing: Cognitive Science and Neuroscientific Approaches
+  5. From the Retina to Action: Dynamics of Predictive Processing in the Visual System, Laurent Perrinet
+  6. Predictive Processing and Consciousness: Prediction Fallacy and its Spatiotemporal Resolution, Steven S. Gouveia
+  7. The Many Faces of Attention: Why Precision Optimization is not Attention, Sina Fazelpour and Madeleine Ransom
+  8. Predictive Processing: Does it Compute?, Chris Thornton
+ * Part III: Predictive Processing: Mental Health
+  9. The Predictive Brain, Conscious Experience and Brain-related Conditions, Lisa Feldman Barrett and Lorena Chanes
+  10. Disconnection and Diaschisis: Active Inference in Neuropsychology, Thomas Parr and Karl Friston
+  11. The Phenomenology and Predictive Processing of Time in Depression, Zachariah Neemeh and Shaun Gallagher
+  12. Why Use Predictive Processing to Explain Psychopathology? The Case of Anorexia Nervosa, Jakob Hohwy and Stephen Gadsby
+ * Afterword, Manuel Curado
