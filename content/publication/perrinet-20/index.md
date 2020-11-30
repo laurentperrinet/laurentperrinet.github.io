@@ -26,7 +26,7 @@ abstract: Within the central nervous system, visual areas are essential in trans
   we will enumerate some possible implementations using biomimetic neural networks.
 authors:
 - Laurent U Perrinet
-date: 2020-01-01
+date: 2020-05-17
 featured: false
 grants:
 - anr-horizontal-v1
@@ -43,6 +43,9 @@ tags:
 title: 'From the retina to action: Dynamics of predictive processing in the visual
   system'
 url_pdf: https://laurentperrinet.github.io/publication/perrinet-20/
+url_code: https://github.com/laurentperrinet/Perrinet19PredictiveProcessing
+url_preprint: https://laurentperrinet.github.io/Perrinet20PredictiveProcessing/
+doi: 10.5040/9781350099784.ch-005
 ---
 
  * Find the text at https://laurentperrinet.github.io/Perrinet20PredictiveProcessing/
