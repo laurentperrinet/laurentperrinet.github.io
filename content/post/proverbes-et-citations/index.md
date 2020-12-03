@@ -8,6 +8,10 @@ summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
 
+* "Free will, we're determined to have it"
+
+* "Scientist would rather borrow the toothbrush of other scientists than their words" - G. Edelman
+
 * “Slow is smooth, smooth is fast.”  [Emily Harrington on El Cap](https://www.nytimes.com/2020/11/09/sports/emily-harrington-free-climb-yosemite.html)
 
 * "The question of whether a computer can think is no more interesting than the question of whether a submarine can swim." - Edsger W. Dijkstra
