@@ -1,12 +1,12 @@
 ---
-date: 2016-04-27 00:00:00
+date: 2020-04-27 00:00:00
 summary: 'ANR PRIOSENS (2021/2024) : Integration sensory and prior information to control behavior (CRCNS US-French Research Proposal)'
 authors:
 - anna-montagnini
 - laurent-perrinet
 tags:
 - grant
-- past-grant
+- current-grant
 title: ANR PRIOSENS (2021/2024)
 ---
 
