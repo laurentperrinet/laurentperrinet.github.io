@@ -1,6 +1,9 @@
 ---
 date: 2016-04-27 00:00:00
 summary: 'DOC2AMU: An Excellence Fellowship (2016/2019).'
+authors:
+- victor-boutin
+- laurent-perrinet
 tags:
 - grant
 - past-grant

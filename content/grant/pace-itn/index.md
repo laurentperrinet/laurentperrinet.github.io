@@ -1,6 +1,9 @@
 ---
 date: 2015-04-27 00:00:00
 summary: 'PACE-ITN: ITN Marie Curie network (2015/2019).'
+authors:
+- anna-montagnini
+- laurent-perrinet
 tags:
 - grant
 - past-grant

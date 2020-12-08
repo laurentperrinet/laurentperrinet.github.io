@@ -2,6 +2,10 @@
 date: 2016-04-27 00:00:00
 summary: 'ANR Horizontal-V1 (2017/2021): Connectivité Horizontale et Prédiction de
   Cohérences dans l''Intégration de Contour et Mouvement dans le Cortex Visuel Primaire'
+authors:
+- yves-fregnac
+- frederic-y-chavane
+- laurent-perrinet
 tags:
 - grant
 - current-grant
