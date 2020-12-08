@@ -3,7 +3,7 @@ date: 2016-04-27 00:00:00
 summary: ANR TRAJECTORY (2016/2019).
 authors:  
 - frederic-y-chavane
-- laurent-perrinet
+- laurent-u-perrinet
 tags:
 - grant
 - past-grant

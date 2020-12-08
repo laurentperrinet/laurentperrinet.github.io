@@ -3,7 +3,7 @@ date: 2019-09-10 10:00:00
 summary: Le projet APROVIS3D est lauréat de l'[appel à projets 2018 *CHIST-ERA*](http://www.chistera.eu/projects/aprovis3d) (2019).
 authors:  
 - jean-martinet
-- laurent-perrinet
+- laurent-u-perrinet
 tags:
 - grant
 - current-grant

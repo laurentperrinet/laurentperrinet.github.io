@@ -5,7 +5,7 @@ summary: 'ANR Horizontal-V1 (2017/2021): Connectivité Horizontale et Prédictio
 authors:
 - yves-fregnac
 - frederic-y-chavane
-- laurent-perrinet
+- laurent-u-perrinet
 tags:
 - grant
 - current-grant

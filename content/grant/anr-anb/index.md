@@ -4,7 +4,7 @@ summary: 'ANR AgileNeuroBot (2021/2024): Robots aériens agiles bio-mimetiques p
 authors:
 - stephane-viollet
 - ryad-benosman
-- laurent-perrinet
+- laurent-u-perrinet
 tags:
 - grant
 - current-grant

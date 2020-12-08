@@ -3,7 +3,7 @@ date: 2016-04-27 00:00:00
 summary: 'ANR PredictEye (2018/2020) : Mapping and predicting trajectories for eye  movements'
 authors:
 - anna-montagnini
-- laurent-perrinet
+- laurent-u-perrinet
 tags:
 - grant
 - past-grant
