@@ -20,7 +20,7 @@ We propose to use dynamic inference as an efficient theoretical framework to und
 * Type de contrat : CRCNS US-French Research Proposal
 * Durée: 3 ans, à partir du 1er avril 2021
 * Budget total (partenaire français): 341 k€
-*	to be recruited: Post-doctoral fellow: A post-post-doctoral fellow in computational neuroscience will be recruited. With a 2-5 years experience, salary cost is of 52K€/year ($57300/year), for 2 years (total: 104K€ / $114620).
+*	to be recruited: Post-doctoral fellow: A post-post-doctoral fellow in computational neuroscience will be recruited. With a 2-5 years experience, salary cost is of 52K€/year, for 2 years (total: 104K€).
 * Coordinateur Scientifique : MONTAGNINI, Anna & PERRINET Laurent (UMR7289)
 * Partenaire(s) : AGENCE NATIONALE DE LA RECHERCHE
 * Responsable Scientifique INT : MASSON Guillaume (UMR7289)
