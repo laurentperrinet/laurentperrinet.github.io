@@ -19,3 +19,5 @@ tags:
 - motion-clouds
 title: Dynamic Textures For Probing Motion Perception
 ---
+
+* See a followup in [Vacher et al, 2016, Neural Computation]({{< ref "/publication/vacher-16" >}})

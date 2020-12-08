@@ -16,3 +16,5 @@ tags:
 - motion-clouds
 title: A Mathematical Account of Dynamic Texture Synthesis for Probing Visual Perception
 ---
+
+* See a followup in [Vacher et al, 2016, Neural Computation]({{< ref "/publication/vacher-16" >}})
