@@ -27,8 +27,7 @@ title: Slides
 
 ### sub-slide 2
 
-- Efficiently write sub-slide 2
-- Efficiently write sub-slide 2
+<video data-autoplay src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"></video>
 
 ---
 
