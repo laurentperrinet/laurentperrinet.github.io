@@ -29,28 +29,14 @@ title: 2020-12-10_AgileNeuroBot
 
 ## consortium
 
-<img src="https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg" alt="SV" height="200px"><img src="https://laurentperrinet.github.io/author/ryad-benosman/avatar_hu2d5c77d2b84468d5dedad740d610465b_7790_270x270_fill_q75_lanczos_center.jpg" alt="RB" height="200px"><img src="https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.jpg" alt="LP" height="200px">
-
----
-
-SV | RB | LP
-<img src="https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg" alt="SV" width="200px">|<img src="https://laurentperrinet.github.io/author/ryad-benosman/avatar.jpg" alt="RB" width="200px">|<img src="https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.jpg" alt="LP" width="200px">
-
----
-
-SV | RB | LP
----|----|---
-<img src="https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg" alt="SV" width="200px">|<img src="https://laurentperrinet.github.io/author/ryad-benosman/avatar.jpg" alt="RB" width="200px">|<img src="https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.jpg" alt="LP" width="200px">
-
----
-
-Stéphane Viollet | Ryad Benosman | Laurent Perrinet
+![SV](https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg) | ![RB](https://laurentperrinet.github.io/author/ryad-benosman/avatar_hu2d5c77d2b84468d5dedad740d610465b_7790_270x270_fill_q75_lanczos_center.jpg)| ![LP](https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.jpg)
 ------ | ------ | ------
-![SV](https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg) | ![RB](https://laurentperrinet.github.io/author/ryad-benosman/avatar_hu2d5c77d2b84468d5dedad740d610465b_7790_270x270_fill_q75_lanczos_center.jpg)| ![LP](https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.jpg)
+Stéphane Viollet | Ryad Benosman | Laurent Perrinet
 
 ---
 
-![SV](https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg) | ![RB](https://laurentperrinet.github.io/author/ryad-benosman/avatar_hu2d5c77d2b84468d5dedad740d610465b_7790_270x270_fill_q75_lanczos_center.jpg)| ![LP](https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.jpg)
+## consortium
+<img src="https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg" alt="SV" height="200px"> | <img src="https://laurentperrinet.github.io/author/ryad-benosman/avatar_hu2d5c77d2b84468d5dedad740d610465b_7790_270x270_fill_q75_lanczos_center.jpg" alt="RB" height="200px"> | <img src="https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.jpg" alt="LP" height="200px">
 ------ | ------ | ------
 Stéphane Viollet | Ryad Benosman | Laurent Perrinet
 
