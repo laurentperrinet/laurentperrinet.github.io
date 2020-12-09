@@ -2,6 +2,7 @@
 date: 2020-12-07 00:00:00
 summary: 'ANR AgileNeuroBot (2021/2024): Robots aériens agiles bio-mimetiques pour le vol en conditions réelles'
 authors:
+- emmanuel-dauce
 - stephane-viollet
 - ryad-benosman
 - laurent-u-perrinet
@@ -17,7 +18,6 @@ title: ANR AgileNeuroBot (2021/2024)
 {{< figure src="event_driven_computations.png" title="A miniature, event-based ATIS sensor. Contrary to a classical frame-based camera for which a full dense image representation is given at discrete, regularly spaced timings, the event-based camera provides with events at the micro-second resolution. These are sparse as they represent luminance increments or decrements (ON and OFF events, respectively)." numbered="true" >}}
 
 {{< figure src="principe_agile.jpg" title="Our system is divided into 3 units to process visual inputs (ATIS) until the rotors: the ***C***amera, ***P***rocessor and ***M***otor units. Each represents respectively multi-channel feature maps ($C_i$), an estimate of the depth-of-field ($P$) and a navigation map, for instance time-of-contacts on a polar map ($M$). Compared to a discrete-time pipeline, we will design an integrated, back-to-back event-driven system based on a fast, two-way processing between the ***C***, ***P*** and ***M*** units. Event-driven, feed-forward and feed-back communications are denoted respectively in yellow, black and red. Notice the attention module $A$ from $P$ to $C$ and the feed-back of navigation information from $M$ and the IMU to $P$." numbered="true" >}}
-
 
 
 ## Fiche d'identité
