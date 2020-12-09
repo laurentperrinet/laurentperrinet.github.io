@@ -34,20 +34,21 @@ title: 2020-12-10_AgileNeuroBot
 
 <img src="https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg" alt="SV" width="200px"><img src="https://laurentperrinet.github.io/author/ryad-benosman/avatar.jpg" alt="RB" width="200px"><img src="https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.jpg" alt="LP" width="200px">
 
-SV | RB | LP
-<img src="https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg" alt="SV" width="200px">|<img src="https://laurentperrinet.github.io/author/ryad-benosman/avatar.jpg" alt="RB" width="200px">|<img src="https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.jpg" alt="LP" width="200px">
-
-### sub-slide 2
+---
 
 SV | RB | LP
 <img src="https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg" alt="SV" width="200px">|<img src="https://laurentperrinet.github.io/author/ryad-benosman/avatar.jpg" alt="RB" width="200px">|<img src="https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.jpg" alt="LP" width="200px">
 
+---
+
+SV | RB | LP
+<img src="https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg" alt="SV" width="200px">|<img src="https://laurentperrinet.github.io/author/ryad-benosman/avatar.jpg" alt="RB" width="200px">|<img src="https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.jpg" alt="LP" width="200px">
+
+---
 
 population size | bio simtime
 ------ | ------
-![SV](https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg) | ![SV](https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg) 
-
-
+![SV](https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg) | ![SV](https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg)
 
 ---
 
