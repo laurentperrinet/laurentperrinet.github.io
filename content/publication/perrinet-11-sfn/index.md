@@ -96,4 +96,4 @@ url_pdf: https://laurentperrinet.github.io/publication/perrinet-11-sfn
 
 
 
-* See a followup in [Perrinet and Bednar, 2015]({{< ref "/publication/perrinet-bednar-15" >}})
+* See a followup in {{< cite page="/publication/perrinet-bednar-15" view="4" >}}

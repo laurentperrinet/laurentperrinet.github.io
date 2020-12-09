@@ -34,38 +34,6 @@ title: Phase space analysis of networks based on biologically realistic paramete
 url_pdf: http://dx.doi.org/10.1016/j.jphysparis.2009.11.004
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![header](voges-10-jpp.png)
+
+* see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}
