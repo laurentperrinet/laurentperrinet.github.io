@@ -11,7 +11,7 @@ title: 2020-12-10_AgileNeuroBot
 
 [Réunion de lancement : présentation du projet AgileNeuroBot](https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot)
 
-![ANR](https://laurentperrinet.github.io/grant/anr-anb/featured.png)
+![ANR](https://laurentperrinet.github.io/grant/anr-anb/featured.png){:height="36px" width="36px"}
 
 ---
 <!-- # [Le projet AgileNeuroBot](https://laurentperrinet.github.io/grant/anr-anb/) -->

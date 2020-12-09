@@ -29,7 +29,7 @@ title: ANR AgileNeuroBot (2021/2024)
 * Coordinateur Scientifique : PERRINET Laurent (UMR7289)
 * Durée: 3 ans, à partir du 1er avril 2021
 * Budget total: 435 k€
-* Responsable Scientifiques : PERRINET Laurent (INT, UMR7289),  
+* Responsable Scientifiques : Stéphane Viollet (BioRobotique, Inst Sciences Mouvement), Ryad Benosman (Inst de la Vision ) | Laurent Perrinet (NeOpTo, Inst Neurosciences de la Timone)
 
 ## Résumé
 Des robots aériens autonomes seraient des outils essentiels dans les opérations de recherche et de sauvetage. Toutefois, voler dans des environnements complexes exige un haut niveau d'agilité, ce qui implique par exemple la capacité de déclencher des manœuvres agressives pour esquiver les obstacles: Les caméras et algorithmes d'intelligence artificielle conventionnels n'ont pas ces capacités. Dans ce projet, nous proposerons une solution associant de manière bio-inspirée une dynamique rapide de détection visuelle et de stabilisation. Nous intégrerons ces différents aspects dans un système neuromorphique événementiel de bout en bout. La clé de cette approche est l'optimisation des délais du système par traitement prédictif. Ceci permettra de voler indépendamment, sans aucune intervention de l'utilisateur. Notre objectif à plus long terme est de satisfaire ces besoins avec un minimum d'énergie et de fournir des solutions novatrices aux défis des algorithmes traditionnels d'IA.
