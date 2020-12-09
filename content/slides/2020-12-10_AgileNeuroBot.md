@@ -36,7 +36,7 @@ title: 2020-12-10_AgileNeuroBot
 ---
 ## Recurrent processing
 
-{{< figure src="https://laurentperrinet.github.io/grant/anr-anb/principe_agile.jpg" title="Our system is divided into 3 units to process visual inputs (ATIS)communicating by event-driven, feed-forward and feed-back communications." numbered="true" >}}
+{{< figure src="https://laurentperrinet.github.io/grant/anr-anb/principe_agile.jpg" title="Our system is divided into 3 units to process visual inputs communicating by event-driven, feed-forward and feed-back communications." numbered="true" >}}
 
 ---
 ## Consortium:
