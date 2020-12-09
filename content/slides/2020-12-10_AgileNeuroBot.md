@@ -2,7 +2,7 @@
 slides:
   theme: "white"  # Reveal JS theme name
   font-size: "10pt"
- 
+
 title: 2020-12-10_AgileNeuroBot
 ---
 <!-- # [Le projet AgileNeuroBot](https://laurentperrinet.github.io/grant/anr-anb/) -->
@@ -12,6 +12,14 @@ title: 2020-12-10_AgileNeuroBot
 [Réunion de lancement : présentation du projet AgileNeuroBot](https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot)
 
 ![ANR](https://laurentperrinet.github.io/grant/anr-anb/featured.png)
+
+---
+<!-- # [Le projet AgileNeuroBot](https://laurentperrinet.github.io/grant/anr-anb/) -->
+
+<img src="https://laurentperrinet.github.io/grant/anr-anb/header.png" alt="ANR" height="60%">
+
+<img src="https://laurentperrinet.github.io/grant/anr-anb/featured.png" alt="ANR" height="30%> | [Réunion de lancement : présentation du projet AgileNeuroBot](https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot)
+------ | ------
 
 ---
 
@@ -29,8 +37,7 @@ title: 2020-12-10_AgileNeuroBot
 <img src="https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg" alt="SV" height="200px"> | <img src="https://laurentperrinet.github.io/author/ryad-benosman/avatar_hu2d5c77d2b84468d5dedad740d610465b_7790_270x270_fill_q75_lanczos_center.jpg" alt="RB" height="200px"> | <img src="https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.jpg" alt="LP" height="200px">
 ------ | ------ | ------
 Stéphane Viollet | Ryad Benosman | Laurent Perrinet
------- | ------ | ------
-Inst Sci Mouvement | Inst Vision | Inst Neurosciences de la Timone
+Inst Sciences Mouvement | Inst de la Vision | Inst Neurosciences de la Timone
 
 ---
 
