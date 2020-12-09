@@ -45,3 +45,4 @@ tags:
 title: 'PyNN: towards a universal neural simulator API in Python'
 url_pdf: http://dx.doi.org/10.1186/1471-2202-8-S2-P2
 ---
+* see a follow-up: {{< cite page="/publication/davison-08" view="4" >}}
