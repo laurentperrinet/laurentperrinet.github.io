@@ -45,7 +45,6 @@ title: 2020-12-10_AgileNeuroBot
 Stéphane Viollet | Ryad Benosman | Laurent Perrinet
 Julien Diperi | SioHoi Ieng | Emmanuel Daucé
 Inst Sciences Mouvement | Inst de la Vision | Inst Neurosci de la Timone
-Post-doc 1 | Post-doc 1 | PhD
 
 ---
 {{< figure src="https://laurentperrinet.github.io/grant/anr-anb/gantt.png" title="Gantt Chart of project organization." numbered="true" >}}
