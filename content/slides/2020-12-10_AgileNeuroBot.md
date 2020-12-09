@@ -11,13 +11,19 @@ title: 2020-12-10_AgileNeuroBot
 
 ---
 
+{{< figure src="agile_UAV.jpg" title="An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment would require the agility to navigate rapidly by detecting as fast as possible potential obstacles, as represented here by the collision zone, given a cruising speed, associated to slow or fast latencies (respectively red and blue shaded areas). This project will provide with a novel neuromorphic architecture designed to meet these requirements thanks to an event-based, two-way processing." numbered="true" >}}
+
 
 ## Fiche d'identité
 
+* Acronyme : AgileNeuroBot
+* Titre : Robots aériens agiles bio-mimetiques pour le vol en conditions réelles
+* Titre en anglais : Bio-mimetic Agile aerial roBots flying in real-life conditions
+* CES : CE23 - Intelligence Artificielle / Instrument de financement : Projet de recherche collaborative (PRC) / Catégorie R&D : Recherche fondamentale
 * Coordinateur Scientifique : PERRINET Laurent (UMR7289)
 * Durée: 3 ans, à partir du 1er avril 2021
 * Budget total: 435 k€
-* Responsable Scientifiques :
+* Responsable Scientifiques : PERRINET Laurent (INT, UMR7289),  
 
 ---
 
