@@ -23,10 +23,6 @@ title: 2020-12-10_AgileNeuroBot
 
 ---
 
-{{< figure src="https://laurentperrinet.github.io/grant/anr-anb/agile_UAV.jpg" title="An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment would require the agility to navigate rapidly by detecting as fast as possible potential obstacles, as represented here by the collision zone, given a cruising speed, associated to slow or fast latencies (respectively red and blue shaded areas). This project will provide with a novel neuromorphic architecture designed to meet these requirements thanks to an event-based, two-way processing." numbered="true" >}}
-
----
-
 ## consortium
 
 ![SV](https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg) | ![RB](https://laurentperrinet.github.io/author/ryad-benosman/avatar_hu2d5c77d2b84468d5dedad740d610465b_7790_270x270_fill_q75_lanczos_center.jpg)| ![LP](https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.jpg)
@@ -42,12 +38,20 @@ Stéphane Viollet | Ryad Benosman | Laurent Perrinet
 
 ---
 
+{{< figure src="https://laurentperrinet.github.io/grant/anr-anb/agile_UAV.jpg" title="An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment. This project will provide with a novel neuromorphic architecture designed to meet these requirements thanks to an event-based, two-way processing." numbered="true" >}}
+
+---
+
+{{< figure src="https://laurentperrinet.github.io/grant/anr-anb/event_driven_computations.png" title="A miniature, event-based ATIS sensor, from classical frame-based camera to event-based camera provides with events at the micro-second resolution." numbered="true" >}}
+
+---
+
+{{< figure src="https://laurentperrinet.github.io/grant/anr-anb/principe_agile.jpg" title="Our system is divided into 3 units to process visual inputs (ATIS)communicating by event-driven, feed-forward and feed-back communications." numbered="true" >}}
+
+---
+
 # Questions?
 
-      <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
+Ask info @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
-Ask info @ [<i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>](https://laurentperrinet.github.io/#contact)
-
-Ask info @ [e-mail](https://laurentperrinet.github.io/#contact)
-
-More info @ [https://laurentperrinet.github.io/grant/anr-anb](https://laurentperrinet.github.io/grant/anr-anb)
+More info @ [web-site](https://laurentperrinet.github.io/grant/anr-anb)
