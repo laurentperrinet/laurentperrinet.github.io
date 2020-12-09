@@ -11,8 +11,10 @@ title: 2020-12-10_AgileNeuroBot
 <!-- # [Le projet AgileNeuroBot](https://laurentperrinet.github.io/grant/anr-anb/) -->
 
 <img src="https://laurentperrinet.github.io/grant/anr-anb/header.png" alt="ANR" height="60%">
-
 [Réunion de lancement : présentation du projet AgileNeuroBot](https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot) <img src="https://laurentperrinet.github.io/grant/anr-anb/featured.png" alt="ANR" height="10%">
+---
+<img src="https://laurentperrinet.github.io/grant/anr-anb/header.png" alt="ANR" height="60%">
+[Réunion de lancement : présentation du projet AgileNeuroBot](https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot) - <img src="https://laurentperrinet.github.io/grant/anr-anb/featured.png" alt="ANR" height="10%">
 ---
 
 ## AgileNeuroBot: Fiche d'identité
@@ -22,10 +24,6 @@ title: 2020-12-10_AgileNeuroBot
 * CES : CE23 - Intelligence Artificielle
 * Durée: 3 ans, à partir du 1er avril 2021
 * Budget total: 435 k€
-
----
-
-{{< figure src="https://laurentperrinet.github.io/grant/anr-anb/agile_UAV.jpg" title="An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment." numbered="true" >}}
 
 ---
 
