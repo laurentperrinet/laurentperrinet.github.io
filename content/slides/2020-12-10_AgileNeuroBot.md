@@ -12,7 +12,7 @@ title: 2020-12-10_AgileNeuroBot
 <table>
 <tr>
 	<th>[Réunion de lancement : présentation du projet AgileNeuroBot](https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot)</th>
-	<th><img src="https://laurentperrinet.github.io/grant/anr-anb/featured.png" alt="ANR" height="10%">/th>
+	<th><img src="https://laurentperrinet.github.io/grant/anr-anb/featured.png" alt="ANR" height="10%"></th>
 </tr>
 </table>
 
@@ -23,7 +23,8 @@ title: 2020-12-10_AgileNeuroBot
 <tr>
 	<th><a href="https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot">Réunion de lancement : présentation du projet AgileNeuroBot</a>
 	</th>
-	<th><img src="https://laurentperrinet.github.io/grant/anr-anb/featured.png" alt="ANR" height="10%">/th>
+	<th><img src="https://laurentperrinet.github.io/grant/anr-anb/featured.png" alt="ANR" height="10%">
+	</th>
 </tr>
 </table>
 
