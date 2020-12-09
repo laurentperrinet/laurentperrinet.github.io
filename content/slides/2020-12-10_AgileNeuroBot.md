@@ -11,7 +11,7 @@ title: 2020-12-10_AgileNeuroBot
 <img src="https://laurentperrinet.github.io/grant/anr-anb/header.png" alt="ANR" height="450">
 <table>
 <tr>
-	<th><a href="https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot">Réunion de lancement : <br> Présentation du projet AgileNeuroBot</a>
+	<th><a href="https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot">2020-12-10 Réunion de lancement : <br> Présentation du projet AgileNeuroBot</a>
 	</th>
 	<th><img src="https://laurentperrinet.github.io/grant/anr-anb/featured.png" alt="ANR" height="120">
 	</th>
@@ -29,7 +29,7 @@ title: 2020-12-10_AgileNeuroBot
 * Budget total: 435 k€
 
 ---
-## Spiking neural networks
+## Spiking Neural Networks
 
 {{< figure src="https://laurentperrinet.github.io/grant/anr-anb/event_driven_computations.png" title="From frame-based to event-based cameras." numbered="true" >}}
 
