@@ -30,7 +30,7 @@ title: Sparse Gabor wavelets by local operations
 url_pdf: http://dx.doi.org/10.1117/12.608403
 ---
 
-
+* relies on log-Gabor filters: {{< cite page="/publication/fischer-07-cv" view="4" >}}
 
 
 
