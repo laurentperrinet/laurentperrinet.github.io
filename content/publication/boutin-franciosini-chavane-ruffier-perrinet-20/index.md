@@ -46,5 +46,5 @@ url_pdf: https://arxiv.org/abs/1902.07651
 url_preprint: https://arxiv.org/abs/1902.07651
 ---
 
-* more about the role of feed-back: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}
+* more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}
 * presented during this [talk]({{< ref "/talk/2019-03-25-hdr-robin-baures/index.md" >}})
