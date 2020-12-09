@@ -1,7 +1,7 @@
 ---
 slides:
   theme: black
-title: Slides
+title: 2020-12-10_AgileNeuroBot
 ---
 # Welcome to Slides
 
