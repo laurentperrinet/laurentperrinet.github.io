@@ -23,3 +23,5 @@ url_pdf: https://laurentperrinet.github.io/publication/boutin-franciosini-ruffie
 ---
 
 {{< tweet 1186196186170044421 >}}
+
+* see a follow-up in {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
