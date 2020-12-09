@@ -3,10 +3,11 @@ slides:
   theme: black
 title: 2020-12-10_AgileNeuroBot
 ---
-# Réunion de lancement : présentation du projet AgileNeuroBot
+# [Le projet AgileNeuroBot](https://laurentperrinet.github.io/grant/anr-anb/)
 
-[Le projet AgileNeuroBot](https://laurentperrinet.github.io/grant/anr-anb/)
+[Réunion de lancement : présentation du projet AgileNeuroBot](https://laurentperrinet.github.io/slides/2020-12-10_AgileNeuroBot/#/)
 
+![ANR](https://laurentperrinet.github.io/grant/anr-anb/featured.png)
 ---
 
 ## Features
