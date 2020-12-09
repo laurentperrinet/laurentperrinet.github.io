@@ -8,7 +8,7 @@ title: 2020-12-10_AgileNeuroBot
 
 ---
 
-<img src="https://laurentperrinet.github.io/grant/anr-anb/header.png" alt="ANR" height="570">
+<img src="https://laurentperrinet.github.io/grant/anr-anb/header.png" alt="ANR" height="450">
 <table>
 <tr>
 	<th><a href="https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot">Réunion de lancement : <br> présentation du projet AgileNeuroBot</a>
