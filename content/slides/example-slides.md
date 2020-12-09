@@ -5,11 +5,29 @@ title: 2020-12-10_AgileNeuroBot
 ---
 # Welcome to Slides
 
-[Academic](https://sourcethemes.com/academic/)
+[Le projet AgileNeuroBot](https://laurentperrinet.github.io/grant/anr-anb/)
 
 ---
 
 ## Features
+
+- Efficiently write slides in Markdown
+- 3-in-1: Create, Present, and Publish your slides
+- Supports speaker notes
+- Mobile friendly slides
+
+---
+
+### sub-slide
+
+- Efficiently write slides in Markdown
+- 3-in-1: Create, Present, and Publish your slides
+- Supports speaker notes
+- Mobile friendly slides
+
+---
+
+### sub-slide
 
 - Efficiently write slides in Markdown
 - 3-in-1: Create, Present, and Publish your slides
