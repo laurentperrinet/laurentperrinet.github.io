@@ -58,3 +58,7 @@ tags:
 title: On the Origins of Hierarchy in Visual Processing
 url_pdf: https://laurentperrinet.github.io/publication/franciosini-perrinet-18-cs/
 ---
+
+* see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
+
+* more about the role of feed-back: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

@@ -72,3 +72,7 @@ title: Modelling Complex-cells and topological structure in the visual cortex of
   using Sparse Predictive Coding
 url_pdf: https://conferences.cirm-math.fr/2152.html
 ---
+
+* see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
+
+* more about the role of feed-back: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}
