@@ -6,29 +6,12 @@ slides:
 
 title: 2020-12-10_AgileNeuroBot
 ---
-<!-- # [Le projet AgileNeuroBot](https://laurentperrinet.github.io/grant/anr-anb/) -->
 
-![header height="200px"](https://laurentperrinet.github.io/grant/anr-anb/header.png)
-
-[Réunion de lancement : présentation du projet AgileNeuroBot](https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot)
-
-![ANR](https://laurentperrinet.github.io/grant/anr-anb/featured.png){:height="36px" width="36px"}
-
----
 <!-- # [Le projet AgileNeuroBot](https://laurentperrinet.github.io/grant/anr-anb/) -->
 
 <img src="https://laurentperrinet.github.io/grant/anr-anb/header.png" alt="ANR" height="60%">
 
------- | ------
-<img src="https://laurentperrinet.github.io/grant/anr-anb/featured.png" alt="ANR" height="30%"> | [Réunion de lancement : présentation du projet AgileNeuroBot](https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot)
-
----
-<!-- # [Le projet AgileNeuroBot](https://laurentperrinet.github.io/grant/anr-anb/) -->
-
-<img src="https://laurentperrinet.github.io/grant/anr-anb/header.png" alt="ANR" height="60%">
-
-<img src="https://laurentperrinet.github.io/grant/anr-anb/featured.png" alt="ANR" height="30%"> | [Réunion de lancement : présentation du projet AgileNeuroBot](https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot)
-
+## [Réunion de lancement : présentation du projet AgileNeuroBot](https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot) <img src="https://laurentperrinet.github.io/grant/anr-anb/featured.png" alt="ANR" height="10%">
 ---
 
 ## AgileNeuroBot: Fiche d'identité

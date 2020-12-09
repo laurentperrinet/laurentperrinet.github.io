@@ -6,18 +6,18 @@
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #46ACC8;
-  font-family: "Megrim", cursive;
+  /* font-family: "Megrim", cursive; */
   font-weight: normal;
-  line-height: 1.2;
+  line-height: 1.;
   letter-spacing: normal;
   text-transform: none;
   text-shadow: none;
   word-wrap: break-word; }
 
 .reveal h1 {
-	font-size: 1.50em;
+	font-size:1.50em;
 }
 
 .reveal h2 {
-	font-size:1.875em;
+	font-size:1.em;
 }
