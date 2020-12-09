@@ -1,11 +1,11 @@
 ---
 slides:
   theme: black
-title: Slides
+title: 2020-12-10_AgileNeuroBot
 ---
-# Welcome to Slides
+# Réunion de lancement : présentation du projet AgileNeuroBot
 
-[Academic](https://sourcethemes.com/academic/)
+[Le projet AgileNeuroBot](https://laurentperrinet.github.io/grant/anr-anb/)
 
 ---
 
