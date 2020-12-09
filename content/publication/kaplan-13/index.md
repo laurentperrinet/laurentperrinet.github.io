@@ -40,7 +40,7 @@ title: Anisotropic connectivity implements motion-based prediction in a spiking 
   network
 url_pdf: https://laurentperrinet.github.io/publication/kaplan-13
 ---
-
-
-* Based on [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})
-* See a followup in [Khoei et al, 2013]({{< ref "/publication/khoei-13-jpp" >}})
+* Based on {{< cite page="/publication//perrinet-12-pred" view="4" >}}
+* see  follow-up on motion extrapolation: {{< cite page="/publication/khoei-13-jpp" view="4" >}}
+* see  follow-up on the flash-lag effect: {{< cite page="/publication/khoei-masson-perrinet-17" view="4" >}}
+lication/khoei-13-jpp" view="4" >}}
