@@ -58,6 +58,10 @@ Stéphane Viollet | Ryad Benosman | Laurent Perrinet
 
 # Questions?
 
-[Ask](https://discourse.gohugo.io)
+      <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
 
-[Documentation](https://sourcethemes.com/academic/docs/)
+Ask info @ [<i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>](https://laurentperrinet.github.io/#contact)
+
+Ask info @ [e-mail](https://laurentperrinet.github.io/#contact)
+
+More info @ [https://laurentperrinet.github.io/grant/anr-anb](https://laurentperrinet.github.io/grant/anr-anb)
