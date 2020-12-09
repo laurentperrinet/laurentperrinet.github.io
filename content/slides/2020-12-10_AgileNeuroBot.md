@@ -3,7 +3,9 @@ slides:
   theme: black
 title: 2020-12-10_AgileNeuroBot
 ---
-# [Le projet AgileNeuroBot](https://laurentperrinet.github.io/grant/anr-anb/)
+<!-- # [Le projet AgileNeuroBot](https://laurentperrinet.github.io/grant/anr-anb/) -->
+
+![header](https://laurentperrinet.github.io/grant/anr-anb/header.png)
 
 [Réunion de lancement : présentation du projet AgileNeuroBot](https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot)
 
@@ -30,16 +32,20 @@ title: 2020-12-10_AgileNeuroBot
 
 ## consortium
 
-<img src="https://github.com/SpikeAI/2020-12_brainhack_Project7/blob/main/input/output/test_stop.gif?raw=true" alt="output spikes" class="bg-primary" width="200px"><img src="https://github.com/SpikeAI/2020-12_brainhack_Project7/blob/main/input/output/input_movie.gif?raw=true" alt="output spikes" class="bg-primary" width="200px"><img src="https://github.com/SpikeAI/2020-12_brainhack_Project7/blob/main/input/output/output_spike.gif?raw=true" alt="output spikes" class="bg-primary" width="200px"><img src="https://github.com/SpikeAI/2020-12_brainhack_Project7/blob/main/input/output/nmnist_spike.gif?raw=true" alt="output spikes" class="bg-primary" width="200px">
+<img src="https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg" alt="SV" width="200px"><img src="https://laurentperrinet.github.io/author/ryad-benosman/avatar.jpg" alt="RB" width="200px"><img src="https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.jpg" alt="LP" width="200px">
 
-
----
+SV | RB | LP
+<img src="https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg" alt="SV" width="200px">|<img src="https://laurentperrinet.github.io/author/ryad-benosman/avatar.jpg" alt="RB" width="200px">|<img src="https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.jpg" alt="LP" width="200px">
 
 ### sub-slide 2
 
+SV | RB | LP
+<img src="https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg" alt="SV" width="200px">|<img src="https://laurentperrinet.github.io/author/ryad-benosman/avatar.jpg" alt="RB" width="200px">|<img src="https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.jpg" alt="LP" width="200px">
+
+
 population size | bio simtime
 ------ | ------
-![2020-12-04_scan_nest__N_pop](https://github.com/SpikeAI/2020-12_brainhack_Project7/blob/main/benchmark/2020-12-04_scan_nest_N_pop.png) | ![2020-12-04_scan_nest__simtime](https://github.com/SpikeAI/2020-12_brainhack_Project7/blob/main/benchmark/2020-12-04_scan_nest_simtime.png)
+![SV](https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg) | ![SV](https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg) 
 
 
 
