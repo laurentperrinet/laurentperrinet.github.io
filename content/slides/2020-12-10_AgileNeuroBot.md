@@ -6,6 +6,7 @@ slides:
 
 title: 2020-12-10_AgileNeuroBot
 ---
+{{</* slide background-image="https://laurentperrinet.github.io/grant/anr-anb/agile_UAV.jpg" */>}}
 
 <!-- # [Le projet AgileNeuroBot](https://laurentperrinet.github.io/grant/anr-anb/) -->
 
