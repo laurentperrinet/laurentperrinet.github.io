@@ -11,7 +11,7 @@ title: 2020-12-10_AgileNeuroBot
 
 <img src="https://laurentperrinet.github.io/grant/anr-anb/header.png" alt="ANR" height="60%">
 
-## [Réunion de lancement : présentation du projet AgileNeuroBot](https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot) <img src="https://laurentperrinet.github.io/grant/anr-anb/featured.png" alt="ANR" height="10%">
+[Réunion de lancement : présentation du projet AgileNeuroBot](https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot) <img src="https://laurentperrinet.github.io/grant/anr-anb/featured.png" alt="ANR" height="10%">
 ---
 
 ## AgileNeuroBot: Fiche d'identité
@@ -24,11 +24,11 @@ title: 2020-12-10_AgileNeuroBot
 
 ---
 
-{{< figure src="https://laurentperrinet.github.io/grant/anr-anb/agile_UAV.jpg" title="An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment. This project will provide with a novel neuromorphic architecture designed to meet these requirements thanks to an event-based, two-way processing." numbered="true" >}}
+{{< figure src="https://laurentperrinet.github.io/grant/anr-anb/agile_UAV.jpg" title="An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment." numbered="true" >}}
 
 ---
 
-{{< figure src="https://laurentperrinet.github.io/grant/anr-anb/event_driven_computations.png" title="A miniature, event-based ATIS sensor, from classical frame-based camera to event-based camera provides with events at the micro-second resolution." numbered="true" >}}
+{{< figure src="https://laurentperrinet.github.io/grant/anr-anb/event_driven_computations.png" title="From classical frame-based to event-based cameras." numbered="true" >}}
 
 ---
 
@@ -36,11 +36,11 @@ title: 2020-12-10_AgileNeuroBot
 
 ---
 
-## consortium
+## Consortium
 <img src="https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg" alt="SV" height="200px"> | <img src="https://laurentperrinet.github.io/author/ryad-benosman/avatar_hu2d5c77d2b84468d5dedad740d610465b_7790_270x270_fill_q75_lanczos_center.jpg" alt="RB" height="200px"> | <img src="https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.jpg" alt="LP" height="200px">
 ------ | ------ | ------
 Stéphane Viollet | Ryad Benosman | Laurent Perrinet
-Inst Sciences Mouvement | Inst de la Vision | Inst Neurosciences de la Timone
+Inst Sciences Mouvement | Inst de la Vision | Inst Neurosci de la Timone
 
 ---
 
