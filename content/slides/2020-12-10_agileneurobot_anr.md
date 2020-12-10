@@ -2,7 +2,7 @@
 slides:
   theme: "white"  # Reveal JS theme name
 
-title: 2020-12-10_agileneurobot
+title: 2020-12-10_agileneurobot_anr
 
 ---
 
@@ -11,7 +11,7 @@ title: 2020-12-10_agileneurobot
 </a>
 <table>
 <tr>
-	<th><a href="https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot">
+	<th><a href="https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot_anr">
 		Présentation du projet - L. Perrinet<br>
 		<u>[2020-12-10] Réunion de lancement</u>
 	</a>
