@@ -18,7 +18,7 @@ title: 2020-12-10_agileneurobot_anr
 	</th>
 	<th>
   <img src="https://laurentperrinet.github.io/grant/anr-anb/featured.png" alt="ANR" height="80">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/LogoCNRS.jpg" alt="CNRS" height="80">
+  <img src="http://www.cnrs.fr/themes/custom/cnrs/logo.svg" alt="CNRS" height="80">
 	</th>
 </tr>
 </table>
