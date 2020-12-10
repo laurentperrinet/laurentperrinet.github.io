@@ -10,7 +10,7 @@ tags:
 - grant
 - current-grant
 title: ANR AgileNeuroBot (2021/2024)
-slides: "2020-12-10_AgileNeuroBot"
+slides: "2020-12-10_agileneurobot_anr"
 ---
 <!-- youtube-dl https://www.youtube.com/watch\?v\=36CTDiJjQ8I -->
 
