@@ -4,5 +4,5 @@ go 1.15
 
 require (
 	github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20201208221717-1d5456668842 // indirect
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201208221717-1d5456668842
+	github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201209233749-172150c6f076
 )
