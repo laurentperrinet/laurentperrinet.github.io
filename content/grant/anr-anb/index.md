@@ -25,7 +25,7 @@ slides: "2020-12-10_AgileNeuroBot"
 
 * Acronyme : AgileNeuroBot
 * Titre : Robots aériens agiles bio-mimetiques pour le vol en conditions réelles
-* Titre en anglais : Bio-mimetic Agile aerial roBots flying in real-life conditions
+* *Title : Bio-mimetic agile aerial robots flying in real-life conditions*
 * CES : CE23 - Intelligence Artificielle / Instrument de financement : Projet de recherche collaborative (PRC) / Catégorie R&D : Recherche fondamentale
 * Coordinateur Scientifique : PERRINET Laurent (UMR7289)
 * Durée: 3 ans, à partir du 1er avril 2021
