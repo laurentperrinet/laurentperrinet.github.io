@@ -56,18 +56,6 @@ Inst Sciences Mouvement | Inst de la Vision | Inst Neurosci de la Timone
 
 ---
 
-## consortium
-<img src="https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg" alt="SV" height="200px"> | <img src="https://laurentperrinet.github.io/author/ryad-benosman/avatar_hu2d5c77d2b84468d5dedad740d610465b_7790_270x270_fill_q75_lanczos_center.jpg" alt="RB" height="200px"> | <img src="https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.jpg" alt="LP" height="200px">
------- | ------ | ------
-Stéphane Viollet | Ryad Benosman | Laurent Perrinet
-Inst Sciences Mouvement | Inst de la Vision | Inst Neurosciences de la Timone
-
----
-
-{{< figure src="https://laurentperrinet.github.io/grant/anr-anb/gantt.png" title="Gantt Chart of project organization." numbered="true" >}}
-
----
-
 # Questions?
 
 Ask info @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
