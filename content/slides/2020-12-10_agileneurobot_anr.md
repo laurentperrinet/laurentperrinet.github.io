@@ -13,7 +13,8 @@ title: 2020-12-10_agileneurobot_anr
 <tr>
 	<th><a href="https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot_anr">
 		Présentation du projet - L. Perrinet
-    <img src="http://www.cnrs.fr/themes/custom/cnrs/logo.svg" alt="CNRS" height="15">
+    <!-- <img src="http://www.cnrs.fr/themes/custom/cnrs/logo.svg" alt="CNRS" height="15"> -->
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/CNRS.svg/55px-CNRS.svg.png" alt="CNRS" height="15">
     <br>
 		<u>[2020-12-10] Réunion de lancement</u>
 	</a>
