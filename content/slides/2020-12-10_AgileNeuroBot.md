@@ -1,10 +1,8 @@
 ---
 slides:
   theme: "white"  # Reveal JS theme name
-  font-size: "10pt"
-  font-style: "bold"
 
-title: 2020-12-10_AgileNeuroBot
+title: 2020-12-10_agileneurobot
 
 ---
 
