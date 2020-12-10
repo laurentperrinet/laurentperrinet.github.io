@@ -7,7 +7,7 @@ title: 2020-12-10_agileneurobot_anr
 ---
 
 <a href="https://laurentperrinet.github.io/grant/anr-anb">
-<img src="https://laurentperrinet.github.io/grant/anr-anb/header.png" alt="header" height="450">
+<img src="https://laurentperrinet.github.io/grant/anr-anb/header.png" alt="header" height="430">
 </a>
 <table>
 <tr>
@@ -17,8 +17,8 @@ title: 2020-12-10_agileneurobot_anr
 	</a>
 	</th>
 	<th>
-  <img src="https://laurentperrinet.github.io/grant/anr-anb/featured.png" alt="ANR" height="80">
-  <img src="http://www.cnrs.fr/themes/custom/cnrs/logo.svg" alt="CNRS" height="80">
+  <img src="https://laurentperrinet.github.io/grant/anr-anb/featured.png" alt="ANR" height="50">
+  <img src="http://www.cnrs.fr/themes/custom/cnrs/logo.svg" alt="CNRS" height="50">
 	</th>
 </tr>
 </table>
