@@ -11,10 +11,11 @@ projects:
 publication: '**'
 publication_types:
 - '1'
-publishDate: '2018-01-01'
 title: Intervention fête de la science 2018
 url_pdf: https://laurentperrinet.github.io/talk/2018-10-10-polly-maggoo/
 ---
+
+
 
 
 

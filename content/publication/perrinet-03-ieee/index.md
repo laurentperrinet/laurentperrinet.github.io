@@ -29,7 +29,6 @@ featured: false
 publication: '*IEEE Transactions on Neural Networks*'
 publication_types:
 - PublicationType.JournalArticle
-publishDate: '2019-09-17'
 tags:
 - association field
 - Biologically Inspired Computer vision
@@ -42,6 +41,8 @@ title: 'Coding static natural images using spiking event times: do neurons coope
 url_pdf: http://dx.doi.org/10.1109/TNN.2004.833303
 url_preprint: https://arxiv.org/abs/q-bio/0611002
 ---
+
+
 
 
 

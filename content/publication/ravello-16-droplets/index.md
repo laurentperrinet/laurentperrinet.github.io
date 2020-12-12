@@ -11,7 +11,6 @@ projects:
 publication: ''
 publication_types:
 - PublicationType.Preprint
-publishDate: '2019-09-17'
 tags:
 - Biologically Inspired Computer vision
 - Image texture

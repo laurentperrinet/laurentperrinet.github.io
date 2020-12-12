@@ -34,12 +34,13 @@ featured: false
 publication: '*Perception*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - log-gabor
 title: Modeling of simple cells through a sparse overcomplete gabor wavelet representation
   based on local inhibition and facilitation
 ---
+
+
 
 
 * relies on log-Gabor filters: {{< cite page="/publication/fischer-07-cv" view="4" >}}

@@ -20,7 +20,6 @@ location: Universidad Tecnica Federico Santa Maria, Valparaiso (Chile)
 projects: []
 publication: '*Universidad Técnica Federico Santa María, Valparaíso, Chile, November
   5th, 2015*'
-publishDate: '2015-01-01'
 title: Motion-based prediction with neuromorphic hardware
 url_pdf: https://laurentperrinet.github.io/talk/2015-11-05-chile/
 ---

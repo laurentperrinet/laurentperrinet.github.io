@@ -32,12 +32,13 @@ projects:
 publication: '*GDR Vision, Lille, 2017*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - motion anticipation
 title: Expériences autour de la perception de la forme en art et science
 url_pdf: https://github.com/NaturalPatterns/2017-10-12_GDR
 ---
+
+
 
 
 

@@ -33,7 +33,6 @@ projects: []
 publication: '*Frontiers in Neural Circuits*'
 publication_types:
 - PublicationType.JournalArticle
-publishDate: '2019-09-17'
 tags:
 - area-v1
 - statistics of natural images

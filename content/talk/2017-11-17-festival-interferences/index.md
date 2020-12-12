@@ -11,10 +11,11 @@ projects:
 publication: '**'
 publication_types:
 - '1'
-publishDate: '2017-01-01'
 title: Participation au jury
 url_pdf: https://laurentperrinet.github.io/talk/2017-11-17-festival-interferences/
 ---
+
+
 
 
 

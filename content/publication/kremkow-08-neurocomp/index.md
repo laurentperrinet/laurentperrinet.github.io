@@ -12,12 +12,13 @@ projects: []
 publication: '*Proceedings of NeuroComp08, Marseille*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - feed-forward_inhibition
 - large-scale_networks
 title: Functional properties of feed-forward inhibition
 ---
+
+
 
 
 

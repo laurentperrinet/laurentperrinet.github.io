@@ -26,10 +26,11 @@ publication: '*Cycle de conférences organisé par l’Association Science Techn
   de l’intelligence". *'
 publication_types:
 - '1'
-publishDate: '2009-01-01'
 title: Peut-on parler d'intelligence mécanique?
 url_pdf: https://laurentperrinet.github.io/talk/2009-11-24-intelligence-mecanique/
 ---
+
+
 
 
 

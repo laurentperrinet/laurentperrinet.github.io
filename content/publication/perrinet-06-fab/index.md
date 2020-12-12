@@ -44,7 +44,6 @@ publication: '*The Functional Architecture of the Brain : from Dendrites to Netw
   Symposium in honour of Dr Suzanne Tyc-Dumont. 4- 5 May 2006. GLM, Marseille, France*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - gain control
 title: Dynamical contrast gain control mechanisms in a layer 2/3 model of the primary

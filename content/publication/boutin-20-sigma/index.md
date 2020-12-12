@@ -37,7 +37,6 @@ projects: []
 publication: '*SIGMA''2020 (Signal, Image, Geometry, Modelling, Approximation)*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2020-01-07'
 tags:
 - sparse coding
 title: Sparse Deep Predictive Coding captures contour integration capabilities of
@@ -45,6 +44,8 @@ title: Sparse Deep Predictive Coding captures contour integration capabilities o
 url_pdf: https://conferences.cirm-math.fr/2152.html
 url_preprint: https://arxiv.org/abs/1902.07651
 ---
+
+
 
 
  * presented during this [talk]({{< ref "/talk/2019-03-25-hdr-robin-baures/index.md" >}})

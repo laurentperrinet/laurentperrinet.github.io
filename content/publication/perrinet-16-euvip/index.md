@@ -21,7 +21,6 @@ projects: []
 publication: '*2016 6th European Workshop on Visual Information Processing (EUVIP)*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - Biologically Inspired Computer vision
 - Image texture

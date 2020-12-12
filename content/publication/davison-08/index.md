@@ -37,7 +37,6 @@ projects:
 publication: '*Frontiers in Neuroinformatics*'
 publication_types:
 - PublicationType.JournalArticle
-publishDate: '2019-09-17'
 tags:
 - computational neuroscience
 - pynn
@@ -45,6 +44,8 @@ title: 'PyNN: A Common Interface for Neuronal Network Simulators'
 url_pdf: http://dx.doi.org/10.3389/neuro.11.011.2008
 url_preprint: https://hal-amu.archives-ouvertes.fr/hal-00586786
 ---
+
+
 
 
 

@@ -29,7 +29,6 @@ projects: []
 publication: '*Scientific Reports*'
 publication_types:
 - PublicationType.JournalArticle
-publishDate: '2019-09-17'
 tags:
 - motion detection
 - motion-clouds
@@ -39,6 +38,8 @@ title: Speed-Selectivity in Retinal Ganglion Cells is Sharpened by Broad Spatial
 url_pdf: https://doi.org/10.1038%2Fs41598-018-36861-8
 url_preprint: https://hal-amu.archives-ouvertes.fr/hal-02007905
 ---
+
+
 
 
 

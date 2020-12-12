@@ -44,13 +44,14 @@ grants:
 location: Porquerolles la Perle des Iles d'Or - Var (France)
 projects: []
 publication: '*Proceedings of SfN, 2011*'
-publishDate: '2011-01-01'
 tags:
 - sparse coding
 title: 'Edge statistics in natural images versus laboratory animal environments: implications
   for understanding lateral connectivity in V1'
 url_pdf: https://laurentperrinet.github.io/talk/2011-09-28-ermites/
 ---
+
+
 
 
 

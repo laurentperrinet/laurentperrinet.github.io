@@ -14,11 +14,12 @@ projects: []
 publication: '*IHP workshop*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - motion-clouds
 title: Dynamic Textures For Probing Motion Perception
 ---
+
+
 
 
 * See a followup in {{< cite page="/publication/vacher-16" view="4" >}}

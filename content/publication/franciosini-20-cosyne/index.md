@@ -65,13 +65,14 @@ projects: []
 publication: '*Computational and Systems Neuroscience (Cosyne) 2020*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2020-01-07'
 tags:
 - sparse coding
 title: Modelling Complex-cells and topological structure in the visual cortex of mammals
   using Sparse Predictive Coding
 url_pdf: https://laurentperrinet.github.io/publication/franciosini-20-cosyne/
 ---
+
+
 
 
 {{< tweet 1233458739220504578 >}}

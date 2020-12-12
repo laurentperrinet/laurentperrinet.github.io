@@ -32,13 +32,14 @@ projects: []
 publication: '*CausaL Kick-off*'
 publication_types:
 - '1'
-publishDate: '2019-01-01'
 title: Should I stay or should I go? Adaption of human observers to the volatility
   of visual inputs
 url_code: https://github.com/laurentperrinet/2019-04-05_BBCP_causal_kickoff/
 url_pdf: https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff
 url_slides: https://laurentperrinet.github.io/2019-04-05_BBCP_causal_kickoff
 ---
+
+
 
 
 

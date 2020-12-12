@@ -37,13 +37,14 @@ projects: []
 publication: '*Journal of Vision*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - motion detection
 - motion prediction
 title: Motion-based prediction model for flash lag effect
 url_pdf: http://dx.doi.org/10.1167/14.10.471
 ---
+
+
 
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}
 * see  follow-up on motion extrapolation: {{< cite page="/publication/khoei-13-jpp" view="4" >}}

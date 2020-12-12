@@ -10,7 +10,6 @@ publication: '*Topics in Dynamical Neural Networks: From Large Scale Neural Netw
   to Motor Control and Vision*'
 publication_types:
 - PublicationType.Book
-publishDate: '2019-09-17'
 tags:
 - computational neuroscience
 title: 'Topics in Dynamical Neural Networks: From Large Scale Neural Networks to Motor

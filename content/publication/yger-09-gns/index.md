@@ -38,11 +38,12 @@ projects:
 publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - pynn
 title: 'NeuralEnsemble: Towards a meta-environment for network modeling and data analysis'
 ---
+
+
 
 
 

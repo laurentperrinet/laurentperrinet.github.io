@@ -12,7 +12,6 @@ projects: []
 publication: '*Proceedings of ECVP*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - eye movements
 - motion detection

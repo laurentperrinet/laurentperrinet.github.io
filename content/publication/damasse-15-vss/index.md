@@ -37,7 +37,6 @@ projects: []
 publication: '*Proceedings of VSS*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - eye movements
 - Smooth pursuit eye movement

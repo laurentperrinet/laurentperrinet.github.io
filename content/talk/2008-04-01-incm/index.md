@@ -32,7 +32,6 @@ grants:
 - facets
 projects: []
 publication: '*Séminaires de l''INCM, April 11th, 2008*'
-publishDate: '2008-01-01'
 title: 'From neural activity to behavior: computational neuroscience as a synthetic
   approach for understanding the neural code.'
 url_pdf: https://laurentperrinet.github.io/talk/2008-04-01-incm/

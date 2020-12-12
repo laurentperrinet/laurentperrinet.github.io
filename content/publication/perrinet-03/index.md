@@ -9,7 +9,6 @@ featured: false
 publication: '*Neurocomputing*'
 publication_types:
 - PublicationType.JournalArticle
-publishDate: '2019-09-17'
 tags:
 - area-v1
 - receptive field

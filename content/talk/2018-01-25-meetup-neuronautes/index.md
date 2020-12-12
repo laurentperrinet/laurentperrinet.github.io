@@ -11,13 +11,14 @@ projects:
 - art-science
 - tout-public
 publication: '*Meetup Art et Neurosciences*'
-publishDate: '2018-01-01'
 tags:
 - Biologically Inspired Computer vision
 title: Expériences autour de la perception de la forme en art et science
 url_pdf: https://laurentperrinet.github.io/talk/2018-01-25-meetup-neuronautes/
 url_slides: https://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.html
 ---
+
+
 
 
 

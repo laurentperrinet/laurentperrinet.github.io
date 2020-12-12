@@ -37,11 +37,12 @@ projects: []
 publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - lateral connections
 title: Dynamics of cortical networks including long-range patchy connections
 ---
+
+
 
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}
 * see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

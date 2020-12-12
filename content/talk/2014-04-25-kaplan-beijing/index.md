@@ -10,7 +10,6 @@ event: 2014 International Joint Conference on Neural Networks (IJCNN)
 featured: false
 location: Beijing, China
 publication: '*2014 International Joint Conference on Neural Networks (IJCNN)*'
-publishDate: '2014-01-01'
 tags:
 - Bayesian model
 - Biologically Inspired Computer vision
@@ -20,6 +19,8 @@ title: Signature of an anticipatory response in area V1 as modeled by a probabil
   model and a spiking neural network
 url_pdf: https://laurentperrinet.github.io/talk/2014-04-25-kaplan-beijing/
 ---
+
+
 
 
 

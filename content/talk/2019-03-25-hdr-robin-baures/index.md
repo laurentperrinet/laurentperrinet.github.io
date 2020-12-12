@@ -22,12 +22,13 @@ grants:
 - anr-horizontal-v1
 location: Toulouse (France)
 projects: []
-publishDate: '2019-01-01'
 title: 'From the retina to action: Predictive processing in the visual system'
 url_code: https://github.com/laurentperrinet/2019-03-25_HDR_RobinBaures/
 url_pdf: https://laurentperrinet.github.io/2019-03-25_HDR_RobinBaures
 url_slides: https://laurentperrinet.github.io/2019-03-25_HDR_RobinBaures
 ---
+
+
 
 
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}

@@ -41,11 +41,12 @@ grants:
 - facets
 projects: []
 publication: ''
-publishDate: '2008-01-01'
 title: Decoding the population dynamics underlying ocular following response using
   a probabilistic framework
 url_pdf: https://laurentperrinet.github.io/talk/2008-06-01-ulm/
 ---
+
+
 
 
 

@@ -32,7 +32,6 @@ featured: true
 publication: ''
 publication_types:
 - PublicationType.Book
-publishDate: '2019-09-17'
 tags:
 - Biologically Inspired Computer vision
 title: Biologically Inspired Computer Vision
@@ -40,6 +39,8 @@ url_code: http://bicv.github.io/toc/
 url_pdf: http://onlinelibrary.wiley.com/book/10.1002/9783527680863
 url_preprint: http://bicv.github.io/
 ---
+
+
 
 
 

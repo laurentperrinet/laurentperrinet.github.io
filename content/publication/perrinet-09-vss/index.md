@@ -33,7 +33,6 @@ projects: []
 publication: '*Vision Science Society*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - motion detection
 title: Inferring monkey ocular following responses from V1 population dynamics using

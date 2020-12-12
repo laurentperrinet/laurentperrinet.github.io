@@ -33,7 +33,6 @@ projects: []
 publication: '*CNS*2019 Barcelona, Spain*'
 publication_types:
 - '1'
-publishDate: '2019-01-01'
 tags:
 - Active Inference
 - Deep Learning
@@ -45,6 +44,8 @@ url_code: https://github.com/SpikeAI/2019-07-15_CNS/
 url_pdf: https://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-019-0538-0#Sec73
 url_slides: https://SpikeAI.github.io/2019-07-15_CNS
 ---
+
+
 
 
 

@@ -9,7 +9,6 @@ featured: false
 location: Telluride, CO
 publication: '*Workshop on Computational Neuroscience entitled "New trends and challenges
   for 2030"*'
-publishDate: '2017-01-01'
 title: 'Back to the present: dealing with delays in biological and neuromorphic systems'
 url_pdf: https://laurentperrinet.github.io/talk/2017-06-28-telluride
 url_slides: https://laurentperrinet.github.io/sciblog/files/2017-06-28_Telluride.html

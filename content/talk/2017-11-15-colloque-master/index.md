@@ -12,11 +12,12 @@ featured: false
 location: Aix-Marseille Université, Campus Saint-Charles, Salle des voûtes
 publication: '*Colloque : "CODAGES ET REPRESENTATIONS", MASTER DE NEUROSCIENCES 2ème
   année*'
-publishDate: '2017-01-01'
 title: What dynamic neural codes for efficient visual processing
 url_pdf: https://laurentperrinet.github.io/talk/2017-11-15-colloque-master/
 url_slides: https://laurentperrinet.github.io/sciblog/files/2017-11-15_ColloqueMaster.html
 ---
+
+
 
 
 

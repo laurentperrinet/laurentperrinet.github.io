@@ -9,11 +9,12 @@ grants:
 location: CIRM
 projects: []
 publication: '*Workshop SIGMA''2016: Signal, Image, Geometry, Modelling, Approximation*'
-publishDate: '2016-01-01'
 title: The flash-lag effect as a motion-based predictive shift
 url_pdf: https://laurentperrinet.github.io/talk/2016-11-03-sigma/
 url_slides: https://laurentperrinet.github.io/sciblog/files/2016-11-03_SIGMA.html
 ---
+
+
 
 
 

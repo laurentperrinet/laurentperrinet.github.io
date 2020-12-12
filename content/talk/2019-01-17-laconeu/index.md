@@ -11,7 +11,6 @@ location: Valparaiso (Chile)
 projects: []
 publication: '*LACONEU 2019: 5th Latin-American Summer School in Computational Neuroscience,
   Valparaiso (Chile)*'
-publishDate: '2019-01-01'
 title: Role of dynamics in neural computations underlying visual processing
 url_code: https://github.com/laurentperrinet/2019-01-17_LACONEU/
 url_pdf: https://laurentperrinet.github.io/talk/2019-01-17-laconeu/

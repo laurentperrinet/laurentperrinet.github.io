@@ -12,11 +12,12 @@ projects:
 - open-science
 publication: '*Demo 1-3: Apparent Motion in V1/ MT/MST: Neural Implementation of Probabilistic
   Approaches*'
-publishDate: '2013-01-01'
 title: 'Demo 1, Task4: Implementation of models showing emergence of cortical fields
   and maps'
 url_pdf: https://laurentperrinet.github.io/talk/2013-11-26-brain-scales-demos/
 ---
+
+
 
 
 

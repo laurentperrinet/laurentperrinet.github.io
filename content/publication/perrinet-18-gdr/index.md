@@ -25,12 +25,13 @@ projects: []
 publication: '*GDR Vision, Paris, 2018*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - motion anticipation
 title: A low-cost, accessible eye tracking framework
 url_pdf: https://github.com/laurentperrinet/Perrinet18gdr
 ---
+
+
 
 
 

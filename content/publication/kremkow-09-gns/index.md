@@ -43,13 +43,14 @@ projects: []
 publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - feed-forward_inhibition
 - large-scale_networks
 title: Functional consequences of correlated excitation and inhibition on single neuron
   integration and signal propagation through synfire chains
 ---
+
+
 
 
 

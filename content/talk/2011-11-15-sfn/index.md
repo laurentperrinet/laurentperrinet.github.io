@@ -40,11 +40,12 @@ event: Society for Neuroscience Abstracts
 featured: false
 location: Washington, DC
 publication: '*Society for Neuroscience Abstracts*'
-publishDate: '2011-01-01'
 title: 'Edge statistics in natural images versus laboratory animal environments: implications
   for understanding lateral connectivity in V1'
 url_pdf: https://laurentperrinet.github.io/talk/2011-11-15-sfn/
 ---
+
+
 
 
 

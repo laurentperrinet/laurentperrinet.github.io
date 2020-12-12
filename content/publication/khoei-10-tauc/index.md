@@ -12,7 +12,6 @@ projects: []
 publication: '*Proceedings of Tauc*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - Bayesian model
 - center-surround interactions
@@ -23,6 +22,8 @@ tags:
 title: Dynamical emergence of a neural solution for motion integration
 url_pdf: https://laurentperrinet.github.io/publication/khoei-10-tauc/
 ---
+
+
 
 
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}

@@ -12,7 +12,6 @@ projects: []
 publication: '*GDR Vision, Toulouse, Nov 3rd, 2016*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - eye movements
 - motion detection

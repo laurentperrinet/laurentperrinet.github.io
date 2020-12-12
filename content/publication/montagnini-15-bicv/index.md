@@ -12,7 +12,6 @@ projects: []
 publication: '*Biologically Inspired Computer Vision*'
 publication_types:
 - PublicationType.BookSection
-publishDate: '2019-09-17'
 tags:
 - Biologically Inspired Computer vision
 title: Visual motion processing and human tracking behavior

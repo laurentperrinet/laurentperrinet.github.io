@@ -7,7 +7,6 @@ featured: false
 publication: '*Proceedings of DYNN*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - sparse hebbian learning
 - stdp

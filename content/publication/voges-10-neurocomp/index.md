@@ -24,11 +24,12 @@ projects: []
 publication: '*Proceedings of NeuroComp*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - lateral connections
 title: Phase space analysis of networks based on biologically realistic parameters
 ---
+
+
 
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}
 * see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

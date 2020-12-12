@@ -31,7 +31,6 @@ publication: '*Topics in Dynamical Neural Networks: From Large Scale Neural Netw
   to Motor Control and Vision*'
 publication_types:
 - PublicationType.BookSection
-publishDate: '2019-09-17'
 tags:
 - Bayesian model
 - center-surround interactions
@@ -48,6 +47,8 @@ tags:
 title: 'Dynamical Neural Networks: modeling low-level vision at short latencies'
 url_pdf: https://laurentperrinet.github.io/publication/perrinet-07/
 ---
+
+
 
 
 

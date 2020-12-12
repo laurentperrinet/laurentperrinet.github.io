@@ -13,7 +13,6 @@ projects:
 - open-science
 publication: '*LACONEU 2019: 5th Latin-American Summer School in Computational Neuroscience,
   Valparaiso (Chile)*'
-publishDate: '2019-01-01'
 title: Modelling spiking neural networks using Brian, Nest and pyNN
 url_code: https://github.com/laurentperrinet/2019-01-14_LACONEU
 url_pdf: https://laurentperrinet.github.io/talk/2019-01-14-laconeu/

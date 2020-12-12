@@ -34,11 +34,12 @@ projects: []
 publication: '*ICMNS 2015 conference*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - coding decoding
 title: On overdispersion in neuronal evoked activity
 ---
+
+
 
 
 

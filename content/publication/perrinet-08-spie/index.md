@@ -27,7 +27,6 @@ publication: '*Optical and Digital Image Processing Conference 7000 - Proceeding
   of SPIE Volume 7000, 7 - 11 April 2008*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - association field
 - Biologically Inspired Computer vision

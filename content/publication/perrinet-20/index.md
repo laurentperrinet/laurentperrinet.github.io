@@ -36,7 +36,6 @@ projects: []
 publication: '*The Philosophy and Science of Predictive Processing*'
 publication_types:
 - PublicationType.BookSection
-publishDate: '2020-05-17'
 tags:
 - active inference
 - area-v1
@@ -47,6 +46,8 @@ url_code: https://github.com/laurentperrinet/Perrinet19PredictiveProcessing
 url_pdf: https://laurentperrinet.github.io/publication/perrinet-20/
 url_preprint: hhttps://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/
 ---
+
+
 
 
  * Find the text at https://laurentperrinet.github.io/Perrinet20PredictiveProcessing/

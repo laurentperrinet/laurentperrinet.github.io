@@ -13,7 +13,6 @@ projects: []
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - Bayesian model
 title: Eye tracking a self-moved target with complex hand-target dynamics

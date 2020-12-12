@@ -35,12 +35,13 @@ publication: '*Séminaire à l''Institut de Recherche sur les Phénomènes Hors 
   (IRPHÉ)*'
 publication_types:
 - '1'
-publishDate: 2020-09-18 07:57:07.336933+00:00
 title: Understanding natural vision <BR> using deep predictive coding
 url_code: https://github.com/laurentperrinet/2020-09-25_IRPHE/
 url_pdf: https://laurentperrinet.github.io/talk/2020-09-25-irphe
 url_slides: https://laurentperrinet.github.io/2020-09-25_IRPHE
 ---
+
+
 
 
 * What:: talk @ [Séminaire à l'Institut de Recherche sur les Phénomènes Hors Équilibre (IRPHÉ)](https://laurentperrinet.github.io/talk/2020-09-25-irphe)

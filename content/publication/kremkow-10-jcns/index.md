@@ -28,7 +28,6 @@ projects: []
 publication: '*Journal of Computational Neuroscience*'
 publication_types:
 - PublicationType.JournalArticle
-publishDate: '2019-09-17'
 tags:
 - center-surround interactions
 - coding decoding
@@ -38,6 +37,8 @@ title: Functional consequences of correlated excitatory and inhibitory conductan
   in cortical networks
 url_pdf: http://www.ncbi.nlm.nih.gov/pubmed/20490645
 ---
+
+
 
 
 

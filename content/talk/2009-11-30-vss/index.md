@@ -34,11 +34,12 @@ grants:
 projects: []
 publication: '*Macroscopic aspects of neuronal activity: ''''Macroscopic models, LFP
   models and VSD models'''' a FACETS workshop in Marseille, Nov. 30th /Dec. 1st*'
-publishDate: '2009-01-01'
 title: Reading out the dynamics of lateral interactions in the primary visual cortex
   from VSD data
 url_pdf: https://laurentperrinet.github.io/talk/2009-11-30-vss/
 ---
+
+
 
 
 

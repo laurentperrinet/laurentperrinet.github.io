@@ -34,7 +34,6 @@ location: Manchester (UK)
 projects:
 - open-science
 publication: '*4th BrainScaleS Plenary meeting - March 20th, 2014*'
-publishDate: '2014-01-01'
 title: 'WP5 - Demo 1.3 : Spiking model of motion-based prediction'
 url_pdf: https://laurentperrinet.github.io/talk/2014-03-20-manchester/
 url_slides: 14-03-20_BK_LP_MK_handout.pdf

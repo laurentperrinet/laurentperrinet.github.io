@@ -36,7 +36,6 @@ grants:
 - pace-itn
 projects: []
 publication: '*GDR Vision, Toulouse, Nov 3rd, 2016*'
-publishDate: '2016-01-01'
 title: Reinforcement contingencies modulate anticipatory smooth eye movements
 url_pdf: https://laurentperrinet.github.io/talk/2016-11-03-gdr/
 ---

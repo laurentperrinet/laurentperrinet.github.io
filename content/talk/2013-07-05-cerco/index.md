@@ -11,13 +11,14 @@ grants:
 location: CerCo, Toulouse
 projects: []
 publication: '*A  seminar at the CerCo, Toulouse, France*'
-publishDate: '2013-01-01'
 tags:
 - Biologically Inspired Computer vision
 title: Edge co-occurrences and categorizing natural images
 url_pdf: https://laurentperrinet.github.io/talk/2013-07-05-cerco/
 url_slides: perrinet13cerco.pdf
 ---
+
+
 
 
 

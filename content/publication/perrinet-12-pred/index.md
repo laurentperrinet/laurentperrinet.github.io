@@ -24,7 +24,6 @@ featured: false
 publication: '*Neural Computation*'
 publication_types:
 - PublicationType.JournalArticle
-publishDate: '2019-09-17'
 tags:
 - aperture problem
 - Bayesian model
@@ -33,6 +32,8 @@ tags:
 title: Motion-based prediction is sufficient to solve the aperture problem
 url_pdf: https://arxiv.org/abs/1208.6471
 ---
+
+
 
 
 

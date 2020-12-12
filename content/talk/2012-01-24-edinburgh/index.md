@@ -45,11 +45,12 @@ location: Room IF 4.31/4.33, Institute for Adaptive and Neural Computation (ANC)
   the University of Edinburgh
 projects: []
 publication: '*A  seminar from the Institute for Adaptive and Neural Computation (ANC)*'
-publishDate: '2012-01-01'
 title: 'Edge statistics in natural images versus laboratory animal environments: implications
   for understanding lateral connectivity in V1'
 url_pdf: https://laurentperrinet.github.io/talk/2012-01-24-edinburgh/
 ---
+
+
 
 
 

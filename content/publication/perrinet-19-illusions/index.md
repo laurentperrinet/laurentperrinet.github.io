@@ -24,12 +24,13 @@ projects:
 publication: '*The Conversation*'
 publication_types:
 - PublicationType.JournalArticle
-publishDate: '2019-09-17'
 title: 'Illusions et hallucinations visuelles : une porte sur la perception'
 url_pdf: https://laurentperrinet.github.io/publication/perrinet-19-illusions/
 url_preprint: https://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389
 url_video: https://www.youtube.com/watch?v=jJKTdlChefc
 ---
+
+
 
 
 

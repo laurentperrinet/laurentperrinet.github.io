@@ -11,7 +11,6 @@ location: TU Dresden, Germany
 projects: []
 publication: '*Using the ESS + Neuromorphic hardware Workshop,5th Oktober, 2011 at
   TU Dresden, Germany*'
-publishDate: '2011-01-01'
 tags:
 - sparse coding
 title: 'Demo 1, Task4: Implementation of models showing emergence of cortical fields

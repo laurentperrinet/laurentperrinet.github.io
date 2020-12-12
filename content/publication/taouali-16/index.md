@@ -35,7 +35,6 @@ projects: []
 publication: '*Journal of Neurophysiology*'
 publication_types:
 - PublicationType.JournalArticle
-publishDate: '2019-09-17'
 tags:
 - coding decoding
 - spike

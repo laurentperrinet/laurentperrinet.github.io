@@ -21,10 +21,11 @@ grants:
 - facets
 projects: []
 publication: ''
-publishDate: '2009-01-01'
 title: Decoding low-level neural information to track visual motion
 url_pdf: https://laurentperrinet.github.io/talk/2008-04-01-incm/
 ---
+
+
 
 
 

@@ -24,7 +24,6 @@ projects:
 publication: '*Licence Sciences & Humanité*'
 publication_types:
 - '1'
-publishDate: '2019-01-01'
 title: 'From the retina to action: Understanding visual processing'
 url_code: https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/
 url_pdf: https://laurentperrinet.github.io/talk/2019-04-03-a-course-on-vision-and-modelization

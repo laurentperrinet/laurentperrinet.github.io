@@ -16,10 +16,11 @@ grants:
 projects: []
 publication: '*Eighteenth Annual Computational Neuroscience Meeting: CNS*2009 Berlin,
   Germany. 18–23 July 2009*'
-publishDate: '2009-01-01'
 title: Control of the temporal interplay between excitation and inhibition by the
   statistics of visual input
 ---
+
+
 
 
 

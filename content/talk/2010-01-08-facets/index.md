@@ -5,7 +5,6 @@ authors:
 date: 2010-01-08
 featured: false
 publication: ''
-publishDate: '2010-01-01'
 tags:
 - Bayesian model
 - center-surround interactions
@@ -16,6 +15,8 @@ tags:
 title: 'Models of low-level vision: linking probabilistic models and neural masses'
 url_pdf: https://laurentperrinet.github.io/talk/2010-01-08-facets/
 ---
+
+
 
 
 

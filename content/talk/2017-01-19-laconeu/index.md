@@ -12,7 +12,6 @@ projects:
 - courses
 - open-science
 publication: '*LACONEU2017:  4th Latin-American Summer School in Computational Neuroscience*'
-publishDate: '2017-01-01'
 tags:
 - Biologically Inspired Computer vision
 title: 'Tutorial: Sparse optimization in neural computations'

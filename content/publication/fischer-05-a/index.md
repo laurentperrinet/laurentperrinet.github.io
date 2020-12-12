@@ -19,7 +19,6 @@ featured: false
 publication: '*Microtechnologies for the New Millennium 2005*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - area-v1
 - Biologically Inspired Computer vision
@@ -29,6 +28,8 @@ tags:
 title: Sparse Gabor wavelets by local operations
 url_pdf: http://dx.doi.org/10.1117/12.608403
 ---
+
+
 
 
 * relies on log-Gabor filters: {{< cite page="/publication/fischer-07-cv" view="4" >}}

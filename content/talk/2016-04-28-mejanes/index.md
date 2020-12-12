@@ -25,10 +25,11 @@ projects:
 publication: '**'
 publication_types:
 - '1'
-publishDate: '2016-01-01'
 title: Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
 url_pdf: https://laurentperrinet.github.io/sciblog/files/2016-04-28_mejanes/
 ---
+
+
 
 
 

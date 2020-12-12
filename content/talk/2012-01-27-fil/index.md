@@ -24,7 +24,6 @@ grants:
 - brain-scales
 projects: []
 publication: '*Brain meeting at FIL, London - Friday, January 27th, 2012*'
-publishDate: '2012-01-01'
 tags:
 - Bayesian model
 - dynamics

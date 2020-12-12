@@ -40,7 +40,6 @@ event: iTWIST '12 workshop
 event_url: https://sites.google.com/site/itwist1st/home
 featured: false
 publication: '*iTWIST ''12 workshop*'
-publishDate: '2012-01-01'
 tags:
 - sparse coding
 title: 'Edge statistics in natural images versus laboratory animal environments: implications
@@ -48,6 +47,8 @@ title: 'Edge statistics in natural images versus laboratory animal environments:
 url_pdf: https://laurentperrinet.github.io/talk/2012-05-10-itwist/
 url_slides: Perrinet12itwist.pdf
 ---
+
+
 
 
 

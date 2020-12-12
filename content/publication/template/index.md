@@ -1,15 +1,5 @@
 ---
-abstract: We present a mobile visual clothing search system whereby a smart phone
-  user can either choose a social networking photo or take a new photo of a person
-  wearing clothing of interest and search for similar clothing in a retail database.
-  From the query image, the person is detected, clothing is segmented, and clothing
-  features are extracted and quantized. The information is sent from the phone client
-  to a server, where the feature vector of the query image is used to retrieve similar
-  clothing products from online databases. The phone's GPS location is used to re-rank
-  results by retail store location. State of the art work focuses primarily on the
-  recognition of a diverse range of clothing offline and pays little attention to
-  practical applications. Evaluated on a challenging dataset, the system is relatively
-  fast and achieves promising results.
+abstract: ''
 abstract_short: A mobile visual clothing search system is presented whereby a smart
   phone user can either choose a social networking image or capture a new photo of
   a person wearing clothing of interest and search for similar clothing in a large
@@ -19,23 +9,64 @@ abstract_short: A mobile visual clothing search system is presented whereby a sm
 authors:
 - GA Cushen
 - MS Nixon
-date: 2013-07-01 00:00:00
+date: '2019-01-01'
 doi: ''
 draft: true
-featured: true
+featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
 math: true
 projects:
 - internal-project
-publication: In *International Conference on Multimedia and Expo Workshops (ICMEW)*,
-  IEEE.
+publication: ''
 publication_short: In *ICMEW*
 publication_types:
-- '1'
-tags: []
-title: Mobile visual clothing search
+- '2'
+tags:
+- '"active inference"'
+- '"aperture problem"'
+- '"area-v1"'
+- '"association field"'
+- '"bayesian model"'
+- '"biologically inspired computer vision"'
+- '"center-surround interactions"'
+- '"coding decoding"'
+- '"computational neuroscience"'
+- '"dynamics"'
+- '"eye movements"'
+- '"feed-forward_inhibition"'
+- '"free energy"'
+- '"gain control"'
+- '"homeostasis"'
+- '"image texture"'
+- '"inhibition"'
+- '"large-scale_networks"'
+- '"lateral connections"'
+- '"log-gabor"'
+- '"matching pursuit"'
+- '"motion detection"'
+- '"motion prediction"'
+- '"motion-clouds"'
+- '"object motion"'
+- '"predictive coding"'
+- '"psychophysics"'
+- '"pynn"'
+- '"rank-order-coding"'
+- '"receptive field"'
+- '"recursive inference"'
+- '"retina"'
+- '"smooth pursuit eye movement"'
+- '"sparse coding"'
+- '"sparse hebbian learning"'
+- '"sparselets"'
+- '"spike"'
+- '"statistics of natural images"'
+- '"stdp"'
+- '"temporal evolution"'
+- '"unsupervised learning"'
+- '"visual perception"'
+title: template
 url_code: '#'
 url_custom:
 - !!python/object/new:toml.decoder.DynamicInlineTableDict
@@ -50,5 +81,6 @@ url_project: ''
 url_slides: '#'
 url_source: '#'
 url_video: '#'
+publishDate: '2020-12-12T13:31:46.868407Z'
 ---
 More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

@@ -31,7 +31,6 @@ publication: '*Proceedings of AREADNE, Santorini, Greece, 21-24 June 2012, publi
   by The AREADNE Foundation, Inc., Cambridge, Massachusetts, USA, http://areadne.org*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - active inference
 title: Active inference, smooth pursuit and oculomotor delays

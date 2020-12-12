@@ -20,7 +20,6 @@ image: {}
 location: Saint-Paul de Vence
 projects: []
 publication: '*First GDR BioComp workshop, Saint-Paul de Vence, October 7th, 2015*'
-publishDate: '2015-01-01'
 title: Motion-based prediction with neuromorphic hardware
 url_pdf: https://laurentperrinet.github.io/talk/2015-10-07-gdr-bio-comp/
 url_slides: https://laurentperrinet.github.io/sciblog/files/2015-10-07_Perrinet15biocomp_slides.pdf

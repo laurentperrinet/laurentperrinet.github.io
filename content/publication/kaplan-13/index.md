@@ -27,7 +27,6 @@ projects: []
 publication: '*Frontiers in Computational Neuroscience*'
 publication_types:
 - PublicationType.JournalArticle
-publishDate: '2019-09-17'
 tags:
 - Bayesian model
 - large-scale_networks
@@ -40,6 +39,8 @@ title: Anisotropic connectivity implements motion-based prediction in a spiking 
   network
 url_pdf: https://laurentperrinet.github.io/publication/kaplan-13
 ---
+
+
 
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}
 * see  follow-up on motion extrapolation: {{< cite page="/publication/khoei-13-jpp" view="4" >}}

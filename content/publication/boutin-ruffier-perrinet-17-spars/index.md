@@ -36,11 +36,12 @@ projects: []
 publication: '*SPARS2017, Lisbon*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - sparse coding
 title: Efficient learning of sparse image representations using homeostatic regulation
 ---
+
+
 
 
 

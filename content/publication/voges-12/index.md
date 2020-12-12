@@ -34,13 +34,14 @@ projects: []
 publication: '*Frontiers in Computational Neuroscience*'
 publication_types:
 - PublicationType.JournalArticle
-publishDate: '2019-09-17'
 tags:
 - lateral connections
 title: Complex dynamics in recurrent cortical networks based on spatially realistic
   connectivities
 url_pdf: https://laurentperrinet.github.io/publication/voges-12
 ---
+
+
 
 
 ![header](voges-12.png)

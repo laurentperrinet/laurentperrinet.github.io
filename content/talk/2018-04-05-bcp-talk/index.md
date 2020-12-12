@@ -13,13 +13,14 @@ location: INT, Marseille (France)
 projects: []
 publication: '*Probabilities and Optimal Inference to Understand the Brain, INT, Marseille
   (France)*'
-publishDate: '2018-01-01'
 title: Principles and psychophysics of Active Inference in anticipating a dynamic,
   switching probabilistic bias
 url_code: https://github.com/laurentperrinet/2018-04-05_BCP_talk/
 url_pdf: https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/
 url_slides: https://laurentperrinet.github.io/2018-04-05_BCP_talk/
 ---
+
+
 
 
 

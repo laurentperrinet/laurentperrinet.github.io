@@ -10,7 +10,6 @@ featured: false
 publication: '*Neurocomputing*'
 publication_types:
 - PublicationType.JournalArticle
-publishDate: '2019-09-17'
 tags:
 - center-surround interactions
 title: 'Network of integrate-and-fire neurons using Rank Order Coding A: how to implement

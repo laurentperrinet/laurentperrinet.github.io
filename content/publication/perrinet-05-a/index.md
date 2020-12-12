@@ -33,7 +33,6 @@ featured: false
 publication: '*Perception*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - Bayesian model
 - motion detection

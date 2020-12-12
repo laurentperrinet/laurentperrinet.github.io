@@ -38,13 +38,14 @@ projects: []
 publication: '*Vision research*'
 publication_types:
 - PublicationType.JournalArticle
-publishDate: '2019-09-17'
 tags:
 - Bayesian model
 - predictive coding
 title: 'Pursuing motion illusions: a realistic oculomotor framework for Bayesian inference'
 url_pdf: http://dx.doi.org/10.1016/j.visres.2010.10.021
 ---
+
+
 
 
 

@@ -12,12 +12,13 @@ location: Lyon, France
 projects: []
 publication: '*Lyon Active Inference Workshop (LAW) https://law2016.sciencesconf.org/
   - October 13th, 2016*'
-publishDate: '2016-01-01'
 title: Eye movements as a model for active inference
 url_code: ''
 url_pdf: https://laurentperrinet.github.io/talk/2016-10-13-law/
 url_slides: https://laurentperrinet.github.io/sciblog/files/2016-10-13_LAW.html
 ---
+
+
 
 
 

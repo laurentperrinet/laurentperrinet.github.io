@@ -28,7 +28,6 @@ publication: '*Sixteenth Annual Computational Neuroscience Meeting: CNS*2007, To
   Canada. 7--12 July 2007*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - area-v1
 title: On efficient sparse spike coding schemes for learning natural scenes in the

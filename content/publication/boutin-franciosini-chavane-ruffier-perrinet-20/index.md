@@ -37,7 +37,6 @@ projects: []
 publication: '*PLoS Computational Biology*'
 publication_types:
 - PublicationType.JournalArticle
-publishDate: '2019-09-17'
 tags:
 - sparse coding
 title: Sparse Deep Predictive Coding captures contour integration capabilities of
@@ -45,6 +44,8 @@ title: Sparse Deep Predictive Coding captures contour integration capabilities o
 url_pdf: https://arxiv.org/abs/1902.07651
 url_preprint: https://arxiv.org/abs/1902.07651
 ---
+
+
 
 
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

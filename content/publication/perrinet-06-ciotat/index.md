@@ -8,7 +8,6 @@ publication: '*Physiogenic and pathogenic oscillations: the beauty and the beast
   5th INMED/TINS CONFERENCE SEPTEMBER 9 - 12, 2006, La Ciotat, France*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - gain control
 title: Dynamical contrast gain control mechanisms in a layer 2/3 model of the primary

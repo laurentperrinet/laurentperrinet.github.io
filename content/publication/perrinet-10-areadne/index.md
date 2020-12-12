@@ -10,7 +10,6 @@ projects: []
 publication: '*Proceedings of AREADNE*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - Bayesian model
 - center-surround interactions

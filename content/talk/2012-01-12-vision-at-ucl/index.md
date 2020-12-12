@@ -26,7 +26,6 @@ grants:
 location: Malet Place Eng Bldg 1.03 (first floor).
 projects: []
 publication: '*Vision@UCL seminar - Thursday, 12th January, 5pm*'
-publishDate: '2012-01-01'
 tags:
 - Bayesian model
 - center-surround interactions
@@ -38,6 +37,8 @@ title: Motion-based prediction is sufficient to solve the aperture problem
 url_pdf: https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/
 url_slides: perrinet12ucl_handout.pdf
 ---
+
+
 
 
 

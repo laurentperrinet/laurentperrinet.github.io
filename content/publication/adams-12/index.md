@@ -28,7 +28,6 @@ featured: false
 publication: '*PLoS ONE*'
 publication_types:
 - PublicationType.JournalArticle
-publishDate: '2019-09-17'
 tags:
 - active inference
 - Bayesian model
@@ -38,6 +37,8 @@ title: 'Smooth Pursuit and Visual Occlusion: Active Inference and Oculomotor Con
   in Schizophrenia'
 url_pdf: http://dx.doi.org/10.1371/journal.pone.0047502
 ---
+
+
 
 
 

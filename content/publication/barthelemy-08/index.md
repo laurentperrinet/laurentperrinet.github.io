@@ -36,7 +36,6 @@ projects: []
 publication: '*Vision research*'
 publication_types:
 - PublicationType.JournalArticle
-publishDate: '2019-09-17'
 tags:
 - Bayesian model
 - eye movements
@@ -46,6 +45,8 @@ title: Dynamics of distributed 1D and 2D motion representations for short-latenc
   ocular following
 url_pdf: http://dx.doi.org/10.1016/j.visres.2007.10.020
 ---
+
+
 
 
 

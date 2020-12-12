@@ -24,10 +24,11 @@ publication: '*intervention autour du vernissage de "Diffraction monochromatique
   spectre audiographique" d''Etienne Rey. *'
 publication_types:
 - '1'
-publishDate: '2010-01-01'
 title: Diffraction monochromatique, spectre audiographique
 url_pdf: https://laurentperrinet.github.io/talk/2010-04-14-ondes-paralleles/
 ---
+
+
 
 
 

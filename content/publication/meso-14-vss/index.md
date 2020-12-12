@@ -38,7 +38,6 @@ projects: []
 publication: '*Journal of Vision*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - motion-clouds
 title: 'Beyond simply faster and slower: exploring paradoxes in speed perception'

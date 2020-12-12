@@ -18,7 +18,6 @@ featured: false
 publication: '*Neurocomputing*'
 publication_types:
 - PublicationType.JournalArticle
-publishDate: '2019-09-17'
 tags:
 - coding decoding
 - rank-order-coding
@@ -28,6 +27,8 @@ tags:
 title: Coherence detection in a spiking neuron via Hebbian learning
 url_pdf: http://dx.doi.org/10.1016/S0925-2312(02)00374-0
 ---
+
+
 
 
 

@@ -7,13 +7,14 @@ featured: false
 publication: '*Proceedings of ESANN*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - area-v1
 - receptive field
 - sparse coding
 title: Sparse Image Coding Using an Asynchronous Spiking Neural Network
 ---
+
+
 
 
 

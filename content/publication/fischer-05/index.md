@@ -33,12 +33,13 @@ featured: false
 publication: '*Perception*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - Biologically Inspired Computer vision
 - matching pursuit
 title: Efficient representation of natural images using local cooperation
 ---
+
+
 
 
 * relies on log-Gabor filters: {{< cite page="/publication/fischer-07-cv" view="4" >}}

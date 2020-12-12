@@ -28,7 +28,6 @@ projects: []
 publication: '*Complex Networks: from theory to interdisciplinary applications*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - active inference
 title: Compensation of oculomotor delays in the visual system's network

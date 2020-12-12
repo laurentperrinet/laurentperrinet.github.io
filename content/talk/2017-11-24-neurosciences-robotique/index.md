@@ -12,7 +12,6 @@ grants:
 location: IMERA (Aix-Marseille Université)
 projects: []
 publication: '*Journee du GT 8 (Neurosciences - Robotique)*'
-publishDate: '2017-01-01'
 tags:
 - sparse coding
 title: Unsupervised learning applied to robotic vision

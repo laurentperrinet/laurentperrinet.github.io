@@ -14,7 +14,6 @@ event: LADISLAV TAUC and GDR MSPC NEUROSCIENCES CONFERENCE, From Mathematical Im
 featured: false
 publication: '*LADISLAV TAUC & GDR MSPC NEUROSCIENCES CONFERENCE, From Mathematical
   Image Analysis to Neurogeometry of the Brain*'
-publishDate: '2010-01-01'
 tags:
 - Bayesian model
 - center-surround interactions
@@ -26,6 +25,8 @@ title: 'Probabilistic models of the low-level visual system: the role of predict
   in detecting motion'
 url_pdf: https://laurentperrinet.github.io/talk/2010-12-17-tauc-talk/
 ---
+
+
 
 
 

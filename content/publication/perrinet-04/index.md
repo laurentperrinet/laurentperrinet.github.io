@@ -27,7 +27,6 @@ featured: false
 publication: '*Natural Computing*'
 publication_types:
 - PublicationType.JournalArticle
-publishDate: '2019-09-17'
 tags:
 - area-v1
 - sparselets

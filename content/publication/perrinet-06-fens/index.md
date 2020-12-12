@@ -10,7 +10,6 @@ featured: false
 publication: '*FENS*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - motion detection
 title: 'Input-output transformation in the visuo-oculomotor loop: modeling the ocular

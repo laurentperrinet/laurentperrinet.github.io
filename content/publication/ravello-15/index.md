@@ -13,7 +13,6 @@ projects:
 publication: '*European Retina Meeting 2015*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - Retina
 title: Spatiotemporal tuning of retinal ganglion cells dependent on the context of

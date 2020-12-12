@@ -29,13 +29,14 @@ location: Marseille (France)
 projects: []
 publication: '*Probabilities and Optimal Inference to Understand the Brain, INT, Marseille
   (France)*'
-publishDate: '2019-01-01'
 title: Should I stay or should I go? Humans adapt to the volatility of visual motion
   properties, and know about it
 url_code: https://github.com/invibe/2019-05-23_Neurofrance/
 url_pdf: https://laurentperrinet.github.io/talk/2019-05-23-neurofrance
 url_slides: https://invibe.github.io/2019-05-23_Neurofrance
 ---
+
+
 
 
 

@@ -7,7 +7,6 @@ featured: false
 publication: '*International Conference on Artificial Neural Networks*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - spike
 title: Efficient Source Detection Using Integrate-and-Fire Neurons

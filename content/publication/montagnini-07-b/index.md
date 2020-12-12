@@ -32,7 +32,6 @@ featured: false
 publication: '*Journal of Vision*'
 publication_types:
 - PublicationType.ConferencePaper
-publishDate: '2019-09-17'
 tags:
 - Bayesian model
 title: 'Visual tracking of ambiguous moving objects: A recursive Bayesian model'

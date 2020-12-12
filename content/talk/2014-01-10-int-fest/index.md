@@ -24,7 +24,6 @@ grants:
 - brain-scales
 projects: []
 publication: '*Marseille INT Fest, January 10th, 2014*'
-publishDate: '2014-01-01'
 tags:
 - Bayesian model
 - dynamics

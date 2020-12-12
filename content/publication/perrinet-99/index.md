@@ -6,7 +6,6 @@ featured: false
 publication: ''
 publication_types:
 - PublicationType.Thesis
-publishDate: '2019-09-17'
 tags:
 - rank-order-coding
 - unsupervised learning

@@ -13,7 +13,6 @@ event: Atelier Neurosciences Computationnelles, 2-3 Juillet 2011 Khemisset, Maro
 featured: false
 publication: '*Atelier Neurosciences Computationnelles, 2-3 Juillet 2011 Khemisset,
   Maroc*'
-publishDate: '2011-01-01'
 tags:
 - Bayesian model
 - dynamics
@@ -24,6 +23,8 @@ title: Propriétés émergentes d'un modèle de prédiction probabiliste utilisa
   neural
 url_pdf: https://laurentperrinet.github.io/talk/2011-07-02-neuro-med-talk/
 ---
+
+
 
 
 
