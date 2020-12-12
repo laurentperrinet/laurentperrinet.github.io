@@ -4,20 +4,21 @@ authors:
 - Laurent U Perrinet
 - Ad M Aertsen
 - Guillaume S Masson
-date: 2008-10-03
+date: 2008-10-12
 featured: false
 grants:
 - facets
 projects: []
 publication: '*Proceedings of NeuroComp08, Marseille*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - feed-forward_inhibition
 - large-scale_networks
 title: Functional properties of feed-forward inhibition
 ---
+
 
 
 

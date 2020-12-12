@@ -30,10 +30,11 @@ featured: false
 grants:
 - spikeai
 - mesocentre
+- aprovis-3-d
 projects: []
 publication: '*Journal of Vision*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - Active Inference
@@ -47,6 +48,7 @@ url_code: https://github.com/laurentperrinet/WhereIsMyMNIST
 url_pdf: https://laurentperrinet.github.io/publication/dauce-20/
 url_preprint: https://www.biorxiv.org/content/10.1101/725879v3
 ---
+
 
 {{< tweet 1305488088412688385 >}}
 

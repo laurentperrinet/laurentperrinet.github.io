@@ -31,7 +31,7 @@ authors:
 - Mina A Khoei
 - Guillaume S Masson
 - Laurent U Perrinet
-date: 2013-11-03
+date: 2013-11-12
 doi: 10.1016/j.jphysparis.2013.08.001
 featured: false
 grants:
@@ -39,7 +39,7 @@ grants:
 projects: []
 publication: '*Journal of Physiology-Paris*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - motion detection
@@ -47,6 +47,7 @@ tags:
 title: Motion-based prediction explains the role of tracking in motion extrapolation
 url_pdf: https://laurentperrinet.github.io/publication/khoei-13-jpp/
 ---
+
 
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}
 * see  follow-up on the flash-lag effect: {{< cite page="/publication/khoei-masson-perrinet-17" view="4" >}}

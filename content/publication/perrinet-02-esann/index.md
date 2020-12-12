@@ -6,7 +6,7 @@ date: 2002-01-01
 featured: false
 publication: '*Proceedings of ESANN*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - area-v1
@@ -14,6 +14,7 @@ tags:
 - sparse coding
 title: Sparse Image Coding Using an Asynchronous Spiking Neural Network
 ---
+
 
 
 

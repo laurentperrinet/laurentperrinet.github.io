@@ -18,7 +18,7 @@ doi: 10.1016/j.jphysparis.2009.11.001
 featured: false
 publication: '*Journal of Physiology-Paris*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - computational neuroscience

@@ -24,7 +24,7 @@ doi: 10/ggqj77
 featured: false
 publication: '*bioRxiv*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: 2020-03-31 09:09:18.618547+00:00
 title: Anticipatory Responses along Motion Trajectories in Awake Monkey Area V1
 url_pdf: https://www.biorxiv.org/content/10.1101/2020.03.26.010017v1

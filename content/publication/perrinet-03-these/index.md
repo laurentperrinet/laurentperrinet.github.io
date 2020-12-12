@@ -5,7 +5,7 @@ date: 2003-01-01
 featured: false
 publication: ''
 publication_types:
-- '7'
+- PublicationType.Thesis
 publishDate: '2019-09-17'
 tags:
 - lateral connections

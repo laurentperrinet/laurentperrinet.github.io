@@ -35,7 +35,7 @@ grants:
 projects: []
 publication: '*Vision*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - area-v1
@@ -50,6 +50,7 @@ url_code: https://github.com/SpikeAI/HULK
 url_pdf: https://spikeai.github.io/HULK/
 url_preprint: https://laurentperrinet.github.io/publication/perrinet-19-hulk/
 ---
+
 
 
 

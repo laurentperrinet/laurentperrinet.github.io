@@ -27,7 +27,7 @@ doi: 10.1371/journal.pone.0047502
 featured: false
 publication: '*PLoS ONE*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - active inference
@@ -38,6 +38,7 @@ title: 'Smooth Pursuit and Visual Occlusion: Active Inference and Oculomotor Con
   in Schizophrenia'
 url_pdf: http://dx.doi.org/10.1371/journal.pone.0047502
 ---
+
 
 
 

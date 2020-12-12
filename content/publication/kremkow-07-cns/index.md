@@ -13,7 +13,7 @@ grants:
 projects: []
 publication: '*BMC Neuroscience*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - pynn
@@ -21,6 +21,7 @@ title: Synchrony in thalamic inputs enhances propagation of activity through cor
   layers
 url_pdf: http://dx.doi.org/10.1186/1471-2202-8-S2-P180
 ---
+
 
 
 

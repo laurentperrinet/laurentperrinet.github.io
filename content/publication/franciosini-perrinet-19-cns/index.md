@@ -12,13 +12,14 @@ grants:
 projects: []
 publication: '*CNS*2019, Barcelona*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - Deep Learning
 title: Modelling Complex Cells of Early Visual Cortex using Predictive Coding
 url_pdf: https://www.cnsorg.org/cns-2019-poster-presentation-guide
 ---
+
 
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
 

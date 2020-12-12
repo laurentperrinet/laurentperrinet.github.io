@@ -11,7 +11,7 @@ grants:
 projects: []
 publication: '*Proceedings of Vision Sciences Society Annual Meeting*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - eye movements

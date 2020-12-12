@@ -25,7 +25,7 @@ grants:
 projects: []
 publication: '*GDR Vision, Paris, 2018*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - area-v1
@@ -33,6 +33,7 @@ title: Selectivity to oriented patterns of different precisions
 url_code: https://github.com/hugoladret/InternshipM1
 url_pdf: https://github.com/hugoladret/InternshipM1/raw/master/2018-06_POSTER_final.pdf
 ---
+
 
 
 

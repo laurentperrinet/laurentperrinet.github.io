@@ -2,11 +2,11 @@
 authors:
 - Laurent U Perrinet
 - Emmanuel Daucé
-date: 2008-10-03
+date: 2008-10-12
 featured: false
 publication: '*Proceedings of NeuroComp08, Marseille*'
 publication_types:
-- '5'
+- PublicationType.Book
 publishDate: '2019-09-17'
 tags:
 - computational neuroscience

@@ -27,7 +27,7 @@ grants:
 projects: []
 publication: '*Complex Networks: from theory to interdisciplinary applications*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - active inference

@@ -36,13 +36,14 @@ grants:
 projects: []
 publication: '*Annals of Eye Science*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - area-v1
 title: Learning dynamics in a neural network model of the primary visual cortex
 url_pdf: http://aes.amegroups.com/article/view/5214
 ---
+
 
 
 

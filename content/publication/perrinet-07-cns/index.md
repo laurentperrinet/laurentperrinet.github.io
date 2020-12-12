@@ -27,7 +27,7 @@ featured: false
 publication: '*Sixteenth Annual Computational Neuroscience Meeting: CNS*2007, Toronto,
   Canada. 7--12 July 2007*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - area-v1

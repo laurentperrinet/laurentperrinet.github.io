@@ -30,7 +30,7 @@ grants:
 projects: []
 publication: '*VSS Conference Abstract*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - eye movements

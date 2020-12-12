@@ -23,7 +23,7 @@ date: 2012-01-01
 featured: false
 publication: '*Neural Computation*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - aperture problem
@@ -33,6 +33,7 @@ tags:
 title: Motion-based prediction is sufficient to solve the aperture problem
 url_pdf: https://arxiv.org/abs/1208.6471
 ---
+
 
 
 ![header](perrinet-12-pred.png)

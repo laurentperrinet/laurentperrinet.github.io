@@ -37,7 +37,7 @@ grants:
 projects: []
 publication: '*GDR Vision, Lille, 2017*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - eye movements

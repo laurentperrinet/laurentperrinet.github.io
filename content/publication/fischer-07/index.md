@@ -9,7 +9,7 @@ doi: 10.1155/2007/90727
 featured: false
 publication: '*EURASIP Journal on Advances in Signal Processing*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - association field
@@ -20,6 +20,7 @@ title: Sparse Approximation of Images Inspired from the Functional Architecture 
   the Primary Visual Areas
 url_pdf: http://dx.doi.org/10.1155/2007/90727
 ---
+
 
 * relies on log-Gabor filters: {{< cite page="/publication/fischer-07-cv" view="4" >}}
 

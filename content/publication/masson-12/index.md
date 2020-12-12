@@ -17,7 +17,7 @@ doi: 10.1016/j.neubiorev.2011.03.009
 featured: false
 publication: '*Neuroscience and biobehavioral reviews*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - eye movements
@@ -26,6 +26,7 @@ title: The behavioral receptive field underlying motion integration for primate 
   eye movements
 url_pdf: http://view.ncbi.nlm.nih.gov/pubmed/21421006
 ---
+
 
 
 

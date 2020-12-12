@@ -13,12 +13,12 @@ authors:
 - Gabriel Cristóbal
 - Laurent U Perrinet
 - Matthias S Keil
-date: 2015-11-03
+date: 2015-11-12
 doi: 10.1002/9783527680863.ch1
 featured: false
 publication: '*Biologically Inspired Computer Vision*'
 publication_types:
-- '6'
+- PublicationType.BookSection
 publishDate: '2019-09-17'
 tags:
 - Biologically Inspired Computer vision
@@ -26,6 +26,7 @@ title: Introduction
 url_pdf: http://bicv.github.io/chap1/
 url_preprint: http://bicv.github.io/chap1/
 ---
+
 
 
 

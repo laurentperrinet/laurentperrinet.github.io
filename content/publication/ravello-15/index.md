@@ -12,7 +12,7 @@ projects:
 - motion-clouds
 publication: '*European Retina Meeting 2015*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - Retina

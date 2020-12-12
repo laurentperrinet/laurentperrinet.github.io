@@ -81,9 +81,9 @@ for type in ['Presentations', 'Publications']:
 
     normalize = False
     if type == 'Presentations':
-        pub_dir = 'content/talk'
+        pub_dir = '../content/talk'
     elif type == 'Publications':
-        pub_dir = 'content/publication'
+        pub_dir = '../content/publication'
 
     import yaml
 
@@ -223,7 +223,6 @@ for type in ['Presentations', 'Publications']:
                 # TODO:  optional abbreviated version.
                 # publication_short = "In *ICMEW*"
 
-
             metadata[1] = yaml.dump(parsed_yaml, encoding=('utf-8'), allow_unicode=True)
             metadata[1] = metadata[1].decode('utf-8')
 
@@ -238,5 +237,5 @@ for type in ['Presentations', 'Publications']:
                 page = '---\n'.join(metadata).strip('\n')
                 with open(file_path, 'w', encoding='utf-8') as f:
                     f.write(page + '\n')
-            except IOError:
-                print('ERROR: could not save file.')
+            except IOError as ae:
+                print('ERROR: could not save file.', e)

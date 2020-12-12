@@ -53,7 +53,7 @@ grants:
 projects: []
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - motion-clouds
@@ -61,6 +61,7 @@ title: 'Edge statistics in natural images versus laboratory animal environments:
   for understanding lateral connectivity in V1'
 url_pdf: https://laurentperrinet.github.io/publication/perrinet-11-sfn
 ---
+
 
 
 

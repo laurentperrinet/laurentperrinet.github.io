@@ -48,12 +48,13 @@ grants:
 projects: []
 publication: '*Proceedings of COSYNE*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - lateral connections
 title: Dynamical state spaces of cortical networks representing various horizontal
   connectivities
 ---
+
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}
 * see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

@@ -26,7 +26,7 @@ projects: []
 publication: '*Optical and Digital Image Processing Conference 7000 - Proceedings
   of SPIE Volume 7000, 7 - 11 April 2008*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - association field

@@ -12,13 +12,14 @@ projects:
 publication: '*Grenoble Workshop on Models and Analysis of Eye Movements, Grenoble,
   France*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - motion anticipation
 title: 'ANEMO: Quantitative tools for the ANalysis of Eye MOvements'
 url_pdf: https://laurentperrinet.github.io/publication/pasturel-18-anemo
 ---
+
 
 
 

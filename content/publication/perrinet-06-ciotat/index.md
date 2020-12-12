@@ -7,7 +7,7 @@ featured: false
 publication: '*Physiogenic and pathogenic oscillations: the beauty and the beast,
   5th INMED/TINS CONFERENCE SEPTEMBER 9 - 12, 2006, La Ciotat, France*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - gain control

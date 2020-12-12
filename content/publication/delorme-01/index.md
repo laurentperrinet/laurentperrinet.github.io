@@ -16,7 +16,7 @@ doi: 10.1.1.18.4990
 featured: false
 publication: '*Neurocomputing*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - stdp

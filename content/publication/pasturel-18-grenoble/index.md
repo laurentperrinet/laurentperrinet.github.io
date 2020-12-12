@@ -24,13 +24,14 @@ projects: []
 publication: '*Grenoble Workshop on Models and Analysis of Eye Movements, Grenoble,
   France*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - motion anticipation
 title: Estimating and anticipating a dynamic probabilistic bias in visual motion direction
 url_pdf: https://laurentperrinet.github.io/publication/pasturel-18-grenoble
 ---
+
 
 
 

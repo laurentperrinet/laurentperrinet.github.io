@@ -6,7 +6,7 @@ doi: 10.1007/11550822_27
 featured: false
 publication: '*International Conference on Artificial Neural Networks*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - spike

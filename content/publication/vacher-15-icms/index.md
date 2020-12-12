@@ -10,11 +10,12 @@ projects:
 - motion-clouds
 publication: '*ICMS 2015 conference*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - motion-clouds
 title: A Mathematical Account of Dynamic Texture Synthesis for Probing Visual Perception
 ---
+
 
 * See a followup in {{< cite page="/publication/vacher-16" view="4" >}}

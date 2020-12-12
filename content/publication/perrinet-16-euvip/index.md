@@ -12,7 +12,7 @@ abstract: Natural images follow statistics inherited by the structure of our phy
   class of natural images and provide perspectives for their use in neurophysiology.
 authors:
 - Laurent U Perrinet
-date: 2016-10-03
+date: 2016-10-12
 doi: 10.1109/EUVIP.2016.7764592
 featured: false
 grants:
@@ -20,7 +20,7 @@ grants:
 projects: []
 publication: '*2016 6th European Workshop on Visual Information Processing (EUVIP)*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - Biologically Inspired Computer vision

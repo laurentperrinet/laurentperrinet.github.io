@@ -13,7 +13,7 @@ featured: false
 publication: '*LADISLAV TAUC and GDR MSPC NEUROSCIENCES CONFERENCE, From Mathematical
   Image Analysis to Neurogeometry of the Brain*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - Bayesian model
@@ -25,6 +25,7 @@ title: 'Probabilistic models of the low-level visual system: the role of predict
   in detecting motion'
 url_pdf: https://laurentperrinet.github.io/publication/perrinet-10-tauc/
 ---
+
 
 
 

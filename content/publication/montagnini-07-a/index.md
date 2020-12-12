@@ -23,7 +23,7 @@ date: 2007-01-01
 featured: false
 publication: '*Perception 36 ECVP Abstract Supplement*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - motion detection

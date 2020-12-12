@@ -25,7 +25,7 @@ grants:
 projects: []
 publication: '*1ère conférence francophone NEUROsciences COMPutationnelles - NeuroComp*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - aperture problem
@@ -36,6 +36,7 @@ tags:
 title: 'Input-output transformation in the visuo-oculomotor loop: modeling the ocular
   following response to center-surround stimulation in a probabilistic framework'
 ---
+
 
 
 

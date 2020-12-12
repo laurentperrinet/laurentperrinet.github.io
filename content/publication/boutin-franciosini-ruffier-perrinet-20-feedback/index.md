@@ -31,7 +31,7 @@ grants:
 projects: []
 publication: '*Neural Computation*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - Deep Learning
@@ -40,6 +40,7 @@ title: Effect of top-down connections in Hierarchical Sparse Coding
 url_pdf: https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/
 url_preprint: https://arxiv.org/abs/2002.00892
 ---
+
 {{< tweet 1323549136088694790 >}}
 
  * get the code @ https://github.com/VictorBoutin/SPC_2L

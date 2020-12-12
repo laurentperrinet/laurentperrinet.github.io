@@ -5,7 +5,7 @@ authors:
 - Jeremie Jozefowiez
 - Laurent Madelain
 - Anna Montagnini
-date: 2016-09-03
+date: 2016-09-12
 doi: 10.1167/16.12.1356
 featured: false
 grants:
@@ -13,7 +13,7 @@ grants:
 projects: []
 publication: '*Proceedings of VSS*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - eye movements

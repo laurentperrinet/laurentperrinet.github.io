@@ -3,7 +3,7 @@ authors:
 - Anna Montagnini
 - Laurent U Perrinet
 - Guillaume S Masson
-date: 2015-11-03
+date: 2015-11-12
 doi: 10.1002/9783527680863.ch12
 featured: false
 grants:
@@ -11,7 +11,7 @@ grants:
 projects: []
 publication: '*Biologically Inspired Computer Vision*'
 publication_types:
-- '6'
+- PublicationType.BookSection
 publishDate: '2019-09-17'
 tags:
 - Biologically Inspired Computer vision

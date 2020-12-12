@@ -37,7 +37,7 @@ doi: 10.1167/18.10.345
 featured: false
 publication: '*Journal of Vision, Vol.18, 345, proceedings of VSS*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - motion detection

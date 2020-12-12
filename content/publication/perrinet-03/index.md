@@ -8,7 +8,7 @@ doi: 10.1016/j.neucom.2004.01.133
 featured: false
 publication: '*Neurocomputing*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - area-v1

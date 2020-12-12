@@ -64,7 +64,7 @@ grants:
 projects: []
 publication: '*SIGMA''2020 (Signal, Image, Geometry, Modelling, Approximation)*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2020-01-07'
 tags:
 - sparse coding
@@ -72,6 +72,7 @@ title: Modelling Complex-cells and topological structure in the visual cortex of
   using Sparse Predictive Coding
 url_pdf: https://conferences.cirm-math.fr/2152.html
 ---
+
 
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
 

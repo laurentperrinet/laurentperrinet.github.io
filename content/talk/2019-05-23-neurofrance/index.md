@@ -65,6 +65,7 @@ url_slides: https://invibe.github.io/2019-05-23_Neurofrance
 
 
 
+
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}
 
 * This is part of the [Active Inference symposium]({{< ref "/post/2019-05-23-neurofrance/index.md" >}}) @ [NeuroFrance](https://www.neurosciences.asso.fr/V2/colloques/SN19/) SYMPOSIUM, Room 7

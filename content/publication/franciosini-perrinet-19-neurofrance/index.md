@@ -39,7 +39,7 @@ projects: []
 publication: '*NeuroFrance 2019, International Conference from the Société des Neurosciences,
   Marseille, France*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - Deep Learning
@@ -47,6 +47,7 @@ title: A hierarchical, multi-layer convolutional sparse coding algorithm based o
   predictive coding
 url_pdf: https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/790
 ---
+
 
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
 

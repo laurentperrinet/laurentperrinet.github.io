@@ -34,7 +34,7 @@ grants:
 projects: []
 publication: '*Journal of Vision*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - association field
@@ -43,5 +43,6 @@ tags:
 title: Edge co-occurrences are sufficient to categorize natural versus animal images
 url_pdf: http://dx.doi.org/10.1167/14.10.1310
 ---
+
 
 * see a follow-up: {{< cite page="/publication/perrinet-bednar-15" view="4" >}}

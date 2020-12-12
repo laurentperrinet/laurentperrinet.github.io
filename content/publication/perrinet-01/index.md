@@ -9,7 +9,7 @@ doi: 10.1016/S0925-2312(01)00460-X
 featured: false
 publication: '*Neurocomputing*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - center-surround interactions

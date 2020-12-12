@@ -38,7 +38,7 @@ grants:
 projects: []
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - area-v1
@@ -46,6 +46,7 @@ title: Orientation selectivity to synthetic natural patterns in a cortical-like 
   of the cat primary visual cortex
 url_pdf: https://www.abstractsonline.com/pp8/#!/7883/presentation/65859
 ---
+
 
 
 {{< tweet 1186513282326257665 >}}

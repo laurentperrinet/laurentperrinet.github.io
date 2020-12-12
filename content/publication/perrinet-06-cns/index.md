@@ -17,7 +17,7 @@ date: 2006-01-01
 featured: false
 publication: '*Fifteenth Annual Computational Neuroscience Meeting (CNS*2006)*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - unsupervised learning

@@ -11,7 +11,7 @@ grants:
 projects: []
 publication: '*Proceedings of Tauc*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - Bayesian model
@@ -23,6 +23,7 @@ tags:
 title: Dynamical emergence of a neural solution for motion integration
 url_pdf: https://laurentperrinet.github.io/publication/khoei-10-tauc/
 ---
+
 
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}
 * see  follow-up on motion extrapolation: {{< cite page="/publication/khoei-13-jpp" view="4" >}}

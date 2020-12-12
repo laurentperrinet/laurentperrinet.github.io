@@ -25,7 +25,7 @@ grants:
 projects: []
 publication: '*Journal of Physiology-Paris*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - area-v1
@@ -33,6 +33,7 @@ tags:
 title: Phase space analysis of networks based on biologically realistic parameters
 url_pdf: http://dx.doi.org/10.1016/j.jphysparis.2009.11.004
 ---
+
 
 ![header](voges-10-jpp.png)
 

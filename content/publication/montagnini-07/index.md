@@ -20,18 +20,19 @@ authors:
 - Laurent U Perrinet
 - Eric Castet
 - Guillaume S Masson
-date: 2007-01-03
+date: 2007-01-12
 doi: 10.1016/j.jphysparis.2007.10.013
 featured: false
 publication: '*Neuro-Computation: From Sensorimotor Integration to Computational Frameworks*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - Bayesian model
 title: Bayesian modeling of dynamic motion integration
 url_pdf: http://dx.doi.org/10.1016/j.jphysparis.2007.10.013
 ---
+
 
 
 

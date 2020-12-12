@@ -26,7 +26,7 @@ grants:
 projects: []
 publication: '*Proceedings of AREADNE*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - aperture problem
@@ -36,6 +36,7 @@ tags:
 title: Motion-based prediction is sufficient to solve the aperture problem
 url_pdf: https://laurentperrinet.github.io/publication/masson-12-areadne
 ---
+
 
 
 

@@ -7,11 +7,12 @@ projects:
 - tout-public
 publication: '*DocSciences*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 title: Qui créera le premier ordinateur intelligent?
 url_pdf: https://interstices.info/qui-creera-le-premier-ordinateur-intelligent/
 ---
+
 
 
 

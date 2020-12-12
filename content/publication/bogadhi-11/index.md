@@ -37,7 +37,7 @@ grants:
 projects: []
 publication: '*Vision research*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - Bayesian model
@@ -45,6 +45,7 @@ tags:
 title: 'Pursuing motion illusions: a realistic oculomotor framework for Bayesian inference'
 url_pdf: http://dx.doi.org/10.1016/j.visres.2010.10.021
 ---
+
 
 
 ![header](bogadhi-11.png)

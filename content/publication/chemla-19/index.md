@@ -29,7 +29,7 @@ grants:
 projects: []
 publication: '*Journal of Neuroscience*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 summary: Traveling waves have recently been observed in different animal species,
   brain areas and behavioral states. However, it is still unclear what are their functional

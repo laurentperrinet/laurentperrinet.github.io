@@ -39,7 +39,7 @@ projects: []
 publication: '*Front. Neurosci. Conference Abstract: Neural Coding, Decision-Making
   and Integration in Time*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - eye movements

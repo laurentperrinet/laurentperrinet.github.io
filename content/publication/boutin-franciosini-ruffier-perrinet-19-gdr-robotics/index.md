@@ -24,12 +24,13 @@ grants:
 projects: []
 publication: '*GdR Robotics - 2019-06-05*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - Deep Learning
 title: Top-down connection in Hierarchical Sparse Coding
 ---
+
 
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
 

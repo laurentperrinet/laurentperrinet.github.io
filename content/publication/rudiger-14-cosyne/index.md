@@ -12,7 +12,7 @@ grants:
 projects: []
 publication: '*Proceedings of COSYNE*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - statistics of natural images
@@ -20,5 +20,6 @@ title: Relationship between natural image statistics and lateral connectivity in
   primary visual cortex
 url_pdf: http://goo.gl/RJpJR4
 ---
+
 
 * see a follow-up: {{< cite page="/publication/perrinet-bednar-15" view="4" >}}

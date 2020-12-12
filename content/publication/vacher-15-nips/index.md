@@ -11,7 +11,7 @@ grants:
 projects: []
 publication: '*Advances in Neural Information Processing Systems*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - motion-clouds
@@ -19,5 +19,6 @@ title: Biologically Inspired Dynamic Textures for Probing Motion Perception
 url_pdf: http://papers.nips.cc/paper/5769-biologically-inspired-dynamic-textures-for-probing-motion-perception.pdf
 url_preprint: https://hal-amu.archives-ouvertes.fr/hal-01225867
 ---
+
 
 * See a followup in {{< cite page="/publication/vacher-16" view="4" >}}

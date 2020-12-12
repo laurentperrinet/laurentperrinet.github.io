@@ -43,7 +43,7 @@ featured: false
 publication: '*The Functional Architecture of the Brain : from Dendrites to Networks.
   Symposium in honour of Dr Suzanne Tyc-Dumont. 4- 5 May 2006. GLM, Marseille, France*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - gain control

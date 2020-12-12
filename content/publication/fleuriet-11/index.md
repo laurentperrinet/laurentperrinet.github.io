@@ -31,7 +31,7 @@ doi: 10.1152/jn.00622.2010
 featured: false
 publication: '*Journal of Neurophysiology*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - eye movements

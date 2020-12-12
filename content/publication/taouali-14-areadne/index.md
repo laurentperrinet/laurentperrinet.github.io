@@ -10,12 +10,13 @@ grants:
 projects: []
 publication: '*Proceedings of AREADNE*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - coding decoding
 title: A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise
 ---
+
 
 
 

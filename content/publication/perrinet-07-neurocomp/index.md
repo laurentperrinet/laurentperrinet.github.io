@@ -26,7 +26,7 @@ doi: 10.1016/j.jphysparis.2007.10.011
 featured: false
 publication: '*Journal of Physiology-Paris*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - Bayesian model
@@ -39,6 +39,7 @@ title: Modeling spatial integration in the ocular following response using a pro
   framework
 url_pdf: http://dx.doi.org/10.1016/j.jphysparis.2007.10.011
 ---
+
 
 
 

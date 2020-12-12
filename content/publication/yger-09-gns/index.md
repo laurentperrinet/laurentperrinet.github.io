@@ -37,12 +37,13 @@ projects:
 - open-science
 publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - pynn
 title: 'NeuralEnsemble: Towards a meta-environment for network modeling and data analysis'
 ---
+
 
 
 * see a follow-up: {{< cite page="/publication/davison-08" view="4" >}}

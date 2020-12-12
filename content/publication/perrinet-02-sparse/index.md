@@ -3,12 +3,12 @@ authors:
 - Laurent U Perrinet
 - Manuel Samuelides
 - Simon J Thorpe
-date: 2004-03-03
+date: 2004-03-12
 doi: 10.1016/j.neucom.2004.01.010
 featured: false
 publication: '*Neurocomputing*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - association field

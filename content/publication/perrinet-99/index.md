@@ -5,7 +5,7 @@ date: 1999-01-01
 featured: false
 publication: ''
 publication_types:
-- '7'
+- PublicationType.Thesis
 publishDate: '2019-09-17'
 tags:
 - rank-order-coding

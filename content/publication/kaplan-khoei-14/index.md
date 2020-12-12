@@ -34,7 +34,7 @@ projects: []
 publication: '*IEEE International Joint Conference on Neural Networks (IJCNN) 2014
   Beijing, China*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - Bayesian model
@@ -45,6 +45,7 @@ title: Signature of an anticipatory response in area V1 as modeled by a probabil
   model and a spiking neural network
 url_pdf: https://laurentperrinet.github.io/publication/kaplan-khoei-14
 ---
+
 
 
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}

@@ -39,7 +39,7 @@ date: 2008-01-01
 featured: false
 publication: '*Proceedings of AREADNE, 2008*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - Bayesian model

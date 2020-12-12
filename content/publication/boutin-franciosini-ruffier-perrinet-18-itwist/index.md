@@ -27,7 +27,7 @@ grants:
 projects: []
 publication: '*iTwist, 2018*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - Deep Learning
@@ -35,6 +35,7 @@ title: From biological vision to unsupervised hierarchical sparse coding
 url_pdf: https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-18-itwist/
 url_preprint: https://arxiv.org/abs/1812.01335
 ---
+
 
 
 1. accepted submission @ [iTWIST: international Traveling Workshop on Interactions between low-complexity data models and Sensing Techniques](https://sites.google.com/view/itwist18), 21 - 23 November​, 2018

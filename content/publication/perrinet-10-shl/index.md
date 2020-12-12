@@ -26,7 +26,7 @@ doi: 10.1162/neco.2010.05-08-795
 featured: false
 publication: '*Neural Computation*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - association field
@@ -45,6 +45,7 @@ url_code: https://laurentperrinet.github.io/publication/perrinet-10-shl
 url_pdf: https://arxiv.org/abs/0706.3177
 url_preprint: https://hal-amu.archives-ouvertes.fr/hal-00156610
 ---
+
 
 
 

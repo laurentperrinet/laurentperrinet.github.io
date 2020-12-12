@@ -31,7 +31,7 @@ doi: 10.1007/s11263-006-0026-8
 featured: false
 publication: '*International Journal of Computer Vision*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - Biologically Inspired Computer vision
@@ -41,6 +41,7 @@ title: Self-Invertible 2D Log-Gabor Wavelets
 url_code: https://github.com/bicv/LogGabor
 url_pdf: http://dx.doi.org/10.1007/s11263-006-0026-8
 ---
+
 
 
 

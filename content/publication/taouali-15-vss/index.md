@@ -52,7 +52,7 @@ grants:
 projects: []
 publication: '*Proceedings of VSS*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - coding decoding
@@ -60,6 +60,7 @@ title: A dynamic model for decoding direction and orientation in macaque primary
   cortex
 url_pdf: http://jov.arvojournals.org/article.aspx?articleid=2433592
 ---
+
 
 
 

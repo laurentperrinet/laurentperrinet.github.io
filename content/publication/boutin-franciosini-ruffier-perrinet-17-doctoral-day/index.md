@@ -16,12 +16,13 @@ grants:
 projects: []
 publication: '*Doc2AMU Doctoral Day - 2017-10-13*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - Deep Learning
 title: Controlling an aerial robot with human gestures using bio-inspired algorithm
 ---
+
 
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
 

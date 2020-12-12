@@ -27,7 +27,7 @@ grants:
 projects: []
 publication: '*The 7th Japanese-French Frontiers of Science Symposium*'
 publication_types:
-- '1'
+- PublicationType.ConferencePaper
 publishDate: '2019-09-17'
 tags:
 - active inference

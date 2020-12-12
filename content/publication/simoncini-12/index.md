@@ -25,7 +25,7 @@ grants:
 projects: []
 publication: '*Nature Neuroscience*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - eye movements
@@ -36,6 +36,7 @@ title: 'More is not always better: dissociation between perception and action ex
   by adaptive gain control'
 url_pdf: http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.3229.html
 ---
+
 
 
 

@@ -13,7 +13,7 @@ grants:
 projects: []
 publication: '*Journal of Vision*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - eye movements

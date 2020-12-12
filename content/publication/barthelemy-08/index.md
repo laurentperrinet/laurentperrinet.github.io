@@ -27,7 +27,7 @@ authors:
 - Laurent U Perrinet
 - Eric Castet
 - Guillaume S Masson
-date: 2008-02-03
+date: 2008-02-12
 doi: 10.1016/j.visres.2007.10.020
 featured: false
 grants:
@@ -35,7 +35,7 @@ grants:
 projects: []
 publication: '*Vision research*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - Bayesian model
@@ -46,6 +46,7 @@ title: Dynamics of distributed 1D and 2D motion representations for short-latenc
   ocular following
 url_pdf: http://dx.doi.org/10.1016/j.visres.2007.10.020
 ---
+
 
 
 

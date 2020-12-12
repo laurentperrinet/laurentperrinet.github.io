@@ -4,13 +4,13 @@ authors:
 - Maria-José Escobar
 - Adrián G Palacios
 - Laurent U Perrinet
-date: 2016-11-03
+date: 2016-11-12
 featured: false
 projects:
 - motion-clouds
 publication: ''
 publication_types:
-- '3'
+- PublicationType.Preprint
 publishDate: '2019-09-17'
 tags:
 - Biologically Inspired Computer vision

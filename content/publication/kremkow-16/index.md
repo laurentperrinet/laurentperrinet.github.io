@@ -32,7 +32,7 @@ grants:
 projects: []
 publication: '*Frontiers in Neural Circuits*'
 publication_types:
-- '2'
+- PublicationType.JournalArticle
 publishDate: '2019-09-17'
 tags:
 - area-v1
