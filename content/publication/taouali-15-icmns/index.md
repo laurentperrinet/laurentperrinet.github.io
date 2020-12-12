@@ -39,31 +39,4 @@ tags:
 title: On overdispersion in neuronal evoked activity
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * see a follow-up in this [publication]({{< ref "/publication/taouali-16" >}})

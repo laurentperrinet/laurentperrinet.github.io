@@ -12,10 +12,6 @@ title: Estimating and anticipating a dynamic probabilistic bias in visual motion
 url_pdf: https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/
 ---
 
-
-
-
-
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}
 * previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})
 * next talk @ [Brain workshop, Marseille]({{< ref "/talk/2018-04-05-bcp-talk/index.md" >}})

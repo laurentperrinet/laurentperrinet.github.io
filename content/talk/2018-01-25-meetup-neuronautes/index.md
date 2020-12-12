@@ -18,45 +18,6 @@ url_pdf: https://laurentperrinet.github.io/talk/2018-01-25-meetup-neuronautes/
 url_slides: https://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.html
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Meetup Art et Neurosciences
   - Quoi  
     Meetup Art et Neurosciences

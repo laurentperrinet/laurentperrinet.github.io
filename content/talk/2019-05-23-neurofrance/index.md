@@ -36,43 +36,10 @@ url_pdf: https://laurentperrinet.github.io/talk/2019-05-23-neurofrance
 url_slides: https://invibe.github.io/2019-05-23_Neurofrance
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}
-
 * This is part of the [Active Inference symposium]({{< ref "/post/2019-05-23-neurofrance/index.md" >}}) @ [NeuroFrance](https://www.neurosciences.asso.fr/V2/colloques/SN19/) SYMPOSIUM, Room 7
 23.05.2019, 11:00 -- 13:00
 * in french: Principes et psychophysique de l´Inférence Active dans l'estimation d'un biais dynamique et volatile de probabilité
-
 * previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})
 * previous talk @ [INVIBE FEST, Paris]({{< ref "/talk/2018-02-01-bcp-invibe-fest/index.md" >}})
 * previous talk @ [Brain workshop, Marseille]({{< ref "/talk/2018-04-05-bcp-talk/index.md" >}})

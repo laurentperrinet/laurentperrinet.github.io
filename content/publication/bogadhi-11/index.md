@@ -45,9 +45,5 @@ title: 'Pursuing motion illusions: a realistic oculomotor framework for Bayesian
 url_pdf: http://dx.doi.org/10.1016/j.visres.2010.10.021
 ---
 
-
-
-
-
 ![header](bogadhi-11.png)
 * See a followup in {{< cite page="/publication/perrinet-12-pred" view="4" >}}

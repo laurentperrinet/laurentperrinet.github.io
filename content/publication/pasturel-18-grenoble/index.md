@@ -31,43 +31,6 @@ title: Estimating and anticipating a dynamic probabilistic bias in visual motion
 url_pdf: https://laurentperrinet.github.io/publication/pasturel-18-grenoble
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * see a write-up in "[Humans adapt their anticipatory eye movements to the volatility of visual motion properties](https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-19/)"
 * as presented at https://eyemovements.sciencesconf.org/
 * get the [poster](https://github.com/chloepasturel/AnticipatorySPEM/raw/master/Poster/2018-06-05_Poster_Workshop_Grenoble/Pasturel_etal2018grenoble.pdf)

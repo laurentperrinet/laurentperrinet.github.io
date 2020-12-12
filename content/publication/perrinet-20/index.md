@@ -47,16 +47,9 @@ url_pdf: https://laurentperrinet.github.io/publication/perrinet-20/
 url_preprint: hhttps://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/
 ---
 
-
-
-
  * Find the text at https://laurentperrinet.github.io/Perrinet20PredictiveProcessing/
-
  * The source code of the text is available at https://github.com/laurentperrinet/Perrinet20PredictiveProcessing
-
-
 This chapter is available as part of the book "[The Philosophy and Science of Predictive Processing](https://www.bloomsbury.com/uk/the-philosophy-and-science-of-predictive-processing-9781350099753/)" :
-
 List of Contributors :
  * Preface: The Brain as a Prediction Machine, Anil Seth
  * Introduction, Dina Mendonça, Manuel Curado & Steven S. Gouveia

@@ -38,7 +38,6 @@ projects: []
 publication: '*PLoS Computational Biology*'
 publication_types:
 - PublicationType.JournalArticle
-publishDate: '2019-09-17'
 tags:
 - Bayesian model
 - motion prediction
@@ -48,41 +47,6 @@ url_pdf: https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/
 url_preprint: https://hal-amu.archives-ouvertes.fr/hal-01771125
 url_press: http://www.cnrs.fr/insb/recherche/parutions/articles2017/l-perrinet.html
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 * [Press release](http://www.cnrs.fr/insb/recherche/parutions/articles2017/l-perrinet.html")
 # Visual illusions: their origin lies in prediction

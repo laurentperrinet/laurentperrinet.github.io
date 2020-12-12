@@ -60,42 +60,5 @@ title: A dynamic model for decoding direction and orientation in macaque primary
 url_pdf: http://jov.arvojournals.org/article.aspx?articleid=2433592
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * see a follow-up in this [poster]({{< ref "/publication/taouali-16-areadne" >}})
-
-
-
-
-
-
-
-
-
-
 * This is a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

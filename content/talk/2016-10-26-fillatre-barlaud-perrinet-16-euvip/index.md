@@ -19,7 +19,4 @@ url_pdf: https://laurentperrinet.github.io/talk/2016-10-26-fillatre-barlaud-perr
 url_slides: https://laurentperrinet.github.io/sciblog/files/2016-10-26_FillatreBarlaudPerrinet16EUVIP_talk.html
 ---
 
-
-
-
 * See a followup in {{< cite page="/publication/perrinet-bednar-15" view="4" >}}

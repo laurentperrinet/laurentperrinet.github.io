@@ -16,7 +16,4 @@ tags:
 title: A Mathematical Account of Dynamic Texture Synthesis for Probing Visual Perception
 ---
 
-
-
-
 * See a followup in {{< cite page="/publication/vacher-16" view="4" >}}

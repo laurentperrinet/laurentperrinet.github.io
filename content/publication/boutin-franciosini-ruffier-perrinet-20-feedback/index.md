@@ -40,8 +40,5 @@ url_pdf: https://laurentperrinet.github.io/publication/boutin-franciosini-ruffie
 url_preprint: https://arxiv.org/abs/2002.00892
 ---
 
-
-
 {{< tweet 1323549136088694790 >}}
-
  * get the code @ https://github.com/VictorBoutin/SPC_2L

@@ -41,14 +41,10 @@ url_pdf: https://laurentperrinet.github.io/talk/2020-09-25-irphe
 url_slides: https://laurentperrinet.github.io/2020-09-25_IRPHE
 ---
 
-
-
-
 * What:: talk @ [Séminaire à l'Institut de Recherche sur les Phénomènes Hors Équilibre (IRPHÉ)](https://laurentperrinet.github.io/talk/2020-09-25-irphe)
 * Who:: Perrinet, Laurent U
 * Where: Marseille (France), see https://laurentperrinet.github.io/talk/2020-09-25-irphe
 * When: 25/09/2020, time: 15:45:00-16:30:00
-
 * What:
   * Slides @ https://laurentperrinet.github.io/2020-09-25_IRPHE
   * Code for slides @ https://github.com/laurentperrinet/2020-09-25_IRPHE/

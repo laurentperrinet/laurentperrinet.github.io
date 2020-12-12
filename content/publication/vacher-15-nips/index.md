@@ -19,7 +19,4 @@ url_pdf: http://papers.nips.cc/paper/5769-biologically-inspired-dynamic-textures
 url_preprint: https://hal-amu.archives-ouvertes.fr/hal-01225867
 ---
 
-
-
-
 * See a followup in {{< cite page="/publication/vacher-16" view="4" >}}

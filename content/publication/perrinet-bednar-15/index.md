@@ -29,7 +29,6 @@ projects: []
 publication: '*Scientific Reports*'
 publication_types:
 - PublicationType.JournalArticle
-publishDate: '2019-09-17'
 tags:
 - association field
 - Biologically Inspired Computer vision
@@ -40,8 +39,6 @@ url_code: https://github.com/laurentperrinet/PerrinetBednar15
 url_pdf: http://www.nature.com/articles/srep11400
 url_preprint: https://hal-amu.archives-ouvertes.fr/hal-01202447
 ---
-
-
 
 * [Press release](http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html)
 * [communiqué de presse](http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html)

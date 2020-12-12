@@ -20,7 +20,4 @@ title: Relationship between natural image statistics and lateral connectivity in
 url_pdf: http://goo.gl/RJpJR4
 ---
 
-
-
-
 * see a follow-up: {{< cite page="/publication/perrinet-bednar-15" view="4" >}}

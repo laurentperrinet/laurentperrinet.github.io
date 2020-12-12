@@ -43,7 +43,4 @@ title: Edge co-occurrences are sufficient to categorize natural versus animal im
 url_pdf: http://dx.doi.org/10.1167/14.10.1310
 ---
 
-
-
-
 * see a follow-up: {{< cite page="/publication/perrinet-bednar-15" view="4" >}}
