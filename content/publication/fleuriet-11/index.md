@@ -31,7 +31,7 @@ doi: 10.1152/jn.00622.2010
 featured: false
 publication: '*Journal of Neurophysiology*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - eye movements
 - motion detection

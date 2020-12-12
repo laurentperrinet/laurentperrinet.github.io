@@ -25,7 +25,7 @@ doi: 10.1016/j.jphysparis.2007.10.013
 featured: false
 publication: '*Neuro-Computation: From Sensorimotor Integration to Computational Frameworks*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - Bayesian model
 title: Bayesian modeling of dynamic motion integration

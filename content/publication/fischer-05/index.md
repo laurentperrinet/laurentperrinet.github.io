@@ -32,7 +32,7 @@ date: 2005-01-01
 featured: false
 publication: '*Perception*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - Biologically Inspired Computer vision
 - matching pursuit

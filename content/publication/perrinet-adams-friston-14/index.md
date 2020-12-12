@@ -25,7 +25,7 @@ date: 2014-12-16
 doi: 10.1007/s00422-014-0620-8
 publication: '*Biological Cybernetics*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - active inference
 - Bayesian model

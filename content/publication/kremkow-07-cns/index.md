@@ -13,7 +13,7 @@ grants:
 projects: []
 publication: '*BMC Neuroscience*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - pynn
 title: Synchrony in thalamic inputs enhances propagation of activity through cortical

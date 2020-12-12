@@ -26,7 +26,7 @@ doi: 10.1016/j.jphysparis.2007.10.011
 featured: false
 publication: '*Journal of Physiology-Paris*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - Bayesian model
 - center-surround interactions

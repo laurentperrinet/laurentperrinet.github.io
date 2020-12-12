@@ -33,7 +33,7 @@ date: 2005-08-12
 featured: false
 publication: '*Perception*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - log-gabor
 title: Modeling of simple cells through a sparse overcomplete gabor wavelet representation

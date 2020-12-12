@@ -26,7 +26,7 @@ grants:
 projects: []
 publication: '*Proceedings of AREADNE*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - aperture problem
 - Bayesian model

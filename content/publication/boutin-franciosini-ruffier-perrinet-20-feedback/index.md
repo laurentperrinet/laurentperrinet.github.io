@@ -31,7 +31,7 @@ grants:
 projects: []
 publication: '*Neural Computation*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - Deep Learning
 - sparse coding

@@ -10,7 +10,7 @@ grants:
 projects: []
 publication: '*6th Workshop of the Computational Neuroscience Network in Marseille*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - coding decoding
 title: A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise

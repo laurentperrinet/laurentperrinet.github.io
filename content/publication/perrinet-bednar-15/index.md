@@ -28,7 +28,7 @@ math: true
 projects: []
 publication: '*Scientific Reports*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - association field
 - Biologically Inspired Computer vision

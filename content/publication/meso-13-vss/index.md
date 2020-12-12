@@ -36,7 +36,7 @@ grants:
 projects: []
 publication: '*VSS Conference Abstract*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - motion-clouds
 title: How and why do image frequency properties influence perceived speed?

@@ -27,7 +27,7 @@ grants:
 projects: []
 publication: '*CNS 2013, Paris*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - active inference
 title: Active inference, eye movements and oculomotor delays

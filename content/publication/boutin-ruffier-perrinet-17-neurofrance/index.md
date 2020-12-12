@@ -36,7 +36,7 @@ projects: []
 publication: '*NeuroFrance 2017, International Conference from the Société des Neurosciences,
   Bordeaux, France*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - sparse coding
 title: Efficient learning of sparse image representations using homeostatic regulation

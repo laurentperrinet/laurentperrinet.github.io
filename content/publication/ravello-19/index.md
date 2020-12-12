@@ -28,7 +28,7 @@ grants:
 projects: []
 publication: '*Scientific Reports*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - motion detection
 - motion-clouds

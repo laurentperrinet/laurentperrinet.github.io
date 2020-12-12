@@ -23,7 +23,7 @@ date: 2012-01-01
 featured: false
 publication: '*Neural Computation*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - aperture problem
 - Bayesian model

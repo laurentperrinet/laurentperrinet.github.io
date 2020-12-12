@@ -42,7 +42,7 @@ grants:
 projects: []
 publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - feed-forward_inhibition
 - large-scale_networks

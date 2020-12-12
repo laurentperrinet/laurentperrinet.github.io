@@ -13,7 +13,7 @@ grants:
 projects: []
 publication: '*Proceedings of VSS*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - eye movements
 - Smooth pursuit eye movement

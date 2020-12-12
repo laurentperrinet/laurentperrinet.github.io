@@ -31,7 +31,7 @@ doi: 10.1007/s11263-006-0026-8
 featured: false
 publication: '*International Journal of Computer Vision*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - Biologically Inspired Computer vision
 - log-gabor

@@ -23,7 +23,7 @@ date: 2007-01-01
 featured: false
 publication: '*Perception 36 ECVP Abstract Supplement*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - motion detection
 title: Dynamic inference for motion tracking

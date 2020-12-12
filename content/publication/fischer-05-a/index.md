@@ -18,7 +18,7 @@ doi: 10.1117/12.608403
 featured: false
 publication: '*Microtechnologies for the New Millennium 2005*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - area-v1
 - Biologically Inspired Computer vision

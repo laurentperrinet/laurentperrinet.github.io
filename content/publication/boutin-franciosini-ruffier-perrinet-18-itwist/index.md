@@ -27,7 +27,7 @@ grants:
 projects: []
 publication: '*iTwist, 2018*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - Deep Learning
 title: From biological vision to unsupervised hierarchical sparse coding

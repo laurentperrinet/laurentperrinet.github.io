@@ -5,7 +5,7 @@ date: 1999-01-01
 featured: false
 publication: ''
 publication_types:
-- PublicationType.Thesis
+- '7'
 tags:
 - rank-order-coding
 - unsupervised learning

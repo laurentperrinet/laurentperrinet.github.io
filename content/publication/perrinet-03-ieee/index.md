@@ -28,7 +28,7 @@ doi: 10.1109/TNN.2004.833303
 featured: false
 publication: '*IEEE Transactions on Neural Networks*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - association field
 - Biologically Inspired Computer vision

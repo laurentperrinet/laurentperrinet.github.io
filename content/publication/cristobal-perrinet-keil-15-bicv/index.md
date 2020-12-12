@@ -31,7 +31,7 @@ doi: 10.1002/9783527680863
 featured: true
 publication: ''
 publication_types:
-- PublicationType.Book
+- '5'
 tags:
 - Biologically Inspired Computer vision
 title: Biologically Inspired Computer Vision

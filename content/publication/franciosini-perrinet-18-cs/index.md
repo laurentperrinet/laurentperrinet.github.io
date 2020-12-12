@@ -51,7 +51,7 @@ grants:
 projects: []
 publication: '*Curves and Surfaces 2018, Arcachon*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - Deep Learning
 title: On the Origins of Hierarchy in Visual Processing

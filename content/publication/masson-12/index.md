@@ -17,7 +17,7 @@ doi: 10.1016/j.neubiorev.2011.03.009
 featured: false
 publication: '*Neuroscience and biobehavioral reviews*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - eye movements
 - motion detection

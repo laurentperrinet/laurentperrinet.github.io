@@ -17,7 +17,7 @@ doi: 10.1016/S0925-2312(02)00374-0
 featured: false
 publication: '*Neurocomputing*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - coding decoding
 - rank-order-coding

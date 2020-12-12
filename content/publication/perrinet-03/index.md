@@ -8,7 +8,7 @@ doi: 10.1016/j.neucom.2004.01.133
 featured: false
 publication: '*Neurocomputing*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - area-v1
 - receptive field

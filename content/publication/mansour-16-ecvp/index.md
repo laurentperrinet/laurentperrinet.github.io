@@ -11,7 +11,7 @@ grants:
 projects: []
 publication: '*Proceedings of ECVP*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - eye movements
 - motion detection

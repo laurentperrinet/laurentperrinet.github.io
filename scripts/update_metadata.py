@@ -18,7 +18,6 @@ from academic.editFM import EditableFM
 from academic.publication_type import PUB_TYPES, PublicationType
 import os
 import glob
-from academic.publication_type import PUB_TYPES, PublicationType
 
 
 
@@ -180,7 +179,8 @@ def import_bibtex(
 
             elif type == 'Publications':
 
-                parsed_yaml['publication_types'] = [f'{PUB_TYPES.get(entry["ENTRYTYPE"], 0)}']
+                pubtype = PUB_TYPES.get(entry["ENTRYTYPE"], PublicationType.Uncategorized)
+                parsed_yaml['publication_types'] = [str(pubtype.value)]
 
                 # Publication name.
                 if 'booktitle' in entry:

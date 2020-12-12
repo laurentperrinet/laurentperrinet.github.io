@@ -9,7 +9,7 @@ grants:
 projects: []
 publication: '*Proceedings of AREADNE*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - Bayesian model
 - center-surround interactions

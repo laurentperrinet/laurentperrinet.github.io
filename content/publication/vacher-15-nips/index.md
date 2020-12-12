@@ -11,7 +11,7 @@ grants:
 projects: []
 publication: '*Advances in Neural Information Processing Systems*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - motion-clouds
 title: Biologically Inspired Dynamic Textures for Probing Motion Perception

@@ -36,7 +36,7 @@ grants:
 projects: []
 publication: '*SIGMA''2020 (Signal, Image, Geometry, Modelling, Approximation)*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - sparse coding
 title: Sparse Deep Predictive Coding captures contour integration capabilities of

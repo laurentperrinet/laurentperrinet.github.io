@@ -35,7 +35,7 @@ grants:
 projects: []
 publication: '*Vision*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - area-v1
 - gain control

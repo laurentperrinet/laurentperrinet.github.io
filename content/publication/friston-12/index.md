@@ -25,7 +25,7 @@ image:
   focal_point: ''
 publication: '*Frontiers in Psychology*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - active inference
 - Bayesian model

@@ -34,7 +34,7 @@ grants:
 projects: []
 publication: '*Journal of Vision*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - Active Inference
 - Deep Learning

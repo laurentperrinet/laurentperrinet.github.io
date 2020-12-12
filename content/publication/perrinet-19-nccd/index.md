@@ -43,7 +43,7 @@ grants:
 projects: []
 publication: '*Proceedings of NCCD, Capbreton*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - coding decoding
 title: A dynamic model for decoding direction and orientation in macaque primary visual

@@ -24,7 +24,7 @@ grants:
 projects: []
 publication: '*GDR Vision, Paris, 2018*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - motion anticipation
 title: A low-cost, accessible eye tracking framework

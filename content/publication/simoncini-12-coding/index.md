@@ -39,7 +39,7 @@ projects: []
 publication: '*Front. Neurosci. Conference Abstract: Neural Coding, Decision-Making
   and Integration in Time*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - eye movements
 - motion detection

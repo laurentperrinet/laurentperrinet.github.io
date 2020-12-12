@@ -64,7 +64,7 @@ grants:
 projects: []
 publication: '*Computational and Systems Neuroscience (Cosyne) 2020*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - sparse coding
 title: Modelling Complex-cells and topological structure in the visual cortex of mammals

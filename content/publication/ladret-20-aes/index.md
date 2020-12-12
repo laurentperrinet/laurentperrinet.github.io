@@ -36,7 +36,7 @@ grants:
 projects: []
 publication: '*Annals of Eye Science*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - area-v1
 title: Learning dynamics in a neural network model of the primary visual cortex

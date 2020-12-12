@@ -24,7 +24,7 @@ grants:
 projects: []
 publication: '*PLoS Computational Biology*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - motion anticipation
 title: Humans adapt their anticipatory eye movements to the volatility of visual motion

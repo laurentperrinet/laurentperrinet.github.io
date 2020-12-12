@@ -37,7 +37,7 @@ doi: 10.1167/18.10.345
 featured: false
 publication: '*Journal of Vision, Vol.18, 345, proceedings of VSS*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - motion detection
 title: Speed uncertainty and motion perception with naturalistic random textures

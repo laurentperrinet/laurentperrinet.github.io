@@ -37,7 +37,7 @@ grants:
 projects: []
 publication: '*Vision research*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - Bayesian model
 - predictive coding

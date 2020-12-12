@@ -24,7 +24,7 @@ grants:
 projects: []
 publication: '*GdR Robotics - 2019-06-05*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - Deep Learning
 title: Top-down connection in Hierarchical Sparse Coding

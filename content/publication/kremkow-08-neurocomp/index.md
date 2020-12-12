@@ -11,7 +11,7 @@ grants:
 projects: []
 publication: '*Proceedings of NeuroComp08, Marseille*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - feed-forward_inhibition
 - large-scale_networks

@@ -39,7 +39,7 @@ grants:
 projects: []
 publication: '*Journal of Physiology-Paris*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - motion detection
 - motion prediction

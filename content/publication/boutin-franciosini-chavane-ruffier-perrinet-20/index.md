@@ -36,7 +36,7 @@ grants:
 projects: []
 publication: '*PLoS Computational Biology*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - sparse coding
 title: Sparse Deep Predictive Coding captures contour integration capabilities of

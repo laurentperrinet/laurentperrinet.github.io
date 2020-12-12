@@ -37,7 +37,7 @@ grants:
 projects: []
 publication: '*Journal of Vision*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - motion-clouds
 title: 'Beyond simply faster and slower: exploring paradoxes in speed perception'

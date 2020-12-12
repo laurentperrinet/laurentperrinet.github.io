@@ -9,7 +9,7 @@ date: 2006-01-01
 featured: false
 publication: '*Perception*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - retina
 title: Contrast sensitivity adaptation in a virtual spiking retina and its adequation

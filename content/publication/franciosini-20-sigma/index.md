@@ -64,7 +64,7 @@ grants:
 projects: []
 publication: '*SIGMA''2020 (Signal, Image, Geometry, Modelling, Approximation)*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - sparse coding
 title: Modelling Complex-cells and topological structure in the visual cortex of mammals

@@ -6,7 +6,7 @@ date: 2002-01-01
 featured: false
 publication: '*Proceedings of ESANN*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - area-v1
 - receptive field

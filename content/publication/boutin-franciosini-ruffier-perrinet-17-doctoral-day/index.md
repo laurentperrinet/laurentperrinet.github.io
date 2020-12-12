@@ -16,7 +16,7 @@ grants:
 projects: []
 publication: '*Doc2AMU Doctoral Day - 2017-10-13*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - Deep Learning
 title: Controlling an aerial robot with human gestures using bio-inspired algorithm

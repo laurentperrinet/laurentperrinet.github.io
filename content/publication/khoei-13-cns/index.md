@@ -12,7 +12,7 @@ grants:
 projects: []
 publication: '*CNS 2013, Paris*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - Bayesian model
 - motion detection

@@ -9,7 +9,7 @@ doi: 10.1155/2007/90727
 featured: false
 publication: '*EURASIP Journal on Advances in Signal Processing*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - association field
 - Biologically Inspired Computer vision

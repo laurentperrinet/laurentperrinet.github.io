@@ -6,7 +6,7 @@ date: 2000-01-01
 featured: false
 publication: '*Proceedings of DYNN*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - sparse hebbian learning
 - stdp

@@ -13,7 +13,7 @@ grants:
 projects: []
 publication: '*IHP workshop*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - motion-clouds
 title: Dynamic Textures For Probing Motion Perception

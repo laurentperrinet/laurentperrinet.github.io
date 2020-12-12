@@ -17,7 +17,7 @@ date: 2006-01-01
 featured: false
 publication: '*Fifteenth Annual Computational Neuroscience Meeting (CNS*2006)*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - unsupervised learning
 title: An efficiency razor for model selection and adaptation in the primary visual

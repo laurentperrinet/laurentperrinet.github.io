@@ -34,7 +34,7 @@ grants:
 projects: []
 publication: '*Journal of Neurophysiology*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - coding decoding
 - spike

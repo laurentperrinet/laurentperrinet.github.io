@@ -13,7 +13,7 @@ grants:
 projects: []
 publication: '*Vision Science Society*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - Bayesian model
 title: A recurrent Bayesian model of dynamic motion integration for smooth pursuit

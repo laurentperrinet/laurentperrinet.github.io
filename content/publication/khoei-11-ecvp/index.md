@@ -13,7 +13,7 @@ grants:
 projects: []
 publication: '*Perception*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - bayesian model
 - motion prediction

@@ -39,7 +39,7 @@ projects: []
 publication: '*NeuroFrance 2019, International Conference from the Société des Neurosciences,
   Marseille, France*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - Deep Learning
 title: A hierarchical, multi-layer convolutional sparse coding algorithm based on

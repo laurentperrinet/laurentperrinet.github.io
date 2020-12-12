@@ -24,7 +24,7 @@ projects: []
 publication: '*Grenoble Workshop on Models and Analysis of Eye Movements, Grenoble,
   France*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - motion anticipation
 title: Estimating and anticipating a dynamic probabilistic bias in visual motion direction

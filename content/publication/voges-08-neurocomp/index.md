@@ -9,7 +9,7 @@ grants:
 projects: []
 publication: '*Proceedings of NeuroComp08, Marseille*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - lateral connections
 title: Analyzing cortical network dynamics with respect to different connectivity

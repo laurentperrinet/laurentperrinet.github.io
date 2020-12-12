@@ -14,7 +14,7 @@ grants:
 projects: []
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - Deep Learning
 title: Sparse Deep Predictive Coding to model visual object recognition

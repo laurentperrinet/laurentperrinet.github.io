@@ -22,7 +22,7 @@ doi: 10.1002/9783527680863.ch14
 featured: false
 publication: '*Biologically Inspired Computer Vision*'
 publication_types:
-- PublicationType.BookSection
+- '6'
 tags:
 - Biologically Inspired Computer vision
 - sparse coding

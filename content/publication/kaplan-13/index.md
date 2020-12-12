@@ -26,7 +26,7 @@ grants:
 projects: []
 publication: '*Frontiers in Computational Neuroscience*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - Bayesian model
 - large-scale_networks

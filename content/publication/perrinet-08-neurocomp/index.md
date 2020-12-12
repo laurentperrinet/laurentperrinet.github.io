@@ -6,7 +6,7 @@ date: 2008-10-12
 featured: false
 publication: '*Proceedings of NeuroComp08, Marseille*'
 publication_types:
-- PublicationType.Book
+- '5'
 tags:
 - computational neuroscience
 title: Proceedings of the second french conference on Computational Neuroscience,

@@ -34,7 +34,7 @@ grants:
 projects: []
 publication: '*Journal of Vision*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - association field
 - Biologically Inspired Computer vision

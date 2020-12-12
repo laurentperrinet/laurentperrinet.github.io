@@ -6,7 +6,7 @@ date: 2002-01-01
 featured: false
 publication: '*Actes de Neurosciences et Sciences de l''Ingenieur, L''Agelonde,*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - sparse hebbian learning
 - stdp

@@ -12,7 +12,7 @@ grants:
 projects: []
 publication: '*CNS*2019, Barcelona*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - Deep Learning
 title: Modelling Complex Cells of Early Visual Cortex using Predictive Coding

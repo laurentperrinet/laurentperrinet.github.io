@@ -25,7 +25,7 @@ grants:
 projects: []
 publication: '*GDR Vision, Paris, 2018*'
 publication_types:
-- PublicationType.ConferencePaper
+- '1'
 tags:
 - area-v1
 title: Selectivity to oriented patterns of different precisions

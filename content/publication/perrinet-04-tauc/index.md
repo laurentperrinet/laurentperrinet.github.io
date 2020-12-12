@@ -24,7 +24,7 @@ doi: 10.1016/j.jphysparis.2005.09.012
 featured: false
 publication: '*Journal of Physiology-Paris*'
 publication_types:
-- PublicationType.JournalArticle
+- '2'
 tags:
 - Bayesian model
 - coding decoding
