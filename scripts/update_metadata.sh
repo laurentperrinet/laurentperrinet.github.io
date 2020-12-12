@@ -7,7 +7,7 @@ if [ $# -eq 1 ]
   then msg="$1"
 fi
 
-python ../scripts/clean_bibtex.py
+python3 ../scripts/clean_bibtex.py
 
 cd ../../perrinet_curriculum-vitae_tex
 
@@ -22,7 +22,7 @@ cd ../hugo_academic/scripts
 # academic import --bibtex  ../perrinet_curriculum-vitae_tex/LaurentPerrinet_Publications.bib
 # academic import --publication-dir talk --bibtex  ../perrinet_curriculum-vitae_tex/LaurentPerrinet_Presentations.bib
 
-python ../scripts/update_metadata.py
+python3 ../scripts/update_metadata.py
 
 echo "\033[0;32mpushing website...\033[0m"
 sh ../scripts/update_gitpages.sh $msg
