@@ -1,17 +1,37 @@
-# -*- coding: utf-8 -*-
+import calendar
+import os
+import re
+import subprocess
+import time
+from datetime import datetime
+import dateutil.parser
+from pathlib import Path
 
-verbose = False
+import bibtexparser
+from bibtexparser.bibdatabase import BibDatabase
+from bibtexparser.bparser import BibTexParser
+from bibtexparser.bwriter import BibTexWriter
+from bibtexparser.customization import convert_to_unicode
 
-for type in ['Presentations', 'Publications']:
+from academic import utils
+from academic.editFM import EditableFM
+from academic.publication_type import PUB_TYPES, PublicationType
+import os
+import glob
+from academic.publication_type import PUB_TYPES, PublicationType
+
+
+
+def getDateTimeFromISO8601String(s, full=False):
+    d = dateutil.parser.parse(s)
+    if not full: d = d.date()
+    return d
+
+def import_bibtex(
+    bibtex, pub_dir="publication", featured=False, overwrite=False, normalize=False, dry_run=False, verbose=False
+):
 
     # 1- getting all citekeys
-    import bibtexparser
-    from bibtexparser.bparser import BibTexParser
-    from bibtexparser.bwriter import BibTexWriter
-    from bibtexparser.bibdatabase import BibDatabase
-    from bibtexparser.customization import convert_to_unicode
-
-    bibtex = f'../../perrinet_curriculum-vitae_tex/LaurentPerrinet_{type}.bib'
     keys = []
     # 1- Load BibTeX file for parsing.
     with open(bibtex, 'r', encoding='utf-8') as bibtex_file:
@@ -29,61 +49,7 @@ for type in ['Presentations', 'Publications']:
     for key in keys:
         dico[slugify(key)] = key
 
-    import os
-    import glob
-
     # 4- updating metadata with bibtex
-    from academic.import_bibtex import clean_bibtex_str
-    from academic.publication_type import PUB_TYPES, PublicationType
-
-    import datetime
-    import dateutil.parser
-
-    def getDateTimeFromISO8601String(s, full=False):
-        d = dateutil.parser.parse(s)
-        if not full:
-            # then get the current date
-            d = d.date()
-        return d
-
-    def clean_bibtex_tags(s, normalize=False):
-        """Clean BibTeX keywords and convert to yaml tags"""
-        tags = clean_bibtex_str(s).split(',')
-        #tags = [f'"{tag.strip()}"' for tag in tags]
-        if normalize:
-            tags = [tag.lower().capitalize() for tag in tags]
-        #tags_str = ', '.join(tags)
-        return tags#_str
-
-    def clean_bibtex_authors(author_str):
-        """Convert author names to `firstname(s) lastname` format."""
-        authors = []
-        for s in author_str:
-            s = s.strip()
-            if len(s) < 1:
-                continue
-            if ',' in s:
-                split_names = s.split(',', 1)
-                last_name = split_names[0].strip()
-                first_names = [i.strip() for i in split_names[1].split()]
-            else:
-                split_names = s.split()
-                last_name = split_names.pop()
-                first_names = [i.replace('.', '. ').strip() for i in split_names]
-            if last_name in ['jnr', 'jr', 'junior']:
-                last_name = first_names.pop()
-            for item in first_names:
-                if item in ['ben', 'van', 'der', 'de', 'la', 'le']:
-                    last_name = first_names.pop() + ' ' + last_name
-            #authors.append(f'"{" ".join(first_names)} {last_name}"')
-            authors.append(f'{" ".join(first_names)} {last_name}')
-        return authors
-
-    normalize = False
-    if type == 'Presentations':
-        pub_dir = '../content/talk'
-    elif type == 'Publications':
-        pub_dir = '../content/publication'
 
     import yaml
 
@@ -136,7 +102,7 @@ for type in ['Presentations', 'Publications']:
             if False:
                 # Time stamping the entry to be published today
                 if not 'publishDate' in parsed_yaml.keys():
-                    today = datetime.datetime.now().date().isoformat()#[2:]
+                    today = datetime.now().date().isoformat()#[2:]
                     parsed_yaml['publishDate'] = today
             else:
                 if 'publishDate' in parsed_yaml.keys():
@@ -244,3 +210,73 @@ for type in ['Presentations', 'Publications']:
                     f.write(page + '\n')
             except IOError as ae:
                 print('ERROR: could not save file.', e)
+
+
+def clean_bibtex_authors(author_str):
+    """Convert author names to `firstname(s) lastname` format."""
+    authors = []
+    for s in author_str:
+        s = s.strip()
+        if len(s) < 1:
+            continue
+
+        if "," in s:
+            split_names = s.split(",", 1)
+            last_name = split_names[0].strip()
+            first_names = [i.strip() for i in split_names[1].split()]
+        else:
+            split_names = s.split()
+            last_name = split_names.pop()
+            first_names = [i.replace(".", ". ").strip() for i in split_names]
+
+        if last_name in ["jnr", "jr", "junior"]:
+            last_name = first_names.pop()
+
+        for item in first_names:
+            if item in ["ben", "van", "der", "de", "la", "le"]:
+                last_name = first_names.pop() + " " + last_name
+        #authors.append(f'"{" ".join(first_names)} {last_name}"')
+        authors.append(f'{" ".join(first_names)} {last_name}')
+
+    return authors
+
+
+def clean_bibtex_str(s):
+    """Clean BibTeX string and escape TOML special characters"""
+    s = s.replace("\\", "")
+    s = s.replace('"', '\\"')
+    s = s.replace("{", "").replace("}", "")
+    s = s.replace("\t", " ").replace("\n", " ").replace("\r", "")
+    return s
+
+
+def clean_bibtex_tags(s, normalize=False):
+    """Clean BibTeX keywords and convert to yaml tags"""
+
+    tags = clean_bibtex_str(s).split(',')
+    #tags = [f'"{tag.strip()}"' for tag in tags]
+
+    if normalize:
+        tags = [tag.lower().capitalize() for tag in tags]
+
+    return tags
+
+
+def month2number(month):
+    """Convert BibTeX or BibLateX month to numeric"""
+    from academic.cli import log
+
+    if len(month) <= 2:  # Assume a 1 or 2 digit numeric month has been given.
+        return month.zfill(2)
+    else:  # Assume a textual month has been given.
+        month_abbr = month.strip()[:3].title()
+        try:
+            return str(list(calendar.month_abbr).index(month_abbr)).zfill(2)
+        except ValueError:
+            raise log.error("Please update the entry with a valid month.")
+
+
+for type, pub_dir in zip(['Presentations', 'Publications'],
+                         ['../content/talk', '../content/publication']):
+    bibtex = f'../../perrinet_curriculum-vitae_tex/LaurentPerrinet_{type}.bib'
+    import_bibtex(bibtex, pub_dir)
