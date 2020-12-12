@@ -2,9 +2,7 @@
 
 verbose = False
 
-for type in ['Presentations', 'Publications']:#, 'Events']:
-    # type = 'Presentations'
-    # type = 'Publications'
+for type in ['Presentations', 'Publications']:
 
     # 1- getting all citekeys
     import bibtexparser
@@ -25,7 +23,7 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
             keys.append(entry['ID'])
 
     # 2- making a dictionary to slugify
-    from academic.cli import slugify, month2number
+    from academic.import_bibtex import slugify, month2number
 
     dico = {}
     for key in keys:
@@ -35,7 +33,8 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
     import glob
 
     # 4- updating metadata with bibtex
-    from academic.cli import PUB_TYPES, clean_bibtex_str #, clean_bibtex_authors#, clean_bibtex_tags
+    from academic.import_bibtex import clean_bibtex_str
+    from academic.publication_type import PUB_TYPES, PublicationType
 
     import datetime
     import dateutil.parser
