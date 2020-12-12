@@ -22,7 +22,8 @@ for type in ['Presentations', 'Publications']:#, 'Events']:
                     tags = entry[tag_key]
                     tags_old = tags
                     tags = tags.replace(';', ',')
-                    tags = tags.replace(', ', ',').replace(' ,', ',')
+                    tags = tags.replace(', ', ',')
+                    tags = tags.replace(' ,', ',')
                     # sort tags
                     tags = sorted(list(set(tags.split(','))), key=str.lower)
                     # concatenate tags in one string
