@@ -3,7 +3,7 @@ authors:
 - alberto-vergani
 bio: During my Post-Doc, I am focusing on traveling waves in a bio-inspired neural network.
 title: Alberto Arturo Vergani
-role: Post-Doc in Computational Neuroscience
+role: Post-Doc in Computational Neuroscience (04/2020 - 09/2021)
 social:
 - icon: github
   icon_pack: fab
