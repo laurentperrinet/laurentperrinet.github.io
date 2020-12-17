@@ -18,7 +18,6 @@ We expect that the convergence of these three research currents and methodologie
 
 ## carte d'identité du projet
 
-* Type de contrat : CRCNS US-French Research Proposal
 * Durée: 4 ans, à partir du 1er avril 2021
 * Budget total (partenaire français): 665 k€
 * Coordinateur Scientifique : Mark WEXLER (CNRS‐INCC)
