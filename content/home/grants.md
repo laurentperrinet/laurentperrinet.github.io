@@ -82,3 +82,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+[1](http://phdcomics.com/comics/archive.php?comicid=1431)
