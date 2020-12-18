@@ -24,7 +24,7 @@ abstract: 'The machinery behind the visual perception of motion and the subseque
   to account for suppressive effects of the surround.'
 authors:
 - Laurent U Perrinet
-date: 2007-03-12
+date: 2007-03-18
 doi: 10.1140/epjst/e2007-00061-7
 featured: false
 publication: '*Topics in Dynamical Neural Networks: From Large Scale Neural Networks
