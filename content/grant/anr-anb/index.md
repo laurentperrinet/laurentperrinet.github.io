@@ -25,7 +25,7 @@ slides: "2020-12-10_agileneurobot_anr"
 * Coordinateur Scientifique : PERRINET Laurent (UMR7289)
 * Durée: 3 ans, à partir du 1er mars 2021
 * Budget total: 435 k€
-* Responsable Scientifiques : Stéphane Viollet (BioRobotique, Inst Sciences Mouvement), Ryad Benosman (Inst de la Vision ) | Laurent Perrinet (NeOpTo, Inst Neurosciences de la Timone)
+* Responsables Scientifiques : Stéphane Viollet (BioRobotique, Inst Sciences Mouvement), Ryad Benosman (Inst de la Vision ) | Laurent Perrinet (NeOpTo, Inst Neurosciences de la Timone, coordinateur)
 
 {{< figure src="event_driven_computations.png" title="A miniature, event-based ATIS sensor. Contrary to a classical frame-based camera for which a full dense image representation is given at discrete, regularly spaced timings, the event-based camera provides with events at the micro-second resolution. These are sparse as they represent luminance increments or decrements (ON and OFF events, respectively)." numbered="true" >}}
 
