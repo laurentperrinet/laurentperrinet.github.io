@@ -31,7 +31,7 @@ title: 2020-12-10_AgileNeuroBot
 * Titre : Robots aériens agiles bio-mimetiques pour le vol en conditions réelles
 * *Title : Bio-mimetic agile aerial robots flying in real-life conditions*
 * CES : CE23 - Intelligence Artificielle
-* Durée: 3 ans, à partir du 1er avril 2021
+* Durée: 3 ans, à partir du 1er mars 2021
 * Budget total: 435 k€
 
 ---
