@@ -43,6 +43,7 @@ tags:
 title: 'From the retina to action: Dynamics of predictive processing in the visual
   system'
 url_code: https://github.com/laurentperrinet/Perrinet19PredictiveProcessing
+url_pdf: https://laurentperrinet.github.io/publication/perrinet-20/
 url_preprint: https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/
 ---
 
