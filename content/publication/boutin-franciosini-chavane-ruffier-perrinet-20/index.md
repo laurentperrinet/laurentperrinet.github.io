@@ -42,6 +42,7 @@ tags:
 - sparse coding
 title: Sparse Deep Predictive Coding captures contour integration capabilities of
   the early visual system
+url_code: https://github.com/VictorBoutin/InteractionMap
 url_pdf: https://doi.org/10.1371/journal.pcbi.1008629
 url_preprint: https://arxiv.org/abs/1902.07651
 ---
