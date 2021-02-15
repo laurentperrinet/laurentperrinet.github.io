@@ -18,7 +18,7 @@ We propose to use dynamic inference as an efficient theoretical framework to und
 # Aim 3, modelling behavioural and neuronal data within the active inference framework
 
 * Type de contrat : CRCNS US-French Research Proposal
-* Durée: 3 ans, à partir du 1er avril 2021
+* Durée: 4 ans, à partir du 1er novembre 2020
 * Budget total (partenaire français): 341 k€
 *	to be recruited: Post-doctoral fellow: A post-post-doctoral fellow in computational neuroscience will be recruited. With a 2-5 years experience, salary cost is of 52K€/year, for 2 years (total: 104K€).
 * Coordinateur Scientifique : MONTAGNINI, Anna & PERRINET Laurent (UMR7289)

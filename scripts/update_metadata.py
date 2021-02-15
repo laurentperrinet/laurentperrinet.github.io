@@ -20,7 +20,6 @@ import os
 import glob
 
 
-
 def getDateTimeFromISO8601String(s, full=False):
     d = dateutil.parser.parse(s)
     if not full: d = d.date()
