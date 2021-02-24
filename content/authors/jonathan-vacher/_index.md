@@ -12,8 +12,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JonathanVacher
-- icon: link
-  icon_pack: fab
+- icon: external-link-alt
+  icon_pack: fas
   link: http://jonathanvacher.github.io/
 
 ---
