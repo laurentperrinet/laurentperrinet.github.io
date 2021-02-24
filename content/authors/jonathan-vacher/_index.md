@@ -17,3 +17,5 @@ social:
   link: http://jonathanvacher.github.io/
 
 ---
+
+Mathematics, Machine Learning & Computational Neuroscience

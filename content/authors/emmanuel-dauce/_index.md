@@ -7,13 +7,13 @@ user_groups:
 - Collaborators
 social:
 - icon: github
-  icon_pack: fas
+  icon_pack: fab
   link: https://github.com/gdbmanu
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Emmanuel_Dauce2
 - icon: external-link-alt
-  icon_pack: fab
+  icon_pack: fas
   link: http://emmanuel.dauce.free.fr/
 
 ---
