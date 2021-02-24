@@ -12,7 +12,7 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Emmanuel_Dauce2
-- icon: external-link
+- icon: link
   icon_pack: fab
   link: http://emmanuel.dauce.free.fr/
 

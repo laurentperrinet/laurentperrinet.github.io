@@ -12,7 +12,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JonathanVacher
-- icon: external-link
+- icon: link
   icon_pack: fab
   link: http://jonathanvacher.github.io/
 
