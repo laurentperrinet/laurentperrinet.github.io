@@ -209,15 +209,19 @@ plugins_js  = []
   publication_view = 2
   talk_view = 3
 
+# Breadcrumb navigation
+[breadcrumb]
+  page_types = {book = true}
+
 ############################
 ## Comments
 ############################
 [comments]
   # Comment provider:
-  #   0: Disabled
-  #   1: Disqus (https://disqus.com)
-  #   2: Commento (https://commento.io)
-  engine = 0
+  #   "": Disabled
+  #   "disqus": Disqus (https://disqus.com)
+  #   "commento": Commento (https://commento.io)
+  provider = ""
 
   # Which page types are commentable?
   commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
@@ -237,10 +241,10 @@ plugins_js  = []
 ############################
 [search]
   # Search provider:
-  #   0: No search engine
-  #   1: Academic (built-in)
-  #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  #   "": No search engine
+  #   "wowchemy": Built-in search engine
+  #   "algolia": Algolia (https://www.algolia.com)
+  provider = "wowchemy"
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
@@ -264,11 +268,11 @@ plugins_js  = []
   #   https://www.mapbox.com/studio/account/tokens
   #
   # Map provider:
-  #   0: No map
-  #   1: Google Maps
-  #   2: OpenStreetMap (Mapnik)
-  #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  #   "": No map
+  #   "google": Google Maps
+  #   "mapnik": OpenStreetMap (Mapnik)
+  #   "mapbox": OpenStreetMap (Mapbox)
+  provider = "mapnik"
   api_key = ""
   zoom = 10
 
@@ -278,13 +282,14 @@ plugins_js  = []
 [marketing]
   google_analytics = "UA-140381649-1"
   google_tag_manager = ""
+  google_site_verification = ""
 
 ############################
 ## Content Management System
 ############################
 [cms]
-# See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
-  netlify_cms = false
+  branch = "master"
+  local_backend = false
 
 ############################
 ## Icon Pack Extensions
