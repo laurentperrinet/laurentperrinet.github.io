@@ -11,11 +11,11 @@ authors:
 - Laurent U Perrinet
 - Ryad Benosman
 tags:
-- '"efficient coding"'
-- '"event-based vision"'
-- '"homeostasis"'
-- '"neuromorphic hardware"'
-- '"online classification"'
+- 'efficient coding'
+- 'event-based vision'
+- 'homeostasis'
+- 'neuromorphic hardware'
+- 'online classification'
 categories: []
 date: '2021-02-26'
 lastmod: 2021-02-25T17:01:28+01:00
