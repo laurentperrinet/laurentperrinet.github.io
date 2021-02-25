@@ -39,7 +39,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
 ############################
 
 # Get last modified date for content from Git?
-enableGitInfo = true
+enableGitInfo = false
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -53,7 +53,6 @@ enableEmoji = true
 enableRobotsTXT = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
-disableAliases = true  # Disable aliases when `redirects` is added to the `outputs` below.
 
 [permalinks]
   # If only creating events which are talks, we can optimize event URLs for talks.
@@ -65,7 +64,7 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
   publication_types = "/publication-type/:slug/"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON", "WebAppManifest", "headers", "redirects"]
+  home = ["HTML", "RSS", "JSON", "WebAppManifest", "headers"]
   section = ["HTML", "RSS"]
 
 # Configure the Markdown renderer.

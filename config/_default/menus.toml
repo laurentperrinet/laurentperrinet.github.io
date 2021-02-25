@@ -51,10 +51,10 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
 # [[main]]
 #    name = "CV"
 #    url = "https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/perrinet_curriculum-vitae-full.pdf"
