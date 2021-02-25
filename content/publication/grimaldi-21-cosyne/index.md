@@ -60,3 +60,8 @@ abstract: 'We propose a neuromimetic  architecture able to perform online patter
 publication: '*Computational and Systems Neuroscience (Cosyne) 2021*'
 url_pdf: https://laurentperrinet.github.io/publication/grimaldi-21-cosyne/
 ---
+
+{{< tweet 1364962423120265218 >}}
+{{< figure src="poster.png" width="100%" >}}
+
+* see the poster online on the [Hopin platform](https://app.hopin.com/events/cosyne-2021/expo/377631)
