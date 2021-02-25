@@ -18,11 +18,11 @@ title = "Novel visual computations"
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   gradient_start = "#4bb4e3"
   gradient_end = "#2b94c3"
-  
+
   # Background image.
   # https://sourcethemes.com/academic/docs/managing-content/#header-image
   # image = "img/headers/Etienne-Rey-TROPIQUE_small.jpg"  # Name of image in `static/img/`.
@@ -31,7 +31,7 @@ title = "Novel visual computations"
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-  
+
   # Text color (true=light or false=dark).
   text_color_light = true
 
@@ -63,5 +63,3 @@ To narrow the gap between neuroscience and the theory of sensory processing comp
 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-
-:-)
