@@ -28,7 +28,7 @@ featured: false
 grants:
 - aprovis3D
 projects: []
-publication: '*Computational and Systems Neuroscience (Cosyne) 2021*'
+publication: '*Computational and Systems Neuroscience (CoSyNe) 2021*'
 publication_types:
 - '1'
 tags:
