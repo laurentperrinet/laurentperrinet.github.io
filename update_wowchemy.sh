@@ -14,9 +14,9 @@ fi
 
 # Update the Wowchemy Hugo module
 function update_wowchemy () {
-  # Update Wowchemy to the latest master version
-  echo -e "Updating Wowchemy to the latest master version...\n"
-  hugo mod get github.com/wowchemy/wowchemy-hugo-modules/wowchemy/@master
+  # Update Wowchemy to the latest main version
+  echo -e "Updating Wowchemy to the latest main version...\n"
+  hugo mod get github.com/wowchemy/wowchemy-hugo-modules/wowchemy/@main
   hugo mod tidy
 }
 
@@ -24,7 +24,7 @@ function update_wowchemy () {
 function update_netlify () {
   # - Update Netlify.toml with required Hugo version
   if [ -f ./netlify.toml ]; then
-    curl -o "tmp_get_version" https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/wowchemy/config.yaml
+    curl -o "tmp_get_version" https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/wowchemy/config.yaml
     version=$(sed -n 's/^[[:space:]]*min: //p' "tmp_get_version" | tr -d "'")
     version="${version}"
     echo "Set Netlify Hugo version to v${version}"
