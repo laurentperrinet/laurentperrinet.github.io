@@ -42,6 +42,6 @@ url_pdf: https://laurentperrinet.github.io/publication/grimaldi-21-cosyne/
 ---
 
 {{< tweet 1233458739220504578 >}}
-{{< figure src="poster.jpg" width="100%" >}}
-* see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
-* more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}
+{{< figure src="poster.png" width="100%" >}}
+
+* see the poster online on the [Hopin platform](https://app.hopin.com/events/cosyne-2021/expo/377631) 
