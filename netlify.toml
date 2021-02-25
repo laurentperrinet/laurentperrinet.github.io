@@ -1,6 +1,6 @@
 [build]
   command = "hugo --gc --minify -b $URL"
-  publish = "public"
+  publish = "laurentperrinet.github.io"
 
 [build.environment]
   HUGO_VERSION = "0.80.0"
@@ -14,4 +14,3 @@
 
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
-
