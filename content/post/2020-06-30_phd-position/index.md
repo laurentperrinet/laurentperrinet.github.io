@@ -17,9 +17,7 @@ projects: []
 tags:
 - events
 ---
-{{% callout warning %}}
 THE POSITION HAS BEEN FILLED.
-{{% /callout %}}
 
 Dear colleagues,
 
