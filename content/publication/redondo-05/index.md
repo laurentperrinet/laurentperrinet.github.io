@@ -29,7 +29,7 @@ authors:
 - Sylvain Fischer
 - Laurent U Perrinet
 - Gabriel Cristóbal
-date: 2005-08-02
+date: 2005-08-25
 featured: false
 publication: '*Perception*'
 publication_types:
