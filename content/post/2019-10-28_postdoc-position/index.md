@@ -22,9 +22,7 @@ tags:
 title: Postdoc position on Visual computations using Spatio-temporal Diffusion Kernels
   and Traveling Waves
 ---
-{{% callout warning %}}
 THE POSITION HAS BEEN FILLED.
-{{% /callout %}}
 
 {{< tweet 1188940039293751297 >}}
 
