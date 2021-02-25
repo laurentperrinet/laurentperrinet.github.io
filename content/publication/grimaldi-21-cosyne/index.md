@@ -44,4 +44,4 @@ url_pdf: https://laurentperrinet.github.io/publication/grimaldi-21-cosyne/
 {{< tweet 1233458739220504578 >}}
 {{< figure src="poster.png" width="100%" >}}
 
-* see the poster online on the [Hopin platform](https://app.hopin.com/events/cosyne-2021/expo/377631) 
+* see the poster online on the [Hopin platform](https://app.hopin.com/events/cosyne-2021/expo/377631)
