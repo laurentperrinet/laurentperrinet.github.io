@@ -117,11 +117,17 @@ appointment_url = ""
 # http://jpswalsh.github.io/academicons/
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/laurentperrinet"},
-  {icon = "orcid", icon_pack = "ai", name = "OrcID", link = "http://orcid.org/0000-0002-9536-010X"},
-  {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/laurent-perrinet-1857b9/"},
-  ]
-
+{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/laurentperrinet"},
+{icon = "orcid", icon_pack = "ai", name = "OrcID", link = "http://orcid.org/0000-0002-9536-010X"},
+{icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/laurent-perrinet-1857b9/"},
+{icon = "researcherid", icon_pack = "ai", name = "ResearcherID", link = "https://www.researcherid.com/rid/C-4900-2009"},
+{icon = "zotero", icon_pack = "ai", name = "Zotero", link = "https://www.zotero.org/groups/2485979/laurent_perrinet/library"},
+{icon = "publons", icon_pack = "ai", name = "Publons", link = "https://publons.com/a/1206845/"},
+{icon = "github", icon_pack = "fab", name = "GitHub", link = "https://github.com/laurentperrinet"},
+{icon = "arxiv", icon_pack = "ai", name = "arXiv", link = "https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Perrinet%2C+L&terms-0-field=author&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first"},
+{icon = "instagram", icon_pack = "fab", name = "instagram", link = "https://www.instagram.com/laurentperrinet/"},
+{icon = "google-scholar", icon_pack = "ai", name = "Google Scholar", link = "https://scholar.google.co.uk/citations?user=TVyUV38AAAAJ"},
+              ]
 ############################
 ## Social
 ############################
