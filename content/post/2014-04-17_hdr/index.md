@@ -6,8 +6,6 @@ date: 2014-04-17 09:00:00
 draft: false
 lastmod: 2014-04-17 09:00:00
 projects: []
-subtitle:  **Codage prédictif dans les transformations visuo-motrices**
-summary: J'ai soutenu mon habilitation à diriger des recherche (HDR) le 17 avril 2014, celle-ci ayant pour titre: **Codage prédictif dans les transformations visuo-motrices** 
 tags:
 - events
 ---
