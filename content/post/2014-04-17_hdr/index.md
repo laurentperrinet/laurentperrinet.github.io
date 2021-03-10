@@ -1,20 +1,21 @@
 ---
-title: 2014-04-17: Soutenance habilitation à diriger des recherches (HDR)
 authors:
-- laurent-perrinet
+- laurent-u-perrinet
 date: 2014-04-17
 draft: false
-subtitle:  **Codage prédictif dans les transformations visuo-motrices**
-summary: J'ai soutenu mon habilitation à diriger des recherche (HDR) le 17 avril 2014, celle-ci ayant pour titre: **Codage prédictif dans les transformations visuo-motrices** 
-lastmod: 2014-04-17 09:00:00
+lastmod: 2014-04-17 06:00:00
 projects: []
 tags:
 - events
+title: '2014-04-17: Soutenance d''habilitation à diriger des recherches (HDR)'
+subtitle: Codage prédictif dans les transformations visuo-motrices
+summary: 'J''ai soutenu mon habilitation à diriger des recherche (HDR) le 17 avril 2014, celle-ci ayant pour titre: **Codage prédictif dans les transformations visuo-motrices**'
 ---
 
-Quand:: le 17 avril 2014 de 14 H30 à 16 H 30,
 
-Quoi:: “Codage prédictif dans les transformations visuo-motrices”.
+Quand: le 17 avril 2014 de 14 H30 à 16 H 30,
+
+Quoi: “Codage prédictif dans les transformations visuo-motrices”.
 
 Lieu:  salle Henri Gastaut, au rez de chaussée de l'INT  (how to [get there](http://www.int.univ-amu.fr/contact))
 
