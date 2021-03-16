@@ -21,7 +21,7 @@ To enable the dissemination of the knowledge that is produced in our lab, we sha
 
 # bayesianchangepoint
 
-An implementation of [Adams &amp; MacKay 2007 "Bayesian Online Changepoint Detection"](http://arxiv.org/abs/0710.3742) for binary inputs in Python.
+An implementation of [Adams &amp; MacKay 2007 "Bayesian Online Changepoint Detection"](http://arxiv.org/abs/0710.3742) for binary inputs in {{< icon name="python" pack="fab" >}} Python.
 
 * [Source code](https://github.com/laurentperrinet/bayesianchangepoint)
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}
@@ -39,7 +39,7 @@ Work-in-progress : an eye tracker based on webcams.
 
 * [Source code](https://github.com/laurentperrinet/LeCheapEyeTracker)
 
-# Biologically inspired computer vision
+# Biologically inspired computer vision ({{< icon name="python" pack="fab" >}} Python)
 
 ## SLIP: a Simple Library for Image Processing
 
@@ -78,12 +78,12 @@ This is a collection of python scripts to test learning strategies to efficientl
 **MotionClouds** are random dynamic stimuli optimized to study motion perception.
 
 * [Web-site](https://neuralensemble.github.io/MotionClouds/)
-* [Source code](https://github.com/NeuralEnsemble/MotionClouds)
+* [Source code](https://github.com/NeuralEnsemble/MotionClouds) using {{< icon name="python" pack="fab" >}} Python.
 
 
 # PyNN
 
-**PyNN** is a simulator-independent language for building neuronal network models.
+**PyNN** is a simulator-independent language for building neuronal network models using {{< icon name="python" pack="fab" >}} Python.
 
 * [Web-site](https://neuralensemble.github.io/PyNN/)
 * [Source code](https://github.com/NeuralEnsemble/PyNN)

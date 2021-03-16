@@ -1,0 +1,190 @@
+# SITE SETUP
+# Guide: https://wowchemy.com/docs/getting-started/
+# Documentation: https://wowchemy.com/docs/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+
+theme: minimal
+day_night: true
+font: ''
+font_size: M
+
+# SEO
+
+site_type: Person
+local_business_type: ''
+org_name: ''
+description: ''
+twitter: laurentperrinet
+
+# Contact (edit or remove options as required)
+
+email: laurent.perrinet@univ-amu.fr
+phone: +33 619 478 120
+address:
+  street: NeOpTo Team <BR>  Institut de Neurosciences de la Timone (UMR 7289) <br>
+      Aix Marseille Université, CNRS <br> Faculté de Médecine - Bâtiment Neurosciences,<br>
+      27, Bd Jean Moulin
+  city: Marseille
+  region: PACA
+  postcode: 13385 Marseille Cedex 05
+  country: France
+  country_code: FR
+coordinates:
+  latitude: '43.2869'
+  longitude: '5.4035'
+directions: Enter INT Building 1 and take the stairs to Floor 2
+office_hours: []
+appointment_url: ''
+contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: DM Me
+    link: https://twitter.com/laurentperrinet
+  - icon: orcid
+    icon_pack: ai
+    name: OrcID
+    link: http://orcid.org/0000-0002-9536-010X
+  - icon: linkedin
+    icon_pack: fab
+    name: LinkedIn
+    link: https://www.linkedin.com/in/laurent-perrinet-1857b9/
+  - icon: researcherid
+    icon_pack: ai
+    name: ResearcherID
+    link: https://www.researcherid.com/rid/C-4900-2009
+  - icon: zotero
+    icon_pack: ai
+    name: Zotero
+    link: https://www.zotero.org/groups/2485979/laurent_perrinet/library
+  - icon: publons
+    icon_pack: ai
+    name: Publons
+    link: https://publons.com/a/1206845/
+  - icon: github
+    icon_pack: fab
+    name: GitHub
+    link: https://github.com/laurentperrinet
+  - icon: arxiv
+    icon_pack: ai
+    name: arXiv
+    link: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Perrinet%2C+L&terms-0-field=author&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first
+  - icon: instagram
+    icon_pack: fab
+    name: instagram
+    link: https://www.instagram.com/laurentperrinet/
+  - icon: google-scholar
+    icon_pack: ai
+    name: Google Scholar
+    link: https://scholar.google.co.uk/citations?user=TVyUV38AAAAJ
+
+# Site header
+
+main_menu:
+  enable: true
+  align: l
+  show_logo: true
+  show_language: false
+  show_day_night: true
+  show_search: true
+  highlight_active_link: true
+
+# Localization
+
+date_format: 'Jan 2, 2006'
+time_format: '3:04 PM'
+address_format: en-us
+
+# Site features
+
+highlight: true
+highlight_languages:
+  - r
+  - python
+  - latex
+
+math: true
+diagram: false
+privacy_pack: false
+edit_page:
+  repo_url: ''
+  content_dir: ''
+  repo_branch: main
+  editable:
+    page: false
+    post: false
+    book: false
+
+# logo: hulk.png
+# sharing_image: hulk.png
+# highlight_superuser: false
+# link_authors: true
+
+show_related: 
+  book: true
+  page: false
+  post: true
+  project: true
+  publication: true
+  event: true
+reading_time: true
+section_pager: false
+docs_section_pager: true
+sharing: true
+copyright_license:
+  enable: false
+  allow_derivatives: false
+  share_alike: true
+  allow_commercial: false
+  notice: 'This work is licensed under {license}'
+abstract_length: 135
+plugins_js: []
+avatar:
+  gravatar: false
+  shape: circle
+publications:
+  date_format: '2006-01-02'
+  citation_style: apa
+projects:
+  post_view: 2
+  publication_view: 2
+  talk_view: 3
+breadcrumb:
+  page_types:
+    book: true
+comments:
+  provider: ''
+  commentable:
+    post: true
+    book: true
+    project: true
+    publication: true
+    event: true
+  disqus:
+    shortname: ''
+    show_count: true
+  commento:
+    url: ''
+search:
+  provider: wowchemy
+  algolia:
+    app_id: ''
+    api_key: ''
+    index_name: ''
+    show_logo: false
+map:
+  provider: mapnik
+  api_key: ''
+  zoom: 10
+marketing:
+  google_analytics: UA-140381649-1
+  google_site_verification: ''
+  google_tag_manager: ''
+
+cms:
+  branch: master
+  local_backend: false
+icon:
+  pack:
+    ai: true
