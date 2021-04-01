@@ -20,4 +20,4 @@ metadata:
 	cd scripts; sh update_metadata.sh
 
 academic:
-	sh update_academic.sh
+	sh update_wowchemy.sh
