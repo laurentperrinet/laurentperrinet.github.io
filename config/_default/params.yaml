@@ -116,12 +116,13 @@ edit_page:
     post: false
     book: false
 
+profile: true
 # logo: hulk.png
 # sharing_image: hulk.png
 # highlight_superuser: false
 # link_authors: true
 
-show_related: 
+show_related:
   book: true
   page: false
   post: true

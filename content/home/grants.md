@@ -37,7 +37,7 @@ subtitle = ""
 
 
   [[content.filter_button]]
-    name = "Past Grants"
+    name = "[Past Grants](http://phdcomics.com/comics/archive.php?comicid=1431)"
     tag = "past-grant"
 
 
@@ -82,4 +82,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-[1](http://phdcomics.com/comics/archive.php?comicid=1431)
