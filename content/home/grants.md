@@ -19,12 +19,7 @@ subtitle = ""
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
 
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 1
-
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
-
+  filter_default = 0
 
   [[content.filter_button]]
     name = "Current Grants"
@@ -37,7 +32,8 @@ subtitle = ""
 
 
   [[content.filter_button]]
-    name = "[Past Grants](http://phdcomics.com/comics/archive.php?comicid=1431)"
+    # name = "[Past Grants](http://phdcomics.com/comics/archive.php?comicid=1431)"
+    name = "Past Grants"
     tag = "past-grant"
 
 
