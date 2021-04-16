@@ -4,7 +4,7 @@ authors:
 categories: []
 date: 2019-06-13 00:00:00
 draft: false
-featured: true
+featured: false
 image:
   caption: Hallucination ? Ashley Bean/Unsplash
   focal_point: ''
@@ -14,6 +14,7 @@ summary: Article de dissémination sur la perception visuelle, vue à travers il
   et hallucinations.
 tags:
 - neuroscience
+- vision
 - psychiatry
 title: 'Illusions et hallucinations visuelles : une porte sur la perception'
 ---
