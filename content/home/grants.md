@@ -27,14 +27,14 @@ subtitle = ""
 
 
   [[content.filter_button]]
-    name = "Grants"
-    tag = "grant"
-
-
-  [[content.filter_button]]
     # name = "[Past Grants](http://phdcomics.com/comics/archive.php?comicid=1431)"
     name = "Past Grants"
     tag = "past-grant"
+
+
+  [[content.filter_button]]
+    name = "All Grants"
+    tag = "grant"
 
 
 [design]
