@@ -1,5 +1,5 @@
 ---
-abstract: 'Cells in the primary visual cortex of mammals (V1) have historically been
+summary: 'Cells in the primary visual cortex of mammals (V1) have historically been
   divided into two classes: simple and complex. Simple cells exhibit a rectified linear
   response to oriented visual stimuli while complex cells show various degrees of
   invariance with respect to the stimulus'' phase (position). The existence of these
