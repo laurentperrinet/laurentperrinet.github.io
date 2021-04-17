@@ -34,7 +34,7 @@ featured: false
 grants:
 - facets
 projects:
-- tout-public
+- open-science
 publication: '*Sixteenth Annual Computational Neuroscience Meeting: CNS*2007, Toronto,
   Canada. 7--12 July 2007*'
 publication_types:
