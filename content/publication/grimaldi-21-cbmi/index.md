@@ -31,7 +31,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
-lastmod: 2021-02-25 17:01:28+01:00
+lastmod: 2021-04-20 17:01:28+01:00
 projects: []
 publication: '*Content-Based Multimedia Indexing (CBMI) 2021*'
 publication_types:
@@ -47,7 +47,5 @@ title: A robust bio-inspired approach to event-driven object recognition
 url_pdf: https://laurentperrinet.github.io/publication/grimaldi-21-cbmi/
 ---
 
-{{< tweet 1364962423120265218 >}}
-{{< figure src="poster.png" width="100%" >}}
-* see the poster online on the [Hopin platform](https://app.hopin.com/events/cosyne-2021/expo/377631)
+* this proceedings paper follows up he poster presented in : {{< cite page="/publication/grimaldi-21-cosyne" view="4" >}}
 * Antoine Grimaldi and Laurent Perrinet received funding from the European Union ERA-NET CHIST-ERA 2018 research and innovation program under grant agreement No ANR-19-CHR3-0008-03.
