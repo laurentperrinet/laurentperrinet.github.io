@@ -20,7 +20,6 @@ copyright: 'This material is presented to ensure timely dissemination of scholar
   Please note that multiple distribution, publication or commercial usage of copyrighted
   papers included in this website would require submission of a permission request
   addressed to the journal in which the paper appeared.
-
   '
 
 ############################
@@ -60,7 +59,7 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON]
+  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
 markup:
   defaultMarkdownHandler: goldmark
