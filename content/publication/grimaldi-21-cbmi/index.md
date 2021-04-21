@@ -43,7 +43,7 @@ tags:
 - homeostasis
 - neuromorphic hardware
 - online classification
-title: A robust bio-inspired approach to event-driven object recognition
+title: A homeostatic gain control mechanism to improve event-driven object recognition
 url_pdf: https://laurentperrinet.github.io/publication/grimaldi-21-cbmi/
 ---
 
