@@ -33,7 +33,7 @@ publication_types:
 - '2'
 tags:
 - sparse coding
-title: Pooling in a predictive model of V1 explains functional and structuraldiversity
+title: Pooling in a predictive model of V1 explains functional and structural diversity
   across species
 url_pdf: https://laurentperrinet.github.io/publication/franciosini-20-cosyne/
 ---
