@@ -18,6 +18,7 @@ abstract: Neurons in the primary visual cortex are selective to orientation with
 authors:
 - Angelo Franciosini
 - Victor Boutin
+- Frédéric Y Chavane
 - Laurent U Perrinet
 date: 2021-04-21
 doi: 10.1101/2021.04.19.440444
