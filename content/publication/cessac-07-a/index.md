@@ -4,7 +4,7 @@ authors:
 - Emmanuel Daucé
 - Laurent U Perrinet
 - Manuel Samuelides
-date: 2007-03-21
+date: 2007-03-22
 doi: 10.1140/epjst/e2007-00057-3
 featured: false
 publication: '*Topics in Dynamical Neural Networks: From Large Scale Neural Networks

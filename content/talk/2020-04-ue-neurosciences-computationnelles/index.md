@@ -26,6 +26,6 @@ publication_types:
 - '1'
 title: 'From the retina to action: Understanding visual processing'
 url_code: https://github.com/laurentperrinet/2020-04_UE-neurosciences-computationnelles
-url_link: https://laurentperrinet.github.io/talk/2020-04_UE-neurosciences-computationnelles
+url_link: https://laurentperrinet.github.io/talk/2020-04-ue-neurosciences-computationnelles
 url_slides: https://laurentperrinet.github.io/2020-04_UE-neurosciences-computationnelles
 ---
