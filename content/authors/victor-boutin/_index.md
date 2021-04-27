@@ -31,6 +31,7 @@ The ultimate objective would be to develop a framework that successfully solves 
 * Keywords: Aerial Robots, Vision, Neural Networks, Bio-Inspired Computer Vision, Gaze orientation, learning
 * Thesis director: Dr. Laurent PERRINET, Director's research unit: Institut de Neurosciences de la Timone (INT)
 * Thesis co-supervisition: Dr. Franck RUFFIER Co-director's research unit: Institut des Sciences du Mouvement (ISM)
+* Get the thesis manuscript at  http://www.theses.fr/2020AIXM0028
 
 ##  Description of the PHD thesis project
 

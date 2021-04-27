@@ -29,6 +29,8 @@ Lieu:  salle Henri Gastaut, au rez de chaussée de l'INT  (how to [get there](ht
 
 La thèse sera suivie d’un pot au R+4 de l’[Institut de Neurosciences de la Timone](http://www.int.univ-amu.fr/?lang=en) (how to [get there](http://www.int.univ-amu.fr/contact))
 
+Quoi: le manuscrit est disponible sur  http://www.theses.fr/2020AIXM0028
+
 
 ## Jury
 
