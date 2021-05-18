@@ -31,7 +31,6 @@ La thèse sera suivie d’un pot au R+4 de l’[Institut de Neurosciences de la 
 
 Quoi: le manuscrit est disponible sur  http://www.theses.fr/2020AIXM0028
 
-
 ## Jury
 
 * [Ryad Benosman](https://scholar.google.fr/citations?user=_ZTFUooAAAAJ&hl=fr), Université Pierre et Marie Curie, Rapporteur
