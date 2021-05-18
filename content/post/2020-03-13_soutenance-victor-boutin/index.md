@@ -23,13 +23,11 @@ tags:
 ---
 {{< tweet 1235128290458951680 >}}
 
-Date : Vendredi 13 mars à 14h
+* Date : Vendredi 13 mars à 14h
 
-Lieu:  salle Henri Gastaut, au rez de chaussée de l'INT  (how to [get there](http://www.int.univ-amu.fr/contact))
+* Lieu:  salle Henri Gastaut, au rez de chaussée de l'INT  (how to [get there](http://www.int.univ-amu.fr/contact)). La thèse était suivie d’un pot au R+4 de l’[Institut de Neurosciences de la Timone](http://www.int.univ-amu.fr/?lang=en) (how to [get there](http://www.int.univ-amu.fr/contact))
 
-La thèse sera suivie d’un pot au R+4 de l’[Institut de Neurosciences de la Timone](http://www.int.univ-amu.fr/?lang=en) (how to [get there](http://www.int.univ-amu.fr/contact))
-
-Quoi: le manuscrit est disponible sur  http://www.theses.fr/2020AIXM0028
+* Quoi: le manuscrit est disponible sur  http://www.theses.fr/2020AIXM0028
 
 ## Jury
 
