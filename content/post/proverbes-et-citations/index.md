@@ -30,6 +30,8 @@ title: Proverbes Et Citations
 
 * "You don’t see it because it’s there, it’s there because you see it."
 
+* "Look for the bare necessities / The simple bare necessities / Forget about your worries and your strife / I mean the bare necessities / Old Mother Nature’s recipes / That bring the bare necessities of life" – Baloo’s song [The Jungle Book]
+
 * "Ni rire, ni pleurer, ni haïr, mais comprendre" (Baruch Spinoza)
 
 * "For years there has been a theory that millions of monkeys typing at random on millions of typewriters would reproduce the entire works of Shakespeare. The Internet has proven this theory to be untrue." (???, ???)
