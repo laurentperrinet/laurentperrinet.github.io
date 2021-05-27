@@ -3,7 +3,7 @@ title: '2020-03-13: Soutenance Victor Boutin'
 authors:
 - laurent-u-perrinet
 - victor-boutin
-date: 2020-03-04 09:00:00
+date: 2020-03-04 14:00:00
 draft: false
 image:
   caption: '[ilbusca / Getty Images ](https://www.thoughtco.com/abbreviations-and-titles-used-in-college-1857653)'
