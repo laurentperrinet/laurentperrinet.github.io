@@ -23,7 +23,7 @@ slides: "2020-12-10_agileneurobot_anr"
 * *Title : Bio-mimetic agile aerial robots flying in real-life conditions*
 * CES : CE23 - Intelligence Artificielle / Instrument de financement : Projet de recherche collaborative (PRC) / Catégorie R&D : Recherche fondamentale
 * Coordinateur Scientifique : PERRINET Laurent (UMR7289)
-* Durée: 3 ans, à partir du 1er mars 2021
+* Durée: 3 ans, à partir du 1er mars 2021 - 1er décembre 2024 
 * Budget total: 435 k€
 * Responsables Scientifiques : Stéphane Viollet (BioRobotique, Inst Sciences Mouvement), Ryad Benosman (Inst de la Vision ) | Laurent Perrinet (NeOpTo, Inst Neurosciences de la Timone, coordinateur)
 
