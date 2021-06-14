@@ -38,6 +38,7 @@ url_pdf: https://laurentperrinet.github.io/talk/2021-06-15-smb
 ---
 
 {{< tweet 1233458739220504578 >}}
+{{< tweet 1384940135419101187 >}}
 {{< figure src="poster.jpg" width="100%" >}}
 * In this talk, I will present the following paper : {{< cite page="/publication/franciosini-21" view="4" >}}
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
