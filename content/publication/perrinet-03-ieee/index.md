@@ -23,7 +23,7 @@ authors:
 - Laurent U Perrinet
 - Manuel Samuelides
 - Simon J Thorpe
-date: 2004-09-22
+date: 2004-09-29
 doi: 10.1109/TNN.2004.833303
 featured: false
 publication: '*IEEE Transactions on Neural Networks*'

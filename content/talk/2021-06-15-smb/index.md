@@ -1,39 +1,28 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Pooling in a predictive model of V1 explains functional and structural diversity
-  across species
-subtitle: ''
-summary: ''
 authors:
 - Laurent U Perrinet
 - Angelo Franciosini
-tags: []
 categories: []
-date: '2021-06-15'
-lastmod: 2021-06-14T21:26:49+02:00
-featured: false
+date: 2021-06-15 11:15:00
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+event: Society for Mathematical Biology * 2021
+featured: false
+grants:
+- anr-horizontal-v1
 image:
   caption: ''
   focal_point: ''
   preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+lastmod: 2021-06-14 21:26:49+02:00
+location: Everywhere (World)
 projects: []
-publishDate: '2021-06-14T19:26:49.348148Z'
+publication: '*Society for Mathematical Biology * 2021*'
 publication_types:
 - '1'
-abstract: ''
-publication: '*Society for Mathematical Biology * 2021*'
+subtitle: ''
+tags: []
+title: Pooling in a predictive model of V1 explains functional and structural diversity
+  across species
 url_pdf: https://laurentperrinet.github.io/talk/2021-06-15-smb
 ---
 
