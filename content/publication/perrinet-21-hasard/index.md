@@ -11,8 +11,8 @@ projects:
 publication: '*The Conversation*'
 publication_types:
 - '2'
-title: 'Le jeu du cerveau et du hasard}'
-url_pdf: https://laurentperrinet.github.io/publication/perrinet-19-illusions/
+title: 'Le jeu du cerveau et du hasard'
+url_pdf: https://laurentperrinet.github.io/publication/perrinet-21-hasard/
 url_preprint: ttps://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388
 publishDate: '2021-07-07T13:29:13.366820Z'
 ---
