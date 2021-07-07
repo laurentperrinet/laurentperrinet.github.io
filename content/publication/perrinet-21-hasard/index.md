@@ -9,6 +9,9 @@ grants:
 projects:
 - tout-public
 publication: '*The Conversation*'
+image:
+  caption: 'Image credit: Naser Tamimi [**Unsplash**](https://unsplash.com/photos/yG9pCqSOrAg)'
+  focal_point: ''
 publication_types:
 - '2'
 title: 'Le jeu du cerveau et du hasard'
