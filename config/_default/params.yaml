@@ -16,7 +16,7 @@ site_type: Person
 local_business_type: ''
 org_name: ''
 description: ''
-twitter: laurentperrinet
+twitter: 'laurentperrinet'
 
 # Contact (edit or remove options as required)
 
@@ -115,13 +115,6 @@ edit_page:
     page: false
     post: false
     book: false
-
-profile: true
-# logo: hulk.png
-# sharing_image: hulk.png
-# highlight_superuser: false
-# link_authors: true
-
 show_related:
   book: true
   page: false
@@ -180,9 +173,10 @@ map:
   zoom: 10
 marketing:
   google_analytics: UA-140381649-1
-  google_site_verification: ''
   google_tag_manager: ''
-
+  google_site_verification: ''
+  baidu_site_verification: ''
+  baidu_tongji: ''
 cms:
   branch: master
   local_backend: false
