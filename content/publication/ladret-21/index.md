@@ -33,3 +33,5 @@ title: Dynamical processing of orientation precision in the primary visual corte
 url_pdf: https://laurentperrinet.github.io/publication/ladret-21/
 url_preprint: https://www.biorxiv.org/content/early/2021/05/28/2021.03.30.437692
 ---
+
+{{< tweet 1395351843035828224 >}}
