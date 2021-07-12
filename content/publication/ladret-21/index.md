@@ -30,6 +30,6 @@ publication_types:
 tags:
 - area-v1
 title: Dynamical processing of orientation precision in the primary visual cortex
-url_pdf: https://www.biorxiv.org/content/early/2021/05/28/2021.03.30.437692
+url_pdf: https://laurentperrinet.github.io/publication/ladret-21/
 url_preprint: https://www.biorxiv.org/content/early/2021/05/28/2021.03.30.437692
 ---
