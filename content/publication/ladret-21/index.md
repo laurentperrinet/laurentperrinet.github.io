@@ -12,7 +12,7 @@ abstract: The primary visual cortex (V1) processes complex mixtures of orientati
   passing in the visual cortex.Competing Interest StatementThe authors have declared
   no competing interest.
 authors:
-- Hugo J. Ladret
+- Hugo Ladret
 - Nelson Cortes
 - Lamyae Ikan
 - Frédéric Chavane
