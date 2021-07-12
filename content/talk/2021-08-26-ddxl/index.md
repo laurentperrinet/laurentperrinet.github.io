@@ -18,18 +18,21 @@ authors:
 - Frédéric Chavane
 - Christian Casanova
 - Laurent U. Perrinet
-date: 2021-01-01
-doi: 10.1101/2021.03.30.437692
-featured: true
-grants:
-- anr-horizontal-v1
+categories: []
+date: 2021-08-26 00:00:00
+draft: false
+event: DynamicsDays - XL
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+lastmod: 2021-07-12 15:52:49+02:00
 projects: []
-publication: '*bioRxiv*'
+publication: '*DynamicsDays - XL*'
 publication_types:
-- '2'
-tags:
-- area-v1
+- '1'
+subtitle: ''
+tags: []
 title: Dynamical processing of orientation precision in the primary visual cortex
-url_pdf: https://www.biorxiv.org/content/early/2021/05/28/2021.03.30.437692
-url_preprint: https://www.biorxiv.org/content/early/2021/05/28/2021.03.30.437692
 ---
