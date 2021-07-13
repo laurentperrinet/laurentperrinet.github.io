@@ -22,4 +22,4 @@ This project is funded by the Aix-Marseille Université, which was awarded the p
 
 ## Acknowledgement
 
-This work was supported by the Ph.D. program in Integrative and Clinical Neuroscience (formerly "Ph.D. program in Integrative and Clinical Neuroscience"). It received funding by the Aix-Marseille Université through the prestigious status of "Excellence Initiative" (A*MIDEX) awarded by the French Government.     
+This work has received support from the French government under the Programme Investissements d’Avenir, Initiative d’Excellence d’Aix-Marseille Université via A*Midex (AMX-19-IET-004) and ANR (ANR-17-EURE-0029) funding.
