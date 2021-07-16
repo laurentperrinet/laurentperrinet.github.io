@@ -36,3 +36,7 @@ subtitle: ''
 tags: []
 title: Dynamical processing of orientation precision in the primary visual cortex
 ---
+
+* This is 40th edition of Dynamicsdays
+* Nice, 23-27 August 2021 - https://dynamicsdays2021.univ-cotedazur.f
+* check out the [book of abstracts](https://dynamicsdays2021.univ-cotedazur.fr/assets/dynamicsdays_nice_2021.pdf)
