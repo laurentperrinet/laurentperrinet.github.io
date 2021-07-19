@@ -41,3 +41,9 @@ title: Dynamical processing of orientation precision in the primary visual corte
 * Nice, 23-27 August 2021 - https://dynamicsdays2021.univ-cotedazur.f
 * check out the [book of abstracts](https://dynamicsdays2021.univ-cotedazur.fr/assets/dynamicsdays_nice_2021.pdf)
 * In this talk, we will present the following paper : {{< cite page="/publication/ladret-21" view="4" >}}
+
+* Preliminary Program:
+  * Bruno Cessac, *The Retina as a Dynamical System*
+  * Hugo Ladret & Laurent Perrinet, *Dynamics of the processing of orientation precision in the primary visual cortex*
+  * Gianluigi Mongillo, *Glassy phase in dynamically balanced networks*
+  * Romain Veltz, *Spatial and color hallucinations in a mathematical model of primary visual cortex*
