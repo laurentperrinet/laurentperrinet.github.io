@@ -33,7 +33,8 @@ publication: '*DynamicsDays - XL*'
 publication_types:
 - '1'
 subtitle: ''
-tags: []
+tags:
+- area-v1
 title: Dynamical processing of orientation precision in the primary visual cortex
 ---
 
