@@ -19,10 +19,10 @@ authors:
 - Christian Casanova
 - Laurent U. Perrinet
 categories: []
-date: 2021-08-26 00:00:00
+date: 2021-07-12 15:52:49+02:00
 draft: false
 event: DynamicsDays - XL
-featured: false
+featured: true
 image:
   caption: ''
   focal_point: ''
@@ -40,3 +40,4 @@ title: Dynamical processing of orientation precision in the primary visual corte
 * This is 40th edition of Dynamicsdays
 * Nice, 23-27 August 2021 - https://dynamicsdays2021.univ-cotedazur.f
 * check out the [book of abstracts](https://dynamicsdays2021.univ-cotedazur.fr/assets/dynamicsdays_nice_2021.pdf)
+* In this talk, we will present the following paper : {{< cite page="/publication/ladret-21" view="4" >}}
