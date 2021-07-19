@@ -36,3 +36,5 @@ subtitle: ''
 tags: []
 title: Dynamical processing of orientation precision in the primary visual cortex
 ---
+
+ * get the [abstract book](https://www.professionalabstracts.com/nf2021/programme-nf2021.pdf)
