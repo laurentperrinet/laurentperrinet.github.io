@@ -19,7 +19,7 @@ authors:
 - Christian Casanova
 - Laurent U. Perrinet
 categories: []
-date: 2021-08-27 00:00:00
+date: 2021-07-12 00:00:00
 draft: false
 event: DynamicsDays - XL
 featured: true
