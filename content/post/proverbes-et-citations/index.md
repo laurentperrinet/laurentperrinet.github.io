@@ -8,6 +8,8 @@ summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
 
+* « Ne pense pas mais regarde plutôt ! » Ludwig Wittgenstein (Remarques philosophiques, fragment 66)
+
 * "Free will, we're determined to have it"
 
 * "Scientist would rather borrow the toothbrush of other scientists than their words" - G. Edelman
