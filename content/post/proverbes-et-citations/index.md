@@ -8,6 +8,8 @@ summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
 
+* "Savoir marcher sur le fil tendu entre la frontière des densités humaines sauve de l'isolement." Babouillec
+
 * « Ne pense pas mais regarde plutôt ! » Ludwig Wittgenstein (Remarques philosophiques, fragment 66)
 
 * "Free will, we're determined to have it"
