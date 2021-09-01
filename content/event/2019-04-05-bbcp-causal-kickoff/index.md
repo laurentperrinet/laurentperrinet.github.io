@@ -40,8 +40,8 @@ url_slides: https://laurentperrinet.github.io/2019-04-05_BBCP_causal_kickoff
 ---
 
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}
-* previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})
-* previous talk @ [INVIBE FEST, Paris]({{< ref "/talk/2018-02-01-bcp-invibe-fest/index.md" >}})
-* previous talk @ [Brain workshop, Marseille]({{< ref "/talk/2018-04-05-bcp-talk/index.md" >}})
-* previous talk @ [LACONEU, Chile]({{< ref "/talk/2019-01-18-laconeu/index.md" >}})
-* next talk @ [NeuroFrance, Marseille]({{< ref "/talk/2019-05-23-neurofrance/index.md" >}})
+* previous talk @ [LAW, Lyon]({{< ref "/event/2016-10-13-law/index.md" >}})
+* previous talk @ [INVIBE FEST, Paris]({{< ref "/event/2018-02-01-bcp-invibe-fest/index.md" >}})
+* previous talk @ [Brain workshop, Marseille]({{< ref "/event/2018-04-05-bcp-talk/index.md" >}})
+* previous talk @ [LACONEU, Chile]({{< ref "/event/2019-01-18-laconeu/index.md" >}})
+* next talk @ [NeuroFrance, Marseille]({{< ref "/event/2019-05-23-neurofrance/index.md" >}})

@@ -21,8 +21,8 @@ url_slides: https://laurentperrinet.github.io/2018-04-05_BCP_talk/
 ---
 
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}
-* previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})
-* previous talk @ [INVIBE FEST, Paris]({{< ref "/talk/2018-02-01-bcp-invibe-fest/index.md" >}})
-* next talk @ [LACONEU, Chile]({{< ref "/talk/2019-01-18-laconeu/index.md" >}})
-* next talk @ [CAUSAL Kick-off, Marseille]({{< ref "/talk/2019-04-05-bbcp-causal-kickoff/index.md" >}})
-* next talk @ [NeuroFrance, Marseille]({{< ref "/talk/2019-05-23-neurofrance/index.md" >}})
+* previous talk @ [LAW, Lyon]({{< ref "/event/2016-10-13-law/index.md" >}})
+* previous talk @ [INVIBE FEST, Paris]({{< ref "/event/2018-02-01-bcp-invibe-fest/index.md" >}})
+* next talk @ [LACONEU, Chile]({{< ref "/event/2019-01-18-laconeu/index.md" >}})
+* next talk @ [CAUSAL Kick-off, Marseille]({{< ref "/event/2019-04-05-bbcp-causal-kickoff/index.md" >}})
+* next talk @ [NeuroFrance, Marseille]({{< ref "/event/2019-05-23-neurofrance/index.md" >}})

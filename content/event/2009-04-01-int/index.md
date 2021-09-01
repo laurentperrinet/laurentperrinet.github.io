@@ -25,4 +25,4 @@ title: Decoding low-level neural information to track visual motion
 url_pdf: https://laurentperrinet.github.io/talk/2008-04-01-incm/
 ---
 
-* see this more recent talk @ [UCL, London]({{< ref "/talk/2012-01-12-vision-at-ucl/index.md" >}})
+* see this more recent talk @ [UCL, London]({{< ref "/event/2012-01-12-vision-at-ucl/index.md" >}})

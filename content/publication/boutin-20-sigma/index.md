@@ -45,6 +45,6 @@ url_pdf: https://conferences.cirm-math.fr/2152.html
 url_preprint: https://arxiv.org/abs/1902.07651
 ---
 
- * presented during this [talk]({{< ref "/talk/2019-03-25-hdr-robin-baures/index.md" >}})
+ * presented during this [talk]({{< ref "/event/2019-03-25-hdr-robin-baures/index.md" >}})
  * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
  * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}
