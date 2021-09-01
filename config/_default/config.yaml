@@ -51,8 +51,9 @@ enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+# https://gohugo.io/content-management/urls/#permalink-configuration-values
 permalinks:
-#  event: '/talk/:slug/'
+  event: '/talk/:filename/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
