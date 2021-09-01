@@ -21,7 +21,6 @@ authors:
 - Sio-Hoi Ieng
 - Laurent U Perrinet
 - Ryad Benosman
-categories: []
 date: 2021-06-24
 doi: 10.1109/CBMI50038.2021.9461901
 draft: false

@@ -2,7 +2,6 @@
 authors:
 - Emmanuel Daucé
 - Laurent U Perrinet
-categories: []
 date: 2020-12-17
 doi: 10.1007/978-3-030-64919-7_17
 draft: false

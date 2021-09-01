@@ -2,7 +2,6 @@
 authors:
 - Laurent U Perrinet
 - Angelo Franciosini
-categories: []
 date: 2021-06-15 11:15:00
 draft: false
 event: Society for Mathematical Biology * 2021

@@ -18,7 +18,6 @@ authors:
 - Frédéric Chavane
 - Christian Casanova
 - Laurent U. Perrinet
-categories: []
 date: 2021-05-20 14:00:00
 draft: false
 event: NeuroFrance 2021

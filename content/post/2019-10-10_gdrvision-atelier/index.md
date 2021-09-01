@@ -1,7 +1,6 @@
 ---
 authors:
 - laurent-u-perrinet
-categories: []
 date: 2019-10-10 09:30:00
 draft: false
 featured: true

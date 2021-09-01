@@ -23,7 +23,6 @@ authors:
 - Sio-Hoi Ieng
 - Laurent U Perrinet
 - Ryad Benosman
-categories: []
 date: 2021-02-26
 draft: false
 featured: false
