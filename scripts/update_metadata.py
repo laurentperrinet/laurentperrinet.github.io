@@ -22,8 +22,10 @@ import glob
 
 def getDateTimeFromISO8601String(s, full=False):
     d = dateutil.parser.parse(s)
-    if not full: d = d.date()
+    if not full:
+        d = d.date()
     return d
+
 
 def import_bibtex(
     bibtex, pub_dir="publication", featured=False, overwrite=False, normalize=False, dry_run=False, verbose=False
@@ -71,14 +73,16 @@ def import_bibtex(
             # import os
             # os.rename(old_cite_path, cite_path)
             # Save citation file.
-            if verbose: print(f'Saving citation to {cite_path}')
+            if verbose:
+                print(f'Saving citation to {cite_path}')
             db = BibDatabase()
             db.entries = [entry]
             writer = BibTexWriter()
             with open(cite_path, 'w', encoding='utf-8') as f:
                 f.write(writer.write(db))
 
-            if verbose: print('input', old_key, ' -> output', new_key)
+            if verbose:
+                print('input', old_key, ' -> output', new_key)
 
             # Prepare yaml front matter for Markdown file.
             parsed_yaml['title'] = clean_bibtex_str(entry["title"])
@@ -100,7 +104,7 @@ def import_bibtex(
             if False:
                 # Time stamping the entry to be published today
                 if not 'publishDate' in parsed_yaml.keys():
-                    today = datetime.now().date().isoformat()#[2:]
+                    today = datetime.now().date().isoformat()  # [2:]
                     parsed_yaml['publishDate'] = today
             else:
                 if 'publishDate' in parsed_yaml.keys():
@@ -113,7 +117,7 @@ def import_bibtex(
                 authors = entry['editor']
             if authors:
                 authors = clean_bibtex_authors([i.strip() for i in authors.replace('\n', ' ').split(' and ')])
-                parsed_yaml['authors'] = authors #f"[{', '.join(authors)}]"
+                parsed_yaml['authors'] = authors  # f"[{', '.join(authors)}]"
 
             for this_key in ['abstract', 'summary']:
                 if this_key in entry:
@@ -130,9 +134,9 @@ def import_bibtex(
                 if this_key in entry:
                     # parsed_yaml['projects'] = []
                     parsed_yaml[this_key] = clean_bibtex_tags(entry[this_key], normalize)
-                    if verbose: print(parsed_yaml[this_key])
+                    if verbose:
+                        print(parsed_yaml[this_key])
                     # print(parsed_yaml['projects'])
-
 
             for url_key in ['url_slides', 'url_code', 'url_link']:
                 if url_key in entry:
@@ -162,19 +166,17 @@ def import_bibtex(
 
                 if 'time_start' in entry:
                     parsed_yaml['time_start'] = getDateTimeFromISO8601String(f'{clean_bibtex_str(entry["time_start"])}', full=True)
-                    parsed_yaml['date'] = parsed_yaml['time_start'] # overwrite date
+                    parsed_yaml['date'] = parsed_yaml['time_start']  # overwrite date
                     # HACK to show the entry = Scheduled page publish date.
 
                 else:
                     #parsed_yaml['time_start'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["ID"][:10]))
                     parsed_yaml['date'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["ID"][:10]))
 
-
                 #parsed_yaml['publishDate'] = today #str(parsed_yaml['date'])[:4] + '-01-01' # overwrite date
                 # remove obsolete entry:
                 parsed_yaml.pop("time_start", None)
                 parsed_yaml.pop("time_end", None)
-
 
             elif type == 'Publications':
 
@@ -195,7 +197,8 @@ def import_bibtex(
             metadata[1] = yaml.dump(parsed_yaml, encoding=('utf-8'), allow_unicode=True)
             metadata[1] = metadata[1].decode('utf-8')
 
-            if not len(metadata) == 3 : print('Z'*150, '  len(metadata)', len(metadata), 'new_key', new_key)
+            if not len(metadata) == 3:
+                print('Z'*150, '  len(metadata)', len(metadata), 'new_key', new_key)
 
             # clean-up: strip double lines
             while '\n\n' in metadata[2]:
@@ -203,7 +206,8 @@ def import_bibtex(
 
             # Save Markdown file.
             try:
-                if verbose: print(f"Saving Markdown to '{file_path}'")
+                if verbose:
+                    print(f"Saving Markdown to '{file_path}'")
                 page = '---\n'.join(metadata).strip('\n')
                 with open(file_path, 'w', encoding='utf-8') as f:
                     f.write(page + '\n')
@@ -276,6 +280,6 @@ def month2number(month):
 
 
 for type, pub_dir in zip(['Presentations', 'Publications'],
-                         ['../content/talk', '../content/publication']):
+                         ['../content/event', '../content/publication']):
     bibtex = f'../../perrinet_curriculum-vitae_tex/LaurentPerrinet_{type}.bib'
     import_bibtex(bibtex, pub_dir)
