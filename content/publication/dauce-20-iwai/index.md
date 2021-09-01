@@ -15,7 +15,7 @@ image:
   preview_only: false
 lastmod: 2020-12-21 12:51:20+01:00
 projects: []
-publication: '*IWAI*2020*'
+publication: '*IWAI 2020*'
 publication_types:
 - '1'
 subtitle: ''
@@ -34,7 +34,7 @@ url_slides: https://laurentperrinet.github.io/2020-09-14_IWAI
 * a follow-up of: {{< cite page="/publication/dauce-20" view="4" >}}
 {{< tweet 1305488089989754883 >}}
 {{< figure src="https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true" >}}
-* What:: talk @ [1st International Workshop on Active Inference (IWAI*2020)](https://iwaiworkshop.github.io/)
+* What:: talk @ [1st International Workshop on Active Inference (IWAI 2020)](https://iwaiworkshop.github.io/)
 * Who:: Emmanuel Daucé and Laurent Perrinet
 * Where: Ghent (Belgium), gone virtual, see https://laurentperrinet.github.io/talk/2020-09-14-iwai
 * When: 14/09/2020, time: 12:20:00-12:40:00
