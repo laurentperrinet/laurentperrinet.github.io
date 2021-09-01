@@ -16,21 +16,21 @@ main:
   - name: Projects
     url: '#projects'
     weight: 20
-  - name: Publications
-    url: '#publications'
-    weight: 25
   - name: People
     url: '#people'
-    weight: 27
+    weight: 30
+  - name: Publications
+    url: '#publications'
+    weight: 40
   - name: Talks
     url: '#talks'
-    weight: 33
+    weight: 45
   - name: Grants
     url: '#grants'
-    weight: 40
+    weight: 50
   - name: BlogBook
     url: https://laurentperrinet.github.io/sciblog/
-    weight: 50
+    weight: 60
   - name: Contact
     url: '#contact'
     weight: 70
