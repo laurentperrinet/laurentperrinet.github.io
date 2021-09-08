@@ -1,6 +1,6 @@
 ---
 authors:
-- Alberto Arturo Vergani
+- Alberto Vergani
 - Laurent U Perrinet
 date: 2021-09-07
 featured: false
