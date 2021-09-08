@@ -11,6 +11,6 @@ publication: '*Bernstein Conference 2021*'
 publication_types:
 - '1'
 tags:
-- lateral connections
+- lateral interactions
 title: Simulating anticipatory activity in a 1D Spiking Neural Network Model
 ---
