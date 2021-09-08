@@ -31,7 +31,7 @@ authors:
 - Mina A Khoei
 - Guillaume S Masson
 - Laurent U Perrinet
-date: 2013-11-22
+date: 2013-11-08
 doi: 10.1016/j.jphysparis.2013.08.001
 featured: false
 grants:
