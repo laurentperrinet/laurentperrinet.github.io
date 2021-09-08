@@ -5,7 +5,7 @@ authors:
 date: 2021-09-22
 featured: false
 grants:
-- facets
+- anr-horizontal-v1
 projects: []
 publication: '*Bernstein Conference 2021*'
 publication_types:
