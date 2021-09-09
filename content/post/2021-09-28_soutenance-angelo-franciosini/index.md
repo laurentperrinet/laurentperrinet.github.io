@@ -3,7 +3,7 @@ title: '2021-09-28: Soutenance Angelo Franciosini'
 authors:
 - laurent-u-perrinet
 - angelo-franciosini
-date: 2021-09-09 14:00:00
+date: 2021-09-09 09:00:00
 draft: false
 image:
   caption: '[ilbusca / Getty Images ](https://www.thoughtco.com/abbreviations-and-titles-used-in-college-1857653)'
