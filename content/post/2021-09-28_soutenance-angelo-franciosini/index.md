@@ -26,7 +26,7 @@ tags:
 
 ## Jury
 
-* [Prof Anthony Burkitt](https://findanexpert.unimelb.edu.au/profile/5669-anthony-burkitt), University of Melbourne, Rapporteur
+* [Anthony Burkitt](https://findanexpert.unimelb.edu.au/profile/5669-anthony-burkitt), University of Melbourne, Rapporteur
 * [Thomas Serre](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/people/faculty/thomas-serre), Brown University, Rapporteur
 * [Laura Dugué](https://incc-paris.fr/people/laura-dugue/), Integrative Neuroscience & Cognition Center, Examinateur
 * [Emmanuel Daucé](http://emmanuel.dauce.free.fr/), CNRS, Examinateur
