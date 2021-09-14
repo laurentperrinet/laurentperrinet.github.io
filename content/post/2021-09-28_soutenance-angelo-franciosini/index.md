@@ -20,9 +20,15 @@ tags:
 
 * Date : Mardi 28 septembre 2021 à 13h (CEST)
 
-* Lieu: en virtuel et salle Henri Gastaut, au rez de chaussée de l'INT  (how to [get there](http://www.int.univ-amu.fr/contact)). La thèse était suivie d’un pot au R+4 de l’[Institut de Neurosciences de la Timone](http://www.int.univ-amu.fr/?lang=en) (how to [get there](http://www.int.univ-amu.fr/contact))
+* Lieu: en [virtuel](https://univ-amu-fr.zoom.us/j/93571492344?pwd=NTlTbjhvM1pxR2ZUY3ZYKzhURTRmUT09) et salle [Henri Gastaut](http://patrimoinemedical.univmed.fr/rues/rues_gastaut.htm), au rez de chaussée de l'INT (how to [get there](http://www.int.univ-amu.fr/contact)). La thèse était suivie d’un pot au R+4 de l’[Institut de Neurosciences de la Timone](http://www.int.univ-amu.fr/?lang=en) (how to [get there](http://www.int.univ-amu.fr/contact))
 
 * Quoi: le manuscrit sera disponible après la soutenance.
+
+{{% callout note %}}
+Pour participer à la réunion Zoom, suivre le lien suivant
+
+ https://univ-amu-fr.zoom.us/j/93571492344?pwd=NTlTbjhvM1pxR2ZUY3ZYKzhURTRmUT09
+{{% /callout %}}
 
 ## Jury
 
