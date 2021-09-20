@@ -1,7 +1,7 @@
 ---
 authors:
 - hugo-ladret
-bio: During my master, I focused on a bio-inspired neural network.
+bio: During my PhD, I am focusing on the role of precision in natural and artificial neural networks.
 education:
   courses:
   - course: Phd candidate in Computational Neuroscience
