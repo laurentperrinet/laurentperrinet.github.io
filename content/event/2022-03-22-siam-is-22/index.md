@@ -45,5 +45,5 @@ In this mini-symposium we aim to gather together experts working in the field of
 - Evidence for the Intrinsically Nonlinear Nature of Receptive Fields in Vision *Marcelo Bertalmío*
 - ChebLieNet: Invariant Spectral Graph Nns Turned Equivariant by Sub-Riemannian Geometry on Lie Groups *Erik Bekkers*
 - Deep Predictive Coding for More Robust and Human-Like Vision *Rufin VanRullen*
-- Statistics of the Sparse Representations of Natural Images *Hugo Ladret and Laurent Perrinet*
+- Statistics of the sparse representations of natural images *Hugo Ladret and Laurent U Perrinet*
 More on https://meetings.siam.org/sess/dsp_programsess.cfm?sessioncode=73028
