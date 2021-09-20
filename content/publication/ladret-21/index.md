@@ -16,7 +16,7 @@ authors:
 - Lamyae Ikan
 - Frédéric Chavane
 - Christian Casanova
-- Laurent U. Perrinet
+- Laurent U Perrinet
 date: 2021-01-01
 doi: 10.1101/2021.03.30.437692
 featured: true

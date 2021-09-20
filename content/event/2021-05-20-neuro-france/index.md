@@ -16,7 +16,7 @@ authors:
 - Lamyae Ikan
 - Frédéric Chavane
 - Christian Casanova
-- Laurent U. Perrinet
+- Laurent U Perrinet
 date: 2021-05-20 14:00:00
 draft: false
 event: NeuroFrance 2021
