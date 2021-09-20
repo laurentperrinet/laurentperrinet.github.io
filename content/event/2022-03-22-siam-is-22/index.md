@@ -20,7 +20,6 @@ authors:
 - Laurent U Perrinet
 categories: []
 date: 2022-03-22 00:00:00
-publishDate: 2021-09-20 00:00:00
 draft: false
 event: 2022 SIAM Conference on Imaging Science (IS22)
 featured: false

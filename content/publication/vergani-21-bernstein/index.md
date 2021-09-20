@@ -3,6 +3,7 @@ authors:
 - Alberto Vergani
 - Laurent U Perrinet
 date: 2021-09-22
+doi: 10.12751/nncn.bc2021.p094
 featured: false
 grants:
 - anr-horizontal-v1
