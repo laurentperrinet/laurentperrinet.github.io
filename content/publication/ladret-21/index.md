@@ -9,8 +9,7 @@ abstract: The primary visual cortex (V1) processes complex mixtures of orientati
   that V1 population co-encodes orientation and its precision, which enhances population
   decoding performances. This internal representation is mediated by temporally distinct
   neural dynamics and supports a precision-weighted description of neuronal message
-  passing in the visual cortex.Competing Interest StatementThe authors have declared
-  no competing interest.
+  passing in the visual cortex.
 authors:
 - Hugo Ladret
 - Nelson Cortes
