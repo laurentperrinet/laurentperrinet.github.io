@@ -49,3 +49,21 @@ abstract: In most mammals, the primary visual cortex (V1) processes complex mixt
   with neurophysiological recordings made in V1.
 publication: '*2022 SIAM Conference on Imaging Science (IS22)*'
 ---
+
+
+## Mini-Symposium "Learning from vision: Efficient representation, sparse coding, and modelling"
+
+Although recent years have seen a striking improvement in imaging techniques, there are many tasks for which human interaction is still essential, as color gamut correction in the cinema industry. This suggests that a better understanding of the mechanisms underlying the visual system is instrumental to advances in imaging techniques.
+
+Along these lines, various ideas from computational neurosciences have found application in imaging, from pattern recognition to image inpainting. A promising line of investigation is built on methods based on models of the primary visual cortex and on neural coding, in particular via the efficient representation principle. These methods have recently allowed to define new artificial neural networks paradigms and to reproduce complex visual illusions.
+
+In this mini-symposium we aim to gather together experts working in the field of mathematical neuroscience and imaging, with a focus on these methods. In particular, the speakers will present recent results based on sparse coding and models of the visual system.
+
+### Organizer: Dario Prandi
+
+- Evidence for the Intrinsically Nonlinear Nature of Receptive Fields in Vision *Marcelo Bertalmío*
+- ChebLieNet: Invariant Spectral Graph Nns Turned Equivariant by Sub-Riemannian Geometry on Lie Groups *Erik Bekkers*
+- Deep Predictive Coding for More Robust and Human-Like Vision *Rufin VanRullen*
+- Statistics of the Sparse Representations of Natural Images *Hugo Ladret and Laurent Perrinet*
+
+More on https://meetings.siam.org/sess/dsp_programsess.cfm?sessioncode=73028
