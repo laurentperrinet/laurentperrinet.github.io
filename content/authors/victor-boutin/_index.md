@@ -41,7 +41,7 @@ The ultimate objective would be to develop a framework that successfully solves 
 * {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}
 * {{< cite page="/publication/franciosini-21" view="4" >}}
 
-##  Description of the PHD thesis project
+## (Initial) Description of the PHD thesis project
 
 Robotics is a rapidly evolving technology that allows for fast, low-risk
 and low-cost tasks with a worldwide market of over 80 billion dollars
