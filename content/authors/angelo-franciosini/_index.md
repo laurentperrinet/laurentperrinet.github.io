@@ -31,7 +31,7 @@ user_groups:
 
 # Trajectories in natural images and the sensory processing of contours (PhD position, 2017-09 / 2021-03)
 
-* Venue: Aix-Marseille Université's [Neuroschool PhD program in Neuroscience](https://laurentperrinet.github.io/project/phd-icn/) (formerly known as "Ph.D. program in Integrative and Clinical Neuroscience")
+* Venue: Aix-Marseille Université's [Neuroschool PhD program in Neuroscience](https://laurentperrinet.github.io/grant/phd-icn/) (formerly known as "Ph.D. program in Integrative and Clinical Neuroscience")
 
 * Keywords: Vision, Neural Networks, Bio-Inspired Computer Vision, contours, learning
 
@@ -60,7 +60,7 @@ Finally, those two tasks converge to a long-term goal of '''understanding the im
 
 ### Feasibility
 
- The project is based on existing expertise and libraries in computer vision and computational neuroscience. The extension of this expertise to the dynamical domain was made possible thanks to an existing collaboration ([JM Morel at ENS-Cachan](http://www.cmla.ens-cachan.fr/version-francaise/haut-de-page/annuaire/morel-jean-michel-780.kjsp), [G Peyré at ENS-Ulm](http://www.gpeyre.com)). The groundbreaking nature of the work takes advantage of the interaction with  neurophysiological and psychophysical experiments thanks to the use of synthetic textures (collaboration with F Chavane, INT; Y Fregnac, UNIC) as planned in the parallel [Horizontal-V1](https://laurentperrinet.github.io/project/anr-horizontal-v1/) grant.
+ The project is based on existing expertise and libraries in computer vision and computational neuroscience. The extension of this expertise to the dynamical domain was made possible thanks to an existing collaboration ([JM Morel at ENS-Cachan](http://www.cmla.ens-cachan.fr/version-francaise/haut-de-page/annuaire/morel-jean-michel-780.kjsp), [G Peyré at ENS-Ulm](http://www.gpeyre.com)). The groundbreaking nature of the work takes advantage of the interaction with  neurophysiological and psychophysical experiments thanks to the use of synthetic textures (collaboration with F Chavane, INT; Y Fregnac, UNIC) as planned in the parallel [Horizontal-V1](https://laurentperrinet.github.io/grant/anr-horizontal-v1/) grant.
 
 ### References
 
