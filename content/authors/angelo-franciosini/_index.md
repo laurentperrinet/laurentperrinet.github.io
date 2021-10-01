@@ -28,6 +28,7 @@ tags:
 user_groups:
 - Former Students
 ---
+
 # Trajectories in natural images and the sensory processing of contours (PhD position, 2017-09 / 2021-03)
 
 * Venue: Aix-Marseille Université's [Neuroschool PhD program in Neuroscience](https://laurentperrinet.github.io/project/phd-icn/) (formerly known as "Ph.D. program in Integrative and Clinical Neuroscience")
@@ -35,6 +36,12 @@ user_groups:
 * Keywords: Vision, Neural Networks, Bio-Inspired Computer Vision, contours, learning
 
 * Thesis director: Dr. Laurent PERRINET, Director's research unit: Institut de Neurosciences de la Timone (INT)
+
+## Main publications:
+
+* {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
+* {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}
+* {{< cite page="/publication/franciosini-21" view="4" >}}
 
 ##  Description of the PHD thesis project
 

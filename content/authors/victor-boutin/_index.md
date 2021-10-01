@@ -33,6 +33,11 @@ The ultimate objective would be to develop a framework that successfully solves 
 * Thesis co-supervisition: Dr. Franck RUFFIER Co-director's research unit: Institut des Sciences du Mouvement (ISM)
 * Get the thesis manuscript at  http://www.theses.fr/2020AIXM0028
 
+## Main publications:
+
+* {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
+* {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}
+
 ##  Description of the PHD thesis project
 
 Robotics is a rapidly evolving technology that allows for fast, low-risk
