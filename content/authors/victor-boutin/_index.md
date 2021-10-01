@@ -6,7 +6,7 @@ education:
   courses:
   - course: Phd in Computational Neuroscience
     institution: Aix-Marseille Université
-    year: 2014
+    year: 2020
 title: Victor Boutin
 role: Phd in Computational Neuroscience
 social:
