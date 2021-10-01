@@ -33,6 +33,8 @@ The ultimate objective would be to develop a framework that successfully solves 
 * Thesis co-supervisition: Dr. Franck RUFFIER Co-director's research unit: Institut des Sciences du Mouvement (ISM)
 * Get the thesis manuscript at  http://www.theses.fr/2020AIXM0028
 
+* a nice presentation of the work of Victor and presented at the [Redwood Center For Theoretical Neuroscience (University of California, Berkeley)](https://redwood.berkeley.edu/seminars/victor-boutin-february-2020/) is available [online](https://archive.org/details/Redwood_Center_2020_02_05_Victor_Boutin).
+
 ## Main publications:
 
 * {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
