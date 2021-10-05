@@ -34,7 +34,7 @@ image:
   preview_only: false
 lastmod: 2021-02-25 17:01:28+01:00
 projects: []
-publication: '*Computational and Systems Neuroscience (Cosyne) 2021*'
+publication: '*Computational and Systems Neuroscience (CoSyNe) 2021*'
 publication_types:
 - '1'
 subtitle: ''

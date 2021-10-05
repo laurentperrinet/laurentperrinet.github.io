@@ -92,8 +92,8 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+date_format: '2006-01-02'
+time_format: '13:04'
 address_format: en-us
 
 # Site features
@@ -122,7 +122,7 @@ show_related:
   project: true
   publication: true
   event: true
-reading_time: true
+reading_time: false
 section_pager: false
 docs_section_pager: true
 sharing: true
