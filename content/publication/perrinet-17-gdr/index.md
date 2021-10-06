@@ -35,6 +35,7 @@ publication_types:
 tags:
 - motion anticipation
 title: Expériences autour de la perception de la forme en art et science
+url_code: https://github.com/NaturalPatterns/2017-10-12_GDR
 url_pdf: https://github.com/NaturalPatterns/2017-10-12_GDR
 ---
 

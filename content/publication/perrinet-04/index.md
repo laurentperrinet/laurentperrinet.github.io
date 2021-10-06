@@ -21,7 +21,7 @@ abstract: To understand possible strategies of temporal spike coding in the cent
   of the visual input.
 authors:
 - Laurent U Perrinet
-date: 2004-01-20
+date: 2004-01-06
 doi: 10.1023/B:NACO.0000027753.27593.a7
 featured: false
 publication: '*Natural Computing*'
