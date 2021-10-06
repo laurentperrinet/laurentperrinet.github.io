@@ -83,7 +83,7 @@ contact_links:
     name: instagram
     link: https://www.instagram.com/laurentperrinet/
   - icon: stackoverflow
-    icon_pack: fab
+    icon_pack: ai
     name: stackoverflow
     link: https://stackoverflow.com/users/234547/meduz
 
