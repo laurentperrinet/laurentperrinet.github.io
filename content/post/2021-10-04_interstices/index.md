@@ -12,6 +12,9 @@ summary: Horizon Faille @ interstices, Orangerie du jardin des plantes, Caen, 20
 tags:
 - art-science
 title: Horizon Faille @ interstices
+image:
+  caption: 'Image credit: Etienne Rey'
+
 ---
 # Horizon Faille
 
