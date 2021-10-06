@@ -24,10 +24,10 @@ gallery_item:
   caption: 'Vague. Image credit: Etienne Rey'
 - album: 2021-10-04_interstices
   image: DJI_20211005_115354_945.JPG
-  caption: 'Vague. Image credit: Etienne Rey'
+  caption: 'Vague (détail). Image credit: Etienne Rey'
 - album: 2021-10-04_interstices
   image: DJI_20211005_115401_307.JPG
-  caption: 'Vague. Image credit: Etienne Rey'
+  caption: 'Vague (détail). Image credit: Etienne Rey'
 - album: 2021-10-04_interstices
   image: DJI_20211005_122124_962.JPG
   caption: 'Trames (macro). Image credit: Etienne Rey'
