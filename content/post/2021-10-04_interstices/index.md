@@ -15,7 +15,31 @@ title: Horizon Faille @ interstices
 image:
   caption: 'Image credit: Etienne Rey'
 
+gallery_item:
+- album: 2021-10-04_interstices
+  image: DJI_20211005_115239_695.JPG
+  caption: 'Image credit: Etienne Rey'
+- album: 2021-10-04_interstices
+  image: DJI_20211005_115354_945.JPG
+  caption: 'Image credit: Etienne Rey'
+- album: 2021-10-04_interstices
+  image: DJI_20211005_115401_307.JPG
+  caption: 'Image credit: Etienne Rey'
+- album: 2021-10-04_interstices
+  image: DJI_20211005_115905_633.JPG
+  caption: 'Image credit: Etienne Rey'
+- album: 2021-10-04_interstices
+  image: DJI_20211005_122124_962.JPG
+  caption: 'Image credit: Etienne Rey'
+- album: 2021-10-04_interstices
+  image: DJI_20211005_122134_038.JPG
+  caption: 'Image credit: Etienne Rey'
+- album: 2021-10-04_interstices
+  image: DJI_20211005_122145_287.JPG
+  caption: 'Image credit: Etienne Rey'
+
 ---
+
 # Horizon Faille
 
 ## Festival interstices, du 5 au 17 octobre Du mercredi au dimanche de 14h à 18h
