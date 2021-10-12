@@ -12,7 +12,7 @@ role: Phd candidate in Computational Neuroscience
 social:
 - icon: github
   icon_pack: fab
-  link: https://github.com/AngeloFranciosini
+  link: https://github.com/AntoineGrimaldi
 superuser: false
 tags:
 - aprovis-3-d
