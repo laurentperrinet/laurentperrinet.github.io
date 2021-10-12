@@ -13,6 +13,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/AntoineGrimaldi
+- icon: external-link-alt
+  icon_pack: fas
+  link: http://antoinegrimaldi.fr/
 superuser: false
 tags:
 - aprovis-3-d
