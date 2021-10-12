@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Ultra-fast categorization of image containing animals in vivo and in computo
 subtitle: ''
 summary: ''
@@ -8,14 +6,15 @@ authors:
 - Jean-Nicolas Jérémie
 - Laurent U Perrinet
 tags:
-- '"efficient coding"'
-- '"event-based vision"'
-- '"homeostasis"'
-- '"neuromorphic hardware"'
-- '"online classification"'
+- 'efficient coding'
+- 'event-based vision'
+- 'homeostasis'
+- 'neuromorphic hardware'
+- 'online classification'
 categories: []
-date: '2021-10-15'
+date: 2021-10-15
 lastmod: 2021-10-12T13:44:14+02:00
+publishDate: 2021-10-12
 featured: false
 draft: false
 

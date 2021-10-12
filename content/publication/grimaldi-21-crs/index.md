@@ -8,6 +8,8 @@ authors:
 - Laurent U Perrinet
 categories: []
 date: 2021-10-15
+lastmod: 2021-10-12 12:44:34+02:00
+publishDate: 2021-10-12
 draft: false
 featured: false
 grants:
@@ -16,7 +18,6 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
-lastmod: 2021-10-12 12:44:34+02:00
 projects: []
 publication: '*Champalimaud Research Symposium (CRS21)*'
 publication_types:

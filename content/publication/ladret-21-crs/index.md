@@ -8,13 +8,13 @@ authors:
 - Hugo Ladret
 - Laurent U Perrinet
 tags:
-- '"orientation"'
-- '"decoding"'
-- '"precision"'
-- '"predictive coding"'
-- '"V1"'
+- 'orientation'
+- 'decoding'
+- 'precision'
+- 'predictive coding'
+- 'V1'
 categories: []
-date: '2021-10-15'
+date: 2021-10-15
 lastmod: 2021-10-12T13:44:14+02:00
 featured: false
 draft: false
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-12T11:44:14.725213Z'
+publishDate: 2021-10-12
 publication_types:
 - '1'
 abstract: ''
