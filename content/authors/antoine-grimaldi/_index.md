@@ -16,6 +16,12 @@ social:
 - icon: external-link-alt
   icon_pack: fas
   link: http://antoinegrimaldi.fr/
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Antoine-Grimaldi-2
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/A_Grismaldi
 superuser: false
 tags:
 - aprovis-3-d

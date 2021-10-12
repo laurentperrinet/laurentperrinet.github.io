@@ -18,7 +18,7 @@ social:
   link: https://www.researchgate.net/profile/Angelo_Franciosini
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/RaguDellaNonna
+  link: https://twitter.com/Angelo_RDN
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/angelo-franciosini-325900132
