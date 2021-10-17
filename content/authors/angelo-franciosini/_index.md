@@ -66,7 +66,7 @@ Finally, those two tasks converge to a long-term goal of '''understanding the im
 
  * [Simoncini C, Perrinet LU, Montagnini A, Mamassian P, Masson GS (2012)](https://laurentperrinet.github.io/publication/simoncini-12/) More is not always better: dissociation between perception and action explained by adaptive gain control. Nature Neuroscience, 15:1596–1603
  * [Friston KJ, Adams RA, Perrinet LU, Breakspear M (2012)](https://laurentperrinet.github.io/publication/friston-12/) Perceptions as Hypotheses: Saccades as Experiments. Frontiers in Psychology, 3
- * [Perrinet LU, Adams RA, Friston KJ. (2014)](https://laurentperrinet.github.io/publication/perrinet-adams-friston-12/) Active inference, eye movements and oculomotor delays. Biological Cybernetics, 108(6):777-801
+ * [Perrinet LU, Adams RA, Friston KJ. (2014)](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/) Active inference, eye movements and oculomotor delays. Biological Cybernetics, 108(6):777-801
  * [Perrinet LU, Bednar JA (2015)](https://laurentperrinet.github.io/publication/perrinet-bednar-15/) Edge co-occurrences can account for rapid categorization of natural versus animal images. Scientific Reports, 5:11400
  * [Khoei M, Masson GS, Perrinet LU (2017)](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/) The flash-lag effect as a motion-based predictive shift. PLoS Computational Biology, 13(1):e1005068
  * we keep a bibliography on the project @ https://www.mendeley.com/community/edgetracks/
