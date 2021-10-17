@@ -35,7 +35,6 @@ tags:
 - motion prediction
 title: Motion-based prediction is sufficient to solve the aperture problem
 url_pdf: https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/
-url_slides: perrinet12ucl_handout.pdf
 ---
 
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})
