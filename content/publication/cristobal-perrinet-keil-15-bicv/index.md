@@ -51,4 +51,4 @@ This book contains 17 chapters that have been organized in four different parts:
  * Modeling
  * Applications
 See the [Table of contents](http://bicv.github.io/toc/).
-{{< figure src="mindmap.png" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/mindmap.png" >}}
