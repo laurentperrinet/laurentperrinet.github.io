@@ -18,5 +18,3 @@ tags:
 title: What adaptive code for efficient spiking representations? A model for the formation
   of receptive fields of simple cells
 ---
-
-![header](perrinet-08.png)

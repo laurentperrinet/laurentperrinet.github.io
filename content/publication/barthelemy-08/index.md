@@ -45,5 +45,3 @@ title: Dynamics of distributed 1D and 2D motion representations for short-latenc
   ocular following
 url_pdf: http://dx.doi.org/10.1016/j.visres.2007.10.020
 ---
-
-![header](barthelemy-08.png)

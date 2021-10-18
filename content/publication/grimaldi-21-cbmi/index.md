@@ -48,5 +48,8 @@ url_pdf: https://laurentperrinet.github.io/publication/grimaldi-21-cbmi/
 ---
 
 * to be presented at the [Bio-inspired circuits, systems and algorithms for multimedia](https://cbmi2021.univ-lille.fr/call-for-contributions#callforpapersspecialbioinspired) special session of the [Content-Based Multimedia Indexing (CBMI) 2021](https://cbmi2021.univ-lille.fr/) conference
+
+{{< youtube KxX4pZKexCo >}}
+
 * this proceedings paper follows up he poster presented in : {{< cite page="/publication/grimaldi-21-cosyne" view="4" >}}
 * Antoine Grimaldi and Laurent Perrinet received funding from the European Union ERA-NET CHIST-ERA 2018 research and innovation program under grant agreement No ANR-19-CHR3-0008-03.

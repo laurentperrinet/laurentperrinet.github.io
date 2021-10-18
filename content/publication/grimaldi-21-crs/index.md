@@ -31,3 +31,5 @@ tags:
 - online classification
 title: From event-based computations to a bio-plausible Spiking Neural Network
 ---
+
+{{< youtube aIt5OAleMR8 >}}
