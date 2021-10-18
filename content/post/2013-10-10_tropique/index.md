@@ -57,6 +57,9 @@ Accueilli en résidence dans le cadre des résidences de recherche de l’IMéRA
 
  - [space odyssée](http://ondesparalleles.org/projets/space-odyssey/) à [l'institut francais en Coree du Sud de juin a octobre 2016](http://www.institutfrancais-seoul.com/portfolio-item/exposition-home-cinema/)
  - Un entretien d'ER durant le [Mois multi 2015](https://www.youtube.com/watch?v=lA2bovigzLg)
+
+{{< youtube lA2bovigzLg >}}
+
  - Un entretien avec [Roger Malina](https://youtu.be/z8328z2WO-w)
 
 {{< youtube z8328z2WO-w >}}
