@@ -50,7 +50,6 @@ url_video: https://www.youtube.com/watch?v=KxX4pZKexCo&t=3335s
 
 * to be presented at the [Bio-inspired circuits, systems and algorithms for multimedia](https://cbmi2021.univ-lille.fr/call-for-contributions#callforpapersspecialbioinspired) special session of the [Content-Based Multimedia Indexing (CBMI) 2021](https://cbmi2021.univ-lille.fr/) conference
 
-{{< youtube KxX4pZKexCo&t=3335s >}}
 {{< video src="https://www.youtube.com/watch?v=KxX4pZKexCo&t=3335s" controls="yes" >}}
 
 * this proceedings paper follows up he poster presented in : {{< cite page="/publication/grimaldi-21-cosyne" view="4" >}}
