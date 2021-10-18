@@ -52,4 +52,8 @@ url_pdf: https://laurentperrinet.github.io/publication/grimaldi-21-cbmi/
 {{< youtube KxX4pZKexCo >}}
 
 * this proceedings paper follows up he poster presented in : {{< cite page="/publication/grimaldi-21-cosyne" view="4" >}}
+
+
+* this proceedings paper was followed by the poster presented at CRS : {{< cite page="/publication/grimaldi-21-crs" view="4" >}}
+
 * Antoine Grimaldi and Laurent Perrinet received funding from the European Union ERA-NET CHIST-ERA 2018 research and innovation program under grant agreement No ANR-19-CHR3-0008-03.

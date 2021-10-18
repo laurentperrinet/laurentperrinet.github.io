@@ -33,3 +33,6 @@ title: From event-based computations to a bio-plausible Spiking Neural Network
 ---
 
 {{< youtube aIt5OAleMR8 >}}
+
+
+* this proceedings paper follows up the poster presented at CRS21 : {{< cite page="/publication/grimaldi-21-crs" view="4" >}}
