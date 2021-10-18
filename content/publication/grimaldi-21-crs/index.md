@@ -36,5 +36,4 @@ url_video: https://www.youtube.com/watch?v=aIt5OAleMR8
 
 {{< youtube aIt5OAleMR8 >}}
 
-
-* this proceedings paper follows up the poster presented at CRS21 : {{< cite page="/publication/grimaldi-21-crs" view="4" >}}
+* this proceedings paper follows up the poster presented at CBMI : {{< cite page="/publication/grimaldi-21-cbmi" view="4" >}}
