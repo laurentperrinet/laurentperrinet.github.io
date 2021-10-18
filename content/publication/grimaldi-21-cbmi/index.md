@@ -49,7 +49,7 @@ url_pdf: https://laurentperrinet.github.io/publication/grimaldi-21-cbmi/
 
 * to be presented at the [Bio-inspired circuits, systems and algorithms for multimedia](https://cbmi2021.univ-lille.fr/call-for-contributions#callforpapersspecialbioinspired) special session of the [Content-Based Multimedia Indexing (CBMI) 2021](https://cbmi2021.univ-lille.fr/) conference
 
-{{< youtube KxX4pZKexCo >}}
+{{< youtube KxX4pZKexCo&t=3335s >}}
 
 * this proceedings paper follows up he poster presented in : {{< cite page="/publication/grimaldi-21-cosyne" view="4" >}}
 
