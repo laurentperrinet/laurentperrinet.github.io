@@ -10,7 +10,7 @@ tags:
 - motion-clouds
 title: Open Science
 ---
-To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences. This includes code to reproduce results obtained in papers (e.g. [(Perrinet, Adams and Friston, 2015)](https://github.com/laurentperrinet/PerrinetAdamsFriston14), [(Perrinet and Bednar, 2015)](https://github.com/laurentperrinet/PerrinetBednar15), [(Khoei et, 2017)](https://github.com/laurentperrinet/Khoei_2017_PLoSCB), [(Perrinet, 2019)](https://github.com/laurentperrinet/2019-05_illusions-visuelles), [(Pasturel et al, 2020)]({{< ref "/publication/pasturel-montagnini-perrinet-20/index.md" >}}), [(Daucé et al, 2020)]({{< ref "/publication/dauce-20/index.md" >}})) or courses and slides (e.g. [2019-04-03: vision and modelization](https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization), [2019-04-18_JNLF](https://github.com/laurentperrinet/2019-04-18_JNLF), ...) and also the development of the following libraries on GitHub.
+To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences. This includes code to reproduce results obtained in papers (e.g. [(Perrinet, Adams and Friston, 2015)](https://github.com/laurentperrinet/PerrinetAdamsFriston14), [(Perrinet and Bednar, 2015)](https://github.com/laurentperrinet/PerrinetBednar15), [(Khoei et, 2017)](https://github.com/laurentperrinet/Khoei_2017_PLoSCB), [(Perrinet, 2019)](https://github.com/laurentperrinet/2019-05_illusions-visuelles), [(Pasturel et al, 2020)]({{< ref "/publication/pasturel-montagnini-perrinet-20/index.md" >}}), [(Daucé et al, 2020)]({{< ref "/publication/dauce-20/index.md" >}})) or courses and slides (e.g. [2019-04-03: vision and modelization](https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization), [2019-04-18_JNLF](https://github.com/laurentperrinet/2019-04-18_JNLF), ...) and also the development of the following libraries on [GitHub](https://github.com/laurentperrinet).
 
 
 <!-- Place this tag where you want the button to render. -->
@@ -19,9 +19,9 @@ To enable the dissemination of the knowledge that is produced in our lab, we sha
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
 
-# bayesianchangepoint
+# Bayesian Change Point
 
-An implementation of [Adams &amp; MacKay 2007 "Bayesian Online Changepoint Detection"](http://arxiv.org/abs/0710.3742) for binary inputs in {{< icon name="python" pack="fab" >}} Python.
+A python implementation of [Adams &amp; MacKay 2007 "Bayesian Online Changepoint Detection"](http://arxiv.org/abs/0710.3742) for binary inputs in {{< icon name="python" pack="fab" >}} Python.
 
 * [Source code](https://github.com/laurentperrinet/bayesianchangepoint)
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}
@@ -32,6 +32,7 @@ This implementation proposes a set of robust fitting methods for the extraction 
 
 * [Source code](https://github.com/invibe/ANEMO/)
 * See a poster @ [Pasturel, Montagnini and Perrinet (2018)]({{< ref "/publication/pasturel-18-anemo/index.md" >}})
+* See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}
 
 # LeCheapEyeTracker
 
@@ -43,17 +44,20 @@ Work-in-progress : an eye tracker based on webcams.
 
 ## SLIP: a Simple Library for Image Processing
 
-This library collects different Image Processing tools for use with the  [LogGabor](https://pythonhosted.org/LogGabor/) and  [SparseEdges](https://pythonhosted.org/SparseEdges/) libraries.
+This library collects different Image Processing tools for use with the [LogGabor](https://pythonhosted.org/LogGabor/) and [SparseEdges](https://pythonhosted.org/SparseEdges/) libraries.
 
 * [Web-site](https://pythonhosted.org/SLIP/)
 * [Source code](https://github.com/bicv/SLIP/)
 
 ## LogGabor: a Simple Library for Image Processing
 
-This library collects different Image Processing tools for use with the  [LogGabor](https://pythonhosted.org/LogGabor/) and  [SparseEdges](https://pythonhosted.org/SparseEdges/) libraries.
+This library defines the set of [LogGabor](https://pythonhosted.org/LogGabor/) kernels. These are generic edge-like filters at different scales, phases and orientations. The library develops a simple method to construct a simple multi-scale linear transform.
 
 * [Web-site](https://pythonhosted.org/LogGabor)
 * [Source code](https://github.com/bicv/LogGabor/)
+* This library is detailed in the following publication {{< cite page="/publication/fischer-07-cv" view="4" >}}
+* logGabor filters are used in numerous computer vision applications and reaches 177 citations on [Google Scholar](https://scholar.google.com/scholar?cluster=15692697050569088559&hl=fr&as_sdt=7,39) (last updated 22/10/2021).
+
 
 ## SparseEdges: sparse coding of natural images
 
@@ -61,17 +65,20 @@ Our goal here is to build practical algorithms of sparse coding for computer vis
 
 This class exploits the [SLIP](https://pythonhosted.org/SLIP/) and [LogGabor](https://pythonhosted.org/LogGabor/) libraries to provide with a sparse representation of edges in images.
 
-This algorithm was presented in the following paper, which is available as a reprint @ https://laurentperrinet.github.io/publication/perrinet-15-bicv/
 
 * [Web-site](https://pythonhosted.org/SparseEdges)
 * [Source code](https://github.com/bicv/SparseEdges/)
+* This algorithm was presented in the following paper, which is available as a reprint {{< cite page="/publication/perrinet-15-bicv" view="4" >}}
+* It was notably used in the following paper {{< cite page="/publication/perrinet-bednar-15" view="4" >}}
 
-##  SparseHebbianLearning : unsupervised learning of natural images
+##  Sparse Hebbian Learning : unsupervised learning of natural images
 
 This is a collection of python scripts to test learning strategies to efficiently code natural image patches. This is here restricted to the framework of the SparseNet algorithm from Bruno Olshausen (http://redwood.berkeley.edu/bruno/sparsenet/).
 
 * [Source code](https://github.com/bicv/SparseHebbianLearning/)
-
+* This algorithm was presented in the following paper {{< cite page="/publication/perrinet-10-shl" view="4" >}}
+* 54 citations on [Google Scholar](https://scholar.google.com/scholar?cluster=3780829296605136744&hl=fr&as_sdt=7,39) (last updated 22/10/2021)
+* Follow-up paper {{< cite page="/publication/perrinet-19-hulk" view="4" >}}
 
 # MotionClouds
 
@@ -79,6 +86,10 @@ This is a collection of python scripts to test learning strategies to efficientl
 
 * [Web-site](https://neuralensemble.github.io/MotionClouds/)
 * [Source code](https://github.com/NeuralEnsemble/MotionClouds) using {{< icon name="python" pack="fab" >}} Python.
+* This algorithm was presented in the following paper {{< cite page="/publication/sanz-12" view="4" >}}
+* 37 citations on [Google Scholar](https://scholar.google.com/scholar?cluster=3286688289699014452&hl=fr&as_sdt=7,39) (last updated 22/10/2021)
+* Follow-up paper {{< cite page="/publication/vacher-16/" view="4" >}} {{< cite page="/publication/vacher-15-nips/" view="4" >}}
+* This library was notably used in the following paper {{< cite page="/publication/simoncini-12" view="4" >}}
 
 
 # PyNN
@@ -87,3 +98,5 @@ This is a collection of python scripts to test learning strategies to efficientl
 
 * [Web-site](https://neuralensemble.github.io/PyNN/)
 * [Source code](https://github.com/NeuralEnsemble/PyNN)
+* This algorithm was presented in the following paper {{< cite page="/publication/davison-08" view="4" >}}
+* 619 citations on [Google Scholar](https://scholar.google.com/scholar?cluster=4324955271726120014&hl=fr&as_sdt=7,39) (last updated 22/10/2021)

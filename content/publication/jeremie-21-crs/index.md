@@ -1,5 +1,5 @@
 ---
-title: Ultra-fast categorization of image containing animals in vivo and in computo
+title: Ultra-fast categorization of images containing animals *in vivo* and *in computo*
 subtitle: ''
 summary: ''
 authors:
@@ -37,5 +37,4 @@ publication_types:
 - '1'
 abstract: ''
 publication: ''
-url_pdf: https://symposium.fchampalimaud.science/Poster-sessions
 ---
