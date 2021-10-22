@@ -53,7 +53,8 @@ publication: '*Curves and Surfaces 2018, Arcachon*'
 publication_types:
 - '1'
 tags:
-- Deep Learning
+- deep-learning
+- sparse coding
 title: On the Origins of Hierarchy in Visual Processing
 url_pdf: https://laurentperrinet.github.io/publication/franciosini-perrinet-18-cs/
 ---

@@ -40,6 +40,7 @@ tags:
 - active inference
 - area-v1
 - Bayesian model
+- psychophysics
 title: 'From the retina to action: Dynamics of predictive processing in the visual
   system'
 url_code: https://github.com/laurentperrinet/Perrinet19PredictiveProcessing

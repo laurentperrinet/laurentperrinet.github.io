@@ -37,7 +37,7 @@ publication_types:
 - '2'
 tags:
 - Active Inference
-- Deep Learning
+- Deep-Learning
 - Object localization
 - Visual search
 - Visuomotor control

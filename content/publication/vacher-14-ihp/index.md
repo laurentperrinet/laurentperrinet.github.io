@@ -16,6 +16,7 @@ publication_types:
 - '1'
 tags:
 - motion-clouds
+- psychophysics
 title: Dynamic Textures For Probing Motion Perception
 ---
 

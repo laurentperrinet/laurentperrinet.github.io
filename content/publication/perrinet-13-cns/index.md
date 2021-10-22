@@ -25,7 +25,7 @@ featured: false
 grants:
 - codde
 projects: []
-publication: '*CNS 2013, Paris*'
+publication: '*Annual Computational Neuroscience Meeting: CNS 2013, Paris*'
 publication_types:
 - '1'
 tags:

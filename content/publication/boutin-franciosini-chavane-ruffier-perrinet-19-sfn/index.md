@@ -16,7 +16,8 @@ publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - '1'
 tags:
-- Deep Learning
+- deep-learning
+- sparse coding
 title: Sparse Deep Predictive Coding to model visual object recognition
 url_pdf: https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19-sfn/
 ---

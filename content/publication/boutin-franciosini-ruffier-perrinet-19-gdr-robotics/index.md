@@ -26,7 +26,8 @@ publication: '*GdR Robotics - 2019-06-05*'
 publication_types:
 - '1'
 tags:
-- Deep Learning
+- deep-learning
+- sparse coding
 title: Top-down connection in Hierarchical Sparse Coding
 ---
 

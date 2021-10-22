@@ -11,7 +11,7 @@ featured: false
 grants:
 - facets
 projects: []
-publication: '*BMC Neuroscience*'
+publication: '*Annual Computational Neuroscience Meeting: BMC Neuroscience*'
 publication_types:
 - '1'
 tags:

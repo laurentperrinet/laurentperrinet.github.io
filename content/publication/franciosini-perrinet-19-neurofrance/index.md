@@ -41,7 +41,8 @@ publication: '*NeuroFrance 2019, International Conference from the Société des
 publication_types:
 - '1'
 tags:
-- Deep Learning
+- deep-learning
+- sparse coding
 title: A hierarchical, multi-layer convolutional sparse coding algorithm based on
   predictive coding
 url_pdf: https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/790

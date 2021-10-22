@@ -45,9 +45,7 @@ url_pdf: http://dx.doi.org/10.3389/neuro.11.011.2008
 url_preprint: https://hal-amu.archives-ouvertes.fr/hal-00586786
 ---
 
-
 **PyNN** is a simulator-independent language for building neuronal network models using {{< icon name="python" pack="fab" >}} Python.
-
 * [Web-site](https://neuralensemble.github.io/PyNN/)
 * [Source code](https://github.com/NeuralEnsemble/PyNN)
 * 619 citations on [Google Scholar](https://scholar.google.com/scholar?cluster=4324955271726120014&hl=fr&as_sdt=7,39) (last updated 22/10/2021)

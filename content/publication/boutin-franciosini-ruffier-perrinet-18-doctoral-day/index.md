@@ -21,7 +21,8 @@ publication: '*Doc2AMU Doctoral Day - 2018-11-23*'
 publication_types:
 - '1'
 tags:
-- Deep Learning
+- deep-learning
+- sparse coding
 title: Unsupervised Hierarchical Sparse Coding algorithm inspired by Biological Vision
 ---
 

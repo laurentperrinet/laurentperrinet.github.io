@@ -33,7 +33,7 @@ publication: '*Neural Computation*'
 publication_types:
 - '2'
 tags:
-- Deep Learning
+- deep-learning
 - sparse coding
 title: Effect of top-down connections in Hierarchical Sparse Coding
 url_pdf: https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/

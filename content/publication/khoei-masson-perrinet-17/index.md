@@ -41,6 +41,7 @@ publication_types:
 tags:
 - Bayesian model
 - motion prediction
+- psychophysics
 title: The flash-lag effect as a motion-based predictive shift
 url_code: https://github.com/laurentperrinet/Khoei_2017_PLoSCB
 url_pdf: https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/

@@ -28,6 +28,9 @@ publication_types:
 - '1'
 tags:
 - area-v1
+- deep-learning
+- orientation
+- psychophysics
 title: Selectivity to oriented patterns of different precisions
 url_code: https://github.com/hugoladret/InternshipM1
 url_pdf: https://github.com/hugoladret/InternshipM1/raw/master/2018-06_POSTER_final.pdf

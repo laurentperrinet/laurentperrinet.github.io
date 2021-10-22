@@ -13,6 +13,7 @@ publication_types:
 - '1'
 tags:
 - motion-clouds
+- psychophysics
 title: A Mathematical Account of Dynamic Texture Synthesis for Probing Visual Perception
 ---
 

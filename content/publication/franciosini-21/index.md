@@ -32,6 +32,7 @@ publication: '*bioRxiv*'
 publication_types:
 - '2'
 tags:
+- deep-learning
 - sparse coding
 title: Pooling in a predictive model of V1 explains functional and structural diversity
   across species

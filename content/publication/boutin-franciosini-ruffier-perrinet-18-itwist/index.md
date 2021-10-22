@@ -29,7 +29,8 @@ publication: '*iTwist, 2018*'
 publication_types:
 - '1'
 tags:
-- Deep Learning
+- deep-learning
+- sparse coding
 title: From biological vision to unsupervised hierarchical sparse coding
 url_pdf: https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-18-itwist/
 url_preprint: https://arxiv.org/abs/1812.01335

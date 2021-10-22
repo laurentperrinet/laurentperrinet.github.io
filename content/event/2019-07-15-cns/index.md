@@ -25,7 +25,7 @@ authors:
 - Pierre Albigès
 - Laurent U Perrinet
 date: 2019-07-15 12:20:00
-event: CNS*2019 Barcelona, Spain
+event: 'Annual Computational Neuroscience Meeting: CNS*2019 Barcelona, Spain'
 featured: false
 grants:
 - spikeai

@@ -37,6 +37,7 @@ publication: '*SPARS2017, Lisbon*'
 publication_types:
 - '1'
 tags:
+- deep-learning
 - sparse coding
 title: Efficient learning of sparse image representations using homeostatic regulation
 ---

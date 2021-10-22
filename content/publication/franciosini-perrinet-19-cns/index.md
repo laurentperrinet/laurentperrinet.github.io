@@ -10,11 +10,12 @@ grants:
 - phd-icn
 - mesocentre
 projects: []
-publication: '*CNS*2019, Barcelona*'
+publication: '*Annual Computational Neuroscience Meeting: CNS*2019, Barcelona*'
 publication_types:
 - '1'
 tags:
-- Deep Learning
+- deep-learning
+- sparse coding
 title: Modelling Complex Cells of Early Visual Cortex using Predictive Coding
 url_pdf: https://www.cnsorg.org/cns-2019-poster-presentation-guide
 ---

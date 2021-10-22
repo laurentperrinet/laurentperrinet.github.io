@@ -38,6 +38,7 @@ publication: '*NeuroFrance 2017, International Conference from the Société des
 publication_types:
 - '1'
 tags:
+- deep-learning
 - sparse coding
 title: Efficient learning of sparse image representations using homeostatic regulation
 ---
