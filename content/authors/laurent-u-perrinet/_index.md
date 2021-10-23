@@ -23,14 +23,14 @@ bio: My research interests include Machine Learning and computational neuroscien
 
 education:
   courses:
-  - course: 'Habilitation à diriger des recherches '
-    institution: Aix Marseille Université
+  - course: 'Habilitation à diriger des recherches'
+    institution: 'Aix-Marseille Université'
     year: 2014
-  - course: PhD. in Cognitive Science
-    institution: Université P. Sabatier, Toulouse, France
+  - course: 'PhD. in Cognitive Science'
+    institution: 'Université P. Sabatier, Toulouse, France'
     year: 2003
-  - course: M.S. in Engineering
-    institution: Supaéro, Toulouse, France
+  - course: 'M.S. in Engineering'
+    institution: 'SupAéro, Toulouse, France'
     year: 1998
 
 interests:
