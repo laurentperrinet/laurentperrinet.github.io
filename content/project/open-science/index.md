@@ -32,7 +32,7 @@ This implementation proposes a set of robust fitting methods for the extraction 
 
 * [Source code](https://github.com/invibe/ANEMO/)
 * See a poster @ [Pasturel, Montagnini and Perrinet (2018)]({{< ref "/publication/pasturel-18-anemo/index.md" >}})
-* See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}
+* This library was used in the following publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}
 
 # LeCheapEyeTracker
 
@@ -56,7 +56,7 @@ This library defines the set of [LogGabor](https://pythonhosted.org/LogGabor/) k
 * [Web-site](https://pythonhosted.org/LogGabor)
 * [Source code](https://github.com/bicv/LogGabor/)
 * This library is detailed in the following publication {{< cite page="/publication/fischer-07-cv" view="4" >}}
-* logGabor filters are used in numerous computer vision applications and reaches 177 citations on [Google Scholar](https://scholar.google.com/scholar?cluster=15692697050569088559&hl=fr&as_sdt=7,39) (last updated 22/10/2021).
+* LogGabor filters are used in numerous computer vision applications and reaches 177 citations on [Google Scholar](https://scholar.google.com/scholar?cluster=15692697050569088559&hl=fr&as_sdt=7,39) (last updated 22/10/2021).
 
 
 ## SparseEdges: sparse coding of natural images
