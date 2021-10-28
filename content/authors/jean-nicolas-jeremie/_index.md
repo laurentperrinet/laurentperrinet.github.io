@@ -30,7 +30,7 @@ user_groups:
 # PhD Student (2021-10 / 2024-09): Bio-mimetic agile aerial robots flying in real-life conditions
 
  * this fellowship is part of the [AgileNeuroBot project](https://laurentperrinet.github.io/grant/anr-anb/)
- * Aix-Marseille Université, Institut des Neurosciences de la Timone
+ * Institut des Neurosciences de la Timone, Aix-Marseille Université / CNRS
 
 * Thesis direction: [Laurent Perrinet](https://laurentperrinet.github.io/author/laurent-u-perrinet/) and co-direction: [Emmanuel Daucé](https://laurentperrinet.github.io/author/emmanuel-dauce/)
 
