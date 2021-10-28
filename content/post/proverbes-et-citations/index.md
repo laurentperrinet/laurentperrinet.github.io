@@ -8,6 +8,8 @@ summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
 
+* "To us, probability is the very guide of life." [Marcus Tullius Cicero (106 BCE - 43 BCE)](https://www.causeweb.org/cause/resources/fun/quotes/cicero-probability?id=290)
+
 * "Notre mère stérile réclame un enfant. Mon ami, mon amour d'ami, Que cela soit terrible ou sublime, Ce n'est pas moi qui clame, c'est la terre qui tonne" Attila József (1924, traduit dans la chanson éponyme de [Noir Désir](https://genius.com/Noir-desir-ce-nest-pas-moi-qui-clame-lyrics)) 
 
 * "Savoir marcher sur le fil tendu entre la frontière des densités humaines sauve de l'isolement." Babouillec
