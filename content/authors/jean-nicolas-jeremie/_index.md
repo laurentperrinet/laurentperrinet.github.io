@@ -43,7 +43,7 @@ user_groups:
 ###  Mots clés - Keywords
 
 > recherche visuelle, vision active, apprentissage profond, neurosciences computationnelles, comportement, sacades
-> *visual search, active vision, deep learning, computational neuroscience, bahavior, sacades*
+> *visual search, active vision, deep learning, computational neuroscience, behavior, sacades*
 
 ###  Description de la problématique de recherche - Project description
 
