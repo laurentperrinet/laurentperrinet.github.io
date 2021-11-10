@@ -28,6 +28,12 @@ user_groups:
 ## Description
 Most studies on the dynamics of recurrent cortical networks are either based on purely random wiring or neighborhood couplings. Neuronal cortical connectivity, however, shows a complex spatial pattern composed of local and remote patchy connections. We ask to what extent such geometric traits influence the "idle" dynamics of two-dimensional (2d) cortical network models composed of conductance-based integrate-and-fire (iaf) neurons. In contrast to the typical 1 mm2 used in most studies, we employ an enlarged spatial set-up of 25 mm2 to provide for long-range connections. Our models range from purely random to distance-dependent connectivities including patchy projections, i.e., spatially clustered synapses. Analyzing the characteristic measures for synchronicity and regularity in neuronal spiking, we explore and compare the phase spaces and activity patterns of our simulation results. Depending on the input parameters, different dynamical states appear, similar to the known synchronous regular (SR) or asynchronous irregular (AI) firing in random networks. Our structured networks, however, exhibit shifted and sharper transitions, as well as more complex activity patterns. Distance-dependent connectivity structures induce a spatio-temporal spread of activity, e.g., propagating waves, that random networks cannot account for. Spatially and temporally restricted activity injections reveal that a high amount of local coupling induces rather unstable AI dynamics. We find that the amount of local versus long-range connections is an important parameter, whereas the structurally advantageous wiring cost optimization of patchy networks has little bearing on the phase space.
 
+
+## Main publications:
+
+* {{< cite page="/publication/voges-10-jpp" view="4" >}}
+* {{< cite page="/publication/voges-12" view="4" >}}
+
 ## Context
 The goal of the FACETS (Fast Analog Computing with Emergent Transient States) project was to create a theoretical and experimental foundation for the realisation of novel computing paradigms which exploit the concepts experimentally observed in biological nervous systems. The continuous interaction and scientific exchange between biological experiments, computer modelling and hardware emulations within the project provides a unique research infrastructure that will in turn provide an improved insight into the computing principles of the brain. This insight may potentially contribute to an improved understanding of mental disorders in the human brain and help to develop remedies.
 
