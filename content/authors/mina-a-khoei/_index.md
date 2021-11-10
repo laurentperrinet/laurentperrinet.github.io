@@ -31,6 +31,13 @@ We have previously elaborated probabilistic (Perrinet & Masson, 2010) or dynamic
 
 Using this architecture, we will explore the consequences of such context-dependent propagation in terms of coding and of learning. First at the time scale of coding, knowing the prior, we will study the emergent properties of the system like its ability to track objects independently of their shape or to segment parts of the scene that are moving coherently. We will study of this motion information may help shape the selectivity of neurons in a given area, for instance orientation selectivity on the priamry visual cortex. At the time scale of learning, we will build models exploring the emergence of maps of cortical receptive fields optimally tuned to elaborate sparse, multi-scale representations of the visual or tactile world. In fact, a simple functional model allows to understand emergence in a model of a simple macro-column of the primary visual cortex (Perrinet, 2010). One challenging question is whether these functional models of self-organization can be translated to large-scale networks of the early sensory system. Using the probabilistic model, we will investigate how spatio-temporal receptive fields can emerge through learning of statistical regularities in the images and study how hierarchic structures can arise as a self-organized property.
 
+
+## Main publications:
+
+* {{< cite page="/publication/khoei-13-jpp" view="4" >}}
+* {{< cite page="/publication/kaplan-khoei-14" view="4" >}}
+* {{< cite page="/publication/khoei-masson-perrinet-17" view="4" >}}
+
 # Propriétés émergentes d'un modèle de prédiction probabiliste utilisant un champ neural
 
 Dans le système visuel de bas niveau, des informations sur le monde visuel tel que celles représentées par l'activité neuronale est dynamiquement causée par l'entrée sensorielle, mais aussi par des informations contextuelles provenant de cellules voisines et par le signal réentrant d'autres aires corticales. Les aires sensorielles primaires sont donc un excellent modèle pour étudier comment les neurones peuvent résoudre le problème de la sélection d'une seul représentation globale et cohérente depuis l'information collectée localement et en parallèle par les neurones. Notre objectif dans ce programme est d'étudier la dynamique de champs neuronaux mettant en œuvre des calculs probabilistes pour le traitement sensoriel précoce.

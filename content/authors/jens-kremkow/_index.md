@@ -22,6 +22,12 @@ The goal of the FACETS (Fast Analog Computing with Emergent Transient States) pr
 * Venue: Thèse de Doctorat de l’Université d’Aix-Marseille II, Ecole Doctorale des Sciences de la Vie et de la Santé Marseille, France en Cotutelle avec la Fakultät für Biologie Albert-Ludwigs-Universität Freiburg im Breisgau, Allemagne
 * Thesis director: Guillaume MASSON and Dr. Laurent PERRINET
 
+
+## Main publications:
+
+* {{< cite page="/publication/kremkow-16" view="4" >}}
+* {{< cite page="/publication/kremkow-10-jcns" view="4" >}}
+
 ##  Description of the PHD thesis project
 
 The primary visual cortex (V1) is one of the most studied cortical area in neuroscience. Together with the retina and the lateral geniculate nucleus (LGN), it forms the early visual system, which has become a common model for studying computational principles in the sensory systems. Simple artificial stimuli (such as drifting gratings (DG)) have given precious insights into the neural basis of visual processing. However, recently more researchers have used more complex natural images (NI) visual stimuli, arguing that the low dimensional artificial stimuli are not sufficient for a complete understanding of the visual system. For example, whereas the responses of V1 neurons to DG are dense but with variable spike timings, the neurons are activated with only few and precise spikes to NI. Furthermore, if linear receptive field models provide a good fit to responses during simple stimuli, they often fail during NI.
