@@ -26,12 +26,6 @@ tags:
 
 * Quoi: le manuscrit sera disponible après la soutenance.
 
-{{% callout note %}}
-Pour participer à la réunion Zoom, suivre le lien suivant
-
- https://univ-amu-fr.zoom.us/j/93571492344?pwd=NTlTbjhvM1pxR2ZUY3ZYKzhURTRmUT09
-{{% /callout %}}
-
 ## Jury
 
 * [Anthony Burkitt](https://findanexpert.unimelb.edu.au/profile/5669-anthony-burkitt), University of Melbourne, Rapporteur
