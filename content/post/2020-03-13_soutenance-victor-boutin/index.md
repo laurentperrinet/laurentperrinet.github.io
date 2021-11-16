@@ -12,9 +12,9 @@ image:
   preview_only: false
 lastmod: 2020-03-04 09:00:00
 projects: []
-subtitle: Victor Boutin (Equipe NeOpTo) soutiendra sa thèse de doctorat le Vendredi
+subtitle: Victor Boutin (Equipe NeOpTo) a soutenu sa thèse de doctorat le Vendredi
   13 mars à 14h
-summary: 'Victor Boutin (Equipe NeOpTo) soutiendra sa thèse de doctorat intitulée:
+summary: 'Victor Boutin (Equipe NeOpTo) a soutenu sa thèse de doctorat intitulée:
   *Sparse deep predictive coding: a bio-inspired model of visual perception* / **Etude
   d’un algorithme hiérarchique et codage épars et prédictif : vers un modèle bio-inspiré
   de la perception visuelle** le Vendredi 13 mars à 14h'
