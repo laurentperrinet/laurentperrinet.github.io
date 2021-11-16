@@ -5,11 +5,6 @@ authors:
 - angelo-franciosini
 date: 2021-09-09 09:00:00
 draft: false
-image:
-  caption: '[ilbusca / Getty Images ](https://www.thoughtco.com/abbreviations-and-titles-used-in-college-1857653)'
-  focal_point: Center
-  placement: 2
-  preview_only: false
 lastmod: 2021-09-09 09:00:00
 projects: []
 subtitle: 'Angelo Franciosini (Equipe NeOpTo) soutiendra sa thèse de doctorat le Mardi 28 septembre 2021 à 13h à 15h30'
