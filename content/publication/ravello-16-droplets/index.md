@@ -19,10 +19,10 @@ tags:
 title: Differential response of the retinal neural code with respect to the sparseness
   of natural images
 url: https://arxiv.org/abs/1611.06834
-url: https://hal.archives-ouvertes.fr/hal-01396545v2
+url: https://hal.archives-ouvertes.fr/hal-01396545
 ---
 
-See [supplementray code](https://laurentperrinet.github.io//sciblog/posts/2017-11-21_retina_sparseness.html). 
+See [supplementray code](https://laurentperrinet.github.io//sciblog/posts/2017-11-21_retina_sparseness.html).
 
 # How does the retina respond to stimuli with different sparseness?
 
