@@ -18,8 +18,7 @@ tags:
 - sparse coding
 title: Differential response of the retinal neural code with respect to the sparseness
   of natural images
-url_preprint: https://arxiv.org/abs/1611.06834
-url_preprint: https://hal.archives-ouvertes.fr/hal-01396545
+url_preprint: https://hal.archives-ouvertes.fr/hal-03468504
 ---
 
 See [supplementray code](https://laurentperrinet.github.io//sciblog/posts/2017-11-21_retina_sparseness.html).
