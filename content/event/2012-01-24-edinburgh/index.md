@@ -36,18 +36,16 @@ authors:
 - David Fitzpatrick
 - James A Bednar
 date: 2012-01-24 13:00:00
-event: A seminar from the Institute for Adaptive and Neural Computation (ANC)
-event_url: http://www.anc.ed.ac.uk/events/anc-dtc-seminar-laurent-perrinet
+event: 'A seminar from the Institute for Adaptive and Neural Computation (ANC)'
+event_url: 'http://www.anc.ed.ac.uk/events/anc-dtc-seminar-laurent-perrinet'
 featured: false
 grants:
 - brain-scales
-location: Room IF 4.31/4.33, Institute for Adaptive and Neural Computation (ANC) at
-  the University of Edinburgh
+location: 'Room IF 4.31/4.33, Institute for Adaptive and Neural Computation (ANC) at the University of Edinburgh'
 projects: []
 publication: '*A  seminar from the Institute for Adaptive and Neural Computation (ANC)*'
-title: 'Edge statistics in natural images versus laboratory animal environments: implications
-  for understanding lateral connectivity in V1'
-url_pdf: https://laurentperrinet.github.io/talk/2012-01-24-edinburgh/
+title: 'Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1'
+url_pdf: 'https://laurentperrinet.github.io/talk/2012-01-24-edinburgh/'
 ---
 
 * See a followup in {{< cite page="/publication/perrinet-bednar-15" view="4" >}}
