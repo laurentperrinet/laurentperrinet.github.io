@@ -1,5 +1,6 @@
 ---
 authors:
+- emmanuel-dauce
 - laurent-u-perrinet
 date: 2008-10-08 00:00:00
 draft: false
