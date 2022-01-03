@@ -7,7 +7,7 @@ summary: A grant from the Ph.D. program in Integrative and Clinical Neuroscience
   position, 2017 / 2021).
 tags:
 - grant
-- current-grant
+- past-grant
 - phd-icn
 title: PhD ICN (2017 / 2021)
 ---

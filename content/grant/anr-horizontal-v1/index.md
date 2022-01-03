@@ -1,6 +1,6 @@
 ---
 date: 2016-04-27 00:00:00
-summary: 'ANR Horizontal-V1 (2017/2021): Connectivité Horizontale et Prédiction de
+summary: 'Connectivité Horizontale et Prédiction de
   Cohérences dans l''Intégration de Contour et Mouvement dans le Cortex Visuel Primaire'
 authors:
 - yves-fregnac
@@ -8,7 +8,7 @@ authors:
 - laurent-u-perrinet
 tags:
 - grant
-- current-grant
+- past-grant
 title: ANR Horizontal-V1 (2017/2021)
 ---
 * Description on the official website of the [ANR](http://www.agence-nationale-recherche.fr/Project-ANR-17-CE37-0006)

@@ -1,6 +1,6 @@
 ---
 date: 2020-04-27 00:00:00
-summary: 'ANR ShootingStar (2021/2025) : Processing of naturalistic motion in early vision'
+summary: 'Processing of naturalistic motion in early vision'
 authors:
 - frederic-y-chavane
 - laurent-u-perrinet

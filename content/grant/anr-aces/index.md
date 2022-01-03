@@ -1,6 +1,6 @@
 ---
 date: 2021-07-13 00:00:00
-summary: 'ANR ACES : Assignment of credit and constraints on eye movement learning (2021/2026).'
+summary: 'Assignment of credit and constraints on eye movement learning (2021/2026).'
 authors:
 - anna-montagnini
 - laurent-u-perrinet

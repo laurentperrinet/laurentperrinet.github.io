@@ -1,6 +1,6 @@
 ---
 date: 2021-04-01 00:00:00
-summary: 'ANR RubinVase (2021/2025) : RedUndancy-free neuro-BIological desigN of Visual and Auditory SEnsing'
+summary: 'RedUndancy-free neuro-BIological desigN of Visual and Auditory SEnsing'
 authors:
 - laurent-u-perrinet
 tags:
