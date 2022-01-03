@@ -1,14 +1,13 @@
 ---
 date: 2019-09-10 10:00:00
-summary: Le projet APROVIS3D est lauréat de l'[appel à projets 2018 *CHIST-ERA*](http://www.chistera.eu/projects/aprovis3d) (2019).
+summary: Analog PROcessing of bioinspired VIsion Sensors for 3D reconstruction (APROVIS3D) is [2018 *CHIST-ERA* laureate](http://www.chistera.eu/projects/aprovis3d).
 authors:  
 - jean-martinet
 - laurent-u-perrinet
 tags:
 - grant
 - current-grant
-title: 'APROVIS3D: Analog PROcessing of bioinspired VIsion Sensors for 3D reconstruction
-  (2019/2023)'
+title: 'APROVIS3D (2019/2023)'
 ---
 * Le projet APROVIS3D est lauréat de l'[appel à projets 2018 *CHIST-ERA*](http://www.chistera.eu/projects/aprovis3d) :
 
