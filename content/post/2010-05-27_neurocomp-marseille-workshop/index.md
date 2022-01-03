@@ -18,13 +18,6 @@ tags:
 - computational-neuroscience
 title: 'Computational Neuroscience: From Representations to Behavior'
 ---
-Computational Neuroscience: From Representations to Behavior
-============================================================
-
-
-
-Second NeuroComp Marseille Workshop
------------------------------------
 
 - Date: 27-28 May 2010
 
