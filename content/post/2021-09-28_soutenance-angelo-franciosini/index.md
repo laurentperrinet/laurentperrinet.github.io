@@ -1,5 +1,5 @@
 ---
-title: '2021-09-28: Soutenance Angelo Franciosini'
+title: 'Soutenance Angelo Franciosini'
 authors:
 - laurent-u-perrinet
 - angelo-franciosini
