@@ -36,15 +36,16 @@ authors:
 - David Fitzpatrick
 - James A Bednar
 date: 2012-05-10 13:00:00
-event: 'iTWIST 2012 workshop'
-event_url: 'https://sites.google.com/site/itwist1st/home'
+event: iTWIST '12 workshop
+event_url: https://sites.google.com/site/itwist1st/home
 featured: false
 publication: '*iTWIST ''12 workshop*'
 tags:
 - sparse coding
-title: 'Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1'
-url_pdf: 'https://laurentperrinet.github.io/talk/2012-05-10-itwist/'
-url_slides: 'Perrinet12itwist.pdf'
+title: 'Edge statistics in natural images versus laboratory animal environments: implications
+  for understanding lateral connectivity in V1'
+url_pdf: https://laurentperrinet.github.io/talk/2012-05-10-itwist/
+url_slides: Perrinet12itwist.pdf
 ---
 
 * See a followup in {{< cite page="/publication/perrinet-bednar-15" view="4" >}}
