@@ -5,6 +5,7 @@ authors:
 - Adrián G Palacios
 - Laurent U Perrinet
 date: 2016-11-05
+doi: 10.5281/zenodo.5823016
 featured: false
 projects:
 - motion-clouds
