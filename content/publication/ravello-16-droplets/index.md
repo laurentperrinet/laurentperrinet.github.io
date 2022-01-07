@@ -4,7 +4,7 @@ authors:
 - Maria-José Escobar
 - Adrián G Palacios
 - Laurent U Perrinet
-date: 2016-11-05
+date: 2016-11-07
 doi: 10.5281/zenodo.5823016
 featured: false
 projects:
@@ -20,7 +20,7 @@ tags:
 title: Differential response of the retinal neural code with respect to the sparseness
   of natural images
 url_pdf: https://laurentperrinet.github.io/publication/ravello-16-droplets
-url_preprint: https://hal.archives-ouvertes.fr/hal-03468504
+url_preprint: https://arxiv.org/abs/1611.06834
 ---
 
 See [supplementray code](https://laurentperrinet.github.io//sciblog/posts/2017-11-21_retina_sparseness.html).
