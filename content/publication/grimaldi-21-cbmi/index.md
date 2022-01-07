@@ -45,6 +45,7 @@ tags:
 - online classification
 title: A homeostatic gain control mechanism to improve event-driven object recognition
 url_pdf: https://laurentperrinet.github.io/publication/grimaldi-21-cbmi/
+url_preprint: https://hal.archives-ouvertes.fr/hal-03336554
 url_video: https://www.youtube.com/watch?v=KxX4pZKexCo&t=3335s
 ---
 
