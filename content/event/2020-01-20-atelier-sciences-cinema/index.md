@@ -26,6 +26,8 @@ publication: '*Cinéma et sciences  = rencontre avec les élèves du lycée des 
 publication_types:
 - '1'
 title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
+url_code: https://github.com/laurentperrinet/2020-01-20_atelier_sciences_cinema/
+url_slides: https://laurentperrinet.github.io/2020-01-20_atelier_sciences_cinema
 ---
 
 {{< tweet 1284791644240347138 >}}
