@@ -27,6 +27,5 @@ publication_types:
 - '1'
 title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
 code: https://github.com/laurentperrinet/2022-01-12_NeuroCercle/
-url: https://laurentperrinet.github.io/talk/2022-01-12_NeuroCercle
 slides: https://laurentperrinet.github.io/2022-01-12_NeuroCercle
 ---
