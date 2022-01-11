@@ -28,7 +28,6 @@ publication_types:
 title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
 code: https://github.com/laurentperrinet/2020-01-20_atelier_sciences_cinema/
 slides: https://laurentperrinet.github.io/2020-01-20_atelier_sciences_cinema
-url: https://laurentperrinet.github.io/talk/2020-01-20-atelier-sciences-cinema
 ---
 
 {{< tweet 1284791644240347138 >}}
