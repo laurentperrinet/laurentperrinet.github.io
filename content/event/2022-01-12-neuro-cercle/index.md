@@ -26,6 +26,6 @@ publication: '*Neurocercle : Découvrir les neurosciences à Grenoble*'
 publication_types:
 - '1'
 title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
-code: https://github.com/laurentperrinet/2022-01-12_NeuroCercle/
-slides: https://laurentperrinet.github.io/2022-01-12_NeuroCercle
+url_code: https://github.com/laurentperrinet/2022-01-12_NeuroCercle/
+url_slides: https://laurentperrinet.github.io/2022-01-12_NeuroCercle
 ---
