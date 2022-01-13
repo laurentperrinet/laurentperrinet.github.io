@@ -15,6 +15,7 @@ abstract: Les illusions visuelles sont des créations d'artistes, de scientifiqu
   le monde qui nous entoure.
 authors:
 - Laurent U Perrinet
+code: https://github.com/laurentperrinet/2020-01-20_atelier_sciences_cinema/
 date: 2020-01-20 10:00:00
 event: 'Cinéma et sciences : rencontre avec les élèves du lycée des métiers'
 event_url: http://www.pollymaggoo.org/
@@ -25,9 +26,11 @@ projects:
 publication: '*Cinéma et sciences  = rencontre avec les élèves du lycée des métiers*'
 publication_types:
 - '1'
-title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
-code: https://github.com/laurentperrinet/2020-01-20_atelier_sciences_cinema/
 slides: https://laurentperrinet.github.io/2020-01-20_atelier_sciences_cinema
+title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
+url_code: https://github.com/laurentperrinet/2020-01-20_atelier_sciences_cinema/
+url_pdf: https://laurentperrinet.github.io/talk/2020-01-20-atelier-sciences-cinema
+url_slides: https://laurentperrinet.github.io/2020-01-20_atelier_sciences_cinema
 ---
 
 {{< tweet 1284791644240347138 >}}

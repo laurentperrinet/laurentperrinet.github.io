@@ -1,4 +1,3 @@
-
 ---
 abstract: As the state-of-the-art imaging technologies became more and more advanced,
   yielding scientific data at unprecedented detail and volume, the need to process
