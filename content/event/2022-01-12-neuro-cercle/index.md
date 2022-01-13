@@ -26,7 +26,10 @@ publication: '*Neurocercle : Découvrir les neurosciences à Grenoble*'
 publication_types:
 - '1'
 title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
-code: https://github.com/laurentperrinet/2022-01-12_NeuroCercle/
+url_code: https://github.com/laurentperrinet/2022-01-12_NeuroCercle/
 url_slides: https://laurentperrinet.github.io/2022-01-12_NeuroCercle
 ---
- * https://neurocercle.wordpress.com/2021/12/15/des-illusions-visuelles-aux-hallucinations-une-porte-sur-la-perception/
+
+
+> Nous aurons le plaisir d’échanger avec notre conférencier Laurent Perrinet et nous vous espérons nombreux. Pour situer le conférencier : https://laurentperrinet.github.io/2019-05_illusions-visuelles/
+> « C'est toujours fascinant de voir ou de revoir des illusions visuelles. C'est encore plus fascinant de plonger dans leurs explications. »
