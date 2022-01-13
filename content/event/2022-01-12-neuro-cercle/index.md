@@ -17,7 +17,7 @@ authors:
 - Laurent U Perrinet
 date: 2021-01-12 18:00:00
 event: 'Neurocercle : Découvrir les neurosciences à Grenoble'
-event_url: 'https://neurocercle.wordpress.com/'
+event_url: https://neurocercle.wordpress.com/
 featured: false
 location: 'Neurocercle : Découvrir les neurosciences à Grenoble'
 projects:
@@ -27,5 +27,6 @@ publication_types:
 - '1'
 title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
 code: https://github.com/laurentperrinet/2022-01-12_NeuroCercle/
-slides: https://laurentperrinet.github.io/2022-01-12_NeuroCercle
+url_slides: https://laurentperrinet.github.io/2022-01-12_NeuroCercle
 ---
+ * https://neurocercle.wordpress.com/2021/12/15/des-illusions-visuelles-aux-hallucinations-une-porte-sur-la-perception/
