@@ -19,7 +19,7 @@ date: 2022-01-12 10:00:00
 event: 'Neurocercle : Découvrir les neurosciences à Grenoble'
 event_url: https://neurocercle.wordpress.com/
 featured: false
-location: Vedène (France)
+location: Grenoble (France)
 projects:
 - tout-public
 publication: '*Neurocercle : Découvrir les neurosciences à Grenoble*'
