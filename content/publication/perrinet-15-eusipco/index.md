@@ -12,7 +12,7 @@ abstract: Oriented edges in images of natural scenes tend to be aligned in co-li
 authors:
 - Laurent U Perrinet
 - James A Bednar
-date: 2015-08-07
+date: 2015-08-13
 doi: 10.1109/EUSIPCO.2015.7362781
 featured: false
 grants:

@@ -15,11 +15,11 @@ abstract: Les illusions visuelles sont des créations d'artistes, de scientifiqu
   le monde qui nous entoure.
 authors:
 - Laurent U Perrinet
-date: 2021-01-12 18:00:00
+date: 2022-01-12 10:00:00
 event: 'Neurocercle : Découvrir les neurosciences à Grenoble'
-event_url: 'https://neurocercle.wordpress.com/'
+event_url: https://neurocercle.wordpress.com/
 featured: false
-location: 'Neurocercle : Découvrir les neurosciences à Grenoble'
+location: Grenoble (France)
 projects:
 - tout-public
 publication: '*Neurocercle : Découvrir les neurosciences à Grenoble*'
@@ -27,7 +27,7 @@ publication_types:
 - '1'
 title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
 url_code: https://github.com/laurentperrinet/2022-01-12_NeuroCercle/
-url_pdf: https://laurentperrinet.github.io/talk/2022-01-12_NeuroCercle
+url_pdf: https://laurentperrinet.github.io/talk/2022-01-12-neuro-cercle
 url_slides: https://laurentperrinet.github.io/2022-01-12_NeuroCercle
 ---
 

@@ -4,7 +4,7 @@ authors:
 - Laurent U Perrinet
 - Ad M Aertsen
 - Guillaume S Masson
-date: 2008-10-07
+date: 2008-10-13
 featured: false
 grants:
 - facets
