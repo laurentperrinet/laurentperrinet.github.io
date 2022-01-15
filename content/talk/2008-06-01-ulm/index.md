@@ -1,71 +1,50 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Decoding the population dynamics underlying ocular following response using
-  a probabilistic framework
-subtitle: ''
-summary: ''
+abstract: 'The machinery behind the visual perception of motion and the subsequent
+  sensorimotor transformation, such as in Ocular Following Response (OFR), is confronted
+  to uncertainties which are efficiently resolved in the primate''s visual system.
+  We may understand this response as an ideal observer in a probabilistic framework
+  by using Bayesian theory (Weiss et al., 2002) which we previously proved to be successfully
+  adapted to model the OFR for different levels of noise with full field gratings
+  or with disk of various sizes and the effect of a flickering surround (Perrinet
+  and Masson, 2007). More recent experiments of OFR have used disk gratings and bipartite
+  stimuli which are optimized to study the dynamics of center-surround integration.
+  We quantified two main characteristics of the global spatial integration of motion
+  from an intermediate map of possible local translation velocities: (i) a finite
+  optimal stimulus size for driving OFR, surrounded by an antagonistic modulation
+  and (ii) a direction selective suppressive effect of the surround on the contrast
+  gain control of the central stimuli (Barthelemy et al., 2006, 2007). Herein, we
+  extended in the dynamical domain the ideal observer model to simulate the spatial
+  integration of the different local motion cues within a probabilistic representation.
+  We present analytical results which show that the hypothesis of independence of
+  local measures can describe the initial segment of spatial integration of motion
+  signal. Within this framework, we successfully accounted for the dynamical contrast
+  gain control mechanisms observed in the behavioral data for center-surround stimuli.
+  However, another inhibitory mechanism had to be added to account for suppressive
+  effects of the surround. We explore here an hypothesis where this could be understood
+  as the effect of a recurrent integration of information in the velocity map.  F.
+  Barthelemy, L. U. Perrinet, E. Castet, and G. S. Masson. Dynamics of distributed
+  1D and 2D motion representations for short-latency ocular following. Vision Research,
+  48(4):501--22, feb 2007. doi: 10.1016/j.visres.2007.10.020.  F. V. Barthelemy, I.
+  Vanzetta, and G. S. Masson. Behavioral receptive field for ocular following in humans:
+  Dynamics of spatial summation and center-surround interactions. Journal of Neurophysiology,
+  (95):3712--26, Mar 2006. doi: 10.1152/jn.00112.2006.  L. U. Perrinet and G. S. Masson.
+  Modeling spatial integration in the ocular following response using a probabilistic
+  framework. Journal of Physiology (Paris), 2007. doi: 10.1016/j.jphysparis.2007.10.011.  Y.
+  Weiss, E. P. Simoncelli, and E. H. Adelson. Motion illusions as optimal percepts.
+  Nature Neuroscience, 5(6):598--604, Jun 2002. doi: 10.1038/nn858.'
 authors:
 - Laurent U Perrinet
 - Guillaume S Masson
-tags: []
-categories: []
-date: '2008-01-01'
-lastmod: 2021-10-12T12:44:35+02:00
+date: 2008-06-01
 featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+grants:
+- facets
 projects: []
-publishDate: '2021-10-12T10:44:35.443799Z'
-publication_types:
-- '1'
-abstract: "The machinery behind the visual perception of motion and the subsequent\
-  \ sensorimotor transformation, such as in Ocular Following Response (OFR), is confronted\
-  \ to uncertainties which are efficiently resolved in the primate's visual system.\
-  \ We may understand this response as an ideal observer in a probabilistic framework\
-  \ by using Bayesian theory (Weiss et al., 2002) which we previously proved to be\
-  \ successfully adapted to model the OFR for different levels of noise with full\
-  \ field gratings or with disk of various sizes and the effect of a flickering surround\
-  \ (Perrinet and Masson, 2007). More recent experiments of OFR have used disk gratings\
-  \ and bipartite stimuli which are optimized to study the dynamics of center-surround\
-  \ integration. We quantified two main characteristics of the global spatial integration\
-  \ of motion from an intermediate map of possible local translation velocities: (i)\
-  \ a finite optimal stimulus size for driving OFR, surrounded by an antagonistic\
-  \ modulation and (ii) a direction selective suppressive effect of the surround on\
-  \ the contrast gain control of the central stimuli (Barthelemy et al., 2006, 2007).\
-  \ Herein, we extended in the dynamical domain the ideal observer model to simulate\
-  \ the spatial integration of the different local motion cues within a probabilistic\
-  \ representation. We present analytical results which show that the hypothesis of\
-  \ independence of local measures can describe the initial segment of spatial integration\
-  \ of motion signal. Within this framework, we successfully accounted for the dynamical\
-  \ contrast gain control mechanisms observed in the behavioral data for center-surround\
-  \ stimuli. However, another inhibitory mechanism had to be added to account for\
-  \ suppressive effects of the surround. We explore here an hypothesis where this\
-  \ could be understood as the effect of a recurrent integration of information in\
-  \ the velocity map.  F. Barthelemy, L. U. Perrinet, E. Castet, and G. S. Masson.\
-  \ Dynamics of distributed 1D and 2D motion representations for short-latency ocular\
-  \ following. Vision Research, 48(4):501--22, feb 2007. doi: 10.1016/j.visres.2007.10.020.\
-  \  F. V. Barthelemy, I. Vanzetta, and G. S. Masson. Behavioral receptive field for\
-  \ ocular following in humans: Dynamics of spatial summation and center-surround\
-  \ interactions. Journal of Neurophysiology, (95):3712--26, Mar 2006. doi: 10.1152/jn.00112.2006.\
-  \  L. U. Perrinet and G. S. Masson. Modeling spatial integration in the ocular following\
-  \ response using a probabilistic framework. Journal of Physiology (Paris), 2007.\
-  \ doi: 10.1016/j.jphysparis.2007.10.011.  Y. Weiss, E. P. Simoncelli, and E. H.\
-  \ Adelson. Motion illusions as optimal percepts. Nature Neuroscience, 5(6):598--604,\
-  \ Jun 2002. doi: 10.1038/nn858."
 publication: ''
+title: Decoding the population dynamics underlying ocular following response using
+  a probabilistic framework
 url_pdf: https://laurentperrinet.github.io/talk/2008-06-01-ulm/
 ---
+
+* related publications  @ [FENS 2006]({{< ref "/publication/perrinet-06-fens/index.md" >}}),   @ [NeuroComp 2008]({{< ref "/publication/perrinet-08-neurocomp/index.md" >}}) and   @ [AREADNE 2008]({{< ref "/publication/perrinet-08-areadne/index.md" >}})
+* see this more recent talk @ [UCL, London]({{< ref "/talk/2012-01-12-vision-at-ucl/index.md" >}})

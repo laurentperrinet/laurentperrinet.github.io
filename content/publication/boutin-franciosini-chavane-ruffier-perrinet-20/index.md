@@ -59,4 +59,4 @@ In this study, we present an architecture that describes biological vision at bo
 Moreover, we demonstrate that feedback signals modulate neural activity to promote good continuity of contours. Finally, the same model can disambiguate images corrupted by noise. To the best of our knowledge, this is the first time that the same model describes the effect of recurrent and feedback modulations at both neural and representational levels.
 {{< figure src="https://journals.plos.org/ploscompbiol/article/figure/image?size=large&download=&id=10.1371/journal.pcbi.1008629.g010" width="80%" title="Fig 10. Effect of the feedback strength on noisy images from natural images database." >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}
-* presented during this [talk]({{< ref "/event/2019-03-25-hdr-robin-baures/index.md" >}}): {{< cite page="/talk/2019-03-25-hdr-robin-baures" view="4" >}}
+* presented during this [talk]({{< ref "/talk/2019-03-25-hdr-robin-baures/index.md" >}}): {{< cite page="/talk/2019-03-25-hdr-robin-baures" view="4" >}}

@@ -1,36 +1,18 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: The flash-lag effect as a motion-based predictive shift
-subtitle: ''
-summary: ''
 authors:
 - Laurent U Perrinet
-tags: []
-categories: []
-date: '2016-01-01'
-lastmod: 2021-10-12T12:44:40+02:00
+date: 2016-11-03 13:00:00
+event: 'Workshop SIGMA''2016: Signal, Image, Geometry, Modelling, Approximation'
 featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+grants:
+- pace-itn
+location: CIRM
 projects: []
-publishDate: '2021-10-12T10:44:40.393312Z'
-publication_types:
-- '1'
-abstract: ''
-publication: "*Workshop SIGMA'2016: Signal, Image, Geometry, Modelling, Approximation*"
+publication: '*Workshop SIGMA''2016: Signal, Image, Geometry, Modelling, Approximation*'
+title: The flash-lag effect as a motion-based predictive shift
 url_pdf: https://laurentperrinet.github.io/talk/2016-11-03-sigma/
+url_slides: https://laurentperrinet.github.io/sciblog/files/2016-11-03_SIGMA.html
 ---
+
+* Based on [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}}) and [Khoei et al, 2013]({{< ref "/publication/khoei-13-jpp" >}})
+* See a followup in [Khoei et al, 2017]({{< ref "/publication/khoei-masson-perrinet-17" >}})

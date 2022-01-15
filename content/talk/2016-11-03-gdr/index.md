@@ -1,39 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Reinforcement contingencies modulate anticipatory smooth eye movements
-subtitle: ''
-summary: ''
-authors:
-- Jean-Bernard Damasse
-- Laurent U Perrinet
-- Jeremie Jozefowiez
-- Laurent Madelain
-- Anna Montagnini
-tags: []
-categories: []
-date: '2016-01-01'
-lastmod: 2021-10-12T12:44:40+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-10-12T10:44:40.241925Z'
-publication_types:
-- '1'
 abstract: Natural environments potentially contain several interesting targets for
   goal-directed behavior. Thus sensorimotor systems need to operate a competitive
   selection based on behaviorally meaningful parameters. Recently, it has been observed
@@ -57,6 +22,20 @@ abstract: Natural environments potentially contain several interesting targets f
   to behavior. An additional classical conditioning paradigm confirmed that reinforcement
   contingencies have to be operant to be effective and that they have a role in solving
   the credit assignment problem during aSPEM.
+authors:
+- Jean-Bernard Damasse
+- Laurent U Perrinet
+- Jeremie Jozefowiez
+- Laurent Madelain
+- Anna Montagnini
+date: 2016-11-03
+event: GDR Vision, Toulouse, Nov 3rd, 2016
+featured: false
+grants:
+- anr-rem
+- pace-itn
+projects: []
 publication: '*GDR Vision, Toulouse, Nov 3rd, 2016*'
+title: Reinforcement contingencies modulate anticipatory smooth eye movements
 url_pdf: https://laurentperrinet.github.io/talk/2016-11-03-gdr/
 ---

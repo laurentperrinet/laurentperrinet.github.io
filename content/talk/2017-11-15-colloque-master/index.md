@@ -1,40 +1,24 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: What dynamic neural codes for efficient visual processing
-subtitle: ''
-summary: ''
-authors:
-- Laurent U Perrinet
-tags: []
-categories: []
-date: '2017-01-01'
-lastmod: 2021-10-12T12:44:41+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-10-12T10:44:41.425484Z'
-publication_types:
-- '1'
 abstract: This seminar is an exercise to introduce the AMU masters into the format
   of international conferences. As such, we will try to introduce new concepts and
   results which will not be found in textbooks.
-publication: "*Colloque : \\\"CODAGES ET REPRESENTATIONS\\\", MASTER DE NEUROSCIENCES\
-  \ 2ème année; Comité d'organisation: Francesca SARGOLINI, Christian Bénar, Paolo\
-  \ GUBELLINI, Christian GESTREAU*"
+authors:
+- Laurent U Perrinet
+date: 2017-11-15 13:00:00
+event: 'Colloque : \"CODAGES ET REPRESENTATIONS\", MASTER DE NEUROSCIENCES 2ème année;
+  Comité d''organisation: Francesca SARGOLINI, Christian Bénar, Paolo GUBELLINI, Christian
+  GESTREAU'
+featured: false
+location: Aix-Marseille Université, Campus Saint-Charles, Salle des voûtes
+publication: '*Colloque : "CODAGES ET REPRESENTATIONS", MASTER DE NEUROSCIENCES 2ème
+  année*'
+title: What dynamic neural codes for efficient visual processing
 url_pdf: https://laurentperrinet.github.io/talk/2017-11-15-colloque-master/
+url_slides: https://laurentperrinet.github.io/sciblog/files/2017-11-15_ColloqueMaster.html
 ---
+
+## References
+ - unsupervised learning : [Perrinet (2010)](https://laurentperrinet.github.io/publication/perrinet-10-shl/)
+ - [Biologically inspired computer vision](https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/)
+  - supervised learning : https://www.nature.com/articles/srep11400 ([more info](https://laurentperrinet.github.io/publication/perrinet-bednar-15/))
+  - dynamics: Khoei et al (2017) - http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005068 ( [more info](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/) )

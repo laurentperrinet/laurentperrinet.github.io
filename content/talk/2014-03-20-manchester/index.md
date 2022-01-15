@@ -1,39 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'WP5 - Demo 1.3 : Spiking model of motion-based prediction'
-subtitle: ''
-summary: ''
-authors:
-- Laurent U Perrinet
-- Bernhard A Kaplan
-- Mina A Khoei
-- Anders Lansner
-- Guillaume S Masson
-tags: []
-categories: []
-date: '2014-01-01'
-lastmod: 2021-10-12T12:44:38+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-10-12T10:44:38.743522Z'
-publication_types:
-- '1'
 abstract: The question how the visual system is able to create a coherent representation
   of a rapidly changing environment in the presence of neural delays is not fully
   resolved. In this paper we use an abstract probabilistic framework and a spiking
@@ -53,6 +18,23 @@ abstract: The question how the visual system is able to create a coherent repres
   data qualitatively. Most importantly, we highlight requirements for the development
   of a trajectory-dependent anticipatory response, and in particular the anisotropic
   nature of the diagonal motion extrapolation mechanism.
-publication: '*4th BrainScaleS Plenary meeting*'
+authors:
+- Laurent U Perrinet
+- Bernhard A Kaplan
+- Mina A Khoei
+- Anders Lansner
+- Guillaume S Masson
+date: 2014-03-20 13:00:00
+event: 4th BrainScaleS Plenary meeting
+event_url: https://brainscales.kip.uni-heidelberg.de/internal/jss/AttendMeeting?m=showAgenda&meetingID=45
+featured: false
+grants:
+- brain-scales
+location: Manchester (UK)
+projects:
+- open-science
+publication: '*4th BrainScaleS Plenary meeting - March 20th, 2014*'
+title: 'WP5 - Demo 1.3 : Spiking model of motion-based prediction'
 url_pdf: https://laurentperrinet.github.io/talk/2014-03-20-manchester/
+url_slides: 14-03-20_BK_LP_MK_handout.pdf
 ---

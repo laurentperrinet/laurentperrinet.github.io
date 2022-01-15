@@ -1,36 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Should I stay or should I go? Humans adapt to the volatility of visual motion
-  properties, and know about it
-subtitle: ''
-summary: ''
-authors:
-- Laurent U Perrinet
-tags: []
-categories: []
-date: '2019-05-23'
-lastmod: 2021-10-12T12:44:44+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-10-12T10:44:44.082808Z'
-publication_types:
-- '1'
 abstract: Animal behavior must constantly adapt to changes, for example when the state
   of an environmental context changes unexpectedly. For an agent that interacts with
   this volatile setting, it is important to react accurately and as quickly as possible.
@@ -50,6 +18,30 @@ abstract: Animal behavior must constantly adapt to changes, for example when the
   effectively represent an internal belief, and use this representation in their sensory-motor
   control system and for explicit judgments. This work offers an innovative approach
   to more generically test human cognitive abilities in uncertain and dynamic environments.
-publication: '*Colloque international de la Société Française des Neurosciences 2019*'
+authors:
+- Laurent U Perrinet
+date: 2019-05-23 01:30:00
+event: Colloque international de la Société Française des Neurosciences 2019
+featured: false
+grants:
+- pace-itn
+location: Marseille (France)
+projects: []
+publication: '*Probabilities and Optimal Inference to Understand the Brain, INT, Marseille
+  (France)*'
+title: Should I stay or should I go? Humans adapt to the volatility of visual motion
+  properties, and know about it
+url_code: https://github.com/invibe/2019-05-23_Neurofrance/
 url_pdf: https://laurentperrinet.github.io/talk/2019-05-23-neurofrance
+url_slides: https://invibe.github.io/2019-05-23_Neurofrance
 ---
+
+* See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}
+* This is part of the [Active Inference symposium]({{< ref "/post/2019-05-23-neurofrance/index.md" >}}) @ [NeuroFrance](https://www.neurosciences.asso.fr/V2/colloques/SN19/) SYMPOSIUM, Room 7
+23.05.2019, 11:00 -- 13:00
+* in french: Principes et psychophysique de l´Inférence Active dans l'estimation d'un biais dynamique et volatile de probabilité
+* previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})
+* previous talk @ [INVIBE FEST, Paris]({{< ref "/talk/2018-02-01-bcp-invibe-fest/index.md" >}})
+* previous talk @ [Brain workshop, Marseille]({{< ref "/talk/2018-04-05-bcp-talk/index.md" >}})
+* previous talk @ [LACONEU, Chile]({{< ref "/talk/2019-01-18-laconeu/index.md" >}})
+* previous talk @ [CAUSAL Kick-off, Marseille]({{< ref "/talk/2019-04-05-bbcp-causal-kickoff/index.md" >}})

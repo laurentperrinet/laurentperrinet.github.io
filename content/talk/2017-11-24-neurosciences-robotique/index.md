@@ -1,39 +1,21 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Unsupervised learning applied to robotic vision
-subtitle: ''
-summary: ''
 authors:
 - Victor Boutin
 - Franck Ruffier
 - Laurent U Perrinet
-tags:
-- '"sparse coding"'
-categories: []
-date: '2017-01-01'
-lastmod: 2021-10-12T12:44:41+02:00
+date: 2017-11-24 13:00:00
+event: Journee du GT 8 (Neurosciences - Robotique)
+event_url: http://www.isir.upmc.fr/index.php?op=view_page&id=1463&menuid=17
 featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+grants:
+- doc-2-amu
+location: IMERA (Aix-Marseille Université)
 projects: []
-publishDate: '2021-10-12T10:44:41.725744Z'
-publication_types:
-- '1'
-abstract: ''
-publication: ''
+publication: '*Journee du GT 8 (Neurosciences - Robotique)*'
+tags:
+- sparse coding
+title: Unsupervised learning applied to robotic vision
+url_code: ''
 url_pdf: https://laurentperrinet.github.io/talk/2017-11-24-neurosciences-robotique/
+url_slides: ''
 ---

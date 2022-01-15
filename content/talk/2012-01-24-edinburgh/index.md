@@ -1,38 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'Edge statistics in natural images versus laboratory animal environments: implications
-  for understanding lateral connectivity in V1'
-subtitle: ''
-summary: ''
-authors:
-- Laurent U Perrinet
-- David Fitzpatrick
-- James A Bednar
-tags: []
-categories: []
-date: '2012-01-01'
-lastmod: 2021-10-12T12:44:37+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-10-12T10:44:37.373684Z'
-publication_types:
-- '1'
 abstract: Oriented edges in images of natural scenes tend to be aligned in collinear
   or co-circular arrangements, with lines and smooth curves more common than other
   possible arrangements of edges (Geisler et al., Vis Res 41:711-24, 2001). The visual
@@ -65,6 +31,23 @@ abstract: Oriented edges in images of natural scenes tend to be aligned in colli
   those measured by Bosking et al. (1997), with shorter-range correlations and less
   emphasis on collinear continuations. This prediction can be tested in future experiments
   on matching groups of animals reared in different environments.
-publication: '*A seminar from the Institute for Adaptive and Neural Computation (ANC)*'
+authors:
+- Laurent U Perrinet
+- David Fitzpatrick
+- James A Bednar
+date: 2012-01-24 13:00:00
+event: A seminar from the Institute for Adaptive and Neural Computation (ANC)
+event_url: http://www.anc.ed.ac.uk/events/anc-dtc-seminar-laurent-perrinet
+featured: false
+grants:
+- brain-scales
+location: Room IF 4.31/4.33, Institute for Adaptive and Neural Computation (ANC) at
+  the University of Edinburgh
+projects: []
+publication: '*A  seminar from the Institute for Adaptive and Neural Computation (ANC)*'
+title: 'Edge statistics in natural images versus laboratory animal environments: implications
+  for understanding lateral connectivity in V1'
 url_pdf: https://laurentperrinet.github.io/talk/2012-01-24-edinburgh/
 ---
+
+* See a followup in {{< cite page="/publication/perrinet-bednar-15" view="4" >}}

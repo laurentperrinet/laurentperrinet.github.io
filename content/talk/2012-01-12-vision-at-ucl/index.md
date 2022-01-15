@@ -1,41 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Motion-based prediction is sufficient to solve the aperture problem
-subtitle: ''
-summary: ''
-authors:
-- Laurent U Perrinet
-tags:
-- '"Bayesian model"'
-- '"center-surround interactions"'
-- '"dynamics"'
-- '"eye movements"'
-- '"motion detection"'
-- '"motion prediction"'
-categories: []
-date: '2012-01-01'
-lastmod: 2021-10-12T12:44:37+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-10-12T10:44:37.225794Z'
-publication_types:
-- '1'
 abstract: 'In low-level sensory systems, it is still unclear how the noisy information
   collected locally by neurons may give rise to a coherent global percept. This is
   well demonstrated for the detection of motion in the aperture problem: as luminance
@@ -53,6 +16,25 @@ abstract: 'In low-level sensory systems, it is still unclear how the noisy infor
   that motion-based predictive coding, as it is  implemented in this functional model,
   is sufficient to solve the aperture problem. This simpler solution may give insights
   in the role of prediction underlying a large class of sensory computations.'
-publication: '*Vision@UCL seminar*'
+authors:
+- Laurent U Perrinet
+date: 2012-01-12 17:00:00
+event: Vision@UCL seminar
+featured: false
+grants:
+- brain-scales
+location: Malet Place Eng Bldg 1.03 (first floor).
+projects: []
+publication: '*Vision@UCL seminar - Thursday, 12th January, 5pm*'
+tags:
+- Bayesian model
+- center-surround interactions
+- dynamics
+- eye movements
+- motion detection
+- motion prediction
+title: Motion-based prediction is sufficient to solve the aperture problem
 url_pdf: https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/
 ---
+
+* See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

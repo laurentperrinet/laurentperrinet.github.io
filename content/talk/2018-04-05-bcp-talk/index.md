@@ -1,39 +1,28 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Principles and psychophysics of Active Inference in anticipating a dynamic,
-  switching probabilistic bias
-subtitle: ''
-summary: ''
 authors:
 - Laurent U Perrinet
 - Chloé Pasturel
 - Anna Montagnini
-tags: []
-categories: []
-date: '2018-01-01'
-lastmod: 2021-10-12T12:44:42+02:00
+date: 2018-04-05 14:00:00
+event: Probabilities and Optimal Inference to Understand the Brain
+event_url: https://laurentperrinet.github.io/post/2018-04-05_optimal-inference-brain-workshop/
 featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+grants:
+- pace-itn
+location: INT, Marseille (France)
 projects: []
-publishDate: '2021-10-12T10:44:42.317347Z'
-publication_types:
-- '1'
-abstract: ''
-publication: '*Probabilities and Optimal Inference to Understand the Brain*'
+publication: '*Probabilities and Optimal Inference to Understand the Brain, INT, Marseille
+  (France)*'
+title: Principles and psychophysics of Active Inference in anticipating a dynamic,
+  switching probabilistic bias
+url_code: https://github.com/laurentperrinet/2018-04-05_BCP_talk/
 url_pdf: https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/
+url_slides: https://laurentperrinet.github.io/2018-04-05_BCP_talk/
 ---
+
+* See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}
+* previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})
+* previous talk @ [INVIBE FEST, Paris]({{< ref "/talk/2018-02-01-bcp-invibe-fest/index.md" >}})
+* next talk @ [LACONEU, Chile]({{< ref "/talk/2019-01-18-laconeu/index.md" >}})
+* next talk @ [CAUSAL Kick-off, Marseille]({{< ref "/talk/2019-04-05-bbcp-causal-kickoff/index.md" >}})
+* next talk @ [NeuroFrance, Marseille]({{< ref "/talk/2019-05-23-neurofrance/index.md" >}})

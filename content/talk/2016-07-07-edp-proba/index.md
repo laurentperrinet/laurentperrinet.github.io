@@ -1,37 +1,21 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'Modelling the dynamics of cognitive processes: from the Bayesian brain to
-  particles'
-subtitle: ''
-summary: ''
 authors:
 - Laurent U Perrinet
-tags: []
-categories: []
-date: '2016-01-01'
-lastmod: 2021-10-12T12:44:39+02:00
+date: 2016-07-07 13:00:00
+event: 'Summer School: PDE and Probability for Life Sciences'
+event_url: http://scientific-events.weebly.com/prog-1426.html
 featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+grants:
+- anr-bala-v1
+- brain-scales
+location: CIRM, Marseille
 projects: []
-publishDate: '2021-10-12T10:44:39.633152Z'
-publication_types:
-- '1'
-abstract: ''
-publication: '*Summer School: PDE and Probability for Life Sciences*'
+publication: '*Summer School: PDE and Probability for Life Sciences @ CIRM, Marseille
+  - http://scientific-events.weebly.com/prog-1426.html - CIRM, July 7th, 2016*'
+title: 'Modelling the dynamics of cognitive processes: from the Bayesian brain to
+  particles'
 url_pdf: https://laurentperrinet.github.io/talk/2016-07-07-edp-proba/
+url_slides: https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba
 ---
+
+* See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

@@ -1,38 +1,36 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Expériences autour de la perception de la forme en art et science
-subtitle: ''
-summary: ''
 authors:
 - Laurent U Perrinet
 - Etienne Rey
-tags:
-- '"Biologically Inspired Computer vision"'
-categories: []
-date: '2018-01-01'
-lastmod: 2021-10-12T12:44:42+02:00
+date: 2018-01-25 18:30:00
+event: Meetup Art et Neurosciences, Association NeuroNautes
+event_url: https://www.facebook.com/events/211121069456116/
 featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-10-12T10:44:41.876088Z'
-publication_types:
-- '1'
-abstract: ''
-publication: '*Meetup Art et Neurosciences, Association NeuroNautes*'
+location: Salle des voutes campus Saint Charles
+projects:
+- art-science
+- tout-public
+publication: '*Meetup Art et Neurosciences*'
+tags:
+- Biologically Inspired Computer vision
+title: Expériences autour de la perception de la forme en art et science
 url_pdf: https://laurentperrinet.github.io/talk/2018-01-25-meetup-neuronautes/
+url_slides: https://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.html
 ---
+
+# Meetup Art et Neurosciences
+  - Quoi  
+    Meetup Art et Neurosciences
+  - Qui  
+    [Association
+    NeuroNautes](https://www.facebook.com/events/211121069456116/)
+  - Quand  
+    25 Janvier 2018
+  - Où  
+    Salle des voutes campus Saint Charles
+  - Support visuel  
+    <https://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.html>
+    (notes: la présentation peut mettre un certain temps
+    à charger. Une fois que le titre apparait, appuyer sur la touche "F"
+    pour mettre en plein écran)
+![Elasticité](http://www.lafriche.org/public_data/diapo/resident/1454686884/desk/2._elasticite_dynamique-etienne_rey-photoquentin_chevrier_pour_art2m_et_arcadi_ile_de_france.jpg  "Elasticité dynamique est composée des pièces Expansion, Trame et Lignes sonores. Volume hexagonal en miroir de 7 mètres de diamètre, Expansion fonctionne comme une chambre d'écho. A l'intérieur de ce volume se situe Trame. Constituée de 25 lames de miroir en rotation, cette pièce réoriente continuellement le regard. Quant à Lignes sonores, elle est formée de quatre monolithes orientés vers Expansion et émet des sons qui se réorientent en fonction du mouvement des lames. (© Etienne Rey, Adagp Paris")

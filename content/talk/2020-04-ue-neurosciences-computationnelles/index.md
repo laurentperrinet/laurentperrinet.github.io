@@ -1,35 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'From the retina to action: Understanding visual processing'
-subtitle: ''
-summary: ''
-authors:
-- Laurent U Perrinet
-tags: []
-categories: []
-date: '2020-04-03'
-lastmod: 2021-10-12T12:44:44+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-10-12T10:44:44.544419Z'
-publication_types:
-- '1'
 abstract: Visual areas are essential in transforming the raw luminous signal into
   a representation which efficiently conveys information about the environment. This
   process is constrained by various factors such as a wide variety of changes in the
@@ -42,5 +11,28 @@ abstract: Visual areas are essential in transforming the raw luminous signal int
   coding framework to offer a unified theory to explain many of the mechanisms at
   the different levels of the visual system and which were unveiled by decades of
   study in neurophysiology and psychophysics.
+authors:
+- Laurent U Perrinet
+date: 2020-04-03 16:00:00
+event: Master Neurosciences et Sciences Cognitives
+featured: false
+grants:
+- anr-horizontal-v1
+location: Marseille (France)
+projects:
+- courses
 publication: '*Master Neurosciences et Sciences Cognitives*'
+publication_types:
+- '1'
+title: 'From the retina to action: Understanding visual processing'
+url_code: https://github.com/laurentperrinet/2020-04_UE-neurosciences-computationnelles
+url_link: https://laurentperrinet.github.io/talk/2020-04-ue-neurosciences-computationnelles
+url_slides: https://laurentperrinet.github.io/2020-04_UE-neurosciences-computationnelles
 ---
+
+# 2020-04_UE-neurosciences-computationnelles, matériel pour le cours de modélisation
+* Où: Marseille (France)
+* Quoi: Master Neurosciences et Sciences Cognitives
+* But de ce travail: lire un article scientifique, pouvoir le reproduire avec des simulations d'un neurone et afin d'améliorer sa compréhension.
+* Modalités: les étudiants s'organisent seuls, en binome ou en trinome pour fournir un mémoire sous forme de [notebook](https://jupyter.org/) complété à partir [du modèle qui est fourni](https://raw.githubusercontent.com/laurentperrinet/2020-04_UE-neurosciences-computationnelles/master/MainenSejnowski1995.ipynb). Suivez les balises `TODO` dans le notebook pour vous guider dans cette rédaction. Les commentaires doivent être fait en français (ou en anglais si nécessaire) dans le notebook (n'oubliez-pas de sauver vos changements) et envoyé par e-mail à mailto:laurent.perrinet@univ-amu.fr une fois votre travail fini (de préférence avant le 31 avri).
+* Outils nécessaires: [Jupyter](https://jupyter.org/), avec [numpy](https://numpy.org/) et [matplotlib](https://matplotlib.org/). Ce sont des outils standard et qui sont facilement installables sur toute plateforme. Si vous avez des problèmes, me joindre par e-mail ou sur le [forum](https://spik.xyz/nc/index.php/call/xuswegwv) 👇

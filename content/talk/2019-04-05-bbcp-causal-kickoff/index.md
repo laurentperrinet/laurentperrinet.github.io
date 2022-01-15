@@ -1,36 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Should I stay or should I go? Adaption of human observers to the volatility
-  of visual inputs
-subtitle: ''
-summary: ''
-authors:
-- Laurent U Perrinet
-tags: []
-categories: []
-date: '2019-04-05'
-lastmod: 2021-10-12T12:44:43+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-10-12T10:44:43.791587Z'
-publication_types:
-- '1'
 abstract: Animal behavior has to constantly adapt to changes, for instance when unexpectedly
   switching the state of an environmental context. For an agent interacting with this
   kind of volatile environment, it is important to respond to such switches accurately
@@ -52,6 +20,28 @@ abstract: Animal behavior has to constantly adapt to changes, for instance when 
   use this representation for sensorimotor control as well as for explicit judgments.
   This work proposes a novel approach to more generically test human cognitive abilities
   in uncertain and dynamic environments.
+authors:
+- Laurent U Perrinet
+date: 2019-04-05 15:45:00
+event: CausaL Kick-off
+featured: false
+grants:
+- anr-causal
+location: INT, Marseille (France)
+projects: []
 publication: '*CausaL Kick-off*'
+publication_types:
+- '1'
+title: Should I stay or should I go? Adaption of human observers to the volatility
+  of visual inputs
+url_code: https://github.com/laurentperrinet/2019-04-05_BBCP_causal_kickoff/
 url_pdf: https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff
+url_slides: https://laurentperrinet.github.io/2019-04-05_BBCP_causal_kickoff
 ---
+
+* See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}
+* previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})
+* previous talk @ [INVIBE FEST, Paris]({{< ref "/talk/2018-02-01-bcp-invibe-fest/index.md" >}})
+* previous talk @ [Brain workshop, Marseille]({{< ref "/talk/2018-04-05-bcp-talk/index.md" >}})
+* previous talk @ [LACONEU, Chile]({{< ref "/talk/2019-01-18-laconeu/index.md" >}})
+* next talk @ [NeuroFrance, Marseille]({{< ref "/talk/2019-05-23-neurofrance/index.md" >}})

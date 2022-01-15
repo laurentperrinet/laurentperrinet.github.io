@@ -1,37 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'From the retina to action: Predictive processing in the visual system'
-subtitle: ''
-summary: ''
-authors:
-- Victor Boutin
-- Angelo Franciosini
-- Laurent U Perrinet
-tags: []
-categories: []
-date: '2019-03-25'
-lastmod: 2021-10-12T12:44:43+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-10-12T10:44:43.497120Z'
-publication_types:
-- '1'
 abstract: Visual areas are essential in transforming the raw luminous signal into
   a representation which efficiently conveys information about the environment. This
   process is constrained by various factors such as a wide variety of changes in the
@@ -43,6 +10,23 @@ abstract: Visual areas are essential in transforming the raw luminous signal int
   of visual objects. As such, the predictive coding coding framework offers a unified
   theory to explain many of the mechanisms at the different levels of the visual system
   and which were unveiled by decades of study in neurophysiology and psychophysics.
-publication: '*HDR Robin Baurès, Toulouse (France)*'
+all_day: false
+authors:
+- Victor Boutin
+- Angelo Franciosini
+- Laurent U Perrinet
+date: 2019-03-25 14:30:00
+event: HDR Robin Baurès, Toulouse (France)
+event_url: http://www.cerco.ups-tlse.fr/Robin-Baures
+grants:
+- anr-horizontal-v1
+location: Toulouse (France)
+projects: []
+title: 'From the retina to action: Predictive processing in the visual system'
+url_code: https://github.com/laurentperrinet/2019-03-25_HDR_RobinBaures/
 url_pdf: https://laurentperrinet.github.io/2019-03-25_HDR_RobinBaures
+url_slides: https://laurentperrinet.github.io/2019-03-25_HDR_RobinBaures
 ---
+
+* see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
+* more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

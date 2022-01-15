@@ -1,42 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'Learning where to look: a foveated visuomotor control model'
-subtitle: ''
-summary: ''
-authors:
-- Emmanuel Daucé
-- Pierre Albigès
-- Laurent U Perrinet
-tags:
-- '"Active Inference"'
-- '"Deep Learning"'
-- '"Object localization"'
-- '"Visual search"'
-- '"Visuomotor control"'
-categories: []
-date: '2019-01-01'
-lastmod: 2021-10-12T12:44:44+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-10-12T10:44:44.229609Z'
-publication_types:
-- '1'
 abstract: In computer vision, the visual search task consists in extracting a scarce
   and specific visual information (the target) from a large and crowded visual display.
   This task is usually implemented by scanning the different possible target identities
@@ -58,6 +20,34 @@ abstract: In computer vision, the visual search task consists in extracting a sc
   is preserved up to the action selection level, highlighting the advantages of bio-mimetic
   strategies with regards to traditional computer vision when computing resources
   are at stake.
+authors:
+- Emmanuel Daucé
+- Pierre Albigès
+- Laurent U Perrinet
+date: 2019-07-15 12:20:00
+event: 'Annual Computational Neuroscience Meeting: CNS*2019 Barcelona, Spain'
+featured: false
+grants:
+- spikeai
+projects: []
 publication: '*CNS*2019 Barcelona, Spain*'
+publication_types:
+- '1'
+tags:
+- Active Inference
+- Deep Learning
+- Object localization
+- Visual search
+- Visuomotor control
+title: 'Learning where to look: a foveated visuomotor control model'
+url_code: https://github.com/SpikeAI/2019-07-15_CNS/
 url_pdf: https://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-019-0538-0#Sec73
+url_slides: https://SpikeAI.github.io/2019-07-15_CNS
 ---
+
+ - download a [preliminary PDF](https://laurentperrinet.github.io/talk/2019-07-15-cns/2019-07-15-cns.pdf)
+ {{< tweet 1150713758643380226 >}}
+{{< figure src="https://raw.githubusercontent.com/SpikeAI/2019-07-15_CNS/master/figures/fig_intro.jpg" title="Problem setting: In generic, ecological settings, the visual system faces a tricky problem when searching for one target (from a class of targets) in a cluttered environment. **A)** It is synthesized in the following experiment: After a fixation period of 200 ms, an observer is presented with a luminous display  showing a single target from a known class (here digits) and at a random position. The display is presented for a short period of 500 ms (light shaded area in B), that is enough to perform at most one saccade (here, successful) on the potential target. Finally, the observer has to identify the digit by a keypress. **B)** Prototypical trace of a saccadic eye movement to the target position. In particular, we show the fixation window and the temporal window during which a saccade is possible (green shaded area). **C)** Simulated reconstruction of the visual information from the (interoceptive) retinotopic map at the onset of the display and after a saccade, the dashed red box indicating the visual area of the ``what'' pathway. In contrast to an exteroceptive representation (see A), this demonstrates that the position of the target has to be inferred from a degraded (sampled) image. In particular, the configuration of the display is such that by adding clutter and reducing the size of the digit, it may become necessary to perform a saccade to be able to identify the digit. The computational pathway mediating the action has to infer the location of the target \emph{before seeing it}, that is, before being able to actually identify the target's category from a central fixation. " >}}
+{{< figure src="https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-20.png" title="Results: success" >}}
+{{< figure src="https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-32.png" title="Results: failure to classify" >}}
+{{< figure src="https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-47.png" title="Results: failure to locate" >}}

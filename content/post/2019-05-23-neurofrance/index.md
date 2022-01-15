@@ -49,7 +49,7 @@ Adaptive behaviour includes the ability to choose actions that result in advanta
 ### [S17.3](https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/1399) 	Principles and psychophysics of active inference in anticipating a dynamic, switching probabilistic bias / Principes et psychophysique de l'inférence active dans l´estimation d'un biais dynamique et volatile de probabilité
 
 * L. Perrinet (Marseille)
-* see more info on this [talk]({{< ref "/event/2019-05-23-neurofrance/index.md" >}})
+* see more info on this [talk]({{< ref "/talk/2019-05-23-neurofrance/index.md" >}})
 
 
 ### [S17.4](https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/1400) 	Is laziness contagious? A computational approach to attitude alignment / La fainéantise est-elle contagieuse? Une approche computationnelle de l´alignement des attitudes

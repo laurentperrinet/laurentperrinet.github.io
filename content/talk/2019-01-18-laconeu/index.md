@@ -1,37 +1,25 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Should I stay or should I go? Adaption of human observers to the volatility
-  of visual inputs
-subtitle: ''
-summary: ''
 authors:
 - Laurent U Perrinet
-tags: []
-categories: []
-date: '2019-01-01'
-lastmod: 2021-10-12T12:44:43+02:00
+date: 2019-01-18 10:45:00
+event: 'LACONEU 2019: 5th Latin-American Summer School in Computational Neuroscience'
+event_url: http://www.laconeu.cl
 featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+grants:
+- anr-horizontal-v1
+location: Valparaiso (Chile)
 projects: []
-publishDate: '2021-10-12T10:44:43.351904Z'
-publication_types:
-- '1'
-abstract: ''
-publication: '*LACONEU 2019: 5th Latin-American Summer School in Computational Neuroscience*'
+publication: '*LACONEU 2019: 5th Latin-American Summer School in Computational Neuroscience,
+  Valparaiso (Chile)*'
+title: Should I stay or should I go? Adaption of human observers to the volatility
+  of visual inputs
+url_code: https://github.com/laurentperrinet/2019-01-18_LACONEU/
 url_pdf: https://laurentperrinet.github.io/talk/2019-01-18-laconeu/
+url_slides: https://laurentperrinet.github.io/2019-01-18_LACONEU/
 ---
+
+* See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}
+* previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})
+* previous talk @ [INVIBE FEST, Paris]({{< ref "/talk/2018-02-01-bcp-invibe-fest/index.md" >}})
+* previous talk @ [Brain workshop, Marseille]({{< ref "/talk/2018-04-05-bcp-talk/index.md" >}})
+* next talk @ [CAUSAL Kick-off, Marseille]({{< ref "/talk/2019-04-05-bbcp-causal-kickoff/index.md" >}})

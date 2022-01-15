@@ -1,35 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
-subtitle: ''
-summary: ''
-authors:
-- Laurent U Perrinet
-tags: []
-categories: []
-date: '2019-01-01'
-lastmod: 2021-10-12T12:44:44+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-10-12T10:44:43.938523Z'
-publication_types:
-- '1'
 abstract: Les illusions visuelles sont des créations d'artistes, de scientifiques
   et plus récemment, grâce aux réseaux sociaux, du grand public qui proposent des
   situations souvent incongrues, dans lesquelles l'eau remonte une cascade, les personnes
@@ -44,7 +13,35 @@ abstract: Les illusions visuelles sont des créations d'artistes, de scientifiqu
   perception visuelle sur les bases d'une théorie de la vision non pas comme une simple
   caméra qui enregistre des images mais comme un processus actif en relation avec
   le monde qui nous entoure.
-publication: '*JNLF 2019, Revue Neurologique, Volume 175, Supplement 1, Page S165*'
-url_pdf: https://laurentperrinet.github.io/talk/2019-04-18-jnlf
+abstract_short: 'Mieux comprendre la fonction de la perception visuelle en explorant
+  certaines limites; Mieux comprendre l''importance de l''aspect dynamique de la perception;
+  Mieux comprendre le rôle de l''action dans la perception. '
+all_day: false
+authors:
+- Laurent U Perrinet
+date: 2019-04-18 13:00:00
 doi: 10.1016/j.neurol.2019.01.031
+draft: false
+event: JNLF 2019, Revue Neurologique, Volume 175, Supplement 1, Page S165
+event_url: https://www.jnlf.fr/agenda/jnlf-lille-2019
+featured: false
+grants:
+- anr-horizontal-v1
+location: Lille, France
+math: true
+projects:
+- tout-public
+summary: 'Les objectifs sont : -- mieux comprendre la fonction de la perception visuelle
+  en explorant certaines limites ; -- mieux comprendre l''importance de l''aspect
+  dynamique de la perception ; -- mieux comprendre le rôle de l''action dans la perception.'
+tags: []
+title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
+url_code: https://github.com/laurentperrinet/2019-04-18_JNLF/
+url_pdf: https://laurentperrinet.github.io/talk/2019-04-18-jnlf
+url_preprint: https://www.em-consulte.com/e-tap/1283936/ftafhrsrftfxjyjaaumj
+url_slides: https://laurentperrinet.github.io/2019-04-18_JNLF
+url_video: https://www.youtube.com/watch?v=jJKTdlChefc
 ---
+
+* Le texte de cette présentation est reprise dans cet article de [The Conversation](https://laurentperrinet.github.io/publication/perrinet-19-temps/) ([lien direct](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567)).
+* Voir la @ [présentation au NeuroStories]({{< ref "/post/2019-10-07_neurostories/index.md" >}})

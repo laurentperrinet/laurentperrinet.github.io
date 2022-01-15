@@ -1,39 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Reading out the dynamics of lateral interactions in the primary visual cortex
-  from VSD data
-subtitle: ''
-summary: ''
-authors:
-- Laurent U Perrinet
-- Alexandre Reynaud
-- Frédéric Y Chavane
-- Guillaume S Masson
-tags: []
-categories: []
-date: '2009-01-01'
-lastmod: 2021-10-12T12:44:36+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-10-12T10:44:36.033762Z'
-publication_types:
-- '1'
 abstract: 'Short presentation of a large moving pattern elicits an ocular following
   response that exhibits many of the properties attributed to low-level motion processing
   such as spatial and temporal integration, contrast gain control and divisive interaction
@@ -55,7 +20,23 @@ abstract: 'Short presentation of a large moving pattern elicits an ocular follow
   non congruous with the central excitation information shunts the ocular response
   and how it is topographically represented in the cortical activity. Acknowledgement:
   European integrated project FACETS IST-15879.'
-publication: "*Macroscopic aspects of neuronal activity: ''Macroscopic models, LFP\
-  \ models and VSD models'' a FACETS workshop in Marseille, Nov. 30th /Dec. 1st*"
+authors:
+- Laurent U Perrinet
+- Alexandre Reynaud
+- Frédéric Y Chavane
+- Guillaume S Masson
+date: 2009-11-30
+event: 'Macroscopic aspects of neuronal activity: ''''Macroscopic models, LFP models
+  and VSD models'''' a FACETS workshop in Marseille, Nov. 30th /Dec. 1st'
+featured: false
+grants:
+- facets
+projects: []
+publication: '*Macroscopic aspects of neuronal activity: ''''Macroscopic models, LFP
+  models and VSD models'''' a FACETS workshop in Marseille, Nov. 30th /Dec. 1st*'
+title: Reading out the dynamics of lateral interactions in the primary visual cortex
+  from VSD data
 url_pdf: https://laurentperrinet.github.io/talk/2009-11-30-vss/
 ---
+
+* see this more recent poster @ [VSS]({{< ref "/publication/perrinet-09-vss/index.md" >}})

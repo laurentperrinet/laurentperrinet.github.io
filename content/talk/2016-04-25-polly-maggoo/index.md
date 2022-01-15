@@ -1,41 +1,39 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
-subtitle: ''
-summary: ''
-authors:
-- Laurent U Perrinet
-tags: []
-categories: []
-date: '2016-01-01'
-lastmod: 2021-10-12T12:44:39+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-10-12T10:44:39.342666Z'
-publication_types:
-- '1'
 abstract: Ce lundi 25 avril de 9h à 12h, je suis venu échanger au côté de Serge Dentin
   autour de films traitant du rapport fiction/réel, des illusion visuelles (\" Qu'est
   ce qu'une image? \"), des rapports d'échelles, de la perception, ... et qui sont
   projetés lors de la séance, avec des élèves de 4e lors d'une séance Cinésciences
   au collège Clair Soleil, 53 Boulevard Charles Moretti, 13014 Marseille. Une occasion
   aussi de parler du métier de chercheur.
-publication: '*Cinésciences, collège Clair Soleil (Marseille)*'
+authors:
+- Laurent U Perrinet
+date: 2016-04-25 09:00:00
+event: Cinésciences, collège Clair Soleil (Marseille)
+event_url: http://www.pollymaggoo.org/
+featured: false
+location: Marseille, France
+projects:
+- tout-public
+publication: '**'
+publication_types:
+- '1'
+title: Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
 url_pdf: https://laurentperrinet.github.io/sciblog/files/2016-04-25_pollymagoo/
 ---
+
+# Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
+## Cinésciences, collège Clair Soleil
+L'Association Polly Maggoo <http://www.pollymaggoo.org/> met en place
+tout le long de l’année, des actions de culture scientifique et
+artistique en direction des collèges et des lycées, les *Cinésciences*,
+au cours desquelles l'association programme des films à caractère
+scientifique, au sein d’établissements scolaires. Les projections se
+déroulent en présence de chercheurs et/ou de cinéastes dans la
+perspective d’un développement de la culture cinématographique et
+scientifique en direction des publics scolaires.
+  - Date  
+    25 Avril 2016
+  - Location  
+    collège Clair Soleil, Marseille
+  - Visuels  
+    [HTML](https://laurentperrinet.github.io/sciblog/files/2016-04-25_pollymagoo/)

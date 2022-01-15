@@ -1,36 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'From neural activity to behavior: computational neuroscience as a synthetic
-  approach for understanding the neural code.'
-subtitle: ''
-summary: ''
-authors:
-- Laurent U Perrinet
-tags: []
-categories: []
-date: '2008-01-01'
-lastmod: 2021-10-12T12:44:35+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-10-12T10:44:35.291498Z'
-publication_types:
-- '1'
 abstract: Computational Neuroscience is a synthetic, inter-disciplinary approach aiming
   at understanding cognition by analyzing the mechanisms underlying neural computations.
   We present in this seminar our attempt in modeling low-level vision by bridging
@@ -55,6 +23,16 @@ abstract: Computational Neuroscience is a synthetic, inter-disciplinary approach
   More generally, it proves that the use of a probabilistic representation is a particularly
   efficient method for bridging biological versus computational neuroscience and illustrates
   the advantage of such an interdisciplinary approach.
-publication: "*Séminaires de l'INCM, April 11th, 2008*"
+authors:
+- Laurent U Perrinet
+date: 2008-04-01
+event: Séminaires de l'INCM, April 11th, 2008
+featured: false
+grants:
+- facets
+projects: []
+publication: '*Séminaires de l''INCM, April 11th, 2008*'
+title: 'From neural activity to behavior: computational neuroscience as a synthetic
+  approach for understanding the neural code.'
 url_pdf: https://laurentperrinet.github.io/talk/2008-04-01-incm/
 ---

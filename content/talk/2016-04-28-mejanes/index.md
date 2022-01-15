@@ -1,35 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
-subtitle: ''
-summary: ''
-authors:
-- Laurent U Perrinet
-tags: []
-categories: []
-date: '2016-01-01'
-lastmod: 2021-10-12T12:44:39+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-10-12T10:44:39.488264Z'
-publication_types:
-- '1'
 abstract: Les illusions visuelles sont des créations d'artistes, de scientifiques
   et plus récemment, grâce aux réseaux sociaux, du grand public qui proposent des
   situations souvent incongrues, dans lesquelles l'eau remonte une cascade, les personnes
@@ -42,6 +11,30 @@ abstract: Les illusions visuelles sont des créations d'artistes, de scientifiqu
   de comprendre le fonctionnement de notre perception visuelle sur les bases d'une
   théorie de la vision non pas comme une simple caméra qui enregistre des images mais
   comme un processus actif en relation avec le monde qui nous entoure.
-publication: '*Cycle de conférences \"Tous connectés\", Bibliothèque de Méjanes*'
+authors:
+- Laurent U Perrinet
+date: 2016-04-28 18:30:00
+event: Cycle de conférences \"Tous connectés\", Bibliothèque de Méjanes
+event_url: ''
+featured: false
+grants:
+- tout-public
+location: Marseille, France
+projects:
+- tout-public
+publication: '**'
+publication_types:
+- '1'
+title: Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
 url_pdf: https://laurentperrinet.github.io/sciblog/files/2016-04-28_mejanes/
 ---
+
+# Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
+## Cycle de conférences "Tous connectés", Bibliothèque de Méjanes
+![conférence tout public à la Bibliothèque de Méjanes (Aix-en-Provence, Avril 2016)](featured.jpg)
+  - Date  
+    28 Avril 2016
+  - Location  
+    Bibliothèque de Méjanes
+  - Visuels  
+    [HTML](https://laurentperrinet.github.io/sciblog/files/2016-04-28_mejanes/)

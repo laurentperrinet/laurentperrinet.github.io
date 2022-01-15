@@ -1,35 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Motion-based prediction with neuromorphic hardware
-subtitle: ''
-summary: ''
-authors:
-- Laurent U Perrinet
-tags: []
-categories: []
-date: '2015-01-01'
-lastmod: 2021-10-12T12:44:39+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-10-12T10:44:39.191912Z'
-publication_types:
-- '1'
 abstract: 'We stand at a point in history where our phones have become smart but lack
   a feature which prevails in most forms of living intelligence: vision. The ability
   to see is indeed an essential facet of intelligence which is developed in an autonomous
@@ -39,6 +8,18 @@ abstract: 'We stand at a point in history where our phones have become smart but
   will demonstrate at different levels of description, from probabilistic models to
   neuromorphic hardware,  a surprising solution: The visual system models the world
   and uses the eye to probe this model'
-publication: '*Charla*'
+authors:
+- Laurent U Perrinet
+date: 2015-11-05 13:00:00
+event: Charla
+event_url: http://www.eventos.usm.cl/evento/charla-motion-based-prediction-with-neuromorphic-hardware/
+featured: false
+grants:
+- anr-bala-v1
+location: Universidad Tecnica Federico Santa Maria, Valparaiso (Chile)
+projects: []
+publication: '*Universidad Técnica Federico Santa María, Valparaíso, Chile, November
+  5th, 2015*'
+title: Motion-based prediction with neuromorphic hardware
 url_pdf: https://laurentperrinet.github.io/talk/2015-11-05-chile/
 ---

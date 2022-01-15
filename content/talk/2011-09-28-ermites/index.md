@@ -1,39 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'Edge statistics in natural images versus laboratory animal environments: implications
-  for understanding lateral connectivity in V1'
-subtitle: ''
-summary: ''
-authors:
-- Laurent U Perrinet
-- David Fitzpatrick
-- James A Bednar
-tags:
-- '"sparse coding"'
-categories: []
-date: '2011-01-01'
-lastmod: 2021-10-12T12:44:36+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-10-12T10:44:36.767615Z'
-publication_types:
-- '1'
 abstract: Oriented edges in images of natural scenes tend to be aligned in collinear
   or co-circular arrangements, with lines and smooth curves more common than other
   possible arrangements of edges (Geisler et al., Vis Res 41:711-24, 2001). The visual
@@ -66,6 +31,24 @@ abstract: Oriented edges in images of natural scenes tend to be aligned in colli
   those measured by Bosking et al. (1997), with shorter-range correlations and less
   emphasis on collinear continuations. This prediction can be tested in future experiments
   on matching groups of animals reared in different environments.
+authors:
+- Laurent U Perrinet
+- David Fitzpatrick
+- James A Bednar
+date: 2011-09-28 13:00:00
+event: Proceedings of SfN, 2011
+event_url: http://glotin.univ-tln.fr/ERMITES11/index.xhtml
+featured: false
+grants:
+- brain-scales
+location: Porquerolles la Perle des Iles d'Or - Var (France)
+projects: []
 publication: '*Proceedings of SfN, 2011*'
+tags:
+- sparse coding
+title: 'Edge statistics in natural images versus laboratory animal environments: implications
+  for understanding lateral connectivity in V1'
 url_pdf: https://laurentperrinet.github.io/talk/2011-09-28-ermites/
 ---
+
+* See a followup in {{< cite page="/publication/perrinet-bednar-15" view="4" >}}

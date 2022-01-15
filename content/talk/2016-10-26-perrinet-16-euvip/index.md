@@ -1,37 +1,17 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Biologically-inspired characterization of sparseness in natural images
-subtitle: ''
-summary: ''
 authors:
 - Laurent U Perrinet
-tags:
-- '"Biologically Inspired Computer vision"'
-categories: []
-date: '2016-01-01'
-lastmod: 2021-10-12T12:44:40+02:00
+date: 2016-10-26 13:00:00
+event: 'EUVIP Session 7: Biologically Inspired Computer Vision (Special Session)'
+event_url: https://laurentperrinet.github.io/post/2016-10-26_euvip-bicv/
 featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-10-12T10:44:40.092737Z'
-publication_types:
-- '1'
-abstract: ''
-publication: '*EUVIP Session 7: Biologically Inspired Computer Vision (Special Session)*'
+location: Ecole Centrale Marseille
+publication: '*EUVIP (Special Session): Biologically Inspired Computer Vision - October
+  16th, 2016*'
+tags:
+- Biologically Inspired Computer vision
+title: Biologically-inspired characterization of sparseness in natural images
+url_code: https://hal-amu.archives-ouvertes.fr/hal-01461404
 url_pdf: https://laurentperrinet.github.io/publication/perrinet-16-euvip/
+url_slides: https://laurentperrinet.github.io/sciblog/files/2016-10-26_Perrinet16EUVIP_talk.html
 ---

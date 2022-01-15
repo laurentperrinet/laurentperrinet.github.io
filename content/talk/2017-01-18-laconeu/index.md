@@ -1,37 +1,19 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'Back to the present: how neurons deal with delays'
-subtitle: ''
-summary: ''
 authors:
 - Laurent U Perrinet
-tags: []
-categories: []
-date: '2017-01-01'
-lastmod: 2021-10-12T12:44:40+02:00
+date: 2017-01-18 09:00:00
+event: Workshop on Computational Neuroscience \"New trends and challenges for 2030\"
+event_url: http://cinv.uv.cl/laconeu-workshop
 featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+grants:
+- anr-trajectory
+location: Valparaiso (Chile)
 projects: []
-publishDate: '2021-10-12T10:44:40.687569Z'
-publication_types:
-- '1'
-abstract: ''
-publication: '*Workshop on Computational Neuroscience \"New trends and challenges
-  for 2030\"*'
+publication: '*Workshop on Computational Neuroscience entitled "New trends and challenges
+  for 2030"*'
+title: 'Back to the present: how neurons deal with delays'
 url_pdf: https://laurentperrinet.github.io/talk/2017-01-18-laconeu/
+url_slides: https://laurentperrinet.github.io/sciblog/files/2017-01-18_LACONEU.html
 ---
+
+![Chile](http://laconeu.cl/wp-content/uploads/2018/04/Valparaiso-3.jpg)
