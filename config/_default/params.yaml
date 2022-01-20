@@ -179,7 +179,7 @@ map:
   provider: mapnik
   api_key: ''
   zoom: 10
-# marketing:
+# marketing: # HACK
 #   google_analytics: UA-140381649-1
 #   google_tag_manager: ''
 #   google_site_verification: ''
