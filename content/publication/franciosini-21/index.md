@@ -3,7 +3,7 @@ abstract: Neurons in the primary visual cortex are selective to orientation with
   degrees of selectivity to the spatial phase, from high selectivity in simple cells
   to low selectivity in complex cells. Various computational models have suggested
   a possible link between the presence of phase invariant cells and the existence
-  of cortical orientation maps in higher mammals’ V1. These models, however, do not
+  of cortical orientation maps in higher mammals' V1. These models, however, do not
   explain the emergence of complex cells in animals that do not show orientation maps.
   In this study, we build a model of V1 based on a convolutional network called Sparse
   Deep Predictive Coding (SDPC) and show that a single computational mechanism, pooling,

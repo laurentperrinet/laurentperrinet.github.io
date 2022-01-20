@@ -6,6 +6,8 @@ authors:
 - Gabriel Peyré
 date: 2015-01-01
 featured: false
+grants:
+- anr-trajectory
 projects:
 - motion-clouds
 publication: '*ICMS 2015 conference*'

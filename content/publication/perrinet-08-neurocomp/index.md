@@ -2,8 +2,10 @@
 authors:
 - Laurent U Perrinet
 - Emmanuel Daucé
-date: 2008-10-13
+date: 2008-10-20
 featured: false
+grants:
+- facets-itn
 publication: '*Proceedings of NeuroComp08, Marseille*'
 publication_types:
 - '5'

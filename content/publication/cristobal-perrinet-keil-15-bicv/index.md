@@ -1,4 +1,3 @@
-
 ---
 abstract: As the state-of-the-art imaging technologies became more and more advanced,
   yielding scientific data at unprecedented detail and volume, the need to process
@@ -30,6 +29,8 @@ authors:
 date: 2015-10-07
 doi: 10.1002/9783527680863
 featured: true
+grants:
+- brain-scales
 publication: ''
 publication_types:
 - '5'

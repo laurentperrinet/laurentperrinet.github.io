@@ -12,7 +12,7 @@ abstract: It is generally assumed that neurons in the central nervous system com
 authors:
 - Laurent U Perrinet
 - Manuel Samuelides
-date: 2002-06-13
+date: 2002-06-20
 doi: 10.1016/S0925-2312(02)00374-0
 featured: false
 publication: '*Neurocomputing*'

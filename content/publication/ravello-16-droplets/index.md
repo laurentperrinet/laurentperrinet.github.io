@@ -4,9 +4,11 @@ authors:
 - Maria-José Escobar
 - Adrián G Palacios
 - Laurent U Perrinet
-date: 2016-11-13
+date: 2016-11-20
 doi: 10.5281/zenodo.5823016
 featured: false
+grants:
+- anr-trajectory
 projects:
 - motion-clouds
 publication: ''

@@ -20,9 +20,11 @@ authors:
 - Laurent U Perrinet
 - Eric Castet
 - Guillaume S Masson
-date: 2007-01-13
+date: 2007-01-20
 doi: 10.1016/j.jphysparis.2007.10.013
 featured: false
+grants:
+- facets-itn
 publication: '*Neuro-Computation: From Sensorimotor Integration to Computational Frameworks*'
 publication_types:
 - '2'

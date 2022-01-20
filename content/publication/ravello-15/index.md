@@ -8,6 +8,8 @@ authors:
 - Adrián G Palacios
 date: 2015-01-01
 featured: false
+grants:
+- anr-trajectory
 projects:
 - motion-clouds
 publication: '*European Retina Meeting 2015*'

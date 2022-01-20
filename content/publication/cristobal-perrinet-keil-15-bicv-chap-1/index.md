@@ -13,9 +13,11 @@ authors:
 - Gabriel Cristóbal
 - Laurent U Perrinet
 - Matthias S Keil
-date: 2015-11-13
+date: 2015-11-20
 doi: 10.1002/9783527680863.ch1
 featured: false
+grants:
+- brain-scales
 publication: '*Biologically Inspired Computer Vision*'
 publication_types:
 - '6'

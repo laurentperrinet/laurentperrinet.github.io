@@ -50,6 +50,8 @@ abstract: In most mammals, the primary visual cortex (V1) processes complex mixt
 publication: '*2022 SIAM Conference on Imaging Science (IS22)*'
 ---
 
+ * see previous work: https://laurentperrinet.github.io/sciblog/posts/2018-11-05-statistics-of-the-natural-input-to-a-ring-model.html
+
 ## Mini-Symposium "Learning from vision: Efficient representation, sparse coding, and modelling"
 Although recent years have seen a striking improvement in imaging techniques, there are many tasks for which human interaction is still essential, as color gamut correction in the cinema industry. This suggests that a better understanding of the mechanisms underlying the visual system is instrumental to advances in imaging techniques.
 Along these lines, various ideas from computational neurosciences have found application in imaging, from pattern recognition to image inpainting. A promising line of investigation is built on methods based on models of the primary visual cortex and on neural coding, in particular via the efficient representation principle. These methods have recently allowed to define new artificial neural networks paradigms and to reproduce complex visual illusions.
