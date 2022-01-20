@@ -1,44 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: A Robust Event-Driven Approach to Always-on Object Recognition
-subtitle: ''
-summary: ''
-authors:
-- Antoine Grimaldi
-- Victor Boutin
-- Sio-Hoi Ieng
-- Ryad Benosman
-- Laurent U Perrinet
-tags:
-- efficient coding
-- event-based vision
-- homeostasis
-- neuromorphic hardware
-- online classification
-categories: []
-date: '2022-01-13'
-lastmod: 2022-01-13T15:27:10+01:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-01-13T14:27:10.142244Z'
-publication_types:
-- '2'
 abstract: 'We propose a neuromimetic architecture able to perform always-on pattern
   recognition. To achieve this, we extended an existing event-based algorithm [1],
   which introduced novel spatio-temporal features as a Hierarchy Of Time-Surfaces
@@ -59,9 +19,38 @@ abstract: 'We propose a neuromimetic architecture able to perform always-on patt
   DVS barrel [3], Poker-DVS [4] and N-MNIST [5]. We foresee to develop the SNN version
   of the method and to extend this fully event-driven approach to more naturalistic
   tasks, notably for always-on, ultra-fast object categorization.'
-publication: '*TechRxiv*'
+authors:
+- Antoine Grimaldi
+- Victor Boutin
+- Sio-Hoi Ieng
+- Ryad Benosman
+- Laurent U Perrinet
+categories: []
+date: 2022-01-13
 doi: 10.36227/techrxiv.18003077.v1
+draft: false
+featured: false
+grants:
+- aprovis3D
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+lastmod: 2022-01-13 15:27:10+01:00
 links:
 - name: URL
   url: https://www.techrxiv.org/articles/preprint/A_robust_event-driven_approach_to_always-on_object_recognition/18003077/1
+projects: []
+publication: '*TechRxiv preprint*'
+publication_types:
+- '2'
+subtitle: ''
+tags:
+- efficient coding
+- event-based vision
+- homeostasis
+- neuromorphic hardware
+- online classification
+title: A Robust Event-Driven Approach to Always-on Object Recognition
+url_pdf: https://www.techrxiv.org/articles/preprint/A_robust_event-driven_approach_to_always-on_object_recognition/18003077/1
 ---

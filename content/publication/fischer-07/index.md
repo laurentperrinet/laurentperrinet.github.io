@@ -7,6 +7,8 @@ authors:
 date: 2007-01-01
 doi: 10.1155/2007/90727
 featured: false
+grants:
+- facets
 publication: '*EURASIP Journal on Advances in Signal Processing*'
 publication_types:
 - '2'

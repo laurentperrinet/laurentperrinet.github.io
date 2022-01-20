@@ -21,6 +21,8 @@ authors:
 - Guillaume S Masson
 date: 2007-01-01
 featured: false
+grants:
+- facets-itn
 publication: '*Perception 36 ECVP Abstract Supplement*'
 publication_types:
 - '1'

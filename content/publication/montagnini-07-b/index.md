@@ -29,6 +29,8 @@ authors:
 - Guillaume S Masson
 date: 2007-01-01
 featured: false
+grants:
+- facets-itn
 publication: '*Journal of Vision*'
 publication_types:
 - '1'

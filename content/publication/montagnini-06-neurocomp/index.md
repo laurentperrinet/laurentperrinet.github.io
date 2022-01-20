@@ -23,6 +23,8 @@ authors:
 date: 2006-01-01
 doi: 10.1016/j.jphysparis.2007.10.013
 featured: false
+grants:
+- facets
 publication: '*1ère conférence francophone NEUROsciences COMPutationnelles (NeuroComp)*'
 publication_types:
 - '1'

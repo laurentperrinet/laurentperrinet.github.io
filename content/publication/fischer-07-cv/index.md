@@ -29,6 +29,8 @@ authors:
 date: 2007-01-13
 doi: 10.1007/s11263-006-0026-8
 featured: false
+grants:
+- facets
 publication: '*International Journal of Computer Vision*'
 publication_types:
 - '2'

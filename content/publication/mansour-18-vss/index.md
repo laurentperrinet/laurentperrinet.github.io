@@ -35,6 +35,8 @@ authors:
 date: 2018-01-01
 doi: 10.1167/18.10.345
 featured: false
+grants:
+- anr-speed
 publication: '*Journal of Vision, Vol.18, 345, proceedings of VSS*'
 publication_types:
 - '1'

@@ -15,6 +15,8 @@ authors:
 - Laurent U Perrinet
 date: 2006-01-01
 featured: false
+grants:
+- facets
 publication: '*Fifteenth Annual Computational Neuroscience Meeting: CNS*2006*'
 publication_types:
 - '1'
