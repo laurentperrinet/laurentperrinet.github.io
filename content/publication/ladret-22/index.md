@@ -17,7 +17,7 @@ authors:
 - Frédéric Chavane
 - Christian Casanova
 - Laurent U Perrinet
-date: 2021-01-01
+date: 2022-01-17
 doi: 10.1101/2021.03.30.437692
 featured: true
 grants:
@@ -34,7 +34,7 @@ tags:
 - V1
 title: Dynamical processing of orientation precision in the primary visual cortex
 url_pdf: https://laurentperrinet.github.io/publication/ladret-22/
-url_preprint: https://www.biorxiv.org/content/early/2021/05/28/2021.03.30.437692
+url_preprint: https://www.biorxiv.org/content/10.1101/2021.03.30.437692v4
 ---
 
 {{< tweet 1395351843035828224 >}}
