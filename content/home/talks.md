@@ -39,5 +39,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering talks](./talk/).
+Access the list of [all previous talks](./talk/).
 {{% /callout %}}
