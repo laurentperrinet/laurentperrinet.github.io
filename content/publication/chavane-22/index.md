@@ -14,6 +14,5 @@ publication_types:
 - '2'
 tags:
 - area-v1
-title: Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All
-url_pdf: https://doi.org/10.1007/s00429-022-02455-4
+title: 'Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All'
 ---
