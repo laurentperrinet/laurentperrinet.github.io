@@ -58,8 +58,13 @@ Along these lines, various ideas from computational neurosciences have found app
 In this mini-symposium we aim to gather together experts working in the field of mathematical neuroscience and imaging, with a focus on these methods. In particular, the speakers will present recent results based on sparse coding and models of the visual system.
 
 ### Organizer: Dario Prandi
-- Evidence for the Intrinsically Nonlinear Nature of Receptive Fields in Vision *Marcelo Bertalmío*
-- ChebLieNet: Invariant Spectral Graph Nns Turned Equivariant by Sub-Riemannian Geometry on Lie Groups *Erik Bekkers*
-- Deep Predictive Coding for More Robust and Human-Like Vision *Rufin VanRullen*
-- Statistics of the sparse representations of natural images *Hugo Ladret and Laurent U Perrinet*
+
+ - 12:40-1:05 *The intrinsically nonlinear nature of receptive fields in vision: implications for imaging, vision science and artificial neural networks* Marcelo Bertalmío, Spanish National Research Council, Spain
+
+ - 1:10-1:35 *ChebLieNet: Invariant Spectral Graph Nns Turned Equivariant by Sub-Riemannian Geometry on Lie Groups* Erik Bekkers, University of Amsterdam, Netherlands
+
+ - 1:40-2:05 *Deep Predictive Coding for More Robust and Human-Like Vision* Rufin VanRullen, Centre de Recherche Cerveau et Cognition (CerCo), France
+
+ - 2:10-2:35 *Statistics of the Sparse Representations of Natural Images* Hugo Ladret and Laurent U. Perrinet, CNRS & Aix-Marseille Université, Marseille, France
+
 More on https://meetings.siam.org/sess/dsp_programsess.cfm?sessioncode=73028
