@@ -16,3 +16,5 @@ tags:
 - area-v1
 title: 'Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All'
 ---
+
+{{< tweet 1490717893750935552 >}}
