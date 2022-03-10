@@ -15,7 +15,7 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
+description: 'Scientific website powered by Wowchemy website builder.'
 twitter: 'laurentperrinet'
 
 # Contact (edit or remove options as required)
@@ -111,7 +111,6 @@ highlight_languages:
   - r
   - python
   - latex
-
 math: false
 diagram: false
 privacy_pack: false
@@ -179,8 +178,8 @@ map:
   provider: mapnik
   api_key: ''
   zoom: 10
-marketing: # HACK
-  google_analytics: UA-140381649-1
+marketing:
+  google_analytics: 'UA-140381649-1'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
@@ -190,4 +189,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: true
+    ai: false
