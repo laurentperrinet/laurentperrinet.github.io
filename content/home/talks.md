@@ -10,23 +10,22 @@ headless: true
 weight: 45
 
 title: 'Recent & Upcoming Talks'
-subtitle: ''
+subtitle:
 
 content:
+  # Page type to display. E.g. post, event, publication...
+  page_type: event
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 5
   # Filter on criteria
   filters:
     author: ""
-    folders:
-      - talk
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
+    category: ""
+    tag: ""
     exclude_featured: false
     exclude_future: false
     exclude_past: false
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+    publication_type: ""
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
@@ -34,8 +33,11 @@ content:
 
 design:
   # Choose a view for the listings:
-  view: compact
-  columns: '2'
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view: 2
 ---
 
 {{% callout note %}}
