@@ -16,6 +16,16 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
 
+  # Email form provider
+  form:
+    provider: formspree
+    formspree:
+      id: test
+    netlify:
+      # Enable CAPTCHA challenge to reduce spam?
+      captcha: false
+
+
   # Contact (edit or remove options as required)
   email: laurent.perrinet@univ-amu.fr
   phone: +33 619 478 120
@@ -85,14 +95,6 @@ content:
       link: https://stackoverflow.com/users/234547/meduz
 
 
-  # Email form provider
-  form:
-    provider: formspree
-    formspree:
-      id: test
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
 
 design:
   columns: '2'
