@@ -4,7 +4,7 @@ slides:
   font-size: "10pt"
   font-style: "bold"
 
-title: 2020-12-10_AgileNeuroBot
+title: 2022-03-23_UE-neurosciences-computationnelles
 
 ---
 
@@ -14,7 +14,7 @@ title: 2020-12-10_AgileNeuroBot
 <table>
 <tr>
 	<th>
-		<a href="https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot">
+		<a href="https://laurentperrinet.github.io/slides/2022-03-23_UE-neurosciences-computationnelles">
 			Présentation du projet - L. Perrinet<br>
 			<u>[2020-12-10] Réunion de lancement</u>
 		</a>
