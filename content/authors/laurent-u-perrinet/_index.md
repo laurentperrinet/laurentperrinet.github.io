@@ -12,6 +12,9 @@ superuser: true
 # Role/position
 role: Researcher in Computational Neuroscience
 
+# Status emoji
+status:
+  icon: ☕️
 
 # Organizations/Affiliations
 organizations:
