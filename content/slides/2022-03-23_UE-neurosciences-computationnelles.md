@@ -162,7 +162,7 @@ $$
 
 ---
 
-## Mise en pratique: détecter
+## Mise en pratique: détecter & apprendre
 
 
 * Tutoriel Apprentissage profond
