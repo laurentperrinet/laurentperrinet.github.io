@@ -22,6 +22,7 @@
 	font-size:1.em;
 }
 
+/* backgroundTransition: 'slide' */
 /* https://gist.github.com/Myfanwy/00d5031c3c35d1370c8fc851c51dfc82 */
 .reveal section img {
     background: #fff;  /*theme background color: https://github.com/rstudio/revealjs/tree/master/inst/reveal.js-3.2.0/css/theme */
