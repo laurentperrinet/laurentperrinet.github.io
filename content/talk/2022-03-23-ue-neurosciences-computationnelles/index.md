@@ -25,6 +25,8 @@ slides: "2022-03-23_ue-neurosciences-computationnelles"
   * Mercredi 23/03/2022 de 9h-12h
   * Introduction aux Neurosciences de la Vision
   * Réseaux de neurones artificiels et apprentissage machine
+  * 
+https://laurentperrinet.github.io/slides/2022-03-23_ue-neurosciences-computationnelles/?transition=fade
 
 2. _Neurones impulsionnels et modèles des fonctions visuelles_
   * Mercredi 23/03/2022 de 13h30-16h30
