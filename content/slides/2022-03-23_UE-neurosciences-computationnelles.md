@@ -27,6 +27,12 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 
 # Principes de la Vision
 
+{{< speaker_note >}}
+- Only the speaker can read these notes
+- Press `S` key to view
+- more on [doc](https://raw.githubusercontent.com/wowchemy/starter-hugo-academic/master/exampleSite/content/slides/example/index.md)
+{{< /speaker_note >}}
+
 ---
 ## À quoi sert la vision?
 
@@ -50,25 +56,32 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 ---
 ## Les illusions visuelles
 
-{{< figure width="90%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion_without.svg" title="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" >}}
+{{< figure width="80%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion_without.svg" title="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" >}}
 
 ---
 ## Les illusions visuelles
 
-{{< figure width="90%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion.svg" title="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" >}}
+{{< figure width="80%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion.svg" title="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" >}}
 
 ---
 ## Les illusions visuelles
 
-{{< figure width="90%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg" title="[Rotating Snakes *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)" >}}
-    [path2('42_rotsnakes_main.jpg')],
+
+{{< video  src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Kitaoka.mp4" controls="yes" >}}
+[Ilusions of brightness or lightness *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)
+
+---
+## Les illusions visuelles
+
+{{< figure width="80%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg" title="[Rotating Snakes *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)" >}}
+
+---
+# De V1 aux réseaux convolutionnels
+
 ---
 ## Les neurosciences computationnelles
 
 {{< figure width="35%" src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Churchland92.png" title="[[Sejnowski,  Koch  & Churchland (1998)](http://www.hms.harvard.edu/bss/neuro/bornlab/nb204/papers/sejnowski-koch-churchland-science1988.pdf)]" >}}
-
----
-# De V1 aux réseaux convolutionnels
 
 ---
 ## Le système visuel
@@ -84,21 +97,19 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 ---
 ## Hubel & Wiesel
 
-{{< video  src="https://raw.githubusercontent.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/master/figures/ComplexDirSelCortCell250_title.mp4" controls="yes" title="[Hubel & Wiesel, 1962]" >}}
+{{< video  src="https://raw.githubusercontent.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/master/figures/ComplexDirSelCortCell250_title.mp4" controls="yes" >}}
 
 [Hubel & Wiesel, 1962]
-
 
 ---
 ## Topographie dans V1
 
-{{< figure width="90%" src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]" >}}
+{{< figure width="80%" src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]" >}}
 
 ---
 ## Réseaux convolutionnels : hiérarchie
 
 {{< figure width="90%" src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" >}}
-
 
 ---
 ## Réseaux convolutionnels : CNN
@@ -110,39 +121,51 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 
 {{< figure width="90%" src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/convolution-layer-a.png?1c517e00cb8d709baf32fc3d39ebae67" title="[[Amidi & Amidi](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)]" >}}
 
-
----
-## Réseaux convolutionnels
-
-{{< figure width="90%" src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" >}}
-
-
----
-## Réseaux convolutionnels
-
-{{< figure width="90%" src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" >}}
 ---
 
-## Math
+## Réseaux convolutionnels :  Math
 
-In-line math: $x + y = z$
-
-Block math:
+{{% fragment %}}
+* Convolution discrète dans le temps:
+$$
+(f \ast g)[n]=\sum_{m=-\infty}^{\infty} f[m] g[n-m]
+$$
+{{% /fragment %}}
+{{% fragment %}}
+* Convolution discrète bi-dimensionnelle:
 
 $$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+(f \ast g)[x, y] = \sum_{i=-\infty}^{\infty} \sum_{j=-\infty}^{\infty} f[i, j] g[i-x, j-x]
 $$
+{{% /fragment %}}
+{{% fragment %}}
 
+* Convolution discrète bi-dimensionnelle multi-canaux:
+
+$$
+(f \ast g)[x, y, k] = \sum_{i=-\infty}^{\infty} \sum_{j=-\infty}^{\infty} f[i, j, k] g[i-x, j-x]
+$$
+{{% /fragment %}}
 
 ---
 
 # Perspectives
 
 ---
+## Réseaux prédictifs
+
+{{< figure width="90%" src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" >}}
+
+---
 
 ## Spiking Neural Networks
 
 {{< figure width="90%" src="https://laurentperrinet.github.io/grant/anr-anb/event_driven_computations.png" title="From frame-based to event-based cameras." >}}
+
+---
+## Recurrent processing
+
+{{< figure width="90%" src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/architecture-rnn-ltr.png" title="[[Amidi & Amidi](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)]" >}}
 
 ---
 ## Recurrent processing
