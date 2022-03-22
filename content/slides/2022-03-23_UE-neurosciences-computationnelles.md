@@ -69,7 +69,7 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 ## Les illusions visuelles
 
 
-{{< video  src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Kitaoka.mp4" controls="yes" >}}
+{{< video width="80%"  src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Kitaoka.mp4" controls="yes" >}}
 [Ilusions of brightness or lightness *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 
 ---
@@ -114,7 +114,7 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 ---
 ## Hubel & Wiesel
 
-{{< video  src="https://raw.githubusercontent.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/master/figures/ComplexDirSelCortCell250_title.mp4" controls="yes" >}}
+{{< video width="80%" src="https://raw.githubusercontent.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/master/figures/ComplexDirSelCortCell250_title.mp4" controls="yes" >}}
 
 [Hubel & Wiesel, 1962]
 
