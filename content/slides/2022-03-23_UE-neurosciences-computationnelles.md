@@ -2,6 +2,8 @@
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: white
+  transition: fade
+  backgroundTransition: fade
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -76,6 +78,21 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 {{< figure width="80%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg" title="[Rotating Snakes *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)" >}}
 
 ---
+## Les illusions visuelles : [Paréidolie](https://fr.wikipedia.org/wiki/Par%C3%A9idolie)
+
+{{< figure width="60%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Face-on-mars.jpg" title="[Cydonia Mensae (1976) *Viking Orbiter image*](https://fr.wikipedia.org/wiki/Cydonia_Mensae)" >}}
+
+---
+## Les illusions visuelles : [Paréidolie](https://fr.wikipedia.org/wiki/Par%C3%A9idolie)
+
+{{< figure width="60%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_low.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://fr.wikipedia.org/wiki/Cydonia_Mensae)" >}}
+
+---
+## Les illusions visuelles : [Paréidolie](https://fr.wikipedia.org/wiki/Par%C3%A9idolie)
+
+{{< figure width="60%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_high.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://fr.wikipedia.org/wiki/Cydonia_Mensae)" >}}
+
+---
 # De V1 aux réseaux convolutionnels
 
 ---
@@ -109,7 +126,7 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 ---
 ## Réseaux convolutionnels : hiérarchie
 
-{{< figure width="90%" src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" >}}
+{{< figure width="90%" src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" >}}
 
 ---
 ## Réseaux convolutionnels : CNN
@@ -125,27 +142,31 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 
 ## Réseaux convolutionnels :  Math
 
-{{% fragment %}}
-* Convolution discrète dans le temps:
+* Convolution discrète uni-dimensionnelle (eg dans le temps):
 $$
 (f \ast g)[n]=\sum_{m=-\infty}^{\infty} f[m] g[n-m]
 $$
-{{% /fragment %}}
-{{% fragment %}}
+
+---
+
+## Réseaux convolutionnels :  Math
+
 * Convolution discrète bi-dimensionnelle:
 
 $$
 (f \ast g)[x, y] = \sum_{i=-\infty}^{\infty} \sum_{j=-\infty}^{\infty} f[i, j] g[i-x, j-x]
 $$
-{{% /fragment %}}
-{{% fragment %}}
+
+---
+
+## Réseaux convolutionnels :  Math
+
 
 * Convolution discrète bi-dimensionnelle multi-canaux:
 
 $$
 (f \ast g)[x, y, k] = \sum_{i=-\infty}^{\infty} \sum_{j=-\infty}^{\infty} f[i, j, k] g[i-x, j-x]
 $$
-{{% /fragment %}}
 
 ---
 
@@ -154,7 +175,7 @@ $$
 ---
 ## Réseaux prédictifs
 
-{{< figure width="90%" src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" >}}
+{{< figure width="90%" src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" >}}
 
 ---
 
@@ -168,7 +189,13 @@ $$
 {{< figure width="90%" src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/architecture-rnn-ltr.png" title="[[Amidi & Amidi](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)]" >}}
 
 ---
-## Recurrent processing
+
+## Dynamique de la vision et de l'action
+
+{{< figure width="90%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/scheme_thorpe.jpg" title="[[Thorpe (2001)]](https://laurentperrinet.github.io/2022-01-12_NeuroCercle/#/2/1)" >}}
+
+---
+## Applications robotiques
 
 {{< figure width="90%" src="https://laurentperrinet.github.io/grant/anr-anb/principe_agile.jpg" title="Our system is divided into 3 units to process visual inputs communicating by event-driven, feed-forward and feed-back communications." >}}
 
