@@ -2,7 +2,8 @@
 authors:
 - Laurent U Perrinet
 date: 2022-03-23
-event: Master 1 Neurosciences et Sciences Cognitives
+publishDate: '2022-03-21T10:44:45.446866Z'
+event: "Master 1 Neurosciences et Sciences Cognitives"
 featured: false
 location: Marseille (France)
 projects:
@@ -10,12 +11,10 @@ projects:
 publication: '*Master 1 Neurosciences et Sciences Cognitives*'
 publication_types:
 - '1'
-title: 'Réseaux de neurones artificiels et apprentissage machine appliqués à la compréhension de la vision'
+title: "Réseaux de neurones artificiels et apprentissage machine appliqués à la compréhension de la vision"
 url_code: https://github.com/laurentperrinet/2022_UE-neurosciences-computationnelles
 slides: "2022-03-23_ue-neurosciences-computationnelles"
 ---
-
-# Réseaux de neurones artificiels et apprentissage machine appliqués à la compréhension de la vision
 
 * Où: Salle PHY51 - Marseille (France)
 

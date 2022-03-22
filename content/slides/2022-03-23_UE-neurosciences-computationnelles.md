@@ -26,7 +26,7 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 
 ---
 
-## Hubel & Wiesel
+# principles of Vision
 
 ![H&W](https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/scientists.jpg)
 
@@ -43,7 +43,19 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 ---
 ## Hubel & Wiesel
 
-![H&W](https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/ComplexDirSelCortCell250_title.mp4)
+<video controls loop width=60%/>
+      <source type="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/ComplexDirSelCortCell250_title.mp4" ></source>
+
+    </video>
+
+[Hubel & Wiesel, 1956]
+
+
+---
+
+# part B:
+
+![H&W](https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/scientists.jpg)
 
 [Hubel & Wiesel, 1956]
 
