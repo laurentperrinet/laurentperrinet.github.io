@@ -1,6 +1,8 @@
 ---
 slides:
-  theme: "white"  # Reveal JS theme name
+  # Choose a theme from https://github.com/hakimel/reveal.js#theming
+  theme: black
+  # theme: "white"  # Reveal JS theme name
   font-size: "10pt"
   font-style: "bold"
 
@@ -19,36 +21,66 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 
 ---
 # [Réseaux de neurones artificiels et apprentissage machine appliqués à la compréhension de la vision](https://github.com/laurentperrinet/2022_UE-neurosciences-computationnelles)
-####	*[Laurent Perrinet](https://github.com/laurentperrinet/)*
+####	*[Laurent Perrinet](https://laurentperrinet.github.io/talk/2022-03-23-ue-neurosciences-computationnelles/)*
 ####	<u>[[2022-03-23]](https://ametice.univ-amu.fr/pluginfile.php/5559779/mod_resource/content/1/Planning_Neurocomp_M1_2022.pdf) [Master 1 Neurosciences et Sciences Cognitives](https://ametice.univ-amu.fr/course/view.php?id=89069)</u>
 
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.png)
 
 ---
 
-# principles of Vision
+# Principes de la Vision
 
-![H&W](https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/scientists.jpg)
 
-[Hubel & Wiesel, 1956]
+---
+## Le système visuel
+
+{{< figure width="45%" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Voies_visuelles3.svg" title="[Système visuel humain (Wikipedia)](https://fr.wikipedia.org/wiki/Syst%C3%A8me_visuel_humain)" numbered="true" >}}
+
+---
+## Les illusions visuelles
+
+{{< figure width="90%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion_without.svg" title="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" numbered="true" >}}
+
+---
+## Les illusions visuelles
+
+{{< figure width="90%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion.svg" title="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" numbered="true" >}}
+
+---
+## Les neurosciences computationnelles
+
+{{< figure width="35%" src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Churchland92.png" title="[[Sejnowski,  Koch  & Churchland (1998)](http://www.hms.harvard.edu/bss/neuro/bornlab/nb204/papers/sejnowski-koch-churchland-science1988.pdf)]" numbered="true" >}}
+
+
+---
+## Le cortex visuel primaire
+
+
+{{< figure width="90%" src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/scientists.jpg" title="[Hubel & Wiesel, 1962]" numbered="true" >}}
 
 ---
 ## Hubel & Wiesel
 
-![H&W](https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg)
+{{< video  src="https://raw.githubusercontent.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/master/figures/ComplexDirSelCortCell250_title.mp4" controls="yes" title="[Hubel & Wiesel, 1962]" >}}
 
-[Bosking *et al*, 1997]
-
+[Hubel & Wiesel, 1962]
 
 ---
-## Hubel & Wiesel
+## Topographie dans V1
 
-<video controls loop width=60%/>
-      <source type="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/ComplexDirSelCortCell250_title.mp4" ></source>
+{{< figure width="90%" src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]" numbered="true" >}}
 
-    </video>
+---
 
-[Hubel & Wiesel, 1956]
+## Math
+
+In-line math: $x + y = z$
+
+Block math:
+
+$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$
 
 
 ---
@@ -57,28 +89,18 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 
 ![H&W](https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/scientists.jpg)
 
-[Hubel & Wiesel, 1956]
+[Hubel & Wiesel, 1962]
 
 ---
+
 ## Spiking Neural Networks
 
-{{< figure src="https://laurentperrinet.github.io/grant/anr-anb/event_driven_computations.png" title="From frame-based to event-based cameras." numbered="true" >}}
+{{< figure width="90%" src="https://laurentperrinet.github.io/grant/anr-anb/event_driven_computations.png" title="From frame-based to event-based cameras." numbered="true" >}}
 
 ---
 ## Recurrent processing
 
-{{< figure src="https://laurentperrinet.github.io/grant/anr-anb/principe_agile.jpg" title="Our system is divided into 3 units to process visual inputs communicating by event-driven, feed-forward and feed-back communications." numbered="true" >}}
-
----
-## Consortium:
-<img src="https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg" alt="SV" height="150"> | <img src="https://laurentperrinet.github.io/author/ryad-benosman/avatar_hu2d5c77d2b84468d5dedad740d610465b_7790_270x270_fill_q75_lanczos_center.jpg" alt="RB" height="150"> | <img src="https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.jpg" alt="LP" height="150">
------- | ------ | ------
-Stéphane Viollet | Ryad Benosman | Laurent Perrinet
-Julien Diperi | SioHoi Ieng | Emmanuel Daucé
-Inst Sciences Mouvement | Inst de la Vision | Inst Neurosci de la Timone
-
----
-{{< figure src="https://laurentperrinet.github.io/grant/anr-anb/gantt.png" title="Gantt Chart of project organization." numbered="true" >}}
+{{< figure width="90%" src="https://laurentperrinet.github.io/grant/anr-anb/principe_agile.jpg" title="Our system is divided into 3 units to process visual inputs communicating by event-driven, feed-forward and feed-back communications." numbered="true" >}}
 
 ---
 
