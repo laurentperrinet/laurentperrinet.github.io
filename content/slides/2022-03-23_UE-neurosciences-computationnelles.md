@@ -58,12 +58,12 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 ---
 ## Les illusions visuelles
 
-{{< figure width="80%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion_without.svg" title="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" >}}
+{{< figure width="70%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion_without.svg" title="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" >}}
 
 ---
 ## Les illusions visuelles
 
-{{< figure width="80%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion.svg" title="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" >}}
+{{< figure width="70%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion.svg" title="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" >}}
 
 ---
 ## Les illusions visuelles
@@ -75,25 +75,22 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 ---
 ## Les illusions visuelles
 
-{{< figure width="80%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg" title="[Rotating Snakes *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)" >}}
+{{< figure width="70%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg" title="[Rotating Snakes *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)" >}}
 
 ---
 ## Les illusions visuelles : [Paréidolie](https://fr.wikipedia.org/wiki/Par%C3%A9idolie)
 
-{{< figure width="60%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Face-on-mars.jpg" title="[Cydonia Mensae (1976) *Viking Orbiter image*](https://fr.wikipedia.org/wiki/Cydonia_Mensae)" >}}
+{{< figure width="50%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Face-on-mars.jpg" title="[Cydonia Mensae (1976) *Viking Orbiter image*](https://fr.wikipedia.org/wiki/Cydonia_Mensae)" >}}
 
 ---
 ## Les illusions visuelles : [Paréidolie](https://fr.wikipedia.org/wiki/Par%C3%A9idolie)
 
-{{< figure width="60%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_low.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://fr.wikipedia.org/wiki/Cydonia_Mensae)" >}}
+{{< figure width="50%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_low.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://fr.wikipedia.org/wiki/Cydonia_Mensae)" >}}
 
 ---
 ## Les illusions visuelles : [Paréidolie](https://fr.wikipedia.org/wiki/Par%C3%A9idolie)
 
-{{< figure width="60%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_high.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://fr.wikipedia.org/wiki/Cydonia_Mensae)" >}}
-
----
-# De V1 aux réseaux convolutionnels
+{{< figure width="50%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_high.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://fr.wikipedia.org/wiki/Cydonia_Mensae)" >}}
 
 ---
 ## Les neurosciences computationnelles
@@ -101,15 +98,17 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 {{< figure width="35%" src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Churchland92.png" title="[[Sejnowski,  Koch  & Churchland (1998)](http://www.hms.harvard.edu/bss/neuro/bornlab/nb204/papers/sejnowski-koch-churchland-science1988.pdf)]" >}}
 
 ---
+# De V1 aux réseaux convolutionnels
+
+---
 ## Le système visuel
 
-{{< figure width="45%" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Voies_visuelles3.svg" title="[Système visuel humain (Wikipedia)](https://fr.wikipedia.org/wiki/Syst%C3%A8me_visuel_humain)" >}}
+{{< figure width="40%" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Voies_visuelles3.svg" title="[Système visuel humain (Wikipedia)](https://fr.wikipedia.org/wiki/Syst%C3%A8me_visuel_humain)" >}}
 
 ---
 ## Le cortex visuel primaire
 
-
-{{< figure width="90%" src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/scientists.jpg" title="[Hubel & Wiesel, 1962]" >}}
+{{< figure width="80%" src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/scientists.jpg" title="[Hubel & Wiesel, 1962]" >}}
 
 ---
 ## Hubel & Wiesel
@@ -118,10 +117,6 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 
 [Hubel & Wiesel, 1962]
 
----
-## Topographie dans V1
-
-{{< figure width="80%" src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]" >}}
 
 ---
 ## Réseaux convolutionnels : hiérarchie
@@ -129,17 +124,6 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 {{< figure width="90%" src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" >}}
 
 ---
-## Réseaux convolutionnels : CNN
-
-{{< figure width="90%" src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/architecture-cnn-fr.jpeg" title="[[Amidi & Amidi](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)]" >}}
-
----
-## Réseaux convolutionnels : l'opération de convolution
-
-{{< figure width="90%" src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/convolution-layer-a.png?1c517e00cb8d709baf32fc3d39ebae67" title="[[Amidi & Amidi](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)]" >}}
-
----
-
 ## Réseaux convolutionnels :  Math
 
 * Convolution discrète uni-dimensionnelle (eg dans le temps):
@@ -148,7 +132,6 @@ $$
 $$
 
 ---
-
 ## Réseaux convolutionnels :  Math
 
 * Convolution discrète bi-dimensionnelle:
@@ -158,7 +141,11 @@ $$
 $$
 
 ---
+## Réseaux convolutionnels : l'opération de convolution
 
+{{< figure width="90%" src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/convolution-layer-a.png?1c517e00cb8d709baf32fc3d39ebae67" title="[[Amidi & Amidi](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)]" >}}
+
+---
 ## Réseaux convolutionnels :  Math
 
 
@@ -167,6 +154,11 @@ $$
 $$
 (f \ast g)[x, y, k] = \sum_{i=-\infty}^{\infty} \sum_{j=-\infty}^{\infty} f[i, j, k] g[i-x, j-x]
 $$
+
+---
+## Réseaux convolutionnels : CNN
+
+{{< figure width="90%" src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/architecture-cnn-fr.jpeg" title="[[Amidi & Amidi](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)]" >}}
 
 ---
 
@@ -184,9 +176,19 @@ $$
 # Perspectives
 
 ---
+## Réseaux convolutionnels : hiérarchie
+
+{{< figure width="90%" src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" >}}
+
+---
 ## Réseaux prédictifs
 
 {{< figure width="90%" src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" >}}
+
+---
+## Topographie dans V1
+
+{{< figure width="70%" src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]" >}}
 
 ---
 
