@@ -203,9 +203,9 @@ $$
 
 ---
 
-## Dynamique de la vision et de l'action
+## Dynamique de la vision
 
-{{< figure width="90%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/scheme_thorpe.jpg" title="[[Thorpe (2001)]](https://laurentperrinet.github.io/2022-01-12_NeuroCercle/#/2/1)" >}}
+{{< figure width="70%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/scheme_thorpe.jpg" title="[[Thorpe (2001)]](https://laurentperrinet.github.io/2022-01-12_NeuroCercle/#/2/1)" >}}
 
 ---
 ## Applications robotiques
