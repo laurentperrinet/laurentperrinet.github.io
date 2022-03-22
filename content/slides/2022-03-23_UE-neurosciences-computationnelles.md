@@ -1,10 +1,7 @@
 ---
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: black
-  # theme: "white"  # Reveal JS theme name
-  font-size: "10pt"
-  font-style: "bold"
+  theme: white
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -30,11 +27,25 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 
 # Principes de la Vision
 
+---
+## À quoi sert la vision?
+
+{{< figure width="45%" src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_001.jpg" title="[An Unexpected Visitor (Ilya Repin, 1884)](https://www.cabinetmagazine.org/issues/30/archibald.php)" >}}
 
 ---
-## Le système visuel
+## À quoi sert la vision?
 
-{{< figure width="45%" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Voies_visuelles3.svg" title="[Système visuel humain (Wikipedia)](https://fr.wikipedia.org/wiki/Syst%C3%A8me_visuel_humain)" >}}
+{{< figure width="45%" src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_002.jpg" title="[An Unexpected Visitor (Yarbus, 1965)](https://www.cabinetmagazine.org/issues/30/archibald.php)" >}}
+
+---
+## À quoi sert la vision?
+
+{{< figure width="45%" src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_003.jpg" title="[An Unexpected Visitor - *Age?* (Yarbus, 1965)](https://www.cabinetmagazine.org/issues/30/archibald.php)" >}}
+
+---
+## À quoi sert la vision?
+
+{{< figure width="45%" src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_006.jpg" title="[An Unexpected Visitor - *How long?*  (Yarbus, 1965)](https://www.cabinetmagazine.org/issues/30/archibald.php)" >}}
 
 ---
 ## Les illusions visuelles
@@ -47,10 +58,22 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 {{< figure width="90%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion.svg" title="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" >}}
 
 ---
+## Les illusions visuelles
+
+{{< figure width="90%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg" title="[Rotating Snakes *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)" >}}
+    [path2('42_rotsnakes_main.jpg')],
+---
 ## Les neurosciences computationnelles
 
 {{< figure width="35%" src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Churchland92.png" title="[[Sejnowski,  Koch  & Churchland (1998)](http://www.hms.harvard.edu/bss/neuro/bornlab/nb204/papers/sejnowski-koch-churchland-science1988.pdf)]" >}}
 
+---
+# De V1 aux réseaux convolutionnels
+
+---
+## Le système visuel
+
+{{< figure width="45%" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Voies_visuelles3.svg" title="[Système visuel humain (Wikipedia)](https://fr.wikipedia.org/wiki/Syst%C3%A8me_visuel_humain)" >}}
 
 ---
 ## Le cortex visuel primaire
@@ -65,11 +88,39 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 
 [Hubel & Wiesel, 1962]
 
+
 ---
 ## Topographie dans V1
 
 {{< figure width="90%" src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]" >}}
 
+---
+## Réseaux convolutionnels : hiérarchie
+
+{{< figure width="90%" src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" >}}
+
+
+---
+## Réseaux convolutionnels : CNN
+
+{{< figure width="90%" src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/architecture-cnn-fr.jpeg" title="[[Amidi & Amidi](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)]" >}}
+
+---
+## Réseaux convolutionnels : l'opération de convolution
+
+{{< figure width="90%" src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/convolution-layer-a.png?1c517e00cb8d709baf32fc3d39ebae67" title="[[Amidi & Amidi](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)]" >}}
+
+
+---
+## Réseaux convolutionnels
+
+{{< figure width="90%" src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" >}}
+
+
+---
+## Réseaux convolutionnels
+
+{{< figure width="90%" src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" >}}
 ---
 
 ## Math
@@ -85,11 +136,7 @@ $$
 
 ---
 
-# part B:
-
-![H&W](https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/scientists.jpg)
-
-[Hubel & Wiesel, 1962]
+# Perspectives
 
 ---
 
