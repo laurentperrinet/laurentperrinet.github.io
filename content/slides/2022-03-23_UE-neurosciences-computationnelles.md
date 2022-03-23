@@ -76,7 +76,7 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 ## [Les illusions visuelles](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
 
 {{< figure width="70%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg" title="[Rotating Snakes *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)" >}}
-
+ 
 ---
 ## [Les illusions visuelles](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Paréidolie](https://fr.wikipedia.org/wiki/Par%C3%A9idolie)
 
