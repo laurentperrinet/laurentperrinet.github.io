@@ -56,39 +56,39 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 {{< figure width="45%" src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_006.jpg" title="[An Unexpected Visitor - *How long?*  (Yarbus, 1965)](https://www.cabinetmagazine.org/issues/30/archibald.php)" >}}
 
 ---
-## Les illusions visuelles
+## [Les illusions visuelles](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
 
 {{< figure width="70%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion_without.svg" title="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" >}}
 
 ---
-## Les illusions visuelles
+## [Les illusions visuelles](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
 
 {{< figure width="70%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion.svg" title="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" >}}
 
 ---
-## Les illusions visuelles
+## [Les illusions visuelles](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
 
 
 {{< video width="80%"  src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Kitaoka.mp4" controls="yes" >}}
 [Ilusions of brightness or lightness *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 
 ---
-## Les illusions visuelles
+## [Les illusions visuelles](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
 
 {{< figure width="70%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg" title="[Rotating Snakes *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)" >}}
 
 ---
-## Les illusions visuelles : [Paréidolie](https://fr.wikipedia.org/wiki/Par%C3%A9idolie)
+## [Les illusions visuelles](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Paréidolie](https://fr.wikipedia.org/wiki/Par%C3%A9idolie)
 
 {{< figure width="50%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Face-on-mars.jpg" title="[Cydonia Mensae (1976) *Viking Orbiter image*](https://fr.wikipedia.org/wiki/Cydonia_Mensae)" >}}
 
 ---
-## Les illusions visuelles : [Paréidolie](https://fr.wikipedia.org/wiki/Par%C3%A9idolie)
+## [Les illusions visuelles](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Paréidolie](https://fr.wikipedia.org/wiki/Par%C3%A9idolie)
 
 {{< figure width="50%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_low.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://fr.wikipedia.org/wiki/Cydonia_Mensae)" >}}
 
 ---
-## Les illusions visuelles : [Paréidolie](https://fr.wikipedia.org/wiki/Par%C3%A9idolie)
+## [Les illusions visuelles](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Paréidolie](https://fr.wikipedia.org/wiki/Par%C3%A9idolie)
 
 {{< figure width="50%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_high.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://fr.wikipedia.org/wiki/Cydonia_Mensae)" >}}
 
