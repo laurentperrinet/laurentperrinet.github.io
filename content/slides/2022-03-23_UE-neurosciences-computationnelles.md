@@ -173,7 +173,6 @@ $$
 
 ## Mise en pratique: détecter & apprendre
 
-
 * Tutoriel Apprentissage profond
 
 * [Notebook `A_Détecter.ipynb`](https://github.com/laurentperrinet/2022_UE-neurosciences-computationnelles/blob/master/A_D%C3%A9tecter.ipynb)
