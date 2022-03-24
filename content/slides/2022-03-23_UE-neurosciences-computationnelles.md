@@ -151,16 +151,16 @@ $$
 * Convolution discrète d'une image sur plusieurs canaux de sortie:
 
 $$
-(f \ast g)[x, y, k] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} f[i, j, k] g[i-x, j-y]
+(f \ast g)[x, y, k] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} f[k, i, j, k] g[i-x, j-y]
 $$
 
 ---
 ## Réseaux convolutionnels :  Math
 
-* Convolution discrète d'une image mutli-canaux (eg. RGB) sur plusieurs canaux de sortie:
+* Convolution discrète d'une image multi-canaux (eg. RGB) sur plusieurs canaux de sortie (noter [l'ordre des indices](https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html)):
 
 $$
-(f \ast g)[x, y, k] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} \sum_{c=1}^{C} f[i, j, k] g[i-x, j-y, c]
+(f \ast g)[x, y, k] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} \sum_{c=1}^{C} f[k, c, i, j] g[i-x, j-y, c]
 $$
 
 ---
