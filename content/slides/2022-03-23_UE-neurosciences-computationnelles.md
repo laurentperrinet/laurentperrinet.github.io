@@ -76,7 +76,7 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 ## [Les illusions visuelles](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
 
 {{< figure width="70%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg" title="[Rotating Snakes *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)" >}}
- 
+
 ---
 ## [Les illusions visuelles](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Paréidolie](https://fr.wikipedia.org/wiki/Par%C3%A9idolie)
 
@@ -126,18 +126,18 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 ---
 ## Réseaux convolutionnels :  Math
 
-* Convolution discrète uni-dimensionnelle (eg dans le temps):
+* Convolution discrète uni-dimensionnelle (eg dans le temps) avec un noyau f de rayon $K$:
 $$
-(f \ast g)[n]=\sum_{m=-\infty}^{\infty} f[m] g[n-m]
+(f \ast g)[n]=\sum_{m=-K}^{K} f[m] g[n-m]
 $$
 
 ---
 ## Réseaux convolutionnels :  Math
 
-* Convolution discrète bi-dimensionnelle:
+* Convolution discrète d'une image (bi-dimensionnelle):
 
 $$
-(f \ast g)[x, y] = \sum_{i=-\infty}^{\infty} \sum_{j=-\infty}^{\infty} f[i, j] g[i-x, j-x]
+(f \ast g)[x, y] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} f[i, j] g[i-x, j-y]
 $$
 
 ---
@@ -148,11 +148,19 @@ $$
 ---
 ## Réseaux convolutionnels :  Math
 
-
-* Convolution discrète bi-dimensionnelle multi-canaux:
+* Convolution discrète d'une image sur plusieurs canaux de sortie:
 
 $$
-(f \ast g)[x, y, k] = \sum_{i=-\infty}^{\infty} \sum_{j=-\infty}^{\infty} f[i, j, k] g[i-x, j-x]
+(f \ast g)[x, y, k] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} f[i, j, k] g[i-x, j-y]
+$$
+
+---
+## Réseaux convolutionnels :  Math
+
+* Convolution discrète d'une image mutli-canaux (eg. RGB) sur plusieurs canaux de sortie:
+
+$$
+(f \ast g)[x, y, k] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} \sum_{c=1}^{C} f[i, j, k] g[i-x, j-y, c]
 $$
 
 ---
