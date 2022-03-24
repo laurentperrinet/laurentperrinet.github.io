@@ -160,7 +160,8 @@ $$
 * Convolution discrète d'une image multi-canaux (eg. RGB) sur plusieurs canaux de sortie (noter [l'ordre des indices](https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html)):
 
 $$
-(f \ast g)[x, y, k] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} \sum_{c=1}^{C} f[k, c, i, j] g[i-x, j-y, c]
+(f \ast g)[x, y, k] = \\
+\sum_{i=-K}^{K} \sum_{j=-K}^{K} \sum_{c=1}^{C} f[k, c, i, j] g[i-x, j-y, c]
 $$
 
 ---
