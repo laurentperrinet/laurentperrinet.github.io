@@ -41,4 +41,6 @@ url_preprint: https://arxiv.org/abs/2002.00892
 ---
 
 {{< tweet 1323549136088694790 >}}
+
  * get the code @ https://github.com/VictorBoutin/SPC_2L
+* see a related work describing SDPC in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
