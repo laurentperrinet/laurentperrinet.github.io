@@ -8,7 +8,7 @@ abstract: 'We propose a neuromimetic online classifier for always-on digit recog
   domain by showing it may be implemented using a Spiking Neural Network (SNN) of
   leaky integrate-and-fire models and Hebbian learning. Here, we add an online classification
   layer using a multinomial logistic regression which is compatible with a neural
-  implementation. A decision can be taken at any arbitrary time by taking the $argmax$
+  implementation. A decision can be taken at any arbitrary time by taking the argmax
   of the probability values associated to each class. We extend the parallel with
   computational neuroscience by demonstrating that this classification layer is also
   equivalent to a layer of spiking neurons with a Hebbian-like learning mechanism.

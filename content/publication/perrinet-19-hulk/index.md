@@ -61,7 +61,6 @@ url_preprint: https://laurentperrinet.github.io/publication/perrinet-19-hulk/
  * code for figures https://github.com/SpikeAI/HULK/blob/master/Annex.ipynb (which is rendered @ https://spikeai.github.io/HULK/ )
  * [video abstract](https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4) (and the [code](https://laurentperrinet.github.io/sciblog/posts/2019-09-11_video-abstract-vision.html) for generating it)
  * previous publication : {{< cite page="/publication/perrinet-10-shl" view="4" >}}
-
 {{< math >}}
 $$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
 1-p_{0}^{*} & \text{if }k=0.\end{cases}$$

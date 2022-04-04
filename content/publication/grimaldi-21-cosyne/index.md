@@ -13,10 +13,10 @@ abstract: 'We propose a neuromimetic  architecture able to perform online patter
   firing rates. The efficiency of this technique was first demonstrated through a
   robust improvement in spatio-temporal patterns which were learned during the training
   phase. We validated classification performance with the widely used N-MNIST dataset
-  reaching 87.3% accuracy with homeostasis compared to 72.5% accuracy without homeostasis.
-  Finally, by studying the impact of input jitter on classification highlights resilience
-  of this method. We expect to extend this fully event-driven approach to more naturalistic
-  tasks, notably for ultra-fast object categorization.'
+  reaching 87.3 percent accuracy with homeostasis compared to 72.5 percent accuracy
+  without homeostasis. Finally, by studying the impact of input jitter on classification
+  highlights resilience of this method. We expect to extend this fully event-driven
+  approach to more naturalistic tasks, notably for ultra-fast object categorization.'
 authors:
 - Antoine Grimaldi
 - Victor Boutin

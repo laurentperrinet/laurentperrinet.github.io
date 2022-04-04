@@ -18,7 +18,7 @@ abstract: 'We propose a neuromimetic architecture able to perform always-on patt
   algorithm online and bio-realistic. Results were validated on different datasets:
   DVS barrel [3], Poker-DVS [4] and N-MNIST [5]. We foresee to develop the SNN version
   of the method and to extend this fully event-driven approach to more naturalistic
-  tasks, notably for always-on, ultra-fast object categorization.'
+  tasks, notably for always-on, ultra-fast object categorization. '
 authors:
 - Antoine Grimaldi
 - Victor Boutin
