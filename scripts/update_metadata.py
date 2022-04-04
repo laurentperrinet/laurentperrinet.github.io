@@ -62,8 +62,9 @@ def import_bibtex(
             # print(metadata)
             parsed_yaml = yaml.load(metadata[1], Loader=yaml.FullLoader)
 
-            # print('new_key =', new_key, 'dico[new_key]', dico[new_key])
+            #print('new_key =', new_key, 'dico[new_key]', dico[new_key])
             old_key = dico[new_key]
+            #print('new_key =', new_key, 'dico[new_key]', dico[new_key])
             entry = bib_database.entries_dict[old_key]
             #bib_database.get_entry_dict()[old_key]
             bundle_path = f"{pub_dir}/{slugify(entry['ID'])}"

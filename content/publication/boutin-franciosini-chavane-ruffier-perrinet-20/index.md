@@ -27,7 +27,7 @@ authors:
 - Frédéric Y Chavane
 - Franck Ruffier
 - Laurent U Perrinet
-date: 2020-05-12
+date: 2021-01-26
 doi: 10.1371/journal.pcbi.1008629
 featured: true
 grants:
