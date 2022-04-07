@@ -19,3 +19,4 @@ url_code: ''
 url_pdf: https://laurentperrinet.github.io/talk/2017-11-24-neurosciences-robotique/
 url_slides: ''
 ---
+* see a related work describing SDPC in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
