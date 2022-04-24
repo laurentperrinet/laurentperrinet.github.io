@@ -8,6 +8,8 @@ summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
 
+* "Si les cochons pouvaient regarder en l'air, on en ferait des marins..." (anonyme)
+
 * L'art optique, c'est : « ce qui se passe dans l'esprit du spectateur quand son œil est obligé d'organiser un champ perceptif tel qu'il est nécessairement instable» Viktor Vasarely
 
 * "To us, probability is the very guide of life." [Marcus Tullius Cicero (106 BCE - 43 BCE)](https://www.causeweb.org/cause/resources/fun/quotes/cicero-probability?id=290)
