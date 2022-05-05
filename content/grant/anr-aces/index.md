@@ -19,14 +19,14 @@ To solve this problem, the ACEs project relies on a general conceptual framework
 
 ## Fiche d'identité
 
-* Acronyme : ACES (ANR-21-XXXX-XXX)
+* Acronyme : ACES (ANR-21-CE28-0013)
 * *Title : Assignment of credit and constraints on eye movement learning*
 * Coordinateur Scientifique : Laurent Madelain (ScaLab)
 * Responsable Scientifique local : Anna Montagnini (UMR7289)
 * Durée: 4 ans, à partir du 1er mars 2021 - 1er décembre 2024
 * Budget total: 435 k€
-
+* https://anr.fr/Projet-ANR-21-CE28-0013
 
 ## Acknowledgement
 
-    This work was supported by ANR project ANR-21-XXXX-XXX "ANR ACES".
+    This work was supported by ANR project ANR-21-CE28-0013 "ANR ACES".
