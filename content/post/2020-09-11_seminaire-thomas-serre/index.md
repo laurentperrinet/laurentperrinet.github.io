@@ -1,7 +1,7 @@
 ---
 authors:
 - laurent-u-perrinet
-date: 2020-06-16 06:00:00
+date: 2020-09-11 14:00:00
 draft: false
 image:
   focal_point: Center
@@ -9,13 +9,12 @@ image:
   preview_only: false
 lastmod: 2020-09-04 06:00:00
 projects: []
-subtitle: A seminar by [Thomas Serre](http://serre-lab.clps.brown.edu/) at the Institute of Neurosciences Timone in Marseille.
-summary: A seminar by [Thomas Serre](http://serre-lab.clps.brown.edu/) at the Institute of Neurosciences Timone in Marseille.
+subtitle: 'A seminar by [Thomas Serre](http://serre-lab.clps.brown.edu/) at the Institute of Neurosciences Timone in Marseille.'
+summary: 'A seminar by Thomas Serre at the Institute of Neurosciences Timone in Marseille.'
 tags:
 - events
-title: '2020-09-11 : Feedforward and feedback processes in visual recognition (T Serre)'
+title: '2020-09-11 : CONECT seminar - "Feedforward and feedback processes in visual recognition" (T Serre)'
 ---
-# 2020-09-11 : "Feedforward and feedback processes in visual recognition" by Thomas Serre
 
 During a seminar at the Institute of Neurosciences Timone in Marseille, [Thomas Serre](http://serre-lab.clps.brown.edu/) will present his recent work on "Feedforward and feedback processes in visual recognition":
 
