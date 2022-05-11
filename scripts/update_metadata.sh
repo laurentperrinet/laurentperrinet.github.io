@@ -19,7 +19,7 @@ cd ../hugo_academic/scripts
 
 # >>> see MAKE NEW_ENTRIES <<<
 # o ../perrinet_curriculum-vitae_tex/LaurentPerrinet_*bib
-# academic import --bibtex  ../perrinet_curriculum-vitae_tex/LaurentPerrinet_Publications.bib
+# academic import --bibtex  ../perrinet_curriculum-vitae_tex/LaurentPerrinet_publications.bib
 # TO CHECK : academic import --publication-dir talk --bibtex  ../perrinet_curriculum-vitae_tex/LaurentPerrinet_talks.bib
 
 python3 ../scripts/update_metadata.py
