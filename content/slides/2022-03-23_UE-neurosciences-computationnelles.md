@@ -202,7 +202,7 @@ $$
 
 ## Spiking Neural Networks
 
-{{< figure width="90%" src="https://laurentperrinet.github.io/grant/anr-anb/event_driven_computations.png" title="From frame-based to event-based cameras." >}}
+{{< figure width="90%" src="https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations.png" title="From frame-based to event-based cameras." >}}
 
 ---
 ## Recurrent processing
@@ -218,7 +218,7 @@ $$
 ---
 ## Applications robotiques
 
-{{< figure width="90%" src="https://laurentperrinet.github.io/grant/anr-anb/principe_agile.jpg" title="Our system is divided into 3 units to process visual inputs communicating by event-driven, feed-forward and feed-back communications." >}}
+{{< figure width="90%" src="https://laurentperrinet.github.io/grant/anr-anr/principe_agile.jpg" title="Our system is divided into 3 units to process visual inputs communicating by event-driven, feed-forward and feed-back communications." >}}
 
 ---
 
@@ -226,4 +226,4 @@ $$
 
 Ask info @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
-More info @ [web-site](https://laurentperrinet.github.io/grant/anr-anb)
+More info @ [web-site](https://laurentperrinet.github.io/grant/anr-anr)

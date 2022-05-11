@@ -29,12 +29,12 @@ user_groups:
 
 # PhD Student (2021-10 / 2024-09): Bio-mimetic agile aerial robots flying in real-life conditions
 
- * this fellowship is part of the [AgileNeuroBot project](https://laurentperrinet.github.io/grant/anr-anb/)
+ * this fellowship is part of the [AgileNeuRobot project](https://laurentperrinet.github.io/grant/anr-anr/)
  * Institut des Neurosciences de la Timone, Aix-Marseille Université / CNRS
 
 * Thesis direction: [Laurent Perrinet](https://laurentperrinet.github.io/author/laurent-u-perrinet/) and co-direction: [Emmanuel Daucé](https://laurentperrinet.github.io/author/emmanuel-dauce/)
 
-{{< figure src="/grant/anr-anb/event_driven_computations.png" title="A miniature, event-based ATIS sensor. Contrary to a classical frame-based camera for which a full dense image representation is given at discrete, regularly spaced timings, the event-based camera provides with events at the micro-second resolution. These are sparse as they represent luminance increments or decrements (ON and OFF events, respectively)." numbered="true" >}}
+{{< figure src="/grant/anr-anr/event_driven_computations.png" title="A miniature, event-based ATIS sensor. Contrary to a classical frame-based camera for which a full dense image representation is given at discrete, regularly spaced timings, the event-based camera provides with events at the micro-second resolution. These are sparse as they represent luminance increments or decrements (ON and OFF events, respectively)." numbered="true" >}}
 
 
 ## Projet #1 : 'Fast & Curious': Modèles ultra-rapides de recherche visuelle
@@ -66,7 +66,7 @@ Tous ces caractéristiques combinées du traitement visuel des mammifères se di
 
 Nous anticipons donc des retombées de ce genre d'étude dans le domaine de la vision par ordinateur mais aussi en neurosciences.
 
-Tout d'abord, cet algorithme sera capable d'analyser un flux d'images en temps réel et notamment des flux videos. On peut prévoir des applications en notamment pour anticiper des scènes prédéfinies (comme celles potentiellement dangereuses pour un jeune public) ou en robotique pour piloter un drone de façon autonome, par exemple pour intercepter une cible ou éviter des obstacles. Ce genre d'applications sera construit en coopération avec le consortium réunit autour de l'ANR AgileNeuroBot (2021/2024, <https://laurentperrinet.github.io/grant/anr-anb/>).
+Tout d'abord, cet algorithme sera capable d'analyser un flux d'images en temps réel et notamment des flux videos. On peut prévoir des applications en notamment pour anticiper des scènes prédéfinies (comme celles potentiellement dangereuses pour un jeune public) ou en robotique pour piloter un drone de façon autonome, par exemple pour intercepter une cible ou éviter des obstacles. Ce genre d'applications sera construit en coopération avec le consortium réunit autour de l'ANR AgileNeuRobot (2021/2024, <https://laurentperrinet.github.io/grant/anr-anr/>).
 
 Les résultats attendus relatifs aux neurosciences sont nombreux. Tout d'abord nous attendons acquérir une meilleure compréhension des mécanismes pré attentifs, notamment la prédiction des scanpaths oculaire (chemin de recherche visuelle des yeux sur l'image) mais aussi inversement de pouvoir décoder la tache visuelle depuis ce même scanpath. Ces modèles permettront notamment la génération de stimuli optimisés par rapport aux taches afin de mieux quantifier la réponse comportementale (collaboration Valérie Goffaux, UC Louvain). Ces stimuli pourront être notamment être utilisés en neurophysiologie et nous développons actuellement un générateur de paréidolie basés sur l'inversion des réseaux de catégorisation. Classiquement, différentes taches visuelles cognitives sont associées à différents chemins anatomiques distincts (par exemple voie dorsale versus ventrale). Notre modélisation permettra de mettre en évidence les conditions nécessaire à l'émergence de différentes voies de traitement et ainsi une meilleure description du fonctionnement macroscopique du système visuel. Ces méthodes pourront avantageusement être reliées au traitement dans d'autres modalités (comme la vocalisation telle qu'elle est étudiée dans l'équipe Banco @ INT). Collaborations envisagées C Casanova (UdeM, Canada), N Priebe (Austin, USA). Ouverture Internationale: Le projet APROVIS3D fait intervenir une collaboration en Europe (Grèce, Suisse, Espagne).
 

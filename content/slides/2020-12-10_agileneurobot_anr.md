@@ -6,8 +6,8 @@ title: 2020-12-10_agileneurobot_anr
 
 ---
 
-<a href="https://laurentperrinet.github.io/grant/anr-anb">
-<img src="https://laurentperrinet.github.io/grant/anr-anb/header.png" alt="header" height="450">
+<a href="https://laurentperrinet.github.io/grant/anr-anr">
+<img src="https://laurentperrinet.github.io/grant/anr-anr/header.png" alt="header" height="450">
 </a>
 <table>
 <tr>
@@ -20,14 +20,14 @@ title: 2020-12-10_agileneurobot_anr
 	</a>
 	</th>
 	<th>
-  <img src="https://laurentperrinet.github.io/grant/anr-anb/featured.png" alt="ANR" height="80">
+  <img src="https://laurentperrinet.github.io/grant/anr-anr/featured.png" alt="ANR" height="80">
 	</th>
 </tr>
 </table>
 
 ---
 
-## AgileNeuroBot: Fiche d'identité
+## AgileNeuRobot: Fiche d'identité
 
 * Titre : Robots aériens agiles bio-mimetiques pour le vol en conditions réelles
 * *Title : Bio-mimetic agile aerial robots flying in real-life conditions*
@@ -38,12 +38,12 @@ title: 2020-12-10_agileneurobot_anr
 ---
 ## Spiking Neural Networks
 
-{{< figure src="https://laurentperrinet.github.io/grant/anr-anb/event_driven_computations.png" title="From frame-based to event-based cameras." numbered="true" >}}
+{{< figure src="https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations.png" title="From frame-based to event-based cameras." numbered="true" >}}
 
 ---
 ## Recurrent processing
 
-{{< figure src="https://laurentperrinet.github.io/grant/anr-anb/principe_agile.jpg" title="Our system is divided into 3 units to process visual inputs communicating by event-driven, feed-forward and feed-back communications." numbered="true" >}}
+{{< figure src="https://laurentperrinet.github.io/grant/anr-anr/principe_agile.jpg" title="Our system is divided into 3 units to process visual inputs communicating by event-driven, feed-forward and feed-back communications." numbered="true" >}}
 
 ---
 ## Consortium:
@@ -54,7 +54,7 @@ Julien Diperi | Sio-Hoï Ieng | Emmanuel Daucé
 Inst Sciences Mouvement | Inst de la Vision | Inst Neurosci de la Timone
 
 ---
-{{< figure src="https://laurentperrinet.github.io/grant/anr-anb/gantt.png" title="Gantt Chart of project organization." numbered="true" >}}
+{{< figure src="https://laurentperrinet.github.io/grant/anr-anr/gantt.png" title="Gantt Chart of project organization." numbered="true" >}}
 
 ---
 
@@ -62,4 +62,4 @@ Inst Sciences Mouvement | Inst de la Vision | Inst Neurosci de la Timone
 
 Ask info @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
-More info @ [web-site](https://laurentperrinet.github.io/grant/anr-anb)
+More info @ [web-site](https://laurentperrinet.github.io/grant/anr-anr)

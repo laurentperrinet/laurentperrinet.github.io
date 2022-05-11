@@ -9,7 +9,7 @@ authors:
 tags:
 - grant
 - current-grant
-title: ANR AgileNeuroBot (2021/2024)
+title: ANR AgileNeuRobot (2021/2024)
 slides: "2020-12-10_agileneurobot_anr"
 ---
 <!-- youtube-dl https://www.youtube.com/watch\?v\=36CTDiJjQ8I -->
@@ -18,7 +18,7 @@ slides: "2020-12-10_agileneurobot_anr"
 
 ## Fiche d'identité
 
-* Acronyme : AgileNeuroBot (ANR-20-CE23-0021)
+* Acronyme : AgileNeuRobot (ANR-20-CE23-0021)
 * Titre : Robots aériens agiles bio-mimetiques pour le vol en conditions réelles
 * *Title : Bio-mimetic agile aerial robots flying in real-life conditions*
 * CES : CE23 - Intelligence Artificielle / Instrument de financement : Projet de recherche collaborative (PRC) / Catégorie R&D : Recherche fondamentale
@@ -39,4 +39,4 @@ Autonomous aerial robots would be essential tools in search and rescue operation
 
 ## Acknowledgement
 
-This work was supported by ANR project "AgileNeuroBot" N° ANR-20-CE23-0021.
+This work was supported by ANR project "AgileNeuRobot" N° ANR-20-CE23-0021.
