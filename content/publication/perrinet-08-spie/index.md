@@ -39,4 +39,5 @@ tags:
 title: 'Adaptive Sparse Spike Coding : applications of Neuroscience to the compression
   of natural images'
 url_pdf: https://arxiv.org/abs/0804.4830
+url_preprint: https://arxiv.org/abs/0804.4830
 ---

@@ -17,7 +17,7 @@ abstract: The representation of images in the brain is known to be sparse. That 
   coding schemes, sparse models being one simple and efficient instance of such schemes.
 authors:
 - Laurent U Perrinet
-date: 2015-11-07
+date: 2015-11-11
 doi: 10.1002/9783527680863.ch14
 featured: false
 grants:
@@ -31,5 +31,5 @@ tags:
 title: Sparse Models for Computer Vision
 url_code: https://github.com/bicv/Perrinet2015BICV_sparse
 url_pdf: http://onlinelibrary.wiley.com/doi/10.1002/9783527680863.ch14/summary
-url_preprint: https://hal-amu.archives-ouvertes.fr/hal-01444362
+url_preprint: https://arxiv.org/abs/1701.06859
 ---

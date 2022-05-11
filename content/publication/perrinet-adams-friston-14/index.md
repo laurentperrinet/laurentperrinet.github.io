@@ -35,7 +35,7 @@ tags:
 - motion detection
 title: Active inference, eye movements and oculomotor delays
 url_pdf: http://link.springer.com/article/10.1007%2Fs00422-014-0620-8
-url_preprint: https://hal-amu.archives-ouvertes.fr/hal-01382350
+url_preprint: https://arxiv.org/abs/1610.05564
 ---
 
 # Active Inference, tracking eye movements and oculomotor delays
