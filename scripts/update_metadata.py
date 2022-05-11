@@ -152,7 +152,7 @@ def import_bibtex(
             if 'doi' in entry:
                 parsed_yaml['doi'] = f'{entry["doi"]}'
 
-            if type == 'Presentations':
+            if type == 'talks':
                 # if 'time_start' in entry:
                 #     parsed_yaml['date'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["time_start"]))
                 # else:
@@ -280,7 +280,7 @@ def month2number(month):
             raise log.error("Please update the entry with a valid month.")
 
 
-for type, pub_dir in zip(['Presentations', 'Publications'],
+for type, pub_dir in zip(['talks', 'publications'],
                          ['../content/event', '../content/publication']):
     bibtex = f'../../perrinet_curriculum-vitae_tex/LaurentPerrinet_{type}.bib'
     import_bibtex(bibtex, pub_dir)

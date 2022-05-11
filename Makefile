@@ -14,7 +14,7 @@ entries:
 
 new_entries:
 	academic import --bibtex  ../perrinet_curriculum-vitae_tex/LaurentPerrinet_Publications.bib
-	academic import --publication-dir talk --bibtex  ../perrinet_curriculum-vitae_tex/LaurentPerrinet_Presentations.bib
+	academic import --publication-dir talk --bibtex  ../perrinet_curriculum-vitae_tex/LaurentPerrinet_talks.bib
 
 metadata:
 	cd scripts; sh update_metadata.sh
