@@ -26,3 +26,5 @@ tags:
 title: Ultra-fast categorization of images containing animals in vivo and in computo
 url_pdf: https://symposium.fchampalimaud.science/Poster-sessions
 ---
+
+* see a follow-up in: {{< cite page="/publication/jeremie-22-ultra-fast-cat" view="4" >}}
