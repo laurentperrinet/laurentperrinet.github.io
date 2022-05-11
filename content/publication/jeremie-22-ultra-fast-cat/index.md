@@ -1,36 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Ultra-Fast Image Categorization in Vivo and in Silico
-subtitle: ''
-summary: ''
-authors:
-- Jean-Nicolas Jérémie
-- Laurent U. Perrinet
-tags: []
-categories: []
-date: '2022-05-01'
-lastmod: 2022-05-11T09:32:04+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-05-11T07:32:03.952977Z'
-publication_types:
-- '2'
 abstract: 'Humans are able to robustly categorize images and can, for instance, detect
   the presence of an animal in a briefly flashed image in as little as 120 ms. Initially
   inspired by neuroscience, deep-learning algorithms literally bloomed up in the last
@@ -56,6 +24,24 @@ abstract: 'Humans are able to robustly categorize images and can, for instance, 
   of visual objects. We expect to apply this framework to guide future model-based
   psychophysical experiments and biomimetic deep neuronal architectures designed for
   such tasks.'
+authors:
+- Jean-Nicolas Jérémie
+- Laurent U Perrinet
+categories: []
+date: 2022-05-01
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+lastmod: 2022-05-11 09:32:04+02:00
+projects: []
 publication: '*arXiv:2205.03635 [cs, q-bio]*'
+publication_types:
+- '2'
+subtitle: ''
+tags: []
+title: Ultra-Fast Image Categorization in Vivo and in Silico
 url_pdf: http://arxiv.org/abs/2205.03635
 ---
