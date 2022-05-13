@@ -8,6 +8,8 @@ summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
 
+* "Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better." Edsger Dijkstra
+
 * "Si les cochons pouvaient regarder en l'air, on en ferait des marins..." (anonyme)
 
 * L'art optique, c'est : « ce qui se passe dans l'esprit du spectateur quand son œil est obligé d'organiser un champ perceptif tel qu'il est nécessairement instable» Viktor Vasarely
