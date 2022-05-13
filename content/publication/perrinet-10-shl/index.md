@@ -42,7 +42,7 @@ tags:
 title: Role of homeostasis in learning sparse representations
 url_code: https://github.com/bicv/SparseHebbianLearning
 url_pdf: https://doi.org/10.1162/neco.2010.05-08-795
-url_preprint: https://hal-amu.archives-ouvertes.fr/hal-00156610
+url_preprint: https://arxiv.org/abs/0706.3177
 ---
 
 ![header](perrinet-10-shl.png)

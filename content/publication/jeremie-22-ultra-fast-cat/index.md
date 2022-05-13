@@ -33,7 +33,7 @@ draft: false
 featured: false
 grants:
 - aprovis3D
-- anr-anr
+- anr-anb
 image:
   caption: ''
   focal_point: ''
@@ -47,6 +47,7 @@ subtitle: ''
 tags: []
 title: Ultra-Fast Image Categorization in Vivo and in Silico
 url_pdf: http://arxiv.org/abs/2205.03635
+url_preprint: http://arxiv.org/abs/2205.03635
 ---
 
 * this is a follow-up of: {{< cite page="/publicationjeremie-21-crs" view="4" >}}

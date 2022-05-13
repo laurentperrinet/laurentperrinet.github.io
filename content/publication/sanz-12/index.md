@@ -31,7 +31,7 @@ tags:
 title: 'Motion Clouds: Model-based stimulus synthesis of natural-like random textures
   for the study of motion perception'
 url_pdf: http://dx.doi.org/10.1152/jn.00737.2011
-url_preprint: https://hal-amu.archives-ouvertes.fr/hal-00726828
+url_preprint: https://arxiv.org/abs/1208.6467
 ---
 
 ![header](sanz-12.png)
