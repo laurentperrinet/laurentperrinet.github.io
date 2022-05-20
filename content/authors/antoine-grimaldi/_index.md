@@ -1,7 +1,7 @@
 ---
 authors:
 - antoine-grimaldi
-bio: During my PhD, I am focusing on pUltra-fast vision using Spiking Neural Networks.
+bio: During my PhD, I am focusing on Ultra-fast vision using Spiking Neural Networks.
 education:
   courses:
   - course: Phd candidate in Computational Neuroscience
