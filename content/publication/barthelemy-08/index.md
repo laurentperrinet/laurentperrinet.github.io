@@ -27,7 +27,7 @@ authors:
 - Laurent U Perrinet
 - Eric Castet
 - Guillaume S Masson
-date: 2008-02-11
+date: 2008-02-20
 doi: 10.1016/j.visres.2007.10.020
 featured: false
 grants:
