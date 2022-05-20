@@ -13,5 +13,4 @@ publication: '*second CENTURI Scientific Day*'
 publication_types:
 - '1'
 title: "Polychrony detection using heterosynaptic delays"
-url: https://centuri-livingsystems.org/events/centuri-scientific-day-3/
 ---
