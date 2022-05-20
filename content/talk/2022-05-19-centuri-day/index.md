@@ -14,4 +14,11 @@ publication_types:
 - '1'
 title: "Polychrony detection using heterosynaptic delays"
 event_url: https://centuri-livingsystems.org/events/centuri-scientific-day-3/
+image:
+  placement: 1
+  caption: "LP"
+  focal_point: "Center"
+  preview_only: false
+  alt_text: AG ready for the talk.
+
 ---
