@@ -20,7 +20,11 @@ authors:
 - Laurent U Perrinet
 - Eric Castet
 - Guillaume S Masson
+<<<<<<< HEAD
 date: 2007-01-20
+=======
+date: 2007-01-13
+>>>>>>> d80dd74ed0ebf53f5aa94688bba870ecfcb74ab6
 doi: 10.1016/j.jphysparis.2007.10.013
 featured: false
 grants:

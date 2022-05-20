@@ -19,7 +19,11 @@ abstract: A goal of low-level neural processes is to build an efficient code ext
   networks.
 authors:
 - Laurent U Perrinet
+<<<<<<< HEAD
 date: 2004-07-20
+=======
+date: 2004-07-13
+>>>>>>> d80dd74ed0ebf53f5aa94688bba870ecfcb74ab6
 doi: 10.1016/j.jphysparis.2005.09.012
 featured: false
 grants:

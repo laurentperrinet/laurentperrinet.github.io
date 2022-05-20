@@ -4,7 +4,11 @@ authors:
 - Maria-José Escobar
 - Adrián G Palacios
 - Laurent U Perrinet
+<<<<<<< HEAD
 date: 2016-11-20
+=======
+date: 2016-11-13
+>>>>>>> d80dd74ed0ebf53f5aa94688bba870ecfcb74ab6
 doi: 10.5281/zenodo.5823016
 featured: false
 grants:

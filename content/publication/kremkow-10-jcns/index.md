@@ -19,7 +19,11 @@ authors:
 - Laurent U Perrinet
 - Guillaume S Masson
 - Ad M Aertsen
+<<<<<<< HEAD
 date: 2010-06-20
+=======
+date: 2010-06-13
+>>>>>>> d80dd74ed0ebf53f5aa94688bba870ecfcb74ab6
 doi: 10.1007/s10827-010-0240-9
 featured: false
 grants:

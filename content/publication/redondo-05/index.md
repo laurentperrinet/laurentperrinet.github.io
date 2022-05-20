@@ -29,7 +29,11 @@ authors:
 - Sylvain Fischer
 - Laurent U Perrinet
 - Gabriel Cristóbal
+<<<<<<< HEAD
 date: 2005-08-20
+=======
+date: 2005-08-13
+>>>>>>> d80dd74ed0ebf53f5aa94688bba870ecfcb74ab6
 featured: false
 grants:
 - facets
