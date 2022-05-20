@@ -22,6 +22,6 @@ image:
   alt_text: AG ready for the talk.
 ---
 
-{{< tweet 1527604282043813888 >}}
+* Follow this future presentations {{< cite page="/talk/2022-06-19-neuro-vision-heterosynaptic" view="4" >}} {{< cite page="/talk/2022-06-19-neuro-vision-heterosynaptic" view="4" >}}
 
-* Follow this future presentations {{< cite page="/talk/2022-06-19-neuro-vision-heterosynaptic" view="4" >}}
+{{< tweet 1527604282043813888 >}}
