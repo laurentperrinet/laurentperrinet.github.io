@@ -21,5 +21,3 @@ image:
   preview_only: false
   alt_text: AG ready for the talk.
 ---
-
-![](featured.jpg)
