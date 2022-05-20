@@ -23,3 +23,5 @@ image:
 ---
 
 {{< tweet 1527604282043813888 >}}
+
+* Follow this future presentations {{< cite page="/talk/2022-06-19-neuro-vision-heterosynaptic" view="4" >}}
