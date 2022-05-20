@@ -23,11 +23,7 @@ doi: 10.36227/techrxiv.16550391.v1
 draft: false
 featured: false
 grants:
-<<<<<<< HEAD:content/publication/dabane-2022/index.md
 - anr-anr
-=======
-- anr-anb
->>>>>>> d80dd74ed0ebf53f5aa94688bba870ecfcb74ab6:content/publication/dabane-22/index.md
 image:
   caption: ''
   focal_point: ''

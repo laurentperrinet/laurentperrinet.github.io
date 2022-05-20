@@ -17,11 +17,7 @@ abstract: The representation of images in the brain is known to be sparse. That 
   coding schemes, sparse models being one simple and efficient instance of such schemes.
 authors:
 - Laurent U Perrinet
-<<<<<<< HEAD
-date: 2015-11-20
-=======
-date: 2015-11-13
->>>>>>> d80dd74ed0ebf53f5aa94688bba870ecfcb74ab6
+date: 2007-03-13
 doi: 10.1002/9783527680863.ch14
 featured: false
 grants:
