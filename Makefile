@@ -23,7 +23,7 @@ academic:
 	sh update_wowchemy.sh
 
 clean:
-	rm -fr  $TMPDIR/hugo_cache
+	rm -fr  $(TMPDIR)/hugo_cache
 	hugo mod clean --all
 	hugo mod tidy
 	hugo clean
