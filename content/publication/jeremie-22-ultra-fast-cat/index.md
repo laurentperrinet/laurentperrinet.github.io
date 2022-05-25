@@ -50,4 +50,4 @@ url_pdf: http://arxiv.org/abs/2205.03635
 url_preprint: http://arxiv.org/abs/2205.03635
 ---
 
-* this is a follow-up of: {{< cite page="/publicationjeremie-21-crs" view="4" >}}
+* this is a follow-up of: {{< cite page="/publication/jeremie-21-crs" view="4" >}}
