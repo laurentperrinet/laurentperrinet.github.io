@@ -14,7 +14,7 @@ entries:
 
 new_entries:
 	academic import --bibtex  ../perrinet_curriculum-vitae_tex/LaurentPerrinet_publications.bib
-	academic import --publication-dir talk --bibtex  ../perrinet_curriculum-vitae_tex/LaurentPerrinet_talks.bib
+	academic import --publication-dir content/talk --bibtex  ../perrinet_curriculum-vitae_tex/LaurentPerrinet_talks.bib
 
 metadata:
 	cd scripts; sh update_metadata.sh
@@ -23,7 +23,7 @@ academic:
 	sh update_wowchemy.sh
 
 clean:
-	rm -fr  $TMPDIR/hugo_cache
+	rm -fr  $(TMPDIR)/hugo_cache
 	hugo mod clean --all
 	hugo mod tidy
 	hugo clean
