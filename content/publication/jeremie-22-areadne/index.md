@@ -1,42 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Ultra-rapid visual search in natural images using active deep learning
-subtitle: ''
-summary: ''
-authors:
-- Jean-Nicolas Jérémie
-- Emmanuel Daucé
-- Laurent U Perrinet
-tags:
-- efficient coding
-- event-based vision
-- homeostasis
-- neuromorphic hardware
-- online classification
-categories: []
-date: '2022-06-29'
-lastmod: 2022-05-20T13:42:38+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-05-20T11:42:38.160617Z'
-publication_types:
-- '1'
 abstract: Visual search, that is, the simultaneous localization and detection of a
   visual target of interest, is a vital task. Applied to the case of natural scenes,
   searching for example to an animal (either a prey, a predator or a partner) constitutes
@@ -54,8 +16,35 @@ abstract: Visual search, that is, the simultaneous localization and detection of
   actual visual content, through an ultra-fast/low resolution analysis of the full
   visual field, and the second providing a detailed categorization over the detailed
   foveal selected region attained with a saccade.
-publication: '*Proceedings of AREADNE*'
+authors:
+- Jean-Nicolas Jérémie
+- Emmanuel Daucé
+- Laurent U Perrinet
+categories: []
+date: 2022-06-29
+draft: false
+featured: false
+grants:
+- aprovis3D
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+lastmod: 2022-05-20 13:42:38+02:00
 links:
 - name: URL
   url: https://areadne.org/
+projects: []
+publication: '*Proceedings of AREADNE*'
+publication_types:
+- '1'
+subtitle: ''
+tags:
+- efficient coding
+- event-based vision
+- homeostasis
+- neuromorphic hardware
+- online classification
+title: Ultra-rapid visual search in natural images using active deep learning
+url_pdf: https://areadne.org/
 ---
