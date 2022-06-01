@@ -2,7 +2,7 @@
 authors:
 - Laurent U Perrinet
 - Emmanuel Daucé
-date: 2008-10-13
+date: 2008-10-01
 featured: false
 grants:
 - facets-itn

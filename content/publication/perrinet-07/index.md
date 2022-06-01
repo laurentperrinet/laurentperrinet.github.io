@@ -24,7 +24,7 @@ abstract: 'The machinery behind the visual perception of motion and the subseque
   to account for suppressive effects of the surround.'
 authors:
 - Laurent U Perrinet
-date: 2007-03-13
+date: 2007-03-01
 doi: 10.1140/epjst/e2007-00061-7
 featured: false
 grants:
