@@ -28,7 +28,7 @@ authors:
 - Laurent Madelain
 - Laurent U Perrinet
 - Anna Montagnini
-date: 2015-01-01
+date: 2015-09-01
 doi: 10.1167/15.12.1019
 featured: false
 grants:
