@@ -30,6 +30,5 @@ tags:
 - neuromorphic hardware
 - online classification
 title: Ultra-rapid visual search in natural images using active deep learning
-url: https://cslide.ctimeetingtech.com/fens22/attendee/person/24027
 url_pdf: https://cslide.ctimeetingtech.com/fens22/attendee/person/24027
 ---
