@@ -16,14 +16,13 @@ lastmod: 2022-06-08 13:33:46+02:00
 publishDate: 2022-06-08 09:00:00
 links:
 - name: URL
-  url: https://areadne.org/
+  url: https://cslide.ctimeetingtech.com/fens22/attendee/person/1588
 projects: []
-publication: '*Proceedings of AREADNE*'
+publication: '*Proceedings of the FENS Forum 2022*'
 publication_types:
 - '1'
 subtitle: ''
 tags: []
 title: Recurrent cortical connectivity in the primary visual cortex supports robust
   encoding of natural sensory inputs
-url_pdf: https://cslide.ctimeetingtech.com/fens22/attendee/person/1588
 ---

@@ -17,9 +17,9 @@ lastmod: 2022-05-20 13:42:38+02:00
 publishDate: 2022-06-08 09:00:00
 links:
 - name: URL
-  url: https://areadne.org/
+  url: https://cslide.ctimeetingtech.com/fens22/attendee/person/24027
 projects: []
-publication: '*Proceedings of AREADNE*'
+publication: '*Proceedings of the FENS Forum 2022*'
 publication_types:
 - '1'
 subtitle: ''
