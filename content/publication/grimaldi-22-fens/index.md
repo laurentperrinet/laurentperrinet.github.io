@@ -13,6 +13,7 @@ image:
   focal_point: ''
   preview_only: false
 lastmod: 2022-06-13 13:42:38+02:00
+publishDate: '2022-06-16T11:51:41.890310Z'
 links:
 - name: URL
   url: https://cslide.ctimeetingtech.com/fens22/attendee/person/24027

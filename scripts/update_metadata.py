@@ -102,14 +102,14 @@ def import_bibtex(
                     date_str = f"{date_str}-01-01"
             parsed_yaml['date'] = getDateTimeFromISO8601String(date_str)
 
-            if False:
-                # Time stamping the entry to be published today
-                if not 'publishDate' in parsed_yaml.keys():
-                    today = datetime.now().date().isoformat()  # [2:]
-                    parsed_yaml['publishDate'] = today
-            else:
-                if 'publishDate' in parsed_yaml.keys():
-                    parsed_yaml.pop('publishDate')
+            # if False:
+            #     # Time stamping the entry to be published today
+            #     if not 'publishDate' in parsed_yaml.keys():
+            #         today = datetime.now().date().isoformat()  # [2:]
+            #         parsed_yaml['publishDate'] = today
+            # else:
+            #     if 'publishDate' in parsed_yaml.keys():
+            #         parsed_yaml.pop('publishDate')
 
             authors = None
             if 'author' in entry:
