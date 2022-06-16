@@ -16,7 +16,7 @@ lastmod: 2022-06-13 13:42:38+02:00
 publishDate: 2022-06-08 09:00:00
 links:
 - name: URL
-  url: https://areadne.org/
+  url: https://cslide.ctimeetingtech.com/fens22/attendee/person/24027
 projects: []
 publication: '*Proceedings of the FENS Forum 2022*'
 publication_types:
@@ -29,5 +29,5 @@ tags:
 - neuromorphic hardware
 - online classification
 title: Learning hetero-synaptic delays of Spiking Neurons for motion detection
-url_pdf: https://cslide.ctimeetingtech.com/fens22/attendee/person/24027
+
 ---
