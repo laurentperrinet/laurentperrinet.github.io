@@ -40,3 +40,9 @@ publication_types:
 abstract: ''
 publication: '*MIR Symposium 2022 bio-inspired & Marine Robotics*'
 ---
+
+* for visual search see: {{< cite page="/publication/dauce-20" view="4" >}}
+
+* for retinotopy, see: {{< cite page="/talk/2022-06-19-neuro-vision-retinotopic" view="4" >}}
+
+* for event-based computations, see: {{< cite page="/talk/2022-06-19-neuro-vision-heterosynaptic" view="4" >}}
