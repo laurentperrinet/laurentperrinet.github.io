@@ -31,7 +31,7 @@ image:
   focal_point: ''
   preview_only: false
 lastmod: 2022-05-20 13:42:38+02:00
-publishDate: 2022-06-08 09:00:00
+publishDate: '2022-06-16T11:51:41.890310Z'
 links:
 - name: URL
   url: https://areadne.org/

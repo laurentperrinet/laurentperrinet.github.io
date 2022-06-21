@@ -13,10 +13,10 @@ image:
   focal_point: ''
   preview_only: false
 lastmod: 2022-06-13 13:42:38+02:00
-publishDate: 2022-06-08 09:00:00
+publishDate: '2022-06-16T11:51:41.890310Z'
 links:
 - name: URL
-  url: https://areadne.org/
+  url: https://cslide.ctimeetingtech.com/fens22/attendee/person/24027
 projects: []
 publication: '*Proceedings of the FENS Forum 2022*'
 publication_types:
