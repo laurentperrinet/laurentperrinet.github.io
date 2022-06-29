@@ -94,7 +94,7 @@ content:
       name: stackoverflow
       link: https://stackoverflow.com/users/234547/meduz
     - icon: mastodon
-      icon_pack: ai
+      icon_pack: fab
       name: mastodon
       link: https://scholar.social/web/@laurentperrinet
 
