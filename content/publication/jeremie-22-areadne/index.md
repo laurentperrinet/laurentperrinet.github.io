@@ -54,10 +54,6 @@ url_pdf: https://areadne.org/
 * This work extends to natural scenes a previous work on visual search on a simplified task formulated in  {{< cite page="/publication/dauce-20" view="4" >}}
 
 
-* It is based on a first work on transfer learning : {{< cite page="/publication/jeremie-21-crs" view="4" >}}
-* and its application to a natural task : {{< cite page="/publication/jeremie-22-ultra-fast-cat" view="4" >}}
+* It is based on a first work on transfer learning and its application to a natural task : {{< cite page="/publication/jeremie-22-ultra-fast-cat" view="4" >}}
 
 * in particular, we found retinotopic mapping to be adapted to that extension : {{< cite page="/talk/2022-06-19-neuro-vision-retinotopic" view="4" >}}
-
-
-{{< video src="talk/2022-06-19-neuro-vision-retinotopic/2022-06-10_Jeremie-etal-NeuroVision_video-abstract.mp4" controls="yes" >}}
