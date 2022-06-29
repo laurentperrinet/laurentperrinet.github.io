@@ -49,3 +49,6 @@ tags:
 title: Ultra-rapid visual search in natural images using active deep learning
 url_pdf: https://areadne.org/
 ---
+
+* this follows work on transfer learning : {{< cite page="/publication/jeremie-21-crs" view="4" >}}
+* and its application to a natural task : {{< cite page="/publication/jeremie-22-ultra-fast-cat" view="4" >}}

@@ -51,3 +51,4 @@ url_preprint: http://arxiv.org/abs/2205.03635
 ---
 
 * this is a follow-up of: {{< cite page="/publication/jeremie-21-crs" view="4" >}}
+* see an extension to visual search in: {{< cite page="/publication/jeremie-22-areadne" view="4" >}}

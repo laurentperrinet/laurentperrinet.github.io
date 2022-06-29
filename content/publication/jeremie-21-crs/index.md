@@ -28,3 +28,4 @@ url_pdf: https://symposium.fchampalimaud.science/Poster-sessions
 ---
 
 * see a follow-up in: {{< cite page="/publication/jeremie-22-ultra-fast-cat" view="4" >}}
+* see an extension to visual search in: {{< cite page="/publication/jeremie-22-areadne" view="4" >}}
