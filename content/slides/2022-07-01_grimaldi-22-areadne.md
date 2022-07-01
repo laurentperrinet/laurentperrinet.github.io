@@ -34,23 +34,23 @@ title: 2022-07-01_grimaldi-22-areadne
 ---
 ## Spiking Neural Networks
 
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/figure_1a_k.pdf"  >}}
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/figure_1a_k.png"  >}}
 
 ---
 ## Spiking Neural Networks
 
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/figure_1a.pdf"  >}}
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/figure_1a.png"  >}}
 
 
 ---
 ## Spiking Neural Networks
 
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/figure_1b.pdf"  >}}
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/figure_1b.png"  >}}
 
 ---
 ## Spiking Neural Networks
 
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/figure_1c.pdf"  >}}
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/figure_1c.png"  >}}
 
 
 ---
@@ -75,9 +75,19 @@ title: 2022-07-01_grimaldi-22-areadne
 
 
 ---
-## Spiking Neural Networks
+## Learned hetero-synaptic weights
 
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/2022-06-26_Supervised_nat-causal_kernel.png" title="Hetero-synaptic delays as convolution kernels." numbered="true" >}}
+
+---
+## Learned hetero-synaptic weights
+
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/2022-06-26_Supervised_nat-causal_kernel-mask.png" title="Mask applied on the weights." numbered="true" >}}
+
+---
+## Learned hetero-synaptic weights
+
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/2022-06-26_Supervised_nat-causal_joint_ON-OFF.png title="Scatter of ON versus OFF weights." numbered="true" >}}
 
 
 ---
