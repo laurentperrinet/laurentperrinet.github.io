@@ -32,9 +32,26 @@ title: 2022-07-01_grimaldi-22-areadne
 {{< figure src="https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations.png" title="From frame-based to event-based cameras." numbered="true" >}}
 
 ---
-## Recurrent processing
+## Example videos
 
-{{< video src="flash_lag.mp4" autoplay="yes" >}}
+{{< video src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/2022-06-23_Supervised_MC_input_1.mp4" autoplay="yes" >}}
+
+---
+## Example videos
+
+{{< video src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/2022-06-23_Supervised_MC_input_3.mp4" autoplay="yes" >}}
+
+---
+## Example videos
+
+{{< video src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/2022-06-23_Supervised_MC_input_4.mp4" autoplay="yes" >}}
+
+
+---
+## Spiking Neural Networks
+
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/2022-06-26_Supervised_nat-causal_kernel.png" title="Hetero-synaptic delays as convolution kernels." numbered="true" >}}
+
 
 ---
 
