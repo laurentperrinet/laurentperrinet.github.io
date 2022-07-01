@@ -54,6 +54,16 @@ title: 2022-07-01_grimaldi-22-areadne
 
 
 ---
+## Spiking Neural Networks
+
+{{< video src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/LIF.mp4" autoplay="yes" >}}
+
+---
+## Spiking Neural Networks
+
+{{< video src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/HSD_conductance_speeds.mp4" autoplay="yes" >}}
+
+---
 ## Example videos
 
 {{< video src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/2022-06-23_Supervised_MC_input_1.mp4" autoplay="yes" >}}
