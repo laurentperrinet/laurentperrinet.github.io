@@ -40,3 +40,6 @@ tags: []
 title: A resilient neural code in V1 to process natural images
 url_pdf: https://areadne.org/
 ---
+
+
+* This poster is presented in the following preprint (in submission)  {{< cite page="/publication/ladret-22" view="4" >}}

@@ -45,4 +45,6 @@ tags:
 - online classification
 title: Decoding spiking motifs using neurons with heterosynaptic delays
 url_pdf: https://areadne.org/
+slides: "2020-12-10_agileneurobot_anr"
+
 ---
