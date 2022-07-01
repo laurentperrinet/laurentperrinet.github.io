@@ -7,7 +7,7 @@ title: 2022-07-01_grimaldi-22-areadne
 ---
 
 <a href="https://laurentperrinet.github.io/grant/anr-anr">
-<img src="https://laurentperrinet.github.io/grant/anr-anr/header.png" alt="header" height="450">
+<img src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/brain-logo-240.jpg" alt="header" height="450">
 </a>
 <table>
 <tr>
@@ -30,6 +30,28 @@ title: 2022-07-01_grimaldi-22-areadne
 ## Spiking Neural Networks
 
 {{< figure src="https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations.png" title="From frame-based to event-based cameras." numbered="true" >}}
+
+---
+## Spiking Neural Networks
+
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/figure_1a_k.pdf"  >}}
+
+---
+## Spiking Neural Networks
+
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/figure_1a.pdf"  >}}
+
+
+---
+## Spiking Neural Networks
+
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/figure_1b.pdf"  >}}
+
+---
+## Spiking Neural Networks
+
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/figure_1c.pdf"  >}}
+
 
 ---
 ## Example videos
