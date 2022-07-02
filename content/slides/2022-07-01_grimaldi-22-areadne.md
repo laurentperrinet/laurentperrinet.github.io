@@ -6,9 +6,7 @@ title: 2022-07-01_grimaldi-22-areadne
 
 ---
 
-<a href="https://laurentperrinet.github.io/grant/anr-anr">
-<img src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/brain-logo-240.jpg" alt="header" height="450">
-</a>
+<img src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/brain-logo-240.jpg" alt="header" height="350">
 <table>
 <tr>
 	<th><a href="https://laurentperrinet.github.io/slides/2022-07-01_grimaldi-22-areadne">
@@ -20,7 +18,6 @@ title: 2022-07-01_grimaldi-22-areadne
 	</a>
 	</th>
 	<th>
-  <img src="https://laurentperrinet.github.io/grant/anr-anr/featured.png" alt="ANR" height="80">
 	</th>
 </tr>
 </table>
@@ -29,76 +26,65 @@ title: 2022-07-01_grimaldi-22-areadne
 ---
 ## Spiking Neural Networks
 
-{{< figure src="https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations.png" title="From frame-based to event-based cameras." numbered="true" >}}
+{{< figure src="../../grant/anr-anr/event_driven_computations.png" title="From frame-based to event-based cameras." >}}
 
 ---
-## Spiking Neural Networks
 
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/figure_1a_k.png"  >}}
+{{< figure src="../../publication/grimaldi-22-areadne/figure_1a_k.png" title="A raster plot.." width="95%" >}}
 
 ---
-## Spiking Neural Networks
 
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/figure_1a.png"  >}}
+{{< figure src="../../publication/grimaldi-22-areadne/figure_1a.png" title=".. as a mixture of motifs" width="95%" >}}
 
 
 ---
-## Spiking Neural Networks
 
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/figure_1b.png"  >}}
+{{< figure src="../../publication/grimaldi-22-areadne/figure_1b.png" title="... defined as list of weights and delays.." width="95%" >}}
 
 ---
-## Spiking Neural Networks
 
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/figure_1c.png"  >}}
+{{< figure src="../../publication/grimaldi-22-areadne/figure_1c.png" title="occurring from a new raster plot.." width="95%" >}}
 
 
 ---
-## Spiking Neural Networks
 
-{{< video src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/LIF.mp4" autoplay="yes" >}}
-
----
-## Spiking Neural Networks
-
-{{< video src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/HSD_conductance_speeds.mp4" autoplay="yes" >}}
+{{< video src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/LIF.mp4" autoplay="yes" title="A standard LIF neurons as homogeneous delays..." >}}
 
 ---
-## Example videos
 
+{{< video src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/HSD_conductance_speeds.mp4" autoplay="yes" title="...we propose to add heterogeneous delays." >}}
+
+---
+## supervised learning
+---
 {{< video src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/2022-06-23_Supervised_MC_input_1.mp4" autoplay="yes" >}}
 
 ---
-## Example videos
 
 {{< video src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/2022-06-23_Supervised_MC_input_3.mp4" autoplay="yes" >}}
 
 ---
-## Example videos
 
 {{< video src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/2022-06-23_Supervised_MC_input_4.mp4" autoplay="yes" >}}
 
 ---
-## Example videos
 
 {{< video src="https://laurentperrinet.github.io/talk/2022-06-19-neuro-vision-heterosynaptic/2022-05-24_Supervised_MC_MC.mp4" autoplay="yes" >}}
 
 
 ---
 ## Learned hetero-synaptic weights
+---
 
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/2022-06-26_Supervised_nat-causal_kernel.png" title="Hetero-synaptic delays as convolution kernels." numbered="true" >}}
+{{< figure src="../../publication/grimaldi-22-areadne/2022-06-26_Supervised_nat-causal_kernel.png" title="Hetero-synaptic delays as convolution kernels." >}}
 
 ---
-## Learned hetero-synaptic weights
 
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/2022-06-26_Supervised_nat-causal_kernel-mask.png" title="Mask applied on the weights." numbered="true" >}}
+{{< figure src="../../publication/grimaldi-22-areadne/2022-06-26_Supervised_nat-causal_kernel-mask.png" title="Mask applied on the weights." >}}
 
 ---
-## Learned hetero-synaptic weights
 
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/2022-06-26_Supervised_nat-causal_joint_ON-OFF.png title="Scatter of ON versus OFF weights." numbered="true" >}}
-
+{{< figure src="../../publication/grimaldi-22-areadne/2022-06-26_Supervised_nat-causal_joint_ON-OFF.png" title="Scatter of ON versus OFF weights." >}}
 
 ---
 
