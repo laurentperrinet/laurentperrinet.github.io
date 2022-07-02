@@ -87,6 +87,12 @@ title: 2022-07-01_grimaldi-22-areadne
 {{< figure src="../../publication/grimaldi-22-areadne/2022-06-26_Supervised_nat-causal_joint_ON-OFF.png" title="Scatter of ON versus OFF weights." >}}
 
 ---
+## Frugal computing
+---
+
+{{< figure src="../../publication/grimaldi-22-areadne/accuracy.png" title="Stable accuracy while pruning ~99% weights." >}}
+
+---
 
 # Questions?
 
