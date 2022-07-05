@@ -51,3 +51,7 @@ links:
 - name: URL
   url: https://2022.ieeeicip.org/
 ---
+
+* to be presented at [ICIP 2022](https://2022.ieeeicip.org) 16-19 October 2022 in Bordeaux, France
+
+
