@@ -93,8 +93,10 @@ content:
       icon_pack: ai
       name: stackoverflow
       link: https://stackoverflow.com/users/234547/meduz
-
-
+    - icon: mastodon
+      icon_pack: fab
+      name: mastodon
+      link: https://scholar.social/web/@laurentperrinet
 
 design:
   columns: '2'
