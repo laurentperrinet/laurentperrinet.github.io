@@ -57,3 +57,6 @@ url_pdf: https://areadne.org/
 * It is based on a first work on transfer learning and its application to a natural task : {{< cite page="/publication/jeremie-22-ultra-fast-cat" view="4" >}}
 
 * in particular, we found retinotopic mapping to be adapted to that extension : {{< cite page="/talk/2022-06-19-neuro-vision-retinotopic" view="4" >}}
+
+
+* for a follow-up, check out  {{< cite page="/publication/jeremie-22-fens" view="4" >}}

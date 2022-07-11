@@ -27,3 +27,9 @@ title: Recurrent cortical connectivity in the primary visual cortex supports rob
   encoding of natural sensory inputs
 url_pdf: https://cslide.ctimeetingtech.com/fens22/attendee/person/1588
 ---
+
+
+{{< tweet 1545743191198121985 >}}
+
+
+* This poster is presented in the following preprint (in submission)  {{< cite page="/publication/ladret-22" view="4" >}}

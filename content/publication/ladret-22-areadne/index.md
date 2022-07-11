@@ -41,5 +41,9 @@ title: A resilient neural code in V1 to process natural images
 url_pdf: https://areadne.org/
 ---
 
+{{< tweet 1542724828658016256 >}}
+
+
+* for a follow-up, check out  {{< cite page="/publication/ladret-22-fens" view="4" >}}
 
 * This poster is presented in the following preprint (in submission)  {{< cite page="/publication/ladret-22" view="4" >}}

@@ -48,3 +48,7 @@ url_pdf: https://areadne.org/
 slides: "2022-07-01_grimaldi-22-areadne"
 
 ---
+
+{{< tweet 1546471536571342849 >}}
+
+* for a follow-up, check out  {{< cite page="/publication/grimaldi-22-icip" view="4" >}}

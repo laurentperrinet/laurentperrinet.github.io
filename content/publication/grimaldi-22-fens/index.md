@@ -31,3 +31,7 @@ tags:
 title: Learning hetero-synaptic delays of Spiking Neurons for motion detection
 url_pdf: https://cslide.ctimeetingtech.com/fens22/attendee/person/24027
 ---
+
+{{< tweet 1546471536571342849 >}}
+
+* for a follow-up, check out  {{< cite page="/publication/grimaldi-22-icip" view="4" >}}
