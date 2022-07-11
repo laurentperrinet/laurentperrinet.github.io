@@ -31,7 +31,6 @@ title: Ultra-rapid visual search in natural images using active deep learning
 
 {{< tweet 1546389505917206531 >}}
 
-
 * This work extends to natural scenes a previous work on visual search on a simplified task formulated in  {{< cite page="/publication/dauce-20" view="4" >}}
 
 * follows  {{< cite page="/publication/jeremie-22-areadne" view="4" >}}
