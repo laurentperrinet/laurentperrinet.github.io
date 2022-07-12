@@ -27,7 +27,6 @@ image:
   focal_point: ''
   preview_only: false
 lastmod: 2022-05-20 13:42:38+02:00
-publishDate: '2022-06-16T11:51:41.890310Z'
 links:
 - name: URL
   url: https://areadne.org/
@@ -35,6 +34,7 @@ projects: []
 publication: '*Proceedings of AREADNE*'
 publication_types:
 - '1'
+publishDate: '2022-06-16T11:51:41.890310Z'
 show_authors_only: false
 subtitle: ''
 tags: []

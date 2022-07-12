@@ -27,7 +27,6 @@ image:
   focal_point: ''
   preview_only: false
 lastmod: 2022-06-08 13:33:46+02:00
-publishDate: '2022-06-16T11:51:41.890310Z'
 links:
 - name: URL
   url: https://areadne.org/
@@ -35,6 +34,7 @@ projects: []
 publication: '*Proceedings of AREADNE*'
 publication_types:
 - '1'
+publishDate: '2022-06-16T11:51:41.890310Z'
 subtitle: ''
 tags: []
 title: A resilient neural code in V1 to process natural images
@@ -42,8 +42,5 @@ url_pdf: https://areadne.org/
 ---
 
 {{< tweet 1542724828658016256 >}}
-
-
 * for a follow-up, check out  {{< cite page="/publication/ladret-22-fens" view="4" >}}
-
 * This poster is presented in the following preprint (in submission)  {{< cite page="/publication/ladret-22" view="4" >}}

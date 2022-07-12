@@ -1,44 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'A Behavioral Receptive Field for Ocular Following in Monkeys: Spatial Summation  and Its Spatial Frequency Tuning'
-subtitle: ''
-summary: ''
-authors:
-- Frédéric V Barthélemy
-- Jérome Fleuriet
-- Laurent U Perrinet
-- Guillaume S Masson
-tags:
-- center-surround interactions
-- monkey
-- ocular following
-- spatial frequency
-- tracking eye movements
-- visual motion integration
-categories: []
-date: '2022-06-01'
-lastmod: 2022-06-30T08:54:01+03:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-06-30T05:54:01.160596Z'
-publication_types:
-- '2'
 abstract: In human and non-human primates, reflexive tracking eye movements can be
   initiated at very short latency in response to a rapid shift of the image. Previous
   studies in humans have shown that only a part of the central visual field is optimal
@@ -70,6 +30,34 @@ abstract: In human and non-human primates, reflexive tracking eye movements can 
   populations in monkey area MT. Our results further outline the computational properties
   of the behavioral receptive field underpinning automatic, context-dependent motion
   integration.
-publication: '*eNeuro*'
+authors:
+- Frédéric V Barthélemy
+- Jérome Fleuriet
+- Laurent U Perrinet
+- Guillaume S Masson
+categories: []
+date: 2022-06-01
 doi: 10.1523/ENEURO.0374-21.2022
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+lastmod: 2022-06-30 08:54:01+03:00
+projects: []
+publication: '*eNeuro*'
+publication_types:
+- '2'
+publishDate: '2022-06-30T05:54:01.160596Z'
+subtitle: ''
+tags:
+- center-surround interactions
+- monkey
+- ocular following
+- spatial frequency
+- tracking eye movements
+- visual motion integration
+title: 'A Behavioral Receptive Field for Ocular Following in Monkeys: Spatial Summation
+  and Its Spatial Frequency Tuning'
 ---

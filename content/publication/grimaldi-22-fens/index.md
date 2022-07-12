@@ -13,11 +13,11 @@ image:
   focal_point: ''
   preview_only: false
 lastmod: 2022-06-13 13:42:38+02:00
-publishDate: '2022-06-16T11:51:41.890310Z'
 projects: []
 publication: '*Proceedings of the FENS Forum 2022*'
 publication_types:
 - '1'
+publishDate: '2022-06-16T11:51:41.890310Z'
 subtitle: ''
 tags:
 - efficient coding
@@ -29,5 +29,4 @@ title: Learning hetero-synaptic delays of Spiking Neurons for motion detection
 ---
 
 {{< tweet 1546471536571342849 >}}
-
 * for a follow-up, check out  {{< cite page="/publication/grimaldi-22-icip" view="4" >}}

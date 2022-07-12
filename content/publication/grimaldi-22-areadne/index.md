@@ -28,7 +28,6 @@ image:
   focal_point: ''
   preview_only: false
 lastmod: 2022-05-20 13:42:38+02:00
-publishDate: '2022-06-16T11:51:41.890310Z'
 links:
 - name: URL
   url: https://areadne.org/
@@ -36,6 +35,8 @@ projects: []
 publication: '*Proceedings of AREADNE*'
 publication_types:
 - '1'
+publishDate: '2022-06-16T11:51:41.890310Z'
+slides: 2022-07-01_grimaldi-22-areadne
 subtitle: ''
 tags:
 - efficient coding
@@ -45,10 +46,7 @@ tags:
 - online classification
 title: Decoding spiking motifs using neurons with heterosynaptic delays
 url_pdf: https://areadne.org/
-slides: "2022-07-01_grimaldi-22-areadne"
-
 ---
 
 {{< tweet 1546471536571342849 >}}
-
 * for a follow-up, check out  {{< cite page="/publication/grimaldi-22-icip" view="4" >}}

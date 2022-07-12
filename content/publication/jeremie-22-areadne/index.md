@@ -31,7 +31,6 @@ image:
   focal_point: ''
   preview_only: false
 lastmod: 2022-05-20 13:42:38+02:00
-publishDate: '2022-06-16T11:51:41.890310Z'
 links:
 - name: URL
   url: https://areadne.org/
@@ -39,6 +38,7 @@ projects: []
 publication: '*Proceedings of AREADNE*'
 publication_types:
 - '1'
+publishDate: '2022-06-16T11:51:41.890310Z'
 subtitle: ''
 tags:
 - efficient coding
@@ -50,13 +50,7 @@ title: Ultra-rapid visual search in natural images using active deep learning
 url_pdf: https://areadne.org/
 ---
 
-
 * This work extends to natural scenes a previous work on visual search on a simplified task formulated in  {{< cite page="/publication/dauce-20" view="4" >}}
-
-
 * It is based on a first work on transfer learning and its application to a natural task : {{< cite page="/publication/jeremie-22-ultra-fast-cat" view="4" >}}
-
 * in particular, we found retinotopic mapping to be adapted to that extension : {{< cite page="/talk/2022-06-19-neuro-vision-retinotopic" view="4" >}}
-
-
 * for a follow-up, check out  {{< cite page="/publication/jeremie-22-fens" view="4" >}}
