@@ -16,11 +16,11 @@ abstract: Neurons in the primary visual cortex are selective to orientation with
   orientation maps emerge naturally as the most cost-efficient structure to generate
   complex cells under the predictive coding principle.
 authors:
-- Angelo Franciosini
 - Victor Boutin
+- Angelo Franciosini
 - Frédéric Y Chavane
 - Laurent U Perrinet
-date: 2021-04-21
+date: 2022-04-21
 doi: 10.1101/2021.04.19.440444
 featured: false
 grants:
@@ -41,6 +41,7 @@ url_preprint: https://www.biorxiv.org/content/10.1101/2021.04.19.440444v1
 ---
 
 {{< tweet 1384782435708190721 >}}
+
 * this paper follows this COSYNE presentation : {{< cite page="/publication/franciosini-20-cosyne" view="4" >}}
 * see a related work describing SDPC in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}
