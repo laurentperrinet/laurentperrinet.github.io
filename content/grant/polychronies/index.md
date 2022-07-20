@@ -5,6 +5,12 @@ authors:
 - laurent-u-perrinet
 date: 2022-07-18 14:00:00
 summary: A grant from the Ph.D. program in Integrative and Clinical Neuroscience (Post-doctoral position, 2022 / 2025).
+image:
+  caption: © [Motion Exposure](http://www.motionexposure.com) - Stephen Orlando. This image shows a long-exposure photograph of LED lights attached to the bow of a violonist. With permission by the artist.
+  focal_point: Center
+  placement: 2
+  preview_only: false
+
 tags:
 - grant
 - current-grant
