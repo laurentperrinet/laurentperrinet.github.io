@@ -3,13 +3,13 @@ authors:
 - rosa-cossart
 - thomas-schatz
 - laurent-u-perrinet
-date: 2021-07-18 14:00:00
-summary: A grant from the Ph.D. program in Integrative and Clinical Neuroscience (Post-doctoral position, 2022 / 2024).
+date: 2022-07-18 14:00:00
+summary: A grant from the Ph.D. program in Integrative and Clinical Neuroscience (Post-doctoral position, 2022 / 2025).
 tags:
 - grant
-- past-grant
+- current-grant
 - polychronies
-title: Polychronies (2022 / 2024)
+title: Polychronies (2022 / 2025)
 ---
 ## Description
 
