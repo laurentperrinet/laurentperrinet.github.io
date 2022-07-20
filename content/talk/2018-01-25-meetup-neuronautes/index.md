@@ -1,7 +1,7 @@
 ---
 authors:
-- Laurent U Perrinet
-- Etienne Rey
+- etienne-rey
+- laurent-u-perrinet
 date: 2018-01-25 18:30:00
 event: Meetup Art et Neurosciences, Association NeuroNautes
 event_url: https://www.facebook.com/events/211121069456116/

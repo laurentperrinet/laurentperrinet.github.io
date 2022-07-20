@@ -1,7 +1,7 @@
 ---
 authors:
-- laurent-u-perrinet
 - etienne-rey
+- laurent-u-perrinet
 date: 2016-04-20 00:00:00
 draft: false
 lastmod: 2018-01-13 00:00:00

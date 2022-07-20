@@ -1,5 +1,6 @@
 ---
 authors:
+- etienne-rey
 - laurent-u-perrinet
 date: 2016-04-20 00:00:00
 draft: false
