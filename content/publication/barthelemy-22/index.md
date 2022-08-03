@@ -60,4 +60,5 @@ tags:
 - visual motion integration
 title: 'A Behavioral Receptive Field for Ocular Following in Monkeys: Spatial Summation
   and Its Spatial Frequency Tuning'
+url_preprint: https://hal.archives-ouvertes.fr/hal-03741144
 ---
