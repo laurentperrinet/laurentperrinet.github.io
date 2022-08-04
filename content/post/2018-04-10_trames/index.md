@@ -29,3 +29,7 @@ title: TRAMES
 
 
  * Trame, Élasticité & Écran n°3  étaient aussi présentés au Festival Ososphère, Strasbourg en Avril 2017.
+
+![](https://maison-contemporain.com/wp-content/uploads/2020/04/INSTABILITE_ORANGE_ROUGE_F3030-scaled.jpg)
+
+
