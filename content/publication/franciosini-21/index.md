@@ -22,7 +22,7 @@ authors:
 - Laurent U Perrinet
 date: 2022-07-18
 doi: 10.1371/journal.pcbi.1010270
-featured: false
+featured: true
 grants:
 - doc-2-amu
 - phd-icn

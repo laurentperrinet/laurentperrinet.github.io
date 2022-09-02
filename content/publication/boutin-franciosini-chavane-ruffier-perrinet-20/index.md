@@ -29,7 +29,6 @@ authors:
 - Laurent U Perrinet
 date: 2021-01-26
 doi: 10.1371/journal.pcbi.1008629
-featured: true
 grants:
 - doc-2-amu
 - phd-icn
