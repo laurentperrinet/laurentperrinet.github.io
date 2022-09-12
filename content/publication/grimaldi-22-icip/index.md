@@ -14,8 +14,6 @@ abstract: 'The response of a biological neuron depends largely on the precise ti
   model. '
 authors:
 - Antoine Grimaldi
-- Camille Besnainou
-- Hugo Ladret
 - Laurent U Perrinet
 categories: []
 date: 2022-10-16
