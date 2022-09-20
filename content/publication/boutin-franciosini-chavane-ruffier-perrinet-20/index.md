@@ -29,8 +29,8 @@ authors:
 - Laurent U Perrinet
 date: 2021-01-26
 doi: 10.1371/journal.pcbi.1008629
-featured: true
 grants:
+- anr-horizontal-v1
 - doc-2-amu
 - phd-icn
 - mesocentre

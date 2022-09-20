@@ -35,6 +35,11 @@ user_groups:
 - Former Students
 ---
 
+## Main contributions to the project:
+
+* {{< cite page="/publication/vergani-21-bernstein" view="4" >}}
+* {{< cite page="/post/2021-06-15_neural-turing" view="4" >}}
+
 # Project description: Visual computations using Spatio-temporal Diffusion Kernels and Traveling Waves
 
 Biological vision is surprisingly efficient. To take advantage of this efficiency, Deep learning and convolutional neural networks (CNNs) have recently produced great advances in artificial computer vision. However, these algorithms now face multiple challenges: learned architectures are often not interpretable, disproportionally energy greedy, and often lack the integration of contextual information that seems optimized in biological vision and human perception. It is clear from recent advances in system and computational neuroscience that nonlinear, recurrent interactions in visual cortical networks are key to this efficiency ([Tang et al., 2018](#Tang18); [Kietzmann et al., 2019](#Kietzmann19)). We will use inspiration from neurophysiology and brain imaging to resolve this apparent gap between traditional CNNs and biological visual systems.
