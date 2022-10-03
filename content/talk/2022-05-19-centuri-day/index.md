@@ -26,6 +26,6 @@ image:
 
 {{< tweet 1527604282043813888 >}}
 
+* followed-up as a poster: {{< cite page="/publication/grimaldi-22-areadne/" view="4" >}}
 
- {{< cite page="/talk/2022-06-29-areadne-heterogeneous/" view="4" >}}
-make* for event-based motion detection, see: {{< cite page="/publication/grimaldi-22-icip" view="4" >}}
+* for event-based motion detection, see: {{< cite page="/publication/grimaldi-22-icip" view="4" >}}

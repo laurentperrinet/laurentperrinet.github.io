@@ -10,7 +10,7 @@ title: 2022-07-01_grimaldi-22-areadne
 <table>
 <tr>
 	<th><a href="https://laurentperrinet.github.io/slides/2022-07-01_grimaldi-22-areadne">
-		Decoding spiking motifs using neurons with heterosynaptic delays
+		Decoding spiking motifs using neurons with heterogeneous delays
     <!-- <img src="http://www.cnrs.fr/themes/custom/cnrs/logo.svg" alt="CNRS" height="15"> -->
     <!-- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/CNRS.svg/240px-CNRS.svg.png" alt="CNRS" height="40"> -->
     <br>
