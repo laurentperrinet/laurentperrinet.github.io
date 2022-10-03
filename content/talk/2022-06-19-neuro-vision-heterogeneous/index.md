@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Learning hetero-synaptic delays of Spiking Neurons for motion detection
+title: Learning heterogeneous delays of Spiking Neurons for motion detection
 subtitle: ''
 summary: ''
 authors:
