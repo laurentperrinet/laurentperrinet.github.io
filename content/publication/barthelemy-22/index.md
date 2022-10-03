@@ -36,7 +36,7 @@ authors:
 - Laurent U Perrinet
 - Guillaume S Masson
 categories: []
-date: 2022-06-01
+date: 2022-01-01
 doi: 10.1523/ENEURO.0374-21.2022
 draft: false
 featured: false

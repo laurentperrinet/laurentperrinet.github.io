@@ -19,7 +19,7 @@ authors:
 - Laurent U Perrinet
 - Guillaume S Masson
 - Frederic Chavane
-date: 2020-03-01
+date: 2020-01-01
 doi: 10/ggqj77
 featured: false
 publication: '*bioRxiv*'

@@ -4,7 +4,7 @@ abstract: 'The response of a biological neuron depends largely on the precise ti
   models do not take advantage of this minute temporal dimension, especially in exploiting
   the variety of synaptic delays on the dendritic tree. A notable exception is the
   polychronization model, a recurrent model of spiking neurons including fixed and
-  random heterosynaptic delays and in which the weights are learned using Spike-Time
+  random heterogeneous delays and in which the weights are learned using Spike-Time
   Dependent Plasticity. The output raster plot displays repeated activations of prototypical
   spiking motifs called Polychronous Groups. Importantly, these motifs seem to be
   highly relevant in experimental neuroscience. Here, by extending the model of~[3],
@@ -44,7 +44,7 @@ tags:
 - homeostasis
 - neuromorphic hardware
 - online classification
-title: Decoding spiking motifs using neurons with heterosynaptic delays
+title: Decoding spiking motifs using neurons with heterogeneous delays
 url_pdf: https://areadne.org/
 ---
 

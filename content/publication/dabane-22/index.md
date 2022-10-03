@@ -18,7 +18,7 @@ authors:
 - Laurent U Perrinet
 - Emmanuel Daucé
 categories: []
-date: 2022-09-01
+date: 2022-01-01
 doi: 10.36227/techrxiv.16550391.v1
 draft: false
 featured: false
