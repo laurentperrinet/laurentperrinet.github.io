@@ -43,7 +43,7 @@ url_pdf: https://2022.ieeeicip.org/
 ---
 
 * to be presented at [ICIP 2022](https://2022.ieeeicip.org) 16-19 October 2022 in Bordeaux, France
-* paper [3241](https://cmsworkshops.com/ICIP2022/papers/accepted_papers.php) (note that the name of the paper was slightly changed)
+* paper [3241](https://cmsworkshops.com/ICIP2022/papers/accepted_papers.php) (note that the title of the paper was slightly changed)
 * time of presentation:
  * Tue, 18 Oct, 20:30 - 20:45 China Standard Time (UTC +8)
  * Tue, 18 Oct, 14:30 - 14:45 Central European Time (UTC +2)

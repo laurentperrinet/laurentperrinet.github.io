@@ -22,6 +22,8 @@ image:
   alt_text: AG ready for the talk.
 ---
 
-* Follow this future presentations {{< cite page="/talk/2022-06-19-neuro-vision-heterosynaptic" view="4" >}} {{< cite page="/talk/2022-06-29-areadne-heterosynaptic/" view="4" >}}
+* Follow this future presentations {{< cite page="/talk/2022-06-19-neuro-vision-heterogeneous" view="4" >}} {{< cite page="/talk/2022-06-29-areadne-heterosynaptic/" view="4" >}}
 
 {{< tweet 1527604282043813888 >}}
+
+* for event-based motion detection, see: {{< cite page="/publication/grimaldi-22-icip" view="4" >}}

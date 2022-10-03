@@ -69,7 +69,7 @@ title: 2022-07-01_grimaldi-22-areadne
 
 ---
 
-{{< video src="https://laurentperrinet.github.io/talk/2022-06-19-neuro-vision-heterosynaptic/2022-05-24_Supervised_MC_MC.mp4" autoplay="yes" >}}
+{{< video src="https://laurentperrinet.github.io/talk/2022-06-19-neuro-vision-heterogeneous/2022-05-24_Supervised_MC_MC.mp4" autoplay="yes" >}}
 
 
 ---

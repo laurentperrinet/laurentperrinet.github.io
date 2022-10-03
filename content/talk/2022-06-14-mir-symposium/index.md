@@ -45,4 +45,6 @@ publication: '*MIR Symposium 2022 bio-inspired & Marine Robotics*'
 
 * for retinotopy, see: {{< cite page="/talk/2022-06-19-neuro-vision-retinotopic" view="4" >}}
 
-* for event-based computations, see: {{< cite page="/talk/2022-06-19-neuro-vision-heterosynaptic" view="4" >}}
+* for event-based computations, see: {{< cite page="/talk/2022-06-19-neuro-vision-heterogeneous" view="4" >}}
+
+* for event-based motion detection, see: {{< cite page="/publication/grimaldi-22-icip" view="4" >}}
