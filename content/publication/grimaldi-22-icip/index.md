@@ -38,7 +38,7 @@ publication_types:
 publishDate: '2022-06-21T08:00:50.371310Z'
 subtitle: ''
 tags: []
-title: Learning hetero-synaptic delays of spiking neurons for motion detection
+title: Learning heterogeneous delays of spiking neurons for motion detection
 url_pdf: https://2022.ieeeicip.org/
 ---
 

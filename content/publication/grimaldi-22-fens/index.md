@@ -25,7 +25,7 @@ tags:
 - homeostasis
 - neuromorphic hardware
 - online classification
-title: Learning hetero-synaptic delays of Spiking Neurons for motion detection
+title: Learning heterogeneous delays of Spiking Neurons for motion detection
 ---
 
 {{< tweet 1546471536571342849 >}}
