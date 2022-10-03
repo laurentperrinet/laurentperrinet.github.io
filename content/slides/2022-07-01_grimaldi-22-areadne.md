@@ -73,10 +73,10 @@ title: 2022-07-01_grimaldi-22-areadne
 
 
 ---
-## Learned hetero-synaptic weights
+## Learned heterogeneous weights
 ---
 
-{{< figure src="../../publication/grimaldi-22-areadne/2022-06-26_Supervised_nat-causal_kernel.png" title="Hetero-synaptic delays as convolution kernels." >}}
+{{< figure src="../../publication/grimaldi-22-areadne/2022-06-26_Supervised_nat-causal_kernel.png" title="Heterogeneous delays as convolution kernels." >}}
 
 ---
 
