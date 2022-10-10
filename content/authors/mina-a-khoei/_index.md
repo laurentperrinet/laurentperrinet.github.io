@@ -1,7 +1,7 @@
 ---
 authors:
 - mina-a-khoei
-bio: During my PhD, I focused on predictive coding and motion coherence.
+bio: Senior AI/ML scientist @ SynSense, Zurich, Switzerland.
 education:
   courses:
   - course: Senior AI/ML scientist
@@ -18,7 +18,10 @@ social:
   link: https://scholar.google.co.uk/citations?user=oHLjQTEAAAAJ
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/mina-a-khoei-58673526
+  link: https://www.linkedin.com/in/mina-a-khoei-58673526/
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Mina-A-Khoei
 superuser: false
 user_groups:
 - Former Students
