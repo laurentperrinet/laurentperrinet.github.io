@@ -30,7 +30,7 @@ user_groups:
 ---
 #  "Ultra-fast vision using Spiking Neural Networks" (PhD position, 2020-09 / 2023-09)
 
-* Venue: Aix-Marseille Université with the [APROVIS3D grant (ANR-19-CHR3-0008-03)](https://laurentperrinet.github.io/post/2020-06-30_phd-position/)
+* [APROVIS3D grant (ANR-19-CHR3-0008-03)](https://laurentperrinet.github.io/post/2020-06-30_phd-position/) at Aix-Marseille Université
 
 * Keywords: Vision, Spiking Neural Networks, Bio-Inspired Computer Vision
 
