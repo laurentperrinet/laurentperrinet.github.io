@@ -1,7 +1,7 @@
 ---
 authors:
 - angelo-franciosini
-bio: During my PhD, I am focusing on predictive coding in a bio-inspired neural network.
+bio: Biomedical Engineer @ Avicenna.AI.
 education:
   courses:
   - course: Phd candidate in Computational Neuroscience
@@ -19,9 +19,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Angelo_RDN
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/__r__d__n__/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/angelo-franciosini-325900132
+  link: https://www.linkedin.com/in/angelo-franciosini/
 superuser: false
 tags:
 - phd-icn

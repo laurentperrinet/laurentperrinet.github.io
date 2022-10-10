@@ -1,7 +1,7 @@
 ---
 authors:
 - victor-boutin
-bio: During my PhD, I focused on predictive coding in bio-inspired neural networks.
+bio: Post-doc @ Serre Lab, BRown University.
 education:
   courses:
   - course: Phd in Computational Neuroscience
@@ -13,6 +13,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/VictorBoutin
+- icon: external-link-alt
+  icon_pack: fas
+  link: https://serre-lab.clps.brown.edu/person/victor-boutin/
 superuser: false
 tags:
 - doc-2-amu

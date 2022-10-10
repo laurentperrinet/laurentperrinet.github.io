@@ -1,7 +1,7 @@
 ---
 authors:
 - alberto-vergani
-bio: During my Post-Doc, I am focusing on traveling waves in a bio-inspired neural network.
+bio: Post-doctoral Researcher @ Sant'Anna School of Advanced Studies, Pisa, Italy.
 title: Alberto Arturo Vergani
 role: Post-Doc in Computational Neuroscience (04/2020 - 09/2021)
 social:
@@ -18,6 +18,10 @@ social:
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCzxesD7KEVc55s5aQaZug4Q
+- icon: external-link-alt
+  icon_pack: fas
+  link: http://albertovergani.eu
+  
 superuser: false
 
 education:

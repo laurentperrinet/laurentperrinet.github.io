@@ -1,7 +1,7 @@
 ---
 authors:
 - wahiba-taouali
-bio: Motion Integration By V1 Population  (Post-Doc, 2013-03 / 2015-01).
+bio: Consulting manager @ Enthought, Cambridge, United Kingdom.
 education:
   courses:
   - course: PostDoc in Computational Neuroscience
@@ -15,7 +15,7 @@ role: PostDoc in Computational Neuroscience
 social:
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=oHLjQTEAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=t8cu3zUAAAAJ
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/wahiba-taouali/
