@@ -8,7 +8,11 @@ education:
     institution: Aix-Marseille Université
     year: 2019
 title: Kiana Mansour-Pour
-role: Phd in Computational Neuroscience
+role: Executive DirectorExecutive Director, Shotise
+social:
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/kiana-mansour-pour/?originalSubdomain=fr
 superuser: false
 user_groups:
 - Former Students
@@ -20,6 +24,7 @@ user_groups:
 
 * Thesis director: Anna Montagnini
 * Thesis co-supervisition: Guillaume Masson, Laurent Perrinet
+* https://college-doctoral.univ-amu.fr/en/soutenance/672
 
 ##  Description of the PHD thesis project
 

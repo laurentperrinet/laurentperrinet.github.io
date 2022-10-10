@@ -1,14 +1,14 @@
 ---
 authors:
 - angelo-franciosini
-bio: Biomedical Engineer @ Avicenna.AI.
+title: Angelo Franciosini
+bio: Phd candidate in Computational Neuroscience
+role: Biomedical Engineer @ Avicenna.AI.
 education:
   courses:
   - course: Phd candidate in Computational Neuroscience
     institution: Aix-Marseille Université
     year: 2021
-title: Angelo Franciosini
-role: Phd candidate in Computational Neuroscience
 social:
 - icon: github
   icon_pack: fab

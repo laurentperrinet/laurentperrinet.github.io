@@ -1,16 +1,15 @@
 ---
 authors:
 - jens-kremkow
-role: PI @ Neuroscience Research Center, Charité, Berlin, Germany. 
-bio: During my PhD, I focused on the interplay of Excitation and Inhibition in Visual
-  Cortical Circuits.
 education:
   courses:
   - course: Phd in Computational Neuroscience
     institution: Aix-Marseille Université
     year: 2009
 title: Jens Kremkow
-role: Phd in Computational Neuroscience
+role: PI @ Neuroscience Research Center, Charité, Berlin, Germany. 
+bio: During my PhD, I focused on the interplay of Excitation and Inhibition in Visual
+  Cortical Circuits.
 social:
 - icon: google-scholar
   icon_pack: ai

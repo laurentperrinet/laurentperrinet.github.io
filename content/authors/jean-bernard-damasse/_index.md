@@ -1,6 +1,7 @@
 ---
 authors:
 - jean-bernard-damasse
+role: MD, Marseille, France.
 bio: During my PhD, I focused on Gaze orientation and reinforcemnet learning.
 education:
   courses:

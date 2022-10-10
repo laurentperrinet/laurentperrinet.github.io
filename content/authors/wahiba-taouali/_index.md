@@ -1,7 +1,6 @@
 ---
 authors:
 - wahiba-taouali
-bio: Consulting manager @ Enthought, Cambridge, United Kingdom.
 education:
   courses:
   - course: PostDoc in Computational Neuroscience
@@ -11,7 +10,8 @@ education:
     institution: Aix-Marseille Université
     year: 2013
 title: Wahiba Taouali
-role: PostDoc in Computational Neuroscience
+role: Consulting manager @ Enthought, Cambridge, United Kingdom.
+bio: PostDoc in Computational Neuroscience
 social:
 - icon: google-scholar
   icon_pack: ai

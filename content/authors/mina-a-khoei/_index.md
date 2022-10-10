@@ -1,7 +1,6 @@
 ---
 authors:
 - mina-a-khoei
-bio: Senior AI/ML scientist @ SynSense, Zurich, Switzerland.
 education:
   courses:
   - course: Senior AI/ML scientist
@@ -11,7 +10,8 @@ education:
     institution: Aix-Marseille Université
     year: 2014
 title: Mina A Khoei
-role: Phd in Computational Neuroscience
+role: Senior AI/ML scientist @ SynSense, Zurich, Switzerland.
+bio: Phd in Computational Neuroscience
 social:
 - icon: google-scholar
   icon_pack: ai

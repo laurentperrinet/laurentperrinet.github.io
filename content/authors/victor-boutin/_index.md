@@ -1,14 +1,14 @@
 ---
 authors:
 - victor-boutin
-bio: Post-doc @ Serre Lab, BRown University.
 education:
   courses:
   - course: Phd in Computational Neuroscience
     institution: Aix-Marseille Université
     year: 2020
 title: Victor Boutin
-role: Phd in Computational Neuroscience
+role: Post-doc @ Serre Lab, BRown University.
+bio: Phd in Computational Neuroscience
 social:
 - icon: github
   icon_pack: fab
