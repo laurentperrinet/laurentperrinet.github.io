@@ -2,7 +2,7 @@
 authors:
 - jonathan-vacher
 title: Jonathan Vacher
-bio: Maître de Conférence (Associate Professor) @ MAP5, Université Paris-Cité.
+role: Maître de Conférence (Associate Professor) @ MAP5, Université Paris-Cité.
 superuser: false
 user_groups:
 - Collaborators
@@ -22,6 +22,7 @@ social:
 
 ---
 
+Main collaborative work:
 
 * {{< cite page="/publication/vacher-15-nips" view="4" >}}
 * {{< cite page="/publication/vacher-16" view="4" >}}
