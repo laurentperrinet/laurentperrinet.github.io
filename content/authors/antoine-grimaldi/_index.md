@@ -36,6 +36,11 @@ user_groups:
 
 * Thesis director: Dr. Laurent PERRINET, Research unit: Institut de Neurosciences de la Timone (INT)
 
+## Main publications
+
+* {{< cite page="/publication/vacher-15-nips" view="4" >}}
+* {{< cite page="/publication/grimaldi-22-pami" view="4" >}}
+
 
 ## Detailed description: "Ultra-fast vision using Spiking Neural Networks"
 
