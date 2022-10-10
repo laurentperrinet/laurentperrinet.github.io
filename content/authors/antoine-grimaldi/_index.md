@@ -38,7 +38,7 @@ user_groups:
 
 ## Main publications
 
-* {{< cite page="/publication/vacher-15-nips" view="4" >}}
+* {{< cite page="/publication/grimaldi-22-icip" view="4" >}}
 * {{< cite page="/publication/grimaldi-22-pami" view="4" >}}
 
 
