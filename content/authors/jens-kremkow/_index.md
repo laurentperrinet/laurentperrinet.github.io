@@ -1,6 +1,7 @@
 ---
 authors:
 - jens-kremkow
+role: PI @ Neuroscience Research Center, Charité, Berlin, Germany. 
 bio: During my PhD, I focused on the interplay of Excitation and Inhibition in Visual
   Cortical Circuits.
 education:
@@ -13,13 +14,16 @@ role: Phd in Computational Neuroscience
 social:
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=oHLjQTEAAAAJ
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/mina-a-khoei-58673526/
+  link: https://scholar.google.com/citations?user=YEdekcAAAAAJ
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Mina-A-Khoei
+  link: https://www.researchgate.net/profile/Jens-Kremkow
+- icon: external-link-alt
+  icon_pack: fas
+  link: http://jens.kremkow.de
+- icon: twitter
+  icon_pack: fab
+  link: http://twitter.com/KremkowL
 superuser: false
 user_groups:
 - Former Students
