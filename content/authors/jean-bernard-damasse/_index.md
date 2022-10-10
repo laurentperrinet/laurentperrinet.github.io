@@ -7,6 +7,10 @@ education:
   - course: Phd in Computational Neuroscience
     institution: Aix-Marseille Université
     year: 2017
+social:
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Jean-Bernard-Damasse-2
 title: Jean-Bernard Damasse
 role: Phd in Computational Neuroscience
 superuser: false

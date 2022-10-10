@@ -1,7 +1,7 @@
 ---
 authors:
 - nicole-voges
-bio: Motion Integration By V1 Population  (Post-Doc, 2013-03 / 2015-01).
+bio: Neuroscientist & Data Analyst, Wennigsen, Lower Saxony, Germany.
 education:
   courses:
   - course: PostDoc in Computational Neuroscience
