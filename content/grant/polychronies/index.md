@@ -28,4 +28,4 @@ By extending this paradigm to a hierarchy, we envision practical applications of
 ## Latest news
 
 - 2022-07-18: Le projet Polychronies est [lauréat de l'appel à projets « Interdisciplinarité »](https://www.univ-amu.fr/fr/public/lancement-de-lappel-projets-interdisciplinarite-2021) !
-- 2022-02-27: read our [complete proposal](2022-02-27_AMIDEX_PerrinetCossartSchatz_Applicationform-AAP-Interdisciplinarité-2021.pdf).
+- 2022-02-27: read our [complete proposal](2022-02-27_AMIDEX_PerrinetCossartSchatz_Applicationform-AAP-Interdisciplinarite-2021.pdf).
