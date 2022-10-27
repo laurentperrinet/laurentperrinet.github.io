@@ -6,6 +6,9 @@ summary: 'BrainScaleS: Brain-inspired multiscale computation in neuromorphic hyb
 tags:
 - grant
 - past-grant
+authors:
+- yves-fregnac
+- laurent-u-perrinet
 title: 'BrainScaleS (2011/2014) '
 ---
 List of publications that were funded by European Union's project Number FP7-269921, "[BrainScales](http://brainscales.kip.uni-heidelberg.de/)".

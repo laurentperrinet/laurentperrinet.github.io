@@ -4,6 +4,9 @@ summary: 'FACETS: Fast Analog Computing with Emergent Transient States (2006/201
 tags:
 - grant
 - past-grant
+authors:
+- yves-fregnac
+- laurent-u-perrinet
 title: FACETS (2006/2010)
 ---
 List of publications that were funded by the

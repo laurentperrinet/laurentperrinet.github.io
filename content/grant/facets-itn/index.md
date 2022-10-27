@@ -4,6 +4,9 @@ summary: 'FACETS-ITN: From Neuroscience to neuro-inspired computing (2010/2013)'
 tags:
 - grant
 - past-grant
+authors:
+- yves-fregnac
+- laurent-u-perrinet
 title: FACETS-ITN (2010/2013)
 ---
 FACETS-ITN: From Neuroscience to neuro-inspired computing (2010/2013)

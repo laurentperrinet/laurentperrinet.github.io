@@ -19,8 +19,6 @@ Karl Friston is a theoretical neuroscientist and authority on brain imaging. He 
 
 ## Collaborative publications
 
-I had the chance to visit the theoretical group of Karl Friston at Wellcome Trust Centre for Neuroimaging (University College London) from November 2010 to February 2012. This led to a collaborative on modelling eye movements using active inference {{< cite page="/publication/friston-12" view="citation" >}} in persons without or with schizophrenia {{< cite page="/publication/adams-12" view="citation" >}}. Notably, we established a model accounting for sensory-motor delays {{< cite page="/publication/perrinet-adams-friston-14" view="citation" >}}.
-
 
 * {{< cite page="/publication/friston-12" view="4" >}}
 * {{< cite page="/publication/adams-12" view="4" >}}
