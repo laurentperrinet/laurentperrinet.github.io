@@ -18,8 +18,5 @@ Yves Frégnac is Emeritus Research Director (DRCE2, Exceptional Class) at the Ce
 
 ## Collaborative publications
 
-I had the chance to collaborate with Yves Frégnac as part of numerous consortiums ({{< cite page="/grant/facets/" view="citation" >}}, {{< cite page="/grant/brain-scales/" view="citation" >}}, {{< cite page="/grant/anr-horizontal-v1/" view="citation" >}}). This allowed us to establish a direct collaboration with Jens Kremkow which led to modelling work on feed-forward inhibition {{< cite page="/publication/kremkow-08-sfn/" view="citation" >}} and a model accounting for the observed sparseness of neural activity when presenting natural images {{< cite page="/publication/kremkow-16" view="citation" >}}.
-
-
 * {{< cite page="/publication/kremkow-08-sfn" view="4" >}}
 * {{< cite page="/publication/kremkow-16" view="4" >}}
