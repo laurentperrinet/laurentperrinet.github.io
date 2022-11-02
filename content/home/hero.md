@@ -58,8 +58,10 @@ Let's admit it: brains are not computers. Indeed, computers are still deceptive 
 To narrow the gap between neuroscience and the theory of sensory processing computations, I am interested in *bridging  geometrical regularities found in natural scenes with the properties of neural computations* as they are observed in  sensory processes or behavior.
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/laurentperrinet" data-size="large" data-show-count="true" aria-label="Follow @laurentperrinet on GitHub">Follow @laurentperrinet on Twitter</a> <a rel="me" href="https://scholar.social/@laurentperrinet">Follow @laurentperrinet on Mastodon</a>
+<a class="github-button" href="https://github.com/laurentperrinet" data-size="large" data-show-count="true" aria-label="Follow @laurentperrinet on GitHub">Follow @laurentperrinet on Twitter</a>.
 <!--  <a class="twitter-button" href="https://github.com/laurentperrinet" data-size="large" data-show-count="true" aria-label="Follow @laurentperrinet on Twitter">Follow @laurentperrinet</a> -->
 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+ <a rel="me" href="https://scholar.social/@laurentperrinet">Follow @laurentperrinet on Mastodon!</a>
