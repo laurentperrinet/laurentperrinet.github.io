@@ -1,6 +1,7 @@
 ---
 authors:
 - alberto-vergani
+- laurent-u-perrinet
 date: 2021-06-15 00:00:00
 draft: false
 lastmod: 2021-06-15 00:00:00
@@ -11,6 +12,11 @@ summary:  Neural Turing Patterns
 tags:
 - art-science
 title: Neural Turing Patterns
+image:
+  caption: © Neural Turing Patterns - Alberto Vergani & Laurent Perrinet.
+  focal_point: Center
+  placement: 2
+  preview_only: false
 ---
 # Neural Turing Patterns
 

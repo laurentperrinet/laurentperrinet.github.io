@@ -9,11 +9,11 @@ authors:
 - Emmanuel Daucé
 - Laurent U Perrinet
 tags:
-- efficient coding
-- event-based vision
-- homeostasis
-- neuromorphic hardware
-- online classification
+- Active Inference
+- Deep Learning
+- Object localization
+- Visual search
+- Visuomotor control
 categories: []
 date: '2022-06-19'
 lastmod: 2022-05-20T13:12:28+02:00

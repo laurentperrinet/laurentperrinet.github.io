@@ -5,6 +5,7 @@ update:
 
 diff:
 	opendiff ../academic-admin/academic/import_bibtex.py  scripts/update_metadata.py
+
 gitpages:
 	cd public; git checkout master; git pull
 	cd scripts; sh update_gitpages.sh
