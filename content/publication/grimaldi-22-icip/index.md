@@ -19,6 +19,7 @@ authors:
 - Laurent U Perrinet
 categories: []
 date: 2022-10-16
+doi: 10.1109/ICIP46576.2022.9897394
 draft: false
 featured: false
 grants:
@@ -39,7 +40,7 @@ publishDate: '2022-06-21T08:00:50.371310Z'
 subtitle: ''
 tags: []
 title: Learning heterogeneous delays of spiking neurons for motion detection
-url_pdf: https://2022.ieeeicip.org/
+url_pdf: https://ieeexplore.ieee.org/document/9897394/
 ---
 
 * to be presented at [ICIP 2022](https://2022.ieeeicip.org) 16-19 October 2022 in Bordeaux, France
