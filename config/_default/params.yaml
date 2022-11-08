@@ -96,7 +96,7 @@ features:
   # https://wowchemy.com/docs/hugo-tutorials/search/#algolia  
   search:
     provider: algolia
-    docsearch:
+    algolia:
       app_id: '0B449970CT'
       api_key: '54cd6f64ff0dc9de30bbd920ff6bb4f9'
       index_name: 'laurentperrinet'      
