@@ -91,13 +91,17 @@ features:
   #     api_key: ''
   #     index_name: ''
   #     show_logo: false
+
   # https://wowchemy.com/docs/hugo-tutorials/search/#docsearch
+  # https://wowchemy.com/docs/hugo-tutorials/search/#algolia
   search:
-    provider: docsearch
+    provider: algolia
     docsearch:
       app_id: '0B449970CT'
       api_key: '54cd6f64ff0dc9de30bbd920ff6bb4f9'
       index_name: 'website'      
+      show_logo: true
+
   map:
     provider: ''
     api_key: ''
