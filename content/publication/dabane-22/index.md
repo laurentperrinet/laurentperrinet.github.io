@@ -39,3 +39,5 @@ title: 'What You See Is What You Transform: Foveated Spatial Transformers as a B
   Attention Mechanism'
 url_page: https://www.techrxiv.org/articles/preprint/What_You_See_Is_What_You_Transform_Foveated_Spatial_Transformers_as_a_bio-inspired_attention_mechanism/16550391/1
 ---
+
+IJCNN
