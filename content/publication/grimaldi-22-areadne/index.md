@@ -42,8 +42,8 @@ tags:
 - polychronies
 - efficient coding
 - event-based vision
-- homeostasis
 - neuromorphic hardware
+- homeostasis
 - online classification
 title: Decoding spiking motifs using neurons with heterogeneous delays
 url_pdf: https://areadne.org/

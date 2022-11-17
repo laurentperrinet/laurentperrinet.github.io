@@ -12,7 +12,10 @@ authors:
 - Laurent U Perrinet
 - Bernabé Linares-Barranco
 - Teresa Serrano-Gotarredona
-tags: []
+tags:
+- efficient coding
+- event-based vision
+- neuromorphic hardware
 categories: []
 date: '2022-01-01'
 lastmod: 2022-11-17T12:15:57+01:00

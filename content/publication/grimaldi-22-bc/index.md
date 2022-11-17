@@ -7,6 +7,8 @@ authors:
 - Antoine Grimaldi
 - Laurent U Perrinet
 tags:
+- efficient coding
+- neuromorphic hardware
 - polychronies
 categories: []
 date: '2022-01-01'
