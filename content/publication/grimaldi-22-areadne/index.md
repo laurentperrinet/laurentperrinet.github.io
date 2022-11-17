@@ -39,6 +39,7 @@ publishDate: '2022-06-16T11:51:41.890310Z'
 slides: 2022-07-01_grimaldi-22-areadne
 subtitle: ''
 tags:
+- polychronies
 - efficient coding
 - event-based vision
 - homeostasis

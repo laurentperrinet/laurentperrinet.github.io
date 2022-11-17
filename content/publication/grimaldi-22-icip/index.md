@@ -38,7 +38,10 @@ publication_types:
 - '1'
 publishDate: '2022-06-21T08:00:50.371310Z'
 subtitle: ''
-tags: []
+tags:
+- polychronies
+- event-based vision
+- neuromorphic hardware
 title: Learning heterogeneous delays of spiking neurons for motion detection
 url_pdf: https://ieeexplore.ieee.org/document/9897394/
 ---

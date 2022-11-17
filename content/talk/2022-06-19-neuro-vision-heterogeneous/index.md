@@ -8,9 +8,10 @@ authors:
 - Antoine Grimaldi
 - Laurent U Perrinet
 tags:
+- polychronies
 - efficient coding
-- event-based vision
 - homeostasis
+- event-based vision
 - neuromorphic hardware
 - online classification
 categories: []

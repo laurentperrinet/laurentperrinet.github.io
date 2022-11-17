@@ -10,7 +10,8 @@ authors:
 - Camille Besnainou
 - Jean Martinet
 - Laurent U Perrinet
-tags: []
+tags:
+- polychronies
 categories: []
 date: '2022-01-01'
 lastmod: 2022-11-17T12:15:57+01:00

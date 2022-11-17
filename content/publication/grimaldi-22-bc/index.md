@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Learning heterogeneous delays in a layer of spiking neurons for fast motion
   detection
 subtitle: ''
@@ -8,7 +6,8 @@ summary: ''
 authors:
 - Antoine Grimaldi
 - Laurent U Perrinet
-tags: []
+tags:
+- polychronies
 categories: []
 date: '2022-01-01'
 lastmod: 2022-11-17T12:15:57+01:00
@@ -35,3 +34,5 @@ publication_types:
 abstract: ''
 publication: '*preparation*'
 ---
+
+* a follow-up of  {{< cite page="/publication/grimaldi-22-icip" view="4" >}}

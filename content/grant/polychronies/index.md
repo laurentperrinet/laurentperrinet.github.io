@@ -12,9 +12,9 @@ image:
   preview_only: false
 
 tags:
+- polychronies
 - grant
 - current-grant
-- polychronies
 title: Polychronies (2022 / 2025)
 ---
 ## Description

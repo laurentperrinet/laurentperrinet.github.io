@@ -20,6 +20,7 @@ publication_types:
 publishDate: '2022-06-16T11:51:41.890310Z'
 subtitle: ''
 tags:
+- polychronies
 - efficient coding
 - event-based vision
 - homeostasis
