@@ -47,6 +47,7 @@ url_code: https://github.com/laurentperrinet/Khoei_2017_PLoSCB
 url_pdf: https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/
 url_preprint: https://hal-amu.archives-ouvertes.fr/hal-01771125
 url_press: http://www.cnrs.fr/insb/recherche/parutions/articles2017/l-perrinet.html
+slides: "2022-11-21_flash-lag-effect"
 ---
 
 * [Press release](http://www.cnrs.fr/insb/recherche/parutions/articles2017/l-perrinet.html")
