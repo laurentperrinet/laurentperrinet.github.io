@@ -178,6 +178,13 @@ Motion-based prediction ([Perrinet *et al*, 2012](https://laurentperrinet.github
 
 {{< video src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_dot_spatial_readout.mp4?raw=true" autoplay="yes" >}} -->
 
+---
+
+{{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4"  autoplay="yes" >}}
+
+---
+
+{{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4"  autoplay="yes" >}}
 
 ---
 
@@ -208,6 +215,14 @@ PBP_flash_spatial_readout.mp4
 https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_dot_spatial_readout.mp4?raw=true
 
 PBP_spatial_readout.mp4
+
+
+src="../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4" khoei-masson-perrinet-17
+
+
+ create mode 100644 publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4
+ create mode 100644 publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4
+
  -->
 
 
