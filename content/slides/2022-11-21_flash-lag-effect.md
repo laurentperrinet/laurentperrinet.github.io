@@ -5,7 +5,7 @@ date: 2022-11-21
 
 slides:
  theme: "white" # Reveal JS theme name
-
+ 
 title: 2022-11-21_flash-lag-effect
 
 ---
