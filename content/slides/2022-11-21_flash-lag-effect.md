@@ -2,6 +2,10 @@
 authors:
 - Laurent U Perrinet
 date: 2022-11-21
+tags:
+- Bayesian model
+- motion prediction
+- psychophysics
 
 slides:
  theme: "white" # Reveal JS theme name
@@ -9,7 +13,6 @@ slides:
 title: 2022-11-21_flash-lag-effect
 
 ---
-
 
 <table width="100%">
 <tr>
@@ -25,7 +28,6 @@ __[2022-11-21] Alex Reynaud's lab meeting__
 
 <p style="color:blue;font-size:25px;">
 <a href="https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect">https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect</a></p>
-
 
 {{< speaker_note >}}
 
@@ -132,9 +134,7 @@ Motion-based prediction ([Perrinet *et al*, 2012](https://laurentperrinet.github
 
 ---
 
-
 {{< video src="https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag.mp4" autoplay="yes" >}}
-
 
 ---
 
@@ -142,8 +142,14 @@ Motion-based prediction ([Perrinet *et al*, 2012](https://laurentperrinet.github
 
 ---
 
-{{< figure src="https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.1371/journal.pcbi.1005068.g002" width="100%" title="Diagonal markov model ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." >}}
+{{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_DiagonalMarkov.jpg" width="100%" title="Diagonal markov model ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." >}}
+
 <!--
+---
+
+{{< figure src="https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.1371/journal.pcbi.1005068.g002" width="100%" title="Diagonal markov model ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." >}}
+
+https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.1371/journal.pcbi.1005068.g002
 ---
 
 {{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_DiagonalMarkov.jpg" width="95%" title="Diagonal markov" >}}
@@ -178,13 +184,23 @@ Motion-based prediction ([Perrinet *et al*, 2012](https://laurentperrinet.github
 
 {{< video src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_dot_spatial_readout.mp4?raw=true" autoplay="yes" >}} -->
 
----
+<!-- ---
 
 {{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4"  autoplay="yes" >}}
+
+Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)).
 
 ---
 
 {{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4"  autoplay="yes" >}}
+
+Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)). -->
+
+---
+
+{{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4"  autoplay="yes" >}}{{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4"  autoplay="yes" >}}
+
+Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)).
 
 ---
 
