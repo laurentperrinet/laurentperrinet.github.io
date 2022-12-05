@@ -46,6 +46,7 @@ title: Learning heterogeneous delays of spiking neurons for motion detection
 url_pdf: https://ieeexplore.ieee.org/document/9897394/
 ---
 
+* see a follow-up as journal paper: {{< cite page="/publication/grimaldi-22-bc" view="4" >}}
 * to be presented at [ICIP 2022](https://2022.ieeeicip.org) 16-19 October 2022 in Bordeaux, France
 * paper [3241](https://cmsworkshops.com/ICIP2022/papers/accepted_papers.php) (note that the title of the paper was slightly changed)
 * time of presentation:
@@ -53,6 +54,7 @@ url_pdf: https://ieeexplore.ieee.org/document/9897394/
  * Tue, 18 Oct, 14:30 - 14:45 Central European Time (UTC +2)
  * Tue, 18 Oct, 12:30 - 12:45 UTC
  * Tue, 18 Oct, 08:30 - 08:45 Eastern Time (UTC -4)
+
 ## Session "Neuromorphic and perception-based image acquisition and analysis"
 * [TQ-L.A Special session on Tueasday, October 18 from 14:00 to 16:00](https://cmsworkshops.com/ICIP2022/view_session.php?SessionID=1009)
 [![program.png](program.png)](https://cmsworkshops.com/ICIP2022/view_session.php?SessionID=1009)

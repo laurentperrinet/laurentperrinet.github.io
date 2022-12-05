@@ -16,7 +16,7 @@ image:
   preview_only: false
 lastmod: 2022-11-17 12:15:57+01:00
 projects: []
-publication: '*preparation*'
+publication: '*Submitted*'
 publication_types:
 - '2'
 publishDate: '2022-11-17T11:15:57.021954Z'
