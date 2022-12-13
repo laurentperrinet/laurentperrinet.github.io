@@ -42,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} <a rel="me" href="https://scholar.social/@laurentperrinet">Me</a>. This work is licensed under {license}'
+    notice: '© {year} <a rel="me" href="https://neuromatch.social/@laurentperrinet">Mastodon</a>. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

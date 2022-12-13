@@ -96,7 +96,7 @@ content:
     - icon: mastodon
       icon_pack: fab
       name: mastodon
-      link: https://scholar.social/web/@laurentperrinet
+      link: https://neuromatch.social/@laurentperrinet
 
 design:
   columns: '2'
