@@ -95,7 +95,8 @@ features:
   # https://wowchemy.com/docs/hugo-tutorials/search/#docsearch
   # https://wowchemy.com/docs/hugo-tutorials/search/#algolia  
   search:
-    provider: algolia
+    # provider: algolia
+    provider: docsearch
     # provider: wowchemy
 
     wowchemy:
@@ -105,6 +106,12 @@ features:
     algolia:
       app_id: 'LTSUEMOTRB'
       api_key: 'fef85bd52c221d066922d67c54a7968e'
+      index_name: 'laurentperrinet'
+      show_logo: false
+
+    docsearch:
+      app_id: 'LTSUEMOTRB'
+      api_key: '1d1fc9a2d13f20418a4a07312b56e748'
       index_name: 'laurentperrinet'
       show_logo: false
 
