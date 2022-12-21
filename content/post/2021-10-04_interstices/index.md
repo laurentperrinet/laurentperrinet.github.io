@@ -23,7 +23,6 @@ image:
 {{< gallery album="2021-10-04_interstices" >}}
 
 
-
 * Dimensions: 134 X 91 X 21 CM
 * Miroirs / Bois
 
