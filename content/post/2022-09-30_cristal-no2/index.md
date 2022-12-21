@@ -15,13 +15,9 @@ tags:
 image:
   caption: 'Image credit: Etienne Rey'
 
-
 ---
 
 # Cristal N°2 - Arbre théorique / 2014
-
-{{< gallery album="2021-10-04_interstices" >}}
-
 
 * Dimensions: 134 X 91 X 21 CM
 * Miroirs / Bois
