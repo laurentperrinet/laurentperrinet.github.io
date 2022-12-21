@@ -95,11 +95,13 @@ features:
   # https://wowchemy.com/docs/hugo-tutorials/search/#docsearch
   # https://wowchemy.com/docs/hugo-tutorials/search/#algolia  
   search:
-    provider: wowchemy
+    provider: algolia
+    # provider: wowchemy
+    
     wowchemy:
       min_length: 1  # Only the matches whose length exceeds this value will be returned.
       threshold: 0.3  # Where 0 requires a perfect match and 1 matches anything.
-    # provider: algolia
+    
     algolia:
       app_id: 'LTSUEMOTRB'
       api_key: '1d1fc9a2d13f20418a4a07312b56e748'
