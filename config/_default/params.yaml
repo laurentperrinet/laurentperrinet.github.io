@@ -104,7 +104,7 @@ features:
     
     algolia:
       app_id: 'LTSUEMOTRB'
-      api_key: '1d1fc9a2d13f20418a4a07312b56e748'
+      api_key: 'fef85bd52c221d066922d67c54a7968e'
       index_name: 'laurentperrinet'
       show_logo: false
 
