@@ -35,7 +35,7 @@ image:
   preview_only: false
 lastmod: 2022-11-17 12:15:57+01:00
 projects: []
-publication: '*Submitted*'
+publication: '*Brain Sciences*'
 publication_types:
 - '2'
 publishDate: '2022-11-17T11:15:57.453425Z'
@@ -44,3 +44,5 @@ tags:
 - polychronies
 title: Precise spiking motifs in neurobiological and neuromorphic data
 ---
+
+{{< video src="2022-12-23_polychrony-review_video-abstract.mp4" controls="yes" >}}
