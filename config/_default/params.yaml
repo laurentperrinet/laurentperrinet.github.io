@@ -94,6 +94,7 @@ features:
 
   # https://wowchemy.com/docs/hugo-tutorials/search/#docsearch
   # https://wowchemy.com/docs/hugo-tutorials/search/#algolia  
+  
   search:
     # provider: algolia
     provider: docsearch
