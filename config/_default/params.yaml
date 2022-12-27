@@ -97,8 +97,8 @@ features:
   
   search:
     # provider: algolia
-    provider: docsearch
-    # provider: wowchemy
+    # provider: docsearch
+    provider: wowchemy
 
     wowchemy:
       min_length: 1  # Only the matches whose length exceeds this value will be returned.
