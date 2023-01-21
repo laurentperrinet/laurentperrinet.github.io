@@ -1,16 +1,16 @@
 ---
 authors:
 - Laurent U Perrinet
-date: 2022-11-21
+date: 2023-01-23
 tags:
 - Bayesian model
-- motion prediction
+- neuroscience
 - psychophysics
 
 slides:
  theme: "white" # Reveal JS theme name
  
-title: 2022-11-21_flash-lag-effect
+title: Game theory and brain strategies
 
 ---
 
@@ -27,7 +27,7 @@ title: 2022-11-21_flash-lag-effect
 __[2022-11-21] Alex Reynaud's lab meeting__
 
 <p style="color:blue;font-size:25px;">
-<a href="https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect">https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect</a></p>
+<a href="https://laurentperrinet.github.io/slides/2023-01-23_game-theory-and-the-brain">https://laurentperrinet.github.io/slides/2023-01-23_game-theory-and-the-brain</a></p>
 
 {{< speaker_note >}}
 
