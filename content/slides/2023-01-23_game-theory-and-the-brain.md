@@ -46,7 +46,7 @@ __[2023-01-23] Atelier jeu et cerveau__
 - What is noise? the uncertainty due to noise is symbolized by dices: a throw of fair dices, even if they are optimally simulated can not be predicted: the outcome is uniformly one facet from 1 to 6
 - I am interested in vision, and uncertainty exists in different forms
 - If we consider the image, can be noise at low contrast, complexity of the object, pose of the dice
-- in this presentation, we will see different facets of noise and uncertainty, and illustrate how our brains may play with it - and delineate a theory for this game. we will also see how it may harness the noise by explictly representing it in the neural activity
+- in this presentation, we will see different facets of noise and uncertainty, and illustrate how our brains may play with it - and delineate a theory for this game. we will also see how it may harness the noise by explicitly representing it in the neural activity
 
 {{< /speaker_note >}}
 
@@ -68,6 +68,8 @@ __[2023-01-23] Atelier jeu et cerveau__
 - what is noise? it exists at quantum level, but if I were to ask you to draw random points how would it look like?
 - Aleatoric comes from alea, the Latin word for “dice.” Aleatoric uncertainty is the uncertainty introduced by the randomness of an event. For example, the result of flipping a coin is an aleatoric event.
 - In your opinion, which of the two is the most random pattern?
+- from your responses ...
+- the answer is that ...
 
 {{< /speaker_note >}}
 
@@ -80,6 +82,8 @@ __[2023-01-23] Atelier jeu et cerveau__
 - this was for instance used by the artist Etienne Rey to generate large panels
 - our perception will generate objects out of nowhere: surfaces, groups, holes...
 
+- this explains many cognitive biases, for instance that we expect noise to have some regularity and that we wish to explain any cluster of events by some god-like divinity...
+
 {{< /speaker_note >}}
 
 ---
@@ -87,7 +91,6 @@ __[2023-01-23] Atelier jeu et cerveau__
 ## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
 
 {{< figure width="50%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Face-on-mars.jpg" title="[Cydonia Mensae (1976) *Viking Orbiter image*](https://fr.wikipedia.org/wiki/Cydonia_Mensae)" >}}
-
 
 {{< speaker_note >}}
 
@@ -119,8 +122,8 @@ __[2023-01-23] Atelier jeu et cerveau__
 - conclusion 1: information pops out from noise
 - conclusion 2: further information may change the interpretation
 
-{{< /speaker_note >}}
 
+{{< /speaker_note >}}
 
 ---
 
@@ -130,8 +133,8 @@ __[2023-01-23] Atelier jeu et cerveau__
 
 {{< speaker_note >}}
 
-- Only the speaker can read these notes
-- Press `S` key to view
+- to test this in the lab, we analyzed the response of observers to a sequences of left / right moving dots
+- These were presented in multiple blocks of 50 trials for which we recorded eye movements and, on a subsequent day, asked them
 
 {{< /speaker_note >}}
 
@@ -161,10 +164,18 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 
 {{< speaker_note >}}
 
-- Only the speaker can read these notes
-- Press `S` key to view
+- to simplify the problem, let's show these sequences as the sequence of these 2 emojis
+- In sequence A, what do you think the next
 
-🤘 
+- the same question could be asked in an online fashion
+
+- in sequence B, it's certainly the same answer, yet with lower certitude
+
+- in sequence C, you go metal 🤘
+
+- in sequence D, it's different there is a clearly a tendance for 🤘but that it switches to 👍
+
+- is it possible that the brain may detect such switches?
 
 {{< /speaker_note >}}
 
@@ -177,8 +188,11 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 
 {{< speaker_note >}}
 
-- Only the speaker can read these notes
-- Press `S` key to view
+- to synthesize, we have a generative model
+
+- we found the mathematically optimal problem - and found that both eye movements + bets follow the model with switches
+
+- The aleatoric noise is transformed into a measure of knowledge = epistemic noise
 
 {{< /speaker_note >}}
 
@@ -186,7 +200,7 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 ---
 
 # Epistemic noise
-
+<!-- 
 ---
 
 # Playing with noise
@@ -195,6 +209,8 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/6/67/Rock-paper-scissors.svg" title="Nash equilibrium ([Rock paper scissors](https://en.wikipedia.org/wiki/Rock_paper_scissors))." width="70%" >}}
 
 {{< speaker_note >}}
+
+- let's go back to game theory
 
 - Rock paper scissors: Its French name, "Chi-fou-mi", is based on the Old Japanese words for "one, two, three" ("hi, fu, mi").
 
@@ -212,9 +228,9 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 {{< speaker_note >}}
 
 - Only the speaker can read these notes
-- uncertainty comes not from aleatoric noise but from not knowing: epistemic uncertaintyy
+- uncertainty comes not from aleatoric noise but from not knowing: epistemic uncertainty
 
-{{< /speaker_note >}}
+{{< /speaker_note >}} -->
 
 
 ---
