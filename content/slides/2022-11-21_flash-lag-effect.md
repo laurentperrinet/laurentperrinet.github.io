@@ -9,14 +9,14 @@ tags:
 
 slides:
  theme: "white" # Reveal JS theme name
- 
+
 title: 2022-11-21_flash-lag-effect
 
 ---
 
-<table width="100%">
+<table width="100%"> 
 <tr>
-	<th width="80%"> 
+	<th width="80%">
 	<img src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/header.png" width="100%" >
 	<th width="20%">
 	<img src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/coverart.jpg" width="100%" >
@@ -36,13 +36,13 @@ __[2022-11-21] Alex Reynaud's lab meeting__
 
 {{< /speaker_note >}}
 
-<!-- 
+<!--
 ---
 
 
 <table width="100%">
 <tr>
-	<th width="80%"> 
+	<th width="80%">
 	{{< figure src="../../publication/khoei-masson-perrinet-17/header.png" >}}	</th>
 	<th width="20%">
 	{{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/coverart.jpg" >}}
@@ -97,7 +97,7 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
 ---
 
 {{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/aperture_aperture.mp4" autoplay="yes" width="100%" >}}
-<!-- 
+<!--
 ---
 
 {{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/aperture_box.mp4" autoplay="yes" width="100%" >}} -->
@@ -161,7 +161,7 @@ https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.137
 ---
 
 {{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_DiagonalMarkov_pull.jpg" width="95%" title="Diagonal markov (pull)" >}} -->
-<!-- 
+<!--
 ---
 
 

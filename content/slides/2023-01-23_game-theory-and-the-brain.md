@@ -2,6 +2,7 @@
 authors:
 - Laurent U Perrinet
 date: 2023-01-23
+publishDate: 2023-01-21
 tags:
 - Bayesian model
 - neuroscience
@@ -10,32 +11,8 @@ tags:
 slides:
  theme: "white" # Reveal JS theme name
 
-title: Game theory and brain strategies
+title: 2023-01-23_game-theory-and-the-brain
 
----
-
-<table width="100%">
-<tr>
-	<th width="80%">
-	Game theory and brain strategies
-	<!-- <img src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/header.png" width="100%" > -->
-	<th width="20%">
-	<img src="https://laurentperrinet.github.io/publication/perrinet-21-hasard/featured.jpg" width="100%" >
-	</th>
-</tr>
-</table>
-
-__[2023-01-23] Atelier jeu et cerveau__
-
-<p style="color:blue;font-size:25px;">
-<a href="https://laurentperrinet.github.io/slides/2023-01-23_game-theory-and-the-brain">https://laurentperrinet.github.io/slides/2023-01-23_game-theory-and-the-brain</a></p>
-
-{{< speaker_note >}}
-
-- Only the speaker can read these notes
-- Press `S` key to view
-
-{{< /speaker_note >}}
 
 ---
 ## Noise, uncertainty and game theory
