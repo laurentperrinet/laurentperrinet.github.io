@@ -28,6 +28,7 @@ __[2023-01-23] Atelier jeu et cerveau__
 
 - Only the speaker can read these notes
 - Press `S` key to view
+- Photo by Naser Tamimi on Unsplash https://unsplash.com/fr/photos/yG9pCqSOrAg
 
 {{< /speaker_note >}}
 
@@ -42,7 +43,7 @@ __[2023-01-23] Atelier jeu et cerveau__
 
 {{< speaker_note >}}
 
-- What is noise? the uncertainty due to noise is symbolized by dices: aa throw of fair dices, even if they are optimally simulated can not be predicted: the outcome is uniformly one facet from 1 to 6
+- What is noise? the uncertainty due to noise is symbolized by dices: a throw of fair dices, even if they are optimally simulated can not be predicted: the outcome is uniformly one facet from 1 to 6
 - I am interested in vision, and uncertainty exists in different forms
 - If we consider the image, can be noise at low contrast, complexity of the object, pose of the dice
 - in this presentation, we will see different facets of noise and uncertainty, and illustrate how our brains may play with it - and delineate a theory for this game. we will also see how it may harness the noise by explictly representing it in the neural activity
@@ -65,6 +66,7 @@ __[2023-01-23] Atelier jeu et cerveau__
 {{< speaker_note >}}
 
 - what is noise? it exists at quantum level, but if I were to ask you to draw random points how would it look like?
+- Aleatoric comes from alea, the Latin word for “dice.” Aleatoric uncertainty is the uncertainty introduced by the randomness of an event. For example, the result of flipping a coin is an aleatoric event.
 - In your opinion, which of the two is the most random pattern?
 
 {{< /speaker_note >}}
@@ -139,28 +141,30 @@ __[2023-01-23] Atelier jeu et cerveau__
 
 ```
 
-A: 👍👍👍👍👎👍👍👍👍👍👎👍👍👍👍👎👍👍👍👍👍👎👍👎👍👍👍👍👍👎 ?
+A: 👍👍👍👍🤘👍👍👍👍👍🤘👍👍👍👍🤘👍👍👍👍👍🤘👍🤘👍👍👍👍👍🤘 ?
 ```
 
 ```
 
-B: 👍👎👎👎👍👍👍👎👎👍👎👍👎👍👍👎👍👎👍👍👍👎👍👎👍👎👎👎👍👎 ?
+B: 👍🤘🤘🤘👍👍👍🤘🤘👍🤘👍🤘👍👍🤘👍🤘👍👍👍🤘👍🤘👍🤘🤘🤘👍🤘 ?
 ```
 
 ```
 
-C: 👍👎👎👎👍👎👍👍👎👎👎👎👎👎👍👍👎👍👎👎👎👍👎👍👎👎👎👎👎👍 ?
+C: 👍🤘🤘🤘👍🤘👍👍🤘🤘🤘🤘🤘🤘👍👍🤘👍🤘🤘🤘👍🤘👍🤘🤘🤘🤘🤘👍 ?
 ```
 
 ```
 
-D: 👎👎👎👎👎👍👎👎👎👍👎👎👎👎👍👎👍👍👍👍👍👎👍👎👍👍👍👍👍👎 ?
+D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍👍👍🤘👍🤘👍👍👍👍👍🤘 ?
 ```
 
 {{< speaker_note >}}
 
 - Only the speaker can read these notes
 - Press `S` key to view
+
+🤘 
 
 {{< /speaker_note >}}
 
