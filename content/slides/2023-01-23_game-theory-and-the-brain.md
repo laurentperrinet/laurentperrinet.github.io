@@ -35,7 +35,7 @@ __[2023-01-23] Atelier jeu et cerveau__
 
 # Game theory and brain strategies
 
-<img src="https://laurentperrinet.github.io/publication/perrinet-21-hasard/featured.jpg" width="100%" >
+<img src="https://laurentperrinet.github.io/publication/perrinet-21-hasard/featured.jpg" width="80%" >
 
 <a href="https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388">Le jeu du cerveau et du hasard, <i>The Conversation</i></a></p>
 
@@ -51,10 +51,14 @@ __[2023-01-23] Atelier jeu et cerveau__
 
 ---
 
+# Aleatoric noise
+
+---
+
 <!-- {{< figure src="https://a5huynh.github.io/img/2019/rng-example.png" title="Random points  (A)." width="49%" >}}{{< figure src="https://a5huynh.github.io/img/2019/poisson-disk-example.png" title="Random points  (B)." width="49%" >}} -->
 
-<img src="https://a5huynh.github.io/img/2019/rng-example.png" width="90%" >
-<img src="https://a5huynh.github.io/img/2019/poisson-disk-example.png" width="90%" >
+<img src="https://a5huynh.github.io/img/2019/rng-example.png" width="70%" >
+<img src="https://a5huynh.github.io/img/2019/poisson-disk-example.png" width="70%" >
 
 [A Huynh, generating Poisson disk noise](https://a5huynh.github.io/posts/2019/poisson-disk-sampling/)
 
@@ -120,7 +124,7 @@ __[2023-01-23] Atelier jeu et cerveau__
 
 # Sequence prediction
 
-{{< video src="https://github.com/chloepasturel/AnticipatorySPEM/raw/master/2020-03_video-abstract/Bet_eyeMvt/eyeMvt.mp4" autoplay="yes" >}}
+{{< video src="https://github.com/chloepasturel/AnticipatorySPEM/raw/master/2020-03_video-abstract/Bet_eyeMvt/eyeMvt.mp4" autoplay="yes" controls="yes" >}}
 
 {{< speaker_note >}}
 
@@ -174,6 +178,11 @@ D: 👎👎👎👎👎👍👎👎👎👍👎👎👎👎👍👎👍👍👍�
 
 {{< /speaker_note >}}
 
+
+---
+
+# Epistemic noise
+
 ---
 
 # Playing with noise
@@ -193,7 +202,7 @@ D: 👎👎👎👎👎👍👎👎👎👍👎👎👎👎👍👎👍👍👍�
 
 ---
 
-{{< figure src="http://www.salemmarafi.com/wp-content/uploads/2011/10/prisoners_dilemma.jpg" title="Prisoner’s Dilemma ([Salem Marafi](http://www.salemmarafi.com/business/prisoners-dilemma/))." width="80%" >}}
+{{< figure src="http://www.salemmarafi.com/wp-content/uploads/2011/10/prisoners_dilemma.jpg" title="Prisoner’s Dilemma ([Salem Marafi](http://www.salemmarafi.com/business/prisoners-dilemma/))." width="60%" >}}
 
 
 {{< speaker_note >}}
@@ -208,7 +217,7 @@ D: 👎👎👎👎👎👍👎👎👎👍👎👎👎👎👍👎👍👍👍�
 
 # Representing uncertainty
 
-{{< figure src="https://images.theconversation.com/files/407867/original/file-20210623-17-ai1gc3.png" title="Visual epistemic uncertainty ([Hugo Ladret](https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388))." width="80%" >}}
+{{< figure src="https://images.theconversation.com/files/407867/original/file-20210623-17-ai1gc3.png" title="Visual epistemic uncertainty ([Hugo Ladret](https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388))." width="100%" >}}
 
 {{< speaker_note >}}
 
@@ -234,9 +243,13 @@ D: 👎👎👎👎👎👍👎👎👎👍👎👎👎👎👍👎👍👍👍�
 
 ---
 
+# Conclusion
+
+---
+
 # Game theory and brain strategies
 
-<img src="https://laurentperrinet.github.io/publication/perrinet-21-hasard/featured.jpg" width="100%" >
+<img src="https://laurentperrinet.github.io/publication/perrinet-21-hasard/featured.jpg" width="80%" >
 
 {{< speaker_note >}}
 
