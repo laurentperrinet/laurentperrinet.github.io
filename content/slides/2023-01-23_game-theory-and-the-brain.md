@@ -13,25 +13,263 @@ slides:
 
 title: 2023-01-23_game-theory-and-the-brain
 
-
----
-## Noise, uncertainty and game theory
-
 ---
 
-{{< figure src="../../publication/grimaldi-22-polychronies/featured.jpg" title="Ultra-rapid visual processing ([see review](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))." width="80%" >}}
+# Game theory and brain strategies
 
-https://www.flippeddecisions.com/post/judging-noise
+<img src="https://laurentperrinet.github.io/publication/perrinet-21-hasard/featured.jpg" width="50%" >
+
+__[2023-01-23] Atelier jeu et cerveau__
+
+<p style="color:blue;font-size:25px;">
+<a href="https://laurentperrinet.github.io/slides/2023-01-23_game-theory-and-the-brain">https://laurentperrinet.github.io/slides/2023-01-23_game-theory-and-the-brain</a></p>
+
+{{< speaker_note >}}
+
+- Only the speaker can read these notes
+- Press `S` key to view
+
+{{< /speaker_note >}}
 
 ---
 
-{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/tsonga.jpg" title="Compensating visual delays ([Perrinet, Adams & Friston 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))." width="80%" >}}
+# Game theory and brain strategies
+
+<img src="https://laurentperrinet.github.io/publication/perrinet-21-hasard/featured.jpg" width="100%" >
+
+<a href="https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388">Le jeu du cerveau et du hasard, <i>The Conversation</i></a></p>
+
+
+{{< speaker_note >}}
+
+- What is noise? the uncertainty due to noise is symbolized by dices: aa throw of fair dices, even if they are optimally simulated can not be predicted: the outcome is uniformly one facet from 1 to 6
+- I am interested in vision, and uncertainty exists in different forms
+- If we consider the image, can be noise at low contrast, complexity of the object, pose of the dice
+- in this presentation, we will see different facets of noise and uncertainty, and illustrate how our brains may play with it - and delineate a theory for this game. we will also see how it may harness the noise by explictly representing it in the neural activity
+
+{{< /speaker_note >}}
 
 ---
 
-{{< figure src="http://www.salemmarafi.com/wp-content/uploads/2011/10/prisoners_dilemma.jpg" title="Prisoner’s Dilemma (Salem Marafi)." width="80%" >}}
+<!-- {{< figure src="https://a5huynh.github.io/img/2019/rng-example.png" title="Random points  (A)." width="49%" >}}{{< figure src="https://a5huynh.github.io/img/2019/poisson-disk-example.png" title="Random points  (B)." width="49%" >}} -->
 
-http://www.salemmarafi.com/business/prisoners-dilemma/
+<img src="https://a5huynh.github.io/img/2019/rng-example.png" width="90%" >
+<img src="https://a5huynh.github.io/img/2019/poisson-disk-example.png" width="90%" >
+
+[A Huynh, generating Poisson disk noise](https://a5huynh.github.io/posts/2019/poisson-disk-sampling/)
+
+{{< speaker_note >}}
+
+- what is noise? it exists at quantum level, but if I were to ask you to draw random points how would it look like?
+- In your opinion, which of the two is the most random pattern?
+
+{{< /speaker_note >}}
+
+---
+
+{{< figure src="https://laurentperrinet.github.io/post/2018-09-09_artorama/featured.png" title="[Instabilité, Etienne Rey.](https://laurentperrinet.github.io/post/2018-09-09_artorama/)" width="100%" >}}
+
+{{< speaker_note >}}
+
+- this was for instance used by the artist Etienne Rey to generate large panels
+- our perception will generate objects out of nowhere: surfaces, groups, holes...
+
+{{< /speaker_note >}}
+
+---
+
+## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
+
+{{< figure width="50%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Face-on-mars.jpg" title="[Cydonia Mensae (1976) *Viking Orbiter image*](https://fr.wikipedia.org/wiki/Cydonia_Mensae)" >}}
+
+
+{{< speaker_note >}}
+
+- going further ...
+
+{{< /speaker_note >}}
+
+---
+
+## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
+
+{{< figure width="50%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_low.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://fr.wikipedia.org/wiki/Cydonia_Mensae)" >}}
+
+{{< speaker_note >}}
+
+- when going to the same place a few years later ...
+
+{{< /speaker_note >}}
+
+---
+
+## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
+
+{{< figure width="50%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_high.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://fr.wikipedia.org/wiki/Cydonia_Mensae)" >}}
+
+{{< speaker_note >}}
+
+- the face was gone ...
+- conclusion 1: information pops out from noise
+- conclusion 2: further information may change the interpretation
+
+{{< /speaker_note >}}
+
+
+---
+
+# Sequence prediction
+
+{{< video src="https://github.com/chloepasturel/AnticipatorySPEM/raw/master/2020-03_video-abstract/Bet_eyeMvt/eyeMvt.mp4" autoplay="yes" >}}
+
+{{< speaker_note >}}
+
+- Only the speaker can read these notes
+- Press `S` key to view
+
+{{< /speaker_note >}}
+
+---
+
+# Sequence prediction
+
+```
+
+A: 👍👍👍👍👎👍👍👍👍👍👎👍👍👍👍👎👍👍👍👍👍👎👍👎👍👍👍👍👍👎 ?
+```
+
+```
+
+B: 👍👎👎👎👍👍👍👎👎👍👎👍👎👍👍👎👍👎👍👍👍👎👍👎👍👎👎👎👍👎 ?
+```
+
+```
+
+C: 👍👎👎👎👍👎👍👍👎👎👎👎👎👎👍👍👎👍👎👎👎👍👎👍👎👎👎👎👎👍 ?
+```
+
+```
+
+D: 👎👎👎👎👎👍👎👎👎👍👎👎👎👎👍👎👍👍👍👍👍👎👍👎👍👍👍👍👍👎 ?
+```
+
+{{< speaker_note >}}
+
+- Only the speaker can read these notes
+- Press `S` key to view
+
+{{< /speaker_note >}}
+
+---
+
+# Sequence prediction
+
+
+{{< figure src="https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/synthesis.png" title="([Pasturel *et al*, 2020](https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/))." width="70%" >}}
+
+{{< speaker_note >}}
+
+- Only the speaker can read these notes
+- Press `S` key to view
+
+{{< /speaker_note >}}
+
+---
+
+# Playing with noise
+
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/6/67/Rock-paper-scissors.svg" title="Nash equilibrium ([Rock paper scissors](https://en.wikipedia.org/wiki/Rock_paper_scissors))." width="70%" >}}
+
+{{< speaker_note >}}
+
+- Rock paper scissors: Its French name, "Chi-fou-mi", is based on the Old Japanese words for "one, two, three" ("hi, fu, mi").
+
+- Nash Equilibrium is a game theory concept that determines the optimal solution in a non-cooperative game in which each player lacks any incentive to change his/her initial strategy. Under the Nash equilibrium, a player does not gain anything from deviating from their initially chosen strategy, assuming the other players also keep their strategies unchanged.
+
+- https://www.quantamagazine.org/the-game-theory-math-behind-rock-paper-scissors-20180402/
+
+{{< /speaker_note >}}
+
+---
+
+{{< figure src="http://www.salemmarafi.com/wp-content/uploads/2011/10/prisoners_dilemma.jpg" title="Prisoner’s Dilemma ([Salem Marafi](http://www.salemmarafi.com/business/prisoners-dilemma/))." width="80%" >}}
+
+
+{{< speaker_note >}}
+
+- Only the speaker can read these notes
+- uncertainty comes not from aleatoric noise but from not knowing: epistemic uncertaintyy
+
+{{< /speaker_note >}}
+
+
+---
+
+# Representing uncertainty
+
+{{< figure src="https://images.theconversation.com/files/407867/original/file-20210623-17-ai1gc3.png" title="Visual epistemic uncertainty ([Hugo Ladret](https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388))." width="80%" >}}
+
+{{< speaker_note >}}
+
+- in the case of images, a local patch may have the same most likely orientation, yet with different bandwidth (textures)
+- the primary visual cortex of mammals like humans is to detect orientations
+- will the response be the same for both cases?
+
+{{< /speaker_note >}}
+
+---
+
+# Representing uncertainty
+
+{{< figure src="https://laurentperrinet.github.io/publication/ladret-22/featured_hubbf63d8d7d25b21f139c2f10354080fc_466086_720x2500_fit_q75_h2_lanczos_3.webp" title="Visual epistemic uncertainty ([Hugo Ladret](https://laurentperrinet.github.io/publication/ladret-22/))." width="80%" >}}
+
+
+{{< speaker_note >}}
+
+- Only the speaker can read these notes
+- Press `S` key to view
+
+{{< /speaker_note >}}
+
+---
+
+# Game theory and brain strategies
+
+<img src="https://laurentperrinet.github.io/publication/perrinet-21-hasard/featured.jpg" width="100%" >
+
+{{< speaker_note >}}
+
+- In face of noise, the brain plays a game
+- Evolution favors not fitness but adaptability
+
+{{< /speaker_note >}}
+
+---
+
+# Game theory and brain strategies
+
+{{< figure src="https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/synthesis.png" title="Aleatoric uncertainty ([Pasturel *et al*, 2020](https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/))." width="70%" >}}
+
+{{< speaker_note >}}
+
+- The brain uses predictive coding, for instance for sequence learning
+
+{{< /speaker_note >}}
+
+---
+
+# Game theory and brain strategies
+
+{{< figure src="https://images.theconversation.com/files/407867/original/file-20210623-17-ai1gc3.png" title="Epistemic uncertainty ([Hugo Ladret](https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388))." width="100%" >}}
+
+
+{{< speaker_note >}}
+
+- For this, it represents explictly uncertainty (epistemic noise)
+
+{{< /speaker_note >}}
+
 
 ---
 # Questions?
