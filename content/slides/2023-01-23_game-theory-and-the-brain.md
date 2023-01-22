@@ -9,7 +9,7 @@ tags:
 
 slides:
  theme: "white" # Reveal JS theme name
- 
+
 title: Game theory and brain strategies
 
 ---
@@ -37,9 +37,8 @@ __[2023-01-23] Atelier jeu et cerveau__
 
 {{< /speaker_note >}}
 
-
 ---
-## Noise, uncertainty and game theory 
+## Noise, uncertainty and game theory
 
 ---
 
