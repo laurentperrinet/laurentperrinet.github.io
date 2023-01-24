@@ -22,7 +22,7 @@ title: 2023-01-23_game-theory-and-the-brain
 __[2023-01-23] Atelier jeu et cerveau__
 
 <p style="color:blue;font-size:25px;">
-<a href="https://laurentperrinet.github.io/talk/2023-01-23_game-theory-and-the-brain">https://laurentperrinet.github.io/talk/2023-01-23_game-theory-and-the-brain</a></p>
+<a href="https://laurentperrinet.github.io/talk/2023-01-23-game-theory-and-the-brain">https://laurentperrinet.github.io/talk/2023-01-23-game-theory-and-the-brain</a></p>
 
 {{< speaker_note >}}
 
