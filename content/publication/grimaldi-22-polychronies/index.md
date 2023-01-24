@@ -22,20 +22,14 @@ authors:
 - Jean-Nicolas Jérémie
 - Jean Martinet
 - Laurent U Perrinet
-categories: []
 date: 2022-01-01
-draft: false
-featured: true
 doi: 10.3390/brainsci13010068
 url_pdf: https://doi.org/10.3390/brainsci13010068
 grants:
 - aprovis3D
 - anr-anr
 - polychronies
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+url_pdf: https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/
 lastmod: 2022-11-17 12:15:57+01:00
 projects: []
 publication: '*Brain Sciences*'
@@ -48,6 +42,7 @@ tags:
 title: Precise Spiking Motifs in Neurobiological and Neuromorphic Data
 ---
 
+
 {{< video src="2022-12-23_polychrony-review_video-abstract.mp4" controls="yes" >}}
 
  * read the paper [online](https://doi.org/10.3390/brainsci13010068) or in [PDF](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/grimaldi-22-polychronies.pdf)
@@ -56,4 +51,3 @@ title: Precise Spiking Motifs in Neurobiological and Neuromorphic Data
  * code for paper (including revisions): https://github.com/SpikeAI/2022_polychronies-review 
  
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png" title="**Core mechanism of polychrony detection.** *(Left)* In this example, three presynaptic neurons denoted *b*, *c* and *d* are fully connected to two post-synaptic neurons *a* and *e*, with different delays of respectively 1, 5, and 9 ms for *a* and 8, 5, and 1 ms for *e*. *(Middle)* If three synchronous pulses are emitted from presynaptic neurons, this will generate post-synaptic potentials that will reach a and e asynchronously because of the heterogeneous delays, and they may not be sufficient to reach the membrane threshold in either of the post-synaptic neurons; therefore, no spike will be emitted, as this is not sufficient to reach the membrane threshold of the post synaptic neuron, so no output spike is emitted. *(Right)* If the pulses are emitted from presynaptic neurons such that, taking into account the delays, they reach the post-synaptic neuron *a* at the same time (here, at t = 10 ms), the post-synaptic potentials evoked by the three pre-synaptic neurons sum up, causing the voltage threshold to be crossed and thus to the emission of an output spike (red color), while none is emitted from post-synaptic neuron *e*.">}}
-
