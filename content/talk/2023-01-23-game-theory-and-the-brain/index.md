@@ -13,11 +13,13 @@ lastmod: 2023-01-24T11:51:28+01:00
 featured: false
 draft: false
 
+slides: "2023-01-23_game-theory-and-the-brain"
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Four sets of dots drawn during the presentation with the instruction "Place 20 dots at random in the frame". This shows that we tend to judge noise differently to pure independent noise. This reflects some prior information (here on some spacing between dots) which are learned by our brains.'
   focal_point: ''
   preview_only: false
 
@@ -35,4 +37,9 @@ publication: '*Atelier jeu et cerveau - M2 MASCO*'
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2023-01-23_game-theory-and-the-brain
+
 ---
+
+* workshop organisé par les étudiants du master de sciences cognitives les 23 et 24 janvier 2023.
+ 
+ 
