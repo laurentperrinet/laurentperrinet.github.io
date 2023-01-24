@@ -22,7 +22,7 @@ title: 2023-01-23_game-theory-and-the-brain
 __[2023-01-23] Atelier jeu et cerveau__
 
 <p style="color:blue;font-size:25px;">
-<a href="https://laurentperrinet.github.io/slides/2023-01-23_game-theory-and-the-brain">https://laurentperrinet.github.io/slides/2023-01-23_game-theory-and-the-brain</a></p>
+<a href="https://laurentperrinet.github.io/talk/2023-01-23_game-theory-and-the-brain">https://laurentperrinet.github.io/talk/2023-01-23_game-theory-and-the-brain</a></p>
 
 {{< speaker_note >}}
 
@@ -70,6 +70,16 @@ __[2023-01-23] Atelier jeu et cerveau__
 - In your opinion, which of the two is the most random pattern?
 - from your responses ...
 - the answer is that ...
+
+
+When it comes to true randomness, one of its stranger aspects is that it often behaves differently to people’s expectations. Take the two diagrams below – which one do you think is a random distribution, and which has been deliberately created/adjusted?
+
+randomized dots
+Only one of these panels shows a random distribution of dots | Source: Bully for Brontosaurus – Stephen Jay Gould
+
+If you said the right panel, you are in good company, as this is most people’s expectation of what randomness looks like. However, this relatively uniform distribution has been adjusted to ensure the dots are evenly spread. In fact, it is the left panel, with its clumps and voids, that reflects a true random distribution. It is also this tendency for randomness to produce clumps and voids that leads to some unintuitive outcomes.
+
+https://theconversation.com/daniel-kahneman-on-noise-the-flaw-in-human-judgement-harder-to-detect-than-cognitive-bias-160525
 
 {{< /speaker_note >}}
 
