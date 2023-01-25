@@ -28,7 +28,7 @@ image:
 
 * Follow this future presentations {{< cite page="/talk/2022-06-19-neuro-vision-heterogeneous" view="4" >}}
 
-{{< tweet 1527604282043813888 >}}
+{{< tweet user="laurentperrinet" id="1527604282043813888" >}}
 
 * followed-up as a poster: {{< cite page="/publication/grimaldi-22-areadne" view="4" >}}
 

@@ -40,5 +40,5 @@ title: Modulation of orientation selectivity by orientation precision
 url_pdf: https://www.abstractsonline.com/pp8/#!/10485/presentation/22078
 ---
 
-{{< tweet 1457644824723705856 >}}
+{{< tweet user="laurentperrinet" id="1457644824723705856" >}}
 {{< youtube Hy2UlLDkPyU >}}

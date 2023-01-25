@@ -50,4 +50,4 @@ url_preprint: https://www.biorxiv.org/content/10.1101/725879v3
 
 {{< figure src="https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true" >}}
 * for a more mathematical treatment, see {{< cite page="/publication/dauce-20-iwai" view="4" >}}
-{{< tweet 1305488088412688385 >}}
+{{< tweet user="laurentperrinet" id="1305488088412688385" >}}

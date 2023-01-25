@@ -37,4 +37,4 @@ title: 'Revisiting Horizontal Connectivity Rules in V1: From like-to-like toward
 url_pdf: https://doi.org/10.1007/s00429-022-02455-4
 ---
 
-{{< tweet 1490717893750935552 >}}
+{{< tweet user="laurentperrinet" id="1490717893750935552" >}}

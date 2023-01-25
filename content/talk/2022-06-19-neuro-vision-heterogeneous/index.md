@@ -44,6 +44,6 @@ links:
   url: https://sites.google.com/uci.edu/neurovision2022/schedule
 ---
 
-{{< tweet 1538417555911720963 >}}
+{{< tweet user="laurentperrinet" id="1538417555911720963" >}}
 
 * for a follow-up, check out  {{< cite page="/publication/grimaldi-22-icip" view="4" >}}
