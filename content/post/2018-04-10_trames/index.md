@@ -18,7 +18,7 @@ title: TRAMES
 
  {{< vimeo 191830797 >}}
 
- À la Fondation Vasarely à Aix-en-Provence, Etienne Rey a choisi d’installer dans la salle des Intégrations architectoniques un ballet visuel hypnotique.
+ À la Fondation Vasarely à Aix-en-Provence, [Etienne Rey]({{< relref "/author/etienne-rey" >}}) a choisi d’installer dans la salle des Intégrations architectoniques un ballet visuel hypnotique.
 
  «Trame instabilité» est un travail en cours de recherche. Le projet est basé sur des principes d’occultations partielles en couches associées à des trames qui font émerger une dimension immatérielle. L’expérience de perception de ces motifs produit un sentiment de basculement de la perception dans le sens où le motifs réel passe au second plan pour laisser place à l’émergence d’une figure du vide, c’est dans les blancs immatériel que des formes apparaissent et vacillent occupant tout notre champ visuel. Ces apparitions virtuelles, purs phénomènes optiques n’existent pas dans notre monde «physique», réel. 
 

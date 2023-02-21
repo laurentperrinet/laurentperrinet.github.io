@@ -43,10 +43,10 @@ __[2023-01-23] Atelier jeu et cerveau__
 
 {{< speaker_note >}}
 
-- What is noise? the uncertainty due to noise is symbolized by dices: a throw of fair dices, even if they are optimally simulated can not be predicted: the outcome is uniformly one facet from 1 to 6
-- I am interested in vision, and uncertainty exists in different forms
-- If we consider the image, can be noise at low contrast, complexity of the object, pose of the dice
-- in this presentation, we will see different facets of noise and uncertainty, and illustrate how our brains may play with it - and delineate a theory for this game. we will also see how it may harness the noise by explicitly representing it in the neural activity
+- What is noise? The uncertainty due to noise is symbolized by dices: a throw of fair dices, even if they are optimally simulated can not be predicted: the outcome is uniformly one facet from 1 to 6,
+- I am interested in vision, and uncertainty exists in different forms,
+- If we consider the image, can be noise at low contrast, complexity of the object, pose of the dice,
+- in this presentation, we will see different facets of noise and uncertainty, and illustrate how our brains may play with it - and delineate a theory for this game. We will also see how it may harness the noise by explicitly representing it in the neural activity.
 
 {{< /speaker_note >}}
 

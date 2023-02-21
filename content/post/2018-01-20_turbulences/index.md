@@ -24,7 +24,7 @@ title: Turbulences
 
 ## Installation in situ, 2018; Collection of the François Schneider Foundation, Wattwiller I 2018
 
-> "En agissant sur les variations et les rayonnements d’ordre physique, Etienne Rey fait apparaître l’épaisseur existentielle du vide." Bénédicte Chevallier, Mécènes du Sud
+> "En agissant sur les variations et les rayonnements d’ordre physique, [Etienne Rey]({{< relref "/author/etienne-rey" >}}) fait apparaître l’épaisseur existentielle du vide." Bénédicte Chevallier, Mécènes du Sud
 
 L’installation Turbulences explore l’émergence de caustiques, phénomènes caractéristiques de la relation entre l’eau, la lumière et l’air.
 Le mouvement y perturbe un état optique stable. La turbulence des plis lumineux donne l’illusion d’un corps flottant.
