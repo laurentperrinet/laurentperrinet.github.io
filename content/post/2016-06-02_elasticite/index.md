@@ -17,13 +17,15 @@ tags:
 - art-science
 title: Elasticité dynamique
 ---
-# Elasticité dynamique @  Fondation Vasarely à Aix-en-Provence
+# Trame Élasticité @  Fondation Vasarely à Aix-en-Provence
+
+* Dans « Trame Élasticité », présentée en 2016 dans le cadre d’un hommage à Victor Vasarely à la Fondation d’Aix-en-Provence, 25 monolithes de 3 m de hauteur et 40 cm de largeur étaient placés sur un socle rectiligne de 5 m de long et pouvaient tourner indépendamment suivant leur axe vertical. Cette chorégraphie produisait des moments de calme cristallin qui rapidement se transformaient en instants de chaos. Ce procédé permettait de projeter son propre reflet tout en le fragmentant dans l’environnent de l’œuvre, notamment les rythmes colorés de Vasarely, afin de produire un va-et-vient entre les mondes réels et perçus. Les observateurs devaient alors changer de perspective pour résoudre cette incertitude et explorer le lien entre le monde réel et le monde perçu  (voir aussi [cet article](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/#fig:Élasticité)).
 
 {{< vimeo 198189587 >}}
 
  * 2016, https://github.com/NaturalPatterns/elasticite
 
-L'installation ''Elasticité dynamique'' agit comme un filtre et génère de nouveaux espaces démultipliés, comme un empilement quasi infini d'horizons.
+L'installation « Trame Élasticité » agit comme un filtre et génère de nouveaux espaces démultipliés, comme un empilement quasi infini d'horizons.
 Par principe de réflexion, la pièce absorbe l'image de l'environnement et accumule les points de vue ; le mouvement permanent requalifie continuellement ce qui est regardé et entendu.
 
 
@@ -40,7 +42,7 @@ Devant l’œuvre en constante métamorphose, l’alphabet plastique de Vasarely
 
 (Texte : Véronique Baton)
 
-# Elasticité dynamique @  104 (Paris)
+# Trame Élasticité @  104 (Paris)
 
 {{< vimeo 150813922 >}}
 
@@ -48,13 +50,13 @@ Devant l’œuvre en constante métamorphose, l’alphabet plastique de Vasarely
  - EXPOSITION : [Prosopopées : Quand les objets prennent vie](http://www.104.fr/programmation/evenement.html?evenement=518)
  - VERNISSAGE : SAMEDI 5 DÉCEMBRE 14h > 23h30
  - EXPOSITION : DU 6 DÉCEMBRE 2015 AU 18 JANVIER 2016
- - VIDEOS : https://vimeo.com/150654250 : installation;  https://vimeo.com/146242233 : simulation, Crédits : Elasticité dynamique © Etienne Rey, Adagp Paris 2015
+ - VIDEOS : https://vimeo.com/150654250 : installation;  https://vimeo.com/146242233 : simulation, Crédits : « Trame Élasticité » © Etienne Rey, Adagp Paris 2015
 
  {{< youtube UvE3ysXieSk >}}
 
  ![arcadi](http://www.lafriche.org/public_data/diapo/resident/1454686884/desk/2._elasticite_dynamique-etienne_rey-photoquentin_chevrier_pour_art2m_et_arcadi_ile_de_france.jpg)
 
-    Elasticité dynamique est composée des pièces Expansion, Trame et Lignes sonores. Volume hexagonal en miroir de 7 mètres de diamètre, Expansion fonctionne comme une chambre d'écho. A l'intérieur de ce volume se situe Trame. Constituée de 25 lames de miroir en rotation, cette pièce réoriente continuellement le regard. Quant à Lignes sonores, elle est formée de quatre monolithes orientés vers Expansion et émet des sons qui se réorientent en fonction du mouvement des lames. (© Etienne Rey, Adagp Paris 2015)''|width="100%"}}Elasticité dynamique est composée des pièces Expansion, Trame et Lignes sonores. <<BR>> Volume hexagonal en miroir de 7 mètres de diamètre, Expansion fonctionne comme une chambre d'écho. A l'intérieur de ce volume se situe Trame. Constituée de 25 lames de miroir en rotation, cette pièce réoriente continuellement le regard. Quant à Lignes sonores, elle est formée de quatre monolithes orientés vers Expansion et émet des sons qui se réorientent en fonction du mouvement des lames. <<BR>>(© Etienne Rey, Adagp Paris 2015)
+    Elasticité dynamique est composée des pièces Expansion, Trame Élasticité et Lignes sonores. Volume hexagonal en miroir de 7 mètres de diamètre, Expansion fonctionne comme une chambre d'écho. A l'intérieur de ce volume se situe « Trame Élasticité ». Constituée de 25 lames de miroir en rotation, cette pièce réoriente continuellement le regard. Quant à Lignes sonores, elle est formée de quatre monolithes orientés vers Expansion et émet des sons qui se réorientent en fonction du mouvement des lames. (© Etienne Rey, Adagp Paris 2015)''|width="100%"}}Elasticité dynamique est composée des pièces Expansion, Trame et Lignes sonores. <<BR>> Volume hexagonal en miroir de 7 mètres de diamètre, Expansion fonctionne comme une chambre d'écho. A l'intérieur de ce volume se situe Trame. Constituée de 25 lames de miroir en rotation, cette pièce réoriente continuellement le regard. Quant à Lignes sonores, elle est formée de quatre monolithes orientés vers Expansion et émet des sons qui se réorientent en fonction du mouvement des lames. <<BR>>(© Etienne Rey, Adagp Paris 2015)
 
 
 ## EQUIPE
