@@ -17,7 +17,7 @@ authors:
 - Frédéric Chavane
 - Christian Casanova
 - Laurent U Perrinet
-date: 2022-01-17
+date: 2023-01-17
 doi: 10.1101/2021.03.30.437692
 featured: true
 grants:
@@ -32,11 +32,11 @@ tags:
 - precision
 - predictive coding
 - V1
-title: Dynamical processing of orientation precision in the primary visual cortex
+title: Resilience to sensory variance in the primary visual cortex
 url_pdf: https://laurentperrinet.github.io/publication/ladret-23/
 ---
 
 {{< tweet user="laurentperrinet" id="1395351843035828224" >}}
 
 
-* preprint: https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5
+* preprint of a former revision: https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5
