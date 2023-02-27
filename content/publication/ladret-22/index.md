@@ -33,7 +33,7 @@ tags:
 - predictive coding
 - V1
 title: Dynamical processing of orientation precision in the primary visual cortex
-url_pdf: https://laurentperrinet.github.io/publication/ladret-22/
+url_pdf: https://laurentperrinet.github.io/publication/ladret-23/
 ---
 
 {{< tweet user="laurentperrinet" id="1395351843035828224" >}}

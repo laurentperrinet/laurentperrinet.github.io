@@ -25,4 +25,4 @@ title: Recurrent cortical connectivity in the primary visual cortex supports rob
 ---
 
 {{< tweet user="laurentperrinet" id="1545743191198121985" >}}
-* This poster is presented in the following preprint (in submission)  {{< cite page="/publication/ladret-22" view="4" >}}
+* This poster is presented in the following preprint (in submission)  {{< cite page="/publication/ladret-23" view="4" >}}
