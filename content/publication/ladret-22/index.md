@@ -23,7 +23,7 @@ featured: true
 grants:
 - anr-horizontal-v1
 projects: []
-publication: '*bioRxiv*'
+publication: '*in revision*'
 publication_types:
 - '2'
 tags:
@@ -34,7 +34,9 @@ tags:
 - V1
 title: Dynamical processing of orientation precision in the primary visual cortex
 url_pdf: https://laurentperrinet.github.io/publication/ladret-22/
-url_preprint: https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5
 ---
 
 {{< tweet user="laurentperrinet" id="1395351843035828224" >}}
+
+
+* preprint: https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5
