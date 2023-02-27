@@ -63,4 +63,6 @@ To narrow the gap between neuroscience and the theory of sensory processing comp
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-Follow me on <a rel="me" href="https://neuromatch.social/@laurentperrinet">Mastodon</a>
+Follow me on Mastodon <a href="https://fo.llow.social/u/laurentperrinet@neuromatch.social" class="mastodon-share-button">@laurentperrinet@neuromatch.social</a><script async="" src="https://fo.llow.social/button.js"></script>
+
+<iframe class="mastodon-timeline-embed" src="https://fo.llow.social/embed/@laurentperrinet@neuromatch.social" style="width:100%;height:0px"></iframe><script src="https://fo.llow.social/embed.js" async></script>
