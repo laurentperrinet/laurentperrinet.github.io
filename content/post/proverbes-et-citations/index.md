@@ -8,6 +8,8 @@ summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
 
+* "There are two kinds of people: those who accept that things can be divided into two distinct categories, and those who choose to live in denial."
+
 * "I strongly believe that ‘if you are the smartest person in the room, you’re in the wrong room’. Unless you are the only person in the room." [Evgenia Salta](https://nin.nl/about-us/the-organisation/team/evgenia-salta/)
  
 * "Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better." Edsger Dijkstra
