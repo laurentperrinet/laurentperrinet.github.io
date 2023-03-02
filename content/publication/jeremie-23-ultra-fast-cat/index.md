@@ -28,7 +28,7 @@ authors:
 - Jean-Nicolas Jérémie
 - Laurent U Perrinet
 categories: []
-date: 2022-01-01
+date: 2023-01-01
 draft: false
 featured: false
 grants:
@@ -40,13 +40,12 @@ image:
   preview_only: false
 lastmod: 2022-05-11 09:32:04+02:00
 projects: []
-publication: '*arXiv:2205.03635 [cs, q-bio]*'
+publication: '*in revision*'
 publication_types:
 - '2'
 subtitle: ''
 tags: []
-title: Ultra-Fast Image Categorization in Vivo and in Silico
-url_pdf: http://arxiv.org/abs/2205.03635
+title: Ultrafast image categorization in biology and neural models
 url_preprint: http://arxiv.org/abs/2205.03635
 ---
 
