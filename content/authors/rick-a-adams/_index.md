@@ -11,5 +11,5 @@ social:
   link: https://www.researchgate.net/profile/Rick_Adams3
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=dAi_S_MAAAAJ
+  link: https://scholar.google.com/citations?user=dAi_S_MAAAAJ
 ---

@@ -11,5 +11,5 @@ social:
   link: https://github.com/mjescobar
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=EQfyAUAAAAAJ
+  link: https://scholar.google.com/citations?user=EQfyAUAAAAAJ
 ---

@@ -8,7 +8,7 @@ user_groups:
 social:
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=q_4u0aoAAAAJ
+  link: https://scholar.google.com/citations?user=q_4u0aoAAAAJ
 - icon: external-link-alt
   icon_pack: fas
   link: https://www.fil.ion.ucl.ac.uk/~karl/

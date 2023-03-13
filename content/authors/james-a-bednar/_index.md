@@ -17,5 +17,5 @@ social:
   link: https://www.linkedin.com/in/james-bednar-7602911b
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=h0e2kMQAAAAJ
+  link: https://scholar.google.com/citations?user=h0e2kMQAAAAJ
 ---

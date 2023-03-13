@@ -17,6 +17,6 @@ social:
   link: https://www.linkedin.com/in/paulasanzleon
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=ZbJ97FAAAAAJ
+  link: https://scholar.google.com/citations?user=ZbJ97FAAAAAJ
 
 ---

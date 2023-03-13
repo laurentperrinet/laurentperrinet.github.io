@@ -8,7 +8,7 @@ user_groups:
 social:
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=S1vqJ6YAAAAJ
+  link: https://scholar.google.com/citations?user=S1vqJ6YAAAAJ
 - icon: external-link-alt
   icon_pack: fas
   link: https://neuropsi.cnrs.fr/annuaire/yves-fregnac/

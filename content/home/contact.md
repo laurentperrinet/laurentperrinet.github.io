@@ -64,7 +64,7 @@ content:
     - icon: google-scholar
       icon_pack: ai
       name: Google Scholar
-      link: https://scholar.google.co.uk/citations?user=TVyUV38AAAAJ
+      link: https://scholar.google.com/citations?user=TVyUV38AAAAJ
     - icon: zotero
       icon_pack: ai
       name: Zotero

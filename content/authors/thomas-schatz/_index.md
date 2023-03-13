@@ -8,7 +8,7 @@ user_groups:
 social:
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=dQ0I23kAAAAJ
+  link: https://scholar.google.com/citations?user=dQ0I23kAAAAJ
 - icon: external-link-alt
   icon_pack: fas
   link: https://thomas.schatz.cogserver.net/
