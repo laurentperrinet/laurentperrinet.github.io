@@ -5,7 +5,7 @@ abstract: In human and non-human primates, reflexive tracking eye movements can 
   for driving ocular following responses. Herein, we have investigated spatial summation
   of motion information across a wide range of spatial frequencies and speeds of drifting
   gratings by recording short-latency ocular following responses in macaque monkeys.
-  We show that optimal stimulus size for driving ocular responses cover a small ($<$20°
+  We show that optimal stimulus size for driving ocular responses cover a small ($<$20$,^∘$
   diameter), central part of the visual field that shrinks with higher spatial frequency.
   This signature of linear motion integration remains invariant with speed and temporal
   frequency. For low and medium spatial frequencies, we found a strong suppressive

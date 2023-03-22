@@ -45,7 +45,7 @@ publication_types:
 - '2'
 subtitle: ''
 tags: []
-title: Ultrafast image categorization in biology and neural models
+title: Ultra-Fast Image Categorization in biology and in neural models
 url_preprint: http://arxiv.org/abs/2205.03635
 ---
 
