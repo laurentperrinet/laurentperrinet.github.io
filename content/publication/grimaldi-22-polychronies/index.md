@@ -11,25 +11,22 @@ abstract: Why do neurons communicate through spikes? By definition, spikes are a
   data. With the growing need for intelligent embedded systems, it also emerges as
   a new computing paradigm to enable the efficient operation of a new class of sensors
   and event-based computers, called neuromorphic, which could enable significant gains
-  in computation time and energy consumption, a major societal issue in the era of
-  the digital economy and global warming. In this review paper, we provide evidence
+  in computation time and energy consumption --- a major societal issue in the era
+  of the digital economy and global warming. In this review paper, we provide evidence
   from biology, theory and engineering that the precise timing of spikes plays a crucial
   role in our understanding of the efficiency of neural networks.
 authors:
 - Antoine Grimaldi
 - Amélie Gruel
 - Camille Besnainou
-- Jean-Nicolas Jérémie
 - Jean Martinet
 - Laurent U Perrinet
 date: 2022-01-01
 doi: 10.3390/brainsci13010068
-url_pdf: https://doi.org/10.3390/brainsci13010068
 grants:
 - aprovis3D
 - anr-anr
 - polychronies
-url_pdf: https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/
 lastmod: 2022-11-17 12:15:57+01:00
 projects: []
 publication: '*Brain Sciences*'
@@ -38,7 +35,8 @@ publication_types:
 publishDate: '2022-11-17T11:15:57.453425Z'
 tags:
 - polychronies
-title: Precise Spiking Motifs in Neurobiological and Neuromorphic Data
+title: Precise spiking motifs in neurobiological and neuromorphic data
+url_pdf: https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/
 ---
 
 {{< video src="2022-12-23_polychrony-review_video-abstract.mp4" controls="yes" >}}
