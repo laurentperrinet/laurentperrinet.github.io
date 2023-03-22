@@ -47,7 +47,7 @@ url_pdf: https://ieeexplore.ieee.org/document/9897394/
 ---
 
 * see a follow-up as journal paper: {{< cite page="/publication/grimaldi-22-bc" view="4" >}}
-* to be presented at [ICIP 2022](https://2022.ieeeicip.org) 16-19 October 2022 in Bordeaux, France
+* presented at [ICIP 2022](https://2022.ieeeicip.org) 16-19 October 2022 in Bordeaux, France
 * paper [3241](https://cmsworkshops.com/ICIP2022/papers/accepted_papers.php) (note that the title of the paper was slightly changed)
 * time of presentation:
  * Tue, 18 Oct, 20:30 - 20:45 China Standard Time (UTC +8)
