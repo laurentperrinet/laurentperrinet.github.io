@@ -3,10 +3,12 @@ authors:
 - laurent-u-perrinet
 date: 2016-04-20 00:00:00
 draft: false
-lastmod: 2018-01-13 00:00:00
+lastmod: 2023-01-13 00:00:00
 summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
+
+* "“All things originate from one another, and vanish into one another/ According to necessity; They give each other justice and recompense for injustice / In conformity with the order of Time.” [Anaximender](https://www.theguardian.com/books/2023/feb/13/anaximander-and-the-nature-of-science-by-carlo-rovelli-review-the-ancient-master-of-the-universe)
 
 * "There are two kinds of people: those who accept that things can be divided into two distinct categories, and those who choose to live in denial."
 
