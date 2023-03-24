@@ -41,7 +41,7 @@ image:
   preview_only: false
 lastmod: 2022-05-11 09:32:04+02:00
 projects: []
-publication: '*in revision*'
+publication: '*Vision*'
 publication_types:
 - '2'
 subtitle: ''
