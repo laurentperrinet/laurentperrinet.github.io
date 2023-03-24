@@ -11,8 +11,7 @@ tags:
 - events
 title: '2018-03-26 : PhD Program: course in Computational Neuroscience'
 ---
-PhD Program: course in Computational Neuroscience
-=================================================
+# PhD Program: course in Computational Neuroscience
 
 Context
 

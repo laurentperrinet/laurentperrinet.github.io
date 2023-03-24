@@ -17,8 +17,7 @@ tags:
 - events
 title: '2010-06-22 : CodeJamNr4'
 ---
-FACETS Code Jam Workshop \#4
-============================
+# FACETS Code Jam Workshop \#4
 
 
 We held a CodeJam 22nd-24th June 2010, in Marseille.

@@ -9,8 +9,7 @@ authors:
 - laurent-u-perrinet
 title: FACETS-ITN (2010/2013)
 ---
-FACETS-ITN: From Neuroscience to neuro-inspired computing (2010/2013)
-======================================================================
+# FACETS-ITN: From Neuroscience to neuro-inspired computing (2010/2013)
 
 <a href="http://facets.kip.uni-heidelberg.de/ITN/index.html" class="http"><img src="http://facets.kip.uni-heidelberg.de/images/e/e3/Public--ITN_PositionsPoster2.png" title="http://facets.kip.uni-heidelberg.de/ITN/index.html" alt="http://facets.kip.uni-heidelberg.de/ITN/index.html" class="external_image" style="width:25.0%" /></a>
 
