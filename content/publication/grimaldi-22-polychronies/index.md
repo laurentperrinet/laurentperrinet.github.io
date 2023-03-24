@@ -21,7 +21,7 @@ authors:
 - Camille Besnainou
 - Jean Martinet
 - Laurent U Perrinet
-date: 2022-01-01
+date: 2022-12-23
 doi: 10.3390/brainsci13010068
 grants:
 - aprovis3D
@@ -58,6 +58,8 @@ tags:
 title: Precise spiking motifs in neurobiological and neuromorphic data
 url_pdf: https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/
 ---
+
+
 
 
 
