@@ -13,7 +13,8 @@ abstract: 'The response of a biological neuron depends largely on the precise ti
   we build and train the network in order to optimize the inversion of this generative
   model. '
 authors:
-- Antoine andd Perrinet, Laurent U Grimaldi
+- Antoine Grimaldi
+- Laurent U Perrinet
 categories: []
 date: 2023-01-27
 draft: false
