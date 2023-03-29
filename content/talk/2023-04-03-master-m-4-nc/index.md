@@ -7,7 +7,8 @@ subtitle: ''
 summary: ''
 authors:
 - Laurent U Perrinet
-tags: []
+projects:
+- courses
 categories: []
 date: '2023-04-03'
 lastmod: 2023-03-29T12:47:11+02:00
@@ -27,8 +28,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- courses
+
 publishDate: '2023-03-29T10:47:11.113238Z'
 publication_types:
 - '1'
