@@ -54,7 +54,8 @@ Julien Diperi | Sio-Hoï Ieng | Emmanuel Daucé
 Inst Sciences Mouvement | Inst de la Vision | Inst Neurosci de la Timone
 
 ---
-{{< figure src="https://laurentperrinet.github.io/grant/anr-anr/gantt.png" title="Gantt Chart of project organization." numbered="true" >}}
+## Gantt Chart of project
+{{< figure src="https://laurentperrinet.github.io/grant/anr-anr/gantt.png" numbered="true" >}}
 
 ---
 

@@ -1,3 +1,20 @@
+/* 
+https://github.com/search?q=path%3A+reveal_custom.css&type=repositories
+
+https://gist.github.com/Myfanwy/00d5031c3c35d1370c8fc851c51dfc82 */
+
+
+<link href='http://fonts.googleapis.com/css?family=Megrim' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Raleway:300,400,700' rel='stylesheet' type='text/css'>
+
+/*********************************************
+ * GLOBAL STYLES
+ *********************************************/
+body {
+  background-image: url("https://laurentperrinet.github.io/post/2013-10-10_tropique/featured.jpg");
+}
+
+
 .reveal h1,
 .reveal h2,
 .reveal h3,
@@ -15,18 +32,54 @@
   word-wrap: break-word; }
 
 .reveal h1 {
-	font-size:1.0em;
+	font-size:2.1em;
 }
 
 .reveal h2 {
-	font-size:1.em;
+	font-size:1.3em;
 }
 
-/* backgroundTransition: 'slide' */
-/* https://gist.github.com/Myfanwy/00d5031c3c35d1370c8fc851c51dfc82 */
+  
+/*********************************************
+ * LINKS
+ *********************************************/
+ .reveal a:link,
+ .reveal a:hover,
+ .reveal a:active {
+     color: #46ACC8; /*Fantastic Mr. Fox */
+     text-decoration: none;
+ }
+ 
+ /* visited link */
+ .reveal a:visited {
+     color: #46ACC8; /* gray */
+     text-decoration: none;
+ }
+ 
+ /* mouse over link */
+ .reveal a:hover {
+     color: #DD8D29;
+ }
+
+/*********************************************
+* IMAGES
+*********************************************/
 .reveal section img {
-    background: #fff;  /*theme background color: https://github.com/rstudio/revealjs/tree/master/inst/reveal.js-3.2.0/css/theme */
-    border: 0;
-    box-shadow: 0 0 0 rgba(0, 0, 0, 0.15);
-    /*max-width: 500px;*/
-}
+border: 0;
+box-shadow: none; }
+
+/* .reveal img { height: auto; } */
+
+/* Ensure certain elements are never larger than the slide itself */
+.reveal img,
+.reveal video,
+.reveal iframe {
+  max-width: 95%;
+  max-height: 95%; }
+  
+/*********************************************
+ * PROGRESS BAR
+ *********************************************/
+ .reveal .progress {
+  color: #8fb1f5; }
+ 

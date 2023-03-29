@@ -1,11 +1,78 @@
 ---
 slides:
   theme: black
+  transition: fade
+  backgroundTransition: fade
+
 title: Slides
+
+output: 
+  revealjs::revealjs_presentation:
+    center: true
+
 ---
 # Welcome to Slides
 
-[Academic](https://sourcethemes.com/academic/)
+ * [Academic](https://sourcethemes.com/academic/)
+ * [reveal is awesome](https://revealjs.com)
+
+
+---
+<section>
+
+# A : Horizontal Slide
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+---
+  <section>
+    
+## A.1 : Vertical Slide 1
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+  </section>
+  
+---
+  <section>
+
+## A.2 : Vertical Slide 2
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+    
+    
+  </section>
+</section>
+
+---
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+
+
+---
+
+# R Markdown 
+
+This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+
+---
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
 
 ---
 
@@ -85,6 +152,36 @@ Press `Space` to play!
 {{% fragment %}} One {{% /fragment %}}
 {{% fragment %}} **Two** {{% /fragment %}}
 {{% fragment %}} Three {{% /fragment %}}
+
+---
+
+Press `Space` to play!
+
+{{% fragment %}}
+* One 
+{{% /fragment %}}
+
+{{% fragment %}}
+* **Two** 
+{{% /fragment %}}
+
+{{% fragment %}}
+* Three 
+{{% /fragment %}}
+
+---
+Press `Space` to play!
+
+{{% fragment grow %}} One {{% /fragment %}}
+{{% fragment semi-fade-out %}} **Two** {{% /fragment %}}
+{{% fragment shrink %}} Three {{% /fragment %}}
+
+---
+Press `Space` to play!
+
+{{% fragment fade-in-then-semi-out %}} One {{% /fragment %}}
+{{% fragment fade-left %}} **Two** {{% /fragment %}}
+{{% fragment fade-right %}} Three {{% /fragment %}}
 
 ---
 
