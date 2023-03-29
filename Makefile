@@ -1,3 +1,4 @@
+all: gitpages
 default: gitpages
 
 update:
