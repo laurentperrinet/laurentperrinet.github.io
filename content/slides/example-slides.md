@@ -27,7 +27,6 @@ output:
 - Bullet 3
 
 ---
-  <section>
     
 ## A.1 : Vertical Slide 1
 
@@ -35,10 +34,8 @@ output:
 - Bullet 2
 - Bullet 3
 
-  </section>
   
 ---
-  <section>
 
 ## A.2 : Vertical Slide 2
 
@@ -47,7 +44,35 @@ output:
 - Bullet 3
     
     
-  </section>
+</section>
+
+---
+<section>
+
+# B : Horizontal Slide
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+---
+    
+## B.1 : Vertical Slide 1
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+  
+---
+
+## B.2 : Vertical Slide 2
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+    
+    
 </section>
 
 ---

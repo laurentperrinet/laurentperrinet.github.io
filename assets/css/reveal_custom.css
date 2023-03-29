@@ -4,16 +4,9 @@ https://github.com/search?q=path%3A+reveal_custom.css&type=repositories
 https://gist.github.com/Myfanwy/00d5031c3c35d1370c8fc851c51dfc82 */
 
 
-<link href='http://fonts.googleapis.com/css?family=Megrim' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Raleway:300,400,700' rel='stylesheet' type='text/css'>
-
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
-body {
-  background-image: url("https://laurentperrinet.github.io/post/2013-10-10_tropique/featured.jpg");
-}
-
 
 .reveal h1,
 .reveal h2,
@@ -38,8 +31,7 @@ body {
 .reveal h2 {
 	font-size:1.0em;
 }
-
-  
+/*   
 /*********************************************
  * LINKS
  *********************************************/
@@ -59,23 +51,23 @@ body {
  /* mouse over link */
  .reveal a:hover {
      color: #DD8D29;
- }
+ } */
 
 /*********************************************
 * IMAGES
 *********************************************/
-.reveal section img {
+/* .reveal section img {
 border: 0;
-box-shadow: none; }
+box-shadow: none; } */
 
 /* .reveal img { height: auto; } */
 
 /* Ensure certain elements are never larger than the slide itself */
-.reveal img,
+/* .reveal img,
 .reveal video,
 .reveal iframe {
   max-width: 95%;
-  max-height: 95%; }
+  max-height: 95%; } */
   
 /*********************************************
  * PROGRESS BAR
