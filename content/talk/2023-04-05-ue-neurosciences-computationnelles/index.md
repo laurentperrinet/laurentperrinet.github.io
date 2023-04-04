@@ -44,4 +44,6 @@ abstract: Visual areas are essential in transforming the raw luminous signal int
   the different levels of the visual system and which were unveiled by decades of
   study in neurophysiology and psychophysics.
 publication: '*Master 1 Neurosciences et Sciences Cognitives*'
+
+slides: 2023-04-05-ue-neurosciences-computationnelles
 ---
