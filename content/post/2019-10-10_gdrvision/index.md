@@ -3,7 +3,7 @@ authors:
 - laurent-u-perrinet
 date: 2019-10-10 12:00:00
 draft: false
-featured: true
+featured: false
 image:
   caption: ''
   focal_point: ''

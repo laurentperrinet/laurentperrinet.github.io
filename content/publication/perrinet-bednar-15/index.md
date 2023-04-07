@@ -21,7 +21,7 @@ authors:
 - James A Bednar
 date: 2015-01-01
 doi: 10.1038/srep11400
-featured: true
+featured: false
 grants:
 - anr-bala-v1
 math: true
