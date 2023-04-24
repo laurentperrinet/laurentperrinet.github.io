@@ -19,6 +19,7 @@ authors:
 - Antoine Grimaldi
 - Amélie Gruel
 - Camille Besnainou
+- Jean-Nicolas Jérémie
 - Jean Martinet
 - Laurent U Perrinet
 date: 2022-12-23
