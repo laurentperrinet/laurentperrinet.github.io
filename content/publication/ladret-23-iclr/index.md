@@ -41,7 +41,7 @@ abstract: Aleatoric uncertainty characterizes the variability of features found 
 publication: '*ICLR 2023 SNN Workshop*'
 ---
 
-* In a nutshell: We found that sparse coding of images (here extended in a convolutional frame) was improved when using kernels with heterogeneous precisions in how they encode orientation information. This was confirmed by learning, but also by comparison with what is observed in the statistics of natural images and in our one recordings of neural cells in the primary visual cortex.
+* In a nutshell: We found that sparse coding of images (here extended in a convolutional framework) is improved when using kernels with heterogeneous precision in how they encode orientation information. This was confirmed by learning, but also by comparison with what is observed in the statistics of natural images and in our recordings from neurons in primary visual cortex.
 
 
 * Accepted paper (poster) at the [ICLR 2023 Workshop on
