@@ -41,14 +41,15 @@ abstract: Aleatoric uncertainty characterizes the variability of features found 
 publication: '*ICLR 2023 SNN Workshop*'
 ---
 
+
+* Accepted paper (poster) at the [ICLR 2023 Workshop on
+Sparsity in Neural Networks](https://www.sparseneural.net/accepted-papers):
+ * the focus of the WS is on "On practical limitations and tradeoffs between sustainability and efficiency" in Kigali, Rwanda / May 5th 2023
+ * reviews will be made public on https://openreview.net/forum?id=tgr8FEcl28M
+
+
 * In a nutshell: We found that sparse coding of images (here extended in a convolutional framework) is improved when using kernels with heterogeneous precision in how they encode orientation information. This was confirmed by learning, but also by comparison with what is observed in the statistics of natural images and in our recordings from neurons in primary visual cortex.
 
 {{< figure src="fig_dicos.png" title="Epistemic uncertainty in a CSC dictionary improves both sparseness and reconstruction performance. **(a)** Elements from dictionaries with fixed epistemic uncertainty before (green) and after dictionary learning (orange). **(b)** Elements from a dictionary with heterogeneous epistemic uncertainty before (blue) and after dictionary learning (purple). **(c)** Elements from a dictionary learned from scratch. **(d)** Distribution of the sparseness (top) and Peak Signal-to-Noise Ratio (PSNR, right) of the five dictionaries, shown as a scatter plot for each of the 600 images of the dataset (center). Median values are shown as dashed line on the histograms." numbered="true" >}}
 
 * This theoretical work accompanies a similar study in neurophysiology: {{< cite page="/publication/ladret-23/" view="4" >}}
-
-* Accepted paper (poster) at the [ICLR 2023 Workshop on
-Sparsity in Neural Networks](https://www.sparseneural.net/accepted-papers)
- * the focus of the WS is on "On practical limitations and tradeoffs between sustainability and efficiency" in Kigali, Rwanda / May 5th 2023
-
-* reviews will be made public on https://openreview.net/forum?id=tgr8FEcl28M
