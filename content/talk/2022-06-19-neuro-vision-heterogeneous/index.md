@@ -46,4 +46,4 @@ links:
 
 {{< tweet user="laurentperrinet" id="1538417555911720963" >}}
 
-* for a follow-up, check out  {{< cite page="/publication/grimaldi-22-icip" view="4" >}}
+* for a follow-up, check out {{< cite page="/publication/grimaldi-22-icip" view="4" >}}
