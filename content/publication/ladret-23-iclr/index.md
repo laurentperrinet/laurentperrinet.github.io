@@ -52,4 +52,5 @@ Sparsity in Neural Networks](https://www.sparseneural.net/accepted-papers):
 
 {{< figure src="fig_dicos.png" title="Epistemic uncertainty in a CSC dictionary improves both sparseness and reconstruction performance. **(a)** Elements from dictionaries with fixed epistemic uncertainty before (green) and after dictionary learning (orange). **(b)** Elements from a dictionary with heterogeneous epistemic uncertainty before (blue) and after dictionary learning (purple). **(c)** Elements from a dictionary learned from scratch. **(d)** Distribution of the sparseness (top) and Peak Signal-to-Noise Ratio (PSNR, right) of the five dictionaries, shown as a scatter plot for each of the 600 images of the dataset (center). Median values are shown as dashed line on the histograms." numbered="true" >}}
 
-* This theoretical work accompanies a similar study in neurophysiology: {{< cite page="/publication/ladret-23/" view="4" >}}
+* This theoretical work accompanies a similar study in neurophysiology: {{< cite page="/publication/ladret-23" view="4" >}}
+
