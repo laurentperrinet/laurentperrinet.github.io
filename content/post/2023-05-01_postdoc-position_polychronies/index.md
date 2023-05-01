@@ -35,16 +35,16 @@ Thanks for distributing this announcement to potential candidates!
 
 * More details on the "polychronies" grant: {{< cite page="/grant/polychronies" view="4" >}}
 
-* a recent review on Precise spiking motifs in neurobiological and neuromorphic data: {{< cite page="/publication/grimaldi-22-polychronies" view="4" >}}
+* Our recent review on Precise spiking motifs in neurobiological and neuromorphic data: {{< cite page="/publication/grimaldi-22-polychronies" view="4" >}}
 
-* application to neuromorphic data: {{< cite page="/publication/grimaldi-22-bc" view="4" >}}
+* Application of detecting spiking motifs in neuromorphic data: {{< cite page="/publication/grimaldi-22-bc" view="4" >}}
 
-* a theoretical framework on the accurate (supervised) detection of spiking motifs in (synthetic) multi-unit raster plots {{< cite page="/publication/perrinet-23-icann" view="4" >}}
+* A theoretical framework on the accurate (supervised) detection of spiking motifs in (synthetic) multi-unit raster plots {{< cite page="/publication/perrinet-23-icann" view="4" >}}
 
 
 ## Research context
 
-The thesis will be carried out in the team "NEuronal OPerations in visual TOpographic maps" (NeOpTo) within the [Institut de Neurosciences de la Timone](http://www.int.univ-amu.fr/?lang=en) in [Marseille](https://en.wikipedia.org/wiki/Marseille), a welcoming and lively town by the Mediterranean sea in the south of France. The research team is led by F. Chavane (DR2, CNRS) and currently hosts 4 permanent staff, 3 post-docs and 4 PhD students. The research themes of the team are focused on neuronal operations within visual cortical maps. Indeed, along the cortical hierarchy, low-level features such as the position and orientation of the visual stimulus (but also auditory tone, somatosensory touch, etc...) but also higher-level features (such as faces, viewpoints of objects, etc...) are represented topographically on the cortical surface.
+The thesis will be carried out in the team "NEuronal OPerations in visual TOpographic maps" (NeOpTo) within the [Institut de Neurosciences de la Timone](http://www.int.univ-amu.fr/?lang=en) in [Marseille](https://en.wikipedia.org/wiki/Marseille), a welcoming and lively town by the Mediterranean sea in the south of France. The research team is led by F. Chavane (DR, CNRS) and currently hosts 4 permanent staff, 3 post-docs and 4 PhD students. The research themes of the team are focused on neuronal operations within visual cortical maps. Indeed, along the cortical hierarchy, low-level features such as the position and orientation of the visual stimulus (but also auditory tone, somatosensory touch, etc...) but also higher-level features (such as faces, viewpoints of objects, etc...) are represented topographically on the cortical surface.
 
 
 
