@@ -261,6 +261,35 @@ https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-comp
 
 ---
 
+## Convolutional Neural Networks : the HMAX model
+
+{{< figure src="https://i.stack.imgur.com/ZlFnp.png" title="[[Serre and Poggio, 2006]](https://biology.stackexchange.com/questions/10955/ventral-stream-pathway-and-architecture-proposed-by-poggios-group)" width="65%" >}}
+
+{{< speaker_note >}}
+- sota
+{{< /speaker_note >}}
+
+
+---
+
+## Convolutional Neural Networks (CNNs)
+
+{{< figure src="https://www.mdpi.com/vision/vision-07-00029/article_deploy/html/images/vision-07-00029-g003.png" title="[[Jérémie & LP, 2023](https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/)]" width="90%" >}}
+
+---
+
+## Convolutional Neural Networks : hierarchy
+
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
+
+{{< speaker_note >}}
+- backpropagation is not bioplausible 
+- modification
+{{< /speaker_note >}}
+
+
+---
+
 ## Convolutional Neural Networks : Mathematics
 
 * One-dimensional [discrete convolution](https://en.wikipedia.org/wiki/Convolution#Discrete_convolution) (eg in time) with a kernel $g$ of radius $K$:
@@ -314,36 +343,6 @@ $$
 $$
 (f \ast \tilde{g})[k, x, y] = \sum_{c=1}^{C} \sum_{i,j} f[c, x+i, y+j] \cdot g[k, c, i, j]
 $$
-
----
-
-## Convolutional Neural Networks : the HMAX model
-
-{{< figure src="https://i.stack.imgur.com/ZlFnp.png" title="[[Serre and Poggio, 2006]](https://biology.stackexchange.com/questions/10955/ventral-stream-pathway-and-architecture-proposed-by-poggios-group)" width="65%" >}}
-
-{{< speaker_note >}}
-- sota
-{{< /speaker_note >}}
-
-
----
-
-## Convolutional Neural Networks (CNNs)
-
-{{< figure src="https://www.mdpi.com/vision/vision-07-00029/article_deploy/html/images/vision-07-00029-g003.png" title="[[Jérémie & LP, 2023](https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/)]" width="90%" >}}
-
----
-
-## Convolutional Neural Networks : hierarchy
-
-{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
-
-{{< speaker_note >}}
-- backpropagation is not bioplausible 
-- modification
-{{< /speaker_note >}}
-
-
 
 ---
 
