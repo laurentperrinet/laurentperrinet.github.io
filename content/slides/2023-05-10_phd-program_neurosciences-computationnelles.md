@@ -143,6 +143,7 @@ these hallucinations may appear to be
 {{< speaker_note >}}
 in that specific case...
 {{< /speaker_note >}}
+
 ---
 
 ## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
@@ -156,7 +157,7 @@ in that specific case...
 
 ---
 
-## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
+## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/): Context
 
 
 {{< video src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Kitaoka.mp4" controls="yes" width="80%" >}}
@@ -169,13 +170,13 @@ in that specific case...
 
 ---
 
-## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
+## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/): Context
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion_without.svg" title="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" width="70%" >}}
 
 ---
 
-## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
+## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/): Context
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion.svg" title="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" width="70%" >}}
 
@@ -244,6 +245,11 @@ in that specific case...
 
 [Hubel & Wiesel, 1962]
 
+
+{{< speaker_note >}}
+- https://www.youtube.com/watch?v=KE952yueVLA
+
+{{< /speaker_note >}}
 
 ---
 
