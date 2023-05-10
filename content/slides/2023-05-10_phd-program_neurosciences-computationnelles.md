@@ -23,7 +23,7 @@ summary: Interactions between machine learning, artificial neural networks and o
 ####	*[Laurent Perrinet](https://laurentperrinet.github.io)*
 ####	<u>[[2023-05-10]](https://ametice.univ-amu.fr/course/view.php?id=95116) [NeuroSchool PhD Program in Neuroscience.](https://neuro-marseille.org/en/training/phd-program/)</u>
 
-![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg)![QR code](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg)
+![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg)![QR code](https://laurentperrinet.github.io/talk/2023-05-10_phd-program_neurosciences-computationnelles/qrcode.png)
 
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
