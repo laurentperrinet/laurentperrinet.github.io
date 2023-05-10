@@ -45,5 +45,5 @@ abstract: Visual areas are essential in transforming the raw luminous signal int
   study in neurophysiology and psychophysics.
 publication: '*Master 1 Neurosciences et Sciences Cognitives*'
 
-slides: 2023-04-05-ue-neurosciences-computationnelles
+slides: 2023-04-05_ue-neurosciences-computationnelles
 ---
