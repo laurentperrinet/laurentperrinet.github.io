@@ -75,6 +75,8 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 {{< speaker_note >}}
 - active: the eye is always moving
 - https://fr.wikipedia.org/wiki/Alfred_Iarbous
+- "1) examine the painting freely"
+- consistency of eye traces / interindividual differences
 {{< /speaker_note >}}
 
 
@@ -82,11 +84,12 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 ## What is the function of vision?
 
-{{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_003.jpg" title="[An Unexpected Visitor - *Age?* (Yarbus, 1965)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
+{{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_004.jpg" title="[An Unexpected Visitor - *Age?* (Yarbus, 1965)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
 
 
 {{< speaker_note >}}
-- active: depends on task
+- active: depends on task:
+- "3) assess the ages of the characters"
 {{< /speaker_note >}}
 
 
@@ -94,11 +97,12 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 ## What is the function of vision?
 
-{{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_006.jpg" title="[An Unexpected Visitor - *How long?* (Yarbus, 1965)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
+{{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_007.jpg" title="[An Unexpected Visitor - *How long?* (Yarbus, 1965)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
 
 
 {{< speaker_note >}}
-- consistency of eye traces
+- "6) surmise how long the “unexpected visitor” had been away"
+- adaptive and efficient system...
 - yet, surprisingly....
 {{< /speaker_note >}}
 
