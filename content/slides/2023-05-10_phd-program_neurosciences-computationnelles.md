@@ -14,23 +14,25 @@ publishDate: "2023-05-10T08:47:11+02:00"
 
 title: 2023-05-10_phd-program_neurosciences-computationnelles.md
 
-summary: Artificial neural networks and machine learning applied to the understanding of biological vision
+summary: Interactions between machine learning, artificial neural networks and our understanding of biological vision
 
 ---
 <section>
 
-# [Artificial neural networks and machine learning applied to the understanding of biological vision](https://laurentperrinet.github.io/slides/2023-05-10_phd-program_neurosciences-computationnelles/?transition=fade)
+# [Interactions between machine learning, artificial neural networks and our understanding of biological vision](https://laurentperrinet.github.io/slides/2023-05-10_phd-program_neurosciences-computationnelles/?transition=fade)
 ####	*[Laurent Perrinet](https://laurentperrinet.github.io)*
-####	<u>[[2023-04-05]](https://ametice.univ-amu.fr/course/view.php?id=95116) [PhD program.](https://sciences.univ-amu.fr/fr/formation/masters/master-neurosciences)</u>
+####	<u>[[2023-05-10]](https://ametice.univ-amu.fr/course/view.php?id=95116) [NeuroSchool PhD Program in Neuroscience.](https://neuro-marseille.org/en/training/phd-program/)</u>
 
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg)
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 
 {{< speaker_note >}}
-- objective= understand biological vision
-- interaction between artificial and natural NNs
-- outline
+
+- welcome to the course on COMPUTATIONAL NEUROSCIENCE 2023 entitled "Machine learning to analyze complex data"
+- objective= understand models of biological vision which are the inspiration for modern deep learning
+- outcome= interaction between artificial and natural NNs
+- outline= principles / CNNs / challenges / solutions
 {{< /speaker_note >}}
 
 
@@ -45,7 +47,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
 {{< speaker_note >}}
-- cut in different levels: Marr (+ Poggio)
+- break down problem in three different levels: Marr (+ Poggio)
 - arbitrary, but useful division of labor
 {{< /speaker_note >}}
 
@@ -96,8 +98,51 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 {{< speaker_note >}}
 - consistency of eye traces
+- yet, surprisingly....
 {{< /speaker_note >}}
 
+---
+
+## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
+
+{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg" title="[Rotating Snakes *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)" width="70%" >}}
+
+{{< speaker_note >}}
+- the visual system experiences "hallucinations"
+- ...
+{{< /speaker_note >}}
+
+---
+
+## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
+
+{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Face-on-mars.jpg" title="[Cydonia Mensae (1976) *Viking Orbiter image*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
+
+{{< speaker_note >}}
+these hallucinations may appear to be
+- real
+- persistent
+{{< /speaker_note >}}
+
+---
+
+## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
+
+{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_low.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
+
+{{< speaker_note >}}
+in that specific case...
+{{< /speaker_note >}}
+---
+
+## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
+
+{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_high.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
+
+{{< speaker_note >}}
+- more date = less ambiguity
+- beware: models may also hallucinate
+{{< /speaker_note >}}
 
 ---
 
@@ -106,6 +151,11 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 {{< video src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Kitaoka.mp4" controls="yes" width="80%" >}}
 [Ilusions of brightness or lightness *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)
+
+{{< speaker_note >}}
+- these may be of low level
+- ...
+{{< /speaker_note >}}
 
 ---
 
@@ -120,32 +170,8 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion.svg" title="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" width="70%" >}}
 
 {{< speaker_note >}}
-- effect of context -> 3D
+- of showing an effect of context -> 3D
 {{< /speaker_note >}}
-
----
-
-## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
-
-{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg" title="[Rotating Snakes *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)" width="70%" >}}
-
----
-
-## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
-
-{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Face-on-mars.jpg" title="[Cydonia Mensae (1976) *Viking Orbiter image*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
-
----
-
-## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
-
-{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_low.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
-
----
-
-## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
-
-{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_high.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
 
 
 ---
@@ -461,7 +487,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 ## Spiking Neural Networks: Leaky Integrate-and-Fire Neuron
 
-{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/LIF.gif" title="Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)." width="80%" >}}
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/LIF.gif" title="[Grimaldi *et al*, 2023, [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)]" width="80%" >}}
 
 {{< speaker_note >}}
 **2 MINUTE**
@@ -533,7 +559,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 ## Spiking Neural Networks: Spiking motifs
 
-{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png" title="Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)." width="80%" >}}
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png" title="[Grimaldi *et al*, 2023, [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)]" width="80%" >}}
 
 {{< speaker_note >}}
 **2 MINUTE**
