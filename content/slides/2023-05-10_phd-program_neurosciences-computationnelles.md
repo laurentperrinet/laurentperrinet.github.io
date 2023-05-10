@@ -257,13 +257,13 @@ in that specific case...
 
 ## Primary visual cortex: Hubel & Wiesel
 
-{{< video src="https://github.com/laurentperrinet/laurentperrinet.github.io/blob/a696d96a08df35569bdc50c7d825d02f48a3e4d4/talk/2023-05-10-phd-program-neurosciences-computationnelles/hubel_wiesel.webm" controls="yes" height=250 >}}
+{{< video src="https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-computationnelles/hubel_wiesel.webm" controls="yes" height=250 >}}
 
 [Hubel & Wiesel, 1962] - from [@Neuroslicer](https://www.youtube.com/@Neuroslicer)
 
 
 {{< speaker_note >}}
-- https://www.youtube.com/watch?v=KE952yueVLA - 
+- https://www.youtube.com/watch?v=KE952yueVLA -
 https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-computationnelles/hubel_wiesel.webm
 - simple cell 4:09
 - excerpt https://raw.githubusercontent.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/master/figures/ComplexDirSelCortCell250_title.mp4
