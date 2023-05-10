@@ -265,16 +265,15 @@ https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-comp
 
 {{< figure src="https://i.stack.imgur.com/ZlFnp.png" title="[[Serre and Poggio, 2006]](https://biology.stackexchange.com/questions/10955/ventral-stream-pathway-and-architecture-proposed-by-poggios-group)" width="65%" >}}
 
-{{< speaker_note >}}
-- sota
-{{< /speaker_note >}}
-
-
 ---
 
 ## Convolutional Neural Networks (CNNs)
 
 {{< figure src="https://www.mdpi.com/vision/vision-07-00029/article_deploy/html/images/vision-07-00029-g003.png" title="[[Jérémie & LP, 2023](https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/)]" width="90%" >}}
+
+{{< speaker_note >}}
+- sota
+{{< /speaker_note >}}
 
 ---
 
