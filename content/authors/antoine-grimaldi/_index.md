@@ -28,7 +28,7 @@ tags:
 user_groups:
 - Current Students
 ---
-#  "Ultra-fast vision using Spiking Neural Networks" (PhD position, 2020-09 / 2023-09)
+#  "Ultra-fast vision using Spiking Neural Networks" (PhD position, 2020-09 / 2024-03)
 
 * [APROVIS3D grant (ANR-19-CHR3-0008-03)](https://laurentperrinet.github.io/post/2020-06-30_phd-position/) at Aix-Marseille Université
 
