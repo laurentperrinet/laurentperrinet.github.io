@@ -21,13 +21,16 @@ summary: Interactions between machine learning, artificial neural networks and o
 
 # [Interactions between machine learning, artificial neural networks and our understanding of biological vision](https://laurentperrinet.github.io/slides/2023-05-10_phd-program_neurosciences-computationnelles/?transition=fade)
 ####	*[Laurent Perrinet](https://laurentperrinet.github.io)*
-####	<u>[[2023-05-10]](https://ametice.univ-amu.fr/course/view.php?id=95116) [NeuroSchool PhD Program in Neuroscience.](https://neuro-marseille.org/en/training/phd-program/)</u>
+####	<u>[[2023-05-10]](https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-computationnelles) [NeuroSchool PhD Program in Neuroscience](https://neuro-marseille.org/en/training/phd-program/): Computation Neuroscience</u>
 
-![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg)
+<img src="https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg" alt="logos" height="130"/>
+<img src="https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-computationnelles/qrcode.png" alt="qrcode" height="130"/>
 
-![QR code](./talk/2023-04-05-ue-neurosciences-computationnelles/qrcode.png)
 
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
+
+<!-- ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg) 
+![QR code](https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-computationnelles/qrcode.png) -->
 
 
 {{< speaker_note >}}
@@ -691,18 +694,23 @@ For instance, we show how precise spike times may be used to detect the directio
 
 ---
 
-# [Artificial neural networks and machine learning applied to the understanding of biological vision](https://laurentperrinet.github.io/slides/2023-04-05_ue-neurosciences-computationnelles/?transition=fade)
+# [Interactions between machine learning, artificial neural networks and our understanding of biological vision](https://laurentperrinet.github.io/slides/2023-05-10_phd-program_neurosciences-computationnelles/?transition=fade)
 ####	*[Laurent Perrinet](https://laurentperrinet.github.io)*
-####	<u>[[2023-04-05]](https://ametice.univ-amu.fr/course/view.php?id=95116) [Master 1 Neurosciences et Sciences Cognitives.](https://sciences.univ-amu.fr/fr/formation/masters/master-neurosciences)</u>
+####	<u>[[2023-05-10]](https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-computationnelles) [NeuroSchool PhD Program in Neuroscience](https://neuro-marseille.org/en/training/phd-program/): Computation Neuroscience</u>
 
-![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg)
+<img src="https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg" alt="logos" height="130"/>
+<img src="https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-computationnelles/qrcode.png" alt="qrcode" height="130"/>
+
+
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
+
+<!-- ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg) 
+![QR code](https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-computationnelles/qrcode.png) -->
 
 
 {{< speaker_note >}}
-- objective= understand biological vision
-- interaction between artificial and natural NNs
-- outline
+- thanks for your attention
 {{< /speaker_note >}}
+
 
 </section>
