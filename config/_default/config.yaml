@@ -50,6 +50,8 @@ enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+ignoreErrors: ["error-remote-getjson"]
+
 # https://gohugo.io/content-management/urls/#permalink-configuration-values
 permalinks:
   event: '/talk/:filename/'
