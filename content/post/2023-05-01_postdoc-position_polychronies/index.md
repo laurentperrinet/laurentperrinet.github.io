@@ -40,6 +40,7 @@ Thank you for forwarding this announcement to potential candidates!
 
 * A theoretical framework on the accurate (supervised) detection of spiking motifs in (synthetic) multi-unit raster plots {{< cite page="/publication/perrinet-23-icann" view="4" >}}
 
+* [Euraxess](https://euraxess.ec.europa.eu/jobs/112647) - [jobrXiv](https://jobrxiv.org/job/cnrs-aix-marseille-univ-27778-accurate-detection-of-precise-spiking-motifs-in-neurobiological-data/?feed_id=45012) - 
 
 ## Research context
 
