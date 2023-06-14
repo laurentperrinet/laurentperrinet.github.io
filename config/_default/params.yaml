@@ -22,6 +22,7 @@ marketing:
     twitter: 'laurentperrinet'
   analytics:
     google_analytics: 'UA-140381649-1'
+    # google_analytics: 'G-42NTFJM3YV'
     baidu_tongji: ''
   verification:
     google: '6jjjboKLYp2QzywShNDvZkAfb0Yc8SDtfFzOonP3o0o'
