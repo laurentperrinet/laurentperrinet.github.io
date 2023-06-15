@@ -26,12 +26,14 @@ date: 2022-12-23
 doi: 10.3390/brainsci13010068
 draft: false
 featured: true
+publication_types:
+- '2'
 grants:
 - aprovis3D
 - anr-anr
 - polychronies
 title: Precise spiking motifs in neurobiological and neuromorphic data
-url_pdf: https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/
+url_hal: https://hal.science/hal-03918338
 ---
 
 {{< video src="2022-12-23_polychrony-review_video-abstract.mp4" controls="yes" >}}
