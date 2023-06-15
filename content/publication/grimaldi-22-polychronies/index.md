@@ -24,6 +24,8 @@ authors:
 - Laurent U Perrinet
 date: 2022-12-23
 doi: 10.3390/brainsci13010068
+draft: false
+featured: true
 grants:
 - aprovis3D
 - anr-anr
@@ -33,7 +35,6 @@ url_pdf: https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/
 ---
 
 {{< video src="2022-12-23_polychrony-review_video-abstract.mp4" controls="yes" >}}
-
 
  * read the paper [online](https://doi.org/10.3390/brainsci13010068) or in [PDF](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/grimaldi-22-polychronies.pdf)
  * [Video Abstract](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/2022-12-23_polychrony-review_video-abstract.mp4)
