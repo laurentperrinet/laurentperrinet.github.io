@@ -17,7 +17,7 @@ user_groups:
 * This PhD position is made possible thanks to a 3-year contract from AIX-MARSEILLE University awarded by the [Turing Centre for Living Systems PhD call (CENTURI)](https://centuri-livingsystems.org/phd2023-14/).
 
 
-The predictive processing framework is considered a universal principle in the operation of the brain[^1]. However, how it is implemented on the level of circuits and single neurons is an open question [^2]. For any such computation, external sensory information must be compared with internally generated predictions. We have previously uncovered the connectivity and synaptic integration foundations for such algorithms in the mouse visual cortex [^3]. In this project, we will study how neuromodulators, such as serotonin (implicated in depression and psychosis) and acetylcholine (implicated in attention and dementia), govern the integration of internal and external information.
+The predictive processing framework is considered a universal principle in the operation of the brain[^1]. However, how it is implemented on the level of circuits and single neurons is an open question[^2]. For any such computation, external sensory information must be compared with internally generated predictions. We have previously uncovered the connectivity and synaptic integration foundations for such algorithms in the mouse visual cortex[^3]. In this project, we will study how neuromodulators, such as serotonin (implicated in depression and psychosis) and acetylcholine (implicated in attention and dementia), govern the integration of internal and external information.
 
 ## Keywords
 
@@ -25,12 +25,12 @@ Neuromodulation, visual cortex, predictive processing, spiking neuronal network 
 
 ## Objectives
 
-* The first objective is to explore pre- and postsynaptic neuromodulatory mechanisms using spiking neuronal network models developed by the Perrinet team [^4].
+* The first objective is to explore pre- and postsynaptic neuromodulatory mechanisms using spiking neuronal network models developed by the Perrinet team[^4].
 * The second objective is testing model predictions experimentally. This will be done in the Rancz team using optogenetics, pharmacology and whole-cell recordings in brain slices.
 
 ## Proposed approach (experimental / theoretical / computational)
 
-We will build spiking neuronal network models approximating the mouse visual cortex using connectivity data from our lab [^3] and the literature. On top of recurrent local connections, we will incorporate often neglected long-range excitatory input and the associated feed-forward inhibition currently being studied by the Rancz team. Notably, various models of neuromodulation, both on the pre- and postsynaptic levels, will be included. In particular, the normative models will allow designing stimulations using a recently developed optimisation method [^5]. The relative contribution of neuromodulatory mechanisms in model instantiations will then be tested experimentally. We will record somatic and dendritic neuronal activity during the optogenetic stimulation of different input streams. Model predictions of the neuronal coding of prediction errors will be tested by pharmacologically blocking or activating specific neuromodulator receptors.
+We will build spiking neuronal network models approximating the mouse visual cortex using connectivity data from our lab[^3] and the literature. On top of recurrent local connections, we will incorporate often neglected long-range excitatory input and the associated feed-forward inhibition currently being studied by the Rancz team. Notably, various models of neuromodulation, both on the pre- and postsynaptic levels, will be included. In particular, the normative models will allow designing stimulations using a recently developed optimisation method[^5]. The relative contribution of neuromodulatory mechanisms in model instantiations will then be tested experimentally. We will record somatic and dendritic neuronal activity during the optogenetic stimulation of different input streams. Model predictions of the neuronal coding of prediction errors will be tested by pharmacologically blocking or activating specific neuromodulator receptors.
 
 ## Interdisciplinarity
 
