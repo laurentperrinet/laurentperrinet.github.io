@@ -36,13 +36,12 @@ We will build spiking neuronal network models approximating the mouse visual cor
 
 We will combine computational and experimental neuroscience in the proposed project. Theoretical and computational neuroscience (TCN) is essential to propose computations and their algorithmic instantiations. Experimental neuroscience (EN) can uncover the biological mechanisms underlying these model-predicted computations. TCN can tackle experimentally intractable problems by narrowing the parameter space. EN, in return, can feed back architectural insights to help build better models, e.g. for artificial intelligence. Ultimately, understanding the biological underpinnings of the mind will lead us to alleviate the suffering caused by psychiatric diseases and the human condition in general.
 
+[^1]: Bar, M (2009) *Predictions: a universal principle in the operation of the human brain* [doi:10.1098/rstb.2008.0321](https://royalsocietypublishing.org/doi/10.1098/rstb.2008.0321)
 
-[^1] Bar, M (2009) *Predictions: a universal principle in the operation of the human brain* [doi:10.1098/rstb.2008.0321](https://royalsocietypublishing.org/doi/10.1098/rstb.2008.0321)
+[^2]: Spratling, M (2017) *A review of predictive coding algorithms* [doi:10.1016/j.bandc.2015.11.003](https://www.sciencedirect.com/science/article/abs/pii/S027826261530035X)
 
-[^2] Spratling, M (2017) *A review of predictive coding algorithms* [doi:10.1016/j.bandc.2015.11.003](https://www.sciencedirect.com/science/article/abs/pii/S027826261530035X)
+[^3]: Galloni, A, Ye, Z. & Rancz, E. (2022) *Dendritic Domain-Specific Sampling of Long-Range Axons Shapes Feedforward and Feedback Connectivity of L5 Neurons* [doi:10.1523/JNEUROSCI.1620-21.2022](https://www.jneurosci.org/content/42/16/3394)
 
-[^3] Galloni, A, Ye, Z. & Rancz, E. (2022) *Dendritic Domain-Specific Sampling of Long-Range Axons Shapes Feedforward and Feedback Connectivity of L5 Neurons* [doi:10.1523/JNEUROSCI.1620-21.2022](https://www.jneurosci.org/content/42/16/3394)
+[^4]: Perrinet, L (2020) *Accurate detection of spiking motifs in multi-unit raster plots* https://laurentperrinet.github.io/publication/perrinet-23-icann/
 
-[^4] Perrinet, L (2020) *Accurate detection of spiking motifs in multi-unit raster plots* https://laurentperrinet.github.io/publication/perrinet-23-icann/
-
-[^5] Walker, Y *et al.* (2019) *Inception loops discover what excites neurons most using deep predictive models* [doi:10.1038/s41593-019-0517-x](https://www.nature.com/articles/s41593-019-0517-x)
+[^5]: Walker, Y *et al.* (2019) *Inception loops discover what excites neurons most using deep predictive models* [doi:10.1038/s41593-019-0517-x](https://www.nature.com/articles/s41593-019-0517-x)
