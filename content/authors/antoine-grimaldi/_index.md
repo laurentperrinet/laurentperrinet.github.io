@@ -38,7 +38,7 @@ user_groups:
 
 ## Main publications
 
-* {{< cite page="/publication/grimaldi-22-bc" view="4" >}}
+* {{< cite page="/publication/grimaldi-23-bc" view="4" >}}
 * {{< cite page="/publication/grimaldi-22-polychronies" view="4" >}}
 * {{< cite page="/publication/grimaldi-22-pami" view="4" >}}
 

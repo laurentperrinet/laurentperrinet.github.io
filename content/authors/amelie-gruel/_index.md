@@ -35,5 +35,5 @@ user_groups:
 
 ## Main publications
 
-* {{< cite page="/publication/gruel-22-bc" view="4" >}}
+* {{< cite page="/publication/gruel-23-bc" view="4" >}}
 * {{< cite page="/publication/grimaldi-22-polychronies" view="4" >}}

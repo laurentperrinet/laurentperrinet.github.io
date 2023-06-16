@@ -1,15 +1,16 @@
 ---
 authors:
+- Amélie Gruel
+- Dalia Hareb
 - Antoine Grimaldi
+- Jean Martinet
 - Laurent U Perrinet
+- Bernabé Linares-Barranco
+- Teresa Serrano-Gotarredona
 categories: []
-date: 2022-01-01
+date: 2023-06-01
 draft: false
 featured: false
-grants:
-- aprovis3D
-- anr-anr
-- polychronies
 image:
   caption: ''
   focal_point: ''
@@ -19,14 +20,11 @@ projects: []
 publication: '*Submitted*'
 publication_types:
 - '2'
-publishDate: '2022-11-17T11:15:57.021954Z'
+publishDate: '2022-11-17T11:15:57.623607Z'
 subtitle: ''
 tags:
 - efficient coding
+- event-based vision
 - neuromorphic hardware
-- polychronies
-title: Learning heterogeneous delays in a layer of spiking neurons for fast motion
-  detection
+title: 'Stakes of Neuromorphic Foveation: a promising future for embedded event cameras'
 ---
-
-* a follow-up of  {{< cite page="/publication/grimaldi-22-icip" view="4" >}}

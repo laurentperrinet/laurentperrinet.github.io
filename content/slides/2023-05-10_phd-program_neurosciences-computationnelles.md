@@ -623,7 +623,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 ## Spiking Neural Networks in neuromorphic engineering
 
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-bc/HDSNN_conv.png" title="The HD-SNN neural network." width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/HDSNN_conv.png" title="The HD-SNN neural network." width="90%" >}}
 
 {{< speaker_note >}}
 **2 MINUTE**
@@ -636,7 +636,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 ## Spiking Neural Networks in neuromorphic engineering
 
-{{< video src="https://laurentperrinet.github.io/publication/grimaldi-22-bc/FastMotionDetection_input.mp4" autoplay="yes" >}}
+{{< video src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/FastMotionDetection_input.mp4" autoplay="yes" >}}
 
 {{< speaker_note >}}
 **2 MINUTE**
@@ -651,7 +651,7 @@ For instance, we show how precise spike times may be used to detect the directio
 
 ## Spiking Neural Networks in neuromorphic engineering
 
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-bc/motion_kernels.png" title="The HD-SNN neural network." width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/motion_kernels.png" title="The HD-SNN neural network." width="90%" >}}
 
 {{< speaker_note >}}
 **2 MINUTE**
@@ -665,7 +665,7 @@ For instance, we show how precise spike times may be used to detect the directio
 
 ## Spiking Neural Networks in neuromorphic engineering
 
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-22-bc/accuracy.png" title="The HD-SNN neural network." width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/accuracy.png" title="The HD-SNN neural network." width="80%" >}}
 
 {{< speaker_note >}}
 **2 MINUTE**
