@@ -29,10 +29,12 @@ title: Resilience to sensory variance in the primary visual cortex
 * Code : https://github.com/hugoladret/variance-processing-V1
 * Data : https://figshare.com/articles/dataset/Data_for_Ladret_et_al_2023_Cortical_recurrence_supports_resilience_to_sensory_variance_in_the_primary_visual_cortex_/23366588
 
+![Artboard](Artboard.png)
 
 {{< tweet user="laurentperrinet" id="1395351843035828224" >}}
 
-
 * preprint of a former revision: https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5
 
+
 * This neurophysiological work accompanies a similar study in theoretical neuroscience : {{< cite page="/publication/ladret-23-iclr" view="4" >}}
+
