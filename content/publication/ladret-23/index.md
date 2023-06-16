@@ -23,7 +23,7 @@ featured: true
 grants:
 - anr-horizontal-v1
 projects: []
-publication: '*in revision*'
+publication: '*Accepted in Nature Comm Biol*'
 publication_types:
 - '2'
 tags:
