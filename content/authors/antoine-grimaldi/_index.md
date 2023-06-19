@@ -34,7 +34,7 @@ user_groups:
 
 * Keywords: Vision, Spiking Neural Networks, Bio-Inspired Computer Vision
 
-* Thesis director: Dr. Laurent PERRINET, Research unit: Institut de Neurosciences de la Timone (INT)
+* Thesis director: Dr. Laurent PERRINET, Institut de Neurosciences de la Timone (INT)
 
 ## Main publications
 

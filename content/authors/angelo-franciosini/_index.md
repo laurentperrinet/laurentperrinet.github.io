@@ -38,7 +38,7 @@ user_groups:
 
 * Keywords: Vision, Neural Networks, Bio-Inspired Computer Vision, contours, learning
 
-* Thesis director: Dr. Laurent PERRINET, Director's research unit: Institut de Neurosciences de la Timone (INT)
+* Thesis director: Dr. Laurent PERRINET, Director, Institut de Neurosciences de la Timone (INT)
 
 ## Main publications:
 
