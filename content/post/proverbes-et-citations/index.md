@@ -8,6 +8,8 @@ summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
 
+* ”Learn from nature: that is where our future lies” (Leonardo da Vinci)
+
 * "We should all do what, in the long run, gives us joy, even if it is only picking grapes or sorting spikes." (E. B. White, 1989) 
 
 * "“All things originate from one another, and vanish into one another/ According to necessity; They give each other justice and recompense for injustice / In conformity with the order of Time.” [Anaximender](https://www.theguardian.com/books/2023/feb/13/anaximander-and-the-nature-of-science-by-carlo-rovelli-review-the-ancient-master-of-the-universe)
