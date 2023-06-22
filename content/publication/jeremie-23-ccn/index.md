@@ -4,7 +4,7 @@ authors:
 - Emmanuel Daucé
 - Laurent U Perrinet
 categories: []
-date: 2022-01-01
+date: 2023-08-25
 draft: false
 featured: false
 grants:
@@ -21,5 +21,7 @@ publication_types:
 publishDate: '2022-11-17T11:15:57.788793Z'
 subtitle: ''
 tags: []
-title: Retinotopic mapping improves the reliability of image categorization
+title: Retinotopy improves the categorisation and localisation of visual objects in CNNs
 ---
+
+* to be presented at the *Computational Cognitive Neuroscience Society Meeting 2023*
