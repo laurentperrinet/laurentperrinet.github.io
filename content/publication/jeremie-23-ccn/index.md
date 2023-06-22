@@ -24,4 +24,4 @@ tags: []
 title: Retinotopy improves the categorisation and localisation of visual objects in CNNs
 ---
 
-* to be presented at the *Computational Cognitive Neuroscience Society Meeting 2023*
+* to be presented at the *Computational Cognitive Neuroscience Society Meeting 2023* in Oxford
