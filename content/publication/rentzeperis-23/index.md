@@ -16,6 +16,7 @@ image:
   preview_only: false
 lastmod: 2022-05-20 13:42:38+02:00
 links:
+url_preprint: https://arxiv.org/abs/2301.10002
 projects: []
 publication: '*Submitted*'
 publication_types:
