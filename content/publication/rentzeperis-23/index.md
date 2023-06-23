@@ -19,7 +19,7 @@ links:
 projects: []
 publication: '*Submitted*'
 publication_types:
-- '1'
+- '2'
 publishDate: '2022-06-16T11:51:41.890310Z'
 show_authors_only: false
 subtitle: ''
