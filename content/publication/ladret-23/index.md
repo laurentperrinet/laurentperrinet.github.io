@@ -17,6 +17,8 @@ projects: []
 publication: '*Nature Communications Biology*'
 publication_types:
 - '2'
+doi: 10.1038/s42003-023-05042-3
+url: https://www.nature.com/articles/s42003-023-05042-3
 tags:
 - decoding
 - orientation
@@ -26,15 +28,20 @@ tags:
 title: Resilience to sensory variance in the primary visual cortex
 ---
 
+* open access: https://www.nature.com/articles/s42003-023-05042-3
+
+* 5 minutes summary: https://hugoladret.github.io/publications/ladret_et_al_variance_v1/
+
 * Code : https://github.com/hugoladret/variance-processing-V1
+
 * Data : https://figshare.com/articles/dataset/Data_for_Ladret_et_al_2023_Cortical_recurrence_supports_resilience_to_sensory_variance_in_the_primary_visual_cortex_/23366588
 
 ![Artboard](Artboard.png)
 
 {{< tweet user="laurentperrinet" id="1395351843035828224" >}}
 
+
 * preprint of a former revision: https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5
 
 
 * This neurophysiological work accompanies a similar study in theoretical neuroscience : {{< cite page="/publication/ladret-23-iclr" view="4" >}}
-
