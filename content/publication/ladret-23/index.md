@@ -38,7 +38,7 @@ title: Resilience to sensory variance in the primary visual cortex
 
 ![Artboard](Artboard.png)
 
-{{< tweet user="laurentperrinet" id="1395351843035828224" >}}
+{{< tweet user="laurentperrinet" id="1673229104353509377" >}}
 
 
 * preprint of a former revision: https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5
