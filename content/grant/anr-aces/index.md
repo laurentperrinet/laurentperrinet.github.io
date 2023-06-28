@@ -1,6 +1,6 @@
 ---
 date: 2021-07-13 00:00:00
-summary: 'Assignment of credit and constraints on eye movement learning (2021/2026).'
+summary: 'Assignment of credit and constraints on eye movement learning (2022/2026).'
 authors:
 - anna-montagnini
 - emmanuel-dauce
@@ -24,7 +24,7 @@ To solve this problem, the ACEs project relies on a general conceptual framework
 * *Title : Assignment of credit and constraints on eye movement learning*
 * Coordinateur Scientifique : Laurent Madelain (ScaLab)
 * Responsable Scientifique local : Anna Montagnini (UMR7289)
-* Durée: 4 ans, à partir du 1er mars 2021 - 1er décembre 2024
+* Durée: 4 ans, à partir du 1er mars 2022 - 1er mars 2026
 * Budget total: 435 k€
 * https://anr.fr/Projet-ANR-21-CE28-0013
 
