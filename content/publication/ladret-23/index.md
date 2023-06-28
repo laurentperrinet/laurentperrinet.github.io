@@ -18,7 +18,7 @@ publication: '*Nature Communications Biology*'
 publication_types:
 - '2'
 doi: 10.1038/s42003-023-05042-3
-url: https://www.nature.com/articles/s42003-023-05042-3
+url: "https://www.nature.com/articles/s42003-023-05042-3"
 tags:
 - decoding
 - orientation
