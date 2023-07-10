@@ -8,6 +8,8 @@ summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
 
+* "Pas besoin d’être dans une bâtisse pour se sentir hanté, le cerveau a suffisamment de couloirs." (Émilie Dickinson, fin du 19e siècle)
+
 * ”Learn from nature: that is where our future lies” (Leonardo da Vinci)
 
 * "We should all do what, in the long run, gives us joy, even if it is only picking grapes or sorting spikes." (E. B. White, 1989) 
