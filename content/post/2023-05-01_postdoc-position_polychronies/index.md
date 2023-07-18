@@ -13,11 +13,14 @@ image:
   preview_only: false
 lastmod: 2023-05-01 09:00:00
 projects: []
-
+subtitle: THE POSITION HAS BEEN FILLED!
 tags:
 - events
 - polychronies
 ---
+{{% callout warning %}}
+THE POSITION HAS BEEN FILLED.
+{{% /callout %}}
 
 Dear colleagues,
 
