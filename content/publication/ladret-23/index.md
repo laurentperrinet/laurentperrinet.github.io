@@ -1,5 +1,5 @@
 ---
-abstract: Our daily endeavors occur in a complex visual environment, whose intrinsic variability challenges the way we integrate information to make decisions. By processing myriads of parallel sensory inputs, our brain is theoretically able to compute the variance of its environment, a cue which is known to guide our behavior. Yet, the neurobiological and computational basis of such variance computations are still poorly understood. Here, we quantified the dynamics of sensory variance modulations of cat primary visual cortex neurons. We report two archetypal neuronal responses, one of which is resilient to changes in variance and can co-encode the sensory feature and its variance, significantly improving the population encoding of orientation. The existence of these variance-specific responses could be accounted for by a model of intracortical recurrent connectivity. We thus propose that local recurrent circuits process uncertainty as a generic computation, advancing our understanding of how the brain handles naturalistic inputs.
+abstract: Our daily endeavors occur in a complex visual environment, whose intrinsic variability challenges the way we integrate information to make decisions. By processing myriads of parallel sensory inputs, our brain is theoretically able to compute the variance of its environment, a cue known to guide our behavior. Yet, the neurobiological and computational basis of such variance computations are still poorly understood. Here, we quantify the dynamics of sensory variance modulations of cat primary visual cortex neurons. We report two archetypal neuronal responses, one of which is resilient to changes in variance and co-encodes the sensory feature and its variance, improving the population encoding of orientation. The existence of these variance-specific responses can be accounted for by a model of intracortical recurrent connectivity. We thus propose that local recurrent circuits process uncertainty as a generic computation, advancing our understanding of how the brain handles naturalistic inputs.
 authors:
 - Hugo Ladret
 - Nelson Cortes
@@ -25,7 +25,7 @@ tags:
 - precision
 - predictive coding
 - V1
-title: Resilience to sensory variance in the primary visual cortex
+title: Cortical recurrence supports resilience to sensory variance in the primary visual cortex
 ---
 
 * open access: https://www.nature.com/articles/s42003-023-05042-3
