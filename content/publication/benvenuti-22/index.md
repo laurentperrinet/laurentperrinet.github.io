@@ -26,5 +26,5 @@ publication: '*bioRxiv*'
 publication_types:
 - '2'
 title: Anticipatory Responses along Motion Trajectories in Awake Monkey Area V1
-url_pdf: https://www.biorxiv.org/content/10.1101/2020.03.26.010017v1
+url_pdf: https://www.biorxiv.org/content/10.1101/2020.03.26.010017
 ---

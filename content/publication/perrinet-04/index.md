@@ -14,7 +14,7 @@ abstract: To understand possible strategies of temporal spike coding in the cent
   model used wavelet transforms that are close to orthogonal. However, the selectivity
   of realistic neurons overlap, and we propose an extension of the previous model
   by adding a spatial cooperation between filters. This model extends the previous
-  scheme for arbitrary -and possibly non-orthogonal- representations of features in
+  scheme for arbitrary -and possibly non-orthogonal representations of features in
   the images. In particular, we compared the performance of increasingly over-complete
   representations in the retina. Results show that this algorithm provides an efficient
   spike coding strategy for low-level visual processing which may adapt to the complexity

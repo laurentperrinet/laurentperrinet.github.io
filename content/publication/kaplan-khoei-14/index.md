@@ -4,7 +4,7 @@ abstract: As it is confronted to inherent neural delays, how does the visual sys
   we investigate the role of motion-based prediction in estimating motion trajectories
   compensating for delayed information sampling. In particular, we investigate how
   anisotropic diffusion of information may explain the development of anticipatory
-  response as recorded in a neural populations to an approaching stimulus. We validate
+  response as recorded in a neural population to an approaching stimulus. We validate
   this using an abstract probabilistic framework and a spiking neural network (SNN)
   model. Inspired by a mechanism proposed by Nijhawan [1], we first use a Bayesian
   particle filter framework and introduce a diagonal motion-based prediction model
@@ -24,7 +24,7 @@ authors:
 - Mina A Khoei
 - Anders Lansner
 - Laurent U Perrinet
-date: 2014-01-01
+date: 2014-07-06
 doi: 10.1109/IJCNN.2014.6889847
 featured: false
 grants:

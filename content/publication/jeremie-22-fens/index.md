@@ -27,6 +27,7 @@ tags:
 - neuromorphic hardware
 - online classification
 title: Ultra-rapid visual search in natural images using active deep learning
+url_pdf: https://laurentperrinet.github.io/publication/jeremie-22-fens/
 ---
 
 {{< tweet user="laurentperrinet" id="1546389505917206531" >}}

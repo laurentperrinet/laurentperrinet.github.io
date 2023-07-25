@@ -29,7 +29,7 @@ authors:
 - Laurent U Perrinet
 - Pascal Mamassian
 - Guillaume S Masson
-date: 2012-01-01
+date: 2012-08-01
 doi: 10.1167/11.11.749
 featured: false
 grants:

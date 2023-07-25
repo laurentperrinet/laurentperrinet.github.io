@@ -3,7 +3,7 @@ authors:
 - Antoine Grimaldi
 - Laurent U Perrinet
 categories: []
-date: 2023-06-15
+date: 2023-01-01
 draft: false
 featured: false
 grants:
@@ -27,6 +27,7 @@ tags:
 - polychronies
 title: Learning heterogeneous delays in a layer of spiking neurons for fast motion
   detection
+url_pdf: https://laurentperrinet.github.io/publication/grimaldi-23-bc/
 ---
 
 * a follow-up of  {{< cite page="/publication/grimaldi-22-icip" view="4" >}}

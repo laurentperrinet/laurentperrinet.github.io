@@ -46,7 +46,7 @@ title: Humans adapt their anticipatory eye movements to the volatility of visual
   properties
 url_code: https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020
 url_pdf: https://hal.archives-ouvertes.fr/hal-02394142
-url_preprint: https://www.biorxiv.org/content/10.1101/784116v3
+url_preprint: https://www.biorxiv.org/content/10.1101/784116
 ---
 
 # "Humans adapt their anticipatory eye movements to the volatility of visual motion properties"

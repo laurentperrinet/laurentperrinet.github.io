@@ -4,7 +4,7 @@ authors:
 - Emmanuel Daucé
 - Laurent U Perrinet
 categories: []
-date: 2023-08-25
+date: 2023-01-01
 draft: false
 featured: false
 grants:
@@ -21,7 +21,9 @@ publication_types:
 publishDate: '2022-11-17T11:15:57.788793Z'
 subtitle: ''
 tags: []
-title: Retinotopy improves the categorisation and localisation of visual objects in CNNs
+title: Retinotopy improves the categorisation and localisation of visual objects in
+  CNNs
+url_pdf: https://laurentperrinet.github.io/publication/jeremie-23-ccn
 ---
 
 * to be presented at the *Computational Cognitive Neuroscience Society Meeting 2023* in Oxford

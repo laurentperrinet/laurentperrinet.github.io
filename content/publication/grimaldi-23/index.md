@@ -26,8 +26,8 @@ authors:
 - Ryad Benosman
 - Laurent U Perrinet
 categories: []
-date: 2022-01-13
-doi: 10.36227/techrxiv.18003077.v1
+date: 2023-01-01
+doi: 10.36227/techrxiv.18003077
 draft: false
 featured: false
 grants:
@@ -52,5 +52,5 @@ tags:
 - neuromorphic hardware
 - online classification
 title: A Robust Event-Driven Approach to Always-on Object Recognition
-url_pdf: https://www.techrxiv.org/articles/preprint/A_robust_event-driven_approach_to_always-on_object_recognition/18003077/1
+url_pdf: https://www.techrxiv.org/articles/preprint/A_robust_event-driven_approach_to_always-on_object_recognition/18003077
 ---
