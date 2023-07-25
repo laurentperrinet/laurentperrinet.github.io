@@ -27,6 +27,7 @@ tags:
 - polychronies
 title: Learning heterogeneous delays in a layer of spiking neurons for fast motion
   detection
+url_pdf: https://laurentperrinet.github.io/publication/grimaldi-23-bc/
 url_preprint: https://www.techrxiv.org/articles/preprint/A_robust_event-driven_approach_to_always-on_object_recognition/18003077
 ---
 

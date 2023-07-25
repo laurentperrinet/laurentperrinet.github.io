@@ -26,7 +26,7 @@ authors:
 - Ryad Benosman
 - Laurent U Perrinet
 categories: []
-date: 2023-01-01
+date: 2023-06-15
 doi: 10.36227/techrxiv.18003077
 draft: false
 featured: false
