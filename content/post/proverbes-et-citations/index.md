@@ -3,10 +3,12 @@ authors:
 - laurent-u-perrinet
 date: 2016-04-20 00:00:00
 draft: false
-lastmod: 2023-01-13 00:00:00
+lastmod: 2023-08-16 00:00:00
 summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
+
+* "I thought of the slowing down or the speeding up of motion as a sort of temporal equivalent: slow motion as an enlargement, a microscopy of time, and speeded-up motion as a foreshortening, a telescopy of time” (Oliver Sacks, “The River of Consciousness”)
 
 * "Pas besoin d’être dans une bâtisse pour se sentir hanté, le cerveau a suffisamment de couloirs." (Émilie Dickinson, fin du 19e siècle)
 
