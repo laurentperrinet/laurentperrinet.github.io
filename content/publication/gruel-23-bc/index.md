@@ -17,7 +17,7 @@ image:
   preview_only: false
 lastmod: 2022-11-17 12:15:57+01:00
 projects: []
-publication: '*Submitted*'
+publication: '*Biological Cybernetics*'
 publication_types:
 - '2'
 publishDate: '2022-11-17T11:15:57.623607Z'
@@ -27,4 +27,5 @@ tags:
 - event-based vision
 - neuromorphic hardware
 title: 'Stakes of Neuromorphic Foveation: a promising future for embedded event cameras'
+url_preprint: https://www.researchsquare.com/article/rs-2120721/
 ---
