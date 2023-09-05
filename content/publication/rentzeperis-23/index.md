@@ -24,7 +24,7 @@ publishDate: '2022-06-16T11:51:41.890310Z'
 show_authors_only: false
 subtitle: ''
 tags: []
-title: Beyond $ell_1$ sparse coding in V1
+title: Beyond $\ell_1$ sparse coding in V1
 url_pdf: https://laurentperrinet.github.io/publication/rentzeperis-23
 url_preprint: https://arxiv.org/abs/2301.10002
 ---
