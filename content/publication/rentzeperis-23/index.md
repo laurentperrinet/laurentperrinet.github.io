@@ -17,7 +17,7 @@ image:
 lastmod: 2022-05-20 13:42:38+02:00
 links: null
 projects: []
-publication: '*Submitted*'
+publication: '*PLOS Computational Biology*'
 publication_types:
 - '2'
 publishDate: '2022-06-16T11:51:41.890310Z'
@@ -28,3 +28,4 @@ title: Beyond $ell_1$ sparse coding in V1
 url_pdf: https://laurentperrinet.github.io/publication/rentzeperis-23
 url_preprint: https://arxiv.org/abs/2301.10002
 ---
+
