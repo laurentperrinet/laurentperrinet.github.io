@@ -34,5 +34,5 @@ publication_types:
 abstract: ''
 publication: '*NeuroSchool PhD Program in Neuroscience*'
 
-slides: 2023-05-10_phd-program_neurosciences-computationnelles
+slides: 2023-05-10-phd-program_neurosciences-computationnelles
 ---
