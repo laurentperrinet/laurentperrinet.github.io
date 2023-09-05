@@ -14,16 +14,16 @@ appearance:
 # SEO
 
 marketing:
+  google_analytics: 'G-42NTFJM3YV'
   seo:
     site_type: Person
     local_business_type: ''
     org_name: ''
     description: 'Scientific website of Laurent Udo Perrinet.'
     twitter: 'laurentperrinet'
-  analytics:
-    google_analytics: 'UA-140381649-1'
-    # google_analytics: 'G-42NTFJM3YV'
-    baidu_tongji: ''
+  # analytics:
+  #   google_analytics: 'UA-140381649-1'
+  #   baidu_tongji: ''
   verification:
     google: '6jjjboKLYp2QzywShNDvZkAfb0Yc8SDtfFzOonP3o0o'
     baidu: ''
