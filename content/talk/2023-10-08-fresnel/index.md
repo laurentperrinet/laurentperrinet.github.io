@@ -13,6 +13,8 @@ lastmod: 2023-09-05T11:59:44+02:00
 featured: false
 draft: false
 
+slides: "2023-09-08-fresnel"
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
