@@ -45,7 +45,12 @@ publication: '*Vision*'
 publication_types:
 - '2'
 subtitle: ''
-tags: []
+tags:
+- classification
+- deep learning
+- efficient coding
+- psychophysics
+- ultra-fast categorization
 title: Ultra-Fast Image Categorization in biology and in neural models
 url_preprint: http://arxiv.org/abs/2205.03635
 ---

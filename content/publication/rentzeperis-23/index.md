@@ -28,4 +28,3 @@ title: Beyond $\ell_1$ sparse coding in V1
 url_pdf: https://laurentperrinet.github.io/publication/rentzeperis-23
 url_preprint: https://arxiv.org/abs/2301.10002
 ---
-

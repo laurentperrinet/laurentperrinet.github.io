@@ -20,7 +20,13 @@ publication_types:
 - '2'
 publishDate: '2022-11-17T11:15:57.788793Z'
 subtitle: ''
-tags: []
+tags:
+- efficient coding
+- localization
+- online classification
+- retinotopy
+- ultra-fast categorization
+- visual search
 title: Retinotopy improves the categorisation and localisation of visual objects in
   CNNs
 url_pdf: https://laurentperrinet.github.io/publication/jeremie-23-ccn

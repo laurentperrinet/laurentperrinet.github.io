@@ -22,10 +22,11 @@ publishDate: '2022-06-16T11:51:41.890310Z'
 subtitle: ''
 tags:
 - efficient coding
-- event-based vision
-- homeostasis
-- neuromorphic hardware
+- localization
 - online classification
+- retinotopy
+- ultra-fast categorization
+- visual search
 title: Ultra-rapid visual search in natural images using active deep learning
 url_pdf: https://laurentperrinet.github.io/publication/jeremie-22-fens/
 ---

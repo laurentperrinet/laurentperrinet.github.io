@@ -27,5 +27,5 @@ tags:
 - event-based vision
 - neuromorphic hardware
 title: 'Stakes of Neuromorphic Foveation: a promising future for embedded event cameras'
-url_preprint: https://www.researchsquare.com/article/rs-2120721/
+url_preprint: https://www.researchsquare.com/article/rs-2120721
 ---
