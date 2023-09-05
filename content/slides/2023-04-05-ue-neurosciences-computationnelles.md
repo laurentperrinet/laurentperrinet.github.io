@@ -12,14 +12,14 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2023-03-29T12:47:11+02:00"
 
-title: 2023-04-05_ue-neurosciences-computationnelles
+title: 2023-04-05-ue-neurosciences-computationnelles
 
 summary: Artificial neural networks and machine learning applied to the understanding of biological vision
 
 ---
 <section>
 
-# [Artificial neural networks and machine learning applied to the understanding of biological vision](https://laurentperrinet.github.io/slides/2023-04-05_ue-neurosciences-computationnelles/?transition=fade)
+# [Artificial neural networks and machine learning applied to the understanding of biological vision](https://laurentperrinet.github.io/slides/2023-04-05-ue-neurosciences-computationnelles/?transition=fade)
 ####	*[Laurent Perrinet](https://laurentperrinet.github.io)*
 ####	<u>[[2023-04-05]](https://ametice.univ-amu.fr/course/view.php?id=95116) [Master 1 Neurosciences et Sciences Cognitives.](https://sciences.univ-amu.fr/fr/formation/masters/master-neurosciences)</u>
 
@@ -658,7 +658,7 @@ For instance, we show how precise spike times may be used to detect the directio
 
 ---
 
-# [Artificial neural networks and machine learning applied to the understanding of biological vision](https://laurentperrinet.github.io/slides/2023-04-05_ue-neurosciences-computationnelles/?transition=fade)
+# [Artificial neural networks and machine learning applied to the understanding of biological vision](https://laurentperrinet.github.io/slides/2023-04-05-ue-neurosciences-computationnelles/?transition=fade)
 ####	*[Laurent Perrinet](https://laurentperrinet.github.io)*
 ####	<u>[[2023-04-05]](https://ametice.univ-amu.fr/course/view.php?id=95116) [Master 1 Neurosciences et Sciences Cognitives.](https://sciences.univ-amu.fr/fr/formation/masters/master-neurosciences)</u>
 
