@@ -31,7 +31,7 @@ projects: []
 publishDate: '2023-05-10T09:25:10.644867Z'
 publication_types:
 - '1'
-abstract: ''
+
 publication: '*NeuroSchool PhD Program in Neuroscience*'
 
 slides: 2023-05-10-phd-program_neurosciences-computationnelles
