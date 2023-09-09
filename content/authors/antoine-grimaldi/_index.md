@@ -14,7 +14,7 @@ social:
   icon_pack: fab
   link: https://github.com/AntoineGrimaldi
 - icon: orcid
-  icon_pack: ai
+  icon_pack: ai 
   link: https://orcid.org/0000-0002-3107-4788
 - icon: external-link-alt
   icon_pack: fas
