@@ -45,6 +45,6 @@ tags:
 - area-v1
 title: Suppressive waves disambiguate the representation of long-range apparent motion
   in awake monkey V1
-url_pdf: http://www.jneurosci.org/content/early/2019/03/18/JNEUROSCI.2792-18.2019
-url_preprint: http://biorxiv.org/lookup/doi/10.1101/372763
+url_pdf: https://www.jneurosci.org/content/39/22/4282
+url_preprint: https://hal.science/hal-02190752
 ---

@@ -39,9 +39,9 @@ image:
 lastmod: 2022-01-13 15:27:10+01:00
 links:
 - name: URL
-  url: https://www.techrxiv.org/articles/preprint/A_robust_event-driven_approach_to_always-on_object_recognition/18003077/1
+  url: https://laurentperrinet.github.io/publication/grimaldi-23/
 projects: []
-publication: '*TechRxiv preprint*'
+publication: '*In revision*'
 publication_types:
 - '2'
 subtitle: ''
@@ -52,5 +52,4 @@ tags:
 - neuromorphic hardware
 - online classification
 title: A Robust Event-Driven Approach to Always-on Object Recognition
-url_pdf: https://www.techrxiv.org/articles/preprint/A_robust_event-driven_approach_to_always-on_object_recognition/18003077
 ---
