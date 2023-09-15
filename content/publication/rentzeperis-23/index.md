@@ -5,7 +5,7 @@ authors:
 - Laurent U Perrinet
 - Dario Prandi
 categories: []
-date: 2023-01-01
+date: 2023-09-12
 draft: false
 featured: false
 grants:
@@ -27,4 +27,5 @@ tags: []
 title: Beyond $\ell_1$ sparse coding in V1
 url_pdf: https://laurentperrinet.github.io/publication/rentzeperis-23
 url_preprint: https://arxiv.org/abs/2301.10002
+doi: 10.1371/journal.pcbi.1011459
 ---
