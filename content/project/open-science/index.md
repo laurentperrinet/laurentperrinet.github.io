@@ -18,6 +18,12 @@ To enable the dissemination of the knowledge that is produced in our lab, we sha
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
+# HD natural images database for sparse coding
+
+A dataset of natural images, acquired with a Canon EOS6D and Canon EOS650. It has been curated to facilitate research, namely in sparse coding at the moment, but can be used for future endeavors. Maintainer: [Hugo Ladret](https://laurentperrinet.github.io/author/hugo-ladret/).
+
+ *[get the dataset](https://figshare.com/articles/media/HD_natural_images_database_for_sparse_coding/24167265)
+* See the preprint publication @ {{< cite page="/publication/ladret-23-iclr" view="4" >}}
 
 # Bayesian Change Point
 
