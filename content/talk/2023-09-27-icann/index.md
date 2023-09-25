@@ -41,3 +41,8 @@ links:
 
 * Hybrid Session, Room 2
 * Chair: Sander Bohté, Sebastian Otte
+
+* https://link.springer.com/chapter/10.1007/978-3-031-44207-0_31
+* https://arxiv.org/abs/2307.11555
+
+* code: https://github.com/laurentperrinet/2023-09-27_HDSNN-ICANN

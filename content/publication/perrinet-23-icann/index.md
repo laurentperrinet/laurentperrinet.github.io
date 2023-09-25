@@ -18,7 +18,7 @@ abstract: Recently, interest has grown in exploring the hypothesis that neural a
 authors:
 - Laurent U Perrinet
 categories: []
-date: 2023-01-01
+date: 2023-09-27
 draft: false
 featured: false
 grants:
@@ -43,4 +43,5 @@ url_pdf: https://laurentperrinet.github.io/publication/perrinet-23-icann/
 ---
 
 * Will be presented at the [special session on Recent Advances in Spiking Neural Networks at this year's ICANN 2023 conference](https://e-nns.org/icann2023/wp-content/uploads/sites/7/2023/04/ICANN2023-ASNN-CfP.pdf).
+
 * This theoretical implements the objectives set up in this review: {{< cite page="/publication/grimaldi-22-polychronies" view="4" >}}
