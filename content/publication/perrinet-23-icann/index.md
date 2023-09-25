@@ -38,7 +38,7 @@ publication_types:
 publishDate: '2023-07-21T11:12:04.721342Z'
 subtitle: ''
 tags: []
-title: Accurate detection of spiking motifs in multi-unit raster plots
+title: Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a Spiking Neural Network
 url_pdf: https://laurentperrinet.github.io/publication/perrinet-23-icann/
 ---
 

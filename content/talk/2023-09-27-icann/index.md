@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Accurate detection of spiking motifs in multi-unit raster plots
+title: Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a Spiking Neural Network
 subtitle: ''
 summary: ''
 authors:
@@ -12,6 +12,7 @@ date: '2023-09-27'
 lastmod: 2023-09-10T17:59:14+02:00
 featured: false
 draft: false
+doi: 10.1007/978-3-031-44207-0_31
 
 slides: "2023-09-27_icann"
 
@@ -42,7 +43,9 @@ links:
 * Hybrid Session, Room 2
 * Chair: Sander Bohté, Sebastian Otte
 
-* https://link.springer.com/chapter/10.1007/978-3-031-44207-0_31
+* https://link.springer.com/chapter/10.1007/978-3-031-44207-0_31 - https://doi.org/10.1007/978-3-031-44207-0_31
 * https://arxiv.org/abs/2307.11555
 
 * code: https://github.com/laurentperrinet/2023-09-27_HDSNN-ICANN
+
+

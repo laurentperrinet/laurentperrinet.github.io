@@ -42,7 +42,7 @@ We will combine computational and experimental neuroscience in the proposed proj
 
 [^3]: Galloni, A, Ye, Z. & Rancz, E. (2022) *Dendritic Domain-Specific Sampling of Long-Range Axons Shapes Feedforward and Feedback Connectivity of L5 Neurons* [doi:10.1523/JNEUROSCI.1620-21.2022](https://www.jneurosci.org/content/42/16/3394)
 
-[^4]: Perrinet, L (2023) *Accurate detection of spiking motifs in multi-unit raster plots* https://laurentperrinet.github.io/publication/
+[^4]: Perrinet, L (2023) *Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a Spiking Neural Network* https://laurentperrinet.github.io/publication/
 perrinet-23-icann/
 
 [^5]: Walker, Y *et al.* (2019) *Inception loops discover what excites neurons most using deep predictive models* [doi:10.1038/s41593-019-0517-x](https://www.nature.com/articles/s41593-019-0517-x)
