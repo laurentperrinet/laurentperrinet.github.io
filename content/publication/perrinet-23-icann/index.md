@@ -50,3 +50,6 @@ slides: "2023-09-27_icann"
 
 
 * This theoretical implements the objectives set up in this review: {{< cite page="/publication/grimaldi-22-polychronies" view="4" >}}
+
+
+{{< figure src="perrinet-23-icann-qrcode.png" title="For more details, scan the QR code!." numbered="false" >}}
