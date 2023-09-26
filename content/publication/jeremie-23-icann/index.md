@@ -29,7 +29,6 @@ tags:
 - visual search
 title: Retinotopy improves the categorisation and localisation of visual objects in
   CNNs
-url: https://laurentperrinet.github.io/publication/jeremie-23-icann
 ---
 
 * to be presented at the *32nd International Conference on Artificial Neural Networks (ICANN 2023)* in Heraklion (Greece).
