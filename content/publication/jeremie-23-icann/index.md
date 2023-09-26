@@ -17,7 +17,7 @@ lastmod: 2022-11-17 12:15:57+01:00
 projects: []
 publication: '*32nd International Conference on Artificial Neural Networks (ICANN 2023)*'
 publication_types:
-- '2'
+- '1'
 publishDate: '2022-11-17T11:15:57.788793Z'
 subtitle: ''
 tags:

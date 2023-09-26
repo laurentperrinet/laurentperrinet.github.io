@@ -34,7 +34,7 @@ links:
 projects: []
 publication: '*ICANN Special Session on Recent Advances in Spiking Neural Networks*'
 publication_types:
-- '2'
+- '1'
 publishDate: '2023-07-21T11:12:04.721342Z'
 subtitle: ''
 tags: []
@@ -42,6 +42,9 @@ title: Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of 
 url_pdf: https://laurentperrinet.github.io/publication/perrinet-23-icann/
 ---
 
-* Will be presented at the [special session on Recent Advances in Spiking Neural Networks at this year's ICANN 2023 conference](https://e-nns.org/icann2023/wp-content/uploads/sites/7/2023/04/ICANN2023-ASNN-CfP.pdf).
+* paper presented during the [32nd International Conference on Artificial Neural Networks (ICANN 2023)](https://e-nns.org/icann2023/)
+
+* Will be presented at the [special session on Recent Advances in Spiking Neural Networks at this year's ICANN 2023 conference](https://e-nns.org/icann2023/wp-content/uploads/sites/7/2023/04/ICANN2023-ASNN-CfP.pdf)
+
 
 * This theoretical implements the objectives set up in this review: {{< cite page="/publication/grimaldi-22-polychronies" view="4" >}}
