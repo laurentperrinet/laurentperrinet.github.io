@@ -27,9 +27,6 @@ image:
   focal_point: ''
   preview_only: false
 lastmod: 2023-09-05 10:59:11+02:00
-links:
-- name: URL
-  url: https://www.techrxiv.org/articles/preprint/A_robust_event-driven_approach_to_always-on_object_recognition/18003077
 projects: []
 publication: '*International Conference on Computer Vision 2023 (ICCV2023)*'
 publication_types:
@@ -45,7 +42,7 @@ title: Time-to-Contact Map by Joint Estimation of Up-to-Scale Inverse Depth and 
 url_pdf: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Nunes_Time-to-Contact_Map_by_ICCV_2023_supplemental.pdf
 ---
 
-* https://openaccess.thecvf.com/content/CVPR2023/html/Nunes_Adaptive_Global_Decay_Process_for_Event_Cameras_CVPR_2023_paper.html
+* https://hal.science/hal-04230502
 
 * https://openaccess.thecvf.com/content/ICCV2023/html/Nunes_Time-to-Contact_Map_by_Joint_Estimation_of_Up-to-Scale_Inverse_Depth_and_ICCV_2023_paper.html
 
