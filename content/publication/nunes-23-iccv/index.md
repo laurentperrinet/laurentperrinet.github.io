@@ -39,10 +39,13 @@ tags:
 - time-to-contact
 title: Time-to-Contact Map by Joint Estimation of Up-to-Scale Inverse Depth and Global
   Motion using a Single Event Camera
-url_pdf: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Nunes_Time-to-Contact_Map_by_ICCV_2023_supplemental.pdf
+links:
+- name: PDF
+  url: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Nunes_Time-to-Contact_Map_by_ICCV_2023_supplemental.pdf
+
+- name: HAL
+  url: https://hal.science/hal-04230502
+
+- name: ICCV
+  url: https://openaccess.thecvf.com/content/ICCV2023/html/Nunes_Time-to-Contact_Map_by_Joint_Estimation_of_Up-to-Scale_Inverse_Depth_and_ICCV_2023_paper.html  
 ---
-
-* https://hal.science/hal-04230502
-
-* https://openaccess.thecvf.com/content/ICCV2023/html/Nunes_Time-to-Contact_Map_by_Joint_Estimation_of_Up-to-Scale_Inverse_Depth_and_ICCV_2023_paper.html
-
