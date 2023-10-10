@@ -42,5 +42,7 @@ url_pdf: https://areadne.org/
 ---
 
 {{< tweet user="laurentperrinet" id="1542724828658016256" >}}
+
 * for a follow-up, check out  {{< cite page="/publication/ladret-22-fens" view="4" >}}
-* This poster is presented in the following preprint (in submission)  {{< cite page="/publication/ladret-23" view="4" >}}
+
+* This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}

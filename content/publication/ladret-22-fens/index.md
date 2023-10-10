@@ -26,4 +26,5 @@ url_pdf: https://laurentperrinet.github.io/publication/ladret-22-fens/
 ---
 
 {{< tweet user="laurentperrinet" id="1545743191198121985" >}}
-* This poster is presented in the following preprint (in submission)  {{< cite page="/publication/ladret-23" view="4" >}}
+
+* This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}

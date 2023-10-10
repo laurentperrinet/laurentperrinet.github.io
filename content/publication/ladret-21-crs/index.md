@@ -28,3 +28,5 @@ tags:
 title: Decoding orientation distributions from noisy observations in V1
 url_pdf: https://symposium.fchampalimaud.science/Poster-sessions
 ---
+
+* This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}
