@@ -5,25 +5,26 @@ date: 2021-04-06 00:00:00
 draft: false
 featured: true
 projects:
+- art-science
 - tout-public
-summary: Article de dissémination sur la perception visuelle, vue à travers illusions visuelles.
+summary: Article de dissémination sur la perception visuelle, vue à travers les interactions avec l'art.
 tags:
 - neuroscience
 - vision
-- psychiatry
-title: 'Les illusions sèment le trouble dans les esprits'
+- perception
+title: 'Formes & perception'
 ---
 
-Publication d'un nouvel article généraliste autour des illusions visuelles, "*Les illusions sèment le trouble dans les esprits*" à découvrir dans lee dossier [La Recherche n°565](https://www.larecherche.fr/les-illusions-s%C3%A8ment-le-trouble-dans-les-esprits) (trimestriel N°565 daté avril-juin 2021):
+Publication d'un article écrit pour le catalogue de l'exposition "Vasarely, d'un art programmatique au numérique" qui a eu lieu du 17 juin au 15 octobre 2023 à l'Espace Culturel départemental Lympia de Nice.
 
-{{< tweet user="laurentperrinet" id="1381305529553813504" >}}
+Pour plus d'informations sur l'exposition, suivre le lien : https://www.departement06.fr/culture/vasarely-d-un-art-programmatique-au-numerique-13667.html
 
-![](https://www.larecherche.fr/sites/larecherche.fr/files/parution_parution_image/LaRechercheTrim_13412_565_2104_2106_210408_Conscience_Couverture.jpg)
+![](https://products-images.di-static.com/image/adrien-bossard-vasarely/9788836649587-475x500-1.webp)
 
 Les objectifs sont :
 
-* mieux comprendre la fonction de la perception visuelle en explorant certaines limites;
-* mieux comprendre l’importance de l’aspect dynamique de la perception;
+* explorer les représentations de la perception visuelle en explorant certaines limites;
+* découvrir comment certaines oeuvres d'art peuvent lever le voile sur certains mécanismes;
 * mieux comprendre le rôle de l’action dans la perception.
 
-Une version précédente est accessible sur le [repo GitHub](https://laurentperrinet.github.io/2019-05_illusions-visuelles/), ainsi que les [sources](https://github.com/laurentperrinet/2019-05_illusions-visuelles).
+Une version précédente est accessible sur le [repo GitHub](https://laurentperrinet.github.io/2023-01-31_formes-et-perception), ainsi que les [sources](https://github.com/laurentperrinet/2019-05_illusions-visuelles).
