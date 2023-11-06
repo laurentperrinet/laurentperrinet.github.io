@@ -13,6 +13,9 @@ tags:
 - vision
 - perception
 title: 'Formes & perception'
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/2019-05_illusions-visuelles/
 ---
 
 Publication d'un article écrit pour le catalogue de l'exposition "Vasarely, d'un art programmatique au numérique" qui a eu lieu du 17 juin au 15 octobre 2023 à l'Espace Culturel départemental Lympia de Nice.
