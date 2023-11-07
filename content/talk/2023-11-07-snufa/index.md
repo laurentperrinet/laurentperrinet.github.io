@@ -32,6 +32,9 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*SNUFA: Spiking Neural networks as Universal Function Approximators*'
+links:
+- name: PDF
+  url: https://laurentperrinet.github.io/publication/perrinet-23-icann/perrinet-23-icann.pdf
 ---
 
 * Poster Session at https://snufa.net/2023/
