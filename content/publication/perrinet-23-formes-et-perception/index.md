@@ -20,7 +20,7 @@ links:
 
 Publication d'un article écrit pour le catalogue de l'exposition "Vasarely, d'un art programmatique au numérique" qui a eu lieu du 17 juin au 15 octobre 2023 à l'Espace Culturel départemental Lympia de Nice.
 
-Le catalgue est édité par [Décitre](https://www.decitre.fr/livres/vasarely-9788836649587.html) - (ISBN: 978-88-366-4958-7).
+Le catalogue est édité par [Décitre](https://www.decitre.fr/livres/vasarely-9788836649587.html) - (ISBN: 978-88-366-4958-7).
 
 Pour plus d'informations sur l'exposition, suivre le lien : https://www.departement06.fr/culture/vasarely-d-un-art-programmatique-au-numerique-13667.html
 
