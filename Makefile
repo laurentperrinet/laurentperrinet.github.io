@@ -15,8 +15,8 @@ entries:
 	cd scripts; python update_entries.py
 
 new_entries:
-	academic import --bibtex  ../perrinet_curriculum-vitae_tex/LaurentPerrinet_publications.bib
-	academic import --publication-dir content/talk --bibtex  ../perrinet_curriculum-vitae_tex/LaurentPerrinet_talks.bib
+	academic import --bibtex  ../perrinet_curriculum-vitae_tex/LaurentPerrinet_publications.bib content/publication/
+	academic import --publication-dir content/talk --bibtex  ../perrinet_curriculum-vitae_tex/LaurentPerrinet_talks.bib content/talk/
 
 metadata:
 	cd scripts; sh update_metadata.sh
