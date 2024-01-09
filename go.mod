@@ -1,8 +1,11 @@
-module github.com/wowchemy/starter-hugo-academic
+module github.com/HugoBlox/theme-academic-cv
 
 go 1.15
 
 require (
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220325140950-3ee572954ab1 // indirect
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20220325140950-3ee572954ab1 // indirect
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.6
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.3.1 // indirect
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240103201801-ab509c2f0725
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal v1.1.2
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.2 // indirect
 )

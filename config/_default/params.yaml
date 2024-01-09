@@ -1,6 +1,6 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
@@ -14,7 +14,6 @@ appearance:
 # SEO
 
 marketing:
-  google_analytics: 'G-42NTFJM3YV'
   seo:
     site_type: Person
     local_business_type: ''
@@ -25,7 +24,7 @@ marketing:
   #   google_analytics: 'UA-140381649-1'
   #   baidu_tongji: ''
   verification:
-    google: '6jjjboKLYp2QzywShNDvZkAfb0Yc8SDtfFzOonP3o0o'
+    google: ''
     baidu: ''
 
 # Site header
@@ -132,3 +131,9 @@ extensions:
     enable: true
   academicons:
     enable: true
+
+# Security
+
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true
