@@ -6,11 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
+  mode: system
+  color: blue
   font: native
-  font_size: L
-
+  
 # SEO
 
 marketing:
