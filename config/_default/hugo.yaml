@@ -41,11 +41,9 @@ enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
-ignoreErrors: ["error-remote-getjson"]
-
-# https://gohugo.io/content-management/urls/#permalink-configuration-values
 permalinks:
-  event: '/talk/:filename/'
+  # event: '/talk/:filename/'
+  event: '/talk/:slug/'
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
@@ -78,6 +76,4 @@ related:
 security:
   _merge: deep
 sitemap:
-  _merge: deep
-minify:
   _merge: deep

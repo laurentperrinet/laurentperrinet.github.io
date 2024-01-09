@@ -7,15 +7,15 @@
 
 appearance:
   theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_night:
+  font: native
   font_size: L
 
 # SEO
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Organization
     local_business_type: ''
     org_name: ''
     description: 'Scientific website of Laurent Udo Perrinet.'
@@ -32,12 +32,14 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: true
+    highlight_active_link: false
+
+# Site footer
 
 footer:
   copyright:
@@ -64,8 +66,6 @@ features:
       - python
       - latex
   math:
-    enable: true
-  diagram:
     enable: false
   privacy_pack:
     enable: false
@@ -83,17 +83,11 @@ features:
       show_count: true
     commento:
       url: ''
-  # search:
-  #   provider: wowchemy
-  #   algolia:
-  #     app_id: ''
-  #     api_key: ''
-  #     index_name: ''
-  #     show_logo: false
-
-  # https://wowchemy.com/docs/hugo-tutorials/search/#docsearch
-  # https://wowchemy.com/docs/hugo-tutorials/search/#algolia
-
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
   search:
     # provider: algolia
     # provider: docsearch
@@ -123,17 +117,14 @@ features:
 # Extensions
 
 extensions:
-  cms:
-    branch: master
+  decap_cms:
+    branch: main
     local_backend: false
-  isotope:
-    # Enable if you use the Portfolio widget or Publication filter
-    enable: true
   academicons:
     enable: true
 
-# Security
+# Citation style
 
-security:
-  # Allow frame for embedding speaker notes in slides
-  allow_frame: true
+publications:
+  date_format: January 2006
+  citation_style: apa
