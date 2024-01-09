@@ -1,103 +1,21 @@
 ---
-slides:
-  theme: black
-  transition: fade
-  backgroundTransition: fade
-
 title: Slides
-
-output: 
-  revealjs::revealjs_presentation:
-    center: true
-
----
-# Welcome to Slides
-
- * [Academic](https://sourcethemes.com/academic/)
- * [reveal is awesome](https://revealjs.com)
-
-
----
-<section>
-
-# A : Horizontal Slide
-
-- Bullet 1
-- Bullet 2
-- Bullet 3
-
----
-    
-## A.1 : Vertical Slide 1
-
-- Bullet 1
-- Bullet 2
-- Bullet 3
-
-  
+summary: An introduction to using Hugo Blox Builder's Slides feature.
+authors: []
+tags: []
+categories: []
+date: '2019-02-05T00:00:00Z'
+slides:
+  # Choose a theme from https://github.com/hakimel/reveal.js#theming
+  theme: black
+  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
+  #   Light style: github. Dark style: dracula (default).
+  highlight_style: dracula
 ---
 
-## A.2 : Vertical Slide 2
+# Create slides in Markdown with Hugo Blox Builder
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
-    
-    
-</section>
-
----
-<section>
-
-# B : Horizontal Slide
-
-- Bullet 1
-- Bullet 2
-- Bullet 3
-
----
-    
-## B.1 : Vertical Slide 1
-
-- Bullet 1
-- Bullet 2
-- Bullet 3
-
-  
----
-
-## B.2 : Vertical Slide 2
-
-- Bullet 1
-- Bullet 2
-- Bullet 3
-    
-    
-</section>
-
----
-## Slide with Bullets
-
-- Bullet 1
-- Bullet 2
-- Bullet 3
-
-
-
----
-
-# R Markdown 
-
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
-
----
-## Slide with Bullets
-
-- Bullet 1
-- Bullet 2
-- Bullet 3
+[Hugo Blox Builder](https://hugoblox.com/) | [Documentation](https://docs.hugoblox.com/content/slides/)
 
 ---
 
@@ -107,19 +25,6 @@ When you click the **Knit** button a document will be generated that includes bo
 - 3-in-1: Create, Present, and Publish your slides
 - Supports speaker notes
 - Mobile friendly slides
-
----
-
-### sub-slide
-
-- Efficiently write sub-slide
-- Efficiently write sub-slide
-
----
-
-### sub-slide 2
-
-<video data-autoplay src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"></video>
 
 ---
 
@@ -133,7 +38,7 @@ When you click the **Knit** button a document will be generated that includes bo
 - Speaker notes: `S`
 - Fullscreen: `F`
 - Zoom: `Alt + Click`
-- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
+- [PDF Export](https://revealjs.com/pdf-export/)
 
 ---
 
@@ -142,6 +47,7 @@ When you click the **Knit** button a document will be generated that includes bo
 Inline code: `variable`
 
 Code block:
+
 ```python
 porridge = "blueberry"
 if porridge == "blueberry":
@@ -180,36 +86,6 @@ Press `Space` to play!
 
 ---
 
-Press `Space` to play!
-
-{{% fragment %}}
-* One 
-{{% /fragment %}}
-
-{{% fragment %}}
-* **Two** 
-{{% /fragment %}}
-
-{{% fragment %}}
-* Three 
-{{% /fragment %}}
-
----
-Press `Space` to play!
-
-{{% fragment grow %}} One {{% /fragment %}}
-{{% fragment semi-fade-out %}} **Two** {{% /fragment %}}
-{{% fragment shrink %}} Three {{% /fragment %}}
-
----
-Press `Space` to play!
-
-{{% fragment fade-in-then-semi-out %}} One {{% /fragment %}}
-{{% fragment fade-left %}} **Two** {{% /fragment %}}
-{{% fragment fade-right %}} Three {{% /fragment %}}
-
----
-
 A fragment can accept two optional parameters:
 
 - `class`: use a custom style (requires definition in custom CSS)
@@ -223,17 +99,19 @@ Add speaker notes to your presentation
 
 ```markdown
 {{%/* speaker_note */%}}
+
 - Only the speaker can read these notes
 - Press `S` key to view
-{{%/* /speaker_note */%}}
+  {{%/* /speaker_note */%}}
 ```
 
 Press the `S` key to view the speaker notes!
 
 {{< speaker_note >}}
+
 - Only the speaker can read these notes
 - Press `S` key to view
-{{< /speaker_note >}}
+  {{< /speaker_note >}}
 
 ---
 
@@ -254,14 +132,14 @@ Press the `S` key to view the speaker notes!
 
 ---
 
-{{< slide background-image="/img/hulk.png" >}}
+{{< slide background-image="/media/boards.jpg" >}}
 
 ## Custom Slide
 
 Customize the slide style and background
 
 ```markdown
-{{</* slide background-image="/img/hulk.png" */>}}
+{{</* slide background-image="/media/boards.jpg" */>}}
 {{</* slide background-color="#0000FF" */>}}
 {{</* slide class="my-style" */>}}
 ```
@@ -286,6 +164,6 @@ Create `assets/css/reveal_custom.css` with:
 
 # Questions?
 
-[Ask](https://discourse.gohugo.io)
+[Ask](https://discord.gg/z8wNYzb)
 
-[Documentation](https://sourcethemes.com/academic/docs/)
+[Documentation](https://docs.hugoblox.com/content/slides/)
