@@ -7,7 +7,7 @@ featured: true
 projects:
 - art-science
 - tout-public
-summary: Article de dissémination sur la perception visuelle, vue à travers les interactions avec l'art.
+summary: Article de dissémination : la perception visuelle, telle qu'elle paut être comprise à travers illusions visuelles.
 tags:
 - neuroscience
 - vision
