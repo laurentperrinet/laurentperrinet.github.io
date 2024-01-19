@@ -6,12 +6,12 @@ draft: false
 featured: true
 projects:
 - tout-public
-summary: Article de dissémination : la perception visuelle, telle qu'elle paut être comprise à travers illusions visuelles.
 tags:
 - neuroscience
 - vision
 - psychiatry
 title: 'Les illusions sèment le trouble dans les esprits'
+summary: "Article de dissémination : la perception visuelle, telle qu'elle paut être comprise à travers illusions visuelles."
 links:
 - name: URL
   url: https://laurentperrinet.github.io/2019-05_illusions-visuelles/
