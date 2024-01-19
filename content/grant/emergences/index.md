@@ -45,9 +45,7 @@ Emergences further intends to extend the collaborative research activities beyon
  * TRL: basic research
  * Total grant requested: 6.8 M€ 
 
-- grant number XXX-23-XXX-XXX:
- * " Ce travail a bénéficié d’une aide du gouvernement français au titre de France 2030, dans le cadre de l’Initiative d’Excellence d’Aix-Marseille Université – A*MIDEX, projet numero AMX-21-RID-025 " 
- * " This work received support from the french government under the France 2030 investment plan, as part of the Initiative d’Excellence d’Aix-Marseille Université – A*MIDEX, under grant number  AMX-21-RID-025 ”
+- grant number XXX-23-XXX-XXX (TBC).
 
 ## Latest news
 
