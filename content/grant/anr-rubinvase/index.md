@@ -5,7 +5,7 @@ authors:
 - laurent-u-perrinet
 tags:
 - grant
-- current-grant
+- past-grant
 title: ANR RubinVase (2021/2024)
 ---
 
