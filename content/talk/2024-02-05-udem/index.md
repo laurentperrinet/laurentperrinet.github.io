@@ -33,6 +33,7 @@ publication_types:
 - '1'
 ---
 
+# When brains meet computing machines
 
 * https://neurosciences.umontreal.ca/wp-content/uploads/sites/6/2024/02/conferenceNikon_Laurent_Perrinet.pdf
 
