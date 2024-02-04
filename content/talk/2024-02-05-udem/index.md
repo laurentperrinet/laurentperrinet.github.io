@@ -33,4 +33,7 @@ publication_types:
 - '1'
 ---
 
+
+* https://neurosciences.umontreal.ca/wp-content/uploads/sites/6/2024/02/conferenceNikon_Laurent_Perrinet.pdf
+
 * Related papers {{< cite page="/publication/grimaldi-23" view="4" >}} {{< cite page="/publication/grimaldi-23-bc" view="4" >}}
