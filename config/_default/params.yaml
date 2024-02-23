@@ -50,10 +50,10 @@ footer:
       allow_commercial: false
 
 # Localization
-
-date_format: '2006-01-02'
-time_format: '13:04'
-address_format: en-us
+locale:
+  date_format: '2006-01-02'
+  time_format: '13:04'
+  address_format: en-us
 
 # Site features
 
