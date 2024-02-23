@@ -12,7 +12,7 @@ tags:
 - polychronies
 - grant
 - current-grant
-title: *Emergences* (2023 / 2027)
+title: "*Emergences* (2023 / 2027)"
 ---
 
 {{% callout note %}}
