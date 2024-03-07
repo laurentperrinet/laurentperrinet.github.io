@@ -7,7 +7,7 @@ authors:
 tags:
 - grant
 - current-grant
-title: ANR PRIOSENS (2021/2024)
+title: ANR PRIOSENS (2021/2025)
 ---
 
 A fundamental goal of systems neuroscience is to describe how sensory inputs are integrated and guide an animal's behavior. To be able to integrate these inputs, early sensory systems have developed selectivities for specific stimulus features that allow them to analyze the inputs using these features as basis. We aim to uncover how disparate motion signals are integrated to produce a global percept of motion, and to understand the conditions in which such integration fails. Our proposal reflects the fact that adaptive behaviors in complex environments face numerous challenges, from processing noisy and uncertain visual motion information to predict future events on target trajectory contingencies and its interactions with a dynamic, cluttered environment.
@@ -17,8 +17,8 @@ We propose to use dynamic inference as an efficient theoretical framework to und
 
 # Aim 3, modelling behavioural and neuronal data within the active inference framework
 
-* Type de contrat : CRCNS [US-French Research Proposal](https://anr.fr/Project-ANR-20-NEUC-0002)
-* Durée: 4 ans, à partir du 1er novembre 2020
+* Type de contrat : CRCNS [US-French Research Proposal](https://anr.fr/Project-ANR-20-NEUC-0002) - ANR-CRCNS-2020
+* Durée: 4 ans, à partir du 1er novembre 2020 - prolongatio au 10/2025
 * Budget total (partenaire français): 341 k€
 *	to be recruited: Post-doctoral fellow: A post-post-doctoral fellow in computational neuroscience will be recruited. With a 2-5 years experience, salary cost is of 52K€/year, for 2 years (total: 104K€).
 * Coordinateur Scientifique : MONTAGNINI, Anna & PERRINET Laurent (UMR7289)
