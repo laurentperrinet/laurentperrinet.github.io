@@ -8,6 +8,8 @@ summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
 
+* "In ultimate analysis everything is incomprehensible, and the whole object of science is simply to reduce the fundamental incomprehensibilities to the smallest possible number." Thomas Huxley (in *Darwiniana*, 1893)
+
 * "I thought of the slowing down or the speeding up of motion as a sort of temporal equivalent: slow motion as an enlargement, a microscopy of time, and speeded-up motion as a foreshortening, a telescopy of time” (Oliver Sacks, “The River of Consciousness”)
 
 * "Pas besoin d’être dans une bâtisse pour se sentir hanté, le cerveau a suffisamment de couloirs." (Émilie Dickinson, fin du 19e siècle)
