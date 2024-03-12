@@ -27,10 +27,11 @@ tags:
 - retinotopy
 - ultra-fast categorization
 - visual search
+doi: 10.1007/978-3-031-44207-0_52
 title: Retinotopy improves the categorisation and localisation of visual objects in
   CNNs
 ---
 
-* to be presented at the *32nd International Conference on Artificial Neural Networks (ICANN 2023)* in Heraklion (Greece).
-
+* as was presented at the *32nd International Conference on Artificial Neural Networks (ICANN 2023)* in Heraklion (Greece).
+* this proceedings paper follows up the poster presented in : {{< cite page="/publication/jeremie-23-ccn" view="4" >}}
 

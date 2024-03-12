@@ -49,7 +49,7 @@ url_preprint: https://hal.archives-ouvertes.fr/hal-03336554
 url_video: https://www.youtube.com/watch?v=KxX4pZKexCo&t=3335s
 ---
 
-* to be presented at the [Bio-inspired circuits, systems and algorithms for multimedia](https://cbmi2021.univ-lille.fr/call-for-contributions#callforpapersspecialbioinspired) special session of the [Content-Based Multimedia Indexing (CBMI) 2021](https://cbmi2021.univ-lille.fr/) conference that you can [watch on Youtube](https://www.youtube.com/watch?v=KxX4pZKexCo&t=3335s).
+* was presented at the [Bio-inspired circuits, systems and algorithms for multimedia](https://cbmi2021.univ-lille.fr/call-for-contributions#callforpapersspecialbioinspired) special session of the [Content-Based Multimedia Indexing (CBMI) 2021](https://cbmi2021.univ-lille.fr/) conference that you can [watch on Youtube](https://www.youtube.com/watch?v=KxX4pZKexCo&t=3335s).
 * this proceedings paper follows up he poster presented in : {{< cite page="/publication/grimaldi-21-cosyne" view="4" >}}
 * this proceedings paper was followed by the poster presented at CRS : {{< cite page="/publication/grimaldi-21-crs" view="4" >}}
 * read the follow-up paper : {{< cite page="/publication/grimaldi-23" view="4" >}}

@@ -32,7 +32,7 @@ title: Retinotopy improves the categorisation and localisation of visual objects
 url_pdf: https://laurentperrinet.github.io/publication/jeremie-23-ccn
 ---
 
-* to be presented at the *Computational Cognitive Neuroscience Society Meeting 2023* in Oxford
+* as was presented at the *Computational Cognitive Neuroscience Society Meeting 2023* in Oxford
 
 * see a follow-up presentation in: {{< cite page="/publication/jeremie-23-icann" view="4" >}}
  
