@@ -1,0 +1,666 @@
+---
+slides:
+  # Choose a theme from https://github.com/hakimel/reveal.js#theming
+  theme: simple
+  reveal_options:
+    transition: 'fade'
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: '2024-03-27'
+all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: '2024-03-12T07:59:44.385734Z'
+
+title: 2024-03-27-emergences.md
+
+summary: "Analyser de larges volumes de données neurobiologiques : modèles émergents bio-inspirés, a Seminar at *the Emergences workshop, Autrans, France*"
+
+---
+
+<section>
+
+### [Neuromorphic models of vision](https://laurentperrinet.github.io/slides/2024-03-27-emergences/?transition=fade)
+####	*[Laurent Perrinet](https://laurentperrinet.github.io)*
+####	<u>[[2024-03-27]](https://laurentperrinet.github.io/talk/2023-12-01-biocomp) [Emergences workshop, Autrans, France](https://laurentperrinet.github.io/grant/emergences/)</u>
+
+<img src="https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg" alt="logos" height="130"/>
+
+#### [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
+
+{{< speaker_note >}}
+A PARTIR DE LA C'EST OBSOLETE
+
+
+## When brains meet computing machines
+*Hello*, can you hear me in the back? First of all, I'd like to *thank* the organizers for this opportunity and all of you for coming.
+
+I'm Laurent Perrinet from the Institut des Neurosciences de la Timone, a joint AMU / CNRS unit, and I'm a computational neuroscientist interested in large-scale models of vision. During this seminar for the "groupe de recherche de la vision de l'UdeM", I'll focus on neuromorphic models by introducing you to *event-driven cameras*, a new technology in the field of imaging, and the impact of this technology on our understanding of vision. The *outline* of the talk is as follows: first, I will explain the concept of an event-driven camera, especially in comparison to a traditional frame-based camera. Then we'll explore some applications of these cameras using specific algorithms. Finally, we'll look at how our understanding of neuroscience can improve these algorithms.
+
+Relax, these slides along with a number of references and useful links are available on my website.
+{{< /speaker_note >}}
+
+
+
+
+</section>
+
+---
+
+<section>
+
+# Sensing light
+
+{{< speaker_note >}}
+The primary goal of *imaging technologies* is to represent a visual signal, i.e. the intensity and color of light as it is distributed across the visual field, in order to create a realistic representation of a visual scene. Let's look at an example.
+{{< /speaker_note >}}
+
+---
+
+{{< slide background-image="http://lepassetempsderose.l.e.pic.centerblog.net/fddea7fb.gif" >}}
+
+{{< speaker_note >}}
+For example, this galloping horse makes us feel like we're seeing this real scene right in front of us. This imaging technique, made possible by the chain of pre-processing from my computer to the projector, appears to move smoothly, but it's actually an *illusion* called apparent motion. This is what happens when still images are shown one after another, very quickly, making it appear as if the scene is moving all the time: Our brains interpret these separate images as a single, unified moving scene. This technique is the basis of motion pictures and animation, where frames are displayed quickly enough to create the *illusion* of continuous motion. Lowering the frame rate reveals this illusion...
+{{< /speaker_note >}}
+
+---
+
+{{< slide background-image="https://upload.wikimedia.org/wikipedia/commons/0/07/The_Horse_in_Motion-anim.gif" >}}
+
+{{< speaker_note >}}
+... and this example demonstrates that since numerous years imaging techniques have also opened the door to new scientific discoveries. For example, in the late 19th century, scientists wondered if horses lifted all four hooves off the ground when they galloped. It was too fast for the human eye to see. Eadweard Muybridge solved this mystery using *chronophotography*, an early form of photography that captures motion. He took a series of photographs of a horse running and showed that there are moments when all four hooves are in the air. This breakthrough helped us better understand animal movement and paved the way for modern cameras.
+
+This technique is inspired by the research of [Étienne-Jules *Marey*] (https://en.wikipedia.org/wiki/Étienne-Jules_Marey), under the term *chronophotography*, which is the use of a rifle-like apparatus to photograph a visual scene. This technique allowed Muybridge, in particular, to scientifically demonstrate the mechanism of a horse's gallop. The movie theater became popular only afterwards.
+
+http://4.bp.blogspot.com/-AHprBxkfu5o/UJ-lqR7GsmI/AAAAAAAAHpo/VJzY7HMuXe0/s1600/The+Horse+in+Motion,+1878.%C2%A0Eadweard+Muybridge+(b.+9+April,+1830)The+first+movie+ever+made,+from+still+photographs..gif
+https://upload.wikimedia.org/wikipedia/commons/0/07/The_Horse_in_Motion-anim.gif
+
+{{< /speaker_note >}}
+
+---
+
+{{< slide background-image="https://hackaday.com/wp-content/uploads/2018/04/saccades.gif" >}}
+
+{{< speaker_note >}}
+The use of such dynamic *visualization* is crucial in the scientific field, whether in biology or physics, as it allows us to quantify the characteristics of the experiment being conducted, and this is certainly one of the reasons for your presence and an important aspect of your daily work. In the laboratory, for example, we use it in particular to quantify *eye movements* when a stimulus is presented to an observer.
+
+https://hackaday.com/wp-content/uploads/2018/04/saccades.gif?w=600&h=600
+http://38.media.tumblr.com/831aada3328557146e214efe1cb867a5/tumblr_mslrotKPS01snyrdto1_500.gif
+https://www.filmsranked.com/wp-content/uploads/2020/05/two-fencers.gif" 
+{{< /speaker_note >}}
+
+---
+
+#### Representing light
+
+<!-- {{< figure src="http://1.bp.blogspot.com/-odG4Twu0Blc/UrN3ytufKnI/AAAAAAAACRM/dzJNcpV4JfY/s1600/Monty+Python's+1.gif" width="100%" >}} -->
+{{< figure src="https://github.com/laurentperrinet/figures/raw/main/event-based/movie.gif" width="66%" >}}
+
+{{< speaker_note >}}
+To better understand the mechanism behind this technology, let's take a sample video. 
+Here, I've taken a grayscale *video* from an episode from the Monty Python Flying Circus TV series. 
+{{< /speaker_note >}}
+
+---
+
+#### Representing light
+
+{{< figure src="https://github.com/laurentperrinet/figures/raw/main/event-based/analog_signal.svg" width="100%" >}}
+
+{{< speaker_note >}}
+... and we will focus on a *single pixel* in the space of the visual field
+In this way, we can represent the evolution of the *log intensity* of the light signal as a function of time.
+
+
+{{< /speaker_note >}}
+
+---
+
+#### Frame-Based Camera: Temporal discretization
+
+{{< figure src="https://github.com/laurentperrinet/figures/raw/main/event-based/frame-based_signal.svg" width="100%" >}}
+
+{{< speaker_note >}}
+From this representation, expressed in continuous time, we can *discretize* time and measure the log intensity at regular time intervals. The difference between two images gives the *temporal resolution*, and its inverse gives the number of images per second. This is the representation classically used in chronophotography, but also in all conventional video stream *acquisition and viewing* technologies.
+This technology is highly efficient for a wide range of signals. However, it does have certain *limitations*.
+{{< /speaker_note >}}
+
+---
+
+#### Frame-Based Camera: Temporal Aliasing
+
+{{< figure src="https://lenzgregor.com/posts/event-cameras/post-rethinking/frames.gif" title="[[Gregor Lenz, 2020](https://lenzgregor.com/posts/event-cameras/)]" width="75%" >}}
+
+{{< speaker_note >}}
+To illustrate a common limitation, let's take the *example* of three colored cubes rotating around a circle on a frontal axis. Due to the camera’s temporal resolution and the duration the shutter remains open, the captured images exhibit blur. This makes it challenging to precisely measure the cubes’ movement. As the cubes’ rotation speed increases, we might notice an effect called temporal *aliasing*, where the movement appears distorted due to the camera’s limitations. 
+
+{{< /speaker_note >}}
+
+---
+
+#### Frame-Based Camera: Wagon-Wheel Illusion
+
+{{< figure src="https://vignette.wikia.nocookie.net/revengeristsconsortium/images/2/25/Whee.gif/revision/latest/scale-to-width-down/340?cb=20141209071330" title="[[Sam Brinson, 2020](https://www.sambrinson.com/nature-of-perception/)]" width="100%" >}}
+
+{{< speaker_note >}}
+This phenomenon is particularly striking when we look at a spinning wheel moving at high speed. Sometimes, the wheel spins so fast that in two consecutive images, it appears to rotate backwards. This optical illusion is known as the wagon-wheel illusion. It’s particularly noticeable in car wheels, where the central hub may seem stationary while the wheel itself seems to turn *counter* to its actual direction on the road. Again this wagon-wheel effect is due to standard camera's limitations.
+{{< /speaker_note >}}
+
+
+</section>
+
+---
+
+<section>
+
+# Event-Based Cameras
+
+{{< speaker_note >}}
+Transitioning from conventional frame-based cameras, we now focus on the *event-based camera*, a highly promising bio-inspired visual sensor.
+{{< /speaker_note >}}
+
+---
+
+#### Event-Based Cameras
+
+{{< figure src="https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations.png" width="100%" >}}
+
+{{< speaker_note >}}
+An event-based camera is equipped with a sensor that converts light into an electrical current, similar to conventional CMOS sensors. However, it differs from standard frame-based cameras in that it is inspired by the human retina. There are two main differences from a frame-based camera (middle graph) that lead to an event-based representation (right graph):
+- First, each pixel of an event-based camera is *independent*, operating without a synchronized global clock.
+- Second, each pixel detects changes in *logarithmic light intensity* and generates a binary event only if the change exceeds a *threshold*. If the change is an increment - that is, the log intensity has increased - the event has positive polarity; if it's a decrement, the event has negative polarity.
+
+In summary, an event is generated asynchronously when a pixel-level change in brightness is detected. This results in superior temporal resolution and reduced susceptibility to motion blur, making event cameras ideal for capturing fast-moving scenes.
+{{< /speaker_note >}}
+
+
+---
+
+#### Event-Based Cameras: DVS gesture
+
+
+<img src="https://laurentperrinet.github.io/publication/grimaldi-23/DVSGesture_arm-roll.webp"  width="33%"/><img src="https://laurentperrinet.github.io/publication/grimaldi-23/DVSGesture_hand-clap.webp"  width="33%"/><img src="https://laurentperrinet.github.io/publication/grimaldi-23/DVSGesture_air-guitar.webp"  width="33%"/>
+
+<!-- 
+https://prostheticknowledge.tumblr.com/post/163324909991/dvs128-gesture-dataset-release-from-ibm-research
+{{< figure src="https://research.ibm.com/interactive/dvsgesture/images/hand_clap.gif" width="33%" >}}{{< figure src="https://research.ibm.com/interactive/dvsgesture/images/air_guitar.gif" width="33%" >}}{{< figure src="https://research.ibm.com/interactive/dvsgesture/images/right_hand_clockwise.gif" width="33%" >}}{{< figure src="https://research.ibm.com/interactive/dvsgesture/images/air_guitar.gif" width="33%" >}}{{< figure src="https://research.ibm.com/interactive/dvsgesture/images/right_hand_clockwise.gif" width="33%" >}}
+{{< figure src="https://research.ibm.com/interactive/dvsgesture/images/hand_clap.gif" width="33%" >}}{{< figure src="https://research.ibm.com/interactive/dvsgesture/images/air_guitar.gif" width="33%" >}}{{< figure src="https://research.ibm.com/interactive/dvsgesture/images/right_hand_clockwise.gif" width="33%" >}}
+<img src="https://research.ibm.com/interactive/dvsgesture/images/hand_clap.gif"  width="33%"/><img src="https://research.ibm.com/interactive/dvsgesture/images/air_guitar.gif"  width="33%"/><img src="https://research.ibm.com/interactive/dvsgesture/images/right_hand_clockwise.gif"  width="33%"/>
+<img src=https://user-images.githubusercontent.com/4012178/27771912-cb58ebb8-5f58-11e7-9566-79f3fbc5d9ba.gif"  width="33%"/>
+{{< figure src="https://research.ibm.com/interactive/dvsgesture/images/air_guitar.gif" width="33%" >}}{{< figure src="https://research.ibm.com/interactive/dvsgesture/images/right_hand_clockwise.gif" width="33%" >}} 
+
+https://github.com/idsc-frazzoli/retina?tab=readme-ov-file
+https://user-images.githubusercontent.com/4012178/30553969-2948547a-9ca3-11e7-91e8-159806c7e329.gif -->
+
+
+{{< speaker_note >}}
+Let's take some examples from a classic dataset, DVS gesture. These movements are, for example, clapping hands or playing air guitar. Note that the stream of events is caused by changes in the visual scene, hiding static parts. Let's explain how discrete events are generated in response to the luminous input that continuously evolves over time.
+{{< /speaker_note >}}
+
+---
+
+#### Event-Based Cameras
+
+{{< figure src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_0.svg" width="100%" >}}
+
+{{< speaker_note >}}
+Our signal is analog. It consists of the evolution of the log-intensity (y axis) of a single pixel through time (x axis).
+{{< /speaker_note >}}
+
+---
+
+#### Event-Based Cameras
+
+{{< figure src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_1.svg" width="100%" >}}
+
+{{< speaker_note >}}
+... As we follow this trajectory, we can observe that it crosses a threshold. It is at this precise moment that the pixel generates an event. In this case, the event is of positive polarity, since it corresponds to an increase.
+{{< /speaker_note >}}
+
+---
+
+#### Event-Based Cameras
+
+{{< figure src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_2.svg" width="100%" >}}
+
+{{< speaker_note >}}
+The signal then continues its time course and crosses a threshold again, resulting in the production of a new event with positive polarity.{{< /speaker_note >}}
+
+---
+
+#### Event-Based Cameras
+
+{{< figure src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_5.svg" width="100%" >}}
+
+{{< speaker_note >}}
+The log-intensity continues to increase, leading to increments, or in other words, positive polarizations.
+{{< /speaker_note >}}
+
+---
+
+#### Event-Based Cameras
+
+{{< figure src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_10.svg" width="100%" >}}
+
+{{< speaker_note >}}
+Now the signal decreases, resulting in events with negative polarity instead of positive polarity.
+{{< /speaker_note >}}
+
+---
+
+#### Event-Based Cameras
+
+{{< figure src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_20.svg" width="100%" >}}
+
+{{< speaker_note >}}
+Continuing this process, the simple mechanism generates a *stream* of events for each pixel, ...
+{{< /speaker_note >}}
+
+---
+
+#### Event-Based Cameras
+
+{{< figure src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_-1.svg" width="100%" >}}
+
+{{< speaker_note >}}
+... comprising a *list* of occurrence times and their respective polarities.
+{{< /speaker_note >}}
+
+---
+
+#### Event-Based Cameras
+
+
+<!-- {{< figure src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw.svg" width="100%" >}} -->
+{{< figure src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal.svg" width="100%" >}}
+
+{{< speaker_note >}}
+Let's now show it applied to the whole analog signal, showing the events below the signal.
+It's worth noting that this is particularly *sparse* compared to frame-by-frame representations: in particular, a signal with very few changes can be represented by just a few binary events. This is a very useful feature, not only because it saves *bandwidth*, but also because it allows us to concentrate the *computations* on the few events that represent the image. It's also a fundamental feature of neuron function in the brain. Indeed, neurons communicate sparsely with action potentials, which can be thought of as binary events.{{< /speaker_note >}}
+
+
+---
+
+#### Event-Based Cameras
+
+
+<img src="https://laurentperrinet.github.io/publication/grimaldi-23/DVSGesture_arm-roll.webp"  width="33%"/><img src="https://laurentperrinet.github.io/publication/grimaldi-23/DVSGesture_hand-clap.webp"  width="33%"/><img src="https://laurentperrinet.github.io/publication/grimaldi-23/DVSGesture_air-guitar.webp"  width="33%"/>
+
+
+<!-- {{< figure src="https://lenzgregor.com/posts/event-cameras/post-rethinking/events.gif" title="[[Gregor Lenz, 2020](https://lenzgregor.com/posts/event-cameras/)]" width="100%" >}} -->
+
+{{< speaker_note >}}
+
+Ultimately, we get a list of events for each pixel that can be *merged* to represent the entire image. This list of events includes pixel addresses, times of occurrence, and polarities. Note that since events are generated over time, they are naturally sorted by their time of occurrence. These events are then transmitted in *real time* to the output bus, often via a USB3 connection. 
+It's interesting to draw a parallel between this process and the optic nerve that connects our retina to the brain. In fact, the output of the retina consists of a million ganglion cells that emit action potentials, which are the only source of information transmitted by the *optic nerve*.
+
+- https://www.researchgate.net/profile/Guido-Croon/publication/313221316/figure/fig2/AS:668997448134663@1536512829861/Picture-of-the-event-based-camera-employed-in-this-work-the-DVS_W640.jpg
+
+
+{{< /speaker_note >}}
+
+---
+
+#### Event-Based Cameras
+
+| Sensor           | Range   | Framerate   | Resolution  | Power |
+|------------------|---------|-------------|-------------|-------|
+| Human eye        | 60 (?) dB | 300 (?) fps | 100 (?) Mpx | 10 mW |
+| DSLR             | 44.6 dB | 120     fps | 2--20   Mpx | 30  W |
+| Ultra-high speed | 64   dB | 10^4 fps    | 0.3--4  Mpx | 300 W |
+| Event-based      | 120  dB | 10^6 fps    | 0.1--2  Mpx | 30 mW | 
+
+{{< speaker_note >}}
+Event-driven cameras boast several remarkable properties. 
+Firstly, their *temporal precision* is in the microsecond range, allowing for a theoretical frame rate of up to a million images per second. In contrast, a conventional camera typically captures around a hundred images per second, while a high-speed camera may reach 10,000 images per second. Estimating the sampling frequency of human perception is challenging; although 25 frames per second usually suffice for movies, the human eye can discern temporal details at rates between 300 and 1,000 frames per second. 
+It’s also noteworthy that the *spatial resolution* of event cameras is generally modest, often in the megapixel range. This is not due to technical constraints but rather reflects the cameras’ common technological applications. 
+Compared with conventional cameras, which will consume several watts, event cameras consume very little electrical *energy*, in the order of 10 milliwatts, a consumption equivalent to that of the human eye.
+Another key feature is their ability to detect a very wide *range* of luminosity, reaching 120 dB, which is a million times greater than conventional cameras and thousand times greater than an human eye.
+
+https://en.wikipedia.org/wiki/Event_camera#Functional_description
+
+more in https://arxiv.org/pdf/1904.08405.pdf
+
+{{< /speaker_note >}}
+
+---
+
+#### Event-Based Cameras
+
+
+{{< figure src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal.svg" width="100%" >}}
+
+{{< speaker_note >}}
+But why is detecting a very wide range of luminosity usefull ? The ability to *adapt* to changing light conditions can be illustrated by revisiting our analog signal and its event representation. Consider, for example, an autonomous car driving in daylight and then entering and exiting a *tunnel*. This scenario involves changes in brightness by a factor of several thousand.
+{{< /speaker_note >}}
+
+---
+
+#### Event-Based Cameras
+
+{{< figure src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_low.svg" width="100%" >}}
+
+{{< speaker_note >}}
+Here we have a division by a factor 8 of the signal in the middle section. It will be reported by a frame-based camera. In an event-based camera, this is represented here by a *sharp decrement* in log intensity space and clearly indicated by events of negative polarity, but we can see that since this is a camera that uses log intensity, dividing the light signal produces the *same signal* course over time, and therefore events that are identical.  Event-driven cameras are therefore particularly well-suited to *dynamic signals*, where the lighting context can change drastically. 
+
+{{< /speaker_note >}}
+
+
+</section>
+
+---
+
+<section>
+
+# Event-Based Computer vision
+
+{{< speaker_note >}}
+These cameras therefore look very promising for future applications, particularly for embedded applications, but also for applications linked to scientific experiments. However, we can see that the image *representation* is completely different, that is, we can no longer consider static images that follow one another at a regular rate, and for which we could have applied the algorithms that have been developed for decades in the field of *computer vision*. We end up with a signal that corresponds to events that are transmitted as a stream from the camera. And we have to reinvent all computer vision algorithms to make them *event-driven*.
+
+TODO: the process is active driven by the signal compared to acquired
+
+{{< /speaker_note >}}
+
+
+---
+
+#### Always-on Object Recognition: DVS gesture
+
+<img src="https://laurentperrinet.github.io/publication/grimaldi-23/DVSGesture_arm-roll.webp"  width="33%"/><img src="https://laurentperrinet.github.io/publication/grimaldi-23/DVSGesture_hand-clap.webp"  width="33%"/><img src="https://laurentperrinet.github.io/publication/grimaldi-23/DVSGesture_air-guitar.webp"  width="33%"/>
+
+{{< speaker_note >}}
+We considered the DVS gesture classification task, involving the classification of 10 different types of human gestures. These movements are, for example, clapping hands or playing air guitar. Note that the stream of events is caused by changes in the visual scene.
+{{< /speaker_note >}}
+
+---
+
+#### Always-on Object Recognition
+
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23/hots.png" title="[[Grimaldi, Boutin, Sio-Ieng, Benosman & LP, 2023](https://laurentperrinet.github.io/publication/grimaldi-23/)]" width="100%" >}}
+
+
+{{< speaker_note >}}
+So how can we process and learn data coming from an event-based camera ?
+My team, including PhD student Antoine Grimaldi, has enhanced an existing algorithm known as *HOTS*. This algorithm employs a traditional convolutional and hierarchical structure to process information. It begins with the camera’s event data that are processed three stacked layers, the last layer giving a high-level representation suitable for tasks like digit recognition —for example, identifying the number eight. A key aspect of HOTS is its conversion of event data into multiplexed, parallel channels that mirror different temporal sequence of events, termed the *temporal surface* which provides with a representation of recent activity. Each layer represents these temporal surfaces individually. Notably, the algorithm’s learning process is *unsupervised* at every layer, marking a significant advancement over typical deep learning methods that rely on back-propagating classification errors—which is biologically implausible. Building on HOTS, we’ve improved it by incorporated neurobiological insights, particularly the principle of *homeostasis*, to better balance the various parallel communication pathways.
+{{< /speaker_note >}}
+
+---
+
+#### Always-on Object Gesture Recognition
+
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23/gesture_offline.png" title="[[Grimaldi, Boutin, Sio-Ieng, Benosman & LP, 2023](https://laurentperrinet.github.io/publication/grimaldi-23/)]" width="90%" >}}
+
+{{< speaker_note >}}
+To demonstrate our algorithm’s effectiveness, we tested it on a standard dataset that I presented before for classifying *10 distinct human gestures*, such as clapping, waving, or drumming. With random guessing at about 8.3%, the original HOTS algorithm achieved 70% accuracy after processing all events. However, by adding *homeostasis* —an important concept from neuroscience— we enhanced the algorithm’s performance to 82%. Homeostasis is used to balance the firing rates accross neurons in a neural network. It ensures that all neurons contribute equally over time, avoiding dominance by a few neurons. This underscores the value of incorporating neuroscientific principles into machine learning.
+
+Furthermore, we leveraged a key trait of biological systems: the ability to process information continuously, in real time. Traditional algorithms wait to classify until all events are processed. We innovated by enabling our algorithm to classify on-the-fly, in real-time, with each incoming event. This means that as events occur, they’re instantly processed through the layers, reaching the classification layer without delay.
+{{< /speaker_note >}}
+
+---
+
+#### Always-on Object Gesture Recognition
+
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23/gesture_online.png" title="[[Grimaldi, Boutin, Sio-Ieng, Benosman & LP, 2023](https://laurentperrinet.github.io/publication/grimaldi-23/)]" width="90%" >}}
+
+
+{{< speaker_note >}}
+What's more interesting is that we were also able to show the *evolution* of our algorithm’s average performance relative to the dataset and the number of processed events. The blue curve reveals that with fewer than 10 events, performance hovers at chance levels. However, as more events are processed, we observe a steady improvement. Remarkably, with 10,000 events, *performance* matches that of the original algorithm and further excels with an additional tenfold increase in events. A major advantage of this algorithm is that it can be asked to classify the nature of what it sees in real-time, at any point during the event stream —not just after the entire signal is processed. Online processing is essential in biology. For example, imagine you're on the savannah and a *lion* jumps out at you. You won't have the time to wait for the video sequence to finish processing before making the right decision, which is to flee. 
+We’ve also refined our algorithm to select classification events based on precision calculations for each event. By adding a precision *threshold*, we achieve high performance with merely a hundred events. This reflects a biological network trait where decisions aren’t made incrementally but rather emerge abruptly here after 200 events — and then continue to improve and stabilize.
+{{< /speaker_note >}}
+
+</section>
+
+---
+
+<section>
+
+# Spiking Neural Networks
+
+{{< speaker_note >}}
+I have therefore illustrated the use of *event-driven* cameras on a particular algorithm. The nice feature of this algorithm is that it processes the stream of events from the camera on an event-by-event basis rather than having to wait for the whole video sequence to finish. Each event has the potential to initiate a series of processes across various layers, allowing for the continuous update of classification values. This type of operation is characteristic of the way neurons work in the brain, that is, using an event-based representation of information processing. This is what we call *spiking neural networks*.
+{{< /speaker_note >}}
+
+---
+
+{{< figure src="https://tonic.readthedocs.io/en/latest/_images/neuron-models.png" title="© Gregor Lenz, [[Tonic manual](https://tonic.readthedocs.io/en/latest/)]" width="50%" >}}
+
+{{< speaker_note >}}
+Traditional neural networks in deep learning typically rely on an analog representation. This is illustrated in this figure, where various analog inputs are integrated and then processed through a non-linear function to output an analog activation value. This basic *perceptron* principle is at the foundation of all existing neural networks, including convolutional networks that excel in image classification. While effective for static images, this method can be resource-intensive for video processing. An alternative is the use of *spiking neurons*. Unlike their analog counterparts, spiking neurons process discrete events, which are integrated in the membrane potential. When the membrane potential crosses a theshold, it output an action potential, which can be seen as an event. 
+{{< /speaker_note >}}
+
+
+---
+
+#### Spiking Neural Networks: LIF Neuron
+
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/LIF.gif" title="[Grimaldi *et al*, 2023, [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)]" width="80%" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+
+This is illustrated in this *animation*, which shows how we can transform a list of input events by giving them different weights, and then *integrate* them into the cell's membrane potential. When the membrane potential crosses the spiking theshold, the neuron outputs a spike.
+
+{{< /speaker_note >}}
+
+---
+
+#### Spiking Neural Networks: neuromorphic hardware
+
+{{< figure src="https://cdn.cnx-software.com/wp-content/uploads/2022/09/Intel-Loihi-2.jpg" title="Loihi 2" width="100%" >}}
+
+{{< speaker_note >}}
+The introduction of spiking neural networks marks a **paradigm shift** in computation, in the same way that event-driven cameras have brought a paradigm shift in image representation. These spiking neural networks have led to the creation of innovative algorithms and the development of neuromorphic chips like Intel’s Loihi 2. This chip departs from traditional computing by utilizing a massively parallel array of event-driven processing units. As with event-driven cameras, this has the dual advantage of being very fast and consuming very little **energy**. The field continues to advance, with new **neuromorphic chips** being developed that could potentially replace standard CPUs and GPUs.
+
+{{< figure src="https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/optim/i/edit/ne/2019/Pierre%20temp/Intel%20Loihi__w630.jpg" title="[Prophesee](https://docs.prophesee.ai/stable/concepts.html)" width="45%" >}}
+
+Loihi: https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/optim/i/edit/ne/2019/Pierre%20temp/Intel%20Loihi__w630.jpg
+
+https://cdn.cnx-software.com/wp-content/uploads/2022/09/Intel-Loihi-2.jpg?lossy=0&strip=none&ssl=1
+
+{{< /speaker_note >}}
+
+---
+
+#### Spiking Neural Networks in neurobiology
+
+{{< figure src="http://i.stack.imgur.com/ixnrz.png" title="[[Mainen & Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]" width="99%" >}}
+
+
+{{< speaker_note >}}
+**2 MINUTE**
+Spiking neural networks show great potential for processing data from event-driven cameras. However, *neurophysiology* studies reveal some unexpected behaviors, very different from the classical perceptron. I will highlight these differences with three examples. The first example is a 1995 study by Mainen and Sejnowski examined a neuron’s reaction to repeated stimulations. 
+*Panel A* at the top presents the neuron’s response to multiple stimulations with a 200 picoampere *current step*. The membrane potential varied across trials, indicating an unpredictable response. Initially, the spikes were synchronized at the onset of stimulation, but coherence diminished over time, leading to no alignment after approximately 750 milliseconds.
+In contrast, Panel B at the botton shows the neuron’s response to stimulation with *noise*. Here, the neuron exhibited highly consistent responses across trials, with membrane potential traces nearly identical. This precision was achieved using *frozen* noise, a repeated, unchanging stimulus. The study highlights that neurons are less responsive to constant analog values, such as square pulses, and more selective to dynamic signals, responding with remarkable precision in the temporal domain.
+{{< /speaker_note >}}
+<!-- 
+---
+
+
+#### Spiking Neural Networks in neurobiology
+
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/replicating_MainenSejnowski1995.png" title="[[Mainen & Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]" width="99%" >}}
+
+
+{{< speaker_note >}}
+**2 MINUTE**
+
+- reproduucibility
+
+{{< /speaker_note >}} -->
+
+---
+
+
+#### Spiking Neural Networks in neurobiology
+
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/Diesmann_et_al_1999.png" title="[[Diesmann et al. 1999](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_3_Diesmann_et_al_1999.py)]" width="99%" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+
+In this second example, I show a simulation reproducing the 1999 paper by Diesmann and colleagues. This *theoretical model* considers ten interconnected groups, each comprising 100 neurons. Each group is connected to the next one. A key finding is that information transfer across groups depends on the **temporal concentration** of spikes. Initially, information is too scattered within the first group, leading to a dilution effect in subsequent groups. However, once a threshold is reached, a cluster of synchronous spikes ensures efficient propagation through the network. This non-linear dynamic is characteristic of spiking neural networks, adding a layer of richness, but also a cerain complexity.
+{{< /speaker_note >}}
+
+---
+
+
+#### Spiking Neural Networks in neurobiology
+
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/haimerl2019.jpg" title="[[Haimerl et al, 2019](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)]" width="99%" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+A third example shows an experiment conducted by Rosa Cossart's group at INMED and recently published by Haimerl and colleagues. They used *calcium fluorescence* imaging to track neuronal activity in mice which at first look appears to be activated in a random sequence. By arranging the neurons in *temporal order of activation*, it shows a repeatable, sequential activation of these neurons, a mechanism which resembles the model mentioned earlier. These patterns closely align with the mouse’s motor behavior, as depicted in the accompanying graph. Surprisingly, these activity sequences remained consistent, even when recorded on the *next day*, underscoring the importance of temporal dynamics in neural computation.
+
+{{< /speaker_note >}}
+
+</section>
+
+---
+
+<section>
+
+# Spiking Neural Networks: Spiking motifs
+
+{{< speaker_note >}}
+**2 MINUTE**
+These observations have led us to *review* neurobiological evidence of neurons encoding information based on the relative timing of spikes. Intriguingly, the conduction *delays* observed in spike transmission are not merely obstacles. Instead, they could be used to enhance information representation and processing through *spiking motifs*. This perspective challenges traditional views and opens up new possibilities for understanding information representation, processing and learning.
+{{< /speaker_note >}}
+
+---
+
+#### Spiking Neural Networks: Spiking motifs
+
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png" title="[Grimaldi *et al*, 2023, [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)]" width="80%" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+Consider an ultra-simplified neural network with three presynaptic neurons and two output neurons, connected by *heterogeneous* delays. With synchronous inputs, the output neurons activate at different times, failing to reach the threshold for an output spike. However, if the delays align, the action potentials to arrive simultaneously, the combined input can trigger an output spike at the *same instant*, as indicated by the red bar.
+{{< /speaker_note >}}
+
+---
+
+#### Spiking Neural Networks: Spiking motifs
+
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/LIF.gif" title="Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)." width="80%" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+To better grasp this mechanism, let’s revisit the animation of a spiking neuron. Without delays, action potentials reach the neuron’s cell body immediately, where they’re integrated to potentially trigger a spike.
+{{< /speaker_note >}}
+
+---
+
+#### Spiking Neural Networks: Spiking motifs
+
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/HSD.gif" title="Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)." width="80%" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+Now using *heterogeneous* delays, the timing of spike arrival at the cell body varies. Introducing a specific *spiking motif*, marked by green action potentials, allows these spikes to converge simultaneously due to the delays. This synchronicity results in the neuron generating a new spike.
+{{< /speaker_note >}}
+
+---
+
+#### Spiking Neural Networks: HD-SNN
+
+{{< video src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/FastMotionDetection_input.mp4" autoplay="yes" title="[Grimaldi & LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+In applying this theoretical principle, we developed an algorithm to detect movement in images. We began by simulating event data from natural images set in motion along paths similar to those observed during free visual exploration. The event-driven output exhibits distinct characteristics. For instance, rapid movement results in a higher spike rate. Conversely, edges aligned with the motion direction yield minimal changes, leading to fewer spikes. This phenomenon is known as the aperture problem.
+{{< /speaker_note >}}
+
+---
+
+#### Spiking Neural Networks: HD-SNN
+
+{{< figure src="https://raw.githubusercontent.com/laurentperrinet/figures/7f382a8074552de1a6a0c5728c60d48788b5a9f8/animated_neurons/conv_HDSNN.svg" title="[Grimaldi & LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" width="100%" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+We then used a neural network with a classical architecture, which we enhanced by using a spike-based representation that accounts for various synaptic delays values. In this figure, the input is on the left grid, indicating spikes of either positive or negative polarity. This input is processed through multiple channels, represented by green and orange, and generate membrane activity. This activity, in turn, led to the production of output spikes, particularly in synaptic connection nuclei with heterogeneous delays. These delays are key to identifying specific spatio-temporal patterns.
+{{< /speaker_note >}}
+
+
+---
+
+#### Spiking Neural Networks: HD-SNN
+
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/motion_kernels.png" title="[Grimaldi & LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" width="90%" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+A key advantage of this network is its differentiability, which allows the application of traditional machine learning techniques, such as supervised learning.
+We then see the emergence of various convolution kernels. The graph on the left, marked by red arrows, displays a selection of these kernels oriented in different directions. 
+It shows the kernels obtained on the spatial representation according to the different columns, and each row represents the different delays from a delay of one on the right to a delay of 12 time steps on the left. Detectors that follow the motion emerge. For example, for the top line from top to bottom. These kernels integrate both positive neurons in red and negative polarity inputs in blue. Such spatio-temporal filtering is observed in neurobiology, but to my knowledge had never been observed in a model of spiking neurons trained under natural conditions.
+
+{{< /speaker_note >}}
+
+
+---
+
+#### Spiking Neural Networks: HD-SNN
+
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/quant_accuracy_raw.svg" title="[Grimaldi & LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" width="80%" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+
+We will now study the performance of this network in detecting motion in the flow of events entering the network. When we use all the weights of the convolution kernel, we get a very good performance of the order of 99%, represented by the black dot in the top right-hand corner. Note that in the kernels we've seen emerge, most of the synaptic weights are close to zero, so we might consider removing some of these weights, as this can be shown to reduce the number of event calculations required.
+{{< /speaker_note >}}
+
+---
+
+#### Spiking Neural Networks: HD-SNN
+
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/quant_accuracy_shortening.svg" title="[Grimaldi & LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" width="80%" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+This is what we've done, by first removing the parts of the core corresponding to the longest delays. This "shortens" the kernel. We quickly observed a degradation in performance, which reached half-saturation when we reduced the number of weights by around 50%. This demonstrates the importance of integrating information that is quite distant and structured over time.
+{{< /speaker_note >}}
+
+---
+
+#### Spiking Neural Networks: HD-SNN
+
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/quant_accuracy.svg" title="[Grimaldi & LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" width="80%" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+
+In a second step, we performed a pruning operation, which consists in progressively removing the weights that are the weakest. This time, performance remains optimal over a wide compression range, and we reach half-saturation when we have removed around 99.8% of the weights. This means that the network is able to maintain very good performance, even when only one weight out of 600 has been kept, and therefore, with a computation time increased by a factor of 600. This property, which we didn't expect, seems promising for creating machine learning algorithms that are less energy-hungry.
+{{< /speaker_note >}}
+
+
+</section>
+
+---
+
+
+<section>
+
+### [Neuromorphic models of vision](https://laurentperrinet.github.io/slides/2024-02-05-udem/?transition=fade)
+####	*[Laurent Perrinet](https://laurentperrinet.github.io)*
+####	<u>[[2024-02-05]](https://laurentperrinet.github.io/talk/2023-12-01-biocomp) [Seminar at UdeM’s School of Optometry, Montréal](https://opto.umontreal.ca/ecole/english/)</u>
+
+<img src="https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg" alt="logos" height="130"/>
+
+#### [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
+
+{{< speaker_note >}}
+
+In conclusion, we have seen that event-driven cameras open the door to new applications that mimic the performance of the human eye, in terms of computational dynamics, adaptation to light conditions and energy constraints. This technological development has recently been accompanied by the development of neuromorphic chips and innovative algorithms in the form of spiking neural networks. However, there is still a great deal of progress to be made at theoretical level, particularly in the understanding of these spiking neural networks, and we have shown the potential progress that can be made by exploiting the richness of temporal representations, particularly by taking advantage of heterogeneous delays. 
+Beyond these particular applications to natural image processing, I hope to have succeeded in demonstrating the importance of cross-fertilizing the field of engineering applications in general with biological neuroscience. This new line of research - known as NeuroAI or, more generally, as computational neuroscience - is likely to develop over the next few years. Thank you for your attention.
+
+
+To conclude, we've explored how event-driven cameras pave the way for new applications. These applications mirror the human eye's performance in terms of computational dynamics, rapid light condition adaptation, and energy efficiency. This tech advancement is complemented by the emergence of neuromorphic chips and innovative algorithms, specifically spiking neural networks. These networks emulate biological neurons, which communicate through binary events known as spikes rather than analog values used in traditionnal neural networks. 
+
+Despite these advancements, there's still much to learn, especially in understanding how spiking neural networks process information. I hope I've successfully highlighted the importance of integrating engineering applications with neuroscience. This emerging research area, known as NeuroAI or computational neuroscience, is evolving rapidly. The ultimate aim of NeuroAI is to emulate the brain’s performance: it’s like having the computational power of a supercomputer compacted into the size of a soccer ball, using only around 20W of power, which is comparable to the energy consumption of a light bulb. 
+This emerging research area, known as NeuroAI or computational neuroscience, is set
+
+{{< /speaker_note >}}
+
+</section>

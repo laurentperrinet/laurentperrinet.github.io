@@ -19,6 +19,13 @@ title: "*Emergences* (2023 / 2027)"
 TL;DR: Conventional deep learning models consume too much energy. Inspired by biology, we will explore new models that are more energy efficient.
 {{% /callout %}}
 
+The *Emergences* project aims at advancing the state-of-the art on near-physics emerging models by collaboratively exploring various computation models leveraging physical devices properties. This project will focus on Event-based models, Physics-inspired models and innovative near-physics Machine Learning solutions.
+*Emergences* further intends to extend the collaborative research activities beyond the fence of the consortium by means of connecting with other projects of the PEPR IA and other research institutes.
+
+* Pilote: Marina Reyboz, CEA, Research Director
+* Co-Pilote: Gilles Sassatelli, CNRS, Research Director
+
+
 ## Description of the "*Emergences*" project
 
 Contemporary machine learning (ML) has incurred profound changes in the scientific, societal and economic landscapes alike. After a decade of sustained progress AI as a discipline is still making regular breakthroughs on many fronts, at the expense of an ever-increasing amount of consumption of compute resources. Modern language models feature hundreds of billion parameters and training energy consumption alone likely falls in the GWh range, with a logical forecast worsening the already prohibitive carbon footprint of AI.
@@ -38,7 +45,7 @@ The *Emergences* project aims at advancing the state-of-the art on near-physics 
 ## Key figures
 
  * starting date: September 1, 2023 
- * Duration: 48 months
+ * Duration: 48 months (until August 31, 2027)
  * 14 partners
  * Nb of PhD: 19
  * Nb of Post doc: 13
