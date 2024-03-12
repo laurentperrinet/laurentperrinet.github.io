@@ -31,6 +31,11 @@ lastmod: 2023-07-21 13:12:04+02:00
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-23-icann/
+- name: GitHub
+  url: 	https://github.com/laurentperrinet/2023-09-27_HDSNN-ICANN
+- name: DOI
+  url: 	https://doi.org/10.1007/978-3-031-44207-0_31
+
 projects: []
 publication: '*ICANN Special Session on Recent Advances in Spiking Neural Networks*'
 publication_types:
@@ -48,5 +53,6 @@ slides: "2023-09-27_icann"
 
 * Will be presented at the [special session on Recent Advances in Spiking Neural Networks at this year's ICANN 2023 conference](https://e-nns.org/icann2023/wp-content/uploads/sites/7/2023/04/ICANN2023-ASNN-CfP.pdf)
 
-
 * This theoretical implements the objectives set up in this review: {{< cite page="/publication/grimaldi-22-polychronies" view="4" >}}
+
+* The code is available on [GitHub](https://github.com/laurentperrinet/2023-09-27_HDSNN-ICANN)
