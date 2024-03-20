@@ -8,6 +8,10 @@ summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
 
+* "Une chose déroutante à propos des hommes - ils permettent à leur instinct sexuel de les conduire là où leur intelligence ne les mènerait jamais." Joan Fontaine, Actrice, Artiste (1917 - 2013)
+
+* "Si les animaux n'existaient pas, ne serions-nous pas encore plus incompréhensibles à nous-mêmes ?" Georges-Louis Leclerc de Buffon
+
 * "In ultimate analysis everything is incomprehensible, and the whole object of science is simply to reduce the fundamental incomprehensibilities to the smallest possible number." Thomas Huxley (in *Darwiniana*, 1893)
 
 * "I thought of the slowing down or the speeding up of motion as a sort of temporal equivalent: slow motion as an enlargement, a microscopy of time, and speeded-up motion as a foreshortening, a telescopy of time” (Oliver Sacks, “The River of Consciousness”)
