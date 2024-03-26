@@ -35,17 +35,23 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*ICANN Special Session on Recent Advances in Spiking Neural Networks*'
+
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-23-icann/
+- name: GitHub
+  url: 	https://github.com/laurentperrinet/2023-09-27_HDSNN-ICANN
+- name: DOI
+  url: 	https://doi.org/10.1007/978-3-031-44207-0_31
+- name: arXiv
+  url: https://arxiv.org/abs/2307.11555
 ---
 
 * Hybrid Session, Room 2
 * Chair: Sander Bohté, Sebastian Otte
 
-* https://link.springer.com/chapter/10.1007/978-3-031-44207-0_31 - https://doi.org/10.1007/978-3-031-44207-0_31
-* https://arxiv.org/abs/2307.11555
+* read the [proceedings](https://link.springer.com/chapter/10.1007/978-3-031-44207-0_31) 
 
-* code: https://github.com/laurentperrinet/2023-09-27_HDSNN-ICANN
+* The code is available on [GitHub](https://github.com/laurentperrinet/2023-09-27_HDSNN-ICANN)
 
 

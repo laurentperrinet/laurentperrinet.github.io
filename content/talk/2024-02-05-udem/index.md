@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Neuromorphic models of vision
+title: 'Neuromorphic models of vision'
 summary: 'The biological retina represents changes in light intensity and communicates them to the brain by means of spikes. Similarly, event-based cameras mimic the way the biological retina processes visual information: each pixel independently reports brightness changes as asynchronous temporal events. This differs from conventional cameras, which capture static images at fixed intervals. This event-based paradigm enables novel visual computations with high speed, low latency, and energy efficiency. I will highlight recent work applying event cameras to tasks such as visual odometry, motion detection, or gesture recognition. The goal is to demonstrate the benefits for computer vision of emulating biological principles inspired by neuroscience, but also to deepen our understanding of visual processes.'
 subtitle: "*Seminar at UdeM’s School of Optometry, Montréal*"
 authors:

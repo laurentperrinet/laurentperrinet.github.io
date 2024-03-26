@@ -146,7 +146,7 @@ $$
 {{< figure width="90%" src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/convolution-layer-a.png?1c517e00cb8d709baf32fc3d39ebae67" title="[[Amidi & Amidi](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)]" >}}
 
 ---
-## Réseaux convolutionnels :  Math
+## Réseaux convolutionnels : Math
 
 * Convolution discrète d'une image sur plusieurs canaux de sortie:
 
@@ -155,7 +155,7 @@ $$
 $$
 
 ---
-## Réseaux convolutionnels :  Math
+## Réseaux convolutionnels : Math
 
 * Convolution discrète d'une image multi-canaux (eg. RGB) sur plusieurs canaux de sortie (noter [l'ordre des indices](https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html)):
 

@@ -35,6 +35,8 @@ links:
   url: 	https://github.com/laurentperrinet/2023-09-27_HDSNN-ICANN
 - name: DOI
   url: 	https://doi.org/10.1007/978-3-031-44207-0_31
+- name: arXiv
+  url: https://arxiv.org/abs/2307.11555
 
 projects: []
 publication: '*ICANN Special Session on Recent Advances in Spiking Neural Networks*'
