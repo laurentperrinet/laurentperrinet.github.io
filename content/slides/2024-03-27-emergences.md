@@ -112,6 +112,19 @@ une aire, à plusieures aires mesoscopique (parler taille cerveau)
 {{< /speaker_note >}}
 
 ---
+### Différentes échelles
+
+{{< figure src="https://laurentperrinet.github.io/talk/2024-03-27-emergences/scales.png" title="[[Stevenson and Kording, 2011](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC3410539&blobtype=pdf)]" width="90%" >}}
+
+
+{{< speaker_note >}}
+imagerie: fMRI, EEG, MEG, MEEG, iEEG, ...
+
+big initiatives: BRAIN, HBP, Human Connectome Project, Allen Institute, Blue Brain Project, OpenWorm, OpenAI, OpenPhilanthropy, OpenCog, OpenMind
+
+{{< /speaker_note >}}
+
+---
 ### Vers des données massives
 
 {{< figure src="https://laurentperrinet.github.io/talk/2024-03-27-emergences/featured.png" title="[[Stevenson and Kording, 2011](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC3410539&blobtype=pdf)]" width="90%" >}}
@@ -119,12 +132,8 @@ une aire, à plusieures aires mesoscopique (parler taille cerveau)
 
 {{< speaker_note >}}
 
-    Ian H Stevenson & Konrad P Kording 
+Ian H Stevenson & Konrad P Kording 
 
-imagerie: fMRI, EEG, MEG, MEEG, iEEG, ...
-neuropixel
-
-big initiatives: BRAIN, HBP, Human Connectome Project, Allen Institute, Blue Brain Project, OpenWorm, OpenAI, OpenPhilanthropy, OpenCog, OpenMind
 {{< /speaker_note >}}
 
 ---
@@ -145,6 +154,7 @@ The probe features 1280 low-impedance TiN recording sites densely tiled along on
 Données Priebe: utilisation de GPUs... mais jusqu'à quand?
 
 {{< /speaker_note >}}
+
 
 </section>
 
@@ -207,18 +217,7 @@ dans tous ces types d'enregistrement avec plusieurs neurones simultanés, on obs
 {{< figure src="https://hugoladret.github.io/publications/imgs/ladret_et_al_variance_V1_5.png" title="[[Ladret *et al*, 2023](https://laurentperrinet.github.io/publication/ladret-23/)]" width="90%" >}}
 
 {{< speaker_note >}}
-Une autre méthode consiste à utiliser un procédé de décodage qui va appliquer un modèle d'apprentissage machine sur l'ensemble des données. Ici, nous avons utilisé une simple régression logistique.
-{{< /speaker_note >}}
-
----
-### ... et au-delà: le décodage
-
-{{< figure src="https://hugoladret.github.io/publications/imgs/ladret_et_al_variance_V1_6.png" title="[[Ladret *et al*, 2023](https://laurentperrinet.github.io/publication/ladret-23/)]" width="90%" >}}
-
-{{< speaker_note >}}
-ICA, SVM auto-encoder Gallant
-
-
+Une autre méthode consiste à utiliser un procédé de décodage qui va appliquer un modèle d'apprentissage machine sur l'ensemble des données. Ici, nous avons utilisé une simple régression logistique. Première incursion dans le machine learning.
 {{< /speaker_note >}}
 
 ---
@@ -229,6 +228,19 @@ ICA, SVM auto-encoder Gallant
 
 {{< speaker_note >}}
 The next question was: what exactly do these different neurons do? To figure this out, we used a method called neural decoding, which tries to guess what the neurons are “seeing” based on their responses.
+
+{{< /speaker_note >}}
+
+---
+### ... et au-delà: le décodage
+
+{{< figure src="https://hugoladret.github.io/publications/imgs/ladret_et_al_variance_V1_8.png" title="[[Ladret *et al*, 2023](https://laurentperrinet.github.io/publication/ladret-23/)]" width="90%" >}}
+
+{{< speaker_note >}}
+
+explicabilité des coefficients
+ICA, SVM auto-encoder Gallant
+
 
 {{< /speaker_note >}}
 
