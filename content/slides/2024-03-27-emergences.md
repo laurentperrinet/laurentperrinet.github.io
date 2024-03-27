@@ -114,7 +114,7 @@ une aire, à plusieures aires mesoscopique (parler taille cerveau)
 ---
 ### Différentes échelles
 
-{{< figure src="https://laurentperrinet.github.io/talk/2024-03-27-emergences/scales.png" title="[[Stevenson and Kording, 2011](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC3410539&blobtype=pdf)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/talk/2024-03-27-emergences/scales.png" title="[[Chemla *et al*, 2017](https://dx.doi.org/10.1117/1.NPh.4.3.031215)]" width="90%" >}}
 
 
 {{< speaker_note >}}
