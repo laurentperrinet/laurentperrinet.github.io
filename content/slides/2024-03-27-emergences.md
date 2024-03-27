@@ -236,7 +236,7 @@ The next question was: what exactly do these different neurons do? To figure thi
 ### Brain-Computer Interface (BCI)
 
 
-{{< figure src="https://cdn.the-scientist.com/assets/articleNo/68762/aImg/42181/bci-article-l.png" title="[[Ladret *et al*, 2023](https://laurentperrinet.github.io/publication/ladret-23/)]" width="90%" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/InterfaceNeuronaleDirecte-fr.svg/2560px-InterfaceNeuronaleDirecte-fr.svg.png" title="[[Interface neuronale directe (BCI)](https://fr.wikipedia.org/wiki/Interface_neuronale_directe)]" width="90%" >}}
 
 {{< speaker_note >}}
 potentiels évoqués
