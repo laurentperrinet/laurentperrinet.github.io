@@ -259,7 +259,7 @@ causal par rapport à ce que fait l'activité (?)
 {{< /speaker_note >}}
 
 ---
-### Explotiation d'un timing précis
+### Exploitation d'un timing précis
 
 {{< figure src="http://i.stack.imgur.com/ixnrz.png" title="[[Mainen & Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]" width="80%" >}}
 
@@ -269,7 +269,7 @@ diesmann
 {{< /speaker_note >}}
 
 ---
-### Explotiation d'un timing précis
+### Exploitation d'un timing précis
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/replicating_MainenSejnowski1995.png" title="[[Mainen & Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]" width="99%" >}}
 
@@ -279,7 +279,7 @@ diesmann
 {{< /speaker_note >}}
 
 ---
-### Explotiation d'un timing précis
+### Exploitation d'un timing précis
 
 {{< figure src="https://laurentperrinet.github.io/publication/kremkow-16/featured.png" title="[[Kremkow *et al*, 2016](https://laurentperrinet.github.io/publication/kremkow-16/)]" width="90%" >}}
 
