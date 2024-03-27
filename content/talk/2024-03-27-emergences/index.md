@@ -32,8 +32,6 @@ publication_types:
 - '1'
 ---
 
-#Analyser de larges volumes de données neurobiologiques : modèles émergents bio-inspirés
-
-* https://neurosciences.umontreal.ca/wp-content/uploads/sites/6/2024/02/conferenceNikon_Laurent_Perrinet.pdf
+# Analyser de larges volumes de données neurobiologiques : modèles émergents bio-inspirés
 
 * Related papers {{< cite page="/publication/kremkow-16" view="4" >}}{{< cite page="/publication/grimaldi-23" view="4" >}} {{< cite page="/publication/grimaldi-23-bc" view="4" >}}{{< cite page="/publication/ladret-23" view="4" >}}
