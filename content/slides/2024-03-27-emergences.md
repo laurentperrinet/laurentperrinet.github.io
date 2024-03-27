@@ -114,7 +114,7 @@ une aire, à plusieures aires mesoscopique (parler taille cerveau)
 ---
 ### Différentes échelles
 
-{{< figure src="https://laurentperrinet.github.io/talk/2024-03-27-emergences/scales.png" title="[[Chemla *et al*, 2017](https://dx.doi.org/10.1117/1.NPh.4.3.031215)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/talk/2024-03-27-emergences/scales.png" title="[[Chemla *et al*, 2017](https://dx.doi.org/10.1117/1.NPh.4.3.031215)]" width="70%" >}}
 
 
 {{< speaker_note >}}
@@ -187,7 +187,7 @@ manifold churchland
 ---
 ### Méthodes statistiques
 
-{{< figure src="https://hugoladret.github.io/publications/imgs/ladret_et_al_variance_V1_2.png" title="[[Ladret *et al*, 2023](https://laurentperrinet.github.io/publication/ladret-23/)]" width="90%" >}}
+{{< figure src="https://hugoladret.github.io/publications/imgs/ladret_et_al_variance_V1_2.png" title="[[Ladret *et al*, 2023](https://laurentperrinet.github.io/publication/ladret-23/)]" width="80%" >}}
 
 {{< speaker_note >}}
 Pour donner un peu plus de détails, nous avons conduit ce protocole, afin de comprendre comment des neurones visuel à différentes textures dans les images naturelles.
@@ -214,7 +214,7 @@ dans tous ces types d'enregistrement avec plusieurs neurones simultanés, on obs
 ---
 ### ... et au-delà: le décodage
 
-{{< figure src="https://hugoladret.github.io/publications/imgs/ladret_et_al_variance_V1_5.png" title="[[Ladret *et al*, 2023](https://laurentperrinet.github.io/publication/ladret-23/)]" width="90%" >}}
+{{< figure src="https://hugoladret.github.io/publications/imgs/ladret_et_al_variance_V1_6.png" title="[[Ladret *et al*, 2023](https://laurentperrinet.github.io/publication/ladret-23/)]" width="90%" >}}
 
 {{< speaker_note >}}
 Une autre méthode consiste à utiliser un procédé de décodage qui va appliquer un modèle d'apprentissage machine sur l'ensemble des données. Ici, nous avons utilisé une simple régression logistique. Première incursion dans le machine learning.
@@ -325,25 +325,10 @@ thorpe
 
 {{< figure width="70%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/scheme_thorpe.jpg" title="[[Thorpe (2001)]](https://laurentperrinet.github.io/2022-01-12_NeuroCercle/#/2/1)" >}}
 
-
 {{< speaker_note >}}
-thorpe
-{{< /speaker_note >}}
-
----
-### Latences et rapidité
-
-{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency_bg.jpg" title="Visual latencies ([see review](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))." width="75%" >}}
-
-{{< speaker_note >}}
-**1 MINUTE**
-
-- In particular in our group, we are interested in dynamics of neural processing
-
 - The visual system is very efficient in generating a decision from the retinal image to the different stages of the visual pathways, here for a macaque monkey, a reaction of finger muscles in about 300 milliseconds.
 
 - the process of categorizing an object takes 10 layers
-
 {{< /speaker_note >}}
 
 ---
@@ -488,10 +473,13 @@ spiking motifs
 {{% fragment %}} <img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/THC_N_pre.svg" width="31%">     {{% /fragment %}}
 {{% fragment %}} <img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/THC_N_SM_time.svg" width="31%"> {{% /fragment %}}
 
+[LP (2023)](https://laurentperrinet.github.io/publication/perrinet-23-icann/)
+
 {{< speaker_note >}}
 This was a toy example and let's now quantify the performance of this method in real scale settings by measuring the accuracy of finding the right SM at the right time. For this we will compare our method to a classical approach using the correlation. 
 First, by increasing the number of motifs, we show that the accuracy of our method (in blue) is very high and outperforms the cross-correlation method (red), in particular as the number of SMs increases. The same trend is shown also when the number of presynaptic inputs increases from a low to a high dimension. Finally, the number of possible delays is a crucial parameter and enough heterogenous delays are necessary to reach a good performance.
 {{< /speaker_note >}}
+
 
 </section>
 
