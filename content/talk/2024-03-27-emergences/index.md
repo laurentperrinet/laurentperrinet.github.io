@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Analyser de larges volumes de données neurobiologiques : modèles émergents bio-inspirés"
-subtitle: "*Seminar at *the Emergences workshop, Autrans, France*"
+subtitle: "Seminar at the *Emergences workshop, Autrans, France*"
 authors:
 - Laurent U Perrinet
 tags: []
