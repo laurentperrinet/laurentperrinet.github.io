@@ -139,7 +139,7 @@ Ian H Stevenson & Konrad P Kording
 ---
 ### Vers des données massives
 
-{{< figure src="https://www.ucl.ac.uk/neuropixels/sites/neuropixels/files/styles/medium_image/public/neuropixels_1_and_2.png" title="[[Stevenson and Kording, 2011](https://www.ucl.ac.uk/neuropixels/)]" width="80%" >}}
+{{< figure src="https://www.ucl.ac.uk/neuropixels/sites/neuropixels/files/styles/medium_image/public/neuropixels_1_and_2.png" title="[[Steinmetz *et al*, 2017](https://www.ucl.ac.uk/neuropixels/)]" width="80%" >}}
 
 
 {{< speaker_note >}}
