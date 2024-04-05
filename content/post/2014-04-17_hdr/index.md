@@ -19,7 +19,7 @@ Quoi: “Codage prédictif dans les transformations visuo-motrices”
 
 
 * {{< cite page="/publication/perrinet-14-hdr" view="4" >}}
-* Voir une extension dans {{< cite page="/publication/perrinet-20-dr/" view="4" >}}
+* Voir une extension dans {{< cite page="/publication/perrinet-20-dr" view="4" >}}
 
 Lieu: salle Henri Gastaut, au rez de chaussée de l'INT  (how to [get there](http://www.int.univ-amu.fr/contact))
 
