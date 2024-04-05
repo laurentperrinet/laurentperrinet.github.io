@@ -11,7 +11,7 @@ grants:
 - facets
 publication: '*FENS*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - motion detection
 title: 'Input-output transformation in the visuo-oculomotor loop: modeling the ocular

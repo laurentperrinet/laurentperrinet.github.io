@@ -51,7 +51,7 @@ grants:
 projects: []
 publication: '*Curves and Surfaces 2018, Arcachon*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - deep-learning
 - sparse coding

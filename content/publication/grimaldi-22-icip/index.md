@@ -35,7 +35,7 @@ links:
 projects: []
 publication: '*Proceedings of ICIP 2022*'
 publication_types:
-- '1'
+- 'inproceedings'
 publishDate: '2022-06-21T08:00:50.371310Z'
 subtitle: ''
 tags:

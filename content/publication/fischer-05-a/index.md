@@ -20,7 +20,7 @@ grants:
 - facets
 publication: '*Microtechnologies for the New Millennium 2005*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - area-v1
 - Biologically Inspired Computer vision

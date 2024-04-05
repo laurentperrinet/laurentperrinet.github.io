@@ -41,7 +41,7 @@ grants:
 - facets-itn
 publication: '*Proceedings of AREADNE, 2008*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - Bayesian model
 - center-surround interactions

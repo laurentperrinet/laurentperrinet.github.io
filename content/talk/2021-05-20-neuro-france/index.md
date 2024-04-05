@@ -29,7 +29,7 @@ lastmod: 2021-07-12 16:15:38+02:00
 projects: []
 publication: '*NeuroFrance 2021*'
 publication_types:
-- '1'
+- 'inproceedings'
 subtitle: ''
 tags:
 - area-v1

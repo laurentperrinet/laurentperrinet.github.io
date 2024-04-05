@@ -34,7 +34,7 @@ grants:
 - facets
 publication: '*Perception*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - Bayesian model
 - motion detection

@@ -30,7 +30,7 @@ image:
 projects: []
 publishDate: '2023-05-10T09:25:10.644867Z'
 publication_types:
-- '1'
+- 'inproceedings'
 
 publication: '*NeuroSchool PhD Program in Neuroscience*'
 

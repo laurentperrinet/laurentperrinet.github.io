@@ -35,7 +35,7 @@ grants:
 - facets
 publication: '*Perception*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - log-gabor
 title: Modeling of simple cells through a sparse overcomplete gabor wavelet representation

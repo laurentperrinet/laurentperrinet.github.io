@@ -16,7 +16,7 @@ grants:
 projects: []
 publication: '*Doc2AMU Doctoral Day - 2017-10-13*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - deep-learning
 - sparse coding

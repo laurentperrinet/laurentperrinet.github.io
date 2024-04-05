@@ -10,7 +10,7 @@ grants:
 projects: []
 publication: '*Proceedings of ECVP*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - eye movements
 - Smooth pursuit eye movement

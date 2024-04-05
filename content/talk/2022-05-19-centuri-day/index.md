@@ -11,7 +11,7 @@ grants:
 - aprovis3D
 publication: '*second CENTURI Scientific Day*'
 publication_types:
-- '1'
+- 'inproceedings'
 title: "Polychrony detection using heterogeneous delays"
 event_url: https://centuri-livingsystems.org/events/centuri-scientific-day-3/
 tags:

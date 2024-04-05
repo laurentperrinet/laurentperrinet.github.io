@@ -20,7 +20,7 @@ grants:
 - brain-scales
 publication: '*Biologically Inspired Computer Vision*'
 publication_types:
-- '6'
+- 'inbook'
 tags:
 - Biologically Inspired Computer vision
 title: Introduction

@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2023-09-10T15:59:14.546901Z'
 publication_types:
-- '1'
+- 'inproceedings'
 abstract: ''
 publication: '*ICANN Special Session on Recent Advances in Spiking Neural Networks*'
 

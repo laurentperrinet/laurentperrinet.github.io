@@ -27,7 +27,7 @@ grants:
 - facets
 publication: '*1ère conférence francophone NEUROsciences COMPutationnelles (NeuroComp)*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - Aperture problem
 - Bayesian model

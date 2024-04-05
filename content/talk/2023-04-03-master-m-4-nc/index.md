@@ -31,7 +31,7 @@ image:
 
 publishDate: '2023-03-29T10:47:11.113238Z'
 publication_types:
-- '1'
+- 'inproceedings'
 abstract: Visual areas are essential in transforming the raw luminous signal into
   a representation which efficiently conveys information about the environment. This
   process is constrained by various factors such as a wide variety of changes in the

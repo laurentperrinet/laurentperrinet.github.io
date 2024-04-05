@@ -36,7 +36,7 @@ image:
 projects: []
 publishDate: '2022-06-16T11:51:41.890310Z'
 publication_types:
-- '1'
+- 'inproceedings'
 abstract: ''
 publication: '*MIR Symposium 2022 bio-inspired & Marine Robotics*'
 ---

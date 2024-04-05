@@ -25,7 +25,7 @@ grants:
 projects: []
 publication: '*GDR Vision, Paris, 2018*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - area-v1
 - deep-learning

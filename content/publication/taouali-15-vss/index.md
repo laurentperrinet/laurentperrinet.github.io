@@ -52,7 +52,7 @@ grants:
 projects: []
 publication: '*Proceedings of VSS*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - coding decoding
 title: A dynamic model for decoding direction and orientation in macaque primary visual

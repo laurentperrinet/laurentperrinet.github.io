@@ -29,7 +29,7 @@ image:
 projects: []
 publishDate: '2024-03-26T07:59:44.385734Z'
 publication_types:
-- '1'
+- 'inproceedings'
 ---
 
 # Analyser de larges volumes de données neurobiologiques : modèles émergents bio-inspirés

@@ -17,7 +17,7 @@ location: Everywhere (World)
 projects: []
 publication: '*Society for Mathematical Biology * 2021*'
 publication_types:
-- '1'
+- 'inproceedings'
 subtitle: ''
 tags: []
 title: Pooling in a predictive model of V1 explains functional and structural diversity

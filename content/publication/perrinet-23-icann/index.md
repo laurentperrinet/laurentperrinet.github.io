@@ -41,7 +41,7 @@ links:
 projects: []
 publication: '*ICANN Special Session on Recent Advances in Spiking Neural Networks*'
 publication_types:
-- '1'
+- 'inproceedings'
 publishDate: '2023-07-21T11:12:04.721342Z'
 subtitle: ''
 tags: []

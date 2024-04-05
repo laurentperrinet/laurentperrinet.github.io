@@ -38,7 +38,7 @@ projects:
 publication: '*Sixteenth Annual Computational Neuroscience Meeting: CNS*2007, Toronto,
   Canada. 7--12 July 2007*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - pynn
 title: 'PyNN: towards a universal neural simulator API in Python'

@@ -23,7 +23,7 @@ projects:
 - courses
 publication: '*Master Neurosciences et Sciences Cognitives*'
 publication_types:
-- '1'
+- 'inproceedings'
 title: 'From the retina to action: Understanding visual processing'
 url_code: https://github.com/laurentperrinet/2020-04_UE-neurosciences-computationnelles
 url_link: https://laurentperrinet.github.io/talk/2020-04-ue-neurosciences-computationnelles

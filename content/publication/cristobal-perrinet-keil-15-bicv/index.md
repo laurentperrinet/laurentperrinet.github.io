@@ -33,7 +33,7 @@ grants:
 - brain-scales
 publication: ''
 publication_types:
-- '5'
+- 'book'
 tags:
 - Biologically Inspired Computer vision
 title: Biologically Inspired Computer Vision

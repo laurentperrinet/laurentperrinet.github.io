@@ -30,7 +30,7 @@ image:
 projects: []
 publishDate: '2024-01-19T07:59:44.385734Z'
 publication_types:
-- '1'
+- 'inproceedings'
 ---
 
 # When brains meet computing machines

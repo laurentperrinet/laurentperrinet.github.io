@@ -29,7 +29,7 @@ image:
 projects: []
 publishDate: '2023-11-06T15:59:14.546901Z'
 publication_types:
-- '1'
+- 'inproceedings'
 abstract: ''
 publication: '*SNUFA: Spiking Neural networks as Universal Function Approximators*'
 links:

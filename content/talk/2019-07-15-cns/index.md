@@ -32,7 +32,7 @@ grants:
 projects: []
 publication: '*CNS*2019 Barcelona, Spain*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - Active Inference
 - Deep Learning

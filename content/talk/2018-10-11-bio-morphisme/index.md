@@ -12,7 +12,7 @@ projects:
 - tout-public
 publication: '**'
 publication_types:
-- '1'
+- 'inproceedings'
 title: La modélisation biomorphique de la perception visuelle
 url_pdf: https://laurentperrinet.github.io/sciblog/files/2018-10-11_BioMorphisme.html
 ---

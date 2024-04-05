@@ -33,7 +33,7 @@ links:
 projects: []
 publication: '*Proceedings of AREADNE*'
 publication_types:
-- '1'
+- 'inproceedings'
 publishDate: '2022-06-16T11:51:41.890310Z'
 subtitle: ''
 tags: []

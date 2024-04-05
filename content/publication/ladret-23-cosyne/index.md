@@ -42,7 +42,7 @@ lastmod: 2023-03-13 12:29:25+01:00
 projects: []
 publication: '*Computational and Systems Neuroscience (Cosyne) 2023*'
 publication_types:
-- '1'
+- 'inproceedings'
 publishDate: '2023-03-13T11:29:25.141921Z'
 subtitle: ''
 tags:

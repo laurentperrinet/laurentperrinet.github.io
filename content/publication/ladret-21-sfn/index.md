@@ -32,7 +32,7 @@ lastmod: 2021-11-08 10:31:18+01:00
 projects: []
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
-- '1'
+- 'inproceedings'
 subtitle: ''
 tags:
 - area-v1

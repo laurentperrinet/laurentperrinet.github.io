@@ -39,7 +39,7 @@ grants:
 - anr-speed
 publication: '*Journal of Vision, Vol.18, 345, proceedings of VSS*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - motion detection
 title: Speed uncertainty and motion perception with naturalistic random textures

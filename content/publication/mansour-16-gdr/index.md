@@ -11,7 +11,7 @@ grants:
 projects: []
 publication: '*GDR Vision, Toulouse, Nov 3rd, 2016*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - eye movements
 - motion detection

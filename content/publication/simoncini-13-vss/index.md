@@ -30,7 +30,7 @@ grants:
 projects: []
 publication: '*VSS Conference Abstract*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - eye movements
 - motion detection

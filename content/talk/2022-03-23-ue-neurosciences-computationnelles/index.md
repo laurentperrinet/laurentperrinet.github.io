@@ -10,7 +10,7 @@ projects:
 - courses
 publication: '*Master 1 Neurosciences et Sciences Cognitives*'
 publication_types:
-- '1'
+- 'inproceedings'
 title: "Réseaux de neurones artificiels et apprentissage machine appliqués à la compréhension de la vision"
 url_code: https://github.com/laurentperrinet/2022_UE-neurosciences-computationnelles
 slides: "2022-03-23_ue-neurosciences-computationnelles"

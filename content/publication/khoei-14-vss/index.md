@@ -36,7 +36,7 @@ grants:
 projects: []
 publication: '*Journal of Vision*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - motion detection
 - motion prediction

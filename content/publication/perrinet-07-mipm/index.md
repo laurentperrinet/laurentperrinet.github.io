@@ -19,7 +19,7 @@ grants:
 publication: '*Mathematical image processing meeting (Marseille, France) September
   5, 2007*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - unsupervised learning
 title: Neural Codes for Adaptive Sparse Representations of Natural Images

@@ -34,7 +34,7 @@ projects: []
 publication: '*IEEE International Joint Conference on Neural Networks (IJCNN) 2014
   Beijing, China*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - Bayesian model
 - motion detection

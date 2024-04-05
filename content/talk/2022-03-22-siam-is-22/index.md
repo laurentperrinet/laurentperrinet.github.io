@@ -30,7 +30,7 @@ image:
 projects: []
 publishDate: '2021-10-12T10:44:45.446866Z'
 publication_types:
-- '1'
+- 'inproceedings'
 abstract: In most mammals, the primary visual cortex (V1) processes complex mixtures
   of orientations to construct an accurate neural representation of our visual environment.
   Sparse coding has been used to model the emergence of orientation-selective localized

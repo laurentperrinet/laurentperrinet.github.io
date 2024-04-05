@@ -36,7 +36,7 @@ image:
 projects: []
 publishDate: '2022-05-20T10:34:17.824678Z'
 publication_types:
-- '1'
+- 'inproceedings'
 abstract: ''
 publication: '*NeuroVision Workshop in conjunction with CVPR 2022*'
 links:

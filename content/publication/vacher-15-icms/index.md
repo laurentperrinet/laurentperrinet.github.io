@@ -12,7 +12,7 @@ projects:
 - motion-clouds
 publication: '*ICMS 2015 conference*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - motion-clouds
 - psychophysics

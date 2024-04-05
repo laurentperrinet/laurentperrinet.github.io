@@ -26,7 +26,7 @@ lastmod: 2023-04-07 12:45:44+02:00
 projects: []
 publication: '*ICLR 2023 SNN Workshop*'
 publication_types:
-- '1'
+- 'inproceedings'
 publishDate: '2023-04-07T10:45:44.753196Z'
 subtitle: ''
 tags:

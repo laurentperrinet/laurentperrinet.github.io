@@ -12,7 +12,7 @@ grants:
 projects: []
 publication: '*Annual Computational Neuroscience Meeting: CNS*2013, Paris*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - Bayesian model
 - motion detection

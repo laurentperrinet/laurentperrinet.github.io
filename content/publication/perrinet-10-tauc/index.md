@@ -13,7 +13,7 @@ featured: false
 publication: '*LADISLAV TAUC and GDR MSPC NEUROSCIENCES CONFERENCE, From Mathematical
   Image Analysis to Neurogeometry of the Brain*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - Bayesian model
 - center-surround interactions

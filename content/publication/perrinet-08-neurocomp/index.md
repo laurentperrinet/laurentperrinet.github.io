@@ -8,7 +8,7 @@ grants:
 - facets-itn
 publication: '*Proceedings of NeuroComp08, Marseille*'
 publication_types:
-- '5'
+- 'book'
 tags:
 - computational neuroscience
 title: Proceedings of the second french conference on Computational Neuroscience,

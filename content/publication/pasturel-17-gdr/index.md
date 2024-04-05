@@ -11,7 +11,7 @@ grants:
 projects: []
 publication: '*GDR Vision, Lille, 2017*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - Bayesian model
 - motion detection

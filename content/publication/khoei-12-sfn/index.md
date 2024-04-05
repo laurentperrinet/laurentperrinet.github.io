@@ -10,7 +10,7 @@ grants:
 projects: []
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - Bayesian model
 - motion prediction

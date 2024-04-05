@@ -16,7 +16,7 @@ lastmod: 2020-12-21 12:51:20+01:00
 projects: []
 publication: '*IWAI 2020*'
 publication_types:
-- '1'
+- 'inproceedings'
 subtitle: ''
 tags:
 - Active Inference

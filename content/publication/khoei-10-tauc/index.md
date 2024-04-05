@@ -11,7 +11,7 @@ grants:
 projects: []
 publication: '*Proceedings of Tauc*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - Bayesian model
 - center-surround interactions

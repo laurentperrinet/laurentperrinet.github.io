@@ -37,7 +37,7 @@ grants:
 projects: []
 publication: '*GDR Vision, Lille, 2017*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - eye movements
 - motion detection

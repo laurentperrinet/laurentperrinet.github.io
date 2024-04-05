@@ -11,7 +11,7 @@ grants:
 projects: []
 publication: '*Biologically Inspired Computer Vision*'
 publication_types:
-- '6'
+- 'inbook'
 tags:
 - Biologically Inspired Computer vision
 title: Visual motion processing and human tracking behavior

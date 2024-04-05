@@ -17,7 +17,7 @@ lastmod: 2021-10-12 13:44:14+02:00
 projects: []
 publication: '*Champalimaud Research Symposium (CRS21)*'
 publication_types:
-- '1'
+- 'inproceedings'
 subtitle: ''
 tags:
 - decoding

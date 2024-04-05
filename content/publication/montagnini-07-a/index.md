@@ -25,7 +25,7 @@ grants:
 - facets-itn
 publication: '*Perception 36 ECVP Abstract Supplement*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - motion detection
 title: Dynamic inference for motion tracking

@@ -39,7 +39,7 @@ lastmod: 2023-07-21 13:12:04+02:00
 projects: []
 publication: '*Bernstein Conference 2022*'
 publication_types:
-- '1'
+- 'inproceedings'
 publishDate: '2023-07-21T11:11:54.651024Z'
 subtitle: ''
 tags: []

@@ -30,7 +30,7 @@ image:
 projects: []
 publishDate: '2024-04-05T08:22:04.452494Z'
 publication_types:
-- '1'
+- 'inproceedings'
 abstract: Recently, there has been an increase in interest in exploring the hypothesis
   that neural activity conveys information through precise spiking motifs. To investigate
   this phenomenon, several algorithms have been proposed to detect such motifs in

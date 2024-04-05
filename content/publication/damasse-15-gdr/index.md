@@ -11,7 +11,7 @@ grants:
 projects: []
 publication: '*Proceedings of GDR Vision (Lyon, France)*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - eye movements
 - Smooth pursuit eye movement

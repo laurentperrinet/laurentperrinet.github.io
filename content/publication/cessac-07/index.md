@@ -11,7 +11,7 @@ grants:
 publication: '*Topics in Dynamical Neural Networks: From Large Scale Neural Networks
   to Motor Control and Vision*'
 publication_types:
-- '5'
+- 'book'
 tags:
 - computational neuroscience
 title: 'Topics in Dynamical Neural Networks: From Large Scale Neural Networks to Motor

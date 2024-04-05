@@ -11,7 +11,7 @@ grants:
 - facets
 publication: '*Perception*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - retina
 title: Contrast sensitivity adaptation in a virtual spiking retina and its adequation

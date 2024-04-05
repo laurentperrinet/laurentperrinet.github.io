@@ -23,7 +23,7 @@ grants:
 projects: []
 publication: '*Proceedings of NeuroComp*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - lateral connections
 title: Phase space analysis of networks based on biologically realistic parameters

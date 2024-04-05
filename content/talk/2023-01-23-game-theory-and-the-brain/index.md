@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2023-01-24T10:51:27.451314Z'
 publication_types:
-- '1'
+- 'inproceedings'
 abstract: ''
 publication: '*Atelier jeu et cerveau - M2 MASCO*'
 links:

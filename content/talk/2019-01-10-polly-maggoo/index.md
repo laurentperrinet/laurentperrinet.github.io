@@ -15,7 +15,7 @@ projects:
 - tout-public
 publication: '**'
 publication_types:
-- '1'
+- 'inproceedings'
 title: Rencontre avec les collégiens marseillais
 url_pdf: https://laurentperrinet.github.io/talk/2019-01-10-polly-maggoo/
 ---

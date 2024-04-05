@@ -38,7 +38,7 @@ grants:
 projects: []
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - area-v1
 title: Orientation selectivity to synthetic natural patterns in a cortical-like model

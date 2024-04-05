@@ -10,7 +10,7 @@ grants:
 projects: []
 publication: '*FENS Abstract*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - lateral connections
 title: Dynamics of cortical networks based on patchy connectivity patterns

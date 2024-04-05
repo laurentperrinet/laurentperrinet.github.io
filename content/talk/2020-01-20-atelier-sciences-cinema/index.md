@@ -25,7 +25,7 @@ projects:
 - tout-public
 publication: '*Cinéma et sciences  = rencontre avec les élèves du lycée des métiers*'
 publication_types:
-- '1'
+- 'inproceedings'
 slides: https://laurentperrinet.github.io/2020-01-20_atelier_sciences_cinema
 title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
 code: https://github.com/laurentperrinet/2020-01-20_atelier_sciences_cinema/

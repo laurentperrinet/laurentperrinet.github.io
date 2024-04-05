@@ -29,7 +29,7 @@ lastmod: 2021-07-12 15:52:49+02:00
 projects: []
 publication: '*DynamicsDays - XL*'
 publication_types:
-- '1'
+- 'inproceedings'
 subtitle: ''
 tags:
 - area-v1

@@ -30,7 +30,7 @@ grants:
 location: Ghent (Belgium), gone virtual
 publication: '*IWAI 2020*'
 publication_types:
-- '1'
+- 'inproceedings'
 title: Visual search as active inference
 url_code: https://github.com/laurentperrinet/2020-09-14_IWAI/
 url_pdf: https://whova.com/embedded/subsession/ecmlp_202009/1215095/1215123/

@@ -20,7 +20,7 @@ grants:
 projects: []
 publication: '*2016 6th European Workshop on Visual Information Processing (EUVIP)*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - Biologically Inspired Computer vision
 - Image texture

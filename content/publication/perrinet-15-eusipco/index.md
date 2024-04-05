@@ -21,7 +21,7 @@ grants:
 projects: []
 publication: '*European Signal Processing Conference 2015 (EUSIPCO 2015)*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - association field
 - Biologically Inspired Computer vision

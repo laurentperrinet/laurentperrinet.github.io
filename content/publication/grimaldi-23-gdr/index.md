@@ -32,7 +32,7 @@ links:
 projects: []
 publication: '*GDR Vision, Toulouse, 2023*'
 publication_types:
-- '1'
+- 'inproceedings'
 publishDate: '2023-03-22T15:35:38.869745Z'
 subtitle: ''
 tags: []

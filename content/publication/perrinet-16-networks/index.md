@@ -27,7 +27,7 @@ grants:
 projects: []
 publication: '*Complex Networks: from theory to interdisciplinary applications*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - active inference
 title: Compensation of oculomotor delays in the visual system's network

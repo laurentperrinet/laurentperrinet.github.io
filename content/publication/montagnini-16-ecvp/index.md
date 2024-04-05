@@ -11,7 +11,7 @@ grants:
 projects: []
 publication: '*Proceedings of ECVP*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - eye movements
 title: 'Effects of motion predictability on anticipatory and visually-guided eye movements:

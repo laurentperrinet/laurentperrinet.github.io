@@ -30,7 +30,7 @@ lastmod: 2023-09-05 10:59:11+02:00
 projects: []
 publication: '*International Conference on Computer Vision 2023 (ICCV2023)*'
 publication_types:
-- '1'
+- 'inproceedings'
 publishDate: '2023-09-05T08:59:11.517138Z'
 subtitle: ''
 tags:

@@ -19,7 +19,7 @@ grants:
 - facets
 publication: '*Fifteenth Annual Computational Neuroscience Meeting: CNS*2006*'
 publication_types:
-- '1'
+- 'inproceedings'
 tags:
 - unsupervised learning
 title: An efficiency razor for model selection and adaptation in the primary visual

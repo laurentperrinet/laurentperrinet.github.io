@@ -32,7 +32,7 @@ lastmod: 2022-05-11 12:51:44+02:00
 projects: []
 publication: '*IJCNN 2022 : International Joint Conference on Neural Networks*'
 publication_types:
-- '1'
+- 'inproceedings'
 subtitle: ''
 tags: []
 title: 'What You See Is What You Transform: Foveated Spatial Transformers as a Bio-Inspired
