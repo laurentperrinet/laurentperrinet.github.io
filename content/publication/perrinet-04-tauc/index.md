@@ -26,7 +26,7 @@ grants:
 - facets
 publication: '*Journal of Physiology-Paris*'
 publication_types:
-- '2'
+- article-journal
 tags:
 - Bayesian model
 - coding decoding

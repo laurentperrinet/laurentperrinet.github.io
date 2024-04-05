@@ -19,7 +19,7 @@ lastmod: 2022-11-17 12:15:57+01:00
 projects: []
 publication: '*Biological Cybernetics*'
 publication_types:
-- '2'
+- article-journal
 publishDate: '2022-11-17T11:15:57.623607Z'
 subtitle: ''
 tags:

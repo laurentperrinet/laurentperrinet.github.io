@@ -27,7 +27,7 @@ grants:
 projects: []
 publication: '*Journal of Computational Neuroscience*'
 publication_types:
-- '2'
+- article-journal
 tags:
 - center-surround interactions
 - coding decoding

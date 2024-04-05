@@ -16,7 +16,7 @@ doi: 10.1.1.18.4990
 featured: false
 publication: '*Neurocomputing*'
 publication_types:
-- '2'
+- article-journal
 tags:
 - stdp
 title: 'Network of integrate-and-fire neurons using Rank Order Coding B: spike timing

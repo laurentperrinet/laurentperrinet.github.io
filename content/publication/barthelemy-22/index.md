@@ -48,7 +48,7 @@ lastmod: 2022-06-30 08:54:01+03:00
 projects: []
 publication: '*eNeuro*'
 publication_types:
-- '2'
+- article-journal
 publishDate: '2022-06-30T05:54:01.160596Z'
 subtitle: ''
 tags:

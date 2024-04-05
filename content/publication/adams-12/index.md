@@ -27,7 +27,7 @@ doi: 10.1371/journal.pone.0047502
 featured: false
 publication: '*PLoS ONE*'
 publication_types:
-- 'article'
+- article-journal
 tags:
 - active inference
 - Bayesian model

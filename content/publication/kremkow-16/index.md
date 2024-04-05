@@ -32,7 +32,7 @@ grants:
 projects: []
 publication: '*Frontiers in Neural Circuits*'
 publication_types:
-- '2'
+- article-journal
 tags:
 - area-v1
 - statistics of natural images

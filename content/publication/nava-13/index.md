@@ -22,7 +22,7 @@ featured: false
 publication: '*Progress in Pattern Recognition, Image Analysis, Computer Vision, and
   Applications*'
 publication_types:
-- '2'
+- article-journal
 tags:
 - Biologically Inspired Computer vision
 - Image texture

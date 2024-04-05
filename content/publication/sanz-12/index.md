@@ -24,7 +24,7 @@ grants:
 projects: []
 publication: '*Journal of Neurophysiology*'
 publication_types:
-- '2'
+- article-journal
 tags:
 - log-gabor
 - motion-clouds

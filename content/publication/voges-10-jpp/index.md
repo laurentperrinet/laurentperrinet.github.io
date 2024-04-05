@@ -25,7 +25,7 @@ grants:
 projects: []
 publication: '*Journal of Physiology-Paris*'
 publication_types:
-- '2'
+- article-journal
 tags:
 - area-v1
 - association field

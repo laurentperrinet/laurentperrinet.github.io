@@ -22,7 +22,7 @@ projects:
 publication: ''
 publication_short: In *ICMEW*
 publication_types:
-- '2'
+- article-journal
 tags:
 - '"active inference"'
 - '"aperture problem"'

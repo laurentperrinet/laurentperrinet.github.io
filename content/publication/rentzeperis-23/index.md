@@ -20,7 +20,7 @@ projects:
 - anr-runbinvase
 publication: '*PLOS Computational Biology*'
 publication_types:
-- '2'
+- article-journal
 publishDate: '2022-06-16T11:51:41.890310Z'
 show_authors_only: false
 subtitle: ''

@@ -25,7 +25,7 @@ grants:
 projects: []
 publication: '*Nature Neuroscience*'
 publication_types:
-- '2'
+- article-journal
 tags:
 - eye movements
 - motion detection

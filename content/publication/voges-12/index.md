@@ -33,7 +33,7 @@ grants:
 projects: []
 publication: '*Frontiers in Computational Neuroscience*'
 publication_types:
-- '2'
+- article-journal
 tags:
 - lateral connections
 title: Complex dynamics in recurrent cortical networks based on spatially realistic

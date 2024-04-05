@@ -33,7 +33,7 @@ grants:
 - facets
 publication: '*International Journal of Computer Vision*'
 publication_types:
-- '2'
+- article-journal
 tags:
 - Biologically Inspired Computer vision
 - log-gabor

@@ -27,7 +27,7 @@ grants:
 - facets-itn
 publication: '*Neuro-Computation: From Sensorimotor Integration to Computational Frameworks*'
 publication_types:
-- '2'
+- article-journal
 tags:
 - Bayesian model
 title: Bayesian modeling of dynamic motion integration

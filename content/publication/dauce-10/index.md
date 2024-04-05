@@ -18,7 +18,7 @@ doi: 10.1016/j.jphysparis.2009.11.001
 featured: false
 publication: '*Journal of Physiology-Paris*'
 publication_types:
-- '2'
+- article-journal
 tags:
 - computational neuroscience
 title: Computational Neuroscience, from Multiple Levels to Multi-level

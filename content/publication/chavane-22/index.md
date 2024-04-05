@@ -29,7 +29,7 @@ grants:
 projects: []
 publication: '*Brain Structure and Function*'
 publication_types:
-- '2'
+- article-journal
 tags:
 - area-v1
 title: 'Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards

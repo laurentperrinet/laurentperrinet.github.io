@@ -43,7 +43,7 @@ links:
 projects: []
 publication: '*In revision*'
 publication_types:
-- '2'
+- article-journal
 subtitle: ''
 tags:
 - efficient coding

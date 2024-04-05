@@ -26,7 +26,7 @@ doi: 10.1162/neco.2010.05-08-795
 featured: false
 publication: '*Neural Computation*'
 publication_types:
-- '2'
+- article-journal
 tags:
 - association field
 - coding decoding

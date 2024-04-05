@@ -43,7 +43,7 @@ lastmod: 2022-05-11 09:32:04+02:00
 projects: []
 publication: '*Vision*'
 publication_types:
-- '2'
+- article-journal
 subtitle: ''
 tags:
 - classification

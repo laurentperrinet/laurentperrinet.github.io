@@ -28,7 +28,7 @@ grants:
 projects: []
 publication: '*Nature Communications Biology*'
 publication_types:
-- '2'
+- article-journal
 tags:
 - decoding
 - orientation

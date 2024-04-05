@@ -36,7 +36,7 @@ projects:
 - open-science
 publication: '*Frontiers in Neuroinformatics*'
 publication_types:
-- '2'
+- article-journal
 tags:
 - computational neuroscience
 - pynn

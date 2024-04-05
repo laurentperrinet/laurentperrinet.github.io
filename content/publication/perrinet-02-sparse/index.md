@@ -8,7 +8,7 @@ doi: 10.1016/j.neucom.2004.01.010
 featured: false
 publication: '*Neurocomputing*'
 publication_types:
-- '2'
+- article-journal
 tags:
 - association field
 - matching pursuit

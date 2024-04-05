@@ -33,7 +33,7 @@ grants:
 projects: []
 publication: '*Neural Computation*'
 publication_types:
-- '2'
+- article-journal
 tags:
 - Bayesian model
 - motion detection

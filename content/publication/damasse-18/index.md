@@ -13,7 +13,7 @@ grants:
 projects: []
 publication: '*Journal of Vision*'
 publication_types:
-- '2'
+- article-journal
 tags:
 - eye movements
 title: Reinforcement effects in anticipatory smooth eye movements

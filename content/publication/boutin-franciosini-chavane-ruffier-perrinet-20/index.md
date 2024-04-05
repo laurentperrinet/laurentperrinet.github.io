@@ -37,7 +37,7 @@ grants:
 projects: []
 publication: '*PLoS Computational Biology*'
 publication_types:
-- '2'
+- article-journal
 tags:
 - deep-learning
 - sparse coding

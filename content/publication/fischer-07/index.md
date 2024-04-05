@@ -11,7 +11,7 @@ grants:
 - facets
 publication: '*EURASIP Journal on Advances in Signal Processing*'
 publication_types:
-- '2'
+- article-journal
 tags:
 - association field
 - Biologically Inspired Computer vision

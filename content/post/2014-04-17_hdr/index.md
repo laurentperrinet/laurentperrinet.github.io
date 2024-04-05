@@ -15,7 +15,11 @@ summary: 'J''ai soutenu mon habilitation à diriger des recherche (HDR) le 17 av
 
 Quand: le 17 avril 2014 de 14 H30 à 16 H 30,
 
-Quoi: “Codage prédictif dans les transformations visuo-motrices” {{< cite page="/publication/perrinet-14-hdr" view="4" >}}
+Quoi: “Codage prédictif dans les transformations visuo-motrices” 
+
+
+* {{< cite page="/publication/perrinet-14-hdr" view="4" >}}
+* Voir une extension dans {{< cite page="/publication/perrinet-20-dr/" view="4" >}}
 
 Lieu: salle Henri Gastaut, au rez de chaussée de l'INT  (how to [get there](http://www.int.univ-amu.fr/contact))
 

@@ -37,7 +37,7 @@ grants:
 projects: []
 publication: '*PLoS Computational Biology*'
 publication_types:
-- '2'
+- article-journal
 slides: 2022-11-21_flash-lag-effect
 tags:
 - Bayesian model

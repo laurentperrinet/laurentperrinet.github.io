@@ -28,7 +28,7 @@ grants:
 - facets-itn
 publication: '*Journal of Physiology-Paris*'
 publication_types:
-- '2'
+- article-journal
 tags:
 - Bayesian model
 - center-surround interactions
