@@ -39,4 +39,4 @@ links:
   url: https://github.com/laurentperrinet/2020-01-07_CNRS_concours-DR
 ---
 
-* Suite de mes travaus d'habilitation à diriger des recherches (HDR) sur le thème de la vision comme processus prédictif. {{< cite page="/publication/perrinet-14-hdr" view="4" >}}
+* Suite de mes travaux d'habilitation à diriger des recherches (HDR) sur le thème de la vision comme processus prédictif. {{< cite page="/publication/perrinet-14-hdr" view="4" >}}
