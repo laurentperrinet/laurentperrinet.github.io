@@ -5,7 +5,7 @@ date: 2003-01-01
 featured: false
 publication: ''
 publication_types:
-- '7'
+- 'thesis'
 tags:
 - lateral connections
 - rank-order-coding
