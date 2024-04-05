@@ -29,8 +29,7 @@ image:
 projects: []
 publishDate: '2024-04-05T08:38:46.355166Z'
 publication_types:
-- 'thesisk
-'
+- 'thesis'
 abstract: ''
 publication: ''
 links:

@@ -13,7 +13,7 @@ projects:
 - motion-clouds
 publication: ''
 publication_types:
-- 'pr'
+- 'preprint'
 tags:
 - Biologically Inspired Computer vision
 - Image texture

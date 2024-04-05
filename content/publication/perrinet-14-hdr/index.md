@@ -38,4 +38,4 @@ links:
 ---
 
 * {{< cite page="/post/2014-04-17_hdr" view="4" >}}
-* Voir une extension dans {{< cite page="/publication/perrinet-20-dr/" view="4" >}}
+* Voir une extension dans {{< cite page="/publication/perrinet-20-dr" view="4" >}}
