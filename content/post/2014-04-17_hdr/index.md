@@ -17,9 +17,9 @@ Quand: le 17 avril 2014 de 14 H30 à 16 H 30,
 
 Quoi: “Codage prédictif dans les transformations visuo-motrices”.
 
-Lieu:  salle Henri Gastaut, au rez de chaussée de l'INT  (how to [get there](http://www.int.univ-amu.fr/contact))
+Lieu: salle Henri Gastaut, au rez de chaussée de l'INT  (how to [get there](http://www.int.univ-amu.fr/contact))
 
-La soutenance est suivie d’un pot au R+4 de l’[Institut de Neurosciences de la Timone](http://www.int.univ-amu.fr/?lang=en) (how to [get there](http://www.int.univ-amu.fr/contact))
+La soutenance a été suivie d’un pot au R+4 de l’[Institut de Neurosciences de la Timone](http://www.int.univ-amu.fr/?lang=en) (how to [get there](http://www.int.univ-amu.fr/contact))
 
 
 ## Jury
