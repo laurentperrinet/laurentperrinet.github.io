@@ -10,7 +10,7 @@ tags: []
 categories: []
 date: '2023-01-23'
 lastmod: 2023-01-24T11:51:28+01:00
-featured: true
+featured: false
 draft: false
 
 slides: "2023-01-23_game-theory-and-the-brain"
