@@ -9,7 +9,7 @@
 date: '2024-04-10'
 all_day: false
 
-# Schedule page publish date (NOT talk date).
+## Schedule page publish date (NOT talk date).
 publishDate: "2024-03-29T12:47:11+02:00"
 
 title: 2024-04-10-ue-neurosciences-computationnelles
@@ -19,7 +19,7 @@ summary: Artificial neural networks and machine learning applied to the understa
 ---
 <section>
 
-# [Artificial neural networks and machine learning applied to the understanding of biological vision](https://laurentperrinet.github.io/slides/2024-04-10-ue-neurosciences-computationnelles/?transition=fade)
+## [Artificial neural networks and machine learning applied to the understanding of biological vision](https://laurentperrinet.github.io/slides/2024-04-10-ue-neurosciences-computationnelles/?transition=fade)
 ####	*[Laurent Perrinet](https://laurentperrinet.github.io)*
 ####	<u>[[2024-04-10]](https://ametice.univ-amu.fr/course/view.php?id=95116) [Master 1 Neurosciences et Sciences Cognitives.](https://sciences.univ-amu.fr/fr/formation/masters/master-neurosciences)</u>
 
@@ -40,7 +40,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 <section>
 
-# Principles of Vision
+## Principles of Vision
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
@@ -52,7 +52,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 ---
 
 
-## What is the function of vision?
+### What is the function of vision?
 
 {{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_001.jpg" title="[An Unexpected Visitor (Ilya Repin, 1884)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
 
@@ -65,7 +65,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 ---
 
-## What is the function of vision?
+### What is the function of vision?
 
 {{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_002.jpg" title="[An Unexpected Visitor (Yarbus, 1965)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
 
@@ -77,7 +77,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 ---
 
-## What is the function of vision?
+### What is the function of vision?
 
 {{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_003.jpg" title="[An Unexpected Visitor - *Age?* (Yarbus, 1965)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
 
@@ -89,7 +89,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 ---
 
-## What is the function of vision?
+### What is the function of vision?
 
 {{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_006.jpg" title="[An Unexpected Visitor - *How long?* (Yarbus, 1965)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
 
@@ -101,7 +101,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 ---
 
-## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
+### [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
 
 
 {{< video src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Kitaoka.mp4" controls="yes" width="80%" >}}
@@ -109,13 +109,13 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 ---
 
-## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
+### [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion_without.svg" title="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" width="70%" >}}
 
 ---
 
-## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
+### [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion.svg" title="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" width="70%" >}}
 
@@ -125,25 +125,25 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 ---
 
-## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
+### [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg" title="[Rotating Snakes *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)" width="70%" >}}
 
 ---
 
-## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
+### [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Face-on-mars.jpg" title="[Cydonia Mensae (1976) *Viking Orbiter image*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
 
 ---
 
-## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
+### [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_low.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
 
 ---
 
-## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
+### [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_high.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
 
@@ -151,7 +151,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 ---
 
 
-## Principles of vision?
+### Principles of vision?
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
@@ -164,45 +164,45 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 <section>
 
-# Computational neuroscience of vision
+## Computational neuroscience of vision
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
 
 ---
 
-## Computational neuroscience of vision
+### Computational neuroscience of vision
 
 {{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Churchland92.png" title="[[Sejnowski, Koch & Churchland (1998)](http://www.hms.harvard.edu/bss/neuro/bornlab/nb204/papers/sejnowski-koch-churchland-science1988.pdf)]" width="50%" >}}
 
 
 ---
 
-## Anatomy of the Human Visual system
+### Anatomy of the Human Visual system
 
 {{< figure src="https://www.readkong.com/static/06/b0/06b09f0235ae7fcf29438ce317c10e60/optogenetic-visual-cortical-prosthesis-9612386-7.jpg" width="61%" >}}
 
 ---
 
-## Human Visual system : the HMAX model
+### Human Visual system : the HMAX model
 
 {{< figure src="https://i.stack.imgur.com/ZlFnp.png" title="[[Serre and Poggio, 2007](https://biology.stackexchange.com/questions/10955/ventral-stream-pathway-and-architecture-proposed-by-poggios-group)]" width="65%" >}}
 
 <!-- ---
 
-## Anatomy of the Human Visual system
+### Anatomy of the Human Visual system
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Voies_visuelles3.svg" title="[[Wikipedia]](https://en.wikipedia.org/wiki/Visual_system)" width="45%" >}} -->
 
 ---
 
-## Primary visual cortex: Hubel & Wiesel
+### Primary visual cortex: Hubel & Wiesel
 
 {{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/scientists.jpg" title="[Hubel & Wiesel, 1962]" width="80%" >}}
 
 ---
 
-## Primary visual cortex: Hubel & Wiesel
+### Primary visual cortex: Hubel & Wiesel
 
 {{< video src="https://raw.githubusercontent.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/master/figures/ComplexDirSelCortCell250_title.mp4" controls="yes" width="100%" >}}
 
@@ -211,13 +211,13 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 ---
 
-## Convolutional Neural Networks : Hierarchy
+### Convolutional Neural Networks : Hierarchy
 
 {{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
 
 ---
 
-## Convolutional Neural Networks : Mathematics
+### Convolutional Neural Networks : Mathematics
 
 * One-dimensional [discrete convolution](https://en.wikipedia.org/wiki/Convolution#Discrete_convolution) (eg in time) with a kernel $g$ of radius $K$:
 $$
@@ -226,7 +226,7 @@ $$
 
 ---
 
-## Convolutional Neural Networks : Mathematics
+### Convolutional Neural Networks : Mathematics
 
 * Convolution of an image (two-dimensional) with a kernel $g$ of radius $K\times K$:
 
@@ -236,7 +236,7 @@ $$
 
 ---
 
-## Convolutional Neural Networks : Mathematics
+### Convolutional Neural Networks : Mathematics
 
 * **Cross-correlation** of an image (two-dimensional) with a kernel $g$ of radius $K\times K$:
 
@@ -246,13 +246,13 @@ $$
 
 ---
 
-## Convolutional Neural Networks : Mathematics
+### Convolutional Neural Networks : Mathematics
 
 {{< figure src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/convolution-layer-a.png" title="[[Amidi & Amidi](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)]" width="90%" >}}
 
 ---
 
-## Convolutional Neural Networks : Mathematics
+### Convolutional Neural Networks : Mathematics
 
 * Correlation of an image defined on several  channels (note [the order of the indices](https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html)):
 
@@ -263,7 +263,7 @@ $$
 
 ---
 
-## Convolutional Neural Networks : Mathematics
+### Convolutional Neural Networks : Mathematics
 
 * Correlation of a multi-channel image for multiple output channels (note [the order of the indices](https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html)):
 
@@ -273,7 +273,7 @@ $$
 
 ---
 
-## Convolutional Neural Networks : the HMAX model
+### Convolutional Neural Networks : the HMAX model
 
 {{< figure src="https://i.stack.imgur.com/ZlFnp.png" title="[[Serre and Poggio, 2006]](https://biology.stackexchange.com/questions/10955/ventral-stream-pathway-and-architecture-proposed-by-poggios-group)" width="65%" >}}
 
@@ -284,13 +284,13 @@ $$
 
 ---
 
-## Convolutional Neural Networks (CNNs)
+### Convolutional Neural Networks (CNNs)
 
 {{< figure src="https://www.mdpi.com/vision/vision-07-00029/article_deploy/html/images/vision-07-00029-g003.png" title="[[Jérémie & LP, 2023](https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/)]" width="90%" >}}
 
 ---
 
-## Convolutional Neural Networks : hierarchy
+### Convolutional Neural Networks : hierarchy
 
 {{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
 
@@ -303,7 +303,7 @@ $$
 
 ---
 
-## Convolutional Neural Networks : Predictive coding
+### Convolutional Neural Networks : Predictive coding
 
 {{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
 
@@ -314,7 +314,7 @@ $$
 
 ---
 
-## Convolutional Neural Networks : Predictive coding
+### Convolutional Neural Networks : Predictive coding
 
 {{< figure src="https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/BoutinFranciosiniChavaneRuffierPerrinet20face.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
 
@@ -324,13 +324,13 @@ $$
 
 ---
 
-## Convolutional Neural Networks : Topography
+### Convolutional Neural Networks : Topography
 
 {{< figure  src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]"width="70%" >}}
 
 ---
 
-## Convolutional Neural Networks : Topography
+### Convolutional Neural Networks : Topography
 
 {{< figure src="https://laurentperrinet.github.io/publication/franciosini-21/featured_hu9b69386a773810bf9e1d727831735035_76078_720x2500_fit_q75_h2_lanczos.webp" title="[[Boutin *et al*, 2022](https://laurentperrinet.github.io/publication/franciosini-21/)]" width="90%" >}}
 
@@ -340,14 +340,14 @@ $$
 
 <section>
 
-# Computational neuroscience of vision
+## Computational neuroscience of vision
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
 ---
 
 
-# Dynamics of vision
+## Dynamics of vision
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
@@ -355,7 +355,7 @@ $$
 ---
 
 
-## Dynamics of vision
+### Dynamics of vision
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/scheme_thorpe.jpg" title="[[Thorpe (2001)]](https://laurentperrinet.github.io/2022-01-12_NeuroCercle/#/2/1)" width="70%" >}} -->
 
@@ -364,13 +364,13 @@ $$
 ---
 
 
-## Dynamics of vision
+### Dynamics of vision
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency-estimate.jpg" title="Precise Spiking Motifs] ([see review](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))." width="80%" >}} -->
 
 ---
 
-## Dynamics of vision
+### Dynamics of vision
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency_bg.jpg" title="Visual latencies ([see review](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))." width="75%" >}}
 
@@ -387,7 +387,7 @@ $$
 
 ---
 
-## Dynamics of vision
+### Dynamics of vision
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies ([see review](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))." width="75%" >}}
 
@@ -403,7 +403,7 @@ $$
 ---
 
 
-## Dynamics of vision
+### Dynamics of vision
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/tsonga.jpg" title="Sensorimotor delays ([Perrinet & Friston 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))" width="75%" >}}
 
@@ -411,14 +411,14 @@ $$
 ---
 
 
-## Dynamics of vision
+### Dynamics of vision
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/figure-tsonga.jpg" title="Sensorimotor delays ([Perrinet & Friston, 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))" width="75%" >}}
 
 ---
 
 
-## Dynamics of vision
+### Dynamics of vision
 
 
 {{< video src="https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag.mp4" autoplay="yes" >}}
@@ -426,13 +426,13 @@ $$
 
 ---
 
-## Dynamics of vision
+### Dynamics of vision
 
 {{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_DiagonalMarkov.jpg" width="100%" title="Diagonal markov model ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." >}}
 
 ---
 
-## Dynamics of vision
+### Dynamics of vision
 
 <!-- {{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4"  autoplay="yes" >}}{{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4"  autoplay="yes" >}} -->
 {{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/positional-delay.mp4" autoplay="yes" >}}
@@ -442,7 +442,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 ---
 
-## Dynamics of vision
+### Dynamics of vision
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
@@ -453,13 +453,13 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 <section>
 
-# Spiking Neural Networks
+## Spiking Neural Networks
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
 ---
 
-## Spiking Neural Networks: Leaky Integrate-and-Fire Neuron
+### Spiking Neural Networks: Leaky Integrate-and-Fire Neuron
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/LIF.gif" title="Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)." width="80%" >}}
 
@@ -472,7 +472,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 ---
 
-## Spiking Neural Networks in neurobiology
+### Spiking Neural Networks in neurobiology
 
 {{< figure src="http://i.stack.imgur.com/ixnrz.png" title="[[Mainen & Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]" width="99%" >}}
 
@@ -487,7 +487,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 ---
 
 
-## Spiking Neural Networks in neurobiology
+### Spiking Neural Networks in neurobiology
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/replicating_MainenSejnowski1995.png" title="[[Mainen & Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]" width="99%" >}}
 
@@ -502,7 +502,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 ---
 
 
-## Spiking Neural Networks in neurobiology
+### Spiking Neural Networks in neurobiology
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/Diesmann_et_al_1999.png" title="[[Diesmann et al. 1999](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_3_Diesmann_et_al_1999.py)]" width="99%" >}}
 
@@ -516,7 +516,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 ---
 
 
-## Spiking Neural Networks in neurobiology
+### Spiking Neural Networks in neurobiology
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/haimerl2019.jpg" title="[[Haimerl et al, 2019](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)]" width="99%" >}}
 
@@ -531,7 +531,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 ---
 
-## Spiking Neural Networks: Spiking motifs
+### Spiking Neural Networks: Spiking motifs
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png" title="Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)." width="80%" >}}
 
@@ -544,7 +544,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 ---
 
-## Spiking Neural Networks: Spiking motifs
+### Spiking Neural Networks: Spiking motifs
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/LIF.gif" title="Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)." width="80%" >}}
 
@@ -557,7 +557,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 ---
 
-## Spiking Neural Networks: Spiking motifs
+### Spiking Neural Networks: Spiking motifs
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/HSD.gif" title="Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)." width="80%" >}}
 
@@ -571,7 +571,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 ---
 
-## Spiking Neural Networks in neuromorphic engineering
+### Spiking Neural Networks in neuromorphic engineering
 
 {{< figure src="https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations.png" title="From frame-based to event-based cameras." width="90%" >}}
 
@@ -585,7 +585,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 ---
 
-## Spiking Neural Networks in neuromorphic engineering
+### Spiking Neural Networks in neuromorphic engineering
 
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/HDSNN_conv.png" title="The HD-SNN neural network." width="90%" >}}
 
@@ -598,7 +598,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 ---
 
-## Spiking Neural Networks in neuromorphic engineering
+### Spiking Neural Networks in neuromorphic engineering
 
 {{< video src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/FastMotionDetection_input.mp4" autoplay="yes" >}}
 
@@ -613,7 +613,7 @@ For instance, we show how precise spike times may be used to detect the directio
 
 ---
 
-## Spiking Neural Networks in neuromorphic engineering
+### Spiking Neural Networks in neuromorphic engineering
 
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/motion_kernels.png" title="The HD-SNN neural network." width="90%" >}}
 
@@ -627,7 +627,7 @@ For instance, we show how precise spike times may be used to detect the directio
 
 ---
 
-## Spiking Neural Networks in neuromorphic engineering
+### Spiking Neural Networks in neuromorphic engineering
 
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/accuracy.png" title="The HD-SNN neural network." width="80%" >}}
 
@@ -646,7 +646,7 @@ For instance, we show how precise spike times may be used to detect the directio
 <section>
 
 
-## Artificial neural networks and machine learning applied to the understanding of biological vision
+### Artificial neural networks and machine learning applied to the understanding of biological vision
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
@@ -658,7 +658,7 @@ For instance, we show how precise spike times may be used to detect the directio
 
 ---
 
-# [Artificial neural networks and machine learning applied to the understanding of biological vision](https://laurentperrinet.github.io/slides/2024-04-10-ue-neurosciences-computationnelles/?transition=fade)
+## [Artificial neural networks and machine learning applied to the understanding of biological vision](https://laurentperrinet.github.io/slides/2024-04-10-ue-neurosciences-computationnelles/?transition=fade)
 ####	*[Laurent Perrinet](https://laurentperrinet.github.io)*
 ####	<u>[[2024-04-10]](https://ametice.univ-amu.fr/course/view.php?id=95116) [Master 1 Neurosciences et Sciences Cognitives.](https://sciences.univ-amu.fr/fr/formation/masters/master-neurosciences)</u>
 
