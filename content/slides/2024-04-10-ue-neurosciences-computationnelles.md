@@ -14,12 +14,12 @@ publishDate: "2024-03-29T12:47:11+02:00"
 
 title: 2024-04-10-ue-neurosciences-computationnelles
 
-summary: Artificial neural networks and machine learning applied to the understanding of biological vision
+summary: Artificial neural networks applied to the understanding of biological vision
 
 ---
 <section>
 
-## [Artificial neural networks and machine learning applied to the understanding of biological vision](https://laurentperrinet.github.io/slides/2024-04-10-ue-neurosciences-computationnelles/?transition=fade)
+## [Artificial neural networks applied to the understanding of biological vision](https://laurentperrinet.github.io/slides/2024-04-10-ue-neurosciences-computationnelles/?transition=fade)
 ####	*[Laurent Perrinet](https://laurentperrinet.github.io)*
 ####	<u>[[2024-04-10]](https://ametice.univ-amu.fr/course/view.php?id=95116) [Master 1 Neurosciences et Sciences Cognitives.](https://sciences.univ-amu.fr/fr/formation/masters/master-neurosciences)</u>
 
@@ -237,7 +237,7 @@ First: What is the function of vision?
 
 ---
 
-### Primary visual cortex: Hubel & Wiesel
+### Primary visual cortex
 
 {{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/scientists.jpg" title="[Hubel & Wiesel, 1962]" width="80%" >}}
 
@@ -245,10 +245,9 @@ First: What is the function of vision?
 - let's zoom in, the basic ingredient is the receptive field
 {{< /speaker_note >}}
 
-
 ---
 
-### Primary visual cortex: Hubel & Wiesel
+### Primary visual cortex
 
 {{< video src="https://raw.githubusercontent.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/master/figures/ComplexDirSelCortCell250_title.mp4" controls="yes" width="100%" >}}
 
@@ -260,17 +259,29 @@ First: What is the function of vision?
 
 ---
 
-### Convolutional Neural Networks : Hierarchy
+### Convolutional Neural Networks (CNN)
 
 {{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
 
 {{< speaker_note >}}
 - this can be integrated in a hierarchy...
+- defining a Convolutional Neural Networks (CNN)
+- one layer is a convolution
 {{< /speaker_note >}}
 
 ---
 
-### Convolutional Neural Networks : Mathematics
+### Convolutional Neural Networks (CNN)
+
+{{< figure src="https://www.mdpi.com/vision/vision-07-00029/article_deploy/html/images/vision-07-00029-g003.png" title="[[Jérémie & LP, 2023](https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/)]" width="90%" >}}
+
+{{< speaker_note >}}
+- sota...
+{{< /speaker_note >}}
+
+---
+
+### CNN: Mathematics
 
 * One-dimensional [discrete convolution](https://en.wikipedia.org/wiki/Convolution#Discrete_convolution) (eg in time) with a kernel $g$ of radius $K$:
 $$
@@ -285,7 +296,7 @@ $$
 
 ---
 
-### Convolutional Neural Networks : Mathematics
+### CNN: Mathematics
 
 * Convolution of an image (two-dimensional) with a kernel $g$ of radius $K\times K$:
 
@@ -299,7 +310,7 @@ $$
 
 ---
 
-### Convolutional Neural Networks : Mathematics
+### CNN: Mathematics
 
 * **Cross-correlation** of an image (two-dimensional) with a kernel $g$ of radius $K\times K$:
 
@@ -313,36 +324,36 @@ $$
 
 ---
 
-### Convolutional Neural Networks : Mathematics
+### CNN: Mathematics
 
 {{< figure src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/convolution-layer-a.png" title="[[Amidi & Amidi](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)]" width="90%" >}}
 
 {{< speaker_note >}}
-- ...
+-  it is a translation-invariant feature detector...
 {{< /speaker_note >}}
 
 ---
 
-### Convolutional Neural Networks : Mathematics
+### CNN: Mathematics
 
 * Correlation of an image defined on several channels (note [the order of the indices](https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html)):
 
 $$
-(f \ast \tilde{g})[x, y] = \sum_{c=1}^{C} \sum_{i,j} f[c, x+i, y+j] \cdot g[c, i, j]
+(f \ast \tilde{g})[x, y] = \sum_{c=1}^{C} \sum_{c,i,j} f[c, x+i, y+j] \cdot g[c, i, j]
 $$
 
 {{< speaker_note >}}
-- ...
+- we can add different channels to the image (eg colors)...
 {{< /speaker_note >}}
 
 ---
 
-### Convolutional Neural Networks : Mathematics
+### CNN: Mathematics
 
 * Correlation of a multi-channel image for multiple output channels (note [the order of the indices](https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html)):
 
 $$
-(f \ast \tilde{g})[k, x, y] = \sum_{c=1}^{C} \sum_{i,j} f[c, x+i, y+j] \cdot g[k, c, i, j]
+(f \ast \tilde{g})[k, x, y] = \sum_{c,i,j} f[c, x+i, y+j] \cdot g[k, c, i, j]
 $$
 
 {{< speaker_note >}}
@@ -351,7 +362,7 @@ $$
 
 ---
 
-### Convolutional Neural Networks : the HMAX model
+### CNN: the HMAX model
 
 {{< figure src="https://i.stack.imgur.com/ZlFnp.png" title="[[Serre and Poggio, 2006]](https://biology.stackexchange.com/questions/10955/ventral-stream-pathway-and-architecture-proposed-by-poggios-group)" width="65%" >}}
 
@@ -361,17 +372,7 @@ $$
 
 ---
 
-### Convolutional Neural Networks (CNNs)
-
-{{< figure src="https://www.mdpi.com/vision/vision-07-00029/article_deploy/html/images/vision-07-00029-g003.png" title="[[Jérémie & LP, 2023](https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/)]" width="90%" >}}
-
-{{< speaker_note >}}
-- sota...
-{{< /speaker_note >}}
-
----
-
-### Convolutional Neural Networks : hierarchy
+### CNN: challenges
 
 {{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
 
@@ -382,7 +383,7 @@ $$
 
 ---
 
-### Convolutional Neural Networks : Predictive coding
+### CNN: Predictive processing
 
 {{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
 
@@ -392,7 +393,7 @@ $$
  
 ---
 
-### Convolutional Neural Networks : Predictive coding
+### CNN: Predictive processing
 
 {{< figure src="https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/BoutinFranciosiniChavaneRuffierPerrinet20face.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
 
@@ -402,7 +403,7 @@ $$
 
 ---
 
-### Convolutional Neural Networks : Topography
+### CNN: Topography
 
 {{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]"width="70%" >}}
 
@@ -412,7 +413,7 @@ $$
 
 ---
 
-### Convolutional Neural Networks : Topography
+### CNN: Topography
 
 {{< figure src="https://laurentperrinet.github.io/publication/franciosini-21/featured.jpg" title="[[Boutin *et al*, 2022](https://laurentperrinet.github.io/publication/franciosini-21/)]" width="90%" >}}
 
@@ -549,7 +550,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 <section>
 
-## Spiking Neural Networks
+## Spiking Neural Networks (SNN)
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
@@ -559,7 +560,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 ---
 
-### Spiking Neural Networks: Leaky Integrate-and-Fire Neuron
+### SNN: Leaky Integrate-and-Fire Neuron
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/LIF.gif" title="Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)." width="80%" >}}
 
@@ -631,7 +632,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 ---
 
-### Spiking Neural Networks: Spiking motifs
+### SNN: Spiking motifs
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png" title="Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)." width="80%" >}}
 
@@ -644,7 +645,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 ---
 
-### Spiking Neural Networks: Spiking motifs
+### SNN: Spiking motifs
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/LIF.gif" title="Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)." width="80%" >}}
 
@@ -657,7 +658,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 ---
 
-### Spiking Neural Networks: Spiking motifs
+### SNN: Spiking motifs
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/HSD.gif" title="Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)." width="80%" >}}
 
@@ -746,7 +747,7 @@ For instance, we show how precise spike times may be used to detect the directio
 <section>
 
 
-### Artificial neural networks and machine learning applied to the understanding of biological vision
+### Artificial neural networks applied to the understanding of biological vision
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
@@ -758,7 +759,7 @@ For instance, we show how precise spike times may be used to detect the directio
 
 ---
 
-## [Artificial neural networks and machine learning applied to the understanding of biological vision](https://laurentperrinet.github.io/slides/2024-04-10-ue-neurosciences-computationnelles/?transition=fade)
+## [Artificial neural networks applied to the understanding of biological vision](https://laurentperrinet.github.io/slides/2024-04-10-ue-neurosciences-computationnelles/?transition=fade)
 ####	*[Laurent Perrinet](https://laurentperrinet.github.io)*
 ####	<u>[[2024-04-10]](https://ametice.univ-amu.fr/course/view.php?id=95116) [Master 1 Neurosciences et Sciences Cognitives.](https://sciences.univ-amu.fr/fr/formation/masters/master-neurosciences)</u>
 

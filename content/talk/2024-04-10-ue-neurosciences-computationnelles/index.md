@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Artificial neural networks and machine learning applied to the understanding
-  of biological vision
+title: Artificial neural networks and machine learning applied to the understanding of biological vision
 subtitle: ''
 summary: ''
 authors:
