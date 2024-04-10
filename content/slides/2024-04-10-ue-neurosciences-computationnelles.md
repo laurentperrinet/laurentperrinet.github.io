@@ -259,7 +259,7 @@ First: What is the function of vision?
 
 ---
 
-### Convolutional Neural Networks (CNN)
+### Convolutional Neural Nets (CNN)
 
 {{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
 
@@ -271,9 +271,9 @@ First: What is the function of vision?
 
 ---
 
-### Convolutional Neural Networks (CNN)
+### Convolutional Neural Nets (CNN)
 
-{{< figure src="https://www.mdpi.com/vision/vision-07-00029/article_deploy/html/images/vision-07-00029-g003.png" title="[[Jérémie & LP, 2023](https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/)]" width="90%" >}}
+{{< figure src="https://www.mdpi.com/vision/vision-07-00029/article_deploy/html/images/vision-07-00029-g003.png" title="[[Jérémie & LP, 2023](https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/)]" width="80%" >}}
 
 {{< speaker_note >}}
 - sota...
@@ -573,7 +573,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 ---
 
-### Spiking Neural Networks in neurobiology
+### SNN in neurobiology
 
 {{< figure src="http://i.stack.imgur.com/ixnrz.png" title="[[Mainen & Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]" width="99%" >}}
 
@@ -588,7 +588,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 ---
 
 
-### Spiking Neural Networks in neurobiology
+### SNN in neurobiology
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/replicating_MainenSejnowski1995.png" title="[[Mainen & Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]" width="99%" >}}
 
@@ -603,7 +603,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 ---
 
 
-### Spiking Neural Networks in neurobiology
+### SNN in neurobiology
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/Diesmann_et_al_1999.png" title="[[Diesmann et al. 1999](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_3_Diesmann_et_al_1999.py)]" width="99%" >}}
 
@@ -617,7 +617,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 ---
 
 
-### Spiking Neural Networks in neurobiology
+### SNN in neurobiology
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/haimerl2019.jpg" title="[[Haimerl et al, 2019](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)]" width="99%" >}}
 
@@ -672,7 +672,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 ---
 
-### Spiking Neural Networks in neuromorphic engineering
+### SNN in neuromorphic engineering
 
 {{< figure src="https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations.png" title="From frame-based to event-based cameras." width="90%" >}}
 
@@ -686,7 +686,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 ---
 
-### Spiking Neural Networks in neuromorphic engineering
+### SNN in neuromorphic engineering
 
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/HDSNN_conv.png" title="The HD-SNN neural network." width="90%" >}}
 
@@ -699,7 +699,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 ---
 
-### Spiking Neural Networks in neuromorphic engineering
+### SNN in neuromorphic engineering
 
 {{< video src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/FastMotionDetection_input.mp4" autoplay="yes" >}}
 
@@ -714,7 +714,7 @@ For instance, we show how precise spike times may be used to detect the directio
 
 ---
 
-### Spiking Neural Networks in neuromorphic engineering
+### SNN in neuromorphic engineering
 
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/motion_kernels.png" title="The HD-SNN neural network." width="90%" >}}
 
@@ -728,7 +728,7 @@ For instance, we show how precise spike times may be used to detect the directio
 
 ---
 
-### Spiking Neural Networks in neuromorphic engineering
+### SNN in neuromorphic engineering
 
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/accuracy.png" title="The HD-SNN neural network." width="80%" >}}
 
