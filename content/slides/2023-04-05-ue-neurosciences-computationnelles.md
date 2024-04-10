@@ -332,7 +332,7 @@ $$
 
 ## Convolutional Neural Networks : Topography
 
-{{< figure src="https://laurentperrinet.github.io/publication/franciosini-21/featured_hu9b69386a773810bf9e1d727831735035_76078_720x2500_fit_q75_h2_lanczos.webp" title="[[Boutin *et al*, 2022](https://laurentperrinet.github.io/publication/franciosini-21/)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/franciosini-21/featured.jpg" title="[[Boutin *et al*, 2022](https://laurentperrinet.github.io/publication/franciosini-21/)]" width="90%" >}}
 
 </section>
 

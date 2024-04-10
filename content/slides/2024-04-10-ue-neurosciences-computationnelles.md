@@ -28,11 +28,11 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 
 {{< speaker_note >}}
-- objective= understand biological vision
-- interaction between artificial and natural NNs
-- outline
+- outline = 
+ - fact: paradoxically vision is a complex process for the simplest function
+ - objective= understand biological vision
+ - interaction between artificial and natural NNs...
 {{< /speaker_note >}}
-
 
 </section>
 
@@ -46,7 +46,14 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 {{< speaker_note >}}
 - cut in different levels: Marr (+ Poggio)
-- arbitrary, but useful division of labor
+- arbitrary, but useful division of labor= computational / algorithm / hardware
+
+- here:
+  - dynamics (computational)
+  - CNNs (hardware)
+  - spiking (algorithm)
+  
+First: What is the function of vision?
 {{< /speaker_note >}}
 
 ---
@@ -59,9 +66,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 {{< speaker_note >}}
 - seeing= interacting with the visual world
-- social animals: looking at emotions
 {{< /speaker_note >}}
-
 
 ---
 
@@ -72,8 +77,8 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 {{< speaker_note >}}
 - active: the eye is always moving
 - https://fr.wikipedia.org/wiki/Alfred_Iarbous
+- consistency of eye traces
 {{< /speaker_note >}}
-
 
 ---
 
@@ -83,7 +88,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 
 {{< speaker_note >}}
-- active: depends on task
+- social animals: looking at emotions
 {{< /speaker_note >}}
 
 
@@ -95,9 +100,19 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 
 {{< speaker_note >}}
-- consistency of eye traces
+- active: depends on task
 {{< /speaker_note >}}
 
+---
+
+### [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
+
+{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg" title="[Rotating Snakes *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)" width="70%" >}}
+
+{{< speaker_note >}}
+- Visual illusions are a great way to understand the constraints of vision
+- notce that here the illusion depend on your eye movements
+{{< /speaker_note >}}
 
 ---
 
@@ -107,11 +122,21 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 {{< video src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Kitaoka.mp4" controls="yes" width="80%" >}}
 [Ilusions of brightness or lightness *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 
+{{< speaker_note >}}
+- a simpler one showing effect of context
+- here the ever changing lighting conditions from moonlight (1 candela) to sunlight (100 000 candela)
+{{< /speaker_note >}}
+
 ---
 
 ### [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion_without.svg" title="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" width="70%" >}}
+
+{{< speaker_note >}}
+- the process of inverting the reason of an illusion can be intriguing
+- hering: two parallel lines
+{{< /speaker_note >}}
 
 ---
 
@@ -120,20 +145,18 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion.svg" title="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" width="70%" >}}
 
 {{< speaker_note >}}
+- appear bent
 - effect of context -> 3D
 {{< /speaker_note >}}
-
 ---
-
-### [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
-
-{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg" title="[Rotating Snakes *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)" width="70%" >}}
-
----
-
 ### [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Face-on-mars.jpg" title="[Cydonia Mensae (1976) *Viking Orbiter image*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
+
+{{< speaker_note >}}
+- more generally it reveals vision generates a model of the world
+- pareidolia: seeing faces in clouds, or a man on mars
+{{< /speaker_note >}}
 
 ---
 
@@ -141,22 +164,29 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_low.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
 
+{{< speaker_note >}}
+- 30 years later...
+{{< /speaker_note >}}
+
 ---
 
 ### [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_high.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
 
+{{< speaker_note >}}
+- ... it's just a rock
+{{< /speaker_note >}}
 
 ---
-
 
 ### Principles of vision?
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
-
-
+{{< speaker_note >}}
+- we know more about the function...
+{{< /speaker_note >}}
 
 </section>
 
@@ -168,6 +198,9 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
+{{< speaker_note >}}
+- ...let's delve into a computational theory of vision
+{{< /speaker_note >}}
 
 ---
 
@@ -175,6 +208,11 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 {{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Churchland92.png" title="[[Sejnowski, Koch & Churchland (1998)](http://www.hms.harvard.edu/bss/neuro/bornlab/nb204/papers/sejnowski-koch-churchland-science1988.pdf)]" width="50%" >}}
 
+{{< speaker_note >}}
+- it's a multi-scale, complex model...
+- perhaps we will never be able to comprehend it in full
+- words are not precise enough, let's use mathematics and models to describe this system
+{{< /speaker_note >}}
 
 ---
 
@@ -182,23 +220,31 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 {{< figure src="https://www.readkong.com/static/06/b0/06b09f0235ae7fcf29438ce317c10e60/optogenetic-visual-cortical-prosthesis-9612386-7.jpg" width="61%" >}}
 
+{{< speaker_note >}}
+- let's start with the anatomy
+{{< /speaker_note >}}
+
 ---
 
 ### Human Visual system : the HMAX model
 
 {{< figure src="https://i.stack.imgur.com/ZlFnp.png" title="[[Serre and Poggio, 2007](https://biology.stackexchange.com/questions/10955/ventral-stream-pathway-and-architecture-proposed-by-poggios-group)]" width="65%" >}}
 
-<!-- ---
-
-### Anatomy of the Human Visual system
-
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Voies_visuelles3.svg" title="[[Wikipedia]](https://en.wikipedia.org/wiki/Visual_system)" width="45%" >}} -->
+{{< speaker_note >}}
+- and a model of it...
+- CNN, the mother of all deep learning models
+{{< /speaker_note >}}
 
 ---
 
 ### Primary visual cortex: Hubel & Wiesel
 
 {{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/scientists.jpg" title="[Hubel & Wiesel, 1962]" width="80%" >}}
+
+{{< speaker_note >}}
+- let's zoom in, the basic ingredient is the receptive field
+{{< /speaker_note >}}
+
 
 ---
 
@@ -208,12 +254,19 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 [Hubel & Wiesel, 1962]
 
+{{< speaker_note >}}
+- a single neuron is selective to some visual features...
+{{< /speaker_note >}}
 
 ---
 
 ### Convolutional Neural Networks : Hierarchy
 
 {{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
+
+{{< speaker_note >}}
+- this can be integrated in a hierarchy...
+{{< /speaker_note >}}
 
 ---
 
@@ -223,6 +276,12 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 $$
 (f \ast g)[n]=\sum_{m=-K}^{K} f[n-m] \cdot g[m]
 $$
+
+{{< speaker_note >}}
+- and be formalized as a convolution...
+- but what is a convolution?
+- let's start in 1D
+{{< /speaker_note >}}
 
 ---
 
@@ -234,6 +293,10 @@ $$
 (f \ast g)[x, y] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} f[x-i, y-j] \cdot g[i, j]
 $$
 
+{{< speaker_note >}}
+- now in 2D
+{{< /speaker_note >}}
+
 ---
 
 ### Convolutional Neural Networks : Mathematics
@@ -244,22 +307,33 @@ $$
 (f \ast \tilde{g})[x, y] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} f[x+i, y+j] \cdot g[i, j]
 $$
 
+{{< speaker_note >}}
+- note the difference between convolutions and cross-correlation
+{{< /speaker_note >}}
+
 ---
 
 ### Convolutional Neural Networks : Mathematics
 
 {{< figure src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/convolution-layer-a.png" title="[[Amidi & Amidi](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)]" width="90%" >}}
 
+{{< speaker_note >}}
+- ...
+{{< /speaker_note >}}
+
 ---
 
 ### Convolutional Neural Networks : Mathematics
 
-* Correlation of an image defined on several  channels (note [the order of the indices](https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html)):
+* Correlation of an image defined on several channels (note [the order of the indices](https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html)):
 
 $$
 (f \ast \tilde{g})[x, y] = \sum_{c=1}^{C} \sum_{i,j} f[c, x+i, y+j] \cdot g[c, i, j]
 $$
 
+{{< speaker_note >}}
+- ...
+{{< /speaker_note >}}
 
 ---
 
@@ -271,6 +345,10 @@ $$
 (f \ast \tilde{g})[k, x, y] = \sum_{c=1}^{C} \sum_{i,j} f[c, x+i, y+j] \cdot g[k, c, i, j]
 $$
 
+{{< speaker_note >}}
+- now we get to the full CNN 
+{{< /speaker_note >}}
+
 ---
 
 ### Convolutional Neural Networks : the HMAX model
@@ -281,12 +359,15 @@ $$
 - sota
 {{< /speaker_note >}}
 
-
 ---
 
 ### Convolutional Neural Networks (CNNs)
 
 {{< figure src="https://www.mdpi.com/vision/vision-07-00029/article_deploy/html/images/vision-07-00029-g003.png" title="[[Jérémie & LP, 2023](https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/)]" width="90%" >}}
+
+{{< speaker_note >}}
+- sota...
+{{< /speaker_note >}}
 
 ---
 
@@ -295,11 +376,9 @@ $$
 {{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
 
 {{< speaker_note >}}
-- backpropagation is not bioplausible 
-- modification
+- novel challenges for CNNs
+- 1/ backpropagation is not bioplausible 
 {{< /speaker_note >}}
-
-
 
 ---
 
@@ -308,10 +387,9 @@ $$
 {{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
 
 {{< speaker_note >}}
-- adding sparse coding + feedback
+- modifications= adding sparse coding + feedback
 {{< /speaker_note >}}
-
-
+ 
 ---
 
 ### Convolutional Neural Networks : Predictive coding
@@ -319,20 +397,28 @@ $$
 {{< figure src="https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/BoutinFranciosiniChavaneRuffierPerrinet20face.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
 
 {{< speaker_note >}}
-- interpretable features
+- result= interpretable features
 {{< /speaker_note >}}
 
 ---
 
 ### Convolutional Neural Networks : Topography
 
-{{< figure  src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]"width="70%" >}}
+{{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]"width="70%" >}}
+
+{{< speaker_note >}}
+- topography?
+{{< /speaker_note >}}
 
 ---
 
 ### Convolutional Neural Networks : Topography
 
-{{< figure src="https://laurentperrinet.github.io/publication/franciosini-21/featured_hu9b69386a773810bf9e1d727831735035_76078_720x2500_fit_q75_h2_lanczos.webp" title="[[Boutin *et al*, 2022](https://laurentperrinet.github.io/publication/franciosini-21/)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/franciosini-21/featured.jpg" title="[[Boutin *et al*, 2022](https://laurentperrinet.github.io/publication/franciosini-21/)]" width="90%" >}}
+
+{{< speaker_note >}}
+- result= bio-mimetism
+{{< /speaker_note >}}
 
 </section>
 
@@ -344,6 +430,10 @@ $$
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
+{{< speaker_note >}}
+- neuroAI
+{{< /speaker_note >}}
+
 ---
 
 
@@ -351,22 +441,9 @@ $$
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
-<!--
----
-
-
-### Dynamics of vision
-
-{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/scheme_thorpe.jpg" title="[[Thorpe (2001)]](https://laurentperrinet.github.io/2022-01-12_NeuroCercle/#/2/1)" width="70%" >}} -->
-
-
-<!--
----
-
-
-### Dynamics of vision
-
-{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency-estimate.jpg" title="Precise Spiking Motifs] ([see review](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))." width="80%" >}} -->
+{{< speaker_note >}}
+- another important missing feature: time
+{{< /speaker_note >}}
 
 ---
 
@@ -407,6 +484,9 @@ $$
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/tsonga.jpg" title="Sensorimotor delays ([Perrinet & Friston 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))" width="75%" >}}
 
+{{< speaker_note >}}
+- ...
+{{< /speaker_note >}}
 
 ---
 
@@ -415,20 +495,30 @@ $$
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/figure-tsonga.jpg" title="Sensorimotor delays ([Perrinet & Friston, 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))" width="75%" >}}
 
+{{< speaker_note >}}
+- ...
+{{< /speaker_note >}}
+
 ---
 
 
 ### Dynamics of vision
 
-
 {{< video src="https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag.mp4" autoplay="yes" >}}
 
+{{< speaker_note >}}
+- ...
+{{< /speaker_note >}}
 
 ---
 
 ### Dynamics of vision
 
 {{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_DiagonalMarkov.jpg" width="100%" title="Diagonal markov model ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." >}}
+
+{{< speaker_note >}}
+- ...
+{{< /speaker_note >}}
 
 ---
 
@@ -439,6 +529,9 @@ $$
 
 Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))
 
+{{< speaker_note >}}
+- ...
+{{< /speaker_note >}}
 
 ---
 
@@ -446,6 +539,9 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
+{{< speaker_note >}}
+- ...
+{{< /speaker_note >}}
 
 </section>
 
@@ -456,6 +552,10 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 ## Spiking Neural Networks
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
+
+{{< speaker_note >}}
+- ...
+{{< /speaker_note >}}
 
 ---
 
