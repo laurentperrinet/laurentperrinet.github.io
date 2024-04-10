@@ -180,7 +180,7 @@ First: What is the function of vision?
 
 ---
 
-### Principles of vision?
+## Principles of vision?
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
@@ -421,11 +421,7 @@ $$
 - result= bio-mimetism
 {{< /speaker_note >}}
 
-</section>
-
 ---
-
-<section>
 
 ## Computational neuroscience of vision
 
@@ -435,8 +431,11 @@ $$
 - neuroAI
 {{< /speaker_note >}}
 
+</section>
+
 ---
 
+<section>
 
 ## Dynamics of vision
 
@@ -536,7 +535,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 ---
 
-### Dynamics of vision
+## Dynamics of vision
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
@@ -739,6 +738,16 @@ For instance, we show how precise spike times may be used to detect the directio
 
 {{< /speaker_note >}}
 
+---
+
+## Spiking Neural Networks (SNN)
+
+{{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
+
+{{< speaker_note >}}
+- ...
+{{< /speaker_note >}}
+
 
 </section>
 
@@ -747,7 +756,7 @@ For instance, we show how precise spike times may be used to detect the directio
 <section>
 
 
-### Artificial neural networks applied to the understanding of biological vision
+## Artificial neural networks applied to the understanding of biological vision
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
