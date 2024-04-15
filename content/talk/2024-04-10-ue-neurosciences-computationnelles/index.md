@@ -33,4 +33,7 @@ abstract: "Les aires visuelles doivent transformer le signal lumineux brut en un
 publication: '*Master 1 Neurosciences et Sciences Cognitives*'
 
 slides: 2024-04-10-ue-neurosciences-computationnelles
+
+
+https://github.com/laurentperrinet/2024-04_UE-neurosciences-computationnelles
 ---
