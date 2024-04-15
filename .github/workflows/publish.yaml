@@ -1,8 +1,5 @@
 name: Deploy website to GitHub Pages
 
-env:
-  WC_HUGO_VERSION: '0.119.0'
-
 on:
   # Trigger the workflow every time you push to the `main` branch
   push:
@@ -34,7 +31,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: ${{ env.WC_HUGO_VERSION }}
+          hugo-version: 'latest'
           extended: true
       - uses: actions/cache@v4
         with:
