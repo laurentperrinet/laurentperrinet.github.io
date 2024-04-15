@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Analyser de larges volumes de données neurobiologiques : modèles émergents bio-inspirés"
-subtitle: "Seminar at the *Emergences workshop, Autrans, France*"
+subtitle: "Seminar at the *Emergences (PEPR AI) workshop, Autrans, France*"
 authors:
 - Laurent U Perrinet
 tags: []
@@ -32,6 +32,6 @@ publication_types:
 - 'inproceedings'
 ---
 
-# Analyser de larges volumes de données neurobiologiques : modèles émergents bio-inspirés
-
 * Related papers {{< cite page="/publication/kremkow-16" view="4" >}}{{< cite page="/publication/grimaldi-23" view="4" >}} {{< cite page="/publication/grimaldi-23-bc" view="4" >}}{{< cite page="/publication/ladret-23" view="4" >}}
+
+

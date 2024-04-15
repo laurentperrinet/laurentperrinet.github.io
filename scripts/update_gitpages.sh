@@ -16,28 +16,28 @@ if [ $# -eq 1 ]
 fi
 git commit -m "$msg"
 
-git push origin master
+git push origin main
 
 
 echo ">>> Deploying updates to GitHub pages repo..."
 
-# Build the project.
-hugo
+# # Build the project.
+# hugo
 
-# Go To Public folder
-cd public
-# Add changes to git.
-git add .
+# # Go To Public folder
+# cd public
+# # Add changes to git.
+# git add .
 
-# Commit changes.
-msg="rebuilding site `date`"
-if [ $# -eq 1 ]
-  then msg="$1"
-fi
-git commit -am "$msg"
+# # Commit changes.
+# msg="rebuilding site `date`"
+# if [ $# -eq 1 ]
+#   then msg="$1"
+# fi
+# git commit -am "$msg"
 
-# Push source and build repos.
-git push origin master
+# # Push source and build repos.
+# git push origin main
 
-# Come Back up to the Project Root
-cd ..
+# # Come Back up to the Project Root
+# cd ..

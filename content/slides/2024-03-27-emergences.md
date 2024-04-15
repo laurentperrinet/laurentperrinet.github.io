@@ -23,7 +23,7 @@ summary: "Analyser de larges volumes de données neurobiologiques : modèles é
 
 ### [Analyser de larges volumes de données neurobiologiques](https://laurentperrinet.github.io/slides/2024-03-27-emergences/?transition=fade)
 ####	*[Laurent Perrinet](https://laurentperrinet.github.io)*
-####	<u>[[2024-03-27]](https://laurentperrinet.github.io/talk/2023-12-01-biocomp) [Emergences workshop, Autrans, France](https://laurentperrinet.github.io/grant/emergences/)</u>
+####	<u>[[2024-03-27]](https://laurentperrinet.github.io/talk/2024-03-27-emergences) [Emergences workshop, Autrans, France](https://laurentperrinet.github.io/grant/emergences/)</u>
 
 <img src="https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg" alt="logos" height="130"/>
 
@@ -539,7 +539,7 @@ anticpation (PP)
 
 ### [Analyser de larges volumes de données neurobiologiques](https://laurentperrinet.github.io/slides/2024-03-27-emergences/?transition=fade)
 ####	*[Laurent Perrinet](https://laurentperrinet.github.io)*
-####	<u>[[2024-03-27]](https://laurentperrinet.github.io/talk/2023-12-01-biocomp) [Emergences workshop, Autrans, France](https://laurentperrinet.github.io/grant/emergences/)</u>
+####	<u>[[2024-03-27]](https://laurentperrinet.github.io/talk/2024-03-27-emergences) [Emergences workshop, Autrans, France](https://laurentperrinet.github.io/grant/emergences/)</u>
 
 <img src="https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg" alt="logos" height="130"/>
 
