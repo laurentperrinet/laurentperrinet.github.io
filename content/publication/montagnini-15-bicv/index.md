@@ -18,3 +18,5 @@ title: Visual motion processing and human tracking behavior
 url_pdf: https://laurentperrinet.github.io/publication/montagnini-15-bicv/
 url_preprint: https://arxiv.org/abs/1611.07831
 ---
+
+* Appeared in this book: {{< cite page="/publication/cristobal-perrinet-keil-15-bicv" view="4" >}}

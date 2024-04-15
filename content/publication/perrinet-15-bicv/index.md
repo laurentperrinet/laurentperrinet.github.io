@@ -33,3 +33,5 @@ url_code: https://github.com/bicv/Perrinet2015BICV_sparse
 url_pdf: http://onlinelibrary.wiley.com/doi/10.1002/9783527680863.ch14/summary
 url_preprint: https://arxiv.org/abs/1701.06859
 ---
+
+* Appeared in this book: {{< cite page="/publication/cristobal-perrinet-keil-15-bicv" view="4" >}}

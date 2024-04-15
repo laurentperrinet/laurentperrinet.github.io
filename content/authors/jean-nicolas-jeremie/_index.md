@@ -1,7 +1,10 @@
 ---
 authors:
 - jean-nicolas-jeremie
+title: Jean-Nicolas Jérémie
+role: Phd candidate in Computational Neuroscience
 bio: During my PhD, I am focusing on ultra-fast processing in event-based neural networks.
+
 education:
   courses:
   - course: Phd candidate in Computational Neuroscience
@@ -10,8 +13,7 @@ education:
   - course: Master in Neuroscience
     institution: Aix-Marseille Université
     year: 2021
-title: Jean-Nicolas Jérémie
-role: Phd candidate in Computational Neuroscience
+
 social:
 - icon: github
   icon_pack: fab
@@ -22,7 +24,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jeremie-jean-nicolas-91306a1a1/
+
 superuser: false
+
 user_groups:
 - Current Students
 ---

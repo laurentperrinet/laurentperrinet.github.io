@@ -30,3 +30,5 @@ url_pdf: https://laurentperrinet.github.io/publication/rentzeperis-23
 url_preprint: https://arxiv.org/abs/2301.10002
 doi: 10.1371/journal.pcbi.1011459
 ---
+
+* Follows {{< cite page="/publication/rentzeperis-22-areadne" view="4" >}}
