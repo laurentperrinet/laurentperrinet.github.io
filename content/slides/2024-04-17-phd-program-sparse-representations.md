@@ -99,7 +99,7 @@ Occam's razor: "Entities should not be multiplied without necessity."
 
 ## Sparse representations in computer vision
 
-<img src="https://laurentperrinet.github.io/publication/perrinet-03-ieee/v1_tiger.gif"  width="80%"/>
+<img src="https://laurentperrinet.github.io/publication/perrinet-03-ieee/v1_tiger.gif"  width="60%"/>
 
 {{< speaker_note >}}
 
@@ -143,7 +143,7 @@ It's interesting to draw a parallel between this process and the optic nerve tha
 
 ## Sparse representations in neuromorphic engineering
 
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/motion_kernels.png" title="The HD-SNN neural network." width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/motion_kernels.png" title="The HD-SNN neural network." width="70%" >}}
 
 {{< speaker_note >}}
 **2 MINUTE**
@@ -216,7 +216,7 @@ diesmann
 
 ## Sparse representations in neuroscience
 
-{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/fncir-10-00037-g001a.jpg" title="[[Kremkow *et al*, 2016](https://laurentperrinet.github.io/publication/kremkow-16/)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/fncir-10-00037-g001.jpg" title="[[Kremkow *et al*, 2016](https://laurentperrinet.github.io/publication/kremkow-16/)]" width="90%" >}}
 
 {{< speaker_note >}}
 mainen et sejnowski
@@ -234,10 +234,10 @@ vinje et gallant
 ## Sparse representations in a nutshell
 
 
-{{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
+{{< figure src="https://i.giphy.com/26xBtPbmDlugFxUiY.webp" width="90%" >}}
 
 {{< speaker_note >}}
-- ...let's delve into a computational theory of vision
+- ...let's delve into a computational theory of sparse coding
 
 
 review_bib = s.content_bib("LP", "2015", '"Sparse models" in <a href="https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/">Biologically Inspired Computer Vision</a>')
@@ -287,8 +287,11 @@ review_bib = s.content_bib("LP", "2015", '"Sparse models" in <a href="https://la
 ## Sparse representations in a nutshell
 
 $$
-I[x, y]=\sum_{i=1}^{K} a[i] \cdot \phi[x, y]
+I[x, y]=\sum_{i=1}^{K} a[i] \cdot \phi[x, y] + \epsilon[x, y]
 $$
+
+
+[[LP (2015)](https://laurentperrinet.github.io/publication/perrinet-15-bicv/)]
 
 {{< speaker_note >}}
 
@@ -312,12 +315,93 @@ generative model
 
 ## Sparse representations in a nutshell
 
-{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/Olshausen_5.png" title="[[Olshausen and Field (1997)](http://mplab.ucsd.edu/~marni/Igert/Olshaussen_1997.pdf)]" width="55%" >}}
+$$
+\mathcal{L} =  \frac{1}{2\sigma_n^2} \sum_{x, y} ( I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi[x, y]  )^2 - \sum_i \log Pr( a[i] | \phi)
+$$
+
+[[LP (2015)](https://laurentperrinet.github.io/publication/perrinet-15-bicv/)]
+
+{{< speaker_note >}}
+
+Probabilistic model
+
+{{< /speaker_note >}}
+
+---
+
+## Sparse representations in a nutshell
+
+$$
+\mathcal{L} =  \frac{1}{2\sigma_n^2} \sum_{x, y} ( I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi[x, y]  )^2 - \sum_i |  a[i] |
+$$
+
+[[LP (2015)](https://laurentperrinet.github.io/publication/perrinet-15-bicv/)]
+
+{{< speaker_note >}}
+
+Probabilistic model
+
+{{< /speaker_note >}}
+
+---
+
+## Sparse representations in a nutshell
+
+$$
+\mathcal{L} =  \frac{1}{2\sigma_n^2} \sum_{x, y} ( I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi[x, y]  )^2 - \sum_i ( a[i] \neq 0)
+$$
+
+[[LP (2015)](https://laurentperrinet.github.io/publication/perrinet-15-bicv/)]
+
+{{< speaker_note >}}
+
+Probabilistic model
+
+{{< /speaker_note >}}
+
+---
+
+## Sparse representations in a nutshell
+
+{{< figure src="https://laurentperrinet.github.io/publication/rentzeperis-23/featured.png" title="[[Rentzeperis *et al* (2023)](https://laurentperrinet.github.io/publication/rentzeperis-23/)]" width="55%" >}}
 
 {{< speaker_note >}}
 
 
 {{< /speaker_note >}}
+
+
+---
+
+## Sparse representations in a nutshell
+
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/Olshausen_5.png" title="[[Olshausen and Field (1997)](http://mplab.ucsd.edu/~marni/Igert/Olshaussen_1997.pdf)]" width="55%" >}}
+
+{{< speaker_note >}}
+
+Neural implementation = gradient descent
+
+{{< /speaker_note >}}
+
+---
+
+## Sparse representations in a nutshell
+
+$$
+\phi_{i}[x, y] \leftarrow \phi_{i}[x, y] + \eta \cdot a[i] \cdot (I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi_{i}[x, y] )
+$$
+
+
+[[LP (2015)](https://laurentperrinet.github.io/publication/perrinet-15-bicv/)]
+
+{{< speaker_note >}}
+
+Learning the dictionary
+
+Hebbian learning
+
+{{< /speaker_note >}}
+
 
 ---
 
@@ -485,6 +569,41 @@ $$
 
 ## Convolutional Sparse Coding
 
+<!-- <img src="https://laurentperrinet.github.io/publication/perrinet-03-ieee/v1_tiger.gif"  width="80%"/> -->
+<video src="https://laurentperrinet.github.io/sciblog/files/2015-05-22-a-hitchhiker-guide-to-matching-pursuit/MPtutorial_rec.mp4"  width="80%"/>
+
+{{< speaker_note >}}
+
+https://nbviewer.org/github/bicv/SparseEdges/blob/master/SparseEdges.ipynb
+
+https://laurentperrinet.github.io/sciblog/posts/2015-05-22-a-hitchhiker-guide-to-matching-pursuit.html
+
+{{< /speaker_note >}}
+
+---
+
+## Convolutional Sparse Coding
+
+{{< figure src="https://laurentperrinet.github.io/publication/perrinet-15-bicv/featured.png" title="[[LP, 2015](https://laurentperrinet.github.io/publication/perrinet-15-bicv/)]" width="90%" >}}
+
+{{< speaker_note >}}
+- good performance - depends on the size of the input image
+{{< /speaker_note >}}
+
+---
+
+## Convolutional Sparse Coding
+
+{{< figure src="https://laurentperrinet.github.io/publication/ladret-23-iclr/fig_dicos.png" title="[[Ladret *et al*, 2024](https://laurentperrinet.github.io/publication/ladret-24-sparse/)]" width="90%" >}}
+
+{{< speaker_note >}}
+- heterogeneity is important
+{{< /speaker_note >}}
+
+---
+
+## Convolutional Sparse Coding
+
 {{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_c.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
 
 {{< speaker_note >}}
@@ -502,6 +621,7 @@ $$
 - novel challenges for CNNs
 - 1/ backpropagation is not bioplausible 
 {{< /speaker_note >}}
+
 
 ---
 
