@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Artificial neural networks and machine learning applied to the understanding of biological vision
+title: "Artificial neural networks and machine learning applied to the understanding of biological vision"
 subtitle: ''
 summary: ''
 authors:
@@ -35,5 +35,7 @@ publication: '*Master 1 Neurosciences et Sciences Cognitives*'
 slides: 2024-04-10-ue-neurosciences-computationnelles
 
 
-https://github.com/laurentperrinet/2024-04_UE-neurosciences-computationnelles
+links:
+- name: link
+  url: https://github.com/laurentperrinet/2024-04_UE-neurosciences-computationnelles
 ---

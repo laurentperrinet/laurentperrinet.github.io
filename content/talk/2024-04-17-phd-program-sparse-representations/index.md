@@ -36,7 +36,7 @@ slides: 2024-04-17-phd-program-sparse-representations
 
 links:
 - name: code
-  url: https://github.com/SpikeAI/2022_polychronies-review
+  url: https://github.com/laurentperrinet/2024-04_sparse-representations
 - name: link
   url: https://laurentperrinet.github.io/talk/2024-04-17-phd-program-sparse-representations
 ---
