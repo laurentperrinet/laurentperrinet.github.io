@@ -51,7 +51,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 ## Sparse representations?
 
-{{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
+{{< figure src="https://www.vhv.rs/dpng/d/57-574294_old-man-shrugging-shoulders-meme-hd-png-download.png" width="90%" >}}
 
 {{< speaker_note >}}
 Sparse coding is a technique used in signal processing and machine learning to represent data in a more concise and efficient manner. It aims to find a sparse representation of the data, which means representing the data with only a small number of non-zero coefficients or activations. In sparse coding, a set of basis functions or atoms is typically defined, and the goal is to find a linear combination of these atoms that best represents the input data. The coefficients of this linear combination are often constrained to be sparse, meaning that only a few of them are allowed to be non-zero. Sparse representations resulting from these processes have been successfully applied in various domains such as image processing, computer vision, and audio signal processing. It has shown promise in tasks such as noise reduction, compression, feature extraction, and pattern recognition. By capturing the essential structure and characteristics of the data in a sparse representation, sparse coding can help reduce redundancy and noise, and extract meaningful features for further analysis or processing.
@@ -87,8 +87,7 @@ Occam's razor: "Entities should not be multiplied without necessity."
 
 ## Sparse representations in computer vision
 
-<img src="https://laurentperrinet.github.io/publication/perrinet-04-tauc/featured.png"  width="80%"/>
-{{< figure src="https://laurentperrinet.github.io/publication/perrinet-04-tauc/featured.png" title="[[LP *et al*, 2004](https://laurentperrinet.github.io/publication/perrinet-04-tauc/)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/perrinet-04-tauc/featured.png" title="[[LP *et al*, 2004](https://laurentperrinet.github.io/publication/perrinet-04-tauc/)]" width="55%" >}}
 
 {{< speaker_note >}}
 
@@ -105,6 +104,18 @@ Occam's razor: "Entities should not be multiplied without necessity."
 {{< speaker_note >}}
 
 
+
+{{< /speaker_note >}}
+
+---
+
+## Sparse representations in computer vision
+
+{{< figure src="https://laurentperrinet.github.io/sciblog/files/2021-03-27_generative.png" title="[[LP *et al*, 2021](https://laurentperrinet.github.io/sciblog/posts/2021-03-27-density-of-stars-on-the-surface-of-the-sky.html)]" width="90%" >}}
+
+{{< speaker_note >}}
+
+an extreme case: astrophysics
 
 {{< /speaker_note >}}
 
@@ -160,6 +171,18 @@ It's interesting to draw a parallel between this process and the optic nerve tha
 
 ## Sparse representations in neuroscience
 
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/Brunel200Fig2.png" title="[[Brunel, 2001](https://books.google.fr/books?hl=fr&lr=&id=b8woDqWdTssC&oi=fnd&pg=PA307&ots=KNHQrJ-TsZ&sig=0WI2cq2RnMXC7fVTyjOEWZEdlCg&redir_esc=y#v=onepage&q&f=false)]" width="90%" >}}
+
+{{< speaker_note >}}
+Phase diagrams of sparsely connected networks of excitatory and inhibitory spiking neurons
+
+
+{{< /speaker_note >}}
+
+---
+
+## Sparse representations in neuroscience
+
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/replicating_MainenSejnowski1995.png" title="[[Mainen & Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]" width="99%" >}}
 
 {{< speaker_note >}}
@@ -178,16 +201,27 @@ mainen et sejnowski
 diesmann
 {{< /speaker_note >}}
 
---
+---
 
 ## Sparse representations in neuroscience
 
-https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/fncir-10-00037-g001a.jpg
-{{< figure src="https://laurentperrinet.github.io/publication/kremkow-16/featured.png" title="[[Kremkow *et al*, 2016](https://laurentperrinet.github.io/publication/kremkow-16/)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/fncir-10-00037-g001b.jpg" title="[[Kremkow *et al*, 2016](https://laurentperrinet.github.io/publication/kremkow-16/)]" width="90%" >}}
 
 {{< speaker_note >}}
 mainen et sejnowski
 diesmann
+{{< /speaker_note >}}
+
+---
+
+## Sparse representations in neuroscience
+
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/fncir-10-00037-g001a.jpg" title="[[Kremkow *et al*, 2016](https://laurentperrinet.github.io/publication/kremkow-16/)]" width="90%" >}}
+
+{{< speaker_note >}}
+mainen et sejnowski
+diesmann
+vinje et gallant
 {{< /speaker_note >}}
 
 
@@ -204,7 +238,100 @@ diesmann
 
 {{< speaker_note >}}
 - ...let's delve into a computational theory of vision
+
+
+review_bib = s.content_bib("LP", "2015", '"Sparse models" in <a href="https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/">Biologically Inspired Computer Vision</a>')
+
+
 {{< /speaker_note >}}
+
+
+---
+
+## Sparse representations in a nutshell
+
+{{< figure src="https://laurentperrinet.github.io/publication/perrinet-04-tauc/featured.png" title="[[LP *et al*, 2004](https://laurentperrinet.github.io/publication/perrinet-04-tauc/)]" width="55%" >}}
+
+{{< speaker_note >}}
+
+
+
+{{< /speaker_note >}}
+
+---
+
+## Sparse representations in a nutshell
+
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/Olshausen_2.png" title="[[Olshausen and Field (1997)](http://mplab.ucsd.edu/~marni/Igert/Olshaussen_1997.pdf)]" width="55%" >}}
+
+{{< speaker_note >}}
+
+
+
+{{< /speaker_note >}}
+
+---
+
+## Sparse representations in a nutshell
+
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/Olshausen_2.png" title="[[LP (2015)](http://mplab.ucsd.edu/~marni/Igert/Olshaussen_1997.pdf)]" width="55%" >}}
+
+{{< speaker_note >}}
+
+
+
+{{< /speaker_note >}}
+
+---
+
+## Sparse representations in a nutshell
+
+$$
+I[x, y]=\sum_{i=1}^{K} a[i] \cdot \phi[x, y]
+$$
+
+{{< speaker_note >}}
+
+generative model
+
+{{< /speaker_note >}}
+
+---
+
+## Sparse representations in a nutshell
+
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/Olshausen_1.png" title="[[Olshausen and Field (1997)](http://mplab.ucsd.edu/~marni/Igert/Olshaussen_1997.pdf)]" width="90%" >}}
+
+{{< speaker_note >}}
+
+
+
+{{< /speaker_note >}}
+
+---
+
+## Sparse representations in a nutshell
+
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/Olshausen_5.png" title="[[Olshausen and Field (1997)](http://mplab.ucsd.edu/~marni/Igert/Olshaussen_1997.pdf)]" width="55%" >}}
+
+{{< speaker_note >}}
+
+
+{{< /speaker_note >}}
+
+---
+
+## Sparse representations in a nutshell
+
+
+{{< video src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/ssc.mp4" title="[[LP (2010)](https://laurentperrinet.github.io/publication/perrinet-10-shl/)]" width="55%" >}}
+
+{{< speaker_note >}}
+
+
+
+{{< /speaker_note >}}
+
 
 </section>
 
@@ -214,12 +341,21 @@ diesmann
 
 ## Convolutional Sparse Coding
 
-{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
 
 {{< speaker_note >}}
 - this can be integrated in a hierarchy...
 - defining a Convolutional Neural Networks (CNN)
-- one layer is a convolution
+{{< /speaker_note >}}
+
+---
+
+### Convolutional Neural Nets (CNN)
+
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
+
+{{< speaker_note >}}
+- one layer is a convolution - so let's describe that first
 {{< /speaker_note >}}
 
 ---
@@ -232,38 +368,10 @@ diesmann
 - sota...
 {{< /speaker_note >}}
 
----
-
-## Convolutional Sparse Coding
-
-{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
-
-{{< speaker_note >}}
-- this can be integrated in a hierarchy...
-- defining a Convolutional Neural Networks (CNN)
-- one layer is a convolution
-{{< /speaker_note >}}
 
 ---
 
-## Convolutional Sparse Coding
-
-
-{{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
-
-{{< speaker_note >}}
-- another important missing feature: time
-
-
-https://journals.plos.org/ploscompbiol/article/figure/image?size=large&download=&id=10.1371/journal.pcbi.1008629.g002
-
-https://journals.plos.org/ploscompbiol/article/figure/image?size=large&download=&id=10.1371/journal.pcbi.1008629.g014
-
-{{< /speaker_note >}}
-
----
-
-### CNN: Mathematics
+### Convolution: Mathematics
 
 * One-dimensional [discrete convolution](https://en.wikipedia.org/wiki/Convolution#Discrete_convolution) (eg in time) with a kernel $g$ of radius $K$:
 $$
@@ -278,7 +386,7 @@ $$
 
 ---
 
-### CNN: Mathematics
+### Convolution: Mathematics
 
 * Convolution of an image (two-dimensional) with a kernel $g$ of radius $K\times K$:
 
@@ -292,7 +400,7 @@ $$
 
 ---
 
-### CNN: Mathematics
+### Convolution: Mathematics
 
 * **Cross-correlation** of an image (two-dimensional) with a kernel $g$ of radius $K\times K$:
 
@@ -306,7 +414,7 @@ $$
 
 ---
 
-### CNN: Mathematics
+### Convolution: Mathematics
 
 {{< figure src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/convolution-layer-a.png" title="[[Amidi & Amidi](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)]" width="90%" >}}
 
@@ -316,7 +424,7 @@ $$
 
 ---
 
-### CNN: Mathematics
+### Convolution: Mathematics
 
 * Correlation of an image defined on several channels (note [the order of the indices](https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html)):
 
@@ -330,7 +438,7 @@ $$
 
 ---
 
-### CNN: Mathematics
+### Convolution: Mathematics
 
 * Correlation of a multi-channel image for multiple output channels (note [the order of the indices](https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html)):
 
@@ -365,9 +473,61 @@ $$
 
 ---
 
+## Convolutional Sparse Coding
+
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_b.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
+
+{{< speaker_note >}}
+- adding a first loop of sparse coding
+{{< /speaker_note >}}
+
+---
+
+## Convolutional Sparse Coding
+
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_c.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
+
+{{< speaker_note >}}
+- novel challenges for CNNs
+- 1/ backpropagation is not bioplausible 
+{{< /speaker_note >}}
+
+---
+
+## Convolutional Sparse Coding
+
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_full.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
+
+{{< speaker_note >}}
+- novel challenges for CNNs
+- 1/ backpropagation is not bioplausible 
+{{< /speaker_note >}}
+
+---
+
 ### CNN: Predictive processing
 
-{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/SDPC_3.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
+
+{{< speaker_note >}}
+- result on MNIST
+{{< /speaker_note >}}
+
+---
+
+### CNN: Predictive processing
+
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure4a.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
+
+{{< speaker_note >}}
+- modifications= adding sparse coding + feedback
+{{< /speaker_note >}}
+
+---
+
+### CNN: Predictive processing
+
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure4b.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
 
 {{< speaker_note >}}
 - modifications= adding sparse coding + feedback
@@ -378,6 +538,16 @@ $$
 ### CNN: Predictive processing
 
 {{< figure src="https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/BoutinFranciosiniChavaneRuffierPerrinet20face.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
+
+{{< speaker_note >}}
+- result= interpretable features
+{{< /speaker_note >}}
+ 
+---
+
+### CNN: Predictive processing
+
+{{< video src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/training_video_ATT.mp4)]" width="90%" >}}
 
 {{< speaker_note >}}
 - result= interpretable features
@@ -409,16 +579,6 @@ $$
 ---
 
 <section>
-
-
-## Artificial neural networks applied to the understanding of biological vision
-
-{{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
-
-{{< speaker_note >}}
-{{< /speaker_note >}}
-
----
 
 ### [Sparse representations](https://laurentperrinet.github.io/slides/2024-04-17_phd-program-sparse-representations/?transition=fade)
 ####	*[Laurent Perrinet](https://laurentperrinet.github.io)*
