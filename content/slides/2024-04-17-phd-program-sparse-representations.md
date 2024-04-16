@@ -292,8 +292,10 @@ review_bib = s.content_bib("LP", "2015", '"Sparse models" in <a href="https://la
 Generative model of image synthesis:
 
 $I[x, y] =  $ 
-{{< fragment >}} $\sum_{i=1}^{K} a[i] \cdot \phi[x, y]$ {{< /fragment >}}
+{{< fragment >}} $\sum_{i=1}^{K} a[i] \cdot \phi[i, x, y]$ {{< /fragment >}}
 {{< fragment >}} $ + \varepsilon[x, y]$ {{< /fragment >}}
+
+Where $\phi$ is a dictionary of $K$ atoms, $a$ is a sparse vector of coefficients, and $\varepsilon$ is a noise term.
 
 [[LP (2015)](https://laurentperrinet.github.io/publication/perrinet-15-bicv/)]
 
@@ -321,17 +323,41 @@ generative model
 
 ## Sparse representations in a nutshell
 
-$$\mathcal{L} = - \log Pr( a | I )$$
+Given an observation $I$,
 
-{{< fragment >}}
-$$\mathcal{L} = - \log Pr( I | a ) - \log Pr( a)$$
-{{< /fragment >}}
+$$
+\begin{aligned}
+  \mathcal{L}(a) &amp; =  - \log Pr( a | I ) \\\\
+  \end{aligned} 
+$$
 
-{{< fragment >}}
-$$\mathcal{L} =  \frac{1}{2\sigma_n^2} \sum_{x, y} ( I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi[x, y]  )^2 - \sum_{i=1}^{K} \log Pr( a[i] )$$
-{{< /fragment >}}
+---
 
-[[LP (2015)](https://laurentperrinet.github.io/publication/perrinet-15-bicv/)]
+## Sparse representations in a nutshell
+
+Given an observation $I$,
+
+$$
+\begin{aligned}
+  \mathcal{L}(a) &amp; =  - \log Pr( a | I ) \\\\
+  &amp; = - \log Pr( I | a ) - \log Pr(a) \\\\
+  \end{aligned} 
+  $$
+
+---
+
+## Sparse representations in a nutshell
+
+Given an observation $I$,
+
+$$
+\begin{aligned}
+  \mathcal{L}(a) &amp; =  - \log Pr( a | I ) \\\\
+  &amp; = - \log Pr( I | a ) - \log Pr(a) \\\\
+  &amp; = \frac{1}{2\sigma_n^2} \sum_{x, y} ( I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi[i, x, y])^2 - \sum_{i=1}^{K} \log Pr( a[i] )
+  \end{aligned} 
+  $$
+
 
 {{< speaker_note >}}
 
@@ -343,15 +369,18 @@ Probabilistic model
 
 ## Sparse representations in a nutshell
 
+The problem is formalized as an optimization problem $a^\ast = \arg \min_a \mathcal{L}(a)$ with:
+
 $$
-\mathcal{L} =  \sum_{x, y} ( I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi[x, y]  )^2 + \lambda \cdot \sum_{i=1}^{K} | a[i] |
+\mathcal{L} = \frac{1}{2} \sum_{x, y} ( I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi[i, x, y])^2 + \lambda \cdot \sum_i ( a[i] \neq 0)
 $$
 
 [[LP (2015)](https://laurentperrinet.github.io/publication/perrinet-15-bicv/)]
 
 {{< speaker_note >}}
 
-Probabilistic model
+spiking prior => l0 pseudo norm
+l0 problem is NP-complete
 
 {{< /speaker_note >}}
 
@@ -359,15 +388,16 @@ Probabilistic model
 
 ## Sparse representations in a nutshell
 
+The problem is formalized as an optimization problem $a^\ast = \arg \min_a \mathcal{L}(a)$ with:
+
 $$
-\mathcal{L} = \sum_{x, y} ( I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi[x, y]  )^2 + \lambda \cdot \sum_i ( a[i] \neq 0)
+\mathcal{L}(a) = \frac{1}{2} \sum_{x, y} ( I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi[i, x, y])^2 + \lambda \cdot \sum_{i=1}^{K} | a[i] |
 $$
 
-[[LP (2015)](https://laurentperrinet.github.io/publication/perrinet-15-bicv/)]
 
 {{< speaker_note >}}
 
-Probabilistic model
+exponential prior => L1 norm
 
 {{< /speaker_note >}}
 
@@ -393,11 +423,131 @@ Probabilistic model
 
 Neural implementation = gradient descent
 
+LASSO = least absolute shrinkage and selection operator
+
+Orthogonal Matching Pursuit (OMP): OMP is an iterative algorithm used for sparse signal recovery. It starts with an initial sparse solution and iteratively selects the most correlated dictionary atoms with the residual signal. OMP aims to minimize the L2 norm of the residual while maintaining sparsity. It has a greedy nature and can provide a near-optimal sparse solution.
+
+Basis Pursuit (BP): Basis Pursuit is an optimization problem that seeks the sparsest solution to an underdetermined linear system of equations. It involves minimizing the L1 norm of the coefficient vector subject to a linear constraint. BP can be solved using linear programming techniques or convex optimization algorithms.
+
+Iterative Soft Thresholding Algorithm (ISTA): ISTA is an iterative optimization algorithm commonly used in sparse coding. It alternates between a gradient descent step and a soft thresholding step. The gradient descent step minimizes the data fidelity term, and the soft thresholding step enforces sparsity by setting small coefficients to zero. ISTA converges to a sparse solution and can be used for dictionary learning.
+
+FISTA (Fast Iterative Shrinkage-Thresholding Algorithm): FISTA is an accelerated version of ISTA that improves convergence speed. It incorporates momentum into the optimization process and achieves faster convergence rates.
+
+ADMM (Alternating Direction Method of Multipliers): ADMM is an optimization technique that decomposes the original problem into smaller subproblems and solves them iteratively. It is often used for convex optimization problems with L1 regularization. ADMM has been applied to solve sparse coding problems efficiently.
+
+{{< /speaker_note >}}
+
+
+</section>
+
+---
+
+<section>
+
+<!-- <section style="text-align: left;"> -->
+
+## Matching pursuit algorithm
+
+- Init : Residual $R = I$, sparse vector $a[i] = 0$
+
+- while $\frac{1}{2} \sum_{x, y} R[x, y]^2 > \vartheta $, do :
+
+{{< speaker_note >}}
+instead of finding the exact solution to the approximate problem, let's solve approxiamtltly the exact one
+
+[[LP (2010)](https://laurentperrinet.github.io/publication/perrinet-15-bicv/)]
 {{< /speaker_note >}}
 
 ---
 
-## Sparse representations in a nutshell
+## Matching pursuit algorithm
+
+- Init : Residual $R = I$, sparse vector $a[i] = 0$
+
+- while $\frac{1}{2} \sum_{x, y} R[x, y]^2 > \vartheta $, do :
+
+  - Match: 
+  $i^\ast = \arg \min_i \sum_{x, y} (R[x, y] -  a[i] \cdot \phi[i, x, y])^2$
+
+
+{{< speaker_note >}}
+greedy, one by one
+{{< /speaker_note >}}
+
+---
+
+## Matching pursuit algorithm
+
+- Init : $R = I$, $a[i] = 0$ 
+
+- while $\frac{1}{2} \sum_{x, y} R[x, y]^2 > \vartheta $, do :
+
+  - Match : 
+  $i^\ast = \arg \max_i \sum_{x, y} ( I[x, y] \cdot \phi[i, x, y])$
+{{< fragment >}}- Assign : $a[i^\ast] = \frac{\sum_{x, y} (R[x, y] \cdot \phi[i^\ast, x, y])}{\sum_{x, y} ( \phi[i^\ast, x, y] \cdot \phi[i^\ast, x, y])}${{< /fragment >}}
+
+{{< speaker_note >}}
+use of correlation instead of energy
+assign th first value of the sparse vector to the winning one
+{{< /speaker_note >}}
+
+---
+
+## Matching pursuit algorithm
+
+
+- Init : $R = I$, $a[i] = 0$, normalize $\sum_{x, y} \phi[i, x, y]^2 = 1$ $\forall i$, 
+
+- while $\frac{1}{2} \sum_{x, y} R[x, y]^2 > \vartheta $, do :
+
+  - Match : $i^\ast = \arg \max_i \sum_{x, y} (R[x, y] \cdot \phi[i, x, y])$
+  - Assign : $a[i^\ast] = \frac{\sum_{x, y} (R[x, y] \cdot \phi[i^\ast, x, y])}{\sum_{x, y} ( \phi[i^\ast, x, y] \cdot \phi[i^\ast, x, y])}$
+{{< fragment >}} - Pursuit : $R[x, y] \leftarrow R[x, y] - a[i^\ast] \cdot \phi[i^\ast, x, y] $ {{< /fragment >}}
+
+{{< speaker_note >}}
+use of correlation
+assign th first value of the sparse vector to the winning one
+{{< /speaker_note >}}
+
+---
+
+## Matching pursuit algorithm
+
+- Init : $R = I$, $\forall i$, $a[i] = 0$, $\sum_{x, y} \phi[i, x, y]^2 = 1$ 
+- compute $c[i] = \sum_{x, y} (R[x, y] \cdot \phi[i, x, y])$ 
+- compute $X[i, j] = \sum_{x, y} (\phi[i, x, y] \cdot \phi[j, x, y])$
+
+- while $\frac{1}{2} \sum_{x, y} R[x, y]^2 > \vartheta $, do :
+
+  - Match : $i^\ast = \arg \max_i c_i$
+  - Assign : $a[i^\ast] = c_{i^\ast}$
+  - Pursuit : $c[i] \leftarrow c[i] - X[i, i^\ast] $
+
+[[LP (2004)](https://laurentperrinet.github.io/publication/perrinet-03-ieee)]
+
+{{< speaker_note >}}
+use of correlation
+assign th first value of the sparse vector to the winning one
+{{< /speaker_note >}}
+
+
+---
+
+## Matching pursuit algorithm
+
+<img src="https://laurentperrinet.github.io/publication/perrinet-03-ieee/v1_tiger.gif"  width="60%"/>
+
+{{< speaker_note >}}
+
+ça marche très bien!
+
+{{< /speaker_note >}}
+
+---
+
+## Matching pursuit algorithm
+
+Hebbian learning (once the sparse code is known):
 
 $$
 \phi_{i}[x, y] \leftarrow \phi_{i}[x, y] + \eta \cdot a[i] \cdot (I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi_{i}[x, y] )
@@ -417,10 +567,9 @@ Hebbian learning
 
 ---
 
-## Sparse representations in a nutshell
+## Matching pursuit algorithm
 
-
-{{< video src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/ssc.mp4" title="[[LP (2010)](https://laurentperrinet.github.io/publication/perrinet-10-shl/)]" width="55%" >}}
+{{< video src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/ssc.mp4" title="[[LP (2010)](https://laurentperrinet.github.io/publication/perrinet-10-shl/)]" controls="yes" width="55%" >}}
 
 {{< speaker_note >}}
 
@@ -679,7 +828,7 @@ https://laurentperrinet.github.io/sciblog/posts/2015-05-22-a-hitchhiker-guide-to
 
 ### CNN: Predictive processing
 
-{{< video src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/training_video_ATT.mp4" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
+{{< video src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/training_video_ATT.mp4" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" controls="yes" width="90%" >}}
 
 {{< speaker_note >}}
 - result= interpretable features

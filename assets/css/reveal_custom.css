@@ -40,8 +40,13 @@
   } */
 
 
+  .reveal p {
+    text-align: left; 
+  }
+  
   .reveal div {
     font-size: 80%;
     color: black;
+    text-align: left; 
   }
   
