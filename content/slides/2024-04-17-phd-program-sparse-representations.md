@@ -12,14 +12,14 @@ all_day: false
 ## Schedule page publish date (NOT talk date).
 publishDate: "2024-03-29T12:47:11+02:00"
 
-title: 2024-04-17_phd-program-sparse-representations
+title: 2024-04-17-phd-program-sparse-representations
 
 summary: Sparse representations in machine learning applied to the understanding of biological vision
 
 ---
 <section>
 
-### [Sparse representations](https://laurentperrinet.github.io/slides/2024-04-17_phd-program-sparse-representations/?transition=fade)
+### [Sparse representations](https://laurentperrinet.github.io/slides/2024-04-17-phd-program-sparse-representations/?transition=fade)
 ####	*[Laurent Perrinet](https://laurentperrinet.github.io)*
 ####	<u>[[2024-04-17]](https://etulab.univ-amu.fr/gilson.m/compneuro_course) [NeuroSchool PhD Program in Neuroscience.](https://neuro-marseille.org/en/training/phd-program/)</u>
 
@@ -52,6 +52,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 ## Sparse representations?
 
 {{< figure src="https://www.vhv.rs/dpng/d/57-574294_old-man-shrugging-shoulders-meme-hd-png-download.png" width="90%" >}}
+{{< figure src="https://i.imgflip.com/2lmff7.jpg" width="90%" >}}
 
 {{< speaker_note >}}
 Sparse coding is a technique used in signal processing and machine learning to represent data in a more concise and efficient manner. It aims to find a sparse representation of the data, which means representing the data with only a small number of non-zero coefficients or activations. In sparse coding, a set of basis functions or atoms is typically defined, and the goal is to find a linear combination of these atoms that best represents the input data. The coefficients of this linear combination are often constrained to be sparse, meaning that only a few of them are allowed to be non-zero. Sparse representations resulting from these processes have been successfully applied in various domains such as image processing, computer vision, and audio signal processing. It has shown promise in tasks such as noise reduction, compression, feature extraction, and pattern recognition. By capturing the essential structure and characteristics of the data in a sparse representation, sparse coding can help reduce redundancy and noise, and extract meaningful features for further analysis or processing.
@@ -270,17 +271,6 @@ review_bib = s.content_bib("LP", "2015", '"Sparse models" in <a href="https://la
 
 {{< /speaker_note >}}
 
----
-
-## Sparse representations in a nutshell
-
-{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/Olshausen_2.png" title="[[LP (2015)](http://mplab.ucsd.edu/~marni/Igert/Olshaussen_1997.pdf)]" width="55%" >}}
-
-{{< speaker_note >}}
-
-
-
-{{< /speaker_note >}}
 
 ---
 
@@ -296,6 +286,8 @@ $$
 {{< speaker_note >}}
 
 generative model
+
+\phi is over-complete (else it is triviallly solved by pseudo inverse)
 
 {{< /speaker_note >}}
 
@@ -316,7 +308,7 @@ generative model
 ## Sparse representations in a nutshell
 
 $$
-\mathcal{L} =  \frac{1}{2\sigma_n^2} \sum_{x, y} ( I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi[x, y]  )^2 - \sum_i \log Pr( a[i] | \phi)
+\mathcal{L} =  \frac{1}{2\sigma_n^2} \sum_{x, y} ( I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi[x, y]  )^2 - \sum_{i=1}^{K} a[i \log Pr( a[i] )
 $$
 
 [[LP (2015)](https://laurentperrinet.github.io/publication/perrinet-15-bicv/)]
@@ -332,7 +324,7 @@ Probabilistic model
 ## Sparse representations in a nutshell
 
 $$
-\mathcal{L} =  \frac{1}{2\sigma_n^2} \sum_{x, y} ( I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi[x, y]  )^2 - \sum_i |  a[i] |
+\mathcal{L} =  \frac{1}{2\sigma_n^2} \sum_{x, y} ( I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi[x, y]  )^2 - \sum_{i=1}^{K} a[i | a[i] |
 $$
 
 [[LP (2015)](https://laurentperrinet.github.io/publication/perrinet-15-bicv/)]
@@ -570,7 +562,7 @@ $$
 ## Convolutional Sparse Coding
 
 <!-- <img src="https://laurentperrinet.github.io/publication/perrinet-03-ieee/v1_tiger.gif"  width="80%"/> -->
-<video src="https://laurentperrinet.github.io/sciblog/files/2015-05-22-a-hitchhiker-guide-to-matching-pursuit/MPtutorial_rec.mp4"  width="80%"/>
+<video src="https://laurentperrinet.github.io/sciblog/files/2015-05-22-a-hitchhiker-guide-to-matching-pursuit/MPtutorial_rec.mp4"  width="60%"/>
 
 {{< speaker_note >}}
 
@@ -667,7 +659,7 @@ https://laurentperrinet.github.io/sciblog/posts/2015-05-22-a-hitchhiker-guide-to
 
 ### CNN: Predictive processing
 
-{{< video src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/training_video_ATT.mp4)]" width="90%" >}}
+{{< video src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/training_video_ATT.mp4" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
 
 {{< speaker_note >}}
 - result= interpretable features
@@ -700,7 +692,7 @@ https://laurentperrinet.github.io/sciblog/posts/2015-05-22-a-hitchhiker-guide-to
 
 <section>
 
-### [Sparse representations](https://laurentperrinet.github.io/slides/2024-04-17_phd-program-sparse-representations/?transition=fade)
+### [Sparse representations](https://laurentperrinet.github.io/slides/2024-04-17-phd-program-sparse-representations/?transition=fade)
 ####	*[Laurent Perrinet](https://laurentperrinet.github.io)*
 ####	<u>[[2024-04-17]](https://etulab.univ-amu.fr/gilson.m/compneuro_course) [NeuroSchool PhD Program in Neuroscience.](https://neuro-marseille.org/en/training/phd-program/)</u>
 
