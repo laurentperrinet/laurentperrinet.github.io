@@ -484,7 +484,25 @@ greedy, one by one
 
   - Match : 
   $i^\ast = \arg \max_i \sum_{x, y} ( I[x, y] \cdot \phi[i, x, y])$
-{{< fragment >}}- Assign : $a[i^\ast] = \frac{\sum_{x, y} (R[x, y] \cdot \phi[i^\ast, x, y])}{\sum_{x, y} ( \phi[i^\ast, x, y] \cdot \phi[i^\ast, x, y])}${{< /fragment >}}
+
+
+{{< speaker_note >}}
+use of correlation instead of energy
+assign th first value of the sparse vector to the winning one
+{{< /speaker_note >}}
+
+---
+
+## Matching pursuit algorithm
+
+- Init : $R = I$, $a[i] = 0$ 
+
+- while $\frac{1}{2} \sum_{x, y} R[x, y]^2 > \vartheta $, do :
+
+  - Match : 
+  $i^\ast = \arg \max_i \sum_{x, y} ( I[x, y] \cdot \phi[i, x, y])$
+  - Assign : $a[i^\ast] = \frac{\sum_{x, y} (R[x, y] \cdot \phi[i^\ast, x, y])}{\sum_{x, y} ( \phi[i^\ast, x, y] \cdot \phi[i^\ast, x, y])}$
+  
 
 {{< speaker_note >}}
 use of correlation instead of energy
@@ -502,7 +520,24 @@ assign th first value of the sparse vector to the winning one
 
   - Match : $i^\ast = \arg \max_i \sum_{x, y} (R[x, y] \cdot \phi[i, x, y])$
   - Assign : $a[i^\ast] = \frac{\sum_{x, y} (R[x, y] \cdot \phi[i^\ast, x, y])}{\sum_{x, y} ( \phi[i^\ast, x, y] \cdot \phi[i^\ast, x, y])}$
-{{< fragment >}} - Pursuit : $R[x, y] \leftarrow R[x, y] - a[i^\ast] \cdot \phi[i^\ast, x, y] $ {{< /fragment >}}
+
+{{< speaker_note >}}
+use of correlation
+assign th first value of the sparse vector to the winning one
+{{< /speaker_note >}}
+
+---
+
+## Matching pursuit algorithm
+
+
+- Init : $R = I$, $a[i] = 0$, normalize $\sum_{x, y} \phi[i, x, y]^2 = 1$ $\forall i$, 
+
+- while $\frac{1}{2} \sum_{x, y} R[x, y]^2 > \vartheta $, do :
+
+  - Match : $i^\ast = \arg \max_i \sum_{x, y} (R[x, y] \cdot \phi[i, x, y])$
+  - Assign : $a[i^\ast] = \frac{\sum_{x, y} (R[x, y] \cdot \phi[i^\ast, x, y])}{\sum_{x, y} ( \phi[i^\ast, x, y] \cdot \phi[i^\ast, x, y])}$
+  - Pursuit : $R[x, y] \leftarrow R[x, y] - a[i^\ast] \cdot \phi[i^\ast, x, y]$
 
 {{< speaker_note >}}
 use of correlation
@@ -730,14 +765,11 @@ $$
 
 ## Convolutional Sparse Coding
 
-<!-- <img src="https://laurentperrinet.github.io/publication/perrinet-03-ieee/v1_tiger.gif"  width="80%"/> -->
-<video src="https://laurentperrinet.github.io/sciblog/files/2015-05-22-a-hitchhiker-guide-to-matching-pursuit/MPtutorial_rec.mp4"  width="60%"/>
+{{< video src="https://laurentperrinet.github.io/sciblog/files/2015-05-22-a-hitchhiker-guide-to-matching-pursuit/MPtutorial_rec.mp4" controls="yes" height="90%" >}}
 
+Code @ [A hitchhiker guide to Matching Pursuit](https://laurentperrinet.github.io/sciblog/posts/2015-05-22-a-hitchhiker-guide-to-matching-pursuit.html)
 {{< speaker_note >}}
 
-https://nbviewer.org/github/bicv/SparseEdges/blob/master/SparseEdges.ipynb
-
-https://laurentperrinet.github.io/sciblog/posts/2015-05-22-a-hitchhiker-guide-to-matching-pursuit.html
 
 {{< /speaker_note >}}
 
@@ -746,6 +778,8 @@ https://laurentperrinet.github.io/sciblog/posts/2015-05-22-a-hitchhiker-guide-to
 ## Convolutional Sparse Coding
 
 {{< figure src="https://laurentperrinet.github.io/publication/perrinet-15-bicv/featured.png" title="[[LP, 2015](https://laurentperrinet.github.io/publication/perrinet-15-bicv/)]" width="90%" >}}
+
+Code @ [SparseEdges](https://nbviewer.org/github/bicv/SparseEdges/blob/master/SparseEdges.ipynb)
 
 {{< speaker_note >}}
 - good performance - depends on the size of the input image
