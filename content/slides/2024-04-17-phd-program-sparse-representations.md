@@ -2,7 +2,8 @@
  slides:
  # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: white
-  transition: 'fade'
+  reveal_options:
+    transition: 'fade'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -51,8 +52,8 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 ## Sparse representations?
 
-{{< figure src="https://www.vhv.rs/dpng/d/57-574294_old-man-shrugging-shoulders-meme-hd-png-download.png" width="90%" >}}
-{{< figure src="https://i.imgflip.com/2lmff7.jpg" width="90%" >}}
+<!-- {{< figure src="https://www.vhv.rs/dpng/d/57-574294_old-man-shrugging-shoulders-meme-hd-png-download.png" width="90%" >}} -->
+{{< figure src="https://i.imgflip.com/2lmff7.jpg" width="80%" >}}
 
 {{< speaker_note >}}
 Sparse coding is a technique used in signal processing and machine learning to represent data in a more concise and efficient manner. It aims to find a sparse representation of the data, which means representing the data with only a small number of non-zero coefficients or activations. In sparse coding, a set of basis functions or atoms is typically defined, and the goal is to find a linear combination of these atoms that best represents the input data. The coefficients of this linear combination are often constrained to be sparse, meaning that only a few of them are allowed to be non-zero. Sparse representations resulting from these processes have been successfully applied in various domains such as image processing, computer vision, and audio signal processing. It has shown promise in tasks such as noise reduction, compression, feature extraction, and pattern recognition. By capturing the essential structure and characteristics of the data in a sparse representation, sparse coding can help reduce redundancy and noise, and extract meaningful features for further analysis or processing.
@@ -67,6 +68,18 @@ Sparse coding is a technique used in signal processing and machine learning to r
 {{< speaker_note >}}
 
 Paysage catalan (Le Chasseur)
+
+{{< /speaker_note >}}
+
+---
+
+## Sparse representations in computer vision
+
+{{< figure src="https://laurentperrinet.github.io/publication/perrinet-04-tauc/featured.png" title="[[LP *et al*, 2004](https://laurentperrinet.github.io/publication/perrinet-04-tauc/)]" width="55%" >}}
+
+{{< speaker_note >}}
+
+vision is an inverse problem
 
 {{< /speaker_note >}}
 
@@ -88,7 +101,7 @@ Occam's razor: "Entities should not be multiplied without necessity."
 
 ## Sparse representations in computer vision
 
-{{< figure src="https://laurentperrinet.github.io/publication/perrinet-04-tauc/featured.png" title="[[LP *et al*, 2004](https://laurentperrinet.github.io/publication/perrinet-04-tauc/)]" width="55%" >}}
+<img src="https://laurentperrinet.github.io/publication/perrinet-03-ieee/v1_tiger.gif"  width="60%"/>
 
 {{< speaker_note >}}
 
@@ -100,12 +113,10 @@ Occam's razor: "Entities should not be multiplied without necessity."
 
 ## Sparse representations in computer vision
 
-<img src="https://laurentperrinet.github.io/publication/perrinet-03-ieee/v1_tiger.gif"  width="60%"/>
+{{< figure src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/figures/figure_synthesis.svg" title="[[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" width="70%" >}}
 
 {{< speaker_note >}}
-
-
-
+- extracting edges is useful
 {{< /speaker_note >}}
 
 ---
@@ -172,11 +183,13 @@ It's interesting to draw a parallel between this process and the optic nerve tha
 
 ## Sparse representations in neuroscience
 
-{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/Brunel200Fig2.png" title="[[Brunel, 2001](https://books.google.fr/books?hl=fr&lr=&id=b8woDqWdTssC&oi=fnd&pg=PA307&ots=KNHQrJ-TsZ&sig=0WI2cq2RnMXC7fVTyjOEWZEdlCg&redir_esc=y#v=onepage&q&f=false)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/Brunel200Fig2.png" title="[[Brunel, 2001](https://books.google.fr/books?hl=fr&lr=&id=b8woDqWdTssC&oi=fnd&pg=PA307&ots=KNHQrJ-TsZ&sig=0WI2cq2RnMXC7fVTyjOEWZEdlCg&redir_esc=y#v=onepage&q&f=false)]" width="50%" >}}
 
 {{< speaker_note >}}
 Phase diagrams of sparsely connected networks of excitatory and inhibitory spiking neurons
 
+
+healthy network = 1Hz = sparse activity (stronger in auditory, in insects, ...)
 
 {{< /speaker_note >}}
 
@@ -274,37 +287,13 @@ review_bib = s.content_bib("LP", "2015", '"Sparse models" in <a href="https://la
 
 ---
 
-## Fragments
-
-Make content appear incrementally
-
-```
-{{</* fragment */>}} $\mathbf{y} =  $ {{</* /fragment */>}}
-{{</* fragment */>}} $X\boldsymbol\beta$ {{</* /fragment */>}}
-{{</* fragment */>}} $+ \boldsymbol\varepsilon$ {{</* /fragment */>}}
-```
-
-Press `Space` to play!
-
-{{< fragment >}} $\mathbf{y} =  $ {{< /fragment >}}
-{{< fragment >}} $X\boldsymbol\beta$ {{< /fragment >}}
-{{< fragment >}} $+ \boldsymbol\varepsilon$ {{< /fragment >}}
-
----
-
-A fragment can accept two optional parameters:
-
-- `class`: use a custom style (requires definition in custom CSS)
-- `weight`: sets the order in which a fragment appears
-
----
-
 ## Sparse representations in a nutshell
 
-$$
-I[x, y]=\sum_{i=1}^{K} a[i] \cdot \phi[x, y] + \varepsilon[x, y]
-$$
+Generative model of image synthesis:
 
+$I[x, y] =  $ 
+{{< fragment >}} $\sum_{i=1}^{K} a[i] \cdot \phi[x, y]$ {{< /fragment >}}
+{{< fragment >}} $ + \varepsilon[x, y]$ {{< /fragment >}}
 
 [[LP (2015)](https://laurentperrinet.github.io/publication/perrinet-15-bicv/)]
 
@@ -332,8 +321,30 @@ generative model
 
 ## Sparse representations in a nutshell
 
+$$\mathcal{L} = - \log Pr( a | I )$$
+
+{{< fragment >}}
+$$\mathcal{L} = - \log Pr( I | a ) - \log Pr( a)$$
+{{< /fragment >}}
+
+{{< fragment >}}
+$$\mathcal{L} =  \frac{1}{2\sigma_n^2} \sum_{x, y} ( I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi[x, y]  )^2 - \sum_{i=1}^{K} \log Pr( a[i] )$$
+{{< /fragment >}}
+
+[[LP (2015)](https://laurentperrinet.github.io/publication/perrinet-15-bicv/)]
+
+{{< speaker_note >}}
+
+Probabilistic model
+
+{{< /speaker_note >}}
+
+---
+
+## Sparse representations in a nutshell
+
 $$
-\mathcal{L} =  \frac{1}{2\sigma_n^2} \sum_{x, y} ( I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi[x, y]  )^2 - \sum_{i=1}^{K} a[i \log Pr( a[i] )
+\mathcal{L} =  \sum_{x, y} ( I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi[x, y]  )^2 + \lambda \cdot \sum_{i=1}^{K} | a[i] |
 $$
 
 [[LP (2015)](https://laurentperrinet.github.io/publication/perrinet-15-bicv/)]
@@ -349,23 +360,7 @@ Probabilistic model
 ## Sparse representations in a nutshell
 
 $$
-\mathcal{L} =  \frac{1}{2\sigma_n^2} \sum_{x, y} ( I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi[x, y]  )^2 - \sum_{i=1}^{K} a[i | a[i] |
-$$
-
-[[LP (2015)](https://laurentperrinet.github.io/publication/perrinet-15-bicv/)]
-
-{{< speaker_note >}}
-
-Probabilistic model
-
-{{< /speaker_note >}}
-
----
-
-## Sparse representations in a nutshell
-
-$$
-\mathcal{L} =  \frac{1}{2\sigma_n^2} \sum_{x, y} ( I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi[x, y]  )^2 - \sum_i ( a[i] \neq 0)
+\mathcal{L} = \sum_{x, y} ( I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi[x, y]  )^2 + \lambda \cdot \sum_i ( a[i] \neq 0)
 $$
 
 [[LP (2015)](https://laurentperrinet.github.io/publication/perrinet-15-bicv/)]
