@@ -616,7 +616,7 @@ $$
 
 {{< speaker_note >}}
 
-Learning the dictionary
+Unsupervised Learning of the dictionary
 
 Hebbian learning
 
