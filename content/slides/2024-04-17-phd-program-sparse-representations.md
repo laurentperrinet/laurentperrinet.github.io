@@ -56,7 +56,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 {{< figure src="https://i.imgflip.com/2lmff7.jpg" width="80%" >}}
 
 {{< speaker_note >}}
-Sparse coding is a technique used in signal processing and machine learning to represent data in a more concise and efficient manner. It aims to find a sparse representation of the data, which means representing the data with only a small number of non-zero coefficients or activations. In sparse coding, a set of basis functions or atoms is typically defined, and the goal is to find a linear combination of these atoms that best represents the input data. The coefficients of this linear combination are often constrained to be sparse, meaning that only a few of them are allowed to be non-zero. Sparse representations resulting from these processes have been successfully applied in various domains such as image processing, computer vision, and audio signal processing. It has shown promise in tasks such as noise reduction, compression, feature extraction, and pattern recognition. By capturing the essential structure and characteristics of the data in a sparse representation, sparse coding can help reduce redundancy and noise, and extract meaningful features for further analysis or processing.
+Sparse coding is a technique used in signal processing and machine learning to represent data in a more concise and efficient manner. It aims to find a sparse representation of the data, which means representing the data with only a small number of non-zero coefficients or activations. In sparse coding, a set of basis functions or atoms is typically defined, and the goal is to find a linear combination of these atoms that best represents the input data. The coefficients of this linear combination are often constrained to be sparse, meaning that only a few of them are allowed to be non-zero. 
 {{< /speaker_note >}}
 
 ---
@@ -93,6 +93,17 @@ vision is an inverse problem
 
 René Magritte La corde sensible (Heartstring)
 
+
+{{< /speaker_note >}}
+
+---
+
+<img src="http://www.quickmeme.com/img/e7/e762d72e778aaaf26b40f606761abbdf755b6ae39caeed70fe4abb4ce7071869.jpg"  width="80%"/> 
+
+{{< speaker_note >}}
+
+René Magritte La corde sensible (Heartstring)
+
 Occam's razor: "Entities should not be multiplied without necessity."
 
 {{< /speaker_note >}}
@@ -123,7 +134,7 @@ Occam's razor: "Entities should not be multiplied without necessity."
 
 ## Sparse representations in computer vision
 
-{{< figure src="https://laurentperrinet.github.io/sciblog/files/2021-03-27_generative.png" title="[[LP *et al*, 2021](https://laurentperrinet.github.io/sciblog/posts/2021-03-27-density-of-stars-on-the-surface-of-the-sky.html)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/sciblog/files/2021-03-27_generative.png" title="[[LP, 2021](https://laurentperrinet.github.io/sciblog/posts/2021-03-27-density-of-stars-on-the-surface-of-the-sky.html)]" width="90%" >}}
 
 {{< speaker_note >}}
 
@@ -238,6 +249,17 @@ diesmann
 vinje et gallant
 {{< /speaker_note >}}
 
+---
+
+## Sparse representations?
+
+<!-- {{< figure src="https://www.vhv.rs/dpng/d/57-574294_old-man-shrugging-shoulders-meme-hd-png-download.png" width="90%" >}} -->
+{{< figure src="https://memecreator.org/static/images/memes/5646953.jpg" width="80%" >}}
+
+{{< speaker_note >}}
+in summary: Sparse representations resulting from these processes have been successfully applied in various domains such as image processing, computer vision, and audio signal processing. It has shown promise in tasks such as noise reduction, compression, feature extraction, and pattern recognition. By capturing the essential structure and characteristics of the data in a sparse representation, sparse coding can help reduce redundancy and noise, and extract meaningful features for further analysis or processing.
+{{< /speaker_note >}}
+
 
 </section>
 
@@ -293,9 +315,10 @@ Generative model of image synthesis:
 
 $I[x, y] =  $ 
 {{< fragment >}} $\sum_{i=1}^{K} a[i] \cdot \phi[i, x, y]$ {{< /fragment >}}
-{{< fragment >}} $ + \varepsilon[x, y]$ {{< /fragment >}}
+{{< fragment >}} $ + \varepsilon[x, y]$
 
 Where $\phi$ is a dictionary of $K$ atoms, $a$ is a sparse vector of coefficients, and $\varepsilon$ is a noise term.
+{{< /fragment >}}
 
 [[LP (2015)](https://laurentperrinet.github.io/publication/perrinet-15-bicv/)]
 
@@ -556,7 +579,7 @@ assign th first value of the sparse vector to the winning one
 
   - Match : $i^\ast = \arg \max_i c_i$
   - Assign : $a[i^\ast] = c_{i^\ast}$
-  - Pursuit : $c[i] \leftarrow c[i] - X[i, i^\ast] $
+  - Pursuit : $c[i] \leftarrow c[i] - a[i^\ast] \cdot X[i, i^\ast] $
 
 [[LP (2004)](https://laurentperrinet.github.io/publication/perrinet-03-ieee)]
 
@@ -612,6 +635,18 @@ Hebbian learning
 
 {{< /speaker_note >}}
 
+
+---
+
+## Sparse representations in a nutshell
+
+{{< figure src="https://laurentperrinet.github.io/publication/perrinet-04-tauc/featured.png" title="[[LP *et al*, 2004](https://laurentperrinet.github.io/publication/perrinet-04-tauc/)]" width="55%" >}}
+
+{{< speaker_note >}}
+
+
+
+{{< /speaker_note >}}
 
 </section>
 
@@ -730,6 +765,7 @@ $$
 - now we get to the full CNN 
 {{< /speaker_note >}}
 
+
 ---
 
 ### CNN: the HMAX model
@@ -751,7 +787,11 @@ $$
 - 1/ backpropagation is not bioplausible 
 {{< /speaker_note >}}
 
+</section>
+
 ---
+
+<section>
 
 ## Convolutional Sparse Coding
 
@@ -822,7 +862,7 @@ Code @ [SparseEdges](https://nbviewer.org/github/bicv/SparseEdges/blob/master/Sp
 
 ### CNN: Predictive processing
 
-{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/SDPC_3.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/SDPC_3.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="80%" >}}
 
 {{< speaker_note >}}
 - result on MNIST
