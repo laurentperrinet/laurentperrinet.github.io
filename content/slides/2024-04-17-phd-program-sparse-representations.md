@@ -19,13 +19,13 @@ summary: Sparse representations in machine learning applied to the understanding
 ---
 <section>
 
-### [Sparse representations](https://laurentperrinet.github.io/slides/2024-04-17-phd-program-sparse-representations/?transition=fade)
-####	*[Laurent Perrinet](https://laurentperrinet.github.io)*
-####	<u>[[2024-04-17]](https://etulab.univ-amu.fr/gilson.m/compneuro_course) [NeuroSchool PhD Program in Neuroscience.](https://neuro-marseille.org/en/training/phd-program/)</u>
-
+# [Sparse representations](https://laurentperrinet.github.io/slides/2024-04-17-phd-program-sparse-representations/?transition=fade)
+##	*[Laurent Perrinet](https://laurentperrinet.github.io/talk/2024-04-17-phd-program-sparse-representations/)*
+###	<u>[NeuroSchool PhD Program in Neuroscience](https://neuro-marseille.org/en/training/phd-program/)</u>
+###	[2024-04-17]
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg)
+[Code](https://github.com/laurentperrinet/2024-04_sparse-representations) / 
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
-
 
 {{< speaker_note >}}
 - outline = 
@@ -274,10 +274,35 @@ review_bib = s.content_bib("LP", "2015", '"Sparse models" in <a href="https://la
 
 ---
 
+## Fragments
+
+Make content appear incrementally
+
+```
+{{</* fragment */>}} $\mathbf{y} =  $ {{</* /fragment */>}}
+{{</* fragment */>}} $X\boldsymbol\beta$ {{</* /fragment */>}}
+{{</* fragment */>}} $+ \boldsymbol\varepsilon$ {{</* /fragment */>}}
+```
+
+Press `Space` to play!
+
+{{< fragment >}} $\mathbf{y} =  $ {{< /fragment >}}
+{{< fragment >}} $X\boldsymbol\beta$ {{< /fragment >}}
+{{< fragment >}} $+ \boldsymbol\varepsilon$ {{< /fragment >}}
+
+---
+
+A fragment can accept two optional parameters:
+
+- `class`: use a custom style (requires definition in custom CSS)
+- `weight`: sets the order in which a fragment appears
+
+---
+
 ## Sparse representations in a nutshell
 
 $$
-I[x, y]=\sum_{i=1}^{K} a[i] \cdot \phi[x, y] + \epsilon[x, y]
+I[x, y]=\sum_{i=1}^{K} a[i] \cdot \phi[x, y] + \varepsilon[x, y]
 $$
 
 
@@ -692,11 +717,12 @@ https://laurentperrinet.github.io/sciblog/posts/2015-05-22-a-hitchhiker-guide-to
 
 <section>
 
-### [Sparse representations](https://laurentperrinet.github.io/slides/2024-04-17-phd-program-sparse-representations/?transition=fade)
-####	*[Laurent Perrinet](https://laurentperrinet.github.io)*
-####	<u>[[2024-04-17]](https://etulab.univ-amu.fr/gilson.m/compneuro_course) [NeuroSchool PhD Program in Neuroscience.](https://neuro-marseille.org/en/training/phd-program/)</u>
-
+# [Sparse representations](https://laurentperrinet.github.io/slides/2024-04-17-phd-program-sparse-representations/?transition=fade)
+##	*[Laurent Perrinet](https://laurentperrinet.github.io/talk/2024-04-17-phd-program-sparse-representations/)*
+###	<u>[NeuroSchool PhD Program in Neuroscience](https://neuro-marseille.org/en/training/phd-program/)</u>
+###	[2024-04-17]
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg)
+[Code](https://github.com/laurentperrinet/2024-04_sparse-representations) / 
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 

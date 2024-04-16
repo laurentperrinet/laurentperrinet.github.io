@@ -74,6 +74,7 @@ related:
     - name: categories
       weight: 70
 security:
+  allow_frame: true
   _merge: deep
 sitemap:
   _merge: deep

@@ -1,4 +1,4 @@
-.reveal section h1 {
+/* .reveal section h1 {
     font-size: 1.0 em !important;
 },
 .reveal section h2 {
@@ -13,4 +13,35 @@
 },
 .reveal section pre code {
     font-size: 0.7em !important;
+} */
+
+.reveal section h1 {
+    /* font-family: "Open Sans", sans-serif;     */
+    font-weight: bold !important;
+    text-transform: none;
+    font-size: 150%;
+  }
+
+  .reveal section h2 {
+    /* font-family: Lato; */
+    font-size: 120%;
+    text-transform: none;
+  }
+
+.reveal section h3 {
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-size: 100%;
+    text-transform: none;
 }
+
+/* .reveal-viewport {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 300%;
+  } */
+
+
+  .reveal div {
+    font-size: 80%;
+    color: black;
+  }
+  
