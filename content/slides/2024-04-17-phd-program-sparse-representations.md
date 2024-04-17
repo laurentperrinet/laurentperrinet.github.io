@@ -315,7 +315,8 @@ Generative model of image synthesis:
 
 $I[x, y] =  $ 
 {{< fragment >}} $\sum_{i=1}^{K} a[i] \cdot \phi[i, x, y]$ {{< /fragment >}}
-{{< fragment >}} $ + \varepsilon[x, y]$
+{{< fragment >}} $ + \varepsilon[x, y]$ {{< /fragment >}}
+{{< fragment >}} 
 
 Where $\phi$ is a dictionary of $K$ atoms, $a$ is a sparse vector of coefficients, and $\varepsilon$ is a noise term.
 {{< /fragment >}}
