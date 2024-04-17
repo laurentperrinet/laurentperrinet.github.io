@@ -472,7 +472,7 @@ ADMM (Alternating Direction Method of Multipliers): ADMM is an optimization tech
 
 ## Matching pursuit algorithm
 
-- Init : Residual $R = I$, sparse vector $a[i] = 0$
+- Init : Residual $R = I$, sparse vector $a$ such that $\forall i$, $a[i] = 0$
 
 - while $\frac{1}{2} \sum_{x, y} R[x, y]^2 > \vartheta $, do :
 
@@ -486,12 +486,11 @@ instead of finding the exact solution to the approximate problem, let's solve ap
 
 ## Matching pursuit algorithm
 
-- Init : Residual $R = I$, sparse vector $a[i] = 0$
+- Init : $R = I$, $\forall i$, $a[i] = 0$ 
 
 - while $\frac{1}{2} \sum_{x, y} R[x, y]^2 > \vartheta $, do :
-
-  - Match: 
-  $i^\ast = \arg \min_i \sum_{x, y} (R[x, y] -  a[i] \cdot \phi[i, x, y])^2$
+  - compute $c[i] = (R[x, y] -  a[i] \cdot \phi[i, x, y])^2$
+  - Match: $i^\ast = \arg \min_i \sum_{x, y} c[i]$
 
 
 {{< speaker_note >}}
@@ -502,12 +501,11 @@ greedy, one by one
 
 ## Matching pursuit algorithm
 
-- Init : $R = I$, $a[i] = 0$ 
+- Init : $R = I$, $\forall i$, $a[i] = 0$ 
 
 - while $\frac{1}{2} \sum_{x, y} R[x, y]^2 > \vartheta $, do :
 
-  - Match : 
-  $i^\ast = \arg \max_i \sum_{x, y} ( I[x, y] \cdot \phi[i, x, y])$
+  - Match : $i^\ast = \arg \max_i \sum_{x, y} R[x, y] \cdot \phi[i, x, y]$
 
 
 {{< speaker_note >}}
@@ -519,13 +517,13 @@ assign th first value of the sparse vector to the winning one
 
 ## Matching pursuit algorithm
 
-- Init : $R = I$, $a[i] = 0$ 
+- Init : $R = I$, $\forall i$, $a[i] = 0$ 
 
 - while $\frac{1}{2} \sum_{x, y} R[x, y]^2 > \vartheta $, do :
 
   - Match : 
   $i^\ast = \arg \max_i \sum_{x, y} ( I[x, y] \cdot \phi[i, x, y])$
-  - Assign : $a[i^\ast] = \frac{\sum_{x, y} (R[x, y] \cdot \phi[i^\ast, x, y])}{\sum_{x, y} ( \phi[i^\ast, x, y] \cdot \phi[i^\ast, x, y])}$
+  - Assign : $a[i^\ast] = \frac{\sum_{x, y} R[x, y] \cdot \phi[i^\ast, x, y]}{\sum_{x, y} \phi[i^\ast, x, y] \cdot \phi[i^\ast, x, y]}$
   
 
 {{< speaker_note >}}
@@ -538,12 +536,12 @@ assign th first value of the sparse vector to the winning one
 ## Matching pursuit algorithm
 
 
-- Init : $R = I$, $a[i] = 0$, normalize $\sum_{x, y} \phi[i, x, y]^2 = 1$ $\forall i$, 
+- Init : $R = I$, $\forall i$, $a[i] = 0$, and normalize $\sum_{x, y} \phi[i, x, y]^2 = 1$ 
 
 - while $\frac{1}{2} \sum_{x, y} R[x, y]^2 > \vartheta $, do :
 
-  - Match : $i^\ast = \arg \max_i \sum_{x, y} (R[x, y] \cdot \phi[i, x, y])$
-  - Assign : $a[i^\ast] = \frac{\sum_{x, y} (R[x, y] \cdot \phi[i^\ast, x, y])}{\sum_{x, y} ( \phi[i^\ast, x, y] \cdot \phi[i^\ast, x, y])}$
+  - Match : $i^\ast = \arg \max_i \sum_{x, y} R[x, y] \cdot \phi[i, x, y]$
+  - Assign : $a[i^\ast] = \sum_{x, y} (R[x, y] \cdot \phi[i^\ast, x, y])$
 
 {{< speaker_note >}}
 use of correlation
@@ -555,12 +553,12 @@ assign th first value of the sparse vector to the winning one
 ## Matching pursuit algorithm
 
 
-- Init : $R = I$, $a[i] = 0$, normalize $\sum_{x, y} \phi[i, x, y]^2 = 1$ $\forall i$, 
+- Init : $R = I$, $\forall i$, $a[i] = 0$, $\sum_{x, y} \phi[i, x, y]^2 = 1$ 
 
 - while $\frac{1}{2} \sum_{x, y} R[x, y]^2 > \vartheta $, do :
 
-  - Match : $i^\ast = \arg \max_i \sum_{x, y} (R[x, y] \cdot \phi[i, x, y])$
-  - Assign : $a[i^\ast] = \frac{\sum_{x, y} (R[x, y] \cdot \phi[i^\ast, x, y])}{\sum_{x, y} ( \phi[i^\ast, x, y] \cdot \phi[i^\ast, x, y])}$
+  - Match : $i^\ast = \arg \max_i \sum_{x, y} R[x, y] \cdot \phi[i, x, y]$
+  - Assign : $a[i^\ast] = \sum_{x, y} R[x, y] \cdot \phi[i^\ast, x, y]$
   - Pursuit : $R[x, y] \leftarrow R[x, y] - a[i^\ast] \cdot \phi[i^\ast, x, y]$
 
 {{< speaker_note >}}
@@ -573,8 +571,8 @@ assign th first value of the sparse vector to the winning one
 ## Matching pursuit algorithm
 
 - Init : $R = I$, $\forall i$, $a[i] = 0$, $\sum_{x, y} \phi[i, x, y]^2 = 1$ 
-- compute $c[i] = \sum_{x, y} (R[x, y] \cdot \phi[i, x, y])$ 
-- compute $X[i, j] = \sum_{x, y} (\phi[i, x, y] \cdot \phi[j, x, y])$
+- compute $c[i] = \sum_{x, y} R[x, y] \cdot \phi[i, x, y]$ 
+- compute $X[i, j] = \sum_{x, y} \phi[i, x, y] \cdot \phi[j, x, y]$
 
 - while $\frac{1}{2} \sum_{x, y} R[x, y]^2 > \vartheta $, do :
 
