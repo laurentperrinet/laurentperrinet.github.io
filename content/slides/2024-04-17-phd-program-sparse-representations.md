@@ -592,11 +592,24 @@ assign th first value of the sparse vector to the winning one
 
 ## Matching pursuit algorithm
 
-<img src="https://laurentperrinet.github.io/publication/perrinet-03-ieee/v1_tiger.gif"  width="60%"/>
+<!-- <img src="https://laurentperrinet.github.io/publication/perrinet-03-ieee/v1_tiger.gif"  width="60%"/>
 
 {{< speaker_note >}}
 
 ça marche très bien!
+
+{{< /speaker_note >}}
+
+
+---
+
+## Convolutional Sparse Coding -->
+
+{{< video src="https://laurentperrinet.github.io/sciblog/files/2015-05-22-a-hitchhiker-guide-to-matching-pursuit/MPtutorial_rec.mp4" controls="yes" height="90%" >}}
+
+Code @ [A hitchhiker guide to Matching Pursuit](https://laurentperrinet.github.io/sciblog/posts/2015-05-22-a-hitchhiker-guide-to-matching-pursuit.html)
+{{< speaker_note >}}
+
 
 {{< /speaker_note >}}
 
