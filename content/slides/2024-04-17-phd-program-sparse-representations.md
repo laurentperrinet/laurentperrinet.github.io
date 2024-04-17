@@ -254,7 +254,7 @@ vinje et gallant
 ## Sparse representations?
 
 <!-- {{< figure src="https://www.vhv.rs/dpng/d/57-574294_old-man-shrugging-shoulders-meme-hd-png-download.png" width="90%" >}} -->
-{{< figure src="https://memecreator.org/static/images/memes/5646953.jpg" width="80%" >}}
+{{< figure src="https://memecreator.org/static/images/memes/5646953.jpg" width="60%" >}}
 
 {{< speaker_note >}}
 in summary: Sparse representations resulting from these processes have been successfully applied in various domains such as image processing, computer vision, and audio signal processing. It has shown promise in tasks such as noise reduction, compression, feature extraction, and pattern recognition. By capturing the essential structure and characteristics of the data in a sparse representation, sparse coding can help reduce redundancy and noise, and extract meaningful features for further analysis or processing.
