@@ -254,7 +254,7 @@ vinje et gallant
 ## Sparse representations?
 
 <!-- {{< figure src="https://www.vhv.rs/dpng/d/57-574294_old-man-shrugging-shoulders-meme-hd-png-download.png" width="90%" >}} -->
-{{< figure src="https://memecreator.org/static/images/memes/5646953.jpg" width="60%" >}}
+{{< figure src="https://memecreator.org/static/images/memes/5646953.jpg" width="45%" >}}
 
 {{< speaker_note >}}
 in summary: Sparse representations resulting from these processes have been successfully applied in various domains such as image processing, computer vision, and audio signal processing. It has shown promise in tasks such as noise reduction, compression, feature extraction, and pattern recognition. By capturing the essential structure and characteristics of the data in a sparse representation, sparse coding can help reduce redundancy and noise, and extract meaningful features for further analysis or processing.
@@ -316,8 +316,9 @@ Generative model of image synthesis:
 $I[x, y] =  $ 
 {{< fragment >}} $\sum_{i=1}^{K} a[i] \cdot \phi[i, x, y]$ {{< /fragment >}}
 {{< fragment >}} $ + \varepsilon[x, y]$ {{< /fragment >}}
-{{< fragment >}} 
 
+
+{{< fragment >}}
 Where $\phi$ is a dictionary of $K$ atoms, $a$ is a sparse vector of coefficients, and $\varepsilon$ is a noise term.
 {{< /fragment >}}
 
@@ -489,8 +490,8 @@ instead of finding the exact solution to the approximate problem, let's solve ap
 - Init : $R = I$, $\forall i$, $a[i] = 0$ 
 
 - while $\frac{1}{2} \sum_{x, y} R[x, y]^2 > \vartheta $, do :
-  - compute $c[i] = (R[x, y] -  a[i] \cdot \phi[i, x, y])^2$
-  - Match: $i^\ast = \arg \min_i \sum_{x, y} c[i]$
+  - compute $c[i] = \sum_{x, y} (R[x, y] -  a[i] \cdot \phi[i, x, y])^2$
+  - Match: $i^\ast = \arg \min_i c[i]$
 
 
 {{< speaker_note >}}
@@ -541,7 +542,7 @@ assign th first value of the sparse vector to the winning one
 - while $\frac{1}{2} \sum_{x, y} R[x, y]^2 > \vartheta $, do :
 
   - Match : $i^\ast = \arg \max_i \sum_{x, y} R[x, y] \cdot \phi[i, x, y]$
-  - Assign : $a[i^\ast] = \sum_{x, y} (R[x, y] \cdot \phi[i^\ast, x, y])$
+  - Assign : $a[i^\ast] = \sum_{x, y} R[x, y] \cdot \phi[i^\ast, x, y]$
 
 {{< speaker_note >}}
 use of correlation
@@ -668,7 +669,7 @@ Hebbian learning
 
 ## Convolutional Sparse Coding
 
-{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/BoutinFranciosiniChavaneRuffierPerrinet20face.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
 
 {{< speaker_note >}}
 - this can be integrated in a hierarchy...
@@ -862,7 +863,7 @@ Code @ [SparseEdges](https://nbviewer.org/github/bicv/SparseEdges/blob/master/Sp
 
 ## Convolutional Sparse Coding
 
-{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_full.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/BoutinFranciosiniChavaneRuffierPerrinet20face.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
 
 {{< speaker_note >}}
 - novel challenges for CNNs
