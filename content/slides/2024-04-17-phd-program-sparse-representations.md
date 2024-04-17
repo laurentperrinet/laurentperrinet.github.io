@@ -576,8 +576,8 @@ assign th first value of the sparse vector to the winning one
 
 - while $\frac{1}{2} \sum_{x, y} R[x, y]^2 > \vartheta $, do :
 
-  - Match : $i^\ast = \arg \max_i c_i$
-  - Assign : $a[i^\ast] = c_{i^\ast}$
+  - Match : $i^\ast = \arg \max_i c[i]$
+  - Assign : $a[i^\ast] = c[i^\ast]$
   - Pursuit : $c[i] \leftarrow c[i] - a[i^\ast] \cdot X[i, i^\ast] $
 
 [[LP (2004)](https://laurentperrinet.github.io/publication/perrinet-03-ieee)]
