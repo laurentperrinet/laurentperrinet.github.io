@@ -17,7 +17,7 @@ abstract: Why do neurons communicate through spikes? By definition, spikes are a
   role in our understanding of the efficiency of neural networks.
 authors:
 - Antoine Grimaldi
-- Amélie Gruel
+- Amelie Gruel
 - Camille Besnainou
 - Jean-Nicolas Jeremie
 - Jean Martinet

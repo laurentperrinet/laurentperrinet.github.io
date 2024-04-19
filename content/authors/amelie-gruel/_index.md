@@ -7,7 +7,7 @@ education:
   - course: PhD student in Computer Sciences at i3S/CNRS
     institution: Université Cote d'Azur
     year: 2023
-title: Amélie Gruel
+title: Amelie Gruel
 role: PhD student in Computer Sciences at i3S/CNRS
 social:
 - icon: linkedin
