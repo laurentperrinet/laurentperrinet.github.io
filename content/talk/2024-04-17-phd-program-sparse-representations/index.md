@@ -41,3 +41,16 @@ links:
   url: https://laurentperrinet.github.io/talk/2024-04-17-phd-program-sparse-representations
 ---
 
+the timeline of the whole course:
+
+April 15th (morning+afternoon): basics on machine learning, practice with notebook using scikit learn (MG)
+April 16th (morning+afternoon): deep learning and automated differenciation, practice with notebook using pytorch (MG)
+April 17th morning: interpretable machine learning (ET)
+April 17th afternoon: sparse representations (LP)
+
+If not done already, please install a (reasonably) recent version of python (easy option is anaconda, see details here: https://etulab.univ-amu.fr/gilson.m/compneuro_course). Importantly, part of the course will rely on pytorch, see instructions for installing a dedicated environment here: https://etulab.univ-amu.fr/gilson.m/compneuro_course/-/tree/main/autodiff (we can do together it the first morning for those who have trouble).
+
+The first day (or morning depending on how we go), we will first review basics in supervised learning, to be on the same page (with a focus on recursive feature elimination): https://etulab.univ-amu.fr/gilson.m/compneuro_course/-/tree/main/sup_lrn
+If some of you are interested in machine learning for time series, we can have a session on this (we'll decide together on Monday morning)
+Following, we will focus on autodifferenciation, first from scratch and then using pytorch, see https://etulab.univ-amu.fr/gilson.m/compneuro_course/-/tree/main/autodiff (in progress of being updated)
+And a few datasets are available there: https://etulab.univ-amu.fr/gilson.m/compneuro_course/-/tree/main/data ; in particular we will use the MNIST dataset as a benchmark for classification, etc.
