@@ -23,7 +23,7 @@ abstract: 'Short presentation of a large moving pattern elicits an ocular follow
 authors:
 - Laurent U Perrinet
 - Alexandre Reynaud
-- Frédéric Y Chavane
+- Frederic Y Chavane
 - Guillaume S Masson
 date: 2009-11-30
 event: 'Macroscopic aspects of neuronal activity: ''''Macroscopic models, LFP models

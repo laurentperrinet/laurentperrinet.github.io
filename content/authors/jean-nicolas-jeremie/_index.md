@@ -1,7 +1,7 @@
 ---
 authors:
 - jean-nicolas-jeremie
-title: Jean-Nicolas Jérémie
+title: Jean-Nicolas Jeremie
 role: Phd candidate in Computational Neuroscience
 bio: During my PhD, I am focusing on ultra-fast processing in event-based neural networks.
 

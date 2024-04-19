@@ -1,6 +1,6 @@
 ---
 authors:
-- Jean-Nicolas Jérémie
+- Jean-Nicolas Jeremie
 - Laurent U Perrinet
 categories: []
 date: 2021-10-15

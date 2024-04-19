@@ -41,7 +41,7 @@ abstract: 'Natural scenes generally contain objects in motion. The local orienta
 authors:
 - Wahiba Taouali
 - Giacomo Benvenuti
-- Frédéric Y Chavane
+- Frederic Y Chavane
 - Laurent U Perrinet
 date: 2016-01-01
 doi: 10.1167/15.12.484

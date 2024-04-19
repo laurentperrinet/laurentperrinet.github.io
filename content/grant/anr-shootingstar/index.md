@@ -22,7 +22,7 @@ We expect that the convergence of these three research currents and methodologie
 * Budget total (partenaire français): 665 k€
 * Coordinateur Scientifique : Mark WEXLER (CNRS‐INCC)
 * Partenaire(s) : AGENCE NATIONALE DE LA RECHERCHE
-* Responsable Scientifique INT : Frédéric CHAVANE (UMR7289)
+* Responsable Scientifique INT : Frederic CHAVANE (UMR7289)
 
 ## Acknowledgement
 

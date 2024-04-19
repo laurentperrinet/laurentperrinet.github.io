@@ -2,7 +2,7 @@
 authors:
 - Mina A Khoei
 - Giacomo Benvenuti
-- Frédéric Y Chavane
+- Frederic Y Chavane
 - Laurent U Perrinet
 date: 2013-01-01
 doi: 10.1186/1471-2202-14-S1-P314

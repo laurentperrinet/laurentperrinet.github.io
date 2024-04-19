@@ -28,7 +28,7 @@ abstract: A key property of the neurons in the primary visual cortex (V1) is the
 authors:
 - Hugo Ladret
 - Nelson Cortes
-- Frédéric Y Chavane
+- Frederic Y Chavane
 - Laurent U Perrinet
 - Christian Casanova
 date: 2019-01-01

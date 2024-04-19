@@ -2,9 +2,9 @@
 authors:
 - Laurent U Perrinet
 - Jens Kremkow
-- Frédéric V Barthélemy
+- Frederic V Barthélemy
 - Guillaume S Masson
-- Frédéric Y Chavane
+- Frederic Y Chavane
 date: 2006-01-01
 featured: false
 grants:

@@ -17,7 +17,7 @@ abstract: Visual search, that is, the simultaneous localization and detection of
   visual field, and the second providing a detailed categorization over the detailed
   foveal selected region attained with a saccade.
 authors:
-- Jean-Nicolas Jérémie
+- Jean-Nicolas Jeremie
 - Emmanuel Daucé
 - Laurent U Perrinet
 categories: []

@@ -14,7 +14,7 @@ authors:
 - Hugo Ladret
 - Nelson Cortes
 - Lamyae Ikan
-- Frédéric Chavane
+- Frederic Chavane
 - Christian Casanova
 - Laurent U Perrinet
 date: 2021-08-27 00:00:00

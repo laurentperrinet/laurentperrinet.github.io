@@ -5,7 +5,7 @@ title: Retinotopic mapping improves the reliability of image classification
 subtitle: ''
 summary: ''
 authors:
-- Jean-Nicolas Jérémie
+- Jean-Nicolas Jeremie
 - Emmanuel Daucé
 - Laurent U Perrinet
 tags:

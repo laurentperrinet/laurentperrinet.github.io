@@ -34,7 +34,7 @@ abstract: 'When objects are in motion, the local orientation of their contours a
 authors:
 - Wahiba Taouali
 - Giacomo Benvenuti
-- Frédéric Y Chavane
+- Frederic Y Chavane
 - Laurent U Perrinet
 date: 2019-09-23
 featured: false

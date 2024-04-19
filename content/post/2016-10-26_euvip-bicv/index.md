@@ -56,7 +56,7 @@ in this area.
     Ecole Centrale Marseille
 
   - Address
-    [38 rue Frédéric Joliot-Curie 13013 Marseille,
+    [38 rue Frederic Joliot-Curie 13013 Marseille,
     France](https://www.centrale-marseille.fr/fr/acces-0) Phone : +33
     (0)4 91 05 45 45
 

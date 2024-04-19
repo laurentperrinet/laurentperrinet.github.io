@@ -25,7 +25,7 @@ abstract: 'The integration of information is essential to measure the exact 2D m
   following and neuro-physiological data.'
 authors:
 - Laurent U Perrinet
-- Frédéric V Barthélemy
+- Frederic V Barthélemy
 - Eric Castet
 - Guillaume S Masson
 date: 2005-01-01

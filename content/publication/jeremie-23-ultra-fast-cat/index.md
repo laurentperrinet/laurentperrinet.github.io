@@ -25,7 +25,7 @@ abstract: 'Humans are able to robustly categorize images and can, for instance, 
   psychophysical experiments and biomimetic deep neuronal architectures designed for
   such tasks.'
 authors:
-- Jean-Nicolas Jérémie
+- Jean-Nicolas Jeremie
 - Laurent U Perrinet
 categories: []
 date: 2023-03-21

@@ -23,7 +23,7 @@ authors:
 - Wahiba Taouali
 - Giacomo Benvenuti
 - Pascal Wallisch
-- Frédéric Y Chavane
+- Frederic Y Chavane
 - Laurent U Perrinet
 date: 2016-01-22
 doi: 10.1152/jn.00194.2015

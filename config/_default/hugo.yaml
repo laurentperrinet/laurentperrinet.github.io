@@ -28,7 +28,7 @@ copyright: 'This material is presented to ensure timely dissemination of scholar
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
-removePathAccents: true
+removePathAccents: false
 
 ############################
 ## ADVANCED

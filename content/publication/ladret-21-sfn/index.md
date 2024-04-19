@@ -15,7 +15,7 @@ authors:
 - Hugo Ladret
 - Nelson Cortes
 - Lamyae Ikan
-- Frédéric Y Chavane
+- Frederic Y Chavane
 - Christian Casanova
 - Laurent U Perrinet
 categories: []

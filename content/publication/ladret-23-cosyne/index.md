@@ -27,7 +27,7 @@ authors:
 - Hugo Ladret
 - Nelson Cortes
 - Lamyae Ikan
-- Frédéric Chavane
+- Frederic Chavane
 - Christian Casanova
 - Laurent U Perrinet
 categories: []

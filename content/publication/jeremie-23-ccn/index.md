@@ -1,6 +1,6 @@
 ---
 authors:
-- Jean-Nicolas Jérémie
+- Jean-Nicolas Jeremie
 - Emmanuel Daucé
 - Laurent U Perrinet
 categories: []

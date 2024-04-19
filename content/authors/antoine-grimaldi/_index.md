@@ -70,7 +70,7 @@ Cette thèse sera menée en collaboration directe avec [Jean Martinet](http://i3
 
 # References
 
-* <a name="BoutinFranciosiniChavaneRuffierPerrinet20">Boutin, Victor, Angelo Franciosini, Frédéric Chavane, Franck Ruffier, and Laurent U Perrinet. (2019). </a> "[Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system.](https://arxiv.org/abs/1902.07651)" *arXiv*
+* <a name="BoutinFranciosiniChavaneRuffierPerrinet20">Boutin, Victor, Angelo Franciosini, Frederic Chavane, Franck Ruffier, and Laurent U Perrinet. (2019). </a> "[Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system.](https://arxiv.org/abs/1902.07651)" *arXiv*
 
 * <a name="Dupeyroux18">Julien Dupeyroux, Victor Boutin, Julien R Serres, Laurent U Perrinet, Stéphane Viollet. (2018). </a> "[M2APix: a bio-inspired auto-adaptive visual sensor for robust ground height estimation.](https://laurentperrinet.github.io/publication/dupeyroux-boutin-serres-perrinet-viollet-18/)" *ISCAS*
 
@@ -87,7 +87,7 @@ Cette thèse sera menée en collaboration directe avec [Jean Martinet](http://i3
 
 * <a name="Li2002">Li W, Piëch V, Gilbert CD</a> (2006). "[Contour saliency in primary visual cortex.](http://www.paper.edu.cn/scholar/showpdf/MUz2UN2INTA0eQxeQh)" *Neuron*, 50(6):951–962.
 
-* <a name="muller2018cortical">Muller, Lyle, Frédéric Chavane, John Reynolds, and Terrence J Sejnowski. </a> (2018). "[Cortical Travelling Waves: Mechanisms and Computational Principles.](https://papers.cnl.salk.edu/PDFs/Cortical%20travelling%20waves_%20mechanisms%20and%20computational%20principles.%202018-4515.pdf)" *Nature Reviews Neuroscience* 19 (5): 255.
+* <a name="muller2018cortical">Muller, Lyle, Frederic Chavane, John Reynolds, and Terrence J Sejnowski. </a> (2018). "[Cortical Travelling Waves: Mechanisms and Computational Principles.](https://papers.cnl.salk.edu/PDFs/Cortical%20travelling%20waves_%20mechanisms%20and%20computational%20principles.%202018-4515.pdf)" *Nature Reviews Neuroscience* 19 (5): 255.
 
 * <a name="Paugam12">Hélène Paugam-Moisy, Sander M. Bohte. </a> (2012). "Computing with Spiking Neuron Networks." *Handbook of Natural Computing*, Springer-Verlag, pp.335-376, 2012
 
