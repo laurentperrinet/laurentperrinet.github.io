@@ -227,7 +227,7 @@ Control»**
 
 10h00-11h00
 
-*<a href="http://emmanuel.dauce.free.fr" class="http">Emmanuel Daucé</a>*
+*<a href="http://emmanuel.dauce.free.fr" class="http">Emmanuel Dauce</a>*
 Mouvement & Perception, UMR 6152, Faculté des sciences du sport
 **«Adapting the noise to the problem : a Policy-gradient approach of
 receptive fields formation»**

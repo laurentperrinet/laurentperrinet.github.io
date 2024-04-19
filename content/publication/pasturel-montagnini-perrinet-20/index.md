@@ -28,7 +28,7 @@ abstract: Humans are able to accurately track a moving object with a combination
   new tools based on best*fitting procedure of predefined patterns (i.e. the typical
   smooth pursuit velocity profile).
 authors:
-- Chloé Pasturel
+- Chloe Pasturel
 - Anna Montagnini
 - Laurent U Perrinet
 date: 2020-01-26
@@ -68,5 +68,5 @@ These theoretical and experimental results show that in this realistic situation
  * code for the Bayesian model: https://github.com/laurentperrinet/bayesianchangepoint
  * code for figures [Figure 1](https://github.com/chloepasturel/AnticipatorySPEM/blob/master/1_protocole.ipynb), [Figure 2](https://github.com/chloepasturel/AnticipatorySPEM/blob/master/2_raw-results.ipynb), [Figure 3](https://github.com/chloepasturel/AnticipatorySPEM/blob/master/3_Results_1-theory_BBCP.ipynb), [Figure 4](https://github.com/chloepasturel/AnticipatorySPEM/blob/master/4_Results_2_fitting_BBCP.ipynb), [Figure 5](https://github.com/chloepasturel/AnticipatorySPEM/blob/master/5_Meta_analysis.ipynb)
  * [video abstract](https://raw.githubusercontent.com/chloepasturel/AnticipatorySPEM/master/2020-03_video-abstract/PasturelMontagniniPerrinet2020_video-abstract.mp4) (and the [code](https://github.com/chloepasturel/AnticipatorySPEM/blob/master/2020-03_video-abstract/2020-03-24_video-abstract.ipynb) for generating the video abstract)
- * Notre papier avec Chloé Pasturel et @MontagniniAnna  figure dans les [faits marquants 2020 de la Société des Neurosciences](https://indd.adobe.com/view/ea980f21-e298-43e8-abd7-fff6909d6755)! Voir aussi  https://lejournal.cnrs.fr/nos-blogs/aux-frontieres-du-cerveau/les-faits-marquants-2020-de-la-societe-de-neurosciences :
+ * Notre papier avec Chloe Pasturel et @MontagniniAnna  figure dans les [faits marquants 2020 de la Société des Neurosciences](https://indd.adobe.com/view/ea980f21-e298-43e8-abd7-fff6909d6755)! Voir aussi  https://lejournal.cnrs.fr/nos-blogs/aux-frontieres-du-cerveau/les-faits-marquants-2020-de-la-societe-de-neurosciences :
  {{< tweet user="laurentperrinet" id="1371420462056620036" >}}

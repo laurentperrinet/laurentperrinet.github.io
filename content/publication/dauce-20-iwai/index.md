@@ -1,6 +1,6 @@
 ---
 authors:
-- Emmanuel Daucé
+- Emmanuel Dauce
 - Laurent U Perrinet
 date: 2020-12-17
 doi: 10.1007/978-3-030-64919-7_17
@@ -34,7 +34,7 @@ url_slides: https://laurentperrinet.github.io/2020-09-14_IWAI
 {{< tweet user="laurentperrinet" id="1305488089989754883" >}}
 {{< figure src="https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true" >}}
 * What:: talk @ [1st International Workshop on Active Inference (IWAI 2020)](https://iwaiworkshop.github.io/)
-* Who:: Emmanuel Daucé and Laurent Perrinet
+* Who:: Emmanuel Dauce and Laurent Perrinet
 * Where: Ghent (Belgium), gone virtual, see https://laurentperrinet.github.io/talk/2020-09-14-iwai
 * When: 14/09/2020, time: 12:20:00-12:40:00
 * What:

@@ -21,7 +21,7 @@ abstract: In computer vision, the visual search task consists in extracting a sc
   strategies with regards to traditional computer vision when computing resources
   are at stake.
 authors:
-- Emmanuel Daucé
+- Emmanuel Dauce
 - Pierre Albigès
 - Laurent U Perrinet
 date: 2020-06-05

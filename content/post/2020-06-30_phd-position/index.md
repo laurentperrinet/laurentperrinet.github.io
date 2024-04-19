@@ -51,7 +51,7 @@ The candidate has to fluently speak English to understand publications and to at
 
 The thesis will be carried out in the team "NEuronal OPerations in visual TOpographic maps" (NeOpTo) within the [Institut de Neurosciences de la Timone](http://www.int.univ-amu.fr/?lang=en) in [Marseille](https://en.wikipedia.org/wiki/Marseille), a welcoming and lively town by the Mediterranean sea in the south of France. The research team is led by F. Chavane (DR2, CNRS) and currently hosts 4 permanent staff, 3 post-docs and 4 PhD students. The research themes of the team are focused on neuronal operations within visual cortical maps. Indeed, along the cortical hierarchy, low-level features such as the position and orientation of the visual stimulus (but also auditory tone, somatosensory touch, etc...) but also higher-level features (such as faces, viewpoints of objects, etc...) are represented topographically on the cortical surface.
 
-This work will be conducted in direct collaboration with [Jean Martinet](http://i3s.unice.fr/jmartinet/en) who will co-supervise the thesis. We will develop these algorithms in collaboration with [Ryad Benosman](https://scholar.google.fr/citations?user=_ZTFUooAAAAJ&hl=fr) (Université Pierre et Marie Curie) and [Stéphane Viollet](https://scholar.google.com/citations?user=iIGoymcAAAAJ) (équipe biorobotique, Institut des Sciences du Mouvement).
+This work will be conducted in direct collaboration with [Jean Martinet](http://i3s.unice.fr/jmartinet/en) who will co-supervise the thesis. We will develop these algorithms in collaboration with [Ryad Benosman](https://scholar.google.fr/citations?user=_ZTFUooAAAAJ&hl=fr) (Université Pierre et Marie Curie) and [Stephane Viollet](https://scholar.google.com/citations?user=iIGoymcAAAAJ) (équipe biorobotique, Institut des Sciences du Mouvement).
 
 
 ## FR: Description du sujet de thèse
@@ -60,14 +60,14 @@ La vision biologique est étonnamment efficace. Pour tirer parti de cette effica
 ## FR: Contexte de travail
 La thèse sera effectuée dans l'équipe "NEuronal OPerations in visual TOpographic maps" (NeOpTo) au sein de l'Institut de Neurosciences de la Timone (INT). L'équipe de recherche est dirigée par F. Chavane (DR2, CNRS) et accueille actuellement 4 personnels permanents, 3 post-doctorants et 4 doctorants. Les thématiques de recherche de l'équipe sont centrées sur les opérations neuronales au sein de cartes corticales visuelles. En effet, le long de la hiérarchie corticale, les caractéristiques de bas niveau telles que la position, l’orientation du stimulus visuel (mais aussi la tonalité auditive, le toucher somatosensoriel, etc...) mais aussi les caractéristiques de niveau supérieur (telles que les visages, les points de vue d’objets, etc...) sont représentées topographiquement sur la surface corticale.
 
-Cette thèse sera menée en collaboration directe avec [Jean Martinet](http://i3s.unice.fr/jmartinet/en) qui co-supervisera cette thèse. Nous développerons ces algorithmes en collaboration avec [Ryad Benosman](https://scholar.google.fr/citations?user=_ZTFUooAAAAJ&hl=fr) (Université Pierre et Marie Curie) et [Stéphane Viollet](https://scholar.google.com/citations?user=iIGoymcAAAAJ) (équipe biorobotique, Institut des Sciences du Mouvement).
+Cette thèse sera menée en collaboration directe avec [Jean Martinet](http://i3s.unice.fr/jmartinet/en) qui co-supervisera cette thèse. Nous développerons ces algorithmes en collaboration avec [Ryad Benosman](https://scholar.google.fr/citations?user=_ZTFUooAAAAJ&hl=fr) (Université Pierre et Marie Curie) et [Stephane Viollet](https://scholar.google.com/citations?user=iIGoymcAAAAJ) (équipe biorobotique, Institut des Sciences du Mouvement).
 
 
 # References
 
 * <a name="BoutinFranciosiniChavaneRuffierPerrinet20">Boutin, Victor, Angelo Franciosini, Frederic Chavane, Franck Ruffier, and Laurent U Perrinet. (2019). </a> "[Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system.](https://arxiv.org/abs/1902.07651)" *arXiv*
 
-* <a name="Dupeyroux18">Julien Dupeyroux, Victor Boutin, Julien R Serres, Laurent U Perrinet, Stéphane Viollet. (2018). </a> "[M2APix: a bio-inspired auto-adaptive visual sensor for robust ground height estimation.](https://laurentperrinet.github.io/publication/dupeyroux-boutin-serres-perrinet-viollet-18/)" *ISCAS*
+* <a name="Dupeyroux18">Julien Dupeyroux, Victor Boutin, Julien R Serres, Laurent U Perrinet, Stephane Viollet. (2018). </a> "[M2APix: a bio-inspired auto-adaptive visual sensor for robust ground height estimation.](https://laurentperrinet.github.io/publication/dupeyroux-boutin-serres-perrinet-viollet-18/)" *ISCAS*
 
 * <a name="Chavane2011">Chavane, F., Sharon, D., Jancke, D., Marre, O., Frégnac, Y. and Grinvald, A. (2011). </a> "[Lateral spread of orientation selectivity in V1 is controlled by intracortical cooperativity.](https://doi.org/10.1016/S0928-4257(00)01096-2)" *Journal of Physiology Paris* 94 (5-6): 333--42.
 

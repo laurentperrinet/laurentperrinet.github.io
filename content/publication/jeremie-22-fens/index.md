@@ -1,7 +1,7 @@
 ---
 authors:
 - Jean-Nicolas Jeremie
-- Emmanuel Daucé
+- Emmanuel Dauce
 - Laurent U Perrinet
 categories: []
 date: 2022-07-10

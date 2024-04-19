@@ -16,7 +16,7 @@ abstract: Convolutional Neural Networks have been considered the go-to option fo
 authors:
 - Ghassan Dabane
 - Laurent U Perrinet
-- Emmanuel Daucé
+- Emmanuel Dauce
 categories: []
 date: 2022-01-01
 doi: 10.36227/techrxiv.16550391

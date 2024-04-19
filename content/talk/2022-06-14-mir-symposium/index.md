@@ -6,7 +6,7 @@ title: Contributions of neuroscience to the detection and localization of object
 subtitle: ''
 summary: ''
 authors:
-- Emmanuel Daucé
+- Emmanuel Dauce
 - Laurent U Perrinet
 tags:
 - efficient coding

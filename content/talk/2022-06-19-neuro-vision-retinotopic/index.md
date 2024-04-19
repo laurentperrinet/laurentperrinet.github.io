@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jean-Nicolas Jeremie
-- Emmanuel Daucé
+- Emmanuel Dauce
 - Laurent U Perrinet
 tags:
 - Active Inference

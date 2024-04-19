@@ -1,7 +1,7 @@
 ---
 authors:
 - Laurent U Perrinet
-- Chloé Pasturel
+- Chloe Pasturel
 - Anna Montagnini
 date: 2018-04-05 14:00:00
 event: Probabilities and Optimal Inference to Understand the Brain

@@ -50,8 +50,8 @@ title: 2020-12-10_agileneurobot_anr
 ## Consortium:
 <img src="https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg" alt="SV" height="150"> | <img src="https://laurentperrinet.github.io/author/ryad-benosman/avatar_hu2d5c77d2b84468d5dedad740d610465b_7790_270x270_fill_q75_lanczos_center.jpg" alt="RB" height="150"> | <img src="https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.jpg" alt="LP" height="150">
 ------ | ------ | ------
-Stéphane Viollet | Ryad Benosman | Laurent Perrinet
-Julien Diperi | Sio-Hoï Ieng | Emmanuel Daucé
+Stephane Viollet | Ryad Benosman | Laurent Perrinet
+Julien Diperi | Sio-Hoï Ieng | Emmanuel Dauce
 Inst Sciences Mouvement | Inst de la Vision | Inst Neurosci de la Timone
 
 ---

@@ -20,12 +20,12 @@ title: '2019-10-10: Atelier Utiliser l''apprentissage profond en vision'
 ---
 Date : jeudi 10 octobre de 9h30 à 12h30
 
-Intervenants : Laurent Perrinet et Chloé Pasturel
+Intervenants : Laurent Perrinet et Chloe Pasturel
 
 * [programme](https://gdrvision2019.sciencesconf.org/resource/page/id/2): Nous proposons dans cet atelier pratique de présenter les nouveaux enjeux apportés par l'apprentissage profond et plus généralement par l'apprentissage machine. L'objectif est de montrer sous forme de simples exercises pratiques comment ces nouveaux outils permettent 1) de catégoriser des images 2) d'apprendre un tel modèles 3) de générer de nouvelles images à partir d'une base existante.
 
 * https://github.com/SpikeAI/2019-10-10_ML-tutorial
 
-* Atelier concocté en collaboration avec [Chloé Pasturel](https://github.com/chloepasturel).
+* Atelier concocté en collaboration avec [Chloe Pasturel](https://github.com/chloepasturel).
 
 * cet atelier fait partie du [GDR vision 2019](https://laurentperrinet.github.io/post/2019-10-10_gdrvision/)

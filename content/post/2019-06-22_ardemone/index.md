@@ -19,11 +19,11 @@ title: Sans gravité – une poétique de l’air
 
 * La perception est notre capacité à interpréter les informations que nous recevons à travers nos sens. Parfois, notre perception peut nous faire voir des objets qui n’existent pas, comme un visage dans les textures d’un rocher. Ce phénomène a été utilisé dans « Densité – Flou », présentée à Avignon en 2019 (Figure 3), qui consistait en un ensemble de triangles accolés et disposés aléatoirement sur une surface. La forte densité des triangles induit la perception de formes imaginaires comme des voiles, des perspectives ou des visages  (voir [cet article](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/#fig:Densité)). 
 
-{{< figure src="Avignon-02.jpg" title="Étienne Rey - Horizon faille - Densité flou, 2019 - Sans gravité - une poétique de l’air à - Ardenome - Avignon © https://www.enrevenantdelexpo.com" lightbox="true" >}}
+{{< figure src="Avignon-02.jpg" title="Etienne Rey - Horizon faille - Densité flou, 2019 - Sans gravité - une poétique de l’air à - Ardenome - Avignon © https://www.enrevenantdelexpo.com" lightbox="true" >}}
 <!-- https://www.enrevenantdelexpo.com/wp-content/uploads/2019/05/%C3%89tienne-Rey-Horizon-faille-Densit%C3%A9-flou-2019-Sans-gravit%C3%A9-une-po%C3%A9tique-de-l%E2%80%99air-%C3%A0-Ardenome-Avignon-02.jpg -->
 # « Tension superficielle » (2019)
 
-{{< figure src="https://i1.wp.com/www.enrevenantdelexpo.com/wp-content/uploads/2019/05/%C3%89tienne-Rey-Horizon-faille-Tension-superficielle-2019-Sans-gravit%C3%A9-une-po%C3%A9tique-de-l%E2%80%99air-%C3%A0-Ardenome-Avignon-00_1.jpg" title="Étienne Rey – Horizon faille – Tension superficielle, 2019 – Sans gravité – une poétique de l’air à – Ardenome – Avignon © https://www.enrevenantdelexpo.com" lightbox="true" >}}
+{{< figure src="https://i1.wp.com/www.enrevenantdelexpo.com/wp-content/uploads/2019/05/%C3%89tienne-Rey-Horizon-faille-Tension-superficielle-2019-Sans-gravit%C3%A9-une-po%C3%A9tique-de-l%E2%80%99air-%C3%A0-Ardenome-Avignon-00_1.jpg" title="Etienne Rey – Horizon faille – Tension superficielle, 2019 – Sans gravité – une poétique de l’air à – Ardenome – Avignon © https://www.enrevenantdelexpo.com" lightbox="true" >}}
 
 # dans le cadre de "SANS GRAVITÉ, UNE POÉTIQUE DE L'AIR - ETIENNE REY / MATHILDE LAVENNE / HUGO DEVERCHÈRE / EDITH DEKYNDT - 23 MARS > 22 JUIN 2019"
 

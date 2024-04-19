@@ -1,7 +1,7 @@
 ---
 authors:
 - Bruno Cessac
-- Emmanuel Daucé
+- Emmanuel Dauce
 - Laurent U Perrinet
 - Manuel Samuelides
 date: 2007-03-01

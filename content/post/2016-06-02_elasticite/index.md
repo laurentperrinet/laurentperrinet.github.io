@@ -37,7 +37,7 @@ Par principe de réflexion, la pièce absorbe l'image de l'environnement et accu
 
 TRAME_Elasticité.jpg
 
-{{< figure src="TRAME_Elasticité.jpg" title="[*Trame Élasticité*](https://ondesparalleles.org/projets/trame-elasticite-vasarely/), 2016, un hommage à Victor Vasarely dans le cadre de la Fondation d'Aix-en-Provence. Copyright Étienne Rey (ADAGP)." numbered="true" >}}
+{{< figure src="TRAME_Elasticité.jpg" title="[*Trame Élasticité*](https://ondesparalleles.org/projets/trame-elasticite-vasarely/), 2016, un hommage à Victor Vasarely dans le cadre de la Fondation d'Aix-en-Provence. Copyright Etienne Rey (ADAGP)." numbered="true" >}}
 
 Composé d’une succession de lames de miroirs, verticales et rotatives, l’installation Trame se joue des reflets et de la démultiplication de l’espace, offrant au spectateur une multiplicité de points de vue dans lesquels il peut se perdre à loisir. Par un effet de « porosité » recherché par l’artiste, le dispositif dialogue intensément avec les Intégrations.
 

@@ -13,7 +13,7 @@ abstract: Humans are able to accurately track a moving object with a combination
   during the observation of the same sequence of random direction trials. In  parallel,  we  are  developing  new  automatic  routines  for  the  advanced  analysis  of  oculomotor  traces.  In  order  to  extract  the  relevant  parameters  of  the  oculomotor  responses  (latency,  gain,  initial  acceleration,  catch*up  saccades),  we  developed  new  tools  based  on  best*fitting  procedure  of  predefined
   patterns (i.e. the typical smooth pursuit velocity profile).
 authors:
-- Chloé Pasturel
+- Chloe Pasturel
 - Anna Montagnini
 - Laurent U Perrinet
 date: 2018-01-01

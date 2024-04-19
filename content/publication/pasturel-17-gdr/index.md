@@ -1,6 +1,6 @@
 ---
 authors:
-- Chloé Pasturel
+- Chloe Pasturel
 - Jean-Bernard Damasse
 - Anna Montagnini
 - Laurent U Perrinet

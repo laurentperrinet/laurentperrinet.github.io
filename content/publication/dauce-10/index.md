@@ -11,7 +11,7 @@ abstract: Despite the long and fruitful history of neuroscience, a global, multi
   is becoming more and more necessary to understand the brain in its full complexity,
   from multiple levels of description to a multi-level understanding.
 authors:
-- Emmanuel Daucé
+- Emmanuel Dauce
 - Laurent U Perrinet
 date: 2010-01-01
 doi: 10.1016/j.jphysparis.2009.11.001

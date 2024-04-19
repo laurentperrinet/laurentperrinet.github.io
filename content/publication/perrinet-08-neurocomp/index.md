@@ -1,7 +1,7 @@
 ---
 authors:
 - Laurent U Perrinet
-- Emmanuel Daucé
+- Emmanuel Dauce
 date: 2008-10-01
 featured: false
 grants:

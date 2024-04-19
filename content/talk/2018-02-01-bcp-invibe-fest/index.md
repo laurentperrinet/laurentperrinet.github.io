@@ -1,7 +1,7 @@
 ---
 authors:
 - Laurent U Perrinet
-- Chloé Pasturel
+- Chloe Pasturel
 - Anna Montagnini
 date: 2018-02-01
 event: Visual motion Fest - Invibe Team -- INT / Marseille February 1 and 2, 2018

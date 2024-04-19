@@ -1,7 +1,7 @@
 ---
 authors:
 - chloe-pasturel
-title: Chloé Pasturel
+title: Chloe Pasturel
 superuser: false
 user_groups:
 - Collaborators

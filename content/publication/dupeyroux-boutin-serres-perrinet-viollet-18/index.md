@@ -13,7 +13,7 @@ authors:
 - Victor Boutin
 - Julien R Serres
 - Laurent U Perrinet
-- Stéphane Viollet
+- Stephane Viollet
 date: 2018-01-01
 featured: false
 grants:

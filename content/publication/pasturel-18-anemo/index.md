@@ -1,6 +1,6 @@
 ---
 authors:
-- Chloé Pasturel
+- Chloe Pasturel
 - Anna Montagnini
 - Laurent U Perrinet
 date: 2018-01-01

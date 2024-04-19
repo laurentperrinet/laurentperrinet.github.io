@@ -12,7 +12,7 @@ featured: false
 grants:
 - anr-horizontal-v1
 image:
-  caption: 'Un pélican en vol photographié par Étienne-Jules Marey en 1882. https://commons.wikimedia.org/wiki/File:Marey_-_birds.jpg '
+  caption: 'Un pélican en vol photographié par Etienne-Jules Marey en 1882. https://commons.wikimedia.org/wiki/File:Marey_-_birds.jpg '
   focal_point: ''
 projects:
 - tout-public

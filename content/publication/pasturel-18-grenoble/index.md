@@ -14,7 +14,7 @@ abstract: Humans are able to accurately track a moving object with a combination
   patterns (i.e. the typical smooth pursuit velocity profile).
 authors:
 - Laurent U Perrinet
-- Chloé Pasturel
+- Chloe Pasturel
 - Anna Montagnini
 date: 2018-01-01
 featured: false
