@@ -8,6 +8,8 @@ summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
 
+* “Life is not what one lived, but what one remembers and how one remembers it in order to recount it.”  Gabriel García Márquez
+
 * "Une chose déroutante à propos des hommes - ils permettent à leur instinct sexuel de les conduire là où leur intelligence ne les mènerait jamais." Joan Fontaine, Actrice, Artiste (1917 - 2013)
 
 * "Si les animaux n'existaient pas, ne serions-nous pas encore plus incompréhensibles à nous-mêmes ?" Georges-Louis Leclerc de Buffon
