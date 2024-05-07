@@ -16,7 +16,7 @@ tags:
 ---
 Dear colleagues,
 
-Applications are welcome for a fully funded PhD position **Focus of attention: a sensory-motor task for energy reduction in spiking neural networks**. The position will be located at the Université Côte d'Azur and/or at the [INT](http://www.int.univ-amu.fr/?lang=en) in [Marseille](https://en.wikipedia.org/wiki/Marseille), France. 
+Applications are welcome for a fully funded PhD position **Focus of attention: a sensory-motor task for energy reduction in spiking neural networks**. The position will be located at the (EDGE Team @ LEAT Laboratory[)https://leat.univ-cotedazur.fr/] within (Université Côte d'Azur)[https://www.univ-cotedazur.fr/] and/or at the [INT](http://www.int.univ-amu.fr/?lang=en) in [Marseille](https://en.wikipedia.org/wiki/Marseille), France. 
 
 ## Context
 
@@ -162,7 +162,7 @@ along the year.
 
 -   Write the thesis report and prepare the defense
 
-## required Skills
+## Required skills
 
 -   Master thesis in one of the following domains: neuromorphic systems,
     spiking neural networks, neurocognition, machine learning.
