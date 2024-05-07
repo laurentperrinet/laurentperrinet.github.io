@@ -5,6 +5,7 @@ authors:
 date: 2024-05-03 09:00:00
 draft: false
 image:
+  caption: "Animal camouflage illustrates the importance of exploration in vision: looking straight ahead reveals only vegetation, while making the right saccade reveals a cheetah ready to hunt its prey."
   focal_point: Center
   placement: 2
   preview_only: false
@@ -17,8 +18,6 @@ tags:
 Dear colleagues,
 
 Applications are welcome for a fully funded PhD position **Focus of attention: a sensory-motor task for energy reduction in spiking neural networks**. The position will be located at the [EDGE Team @ LEAT Laboratory](https://leat.univ-cotedazur.fr/) within [Université Côte d'Azur](https://www.univ-cotedazur.fr/) and/or at the [INT](http://www.int.univ-amu.fr/?lang=en) in [Marseille](https://en.wikipedia.org/wiki/Marseille), France. 
-
-{{< figure src="featured.png" title="Animal camouflage illustrates the importance of exploration in vision: looking straight ahead reveals only vegetation, while making the right saccade reveals a cheetah ready to hunt its prey." >}}
 
 ## Context
 
