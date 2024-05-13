@@ -370,6 +370,7 @@ $$
 - sota
 {{< /speaker_note >}}
 
+
 ---
 
 ### CNN: challenges
@@ -381,6 +382,8 @@ $$
 - 1/ backpropagation is not bioplausible 
 {{< /speaker_note >}}
 
+
+
 ---
 
 ### CNN: Predictive processing
@@ -390,7 +393,8 @@ $$
 {{< speaker_note >}}
 - modifications= adding sparse coding + feedback
 {{< /speaker_note >}}
- 
+
+
 ---
 
 ### CNN: Predictive processing
