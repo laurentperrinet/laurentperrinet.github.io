@@ -1,5 +1,5 @@
 ---
-title: '2020-03-13: Soutenance Victor Boutin'
+title: '2020-03-13: Soutenance de thèse Victor Boutin'
 authors:
 - laurent-u-perrinet
 - victor-boutin

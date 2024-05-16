@@ -1,5 +1,5 @@
 ---
-title: 'Soutenance Antoine Grimaldi'
+title: 'Soutenance de thèse Antoine Grimaldi'
 authors:
 - laurent-u-perrinet
 - antoine-grimaldi
@@ -17,7 +17,7 @@ tags:
 
 * Date : Jeudi 16 mai à 15h (CEST)
 
-* Lieu: en [virtuel](https://univ-amu-fr.zoom.us/j/87902194511?pwd=czZvSjVQU2xMdGRHbFVJVStpMVptQT09) et salle [Henri Gastaut](http://patrimoinemedical.univmed.fr/rues/rues_gastaut.htm), au rez de chaussée de l'INT (how to [get there](http://www.int.univ-amu.fr/contact)). La thèse était suivie d’un pot au R+4 de l’[Institut de Neurosciences de la Timone](http://www.int.univ-amu.fr/?lang=en) (how to [get there](http://www.int.univ-amu.fr/contact))
+* Lieu: en [virtuel](https://univ-amu-fr.zoom.us/j/87902194511?pwd=czZvSjVQU2xMdGRHbFVJVStpMVptQT09) et salle [Henri Gastaut](http://patrimoinemedical.univmed.fr/rues/rues_gastaut.htm), au rez de chaussée de l'INT (how to [get there](http://www.int.univ-amu.fr/contact)). La thèse sera suivie d’un pot au R+4 de l’[Institut de Neurosciences de la Timone](http://www.int.univ-amu.fr/?lang=en) (how to [get there](http://www.int.univ-amu.fr/contact))
 
 * Quoi: le manuscrit sera disponible après la soutenance.
 

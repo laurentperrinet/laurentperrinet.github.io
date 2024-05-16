@@ -1,5 +1,5 @@
 ---
-title: 'Soutenance Angelo Franciosini'
+title: 'Soutenance de thèse Angelo Franciosini'
 authors:
 - laurent-u-perrinet
 - angelo-franciosini
