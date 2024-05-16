@@ -16,7 +16,6 @@ projects: []
 subtitle: THE POSITION HAS BEEN FILLED!
 tags:
 - events
-- polychronies
 ---
 {{% callout warning %}}
 THE POSITION HAS BEEN FILLED.
