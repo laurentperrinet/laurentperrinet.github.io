@@ -19,7 +19,7 @@ content:
       - publication
     tag: ''
     category: ''
-    publication_type: '2'
+    publication_type: 'article-journal'
     author: ''
     exclude_featured: false
     exclude_future: false
