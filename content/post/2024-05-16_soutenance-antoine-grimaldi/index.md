@@ -3,10 +3,10 @@ title: 'Soutenance de thèse Antoine Grimaldi'
 authors:
 - laurent-u-perrinet
 - antoine-grimaldi
-date: 2024-05-16 13:00:00
-publishDate: '2024-05-15T09:59:44.385734Z'
+date: '2024-05-15T13:00:00CEST'
+publishDate: '2024-05-15T09:59:44CEST'
 draft: false
-lastmod: 2024-05-15 09:00:00
+lastmod: '2024-05-15T09:00:00CEST'
 subtitle: 'Antoine Grimaldi (Equipe NeOpTo) a soutenu sa thèse de doctorat le Jeudi 16 mai à 15h'
 summary: 'Antoine Grimaldi (Equipe NeOpTo) a soutenu sa thèse de doctorat intitulée: *Neural computations with precise spiking motifs for dynamic vision* le Jeudi 16 mai à 15h'
 tags:
