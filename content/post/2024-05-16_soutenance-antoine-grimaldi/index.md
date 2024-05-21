@@ -16,6 +16,7 @@ tags:
 # "Neural computations with precise spiking motifs for dynamic vision" Soutenance de thèse Antoine Grimaldi
 
 * Date : Jeudi 16 mai à 15h (CEST)
+* https://neuromatch.social/@laurentperrinet/112454990080998095
 
 ## Jury
 
