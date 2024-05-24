@@ -21,14 +21,8 @@ links:
 
 ![14eme du RISC](http://festivalrisc.org/wp-content/uploads/2023/11/RISCV02rvb-web-WP.jpg)
 
-À la suite des Rencontres Internationales Sciences & Cinémas (RISC), organisées par l’association Polly Maggoo depuis 2006  l’association Lieux Fictifs, diffuse l’ensemble des films primés au sein de la [Structure d’Accompagnement à la Sortie](http://www.lieuxfictifs.org/actualites/article/inauguration-de-la-salle-de-cinema) de la prison des Baumettes, le 23 et le 24 mai prochain :
- 
-* 23 mai
- - Matin : BY THE THROAT
- - Après-midi : CORPS SAMPLES, TEHRAN RECYCLERS et FURTHER RADICAL
- 
-* 24 mai
- - Matin : GLOBES
- - Après-midi : AMAZON WOMAN et HISTOIRES D’ENTREJAMBES
- 
+À la suite des [14ème RENCONTRES INTERNATIONALES SCIENCES & CINÉMAS (RISC)](https://laurentperrinet.github.io/post/2023-12-16-risc/), organisées par l’association Polly Maggoo depuis 2006  l’association Lieux Fictifs, diffuse l’ensemble des films primés au sein de la [Structure d’Accompagnement à la Sortie](http://www.lieuxfictifs.org/actualites/article/inauguration-de-la-salle-de-cinema) de la prison des Baumettes.
+
 Ces programmations sont à destination d’un groupe de détenus en formation cinéma avec Lieux Fictifs, dans le cadre d’un atelier.
+
+Nous avons notamment assisté le 23 mai au matin à la projection du film lauréat des 14èmes RISC, [BY THE THROAT](https://www.on-tenk.com/fr/documentaires/societe/by-the-throat). L'occasion de parler de l'importance de la voix, du langage et des individualités, de la place grandissante de l'IA dans nos vies et de la nécessité de la transparence dans les algorithmes, ainsi que de l'opportunité qui se présente de gommer les biais. Mais aussi des dangers présentés par la création de "bulles" informationnelles et de l'importance de la diversité des sources d'information pour éviter d'être influencé par des "fake news". 
