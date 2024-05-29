@@ -222,40 +222,20 @@ will include:
 
 ## References
 
-* <a name="ref1"> \[1\] L. Itti et C. Koch, « Computational modelling of visual attention
-», *Nat Rev Neurosci*, vol. 2, 3, 3, mars 2001, doi:
+* <a name="ref1"> \[1\] L. Itti et C. Koch, « Computational modelling of visual attention ». *Nat Rev Neurosci*, vol. 2, 3, 3, mars 2001, doi:
 [10.1038/35058500](https://doi.org/10.1038/35058500).
 
-* <a name="ref2"> \[2\] Gerstner, W., Kistler, W. M., Naud, R., & Paninski, L. (2014).
-Neuronal dynamics: From single neurons to networks and models of
-cognition. Cambridge University Press
+* <a name="ref2"> \[2\] Gerstner, W., Kistler, W. M., Naud, R., & Paninski, L. (2014). « Neuronal dynamics: From single neurons to networks and models of cognition ». Cambridge University Press
 
-* <a name="ref3"> \[3\] A. M. Treisman et G. Gelade, « A feature-integration theory of
-attention », *Cognitive Psychology*, vol. 12, 1, p. 97‑136, janv.
-1980, doi:[10.1016/0010-0285(80)90005-5](https://doi.org/10.1016/0010-0285(80)90005-5).
+* <a name="ref3"> \[3\] A. M. Treisman et G. Gelade, « A feature-integration theory of attention ». *Cognitive Psychology*, vol. 12, 1, p. 97‑136, janv. 1980, doi:[10.1016/0010-0285(80)90005-5](https://doi.org/10.1016/0010-0285(80)90005-5).
 
-* <a name="ref4"> \[4\]  Wolfe, J.M. «Guided Search 6.0: An updated model of visual search.
-» Psychon Bull Rev 28, 1060--1092 (2021).
+* <a name="ref4"> \[4\]  Wolfe, J.M. «Guided Search 6.0: An updated model of visual search ». Psychon Bull Rev 28, 1060--1092 (2021).
 <https://doi.org/10.3758/s13423-020-01859-9>
 
-* <a name="ref5"> \[5\]  [Grieben,
-R.](https://dynamicfieldtheory.org/people/raul-grieben/), & [Schöner,
-G.](https://dynamicfieldtheory.org/people/gregor-schoner/). « A neural
-dynamic process model of combined bottom-up and top-down guidance in
-triple conjunction visual search». In T. Fitch, Lamm, C., Leder, H., &
-Teßmar-Raible, K. (Eds.), Proceedings of the 43rd Annual Conference of
-the Cognitive Science Society
+* <a name="ref5"> \[5\]  [Grieben, R.](https://dynamicfieldtheory.org/people/raul-grieben/), & [Schöner, G.](https://dynamicfieldtheory.org/people/gregor-schoner/). « A neural dynamic process model of combined bottom-up and top-down guidance in triple conjunction visual search». In T. Fitch, Lamm, C., Leder, H., & Teßmar-Raible, K. (Eds.), Proceedings of the 43rd Annual Conference of the Cognitive Science Society
 
-* <a name="ref6"> \[6\]  M. Rasamuel, Lyes Khacef, Laurent Rodriguez, et Benoit Miramond, «
-Specialized visual sensor coupled to a dynamic neural field for embedded
-attentional process \| IEEE Conference Publication \| IEEE Xplore ».
-<https://ieeexplore.ieee.org/abstract/document/8705979>
+* <a name="ref6"> \[6\]  M. Rasamuel, Lyes Khacef, Laurent Rodriguez, et Benoit Miramond, « Specialized visual sensor coupled to a dynamic neural field for embedded attentional process ». IEEE Conference Publication \| IEEE Xplore. <https://ieeexplore.ieee.org/abstract/document/8705979>
 
-* <a name="ref7"> \[7\]  Emmanuel Daucé, Pierre Albigès, Laurent U Perrinet (2020). [A dual foveal-peripheral visual processing model implements
-efficient saccade
-selection](https://laurentperrinet.github.io/publication/dauce-20/).
-*Journal of Vision*. doi:<https://doi.org/10.1167/jov.20.8.22>
+* <a name="ref7"> \[7\]  Emmanuel Daucé, Pierre Albigès, Laurent U Perrinet (2020). « [A dual foveal-peripheral visual processing model implements efficient saccade selection](https://laurentperrinet.github.io/publication/dauce-20/) ». *Journal of Vision*. doi:<https://doi.org/10.1167/jov.20.8.22>
 
-* <a name="ref8"> \[8\] Jean-Nicolas Jérémie, Emmanuel Daucé, Laurent U Perrinet (2020).
-Retinotopic Mapping Enhances the Robustness of Convolutional Neural
-Networks. arXiv https://arxiv.org/abs/2402.15480
+* <a name="ref8"> \[8\] Jean-Nicolas Jérémie, Emmanuel Daucé, Laurent U Perrinet (2020). « Retinotopic Mapping Enhances the Robustness of Convolutional Neural Networks ». arXiv https://arxiv.org/abs/2402.15480
