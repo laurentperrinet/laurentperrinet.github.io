@@ -6,8 +6,14 @@ education:
   - course: Phd in Computational Neuroscience
     institution: Aix-Marseille Université
     year: 2020
+  - course:  Post-doc with Thomas Serre
+    institution: ANITI (Toulouse, France)
+    year: 2021
+  - course:  Post-doc with Thomas Serre
+    institution: Brown University (Boston, USA)
+    year: 2022
 title: Victor Boutin
-role: Post-doc @ Serre Lab, BRown University.
+role: CNRS researcher at Cerco, Toulouse, France.
 bio: Phd in Computational Neuroscience
 social:
 - icon: github
@@ -16,6 +22,17 @@ social:
 - icon: external-link-alt
   icon_pack: fas
   link: https://serre-lab.clps.brown.edu/person/victor-boutin/
+  link: https://github.com/VictorBoutin
+- icon: external-link-alt
+  icon_pack: fas
+  link: https://victorboutin.github.io/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/VictorBoutin/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=Z-YF5FsAAAAJ
+
 superuser: false
 tags:
 - doc-2-amu
@@ -24,6 +41,9 @@ grants:
 user_groups:
 - Former Students
 ---
+
+Vicotr obtained a PhD in the Institute of Neuroscience of Marseille, at the Aix-Marseille university. My PhD was supervised by Laurent U Perrinet. He  did hit post-doc with Thomas Serre at ANITI (Toulouse, France) & Brown University (Boston, USA). He is now a permanent CNRS researcher (CR) at Cerco, Toulouse, France.
+
 # Controlling an aerial robot by human semaphore gestures using a bio-inspired neural network (PhD, 12/2016 - 02/2020)
 
 The brain is a complex machinery that is incredibly efficient and flexible. Thanks to efficient training processes, it tackles a high diversity of tasks with a high robustness. In contrast, states-of-the-art machine learning algorithms exhibit great performances, but are also highly task-specialized. Consequently, neuroscience is potentially a great source of inspiration to design more efficient artificial intelligence algorithms.
