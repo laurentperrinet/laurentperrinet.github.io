@@ -12,8 +12,11 @@ education:
   - course:  Post-doc with Thomas Serre
     institution: Brown University (Boston, USA)
     year: 2022
+  - course:  Post-doc
+    institution: CerCo (Toulouse, France).
+    year: 2023
 title: Victor Boutin
-role: CNRS researcher at Cerco, Toulouse, France.
+role: CNRS researcher at CerCo (Toulouse, France).
 bio: Phd in Computational Neuroscience
 social:
 - icon: github
