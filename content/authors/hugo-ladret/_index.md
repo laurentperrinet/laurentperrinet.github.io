@@ -2,14 +2,18 @@
 authors:
 - hugo-ladret
 bio: During my PhD, I am focusing on the role of precision in natural and artificial neural networks.
+
 education:
   courses:
-  - course: Phd candidate in Computational Neuroscience
-    institution: Aix-Marseille Université
-    year: 2023
-  - course: Master in Neuroscience
-    institution: Aix-Marseille Université
-    year: 2019
+    - course: Post-doc with Georg Keller
+      institution: FMI (Basel, Switzerland)
+      year: 2024
+    - course: Phd candidate in Computational Neuroscience
+      institution: Aix-Marseille Université
+      year: 2023
+    - course: Master in Neuroscience
+      institution: Aix-Marseille Université
+      year: 2019
 title: Hugo Ladret
 role: Phd candidate in Computational Neuroscience
 social:
@@ -27,8 +31,11 @@ social:
   link: https://hugoladret.github.io
 superuser: false
 user_groups:
-- Current Students
+- Former Students
 ---
+
+* Now a Postdoc in Georg Keller’s lab @ FMI, Basel, CH
+
 # PhD Student (2019-09 / 2024-02): A multiscale cortical model to account for orientation selectivity in natural-like stimulations
 
  * Aix-Marseille Université, Institut des Neurosciences de la Timone
