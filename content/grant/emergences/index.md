@@ -53,7 +53,7 @@ The *Emergences* project aims at advancing the state-of-the art on near-physics 
  * TRL: basic research
  * Total grant requested: 6.8 M€ 
 
-- grant number XXX-23-XXX-XXX (TBC).
+- grant number ANR-2X-PEPR-00XX.
 
 ## Latest news
 
