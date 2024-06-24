@@ -50,4 +50,6 @@ publication: '*FENS Forum 2024*'
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-24-fens/
+- name: Code
+  url: https://github.com/laurentperrinet/2024-06-26_Perrinet24FENS
 ---
