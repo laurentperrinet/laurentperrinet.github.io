@@ -15,7 +15,7 @@ role: Researcher in Computational Neuroscience
 # Organizations/Affiliations
 organizations:
 - title: Institut de Neurosciences de la Timone
-  url: https://www.int.univ-amu.fr/PERRINET-Laurent
+  url: https://www.int.univ-amu.fr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Computational Neuroscience for Cognition and Neuropahtologies
@@ -27,9 +27,6 @@ interests:
 - Vision
 
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'matthieu.gilson [at] univ-amu.fr'
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-6726-7207
@@ -37,8 +34,6 @@ social:
   icon_pack: fas
   link: https://matthieugilson.eu
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: matthieu.gilson@univ-amu.fr
 
 user_groups:
 - Collaborators

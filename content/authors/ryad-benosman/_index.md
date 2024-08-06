@@ -9,7 +9,4 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=_ZTFUooAAAAJ
-- icon: external-link-alt
-  icon_pack: fas
-  link: https://www.institut-vision.org/fr/vision-and-natural-computation.html
 ---

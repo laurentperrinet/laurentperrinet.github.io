@@ -28,7 +28,7 @@ doi: 10.1109/TNN.2004.833303
 featured: false
 links:
 - name: URL
-  url: http://dx.doi.org/10.1109/TNN.2004.833303
+  url: https://ieeexplore.ieee.org/document/1333080
 - name: arXiv
   url: https://arxiv.org/abs/q-bio/0611002
 publication: '*IEEE Transactions on Neural Networks*'

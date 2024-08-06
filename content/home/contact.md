@@ -56,7 +56,7 @@ content:
     - icon: researcherid
       icon_pack: ai
       name: ResearcherID
-      link: https://www.researcherid.com/rid/C-4900-2009
+      link: https://www.webofscience.com/wos/author/record/1215734
     - icon: pubpeer
       icon_pack: ai
       name: NeuroTree

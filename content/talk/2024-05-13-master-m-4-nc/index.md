@@ -25,7 +25,7 @@ image:
 lastmod: 2024-05-13 12:47:11+02:00
 links:
 - name: URL
-  url: https://laurentperrinet.github.io/talk/2024-05-13 -master-m4nc
+  url: https://laurentperrinet.github.io/talk/2024-05-13-master-m-4-nc
 location: Sophia-Antipolis (France)
 projects:
 - courses
