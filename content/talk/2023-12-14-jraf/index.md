@@ -21,6 +21,8 @@ image:
   focal_point: ''
   preview_only: false
 links:
+- name: Venue
+  url: https://jraf-2023.sciencesconf.org/
 - name: URL
   url: https://laurentperrinet.github.io/talk/2023-12-14-jraf
 location: Grenoble (France)
