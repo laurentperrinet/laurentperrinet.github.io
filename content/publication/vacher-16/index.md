@@ -1,4 +1,16 @@
 ---
+title: Bayesian Modeling of Motion Perception using Dynamical Stochastic Textures
+authors:
+- Jonathan Vacher
+- Andrew Isaac Meso
+- Laurent U Perrinet
+- Gabriel Peyré
+date: '2018-11-21'
+publishDate: '2024-08-06T07:35:49.618098Z'
+publication_types:
+- article-journal
+publication: '*Neural Computation*'
+doi: 10.1162/neco_a_01142
 abstract: A common practice to account for psychophysical biases in vision is to frame
   them as consequences of a dynamic process relying on optimal inference with respect
   to a generative model. The present study details the complete formulation of such
@@ -20,26 +32,12 @@ abstract: A common practice to account for psychophysical biases in vision is to
   speed is positively biased by spatial frequency increments. The effect cannot be
   fully accounted for by previous models, but the current prior acting on the spatio-temporal
   likelihoods has proved necessary in accounting for the perceptual bias.
-authors:
-- Jonathan Vacher
-- Andrew Isaac Meso
-- Laurent U Perrinet
-- Gabriel Peyré
-date: 2018-11-21
-doi: 10.1162/neco_a_01142
-featured: false
-grants:
-- anr-speed
-projects: []
-publication: '*Neural Computation*'
-publication_types:
-- article-journal
 tags:
 - Bayesian model
 - motion detection
 - motion-clouds
 - psychophysics
-title: Bayesian Modeling of Motion Perception using Dynamical Stochastic Textures
-url_pdf: https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01142
-url_preprint: https://arxiv.org/abs/1611.01390
+links:
+- name: URL
+  url: https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01142
 ---

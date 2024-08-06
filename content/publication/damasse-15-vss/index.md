@@ -1,4 +1,16 @@
 ---
+title: Anticipatory smooth eye movements and reinforcement
+authors:
+- Jean-Bernard Damasse
+- Laurent Madelain
+- Laurent U Perrinet
+- Anna Montagnini
+date: '2015-09-01'
+publishDate: '2024-08-06T07:35:48.459653Z'
+publication_types:
+- paper-conference
+publication: '*Proceedings of VSS*'
+doi: 10.1167/15.12.1019
 abstract: When an object is moving in the visual field, we are able to accurately
   track it with a combination of saccades and smooth eye movements. These movements
   allow us to align and stabilize the object on the fovea, thus enabling visual analysis
@@ -23,23 +35,10 @@ abstract: When an object is moving in the visual field, we are able to accuratel
   of aSPEM. This experiment taps on the very reason to produce anticipatory tracking
   movement, that is to grant a quicker high-acuity vision of the moving target. We
   compare predictive anticipatory eye movements across these conditions.
-authors:
-- Jean-Bernard Damasse
-- Laurent Madelain
-- Laurent U Perrinet
-- Anna Montagnini
-date: 2015-09-01
-doi: 10.1167/15.12.1019
-featured: false
-grants:
-- anr-rem
-projects: []
-publication: '*Proceedings of VSS*'
-publication_types:
-- 'inproceedings'
 tags:
 - eye movements
 - Smooth pursuit eye movement
-title: Anticipatory smooth eye movements and reinforcement
-url_pdf: http://jov.arvojournals.org/article.aspx?articleid=2434129
+links:
+- name: URL
+  url: http://jov.arvojournals.org/article.aspx?articleid=2434129
 ---

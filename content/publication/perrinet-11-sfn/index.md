@@ -1,4 +1,15 @@
 ---
+title: 'Edge statistics in natural images versus laboratory animal environments: implications
+  for understanding lateral connectivity in V1'
+authors:
+- Laurent U Perrinet
+- David Fitzpatrick
+- James A Bednar
+date: '2011-01-01'
+publishDate: '2024-08-06T07:35:49.288934Z'
+publication_types:
+- paper-conference
+publication: '*Proceedings of the Society for Neuroscience conference*'
 abstract: 'Oriented edges in images of natural scenes tend to be aligned in collinear
   or co-circular arrangements, with lines and smooth curves more common than other
   possible arrangements of edges (Geisler et al., Vis Res 41:711-24, 2001). The visual
@@ -41,24 +52,9 @@ abstract: 'Oriented edges in images of natural scenes tend to be aligned in coll
   for a local s̈̈ociation field̈s̈̈ion Research 33:173--93. W.S. Geisler, J.S. Perry,
   B.J. Super, and D.P. Gallogly (2001) Edge co-occurrence in natural images predicts
   contour grouping performance. Vision Research 41:711-24.'
-authors:
-- Laurent U Perrinet
-- David Fitzpatrick
-- James A Bednar
-date: 2011-01-01
-featured: false
-grants:
-- anr-bala-v1
-- brain-scales
-projects: []
-publication: '*Proceedings of the Society for Neuroscience conference*'
-publication_types:
-- 'inproceedings'
 tags:
 - motion-clouds
-title: 'Edge statistics in natural images versus laboratory animal environments: implications
-  for understanding lateral connectivity in V1'
-url_pdf: https://laurentperrinet.github.io/publication/perrinet-11-sfn
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/perrinet-11-sfn
 ---
-
-* See a followup in {{< cite page="/publication/perrinet-bednar-15" view="4" >}}

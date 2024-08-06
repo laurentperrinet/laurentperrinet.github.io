@@ -1,4 +1,14 @@
 ---
+title: Ultra-rapid visual search in natural images using active deep learning
+authors:
+- Jean-Nicolas Jérémie
+- Emmanuel Daucé
+- Laurent U Perrinet
+date: '2022-06-29'
+publishDate: '2024-08-06T07:35:48.710168Z'
+publication_types:
+- paper-conference
+publication: '*Proceedings of AREADNE*'
 abstract: Visual search, that is, the simultaneous localization and detection of a
   visual target of interest, is a vital task. Applied to the case of natural scenes,
   searching for example to an animal (either a prey, a predator or a partner) constitutes
@@ -16,41 +26,13 @@ abstract: Visual search, that is, the simultaneous localization and detection of
   actual visual content, through an ultra-fast/low resolution analysis of the full
   visual field, and the second providing a detailed categorization over the detailed
   foveal selected region attained with a saccade.
-authors:
-- Jean-Nicolas Jeremie
-- Emmanuel Dauce
-- Laurent U Perrinet
-categories: []
-date: 2022-06-29
-draft: false
-featured: false
-grants:
-- aprovis3D
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-lastmod: 2022-05-20 13:42:38+02:00
-links:
-- name: URL
-  url: https://areadne.org/
-projects: []
-publication: '*Proceedings of AREADNE*'
-publication_types:
-- 'inproceedings'
-publishDate: '2022-06-16T11:51:41.890310Z'
-subtitle: ''
 tags:
 - efficient coding
 - localization
 - online classification
 - ultra-fast categorization
 - visual search
-title: Ultra-rapid visual search in natural images using active deep learning
-url_pdf: https://areadne.org/
+links:
+- name: URL
+  url: https://areadne.org/
 ---
-
-* This work extends to natural scenes a previous work on visual search on a simplified task formulated in  {{< cite page="/publication/dauce-20" view="4" >}}
-* It is based on a first work on transfer learning and its application to a natural task : {{< cite page="/publication/jeremie-23-ultra-fast-cat" view="4" >}}
-* in particular, we found retinotopic mapping to be adapted to that extension : {{< cite page="/talk/2022-06-19-neuro-vision-retinotopic" view="4" >}}
-* for a follow-up, check out  {{< cite page="/publication/jeremie-22-fens" view="4" >}}

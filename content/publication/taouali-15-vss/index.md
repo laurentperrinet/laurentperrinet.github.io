@@ -1,11 +1,24 @@
 ---
-abstract: 'Natural scenes generally contain objects in motion. The local orientation
+title: A dynamic model for decoding direction and orientation in macaque primary visual
+  cortex
+authors:
+- Wahiba Taouali
+- Giacomo Benvenuti
+- Frédéric Y Chavane
+- Laurent U Perrinet
+date: '2016-01-01'
+publishDate: '2024-08-06T07:35:49.571651Z'
+publication_types:
+- paper-conference
+publication: '*Proceedings of VSS*'
+doi: 10.1167/15.12.484
+abstract: "Natural scenes generally contain objects in motion. The local orientation
   of their contours and the direction of motion are two essential components of visual
   information which are processed in parallel in the early visual areas. Focusing
   on the primary visual cortex of the macaque monkey (V1), we challenged different
   models for the joint representation of orientation and direction within the neural
   activity. Precisely, we considered the response of V1 neurons to an oriented moving
-  bar to investigate whether, and how, the information about the bar''s orientation
+  bar to investigate whether, and how, the information about the bar's orientation
   and direction could be encoded dynamically at the population activity level. For
   that purpose, we used a decoding approach based on a space-time receptive field
   model that encodes jointly orientation and direction. We based our decoding approach
@@ -37,28 +50,10 @@ abstract: 'Natural scenes generally contain objects in motion. The local orienta
   Perrinet. Testing the Odds of Inherent versus Observed Over-dispersion in Neural
   Spike Counts. ıt Journal of Neurophysiology, 2015. $[5]$ C. Pack, R. Born. Temporal
   dynamics of a neural solution to the aperture problem in visual area MT of macaque
-  brain. ıt Nature, 409(6823), 1040--1042. 2001.'
-authors:
-- Wahiba Taouali
-- Giacomo Benvenuti
-- Frederic Y Chavane
-- Laurent U Perrinet
-date: 2016-01-01
-doi: 10.1167/15.12.484
-featured: false
-grants:
-- anr-bala-v1
-- brain-scales
-projects: []
-publication: '*Proceedings of VSS*'
-publication_types:
-- 'inproceedings'
+  brain. ıt Nature, 409(6823), 1040--1042. 2001."
 tags:
 - coding decoding
-title: A dynamic model for decoding direction and orientation in macaque primary visual
-  cortex
-url_pdf: http://jov.arvojournals.org/article.aspx?articleid=2433592
+links:
+- name: URL
+  url: http://jov.arvojournals.org/article.aspx?articleid=2433592
 ---
-
-* see a follow-up in this [poster]({{< ref "/publication/taouali-16-areadne" >}})
-* This is a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

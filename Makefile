@@ -5,7 +5,7 @@ update:
 	sh update_wowchemy.sh
 
 diff:
-	opendiff ../academic-admin/academic/import_bibtex.py  scripts/update_metadata.py
+	opendiff ../academic-file-converter/academic/import_bibtex.py  scripts/update_metadata.py
 
 gitpages:
 	echo ">>> Commit changes to source repo to GitHub..."
@@ -25,7 +25,7 @@ entries:
 	cd scripts; python update_entries.py
 
 new_entries:
-	academic import --bibtex  ../perrinet_curriculum-vitae_tex/LaurentPerrinet_publications.bib content/publication/
+	academic import --dry-run  ../perrinet_curriculum-vitae_tex/LaurentPerrinet_publications.bib content/publication/
 	academic import --publication-dir content/talk --bibtex  ../perrinet_curriculum-vitae_tex/LaurentPerrinet_talks.bib content/talk/
 
 metadata:

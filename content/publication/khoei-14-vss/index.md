@@ -1,4 +1,15 @@
 ---
+title: Motion-based prediction model for flash lag effect
+authors:
+- Mina A Khoei
+- Laurent U Perrinet
+- Guillaume S Masson
+date: '2014-08-22'
+publishDate: '2024-08-06T07:35:48.783619Z'
+publication_types:
+- paper-conference
+publication: '*Journal of Vision*'
+doi: 10.1167/14.10.471
 abstract: The flash lag effect (FLE) is a well known visual illusion that reveals
   the perceptual difference in position coding of moving and stationary flashed objects.
   It has been reproduced experimentally in retina and V1 along with some relevant
@@ -24,26 +35,10 @@ abstract: The flash lag effect (FLE) is a well known visual illusion that reveal
   being restricted to one special visual area, provides a generic account for FLE
   by emphasize on different manipulation of stationary objects and trajectory motion
   by the sensory system.
-authors:
-- Mina A Khoei
-- Laurent U Perrinet
-- Guillaume S Masson
-date: 2014-08-22
-doi: 10.1167/14.10.471
-featured: false
-grants:
-- facets-itn
-projects: []
-publication: '*Journal of Vision*'
-publication_types:
-- 'inproceedings'
 tags:
 - motion detection
 - motion prediction
-title: Motion-based prediction model for flash lag effect
-url_pdf: http://dx.doi.org/10.1167/14.10.471
+links:
+- name: URL
+  url: http://dx.doi.org/10.1167/14.10.471
 ---
-
-* Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}
-* see  follow-up on motion extrapolation: {{< cite page="/publication/khoei-13-jpp" view="4" >}}
-* see  follow-up on the flash-lag effect: {{< cite page="/publication/khoei-masson-perrinet-17" view="4" >}}

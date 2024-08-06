@@ -1,4 +1,13 @@
 ---
+title: Learning heterogeneous delays of spiking neurons for motion detection
+authors:
+- Antoine Grimaldi
+- Laurent U Perrinet
+date: '2023-01-27'
+publishDate: '2024-08-06T07:35:48.696599Z'
+publication_types:
+- paper-conference
+publication: '*GDR Vision, Toulouse, 2023*'
 abstract: 'The response of a biological neuron depends largely on the precise timing
   of presynaptic spikes that reach the basal dendritic tree. However, most neuronal
   models do not take advantage of this minute temporal dimension, especially in exploiting
@@ -12,33 +21,8 @@ abstract: 'The response of a biological neuron depends largely on the precise ti
   defining the generation of the raster plot as a probabilistic combination of PGs,
   we build and train the network in order to optimize the inversion of this generative
   model. '
-authors:
-- Antoine Grimaldi
-- Laurent U Perrinet
-categories: []
-date: 2023-01-27
-draft: false
-featured: false
-grants:
-- aprovis3D
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-lastmod: 2023-03-22 16:35:38+01:00
 links:
 - name: URL
-  url: https://gdr-vision-2023.sciencesconf.org/browse?forward-action=index&forward-controller=browse&docid=442297&lang=en
-projects: []
-publication: '*GDR Vision, Toulouse, 2023*'
-publication_types:
-- 'inproceedings'
-publishDate: '2023-03-22T15:35:38.869745Z'
-subtitle: ''
-tags: []
-title: Learning heterogeneous delays of spiking neurons for motion detection
-url_pdf: https://gdr-vision-2023.sciencesconf.org/browse?forward-action=index&forward-controller=browse&docid=442297&lang=en
+  url: 
+    https://gdr-vision-2023.sciencesconf.org/browse?forward-action=index&forward-controller=browse&docid=442297&lang=en
 ---
-
-* see a follow-up as journal paper: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}
-* presented at [GDR vision 2023 2022](https://gdr-vision-2023.sciencesconf.org/) January 2023 in Toulouse, France

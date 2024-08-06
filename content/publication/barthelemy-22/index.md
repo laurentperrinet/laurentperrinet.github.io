@@ -1,4 +1,17 @@
 ---
+title: 'A Behavioral Receptive Field for Ocular Following in Monkeys: Spatial Summation
+  and Its Spatial Frequency Tuning'
+authors:
+- Frédéric V Barthélemy
+- Jérome Fleuriet
+- Laurent U Perrinet
+- Guillaume S Masson
+date: '2022-01-01'
+publishDate: '2024-08-06T07:35:48.309897Z'
+publication_types:
+- article-journal
+publication: '*eNeuro*'
+doi: 10.1523/ENEURO.0374-21.2022
 abstract: In human and non-human primates, reflexive tracking eye movements can be
   initiated at very short latency in response to a rapid shift of the image. Previous
   studies in humans have shown that only a part of the central visual field is optimal
@@ -30,27 +43,6 @@ abstract: In human and non-human primates, reflexive tracking eye movements can 
   populations in monkey area MT. Our results further outline the computational properties
   of the behavioral receptive field underpinning automatic, context-dependent motion
   integration.
-authors:
-- Frederic V Barthélemy
-- Jérome Fleuriet
-- Laurent U Perrinet
-- Guillaume S Masson
-categories: []
-date: 2022-01-01
-doi: 10.1523/ENEURO.0374-21.2022
-draft: false
-featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-lastmod: 2022-06-30 08:54:01+03:00
-projects: []
-publication: '*eNeuro*'
-publication_types:
-- article-journal
-publishDate: '2022-06-30T05:54:01.160596Z'
-subtitle: ''
 tags:
 - center-surround interactions
 - monkey
@@ -58,7 +50,4 @@ tags:
 - spatial frequency
 - tracking eye movements
 - visual motion integration
-title: 'A Behavioral Receptive Field for Ocular Following in Monkeys: Spatial Summation
-  and Its Spatial Frequency Tuning'
-url_preprint: https://hal.archives-ouvertes.fr/hal-03741144
 ---

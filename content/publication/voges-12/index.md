@@ -1,4 +1,15 @@
 ---
+title: Complex dynamics in recurrent cortical networks based on spatially realistic
+  connectivities
+authors:
+- Nicole Voges
+- Laurent U Perrinet
+date: '2012-01-01'
+publishDate: '2024-08-06T07:35:49.665290Z'
+publication_types:
+- article-journal
+publication: '*Frontiers in Computational Neuroscience*'
+doi: 10.3389/fncom.2012.00041
 abstract: Most studies on the dynamics of recurrent cortical networks are either based
   on purely random wiring or neighborhood couplings. Neuronal cortical connectivity,
   however, shows a complex spatial pattern composed of local and remote patchy connections.
@@ -20,26 +31,9 @@ abstract: Most studies on the dynamics of recurrent cortical networks are either
   that the amount of local versus long-range connections is an important parameter,
   whereas the structurally advantageous wiring cost optimization of patchy networks
   has little bearing on the phase space.
-authors:
-- Nicole Voges
-- Laurent U Perrinet
-date: 2012-01-01
-doi: 10.3389/fncom.2012.00041
-featured: false
-grants:
-- brain-scales
-- codde
-- facets
-projects: []
-publication: '*Frontiers in Computational Neuroscience*'
-publication_types:
-- article-journal
 tags:
 - lateral connections
-title: Complex dynamics in recurrent cortical networks based on spatially realistic
-  connectivities
-url_pdf: https://laurentperrinet.github.io/publication/voges-12
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/voges-12
 ---
-
-![header](voges-12.png)
-* Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}

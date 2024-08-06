@@ -1,7 +1,18 @@
 ---
-abstract: 'The machinery behind the visual perception of motion and the subsequent
+title: Modeling spatial integration in the ocular following response using a probabilistic
+  framework
+authors:
+- Laurent U Perrinet
+- Guillaume S Masson
+date: '2007-01-01'
+publishDate: '2024-08-06T07:35:49.216232Z'
+publication_types:
+- article-journal
+publication: '*Journal of Physiology-Paris*'
+doi: 10.1016/j.jphysparis.2007.10.011
+abstract: "The machinery behind the visual perception of motion and the subsequent
   sensori-motor transformation, such as in Ocular Following Response (OFR), is confronted
-  to uncertainties which are efficiently resolved in the primate''s visual system.
+  to uncertainties which are efficiently resolved in the primate's visual system.
   We may understand this response as an ideal observer in a probabilistic framework
   by using Bayesian theory (Weiss et al., 2002) which we previously proved to be successfully
   adapted to model the OFR for different levels of noise with full field gratings
@@ -17,18 +28,7 @@ abstract: 'The machinery behind the visual perception of motion and the subseque
   the integration of the spatial motion signal. Within this framework, we successfully
   accounted for the contrast gain control mechanisms observed in the behavioral data
   for center-surround stimuli. However, another inhibitory mechanism had to be added
-  to account for suppressive effects of the surround.'
-authors:
-- Laurent U Perrinet
-- Guillaume S Masson
-date: 2007-01-01
-doi: 10.1016/j.jphysparis.2007.10.011
-featured: false
-grants:
-- facets-itn
-publication: '*Journal of Physiology-Paris*'
-publication_types:
-- article-journal
+  to account for suppressive effects of the surround."
 tags:
 - Bayesian model
 - center-surround interactions
@@ -36,9 +36,7 @@ tags:
 - lateral connections
 - motion detection
 - visual perception
-title: Modeling spatial integration in the ocular following response using a probabilistic
-  framework
-url_pdf: http://dx.doi.org/10.1016/j.jphysparis.2007.10.011
+links:
+- name: URL
+  url: http://dx.doi.org/10.1016/j.jphysparis.2007.10.011
 ---
-
-![header](perrinet-07-neurocomp.png)

@@ -1,4 +1,16 @@
 ---
+title: Modeling of simple cells through a sparse overcomplete gabor wavelet representation
+  based on local inhibition and facilitation
+authors:
+- Rafael Redondo
+- Sylvain Fischer
+- Laurent U Perrinet
+- Gabriel Cristóbal
+date: '2005-08-01'
+publishDate: '2024-08-06T07:35:49.470086Z'
+publication_types:
+- paper-conference
+publication: '*Perception*'
 abstract: 'We present a biologically plausible model of simple cortical cells as 1)
   a linear transform representing edges and 2) a non-linear iterative stage of inhibition
   and facilitation between neighboring coefficients. The linear transform is a complex
@@ -24,23 +36,6 @@ abstract: 'We present a biologically plausible model of simple cortical cells as
   Used for compression, the scheme limits particularly the high-frequency artifacts.
   The model performs also efficiently in tasks the Human Visual System is supposed
   to deal with, as for instance edge extraction and image denoising.'
-authors:
-- Rafael Redondo
-- Sylvain Fischer
-- Laurent U Perrinet
-- Gabriel Cristóbal
-date: 2005-08-01
-featured: false
-grants:
-- facets
-publication: '*Perception*'
-publication_types:
-- 'inproceedings'
 tags:
 - log-gabor
-title: Modeling of simple cells through a sparse overcomplete gabor wavelet representation
-  based on local inhibition and facilitation
 ---
-
-* relies on log-Gabor filters: {{< cite page="/publication/fischer-07-cv" view="4" >}}
-{{< figure src="https://laurentperrinet.github.io/publication/fischer-07/figure2.png" width="80%" title="Schematic structure of the primary visual cortex implemented in the present study. Simple cortical cells are modeled through log-Gabor functions. They are organized in pairs in quadrature of phase (dark-gray circles). For each position the set of different orientations compose a pinwheel (large light-gray circles). The retinotopic organization induces that adjacent spatial positions are arranged in adjacent pinwheels. Inhibition interactions occur towards the closest adjacent positions which are in the direc-tions perpendicular to the cell preferred orientation and toward adjacent orientations (light-red connections). Facilitation occurs to-wards co-aligned cells up to a larger distance (dark-blue connections). " >}}

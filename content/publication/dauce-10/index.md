@@ -1,4 +1,14 @@
 ---
+title: Computational Neuroscience, from Multiple Levels to Multi-level
+authors:
+- Emmanuel Daucé
+- Laurent U Perrinet
+date: '2010-01-01'
+publishDate: '2024-08-06T07:35:48.496232Z'
+publication_types:
+- article-journal
+publication: '*Journal of Physiology-Paris*'
+doi: 10.1016/j.jphysparis.2009.11.001
 abstract: Despite the long and fruitful history of neuroscience, a global, multi-level
   description of cardinal brain functions is still far from reach. Using analytical
   or numerical approaches, emphComputational Neuroscience aims at the emergence of
@@ -10,17 +20,9 @@ abstract: Despite the long and fruitful history of neuroscience, a global, multi
   diversity of this field of research but also the need of an unification effort that
   is becoming more and more necessary to understand the brain in its full complexity,
   from multiple levels of description to a multi-level understanding.
-authors:
-- Emmanuel Dauce
-- Laurent U Perrinet
-date: 2010-01-01
-doi: 10.1016/j.jphysparis.2009.11.001
-featured: false
-publication: '*Journal of Physiology-Paris*'
-publication_types:
-- article-journal
 tags:
 - computational neuroscience
-title: Computational Neuroscience, from Multiple Levels to Multi-level
-url_pdf: http://dx.doi.org/10.1016/j.jphysparis.2009.11.001
+links:
+- name: URL
+  url: http://dx.doi.org/10.1016/j.jphysparis.2009.11.001
 ---

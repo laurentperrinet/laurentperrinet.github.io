@@ -1,4 +1,16 @@
 ---
+title: 'Measuring speed of moving textures: Different pooling of motion information
+  for human ocular following and perception'
+authors:
+- Claudio Simoncini
+- Laurent U Perrinet
+- Anna Montagnini
+- Guillaume S Masson
+date: '2013-01-01'
+publishDate: '2024-08-06T07:35:49.544033Z'
+publication_types:
+- paper-conference
+publication: '*VSS Conference Abstract*'
 abstract: 'The visual system does not process information instantaneously, but rather
   integrates over time. Integration occurs both for stationary objects and moving
   objects, with very similar time constants (Burr, 1981). We measured, as a function
@@ -17,25 +29,9 @@ abstract: 'The visual system does not process information instantaneously, but r
   objects translating in the visual fi eld. Burr, D.C. (1981). Temporal summation
   of moving images by the human visual system. Proceedings of Royal Society, B211,
   321 - 339'
-authors:
-- Claudio Simoncini
-- Laurent U Perrinet
-- Anna Montagnini
-- Guillaume S Masson
-date: 2013-01-01
-featured: false
-grants:
-- brain-scales
-- codde
-projects: []
-publication: '*VSS Conference Abstract*'
-publication_types:
-- 'inproceedings'
 tags:
 - eye movements
 - motion detection
 - motion-clouds
 - psychophysics
-title: 'Measuring speed of moving textures: Different pooling of motion information
-  for human ocular following and perception'
 ---

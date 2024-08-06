@@ -1,4 +1,13 @@
 ---
+title: Learning dynamics in a neural network model of the primary visual cortex
+authors:
+- Hugo Ladret
+- Laurent U Perrinet
+date: '2020-01-01'
+publishDate: '2024-08-06T07:35:48.853803Z'
+publication_types:
+- paper-conference
+publication: '*Annals of Eye Science*'
 abstract: '*Background*: The primary visual cortex (V1) is a key component of the
   visual system that builds some of the first levels of coherent visual representations
   from sparse visual inputs. While the study of its dynamics has been the focus of
@@ -26,21 +35,9 @@ abstract: '*Background*: The primary visual cortex (V1) is a key component of th
   curve of certain layers of V1. Further investigations are now conducted to validate
   its properties against the neuronal responses of rodents, using identical visual
   stimuli.'
-authors:
-- Hugo Ladret
-- Laurent U Perrinet
-date: 2020-01-01
-featured: false
-grants:
-- anr-horizontal-v1
-projects: []
-publication: '*Annals of Eye Science*'
-publication_types:
-- 'inproceedings'
 tags:
 - area-v1
-title: Learning dynamics in a neural network model of the primary visual cortex
-url_pdf: http://aes.amegroups.com/article/view/5214
+links:
+- name: URL
+  url: http://aes.amegroups.com/article/view/5214
 ---
-
-* See also [Ladret and Perrinet, 2019]({{< ref "/publication/ladret-19-sfn" >}})

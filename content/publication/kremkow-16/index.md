@@ -1,4 +1,20 @@
 ---
+title: 'Push-Pull Receptive Field Organization and Synaptic Depression: Mechanisms
+  for Reliably Encoding Naturalistic Stimuli in V1'
+authors:
+- Jens Kremkow
+- Laurent U Perrinet
+- Cyril Monier
+- Jose-Manuel Alonso
+- Ad M Aertsen
+- Yves Frégnac
+- Guillaume S Masson
+date: '2016-01-01'
+publishDate: '2024-08-06T07:35:48.831767Z'
+publication_types:
+- article-journal
+publication: '*Frontiers in Neural Circuits*'
+doi: 10.3389/fncir.2016.00037
 abstract: Neurons in the primary visual cortex are known for responding vigorously
   but with high variability to classical stimuli such as drifting bars or gratings.
   By contrast, natural scenes are encoded more efficiently by sparse and temporal
@@ -16,28 +32,10 @@ abstract: Neurons in the primary visual cortex are known for responding vigorous
   synaptic depression by simple cells receiving a direct structured input from thalamus
   composes a generic computational mechanism for generating a sparse and reliable
   encoding of natural sensory events.
-authors:
-- Jens Kremkow
-- Laurent U Perrinet
-- Cyril Monier
-- Jose-Manuel Alonso
-- Ad M Aertsen
-- Yves Frégnac
-- Guillaume S Masson
-date: 2016-01-01
-doi: 10.3389/fncir.2016.00037
-featured: false
-grants:
-- facets
-projects: []
-publication: '*Frontiers in Neural Circuits*'
-publication_types:
-- article-journal
 tags:
 - area-v1
 - statistics of natural images
-title: 'Push-Pull Receptive Field Organization and Synaptic Depression: Mechanisms
-  for Reliably Encoding Naturalistic Stimuli in V1'
-url_pdf: http://journal.frontiersin.org/article/10.3389/fncir.2016.00037/full
-url_preprint: https://hal.archives-ouvertes.fr/hal-02062034
+links:
+- name: URL
+  url: http://journal.frontiersin.org/article/10.3389/fncir.2016.00037/full
 ---

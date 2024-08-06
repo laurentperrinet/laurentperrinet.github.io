@@ -1,4 +1,12 @@
 ---
+title: 'Illusions et hallucinations visuelles : une porte sur la perception'
+authors:
+- Laurent U Perrinet
+date: '2019-01-01'
+publishDate: '2024-08-06T07:35:49.371615Z'
+publication_types:
+- article-journal
+publication: '*The Conversation*'
 abstract: Les illusions visuelles sont des créations d'artistes, de scientifiques
   et plus récemment, grâce aux réseaux sociaux, du grand public qui proposent des
   situations souvent incongrues, dans lesquelles l'eau remonte une cascade, les personnes
@@ -13,22 +21,7 @@ abstract: Les illusions visuelles sont des créations d'artistes, de scientifiqu
   perception visuelle sur les bases d'une théorie de la vision non pas comme une simple
   caméra qui enregistre des images mais comme un processus actif en relation avec
   le monde qui nous entoure.
-authors:
-- Laurent U Perrinet
-date: 2019-01-01
-featured: false
-grants:
-- anr-horizontal-v1
-projects:
-- tout-public
-publication: '*The Conversation*'
-publication_types:
-- article-journal
-title: 'Illusions et hallucinations visuelles : une porte sur la perception'
-url_pdf: https://laurentperrinet.github.io/publication/perrinet-19-illusions/
-url_preprint: https://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389
-url_video: https://www.youtube.com/watch?v=jJKTdlChefc
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/perrinet-19-illusions/
 ---
-
-* Ce texte est disponible dans cet article de [The Conversation](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567).
-* Voir la @ [présentation au NeuroStories]({{< ref "/post/2019-10-07_neurostories/index.md" >}})

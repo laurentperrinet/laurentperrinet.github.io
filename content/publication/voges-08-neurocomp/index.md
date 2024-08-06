@@ -1,20 +1,14 @@
 ---
+title: Analyzing cortical network dynamics with respect to different connectivity
+  assumptions
 authors:
 - Nicole Voges
 - Laurent U Perrinet
-date: 2008-10-01
-featured: false
-grants:
-- facets
-projects: []
-publication: '*Proceedings of NeuroComp08, Marseille*'
+date: '2008-10-01'
+publishDate: '2024-08-06T07:35:49.633842Z'
 publication_types:
-- 'inproceedings'
+- paper-conference
+publication: '*Proceedings of NeuroComp08, Marseille*'
 tags:
 - lateral connections
-title: Analyzing cortical network dynamics with respect to different connectivity
-  assumptions
 ---
-
-* Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}
-* see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

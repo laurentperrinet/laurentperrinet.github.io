@@ -1,4 +1,17 @@
 ---
+title: Anisotropic connectivity implements motion-based prediction in a spiking neural
+  network
+authors:
+- Bernhard A Kaplan
+- Anders Lansner
+- Guillaume S Masson
+- Laurent U Perrinet
+date: '2013-09-17'
+publishDate: '2024-08-06T07:35:48.740101Z'
+publication_types:
+- article-journal
+publication: '*Frontiers in Computational Neuroscience*'
+doi: 10.3389/fncom.2013.00112
 abstract: Predictive coding hypothesizes that the brain explicitly infers upcoming
   sensory input to establish a coherent representation of the world. Although it is
   becoming generally accepted, it is not clear on which level spiking neural networks
@@ -13,20 +26,6 @@ abstract: Predictive coding hypothesizes that the brain explicitly infers upcomi
   Furthermore, we show that a simple linear decoding approach is sufficient to transform
   neuronal spiking activity into a probabilistic estimate for reading out the target
   trajectory.
-authors:
-- Bernhard A Kaplan
-- Anders Lansner
-- Guillaume S Masson
-- Laurent U Perrinet
-date: 2013-09-17
-doi: 10.3389/fncom.2013.00112
-featured: false
-grants:
-- facets-itn
-projects: []
-publication: '*Frontiers in Computational Neuroscience*'
-publication_types:
-- article-journal
 tags:
 - Bayesian model
 - large-scale_networks
@@ -35,12 +34,7 @@ tags:
 - predictive coding
 - pynn
 - spike
-title: Anisotropic connectivity implements motion-based prediction in a spiking neural
-  network
-url_pdf: https://laurentperrinet.github.io/publication/kaplan-13
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/kaplan-13
 ---
-
-* Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}
-* see  follow-up on motion extrapolation: {{< cite page="/publication/khoei-13-jpp" view="4" >}}
-* see  follow-up on the flash-lag effect: {{< cite page="/publication/khoei-masson-perrinet-17" view="4" >}}
-lication/khoei-13-jpp" view="4" >}}

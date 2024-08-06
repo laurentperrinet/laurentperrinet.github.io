@@ -1,23 +1,18 @@
 ---
-abstract: This work extends the MotionClouds dynamic texture model testing aspects
-  of its parametrization with an application in psychophysics.
+title: Dynamic Textures For Probing Motion Perception
 authors:
 - Jonathan Vacher
 - Andrew Isaac Meso
 - Laurent U Perrinet
 - Gabriel Peyré
-date: 2014-01-01
-featured: false
-grants:
-- motion-clouds
-projects: []
-publication: '*IHP workshop*'
+date: '2014-01-01'
+publishDate: '2024-08-06T07:35:49.605443Z'
 publication_types:
-- 'inproceedings'
+- paper-conference
+publication: '*IHP workshop*'
+abstract: This work extends the MotionClouds dynamic texture model testing aspects
+  of its parametrization with an application in psychophysics.
 tags:
 - motion-clouds
 - psychophysics
-title: Dynamic Textures For Probing Motion Perception
 ---
-
-* See a followup in {{< cite page="/publication/vacher-16" view="4" >}}

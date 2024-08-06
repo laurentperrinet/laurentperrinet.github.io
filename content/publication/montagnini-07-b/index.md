@@ -1,4 +1,15 @@
 ---
+title: 'Visual tracking of ambiguous moving objects: A recursive Bayesian model'
+authors:
+- Anna Montagnini
+- Pascal Mamassian
+- Laurent U Perrinet
+- Guillaume S Masson
+date: '2007-01-01'
+publishDate: '2024-08-06T07:35:48.993790Z'
+publication_types:
+- paper-conference
+publication: '*Journal of Vision*'
 abstract: Perceptual and oculomotor data demonstrate that, when the visual information
   about an object's motion differs on the local (edge-related) and global levels,
   the local 1D motion cues dominate initially, whereas 2D information takes progressively
@@ -22,19 +33,6 @@ abstract: Perceptual and oculomotor data demonstrate that, when the visual infor
   a simple model of the sensory-oculomotor loop is taken into account, including transmission
   delays and the evolution of the retinal motion during pursuit. Preliminary results
   show substantial agreement between the model prediction and the oculomotor data.
-authors:
-- Anna Montagnini
-- Pascal Mamassian
-- Laurent U Perrinet
-- Guillaume S Masson
-date: 2007-01-01
-featured: false
-grants:
-- facets-itn
-publication: '*Journal of Vision*'
-publication_types:
-- 'inproceedings'
 tags:
 - Bayesian model
-title: 'Visual tracking of ambiguous moving objects: A recursive Bayesian model'
 ---

@@ -1,19 +1,17 @@
 ---
+title: 'Input-output transformation in the visuo-oculomotor loop: modeling the ocular
+  following response to center-surround stimulation in a probabilistic framework'
 authors:
 - Laurent U Perrinet
 - Jens Kremkow
-- Frederic V Barthélemy
+- Frédéric V Barthélemy
 - Guillaume S Masson
-- Frederic Y Chavane
-date: 2006-01-01
-featured: false
-grants:
-- facets
-publication: '*FENS*'
+- Frédéric Y Chavane
+date: '2006-01-01'
+publishDate: '2024-08-06T07:35:49.160569Z'
 publication_types:
-- 'inproceedings'
+- paper-conference
+publication: '*FENS*'
 tags:
 - motion detection
-title: 'Input-output transformation in the visuo-oculomotor loop: modeling the ocular
-  following response to center-surround stimulation in a probabilistic framework'
 ---

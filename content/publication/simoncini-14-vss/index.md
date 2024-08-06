@@ -1,4 +1,17 @@
 ---
+title: The characteristics of microsaccadic eye movements varied with the change of
+  strategy in a match-to-sample task
+authors:
+- Claudio Simoncini
+- Anna Montagnini
+- Laurent U Perrinet
+- Guillaume S Masson
+date: '2014-08-22'
+publishDate: '2024-08-06T07:35:49.550263Z'
+publication_types:
+- paper-conference
+publication: '*Journal of Vision*'
+doi: 10.1167/14.10.110
 abstract: 'Under natural viewing conditions, large eye movements are interspace by
   small eye movements (microsaccade). Recent works have shown that these two kinds
   of eye movements are generate by the same oculomotor mechanisms (Goffart et al.,
@@ -22,27 +35,12 @@ abstract: 'Under natural viewing conditions, large eye movements are interspace 
   such experiments can help decipher their participation to perception of the scene.
   Goffart L., Hafed Z.M., Krauzlis R.J. 2012. Visual fixation as equilibrium: evidence
   from superior colliculus inactivation. (31) 10627-10636.'
-authors:
-- Claudio Simoncini
-- Anna Montagnini
-- Laurent U Perrinet
-- Guillaume S Masson
-date: 2014-08-22
-doi: 10.1167/14.10.110
-featured: false
-grants:
-- brain-scales
-- codde
-projects: []
-publication: '*Journal of Vision*'
-publication_types:
-- 'inproceedings'
 tags:
 - eye movements
 - motion detection
 - motion-clouds
 - psychophysics
-title: The characteristics of microsaccadic eye movements varied with the change of
-  strategy in a match-to-sample task
-url_pdf: http://dx.doi.org/10.1167/14.10.110
+links:
+- name: URL
+  url: http://dx.doi.org/10.1167/14.10.110
 ---

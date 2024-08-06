@@ -1,4 +1,17 @@
 ---
+title: Modulation of orientation selectivity by orientation precision
+authors:
+- Hugo Ladret
+- Nelson Cortes
+- Lamyae Ikan
+- Frédéric Y Chavane
+- Christian Casanova
+- Laurent U Perrinet
+date: '2021-01-01'
+publishDate: '2024-08-06T07:35:48.865608Z'
+publication_types:
+- paper-conference
+publication: '*Proceedings of the Society for Neuroscience conference*'
 abstract: The primary visual cortex (V1) processes complex mixtures of orientations
   to build neural representations of our everyday visual environment. It remains unclear
   how V1 adapts to the highly volatile distributions of orientations found in natural
@@ -11,36 +24,9 @@ abstract: The primary visual cortex (V1) processes complex mixtures of orientati
   is mediated by temporally distinct neural dynamics and supports a precision-weighted
   description of neuronal message passing in the visual cortex, in line with predictive
   processing theories.
-authors:
-- Hugo Ladret
-- Nelson Cortes
-- Lamyae Ikan
-- Frederic Y Chavane
-- Christian Casanova
-- Laurent U Perrinet
-categories: []
-date: 2021-01-01
-draft: false
-featured: false
-grants:
-- anr-horizontal-v1
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-lastmod: 2021-11-08 10:31:18+01:00
-projects: []
-publication: '*Proceedings of the Society for Neuroscience conference*'
-publication_types:
-- 'inproceedings'
-subtitle: ''
 tags:
 - area-v1
-title: Modulation of orientation selectivity by orientation precision
-url_pdf: https://www.abstractsonline.com/pp8/#!/10485/presentation/22078
+links:
+- name: URL
+  url: https://www.abstractsonline.com/pp8/#!/10485/presentation/22078
 ---
-
-{{< tweet user="laurentperrinet" id="1457644824723705856" >}}
-{{< youtube Hy2UlLDkPyU >}}
-
-* This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}

@@ -1,4 +1,16 @@
 ---
+title: A Robust Event-Driven Approach to Always-on Object Recognition
+authors:
+- Antoine Grimaldi
+- Victor Boutin
+- Sio-Hoi Ieng
+- Ryad Benosman
+- Laurent U Perrinet
+date: '2023-06-15'
+publishDate: '2024-08-06T07:35:48.685267Z'
+publication_types:
+- article-journal
+publication: '*In revision*'
 abstract: 'We propose a neuromimetic architecture able to perform always-on pattern
   recognition. To achieve this, we extended an existing event-based algorithm [1],
   which introduced novel spatio-temporal features as a Hierarchy Of Time-Surfaces
@@ -19,42 +31,13 @@ abstract: 'We propose a neuromimetic architecture able to perform always-on patt
   DVS barrel [3], Poker-DVS [4] and N-MNIST [5]. We foresee to develop the SNN version
   of the method and to extend this fully event-driven approach to more naturalistic
   tasks, notably for always-on, ultra-fast object categorization. '
-authors:
-- Antoine Grimaldi
-- Victor Boutin
-- Sio-Hoi Ieng
-- Ryad Benosman
-- Laurent U Perrinet
-categories: []
-date: 2023-06-15
-doi: 10.36227/techrxiv.18003077
-draft: false
-featured: false
-grants:
-- aprovis3D
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-lastmod: 2022-01-13 15:27:10+01:00
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/grimaldi-23/
-projects: []
-publication: '*In revision*'
-publication_types:
-- article-journal
-subtitle: ''
 tags:
 - efficient coding
 - event-based vision
 - homeostasis
 - neuromorphic hardware
 - online classification
-title: A Robust Event-Driven Approach to Always-on Object Recognition
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/grimaldi-23/
 ---
-
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23/hots.png" title="The HOTS architecture." width="100%" >}}
-
-
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23/gesture_online.png" title="Preformance of the algorithm on the DVSgesture dataset. For this gesture recognition task, the online HOTS accuracy remains close to the chance level for about 100 events. More evidence needs to be accumulated, and then the accuracy increases monotonically, outperforming the previous method after about 10.000 events (at an average of 9.3% of the number of events in the sample)." width="90%" >}}

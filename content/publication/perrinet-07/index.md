@@ -1,7 +1,17 @@
 ---
-abstract: 'The machinery behind the visual perception of motion and the subsequent
+title: 'Dynamical Neural Networks: modeling low-level vision at short latencies'
+authors:
+- Laurent U Perrinet
+date: '2007-03-01'
+publishDate: '2024-08-06T07:35:49.173466Z'
+publication_types:
+- chapter
+publication: '*Topics in Dynamical Neural Networks: From Large Scale Neural Networks
+  to Motor Control and Vision*'
+doi: 10.1140/epjst/e2007-00061-7
+abstract: "The machinery behind the visual perception of motion and the subsequent
   sensori-motor transformation, such as in ocular following response (OFR), is confronted
-  to uncertainties which are efficiently resolved in the primate''s visual system.
+  to uncertainties which are efficiently resolved in the primate's visual system.
   We may understand this response as an ideal observer in a probabilistic framework
   by using Bayesian theory [Weiss, Y., Simoncelli, E.P., Adelson, E.H., 2002. Motion
   illusions as optimal percepts. Nature Neuroscience, 5(6), 598-604, doi:10.1038/nn858]
@@ -21,18 +31,7 @@ abstract: 'The machinery behind the visual perception of motion and the subseque
   spatial integration of the motion signal. Within this framework, we successfully
   accounted for the contrast gain control mechanisms observed in the behavioral data
   for center-surround stimuli. However, another inhibitory mechanism had to be added
-  to account for suppressive effects of the surround.'
-authors:
-- Laurent U Perrinet
-date: 2007-03-01
-doi: 10.1140/epjst/e2007-00061-7
-featured: false
-grants:
-- facets-itn
-publication: '*Topics in Dynamical Neural Networks: From Large Scale Neural Networks
-  to Motor Control and Vision*'
-publication_types:
-- 'inbook'
+  to account for suppressive effects of the surround."
 tags:
 - Bayesian model
 - center-surround interactions
@@ -46,10 +45,4 @@ tags:
 - sparse hebbian learning
 - spike
 - visual perception
-title: 'Dynamical Neural Networks: modeling low-level vision at short latencies'
 ---
-
-Dynamical Neural Networks (DyNNs) are a class of models for networks of neurons where particular focus is put on the role of time in the emergence of functional computational properties. The definition and study of these models involves the cooperation of a large range of scientific fields from statistical physics, probabilistic modelling, neuroscience and psychology to control theory. It focuses on the mechanisms that may be relevant for studying cognition by hypothesizing that information is distributed in the activity of the neurons in the system and that the timing helps in maintaining this information to lastly form decisions or actions. The system responds at best to the constraints of the outside world and learning strategies tune this internal dynamics to achieve optimal performance.
-This chapter introduces the book. See also:
-* {{< cite page="/publication/cessac-07" view="4" >}}
-* {{< cite page="publication/cessac-07-a" view="4" >}}

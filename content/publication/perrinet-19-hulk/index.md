@@ -1,4 +1,13 @@
 ---
+title: An adaptive homeostatic algorithm for the unsupervised learning of visual features
+authors:
+- Laurent U Perrinet
+date: '2019-01-01'
+publishDate: '2024-08-06T07:35:49.363506Z'
+publication_types:
+- article-journal
+publication: '*Vision*'
+doi: 10.3390/vision3030047
 abstract: 'The formation of structure in the visual system, that is, of the connections
   between cells within neural populations, is by large an unsupervised learning process:
   the emergence of this architecture is mostly self-organized. In the primary visual
@@ -23,19 +32,6 @@ abstract: 'The formation of structure in the visual system, that is, of the conn
   results demonstrate the potential application of such a strategy in computer vision
   and machine learning and we illustrate it with a result in a convolutional neural
   network.'
-authors:
-- Laurent U Perrinet
-date: 2019-01-01
-doi: 10.3390/vision3030047
-featured: false
-grants:
-- anr-horizontal-v1
-- spikeai
-- mesocentre
-projects: []
-publication: '*Vision*'
-publication_types:
-- article-journal
 tags:
 - area-v1
 - gain control
@@ -44,24 +40,7 @@ tags:
 - sparse coding
 - sparse hebbian learning
 - unsupervised learning
-title: An adaptive homeostatic algorithm for the unsupervised learning of visual features
-url_code: https://github.com/SpikeAI/HULK
-url_pdf: https://spikeai.github.io/HULK/
-url_preprint: https://laurentperrinet.github.io/publication/perrinet-19-hulk/
+links:
+- name: URL
+  url: https://spikeai.github.io/HULK/
 ---
-
-# "An adaptive algorithm for unsupervised learning"
-{{< video src="https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4" controls="yes" >}}
- * supplementary info : https://spikeai.github.io/HULK/
- * [Abstract](https://www.mdpi.com/2411-5150/3/3/47)
- * [HTML](https://www.mdpi.com/2411-5150/3/3/47/htm)
- * [PDF](https://www.mdpi.com/2411-5150/3/3/47/pdf)
- * code for paper: https://github.com/SpikeAI/HULK
- * code for framework: https://github.com/bicv/SparseHebbianLearning/
- * code for figures https://github.com/SpikeAI/HULK/blob/master/Annex.ipynb (which is rendered @ https://spikeai.github.io/HULK/ )
- * [video abstract](https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4) (and the [code](https://laurentperrinet.github.io/sciblog/posts/2019-09-11_video-abstract-vision.html) for generating it)
- * previous publication : {{< cite page="/publication/perrinet-10-shl" view="4" >}}
-{{< math >}}
-$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
-{{< /math >}}

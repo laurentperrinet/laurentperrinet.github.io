@@ -1,4 +1,18 @@
 ---
+title: Speed uncertainty and motion perception with naturalistic random textures
+authors:
+- Kiana Mansour Pour
+- Nikos Gekas
+- Pascal Mamassian
+- Laurent U Perrinet
+- Anna Montagnini
+- Guillaume S Masson
+date: '2018-01-01'
+publishDate: '2024-08-06T07:35:48.938911Z'
+publication_types:
+- paper-conference
+publication: '*Journal of Vision, Vol.18, 345, proceedings of VSS*'
+doi: 10.1167/18.10.345
 abstract: 'It is still not fully understood how visual system integrates motion energy
   across different spatial and temporal frequencies to build a coherent percept of
   the global motion under the complex, noisy naturalistic conditions. We addressed
@@ -25,23 +39,9 @@ abstract: 'It is still not fully understood how visual system integrates motion 
   the shape of the interactions kernel observed between different speed tuned channels
   and different spatiotemporal scales (Gekas et al ., 2017) that underlies global
   velocity estimation.'
-authors:
-- Kiana Mansour Pour
-- Nikos Gekas
-- Pascal Mamassian
-- Laurent U Perrinet
-- Anna Montagnini
-- Guillaume S Masson
-date: 2018-01-01
-doi: 10.1167/18.10.345
-featured: false
-grants:
-- anr-speed
-publication: '*Journal of Vision, Vol.18, 345, proceedings of VSS*'
-publication_types:
-- 'inproceedings'
 tags:
 - motion detection
-title: Speed uncertainty and motion perception with naturalistic random textures
-url_pdf: https://laurentperrinet.github.io/publication/mansour-18-vss
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/mansour-18-vss
 ---

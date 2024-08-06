@@ -1,4 +1,20 @@
 ---
+title: 'PyNN: A Common Interface for Neuronal Network Simulators'
+authors:
+- Andrew P Davison
+- Daniel Bruderle
+- Jochen Eppler
+- Jens Kremkow
+- Eilif Muller
+- Dejan Pecevski
+- Laurent U Perrinet
+- Pierre Yger
+date: '2008-01-01'
+publishDate: '2024-08-06T07:35:48.524755Z'
+publication_types:
+- article-journal
+publication: '*Frontiers in Neuroinformatics*'
+doi: 10.3389/neuro.11.011.2008
 abstract: Computational neuroscience has produced a diversity of software for simulations
   of networks of spiking neurons, with both negative and positive consequences. On
   the one hand, each simulator uses its own programming or configuration language,
@@ -18,34 +34,10 @@ abstract: Computational neuroscience has produced a diversity of software for si
   data-management tools. PyNN increases the reliability of modelling studies by making
   it much easier to check results on multiple simulators. PyNN is open-source software
   and is available from http://neuralensemble.org/PyNN.
-authors:
-- Andrew P Davison
-- Daniel Bruderle
-- Jochen Eppler
-- Jens Kremkow
-- Eilif Muller
-- Dejan Pecevski
-- Laurent U Perrinet
-- Pierre Yger
-date: 2008-01-01
-doi: 10.3389/neuro.11.011.2008
-featured: false
-grants:
-- facets
-projects:
-- open-science
-publication: '*Frontiers in Neuroinformatics*'
-publication_types:
-- article-journal
 tags:
 - computational neuroscience
 - pynn
-title: 'PyNN: A Common Interface for Neuronal Network Simulators'
-url_pdf: http://dx.doi.org/10.3389/neuro.11.011.2008
-url_preprint: https://hal-amu.archives-ouvertes.fr/hal-00586786
+links:
+- name: URL
+  url: http://dx.doi.org/10.3389/neuro.11.011.2008
 ---
-
-**PyNN** is a simulator-independent language for building neuronal network models using {{< icon name="python" pack="fab" >}} Python.
-* [Web-site](https://neuralensemble.github.io/PyNN/)
-* [Source code](https://github.com/NeuralEnsemble/PyNN)
-* 619 citations on [Google Scholar](https://scholar.google.com/scholar?cluster=4324955271726120014&hl=fr&as_sdt=7,39) (last updated 22/10/2021)

@@ -1,4 +1,16 @@
 ---
+title: A dual foveal-peripheral visual processing model implements efficient saccade
+  selection
+authors:
+- Emmanuel Daucé
+- Pierre Albigès
+- Laurent U Perrinet
+date: '2020-06-05'
+publishDate: '2024-08-06T07:35:48.502325Z'
+publication_types:
+- article-journal
+publication: '*Journal of Vision*'
+doi: 10.1167/jov.20.8.22
 abstract: In computer vision, the visual search task consists in extracting a scarce
   and specific visual information (the target) from a large and crowded visual display.
   This task is usually implemented by scanning the different possible target identities
@@ -20,34 +32,13 @@ abstract: In computer vision, the visual search task consists in extracting a sc
   is preserved up to the action selection level, highlighting the advantages of bio-mimetic
   strategies with regards to traditional computer vision when computing resources
   are at stake.
-authors:
-- Emmanuel Dauce
-- Pierre Albigès
-- Laurent U Perrinet
-date: 2020-06-05
-doi: 10.1167/jov.20.8.22
-featured: false
-grants:
-- spikeai
-- mesocentre
-- aprovis-3-d
-projects: []
-publication: '*Journal of Vision*'
-publication_types:
-- article-journal
 tags:
 - Active Inference
 - Deep-Learning
 - Object localization
 - Visual search
 - Visuomotor control
-title: A dual foveal-peripheral visual processing model implements efficient saccade
-  selection
-url_code: https://github.com/laurentperrinet/WhereIsMyMNIST
-url_pdf: https://laurentperrinet.github.io/publication/dauce-20/
-url_preprint: https://www.biorxiv.org/content/10.1101/725879
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/dauce-20/
 ---
-
-{{< figure src="https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true" >}}
-* for a more mathematical treatment, see {{< cite page="/publication/dauce-20-iwai" view="4" >}}
-{{< tweet user="laurentperrinet" id="1305488088412688385" >}}

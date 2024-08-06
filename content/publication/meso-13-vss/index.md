@@ -1,4 +1,16 @@
 ---
+title: How and why do image frequency properties influence perceived speed?
+authors:
+- Andrew Isaac Meso
+- Claudio Simoncini
+- Laurent U Perrinet
+- Guillaume S Masson
+date: '2013-01-01'
+publishDate: '2024-08-06T07:35:48.959405Z'
+publication_types:
+- paper-conference
+publication: '*VSS Conference Abstract*'
+doi: 10.1167/13.9.354
 abstract: 'Humans are able to interact successfully with moving objects in our dynamic
   world and the visual system effi ciently performs the motion computation that makes
   this possible. Object speed and direction are estimated following the integration
@@ -23,22 +35,9 @@ abstract: 'Humans are able to interact successfully with moving objects in our d
   speed is not explicitly computed. In this first 200ms, the perceptual system perhaps
   underestimates some speeds in an optimal response for initially stabilizing the
   scene. Acknowledgement: CNRS & Brainscales FP7'
-authors:
-- Andrew Isaac Meso
-- Claudio Simoncini
-- Laurent U Perrinet
-- Guillaume S Masson
-date: 2013-01-01
-doi: 10.1167/13.9.354
-featured: false
-grants:
-- anr-speed
-projects: []
-publication: '*VSS Conference Abstract*'
-publication_types:
-- 'inproceedings'
 tags:
 - motion-clouds
-title: How and why do image frequency properties influence perceived speed?
-url_pdf: https://laurentperrinet.github.io/publication/meso-13-vss
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/meso-13-vss
 ---

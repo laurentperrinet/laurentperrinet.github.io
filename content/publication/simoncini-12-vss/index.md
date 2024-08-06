@@ -1,4 +1,16 @@
 ---
+title: Effect of image statistics on fixational eye movements
+authors:
+- Claudio Simoncini
+- Anna Montagnini
+- Laurent U Perrinet
+- Guillaume S Masson
+date: '2012-01-01'
+publishDate: '2024-08-06T07:35:49.536495Z'
+publication_types:
+- paper-conference
+publication: '*VSS Conference Abstract*'
+doi: 10.1167/12.9.1014
 abstract: Under natural viewing conditions, small movements of the eyes prevent the
   maintenance of a steady direction of gaze. It is unclear how the spatiotemporal
   content of the fixated scene has an impact on the properties of miniatures, fixational
@@ -16,25 +28,13 @@ abstract: Under natural viewing conditions, small movements of the eyes prevent 
   Relationship between microsaccade rate and intersaccadic timing was also dependent
   upon Bsf. These results suggest that the spatial frequency content of the fixated
   images have a strong impact upon fixation instability.
-authors:
-- Claudio Simoncini
-- Anna Montagnini
-- Laurent U Perrinet
-- Guillaume S Masson
-date: 2012-01-01
-doi: 10.1167/12.9.1014
-featured: false
-grants:
-- codde
-projects: []
-publication: '*VSS Conference Abstract*'
-publication_types:
-- 'inproceedings'
 tags:
 - eye movements
 - motion detection
 - motion-clouds
 - psychophysics
-title: Effect of image statistics on fixational eye movements
-url_pdf: http://www.journalofvision.org/content/12/9/1014.abstract?sid=9c51ff88-5b9a-4d1b-aaf1-a1219bd02b0a
+links:
+- name: URL
+  url: 
+    http://www.journalofvision.org/content/12/9/1014.abstract?sid=9c51ff88-5b9a-4d1b-aaf1-a1219bd02b0a
 ---

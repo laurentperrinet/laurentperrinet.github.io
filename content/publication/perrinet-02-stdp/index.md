@@ -1,4 +1,14 @@
 ---
+title: Coherence detection in a spiking neuron via Hebbian learning
+authors:
+- Laurent U Perrinet
+- Manuel Samuelides
+date: '2002-06-01'
+publishDate: '2024-08-06T07:35:49.083372Z'
+publication_types:
+- article-journal
+publication: '*Neurocomputing*'
+doi: 10.1016/S0925-2312(02)00374-0
 abstract: It is generally assumed that neurons in the central nervous system communicate
   through temporal firing patterns. As a first step, we will study the learning of
   a layer of realistic neurons in the particular case where the relevant messages
@@ -9,23 +19,13 @@ abstract: It is generally assumed that neurons in the central nervous system com
   the rule that we derive is biologically plausible and leads to the detection of
   the coherence in the input in an unsupervised way. An application to shape recognition
   is shown as an illustration.
-authors:
-- Laurent U Perrinet
-- Manuel Samuelides
-date: 2002-06-01
-doi: 10.1016/S0925-2312(02)00374-0
-featured: false
-publication: '*Neurocomputing*'
-publication_types:
-- article-journal
 tags:
 - coding decoding
 - rank-order-coding
 - sparse hebbian learning
 - spike
 - stdp
-title: Coherence detection in a spiking neuron via Hebbian learning
-url_pdf: http://dx.doi.org/10.1016/S0925-2312(02)00374-0
+links:
+- name: URL
+  url: http://dx.doi.org/10.1016/S0925-2312(02)00374-0
 ---
-
-![header](perrinet-02-stdp.png)

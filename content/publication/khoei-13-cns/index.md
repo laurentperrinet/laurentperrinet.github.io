@@ -1,27 +1,22 @@
 ---
+title: Motion-based prediction and development of the response to an 'on the way'
+  stimulus
 authors:
 - Mina A Khoei
 - Giacomo Benvenuti
-- Frederic Y Chavane
+- Frédéric Y Chavane
 - Laurent U Perrinet
-date: 2013-01-01
-doi: 10.1186/1471-2202-14-S1-P314
-featured: false
-grants:
-- facets-itn
-projects: []
-publication: '*Annual Computational Neuroscience Meeting: CNS*2013, Paris*'
+date: '2013-01-01'
+publishDate: '2024-08-06T07:35:48.769547Z'
 publication_types:
-- 'inproceedings'
+- paper-conference
+publication: '*Annual Computational Neuroscience Meeting: CNS*2013, Paris*'
+doi: 10.1186/1471-2202-14-S1-P314
 tags:
 - Bayesian model
 - motion detection
 - motion prediction
-title: Motion-based prediction and development of the response to an 'on the way'
-  stimulus
-url_pdf: https://laurentperrinet.github.io/publication/khoei-13-cns
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/khoei-13-cns
 ---
-
-* Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}
-* see  follow-up on motion extrapolation: {{< cite page="/publication/khoei-13-jpp" view="4" >}}
-* see  follow-up on the flash-lag effect: {{< cite page="/publication/khoei-masson-perrinet-17" view="4" >}}

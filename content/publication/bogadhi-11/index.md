@@ -1,4 +1,17 @@
 ---
+title: 'Pursuing motion illusions: a realistic oculomotor framework for Bayesian inference'
+authors:
+- Amarender Bogadhi
+- Anna Montagnini
+- Pascal Mamassian
+- Laurent U Perrinet
+- Guillaume S Masson
+date: '2011-04-22'
+publishDate: '2024-08-06T07:35:48.328685Z'
+publication_types:
+- article-journal
+publication: '*Vision research*'
+doi: 10.1016/j.visres.2010.10.021
 abstract: Accuracy in estimating an object's global motion over time is not only affected
   by the noise in visual motion information but also by the spatial limitation of
   the local motion analyzers (aperture problem). Perceptual and oculomotor data demonstrate
@@ -23,27 +36,10 @@ abstract: Accuracy in estimating an object's global motion over time is not only
   provides an accurate qualitative account of dynamic motion integration but also
   a quantitative account that is close to the smooth pursuit response across several
   conditions (three contrasts and three speeds) for two human subjects.
-authors:
-- Amarender Bogadhi
-- Anna Montagnini
-- Pascal Mamassian
-- Laurent U Perrinet
-- Guillaume S Masson
-date: 2011-04-22
-doi: 10.1016/j.visres.2010.10.021
-featured: false
-grants:
-- codde
-projects: []
-publication: '*Vision research*'
-publication_types:
-- article-journal
 tags:
 - Bayesian model
 - predictive coding
-title: 'Pursuing motion illusions: a realistic oculomotor framework for Bayesian inference'
-url_pdf: http://dx.doi.org/10.1016/j.visres.2010.10.021
+links:
+- name: URL
+  url: http://dx.doi.org/10.1016/j.visres.2010.10.021
 ---
-
-![header](bogadhi-11.png)
-* See a followup in {{< cite page="/publication/perrinet-12-pred" view="4" >}}

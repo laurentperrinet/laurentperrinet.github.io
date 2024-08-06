@@ -1,27 +1,21 @@
 ---
+title: Sparse Deep Predictive Coding to model visual object recognition
 authors:
 - Victor Boutin
 - Angelo Franciosini
-- Frederic Y Chavane
+- Frédéric Y Chavane
 - Franck Ruffier
 - Laurent U Perrinet
-date: 2019-01-01
-featured: false
-grants:
-- doc-2-amu
-- phd-icn
-- mesocentre
-projects: []
-publication: '*Proceedings of the Society for Neuroscience conference*'
+date: '2019-01-01'
+publishDate: '2024-08-06T07:35:48.343680Z'
 publication_types:
-- 'inproceedings'
+- paper-conference
+publication: '*Proceedings of the Society for Neuroscience conference*'
 tags:
 - deep-learning
 - sparse coding
-title: Sparse Deep Predictive Coding to model visual object recognition
-url_pdf: https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19-sfn/
+links:
+- name: URL
+  url: 
+    https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19-sfn/
 ---
-
-{{< tweet user="laurentperrinet" id="1186196186170044421" >}}
-* see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
-* more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

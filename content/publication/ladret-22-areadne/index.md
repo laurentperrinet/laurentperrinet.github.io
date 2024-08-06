@@ -1,4 +1,13 @@
 ---
+title: A resilient neural code in V1 to process natural images
+authors:
+- Hugo Ladret
+- Laurent U Perrinet
+date: '2022-06-29'
+publishDate: '2024-08-06T07:35:48.871424Z'
+publication_types:
+- paper-conference
+publication: '*Proceedings of AREADNE*'
 abstract: 'On a daily basis, the primary visual cortex (V1) detects oriented elements
   from sensory inputs made of orientation distributions. To remain selective to a
   large variety of possible input configurations, V1 has to account for the precision
@@ -13,36 +22,7 @@ abstract: 'On a daily basis, the primary visual cortex (V1) detects oriented ele
   orientation and its precision. Using a simple mean-rate population model, we observed
   that recurrent cortical inhibition can single-handedly account for the existence
   of these two types of neurons.'
-authors:
-- Hugo Ladret
-- Laurent U Perrinet
-categories: []
-date: 2022-06-29
-draft: false
-featured: false
-grants:
-- aprovis3D
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-lastmod: 2022-06-08 13:33:46+02:00
 links:
 - name: URL
   url: https://areadne.org/
-projects: []
-publication: '*Proceedings of AREADNE*'
-publication_types:
-- 'inproceedings'
-publishDate: '2022-06-16T11:51:41.890310Z'
-subtitle: ''
-tags: []
-title: A resilient neural code in V1 to process natural images
-url_pdf: https://areadne.org/
 ---
-
-{{< tweet user="laurentperrinet" id="1542724828658016256" >}}
-
-* for a follow-up, check out  {{< cite page="/publication/ladret-22-fens" view="4" >}}
-
-* This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}

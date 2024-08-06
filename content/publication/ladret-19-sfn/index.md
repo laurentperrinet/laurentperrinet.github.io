@@ -1,4 +1,17 @@
 ---
+title: Orientation selectivity to synthetic natural patterns in a cortical-like model
+  of the cat primary visual cortex
+authors:
+- Hugo Ladret
+- Nelson Cortes
+- Frédéric Y Chavane
+- Laurent U Perrinet
+- Christian Casanova
+date: '2019-01-01'
+publishDate: '2024-08-06T07:35:48.845560Z'
+publication_types:
+- paper-conference
+publication: '*Proceedings of the Society for Neuroscience conference*'
 abstract: A key property of the neurons in the primary visual cortex (V1) is their
   selectivity to oriented stimuli in the visual field. Orientation selectivity allows
   the segmentation of objects in natural visual scenes, which is the first step in
@@ -25,27 +38,9 @@ abstract: A key property of the neurons in the primary visual cortex (V1) is the
   cortex. From an applied perspective, the computations this network performs could
   also be used as an alternative to classical blackbox Deep Learning models used in
   artificial vision.
-authors:
-- Hugo Ladret
-- Nelson Cortes
-- Frederic Y Chavane
-- Laurent U Perrinet
-- Christian Casanova
-date: 2019-01-01
-featured: false
-grants:
-- anr-horizontal-v1
-projects: []
-publication: '*Proceedings of the Society for Neuroscience conference*'
-publication_types:
-- 'inproceedings'
 tags:
 - area-v1
-title: Orientation selectivity to synthetic natural patterns in a cortical-like model
-  of the cat primary visual cortex
-url_pdf: https://www.abstractsonline.com/pp8/#!/7883/presentation/65859
+links:
+- name: URL
+  url: https://www.abstractsonline.com/pp8/#!/7883/presentation/65859
 ---
-
-{{< tweet user="laurentperrinet" id="1186513282326257665" >}}
-
-* See a followup in [Ladret and Perrinet, 2020]({{< ref "/publication/ladret-20-aes" >}})

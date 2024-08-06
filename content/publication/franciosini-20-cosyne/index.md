@@ -1,8 +1,19 @@
 ---
-abstract: 'Cells in the primary visual cortex of mammals (V1) have historically been
+title: Modelling Complex-cells and topological structure in the visual cortex of mammals
+  using Sparse Predictive Coding
+authors:
+- Angelo Franciosini
+- Victor Boutin
+- Laurent U Perrinet
+date: '2020-09-27'
+publishDate: '2024-08-06T07:35:48.577882Z'
+publication_types:
+- paper-conference
+publication: '*Computational and Systems Neuroscience (Cosyne) 2020*'
+abstract: "Cells in the primary visual cortex of mammals (V1) have historically been
   divided into two classes: simple and complex. Simple cells exhibit a rectified linear
   response to oriented visual stimuli while complex cells show various degrees of
-  invariance with respect to the stimulus'' phase (position). The existence of these
+  invariance with respect to the stimulus' phase (position). The existence of these
   two populations can be explained by hierarchical models where simple cells feed
   information into complex cells through a non-linear spatial pooling [1]. Nevertheless,
   how the brain develops this structure remains an open question. One of the most
@@ -33,7 +44,7 @@ abstract: 'Cells in the primary visual cortex of mammals (V1) have historically 
   to reproduce similar effects with two different types of pooling (l2-pooling, max-pooling)
   and different network sizes, obtaining different degrees of topographical organization
   and different ratios of complex-like cells. A possible explanation of this phenomenon
-  lies in the computational bottleneck caused by a reduction in the network layers''
+  lies in the computational bottleneck caused by a reduction in the network layers'
   size. This is also in line with previous studies that showed how cortical networks
   with the same functional characterization can explain different behavior with different
   structural parameters [5]. The novelty of this model lies in its ability to highlight
@@ -41,41 +52,20 @@ abstract: 'Cells in the primary visual cortex of mammals (V1) have historically 
   a long-debated question on the function and role of the diversity of topographical
   structure in the visual cortex of mammals across species. References: *[1]*  Ko
   Sakai and Shigeru Tanaka. *Spatial pooling in the second-order spatial structure
-  of cortical complex cells*. In: Vision Research 40.7 (2000), pp. 855--871. *[2]*  Rajesh
-  PN Rao and Dana H Ballard. *Predictive coding in the visual cortex: a functional
-  interpretation of some extra-classical receptive-field effects*. In: Nature neuroscience2.1
-  (1999), p. 79. *[3]*  Victor Boutin et al. *Sparse Deep Predictive Coding captures
-  contour integration capabilities of the early visual system*. In: arXiv preprint
-  arXiv:1902.07651 (2019). *[4]*  Bernt C Skottun et al. *Classifying simple and complex
-  cells on the basis of response modulation*. In: Vision research 31.7-8 (1991), pp.
-  1078--1086. *[5]* Jaeson Jang, Min Song, and Se-Bum Paik. *Classification of columnar
-  and salt-and-pepper organization in mammalian visual cortex*. In: bioRxiv (2019),
-  p. 698043'
-authors:
-- Angelo Franciosini
-- Victor Boutin
-- Laurent U Perrinet
-date: 2020-09-27
-featured: false
-grants:
-- doc-2-amu
-- phd-icn
-- mesocentre
-projects: []
-publication: '*Computational and Systems Neuroscience (Cosyne) 2020*'
-publication_types:
-- 'inproceedings'
+  of cortical complex cells*. In: Vision Research 40.7 (2000), pp. 855--871. *[2]*\
+  \  Rajesh PN Rao and Dana H Ballard. *Predictive coding in the visual cortex: a
+  functional interpretation of some extra-classical receptive-field effects*. In:
+  Nature neuroscience2.1 (1999), p. 79. *[3]*  Victor Boutin et al. *Sparse Deep Predictive
+  Coding captures contour integration capabilities of the early visual system*. In:
+  arXiv preprint arXiv:1902.07651 (2019). *[4]*  Bernt C Skottun et al. *Classifying
+  simple and complex cells on the basis of response modulation*. In: Vision research
+  31.7-8 (1991), pp. 1078--1086. *[5]* Jaeson Jang, Min Song, and Se-Bum Paik. *Classification
+  of columnar and salt-and-pepper organization in mammalian visual cortex*. In: bioRxiv
+  (2019), p. 698043"
 tags:
 - deep-learning
 - sparse coding
-title: Modelling Complex-cells and topological structure in the visual cortex of mammals
-  using Sparse Predictive Coding
-url_pdf: https://laurentperrinet.github.io/publication/franciosini-20-cosyne/
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/franciosini-20-cosyne/
 ---
-
-{{< tweet user="laurentperrinet" id="1233458739220504578" >}}
-{{< figure src="poster.jpg" width="100%" >}}
-* see the follow-up paper in: {{< cite page="/publication/franciosini-21" view="4" >}}
-* see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
-* more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}
-{{< tweet user="laurentperrinet" id="1384940135419101187" >}}

@@ -1,4 +1,16 @@
 ---
+title: 'Dynamics of motion representation in short-latency ocular following: A two-pathways
+  Bayesian model'
+authors:
+- Laurent U Perrinet
+- Frédéric V Barthélemy
+- Eric Castet
+- Guillaume S Masson
+date: '2005-01-01'
+publishDate: '2024-08-06T07:35:49.135425Z'
+publication_types:
+- paper-conference
+publication: '*Perception*'
 abstract: 'The integration of information is essential to measure the exact 2D motion
   of a surface from both local ambiguous 1D motion produced by elongated edges and
   local non-ambiguous 2D motion from features such as corners, end-points or texture
@@ -23,21 +35,7 @@ abstract: 'The integration of information is essential to measure the exact 2D m
   This simple model correctly explains some non-linear interactions between neighboring
   neurons selective to motion direction which are observed in short-latency ocular
   following and neuro-physiological data.'
-authors:
-- Laurent U Perrinet
-- Frederic V Barthélemy
-- Eric Castet
-- Guillaume S Masson
-date: 2005-01-01
-featured: false
-grants:
-- facets
-publication: '*Perception*'
-publication_types:
-- 'inproceedings'
 tags:
 - Bayesian model
 - motion detection
-title: 'Dynamics of motion representation in short-latency ocular following: A two-pathways
-  Bayesian model'
 ---

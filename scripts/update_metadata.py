@@ -1,8 +1,6 @@
 import calendar
 import os
 import re
-import subprocess
-import time
 from datetime import datetime
 import dateutil.parser
 from pathlib import Path
@@ -283,4 +281,4 @@ def month2number(month):
 for type, pub_dir in zip(['talks', 'publications'],
                          ['../content/event', '../content/publication']):
     bibtex = f'../../perrinet_curriculum-vitae_tex/LaurentPerrinet_{type}.bib'
-    import_bibtex(bibtex, pub_dir)
+    import_bibtex(bibtex, pub_dir, overwrite=True, verbose=True)

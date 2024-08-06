@@ -1,17 +1,15 @@
 ---
+title: Sparse Image Coding Using an Asynchronous Spiking Neural Network
 authors:
 - Laurent U Perrinet
 - Manuel Samuelides
-date: 2002-01-01
-featured: false
-publication: '*Proceedings of ESANN*'
+date: '2002-01-01'
+publishDate: '2024-08-06T07:35:49.070389Z'
 publication_types:
-- 'inproceedings'
+- paper-conference
+publication: '*Proceedings of ESANN*'
 tags:
 - area-v1
 - receptive field
 - sparse coding
-title: Sparse Image Coding Using an Asynchronous Spiking Neural Network
 ---
-
-{{< figure src="lena256pyr.gif" title="*Progressive reconstruction of a static image using spikes in a Laplacian pyramid.*" >}}

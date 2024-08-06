@@ -1,4 +1,16 @@
 ---
+title: Dynamic inference for motion tracking
+authors:
+- Anna Montagnini
+- Pascal Mamassian
+- Laurent U Perrinet
+- Eric Castet
+- Guillaume S Masson
+date: '2007-01-01'
+publishDate: '2024-08-06T07:35:48.988321Z'
+publication_types:
+- paper-conference
+publication: '*Perception 36 ECVP Abstract Supplement*'
 abstract: When the visual information about an object's motion differs at the local
   level, the visuomotor system needs to integrate information across time to solve
   this ambiguity and converge to the final motion solution. For an oblique line moving
@@ -13,20 +25,6 @@ abstract: When the visual information about an object's motion differs at the lo
   is constrained by smooth-pursuit eye-movement data. Model predictions about the
   dynamic convergence to the correct motion solution are compared to human smooth-pursuit
   recordings when varying different stimulus parameters (speed, contrast).
-authors:
-- Anna Montagnini
-- Pascal Mamassian
-- Laurent U Perrinet
-- Eric Castet
-- Guillaume S Masson
-date: 2007-01-01
-featured: false
-grants:
-- facets-itn
-publication: '*Perception 36 ECVP Abstract Supplement*'
-publication_types:
-- 'inproceedings'
 tags:
 - motion detection
-title: Dynamic inference for motion tracking
 ---

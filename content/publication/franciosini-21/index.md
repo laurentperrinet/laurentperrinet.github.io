@@ -1,4 +1,17 @@
 ---
+title: Pooling in a predictive model of V1 explains functional and structural diversity
+  across species
+authors:
+- Victor Boutin
+- Angelo Franciosini
+- Frédéric Y Chavane
+- Laurent U Perrinet
+date: '2022-07-18'
+publishDate: '2024-08-06T07:35:48.598743Z'
+publication_types:
+- article-journal
+publication: '*PLoS Computational Biology*'
+doi: 10.1371/journal.pcbi.1010270
 abstract: Neurons in the primary visual cortex are selective to orientation with various
   degrees of selectivity to the spatial phase, from high selectivity in simple cells
   to low selectivity in complex cells. Various computational models have suggested
@@ -15,37 +28,10 @@ abstract: Neurons in the primary visual cortex are selective to orientation with
   of structural and functional phenomena observed in V1. In particular, we show that
   orientation maps emerge naturally as the most cost-efficient structure to generate
   complex cells under the predictive coding principle.
-authors:
-- Victor Boutin
-- Angelo Franciosini
-- Frederic Y Chavane
-- Laurent U Perrinet
-date: 2022-07-18
-doi: 10.1371/journal.pcbi.1010270
-featured: true
-grants:
-- anr-horizontal-v1
-- doc-2-amu
-- phd-icn
-- mesocentre
-projects: []
-publication: '*PLoS Computational Biology*'
-publication_types:
-- article-journal
 tags:
 - deep-learning
 - sparse coding
-title: Pooling in a predictive model of V1 explains functional and structural diversity
-  across species
-url_pdf: https://laurentperrinet.github.io/publication/franciosini-21
-url_preprint: https://www.biorxiv.org/content/10.1101/2021.04.19.440444
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/franciosini-21
 ---
-
-{{< tweet user="laurentperrinet" id="1555506825289662466" >}}
-* this paper follows this COSYNE presentation : {{< cite page="/publication/franciosini-20-cosyne" view="4" >}}
-{{< tweet user="laurentperrinet" id="1564883073606586370" >}}
-* see a related work describing SDPC in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
-{{< tweet user="laurentperrinet" id="1384782435708190721" >}}
-* more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fyann.lecun%2Fposts%2F10157650553112143&width=500&show_text=true&height=305&appId" width="500" height="305" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-{{< tweet user="laurentperrinet" id="1384940135419101187" >}}
