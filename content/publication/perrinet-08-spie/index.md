@@ -1,16 +1,6 @@
 ---
-title: 'Adaptive Sparse Spike Coding : applications of Neuroscience to the compression
-  of natural images'
-authors:
-- Laurent U Perrinet
-date: '2008-01-01'
-publishDate: '2024-08-06T07:35:49.244469Z'
-publication_types:
-- paper-conference
-publication: '*Optical and Digital Image Processing Conference 7000 - Proceedings
-  of SPIE Volume 7000, 7 - 11 April 2008*'
-abstract: "If modern computers are sometimes superior to cognition in some specialized
-  tasks such as playing chess or browsing a large database, they can't beat the efficiency
+abstract: 'If modern computers are sometimes superior to cognition in some specialized
+  tasks such as playing chess or browsing a large database, they can''t beat the efficiency
   of biological vision for such simple tasks as recognizing a relative or following
   an object in a complex background. We present in this paper our attempt at outlining
   the dynamical, parallel and event-based representation for vision in the architecture
@@ -25,7 +15,18 @@ abstract: "If modern computers are sometimes superior to cognition in some speci
   a function of the coding length. This will correspond to a modification of the Matching
   Pursuit algorithm where the ArgMax function is optimized for competition, or Competition
   Optimized Matching Pursuit (COMP). We will particularly focus on bridging neuroscience
-  and image processing and on the advantages of such an interdisciplinary approach."
+  and image processing and on the advantages of such an interdisciplinary approach.'
+authors:
+- Laurent U Perrinet
+date: 2008-01-01
+featured: false
+grants:
+- facets
+projects: []
+publication: '*Optical and Digital Image Processing Conference 7000 - Proceedings
+  of SPIE Volume 7000, 7 - 11 April 2008*'
+publication_types:
+- 'inproceedings'
 tags:
 - association field
 - Biologically Inspired Computer vision
@@ -35,4 +36,8 @@ tags:
 - sparse coding
 - sparse hebbian learning
 - spike
+title: 'Adaptive Sparse Spike Coding : applications of Neuroscience to the compression
+  of natural images'
+url_pdf: https://arxiv.org/abs/0804.4830
+url_preprint: https://arxiv.org/abs/0804.4830
 ---

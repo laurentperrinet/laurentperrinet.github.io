@@ -1,15 +1,4 @@
 ---
-title: 'Input-output transformation in the visuo-oculomotor loop: modeling the ocular
-  following response to center-surround stimulation in a probabilistic framework'
-authors:
-- Laurent U Perrinet
-- Frédéric V Barthélemy
-- Guillaume S Masson
-date: '2006-01-01'
-publishDate: '2024-08-06T07:35:49.164864Z'
-publication_types:
-- paper-conference
-publication: '*1ère conférence francophone NEUROsciences COMPutationnelles - NeuroComp*'
 abstract: The quality of the representation of an object's motion is limited by the
   noise in the sensory input as well as by an intrinsic ambiguity due to the spatial
   limitation of the visual motion analyzers (aperture problem). Perceptual and oculomotor
@@ -25,10 +14,26 @@ abstract: The quality of the representation of an object's motion is limited by 
   phase. In addition, we propose a recursive extension of the Bayesian model, motivated
   and constrained by our oculomotor data, to describe the dynamical integration of
   1D and 2D motion information.
+authors:
+- Laurent U Perrinet
+- Frederic V Barthélemy
+- Guillaume S Masson
+date: 2006-01-01
+featured: false
+grants:
+- facets
+projects: []
+publication: '*1ère conférence francophone NEUROsciences COMPutationnelles - NeuroComp*'
+publication_types:
+- 'inproceedings'
 tags:
 - aperture problem
 - Bayesian model
 - eye movements
 - matching pursuit
 - motion detection
+title: 'Input-output transformation in the visuo-oculomotor loop: modeling the ocular
+  following response to center-surround stimulation in a probabilistic framework'
 ---
+
+* See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

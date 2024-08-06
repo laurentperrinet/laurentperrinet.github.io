@@ -1,27 +1,12 @@
 ---
-title: 'Measuring speed of moving textures: Different pooling of motion information
-  for human ocular following and perception.'
-authors:
-- Claudio Simoncini
-- Laurent U Perrinet
-- Anna Montagnini
-- Pascal Mamassian
-- Guillaume S Masson
-date: '2012-01-01'
-publishDate: '2024-08-06T07:35:49.528165Z'
-publication_types:
-- paper-conference
-publication: '*Front. Neurosci. Conference Abstract: Neural Coding, Decision-Making
-  and Integration in Time*'
-doi: 10.3389/conf.fnins.2012.86.00016
-abstract: "To measure speed and direction of moving objects, the cortical motion system
+abstract: 'To measure speed and direction of moving objects, the cortical motion system
   pools information across different spatiotemporal channels. One yet unsolved question
   is to understand how the brain pools this information and whether this pooling is
   generic or adaptive at the behavioral contexts. Here, we investigate in humans this
   integration process for two different tasks: psychophysical speed discrimination
   and ocular following eye movements, which are a probe of early motion detection
   and integration (Masson & Perrinet, 2011). For both tasks, we used short presentations
-  of ``moving textures'' stimuli (Schrater et al., 2000) in which the width of the
+  of ``moving textures'''' stimuli (Schrater et al., 2000) in which the width of the
   spatial frequency distribution (Bsf) was varied. We found that larger Bsf elicited
   stronger initial eye velocity during the open-loop part of tracking responses. Moreover,
   richer stimuli resulted in more accurate and reliable motor responses. By contrast,
@@ -38,14 +23,29 @@ abstract: "To measure speed and direction of moving objects, the cortical motion
   G.S. & Perrinet, L.U. The behavioural receptive field underlying motion integration
   for primate tracking eye movements. Neurosci. BioBehav. Review 36, 1-25 (2011).
   Schrater, P.R., Knill, D.C. & Simoncelli, E.P. Mechanism of visual motion detection.
-  Nat. Neurosci. 3, 64-68 (2000)."
+  Nat. Neurosci. 3, 64-68 (2000).'
+authors:
+- Claudio Simoncini
+- Laurent U Perrinet
+- Anna Montagnini
+- Pascal Mamassian
+- Guillaume S Masson
+date: 2012-01-01
+doi: 10.3389/conf.fnins.2012.86.00016
+featured: false
+grants:
+- codde
+projects: []
+publication: '*Front. Neurosci. Conference Abstract: Neural Coding, Decision-Making
+  and Integration in Time*'
+publication_types:
+- 'inproceedings'
 tags:
 - eye movements
 - motion detection
 - motion-clouds
 - psychophysics
-links:
-- name: URL
-  url: 
-    http://www.frontiersin.org/myfrontiers/abstractdetails.aspx?abs_doi=10.3389/conf.fnins.2012.86.00016
+title: 'Measuring speed of moving textures: Different pooling of motion information
+  for human ocular following and perception.'
+url_pdf: http://www.frontiersin.org/myfrontiers/abstractdetails.aspx?abs_doi=10.3389/conf.fnins.2012.86.00016
 ---

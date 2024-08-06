@@ -1,15 +1,4 @@
 ---
-title: Which sparsity problem does the brain solve?
-authors:
-- Ilias Rentzeperis
-- Luca Calatroni
-- Laurent U Perrinet
-- Dario Prandi
-date: '2022-06-29'
-publishDate: '2024-08-06T07:35:49.477361Z'
-publication_types:
-- paper-conference
-publication: '*Proceedings of AREADNE*'
 abstract: 'Experimental evidence suggests that activity in sensory cortices is sparse
   in that only few neurons out of a large pool that could respond to sensed stimuli,
   are active at a time. Generative learning models that aim to replicate sensory systems
@@ -22,7 +11,36 @@ abstract: 'Experimental evidence suggests that activity in sensory cortices is s
   a learning algorithm that is set to reconstruct natural images with sparse activations
   develops vectors with properties, found in the receptive fields of neurons in V1,
   i.e. they are localized, band-pass, and oriented.'
+authors:
+- Ilias Rentzeperis
+- Luca Calatroni
+- Laurent U Perrinet
+- Dario Prandi
+categories: []
+date: 2022-06-29
+draft: false
+featured: false
+grants:
+- anr-runbinvase
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+lastmod: 2022-05-20 13:42:38+02:00
 links:
 - name: URL
-  url: https://laurentperrinet.github.io/publication/rentzeperis-22-areadne/
+  url: https://areadne.org/
+projects:
+- anr-runbinvase
+publication: '*Proceedings of AREADNE*'
+publication_types:
+- 'inproceedings'
+publishDate: '2022-06-16T11:51:41.890310Z'
+show_authors_only: false
+subtitle: ''
+tags: []
+title: Which sparsity problem does the brain solve?
+url_pdf: https://laurentperrinet.github.io/publication/rentzeperis-22-areadne/
 ---
+
+* Follow-up paper {{< cite page="/publication/rentzeperis-23" view="4" >}}

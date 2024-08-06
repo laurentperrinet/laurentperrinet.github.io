@@ -1,16 +1,31 @@
 ---
-title: 'Stakes of Neuromorphic Foveation: a promising future for embedded event cameras'
 authors:
-- Amélie Gruel
+- Amelie Gruel
 - Dalia Hareb
 - Antoine Grimaldi
 - Jean Martinet
 - Laurent U Perrinet
 - Bernabé Linares-Barranco
 - Teresa Serrano-Gotarredona
-date: '2023-01-01'
-publishDate: '2024-08-06T07:35:48.702329Z'
+categories: []
+date: 2023-01-01
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+lastmod: 2022-11-17 12:15:57+01:00
+projects: []
+publication: '*Biological Cybernetics*'
 publication_types:
 - article-journal
-publication: '*Biological Cybernetics*'
+publishDate: '2022-11-17T11:15:57.623607Z'
+subtitle: ''
+tags:
+- efficient coding
+- event-based vision
+- neuromorphic hardware
+title: 'Stakes of Neuromorphic Foveation: a promising future for embedded event cameras'
+url_preprint: https://www.researchsquare.com/article/rs-2120721
 ---

@@ -1,18 +1,4 @@
 ---
-title: 'More is not always better: dissociation between perception and action explained
-  by adaptive gain control'
-authors:
-- Claudio Simoncini
-- Laurent U Perrinet
-- Anna Montagnini
-- Pascal Mamassian
-- Guillaume S Masson
-date: '2012-01-01'
-publishDate: '2024-08-06T07:35:49.520728Z'
-publication_types:
-- article-journal
-publication: '*Nature Neuroscience*'
-doi: 10.1038/nn.3229
 abstract: Moving objects generate motion information at different scales, which are
   processed in the visual system with a bank of spatiotemporal frequency channels.
   It is not known how the brain pools this information to reconstruct object speed
@@ -25,12 +11,30 @@ abstract: Moving objects generate motion information at different scales, which 
   opposite dependencies can be explained by an adaptive gain control mechanism in
   which the divisive normalization pool is adjusted to meet the different constraints
   of perception and action.
+authors:
+- Claudio Simoncini
+- Laurent U Perrinet
+- Anna Montagnini
+- Pascal Mamassian
+- Guillaume S Masson
+date: 2012-01-01
+doi: 10.1038/nn.3229
+featured: true
+grants:
+- codde
+projects: []
+publication: '*Nature Neuroscience*'
+publication_types:
+- article-journal
 tags:
 - eye movements
 - motion detection
 - motion-clouds
 - psychophysics
-links:
-- name: URL
-  url: http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.3229.html
+title: 'More is not always better: dissociation between perception and action explained
+  by adaptive gain control'
+url_pdf: http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.3229.html
 ---
+
+![header](simoncini-12.png)
+{{< figure src="grating.gif" width="80%" title="*Band-pass motion stimuli for perception and action tasks.* (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples. Human performance was measured for two different tasks, run in parallel blocks. (b) For ocular tracking, motion stimuli were presented for a short duration (200ms) in the wake of a centering saccade to control both attention and fixation states. (c) For speed discrimination, test and reference stimuli were presented successively for the same duration and subjects were instructed to indicate whether the test stimulus was perceived as slower or faster than reference. " >}}

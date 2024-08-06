@@ -1,17 +1,7 @@
 ---
-title: Decoding the population dynamics underlying ocular following response using
-  a probabilistic framework
-authors:
-- Laurent U Perrinet
-- Guillaume S Masson
-date: '2008-01-01'
-publishDate: '2024-08-06T07:35:49.231216Z'
-publication_types:
-- paper-conference
-publication: '*Proceedings of AREADNE, 2008*'
-abstract: "The machinery behind the visual perception of motion and the subsequent
+abstract: 'The machinery behind the visual perception of motion and the subsequent
   sensorimotor transformation, such as in Ocular Following Response (OFR), is confronted
-  to uncertainties which are efficiently resolved in the primate's visual system.
+  to uncertainties which are efficiently resolved in the primate''s visual system.
   We may understand this response as an ideal observer in a probabilistic framework
   by using Bayesian theorỹWeiss02 which we previously proved to be successfully adapted
   to model the OFR for different levels of noise with full field gratings or with
@@ -41,7 +31,17 @@ abstract: "The machinery behind the visual perception of motion and the subseque
   framework. Journal of Physiology (Paris), 2007. doi: 10.1016/j.jphysparis.2007.10.011.
   Y. Weiss, E. P. Simoncelli, and E. H. Adelson. Motion illusions as optimal percepts.
   Nature Neuroscience, 5(6):598--604, Jun 2002. doi: 10.1038/nn858. This work was
-  supported by EC IP project FP6-015879, ''FACETS''."
+  supported by EC IP project FP6-015879, ''''FACETS''''.'
+authors:
+- Laurent U Perrinet
+- Guillaume S Masson
+date: 2008-01-01
+featured: false
+grants:
+- facets-itn
+publication: '*Proceedings of AREADNE, 2008*'
+publication_types:
+- 'inproceedings'
 tags:
 - Bayesian model
 - center-surround interactions
@@ -49,4 +49,6 @@ tags:
 - lateral connections
 - motion detection
 - visual perception
+title: Decoding the population dynamics underlying ocular following response using
+  a probabilistic framework
 ---

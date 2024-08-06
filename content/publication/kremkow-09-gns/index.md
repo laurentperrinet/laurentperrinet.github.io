@@ -1,16 +1,4 @@
 ---
-title: Functional consequences of correlated excitation and inhibition on single neuron
-  integration and signal propagation through synfire chains
-authors:
-- Jens Kremkow
-- Laurent U Perrinet
-- Guillaume S Masson
-- Ad M Aertsen
-date: '2009-01-01'
-publishDate: '2024-08-06T07:35:48.816564Z'
-publication_types:
-- paper-conference
-publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'
 abstract: 'Neurons receive a large number of excitatory and inhibitory synaptic inputs
   whose temporal interplay determines their spiking behavior. On average, excitation
   (Gexc) and inhibition (Ginh) balance each other, such that spikes are elicited by
@@ -42,7 +30,24 @@ abstract: 'Neurons receive a large number of excitatory and inhibitory synaptic 
   S. and Aertsen A. (2008), Conditions for propagating synchronous spiking and asynchronous
   firing rates in a cortical network model. J Neurosci 28 (20), 5268--80. Preliminary
   Program'
+authors:
+- Jens Kremkow
+- Laurent U Perrinet
+- Guillaume S Masson
+- Ad M Aertsen
+date: 2009-01-01
+featured: false
+grants:
+- facets
+projects: []
+publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'
+publication_types:
+- 'inproceedings'
 tags:
 - feed-forward_inhibition
 - large-scale_networks
+title: Functional consequences of correlated excitation and inhibition on single neuron
+  integration and signal propagation through synfire chains
 ---
+
+* see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publication/kremkow-10-jcns/index.md" >}})

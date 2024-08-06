@@ -1,13 +1,4 @@
 ---
-title: Selectivity to oriented patterns of different precisions
-authors:
-- Hugo Ladret
-- Laurent U Perrinet
-date: '2018-01-01'
-publishDate: '2024-08-06T07:35:48.839412Z'
-publication_types:
-- paper-conference
-publication: '*GDR Vision, Paris, 2018*'
 abstract: The selectivity of the visual system to oriented patterns is very well documented
   in a wide range of species, especially in mammals. In particular, neurons of the
   primary visual cortex are anatomically grouped by their preference to a given oriented
@@ -24,10 +15,28 @@ abstract: The selectivity of the visual system to oriented patterns is very well
   same task. This model has human-like performance in term of accuracy and exhibits
   qualitatively similar psychophysical curves. One hypothesis that such a structure
   allows for the system to be robust to noise in its visual inputs.
+authors:
+- Hugo Ladret
+- Laurent U Perrinet
+date: 2018-01-01
+featured: false
+grants:
+- pace-itn
+projects: []
+publication: '*GDR Vision, Paris, 2018*'
+publication_types:
+- 'inproceedings'
 tags:
 - area-v1
 - deep-learning
 - orientation
 - psychophysics
+title: Selectivity to oriented patterns of different precisions
+url_code: https://github.com/hugoladret/InternshipM1
 url_pdf: https://github.com/hugoladret/InternshipM1/raw/master/2018-06_POSTER_final.pdf
 ---
+
+* poster présenté au [GDR vision, Paris](https://gdrvision2018.sciencesconf.org).
+* program : https://gdrvision2018.sciencesconf.org/data/pages/posters_GDRVision2018.pdf
+* [Poster (pdf)](https://github.com/hugoladret/InternshipM1/raw/master/2018-06_POSTER_final.pdf)
+* code : https://github.com/hugoladret/InternshipM1

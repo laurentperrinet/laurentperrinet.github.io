@@ -1,17 +1,5 @@
 ---
-title: Decoding center-surround interactions in population of neurons for the ocular
-  following response
-authors:
-- Laurent U Perrinet
-- Nicole Voges
-- Jens Kremkow
-- Guillaume S Masson
-date: '2009-01-01'
-publishDate: '2024-08-06T07:35:49.250995Z'
-publication_types:
-- paper-conference
-publication: '*Proceedings of COSYNE*'
-abstract: "Short presentation of a large moving pattern elicits an Ocular Following
+abstract: 'Short presentation of a large moving pattern elicits an Ocular Following
   Response (OFR) that exhibits many of the properties attributed to low-level motion
   processing such as spatial and temporal integration, contrast gain control and divisive
   interaction between competing motions. Similar mechanisms have been demonstrated
@@ -25,9 +13,9 @@ abstract: "Short presentation of a large moving pattern elicits an Ocular Follow
   surround on the contrast gain control of the central stimuli [Barthelemy06,Barthelemy07].
   In fact, the machinery behind the visual perception of motion and the subsequent
   sensorimotor transformation is confronted to uncertainties which are efficiently
-  resolved in the primate's visual system. We may understand this response as an ideal
-  observer in a probabilistic framework by using Bayesian theory [Weiss02] and we
-  extended in the dynamical domain the ideal observer model to simulate the spatial
+  resolved in the primate''s visual system. We may understand this response as an
+  ideal observer in a probabilistic framework by using Bayesian theory [Weiss02] and
+  we extended in the dynamical domain the ideal observer model to simulate the spatial
   integration of the different local motion cues within a probabilistic representation.
   We proved that this model is successfully adapted to model the OFR for the different
   experiments [Perrinet07neurocomp], that is for different levels of noise with full
@@ -59,7 +47,20 @@ abstract: "Short presentation of a large moving pattern elicits an Ocular Follow
   the disk and on its spatial frequency, the recurrent network of lateral interactions
   Lastly, we explore how a surrounding velocity non congruous with the central excitation
   information shunts the ocular response and how it is topographically represented
-  in the cortical activity."
+  in the cortical activity.'
+authors:
+- Laurent U Perrinet
+- Nicole Voges
+- Jens Kremkow
+- Guillaume S Masson
+date: 2009-01-01
+featured: false
+grants:
+- facets
+projects: []
+publication: '*Proceedings of COSYNE*'
+publication_types:
+- 'inproceedings'
 tags:
 - Bayesian model
 - center-surround interactions
@@ -67,4 +68,6 @@ tags:
 - lateral connections
 - motion detection
 - visual perception
+title: Decoding center-surround interactions in population of neurons for the ocular
+  following response
 ---

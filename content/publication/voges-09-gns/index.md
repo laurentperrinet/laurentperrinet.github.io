@@ -1,13 +1,4 @@
 ---
-title: Dynamics of cortical networks including long-range patchy connections
-authors:
-- Nicole Voges
-- Laurent U Perrinet
-date: '2009-01-01'
-publishDate: '2024-08-06T07:35:49.646175Z'
-publication_types:
-- paper-conference
-publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'
 abstract: 'Most studies of cortical network dynamics are either based on purely random
   wiring or neighborhood couplings [1], focussing on a rather local scale. Neuronal
   connections in the cortex, however, show a more complex spatial pattern composed
@@ -35,6 +26,21 @@ abstract: 'Most studies of cortical network dynamics are either based on purely 
   2008, 1-43. [2] T. Binzegger, R.J. Douglas and K.A.C. Martin, J. of Neurosci., 27(45),
   2007, 12242-12254. [3] Voges N, Fakultaet fuer Biologie, Albert-Ludwigs-Universitaet
   Freiburg, 2007. [4] NEST. M.O. Gewaltig and M. Diesmann, Scholarpedia 2(4):1430.'
+authors:
+- Nicole Voges
+- Laurent U Perrinet
+date: 2009-01-01
+featured: false
+grants:
+- facets
+projects: []
+publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'
+publication_types:
+- 'inproceedings'
 tags:
 - lateral connections
+title: Dynamics of cortical networks including long-range patchy connections
 ---
+
+* Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}
+* see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

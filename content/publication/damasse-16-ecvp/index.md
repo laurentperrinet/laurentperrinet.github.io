@@ -1,18 +1,19 @@
 ---
-title: Modeling the effect of dynamic contingencies on anticipatory eye movements
 authors:
 - Jean-Bernard Damasse
 - Anna Montagnini
 - Laurent U Perrinet
-date: '2016-01-01'
-publishDate: '2024-08-06T07:35:48.469308Z'
-publication_types:
-- paper-conference
+date: 2016-01-01
+featured: false
+grants:
+- anr-rem
+projects: []
 publication: '*Proceedings of ECVP*'
+publication_types:
+- 'inproceedings'
 tags:
 - eye movements
 - Smooth pursuit eye movement
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/damasse-16-ecvp
+title: Modeling the effect of dynamic contingencies on anticipatory eye movements
+url_pdf: https://laurentperrinet.github.io/publication/damasse-16-ecvp
 ---

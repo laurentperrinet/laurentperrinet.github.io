@@ -1,13 +1,19 @@
 ---
-title: A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise
 authors:
 - Wahiba Taouali
 - Laurent U Perrinet
-date: '2014-01-01'
-publishDate: '2024-08-06T07:35:49.561514Z'
-publication_types:
-- paper-conference
+date: 2014-01-01
+featured: false
+grants:
+- anr-bala-v1
+- brain-scales
+projects: []
 publication: '*6th Workshop of the Computational Neuroscience Network in Marseille*'
+publication_types:
+- 'inproceedings'
 tags:
 - coding decoding
+title: A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise
 ---
+
+* see a follow-up in this [publication]({{< ref "/publication/taouali-16" >}})

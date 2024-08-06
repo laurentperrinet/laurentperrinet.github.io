@@ -1,14 +1,4 @@
 ---
-title: Efficient learning of sparse image representations using homeostatic regulation
-authors:
-- Victor Boutin
-- Franck Ruffier
-- Laurent U Perrinet
-date: '2017-01-01'
-publishDate: '2024-08-06T07:35:48.390244Z'
-publication_types:
-- paper-conference
-publication: '*SPARS2017, Lisbon*'
 abstract: One core advantage of sparse representations is the efficient coding of
   complex signals using compact codes. For instance, it allows for the representation
   of any image as a combination of few elements drawn from a large dictionary of basis
@@ -33,7 +23,26 @@ abstract: One core advantage of sparse representations is the efficient coding o
   robot. As a consequence, this biologically-inspired learning rule demonstrates that
   principles observed in neural computations can help improve real-life machine learning
   algorithms.
+authors:
+- Victor Boutin
+- Franck Ruffier
+- Laurent U Perrinet
+code: https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars
+date: 2017-01-01
+featured: false
+grants:
+- doc-2-amu
+projects: []
+publication: '*SPARS2017, Lisbon*'
+publication_types:
+- 'inproceedings'
 tags:
 - deep-learning
 - sparse coding
+title: Efficient learning of sparse image representations using homeostatic regulation
 ---
+
+* This work is a followup of [Perrinet, 2010, Neural Computation]({{< ref "/publication/perrinet-10-shl" >}})
+* code is available @ https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars and heavily uses https://github.com/bicv/SparseHebbianLearning
+* the [poster (PDF)](https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars/raw/master/docs/BoutinRuffierPerrinet17spars.pdf)  will be presented Thursday, June 8 @ [SPARS, Lisbon](http://spars2017.lx.it.pt/index_files/SPARS2017_program.html).
+* see a related work describing SDPC in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}

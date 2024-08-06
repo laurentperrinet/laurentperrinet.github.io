@@ -1,19 +1,20 @@
 ---
-title: 'Effects of motion predictability on anticipatory and visually-guided eye movements:
-  a common prior for sensory processing and motor control?'
 authors:
 - Anna Montagnini
 - Jean-Bernard Damasse
 - Laurent U Perrinet
 - Guillaume S Masson
-date: '2016-01-01'
-publishDate: '2024-08-06T07:35:49.009388Z'
-publication_types:
-- paper-conference
+date: 2016-01-01
+featured: false
+grants:
+- anr-rem
+projects: []
 publication: '*Proceedings of ECVP*'
+publication_types:
+- 'inproceedings'
 tags:
 - eye movements
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/montagnini-16-ecvp
+title: 'Effects of motion predictability on anticipatory and visually-guided eye movements:
+  a common prior for sensory processing and motor control?'
+url_pdf: https://laurentperrinet.github.io/publication/montagnini-16-ecvp
 ---

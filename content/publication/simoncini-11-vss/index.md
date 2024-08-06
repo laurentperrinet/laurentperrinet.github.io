@@ -1,18 +1,4 @@
 ---
-title: 'Pattern discrimination for moving random textures: Richer stimuli are more
-  difficult to recognize'
-authors:
-- Claudio Simoncini
-- Anna Montagnini
-- Laurent U Perrinet
-- Pascal Mamassian
-- Guillaume S Masson
-date: '2012-08-01'
-publishDate: '2024-08-06T07:35:49.511517Z'
-publication_types:
-- paper-conference
-publication: '*VSS Conference Abstract*'
-doi: 10.1167/11.11.749
 abstract: In order to analyze the characteristics of a rich dynamic visual environment,
   the visual system must integrate information collected at different scales through
   different spatiotemporal frequency channels. Still, it remains unclear how reliable
@@ -37,13 +23,27 @@ abstract: In order to analyze the characteristics of a rich dynamic visual envir
   dropped to chance level as spatial frequency bandwidth increased. Increasing the
   mean spatial frequency decreased the overall performance. Again, these results suggest
   that perceptual performance is deteriorated in presence of larger information.
+authors:
+- Claudio Simoncini
+- Anna Montagnini
+- Laurent U Perrinet
+- Pascal Mamassian
+- Guillaume S Masson
+date: 2012-08-01
+doi: 10.1167/11.11.749
+featured: false
+grants:
+- codde
+projects: []
+publication: '*VSS Conference Abstract*'
+publication_types:
+- 'inproceedings'
 tags:
 - eye movements
 - motion detection
 - motion-clouds
 - psychophysics
-links:
-- name: URL
-  url: 
-    http://www.journalofvision.org/content/12/9/1014.abstract?sid=9c51ff88-5b9a-4d1b-aaf1-a1219bd02b0a
+title: 'Pattern discrimination for moving random textures: Richer stimuli are more
+  difficult to recognize'
+url_pdf: http://www.journalofvision.org/content/12/9/1014.abstract?sid=9c51ff88-5b9a-4d1b-aaf1-a1219bd02b0a
 ---

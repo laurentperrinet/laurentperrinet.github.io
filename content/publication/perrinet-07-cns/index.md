@@ -1,15 +1,4 @@
 ---
-title: On efficient sparse spike coding schemes for learning natural scenes in the
-  primary visual cortex
-authors:
-- Laurent U Perrinet
-date: '2007-01-01'
-publishDate: '2024-08-06T07:35:49.205207Z'
-publication_types:
-- paper-conference
-publication: '*Sixteenth Annual Computational Neuroscience Meeting: CNS*2007, Toronto,
-  Canada. 7--12 July 2007*'
-doi: 10.1186/1471-2202-8-S2-P206
 abstract: 'We describe the theoretical formulation of a learning algorithm in a model
   of the primary visual cortex (V1) and present results of the efficiency of this
   algorithm by comparing it to the SparseNet algorithm [1]. As the SparseNet algorithm,
@@ -30,9 +19,20 @@ abstract: 'We describe the theoretical formulation of a learning algorithm in a 
   Res 1997, 37:3311-3325. 2. Perrinet L: Feature detection using spikes: the greedy
   approach. J Physiol Paris 2004, 98(4--6):530-539. 3. Hebb DO: The organization of
   behavior. Wiley, New York; 1949.'
+authors:
+- Laurent U Perrinet
+date: 2007-01-01
+doi: 10.1186/1471-2202-8-S2-P206
+featured: false
+grants:
+- facets-itn
+publication: '*Sixteenth Annual Computational Neuroscience Meeting: CNS*2007, Toronto,
+  Canada. 7--12 July 2007*'
+publication_types:
+- 'inproceedings'
 tags:
 - area-v1
-links:
-- name: URL
-  url: http://dx.doi.org/10.1186/1471-2202-8-S2-P206
+title: On efficient sparse spike coding schemes for learning natural scenes in the
+  primary visual cortex
+url_pdf: http://dx.doi.org/10.1186/1471-2202-8-S2-P206
 ---

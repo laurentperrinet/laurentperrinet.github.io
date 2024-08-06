@@ -1,14 +1,4 @@
 ---
-title: Dynamical state spaces of cortical networks representing various horizontal
-  connectivities
-authors:
-- Nicole Voges
-- Laurent U Perrinet
-date: '2009-01-01'
-publishDate: '2024-08-06T07:35:49.637101Z'
-publication_types:
-- paper-conference
-publication: '*Proceedings of COSYNE*'
 abstract: 'Most studies of cor tical network dynamics are either based on purely random
   wiring or neighborhood couplings, e.g., [Kumar, Schrader, Aer tsen, Rotter, 2008,
   Neural Computation 20, 1--43]. Neuronal connections in the cor tex, however, show
@@ -48,6 +38,22 @@ abstract: 'Most studies of cor tical network dynamics are either based on purely
   spaces suggest that network dynamics strongly depend on the connectivity structure.
   This effect might be even stronger with respect to the spatio-temporal spread of
   signal propagation. This work is suppor ted by EC IP project FP6-015879 (FACETS).'
+authors:
+- Nicole Voges
+- Laurent U Perrinet
+date: 2009-01-01
+featured: false
+grants:
+- facets
+projects: []
+publication: '*Proceedings of COSYNE*'
+publication_types:
+- 'inproceedings'
 tags:
 - lateral connections
+title: Dynamical state spaces of cortical networks representing various horizontal
+  connectivities
 ---
+
+* Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}
+* see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

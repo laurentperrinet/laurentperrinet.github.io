@@ -1,14 +1,4 @@
 ---
-title: Active inference, eye movements and oculomotor delays
-authors:
-- Laurent U Perrinet
-- Rick A Adams
-- Karl Friston
-date: '2013-01-01'
-publishDate: '2024-08-06T07:35:49.317385Z'
-publication_types:
-- paper-conference
-publication: '*The 7th Japanese-French Frontiers of Science Symposium*'
 abstract: We consider the problem of sensorimotor delays in the optimal control of
   movement under uncertainty. Specifically, we consider axonal conduction delays in
   the visuo-oculomotor loop and their implications for active inference. Active inference
@@ -26,9 +16,20 @@ abstract: We consider the problem of sensorimotor delays in the optimal control 
   to the generic problem of integrating information from different sources with different
   temporal delays and the particular difficulties encountered when a system, like
   the oculomotor system, tries to control its environment with delayed signals.
+authors:
+- Laurent U Perrinet
+- Rick A Adams
+- Karl Friston
+date: 2013-01-01
+featured: false
+grants:
+- codde
+projects: []
+publication: '*The 7th Japanese-French Frontiers of Science Symposium*'
+publication_types:
+- 'inproceedings'
 tags:
 - active inference
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/perrinet-13-jffos
+title: Active inference, eye movements and oculomotor delays
+url_pdf: https://laurentperrinet.github.io/publication/perrinet-13-jffos
 ---

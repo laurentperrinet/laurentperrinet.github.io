@@ -1,18 +1,19 @@
 ---
-title: 'Anticipating a moving target: role of vision and reinforcement'
 authors:
 - Anna Montagnini
 - Jean-Bernard Damasse
 - Laurent U Perrinet
 - Laurent Madelain
-date: '2015-01-01'
-publishDate: '2024-08-06T07:35:49.005195Z'
-publication_types:
-- paper-conference
+date: 2015-01-01
+featured: false
+grants:
+- anr-rem
+projects: []
 publication: '*Proceedings of the Society for Neuroscience conference*'
+publication_types:
+- 'inproceedings'
 tags:
 - Bayesian model
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/montagnini-15-sfn
+title: 'Anticipating a moving target: role of vision and reinforcement'
+url_pdf: https://laurentperrinet.github.io/publication/montagnini-15-sfn
 ---

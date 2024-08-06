@@ -1,14 +1,4 @@
 ---
-title: Edge co-occurrences are sufficient to categorize natural versus animal images
-authors:
-- Laurent U Perrinet
-- James A Bednar
-date: '2014-08-22'
-publishDate: '2024-08-06T07:35:49.438628Z'
-publication_types:
-- paper-conference
-publication: '*Journal of Vision*'
-doi: 10.1167/14.10.1310
 abstract: Analysis and interpretation of a visual scene to extract its category, such
   as whether it contains an animal, is typically assumed to involve higher-level associative
   brain areas. Previous proposals have been based on a series of processing steps
@@ -33,11 +23,24 @@ abstract: Analysis and interpretation of a visual scene to extract its category,
   they challenge assumptions about the flow of computations in the visual system and
   emphasize the relative importance in this process of associative connections, and
   in particular of intra-areal lateral connections.
+authors:
+- Laurent U Perrinet
+- James A Bednar
+date: 2014-08-22
+doi: 10.1167/14.10.1310
+featured: false
+grants:
+- anr-bala-v1
+projects: []
+publication: '*Journal of Vision*'
+publication_types:
+- 'inproceedings'
 tags:
 - association field
 - Biologically Inspired Computer vision
 - sparse coding
-links:
-- name: URL
-  url: http://dx.doi.org/10.1167/14.10.1310
+title: Edge co-occurrences are sufficient to categorize natural versus animal images
+url_pdf: http://dx.doi.org/10.1167/14.10.1310
 ---
+
+* see a follow-up: {{< cite page="/publication/perrinet-bednar-15" view="4" >}}

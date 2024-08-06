@@ -1,18 +1,31 @@
 ---
-title: Ultra-fast categorization of images containing animals in vivo and in computo
 authors:
-- Jean-Nicolas Jérémie
+- Jean-Nicolas Jeremie
 - Laurent U Perrinet
-date: '2021-10-15'
-publishDate: '2024-08-06T07:35:48.706087Z'
-publication_types:
-- paper-conference
+categories: []
+date: 2021-10-15
+draft: false
+featured: false
+grants:
+- aprovis3D
+- anr-anr
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+lastmod: 2021-10-12 13:44:14+02:00
+projects: []
 publication: '*Champalimaud Research Symposium (CRS21)*'
+publication_types:
+- 'inproceedings'
+subtitle: ''
 tags:
 - deep-learning
 - object categorization
 - psychophysics
-links:
-- name: URL
-  url: https://symposium.fchampalimaud.science/Poster-sessions
+title: Ultra-fast categorization of images containing animals in vivo and in computo
+url_pdf: https://symposium.fchampalimaud.science/Poster-sessions
 ---
+
+* see a follow-up in: {{< cite page="/publication/jeremie-23-ultra-fast-cat" view="4" >}}
+* see an extension to visual search in: {{< cite page="/publication/jeremie-22-areadne" view="4" >}}

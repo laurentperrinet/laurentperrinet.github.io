@@ -1,16 +1,4 @@
 ---
-title: 'Voluntary tracking the moving clouds : Effects of speed variability on human
-  smooth pursuit'
-authors:
-- Kiana Mansour Pour
-- Laurent U Perrinet
-- Guillaume S Masson
-- Anna Montagnini
-date: '2017-01-01'
-publishDate: '2024-08-06T07:35:48.930748Z'
-publication_types:
-- paper-conference
-publication: '*GDR Vision, Lille, 2017*'
 abstract: 'The properties of motion processing for driving smooth eye movements have
   bee investigated using simple, artificial stimuli such as gratings, small dots or
   random dot patterns. Motion processing in the context of complex, natural images
@@ -37,11 +25,24 @@ abstract: 'The properties of motion processing for driving smooth eye movements 
   small dot motion. Motion Clouds offer an efficient tool to probe the optimal window
   of visibility for human smooth pursuit through the manipulation of both the mean
   and the variability of spatial frequency.'
+authors:
+- Kiana Mansour Pour
+- Laurent U Perrinet
+- Guillaume S Masson
+- Anna Montagnini
+date: 2017-01-01
+featured: false
+grants:
+- pace-itn
+projects: []
+publication: '*GDR Vision, Lille, 2017*'
+publication_types:
+- 'inproceedings'
 tags:
 - eye movements
 - motion detection
 - motion-clouds
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/mansour-17-gdr
+title: 'Voluntary tracking the moving clouds : Effects of speed variability on human
+  smooth pursuit'
+url_pdf: https://laurentperrinet.github.io/publication/mansour-17-gdr
 ---

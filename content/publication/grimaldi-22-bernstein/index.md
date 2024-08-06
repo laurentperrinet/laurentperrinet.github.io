@@ -1,16 +1,4 @@
 ---
-title: Detection of precise spiking motifs using spike-time dependent weight and delay
-  plasticity
-authors:
-- Antoine Grimaldi
-- Camille Besnainou
-- Hugo Ladret
-- Laurent U Perrinet
-date: '2022-09-11'
-publishDate: '2024-08-06T07:35:48.661616Z'
-publication_types:
-- paper-conference
-publication: '*Bernstein Conference 2022*'
 abstract: The spiking response of a biological neuron depends on the precise timing
   of afferent spikes. This temporal aspect of the neuronal code is essential in understanding
   information processing in neurobiology. In this model, raster plot analysis showed
@@ -30,4 +18,31 @@ abstract: The spiking response of a biological neuron depends on the precise tim
   to noise. We show that using synaptic delays for neuronal computations highly increases
   the representational capacities of a single neuron and its resilience to noise.
   .
+authors:
+- Antoine Grimaldi
+- Camille Besnainou
+- Hugo Ladret
+- Laurent U Perrinet
+categories: []
+date: 2022-09-11
+draft: false
+featured: false
+grants:
+- aprovis3D
+- anr-anr
+- polychronies
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+lastmod: 2023-07-21 13:12:04+02:00
+projects: []
+publication: '*Bernstein Conference 2022*'
+publication_types:
+- 'inproceedings'
+publishDate: '2023-07-21T11:11:54.651024Z'
+subtitle: ''
+tags: []
+title: Detection of precise spiking motifs using spike-time dependent weight and delay
+  plasticity
 ---

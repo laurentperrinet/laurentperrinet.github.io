@@ -1,16 +1,4 @@
 ---
-title: Effect of top-down connections in Hierarchical Sparse Coding
-authors:
-- Victor Boutin
-- Angelo Franciosini
-- Franck Ruffier
-- Laurent U Perrinet
-date: '2020-02-04'
-publishDate: '2024-08-06T07:35:48.375578Z'
-publication_types:
-- article-journal
-publication: '*Neural Computation*'
-doi: 10.1162/neco_a_01325
 abstract: Hierarchical Sparse Coding (HSC) is a powerful model to efficiently represent
   multi-dimensional, structured data such as images. The simplest solution to solve
   this computationally hard problem is to decompose it into independent layer-wise
@@ -28,11 +16,30 @@ abstract: Hierarchical Sparse Coding (HSC) is a powerful model to efficiently re
   accelerates the learning process. Finally, the qualitative analysis of both models
   dictionaries, supported by their activation probability, show that the 2L-SPC features
   are more generic and informative.
+authors:
+- Victor Boutin
+- Angelo Franciosini
+- Franck Ruffier
+- Laurent U Perrinet
+date: 2020-02-04
+doi: 10.1162/neco_a_01325
+featured: false
+grants:
+- doc-2-amu
+- phd-icn
+- mesocentre
+projects: []
+publication: '*Neural Computation*'
+publication_types:
+- article-journal
 tags:
 - deep-learning
 - sparse coding
-links:
-- name: URL
-  url: 
-    https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/
+title: Effect of top-down connections in Hierarchical Sparse Coding
+url_pdf: https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/
+url_preprint: https://arxiv.org/abs/2002.00892
 ---
+
+{{< tweet user="laurentperrinet" id="1323549136088694790" >}}
+ * get the code @ https://github.com/VictorBoutin/SPC_2L
+* see a related work describing SDPC in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}

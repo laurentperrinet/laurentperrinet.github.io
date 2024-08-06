@@ -1,17 +1,4 @@
 ---
-title: Self-Invertible 2D Log-Gabor Wavelets
-authors:
-- Sylvain Fischer
-- Filip Šroubek
-- Laurent U Perrinet
-- Rafael Redondo
-- Gabriel Cristóbal
-date: '2007-01-13'
-publishDate: '2024-08-06T07:35:48.562643Z'
-publication_types:
-- article-journal
-publication: '*International Journal of Computer Vision*'
-doi: 10.1007/s11263-006-0026-8
 abstract: 'Meanwhile biorthogonal wavelets got a very popular image processing tool,
   alternative multiresolution transforms have been proposed for solving some of their
   drawbacks, namely the poor selectivity in orientation and the lack of translation
@@ -33,11 +20,31 @@ abstract: 'Meanwhile biorthogonal wavelets got a very popular image processing t
   thresholding and to code the image features through a reduced set of coefficients
   with large magnitude. Such characteristics make the transform a promising tool for
   general image processing tasks.'
+authors:
+- Sylvain Fischer
+- Filip Šroubek
+- Laurent U Perrinet
+- Rafael Redondo
+- Gabriel Cristóbal
+date: 2007-01-13
+doi: 10.1007/s11263-006-0026-8
+featured: false
+grants:
+- facets
+publication: '*International Journal of Computer Vision*'
+publication_types:
+- article-journal
 tags:
 - Biologically Inspired Computer vision
 - log-gabor
 - visual perception
-links:
-- name: URL
-  url: http://dx.doi.org/10.1007/s11263-006-0026-8
+title: Self-Invertible 2D Log-Gabor Wavelets
+url_code: https://github.com/bicv/LogGabor
+url_pdf: http://dx.doi.org/10.1007/s11263-006-0026-8
 ---
+
+This library defines the set of [LogGabor](https://pythonhosted.org/LogGabor/) kernels. These are generic edge-like filters at different scales, phases and orientations. The library develops a simple method to construct a simple multi-scale linear transform.
+* [Web-site](https://pythonhosted.org/LogGabor)
+* [Source code](https://github.com/bicv/LogGabor/)
+* logGabor filters are used in numerous computer vision applications and reaches 177 citations on [Google Scholar](https://scholar.google.com/scholar?cluster=15692697050569088559&hl=fr&as_sdt=7,39) (last updated 22/10/2021).
+{{< figure src="figure1.png" width="80%" title="**Figure 1** Multiresolution schemes. (a) Schematic contours of the log-Gabor filters in the Fourier domain with 5 scales and 8 orientations (only the contours at 78% of the filter maximum are drawn). (b) The real part of the corresponding filters is drawn in the spatial domain. The two first scales are drawn at the bottom magnified by a factor of 4 for a better visualization. The different scales are arranged in rows and the orientations in columns. The low-pass filter is drawn in the upper-left part. (c) The corresponding imaginary parts of the filters are shown in the same arrangement. Note that the low-pass filter does not have imaginary part. Insets (b) and (c) show the final filters built through all the processes described in Section 2. (d) In the proposed scheme the elongation of log-Gabor wavelets increases with the number of orientations nt . Here the real parts (left column) and imaginary parts (right column) are drawn for the 3, 4, 6, 8, 10, 12 and 16 orientation schemes. (e) As a comparison orthogonal wavelet filters ‘Db4’ are shown. Horizontal, vertical and diagonal wavelets are arranged on columns (low-pass on top). (f) As a second comparison, steerable pyramid filters (Portilla et al., 2003) are shown. The arrangement over scales and orientations is the same as for the log-Gabor scheme." >}}

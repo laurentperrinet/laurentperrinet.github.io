@@ -1,20 +1,26 @@
 ---
-title: Role of motion inertia in dynamic motion integration for smooth pursuit
 authors:
 - Mina A Khoei
 - Laurent U Perrinet
 - Amarender Bogadhi
 - Anna Montagnini
 - Guillaume S Masson
-date: '2011-01-01'
-publishDate: '2024-08-06T07:35:48.760680Z'
-publication_types:
-- paper-conference
+date: 2011-01-01
+featured: false
+grants:
+- facets
+- facets-itn
+projects: []
 publication: '*Perception*'
+publication_types:
+- 'inproceedings'
 tags:
 - bayesian model
 - motion prediction
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/khoei-11-ecvp/
+title: Role of motion inertia in dynamic motion integration for smooth pursuit
+url_pdf: https://laurentperrinet.github.io/publication/khoei-11-ecvp/
 ---
+
+* Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}
+* see  follow-up on motion extrapolation: {{< cite page="/publication/khoei-13-jpp" view="4" >}}
+* see  follow-up on the flash-lag effect: {{< cite page="/publication/khoei-masson-perrinet-17" view="4" >}}

@@ -1,15 +1,4 @@
 ---
-title: Dynamical contrast gain control mechanisms in a layer 2/3 model of the primary
-  visual cortex
-authors:
-- Laurent U Perrinet
-- Jens Kremkow
-date: '2006-01-01'
-publishDate: '2024-08-06T07:35:49.151111Z'
-publication_types:
-- paper-conference
-publication: '*The Functional Architecture of the Brain : from Dendrites to Networks.
-  Symposium in honour of Dr Suzanne Tyc-Dumont. 4- 5 May 2006. GLM, Marseille, France*'
 abstract: Computations in a cortical column are characterized by the dynamical, event-based
   nature of neuronal signals and are structured by the layered and parallel structure
   of cortical areas. But they are also characterized by their efficiency in terms
@@ -46,6 +35,19 @@ abstract: Computations in a cortical column are characterized by the dynamical, 
   It thus provides a method to reveal the dynamics of information integration and
   particularly of contrast gain control which are characteristic to the function of
   V1.
+authors:
+- Laurent U Perrinet
+- Jens Kremkow
+date: 2006-01-01
+featured: false
+grants:
+- facets
+publication: '*The Functional Architecture of the Brain : from Dendrites to Networks.
+  Symposium in honour of Dr Suzanne Tyc-Dumont. 4- 5 May 2006. GLM, Marseille, France*'
+publication_types:
+- 'inproceedings'
 tags:
 - gain control
+title: Dynamical contrast gain control mechanisms in a layer 2/3 model of the primary
+  visual cortex
 ---

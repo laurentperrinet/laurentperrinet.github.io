@@ -1,16 +1,22 @@
 ---
-title: A Mathematical Account of Dynamic Texture Synthesis for Probing Visual Perception
 authors:
 - Jonathan Vacher
 - Andrew Isaac Meso
 - Laurent U Perrinet
 - Gabriel Peyré
-date: '2015-01-01'
-publishDate: '2024-08-06T07:35:49.609641Z'
-publication_types:
-- paper-conference
+date: 2015-01-01
+featured: false
+grants:
+- anr-trajectory
+projects:
+- motion-clouds
 publication: '*ICMS 2015 conference*'
+publication_types:
+- 'inproceedings'
 tags:
 - motion-clouds
 - psychophysics
+title: A Mathematical Account of Dynamic Texture Synthesis for Probing Visual Perception
 ---
+
+* See a followup in {{< cite page="/publication/vacher-16" view="4" >}}

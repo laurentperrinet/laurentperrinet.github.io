@@ -1,17 +1,4 @@
 ---
-title: Dynamics of distributed 1D and 2D motion representations for short-latency
-  ocular following
-authors:
-- Frédéric V Barthélemy
-- Laurent U Perrinet
-- Eric Castet
-- Guillaume S Masson
-date: '2008-02-01'
-publishDate: '2024-08-06T07:35:48.301570Z'
-publication_types:
-- article-journal
-publication: '*Vision research*'
-doi: 10.1016/j.visres.2007.10.020
 abstract: 'Integrating information is essential to measure the physical 2D motion
   of a surface from both ambiguous local 1D motion of its elongated edges and non-ambiguous
   2D motion of its features such as corners or texture elements. The dynamics of this
@@ -35,12 +22,26 @@ abstract: 'Integrating information is essential to measure the physical 2D motio
   2D probability distributions are computed independently. This two-pathway Bayesian
   model supports the idea that 1D and 2D mechanisms represent edges and features motion
   in parallel.'
+authors:
+- Frederic V Barthélemy
+- Laurent U Perrinet
+- Eric Castet
+- Guillaume S Masson
+date: 2008-02-01
+doi: 10.1016/j.visres.2007.10.020
+featured: false
+grants:
+- facets
+projects: []
+publication: '*Vision research*'
+publication_types:
+- article-journal
 tags:
 - Bayesian model
 - eye movements
 - motion detection
 - motion-clouds
-links:
-- name: URL
-  url: http://dx.doi.org/10.1016/j.visres.2007.10.020
+title: Dynamics of distributed 1D and 2D motion representations for short-latency
+  ocular following
+url_pdf: http://dx.doi.org/10.1016/j.visres.2007.10.020
 ---

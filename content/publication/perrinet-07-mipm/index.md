@@ -1,13 +1,4 @@
 ---
-title: Neural Codes for Adaptive Sparse Representations of Natural Images
-authors:
-- Laurent U Perrinet
-date: '2007-01-01'
-publishDate: '2024-08-06T07:35:49.211667Z'
-publication_types:
-- paper-conference
-publication: '*Mathematical image processing meeting (Marseille, France) September
-  5, 2007*'
 abstract: I will illustrate in this talk how computational neuroscience may inspire
   and be inspired by mathematical image processing. Focusing on efficiently representing
   natural images in the primary visual cortex, we derive an event-based adaptive algorithm
@@ -19,6 +10,17 @@ abstract: I will illustrate in this talk how computational neuroscience may insp
   state-of-the-art neural algorithms for this task, the results of a detailed analysis
   of this Sparse Hebbian Learning algorithm and finally draw a comparison with similar
   strategies.
+authors:
+- Laurent U Perrinet
+date: 2007-01-01
+featured: false
+grants:
+- facets-itn
+publication: '*Mathematical image processing meeting (Marseille, France) September
+  5, 2007*'
+publication_types:
+- 'inproceedings'
 tags:
 - unsupervised learning
+title: Neural Codes for Adaptive Sparse Representations of Natural Images
 ---

@@ -1,14 +1,4 @@
 ---
-title: Ultra-Fast Image Categorization in biology and in neural models
-authors:
-- Jean-Nicolas Jérémie
-- Laurent U Perrinet
-date: '2023-03-21'
-publishDate: '2024-08-06T07:35:48.732645Z'
-publication_types:
-- article-journal
-publication: '*Vision*'
-doi: 10.3390/vision7020029
 abstract: 'Humans are able to robustly categorize images and can, for instance, detect
   the presence of an animal in a briefly flashed image in as little as 120 ms. Initially
   inspired by neuroscience, deep-learning algorithms literally bloomed up in the last
@@ -34,10 +24,41 @@ abstract: 'Humans are able to robustly categorize images and can, for instance, 
   of visual objects. We expect to apply this framework to guide future model-based
   psychophysical experiments and biomimetic deep neuronal architectures designed for
   such tasks.'
+authors:
+- Jean-Nicolas Jeremie
+- Laurent U Perrinet
+categories: []
+date: 2023-03-21
+doi: 10.3390/vision7020029
+draft: false
+featured: false
+grants:
+- aprovis3D
+- anr-anr
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+lastmod: 2022-05-11 09:32:04+02:00
+projects: []
+publication: '*Vision*'
+publication_types:
+- article-journal
+subtitle: ''
 tags:
 - classification
 - deep learning
 - efficient coding
 - psychophysics
 - ultra-fast categorization
+title: Ultra-Fast Image Categorization in biology and in neural models
+url_preprint: http://arxiv.org/abs/2205.03635
 ---
+
+{{< video src="Jeremie-etal-Vision_video-abstract.mp4" controls="yes" >}}
+ * read the paper [online](https://www.mdpi.com/2411-5150/7/2/29) or in [PDF](https://www.mdpi.com/2411-5150/7/2/29/pdf)
+ * [full code](https://github.com/SpikeAI/2022-09_UltraFastCat) with extensive [Supplementary Material](https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.py)
+ * [Video Abstract](https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.mp4) and code for  [Video Abstract](https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.py)
+ * join the [Zotero group](https://www.zotero.org/groups/4560566/ultrafastcat) to add and discuss more items
+* this is a follow-up of: {{< cite page="/publication/jeremie-21-crs" view="4" >}}
+* see an extension perspective to visual search in: {{< cite page="/publication/jeremie-22-areadne" view="4" >}}

@@ -1,20 +1,4 @@
 ---
-title: Suppressive waves disambiguate the representation of long-range apparent motion
-  in awake monkey V1
-authors:
-- Sandrine Chemla
-- Alexandre Reynaud
-- Matteo diVolo
-- Yann Zerlaut
-- Laurent U Perrinet
-- Alain Destexhe
-- Frédéric Y Chavane
-date: '2019-03-18'
-publishDate: '2024-08-06T07:35:48.416084Z'
-publication_types:
-- article-journal
-publication: '*Journal of Neuroscience*'
-doi: 10.1523/JNEUROSCI.2792-18.2019
 abstract: The ``apparent motion'' illusion is evoked when stationary stimuli are successively
   flashed in spatially separated positions. It depends on the precise spatial and
   temporal separations of the stimuli. For large spatiotemporal separation, the long-range
@@ -28,9 +12,39 @@ abstract: The ``apparent motion'' illusion is evoked when stationary stimuli are
   control fed by the horizontal intra-cortical network. Such non-linearities explain
   away ambiguous correspondence problems of the stimulus along the motion path, preformating
   V1 population response for an optimal read-out by downstream areas.
+authors:
+- Sandrine Chemla
+- Alexandre Reynaud
+- Matteo diVolo
+- Yann Zerlaut
+- Laurent U Perrinet
+- Alain Destexhe
+- Frederic Y Chavane
+date: 2019-03-18
+doi: 10.1523/JNEUROSCI.2792-18.2019
+featured: false
+grants:
+- anr-bala-v1
+- anr-trajectory
+projects: []
+publication: '*Journal of Neuroscience*'
+publication_types:
+- article-journal
+summary: Traveling waves have recently been observed in different animal species,
+  brain areas and behavioral states. However, it is still unclear what are their functional
+  roles. In the case of cortical visual processing, waves propagate across retinotopic
+  maps and can hereby generate interactions between spatially and temporally separated
+  instances of feedforward driven activity. Such interactions could participate in
+  processing long-range apparent motion stimuli, an illusion for which no clear neuronal
+  mechanisms have yet been proposed. Using this paradigm in awake monkeys, we show
+  that suppressive traveling waves produce to a spatio-temporal normalization of apparent
+  motion stimuli. Our study suggests that cortical waves shape the representation
+  of illusory moving stimulus within retinotopic maps for an straightforward read-out
+  by downstream areas.
 tags:
 - area-v1
-links:
-- name: URL
-  url: https://www.jneurosci.org/content/39/22/4282
+title: Suppressive waves disambiguate the representation of long-range apparent motion
+  in awake monkey V1
+url_pdf: https://www.jneurosci.org/content/39/22/4282
+url_preprint: https://hal.science/hal-02190752
 ---

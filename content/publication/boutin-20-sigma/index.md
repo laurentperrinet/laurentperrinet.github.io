@@ -1,17 +1,4 @@
 ---
-title: Sparse Deep Predictive Coding captures contour integration capabilities of
-  the early visual system
-authors:
-- Victor Boutin
-- Angelo Franciosini
-- Frédéric Y Chavane
-- Franck Ruffier
-- Laurent U Perrinet
-date: '2019-03-03'
-publishDate: '2024-08-06T07:35:48.336636Z'
-publication_types:
-- paper-conference
-publication: "*SIGMA'2020 (Signal, Image, Geometry, Modelling, Approximation)*"
 abstract: Both neurophysiological and psychophysical experiments have pointed out
   the crucial role of recurrent and feedback connections to process context-dependent
   information in the early visual cortex. While numerous models have accounted for
@@ -34,10 +21,31 @@ abstract: Both neurophysiological and psychophysical experiments have pointed ou
   are able to overcome noise in input images. Therefore, the SDPC captures the association
   field principle at the neural level which results in better disambiguation of blurred
   images at the representational level.
+authors:
+- Victor Boutin
+- Angelo Franciosini
+- Frederic Y Chavane
+- Franck Ruffier
+- Laurent U Perrinet
+date: 2019-03-03
+featured: false
+grants:
+- doc-2-amu
+- phd-icn
+- mesocentre
+projects: []
+publication: '*SIGMA''2020 (Signal, Image, Geometry, Modelling, Approximation)*'
+publication_types:
+- 'inproceedings'
 tags:
 - deep-learning
 - sparse coding
-links:
-- name: URL
-  url: https://conferences.cirm-math.fr/2152.html
+title: Sparse Deep Predictive Coding captures contour integration capabilities of
+  the early visual system
+url_pdf: https://conferences.cirm-math.fr/2152.html
+url_preprint: https://arxiv.org/abs/1902.07651
 ---
+
+ * presented during this [talk]({{< ref "/talk/2019-03-25-hdr-robin-baures/index.md" >}})
+ * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
+ * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

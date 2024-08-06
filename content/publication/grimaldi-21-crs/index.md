@@ -1,16 +1,4 @@
 ---
-title: From event-based computations to a bio-plausible Spiking Neural Network
-authors:
-- Antoine Grimaldi
-- Victor Boutin
-- Sio-Hoi Ieng
-- Ryad Benosman
-- Laurent U Perrinet
-date: '2021-10-14'
-publishDate: '2024-08-06T07:35:48.648389Z'
-publication_types:
-- paper-conference
-publication: '*Champalimaud Research Symposium (CRS21)*'
 abstract: 'We propose a neuromimetic online classifier for always-on digit recognition.
   To achieve this, we extend an existing event-based algorithm which introduced novel
   spatio-temporal features: time surfaces. Built from asynchronous events acquired
@@ -30,13 +18,40 @@ abstract: 'We propose a neuromimetic online classifier for always-on digit recog
   the study of this architecture for natural scenes and hope to offer insights on
   the efficiency of neural computations, and in particular how mechanisms of decision-making
   may be formed.'
+authors:
+- Antoine Grimaldi
+- Victor Boutin
+- Sio-Hoi Ieng
+- Ryad Benosman
+- Laurent U Perrinet
+categories: []
+date: 2021-10-14
+draft: false
+featured: false
+grants:
+- aprovis3D
+- anr-anr
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+lastmod: 2021-10-12 12:44:34+02:00
+projects: []
+publication: '*Champalimaud Research Symposium (CRS21)*'
+publication_types:
+- 'inproceedings'
+subtitle: ''
 tags:
 - efficient coding
 - event-based vision
 - homeostasis
 - neuromorphic hardware
 - online classification
-links:
-- name: URL
-  url: https://symposium.fchampalimaud.science/Poster-sessions
+title: From event-based computations to a bio-plausible Spiking Neural Network
+url_pdf: https://symposium.fchampalimaud.science/Poster-sessions
+url_video: https://www.youtube.com/watch?v=aIt5OAleMR8
 ---
+
+{{< youtube aIt5OAleMR8 >}}
+* this proceedings paper follows up the poster presented at CBMI : {{< cite page="/publication/grimaldi-21-cbmi" view="4" >}}
+* read the follow-up paper : {{< cite page="/publication/grimaldi-23" view="4" >}}

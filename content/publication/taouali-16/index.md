@@ -1,17 +1,4 @@
 ---
-title: Testing the odds of inherent vs. observed overdispersion in neural spike counts
-authors:
-- Wahiba Taouali
-- Giacomo Benvenuti
-- Pascal Wallisch
-- Frédéric Y Chavane
-- Laurent U Perrinet
-date: '2016-01-22'
-publishDate: '2024-08-06T07:35:49.581943Z'
-publication_types:
-- article-journal
-publication: '*Journal of Neurophysiology*'
-doi: 10.1152/jn.00194.2015
 abstract: 'The repeated presentation of an identical visual stimulus in the receptive
   field of a neuron may evoke different spiking patterns at each trial. Probabilistic
   methods are essential to understand the functional role of this variance within
@@ -32,10 +19,26 @@ abstract: 'The repeated presentation of an identical visual stimulus in the rece
   pathway. Finally, we compare the performance of this model to the Poisson model
   on a population decoding task. We show that the decoding accuracy is improved when
   accounting for over-dispersion, especially under the hypothesis of tuned over-dispersion. '
+authors:
+- Wahiba Taouali
+- Giacomo Benvenuti
+- Pascal Wallisch
+- Frederic Y Chavane
+- Laurent U Perrinet
+date: 2016-01-22
+doi: 10.1152/jn.00194.2015
+featured: false
+grants:
+- anr-bala-v1
+- brain-scales
+projects: []
+publication: '*Journal of Neurophysiology*'
+publication_types:
+- article-journal
 tags:
 - coding decoding
 - spike
-links:
-- name: URL
-  url: http://www.ncbi.nlm.nih.gov/pubmed/26445864
+title: Testing the odds of inherent vs. observed overdispersion in neural spike counts
+url_pdf: http://www.ncbi.nlm.nih.gov/pubmed/26445864
+url_preprint: https://hal-amu.archives-ouvertes.fr/hal-01396311
 ---

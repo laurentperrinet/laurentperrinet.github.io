@@ -1,15 +1,4 @@
 ---
-title: Motion-based prediction explains the role of tracking in motion extrapolation
-authors:
-- Mina A Khoei
-- Guillaume S Masson
-- Laurent U Perrinet
-date: '2013-11-01'
-publishDate: '2024-08-06T07:35:48.774566Z'
-publication_types:
-- article-journal
-publication: '*Journal of Physiology-Paris*'
-doi: 10.1016/j.jphysparis.2013.08.001
 abstract: During normal viewing, the continuous stream of visual input is regularly
   interrupted, for instance by blinks of the eye. Despite these frequents blanks (that
   is the transient absence of a raw sensory source), the visual system is most often
@@ -38,10 +27,28 @@ abstract: During normal viewing, the continuous stream of visual input is regula
   of relatively high levels of noise. Moreover, we found that tracking is necessary
   for motion extrapolation, this calls for further experimental work exploring the
   role of noise in motion extrapolation.
+authors:
+- Mina A Khoei
+- Guillaume S Masson
+- Laurent U Perrinet
+date: 2013-11-01
+doi: 10.1016/j.jphysparis.2013.08.001
+featured: false
+grants:
+- facets-itn
+projects: []
+publication: '*Journal of Physiology-Paris*'
+publication_types:
+- article-journal
 tags:
 - motion detection
 - motion prediction
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/khoei-13-jpp/
+title: Motion-based prediction explains the role of tracking in motion extrapolation
+url_pdf: https://laurentperrinet.github.io/publication/khoei-13-jpp/
 ---
+
+* Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}
+* see  follow-up on the flash-lag effect: {{< cite page="/publication/khoei-masson-perrinet-17" view="4" >}}
+* Based on [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})
+* See a followup in [Khoei et al, 2017]({{< ref "/publication/khoei-masson-perrinet-17" >}})
+{{< figure src="figure1.jpg" title="Figure 1: The problem of fragmented trajectories and motion extrapolation. As an object moves in visual space (as represented here for commodity by the red trajectory of a tennis ball in a space–time diagram with a one-dimensional space on the vertical axis), the sensory flux may be interrupted by a sudden and transient blank (as denoted by the vertical, gray area and the dashed trajectory). How can the instantaneous position of the dot be estimated at the time of reappearance? This mechanism is the basis of motion extrapolation and is rooted on the prior knowledge on the coherency of trajectories in natural images. We show below the typical eye velocity profile that is observed during Smooth Pursuit Eye Movements (SPEM) as a prototypical sensory response. It consists of three phases: first, a convergence of the eye velocity toward the physical speed, second, a drop of velocity during the blank and finally, a sudden catch-up of speed at reappearance (Becker and Fuchs, 1985)." >}}
