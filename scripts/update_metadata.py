@@ -18,6 +18,37 @@ import os
 import glob
 
 
+def slugify(s, lower=True):
+    bad_symbols = (".", "_", ":")  # Symbols to replace with hyphen delimiter.
+    delimiter = "-"
+    good_symbols = (delimiter,)  # Symbols to keep.
+    for r in bad_symbols:
+        s = s.replace(r, delimiter)
+
+    s = re.sub(r"(\D+)(\d+)", r"\1\-\2", s)  # Delimit non-number, number.
+    s = re.sub(r"(\d+)(\D+)", r"\1\-\2", s)  # Delimit number, non-number.
+    s = re.sub(r"((?<=[a-z])[A-Z]|(?<!\A)[A-Z](?=[a-z]))", r"\-\1", s)  # Delimit camelcase.
+    s = "".join(c for c in s if c.isalnum() or c in good_symbols).strip()  # Strip non-alphanumeric and non-hyphen.
+    s = re.sub("-{2,}", "-", s)  # Remove consecutive hyphens.
+
+    if lower:
+        s = s.lower()
+    return s
+
+def month2number(month):
+    """Convert BibTeX or BibLateX month to numeric"""
+    from academic.cli import log
+
+    if len(month) <= 2:  # Assume a 1 or 2 digit numeric month has been given.
+        return month.zfill(2)
+    else:  # Assume a textual month has been given.
+        month_abbr = month.strip()[:3].title()
+        try:
+            return str(list(calendar.month_abbr).index(month_abbr)).zfill(2)
+        except ValueError:
+            log.error("Please update the entry with a valid month.")
+
+
 def getDateTimeFromISO8601String(s, full=False):
     d = dateutil.parser.parse(s)
     if not full:
@@ -53,8 +84,6 @@ def import_bibtex(
             keys.append(entry['ID'])
 
     # 2- making a dictionary to slugify
-    from academic.import_bibtex import slugify, month2number
-
     dico = {}
     for key in keys:
         dico[slugify(key)] = key
