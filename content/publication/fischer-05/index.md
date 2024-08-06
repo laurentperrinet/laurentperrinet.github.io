@@ -34,7 +34,7 @@ grants:
 - facets
 publication: '*Perception*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - Biologically Inspired Computer vision
 - matching pursuit

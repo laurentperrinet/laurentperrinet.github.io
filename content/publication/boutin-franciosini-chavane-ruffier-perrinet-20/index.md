@@ -24,7 +24,7 @@ abstract: Both neurophysiological and psychophysical experiments have pointed ou
 authors:
 - Victor Boutin
 - Angelo Franciosini
-- Frederic Y Chavane
+- Frédéric Y Chavane
 - Franck Ruffier
 - Laurent U Perrinet
 date: 2021-01-26

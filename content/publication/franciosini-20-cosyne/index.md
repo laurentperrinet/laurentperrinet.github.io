@@ -64,7 +64,7 @@ grants:
 projects: []
 publication: '*Computational and Systems Neuroscience (Cosyne) 2020*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - deep-learning
 - sparse coding

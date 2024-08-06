@@ -16,7 +16,7 @@ abstract: Convolutional Neural Networks have been considered the go-to option fo
 authors:
 - Ghassan Dabane
 - Laurent U Perrinet
-- Emmanuel Dauce
+- Emmanuel Daucé
 categories: []
 date: 2022-01-01
 doi: 10.36227/techrxiv.16550391
@@ -32,7 +32,7 @@ lastmod: 2022-05-11 12:51:44+02:00
 projects: []
 publication: '*IJCNN 2022 : International Joint Conference on Neural Networks*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 subtitle: ''
 tags: []
 title: 'What You See Is What You Transform: Foveated Spatial Transformers as a Bio-Inspired

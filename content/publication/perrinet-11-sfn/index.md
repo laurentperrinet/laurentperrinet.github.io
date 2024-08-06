@@ -53,7 +53,7 @@ grants:
 projects: []
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - motion-clouds
 title: 'Edge statistics in natural images versus laboratory animal environments: implications

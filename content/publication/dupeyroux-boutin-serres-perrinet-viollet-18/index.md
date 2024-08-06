@@ -13,7 +13,7 @@ authors:
 - Victor Boutin
 - Julien R Serres
 - Laurent U Perrinet
-- Stephane Viollet
+- Stéphane Viollet
 date: 2018-01-01
 featured: false
 grants:
@@ -21,7 +21,7 @@ grants:
 projects: []
 publication: '*ISCAS2018, IEEE International Symposium on Circuits and Systems*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - Biologically Inspired Computer vision
 title: 'M2APix: a bio-inspired auto-adaptive visual sensor for robust ground height

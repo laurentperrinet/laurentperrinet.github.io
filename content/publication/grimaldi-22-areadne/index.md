@@ -34,7 +34,7 @@ links:
 projects: []
 publication: '*Proceedings of AREADNE*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 publishDate: '2022-06-16T11:51:41.890310Z'
 slides: 2022-07-01_grimaldi-22-areadne
 subtitle: ''

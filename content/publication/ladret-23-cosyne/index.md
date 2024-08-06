@@ -27,7 +27,7 @@ authors:
 - Hugo Ladret
 - Nelson Cortes
 - Lamyae Ikan
-- Frederic Chavane
+- Frédéric Chavane
 - Christian Casanova
 - Laurent U Perrinet
 categories: []
@@ -42,7 +42,7 @@ lastmod: 2023-03-13 12:29:25+01:00
 projects: []
 publication: '*Computational and Systems Neuroscience (Cosyne) 2023*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 publishDate: '2023-03-13T11:29:25.141921Z'
 subtitle: ''
 tags:

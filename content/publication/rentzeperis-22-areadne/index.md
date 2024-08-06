@@ -34,7 +34,7 @@ projects:
 - anr-runbinvase
 publication: '*Proceedings of AREADNE*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 publishDate: '2022-06-16T11:51:41.890310Z'
 show_authors_only: false
 subtitle: ''

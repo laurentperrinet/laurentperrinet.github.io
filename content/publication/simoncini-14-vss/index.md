@@ -36,7 +36,7 @@ grants:
 projects: []
 publication: '*Journal of Vision*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - eye movements
 - motion detection

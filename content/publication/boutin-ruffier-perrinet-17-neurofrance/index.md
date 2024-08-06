@@ -36,7 +36,7 @@ projects: []
 publication: '*NeuroFrance 2017, International Conference from the Société des Neurosciences,
   Bordeaux, France*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - deep-learning
 - sparse coding

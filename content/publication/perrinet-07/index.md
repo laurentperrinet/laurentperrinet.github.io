@@ -32,7 +32,7 @@ grants:
 publication: '*Topics in Dynamical Neural Networks: From Large Scale Neural Networks
   to Motor Control and Vision*'
 publication_types:
-- 'inbook'
+- inbook
 tags:
 - Bayesian model
 - center-surround interactions

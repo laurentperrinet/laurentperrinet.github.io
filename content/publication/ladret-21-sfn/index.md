@@ -15,7 +15,7 @@ authors:
 - Hugo Ladret
 - Nelson Cortes
 - Lamyae Ikan
-- Frederic Y Chavane
+- Frédéric Y Chavane
 - Christian Casanova
 - Laurent U Perrinet
 categories: []
@@ -32,7 +32,7 @@ lastmod: 2021-11-08 10:31:18+01:00
 projects: []
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 subtitle: ''
 tags:
 - area-v1
@@ -42,5 +42,4 @@ url_pdf: https://www.abstractsonline.com/pp8/#!/10485/presentation/22078
 
 {{< tweet user="laurentperrinet" id="1457644824723705856" >}}
 {{< youtube Hy2UlLDkPyU >}}
-
 * This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}

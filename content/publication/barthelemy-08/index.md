@@ -23,7 +23,7 @@ abstract: 'Integrating information is essential to measure the physical 2D motio
   model supports the idea that 1D and 2D mechanisms represent edges and features motion
   in parallel.'
 authors:
-- Frederic V Barthélemy
+- Frédéric V Barthélemy
 - Laurent U Perrinet
 - Eric Castet
 - Guillaume S Masson

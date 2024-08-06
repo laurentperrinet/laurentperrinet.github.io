@@ -33,7 +33,7 @@ grants:
 - facets-itn
 publication: '*Journal of Vision*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - Bayesian model
 title: 'Visual tracking of ambiguous moving objects: A recursive Bayesian model'

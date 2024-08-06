@@ -24,7 +24,7 @@ grants:
 - brain-scales
 publication: '*Biologically Inspired Computer Vision*'
 publication_types:
-- 'inbook'
+- inbook
 tags:
 - Biologically Inspired Computer vision
 - sparse coding

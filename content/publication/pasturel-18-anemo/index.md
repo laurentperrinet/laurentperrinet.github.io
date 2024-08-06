@@ -1,6 +1,6 @@
 ---
 authors:
-- Chloe Pasturel
+- Chloé Pasturel
 - Anna Montagnini
 - Laurent U Perrinet
 date: 2018-01-01
@@ -12,7 +12,7 @@ projects:
 publication: '*Grenoble Workshop on Models and Analysis of Eye Movements, Grenoble,
   France*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - motion anticipation
 title: 'ANEMO: Quantitative tools for the ANalysis of Eye MOvements'

@@ -1,6 +1,6 @@
 ---
 authors:
-- Emmanuel Dauce
+- Emmanuel Daucé
 - Laurent U Perrinet
 date: 2020-12-17
 doi: 10.1007/978-3-030-64919-7_17
@@ -16,7 +16,7 @@ lastmod: 2020-12-21 12:51:20+01:00
 projects: []
 publication: '*IWAI 2020*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 subtitle: ''
 tags:
 - Active Inference

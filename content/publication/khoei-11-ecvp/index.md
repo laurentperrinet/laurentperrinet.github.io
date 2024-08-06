@@ -13,7 +13,7 @@ grants:
 projects: []
 publication: '*Perception*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - bayesian model
 - motion prediction

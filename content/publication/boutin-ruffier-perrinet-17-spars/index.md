@@ -35,7 +35,7 @@ grants:
 projects: []
 publication: '*SPARS2017, Lisbon*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - deep-learning
 - sparse coding

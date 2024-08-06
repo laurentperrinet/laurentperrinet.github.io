@@ -36,7 +36,7 @@ grants:
 projects: []
 publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - lateral connections
 title: Dynamics of cortical networks including long-range patchy connections

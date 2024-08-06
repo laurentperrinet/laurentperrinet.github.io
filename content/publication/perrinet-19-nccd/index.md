@@ -34,7 +34,7 @@ abstract: 'When objects are in motion, the local orientation of their contours a
 authors:
 - Wahiba Taouali
 - Giacomo Benvenuti
-- Frederic Y Chavane
+- Frédéric Y Chavane
 - Laurent U Perrinet
 date: 2019-09-23
 featured: false
@@ -43,7 +43,7 @@ grants:
 projects: []
 publication: '*Proceedings of NCCD, Capbreton*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - coding decoding
 title: A dynamic model for decoding direction and orientation in macaque primary visual

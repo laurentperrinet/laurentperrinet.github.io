@@ -12,7 +12,7 @@ grants:
 projects: []
 publication: '*Annual Computational Neuroscience Meeting: CNS*2019, Barcelona*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - deep-learning
 - sparse coding

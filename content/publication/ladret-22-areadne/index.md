@@ -33,7 +33,7 @@ links:
 projects: []
 publication: '*Proceedings of AREADNE*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 publishDate: '2022-06-16T11:51:41.890310Z'
 subtitle: ''
 tags: []
@@ -42,7 +42,5 @@ url_pdf: https://areadne.org/
 ---
 
 {{< tweet user="laurentperrinet" id="1542724828658016256" >}}
-
 * for a follow-up, check out  {{< cite page="/publication/ladret-22-fens" view="4" >}}
-
 * This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}

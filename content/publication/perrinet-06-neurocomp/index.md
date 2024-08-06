@@ -16,7 +16,7 @@ abstract: The quality of the representation of an object's motion is limited by 
   1D and 2D motion information.
 authors:
 - Laurent U Perrinet
-- Frederic V Barthélemy
+- Frédéric V Barthélemy
 - Guillaume S Masson
 date: 2006-01-01
 featured: false
@@ -25,7 +25,7 @@ grants:
 projects: []
 publication: '*1ère conférence francophone NEUROsciences COMPutationnelles - NeuroComp*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - aperture problem
 - Bayesian model

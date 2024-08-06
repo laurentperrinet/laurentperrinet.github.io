@@ -34,7 +34,7 @@ grants:
 projects: []
 publication: '*Journal of Vision*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - association field
 - Biologically Inspired Computer vision

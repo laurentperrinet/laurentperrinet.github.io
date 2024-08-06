@@ -37,7 +37,7 @@ projects:
 - open-science
 publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - pynn
 title: 'NeuralEnsemble: Towards a meta-environment for network modeling and data analysis'

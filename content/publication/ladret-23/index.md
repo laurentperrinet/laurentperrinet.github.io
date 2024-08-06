@@ -15,7 +15,7 @@ authors:
 - Hugo Ladret
 - Nelson Cortes
 - Lamyae Ikan
-- Frederic Chavane
+- Frédéric Chavane
 - Christian Casanova
 - Laurent U Perrinet
 date: 2023-06-06
@@ -35,12 +35,12 @@ tags:
 - precision
 - predictive coding
 - V1
-title: Cortical recurrence supports resilience to sensory variance in the primary visual cortex
-url_journal: https://www.nature.com/articles/s42003-023-05042-3
-url_pdf: https://laurentperrinet.github.io/publication/ladret-23/
+title: Cortical recurrence supports resilience to sensory variance in the primary
+  visual cortex
 url_code: https://github.com/hugoladret/variance-processing-V1
 url_dataset: https://figshare.com/articles/dataset/Data_for_Ladret_et_al_2023_Cortical_recurrence_supports_resilience_to_sensory_variance_in_the_primary_visual_cortex_/23366588
-
+url_journal: https://www.nature.com/articles/s42003-023-05042-3
+url_pdf: https://laurentperrinet.github.io/publication/ladret-23/
 ---
 
 * open access: https://www.nature.com/articles/s42003-023-05042-3

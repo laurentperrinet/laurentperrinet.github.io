@@ -34,7 +34,7 @@ doi: 10.1167/11.11.749
 featured: false
 publication: '*Journal of Vision*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - eye movements
 - motion detection

@@ -2,7 +2,7 @@
 authors:
 - Victor Boutin
 - Angelo Franciosini
-- Frederic Y Chavane
+- Frédéric Y Chavane
 - Franck Ruffier
 - Laurent U Perrinet
 date: 2019-01-01
@@ -14,7 +14,7 @@ grants:
 projects: []
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - deep-learning
 - sparse coding

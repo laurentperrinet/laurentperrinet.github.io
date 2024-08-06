@@ -2,16 +2,16 @@
 authors:
 - Laurent U Perrinet
 - Jens Kremkow
-- Frederic V Barthélemy
+- Frédéric V Barthélemy
 - Guillaume S Masson
-- Frederic Y Chavane
+- Frédéric Y Chavane
 date: 2006-01-01
 featured: false
 grants:
 - facets
 publication: '*FENS*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - motion detection
 title: 'Input-output transformation in the visuo-oculomotor loop: modeling the ocular

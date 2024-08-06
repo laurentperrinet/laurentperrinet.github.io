@@ -16,7 +16,7 @@ lastmod: 2022-06-08 13:33:46+02:00
 projects: []
 publication: '*Proceedings of the FENS Forum 2022*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 publishDate: '2022-06-16T11:51:41.890310Z'
 subtitle: ''
 tags: []
@@ -26,5 +26,4 @@ url_pdf: https://laurentperrinet.github.io/publication/ladret-22-fens/
 ---
 
 {{< tweet user="laurentperrinet" id="1545743191198121985" >}}
-
 * This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}

@@ -31,7 +31,7 @@ abstract: In human and non-human primates, reflexive tracking eye movements can 
   of the behavioral receptive field underpinning automatic, context-dependent motion
   integration.
 authors:
-- Frederic V Barthélemy
+- Frédéric V Barthélemy
 - Jérome Fleuriet
 - Laurent U Perrinet
 - Guillaume S Masson

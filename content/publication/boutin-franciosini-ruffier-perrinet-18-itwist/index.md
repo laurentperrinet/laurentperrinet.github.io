@@ -27,7 +27,7 @@ grants:
 projects: []
 publication: '*iTwist, 2018*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - deep-learning
 - sparse coding

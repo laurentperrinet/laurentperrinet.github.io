@@ -14,7 +14,7 @@ projects:
 - motion-clouds
 publication: '*European Retina Meeting 2015*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - Retina
 title: Spatiotemporal tuning of retinal ganglion cells dependent on the context of

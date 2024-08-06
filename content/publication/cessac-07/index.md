@@ -1,7 +1,7 @@
 ---
 authors:
 - Bruno Cessac
-- Emmanuel Dauce
+- Emmanuel Daucé
 - Laurent U Perrinet
 - Manuel Samuelides
 date: 2007-03-01
@@ -11,7 +11,7 @@ grants:
 publication: '*Topics in Dynamical Neural Networks: From Large Scale Neural Networks
   to Motor Control and Vision*'
 publication_types:
-- 'book'
+- book
 tags:
 - computational neuroscience
 title: 'Topics in Dynamical Neural Networks: From Large Scale Neural Networks to Motor

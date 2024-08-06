@@ -28,7 +28,7 @@ abstract: Humans are able to accurately track a moving object with a combination
   new tools based on best*fitting procedure of predefined patterns (i.e. the typical
   smooth pursuit velocity profile).
 authors:
-- Chloe Pasturel
+- Chloé Pasturel
 - Anna Montagnini
 - Laurent U Perrinet
 date: 2020-01-26

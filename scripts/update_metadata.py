@@ -11,8 +11,9 @@ from bibtexparser.bparser import BibTexParser
 from bibtexparser.bwriter import BibTexWriter
 from bibtexparser.customization import convert_to_unicode
 
-from academic import utils
+from academic.generate_markdown import GenerateMarkdown
 from academic.publication_type import PUB_TYPES_BIBTEX_TO_CSL
+
 import os
 import glob
 
@@ -31,9 +32,21 @@ def import_bibtex(
     # 1- getting all citekeys
     keys = []
     # 1- Load BibTeX file for parsing.
-    with open(bibtex, 'r', encoding='utf-8') as bibtex_file:
+    """Import publications from BibTeX file"""
+    from academic.cli import log
+    from academic.utils import AcademicError
+
+    # Check BibTeX file exists.
+    if not Path(bibtex).is_file():
+        err = "Please check the path to your BibTeX file and re-run"
+        log.error(err)
+        raise AcademicError(err)
+
+    # Load BibTeX file for parsing.
+    with open(bibtex, "r", encoding="utf-8") as bibtex_file:
         parser = BibTexParser(common_strings=True)
         parser.customization = convert_to_unicode
+        parser.ignore_nonstandard_types = False
         bib_database = bibtexparser.load(bibtex_file, parser=parser)
         for entry in bib_database.entries:
             #parse_bibtex_entry(entry, pub_dir=pub_dir, featured=featured, overwrite=overwrite, normalize=normalize)
@@ -148,6 +161,7 @@ def import_bibtex(
 
             if 'doi' in entry:
                 parsed_yaml['doi'] = f'{entry["doi"]}'
+
 
             if type == 'talks':
                 # if 'time_start' in entry:

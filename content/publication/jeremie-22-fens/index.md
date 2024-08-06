@@ -1,7 +1,7 @@
 ---
 authors:
-- Jean-Nicolas Jeremie
-- Emmanuel Dauce
+- Jean-Nicolas Jérémie
+- Emmanuel Daucé
 - Laurent U Perrinet
 categories: []
 date: 2022-07-10
@@ -17,7 +17,7 @@ lastmod: 2022-05-20 13:42:38+02:00
 projects: []
 publication: '*Proceedings of the FENS Forum 2022*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 publishDate: '2022-06-16T11:51:41.890310Z'
 subtitle: ''
 tags:

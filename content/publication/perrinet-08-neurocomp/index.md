@@ -1,14 +1,14 @@
 ---
 authors:
 - Laurent U Perrinet
-- Emmanuel Dauce
+- Emmanuel Daucé
 date: 2008-10-01
 featured: false
 grants:
 - facets-itn
 publication: '*Proceedings of NeuroComp08, Marseille*'
 publication_types:
-- 'book'
+- book
 tags:
 - computational neuroscience
 title: Proceedings of the second french conference on Computational Neuroscience,

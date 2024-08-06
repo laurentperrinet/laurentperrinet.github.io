@@ -24,7 +24,7 @@ abstract: Both neurophysiological and psychophysical experiments have pointed ou
 authors:
 - Victor Boutin
 - Angelo Franciosini
-- Frederic Y Chavane
+- Frédéric Y Chavane
 - Franck Ruffier
 - Laurent U Perrinet
 date: 2019-03-03
@@ -36,7 +36,7 @@ grants:
 projects: []
 publication: '*SIGMA''2020 (Signal, Image, Geometry, Modelling, Approximation)*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - deep-learning
 - sparse coding

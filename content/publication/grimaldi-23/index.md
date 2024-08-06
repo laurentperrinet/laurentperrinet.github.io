@@ -52,9 +52,8 @@ tags:
 - neuromorphic hardware
 - online classification
 title: A Robust Event-Driven Approach to Always-on Object Recognition
+url_pdf: https://laurentperrinet.github.io/publication/grimaldi-23/
 ---
 
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23/hots.png" title="The HOTS architecture." width="100%" >}}
-
-
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23/gesture_online.png" title="Preformance of the algorithm on the DVSgesture dataset. For this gesture recognition task, the online HOTS accuracy remains close to the chance level for about 100 events. More evidence needs to be accumulated, and then the accuracy increases monotonically, outperforming the previous method after about 10.000 events (at an average of 9.3% of the number of events in the sample)." width="90%" >}}

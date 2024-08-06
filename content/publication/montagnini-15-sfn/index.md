@@ -11,7 +11,7 @@ grants:
 projects: []
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - Bayesian model
 title: 'Anticipating a moving target: role of vision and reinforcement'

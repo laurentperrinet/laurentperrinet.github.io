@@ -25,7 +25,7 @@ abstract: 'The integration of information is essential to measure the exact 2D m
   following and neuro-physiological data.'
 authors:
 - Laurent U Perrinet
-- Frederic V Barthélemy
+- Frédéric V Barthélemy
 - Eric Castet
 - Guillaume S Masson
 date: 2005-01-01
@@ -34,7 +34,7 @@ grants:
 - facets
 publication: '*Perception*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - Bayesian model
 - motion detection

@@ -24,7 +24,7 @@ grants:
 projects: []
 publication: '*GdR Robotics - 2019-06-05*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - deep-learning
 - sparse coding

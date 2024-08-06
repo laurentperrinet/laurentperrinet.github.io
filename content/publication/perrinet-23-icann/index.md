@@ -19,6 +19,7 @@ authors:
 - Laurent U Perrinet
 categories: []
 date: 2023-09-27
+doi: 10.1007/978-3-031-44207-0_31
 draft: false
 featured: false
 grants:
@@ -32,29 +33,26 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-23-icann/
 - name: GitHub
-  url: 	https://github.com/laurentperrinet/2023-09-27_HDSNN-ICANN
+  url: https://github.com/laurentperrinet/2023-09-27_HDSNN-ICANN
 - name: DOI
-  url: 	https://doi.org/10.1007/978-3-031-44207-0_31
+  url: https://doi.org/10.1007/978-3-031-44207-0_31
 - name: arXiv
   url: https://arxiv.org/abs/2307.11555
-
 projects: []
 publication: '*ICANN Special Session on Recent Advances in Spiking Neural Networks*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 publishDate: '2023-07-21T11:12:04.721342Z'
+slides: 2023-09-27_icann
 subtitle: ''
 tags: []
-title: Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a Spiking Neural Network
-
-slides: "2023-09-27_icann"
-
+title: Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a
+  Spiking Neural Network
+url_code: https://github.com/laurentperrinet/2023-09-27_HDSNN-ICANN
+url_pdf: https://laurentperrinet.github.io/publication/perrinet-23-icann/
 ---
 
 * paper presented during the [32nd International Conference on Artificial Neural Networks (ICANN 2023)](https://e-nns.org/icann2023/)
-
 * Will be presented at the [special session on Recent Advances in Spiking Neural Networks at this year's ICANN 2023 conference](https://e-nns.org/icann2023/wp-content/uploads/sites/7/2023/04/ICANN2023-ASNN-CfP.pdf)
-
 * This theoretical implements the objectives set up in this review: {{< cite page="/publication/grimaldi-22-polychronies" view="4" >}}
-
 * The code is available on [GitHub](https://github.com/laurentperrinet/2023-09-27_HDSNN-ICANN)

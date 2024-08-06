@@ -12,7 +12,7 @@ grants:
 projects: []
 publication: '*Vision Science Society*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - eye movements
 - motion detection

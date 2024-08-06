@@ -8,7 +8,7 @@ grants:
 projects: []
 publication: '*Proceedings of COSYNE*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - Bayesian model
 - coding decoding

@@ -45,7 +45,7 @@ grants:
 projects: []
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - feed-forward_inhibition
 - large-scale_networks

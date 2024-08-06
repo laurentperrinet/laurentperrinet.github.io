@@ -23,7 +23,7 @@ authors:
 - Wahiba Taouali
 - Giacomo Benvenuti
 - Pascal Wallisch
-- Frederic Y Chavane
+- Frédéric Y Chavane
 - Laurent U Perrinet
 date: 2015-01-01
 featured: false
@@ -33,7 +33,7 @@ grants:
 projects: []
 publication: '*ICMNS 2015 conference*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - coding decoding
 title: On overdispersion in neuronal evoked activity

@@ -1,6 +1,6 @@
 ---
 authors:
-- Chloe Pasturel
+- Chloé Pasturel
 - Jean-Bernard Damasse
 - Anna Montagnini
 - Laurent U Perrinet
@@ -11,7 +11,7 @@ grants:
 projects: []
 publication: '*GDR Vision, Lille, 2017*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - Bayesian model
 - motion detection

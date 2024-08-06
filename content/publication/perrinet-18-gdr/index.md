@@ -24,7 +24,7 @@ grants:
 projects: []
 publication: '*GDR Vision, Paris, 2018*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - deep-learning
 - motion anticipation

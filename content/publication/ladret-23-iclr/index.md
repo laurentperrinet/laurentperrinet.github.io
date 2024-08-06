@@ -26,7 +26,7 @@ lastmod: 2023-04-07 12:45:44+02:00
 projects: []
 publication: '*ICLR 2023 SNN Workshop*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 publishDate: '2023-04-07T10:45:44.753196Z'
 subtitle: ''
 tags:
@@ -48,5 +48,4 @@ Sparsity in Neural Networks](https://www.sparseneural.net/accepted-papers):
 * In a nutshell: We found that sparse coding of images (here extended in a convolutional framework) is improved when using kernels with heterogeneous precision in how they encode orientation information. This was confirmed by learning, but also by comparison with what is observed in the statistics of natural images and in our recordings from neurons in primary visual cortex.
 {{< figure src="fig_dicos.png" title="Epistemic uncertainty in a CSC dictionary improves both sparseness and reconstruction performance. **(a)** Elements from dictionaries with fixed epistemic uncertainty before (green) and after dictionary learning (orange). **(b)** Elements from a dictionary with heterogeneous epistemic uncertainty before (blue) and after dictionary learning (purple). **(c)** Elements from a dictionary learned from scratch. **(d)** Distribution of the sparseness (top) and Peak Signal-to-Noise Ratio (PSNR, right) of the five dictionaries, shown as a scatter plot for each of the 600 images of the dataset (center). Median values are shown as dashed line on the histograms." numbered="true" >}}
 * This theoretical work accompanies a similar study in neurophysiology: {{< cite page="/publication/ladret-23" view="4" >}}
-
 * This work was extended in {{< cite page="/publication/ladret-24-sparse" view="4" >}}

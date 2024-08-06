@@ -28,7 +28,7 @@ abstract: A key property of the neurons in the primary visual cortex (V1) is the
 authors:
 - Hugo Ladret
 - Nelson Cortes
-- Frederic Y Chavane
+- Frédéric Y Chavane
 - Laurent U Perrinet
 - Christian Casanova
 date: 2019-01-01
@@ -38,7 +38,7 @@ grants:
 projects: []
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - area-v1
 title: Orientation selectivity to synthetic natural patterns in a cortical-like model
@@ -47,5 +47,4 @@ url_pdf: https://www.abstractsonline.com/pp8/#!/7883/presentation/65859
 ---
 
 {{< tweet user="laurentperrinet" id="1186513282326257665" >}}
-
 * See a followup in [Ladret and Perrinet, 2020]({{< ref "/publication/ladret-20-aes" >}})

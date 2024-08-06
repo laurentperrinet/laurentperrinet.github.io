@@ -17,9 +17,9 @@ abstract: Why do neurons communicate through spikes? By definition, spikes are a
   role in our understanding of the efficiency of neural networks.
 authors:
 - Antoine Grimaldi
-- Amelie Gruel
+- Amélie Gruel
 - Camille Besnainou
-- Jean-Nicolas Jeremie
+- Jean-Nicolas Jérémie
 - Jean Martinet
 - Laurent U Perrinet
 date: 2022-12-23
@@ -30,9 +30,6 @@ grants:
 - aprovis3D
 - anr-anr
 - polychronies
-publication_types:
-- article-journal
-title: Precise spiking motifs in neurobiological and neuromorphic data
 links:
 - name: HAL
   url: https://hal.science/hal-03918338
@@ -42,6 +39,10 @@ links:
   url: https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/
 - name: arXiv
   url: https://arxiv.org/abs/2404.07866
+publication_types:
+- article-journal
+title: Precise spiking motifs in neurobiological and neuromorphic data
+url_pdf: https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/
 ---
 
 {{< video src="2022-12-23_polychrony-review_video-abstract.mp4" controls="yes" >}}

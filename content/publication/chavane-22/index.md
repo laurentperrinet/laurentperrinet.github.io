@@ -18,7 +18,7 @@ abstract: 'Horizontal connections in the primary visual cortex of carnivores, un
   in interactions between the orientation and retinotopic domains, that we argue is
   necessary to process non-trivial stimuli in a task-dependent manner.'
 authors:
-- Frederic Chavane
+- Frédéric Chavane
 - Laurent U Perrinet
 - James Rankin
 date: 2022-02-05

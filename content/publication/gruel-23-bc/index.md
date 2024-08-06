@@ -1,6 +1,6 @@
 ---
 authors:
-- Amelie Gruel
+- Amélie Gruel
 - Dalia Hareb
 - Antoine Grimaldi
 - Jean Martinet

@@ -8,7 +8,7 @@ grants:
 - facets
 publication: '*International Conference on Artificial Neural Networks*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - spike
 title: Efficient Source Detection Using Integrate-and-Fire Neurons

@@ -39,7 +39,7 @@ lastmod: 2021-10-12 12:44:34+02:00
 projects: []
 publication: '*Champalimaud Research Symposium (CRS21)*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 subtitle: ''
 tags:
 - efficient coding

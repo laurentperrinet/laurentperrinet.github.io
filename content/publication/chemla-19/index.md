@@ -19,7 +19,7 @@ authors:
 - Yann Zerlaut
 - Laurent U Perrinet
 - Alain Destexhe
-- Frederic Y Chavane
+- Frédéric Y Chavane
 date: 2019-03-18
 doi: 10.1523/JNEUROSCI.2792-18.2019
 featured: false

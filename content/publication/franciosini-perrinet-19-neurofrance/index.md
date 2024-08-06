@@ -39,7 +39,7 @@ projects: []
 publication: '*NeuroFrance 2019, International Conference from the Société des Neurosciences,
   Marseille, France*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - deep-learning
 - sparse coding

@@ -41,7 +41,7 @@ abstract: 'Natural scenes generally contain objects in motion. The local orienta
 authors:
 - Wahiba Taouali
 - Giacomo Benvenuti
-- Frederic Y Chavane
+- Frédéric Y Chavane
 - Laurent U Perrinet
 date: 2016-01-01
 doi: 10.1167/15.12.484
@@ -52,7 +52,7 @@ grants:
 projects: []
 publication: '*Proceedings of VSS*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - coding decoding
 title: A dynamic model for decoding direction and orientation in macaque primary visual

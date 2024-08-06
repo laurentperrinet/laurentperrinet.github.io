@@ -2,7 +2,7 @@
 authors:
 - Mina A Khoei
 - Giacomo Benvenuti
-- Frederic Y Chavane
+- Frédéric Y Chavane
 - Laurent U Perrinet
 date: 2013-01-01
 doi: 10.1186/1471-2202-14-S1-P314
@@ -12,7 +12,7 @@ grants:
 projects: []
 publication: '*Annual Computational Neuroscience Meeting: CNS*2013, Paris*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - Bayesian model
 - motion detection

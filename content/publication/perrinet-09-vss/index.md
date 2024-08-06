@@ -23,7 +23,7 @@ abstract: 'Short presentation of a large moving pattern elicits an ocular follow
 authors:
 - Laurent U Perrinet
 - Alexandre Reynaud
-- Frederic Y Chavane
+- Frédéric Y Chavane
 - Guillaume S Masson
 date: 2009-01-01
 featured: false
@@ -32,7 +32,7 @@ grants:
 projects: []
 publication: '*Vision Science Society*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - motion detection
 title: Inferring monkey ocular following responses from V1 population dynamics using

@@ -12,7 +12,7 @@ grants:
 projects: []
 publication: '*Proceedings of COSYNE*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - statistics of natural images
 title: Relationship between natural image statistics and lateral connectivity in the

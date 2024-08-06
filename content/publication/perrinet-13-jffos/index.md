@@ -27,7 +27,7 @@ grants:
 projects: []
 publication: '*The 7th Japanese-French Frontiers of Science Symposium*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - active inference
 title: Active inference, eye movements and oculomotor delays

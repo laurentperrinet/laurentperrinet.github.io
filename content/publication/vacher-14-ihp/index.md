@@ -13,7 +13,7 @@ grants:
 projects: []
 publication: '*IHP workshop*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - motion-clouds
 - psychophysics

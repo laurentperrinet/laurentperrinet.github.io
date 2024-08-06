@@ -35,7 +35,7 @@ grants:
 projects: []
 publication: '*The Philosophy and Science of Predictive Processing*'
 publication_types:
-- 'inbook'
+- inbook
 tags:
 - active inference
 - area-v1

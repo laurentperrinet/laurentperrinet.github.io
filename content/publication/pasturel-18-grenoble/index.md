@@ -14,7 +14,7 @@ abstract: Humans are able to accurately track a moving object with a combination
   patterns (i.e. the typical smooth pursuit velocity profile).
 authors:
 - Laurent U Perrinet
-- Chloe Pasturel
+- Chloé Pasturel
 - Anna Montagnini
 date: 2018-01-01
 featured: false
@@ -24,7 +24,7 @@ projects: []
 publication: '*Grenoble Workshop on Models and Analysis of Eye Movements, Grenoble,
   France*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - motion anticipation
 title: Estimating and anticipating a dynamic probabilistic bias in visual motion direction
