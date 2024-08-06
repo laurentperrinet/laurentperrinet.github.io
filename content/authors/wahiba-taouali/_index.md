@@ -29,7 +29,7 @@ user_groups:
 # Motion Integration By V1 Population  (Post-Doc, 2013-03 / 2015-01)
 
 ## Description
-Wahiba hold the postdoctoral position at the ["Institut de Neurosciences de la Timone"](http://www.int.univ-amu.fr/spip.php?rubrique2&lang=en), CNRS, Marseille (France) to study object motion integration and representation at the level of V1 populations:
+Wahiba hold the postdoctoral position at the ["Institut de Neurosciences de la Timone"](http://www.int.univ-amu.fr), CNRS, Marseille (France) to study object motion integration and representation at the level of V1 populations:
  * The objective is in modeling, with Laurent Perrinet, anisotropic diffusive processes, such as observed in V1, at the functional and neural levels.
  * The work was done in collaboration with a post-doc in physiology, with Frederic Chavane, that focused on the role of propagation and diffusion of activity at the level of neuronal population in V1 of awake monkeys (using Voltage-sensitive dye imaging and UTAH array recording).
 

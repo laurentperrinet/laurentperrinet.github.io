@@ -17,7 +17,6 @@ authors:
 - Laurent U Perrinet
 date: 2019-03-25 14:30:00
 event: HDR Robin Baurès, Toulouse (France)
-event_url: http://www.cerco.ups-tlse.fr/Robin-Baures
 grants:
 - anr-horizontal-v1
 links:

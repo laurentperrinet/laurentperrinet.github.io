@@ -28,8 +28,6 @@ Line 1 et 2 (St Charles), a 5 minute walk from the railway station.
   - Map (Amphithéâtre Charve, University Main Entrance, etc.)</a>
 <a href="http://85.31.207.119/SITERTM_WEB/PagesFlash/pdf/PlanReseau.pdf" class="http">
   - Metro, Bus and Tramway</a>
-<a href="http://www.navettemarseilleaeroport.com/indexA.php" class="http">
-  - Getting to Marseille from Airport</a>
 
 Computational Neuroscience emerges now as a major breakthrough in
 exploring cognitive functions. It brings together theoretical tools that
@@ -96,7 +94,7 @@ in hand to design and analyze new cortical imaging methods.
 
 11h00-12h00
 
-*<a href="http://www.crea.polytechnique.fr/JeanPetitot/home.html" class="http">Jean Petitot</a>*
+*Jean Petitot*
 Centre d'Analyse et de Mathématique Sociales, Ecole des Hautes Etudes en
 Sciences Sociales - Paris **«Neurogeometry of visual perception»**
 In relation with experimental data, we propose a geometric model of the
@@ -148,7 +146,7 @@ on questionnaires, as well as with other measures of personality traits.
 
 14h45-15h45
 
-*<a href="http://www.informatik.uni-ulm.de/ni/staff/HNeumann/" class="http">Heiko Neumann</a>* (in
+*Heiko Neumann* (in
 collaboration with Florian Raudies)
 Inst. of Neural Information Processing, Ulm University Germany
 **«Cortical mechanisms of transparent motion perception – a neural
@@ -217,7 +215,7 @@ class="anchor"></span>
 
 9h30-10h00
 
-*<a href="http://brovelli.free.fr/" class="http">Andrea Brovelli</a>*
+* Andrea Brovelli*
 Institut de Neurosciences Cognitives de la Méditerranée, CNRS and
 Université de la Méditerranée - Marseille
 **«An introduction to Motor Learning, Decision-Making and Motor

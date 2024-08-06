@@ -35,7 +35,6 @@ We held a CodeJam 22nd-24th June 2010, in Marseille.
 
 -   <http://neuralensemble.org/meetings/CodeJam4.html>
 
--   <http://neuralensemble.org/meetings/CJ4_Program_v2.pdf>
 -   [FACETS code jam #4](https://facets.kip.uni-heidelberg.de/internal/jss/AttendMeeting?mI=73){.https}
 
 

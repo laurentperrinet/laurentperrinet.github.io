@@ -41,7 +41,7 @@ title: La modélisation biomorphique de la perception visuelle
     pour atteindre une perception unifiée du monde environnant. Elle
     interagit avec lui en créant son propre modèle génératif de sa
     structure physico-mathématique. Avec [Etienne
-    Rey](/LaurentPerrinet/EtienneRey) de l'atelier Ondes Parallèles,
+    Rey](https://laurentperrinet.github.io/author/etienne-rey/) de l'atelier Ondes Parallèles,
     nous avons utilisé lors de plusieurs projets art-science (voir
     <https://github.com/NaturalPatterns>) des installations permettant
     de manipuler explicitement des composantes de ce flux d'information
