@@ -23,6 +23,7 @@ publishDate: '2024-04-05T08:38:46.355166Z'
 subtitle: ''
 tags: []
 title: 'La vision comme processus prédictif: Une approche bio-mimétique'
+url_code: https://github.com/laurentperrinet/2020-01-07_CNRS_concours-DR
 url_pdf: https://laurentperrinet.github.io/publication/perrinet-20-dr/
 url_preprint: https://tel.archives-ouvertes.fr/tel-00002693/file/tel-000026931.pdf
 ---
