@@ -16,6 +16,9 @@ image:
   focal_point: ''
   preview_only: false
 lastmod: 2022-11-17 12:15:57+01:00
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/grimaldi-23-bc/
 projects: []
 publication: '*Biological Cybernetics*'
 publication_types:

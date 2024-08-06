@@ -21,6 +21,11 @@ date: 2018-01-01
 featured: false
 grants:
 - pace-itn
+links:
+- name: Pdf
+  url: https://github.com/laurentperrinet/Perrinet18gdr/raw/master/Perrinet18gdr.pdf
+- name: URL
+  url: https://github.com/laurentperrinet/Perrinet18gdr
 projects: []
 publication: '*GDR Vision, Paris, 2018*'
 publication_types:
@@ -29,7 +34,6 @@ tags:
 - deep-learning
 - motion anticipation
 title: A low-cost, accessible eye tracking framework
-url_pdf: https://github.com/laurentperrinet/Perrinet18gdr
 ---
 
  - poster presented @ [[https://gdrvision2018.sciencesconf.org/|GDR vision, Paris]].

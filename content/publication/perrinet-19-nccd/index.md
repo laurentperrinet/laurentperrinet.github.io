@@ -40,6 +40,9 @@ date: 2019-09-23
 featured: false
 grants:
 - anr-horizontal-v1
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/perrinet-19-nccd
 projects: []
 publication: '*Proceedings of NCCD, Capbreton*'
 publication_types:

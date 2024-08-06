@@ -20,6 +20,9 @@ date: 2018-01-01
 featured: false
 grants:
 - pace-itn
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/pasturel-18-grenoble
 projects: []
 publication: '*Grenoble Workshop on Models and Analysis of Eye Movements, Grenoble,
   France*'

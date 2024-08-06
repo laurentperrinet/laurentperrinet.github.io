@@ -10,6 +10,9 @@ authors:
 - Laurent U Perrinet
 date: 2010-01-01
 featured: false
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/perrinet-10-tauc/
 publication: '*LADISLAV TAUC and GDR MSPC NEUROSCIENCES CONFERENCE, From Mathematical
   Image Analysis to Neurogeometry of the Brain*'
 publication_types:

@@ -8,6 +8,9 @@ featured: false
 grants:
 - facets
 - facets-itn
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/khoei-10-tauc/
 projects: []
 publication: '*Proceedings of Tauc*'
 publication_types:

@@ -31,6 +31,15 @@ grants:
 - spikeai
 - mesocentre
 - aprovis-3-d
+links:
+- name: Pdf
+  url: https://doi.org/10.1101/725879
+- name: Code
+  url: https://github.com/laurentperrinet/WhereIsMyMNIST
+- name: URL
+  url: https://laurentperrinet.github.io/publication/dauce-20/
+- name: bioRxiv
+  url: https://www.biorxiv.org/content/10.1101/725879
 projects: []
 publication: '*Journal of Vision*'
 publication_types:
@@ -43,8 +52,6 @@ tags:
 - Visuomotor control
 title: A dual foveal-peripheral visual processing model implements efficient saccade
   selection
-url_code: https://github.com/laurentperrinet/WhereIsMyMNIST
-url_pdf: https://laurentperrinet.github.io/publication/dauce-20/
 url_preprint: https://www.biorxiv.org/content/10.1101/725879
 ---
 

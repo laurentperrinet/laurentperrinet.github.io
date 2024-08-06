@@ -36,6 +36,15 @@ doi: 10.1371/journal.pcbi.1007438
 featured: true
 grants:
 - pace-itn
+links:
+- name: Pdf
+  url: https://www.biorxiv.org/content/10.1101/784116v3.full.pdf
+- name: Code
+  url: https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020
+- name: URL
+  url: https://hal.science/hal-02394142
+- name: bioRxiv
+  url: https://www.biorxiv.org/content/10.1101/784116
 projects: []
 publication: '*PLoS Computational Biology*'
 publication_types:
@@ -44,9 +53,6 @@ tags:
 - motion anticipation
 title: Humans adapt their anticipatory eye movements to the volatility of visual motion
   properties
-url_code: https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020
-url_pdf: https://hal.archives-ouvertes.fr/hal-02394142
-url_preprint: https://www.biorxiv.org/content/10.1101/784116
 ---
 
 # "Humans adapt their anticipatory eye movements to the volatility of visual motion properties"

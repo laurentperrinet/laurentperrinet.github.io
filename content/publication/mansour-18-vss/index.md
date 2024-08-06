@@ -37,6 +37,9 @@ doi: 10.1167/18.10.345
 featured: false
 grants:
 - anr-speed
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/mansour-18-vss
 publication: '*Journal of Vision, Vol.18, 345, proceedings of VSS*'
 publication_types:
 - inproceedings

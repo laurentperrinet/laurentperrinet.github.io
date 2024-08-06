@@ -31,6 +31,11 @@ featured: false
 grants:
 - anr-bala-v1
 - brain-scales
+links:
+- name: URL
+  url: http://www.ncbi.nlm.nih.gov/pubmed/26445864
+- name: HAL
+  url: https://hal.science/hal-01396311
 projects: []
 publication: '*Journal of Neurophysiology*'
 publication_types:

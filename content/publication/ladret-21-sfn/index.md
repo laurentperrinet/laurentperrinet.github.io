@@ -29,6 +29,9 @@ image:
   focal_point: ''
   preview_only: false
 lastmod: 2021-11-08 10:31:18+01:00
+links:
+- name: URL
+  url: https://www.abstractsonline.com/pp8/#!/10485/presentation/22078
 projects: []
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:

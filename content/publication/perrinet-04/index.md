@@ -24,6 +24,9 @@ authors:
 date: 2004-01-01
 doi: 10.1023/B:NACO.0000027753.27593.a7
 featured: false
+links:
+- name: URL
+  url: http://dx.doi.org/10.1023/B:NACO.0000027753.27593.a7
 publication: '*Natural Computing*'
 publication_types:
 - article-journal

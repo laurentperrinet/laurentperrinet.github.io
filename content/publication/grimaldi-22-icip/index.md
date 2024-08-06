@@ -30,8 +30,10 @@ image:
   preview_only: false
 lastmod: 2022-06-21 10:00:51+02:00
 links:
-- name: URL
+- name: Venue
   url: https://2022.ieeeicip.org/
+- name: URL
+  url: https://ieeexplore.ieee.org/document/9897394/
 projects: []
 publication: '*Proceedings of ICIP 2022*'
 publication_types:

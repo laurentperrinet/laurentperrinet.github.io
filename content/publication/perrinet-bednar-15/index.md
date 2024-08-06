@@ -24,6 +24,13 @@ doi: 10.1038/srep11400
 featured: false
 grants:
 - anr-bala-v1
+links:
+- name: Code
+  url: https://github.com/laurentperrinet/PerrinetBednar15
+- name: URL
+  url: http://www.nature.com/articles/srep11400
+- name: HAL
+  url: https://hal.science/hal-01202447
 math: true
 projects: []
 publication: '*Scientific Reports*'
@@ -35,7 +42,6 @@ tags:
 - sparse coding
 title: Edge co-occurrences can account for rapid categorization of natural versus
   animal images
-url_code: https://github.com/laurentperrinet/PerrinetBednar15
 url_pdf: http://www.nature.com/articles/srep11400
 url_preprint: https://hal-amu.archives-ouvertes.fr/hal-01202447
 ---

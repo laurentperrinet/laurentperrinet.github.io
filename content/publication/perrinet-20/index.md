@@ -32,6 +32,11 @@ featured: false
 grants:
 - anr-horizontal-v1
 - spikeai
+links:
+- name: Code
+  url: https://github.com/laurentperrinet/Perrinet20PredictiveProcessing_manubot
+- name: URL
+  url: https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/latest/index.html
 projects: []
 publication: '*The Philosophy and Science of Predictive Processing*'
 publication_types:
@@ -43,7 +48,6 @@ tags:
 - psychophysics
 title: 'From the retina to action: Dynamics of predictive processing in the visual
   system'
-url_code: https://github.com/laurentperrinet/Perrinet19PredictiveProcessing
 url_pdf: https://laurentperrinet.github.io/publication/perrinet-20/
 url_preprint: https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/latest/index.html
 ---

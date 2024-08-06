@@ -15,6 +15,9 @@ authors:
 date: 2012-03-21
 doi: 10.1016/j.neubiorev.2011.03.009
 featured: false
+links:
+- name: URL
+  url: http://view.ncbi.nlm.nih.gov/pubmed/21421006
 publication: '*Neuroscience and biobehavioral reviews*'
 publication_types:
 - article-journal

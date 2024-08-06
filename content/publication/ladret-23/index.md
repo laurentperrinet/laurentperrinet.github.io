@@ -25,6 +25,15 @@ grants:
 - anr-horizontal-v1
 - anr-anr
 - polychronies
+links:
+- name: URL
+  url: https://www.nature.com/articles/s42003-023-05042-3
+- name: Dataset
+  url: https://figshare.com/articles/dataset/Data_for_Ladret_et_al_2023_Cortical_recurrence_supports_resilience_to_sensory_variance_in_the_primary_visual_cortex_/23366588
+- name: Code
+  url: https://github.com/hugoladret/variance-processing-V1
+- name: bioRxiv
+  url: https://www.biorxiv.org/content/10.1101/2021.03.30.437692
 projects: []
 publication: '*Nature Communications Biology*'
 publication_types:
@@ -37,19 +46,12 @@ tags:
 - V1
 title: Cortical recurrence supports resilience to sensory variance in the primary
   visual cortex
-url_code: https://github.com/hugoladret/variance-processing-V1
-url_dataset: https://figshare.com/articles/dataset/Data_for_Ladret_et_al_2023_Cortical_recurrence_supports_resilience_to_sensory_variance_in_the_primary_visual_cortex_/23366588
-url_journal: https://www.nature.com/articles/s42003-023-05042-3
-url_pdf: https://laurentperrinet.github.io/publication/ladret-23/
 ---
 
 * open access: https://www.nature.com/articles/s42003-023-05042-3
 * 5 minutes summary: https://hugoladret.github.io/publications/ladret_et_al_variance_v1/
-* Code : https://github.com/hugoladret/variance-processing-V1
-* Data : https://figshare.com/articles/dataset/Data_for_Ladret_et_al_2023_Cortical_recurrence_supports_resilience_to_sensory_variance_in_the_primary_visual_cortex_/23366588
 ![Artboard](Artboard.png)
 {{< tweet user="laurentperrinet" id="1673229104353509377" >}}
-* preprint of a former revision: https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5
 * This neurophysiological work accompanies a similar study in theoretical neuroscience : {{< cite page="/publication/ladret-23-iclr" view="4" >}}
 ## Communiqué de presse: Comment le cerveau fait face à l'incertitude ?
 **[Introduction :] Nous vivons dans un monde fait d'incertitudes, qui pourtant ne nous empêchepas d'effectuer nos tâches quotidiennes. Vous ne traverseriez pas la route avant d'être certain que le conducteur de la voiture passante vous a vu, pas d'avantage que vous ne vous approcheriez pas d'un buisson avant d'être sûr qu'il est occupé par un oiseau plutôt que par un lion. Malgré la nécessité fondamentale de résoudre ces incertitudes au quotidien, nous savons relativement peu sur la manière dont notre cerveau procède pour ce faire. Dans cet article publié dans *Nature Communications Biology*, les scientifiques présentent des enregistrements des neurones du cerveau, et mettent en évidence un nouveau type de neurone qui encode cette incertitude. Cette recherche est clé pour avancer la compréhension de notre cerveau et construire des modèles artificiels qui peuvent prendre en compte leurs certitudes.**

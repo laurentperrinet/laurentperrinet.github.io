@@ -15,6 +15,9 @@ authors:
 date: 2002-06-01
 doi: 10.1016/S0925-2312(02)00374-0
 featured: false
+links:
+- name: URL
+  url: http://dx.doi.org/10.1016/S0925-2312(02)00374-0
 publication: '*Neurocomputing*'
 publication_types:
 - article-journal

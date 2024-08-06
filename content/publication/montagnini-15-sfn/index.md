@@ -8,6 +8,9 @@ date: 2015-01-01
 featured: false
 grants:
 - anr-rem
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/montagnini-15-sfn
 projects: []
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:

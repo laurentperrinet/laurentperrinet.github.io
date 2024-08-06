@@ -16,6 +16,9 @@ authors:
 date: 2010-01-01
 doi: 10.1016/j.jphysparis.2009.11.001
 featured: false
+links:
+- name: URL
+  url: http://dx.doi.org/10.1016/j.jphysparis.2009.11.001
 publication: '*Journal of Physiology-Paris*'
 publication_types:
 - article-journal

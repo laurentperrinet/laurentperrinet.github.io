@@ -28,6 +28,11 @@ grants:
 - doc-2-amu
 - phd-icn
 - mesocentre
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/franciosini-21
+- name: bioRxiv
+  url: https://www.biorxiv.org/content/10.1101/2021.04.19.440444
 projects: []
 publication: '*PLoS Computational Biology*'
 publication_types:

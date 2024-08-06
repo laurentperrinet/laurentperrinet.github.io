@@ -34,6 +34,9 @@ doi: 10.1016/j.visres.2010.10.021
 featured: false
 grants:
 - codde
+links:
+- name: URL
+  url: http://dx.doi.org/10.1016/j.visres.2010.10.021
 projects: []
 publication: '*Vision research*'
 publication_types:

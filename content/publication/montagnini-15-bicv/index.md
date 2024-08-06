@@ -8,6 +8,13 @@ doi: 10.1002/9783527680863.ch12
 featured: false
 grants:
 - anr-speed
+links:
+- name: Pdf
+  url: https://hal.science/hal-01400748
+- name: URL
+  url: https://laurentperrinet.github.io/publication/montagnini-15-bicv/
+- name: arXiv
+  url: https://arxiv.org/abs/1611.07831
 projects: []
 publication: '*Biologically Inspired Computer Vision*'
 publication_types:
@@ -15,8 +22,6 @@ publication_types:
 tags:
 - Biologically Inspired Computer vision
 title: Visual motion processing and human tracking behavior
-url_pdf: https://laurentperrinet.github.io/publication/montagnini-15-bicv/
-url_preprint: https://arxiv.org/abs/1611.07831
 ---
 
 * Appeared in this book: {{< cite page="/publication/cristobal-perrinet-keil-15-bicv" view="4" >}}

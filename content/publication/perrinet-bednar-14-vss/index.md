@@ -31,6 +31,9 @@ doi: 10.1167/14.10.1310
 featured: false
 grants:
 - anr-bala-v1
+links:
+- name: URL
+  url: http://dx.doi.org/10.1167/14.10.1310
 projects: []
 publication: '*Journal of Vision*'
 publication_types:

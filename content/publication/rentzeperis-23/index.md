@@ -16,7 +16,9 @@ image:
   focal_point: ''
   preview_only: false
 lastmod: 2022-05-20 13:42:38+02:00
-links: null
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/rentzeperis-23
 projects:
 - anr-runbinvase
 publication: '*PLOS Computational Biology*'

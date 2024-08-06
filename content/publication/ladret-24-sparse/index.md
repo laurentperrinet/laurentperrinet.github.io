@@ -36,8 +36,6 @@ image:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/ladret-24-sparse/
-- name: Preprint
-  url: https://arxiv.org/abs/2312.14685
 projects: []
 publication: '*Submitted*'
 publication_short: ''

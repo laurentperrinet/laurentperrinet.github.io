@@ -22,6 +22,11 @@ date: 2018-01-01
 featured: false
 grants:
 - pace-itn
+links:
+- name: Code
+  url: https://github.com/hugoladret/InternshipM1
+- name: PDF
+  url: https://github.com/hugoladret/InternshipM1/raw/master/2018-06_POSTER_final.pdf
 projects: []
 publication: '*GDR Vision, Paris, 2018*'
 publication_types:
@@ -32,8 +37,6 @@ tags:
 - orientation
 - psychophysics
 title: Selectivity to oriented patterns of different precisions
-url_code: https://github.com/hugoladret/InternshipM1
-url_pdf: https://github.com/hugoladret/InternshipM1/raw/master/2018-06_POSTER_final.pdf
 ---
 
 * poster présenté au [GDR vision, Paris](https://gdrvision2018.sciencesconf.org).

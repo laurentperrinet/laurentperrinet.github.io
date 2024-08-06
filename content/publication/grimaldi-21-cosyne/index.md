@@ -33,6 +33,11 @@ image:
   focal_point: ''
   preview_only: false
 lastmod: 2021-02-25 17:01:28+01:00
+links:
+- name: Pdf
+  url: https://www.researchgate.net/profile/Antoine-Grimaldi-2/publication/349715111_A_robust_bio-inspired_approach_to_event-driven_object_recognition/links/603e41d84585154e8c6e6a7c/A-robust-bio-inspired-approach-to-event-driven-object-recognition.pdf
+- name: URL
+  url: https://laurentperrinet.github.io/publication/grimaldi-21-cosyne/
 projects: []
 publication: '*Computational and Systems Neuroscience (Cosyne) 2021*'
 publication_types:
@@ -45,7 +50,6 @@ tags:
 - neuromorphic hardware
 - online classification
 title: A robust bio-inspired approach to event-driven object recognition
-url_pdf: https://laurentperrinet.github.io/publication/grimaldi-21-cosyne/
 ---
 
 {{< tweet user="laurentperrinet" id="1364962423120265218" >}}

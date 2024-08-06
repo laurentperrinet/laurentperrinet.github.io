@@ -14,6 +14,9 @@ authors:
 date: 2001-01-01
 doi: 10.1.1.18.4990
 featured: false
+links:
+- name: URL
+  url: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.18.4990
 publication: '*Neurocomputing*'
 publication_types:
 - article-journal

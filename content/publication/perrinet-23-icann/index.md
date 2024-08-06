@@ -30,14 +30,10 @@ image:
   preview_only: false
 lastmod: 2023-07-21 13:12:04+02:00
 links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/perrinet-23-icann/
-- name: GitHub
-  url: https://github.com/laurentperrinet/2023-09-27_HDSNN-ICANN
-- name: DOI
-  url: https://doi.org/10.1007/978-3-031-44207-0_31
 - name: arXiv
   url: https://arxiv.org/abs/2307.11555
+- name: Code
+  url: https://github.com/laurentperrinet/2023-09-27_HDSNN-ICANN
 projects: []
 publication: '*ICANN Special Session on Recent Advances in Spiking Neural Networks*'
 publication_types:
@@ -48,7 +44,6 @@ subtitle: ''
 tags: []
 title: Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a
   Spiking Neural Network
-url_code: https://github.com/laurentperrinet/2023-09-27_HDSNN-ICANN
 url_pdf: https://laurentperrinet.github.io/publication/perrinet-23-icann/
 ---
 

@@ -61,6 +61,9 @@ grants:
 - doc-2-amu
 - phd-icn
 - mesocentre
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/franciosini-20-cosyne/
 projects: []
 publication: '*Computational and Systems Neuroscience (Cosyne) 2020*'
 publication_types:

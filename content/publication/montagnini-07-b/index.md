@@ -31,6 +31,9 @@ date: 2007-01-01
 featured: false
 grants:
 - facets-itn
+links:
+- name: URL
+  url: https://jov.arvojournals.org/article.aspx?articleid=2134393
 publication: '*Journal of Vision*'
 publication_types:
 - inproceedings

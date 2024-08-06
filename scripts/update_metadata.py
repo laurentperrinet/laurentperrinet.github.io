@@ -49,11 +49,12 @@ def import_bibtex(
         for entry in bib_database.entries:
             #parse_bibtex_entry(entry, pub_dir=pub_dir, featured=featured, overwrite=overwrite, normalize=normalize)
             keys.append(entry['ID'])
-
+            
     # 2- making a dictionary to slugify
     dico = {}
     for key in keys:
         dico[slugify(key)] = key
+
 
     # 4- updating metadata with bibtex
 
@@ -197,15 +198,53 @@ def import_bibtex(
                         print(parsed_yaml[this_key])
                     # print(parsed_yaml['projects'])
 
-            for url_key in ['url_slides', 'url_code', 'url_link']:
-                if url_key in entry:
-                    parsed_yaml[url_key] = f'{clean_bibtex_str(entry[url_key])}'
+            links = []
+            for url_key in entry.keys():
+                if url_key in ['url', 'preprint', 'url_slides', 'url_venue', 'url_code', 'url_video', 'url_dataset', 'url_poster', 'url_project', 'url_arXiv', 'url_hal', 'url_pdf', 'url_press', 'url_preprint']:
+                    sane_url = clean_bibtex_str(entry[url_key])
+                    print(">>>>>", url_key, sane_url)
+                    if '_' in url_key:
+                        # url_type = url_key.strip('url_').capitalize()
+                        url_type = url_key[4:].capitalize()
+                        print('°°°°°°°°°°°°°°°°', url_key, url_type)
+                    elif sane_url[-4:]=='.pdf':
+                        url_type = 'PDF'
+                    elif url_key=='preprint':
+                        if 'arxiv' in sane_url:
+                            url_type = 'arXiv'
+                        elif 'hal' in sane_url:
+                            url_type = 'HAL'
+                        elif 'biorxiv' in sane_url:
+                            url_type = 'bioRxiv'
+                        else:
+                            url_type = "Preprint"
+                    else:
+                        url_type = "URL"
+                    
+                    try:
+                        parsed_yaml.pop(url_key)
+                    except:
+                        pass
 
-            if 'url' in entry:
-                parsed_yaml['url_pdf'] = f'{clean_bibtex_str(entry["url"])}'
+                    links += [{"name": url_type, "url": sane_url}]
 
-            if 'preprint' in entry:
-                parsed_yaml['url_preprint'] = f'{clean_bibtex_str(entry["preprint"])}'
+            if links:
+                parsed_yaml["links"] = links
+            
+
+            # TODO add url = {https://laurentperrinet.github.io/publication/perrinet-23-icann/}, for each publication
+	
+            # TODO : add all url_press
+
+            if entry['ID'] == 'Grimaldi22polychronies': 
+                print(50*'==')
+                print(50*'==')
+                print(entry.keys(), entry, links)
+                print(50*'==')
+                print(50*'==')
+                # caca    
+            # else:
+            #     print(entry['ID'])            
 
             if 'doi' in entry:
                 parsed_yaml['doi'] = f'{entry["doi"]}'

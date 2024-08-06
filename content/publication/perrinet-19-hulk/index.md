@@ -32,6 +32,11 @@ grants:
 - anr-horizontal-v1
 - spikeai
 - mesocentre
+links:
+- name: Code
+  url: https://github.com/SpikeAI/HULK
+- name: URL
+  url: https://spikeai.github.io/HULK/
 projects: []
 publication: '*Vision*'
 publication_types:
@@ -45,7 +50,6 @@ tags:
 - sparse hebbian learning
 - unsupervised learning
 title: An adaptive homeostatic algorithm for the unsupervised learning of visual features
-url_code: https://github.com/SpikeAI/HULK
 url_pdf: https://spikeai.github.io/HULK/
 url_preprint: https://laurentperrinet.github.io/publication/perrinet-19-hulk/
 ---

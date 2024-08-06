@@ -22,6 +22,13 @@ doi: 10.1002/9783527680863.ch14
 featured: false
 grants:
 - brain-scales
+links:
+- name: Code
+  url: https://github.com/bicv/Perrinet2015BICV_sparse
+- name: URL
+  url: http://onlinelibrary.wiley.com/doi/10.1002/9783527680863.ch14/summary
+- name: arXiv
+  url: https://arxiv.org/abs/1701.06859
 publication: '*Biologically Inspired Computer Vision*'
 publication_types:
 - inbook
@@ -29,7 +36,6 @@ tags:
 - Biologically Inspired Computer vision
 - sparse coding
 title: Sparse Models for Computer Vision
-url_code: https://github.com/bicv/Perrinet2015BICV_sparse
 url_pdf: http://onlinelibrary.wiley.com/doi/10.1002/9783527680863.ch14/summary
 url_preprint: https://arxiv.org/abs/1701.06859
 ---

@@ -33,6 +33,9 @@ doi: 10.1186/1471-2202-8-S2-P2
 featured: false
 grants:
 - facets
+links:
+- name: URL
+  url: http://dx.doi.org/10.1186/1471-2202-8-S2-P2
 projects:
 - open-science
 publication: '*Sixteenth Annual Computational Neuroscience Meeting: CNS*2007, Toronto,

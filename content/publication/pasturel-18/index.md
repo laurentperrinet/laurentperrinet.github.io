@@ -20,6 +20,13 @@ date: 2018-01-01
 featured: false
 grants:
 - pace-itn
+links:
+- name: Pdf
+  url: https://github.com/chloepasturel/AnticipatorySPEM/raw/master/2018-06-05_Poster_Workshop_Grenoble/Pasturel_etal2018grenoble.pdf
+- name: Code
+  url: https://github.com/chloepasturel/AnticipatorySPEM/
+- name: URL
+  url: https://laurentperrinet.github.io/publication/pasturel-18
 projects: []
 publication: ''
 publication_types:
@@ -27,8 +34,6 @@ publication_types:
 tags:
 - motion anticipation
 title: Estimating and anticipating a dynamic probabilistic bias in visual motion direction
-url_code: https://github.com/chloepasturel/AnticipatorySPEM/
-url_pdf: https://laurentperrinet.github.io/publication/pasturel-18
 ---
 
 * see a write-up in "[Humans adapt their anticipatory eye movements to the volatility of visual motion properties](https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/)"

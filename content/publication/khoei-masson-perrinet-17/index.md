@@ -34,6 +34,15 @@ doi: 10.1371/journal.pcbi.1005068
 featured: true
 grants:
 - facets-itn
+links:
+- name: Press
+  url: http://www.cnrs.fr/insb/recherche/parutions/articles2017/l-perrinet.html
+- name: Code
+  url: https://github.com/laurentperrinet/Khoei_2017_PLoSCB
+- name: URL
+  url: https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/
+- name: HAL
+  url: https://hal.science/hal-01771125
 projects: []
 publication: '*PLoS Computational Biology*'
 publication_types:
@@ -44,10 +53,8 @@ tags:
 - motion prediction
 - psychophysics
 title: The flash-lag effect as a motion-based predictive shift
-url_code: https://github.com/laurentperrinet/Khoei_2017_PLoSCB
 url_pdf: https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/
 url_preprint: https://hal-amu.archives-ouvertes.fr/hal-01771125
-url_press: http://www.cnrs.fr/insb/recherche/parutions/articles2017/l-perrinet.html
 ---
 
 * [Press release](http://www.cnrs.fr/insb/recherche/parutions/articles2017/l-perrinet.html")

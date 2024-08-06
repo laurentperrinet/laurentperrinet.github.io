@@ -13,6 +13,15 @@ image:
   focal_point: ''
   preview_only: false
 lastmod: 2020-12-21 12:51:20+01:00
+links:
+- name: Slides
+  url: https://laurentperrinet.github.io/2020-09-14_IWAI
+- name: Pdf
+  url: https://iwaiworkshop.github.io/papers/2020/IWAI_2020_paper_19.pdf
+- name: Code
+  url: https://github.com/laurentperrinet/2020-09-14_IWAI/
+- name: URL
+  url: https://laurentperrinet.github.io/publication/dauce-20-iwai
 projects: []
 publication: '*IWAI 2020*'
 publication_types:
@@ -25,9 +34,6 @@ tags:
 - Visual search
 - Visuomotor control
 title: Visual search as active inference
-url_code: https://github.com/laurentperrinet/2020-09-14_IWAI/
-url_pdf: https://laurentperrinet.github.io/publication/dauce-20-iwai
-url_slides: https://laurentperrinet.github.io/2020-09-14_IWAI
 ---
 
 * a follow-up of: {{< cite page="/publication/dauce-20" view="4" >}}

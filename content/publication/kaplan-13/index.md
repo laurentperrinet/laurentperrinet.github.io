@@ -23,6 +23,9 @@ doi: 10.3389/fncom.2013.00112
 featured: false
 grants:
 - facets-itn
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/kaplan-13
 projects: []
 publication: '*Frontiers in Computational Neuroscience*'
 publication_types:

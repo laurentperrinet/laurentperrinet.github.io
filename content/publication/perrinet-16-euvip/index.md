@@ -17,6 +17,13 @@ doi: 10.1109/EUVIP.2016.7764592
 featured: false
 grants:
 - anr-bala-v1
+links:
+- name: Code
+  url: https://github.com/bicv/Perrinet16EUVIP
+- name: URL
+  url: http://ieeexplore.ieee.org/document/7764592/
+- name: arXiv
+  url: https://arxiv.org/abs/1702.02485
 projects: []
 publication: '*2016 6th European Workshop on Visual Information Processing (EUVIP)*'
 publication_types:
@@ -26,7 +33,6 @@ tags:
 - Image texture
 - sparse coding
 title: Biologically-inspired characterization of sparseness in natural images
-url_code: https://github.com/bicv/Perrinet16EUVIP
 url_pdf: http://ieeexplore.ieee.org/document/7764592/
 url_preprint: https://arxiv.org/abs/1702.02485
 ---

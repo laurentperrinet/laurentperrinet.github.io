@@ -9,6 +9,11 @@ doi: 10.5281/zenodo.5823016
 featured: false
 grants:
 - anr-trajectory
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1611.06834
+- name: URL
+  url: https://laurentperrinet.github.io/publication/ravello-16-droplets
 projects:
 - motion-clouds
 publication: ''

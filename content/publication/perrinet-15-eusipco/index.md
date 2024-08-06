@@ -18,6 +18,9 @@ featured: false
 grants:
 - anr-bala-v1
 - brain-scales
+links:
+- name: URL
+  url: http://dx.doi.org/10.1109/EUSIPCO.2015.7362781
 projects: []
 publication: '*European Signal Processing Conference 2015 (EUSIPCO 2015)*'
 publication_types:

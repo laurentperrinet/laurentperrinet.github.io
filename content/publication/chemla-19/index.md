@@ -26,6 +26,11 @@ featured: false
 grants:
 - anr-bala-v1
 - anr-trajectory
+links:
+- name: URL
+  url: https://www.jneurosci.org/content/39/22/4282
+- name: HAL
+  url: https://hal.science/hal-02190752
 projects: []
 publication: '*Journal of Neuroscience*'
 publication_types:

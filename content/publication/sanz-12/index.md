@@ -21,6 +21,13 @@ doi: 10.1152/jn.00737.2011
 featured: false
 grants:
 - motion-clouds
+links:
+- name: Pdf
+  url: https://hal.science/hal-00726828
+- name: URL
+  url: http://dx.doi.org/10.1152/jn.00737.2011
+- name: arXiv
+  url: https://arxiv.org/abs/1208.6467
 projects: []
 publication: '*Journal of Neurophysiology*'
 publication_types:
@@ -30,7 +37,6 @@ tags:
 - motion-clouds
 title: 'Motion Clouds: Model-based stimulus synthesis of natural-like random textures
   for the study of motion perception'
-url_pdf: http://dx.doi.org/10.1152/jn.00737.2011
 url_preprint: https://arxiv.org/abs/1208.6467
 ---
 

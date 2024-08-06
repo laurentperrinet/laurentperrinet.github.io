@@ -8,6 +8,9 @@ date: 2014-01-01
 featured: false
 grants:
 - anr-rem
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/damasse-14-gdr
 projects: []
 publication: '*Proceedings of GDR Vision (Lyon, France)*'
 publication_types:

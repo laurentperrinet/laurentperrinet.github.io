@@ -22,6 +22,9 @@ doi: 10.1016/j.jphysparis.2009.11.004
 featured: false
 grants:
 - facets
+links:
+- name: URL
+  url: http://dx.doi.org/10.1016/j.jphysparis.2009.11.004
 projects: []
 publication: '*Journal of Physiology-Paris*'
 publication_types:

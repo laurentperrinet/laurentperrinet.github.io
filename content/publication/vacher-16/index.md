@@ -30,6 +30,11 @@ doi: 10.1162/neco_a_01142
 featured: false
 grants:
 - anr-speed
+links:
+- name: URL
+  url: https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01142
+- name: arXiv
+  url: https://arxiv.org/abs/1611.01390
 projects: []
 publication: '*Neural Computation*'
 publication_types:

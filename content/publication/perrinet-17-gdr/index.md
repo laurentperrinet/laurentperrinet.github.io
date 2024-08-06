@@ -26,6 +26,11 @@ featured: false
 grants:
 - anr-rem
 - pace-itn
+links:
+- name: Pdf
+  url: https://github.com/NaturalPatterns/2017-10-12_GDR/raw/master/2017-10-12_PerrinetRey2017poster.pdf
+- name: Code
+  url: https://github.com/NaturalPatterns/2017-10-12_GDR
 projects:
 - art-science
 - tout-public
@@ -35,8 +40,6 @@ publication_types:
 tags:
 - motion anticipation
 title: Expériences autour de la perception de la forme en art et science
-url_code: https://github.com/NaturalPatterns/2017-10-12_GDR
-url_pdf: https://github.com/NaturalPatterns/2017-10-12_GDR/raw/master/2017-10-12_PerrinetRey2017poster.pdf
 ---
 
 # Expériences autour de la perception de la forme en art et science

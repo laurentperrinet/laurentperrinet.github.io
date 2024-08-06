@@ -19,6 +19,9 @@ authors:
 date: 2013-01-01
 doi: 10.1007/978-3-642-41827-3_27
 featured: false
+links:
+- name: URL
+  url: http://dx.doi.org/10.1007/978-3-642-41827-3_27
 publication: '*Progress in Pattern Recognition, Image Analysis, Computer Vision, and
   Applications*'
 publication_types:

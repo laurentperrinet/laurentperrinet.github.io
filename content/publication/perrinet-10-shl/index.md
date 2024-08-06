@@ -24,6 +24,15 @@ authors:
 date: 2010-07-17
 doi: 10.1162/neco.2010.05-08-795
 featured: false
+links:
+- name: Hal
+  url: https://hal.science/hal-00156610
+- name: Code
+  url: https://github.com/bicv/SparseHebbianLearning
+- name: URL
+  url: https://doi.org/10.1162/neco.2010.05-08-795
+- name: arXiv
+  url: https://arxiv.org/abs/0706.3177
 publication: '*Neural Computation*'
 publication_types:
 - article-journal
@@ -40,7 +49,6 @@ tags:
 - statistics of natural images
 - unsupervised learning
 title: Role of homeostasis in learning sparse representations
-url_code: https://github.com/bicv/SparseHebbianLearning
 url_pdf: https://doi.org/10.1162/neco.2010.05-08-795
 url_preprint: https://arxiv.org/abs/0706.3177
 ---

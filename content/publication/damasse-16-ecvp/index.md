@@ -7,6 +7,9 @@ date: 2016-01-01
 featured: false
 grants:
 - anr-rem
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/damasse-16-ecvp
 projects: []
 publication: '*Proceedings of ECVP*'
 publication_types:

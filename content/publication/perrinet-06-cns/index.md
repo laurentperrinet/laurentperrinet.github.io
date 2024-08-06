@@ -17,6 +17,9 @@ date: 2006-01-01
 featured: false
 grants:
 - facets
+links:
+- name: PDF
+  url: https://ocns.memberclicks.net/assets/docs/CNS_Program_books/2006booklet.pdf
 publication: '*Fifteenth Annual Computational Neuroscience Meeting: CNS*2006*'
 publication_types:
 - inproceedings

@@ -13,6 +13,8 @@ lastmod: 2024-04-05 10:28:28+02:00
 links:
 - name: URL
   url: https://laurentperrinet.github.io/post/2014-04-17_hdr/
+- name: PDF
+  url: https://tel.archives-ouvertes.fr/tel-00002693/file/tel-000026931.pdf
 projects: []
 publication: ''
 publication_types:

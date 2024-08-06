@@ -8,6 +8,9 @@ doi: 10.1167/17.10.273
 featured: false
 grants:
 - anr-rem
+links:
+- name: URL
+  url: http://jov.arvojournals.org/article.aspx?doi=10.1167/17.10.273
 projects: []
 publication: '*Proceedings of Vision Sciences Society Annual Meeting*'
 publication_types:

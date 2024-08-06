@@ -36,6 +36,9 @@ image:
   focal_point: ''
   preview_only: false
 lastmod: 2021-10-12 12:44:34+02:00
+links:
+- name: Venue
+  url: https://symposium.fchampalimaud.science/Poster-sessions
 projects: []
 publication: '*Champalimaud Research Symposium (CRS21)*'
 publication_types:

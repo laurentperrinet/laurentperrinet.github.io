@@ -28,6 +28,11 @@ grants:
 - doc-2-amu
 - phd-icn
 - mesocentre
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/
+- name: arXiv
+  url: https://arxiv.org/abs/2002.00892
 projects: []
 publication: '*Neural Computation*'
 publication_types:

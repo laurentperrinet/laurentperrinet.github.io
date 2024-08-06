@@ -13,6 +13,9 @@ image:
   focal_point: ''
   preview_only: false
 lastmod: 2022-06-13 13:42:38+02:00
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/grimaldi-22-fens/
 projects: []
 publication: '*Proceedings of the FENS Forum 2022*'
 publication_types:

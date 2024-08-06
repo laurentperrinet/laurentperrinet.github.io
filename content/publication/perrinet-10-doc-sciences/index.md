@@ -3,6 +3,9 @@ authors:
 - Laurent U Perrinet
 date: 2011-06-20
 featured: false
+links:
+- name: URL
+  url: https://interstices.info/qui-creera-le-premier-ordinateur-intelligent/
 projects:
 - tout-public
 publication: '*DocSciences*'

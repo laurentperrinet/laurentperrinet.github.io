@@ -3,6 +3,11 @@ authors:
 - Laurent U Perrinet
 date: 2003-01-01
 featured: false
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/perrinet-03-these
+- name: PDF
+  url: https://tel.archives-ouvertes.fr/tel-00002693/file/tel-000026931.pdf
 publication: ''
 publication_types:
 - thesis

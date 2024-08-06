@@ -30,6 +30,9 @@ featured: false
 grants:
 - brain-scales
 - facets-itn
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/kaplan-khoei-14
 projects: []
 publication: '*IEEE International Joint Conference on Neural Networks (IJCNN) 2014
   Beijing, China*'

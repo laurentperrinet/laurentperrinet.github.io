@@ -26,6 +26,9 @@ doi: 10.1186/1471-2202-8-S2-P206
 featured: false
 grants:
 - facets-itn
+links:
+- name: URL
+  url: http://dx.doi.org/10.1186/1471-2202-8-S2-P206
 publication: '*Sixteenth Annual Computational Neuroscience Meeting: CNS*2007, Toronto,
   Canada. 7--12 July 2007*'
 publication_types:

@@ -28,10 +28,10 @@ image:
   preview_only: false
 lastmod: 2024-04-05 10:22:08+02:00
 links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/perrinet-24-fens/
 - name: Code
   url: https://github.com/laurentperrinet/2024-06-26_Perrinet24FENS
+- name: URL
+  url: https://laurentperrinet.github.io/publication/perrinet-24-fens/
 projects: []
 publication: '*FENS Forum 2024*'
 publication_types:
@@ -41,6 +41,5 @@ subtitle: ''
 tags: []
 title: Accurate Detection of Spiking Motifs in Neurobiological Data by Learning Heterogeneous
   Delays of a Spiking Neural Network
-url_code: https://github.com/laurentperrinet/2024-06-26_Perrinet24FENS
 url_pdf: https://laurentperrinet.github.io/publication/perrinet-24-fens/
 ---

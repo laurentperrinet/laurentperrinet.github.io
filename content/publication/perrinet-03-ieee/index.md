@@ -26,6 +26,11 @@ authors:
 date: 2004-09-01
 doi: 10.1109/TNN.2004.833303
 featured: false
+links:
+- name: URL
+  url: http://dx.doi.org/10.1109/TNN.2004.833303
+- name: arXiv
+  url: https://arxiv.org/abs/q-bio/0611002
 publication: '*IEEE Transactions on Neural Networks*'
 publication_types:
 - article-journal

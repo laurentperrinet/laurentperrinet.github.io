@@ -28,14 +28,14 @@ image:
   preview_only: false
 lastmod: 2023-09-05 10:59:11+02:00
 links:
-- name: PDF
-  url: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Nunes_Time-to-Contact_Map_by_ICCV_2023_supplemental.pdf
-- name: HAL
-  url: https://hal.science/hal-04230502
-- name: ICCV
-  url: https://openaccess.thecvf.com/content/ICCV2023/html/Nunes_Time-to-Contact_Map_by_Joint_Estimation_of_Up-to-Scale_Inverse_Depth_and_ICCV_2023_paper.html
-- name: code
+- name: Code
   url: https://github.com/neuromorphic-paris/ETTCM
+- name: Venue
+  url: https://openaccess.thecvf.com/content/ICCV2023/html/Nunes_Time-to-Contact_Map_by_Joint_Estimation_of_Up-to-Scale_Inverse_Depth_and_ICCV_2023_paper.html
+- name: Pdf
+  url: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Nunes_Time-to-Contact_Map_by_ICCV_2023_supplemental.pdf
+- name: URL
+  url: https://laurentperrinet.github.io/publication/nunes-23-iccv/
 projects: []
 publication: '*International Conference on Computer Vision 2023 (ICCV2023)*'
 publication_types:
@@ -48,7 +48,6 @@ tags:
 - time-to-contact
 title: Time-to-Contact Map by Joint Estimation of Up-to-Scale Inverse Depth and Global
   Motion using a Single Event Camera
-url_pdf: https://laurentperrinet.github.io/publication/nunes-23-iccv/
 ---
 
 * the code is openly available on [GitHub](https://github.com/neuromorphic-paris/ETTCM) with the accompanying data [VL.zip](https://www.dropbox.com/scl/fi/lw9ztsopinnjfztt82oxt/VL.zip?rlkey=6uccvu486iulvityrvrom50e4&dl=0).

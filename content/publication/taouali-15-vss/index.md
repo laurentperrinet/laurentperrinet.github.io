@@ -49,6 +49,9 @@ featured: false
 grants:
 - anr-bala-v1
 - brain-scales
+links:
+- name: URL
+  url: http://jov.arvojournals.org/article.aspx?articleid=2433592
 projects: []
 publication: '*Proceedings of VSS*'
 publication_types:

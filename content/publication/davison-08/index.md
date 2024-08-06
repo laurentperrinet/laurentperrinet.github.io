@@ -32,6 +32,11 @@ doi: 10.3389/neuro.11.011.2008
 featured: false
 grants:
 - facets
+links:
+- name: URL
+  url: http://dx.doi.org/10.3389/neuro.11.011.2008
+- name: HAL
+  url: https://hal.science/hal-00586786
 projects:
 - open-science
 publication: '*Frontiers in Neuroinformatics*'

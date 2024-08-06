@@ -30,6 +30,9 @@ grants:
 - brain-scales
 - codde
 - facets
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/voges-12
 projects: []
 publication: '*Frontiers in Computational Neuroscience*'
 publication_types:

@@ -31,13 +31,17 @@ doi: 10.1002/9783527680863
 featured: true
 grants:
 - brain-scales
+links:
+- name: Code
+  url: http://bicv.github.io/toc/
+- name: URL
+  url: http://onlinelibrary.wiley.com/book/10.1002/9783527680863
 publication: ''
 publication_types:
 - book
 tags:
 - Biologically Inspired Computer vision
 title: Biologically Inspired Computer Vision
-url_code: http://bicv.github.io/toc/
 url_pdf: http://onlinelibrary.wiley.com/book/10.1002/9783527680863
 url_preprint: http://bicv.github.io/
 ---

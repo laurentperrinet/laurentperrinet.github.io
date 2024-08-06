@@ -31,6 +31,11 @@ doi: 10.1007/s11263-006-0026-8
 featured: false
 grants:
 - facets
+links:
+- name: Code
+  url: https://github.com/bicv/LogGabor
+- name: URL
+  url: http://dx.doi.org/10.1007/s11263-006-0026-8
 publication: '*International Journal of Computer Vision*'
 publication_types:
 - article-journal
@@ -39,7 +44,6 @@ tags:
 - log-gabor
 - visual perception
 title: Self-Invertible 2D Log-Gabor Wavelets
-url_code: https://github.com/bicv/LogGabor
 url_pdf: http://dx.doi.org/10.1007/s11263-006-0026-8
 ---
 

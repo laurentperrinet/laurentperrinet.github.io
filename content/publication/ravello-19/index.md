@@ -25,6 +25,11 @@ doi: 10.1038/s41598-018-36861-8
 featured: false
 grants:
 - anr-trajectory
+links:
+- name: URL
+  url: https://doi.org/10.1038%2Fs41598-018-36861-8
+- name: HAL
+  url: https://hal.science/hal-02007905
 projects: []
 publication: '*Scientific Reports*'
 publication_types:

@@ -24,6 +24,11 @@ doi: 10.1016/j.jphysparis.2005.09.012
 featured: false
 grants:
 - facets
+links:
+- name: URL
+  url: http://dx.doi.org/10.1016/j.jphysparis.2005.09.012
+- name: arXiv
+  url: https://arxiv.org/abs/q-bio/0611003
 publication: '*Journal of Physiology-Paris*'
 publication_types:
 - article-journal

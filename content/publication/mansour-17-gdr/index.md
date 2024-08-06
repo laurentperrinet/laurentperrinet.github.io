@@ -34,6 +34,9 @@ date: 2017-01-01
 featured: false
 grants:
 - pace-itn
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/mansour-17-gdr
 projects: []
 publication: '*GDR Vision, Lille, 2017*'
 publication_types:

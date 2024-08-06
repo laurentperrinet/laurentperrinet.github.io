@@ -10,6 +10,11 @@ featured: false
 grants:
 - anr-rem
 - pace-itn
+links:
+- name: URL
+  url: https://jov.arvojournals.org/article.aspx?articleid=2707670
+- name: HAL
+  url: https://hal.science/hal-01901640v1
 projects: []
 publication: '*Journal of Vision*'
 publication_types:

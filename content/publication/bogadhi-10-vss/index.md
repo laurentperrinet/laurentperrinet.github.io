@@ -10,6 +10,9 @@ doi: 10.1167/10.7.545
 featured: false
 grants:
 - codde
+links:
+- name: URL
+  url: http://dx.doi.org/10.1167/10.7.545
 projects: []
 publication: '*Vision Science Society*'
 publication_types:

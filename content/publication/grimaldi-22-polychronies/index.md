@@ -31,14 +31,14 @@ grants:
 - anr-anr
 - polychronies
 links:
-- name: HAL
+- name: Hal
   url: https://hal.science/hal-03918338
-- name: code
+- name: arXiv
+  url: https://arxiv.org/abs/2404.07866
+- name: Code
   url: https://github.com/SpikeAI/2022_polychronies-review
 - name: URL
   url: https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/
-- name: arXiv
-  url: https://arxiv.org/abs/2404.07866
 publication_types:
 - article-journal
 title: Precise spiking motifs in neurobiological and neuromorphic data

@@ -21,6 +21,11 @@ authors:
 - Guillaume S Masson
 date: 2012-01-01
 featured: false
+links:
+- name: Pdf
+  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3472550/
+- name: arXiv
+  url: https://arxiv.org/abs/1208.6471
 publication: '*Neural Computation*'
 publication_types:
 - article-journal
@@ -30,7 +35,6 @@ tags:
 - motion prediction
 - predictive coding
 title: Motion-based prediction is sufficient to solve the aperture problem
-url_pdf: https://arxiv.org/abs/1208.6471
 url_preprint: https://arxiv.org/abs/1208.6471
 ---
 

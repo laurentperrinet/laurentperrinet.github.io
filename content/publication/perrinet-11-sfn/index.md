@@ -50,6 +50,9 @@ featured: false
 grants:
 - anr-bala-v1
 - brain-scales
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/perrinet-11-sfn
 projects: []
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:

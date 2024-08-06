@@ -39,6 +39,9 @@ image:
   focal_point: ''
   preview_only: false
 lastmod: 2023-03-13 12:29:25+01:00
+links:
+- name: URL
+  url: https://www.world-wide.org/cosyne-23/resilience-sensory-uncertainty-primary-88600879/
 projects: []
 publication: '*Computational and Systems Neuroscience (Cosyne) 2023*'
 publication_types:

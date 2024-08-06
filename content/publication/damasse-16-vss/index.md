@@ -10,6 +10,9 @@ doi: 10.1167/16.12.1356
 featured: false
 grants:
 - anr-rem
+links:
+- name: URL
+  url: http://jov.arvojournals.org/article.aspx?doi=10.1167/16.12.1356
 projects: []
 publication: '*Proceedings of VSS*'
 publication_types:

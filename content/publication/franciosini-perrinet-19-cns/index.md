@@ -9,6 +9,9 @@ grants:
 - doc-2-amu
 - phd-icn
 - mesocentre
+links:
+- name: URL
+  url: https://www.cnsorg.org/cns-2019-poster-presentation-guide
 projects: []
 publication: '*Annual Computational Neuroscience Meeting: CNS*2019, Barcelona*'
 publication_types:

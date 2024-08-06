@@ -23,6 +23,9 @@ doi: 10.3389/fpsyg.2012.00151
 featured: true
 image:
   focal_point: ''
+links:
+- name: URL
+  url: http://dx.doi.org/10.3389/fpsyg.2012.00151
 publication: '*Frontiers in Psychology*'
 publication_types:
 - article-journal

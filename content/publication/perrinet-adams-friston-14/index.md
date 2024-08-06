@@ -23,6 +23,11 @@ authors:
 - Karl Friston
 date: 2014-12-16
 doi: 10.1007/s00422-014-0620-8
+links:
+- name: URL
+  url: http://link.springer.com/article/10.1007%2Fs00422-014-0620-8
+- name: arXiv
+  url: https://arxiv.org/abs/1610.05564
 publication: '*Biological Cybernetics*'
 publication_types:
 - article-journal

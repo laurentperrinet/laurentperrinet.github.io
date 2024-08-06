@@ -45,6 +45,9 @@ image:
   focal_point: ''
   preview_only: false
 lastmod: 2022-06-30 08:54:01+03:00
+links:
+- name: HAL
+  url: https://hal.science/hal-03741144
 projects: []
 publication: '*eNeuro*'
 publication_types:
@@ -60,5 +63,4 @@ tags:
 - visual motion integration
 title: 'A Behavioral Receptive Field for Ocular Following in Monkeys: Spatial Summation
   and Its Spatial Frequency Tuning'
-url_preprint: https://hal.archives-ouvertes.fr/hal-03741144
 ---
