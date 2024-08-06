@@ -12,8 +12,7 @@ from bibtexparser.bwriter import BibTexWriter
 from bibtexparser.customization import convert_to_unicode
 
 from academic import utils
-from academic.editFM import EditableFM
-from academic.publication_type import PUB_TYPES, PublicationType
+from academic.publication_type import PUB_TYPES_BIBTEX_TO_CSL
 import os
 import glob
 
@@ -179,7 +178,7 @@ def import_bibtex(
 
             elif type == 'Publications':
 
-                pubtype = PUB_TYPES.get(entry["ENTRYTYPE"], PublicationType.Uncategorized)
+                pubtype = PUB_TYPES_BIBTEX_TO_CSL.get(entry["ENTRYTYPE"], PublicationType.Uncategorized)
                 parsed_yaml['publication_types'] = [str(pubtype.value)]
 
                 # Publication name.

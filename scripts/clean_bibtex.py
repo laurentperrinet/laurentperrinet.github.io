@@ -7,7 +7,7 @@ from bibtexparser.bwriter import BibTexWriter
 from bibtexparser.customization import convert_to_unicode
 
 for type in ['talks', 'publications']:#, 'Events']:
-    bibtex = f'../../perrinet_curriculum-vitae_tex/LaurentPerrinet_{type}.bib'
+    bibtex = f'../../perrinet_curriculum-vitae.tex/LaurentPerrinet_{type}.bib'
     keys = []
     # Load BibTeX file for parsing.
     with open(bibtex, 'r', encoding='utf-8') as bibtex_file:
