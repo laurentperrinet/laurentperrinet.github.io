@@ -46,7 +46,6 @@ tags:
 - area-v1
 title: Orientation selectivity to synthetic natural patterns in a cortical-like model
   of the cat primary visual cortex
-url_pdf: https://www.abstractsonline.com/pp8/#!/7883/presentation/65859
 ---
 
 {{< tweet user="laurentperrinet" id="1186513282326257665" >}}

@@ -39,7 +39,6 @@ publication: '*Macroscopic aspects of neuronal activity: ''''Macroscopic models,
   models and VSD models'''' a FACETS workshop in Marseille, Nov. 30th /Dec. 1st*'
 title: Reading out the dynamics of lateral interactions in the primary visual cortex
   from VSD data
-url_pdf: https://laurentperrinet.github.io/talk/2009-11-30-vss/
 ---
 
 * see this more recent poster @ [VSS]({{< ref "/publication/perrinet-09-vss/index.md" >}})

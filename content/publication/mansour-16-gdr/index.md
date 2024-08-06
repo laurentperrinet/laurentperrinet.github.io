@@ -21,5 +21,4 @@ tags:
 - motion-clouds
 title: 'Voluntary tracking the moving clouds : Effects of speed variability on human
   smooth pursuit'
-url_pdf: https://laurentperrinet.github.io/publication/mansour-16-gdr
 ---

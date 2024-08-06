@@ -42,8 +42,6 @@ publication_types:
 tags:
 - Biologically Inspired Computer vision
 title: Biologically Inspired Computer Vision
-url_pdf: http://onlinelibrary.wiley.com/book/10.1002/9783527680863
-url_preprint: http://bicv.github.io/
 ---
 
 {{< figure src="header.jpg" title="Biologically Inspired Computer vision" >}}

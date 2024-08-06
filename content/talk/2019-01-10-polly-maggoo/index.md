@@ -20,7 +20,6 @@ publication: '**'
 publication_types:
 - inproceedings
 title: Rencontre avec les collégiens marseillais
-url_pdf: https://laurentperrinet.github.io/talk/2019-01-10-polly-maggoo/
 ---
 
 # Cinéma et sciences : rencontre avec les collégiens marseillais

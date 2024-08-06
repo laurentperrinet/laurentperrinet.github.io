@@ -18,7 +18,6 @@ tags:
 - Bayesian model
 - motion prediction
 title: Role of motion-based prediction in motion extrapolation
-url_pdf: https://laurentperrinet.github.io/publication/khoei-12-sfn
 ---
 
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}

@@ -18,6 +18,5 @@ tags:
 - sparse coding
 title: 'Demo 1, Task4: Implementation of models showing emergence of cortical fields
   and maps'
-url_pdf: https://laurentperrinet.github.io/talk/2011-10-05-brain-scales-ess/
 url_slides: 2011-10-05-brain-scales-ess-talk.pdf
 ---

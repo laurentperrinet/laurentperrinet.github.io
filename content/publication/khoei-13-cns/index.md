@@ -22,7 +22,6 @@ tags:
 - motion prediction
 title: Motion-based prediction and development of the response to an 'on the way'
   stimulus
-url_pdf: https://laurentperrinet.github.io/publication/khoei-13-cns
 ---
 
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}

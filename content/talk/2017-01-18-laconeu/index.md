@@ -17,7 +17,6 @@ projects: []
 publication: '*Workshop on Computational Neuroscience entitled "New trends and challenges
   for 2030"*'
 title: 'Back to the present: how neurons deal with delays'
-url_pdf: https://laurentperrinet.github.io/talk/2017-01-18-laconeu/
 ---
 
 ![Chile](http://laconeu.cl/wp-content/uploads/2018/04/Valparaiso-3.jpg)

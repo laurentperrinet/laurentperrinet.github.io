@@ -45,5 +45,4 @@ tags:
 - psychophysics
 title: 'Pattern discrimination for moving random textures: Richer stimuli are more
   difficult to recognize'
-url_pdf: http://dx.doi.org/10.1167/11.11.749
 ---

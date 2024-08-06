@@ -22,6 +22,4 @@ publication_types:
 tags:
 - eye movements
 title: Reinforcement effects in anticipatory smooth eye movements
-url_pdf: https://jov.arvojournals.org/article.aspx?articleid=2707670
-url_preprint: https://hal-amu.archives-ouvertes.fr/hal-01901640v1
 ---

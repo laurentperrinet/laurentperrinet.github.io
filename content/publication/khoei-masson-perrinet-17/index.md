@@ -53,8 +53,6 @@ tags:
 - motion prediction
 - psychophysics
 title: The flash-lag effect as a motion-based predictive shift
-url_pdf: https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/
-url_preprint: https://hal-amu.archives-ouvertes.fr/hal-01771125
 ---
 
 * [Press release](http://www.cnrs.fr/insb/recherche/parutions/articles2017/l-perrinet.html")

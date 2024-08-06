@@ -38,7 +38,6 @@ tags:
 - sparse coding
 title: Functional consequences of correlated excitatory and inhibitory conductances
   in cortical networks
-url_pdf: http://www.ncbi.nlm.nih.gov/pubmed/20490645
 ---
 
 ![header](kremkow-10-jcns.png)

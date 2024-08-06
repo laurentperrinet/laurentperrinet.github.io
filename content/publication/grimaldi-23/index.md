@@ -52,7 +52,6 @@ tags:
 - neuromorphic hardware
 - online classification
 title: A Robust Event-Driven Approach to Always-on Object Recognition
-url_pdf: https://laurentperrinet.github.io/publication/grimaldi-23/
 ---
 
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23/hots.png" title="The HOTS architecture." width="100%" >}}

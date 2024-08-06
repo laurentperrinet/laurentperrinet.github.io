@@ -41,8 +41,6 @@ tags:
 - deep-learning
 - sparse coding
 title: Effect of top-down connections in Hierarchical Sparse Coding
-url_pdf: https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/
-url_preprint: https://arxiv.org/abs/2002.00892
 ---
 
 {{< tweet user="laurentperrinet" id="1323549136088694790" >}}

@@ -43,5 +43,4 @@ publication_types:
 tags:
 - motion-clouds
 title: How and why do image frequency properties influence perceived speed?
-url_pdf: https://laurentperrinet.github.io/publication/meso-13-vss
 ---

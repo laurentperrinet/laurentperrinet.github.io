@@ -47,8 +47,6 @@ summary: 'Les objectifs sont : -- mieux comprendre la fonction de la perception 
   dynamique de la perception ; -- mieux comprendre le rôle de l''action dans la perception.'
 tags: []
 title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
-url_pdf: https://laurentperrinet.github.io/talk/2019-04-18-jnlf
-url_preprint: https://www.em-consulte.com/e-tap/1283936/ftafhrsrftfxjyjaaumj
 ---
 
 * Le texte de cette présentation est reprise dans cet article de [The Conversation](https://laurentperrinet.github.io/publication/perrinet-19-temps/) ([lien direct](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567)).

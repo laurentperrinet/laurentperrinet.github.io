@@ -53,7 +53,6 @@ tags:
 title: Kernel Heterogeneity Improves Sparseness of Natural Images Representations
 url_code: ''
 url_dataset: ''
-url_pdf: https://laurentperrinet.github.io/publication/ladret-24-sparse/
 url_poster: ''
 url_project: ''
 url_slides: ''

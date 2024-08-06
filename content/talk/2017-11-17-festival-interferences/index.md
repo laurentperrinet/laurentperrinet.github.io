@@ -15,7 +15,6 @@ publication: '**'
 publication_types:
 - inproceedings
 title: Participation au jury
-url_pdf: https://laurentperrinet.github.io/talk/2017-11-17-festival-interferences/
 ---
 
 # FESTIVAL INTERFÉRENCES​

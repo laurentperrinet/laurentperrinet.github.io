@@ -18,5 +18,4 @@ tags:
 - eye movements
 - Smooth pursuit eye movement
 title: Modeling the effect of dynamic contingencies on anticipatory eye movements
-url_pdf: https://laurentperrinet.github.io/publication/damasse-16-ecvp
 ---

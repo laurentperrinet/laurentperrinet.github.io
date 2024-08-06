@@ -36,7 +36,6 @@ tags:
 - psychophysics
 title: 'More is not always better: dissociation between perception and action explained
   by adaptive gain control'
-url_pdf: http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.3229.html
 ---
 
 ![header](simoncini-12.png)

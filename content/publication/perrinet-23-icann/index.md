@@ -44,7 +44,6 @@ subtitle: ''
 tags: []
 title: Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a
   Spiking Neural Network
-url_pdf: https://laurentperrinet.github.io/publication/perrinet-23-icann/
 ---
 
 * paper presented during the [32nd International Conference on Artificial Neural Networks (ICANN 2023)](https://e-nns.org/icann2023/)

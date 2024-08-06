@@ -31,6 +31,4 @@ tags:
 - Biologically Inspired Computer vision
 title: 'M2APix: a bio-inspired auto-adaptive visual sensor for robust ground height
   estimation'
-url_pdf: https://ieeexplore.ieee.org/abstract/document/8351433
-url_preprint: https://hal-amu.archives-ouvertes.fr/hal-01899440
 ---

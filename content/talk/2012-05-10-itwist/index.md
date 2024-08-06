@@ -47,7 +47,6 @@ tags:
 - sparse coding
 title: 'Edge statistics in natural images versus laboratory animal environments: implications
   for understanding lateral connectivity in V1'
-url_pdf: https://laurentperrinet.github.io/talk/2012-05-10-itwist/
 url_slides: Perrinet12itwist.pdf
 ---
 

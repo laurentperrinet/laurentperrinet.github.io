@@ -34,5 +34,4 @@ publication_types:
 tags:
 - active inference
 title: Active inference, eye movements and oculomotor delays
-url_pdf: https://laurentperrinet.github.io/publication/perrinet-13-jffos
 ---

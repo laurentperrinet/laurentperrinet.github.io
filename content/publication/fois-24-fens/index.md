@@ -38,5 +38,4 @@ publishDate: '2024-04-05T08:22:04.452494Z'
 subtitle: ''
 tags: []
 title: Self-Supervised Learning of Spiking Motifs in Neurobiological Data
-url_pdf: https://laurentperrinet.github.io/publication/fois-24-fens/
 ---

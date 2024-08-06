@@ -44,5 +44,4 @@ publication_types:
 tags:
 - motion-clouds
 title: 'Beyond simply faster and slower: exploring paradoxes in speed perception'
-url_pdf: http://dx.doi.org/10.1167/14.10.491
 ---

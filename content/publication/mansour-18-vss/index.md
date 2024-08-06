@@ -46,5 +46,4 @@ publication_types:
 tags:
 - motion detection
 title: Speed uncertainty and motion perception with naturalistic random textures
-url_pdf: https://laurentperrinet.github.io/publication/mansour-18-vss
 ---

@@ -25,7 +25,6 @@ subtitle: ''
 tags: []
 title: Pooling in a predictive model of V1 explains functional and structural diversity
   across species
-url_pdf: https://laurentperrinet.github.io/talk/2021-06-15-smb
 ---
 
 {{< tweet user="laurentperrinet" id="1233458739220504578" >}}

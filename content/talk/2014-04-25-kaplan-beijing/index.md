@@ -20,7 +20,6 @@ tags:
 - motion detection
 title: Signature of an anticipatory response in area V1 as modeled by a probabilistic
   model and a spiking neural network
-url_pdf: https://laurentperrinet.github.io/talk/2014-04-25-kaplan-beijing/
 ---
 
 * see [Kaplan and al, 2014]({{< ref "/publication/kaplan-khoei-14" >}})

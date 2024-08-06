@@ -16,5 +16,4 @@ tags:
 - computational neuroscience
 title: Proceedings of the second french conference on Computational Neuroscience,
   Marseille
-url_pdf: https://hal.archives-ouvertes.fr/NEUROCOMP08
 ---

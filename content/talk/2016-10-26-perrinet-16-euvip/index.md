@@ -18,5 +18,4 @@ publication: '*EUVIP (Special Session): Biologically Inspired Computer Vision - 
 tags:
 - Biologically Inspired Computer vision
 title: Biologically-inspired characterization of sparseness in natural images
-url_pdf: https://laurentperrinet.github.io/publication/perrinet-16-euvip/
 ---

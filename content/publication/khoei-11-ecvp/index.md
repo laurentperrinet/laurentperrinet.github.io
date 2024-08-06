@@ -21,7 +21,6 @@ tags:
 - bayesian model
 - motion prediction
 title: Role of motion inertia in dynamic motion integration for smooth pursuit
-url_pdf: https://laurentperrinet.github.io/publication/khoei-11-ecvp/
 ---
 
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}

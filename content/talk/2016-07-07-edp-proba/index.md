@@ -19,7 +19,6 @@ publication: '*Summer School: PDE and Probability for Life Sciences @ CIRM, Mars
   - http://scientific-events.weebly.com/prog-1426.html - CIRM, July 7th, 2016*'
 title: 'Modelling the dynamics of cognitive processes: from the Bayesian brain to
   particles'
-url_pdf: https://laurentperrinet.github.io/talk/2016-07-07-edp-proba/
 ---
 
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

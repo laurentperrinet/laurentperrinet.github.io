@@ -25,8 +25,6 @@ publishDate: '2024-04-05T08:38:46.355166Z'
 subtitle: ''
 tags: []
 title: 'La vision comme processus prédictif: Une approche bio-mimétique'
-url_pdf: https://laurentperrinet.github.io/publication/perrinet-20-dr/
-url_preprint: https://tel.archives-ouvertes.fr/tel-00002693/file/tel-000026931.pdf
 ---
 
 * Suite de mes travaux d'habilitation à diriger des recherches (HDR) sur le thème de la vision comme processus prédictif. {{< cite page="/publication/perrinet-14-hdr" view="4" >}}

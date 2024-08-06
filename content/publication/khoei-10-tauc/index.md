@@ -23,7 +23,6 @@ tags:
 - tracking eye movements
 - Visual perception
 title: Dynamical emergence of a neural solution for motion integration
-url_pdf: https://laurentperrinet.github.io/publication/khoei-10-tauc/
 ---
 
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}

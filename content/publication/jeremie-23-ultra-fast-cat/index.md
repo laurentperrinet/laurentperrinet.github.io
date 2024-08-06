@@ -55,7 +55,6 @@ tags:
 - psychophysics
 - ultra-fast categorization
 title: Ultra-Fast Image Categorization in biology and in neural models
-url_preprint: http://arxiv.org/abs/2205.03635
 ---
 
 {{< video src="Jeremie-etal-Vision_video-abstract.mp4" controls="yes" >}}

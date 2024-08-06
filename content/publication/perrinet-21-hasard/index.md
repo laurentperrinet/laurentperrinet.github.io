@@ -26,8 +26,6 @@ publication: '*The Conversation*'
 publication_types:
 - article-journal
 title: Le jeu du cerveau et du hasard
-url_pdf: https://laurentperrinet.github.io/publication/perrinet-21-hasard/
-url_preprint: https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388
 ---
 
 * Ce texte est disponible dans cet article de [The Conversation](https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388).

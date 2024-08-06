@@ -34,5 +34,4 @@ tags:
 - sparselets
 - statistics of natural images
 title: Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences
-url_pdf: http://dx.doi.org/10.1109/EUSIPCO.2015.7362781
 ---

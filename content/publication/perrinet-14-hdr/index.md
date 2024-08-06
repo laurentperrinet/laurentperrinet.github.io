@@ -23,8 +23,6 @@ publishDate: '2024-04-05T08:28:28.491801Z'
 subtitle: ''
 tags: []
 title: Codage prédictif dans les transformations visuo-motrices
-url_pdf: https://laurentperrinet.github.io/post/2014-04-17_hdr/
-url_preprint: https://tel.archives-ouvertes.fr/tel-00002693/file/tel-000026931.pdf
 ---
 
 * {{< cite page="/post/2014-04-17_hdr" view="4" >}}

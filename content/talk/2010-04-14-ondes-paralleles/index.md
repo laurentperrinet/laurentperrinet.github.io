@@ -28,7 +28,6 @@ publication: '*intervention autour du vernissage de "Diffraction monochromatique
 publication_types:
 - inproceedings
 title: Diffraction monochromatique, spectre audiographique
-url_pdf: https://laurentperrinet.github.io/talk/2010-04-14-ondes-paralleles/
 ---
 
 # Diffraction monochromatique, spectre audiographique

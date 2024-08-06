@@ -34,5 +34,4 @@ publication_types:
 tags:
 - active inference
 title: Compensation of oculomotor delays in the visual system's network
-url_pdf: https://laurentperrinet.github.io/publication/perrinet-16-networks
 ---

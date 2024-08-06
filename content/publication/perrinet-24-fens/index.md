@@ -41,5 +41,4 @@ subtitle: ''
 tags: []
 title: Accurate Detection of Spiking Motifs in Neurobiological Data by Learning Heterogeneous
   Delays of a Spiking Neural Network
-url_pdf: https://laurentperrinet.github.io/publication/perrinet-24-fens/
 ---

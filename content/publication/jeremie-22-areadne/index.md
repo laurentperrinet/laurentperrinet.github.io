@@ -47,7 +47,6 @@ tags:
 - ultra-fast categorization
 - visual search
 title: Ultra-rapid visual search in natural images using active deep learning
-url_pdf: https://areadne.org/
 ---
 
 * This work extends to natural scenes a previous work on visual search on a simplified task formulated in  {{< cite page="/publication/dauce-20" view="4" >}}

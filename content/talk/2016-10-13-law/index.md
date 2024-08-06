@@ -19,7 +19,6 @@ publication: '*Lyon Active Inference Workshop (LAW) https://law2016.sciencesconf
   - October 13th, 2016*'
 title: Eye movements as a model for active inference
 url_code: ''
-url_pdf: https://laurentperrinet.github.io/talk/2016-10-13-law/
 ---
 
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}

@@ -40,7 +40,6 @@ show_authors_only: false
 subtitle: ''
 tags: []
 title: Which sparsity problem does the brain solve?
-url_pdf: https://laurentperrinet.github.io/publication/rentzeperis-22-areadne/
 ---
 
 * Follow-up paper {{< cite page="/publication/rentzeperis-23" view="4" >}}

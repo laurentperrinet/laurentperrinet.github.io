@@ -45,7 +45,6 @@ tags:
 - pynn
 title: Signature of an anticipatory response in area V1 as modeled by a probabilistic
   model and a spiking neural network
-url_pdf: https://laurentperrinet.github.io/publication/kaplan-khoei-14
 ---
 
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}

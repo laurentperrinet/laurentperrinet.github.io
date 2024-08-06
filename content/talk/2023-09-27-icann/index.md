@@ -29,8 +29,8 @@ publishDate: '2023-09-10T15:59:14.546901Z'
 slides: 2023-09-27_icann
 subtitle: ''
 tags: []
-title: 'Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a
-  Spiking Neural Network '
+title: Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a
+  Spiking Neural Network
 ---
 
 * Hybrid Session, Room 2

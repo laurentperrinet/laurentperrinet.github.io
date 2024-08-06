@@ -24,5 +24,4 @@ tags:
 - stdp
 title: 'Network of integrate-and-fire neurons using Rank Order Coding B: spike timing
   dependant plasticity and emergence of orientation selectivity'
-url_pdf: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.18.4990
 ---

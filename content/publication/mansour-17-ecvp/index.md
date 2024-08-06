@@ -20,5 +20,4 @@ tags:
 - motion detection
 - motion-clouds
 title: How the dynamics of human smooth pursuit is influenced by speed uncertainty
-url_pdf: https://laurentperrinet.github.io/publication/mansour-17-ecvp/
 ---

@@ -51,7 +51,6 @@ tags:
 - neuromorphic hardware
 - online classification
 title: From event-based computations to a bio-plausible Spiking Neural Network
-url_pdf: https://symposium.fchampalimaud.science/Poster-sessions
 url_video: https://www.youtube.com/watch?v=aIt5OAleMR8
 ---
 

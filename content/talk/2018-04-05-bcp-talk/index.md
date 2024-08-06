@@ -22,7 +22,6 @@ publication: '*Probabilities and Optimal Inference to Understand the Brain, INT,
   (France)*'
 title: Principles and psychophysics of Active Inference in anticipating a dynamic,
   switching probabilistic bias
-url_pdf: https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/
 ---
 
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}

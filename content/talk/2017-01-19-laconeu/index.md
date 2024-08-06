@@ -20,5 +20,4 @@ publication: '*LACONEU2017:  4th Latin-American Summer School in Computational N
 tags:
 - Biologically Inspired Computer vision
 title: 'Tutorial: Sparse optimization in neural computations'
-url_pdf: https://laurentperrinet.github.io/talk/2017-01-19-laconeu/
 ---

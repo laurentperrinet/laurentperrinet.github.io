@@ -60,7 +60,6 @@ tags:
 - coding decoding
 title: A dynamic model for decoding direction and orientation in macaque primary visual
   cortex
-url_pdf: http://jov.arvojournals.org/article.aspx?articleid=2433592
 ---
 
 * see a follow-up in this [poster]({{< ref "/publication/taouali-16-areadne" >}})

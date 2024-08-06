@@ -12,7 +12,6 @@ links:
 publication: '*Visual motion Fest - Invibe Team – INT / Marseille February 1 & 2,
   2018*'
 title: Estimating and anticipating a dynamic probabilistic bias in visual motion direction
-url_pdf: https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/
 ---
 
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}

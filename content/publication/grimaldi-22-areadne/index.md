@@ -46,7 +46,6 @@ tags:
 - homeostasis
 - online classification
 title: Decoding spiking motifs using neurons with heterogeneous delays
-url_pdf: https://areadne.org/
 ---
 
 {{< tweet user="laurentperrinet" id="1546471536571342849" >}}

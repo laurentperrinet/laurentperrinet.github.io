@@ -37,7 +37,6 @@ tags:
 - motion-clouds
 title: 'Motion Clouds: Model-based stimulus synthesis of natural-like random textures
   for the study of motion perception'
-url_preprint: https://arxiv.org/abs/1208.6467
 ---
 
 ![header](sanz-12.png)

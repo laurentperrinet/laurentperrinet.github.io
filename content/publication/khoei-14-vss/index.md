@@ -44,7 +44,6 @@ tags:
 - motion detection
 - motion prediction
 title: Motion-based prediction model for flash lag effect
-url_pdf: http://dx.doi.org/10.1167/14.10.471
 ---
 
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}

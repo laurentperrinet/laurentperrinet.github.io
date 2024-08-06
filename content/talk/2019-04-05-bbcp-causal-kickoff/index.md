@@ -41,7 +41,6 @@ publication_types:
 - inproceedings
 title: Should I stay or should I go? Adaption of human observers to the volatility
   of visual inputs
-url_pdf: https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff
 ---
 
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}

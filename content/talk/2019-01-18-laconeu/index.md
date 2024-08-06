@@ -20,7 +20,6 @@ publication: '*LACONEU 2019: 5th Latin-American Summer School in Computational N
   Valparaiso (Chile)*'
 title: Should I stay or should I go? Adaption of human observers to the volatility
   of visual inputs
-url_pdf: https://laurentperrinet.github.io/talk/2019-01-18-laconeu/
 ---
 
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}

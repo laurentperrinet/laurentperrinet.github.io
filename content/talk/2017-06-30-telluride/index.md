@@ -15,5 +15,4 @@ location: Telluride, CO
 publication: '*Telluride Neuromorphic Workshop, Workgroup on Compound Eyes and Event-based
   Vision*'
 title: Tutorial on predictive coding
-url_pdf: https://laurentperrinet.github.io/talk/2017-06-30-telluride
 ---

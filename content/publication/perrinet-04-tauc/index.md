@@ -40,6 +40,4 @@ tags:
 - sparse hebbian learning
 - spike
 title: 'Feature detection using spikes : the greedy approach'
-url_pdf: http://dx.doi.org/10.1016/j.jphysparis.2005.09.012
-url_preprint: https://arxiv.org/abs/q-bio/0611003
 ---

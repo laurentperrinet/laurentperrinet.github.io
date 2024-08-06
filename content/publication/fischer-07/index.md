@@ -22,7 +22,6 @@ tags:
 - motion-clouds
 title: Sparse Approximation of Images Inspired from the Functional Architecture of
   the Primary Visual Areas
-url_pdf: http://dx.doi.org/10.1155/2007/90727
 ---
 
 * relies on log-Gabor filters: {{< cite page="/publication/fischer-07-cv" view="4" >}}

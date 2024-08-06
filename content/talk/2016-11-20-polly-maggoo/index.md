@@ -15,7 +15,6 @@ publication: '*Cinésciences, collège Clair Soleil (Marseille)*'
 publication_types:
 - inproceedings
 title: Participation au jury et entretien avec Clara Delmon
-url_pdf: https://laurentperrinet.github.io/talk/2016-11-20-polly-maggoo/
 ---
 
 # RENCONTRES INTERNATIONALES SCIENCES & CINÉMAS

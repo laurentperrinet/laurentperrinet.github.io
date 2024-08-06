@@ -51,7 +51,6 @@ tags:
 - sparse coding
 title: 'Edge statistics in natural images versus laboratory animal environments: implications
   for understanding lateral connectivity in V1'
-url_pdf: https://laurentperrinet.github.io/talk/2011-09-28-ermites/
 ---
 
 * See a followup in {{< cite page="/publication/perrinet-bednar-15" view="4" >}}

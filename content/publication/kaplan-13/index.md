@@ -40,7 +40,6 @@ tags:
 - spike
 title: Anisotropic connectivity implements motion-based prediction in a spiking neural
   network
-url_pdf: https://laurentperrinet.github.io/publication/kaplan-13
 ---
 
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}

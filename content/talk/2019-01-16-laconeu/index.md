@@ -19,5 +19,4 @@ projects: []
 publication: '*LACONEU 2019: 5th Latin-American Summer School in Computational Neuroscience,
   Valparaiso (Chile)*'
 title: Efficient coding of visual information in neural computations
-url_pdf: https://laurentperrinet.github.io/talk/2019-01-16-laconeu/
 ---

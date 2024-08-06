@@ -20,7 +20,6 @@ tags:
 - deep-learning
 - sparse coding
 title: Modelling Complex Cells of Early Visual Cortex using Predictive Coding
-url_pdf: https://www.cnsorg.org/cns-2019-poster-presentation-guide
 ---
 
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}

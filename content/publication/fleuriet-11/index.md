@@ -39,5 +39,4 @@ tags:
 - eye movements
 - motion detection
 title: Saccadic foveation of a moving visual target in the rhesus monkey
-url_pdf: http://dx.doi.org/10.1152/jn.00622.2010
 ---

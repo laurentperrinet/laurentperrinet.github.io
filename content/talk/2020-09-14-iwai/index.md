@@ -39,7 +39,6 @@ publication: '*IWAI 2020*'
 publication_types:
 - inproceedings
 title: Visual search as active inference
-url_pdf: https://whova.com/embedded/subsession/ecmlp_202009/1215095/1215123/
 ---
 
 * see proceedings paper: {{< cite page="/publication/dauce-20-iwai" view="4" >}}

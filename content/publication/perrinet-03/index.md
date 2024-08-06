@@ -17,5 +17,4 @@ tags:
 - receptive field
 - sparse coding
 title: Emergence of filters from natural scenes in a sparse spike coding scheme
-url_pdf: http://dx.doi.org/10.1016/j.neucom.2004.01.133
 ---

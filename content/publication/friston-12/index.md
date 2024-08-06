@@ -36,7 +36,6 @@ tags:
 - free energy
 - psychophysics
 title: 'Perceptions as Hypotheses: Saccades as Experiments'
-url_pdf: http://dx.doi.org/10.3389/fpsyg.2012.00151
 ---
 
 ![header](friston-12.png)

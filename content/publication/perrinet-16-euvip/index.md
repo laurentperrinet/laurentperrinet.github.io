@@ -33,6 +33,4 @@ tags:
 - Image texture
 - sparse coding
 title: Biologically-inspired characterization of sparseness in natural images
-url_pdf: http://ieeexplore.ieee.org/document/7764592/
-url_preprint: https://arxiv.org/abs/1702.02485
 ---

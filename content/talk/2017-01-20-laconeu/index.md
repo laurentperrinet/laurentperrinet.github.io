@@ -19,5 +19,4 @@ projects:
 publication: '*LACONEU2017:  4th Latin-American Summer School in Computational Neuroscience*'
 title: 'Tutorial: Active inference for eye movements: Bayesian methods, neural inference,
   dynamics'
-url_pdf: https://laurentperrinet.github.io/talk/2017-01-20-laconeu/
 ---

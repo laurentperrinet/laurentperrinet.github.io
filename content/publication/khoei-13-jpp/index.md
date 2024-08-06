@@ -47,7 +47,6 @@ tags:
 - motion detection
 - motion prediction
 title: Motion-based prediction explains the role of tracking in motion extrapolation
-url_pdf: https://laurentperrinet.github.io/publication/khoei-13-jpp/
 ---
 
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}

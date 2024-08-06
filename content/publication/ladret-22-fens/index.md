@@ -25,7 +25,6 @@ subtitle: ''
 tags: []
 title: Recurrent cortical connectivity in the primary visual cortex supports robust
   encoding of natural sensory inputs
-url_pdf: https://laurentperrinet.github.io/publication/ladret-22-fens/
 ---
 
 {{< tweet user="laurentperrinet" id="1545743191198121985" >}}

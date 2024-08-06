@@ -38,7 +38,6 @@ publishDate: '2022-06-16T11:51:41.890310Z'
 subtitle: ''
 tags: []
 title: A resilient neural code in V1 to process natural images
-url_pdf: https://areadne.org/
 ---
 
 {{< tweet user="laurentperrinet" id="1542724828658016256" >}}

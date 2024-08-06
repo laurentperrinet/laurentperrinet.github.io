@@ -22,7 +22,6 @@ publication_types:
 tags:
 - motion-clouds
 title: Biologically Inspired Dynamic Textures for Probing Motion Perception
-url_preprint: https://arxiv.org/abs/1511.02705
 ---
 
 * Talk @ NeurIPS: https://neurips.cc/Conferences/2015/Schedule?showEvent=5418

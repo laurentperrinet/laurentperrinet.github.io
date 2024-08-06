@@ -15,7 +15,6 @@ publication: '**'
 publication_types:
 - inproceedings
 title: Intervention fête de la science 2018
-url_pdf: https://laurentperrinet.github.io/talk/2018-10-10-polly-maggoo/
 ---
 
 # FÊTE DE LA SCIENCE 2018 : Alcazar / MERLAN

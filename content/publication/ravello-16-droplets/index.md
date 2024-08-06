@@ -26,8 +26,6 @@ tags:
 - sparse coding
 title: Differential response of the retinal neural code with respect to the sparseness
   of natural images
-url_pdf: https://laurentperrinet.github.io/publication/ravello-16-droplets
-url_preprint: https://arxiv.org/abs/1611.06834
 ---
 
 {{< figure src="retina.png" title="Sparse coding of images in the retina follows regular statistics at the global, not the local scale" numbered="true" >}}

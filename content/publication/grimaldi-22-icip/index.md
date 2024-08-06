@@ -45,7 +45,6 @@ tags:
 - event-based vision
 - neuromorphic hardware
 title: Learning heterogeneous delays of spiking neurons for motion detection
-url_pdf: https://ieeexplore.ieee.org/document/9897394/
 ---
 
 * see a follow-up as journal paper: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}

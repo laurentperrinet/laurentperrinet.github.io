@@ -26,7 +26,6 @@ tags:
 - motion prediction
 title: 'Probabilistic models of the low-level visual system: the role of prediction
   in detecting motion'
-url_pdf: https://laurentperrinet.github.io/talk/2010-12-17-tauc-talk/
 ---
 
 An event ranging "From Mathematical Image Analysis to Neurogeometry of the Brain" [LADISLAV TAUC & GDR MSPC NEUROSCIENCES CONFERENCE](http://www.conftauc.cnrs-gif.fr/programme.php).

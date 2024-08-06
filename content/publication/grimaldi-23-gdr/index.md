@@ -37,7 +37,6 @@ publishDate: '2023-03-22T15:35:38.869745Z'
 subtitle: ''
 tags: []
 title: Learning heterogeneous delays of spiking neurons for motion detection
-url_pdf: https://gdr-vision-2023.sciencesconf.org/browse?forward-action=index&forward-controller=browse&docid=442297&lang=en
 ---
 
 * see a follow-up as journal paper: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}

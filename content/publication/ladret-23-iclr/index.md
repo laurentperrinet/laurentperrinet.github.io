@@ -40,7 +40,6 @@ tags:
 - sparse
 - uncertainty
 title: Convolutional Sparse Coding is improved by heterogeneous uncertainty modeling
-url_pdf: https://laurentperrinet.github.io/publication/ladret-23-iclr/
 ---
 
 * Accepted paper (poster) at the [ICLR 2023 Workshop on

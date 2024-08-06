@@ -21,7 +21,6 @@ tags:
 - Biologically Inspired Computer vision
 title: Categorization of microscopy images using a biologically inspired edge co-occurrences
   descriptor
-url_pdf: https://laurentperrinet.github.io/talk/2016-10-26-fillatre-barlaud-perrinet-16-euvip/
 ---
 
 * See a followup in {{< cite page="/publication/perrinet-bednar-15" view="4" >}}

@@ -42,8 +42,6 @@ tags:
 - sparse coding
 title: Edge co-occurrences can account for rapid categorization of natural versus
   animal images
-url_pdf: http://www.nature.com/articles/srep11400
-url_preprint: https://hal-amu.archives-ouvertes.fr/hal-01202447
 ---
 
 * [Press release](http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html)

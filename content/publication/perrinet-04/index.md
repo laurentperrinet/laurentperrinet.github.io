@@ -36,5 +36,4 @@ tags:
 - unsupervised learning
 title: 'Finding Independent Components using spikes : a natural result of Hebbian
   learning in a sparse spike coding scheme'
-url_pdf: http://dx.doi.org/10.1023/B:NACO.0000027753.27593.a7
 ---

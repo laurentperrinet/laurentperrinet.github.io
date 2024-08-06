@@ -18,5 +18,4 @@ publication_types:
 tags:
 - Bayesian model
 title: 'Anticipating a moving target: role of vision and reinforcement'
-url_pdf: https://laurentperrinet.github.io/publication/montagnini-15-sfn
 ---

@@ -30,7 +30,6 @@ tags:
 - neuromorphic hardware
 - online classification
 title: Learning heterogeneous delays of spiking neurons for motion detection
-url_pdf: https://laurentperrinet.github.io/publication/grimaldi-22-fens/
 ---
 
 {{< tweet user="laurentperrinet" id="1546471536571342849" >}}

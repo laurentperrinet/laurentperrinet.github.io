@@ -31,7 +31,6 @@ tags:
 - Image texture
 - sparse coding
 title: Advances in Texture Analysis for Emphysema Classification
-url_pdf: http://dx.doi.org/10.1007/978-3-642-41827-3_27
 ---
 
 * relies on log-Gabor filters: {{< cite page="/publication/fischer-07-cv" view="4" >}}

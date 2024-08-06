@@ -33,7 +33,6 @@ tags:
 - area-v1
 - association field
 title: Phase space analysis of networks based on biologically realistic parameters
-url_pdf: http://dx.doi.org/10.1016/j.jphysparis.2009.11.004
 ---
 
 ![header](voges-10-jpp.png)

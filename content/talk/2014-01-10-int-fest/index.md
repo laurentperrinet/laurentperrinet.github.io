@@ -35,5 +35,4 @@ tags:
 - motion detection
 - predictive coding
 title: Axonal delays and on-time control of eye movements
-url_pdf: https://laurentperrinet.github.io/talk/2014-01-10-int-fest/
 ---

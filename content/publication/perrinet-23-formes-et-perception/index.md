@@ -16,7 +16,6 @@ tags:
 - vision
 - perception
 title: Formes & perception
-url_pdf: https://laurentperrinet.github.io/2023-01-31_formes-et-perception
 ---
 
 {{< figure src="retinotopy_dpi800.png" title="*Rétinotopie.* L’image du tableau “Les Ambassadeurs” de Hans Holbein le Jeune peut être représentée sur une grille régulière représentée par des lignes verticales (rouges) et horizontales (bleues). La rétinotopie transforme radicalement cette grille, et en particulier la zone représentant la fovéa (en gris) occupe environ la moitié de l’espace dans l’espace rétinien. Appliquée à l’image originale du portrait, l’image est fortement déformée et représente plus finalement les parties situées sous l’axe de vision (ici la main)." numbered="true" >}}

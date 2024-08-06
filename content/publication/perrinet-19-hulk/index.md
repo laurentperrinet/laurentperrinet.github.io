@@ -50,8 +50,6 @@ tags:
 - sparse hebbian learning
 - unsupervised learning
 title: An adaptive homeostatic algorithm for the unsupervised learning of visual features
-url_pdf: https://spikeai.github.io/HULK/
-url_preprint: https://laurentperrinet.github.io/publication/perrinet-19-hulk/
 ---
 
 # "An adaptive algorithm for unsupervised learning"

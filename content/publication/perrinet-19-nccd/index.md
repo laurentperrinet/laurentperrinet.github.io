@@ -51,5 +51,4 @@ tags:
 - coding decoding
 title: A dynamic model for decoding direction and orientation in macaque primary visual
   cortex
-url_pdf: https://laurentperrinet.github.io/publication/perrinet-19-nccd
 ---

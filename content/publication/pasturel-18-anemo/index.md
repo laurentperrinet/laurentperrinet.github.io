@@ -21,8 +21,6 @@ publication_types:
 tags:
 - motion anticipation
 title: 'ANEMO: Quantitative tools for the ANalysis of Eye MOvements'
-url_pdf: https://laurentperrinet.github.io/publication/pasturel-18-anemo
-url_preprint: https://hal.science/hal-04157003
 ---
 
 * see a write-up in "[Humans adapt their anticipatory eye movements to the volatility of visual motion properties](https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/)"

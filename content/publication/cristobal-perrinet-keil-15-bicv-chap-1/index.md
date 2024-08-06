@@ -27,8 +27,6 @@ publication_types:
 tags:
 - Biologically Inspired Computer vision
 title: Introduction
-url_pdf: http://bicv.github.io/chap1/
-url_preprint: http://bicv.github.io/chap1/
 ---
 
 {{< figure src="mindmap.png" title="Mindmap of the book contents. Cross-links between chapters have been indicated as thin lines." >}}

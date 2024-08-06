@@ -45,7 +45,6 @@ location: Washington, DC
 publication: '*Society for Neuroscience Abstracts*'
 title: 'Edge statistics in natural images versus laboratory animal environments: implications
   for understanding lateral connectivity in V1'
-url_pdf: https://laurentperrinet.github.io/talk/2011-11-15-sfn/
 ---
 
 * Abstract Control Number: 17671

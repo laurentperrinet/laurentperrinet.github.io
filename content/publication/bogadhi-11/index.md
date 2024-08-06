@@ -45,7 +45,6 @@ tags:
 - Bayesian model
 - predictive coding
 title: 'Pursuing motion illusions: a realistic oculomotor framework for Bayesian inference'
-url_pdf: http://dx.doi.org/10.1016/j.visres.2010.10.021
 ---
 
 ![header](bogadhi-11.png)

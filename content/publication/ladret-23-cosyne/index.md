@@ -55,7 +55,6 @@ tags:
 - predictive coding
 - V1
 title: Resilience to sensory uncertainty in the primary visual cortex
-url_pdf: https://www.world-wide.org/cosyne-23/resilience-sensory-uncertainty-primary-88600879/
 ---
 
 * This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}

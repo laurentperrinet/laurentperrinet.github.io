@@ -19,5 +19,4 @@ publication_types:
 tags:
 - Bayesian model
 title: Eye tracking a self-moved target with complex hand-target dynamics
-url_pdf: https://laurentperrinet.github.io/publication/danion-15-sfn
 ---

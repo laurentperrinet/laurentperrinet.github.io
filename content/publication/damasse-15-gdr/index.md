@@ -19,5 +19,4 @@ tags:
 - eye movements
 - Smooth pursuit eye movement
 title: Anticipatory smooth eye movements as operant behavior
-url_pdf: https://laurentperrinet.github.io/publication/damasse-15-gdr
 ---

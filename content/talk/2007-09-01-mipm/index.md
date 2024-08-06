@@ -21,5 +21,4 @@ links:
 publication: '*Mathematical image processing meeting (Marseille, France) September
   5*'
 title: Neural Codes for Adaptive Sparse Representations of Natural Images
-url_pdf: https://laurentperrinet.github.io/talk/2007-09-01-mipm
 ---

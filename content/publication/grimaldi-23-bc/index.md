@@ -31,7 +31,6 @@ tags:
 - polychronies
 title: Learning heterogeneous delays in a layer of spiking neurons for fast motion
   detection
-url_pdf: https://laurentperrinet.github.io/publication/grimaldi-23-bc/
 ---
 
 {{< video src="2023-09-14_HDSNN_video-abstract.mp4" controls="yes" >}}

@@ -34,7 +34,6 @@ tags:
 - Temporal evolution.
 title: 'Input-output transformation in the visuo-oculomotor loop: modeling the ocular
   following response to center-surround stimulation in a probabilistic framework'
-url_pdf: https://laurentperrinet.github.io/publication/perrinet-06-neurocomp/
 ---
 
 * related publication @ [SPIE 2008]({{< ref "/publication/perrinet-08-spie/index.md" >}})

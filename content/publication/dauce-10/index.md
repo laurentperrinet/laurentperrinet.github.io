@@ -25,5 +25,4 @@ publication_types:
 tags:
 - computational neuroscience
 title: Computational Neuroscience, from Multiple Levels to Multi-level
-url_pdf: http://dx.doi.org/10.1016/j.jphysparis.2009.11.001
 ---

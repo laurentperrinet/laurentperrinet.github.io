@@ -15,5 +15,4 @@ publication_types:
 tags:
 - spike
 title: Efficient Source Detection Using Integrate-and-Fire Neurons
-url_pdf: http://dx.doi.org/10.1007/11550822_27
 ---

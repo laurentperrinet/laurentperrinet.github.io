@@ -25,7 +25,6 @@ tags:
 - motion detection
 title: 'Probabilistic models of the low-level visual system: the role of prediction
   in detecting motion'
-url_pdf: https://laurentperrinet.github.io/publication/perrinet-10-tauc/
 ---
 
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

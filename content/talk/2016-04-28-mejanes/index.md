@@ -29,7 +29,6 @@ publication: '**'
 publication_types:
 - inproceedings
 title: Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
-url_pdf: https://laurentperrinet.github.io/sciblog/files/2016-04-28_mejanes/
 ---
 
 # Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
