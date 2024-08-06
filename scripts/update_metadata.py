@@ -249,15 +249,15 @@ def import_bibtex(
             if 'doi' in entry:
                 parsed_yaml['doi'] = f'{entry["doi"]}'
 
-            try:
-                _ = parsed_yaml.pop('url_pdf')
-            except:
-                pass
+            # try:
+            #     _ = parsed_yaml.pop('url_pdf')
+            # except:
+            #     pass
 
-            try:
-                _ = parsed_yaml.pop('url_preprint')
-            except:
-                pass
+            # try:
+            #     _ = parsed_yaml.pop('url_preprint')
+            # except:
+            #     pass
 
             metadata[1] = yaml.dump(parsed_yaml, encoding=('utf-8'), allow_unicode=True)
             metadata[1] = metadata[1].decode('utf-8')
