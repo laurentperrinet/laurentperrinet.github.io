@@ -17,38 +17,6 @@ from academic.publication_type import PUB_TYPES_BIBTEX_TO_CSL
 import os
 import glob
 
-
-def slugify(s, lower=True):
-    bad_symbols = (".", "_", ":")  # Symbols to replace with hyphen delimiter.
-    delimiter = "-"
-    good_symbols = (delimiter,)  # Symbols to keep.
-    for r in bad_symbols:
-        s = s.replace(r, delimiter)
-
-    s = re.sub(r"(\D+)(\d+)", r"\1\-\2", s)  # Delimit non-number, number.
-    s = re.sub(r"(\d+)(\D+)", r"\1\-\2", s)  # Delimit number, non-number.
-    s = re.sub(r"((?<=[a-z])[A-Z]|(?<!\A)[A-Z](?=[a-z]))", r"\-\1", s)  # Delimit camelcase.
-    s = "".join(c for c in s if c.isalnum() or c in good_symbols).strip()  # Strip non-alphanumeric and non-hyphen.
-    s = re.sub("-{2,}", "-", s)  # Remove consecutive hyphens.
-
-    if lower:
-        s = s.lower()
-    return s
-
-def month2number(month):
-    """Convert BibTeX or BibLateX month to numeric"""
-    from academic.cli import log
-
-    if len(month) <= 2:  # Assume a 1 or 2 digit numeric month has been given.
-        return month.zfill(2)
-    else:  # Assume a textual month has been given.
-        month_abbr = month.strip()[:3].title()
-        try:
-            return str(list(calendar.month_abbr).index(month_abbr)).zfill(2)
-        except ValueError:
-            log.error("Please update the entry with a valid month.")
-
-
 def getDateTimeFromISO8601String(s, full=False):
     d = dateutil.parser.parse(s)
     if not full:
@@ -256,6 +224,24 @@ def import_bibtex(
                 print('ERROR: could not save file.', e)
 
 
+def slugify(s, lower=True):
+    bad_symbols = (".", "_", ":")  # Symbols to replace with hyphen delimiter.
+    delimiter = "-"
+    good_symbols = (delimiter,)  # Symbols to keep.
+    for r in bad_symbols:
+        s = s.replace(r, delimiter)
+
+    s = re.sub(r"(\D+)(\d+)", r"\1\-\2", s)  # Delimit non-number, number.
+    s = re.sub(r"(\d+)(\D+)", r"\1\-\2", s)  # Delimit number, non-number.
+    s = re.sub(r"((?<=[a-z])[A-Z]|(?<!\A)[A-Z](?=[a-z]))", r"\-\1", s)  # Delimit camelcase.
+    s = "".join(c for c in s if c.isalnum() or c in good_symbols).strip()  # Strip non-alphanumeric and non-hyphen.
+    s = re.sub("-{2,}", "-", s)  # Remove consecutive hyphens.
+
+    if lower:
+        s = s.lower()
+    return s
+
+
 def clean_bibtex_authors(author_str):
     """Convert author names to `firstname(s) lastname` format."""
     authors = []
@@ -279,27 +265,27 @@ def clean_bibtex_authors(author_str):
         for item in first_names:
             if item in ["ben", "van", "der", "de", "la", "le"]:
                 last_name = first_names.pop() + " " + last_name
-        #authors.append(f'"{" ".join(first_names)} {last_name}"')
-        authors.append(f'{" ".join(first_names)} {last_name}')
+
+        authors.append(" ".join(first_names) + " " + last_name)
 
     return authors
 
 
 def clean_bibtex_str(s):
-    """Clean BibTeX string and escape YAML special characters"""
+    """Clean BibTeX string and escape TOML special characters"""
     s = s.replace("\\", "")
     s = s.replace('"', '\\"')
-    s = s.replace("$ell_1$", "$\\ell_1$")
     s = s.replace("{", "").replace("}", "")
     s = s.replace("\t", " ").replace("\n", " ").replace("\r", "")
+    s = s.replace("$ell_1$", "$\\ell_1$")
     return s
 
 
 def clean_bibtex_tags(s, normalize=False):
-    """Clean BibTeX keywords and convert to yaml tags"""
+    """Clean BibTeX keywords and convert to TOML tags"""
 
-    tags = clean_bibtex_str(s).split(',')
-    #tags = [f'"{tag.strip()}"' for tag in tags]
+    tags = clean_bibtex_str(s).split(",")
+    tags = [tag.strip() for tag in tags]
 
     if normalize:
         tags = [tag.lower().capitalize() for tag in tags]
@@ -318,7 +304,7 @@ def month2number(month):
         try:
             return str(list(calendar.month_abbr).index(month_abbr)).zfill(2)
         except ValueError:
-            raise log.error("Please update the entry with a valid month.")
+            log.error("Please update the entry with a valid month.")
 
 
 for type, pub_dir in zip(['talks', 'publications'],
