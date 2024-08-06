@@ -140,31 +140,6 @@ def import_bibtex(
 
             #frontmatter.append(f'featured = {str(featured).lower()}')
 
-            if 'keywords' in entry:
-                parsed_yaml['tags'] = clean_bibtex_tags(entry["keywords"], normalize)
-
-            for this_key in ['grants', 'projects']:
-                if this_key in entry:
-                    # parsed_yaml['projects'] = []
-                    parsed_yaml[this_key] = clean_bibtex_tags(entry[this_key], normalize)
-                    if verbose:
-                        print(parsed_yaml[this_key])
-                    # print(parsed_yaml['projects'])
-
-            for url_key in ['url_slides', 'url_code', 'url_link']:
-                if url_key in entry:
-                    parsed_yaml[url_key] = f'{clean_bibtex_str(entry[url_key])}'
-
-            if 'url' in entry:
-                parsed_yaml['url_pdf'] = f'{clean_bibtex_str(entry["url"])}'
-
-            if 'preprint' in entry:
-                parsed_yaml['url_preprint'] = f'{clean_bibtex_str(entry["preprint"])}'
-
-            if 'doi' in entry:
-                parsed_yaml['doi'] = f'{entry["doi"]}'
-
-
             if type == 'talks':
                 # if 'time_start' in entry:
                 #     parsed_yaml['date'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["time_start"]))
@@ -194,25 +169,50 @@ def import_bibtex(
 
             elif type == 'Publications':
 
-                pubtype = PUB_TYPES_BIBTEX_TO_CSL.get(entry["ENTRYTYPE"], PublicationType.Uncategorized)
-                parsed_yaml['publication_types'] = [str(pubtype.value)]
+                # Convert Bibtex publication type to the universal CSL standard, defaulting to `manuscript`
+                default_csl_type = "manuscript"
+                pub_type = PUB_TYPES_BIBTEX_TO_CSL.get(entry["ENTRYTYPE"], default_csl_type)
+                parsed_yaml["publication_types"] = [pub_type]
 
                 # Publication name.
-                if 'booktitle' in entry:
-                    parsed_yaml['publication'] = f'*{clean_bibtex_str(entry["booktitle"])}*'
-                elif 'journal' in entry:
-                    parsed_yaml['publication'] = f'*{clean_bibtex_str(entry["journal"])}*'
+                # This field is Markdown formatted, wrapping the publication name in `*` for italics
+                if "booktitle" in entry:
+                    publication = "*" + clean_bibtex_str(entry["booktitle"]) + "*"
+                elif "journal" in entry:
+                    publication = "*" + clean_bibtex_str(entry["journal"]) + "*"
+                elif "publisher" in entry:
+                    publication = "*" + clean_bibtex_str(entry["publisher"]) + "*"
                 else:
-                    parsed_yaml['publication'] = ''
+                    publication = ""
+                parsed_yaml["publication"] = publication
 
-                # TODO:  optional abbreviated version.
-                # publication_short = "In *ICMEW*"
+            if 'keywords' in entry:
+                parsed_yaml['tags'] = clean_bibtex_tags(entry["keywords"], normalize)
+
+            for this_key in ['grants', 'projects']:
+                if this_key in entry:
+                    # parsed_yaml['projects'] = []
+                    parsed_yaml[this_key] = clean_bibtex_tags(entry[this_key], normalize)
+                    if verbose:
+                        print(parsed_yaml[this_key])
+                    # print(parsed_yaml['projects'])
+
+            for url_key in ['url_slides', 'url_code', 'url_link']:
+                if url_key in entry:
+                    parsed_yaml[url_key] = f'{clean_bibtex_str(entry[url_key])}'
+
+            if 'url' in entry:
+                parsed_yaml['url_pdf'] = f'{clean_bibtex_str(entry["url"])}'
+
+            if 'preprint' in entry:
+                parsed_yaml['url_preprint'] = f'{clean_bibtex_str(entry["preprint"])}'
+
+            if 'doi' in entry:
+                parsed_yaml['doi'] = f'{entry["doi"]}'
+
 
             metadata[1] = yaml.dump(parsed_yaml, encoding=('utf-8'), allow_unicode=True)
             metadata[1] = metadata[1].decode('utf-8')
-
-            if not len(metadata) == 3:
-                print('Z'*150, '  len(metadata)', len(metadata), 'new_key', new_key)
 
             # clean-up: strip double lines
             while '\n\n' in metadata[2]:
@@ -220,13 +220,12 @@ def import_bibtex(
 
             # Save Markdown file.
             try:
-                if verbose:
-                    print(f"Saving Markdown to '{file_path}'")
+                log.info(f"Saving Markdown to '{file_path}'")
                 page = '---\n'.join(metadata).strip('\n')
                 with open(file_path, 'w', encoding='utf-8') as f:
                     f.write(page + '\n')
-            except IOError as ae:
-                print('ERROR: could not save file.', e)
+            except IOError:
+                log.error("Could not save file.")
 
 
 def slugify(s, lower=True):
