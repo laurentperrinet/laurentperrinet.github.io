@@ -31,7 +31,6 @@ def import_bibtex(
     # 1- getting all citekeys
     keys = []
     # 1- Load BibTeX file for parsing.
-    """Import publications from BibTeX file"""
     from academic.cli import log
     from academic.utils import AcademicError
 
@@ -95,6 +94,10 @@ def import_bibtex(
             # Prepare yaml front matter for Markdown file.
             parsed_yaml['title'] = clean_bibtex_str(entry["title"])
 
+            if "subtitle" in entry:
+                parsed_yaml["subtitle"] = clean_bibtex_str(entry["subtitle"])
+
+
             if 'date' in entry:
                 date_str = clean_bibtex_str(entry["date"])
             else:
@@ -119,13 +122,15 @@ def import_bibtex(
             #         parsed_yaml.pop('publishDate')
 
             authors = None
-            if 'author' in entry:
-                authors = entry['author']
-            elif 'editor' in entry:
-                authors = entry['editor']
+            if "author" in entry:
+                authors = entry["author"]
+            elif "editor" in entry:
+                authors = entry["editor"]
+
             if authors:
-                authors = clean_bibtex_authors([i.strip() for i in authors.replace('\n', ' ').split(' and ')])
-                parsed_yaml['authors'] = authors  # f"[{', '.join(authors)}]"
+                authors = clean_bibtex_authors([i.strip() for i in authors.replace("\n", " ").split(" and ")])
+                parsed_yaml["authors"] = authors
+
 
             for this_key in ['abstract', 'summary']:
                 if this_key in entry:
