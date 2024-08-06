@@ -25,7 +25,7 @@ abstract: Natural environments potentially contain several interesting targets f
 authors:
 - Jean-Bernard Damasse
 - Laurent U Perrinet
-- Jeremie Jozefowiez
+- Jérémie Jozefowiez
 - Laurent Madelain
 - Anna Montagnini
 date: 2016-11-03

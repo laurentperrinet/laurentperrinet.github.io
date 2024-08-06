@@ -2,7 +2,7 @@
 authors:
 - Jean-Bernard Damasse
 - Laurent U Perrinet
-- Jeremie Jozefowiez
+- Jérémie Jozefowiez
 - Laurent Madelain
 - Anna Montagnini
 date: 2016-09-01
