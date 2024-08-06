@@ -8,8 +8,19 @@ diff:
 	opendiff ../academic-admin/academic/import_bibtex.py  scripts/update_metadata.py
 
 gitpages:
-	cd scripts; sh update_gitpages.sh
+	echo ">>> Commit changes to source repo to GitHub..."
+	git add .
 
+	msg="rebuilding site `date`"
+	if [ $# -eq 1 ]
+	then msg="$1"
+	fi
+	git commit -m "$msg"
+
+	git push origin main
+
+	echo ">>> Deploying updates to GitHub pages repo..."
+	
 entries:
 	cd scripts; python update_entries.py
 
