@@ -30,6 +30,9 @@ event: Séminaires de l'INCM, April 11th, 2008
 featured: false
 grants:
 - facets
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2008-04-01-incm/
 projects: []
 publication: '*Séminaires de l''INCM, April 11th, 2008*'
 title: 'From neural activity to behavior: computational neuroscience as a synthetic

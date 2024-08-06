@@ -19,7 +19,7 @@ abstract: Visual search is an essential cognitive ability, offering a prototypic
   general actor-critic principle in action selection, with the accuracy of the central
   processing taking the role of a value (or intrinsic reward) of the previous saccade.
 authors:
-- Emmanuel Dauce
+- Emmanuel Daucé
 - Laurent Perrinet
 date: 2020-09-14 18:00:00
 doi: 10.1007/978-3-030-64919-7_17
@@ -27,14 +27,19 @@ event: IWAI 2020
 featured: false
 grants:
 - aprovis-3-d
+links:
+- name: Slides
+  url: https://laurentperrinet.github.io/2020-09-14_IWAI
+- name: Code
+  url: https://github.com/laurentperrinet/2020-09-14_IWAI/
+- name: URL
+  url: https://whova.com/embedded/subsession/ecmlp_202009/1215095/1215123/
 location: Ghent (Belgium), gone virtual
 publication: '*IWAI 2020*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 title: Visual search as active inference
-url_code: https://github.com/laurentperrinet/2020-09-14_IWAI/
 url_pdf: https://whova.com/embedded/subsession/ecmlp_202009/1215095/1215123/
-url_slides: https://laurentperrinet.github.io/2020-09-14_IWAI
 ---
 
 * see proceedings paper: {{< cite page="/publication/dauce-20-iwai" view="4" >}}

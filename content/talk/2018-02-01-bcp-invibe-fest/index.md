@@ -1,11 +1,14 @@
 ---
 authors:
 - Laurent U Perrinet
-- Chloe Pasturel
+- Chloé Pasturel
 - Anna Montagnini
 date: 2018-02-01
 event: Visual motion Fest - Invibe Team -- INT / Marseille February 1 and 2, 2018
 featured: false
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/
 publication: '*Visual motion Fest - Invibe Team – INT / Marseille February 1 & 2,
   2018*'
 title: Estimating and anticipating a dynamic probabilistic bias in visual motion direction

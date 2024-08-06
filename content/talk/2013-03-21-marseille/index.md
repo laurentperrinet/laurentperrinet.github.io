@@ -14,6 +14,9 @@ event: 3rd BrainScaleS Plenary Meeting - Friday, March 21st, 2013
 featured: false
 grants:
 - brain-scales
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2013-03-21-marseille/
 projects:
 - open-science
 publication: '*3rd BrainScaleS Plenary Meeting - Friday, March 21st, 2013*'

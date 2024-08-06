@@ -8,6 +8,11 @@ featured: false
 grants:
 - anr-rem
 - pace-itn
+links:
+- name: Slides
+  url: https://laurentperrinet.github.io/sciblog/files/2016-10-13_LAW.html
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2016-10-13-law/
 location: Lyon, France
 projects: []
 publication: '*Lyon Active Inference Workshop (LAW) https://law2016.sciencesconf.org/
@@ -15,7 +20,6 @@ publication: '*Lyon Active Inference Workshop (LAW) https://law2016.sciencesconf
 title: Eye movements as a model for active inference
 url_code: ''
 url_pdf: https://laurentperrinet.github.io/talk/2016-10-13-law/
-url_slides: https://laurentperrinet.github.io/sciblog/files/2016-10-13_LAW.html
 ---
 
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}

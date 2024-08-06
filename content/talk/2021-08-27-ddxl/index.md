@@ -14,7 +14,7 @@ authors:
 - Hugo Ladret
 - Nelson Cortes
 - Lamyae Ikan
-- Frederic Chavane
+- Frédéric Chavane
 - Christian Casanova
 - Laurent U Perrinet
 date: 2021-08-27 00:00:00
@@ -26,10 +26,13 @@ image:
   focal_point: ''
   preview_only: false
 lastmod: 2021-07-12 15:52:49+02:00
+links:
+- name: Venue
+  url: https://dynamicsdays2021.univ-cotedazur.fr/minisymposia2021/The_dynamics_of_vision/
 projects: []
 publication: '*DynamicsDays - XL*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 subtitle: ''
 tags:
 - area-v1

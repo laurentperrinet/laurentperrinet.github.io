@@ -7,15 +7,20 @@ event_url: http://www.laconeu.cl
 featured: false
 grants:
 - anr-horizontal-v1
+links:
+- name: Slides
+  url: https://laurentperrinet.github.io/2019-01-18_LACONEU/
+- name: Code
+  url: https://github.com/laurentperrinet/2019-01-18_LACONEU/
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2019-01-18-laconeu/
 location: Valparaiso (Chile)
 projects: []
 publication: '*LACONEU 2019: 5th Latin-American Summer School in Computational Neuroscience,
   Valparaiso (Chile)*'
 title: Should I stay or should I go? Adaption of human observers to the volatility
   of visual inputs
-url_code: https://github.com/laurentperrinet/2019-01-18_LACONEU/
 url_pdf: https://laurentperrinet.github.io/talk/2019-01-18-laconeu/
-url_slides: https://laurentperrinet.github.io/2019-01-18_LACONEU/
 ---
 
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}

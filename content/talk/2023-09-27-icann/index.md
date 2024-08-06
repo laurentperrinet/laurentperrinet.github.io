@@ -1,57 +1,39 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a Spiking Neural Network
-subtitle: ''
-summary: ''
 authors:
 - Laurent U Perrinet
-tags: []
 categories: []
-date: '2023-09-27'
-lastmod: 2023-09-10T17:59:14+02:00
-featured: false
-draft: false
+date: 2023-09-27 11:30:00
 doi: 10.1007/978-3-031-44207-0_31
-
-slides: "2023-09-27_icann"
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+draft: false
+event: ICANN Special Session on Recent Advances in Spiking Neural Networks
+featured: false
+grants:
+- polychronies
 image:
   caption: ''
   focal_point: ''
   preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2023-09-10T15:59:14.546901Z'
-publication_types:
-- 'inproceedings'
-abstract: ''
-publication: '*ICANN Special Session on Recent Advances in Spiking Neural Networks*'
-
+lastmod: 2023-09-10 17:59:14+02:00
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-23-icann/
-- name: GitHub
-  url:  https://github.com/laurentperrinet/2023-09-27_HDSNN-ICANN
-- name: DOI
-  url:  https://doi.org/10.1007/978-3-031-44207-0_31
-- name: arXiv
-  url: https://arxiv.org/abs/2307.11555
+location: Heraklion (Greece)
+projects:
+- computational neuroscience
+- event-based computing
+- spiking neural networks
+publication: '*ICANN Special Session on Recent Advances in Spiking Neural Networks*'
+publication_types:
+- inproceedings
+publishDate: '2023-09-10T15:59:14.546901Z'
+slides: 2023-09-27_icann
+subtitle: ''
+tags: []
+title: 'Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a
+  Spiking Neural Network '
 ---
 
 * Hybrid Session, Room 2
 * Chair: Sander Bohté, Sebastian Otte
-
 * read the [proceedings](https://link.springer.com/chapter/10.1007/978-3-031-44207-0_31) 
-
 * The code is available on [GitHub](https://github.com/laurentperrinet/2023-09-27_HDSNN-ICANN)
-
-

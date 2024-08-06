@@ -38,6 +38,9 @@ authors:
 date: 2011-11-15 08:45:00
 event: Society for Neuroscience Abstracts
 featured: false
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2011-11-15-sfn/
 location: Washington, DC
 publication: '*Society for Neuroscience Abstracts*'
 title: 'Edge statistics in natural images versus laboratory animal environments: implications

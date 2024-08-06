@@ -20,16 +20,21 @@ date: 2020-01-20 10:00:00
 event: 'Cinéma et sciences : rencontre avec les élèves du lycée des métiers'
 event_url: http://www.pollymaggoo.org/
 featured: false
+links:
+- name: Slides
+  url: https://laurentperrinet.github.io/2020-01-20_atelier_sciences_cinema
+- name: Code
+  url: https://github.com/laurentperrinet/2020-01-20_atelier_sciences_cinema/
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2020-01-20-atelier-sciences-cinema
 location: Lycée Professionnel Domaine Eguille, Vedène (France)
 projects:
 - tout-public
 publication: '*Cinéma et sciences  = rencontre avec les élèves du lycée des métiers*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 slides: https://laurentperrinet.github.io/2020-01-20_atelier_sciences_cinema
 title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
-code: https://github.com/laurentperrinet/2020-01-20_atelier_sciences_cinema/
-slides: https://laurentperrinet.github.io/2020-01-20_atelier_sciences_cinema
 ---
 
 {{< tweet user="laurentperrinet" id="1284791644240347138" >}}

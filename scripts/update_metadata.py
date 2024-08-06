@@ -351,6 +351,6 @@ def month2number(month):
 
 
 for type, pub_dir in zip(['talks', 'publications'],
-                         ['../content/event', '../content/publication']):
+                         ['../content/talk', '../content/publication']):
     bibtex = f'../../perrinet_curriculum-vitae.tex/LaurentPerrinet_{type}.bib'
     import_bibtex(bibtex, pub_dir, overwrite=True, verbose=True)

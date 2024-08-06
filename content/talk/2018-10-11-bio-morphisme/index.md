@@ -6,13 +6,16 @@ event: in 'La modélisation de la genèse physico-mathématique du vivant' / BIO
   ET CREATION ARTISTIQUE Session 3
 event_url: http://lesa.univ-amu.fr/?q=node/391
 featured: false
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/sciblog/files/2018-10-11_BioMorphisme.html
 location: Marseille, France
 projects:
 - courses
 - tout-public
 publication: '**'
 publication_types:
-- 'inproceedings'
+- inproceedings
 title: La modélisation biomorphique de la perception visuelle
 url_pdf: https://laurentperrinet.github.io/sciblog/files/2018-10-11_BioMorphisme.html
 ---

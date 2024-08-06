@@ -15,6 +15,9 @@ authors:
 date: 2007-09-01
 event: Mathematical image processing meeting (Marseille, France) September 5
 featured: false
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2007-09-01-mipm
 publication: '*Mathematical image processing meeting (Marseille, France) September
   5*'
 title: Neural Codes for Adaptive Sparse Representations of Natural Images

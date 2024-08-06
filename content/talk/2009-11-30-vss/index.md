@@ -23,7 +23,7 @@ abstract: 'Short presentation of a large moving pattern elicits an ocular follow
 authors:
 - Laurent U Perrinet
 - Alexandre Reynaud
-- Frederic Y Chavane
+- Frédéric Y Chavane
 - Guillaume S Masson
 date: 2009-11-30
 event: 'Macroscopic aspects of neuronal activity: ''''Macroscopic models, LFP models
@@ -31,6 +31,9 @@ event: 'Macroscopic aspects of neuronal activity: ''''Macroscopic models, LFP mo
 featured: false
 grants:
 - facets
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2009-11-30-vss/
 projects: []
 publication: '*Macroscopic aspects of neuronal activity: ''''Macroscopic models, LFP
   models and VSD models'''' a FACETS workshop in Marseille, Nov. 30th /Dec. 1st*'

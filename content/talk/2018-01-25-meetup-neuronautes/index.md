@@ -1,11 +1,16 @@
 ---
 authors:
-- etienne-rey
-- laurent-u-perrinet
+- Laurent U Perrinet
+- Etienne Rey
 date: 2018-01-25 18:30:00
 event: Meetup Art et Neurosciences, Association NeuroNautes
 event_url: https://www.facebook.com/events/211121069456116/
 featured: false
+links:
+- name: Slides
+  url: https://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.html
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2018-01-25-meetup-neuronautes/
 location: Salle des voutes campus Saint Charles
 projects:
 - art-science
@@ -15,7 +20,6 @@ tags:
 - Biologically Inspired Computer vision
 title: Expériences autour de la perception de la forme en art et science
 url_pdf: https://laurentperrinet.github.io/talk/2018-01-25-meetup-neuronautes/
-url_slides: https://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.html
 ---
 
 # Meetup Art et Neurosciences

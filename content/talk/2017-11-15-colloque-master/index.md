@@ -9,12 +9,16 @@ event: 'Colloque : \"CODAGES ET REPRESENTATIONS\", MASTER DE NEUROSCIENCES 2ème
   Comité d''organisation: Francesca SARGOLINI, Christian Bénar, Paolo GUBELLINI, Christian
   GESTREAU'
 featured: false
+links:
+- name: Slides
+  url: https://laurentperrinet.github.io/sciblog/files/2017-11-15_ColloqueMaster.html
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2017-11-15-colloque-master/
 location: Aix-Marseille Université, Campus Saint-Charles, Salle des voûtes
 publication: '*Colloque : "CODAGES ET REPRESENTATIONS", MASTER DE NEUROSCIENCES 2ème
   année*'
 title: What dynamic neural codes for efficient visual processing
 url_pdf: https://laurentperrinet.github.io/talk/2017-11-15-colloque-master/
-url_slides: https://laurentperrinet.github.io/sciblog/files/2017-11-15_ColloqueMaster.html
 ---
 
 ## References

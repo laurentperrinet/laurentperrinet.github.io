@@ -6,10 +6,14 @@ event: Telluride Neuromorphic Workshop, Workgroup on Compound Eyes and Event-bas
   Vision
 event_url: http://telluride.iniforum.ch/2017/workgroups/neuromorphic-event-based-compound-eyes-and-vision/
 featured: false
+links:
+- name: Slides
+  url: https://laurentperrinet.github.io/sciblog/files/2017-06-30_Telluride.html
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2017-06-30-telluride
 location: Telluride, CO
 publication: '*Telluride Neuromorphic Workshop, Workgroup on Compound Eyes and Event-based
   Vision*'
 title: Tutorial on predictive coding
 url_pdf: https://laurentperrinet.github.io/talk/2017-06-30-telluride
-url_slides: https://laurentperrinet.github.io/sciblog/files/2017-06-30_Telluride.html
 ---

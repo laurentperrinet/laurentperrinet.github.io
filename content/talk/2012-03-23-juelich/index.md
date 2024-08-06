@@ -6,6 +6,9 @@ event: Second BrainScaleS plenary Meeting - WP5
 featured: false
 grants:
 - brain-scales
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2012-03-23-juelich/
 location: Forschungszentrum Jülich
 projects: []
 publication: '*2nd BrainScaleS Plenary Meeting - Friday, March 23rd, 2012*'

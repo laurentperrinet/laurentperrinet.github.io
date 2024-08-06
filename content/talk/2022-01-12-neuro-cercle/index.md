@@ -19,16 +19,21 @@ date: 2022-01-12 18:00:00
 event: 'Neurocercle : Découvrir les neurosciences à Grenoble'
 event_url: https://neurocercle.wordpress.com/
 featured: false
+links:
+- name: Slides
+  url: https://laurentperrinet.github.io/2022-01-12_NeuroCercle
+- name: Code
+  url: https://github.com/laurentperrinet/2022-01-12_NeuroCercle/
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2022-01-12-neuro-cercle
 location: Grenoble (France)
 projects:
 - tout-public
 publication: '*Neurocercle : Découvrir les neurosciences à Grenoble*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
-url_code: https://github.com/laurentperrinet/2022-01-12_NeuroCercle/
 url_pdf: https://laurentperrinet.github.io/talk/2022-01-12-neuro-cercle
-url_slides: https://laurentperrinet.github.io/2022-01-12_NeuroCercle
 ---
 
 > Nous aurons le plaisir d’échanger avec notre conférencier Laurent Perrinet et nous vous espérons nombreux. Pour situer le conférencier : https://laurentperrinet.github.io/2019-05_illusions-visuelles/

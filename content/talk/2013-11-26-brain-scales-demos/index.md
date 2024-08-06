@@ -8,6 +8,9 @@ event: 'Demo 1-3: Apparent Motion in V1/ MT/MST: Neural Implementation of Probab
 featured: false
 grants:
 - brain-scales
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2013-11-26-brain-scales-demos/
 projects:
 - open-science
 publication: '*Demo 1-3: Apparent Motion in V1/ MT/MST: Neural Implementation of Probabilistic

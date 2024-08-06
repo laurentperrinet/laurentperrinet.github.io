@@ -14,7 +14,7 @@ authors:
 - Hugo Ladret
 - Nelson Cortes
 - Lamyae Ikan
-- Frederic Chavane
+- Frédéric Chavane
 - Christian Casanova
 - Laurent U Perrinet
 date: 2021-05-20 14:00:00
@@ -26,10 +26,13 @@ image:
   focal_point: ''
   preview_only: false
 lastmod: 2021-07-12 16:15:38+02:00
+links:
+- name: URL
+  url: https://virtualnf21.neurosciences.asso.fr/meetings/virtual/m3LQJKS4fbaWkg7rE
 projects: []
 publication: '*NeuroFrance 2021*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 subtitle: ''
 tags:
 - area-v1

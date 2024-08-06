@@ -16,6 +16,9 @@ event: intervention autour du vernissage de \"Diffraction monochromatique, spect
   audiographique\" d'Etienne Rey.
 event_url: http://ondesparalleles.org/projets/vortex-polychromatique-diffraction/
 featured: false
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2010-04-14-ondes-paralleles/
 location: Aix-enProvence (France)
 projects:
 - art-science
@@ -23,7 +26,7 @@ projects:
 publication: '*intervention autour du vernissage de "Diffraction monochromatique,
   spectre audiographique" d''Etienne Rey. *'
 publication_types:
-- 'inproceedings'
+- inproceedings
 title: Diffraction monochromatique, spectre audiographique
 url_pdf: https://laurentperrinet.github.io/talk/2010-04-14-ondes-paralleles/
 ---

@@ -8,9 +8,9 @@ abstract: Visual areas are essential in transforming the raw luminous signal int
   that the visual system takes advantage of the existence of a priori knowledge in
   the structure of visual information, such as the regularity in the shape and motion
   of visual objects. We will review different models around the predictive coding
-  framework to offer a unified theory to explain many of the mechanisms at
-  the different levels of the visual system and which were unveiled by decades of
-  study in neurophysiology and psychophysics.
+  framework to offer a unified theory to explain many of the mechanisms at the different
+  levels of the visual system and which were unveiled by decades of study in neurophysiology
+  and psychophysics.
 authors:
 - Laurent U Perrinet
 date: 2020-04-03 16:00:00
@@ -18,16 +18,20 @@ event: Master Neurosciences et Sciences Cognitives
 featured: false
 grants:
 - anr-horizontal-v1
+links:
+- name: Slides
+  url: https://laurentperrinet.github.io/2020-04_UE-neurosciences-computationnelles
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2020-04-ue-neurosciences-computationnelles
+- name: Code
+  url: https://github.com/laurentperrinet/2020-04_UE-neurosciences-computationnelles
 location: Marseille (France)
 projects:
 - courses
 publication: '*Master Neurosciences et Sciences Cognitives*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 title: 'From the retina to action: Understanding visual processing'
-url_code: https://github.com/laurentperrinet/2020-04_UE-neurosciences-computationnelles
-url: https://laurentperrinet.github.io/talk/2020-04-ue-neurosciences-computationnelles
-url_slides: https://laurentperrinet.github.io/2020-04_UE-neurosciences-computationnelles
 ---
 
 # 2020-04_UE-neurosciences-computationnelles, matériel pour le cours de modélisation

@@ -16,6 +16,9 @@ event_url: http://www.eventos.usm.cl/evento/charla-motion-based-prediction-with-
 featured: false
 grants:
 - anr-bala-v1
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2015-11-05-chile/
 location: Universidad Tecnica Federico Santa Maria, Valparaiso (Chile)
 projects: []
 publication: '*Universidad Técnica Federico Santa María, Valparaíso, Chile, November

@@ -4,6 +4,9 @@ authors:
 - Guillaume S Masson
 date: 2010-01-08
 featured: false
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2010-01-08-facets/
 publication: ''
 tags:
 - Bayesian model

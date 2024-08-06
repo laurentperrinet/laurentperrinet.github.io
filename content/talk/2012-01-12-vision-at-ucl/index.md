@@ -23,6 +23,9 @@ event: Vision@UCL seminar
 featured: false
 grants:
 - brain-scales
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/
 location: Malet Place Eng Bldg 1.03 (first floor).
 projects: []
 publication: '*Vision@UCL seminar - Thursday, 12th January, 5pm*'

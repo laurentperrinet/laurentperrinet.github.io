@@ -12,6 +12,9 @@ date: 2010-12-17
 event: LADISLAV TAUC and GDR MSPC NEUROSCIENCES CONFERENCE, From Mathematical Image
   Analysis to Neurogeometry of the Brain
 featured: false
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2010-12-17-tauc-talk/
 publication: '*LADISLAV TAUC & GDR MSPC NEUROSCIENCES CONFERENCE, From Mathematical
   Image Analysis to Neurogeometry of the Brain*'
 tags:

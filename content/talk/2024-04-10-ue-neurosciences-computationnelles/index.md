@@ -1,41 +1,41 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "Artificial neural networks and machine learning applied to the understanding of biological vision"
-subtitle: ''
-summary: ''
+abstract: Visual areas are essential in transforming the raw luminous signal into
+  a representation which efficiently conveys information about the environment. This
+  process is constrained by various factors such as a wide variety of changes in the
+  characteristics of the visual image but also by the necessity to be able to respond
+  as quickly as possible to the incoming sensory stream, for instance to drive a movement
+  of the eyes to the location of a potential danger. To achieve this, it is believed
+  that the visual system takes advantage of the existence of a priori knowledge in
+  the structure of visual information, such as the regularity in the shape and motion
+  of visual objects. We will review different models around the predictive coding
+  framework to offer a unified theory to explain many of the mechanisms at the different
+  levels of the visual system and which were unveiled by decades of study in neurophysiology
+  and psychophysics.
 authors:
 - Laurent U Perrinet
-tags: []
 categories: []
-date: '2024-04-10'
-featured: false
+date: 2024-04-10 09:00:00
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+event: Master 1 Neurosciences et Sciences Cognitives
+featured: false
 image:
   caption: ''
   focal_point: ''
   preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2024-04-10T07:47:11.286659Z'
-publication_types:
-- 'inproceedings'
-abstract: "Les aires visuelles doivent transformer le signal lumineux brut en une représentation qui transmet efficacement des informations sur l'environnement. Ce processus est limité par divers facteurs, tels qu'une grande variété de changements dans les caractéristiques de l'image visuelle, mais aussi par la nécessité de pouvoir répondre aussi rapidement que possible au flux sensoriel entrant, par exemple pour guider le mouvement de l'œil vers l'emplacement d'un danger potentiel. Pour ce faire, le système visuel bénéficie d'une connaissance a priori de la structure de l'information visuelle, telle que la régularité de la forme et du mouvement des objets visuels. Nous passerons en revue différents modèles autour du cadre du codage prédictif afin d'offrir une théorie unifiée pour expliquer de nombreux mécanismes à différents niveaux du système visuel qui ont été dévoilés par des décennies d'études en neurophysiologie et en psychophysique."
-publication: '*Master 1 Neurosciences et Sciences Cognitives*'
-
-slides: 2024-04-10-ue-neurosciences-computationnelles
-
-
 links:
-- name: link
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2024-04-10-ue-neurosciences-computationnelles
+- name: Code
   url: https://github.com/laurentperrinet/2024-04_UE-neurosciences-computationnelles
+location: Marseille (France)
+projects:
+- courses
+publication: '*Master 1 Neurosciences et Sciences Cognitives*'
+publication_types:
+- inproceedings
+publishDate: '2024-04-10T07:47:11.286659Z'
+slides: 2024-04-10-ue-neurosciences-computationnelles
+subtitle: ''
+tags: []
+title: Artificial neural networks applied to the understanding of biological vision
 ---

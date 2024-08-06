@@ -1,7 +1,7 @@
 ---
 authors:
 - Laurent U Perrinet
-- Chloe Pasturel
+- Chloé Pasturel
 - Anna Montagnini
 date: 2018-04-05 14:00:00
 event: Probabilities and Optimal Inference to Understand the Brain
@@ -9,15 +9,20 @@ event_url: https://laurentperrinet.github.io/post/2018-04-05_optimal-inference-b
 featured: false
 grants:
 - pace-itn
+links:
+- name: Slides
+  url: https://laurentperrinet.github.io/2018-04-05_BCP_talk/
+- name: Code
+  url: https://github.com/laurentperrinet/2018-04-05_BCP_talk/
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/
 location: INT, Marseille (France)
 projects: []
 publication: '*Probabilities and Optimal Inference to Understand the Brain, INT, Marseille
   (France)*'
 title: Principles and psychophysics of Active Inference in anticipating a dynamic,
   switching probabilistic bias
-url_code: https://github.com/laurentperrinet/2018-04-05_BCP_talk/
 url_pdf: https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/
-url_slides: https://laurentperrinet.github.io/2018-04-05_BCP_talk/
 ---
 
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}

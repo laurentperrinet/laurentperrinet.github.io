@@ -4,6 +4,9 @@ authors:
 date: 2008-02-01
 event: Prisma workshop, Toledo (Spain), February 7, 2008
 featured: false
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2008-02-01-toledo/
 publication: Prisma workshop, Toledo (Spain), February 7, 2008
 title: 'Modeling of spikes, sparseness and adaptation in the primary visual cortex:
   applications to imaging'

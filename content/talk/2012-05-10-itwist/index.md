@@ -39,6 +39,9 @@ date: 2012-05-10 13:00:00
 event: iTWIST '12 workshop
 event_url: https://sites.google.com/site/itwist1st/home
 featured: false
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2012-05-10-itwist/
 publication: '*iTWIST ''12 workshop*'
 tags:
 - sparse coding

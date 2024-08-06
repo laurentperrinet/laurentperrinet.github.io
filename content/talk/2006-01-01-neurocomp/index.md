@@ -16,11 +16,14 @@ abstract: The quality of the representation of an object's motion is limited by 
   1D and 2D motion information.
 authors:
 - Laurent U Perrinet
-- Frederic V Barthélemy
+- Frédéric V Barthélemy
 - Guillaume S Masson
 date: 2006-01-01
 event: 1ère conférence francophone NEUROsciences COMPutationnelles - NeuroComp
 featured: false
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/perrinet-06-neurocomp/
 publication: '*1ère conférence francophone NEUROsciences COMPutationnelles - NeuroComp*'
 tags:
 - Aperture problem

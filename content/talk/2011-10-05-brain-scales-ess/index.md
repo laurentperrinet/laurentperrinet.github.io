@@ -7,6 +7,9 @@ event_url: https://brainscales.kip.uni-heidelberg.de/jss/AttendMeeting?m=showAge
 featured: false
 grants:
 - brain-scales
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2011-10-05-brain-scales-ess/
 location: TU Dresden, Germany
 projects: []
 publication: '*Using the ESS + Neuromorphic hardware Workshop,5th Oktober, 2011 at

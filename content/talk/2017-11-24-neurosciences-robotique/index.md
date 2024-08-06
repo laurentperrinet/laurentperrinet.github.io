@@ -9,6 +9,9 @@ event_url: http://www.isir.upmc.fr/index.php?op=view_page&id=1463&menuid=17
 featured: false
 grants:
 - doc-2-amu
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2017-11-24-neurosciences-robotique/
 location: IMERA (Aix-Marseille Université)
 projects: []
 publication: '*Journee du GT 8 (Neurosciences - Robotique)*'
@@ -19,4 +22,5 @@ url_code: ''
 url_pdf: https://laurentperrinet.github.io/talk/2017-11-24-neurosciences-robotique/
 url_slides: ''
 ---
+
 * see a related work describing SDPC in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}

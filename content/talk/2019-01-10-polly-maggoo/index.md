@@ -10,12 +10,15 @@ date: 2019-01-10 09:30:00
 event: 'Cinéma et sciences : rencontre avec les collégiens marseillais'
 event_url: http://www.pollymaggoo.org/
 featured: false
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2019-01-10-polly-maggoo/
 location: Marseille, France
 projects:
 - tout-public
 publication: '**'
 publication_types:
-- 'inproceedings'
+- inproceedings
 title: Rencontre avec les collégiens marseillais
 url_pdf: https://laurentperrinet.github.io/talk/2019-01-10-polly-maggoo/
 ---

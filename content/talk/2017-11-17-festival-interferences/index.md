@@ -5,12 +5,15 @@ date: 2017-11-17 18:30:00
 event: Festival Interférences - Cinéma Documentaire et Débat Public
 event_url: http://www.lacitedoc.com/interferences-programmation​
 featured: false
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2017-11-17-festival-interferences/
 location: Lyon, France
 projects:
 - tout-public
 publication: '**'
 publication_types:
-- 'inproceedings'
+- inproceedings
 title: Participation au jury
 url_pdf: https://laurentperrinet.github.io/talk/2017-11-17-festival-interferences/
 ---

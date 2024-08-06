@@ -27,6 +27,17 @@ event_url: https://www.jnlf.fr/agenda/jnlf-lille-2019
 featured: false
 grants:
 - anr-horizontal-v1
+links:
+- name: Video
+  url: https://www.youtube.com/watch?v=jJKTdlChefc
+- name: Slides
+  url: https://laurentperrinet.github.io/2019-04-18_JNLF
+- name: Code
+  url: https://github.com/laurentperrinet/2019-04-18_JNLF/
+- name: URL
+  url: https://www.em-consulte.com/e-tap/1283936/ftafhrsrftfxjyjaaumj
+- name: Venue
+  url: https://www.em-consulte.com/e-tap/1283936/ftafhrsrftfxjyjaaumj
 location: Lille, France
 math: true
 projects:
@@ -36,11 +47,8 @@ summary: 'Les objectifs sont : -- mieux comprendre la fonction de la perception 
   dynamique de la perception ; -- mieux comprendre le rôle de l''action dans la perception.'
 tags: []
 title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
-url_code: https://github.com/laurentperrinet/2019-04-18_JNLF/
 url_pdf: https://laurentperrinet.github.io/talk/2019-04-18-jnlf
 url_preprint: https://www.em-consulte.com/e-tap/1283936/ftafhrsrftfxjyjaaumj
-url_slides: https://laurentperrinet.github.io/2019-04-18_JNLF
-url_video: https://www.youtube.com/watch?v=jJKTdlChefc
 ---
 
 * Le texte de cette présentation est reprise dans cet article de [The Conversation](https://laurentperrinet.github.io/publication/perrinet-19-temps/) ([lien direct](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567)).

@@ -25,15 +25,21 @@ event: Colloque international de la Société Française des Neurosciences 2019
 featured: false
 grants:
 - pace-itn
+links:
+- name: Slides
+  url: https://invibe.github.io/2019-05-23_Neurofrance
+- name: Pdf
+  url: https://github.com/invibe/2019-05-23_Neurofrance/raw/master/2019-05-23_Neurofrance.pdf
+- name: Code
+  url: https://github.com/invibe/2019-05-23_Neurofrance/
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2019-05-23-neurofrance
 location: Marseille (France)
 projects: []
 publication: '*Probabilities and Optimal Inference to Understand the Brain, INT, Marseille
   (France)*'
 title: Should I stay or should I go? Humans adapt to the volatility of visual motion
   properties, and know about it
-url_code: https://github.com/invibe/2019-05-23_Neurofrance/
-url_pdf: https://laurentperrinet.github.io/talk/2019-05-23-neurofrance
-url_slides: https://invibe.github.io/2019-05-23_Neurofrance
 ---
 
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}

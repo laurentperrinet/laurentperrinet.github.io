@@ -8,6 +8,9 @@ date: 2014-04-25
 doi: 10.1109/IJCNN.2014.6889847
 event: 2014 International Joint Conference on Neural Networks (IJCNN)
 featured: false
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2014-04-25-kaplan-beijing/
 location: Beijing, China
 publication: '*2014 International Joint Conference on Neural Networks (IJCNN)*'
 tags:

@@ -28,17 +28,22 @@ authors:
 date: 2020-09-25 15:45:00
 event: Séminaire à l'Institut de Recherche sur les Phénomènes Hors Équilibre
 featured: false
+links:
+- name: Slides
+  url: https://laurentperrinet.github.io/2020-09-25_IRPHE
+- name: Code
+  url: https://github.com/laurentperrinet/2020-09-25_IRPHE/
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2020-09-25-irphe
 location: Marseille (France)
 projects:
 - aprovis-3-d
 publication: '*Séminaire à l''Institut de Recherche sur les Phénomènes Hors Équilibre
   (IRPHÉ)*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 title: Understanding natural vision using deep predictive coding
-url_code: https://github.com/laurentperrinet/2020-09-25_IRPHE/
 url_pdf: https://laurentperrinet.github.io/talk/2020-09-25-irphe
-url_slides: https://laurentperrinet.github.io/2020-09-25_IRPHE
 ---
 
 * What:: talk @ [Séminaire à l'Institut de Recherche sur les Phénomènes Hors Équilibre (IRPHÉ)](https://laurentperrinet.github.io/talk/2020-09-25-irphe)

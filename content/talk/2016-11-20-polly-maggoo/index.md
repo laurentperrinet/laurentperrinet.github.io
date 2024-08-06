@@ -5,12 +5,15 @@ date: 2016-11-20 09:00:00
 event: Rencontres Internationales Sciences Et Cinémas
 event_url: http://www.pollymaggoo.org/
 featured: false
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2016-11-20-polly-maggoo/
 location: Marseille, France
 projects:
 - tout-public
 publication: '*Cinésciences, collège Clair Soleil (Marseille)*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 title: Participation au jury et entretien avec Clara Delmon
 url_pdf: https://laurentperrinet.github.io/talk/2016-11-20-polly-maggoo/
 ---

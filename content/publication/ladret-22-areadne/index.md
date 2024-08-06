@@ -28,7 +28,7 @@ image:
   preview_only: false
 lastmod: 2022-06-08 13:33:46+02:00
 links:
-- name: URL
+- name: Venue
   url: https://areadne.org/
 projects: []
 publication: '*Proceedings of AREADNE*'

@@ -22,6 +22,9 @@ event: Marseille INT Fest, January 10th, 2014
 featured: false
 grants:
 - brain-scales
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2014-01-10-int-fest/
 projects: []
 publication: '*Marseille INT Fest, January 10th, 2014*'
 tags:

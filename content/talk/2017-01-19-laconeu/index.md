@@ -7,6 +7,11 @@ event_url: http://www.laconeu.cl
 featured: false
 grants:
 - anr-trajectory
+links:
+- name: Slides
+  url: https://laurentperrinet.github.io/sciblog/files/2017-01-19_LACONEU.html
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2017-01-19-laconeu/
 location: Valparaiso (Chile)
 projects:
 - courses
@@ -16,5 +21,4 @@ tags:
 - Biologically Inspired Computer vision
 title: 'Tutorial: Sparse optimization in neural computations'
 url_pdf: https://laurentperrinet.github.io/talk/2017-01-19-laconeu/
-url_slides: https://laurentperrinet.github.io/sciblog/files/2017-01-19_LACONEU.html
 ---

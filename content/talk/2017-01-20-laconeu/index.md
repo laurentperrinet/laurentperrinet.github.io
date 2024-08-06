@@ -7,6 +7,11 @@ event_url: http://www.laconeu.cl
 featured: false
 grants:
 - anr-trajectory
+links:
+- name: Slides
+  url: https://laurentperrinet.github.io/sciblog/files/2017-01-20_LACONEU.html
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2017-01-20-laconeu/
 location: Valparaiso (Chile)
 projects:
 - courses
@@ -15,5 +20,4 @@ publication: '*LACONEU2017:  4th Latin-American Summer School in Computational N
 title: 'Tutorial: Active inference for eye movements: Bayesian methods, neural inference,
   dynamics'
 url_pdf: https://laurentperrinet.github.io/talk/2017-01-20-laconeu/
-url_slides: https://laurentperrinet.github.io/sciblog/files/2017-01-20_LACONEU.html
 ---

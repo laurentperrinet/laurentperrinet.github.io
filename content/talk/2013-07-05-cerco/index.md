@@ -8,6 +8,9 @@ event: CerCo 20th anniversary
 featured: false
 grants:
 - brain-scales
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2013-07-05-cerco/
 location: CerCo, Toulouse
 projects: []
 publication: '*A  seminar at the CerCo, Toulouse, France*'

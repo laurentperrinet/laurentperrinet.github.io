@@ -8,6 +8,11 @@ featured: false
 grants:
 - anr-bala-v1
 - brain-scales
+links:
+- name: Slides
+  url: https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2016-07-07-edp-proba/
 location: CIRM, Marseille
 projects: []
 publication: '*Summer School: PDE and Probability for Life Sciences @ CIRM, Marseille
@@ -15,7 +20,6 @@ publication: '*Summer School: PDE and Probability for Life Sciences @ CIRM, Mars
 title: 'Modelling the dynamics of cognitive processes: from the Bayesian brain to
   particles'
 url_pdf: https://laurentperrinet.github.io/talk/2016-07-07-edp-proba/
-url_slides: https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba
 ---
 
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

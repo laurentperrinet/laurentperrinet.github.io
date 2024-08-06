@@ -13,11 +13,14 @@ image:
   focal_point: ''
   preview_only: false
 lastmod: 2021-06-14 21:26:49+02:00
+links:
+- name: URL
+  url: http://schedule.smb2021.org/MS05/
 location: Everywhere (World)
 projects: []
 publication: '*Society for Mathematical Biology * 2021*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 subtitle: ''
 tags: []
 title: Pooling in a predictive model of V1 explains functional and structural diversity

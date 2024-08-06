@@ -19,12 +19,15 @@ event_url: ''
 featured: false
 grants:
 - tout-public
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/sciblog/files/2016-04-28_mejanes/
 location: Marseille, France
 projects:
 - tout-public
 publication: '**'
 publication_types:
-- 'inproceedings'
+- inproceedings
 title: Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
 url_pdf: https://laurentperrinet.github.io/sciblog/files/2016-04-28_mejanes/
 ---

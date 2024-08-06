@@ -18,6 +18,9 @@ event: 'Cycle de conférences organisé par l''Association Science Technologie S
   l''intelligence''''.'
 event_url: http://asts.paris/
 featured: false
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2009-11-24-intelligence-mecanique/
 location: Marseille, France
 projects:
 - tout-public
@@ -25,7 +28,7 @@ publication: '*Cycle de conférences organisé par l’Association Science Techn
   Société - PACA ayant pour thème cette année : "Biologie et civilisation : les chemins
   de l’intelligence". *'
 publication_types:
-- 'inproceedings'
+- inproceedings
 title: Peut-on parler d'intelligence mécanique?
 url_pdf: https://laurentperrinet.github.io/talk/2009-11-24-intelligence-mecanique/
 ---

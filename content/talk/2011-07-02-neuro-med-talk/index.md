@@ -11,6 +11,9 @@ authors:
 date: 2011-07-02
 event: Atelier Neurosciences Computationnelles, 2-3 Juillet 2011 Khemisset, Maroc
 featured: false
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2011-07-02-neuro-med-talk/
 publication: '*Atelier Neurosciences Computationnelles, 2-3 Juillet 2011 Khemisset,
   Maroc*'
 tags:

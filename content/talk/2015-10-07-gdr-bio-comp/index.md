@@ -17,6 +17,9 @@ featured: false
 grants:
 - brain-scales
 image: {}
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2015-10-07-gdr-bio-comp/
 location: Saint-Paul de Vence
 projects: []
 publication: '*First GDR BioComp workshop, Saint-Paul de Vence, October 7th, 2015*'

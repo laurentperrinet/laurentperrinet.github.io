@@ -8,9 +8,9 @@ abstract: Visual areas are essential in transforming the raw luminous signal int
   that the visual system takes advantage of the existence of a priori knowledge in
   the structure of visual information, such as the regularity in the shape and motion
   of visual objects. We will review different models around the predictive coding
-  framework to offer a unified theory to explain many of the mechanisms at
-  the different levels of the visual system and which were unveiled by decades of
-  study in neurophysiology and psychophysics.
+  framework to offer a unified theory to explain many of the mechanisms at the different
+  levels of the visual system and which were unveiled by decades of study in neurophysiology
+  and psychophysics.
 authors:
 - Laurent U Perrinet
 date: 2019-04-03 16:00:00
@@ -18,14 +18,19 @@ event: Licence Sciences et Humanité
 featured: false
 grants:
 - anr-horizontal-v1
+links:
+- name: Slides
+  url: https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization
+- name: Code
+  url: https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2019-04-03-a-course-on-vision-and-modelization
 location: Marseille (France)
 projects:
 - courses
 publication: '*Licence Sciences & Humanité*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 title: 'From the retina to action: Understanding visual processing'
-url_code: https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/
 url_pdf: https://laurentperrinet.github.io/talk/2019-04-03-a-course-on-vision-and-modelization
-url_slides: https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization
 ---

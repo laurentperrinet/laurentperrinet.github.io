@@ -21,7 +21,7 @@ abstract: In computer vision, the visual search task consists in extracting a sc
   strategies with regards to traditional computer vision when computing resources
   are at stake.
 authors:
-- Emmanuel Dauce
+- Emmanuel Daucé
 - Pierre Albigès
 - Laurent U Perrinet
 date: 2019-07-15 12:20:00
@@ -29,10 +29,19 @@ event: 'Annual Computational Neuroscience Meeting: CNS*2019 Barcelona, Spain'
 featured: false
 grants:
 - spikeai
+links:
+- name: Slides
+  url: https://SpikeAI.github.io/2019-07-15_CNS
+- name: Pdf
+  url: https://github.com/SpikeAI/2019-07-15_CNS/raw/master/2019-07-15_CNS.pdf
+- name: Code
+  url: https://github.com/SpikeAI/2019-07-15_CNS/
+- name: URL
+  url: https://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-019-0538-0#Sec73
 projects: []
 publication: '*CNS*2019 Barcelona, Spain*'
 publication_types:
-- 'inproceedings'
+- inproceedings
 tags:
 - Active Inference
 - Deep Learning
@@ -40,9 +49,6 @@ tags:
 - Visual search
 - Visuomotor control
 title: 'Learning where to look: a foveated visuomotor control model'
-url_code: https://github.com/SpikeAI/2019-07-15_CNS/
-url_pdf: https://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-019-0538-0#Sec73
-url_slides: https://SpikeAI.github.io/2019-07-15_CNS
 ---
 
  - download a [preliminary PDF](https://laurentperrinet.github.io/talk/2019-07-15-cns/2019-07-15-cns.pdf)

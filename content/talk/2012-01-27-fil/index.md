@@ -22,6 +22,9 @@ event: Brain meeting at FIL, London - Friday, January 27th, 2012
 featured: false
 grants:
 - brain-scales
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2012-01-27-fil/
 projects: []
 publication: '*Brain meeting at FIL, London - Friday, January 27th, 2012*'
 tags:
