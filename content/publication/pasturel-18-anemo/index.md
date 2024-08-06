@@ -8,10 +8,10 @@ featured: false
 grants:
 - pace-itn
 links:
-- name: HAL
-  url: https://hal.science/hal-04157003
 - name: URL
   url: https://laurentperrinet.github.io/publication/pasturel-18-anemo
+- name: HAL
+  url: https://hal.science/hal-04157003
 projects:
 - open-science
 publication: '*Grenoble Workshop on Models and Analysis of Eye Movements, Grenoble,

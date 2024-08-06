@@ -43,13 +43,13 @@ publication_types:
 - article-journal
 publishDate: '2024-01-09T10:17:44.040592Z'
 tags:
+- Coding
+- Deep Learning
+- Efficiency
+- Heterogeneity
+- Representation
 - Sparseness
 - Vision
-- Heterogeneity
-- Efficiency
-- Coding
-- Representation
-- Deep Learning
 title: Kernel Heterogeneity Improves Sparseness of Natural Images Representations
 url_code: ''
 url_dataset: ''

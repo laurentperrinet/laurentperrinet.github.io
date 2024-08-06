@@ -30,13 +30,13 @@ grants:
 links:
 - name: Video
   url: https://www.youtube.com/watch?v=jJKTdlChefc
+- name: Venue
+  url: https://www.em-consulte.com/e-tap/1283936/ftafhrsrftfxjyjaaumj
 - name: Slides
   url: https://laurentperrinet.github.io/2019-04-18_JNLF
 - name: Code
   url: https://github.com/laurentperrinet/2019-04-18_JNLF/
 - name: URL
-  url: https://www.em-consulte.com/e-tap/1283936/ftafhrsrftfxjyjaaumj
-- name: Venue
   url: https://www.em-consulte.com/e-tap/1283936/ftafhrsrftfxjyjaaumj
 location: Lille, France
 math: true

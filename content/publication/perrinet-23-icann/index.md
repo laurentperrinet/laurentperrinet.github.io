@@ -30,10 +30,10 @@ image:
   preview_only: false
 lastmod: 2023-07-21 13:12:04+02:00
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2307.11555
 - name: Code
   url: https://github.com/laurentperrinet/2023-09-27_HDSNN-ICANN
+- name: arXiv
+  url: https://arxiv.org/abs/2307.11555
 projects: []
 publication: '*ICANN Special Session on Recent Advances in Spiking Neural Networks*'
 publication_types:

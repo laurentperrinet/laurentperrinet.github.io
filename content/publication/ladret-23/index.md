@@ -26,12 +26,12 @@ grants:
 - anr-anr
 - polychronies
 links:
-- name: URL
-  url: https://www.nature.com/articles/s42003-023-05042-3
 - name: Dataset
   url: https://figshare.com/articles/dataset/Data_for_Ladret_et_al_2023_Cortical_recurrence_supports_resilience_to_sensory_variance_in_the_primary_visual_cortex_/23366588
 - name: Code
   url: https://github.com/hugoladret/variance-processing-V1
+- name: URL
+  url: https://www.nature.com/articles/s42003-023-05042-3
 - name: bioRxiv
   url: https://www.biorxiv.org/content/10.1101/2021.03.30.437692
 projects: []

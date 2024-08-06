@@ -23,10 +23,10 @@ image:
   focal_point: ''
   preview_only: false
 links:
-- name: URL
-  url: https://laurentperrinet.github.io/talk/2024-04-10-ue-neurosciences-computationnelles
 - name: Code
   url: https://github.com/laurentperrinet/2024-04_UE-neurosciences-computationnelles
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2024-04-10-ue-neurosciences-computationnelles
 location: Marseille (France)
 projects:
 - courses

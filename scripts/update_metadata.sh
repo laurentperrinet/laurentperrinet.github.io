@@ -7,7 +7,7 @@ if [ $# -eq 1 ]
   then msg="$1"
 fi
 
-python3 ../scripts/clean_bibtex.py
+python ../scripts/clean_bibtex.py
 
 cd ../../perrinet_curriculum-vitae.tex
 
@@ -15,8 +15,8 @@ git pull ; git commit  -m "$msg" -a ; git push
 
 echo "\033[0;32mrecompiling website...\033[0m"
 
-cd ../hugo_academic/scripts
+cd ../laurentperrinet.github.io_hugo/scripts
 
 
-python3 ../scripts/update_metadata.py
+python ../scripts/update_metadata.py
 
