@@ -51,7 +51,7 @@ Vicotr obtained a PhD in the Institute of Neuroscience of Marseille, at the Aix-
 
 The brain is a complex machinery that is incredibly efficient and flexible. Thanks to efficient training processes, it tackles a high diversity of tasks with a high robustness. In contrast, states-of-the-art machine learning algorithms exhibit great performances, but are also highly task-specialized. Consequently, neuroscience is potentially a great source of inspiration to design more efficient artificial intelligence algorithms.
 
-In particular, vision is predominant compared to other senses in terms of computational resources. So understanding visual processing has the potential to reveal the core computational mechanisms that give the brain such performances. In my research, I am interested in extracting the fundamental principles that are at stake in the visual system, and to apply them to develop better machine learning algorithms. As I consequence, I tend to adopt a cross-level analysis approach. I develop algorithms that simultaneously model low-level neural mechanisms and account for higher-level visual tasks such as object recognition, denoising, inpainting, image generation, etc.
+In particular, vision is predominant compared to other senses in terms of computational resources. So understanding visual processing has the potential to reveal the core computational mechanisms that give the brain such performances. In my research, I am interested in extracting the fundamental principles that are at stake in the visual system, and to apply them to develop better machine learning algorithms. As a consequence, I tend to adopt a cross-level analysis approach. I develop algorithms that simultaneously model low-level neural mechanisms and account for higher-level visual tasks such as object recognition, denoising, inpainting, image generation, etc.
 
 The ultimate objective would be to develop a framework that successfully solves all these visual tasks without being extensively retrained from scratch for each of those tasks. Such an algorithm would be a first step towards the ultimate goal of every researcher in machine learning, that is, general artificial intelligence.
 
@@ -121,7 +121,7 @@ computer vision and the latest technology in aerial robots.
  at INT concerning visual processing and spike-based processing methods.
  This partnership will provide the ESR with the best resources to achieve
  his goals. In particular, the ISM owns a brand new flying arena (funded
- by Robotex project, www.marseilles-flying-arena.eu) equipped with
+ by Robotex project) equipped with
  high-tech motion capture tools (Vicon) and the INT has a entire
  technological platform dedicated for high-performance computing and
  measurement tool prototyping.
