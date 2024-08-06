@@ -260,6 +260,7 @@ def clean_bibtex_str(s):
     """Clean BibTeX string and escape YAML special characters"""
     s = s.replace("\\", "")
     s = s.replace('"', '\\"')
+    s = s.replace("$ell_1$", "$\\ell_1$")
     s = s.replace("{", "").replace("}", "")
     s = s.replace("\t", " ").replace("\n", " ").replace("\r", "")
     return s
