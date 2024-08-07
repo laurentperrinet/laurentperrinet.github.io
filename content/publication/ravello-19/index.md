@@ -26,6 +26,8 @@ featured: false
 grants:
 - anr-trajectory
 links:
+- name: Press
+  url: https://www.insb.cnrs.fr/fr/cnrsinfo/des-la-retine-le-systeme-visuel-prefere-des-images-naturelles
 - name: URL
   url: https://doi.org/10.1038%2Fs41598-018-36861-8
 - name: HAL

@@ -37,6 +37,8 @@ featured: true
 grants:
 - pace-itn
 links:
+- name: Press
+  url: https://www.insb.cnrs.fr/fr/cnrsinfo/la-reponse-du-cerveau-aux-changements-de-lenvironnement-sensoriel
 - name: Pdf
   url: https://www.biorxiv.org/content/10.1101/784116v3.full.pdf
 - name: Code
