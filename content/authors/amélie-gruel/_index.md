@@ -1,13 +1,13 @@
 ---
 authors:
-- amelie-gruel
+- amélie-gruel
 bio: During my PhD, I am focusing on Ultra-fast vision using Spiking Neural Networks.
 education:
   courses:
   - course: PhD student in Computer Sciences at i3S/CNRS
     institution: Université Cote d'Azur
     year: 2023
-title: Amelie Gruel
+title: Amélie Gruel
 role: PhD student in Computer Sciences at i3S/CNRS
 social:
 - icon: linkedin
@@ -15,7 +15,7 @@ social:
   link: https://www.linkedin.com/in/ameliegruel
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Amelie-Gruel
+  link: https://www.researchgate.net/profile/amélie-gruel
 superuser: false
 tags:
 - aprovis-3-d
