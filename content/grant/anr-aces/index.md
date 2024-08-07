@@ -3,7 +3,7 @@ date: 2021-07-13 00:00:00
 summary: 'Assignment of credit and constraints on eye movement learning (2022/2026).'
 authors:
 - anna-montagnini
-- emmanuel-dauce
+- emmanuel-daucé
 - laurent-u-perrinet
 - laurent-madelain
 tags:

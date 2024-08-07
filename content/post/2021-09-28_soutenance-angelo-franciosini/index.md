@@ -25,7 +25,7 @@ tags:
 * [Anthony Burkitt](https://findanexpert.unimelb.edu.au/profile/5669-anthony-burkitt), University of Melbourne, Rapporteur
 * [Thomas Serre](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/people/faculty/thomas-serre), Brown University, Rapporteur
 * [Laura Dugué](https://incc-paris.fr/people/laura-dugue/), Integrative Neuroscience & Cognition Center, Examinateur
-* [Emmanuel Dauce](http://emmanuel.dauce.free.fr/), CNRS, Examinateur
+* [Emmanuel Daucé](http://emmanuel.dauce.free.fr/), CNRS, Examinateur
 * [Stephane Viollet](http://www.ism.univ-amu.fr/viollet/), CNRS, Examinateur
 * [Laurent Perrinet](https://laurentperrinet.github.io/), CNRS, Directeur de thèse
 

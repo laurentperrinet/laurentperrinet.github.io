@@ -36,7 +36,7 @@ user_groups:
  * this fellowship is part of the [AgileNeuRobot project](https://laurentperrinet.github.io/grant/anr-anr/)
  * Institut des Neurosciences de la Timone, Aix-Marseille Université / CNRS
 
-* Thesis direction: [Laurent Perrinet](https://laurentperrinet.github.io/author/laurent-u-perrinet/) and co-direction: [Emmanuel Dauce](https://laurentperrinet.github.io/author/emmanuel-dauce/)
+* Thesis direction: [Laurent Perrinet](https://laurentperrinet.github.io/author/laurent-u-perrinet/) and co-direction: [Emmanuel Daucé](https://laurentperrinet.github.io/author/emmanuel-daucé/)
 
 {{< figure src="/grant/anr-anr/event_driven_computations.png" title="A miniature, event-based ATIS sensor. Contrary to a classical frame-based camera for which a full dense image representation is given at discrete, regularly spaced timings, the event-based camera provides with events at the micro-second resolution. These are sparse as they represent luminance increments or decrements (ON and OFF events, respectively)." numbered="true" >}}
 

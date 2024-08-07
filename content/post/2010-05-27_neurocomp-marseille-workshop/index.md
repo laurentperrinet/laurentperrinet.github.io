@@ -1,6 +1,6 @@
 ---
 authors:
-- emmanuel-dauce
+- emmanuel-daucé
 - laurent-u-perrinet
 date: 2008-10-08 00:00:00
 draft: false
@@ -225,7 +225,7 @@ Control»**
 
 10h00-11h00
 
-*<a href="http://emmanuel.dauce.free.fr" class="http">Emmanuel Dauce</a>*
+*<a href="http://emmanuel.dauce.free.fr" class="http">Emmanuel Daucé</a>*
 Mouvement & Perception, UMR 6152, Faculté des sciences du sport
 **«Adapting the noise to the problem : a Policy-gradient approach of
 receptive fields formation»**

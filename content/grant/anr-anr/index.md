@@ -2,7 +2,7 @@
 date: 2020-12-07 00:00:00
 summary: 'Robots aériens agiles bio-mimetiques pour le vol en conditions réelles'
 authors:
-- emmanuel-dauce
+- emmanuel-daucé
 - stephane-viollet
 - ryad-benosman
 - laurent-u-perrinet
