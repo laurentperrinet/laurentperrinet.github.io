@@ -3,7 +3,7 @@ date: 2020-12-07 00:00:00
 summary: 'Robots aériens agiles bio-mimetiques pour le vol en conditions réelles'
 authors:
 - emmanuel-daucé
-- stephane-viollet
+- stéphane-viollet
 - ryad-benosman
 - laurent-u-perrinet
 tags:
@@ -25,7 +25,7 @@ slides: "2020-12-10_agileneurobot_anr"
 * Coordinateur Scientifique : PERRINET Laurent (UMR7289)
 * Durée: 3 ans, à partir du 1er mars 2021 - 1er décembre 2024
 * Budget total: 435 k€
-* Responsables Scientifiques : Stephane Viollet (BioRobotique, Inst Sciences Mouvement), Ryad Benosman (Inst de la Vision ) | Laurent Perrinet (NeOpTo, Inst Neurosciences de la Timone, coordinateur)
+* Responsables Scientifiques : Stéphane Viollet (BioRobotique, Inst Sciences Mouvement), Ryad Benosman (Inst de la Vision ) | Laurent Perrinet (NeOpTo, Inst Neurosciences de la Timone, coordinateur)
 
 {{< figure src="event_driven_computations.png" title="A miniature, event-based ATIS sensor. Contrary to a classical frame-based camera for which a full dense image representation is given at discrete, regularly spaced timings, the event-based camera provides with events at the micro-second resolution. These are sparse as they represent luminance increments or decrements (ON and OFF events, respectively)." numbered="true" >}}
 

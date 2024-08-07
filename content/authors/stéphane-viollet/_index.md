@@ -1,7 +1,7 @@
 ---
 authors:
-- stephane-viollet
-title: Stephane Viollet
+- stéphane-viollet
+title: Stéphane Viollet
 superuser: false
 user_groups:
 - Collaborators
