@@ -4,7 +4,7 @@ summary: 'Connectivité Horizontale et Prédiction de
   Cohérences dans l''Intégration de Contour et Mouvement dans le Cortex Visuel Primaire'
 authors:
 - yves-fregnac
-- frederic-y-chavane
+- frédéric-y-chavane
 - laurent-u-perrinet
 tags:
 - grant

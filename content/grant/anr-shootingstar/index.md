@@ -2,7 +2,7 @@
 date: 2020-04-27 00:00:00
 summary: 'Processing of naturalistic motion in early vision'
 authors:
-- frederic-y-chavane
+- frédéric-y-chavane
 - laurent-u-perrinet
 tags:
 - grant
@@ -22,7 +22,7 @@ We expect that the convergence of these three research currents and methodologie
 * Budget total (partenaire français): 665 k€
 * Coordinateur Scientifique : Mark WEXLER (CNRS‐INCC)
 * Partenaire(s) : AGENCE NATIONALE DE LA RECHERCHE
-* Responsable Scientifique INT : Frederic CHAVANE (UMR7289)
+* Responsable Scientifique INT : Frédéric Chavane (UMR7289)
 
 ## Acknowledgement
 
