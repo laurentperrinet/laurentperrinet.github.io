@@ -15,7 +15,7 @@ education:
       institution: Aix-Marseille Université
       year: 2019
 title: Hugo Ladret
-role: Phd candidate in Computational Neuroscience
+role: Phd in Computational Neuroscience
 social:
 - icon: github
   icon_pack: fab
@@ -34,7 +34,7 @@ user_groups:
 - Former Students
 ---
 
-* Now a Postdoc in Georg Keller’s lab @ FMI, Basel, CH
+* Now a Postdoc in Georg Keller’s lab @ FMI (Friedrich Miescher Institute for Biomedical Research), Basel, Switzerland
 
 # PhD Student (2019-09 / 2024-02): A multiscale cortical model to account for orientation selectivity in natural-like stimulations
 
