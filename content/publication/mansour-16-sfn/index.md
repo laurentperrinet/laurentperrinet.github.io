@@ -10,7 +10,7 @@ grants:
 - pace-itn
 links:
 - name: URL
-  url: https://laurentperrinet.github.io/publication/mansour-16-ecvp
+  url: https://laurentperrinet.github.io/publication/mansour-16-sfn
 projects: []
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:

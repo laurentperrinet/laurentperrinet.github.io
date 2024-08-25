@@ -18,7 +18,7 @@ authors:
 - Arjan Boonman
 - Laurent U Perrinet
 - Guillaume S Masson
-- Frédéric Chavane
+- Frédéric Y Chavane
 date: 2020-01-01
 doi: 10/ggqj77
 featured: false

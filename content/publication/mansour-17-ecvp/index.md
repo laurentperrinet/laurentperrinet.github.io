@@ -9,6 +9,8 @@ featured: false
 grants:
 - pace-itn
 links:
+- name: Pdf
+  url: http://www.ecvp.org/2017/assets/ecvp2017_programme_web_2408.pdf
 - name: URL
   url: https://laurentperrinet.github.io/publication/mansour-17-ecvp/
 projects: []
