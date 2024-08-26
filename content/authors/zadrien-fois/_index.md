@@ -1,6 +1,6 @@
 ---
 authors:
-- adrien-fois
+- zadrien-fois
 title: Adrien Fois
 role: Post-doctoral Researcher
 bio: Post-Doc in Computational Neuroscience (09/2023 - 03/2025)
