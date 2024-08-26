@@ -4,39 +4,39 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-
 appearance:
   mode: system
-  color: blue
-  font: native
-  
+  color: emerald
+
 # SEO
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Scientific website of Laurent Udo Perrinet.'
+    description: 'Scientific website of Laurent Udo Perrinet'
     # twitter: 'laurentperrinet'
-  # analytics:
-  #   google_analytics: 'UA-140381649-1'
-  #   baidu_tongji: ''
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
   verification:
     google: ''
     baidu: ''
 
 # Site header
-
 header:
   navbar:
     enable: true
-    align: r
-    show_logo: true
-    show_language: false
-    show_day_night: true
+    blox: "navbar"
+    fixed_to_top: true
     show_search: true
-    highlight_active_link: false
+    show_theme_chooser: true
+    logo:
+      text: "Scientific website of Laurent Udo Perrinet"
 
 # Site footer
 
@@ -68,62 +68,3 @@ features:
     enable: true
   privacy_pack:
     enable: false
-  repository:
-    url: 'https://github.com/laurentperrinet/hugo_academic'
-    content_dir: content
-    branch: main
-  avatar:
-    gravatar: false
-    shape: circle
-  comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
-    giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
-  search:
-    # provider: algolia
-    # provider: docsearch
-    provider: wowchemy
-
-    wowchemy:
-      min_length: 1  # Only the matches whose length exceeds this value will be returned.
-      threshold: 0.3  # Where 0 requires a perfect match and 1 matches anything.
-
-    algolia:
-      app_id: 'LTSUEMOTRB'
-      api_key: '1d1fc9a2d13f20418a4a07312b56e748'
-      index_name: 'laurentperrinet'
-      show_logo: false
-
-    docsearch:
-      app_id: 'LTSUEMOTRB'
-      api_key: '1d1fc9a2d13f20418a4a07312b56e748'
-      index_name: 'laurentperrinet'
-      show_logo: false
-
-  map:
-    provider: 'mapnik'
-    api_key: ''
-    zoom: 15
-
-# Extensions
-
-extensions:
-  decap_cms:
-    branch: main
-    local_backend: false
-  academicons:
-    enable: true
-
-# Citation style
-
-publications:
-  date_format: January 2006
-  citation_style: apa

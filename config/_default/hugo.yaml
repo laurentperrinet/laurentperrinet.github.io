@@ -50,7 +50,7 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  home: [HTML, RSS, headers, redirects, backlinks]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
@@ -74,7 +74,6 @@ related:
     - name: categories
       weight: 70
 security:
-  allow_frame: true
   _merge: deep
 sitemap:
   _merge: deep
