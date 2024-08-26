@@ -5,10 +5,13 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: emerald
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: L
 
 # SEO
+
 marketing:
   seo:
     site_type: Person
@@ -19,25 +22,26 @@ marketing:
   analytics:
     google_analytics: ''
     baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
   verification:
     google: ''
     baidu: ''
 
 # Site header
+
 header:
   navbar:
     enable: true
-    blox: "navbar"
-    fixed_to_top: true
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: true
     show_search: true
-    show_theme_chooser: true
-    logo:
-      text: "Scientific website of Laurent Udo Perrinet"
+    highlight_active_link: true
 
 # Site footer
+
 footer:
   copyright:
     notice: '© {year} <a rel="me" href="https://neuromatch.social/@laurentperrinet">Laurent U Perrinet</a>. This work is licensed under {license}'
@@ -54,18 +58,50 @@ locale:
   address_format: en-us
 
 # Site features
+
 features:
+  syntax_highlighter:
+    theme_light: github-light
+    theme_dark: dracula
   math:
     enable: true
   privacy_pack:
     enable: false
-
-
+  repository:
+    url: 'https://github.com/laurentperrinet/laurentperrinet.github.io'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
 
 # Extensions
 
 extensions:
-  decap_cms:
+  cms:
     branch: main
     local_backend: false
   academicons:

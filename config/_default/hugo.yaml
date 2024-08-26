@@ -44,7 +44,6 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  # event: '/talk/:filename/'
   event: '/talk/:slug/'
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
@@ -53,8 +52,6 @@ permalinks:
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
-  # home: [HTML, RSS]
-  # home: [HTML, RSS, headers, redirects, backlinks]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
@@ -67,9 +64,18 @@ taxonomies:
   publication_type: publication_types
 markup:
   _merge: deep
-  highlight:
-    lineNos: false
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 70
 security:
   _merge: deep
 sitemap:
+  _merge: deep
+minify:
   _merge: deep
