@@ -1,7 +1,7 @@
 ---
 authors:
 - hugo-ladret
-bio: During my PhD, I am focusing on the role of precision in natural and artificial neural networks.
+bio: My PhD subject focused on the role of precision in natural and artificial neural networks.
 
 education:
   courses:
