@@ -20,6 +20,6 @@ tags:
 title: Role of motion-based prediction in motion extrapolation
 ---
 
-* Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}
-* see  follow-up on motion extrapolation: {{< cite page="/publication/khoei-13-jpp" view="4" >}}
-* see  follow-up on the flash-lag effect: {{< cite page="/publication/khoei-masson-perrinet-17" view="4" >}}
+* Based on {{< cite page="/publication/perrinet-12-pred" view="citation" >}}
+* see  follow-up on motion extrapolation: {{< cite page="/publication/khoei-13-jpp" view="citation" >}}
+* see  follow-up on the flash-lag effect: {{< cite page="/publication/khoei-masson-perrinet-17" view="citation" >}}

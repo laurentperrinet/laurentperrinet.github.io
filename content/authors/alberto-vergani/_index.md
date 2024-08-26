@@ -37,8 +37,8 @@ user_groups:
 
 ## Main contributions to the project:
 
-* {{< cite page="/publication/vergani-21-bernstein" view="4" >}}
-* {{< cite page="/post/2021-06-15_neural-turing" view="4" >}}
+* {{< cite page="/publication/vergani-21-bernstein" view="citation" >}}
+* {{< cite page="/post/2021-06-15_neural-turing" view="citation" >}}
 
 # Project description: Visual computations using Spatio-temporal Diffusion Kernels and Traveling Waves
 

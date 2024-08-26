@@ -22,4 +22,4 @@ url_code: ''
 url_slides: ''
 ---
 
-* see a related work describing SDPC in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
+* see a related work describing SDPC in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="citation" >}}

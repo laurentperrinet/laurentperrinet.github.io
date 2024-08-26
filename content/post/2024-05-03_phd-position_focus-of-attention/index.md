@@ -205,7 +205,7 @@ eBRAIN group. He is interested in dynamic neural networks and develop
 neural models from biological inspiration.
 
 
-* More details on the "Emergences" grant: {{< cite page="/grant/emergences" view="4" >}}
+* More details on the "Emergences" grant: {{< cite page="/grant/emergences" view="citation" >}}
 
 # Application
 

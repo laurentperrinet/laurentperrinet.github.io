@@ -38,7 +38,7 @@ Wahiba is now scientific software developper at [Enthought](https://www.enthough
 
 ## Main publications:
 
-* {{< cite page="/publication/taouali-16" view="4" >}}
+* {{< cite page="/publication/taouali-16" view="citation" >}}
 
 ## Context
 {{< figure src="https://brainscales.kip.uni-heidelberg.de/images/thumb/e/e2/Public--BrainScalesLogo.svg/100px-Public--BrainScalesLogo.svg.png" title="This grant was funded by a large European integrated project called [BrainScales](https://brainscales.kip.uni-heidelberg.de/index.html) whose aim is to understand brain information processing at multiple spatial and temporal scales. The successful applicants will have the opportunity to interact with a large and exciting consortium composed of 18 europeans teams working in biology, modeling and hardware." numbered="false" >}}

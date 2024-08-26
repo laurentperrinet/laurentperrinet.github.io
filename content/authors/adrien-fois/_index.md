@@ -27,10 +27,10 @@ By extending this paradigm to a hierarchy, we envision practical applications of
 
 ## Related references
 
-* More details on the "polychronies" grant: {{< cite page="/grant/polychronies" view="4" >}}
+* More details on the "polychronies" grant: {{< cite page="/grant/polychronies" view="citation" >}}
 
-* Our recent review on Precise spiking motifs in neurobiological and neuromorphic data: {{< cite page="/publication/grimaldi-22-polychronies" view="4" >}}
+* Our recent review on Precise spiking motifs in neurobiological and neuromorphic data: {{< cite page="/publication/grimaldi-22-polychronies" view="citation" >}}
 
-* Application of detecting spiking motifs in neuromorphic data: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}
+* Application of detecting spiking motifs in neuromorphic data: {{< cite page="/publication/grimaldi-23-bc" view="citation" >}}
 
-* A theoretical framework on the accurate (supervised) detection of spiking motifs in (synthetic) multi-unit raster plots {{< cite page="/publication/perrinet-23-icann" view="4" >}}
+* A theoretical framework on the accurate (supervised) detection of spiking motifs in (synthetic) multi-unit raster plots {{< cite page="/publication/perrinet-23-icann" view="citation" >}}

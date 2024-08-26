@@ -44,5 +44,5 @@ title: From biological vision to unsupervised hierarchical sparse coding
 3. CIRM, Marseille, France. <span id="line-10" class="anchor"></span>
 4. get the [full proceedings](https://arxiv.org/html/1812.00648)
 5. Poster as [PDF](boutin-franciosini-ruffier-perrinet-18-itwist.pdf)
-6. see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
-7. more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}
+6. see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="citation" >}}
+7. more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="citation" >}}

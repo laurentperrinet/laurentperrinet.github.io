@@ -38,4 +38,4 @@ tags:
 title: Sparse Models for Computer Vision
 ---
 
-* Appeared in this book: {{< cite page="/publication/cristobal-perrinet-keil-15-bicv" view="4" >}}
+* Appeared in this book: {{< cite page="/publication/cristobal-perrinet-keil-15-bicv" view="citation" >}}
