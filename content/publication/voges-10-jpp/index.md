@@ -36,4 +36,4 @@ title: Phase space analysis of networks based on biologically realistic paramete
 ---
 
 ![header](voges-10-jpp.png)
-* see  follow-up : {{< cite page="/publication/voges-12" view="citation" >}}
+* see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

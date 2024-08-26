@@ -41,9 +41,9 @@ user_groups:
 
 ## Main publications
 
-* {{< cite page="/publication/grimaldi-23-bc" view="citation" >}}
-* {{< cite page="/publication/grimaldi-22-polychronies" view="citation" >}}
-* {{< cite page="/publication/grimaldi-23" view="citation" >}}
+* {{< cite page="/publication/grimaldi-23-bc" view="4" >}}
+* {{< cite page="/publication/grimaldi-22-polychronies" view="4" >}}
+* {{< cite page="/publication/grimaldi-23" view="4" >}}
 
 ## Detailed description: "Ultra-fast vision using Spiking Neural Networks"
 

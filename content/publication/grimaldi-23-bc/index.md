@@ -37,4 +37,4 @@ title: Learning heterogeneous delays in a layer of spiking neurons for fast moti
  * read the paper [online](https://doi.org/10.1007/s00422-023-00975-8) (paywall) or read the reprint as [PDF](https://laurentperrinet.github.io/publication/grimaldi-23-bc/grimaldi-23-bc.pdf)
  * [full code](https://github.com/SpikeAI/2023_GrimaldiPerrinet_HeterogeneousDelaySNN) with extensive [Supplementary Material](https://nbviewer.org/github/SpikeAI/2023_GrimaldiPerrinet_HeterogeneousDelaySNN/blob/master/FastMotionDetection.ipynb)
  * join the [Zotero group](https://www.zotero.org/groups/4776796/fastmotiondetection) to add and discuss more items
- * this paper is a follow-up of  {{< cite page="/publication/grimaldi-22-icip" view="citation" >}}
+ * this paper is a follow-up of  {{< cite page="/publication/grimaldi-22-icip" view="4" >}}

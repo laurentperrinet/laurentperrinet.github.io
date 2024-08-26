@@ -30,13 +30,13 @@ Candidates should have experience in computational neuroscience, physics, engine
 
 ## Related references
 
-* More details on the "polychronies" grant: {{< cite page="/grant/polychronies" view="citation" >}}
+* More details on the "polychronies" grant: {{< cite page="/grant/polychronies" view="4" >}}
 
-* Our recent review on Precise spiking motifs in neurobiological and neuromorphic data: {{< cite page="/publication/grimaldi-22-polychronies" view="citation" >}}
+* Our recent review on Precise spiking motifs in neurobiological and neuromorphic data: {{< cite page="/publication/grimaldi-22-polychronies" view="4" >}}
 
-* Application of detecting spiking motifs in neuromorphic data: {{< cite page="/publication/grimaldi-23-bc" view="citation" >}}
+* Application of detecting spiking motifs in neuromorphic data: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}
 
-* A theoretical framework on the accurate (supervised) detection of spiking motifs in (synthetic) multi-unit raster plots {{< cite page="/publication/perrinet-23-icann" view="citation" >}}
+* A theoretical framework on the accurate (supervised) detection of spiking motifs in (synthetic) multi-unit raster plots {{< cite page="/publication/perrinet-23-icann" view="4" >}}
 
 * job offer posted on: [Euraxess](https://euraxess.ec.europa.eu/jobs/112647) - [jobrXiv](https://jobrxiv.org/job/cnrs-aix-marseille-univ-27778-accurate-detection-of-precise-spiking-motifs-in-neurobiological-data/?feed_id=45012) - [twitter](https://twitter.com/laurentperrinet/status/1654155062388637699) - [academic positions](https://euraxess.ec.europa.eu/jobs/115351)
 

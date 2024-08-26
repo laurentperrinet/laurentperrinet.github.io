@@ -21,4 +21,4 @@ title: Spatiotemporal tuning of retinal ganglion cells dependent on the context 
   signal presentation
 ---
 
-* Follow-up paper {{< cite page="/publication/ravello-19" view="citation" >}}
+* Follow-up paper {{< cite page="/publication/ravello-19" view="4" >}}

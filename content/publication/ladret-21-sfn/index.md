@@ -44,4 +44,4 @@ title: Modulation of orientation selectivity by orientation precision
 
 {{< tweet user="laurentperrinet" id="1457644824723705856" >}}
 {{< youtube Hy2UlLDkPyU >}}
-* This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="citation" >}}
+* This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}
