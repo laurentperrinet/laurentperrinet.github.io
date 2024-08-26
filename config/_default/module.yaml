@@ -23,4 +23,3 @@ mounts:
     target: layouts
   - source: assets
     target: assets
-

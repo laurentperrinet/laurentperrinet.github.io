@@ -9,7 +9,6 @@ appearance:
   color: emerald
 
 # SEO
-
 marketing:
   seo:
     site_type: Person
@@ -39,7 +38,6 @@ header:
       text: "Scientific website of Laurent Udo Perrinet"
 
 # Site footer
-
 footer:
   copyright:
     notice: '© {year} <a rel="me" href="https://neuromatch.social/@laurentperrinet">Laurent U Perrinet</a>. This work is licensed under {license}'
@@ -56,14 +54,7 @@ locale:
   address_format: en-us
 
 # Site features
-
 features:
-  syntax_highlighter:
-    enable: true
-    extra_languages:
-      - r
-      - python
-      - latex
   math:
     enable: true
   privacy_pack:

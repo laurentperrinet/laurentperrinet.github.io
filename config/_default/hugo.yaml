@@ -34,6 +34,8 @@ removePathAccents: false
 ## ADVANCED
 ############################
 
+build:
+  writeStats: true
 enableGitInfo: false
 summaryLength: 30
 paginate: 100
@@ -50,29 +52,23 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, headers, redirects, backlinks]
+  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  # home: [HTML, RSS, headers, redirects, backlinks]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 75
+  quality: 80
   anchor: smart
 timeout: 600000
 taxonomies:
+  author: authors
   tag: tags
   category: categories
   publication_type: publication_types
-  author: authors
 markup:
   _merge: deep
-related:
-  threshold: 80
-  includeNewer: true
-  toLower: true
-  indices:
-    - name: tags
-      weight: 100
-    - name: categories
-      weight: 70
+  highlight:
+    lineNos: false
 security:
   _merge: deep
 sitemap:
