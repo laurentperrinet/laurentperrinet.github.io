@@ -46,6 +46,7 @@ Hugo Ladret focuses on predictive coding, an influential brain theory that promi
 
 {{< cite page="publication/ladret-23-iclr" view="4" >}}
 {{< cite page="publication/ladret-23" view="4" >}}
+{{< cite page="publication/ladret-24-joconde" view="4" >}}
 
 
 # previous experience
