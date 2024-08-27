@@ -5,8 +5,8 @@ bio: My PhD subject focused on the role of precision in natural and artificial n
 
 education:
   courses:
-    - course: Post-doc with Georg Keller
-      institution: FMI (Basel, Switzerland)
+    - course:  Now a Postdoc in Georg Keller’s lab
+      institution: FMI (Friedrich Miescher Institute for Biomedical Research), Basel, Switzerland
       year: 2024
     - course: Phd candidate in Computational Neuroscience
       institution: Aix-Marseille Université
@@ -33,8 +33,6 @@ superuser: false
 user_groups:
 - Former Students
 ---
-
-* Now a Postdoc in Georg Keller’s lab @ FMI (Friedrich Miescher Institute for Biomedical Research), Basel, Switzerland
 
 # PhD Student (2019-09 / 2024-02): A multiscale cortical model to account for orientation selectivity in natural-like stimulations
 
