@@ -26,8 +26,8 @@ authors:
 - Hugo Ladret
 - Christian Casanova
 - Laurent U Perrinet
-date: 2024-01-01
-doi: ''
+date: 2024-08-20
+doi: 10.1088/2634-4386/ad5d0f
 featured: false
 image:
   caption: ''
@@ -35,7 +35,7 @@ image:
   preview_only: false
 links:
 - name: URL
-  url: https://laurentperrinet.github.io/publication/ladret-24-sparse/
+  url: https://iopscience.iop.org/article/10.1088/2634-4386/ad5d0f
 projects: []
 publication: '*Submitted*'
 publication_short: ''

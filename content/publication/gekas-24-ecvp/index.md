@@ -24,7 +24,7 @@ authors:
 - Jonathan Vacher
 - Laurent Uand Mamassian, Pascal Perrinet
 - Guillaume S Masson
-date: 2024-01-01
+date: 2024-08-27
 links:
 - name: Pdf
   url: https://ecvp2024.abdn.ac.uk/wp-content/uploads/sites/23/2024/08/ECVP2024_Abstract_Book.pdf

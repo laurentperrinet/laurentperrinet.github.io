@@ -8,7 +8,7 @@ abstract: 'Grâce à nos yeux, l’organe sensible de la vision, nous pouvons ai
   de l’évolution du vivant ?'
 authors:
 - Laurent U Perrinet
-date: 2024-01-01
+date: 2024-02-23
 featured: false
 grants:
 - anr-anr
