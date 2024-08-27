@@ -5,19 +5,11 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Novel visual computations"
+title = "Next-generation neural computations"
 
-# Hero image (optional). Enter filename of an image in the `static/img/` folder.
-# hero_media = "hero-academic.png"
 
 [design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
 
-  # Background color.
-  # color = "navy"
 
   # Background gradient.
   gradient_start = "#4bb4e3"
@@ -35,27 +27,11 @@ title = "Novel visual computations"
   # Text color (true=light or false=dark).
   text_color_light = true
 
-# Call to action links (optional).
-#   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
-#   Remove a link/note by deleting a cta/note block.
-#[cta]
-#  url = "https://sourcethemes.com/academic/docs/install/"
-#  label = "Get Started"
-#  icon_pack = "fas"
-#  icon = "download"
-#  
-#[cta_alt]
-#  url = "https://sourcethemes.com/academic/"
-#  label = "View Documentation"
-
-# Note. An optional note to show underneath the links.
-#[cta_note]
-#  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Let's admit it: brains are not computers. Indeed, computers are still deceptive compared to biological perceptual systems. Think about rapidly detecting a novel object in clutter. Think about performing this with little supervision at a low energetic cost...
+Brains are not like computers. Our brains can quickly and easily spot familiar objects, like keys in a messy room, with very little effort. In contrast, even the best computers struggle to do this as fast or efficiently. This difference shows just how much more we need to learn about how our brains work to create smarter artificial intelligence.
 
-To narrow the gap between neuroscience and the theory of sensory processing computations, I am interested in *bridging  geometrical regularities found in natural scenes with the properties of neural computations* as they are observed in  sensory processes or behavior.
+To bridge the gap between neuroscience and Artificial Intelligence (AI), I seek to harness the efficiency of vision by understanding how neural computations govern sensory processes like vision and behavioral responses like eye movements.
 
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/laurentperrinet" data-size="large" data-show-count="true" aria-label="Follow @laurentperrinet on GitHub">Follow @laurentperrinet on GitHub</a>.<script async defer src="https://buttons.github.io/buttons.js"></script> 
