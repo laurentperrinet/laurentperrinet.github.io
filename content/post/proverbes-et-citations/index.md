@@ -96,7 +96,7 @@ title: Proverbes Et Citations
 
 * “Truth in science can be defined as the working hypothesis best suited to open the way to the next better one.”(Konrad Lorenz)
 
-* “all motion is illusion” (Zeno of Elea, 490 BC )
+* “all motion is illusion” (Zeno of Elea, 490 BC)
 
 * "Be humble for you are made of dung. Be noble for you are made of stars." (Serbian proverb)
 
