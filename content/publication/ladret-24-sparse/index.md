@@ -52,7 +52,7 @@ tags:
 - Vision
 title: Kernel Heterogeneity Improves Sparseness of Natural Images Representations
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://figshare.com/articles/media/HD_natural_images_database_for_sparse_coding/24167265?file=42404574'
 url_poster: ''
 url_project: ''
 url_slides: ''
