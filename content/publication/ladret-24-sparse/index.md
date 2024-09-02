@@ -37,7 +37,7 @@ links:
 - name: URL
   url: https://iopscience.iop.org/article/10.1088/2634-4386/ad5d0f
 projects: []
-publication: '*Submitted*'
+publication: 'Neuromorphic Computing and Engineering'
 publication_short: ''
 publication_types:
 - article-journal
@@ -68,7 +68,7 @@ url_video: ''
 
 ![Artboard](2024_ladret.gif)
 
-{{< tweet user="laurentperrinet" id="1826586608440934419" >}}
+{{< tweet user="laurentperrinet" id="1826586440773275942" >}}
 
 * This neurophysiological work accompanies a similar study in theoretical neuroscience : {{< cite page="/publication/ladret-23-iclr" view="4" >}}
 
