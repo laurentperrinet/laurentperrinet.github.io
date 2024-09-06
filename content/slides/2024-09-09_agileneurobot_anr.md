@@ -82,7 +82,7 @@ Inst Sciences Mouvement | Inst de la Vision | Inst Neurosci de la Timone
 ---
 ## AgileNeuRobot: Agile = Performant et efficace
 
-{{< figure src="https://laurentperrinet.github.io/grant/anr-anr/principe_agile.jpg" title="The system includes 3 units to process event-driven visual inputs communicating by event-driven, feed-forward and feed-back communications." numbered="true" >}}
+{{< figure src="https://laurentperrinet.github.io/grant/anr-anr/principe_agile.jpg" title="The system includes 3 units to process event-driven visual inputs communicating by feed-forward and feed-back paths." numbered="true" >}}
 
 {{< speaker_note >}}
 
@@ -100,7 +100,7 @@ Inst Sciences Mouvement | Inst de la Vision | Inst Neurosci de la Timone
 
 ## Enjeux de l'IA embarquée : latence de réponse
 
-{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies ([see review](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))." width="75%" >}}
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies [[Grimaldi *et al*, 2023](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/).)." width="75%" >}}
 
 {{< speaker_note >}}
 
@@ -111,7 +111,7 @@ Inst Sciences Mouvement | Inst de la Vision | Inst Neurosci de la Timone
 ---
 ## Enjeux de l'IA embarquée : budget énergétique
 
-{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies ([see review](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))." width="75%" >}}
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies [[Grimaldi *et al*, 2023]](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/).." width="75%" >}}
 
 {{< speaker_note >}}
 
@@ -165,7 +165,7 @@ https://en.wikipedia.org/wiki/Event_camera#Functional_description
 ## Levier #1: Réseaux de neurones impulsionnels / *Spiking Neural Networks (SNNs)*
 
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/HDSNN_conv.png" title="The HD-SNN neural network." width="60%" >}}
-{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png" title="Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)." width="60%" >}}
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png" title="[[Grimaldi *et al*, 2023)](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)." width="60%" >}}
 
 {{< speaker_note >}}
 
