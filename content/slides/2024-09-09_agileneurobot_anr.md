@@ -26,7 +26,7 @@ summary: Robots aériens agiles bio-mimetiques pour le vol en conditions réelle
 <table>
 <tr>
 	<th>
-		<i>[Laurent Perrinet](https://laurentperrinet.github.io)</i>
+		<i> Laurent Perrinet <a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io)</a></i>
     <br>
 		<a href="https://laurentperrinet.github.io/slides/2024-09-09_agileneurobot_anr/?transition=fade">
 			<u>[2024-09-09] ➡️ Enjeux pour l'IA embarquée</u>
@@ -267,7 +267,7 @@ Time-to-Contact maps [[Nunes *et al*, 2023]](https://laurentperrinet.github.io/p
 <table>
 <tr>
 	<th>
-		<i>[Laurent Perrinet](https://laurentperrinet.github.io)</i>
+		<i> Laurent Perrinet <a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io)</a></i>
     <br>
 		<a href="https://laurentperrinet.github.io/slides/2024-09-09_agileneurobot_anr/?transition=fade">
 			<u>[2024-09-09] ➡️ Enjeux pour l'IA embarquée</u>
