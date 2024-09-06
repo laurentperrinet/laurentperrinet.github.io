@@ -1,5 +1,5 @@
 ---
-slides:
+ slides:
  # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: white
   transition: 'fade'
@@ -16,6 +16,7 @@ title: 2024-09-09_agileneurobot_anr
 
 summary: Robots aériens agiles bio-mimetiques pour le vol en conditions réelles: Enjeux pour l'IA embarqué
 
+# printing = https://revealjs.com/pdf-export/
 ---
 <section>
 
@@ -180,7 +181,7 @@ quels résultats ? peut-on les évaluer avant d'avoir ces puces?
 ## Levier #2: Vision active / *Active Vision*
 
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24-ccn/featured.png" title="[[Jérémie *et al*, 2023](https://laurentperrinet.github.io/publication/ladret-23/)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24-ccn/featured.png" title="[[Jérémie *et al*, 2023](https://laurentperrinet.github.io/publication/jeremie-24)]" width="90%" >}}
 
 {{< speaker_note >}}
 
@@ -190,8 +191,7 @@ quels résultats ? peut-on les évaluer avant d'avoir ces puces?
 ---
 ## Levier #2: Vision active / *Active Vision*
 
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/HDSNN_conv.png" title="The HD-SNN neural network." width="60%" >}}
-{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png" title="Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)." width="60%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24/featured.png" title="[[Jérémie *et al*, 2023](https://laurentperrinet.github.io/publication/jeremie-24/)]" width="90%" >}}
 
 {{< speaker_note >}}
 
