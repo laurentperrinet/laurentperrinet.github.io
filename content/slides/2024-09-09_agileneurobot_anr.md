@@ -26,7 +26,7 @@ summary: Robots aériens agiles bio-mimetiques pour le vol en conditions réelle
 <table>
 <tr>
 	<th>
-		<i> Laurent Perrinet <a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io)</a></i>
+		<i> Laurent Perrinet (<a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io</a>)</i>
     <br>
 		<a href="https://laurentperrinet.github.io/slides/2024-09-09_agileneurobot_anr/?transition=fade">
 			<u>[2024-09-09] ➡️ Enjeux pour l'IA embarquée</u>
@@ -100,7 +100,7 @@ Inst Sciences Mouvement | Inst de la Vision | Inst Neurosci de la Timone
 
 ## Enjeux de l'IA embarquée : latence de réponse
 
-{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies [[Grimaldi *et al*, 2023](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/).)." width="75%" >}}
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies [[Grimaldi *et al*, 2023]](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/).)." width="75%" >}}
 
 {{< speaker_note >}}
 
@@ -164,8 +164,7 @@ https://en.wikipedia.org/wiki/Event_camera#Functional_description
 
 ## Levier #1: Réseaux de neurones impulsionnels / *Spiking Neural Networks (SNNs)*
 
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/HDSNN_conv.png" title="The HD-SNN neural network." width="60%" >}}
-{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png" title="[[Grimaldi *et al*, 2023)](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)." width="60%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/HDSNN_conv.png" title="The HD-SNN neural network." width="50%" >}}{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png" title="[[Grimaldi *et al*, 2023]](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)." width="50%" >}}
 
 {{< speaker_note >}}
 
@@ -215,7 +214,7 @@ Time-to-Contact maps [[Nunes *et al*, 2023]](https://laurentperrinet.github.io/p
 ---
 ## Levier #2: Vision active / *Active Vision*
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24/featured.jpg" title="[[Jérémie *et al*, 2024](https://laurentperrinet.github.io/publication/jeremie-24/)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24/featured.jpg" title="[[Jérémie *et al*, 2024](https://laurentperrinet.github.io/publication/jeremie-24/)]" width="75%" >}}
 
 {{< speaker_note >}}
 
@@ -267,7 +266,7 @@ Time-to-Contact maps [[Nunes *et al*, 2023]](https://laurentperrinet.github.io/p
 <table>
 <tr>
 	<th>
-		<i> Laurent Perrinet <a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io)</a></i>
+		<i> Laurent Perrinet (<a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io</a>)</i>
     <br>
 		<a href="https://laurentperrinet.github.io/slides/2024-09-09_agileneurobot_anr/?transition=fade">
 			<u>[2024-09-09] ➡️ Enjeux pour l'IA embarquée</u>
