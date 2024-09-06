@@ -1,6 +1,5 @@
-
 ---
-slides:
+ slides:
  # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: white
   transition: 'fade'
@@ -13,11 +12,12 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2024-09-06T12:47:11+02:00"
 
-summary: Robots aériens agiles bio-mimetiques pour le vol en conditions réelles: Enjeux pour l'IA embarqué
-
 title: 2024-09-09_agileneurobot_anr
 
+summary: Robots aériens agiles bio-mimetiques pour le vol en conditions réelles: Enjeux pour l'IA embarqué
+
 ---
+<section>
 
 <a href="https://laurentperrinet.github.io/grant/anr-anr">
 <img src="https://laurentperrinet.github.io/grant/anr-anr/header.png" alt="header" height="450">
@@ -43,7 +43,11 @@ title: 2024-09-09_agileneurobot_anr
  - interaction between artificial and natural NNs...
 {{< /speaker_note >}}
 
+</section>
+
 ---
+
+<section>
 
 ## AgileNeuRobot: Fiche d'identité
 
@@ -86,7 +90,12 @@ Inst Sciences Mouvement | Inst de la Vision | Inst Neurosci de la Timone
 
 {{< /speaker_note >}}
 
+</section>
+
 ---
+
+<section>
+
 ## Enjeux de l'IA embarquée : latence de réponse
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies ([see review](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))." width="75%" >}}
@@ -124,7 +133,12 @@ Je vais proposer deux leviers inspirés de la biologie pour faire avancer le dom
 
 {{< /speaker_note >}}
 
+</section>
+
 ---
+
+<section>
+
 ## Levier #1: Réseaux de neurones impulsionnels / *Spiking Neural Networks (SNNs)*
 
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/HDSNN_conv.png" title="The HD-SNN neural network." width="60%" >}}
@@ -157,7 +171,12 @@ quels résultats ? peut-on les évaluer avant d'avoir ces puces?
 
 {{< /speaker_note >}}
 
+</section>
+
 ---
+
+<section>
+
 ## Levier #2: Vision active / *Active Vision*
 
 
@@ -190,7 +209,11 @@ quels résultats ? peut-on les évaluer avant d'avoir ces puces?
 
 {{< /speaker_note >}}
 
+</section>
+
 ---
+
+<section>
 
 <a href="https://laurentperrinet.github.io/grant/anr-anr">
 <img src="https://laurentperrinet.github.io/grant/anr-anr/header.png" alt="header" height="450">
@@ -215,3 +238,4 @@ quels résultats ? peut-on les évaluer avant d'avoir ces puces?
 - unobjectif : acquérir une indépendance scientifique = projet "Active Loop"
 
 {{< /speaker_note >}}
+</section>
