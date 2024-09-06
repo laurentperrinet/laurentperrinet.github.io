@@ -180,7 +180,7 @@ quels résultats ? peut-on les évaluer avant d'avoir ces puces?
 ## Levier #2: Vision active / *Active Vision*
 
 
-{{< figure src="https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations.png" title="From frame-based to event-based cameras." numbered="true" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24-ccn/featured.png" title="[[Jérémie *et al*, 2023](https://laurentperrinet.github.io/publication/ladret-23/)]" width="90%" >}}
 
 {{< speaker_note >}}
 
