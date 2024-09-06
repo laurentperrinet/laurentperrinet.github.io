@@ -26,7 +26,7 @@ summary: Robots aériens agiles bio-mimetiques pour le vol en conditions réelle
 <table>
 <tr>
 	<th>
-		*[Laurent Perrinet](https://laurentperrinet.github.io)*
+		<i>[Laurent Perrinet](https://laurentperrinet.github.io)</i>
     <br>
 		<a href="https://laurentperrinet.github.io/slides/2024-09-09_agileneurobot_anr/?transition=fade">
 			<u>[2024-09-09] ➡️ Enjeux pour l'IA embarquée</u>
@@ -267,7 +267,7 @@ quels résultats ? peut-on les évaluer avant d'avoir ces puces?
 <table>
 <tr>
 	<th>
-		*[Laurent Perrinet](https://laurentperrinet.github.io)*
+		<i>[Laurent Perrinet](https://laurentperrinet.github.io)</i>
     <br>
 		<a href="https://laurentperrinet.github.io/slides/2024-09-09_agileneurobot_anr/?transition=fade">
 			<u>[2024-09-09] ➡️ Enjeux pour l'IA embarquée</u>
