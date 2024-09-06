@@ -1,9 +1,26 @@
 
 ---
 slides:
+ # Choose a theme from https://github.com/hakimel/reveal.js#theming
+  theme: white
+  transition: 'fade'
+
+# Talk start and end times. 2023-05-13-master-m-4-nc
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: '2024-09-09'
+all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: "2024-03-29T12:47:11+02:00"
+
+summary: Robots aériens agiles bio-mimetiques pour le vol en conditions réelles: Enjeux pour l'IA embarqué
+
+
+
+slides:
   theme: "white"  # Reveal JS theme name
 
-title: 2020-12-10_agileneurobot_anr
+title: 2024-09-09_agileneurobot_anr
 
 ---
 
@@ -12,8 +29,8 @@ title: 2020-12-10_agileneurobot_anr
 </a>
 <table>
 <tr>
-	<th><a href="https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot_anr">
-		Présentation du projet - L. Perrinet
+	<th><a href="https://laurentperrinet.github.io/slides/2024-09-09_agileneurobot_anr">
+		Robots aériens agiles bio-mimetiques pour le vol en conditions réelles - L. Perrinet
     <br>
 		<u>[2024-09-09] Enjeux pour l'IA embarquée</u>
 	</a>
@@ -31,8 +48,13 @@ title: 2020-12-10_agileneurobot_anr
 * Titre : Robots aériens agiles bio-mimetiques pour le vol en conditions réelles
 * *Title : Bio-mimetic agile aerial robots flying in real-life conditions*
 * CES : CE23 - Intelligence Artificielle (ANR-20-CE23-0021)
-* Durée: 4 ans, à partir du 1er Octobre 2021
+* Durée: 4 ans, du 1er Octobre 2021 au 30 Septembre 2025
 * Budget total: 435 k€
+
+---
+## Principe Agile: Performant et efficace en énergie
+
+{{< figure src="https://laurentperrinet.github.io/grant/anr-anr/principe_agile.jpg" title="Our system is divided into 3 units to process visual inputs communicating by event-driven, feed-forward and feed-back communications." numbered="true" >}}
 
 ---
 ## Consortium:
@@ -42,15 +64,16 @@ Stéphane Viollet | Ryad Benosman | Laurent Perrinet
 Julien Diperi | Sio-Hoï Ieng | Emmanuel Daucé
 Inst Sciences Mouvement | Inst de la Vision | Inst Neurosci de la Timone
 
+
 ---
-## Spiking Neural Networks
+## Enjeux de l'IA embarquée
 
 {{< figure src="https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations.png" title="From frame-based to event-based cameras." numbered="true" >}}
 
 ---
-## Recurrent processing
+## Spiking Neural Networks
 
-{{< figure src="https://laurentperrinet.github.io/grant/anr-anr/principe_agile.jpg" title="Our system is divided into 3 units to process visual inputs communicating by event-driven, feed-forward and feed-back communications." numbered="true" >}}
+{{< figure src="https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations.png" title="From frame-based to event-based cameras." numbered="true" >}}
 
 ---
 ## Gantt Chart of project
