@@ -25,10 +25,10 @@ summary: Robots aériens agiles bio-mimetiques pour le vol en conditions réelle
 </a>
 <table>
 <tr>
-	<th><a href="https://laurentperrinet.github.io/slides/2024-09-09_agileneurobot_anr">
-		Robots aériens agiles bio-mimetiques pour le vol en conditions réelles - L. Perrinet
+	<th><a href="https://laurentperrinet.github.io/slides/2024-09-09_agileneurobot_anr/?transition=fade">
+		Robots aériens agiles bio-mimetiques - *[Laurent Perrinet](https://laurentperrinet.github.io)*
     <br>
-		<u>[2024-09-09] Enjeux pour l'IA embarquée</u>
+		<u>[2024-09-09] ➡️ Enjeux pour l'IA embarquée</u>
 	</a>
 	</th>
 	<th>
@@ -79,9 +79,9 @@ Inst Sciences Mouvement | Inst de la Vision | Inst Neurosci de la Timone
 {{< /speaker_note >}}
 
 ---
-## AgileNeuRobot: le Principe Agile = Performant et efficace
+## AgileNeuRobot: Agile = Performant et efficace
 
-{{< figure src="https://laurentperrinet.github.io/grant/anr-anr/principe_agile.jpg" title="Our system is divided into 3 units to process visual inputs communicating by event-driven, feed-forward and feed-back communications." numbered="true" >}}
+{{< figure src="https://laurentperrinet.github.io/grant/anr-anr/principe_agile.jpg" title="The system includes 3 units to process event-driven visual inputs communicating by event-driven, feed-forward and feed-back communications." numbered="true" >}}
 
 {{< speaker_note >}}
 
@@ -161,6 +161,8 @@ quels résultats ? peut-on les évaluer avant d'avoir ces puces?
 
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/accuracy.png" title="The HD-SNN neural network." width="80%" >}}
 
+* [[Nunes *et al*, 2023](https://laurentperrinet.github.io/publication/jeremie-24)
+
 {{< speaker_note >}}
 **2 MINUTES**
 
@@ -181,7 +183,7 @@ quels résultats ? peut-on les évaluer avant d'avoir ces puces?
 ## Levier #2: Vision active / *Active Vision*
 
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24-ccn/featured.png" title="[[Jérémie *et al*, 2023](https://laurentperrinet.github.io/publication/jeremie-24)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24-ccn/featured.png" title="[[Jérémie *et al*, 2024](https://laurentperrinet.github.io/publication/jeremie-24)]" width="100%" >}}
 
 {{< speaker_note >}}
 
@@ -191,7 +193,7 @@ quels résultats ? peut-on les évaluer avant d'avoir ces puces?
 ---
 ## Levier #2: Vision active / *Active Vision*
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24/featured.png" title="[[Jérémie *et al*, 2023](https://laurentperrinet.github.io/publication/jeremie-24/)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24/featured.jpg" title="[[Jérémie *et al*, 2024](https://laurentperrinet.github.io/publication/jeremie-24/)]" width="90%" >}}
 
 {{< speaker_note >}}
 
@@ -201,7 +203,7 @@ quels résultats ? peut-on les évaluer avant d'avoir ces puces?
 ---
 ## Levier #2: Vision active / *Active Vision*
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24/fig_attack_rotation_imagenet.png" title="[[Jérémie *et al*, 2023](https://laurentperrinet.github.io/publication/jeremie-24/)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24/fig_attack_rotation_imagenet.png" title="[[Jérémie *et al*, 2024](https://laurentperrinet.github.io/publication/jeremie-24/)]" width="90%" >}}
 
 {{< speaker_note >}}
 **2 MINUTES**
@@ -242,10 +244,10 @@ quels résultats ? peut-on les évaluer avant d'avoir ces puces?
 </a>
 <table>
 <tr>
-	<th><a href="https://laurentperrinet.github.io/slides/2024-09-09_agileneurobot_anr">
-		Robots aériens agiles bio-mimetiques pour le vol en conditions réelles - L. Perrinet
+	<th><a href="https://laurentperrinet.github.io/slides/2024-09-09_agileneurobot_anr/?transition=fade">
+		Robots aériens agiles bio-mimetiques - *[Laurent Perrinet](https://laurentperrinet.github.io)*
     <br>
-		<u>[2024-09-09] Enjeux pour l'IA embarquée</u>
+		<u>[2024-09-09] ➡️ Enjeux pour l'IA embarquée</u>
 	</a>
 	</th>
 	<th>
@@ -253,7 +255,6 @@ quels résultats ? peut-on les évaluer avant d'avoir ces puces?
 	</th>
 </tr>
 </table>
-
 
 {{< speaker_note >}}
 
