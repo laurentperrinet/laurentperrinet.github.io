@@ -201,11 +201,33 @@ quels résultats ? peut-on les évaluer avant d'avoir ces puces?
 ---
 ## Levier #2: Vision active / *Active Vision*
 
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/accuracy.png" title="The HD-SNN neural network." width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24/fig_attack_rotation_imagenet.png" title="[[Jérémie *et al*, 2023](https://laurentperrinet.github.io/publication/jeremie-24/)]" width="90%" >}}
 
 {{< speaker_note >}}
 **2 MINUTES**
 
+- même réultats qu'un CNN - mais plus robustes aux rotations / zooms
+
+- peut traiter des images arbitraires en taille
+
+
+- perspective en cours adapter aux SNN - et maintenant ...
+
+{{< /speaker_note >}}
+
+---
+## Levier #2: Vision active / *Active Vision*
+
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24/fig_areadne.svg" title="[[Jérémie *et al*, 2023](https://laurentperrinet.github.io/publication/jeremie-24/)]" width="90%" >}}
+
+{{< speaker_note >}}
+**2 MINUTES**
+
+- saccades
+
+- PEPR IA : multiples saccades et attention
+
+- comment intégrer ces deux leviers dans un système embarqué? 
 
 {{< /speaker_note >}}
 
@@ -235,7 +257,9 @@ quels résultats ? peut-on les évaluer avant d'avoir ces puces?
 
 {{< speaker_note >}}
 
-- unobjectif : acquérir une indépendance scientifique = projet "Active Loop"
+- résumé: l'IA embarqué implique des enjeux importants
+- les neurosciences peuvent approter pour résoudre ces enjeux de l'IA embarquée
+- un objectif : acquérir une indépendance scientifique = projet "Active Loop" pour lequel je cherche des partenaires
 
 {{< /speaker_note >}}
 </section>
