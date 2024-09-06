@@ -25,11 +25,12 @@ summary: Robots aériens agiles bio-mimetiques pour le vol en conditions réelle
 </a>
 <table>
 <tr>
-	<th><a href="https://laurentperrinet.github.io/slides/2024-09-09_agileneurobot_anr/?transition=fade">
-		Robots aériens agiles bio-mimetiques - *[Laurent Perrinet](https://laurentperrinet.github.io)*
+	<th>
+		*[Laurent Perrinet](https://laurentperrinet.github.io)*
     <br>
-		<u>[2024-09-09] ➡️ Enjeux pour l'IA embarquée</u>
-	</a>
+		<a href="https://laurentperrinet.github.io/slides/2024-09-09_agileneurobot_anr/?transition=fade">
+			<u>[2024-09-09] ➡️ Enjeux pour l'IA embarquée</u>
+		</a>
 	</th>
 	<th>
   <img src="https://laurentperrinet.github.io/grant/anr-anr/featured.png" alt="ANR" height="80">
@@ -119,7 +120,11 @@ Je vais proposer deux leviers inspirés de la biologie pour faire avancer le dom
 
 {{< /speaker_note >}}
 
+</section>
+
 ---
+<section>
+
 ## Levier #1: Réseaux de neurones impulsionnels / *Spiking Neural Networks (SNNs)*
 
 {{< figure src="https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations.png" title="From frame-based to event-based cameras." numbered="true" >}}
@@ -134,11 +139,28 @@ Je vais proposer deux leviers inspirés de la biologie pour faire avancer le dom
 
 {{< /speaker_note >}}
 
-</section>
+
+---
+## Levier #1: Réseaux de neurones impulsionnels / *Spiking Neural Networks (SNNs)*
+
+| Sensor           | Range   | Framerate   | Resolution  | Power |
+|------------------|---------|-------------|-------------|-------|
+| Human eye        | 60 (?) dB | 300 (?) fps | 100 (?) Mpx | 10 mW |
+| DSLR             | 44.6 dB | 120     fps | 2--20   Mpx | 30  W |
+| Ultra-high speed | 64   dB | 10^4 fps    | 0.3--4  Mpx | 300 W |
+| Event-based      | 120  dB | 10^6 fps    | 0.1--2  Mpx | 30 mW |
+
+{{< speaker_note >}}
+
+There are several properties of event-driven cameras that make them remarkable. First of all, the *temporal precision* of events is of the order of microseconds, enabling a theoretical frame rate of the order of a million images per second to be reached. This can be compared with a conventional camera, which is of the order of a hundred images per second, or with a high-speed camera, which can reach 10,000 images per second. It is difficult to estimate the sampling frequency of human perception, because while 25 frames per second is often sufficient for movie viewing, it has been shown that the human eye can distinguish temporal details up to 300 or even 1,000 frames per second. It's worth noting that the *spatial resolution* of these event cameras is often relatively modest, in the order of megapixels, but this is not a technical limitation, but rather due to the technological applications in which these cameras are commonly used. Compared with conventional cameras, which will consume several watts, event cameras consume very little electrical *energy*, in the order of 10 milliwatts, a consumption equivalent to that of the human eye.  Another important feature of these cameras is their ability to detect a very wide *range* of luminosity, far exceeding that of conventional cameras at 120 dB (a factor of a million, compared with the human eye's factor of 1 in a thousand between full moon and full sun),
+
+https://en.wikipedia.org/wiki/Event_camera#Functional_description
+
+{{< /speaker_note >}}
+
 
 ---
 
-<section>
 
 ## Levier #1: Réseaux de neurones impulsionnels / *Spiking Neural Networks (SNNs)*
 
@@ -244,11 +266,12 @@ quels résultats ? peut-on les évaluer avant d'avoir ces puces?
 </a>
 <table>
 <tr>
-	<th><a href="https://laurentperrinet.github.io/slides/2024-09-09_agileneurobot_anr/?transition=fade">
-		Robots aériens agiles bio-mimetiques - *[Laurent Perrinet](https://laurentperrinet.github.io)*
+	<th>
+		*[Laurent Perrinet](https://laurentperrinet.github.io)*
     <br>
-		<u>[2024-09-09] ➡️ Enjeux pour l'IA embarquée</u>
-	</a>
+		<a href="https://laurentperrinet.github.io/slides/2024-09-09_agileneurobot_anr/?transition=fade">
+			<u>[2024-09-09] ➡️ Enjeux pour l'IA embarquée</u>
+		</a>
 	</th>
 	<th>
   <img src="https://laurentperrinet.github.io/grant/anr-anr/featured.png" alt="ANR" height="80">
