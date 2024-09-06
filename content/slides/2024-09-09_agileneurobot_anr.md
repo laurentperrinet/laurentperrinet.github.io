@@ -183,7 +183,7 @@ quels résultats ? peut-on les évaluer avant d'avoir ces puces?
 
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/accuracy.png" title="The HD-SNN neural network." width="80%" >}}
 
-* [[Nunes *et al*, 2023](https://laurentperrinet.github.io/publication/jeremie-24)
+Time-to-Contact maps [[Nunes *et al*, 2023]](https://laurentperrinet.github.io/publication/nunes-23-iccv)
 
 {{< speaker_note >}}
 **2 MINUTES**
@@ -242,7 +242,7 @@ quels résultats ? peut-on les évaluer avant d'avoir ces puces?
 ---
 ## Levier #2: Vision active / *Active Vision*
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24/fig_areadne.svg" title="[[Jérémie *et al*, 2023](https://laurentperrinet.github.io/publication/jeremie-24/)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24/fig_areadne.png" title="[[Jérémie *et al*, 2023](https://laurentperrinet.github.io/publication/jeremie-24/)]" width="90%" >}}
 
 {{< speaker_note >}}
 **2 MINUTES**
