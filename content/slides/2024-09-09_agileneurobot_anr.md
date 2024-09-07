@@ -139,7 +139,7 @@ Je vais proposer deux leviers inspirés de la biologie pour faire avancer le dom
 ---
 <section>
 
-## Levier #1: Réseaux de neurones impulsionnels / *Spiking Neural Networks (SNNs)*
+## Levier #1: Réseaux de neurones impulsionnels (SNNs)*
 
 {{< figure src="https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations.png" title="From frame-based to event-based cameras." numbered="true" >}}
 
@@ -155,7 +155,7 @@ Je vais proposer deux leviers inspirés de la biologie pour faire avancer le dom
 
 
 ---
-## Levier #1: Réseaux de neurones impulsionnels / *Spiking Neural Networks (SNNs)*
+## Levier #1: Réseaux de neurones impulsionnels (SNNs)*
 
 | Sensor           | Range   | Framerate   | Resolution  | Power |
 |------------------|---------|-------------|-------------|-------|
@@ -176,7 +176,7 @@ https://en.wikipedia.org/wiki/Event_camera#Functional_description
 ---
 
 
-## Levier #1: Réseaux de neurones impulsionnels / *Spiking Neural Networks (SNNs)*
+## Levier #1: Réseaux de neurones impulsionnels (SNNs)*
 
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/HDSNN_conv.png" width="50%" >}}{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png" title="The HD-SNN neural network [[Grimaldi *et al*, 2023]](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" width="50%" >}}
 
@@ -192,7 +192,7 @@ quels résultats ? peut-on les évaluer avant d'avoir ces puces?
 {{< /speaker_note >}}
 
 ---
-## Levier #1: Réseaux de neurones impulsionnels / *Spiking Neural Networks (SNNs)*
+## Levier #1: Réseaux de neurones impulsionnels (SNNs)*
 
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/accuracy.png" title="The HD-SNN neural network [[Grimaldi *et al*, 2023]](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" width="80%" >}}
 
