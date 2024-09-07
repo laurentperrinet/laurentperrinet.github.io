@@ -111,9 +111,10 @@ Inst Sciences Mouvement | Inst de la Vision | Inst Neurosci de la Timone
 ---
 ## Enjeux de l'IA embarquée : budget énergétique
 
-{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies [[Grimaldi *et al*, 2022]](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)" width="75%" >}}
+{{< figure src="/grant/anr-anr/prototype.jpg" title="Prototype avec caméra événementielle et calculateur." >}}
 
 {{< speaker_note >}}
+
 
 
 Je vais proposer deux leviers inspirés de la biologie pour faire avancer le domaine de façon radicale (pas juster gagner 30%) mais passer à une autre échelle.
