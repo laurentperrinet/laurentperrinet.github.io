@@ -100,7 +100,7 @@ Inst Sciences Mouvement | Inst de la Vision | Inst Neurosci de la Timone
 
 ## Enjeux de l'IA embarquée : latence de réponse
 
-{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies [[Grimaldi *et al*, 2023]](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/).)." width="75%" >}}
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies [[Grimaldi *et al*, 2022]](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)" width="75%" >}}
 
 {{< speaker_note >}}
 
@@ -111,7 +111,7 @@ Inst Sciences Mouvement | Inst de la Vision | Inst Neurosci de la Timone
 ---
 ## Enjeux de l'IA embarquée : budget énergétique
 
-{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies [[Grimaldi *et al*, 2023]](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/).." width="75%" >}}
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies [[Grimaldi *et al*, 2022]](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)" width="75%" >}}
 
 {{< speaker_note >}}
 
@@ -164,7 +164,7 @@ https://en.wikipedia.org/wiki/Event_camera#Functional_description
 
 ## Levier #1: Réseaux de neurones impulsionnels / *Spiking Neural Networks (SNNs)*
 
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/HDSNN_conv.png" title="The HD-SNN neural network." width="50%" >}}{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png" title="[[Grimaldi *et al*, 2023]](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)." width="50%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/HDSNN_conv.png" width="50%" >}}{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png" title="The HD-SNN neural network [[Grimaldi *et al*, 2023]](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" width="50%" >}}
 
 {{< speaker_note >}}
 
@@ -180,7 +180,7 @@ quels résultats ? peut-on les évaluer avant d'avoir ces puces?
 ---
 ## Levier #1: Réseaux de neurones impulsionnels / *Spiking Neural Networks (SNNs)*
 
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/accuracy.png" title="The HD-SNN neural network." width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/accuracy.png" title="The HD-SNN neural network [[Grimaldi *et al*, 2023]](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" width="80%" >}}
 
 Time-to-Contact maps [[Nunes *et al*, 2023]](https://laurentperrinet.github.io/publication/nunes-23-iccv)
 
@@ -241,7 +241,7 @@ Time-to-Contact maps [[Nunes *et al*, 2023]](https://laurentperrinet.github.io/p
 ---
 ## Levier #2: Vision active / *Active Vision*
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24/fig_areadne.png" title="[[Jérémie *et al*, 2023](https://laurentperrinet.github.io/publication/jeremie-24/)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24/fig_areadne.png" title="[[Jérémie *et al*, 2024](https://laurentperrinet.github.io/publication/jeremie-24/)]" width="90%" >}}
 
 {{< speaker_note >}}
 **2 MINUTES**
