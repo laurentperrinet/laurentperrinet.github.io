@@ -40,9 +40,12 @@ summary: Robots aériens agiles bio-mimetiques pour le vol en conditions réelle
 
 {{< speaker_note >}}
 - outline = 
- - fact: paradoxically vision is a complex process for the simplest function
- - objective= understand biological vision
- - interaction between artificial and natural NNs...
+ - Bonjour. Je suis Laurent Perrinet, chercheur en neurosciences computationnelles à l'Institut de Neurosciences de la Timone. Je vous remercie pour l'invitation à participer à cette table ronde sur l'IA embarquée dans le domaine spatial. Je suis convaincu que nous sommes au tournant d'une nouvelle ère dans le développement des systèmes embarqués, où l'intelligence artificielle va permettre de créer des innovations disruptives mais pour lesquelles il est essentiel de mieux comprendre les enjeux et de s'inspirer des neurosciences biologiques. Je suis moi-même un passionné d'aéronautique et de spatial, ce qui m'a amené à suivre l'école d'aéronautique SUPAERO. Et c'est là, grâce à la rencontre avec mon professeur de mathématiques, que j'ai découvert les neurosciences computationnelles et les pouvoirs qu'ils vont avoir pour créer des systèmes embarqués.
+
+ - C'est pourquoi je suis très heureux de vous présenter le projet ANR AgileNeuRobot qui est un projet de recherche interdisciplinaire qui vise à développer des robots aériens agiles bio-mimétiques pour le vol en conditions réelles. L'apprentissage automatique et les réseaux neuronaux peuvent être utilisés pour analyser des données sensorielles massives provenant d'instruments spatiaux, permettant ainsi une meilleure compréhension de l'univers en évolution constante.
+
+ -  Afin de caractériser quelques enjeux de l'IA embarquée, notamment dans le domaine du spatial, je vais vous présenter deux leviers inspirés de la biologie qui illustreront comment les neuroscien ces peuvent faire avancer le domaine de façon radicale. L'intégration de systèmes biomimétiques dans les engins spatiaux peut améliorer leur résilience et leur adaptabilité face aux environnements hostiles, tout en maitrisant la consommation d'énergie. Je serais ravi d'engager ensuite une discussion avec vous sur ces sujets et échanger sur vos propres expériences et perspectives dans ce domaine passionnant.
+
 {{< /speaker_note >}}
 
 </section>
@@ -62,6 +65,7 @@ summary: Robots aériens agiles bio-mimetiques pour le vol en conditions réelle
 
 {{< speaker_note >}}
 
+Le projet ANR AgileNeuRobot est donc un projet interdisciplinaire financé par l'Agence Nationale de la Recherche (ANR) dans le cadre de l'appel à projets "Intelligence Artificielle" (ANR-20-CE23-0021). Il vise à développer des robots aériens agiles bio-mimétiques pour le vol en conditions réelles sur une période de 4 ans, du 1er octobre 2021 au 30 septembre 2025. Le projet bénéficie d'un budget total de 435 k€ et représente un exemple convaincant de l'impact potentiel des neurosciences computationnelles sur les systèmes embarqués dans le domaine de l'aéronautique et spatiale.
 
 {{< /speaker_note >}}
 
@@ -76,6 +80,13 @@ Inst Sciences Mouvement | Inst de la Vision | Inst Neurosci de la Timone
 
 {{< speaker_note >}}
 
+Le projet AgileNeuRobot est une collaboration entre plusieurs institutions, dont :
+
+Inst Sciences Mouvement pour l'aspect robotique bio-inspirée
+Inst de la Vision pour l'aspect nouveaux senseurs
+L'Institut de Neurosciences de la Timone (Aix-Marseille Université) pour l'intégration de ces disciplines
+
+Ensemble, nous travaillons à la fois sur les aspects techniques et scientifiques pour créer des robots aériens agiles bio-mimétiques qui seront capables d'effectuer des tâches complexes dans un environnement réel. Ce projet vise à contribuer non seulement au développement de nouvelles technologies, mais aussi à la compréhension et l'élaboration de nouveaux modèles théoriques pour expliquer les mécanismes naturels sous-jacents aux capacités d'adaptabilité et d'apprentissage des systèmes biologiques.
 
 {{< /speaker_note >}}
 
@@ -85,6 +96,8 @@ Inst Sciences Mouvement | Inst de la Vision | Inst Neurosci de la Timone
 {{< figure src="https://laurentperrinet.github.io/grant/anr-anr/principe_agile.jpg" title="The system includes 3 units to process event-driven visual inputs communicating by feed-forward and feed-back paths." numbered="true" >}}
 
 {{< speaker_note >}}
+
+Le système en développement est un exemple de robotique bio-inspirée qui combine des capteurs événementiels avec des réseaux de neurones impulsionnels pour créer un système agile et performant. Le système est conçu pour être capable de traiter des données visuelles en temps réel et de réagir rapidement aux changements de l'environnement. Il est également capable d'apprendre de nouvelles tâches et de s'adapter à des situations imprévues, ce qui en fait un outil puissant pour la recherche en robotique et en intelligence artificielle.
 
 - performance : HD tout en gardant une réponse rapide et immédiate
 
@@ -111,7 +124,7 @@ Inst Sciences Mouvement | Inst de la Vision | Inst Neurosci de la Timone
 ---
 ## Enjeux de l'IA embarquée : budget énergétique
 
-{{< figure src="/grant/anr-anr/prototype.jpg" title="Prototype avec caméra événementielle et calculateur." >}}
+{{< figure src="/grant/anr-anr/prototype.jpg" title="Prototype avec caméra événementielle et calculateur."  width="50%" >}}
 
 {{< speaker_note >}}
 
