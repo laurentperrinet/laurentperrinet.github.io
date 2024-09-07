@@ -97,11 +97,11 @@ Ensemble, nous travaillons à la fois sur les aspects techniques et scientifique
 
 {{< speaker_note >}}
 
-Le système en développement est un exemple de robotique bio-inspirée qui combine des capteurs événementiels avec des réseaux de neurones impulsionnels pour créer un système agile et performant. Le système est conçu pour être capable de traiter des données visuelles en temps réel et de réagir rapidement aux changements de l'environnement. Il est également capable d'apprendre de nouvelles tâches et de s'adapter à des situations imprévues, ce qui en fait un outil puissant pour la recherche en robotique et en intelligence artificielle.
+Le système en développement est un exemple de robotique bio-inspirée qui combine des capteurs événementiels avec des réseaux de neurones impulsionnels pour créer un système agile et performant. Le système est conçu pour être capable de traiter des données visuelles en temps réel et de réagir rapidement aux changements de l'environnement notamment pour l'évitement d'objets en vol, ou leur interception.
 
-- performance : HD tout en gardant une réponse rapide et immédiate
+- performance : garder une bonne acuité tout en gardant une réponse rapide et quasi immédiate
 
-- énergie : 
+- efficace : des besoins réduits en énergie pour un fonctionnement autonome
 
 {{< /speaker_note >}}
 
@@ -113,7 +113,7 @@ Le système en développement est un exemple de robotique bio-inspirée qui comb
 
 ## Enjeux de l'IA embarquée : latence de réponse
 
-{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies [[Grimaldi *et al*, 2022]](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)" width="75%" >}}
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies [[Grimaldi *et al*, 2022]](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)" width="65%" >}}
 
 {{< speaker_note >}}
 
@@ -228,7 +228,7 @@ Time-to-Contact maps [[Nunes *et al*, 2023]](https://laurentperrinet.github.io/p
 ---
 ## Levier #2: Vision active / *Active Vision*
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24/featured.jpg" title="[[Jérémie *et al*, 2024](https://laurentperrinet.github.io/publication/jeremie-24/)]" width="75%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24/featured.jpg" title="[[Jérémie *et al*, 2024](https://laurentperrinet.github.io/publication/jeremie-24/)]" width="65%" >}}
 
 {{< speaker_note >}}
 
