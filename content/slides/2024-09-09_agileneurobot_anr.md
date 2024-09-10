@@ -40,11 +40,15 @@ summary: Robots aériens agiles bio-mimetiques pour le vol en conditions réelle
 
 {{< speaker_note >}}
 - outline = 
- - Bonjour. Je suis Laurent Perrinet, chercheur en neurosciences computationnelles à l'Institut de Neurosciences de la Timone. Je vous remercie pour l'invitation à participer à cette table ronde sur l'IA embarquée dans le domaine spatial. Je suis convaincu que nous sommes au tournant d'une nouvelle ère dans le développement des systèmes embarqués, où l'intelligence artificielle va permettre de créer des innovations disruptives mais pour lesquelles il est essentiel de mieux comprendre les enjeux et de s'inspirer des neurosciences biologiques. Je suis moi-même un passionné d'aéronautique et de spatial, ce qui m'a amené à suivre l'école d'aéronautique SUPAERO. Et c'est là, grâce à la rencontre avec mon professeur de mathématiques, que j'ai découvert les neurosciences computationnelles et les pouvoirs qu'ils vont avoir pour créer des systèmes embarqués.
+ - Bonjour. Je suis Laurent Perrinet, directeur de recherche CNRS en neurosciences computationnelles à l'Institut de Neurosciences de la Timone à Marseille. Je vous remercie pour l'invitation à participer à cette table ronde sur l'IA embarquée dans le domaine spatial. Je suis moi-même un passionné d'aéronautique et de spatial, ce qui m'a amené à suivre l'école d'aéronautique SUPAERO. Puis vers l’imagerie satellitaire qui déjà dépendait de l’ia sous l forme des réseaux de neurones.  c'est à partir de là, grâce à la rencontre avec mon professeur de mathématiques Manuel Samuelides, que j'ai découvert les neurosciences computationnelles et les pouvoirs qu'ils peuvent offrir pour mieux comprendre le cerveau et pour créer de nouveaux systèmes d’intelligence artificielle .
 
- - C'est pourquoi je suis très heureux de vous présenter le projet ANR AgileNeuRobot qui est un projet de recherche interdisciplinaire qui vise à développer des robots aériens agiles bio-mimétiques pour le vol en conditions réelles. L'apprentissage automatique et les réseaux neuronaux peuvent être utilisés pour analyser des données sensorielles massives provenant d'instruments spatiaux, permettant ainsi une meilleure compréhension de l'univers en évolution constante.
+ les neurosciences computationnelles sont les sciences qui essaient d’extraire de nos connaissances en neurosciences biologiques des principes computationnels - comme le neurone formel et sa capacité d’apprentissage qui est la brique de base des réseaux de neurones et qui ont conduit à la révolution de l’IA avec les réseaux profonds
 
- -  Afin de caractériser quelques enjeux de l'IA embarquée, notamment dans le domaine du spatial, je vais vous présenter deux leviers inspirés de la biologie qui illustreront comment les neuroscien ces peuvent faire avancer le domaine de façon radicale. L'intégration de systèmes biomimétiques dans les engins spatiaux peut améliorer leur résilience et leur adaptabilité face aux environnements hostiles, tout en maitrisant la consommation d'énergie. Je serais ravi d'engager ensuite une discussion avec vous sur ces sujets et échanger sur vos propres expériences et perspectives dans ce domaine passionnant.
+Je suis convaincu que nous sommes au tournant d'une nouvelle ère dans le développement des systèmes embarqués, où l'intelligence artificielle a le potentiel de créer des innovations disruptives à la hauteur des performances de l’intelligence naturelle et pour lesquelles il est essentiel de s'inspirer des neurosciences biologiques. 
+
+ - C'est pourquoi je suis très heureux de d’abord vous présenter le projet ANR AgileNeuRobot qui est un projet existant de recherche interdisciplinaire qui vise à développer des robots aériens agiles bio-mimétiques pour le vol en conditions réelles.
+
+ - Dans cette optique, afin de caractériser quelques enjeux de l'IA embarquée, notamment dans le domaine du spatial, je vais vous présenter deux leviers inspirés de la biologie qui illustreront comment les neurosciences peuvent faire avancer le domaine de façon radicale. L'intégration de connaissances biomimétiques dans les engins spatiaux peut améliorer leur résilience et leur adaptabilité face aux environnements hostiles, tout en maitrisant la consommation d'énergie. Je serais ravi d'engager ensuite une discussion avec vous sur ces sujets et échanger sur vos propres expériences et perspectives.
 
 {{< /speaker_note >}}
 
@@ -65,7 +69,7 @@ summary: Robots aériens agiles bio-mimetiques pour le vol en conditions réelle
 
 {{< speaker_note >}}
 
-Le projet ANR AgileNeuRobot est donc un projet interdisciplinaire financé par l'Agence Nationale de la Recherche (ANR) dans le cadre de l'appel à projets "Intelligence Artificielle" (ANR-20-CE23-0021). Il vise à développer des robots aériens agiles bio-mimétiques pour le vol en conditions réelles sur une période de 4 ans, du 1er octobre 2021 au 30 septembre 2025. Le projet bénéficie d'un budget total de 435 k€ et représente un exemple convaincant de l'impact potentiel des neurosciences computationnelles sur les systèmes embarqués dans le domaine de l'aéronautique et spatiale.
+Le projet ANR AgileNeuRobot est donc un projet interdisciplinaire financé par l'Agence Nationale de la Recherche (ANR) dans le cadre de l'appel à projets "Intelligence Artificielle" (ANR-20-CE23-0021). Il vise à développer des robots aériens agiles bio-mimétiques pour le vol en conditions réelles sur une période de 4 ans, du 1er octobre 2021 au 30 septembre 2025. Le projet bénéficie d'un budget total de 435 k€ et représente un exemple convaincant de l'impact potentiel des neurosciences computationnelles sur les systèmes embarqués dans le domaine des robots aériens autonomes.
 
 {{< /speaker_note >}}
 
@@ -80,13 +84,13 @@ Inst Sciences Mouvement | Inst de la Vision | Inst Neurosci de la Timone
 
 {{< speaker_note >}}
 
-Le projet AgileNeuRobot est une collaboration entre plusieurs institutions, dont :
+Le projet AgileNeuRobot est un projet que je coordonne autour d’une collaboration entre plusieurs institutions :
 
 Inst Sciences Mouvement pour l'aspect robotique bio-inspirée
 Inst de la Vision pour l'aspect nouveaux senseurs
-L'Institut de Neurosciences de la Timone (Aix-Marseille Université) pour l'intégration de ces disciplines
+L'Institut de Neurosciences de la Timone (Aix-Marseille Université) pour l’aspect théorique et  l'intégration de ces disciplines
 
-Ensemble, nous travaillons à la fois sur les aspects techniques et scientifiques pour créer des robots aériens agiles bio-mimétiques qui seront capables d'effectuer des tâches complexes dans un environnement réel. Ce projet vise à contribuer non seulement au développement de nouvelles technologies, mais aussi à la compréhension et l'élaboration de nouveaux modèles théoriques pour expliquer les mécanismes naturels sous-jacents aux capacités d'adaptabilité et d'apprentissage des systèmes biologiques.
+Ensemble, nous travaillons à la fois sur les aspects techniques et scientifiques pour créer ces robots aériens. Ce projet vise à contribuer non seulement au développement de nouvelles technologies, mais aussi à la compréhension et l'élaboration de nouveaux modèles théoriques pour expliquer les mécanismes naturels sous-jacents aux capacités d'adaptabilité et d'apprentissage des systèmes biologiques.
 
 {{< /speaker_note >}}
 
@@ -97,11 +101,17 @@ Ensemble, nous travaillons à la fois sur les aspects techniques et scientifique
 
 {{< speaker_note >}}
 
-Le système en développement est un exemple de robotique bio-inspirée qui combine des capteurs événementiels avec des réseaux de neurones impulsionnels pour créer un système agile et performant. Le système est conçu pour être capable de traiter des données visuelles en temps réel et de réagir rapidement aux changements de l'environnement notamment pour l'évitement d'objets en vol, ou leur interception.
+Le système en développement est un exemple de robotique bio-inspirée. Le système est conçu pour être capable de traiter des données visuelles en temps réel et de réagir rapidement aux changements de l'environnement notamment pour l'évitement d'objets en vol, ou leur interception.
+
+Deux aspects sont favorisés:
 
 - performance : garder une bonne acuité tout en gardant une réponse rapide et quasi immédiate
 
-- efficace : des besoins réduits en énergie pour un fonctionnement autonome
+- efficacité : des besoins réduits en énergie pour un fonctionnement autonome
+
+Pour cela, nous avons utilisé une architecture inspirée des insectes qui combine des capteurs événementiels avec des réseaux de neurones impulsionnels pour créer un système agile et performant - et que je vais décrire dans la suite de l’exposé.
+
+Mais d’abord, je voudrais souligner deux contraintes majeures de ce type de systèmes embarqués:
 
 {{< /speaker_note >}}
 
@@ -116,9 +126,11 @@ Le système en développement est un exemple de robotique bio-inspirée qui comb
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies [[Grimaldi *et al*, 2022]](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)" width="55%" >}}
 
 {{< speaker_note >}}
+Tout d’abord, les systèmes sensoriels biologiques sont composés de séquence de traitement qui possèdent des délais de traitement. Je décris ici la chaîne de traitement d’une image visuelle - ici pour un enfant jouant à un jeu et devant cliquer sur le bon bouton, et qui illustre les différentes latences du traitement de l’information de la vision à l’action.
 
+Si les délais dans un système embarqué sont plus rapides, il reste que l’information dans les différentes étapes de traitement peuvent être décalées et nécessite un traitement adapté afin de répondre de la façon la plus immédiate possible. Je pense notamment à la détection d’objets en mouvement très rapide dans le cadre spatiall
 
-
+Collapse Kessler 
 {{< /speaker_note >}}
 
 ---
@@ -127,8 +139,11 @@ Le système en développement est un exemple de robotique bio-inspirée qui comb
 {{< figure src="/grant/anr-anr/prototype.jpg" title="Prototype avec caméra événementielle et calculateur."  width="50%" >}}
 
 {{< speaker_note >}}
+Deuxième contrainte liée à la première: la consommation énergétique:
 
+Je vous présente ici une photo de notre premier prototype qui inclue en plus des équipements classiques du robot aérien (capteurs de hauteur, inertiels, calculateur de navigation) différentes caméras ainsi qu’un calculateur dédié.
 
+Il faut comprendre que ces équipements additionnels consomment une énergie non négligeable qui font en sorte que l’on doit dimensionner de façon appropriée la batterie, et la batterie ayant un poids, celà augmente d’autant plus les besoins énergétiques pour le vol lui même. 
 
 Je vais proposer deux leviers inspirés de la biologie pour faire avancer le domaine de façon radicale (pas juster gagner 30%) mais passer à une autre échelle.
 
@@ -145,11 +160,9 @@ Je vais proposer deux leviers inspirés de la biologie pour faire avancer le dom
 
 {{< speaker_note >}}
 
-- nouvelles caméras : avantages en SNR  / latence / énergie
+- nouvelles caméras : basées sur la meme technologie qu’un CMOS, mais au lieu de récolter à intervalles réguliers l’ensemble des valeurs de luminance sur tous les pixels, chaque pixel est indépendant
 
-- le représentation de l'information est différente
-
-- comment traiter ces données?
+- le représentation de l'information est différente: le signal consiste à émettre un événement si et seulement si un changement a été observé par ce pixel, ce qui est représenté ici par ces flux d’évents 
 
 {{< /speaker_note >}}
 
@@ -166,8 +179,13 @@ Je vais proposer deux leviers inspirés de la biologie pour faire avancer le dom
 
 {{< speaker_note >}}
 
-There are several properties of event-driven cameras that make them remarkable. First of all, the *temporal precision* of events is of the order of microseconds, enabling a theoretical frame rate of the order of a million images per second to be reached. This can be compared with a conventional camera, which is of the order of a hundred images per second, or with a high-speed camera, which can reach 10,000 images per second. It is difficult to estimate the sampling frequency of human perception, because while 25 frames per second is often sufficient for movie viewing, it has been shown that the human eye can distinguish temporal details up to 300 or even 1,000 frames per second. It's worth noting that the *spatial resolution* of these event cameras is often relatively modest, in the order of megapixels, but this is not a technical limitation, but rather due to the technological applications in which these cameras are commonly used. Compared with conventional cameras, which will consume several watts, event cameras consume very little electrical *energy*, in the order of 10 milliwatts, a consumption equivalent to that of the human eye.  Another important feature of these cameras is their ability to detect a very wide *range* of luminosity, far exceeding that of conventional cameras at 120 dB (a factor of a million, compared with the human eye's factor of 1 in a thousand between full moon and full sun),
+Les caméras événementielles présentent plusieurs propriétés qui les rendent remarquables. Tout d'abord, la *précision temporelle* des événements est de l'ordre de la microseconde, ce qui permet d'atteindre une cadence théorique de l'ordre du million d'images par seconde. On peut la comparer à celle d'une caméra classique, qui est de l'ordre de la centaine d'images par seconde, ou à celle d'une caméra à grande vitesse, qui peut atteindre 10 000 images par seconde. Il est difficile d'estimer la fréquence d'échantillonnage de la perception humaine, car si 25 images par seconde sont souvent suffisantes pour le visionnage d'un film, il a été démontré que l'œil humain peut distinguer des détails temporels jusqu'à la milliseconde. 
 
+Une autre caractéristique importante de ces caméras est leur capacité à détecter une très large *gamme* de luminosité, dépassant de loin celle des caméras conventionnelles à 120 dB (un facteur d'un million, comparé au facteur de 1 sur mille de l'œil humain entre la pleine lune et le plein soleil),
+
+Il convient de noter que la « résolution spatiale » de ces caméras événementielles est souvent relativement modeste, de l'ordre du mégapixel, mais il ne s'agit pas d'une limitation technique, qui est plutôt due aux applications technologiques dans lesquelles ces caméras sont couramment utilisées. 
+
+Par rapport aux caméras classiques, qui consomment plusieurs watts, les caméras événementielles consomment très peu d'*énergie* électrique, de l'ordre de 10 milliwatts, soit une consommation équivalente à celle de l'œil humain. 
 https://en.wikipedia.org/wiki/Event_camera#Functional_description
 
 {{< /speaker_note >}}
@@ -175,18 +193,17 @@ https://en.wikipedia.org/wiki/Event_camera#Functional_description
 
 ---
 
-
 ## Levier #1: Réseaux de neurones impulsionnels (SNNs)
 
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/HDSNN_conv.png" width="50%" >}}{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png" title="The HD-SNN neural network [[Grimaldi *et al*, 2023]](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" width="50%" >}}
 
 {{< speaker_note >}}
 
-- notre solution: une architecture similaire au deep learning
+- ces caméras ne présentent que des avantages, mais alors, comment traiter cette nouvelle représentation des données? En fait les neurosciences montrent que les neurones ne manipulent pas des données continues (comme ceux dans le deep learning)  mais communiquent exactement de la même manière en échangeant de brèves impulsions prototypiques, les potentiels d’action (spikes)
 
-- mais chaque neurone (brique élémentaire) est un modèle simplifié de neurone biologique qui se trouve sur des puces embarquées (comme es pixels de la caméra évanementielle)
+- notre solution: une architecture similaire au deep learning mais  chaque neurone (brique élémentaire) est un modèle simplifié de neurone biologique impulsionnel.   mais on se retrouve avec un problème par rapport à l’établissement que nous avons réussi à résoudre theoretiquement. Un avantage supplémentaire est que ce genre de calcul est actuellement développé sur des puces embarquées (comme les pixels de la caméra évanementielle)
 
-- un avantage: always on computing
+- notre architecture fonctionne ainsi directement sur cette même représentation. un avantage supplémentaire: always on computing
 
 quels résultats ? peut-on les évaluer avant d'avoir ces puces? 
 {{< /speaker_note >}}
@@ -201,11 +218,11 @@ Time-to-Contact maps [[Nunes *et al*, 2023]](https://laurentperrinet.github.io/p
 {{< speaker_note >}}
 **2 MINUTES**
 
-- nos simualations montrent 
+- nos simulations montrent ainsi une très grande efficacité (ici pour catégoriser un type de flux optique et qui peut guider la navigation),  
 
-- frugal computing / implémentation maintenant dans un PEPR IA
+- un aspect innovant de notre technologies est de pouvoir utiliser autant de neurones, mais moins de connexions, et que nous avons montré que l’efficacité restait acceptable. Par rapport à une technologie classique (en orange) qui montent en effondrement rapide, nos résultats montrent une bonne efficacité avec une demie-valeur critique donnée pour un gain de 700x (noter l’axe log). C’est ce qu’on appelle le frugal computing et nous œuvrons maintenant à son implémentation dans un PEPR IA
 
-- deuxieme levier : éviter de tout traiter pour ne traiter que ce qui est nécessaire
+- c’est une étape importante, mais on peut aller plus loin, et je vais vous présenter un deuxieme levier : éviter de tout traiter pour ne traiter que ce qui est nécessaire
 
 {{< /speaker_note >}}
 
@@ -221,7 +238,9 @@ Time-to-Contact maps [[Nunes *et al*, 2023]](https://laurentperrinet.github.io/p
 {{< figure src="https://laurentperrinet.github.io/publication/jeremie-24-ccn/featured.png" title="[[Jérémie *et al*, 2024](https://laurentperrinet.github.io/publication/jeremie-24)]" width="100%" >}}
 
 {{< speaker_note >}}
+Pour cela je vais d’abord l’illustrer par le travail du chercheur russe Yarbus au début du siècle dernier.  Quand on présente une scène visuelle à un observateur (comme cette peinture sur le panneau A) - celui-ci va effectuer une série de sauts dans cette image, qu’on appelle saccades. 
 
+En effet Notre vision possède cette propriété d’être focalisée, de telle sorte qu’une majeure partie de notre vision est concentrée suivant notre axe de vision. Cette propriété a co-évoluée avec la capacité à effectuer des mouvements rapides des yeux et confère une supériorité évolutive, notamment pour les prédateurs pour agir plus rapidement sur l’environnement, notamment attraper une proie.
 
 {{< /speaker_note >}}
 
@@ -231,6 +250,9 @@ Time-to-Contact maps [[Nunes *et al*, 2023]](https://laurentperrinet.github.io/p
 {{< figure src="https://laurentperrinet.github.io/publication/jeremie-24/featured.jpg" title="[[Jérémie *et al*, 2024](https://laurentperrinet.github.io/publication/jeremie-24/)]" width="65%" >}}
 
 {{< speaker_note >}}
+Cette capacité d’agir sur l’entrée sensorielle et notamment d’avoir une capacité attentionnelle de cette sorte est largement absente des approches d’apprentissage machine classiques et nous avons pu grace au projet ANR l’implanter 
+
+Pour cela nous avons utilisé une transformée de type log-polaire qui concentre l’information autour de l’axe de vision comme on peut le voir par l’intérieur de la zone matérialisée par la zone grise. Notez aussi l’importance du point sur lequel est posé le regard notamment s’il est éloigne ou proche de l’objet d’intérêt
 
 
 {{< /speaker_note >}}
@@ -243,12 +265,11 @@ Time-to-Contact maps [[Nunes *et al*, 2023]](https://laurentperrinet.github.io/p
 {{< speaker_note >}}
 **2 MINUTES**
 
-- même réultats qu'un CNN - mais plus robustes aux rotations / zooms
+- de façon surprenant, malgré la perte de résolution en périphérie nous obtenons des réultats comparables à l’état de l’art- mais plus robustes aux rotations / zooms
 
-- peut traiter des images arbitraires en taille
+- il est important de noter qu’il peut traiter des images arbitraires en taille - une limite importante des CNNs actuels
 
-
-- perspective en cours adapter aux SNN - et maintenant ...
+- une perspective en cours est d’abord d’adapter cette capacité aux SNN - et aussi ...
 
 {{< /speaker_note >}}
 
@@ -260,7 +281,8 @@ Time-to-Contact maps [[Nunes *et al*, 2023]](https://laurentperrinet.github.io/p
 {{< speaker_note >}}
 **2 MINUTES**
 
-- saccades
+- d’inclure des saccades - c’est à dire de compléter le système que je viens de présenter et qui permet d’identifier des objets dans une image, par un système qui permet d’anticiper *ou* regarder dans une image. 
+Cette division du travail est inspirée par respectivement les voies pariétales et dorsales du système visuel dans la vision humaine
 
 - PEPR IA : multiples saccades et attention
 
@@ -295,7 +317,7 @@ Time-to-Contact maps [[Nunes *et al*, 2023]](https://laurentperrinet.github.io/p
 {{< speaker_note >}}
 
 - résumé: l'IA embarqué implique des enjeux importants
-- les neurosciences peuvent approter pour résoudre ces enjeux de l'IA embarquée
+- les neurosciences peuvent apporter une contribution majeure pour résoudre ces enjeux de l'IA embarquée
 - un objectif : acquérir une indépendance scientifique = projet "Active Loop" pour lequel je cherche des partenaires
 
 {{< /speaker_note >}}
