@@ -44,6 +44,8 @@ links:
   url: https://laurentperrinet.github.io/publication/grimaldi-24/
 - name: Code
   url: https://github.com/AntoineGrimaldi/hotsline
+- name: Mastodon
+  url: https://neuromatch.social/@laurentperrinet/113119379508706565
 projects: []
 publication: 'Neural Networks'
 publication_types:
