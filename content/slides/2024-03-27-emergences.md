@@ -362,7 +362,7 @@ thorpe
 ---
 ### Always-on classification using HOTS
 
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23/hots.png" title="[[Grimaldi, Boutin, Sio-Ieng, Benosman & LP, 2023](https://laurentperrinet.github.io/publication/grimaldi-23/)]" width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-24/hots.png" title="[[Grimaldi, Boutin, Sio-Ieng, Benosman & LP, 2023](https://laurentperrinet.github.io/publication/grimaldi-24/)]" width="80%" >}}
 
 {{< speaker_note >}}
 always-on
@@ -371,7 +371,7 @@ always-on
 ---
 ### Always-on classification using HOTS
 
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23/gesture_offline.png" title="[[Grimaldi, Boutin, Sio-Ieng, Benosman & LP, 2023](https://laurentperrinet.github.io/publication/grimaldi-23/)]" width="75%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-24/gesture_offline.png" title="[[Grimaldi, Boutin, Sio-Ieng, Benosman & LP, 2023](https://laurentperrinet.github.io/publication/grimaldi-24/)]" width="75%" >}}
 
 
 {{< speaker_note >}}
@@ -382,7 +382,7 @@ always-on
 ### Always-on classification using HOTS
 
 
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23/gesture_online.png" title="[[Grimaldi, Boutin, Sio-Ieng, Benosman & LP, 2023](https://laurentperrinet.github.io/publication/grimaldi-23/)]" width="75%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-24/gesture_online.png" title="[[Grimaldi, Boutin, Sio-Ieng, Benosman & LP, 2023](https://laurentperrinet.github.io/publication/grimaldi-24/)]" width="75%" >}}
 
 
 {{< speaker_note >}}
