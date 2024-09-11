@@ -38,8 +38,12 @@ image:
   preview_only: false
 lastmod: 2022-01-13 15:27:10+01:00
 links:
+- name: Hal
+  url: https://hal.science/hal-04694717
 - name: URL
   url: https://laurentperrinet.github.io/publication/grimaldi-24/
+- name: Code
+  url: https://github.com/AntoineGrimaldi/hotsline
 projects: []
 publication: 'Neural Networks'
 publication_types:
