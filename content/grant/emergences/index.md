@@ -8,6 +8,10 @@ image:
   placement: 2
   preview_only: false
 
+links:
+- name: URL
+  url: https://emergences.lirmm.fr/
+  
 tags:
 - polychronies
 - grant
@@ -20,7 +24,7 @@ title: "*Emergences* (2023 / 2027)"
 TL;DR: Conventional deep learning models consume too much energy. Inspired by biology, we will explore new models that are more energy efficient.
 {{% /callout %}}
 
-The *Emergences* project aims at advancing the state-of-the art on near-physics emerging models by collaboratively exploring various computation models leveraging physical devices properties. This project will focus on Event-based models, Physics-inspired models and innovative near-physics Machine Learning solutions.
+The [*Emergences* project](https://emergences.lirmm.fr/) aims at advancing the state-of-the art on near-physics emerging models by collaboratively exploring various computation models leveraging physical devices properties. This project will focus on Event-based models, Physics-inspired models and innovative near-physics Machine Learning solutions.
 *Emergences* further intends to extend the collaborative research activities beyond the fence of the consortium by means of connecting with other projects of the PEPR IA and other research institutes.
 
 * Pilote: Marina Reyboz, CEA, Research Director

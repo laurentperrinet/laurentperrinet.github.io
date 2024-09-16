@@ -1,5 +1,6 @@
 ---
 title: "PhD thesis 'Focus of attention: a sensory-motor task for energy reduction in spiking neural networks'"
+subtitle: THE POSITION HAS BEEN FILLED. 
 authors:
 - laurent-u-perrinet
 date: 2024-05-03 09:00:00
@@ -21,8 +22,8 @@ Applications are welcome for a fully funded PhD position **Focus of attention: a
 
 ## Context
 
-This project takes place in the context of the EMERGENCES project (ANR
-PEPR IA 2023-2027) which aims to advance the state of the art on machine
+This project takes place in the context of the [EMERGENCES project (ANR
+PEPR IA 2023-2027)](https://emergences.lirmm.fr/) which aims to advance the state of the art on machine
 learning models using inspiration from biology. Indeed, inspiration from
 brain features promises to show the emergence of unrivalled efficient
 processing. Among the most promising features studied in the literature

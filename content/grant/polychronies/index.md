@@ -17,6 +17,12 @@ tags:
 - current-grant
 title: Polychronies (2022 / 2025)
 ---
+
+{{% callout warning %}}
+THE POSITION HAS BEEN FILLED.
+{{% /callout %}}
+
+
 ## Description
 
 Why do neurons communicate through action potentials, or spikes? An action potential is a binary event —it can occur or not, without further details— and asynchronous, i.e. it can occur at any time. In the living world, neurons almost systematically use this so-called event-based representation, though we do not yet have a clear idea why. A better understanding of this phenomenon remains a fundamental challenge in neurobiology in order to better interpret the masses of recorded data. It is also an emerging challenge in computer science to allow the efficient exploitation of a new class of sensors and impulse computers, called neuromorphic, which could allow significant gains in computing time and energy consumption —a major societal challenge in the age of the digital economy and of global warming.
