@@ -6,7 +6,6 @@ publishDate: '2023-12-04T09:59:44.385734Z'
 draft: false
 featured: false
 projects:
-- art-science
 - tout-public
 summary: "Rencontres Internationales Sciences Et Cinémas"
 event_url: http://www.pollymaggoo.org/
