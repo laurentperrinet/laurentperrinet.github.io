@@ -8,6 +8,8 @@ summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
 
+* "C'est à force d'idéalité seulement qu'on reprend contact avec la réalité." Henri Bergson
+  
 * “Life is not what one lived, but what one remembers and how one remembers it in order to recount it.”  Gabriel García Márquez
 
 * "Une chose déroutante à propos des hommes - ils permettent à leur instinct sexuel de les conduire là où leur intelligence ne les mènerait jamais." Joan Fontaine, Actrice, Artiste (1917 - 2013)
