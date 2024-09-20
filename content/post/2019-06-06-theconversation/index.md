@@ -9,6 +9,7 @@ image:
   focal_point: ''
 projects:
 - tout-public
+- art-science
 summary: Article de dissémination sur la perception visuelle vue à travers illusions et hallucinations.
 tags:
 - neuroscience
