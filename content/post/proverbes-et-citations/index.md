@@ -8,6 +8,10 @@ summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
 
+* "Ce sont les prétentions excessives et non les besoins nécessaires qui portent à commettre les injustices les plus graves" Aristote
+
+* "Aucun penseur n'oserait dire que le parfum des aubépines est inutile aux constellations…" Victor Hugo (Les Misérables)
+
 * "C'est à force d'idéalité seulement qu'on reprend contact avec la réalité." Henri Bergson
   
 * “Life is not what one lived, but what one remembers and how one remembers it in order to recount it.”  Gabriel García Márquez

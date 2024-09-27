@@ -57,9 +57,12 @@ The *Emergences* project aims at advancing the state-of-the art on near-physics 
  * TRL: basic research
  * Total grant requested: 6.8 M€ 
 
-- grant number ANR-2X-PEPR-00XX.
+- This work is supported by a public grant overseen by the French National Research Agency (ANR) under the grant number ANR-23-PEIA-0002.
+
 
 ## Latest news
+
+- 2024-09-26: 2nd workshop meeting in Paris.
 
 - 2023-10-05: Kick-off meeting!
 
