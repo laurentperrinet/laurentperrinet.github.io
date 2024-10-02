@@ -27,7 +27,7 @@ Applications are welcome for a fully funded doctoral position at [INT](http://ww
 
 To obtain further information, please visit [https://laurentperrinet.github.io/post/2020-06-30_phd-position](https://laurentperrinet.github.io/post/2020-06-30_phd-position) or contact me @ [Laurent.Perrinet@univ-amu.fr](mailto:Laurent.Perrinet@univ-amu.fr). To candidate, follow instructions on the dedicated [server from the CNRS](https://bit.ly/3igRji4).
 
-The starting date is set to October 1st, 2020 and the appointment is for 36 month. Applications are welcome immediately.
+The starting date is set to October 1st, 2020 and the appointment is for 36 months. Applications are welcome immediately.
 
 Thanks for distributing this announcement to potential candidates!
 

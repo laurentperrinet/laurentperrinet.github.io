@@ -34,7 +34,7 @@ Applications are welcome for a post-doctoral position at [INT](http://www.int.un
 
 For more information, visit [https://laurentperrinet.github.io/post/2019-10-28_postdoc-position](https://laurentperrinet.github.io/post/2019-10-28_postdoc-position).
 
-The starting date is set to January 6th, 2020 but can be flexibly extended. To obtain further information or send applications (including a full CV, a letter of motivation, 2 reference names), please contact: [Laurent.Perrinet@univ-amu.fr](mailto:Laurent.Perrinet@univ-amu.fr). The appointment is for 18 month. Applications are welcome immediately and until the end of year 2019.
+The starting date is set to January 6th, 2020 but can be flexibly extended. To obtain further information or send applications (including a full CV, a letter of motivation, 2 reference names), please contact: [Laurent.Perrinet@univ-amu.fr](mailto:Laurent.Perrinet@univ-amu.fr). The appointment is for 18 months. Applications are welcome immediately and until the end of year 2019.
 
 Thanks for distributing this announcement to potential candidates!
 
