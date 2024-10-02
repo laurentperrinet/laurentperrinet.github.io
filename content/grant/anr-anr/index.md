@@ -9,7 +9,7 @@ authors:
 tags:
 - grant
 - current-grant
-title: ANR AgileNeuRobot (2021/2024)
+title: ANR AgileNeuRobot (2021/2025)
 slides: "2020-12-10_agileneurobot_anr"
 ---
 <!-- youtube-dl https://www.youtube.com/watch\?v\=36CTDiJjQ8I -->
@@ -23,7 +23,7 @@ slides: "2020-12-10_agileneurobot_anr"
 * *Title : Bio-mimetic agile aerial robots flying in real-life conditions*
 * CES : CE23 - Intelligence Artificielle / Instrument de financement : Projet de recherche collaborative (PRC) / Catégorie R&D : Recherche fondamentale
 * Coordinateur Scientifique : PERRINET Laurent (UMR7289)
-* Durée: 3 ans, à partir du 1er mars 2021 - 1er décembre 2024
+* Durée: 4 ans, à partir du 1er mars 2021 - 1er décembre 2025
 * Budget total: 435 k€
 * Responsables Scientifiques : Stéphane Viollet (BioRobotique, Inst Sciences Mouvement), Ryad Benosman (Inst de la Vision ) | Laurent Perrinet (NeOpTo, Inst Neurosciences de la Timone, coordinateur)
 
