@@ -4,6 +4,7 @@ authors:
 - Emmanuel Daucé
 - Laurent U Perrinet
 date: 2023-08-07
+doi: 10.48550/arXiv.2402.15480
 grants:
 - anr-anr
 links:
@@ -18,5 +19,5 @@ tags:
 - Foveated vision
 - Transfer learning
 - visual categorization
-title: Retinotopy in CNN's implements Efficient Visual Search
+title: Retinotopic Mapping Enhances the Robustness of Convolutional Neural Networks
 ---

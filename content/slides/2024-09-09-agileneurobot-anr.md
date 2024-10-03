@@ -14,7 +14,7 @@ publishDate: "2024-09-06T12:47:11+02:00"
 
 title: 2024-09-09-agileneurobot-anr
 
-summary: Robots aériens agiles bio-mimetiques pour le vol en conditions réelles: Enjeux pour l'IA embarqué
+summary: "Robots aériens agiles bio-mimetiques pour le vol en conditions réelles: Enjeux pour l'IA embarqué"
 
 # printing = https://revealjs.com/pdf-export/
 ---

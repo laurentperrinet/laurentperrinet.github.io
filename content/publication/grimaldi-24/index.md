@@ -26,8 +26,8 @@ authors:
 - Ryad Benosman
 - Laurent U Perrinet
 categories: []
-date: 2023-06-15
-doi: 10.36227/techrxiv.18003077
+date: 2024-10-01
+doi: 10.1016/j.neunet.2024.106415
 draft: false
 featured: false
 grants:
@@ -38,16 +38,16 @@ image:
   preview_only: false
 lastmod: 2022-01-13 15:27:10+01:00
 links:
+- name: Press
+  url: https://neuromatch.social/@laurentperrinet/113119379508706565
 - name: Hal
   url: https://hal.science/hal-04694717
-- name: URL
-  url: https://laurentperrinet.github.io/publication/grimaldi-24/
 - name: Code
   url: https://github.com/AntoineGrimaldi/hotsline
-- name: Mastodon
-  url: https://neuromatch.social/@laurentperrinet/113119379508706565
+- name: URL
+  url: https://laurentperrinet.github.io/publication/grimaldi-24/
 projects: []
-publication: 'Neural Networks'
+publication: Neural Networks
 publication_types:
 - article-journal
 subtitle: ''
@@ -61,18 +61,9 @@ title: A Robust Event-Driven Approach to Always-on Object Recognition
 ---
 
 Main contributions:
-
 - Builds an adaptive, back to  back event-based pattern recognition architecture, inspired by neuroscience and capable of always-on decision, that is, that the decision can be taken it can be needed,
-
-
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-24/hots.png" title="The HOTS architecture." width="100%" >}}
-
-
 - Extends the HOTS algorithm to increase its performance by adding a homeostatic gain control on the activity of neurons to improve the learning of spatio-temporal patterns, we prove an analogy with off-the-shelf LIF spiking neurons,
-
 <img src="https://laurentperrinet.github.io/publication/grimaldi-24/DVSGesture_arm-roll.webp"  width="33%"/><img src="https://laurentperrinet.github.io/publication/grimaldi-24/DVSGesture_hand-clap.webp"  width="33%"/><img src="https://laurentperrinet.github.io/publication/grimaldi-24/DVSGesture_air-guitar.webp"  width="33%"/>
-
-
 - Quantitative results assessing the role of homeostasis in the learning of spatio-temporal patterns and the performance of the network on different datasets: Poker-DVS, N-MNIST and DVS Gesture for different precisions of the temporal and spatial information.
-
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-24/gesture_online.png" title="Performance of the algorithm on the DVSgesture dataset. For this gesture recognition task, the online HOTS accuracy remains close to the chance level for about 100 events. More evidence needs to be accumulated, and then the accuracy increases monotonically, outperforming the previous method after about 10.000 events (at an average of 9.3% of the number of events in the sample)." width="90%" >}}
