@@ -40,6 +40,8 @@ event: iTWIST '12 workshop
 event_url: https://sites.google.com/site/itwist1st/home
 featured: false
 links:
+- name: Conference
+  url: https://sites.google.com/site/itwist1st/home
 - name: URL
   url: https://laurentperrinet.github.io/talk/2012-05-10-itwist/
 publication: '*iTWIST ''12 workshop*'

@@ -17,6 +17,8 @@ event: intervention autour du vernissage de \"Diffraction monochromatique, spect
 event_url: http://ondesparalleles.org/projets/vortex-polychromatique-diffraction/
 featured: false
 links:
+- name: Conference
+  url: http://ondesparalleles.org/projets/vortex-polychromatique-diffraction/
 - name: URL
   url: https://laurentperrinet.github.io/talk/2010-04-14-ondes-paralleles/
 location: Aix-enProvence (France)

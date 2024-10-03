@@ -31,6 +31,8 @@ featured: false
 grants:
 - brain-scales
 links:
+- name: Conference
+  url: https://brainscales.kip.uni-heidelberg.de/internal/jss/AttendMeeting?m=showAgenda&meetingID=45
 - name: URL
   url: https://laurentperrinet.github.io/talk/2014-03-20-manchester/
 location: Manchester (UK)

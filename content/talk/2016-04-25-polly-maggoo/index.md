@@ -12,6 +12,8 @@ event: Cinésciences, collège Clair Soleil (Marseille)
 event_url: http://www.pollymaggoo.org/
 featured: false
 links:
+- name: Conference
+  url: http://www.pollymaggoo.org/
 - name: URL
   url: https://laurentperrinet.github.io/sciblog/files/2016-04-25_pollymagoo/
 location: Marseille, France

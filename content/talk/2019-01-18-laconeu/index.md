@@ -8,6 +8,8 @@ featured: false
 grants:
 - anr-horizontal-v1
 links:
+- name: Conference
+  url: http://www.laconeu.cl
 - name: Slides
   url: https://laurentperrinet.github.io/2019-01-18_LACONEU/
 - name: Code

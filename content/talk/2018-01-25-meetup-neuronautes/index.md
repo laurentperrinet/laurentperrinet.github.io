@@ -7,6 +7,8 @@ event: Meetup Art et Neurosciences, Association NeuroNautes
 event_url: https://www.facebook.com/events/211121069456116/
 featured: false
 links:
+- name: Conference
+  url: https://www.facebook.com/events/211121069456116/
 - name: Slides
   url: https://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.html
 - name: URL

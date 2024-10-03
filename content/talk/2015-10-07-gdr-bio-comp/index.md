@@ -18,6 +18,8 @@ grants:
 - brain-scales
 image: {}
 links:
+- name: Conference
+  url: http://gdr-biocomp.fr/colloque/
 - name: URL
   url: https://laurentperrinet.github.io/talk/2015-10-07-gdr-bio-comp/
 location: Saint-Paul de Vence

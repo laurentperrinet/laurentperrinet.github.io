@@ -42,6 +42,8 @@ featured: false
 grants:
 - brain-scales
 links:
+- name: Conference
+  url: http://www.anc.ed.ac.uk/events/anc-dtc-seminar-laurent-perrinet
 - name: URL
   url: https://laurentperrinet.github.io/talk/2012-01-24-edinburgh/
 location: Room IF 4.31/4.33, Institute for Adaptive and Neural Computation (ANC) at

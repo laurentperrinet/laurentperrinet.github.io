@@ -6,6 +6,7 @@ event: Journée Scientifique Enjeux pour l'IA embarqué
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2024-09-09-agileneurobot-anr
+location: Paris (France)
 publication: '*Journée Scientifique Enjeux pour l''IA embarqué*'
 publication_types:
 - paper-conference

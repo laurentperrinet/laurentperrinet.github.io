@@ -6,6 +6,8 @@ event: Festival Interférences - Cinéma Documentaire et Débat Public
 event_url: http://www.lacitedoc.com/interferences-programmation​
 featured: false
 links:
+- name: Conference
+  url: http://www.lacitedoc.com/interferences-programmation​
 - name: URL
   url: https://laurentperrinet.github.io/talk/2017-11-17-festival-interferences/
 location: Lyon, France

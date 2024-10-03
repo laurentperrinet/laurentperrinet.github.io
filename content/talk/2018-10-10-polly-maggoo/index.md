@@ -6,6 +6,8 @@ event: 'FÊTE DE LA SCIENCE 2018 : Alcazar / MERLAN'
 event_url: http://www.pollymaggoo.org/
 featured: false
 links:
+- name: Conference
+  url: http://www.pollymaggoo.org/
 - name: URL
   url: https://laurentperrinet.github.io/talk/2018-10-10-polly-maggoo/
 location: Marseille, France

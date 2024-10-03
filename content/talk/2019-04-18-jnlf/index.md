@@ -28,6 +28,8 @@ featured: false
 grants:
 - anr-horizontal-v1
 links:
+- name: Conference
+  url: https://www.jnlf.fr/agenda/jnlf-lille-2019
 - name: Video
   url: https://www.youtube.com/watch?v=jJKTdlChefc
 - name: Venue

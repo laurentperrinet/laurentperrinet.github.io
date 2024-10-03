@@ -8,6 +8,8 @@ featured: false
 grants:
 - anr-trajectory
 links:
+- name: Conference
+  url: http://cinv.uv.cl/laconeu-workshop
 - name: Slides
   url: https://laurentperrinet.github.io/sciblog/files/2017-01-18_LACONEU.html
 - name: URL

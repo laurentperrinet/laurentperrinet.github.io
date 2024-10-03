@@ -8,6 +8,8 @@ event: 'EUVIP Session 7: Biologically Inspired Computer Vision (Special Session)
 event_url: https://laurentperrinet.github.io/post/2016-10-26_euvip-bicv/
 featured: false
 links:
+- name: Conference
+  url: https://laurentperrinet.github.io/post/2016-10-26_euvip-bicv/
 - name: Slides
   url: https://laurentperrinet.github.io/sciblog/files/2016-10-26_FillatreBarlaudPerrinet16EUVIP_talk.html
 - name: Code

@@ -14,6 +14,9 @@ image:
   focal_point: ''
   preview_only: false
 lastmod: 2022-06-16 13:51:42+02:00
+links:
+- name: location
+  url: SeaTech building, University of Toulon
 location: SeaTech building, University of Toulon
 projects: []
 publication: '*MIR Symposium 2022 bio-inspired & Marine Robotics*'

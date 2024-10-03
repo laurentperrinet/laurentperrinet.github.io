@@ -19,6 +19,8 @@ event: 'Cycle de conférences organisé par l''Association Science Technologie S
 event_url: http://asts.paris/
 featured: false
 links:
+- name: Conference
+  url: http://asts.paris/
 - name: URL
   url: https://laurentperrinet.github.io/talk/2009-11-24-intelligence-mecanique/
 location: Marseille, France

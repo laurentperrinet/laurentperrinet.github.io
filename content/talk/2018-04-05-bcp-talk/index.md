@@ -10,6 +10,8 @@ featured: false
 grants:
 - pace-itn
 links:
+- name: Conference
+  url: https://laurentperrinet.github.io/post/2018-04-05_optimal-inference-brain-workshop/
 - name: Slides
   url: https://laurentperrinet.github.io/2018-04-05_BCP_talk/
 - name: Code

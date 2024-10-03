@@ -6,6 +6,8 @@ event: Rencontres Internationales Sciences Et Cinémas
 event_url: http://www.pollymaggoo.org/
 featured: false
 links:
+- name: Conference
+  url: http://www.pollymaggoo.org/
 - name: URL
   url: https://laurentperrinet.github.io/talk/2016-11-20-polly-maggoo/
 location: Marseille, France

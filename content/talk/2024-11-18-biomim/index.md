@@ -5,9 +5,11 @@ date: 2024-11-18 16:20:00
 event: 'Journée Scientifique Biomimove 2024 : Action, Perception et Traitement'
 event_url: https://biomimove2024.sciencesconf.org
 links:
+- name: Conference
+  url: https://biomimove2024.sciencesconf.org
 - name: URL
   url: https://laurentperrinet.github.io/talk/2024-11-18-biomim
-location: Marseille (France)
+location: HEXAGONE, 163 Avenue de Luminy - 13009 Marseille (France)
 publication: '*Journée Scientifique Biomimove 2024 : Action, Perception et Traitement*'
 publication_types:
 - paper-conference

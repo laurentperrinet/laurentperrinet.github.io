@@ -7,6 +7,8 @@ event: in 'La modélisation de la genèse physico-mathématique du vivant' / BIO
 event_url: http://lesa.univ-amu.fr/?q=node/391
 featured: false
 links:
+- name: Conference
+  url: http://lesa.univ-amu.fr/?q=node/391
 - name: URL
   url: https://laurentperrinet.github.io/sciblog/files/2018-10-11_BioMorphisme.html
 location: Marseille, France

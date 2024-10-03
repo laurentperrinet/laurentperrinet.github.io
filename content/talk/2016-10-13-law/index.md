@@ -9,6 +9,8 @@ grants:
 - anr-rem
 - pace-itn
 links:
+- name: Conference
+  url: https://law2016.sciencesconf.org/
 - name: Slides
   url: https://laurentperrinet.github.io/sciblog/files/2016-10-13_LAW.html
 - name: URL

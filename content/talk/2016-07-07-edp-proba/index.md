@@ -9,6 +9,8 @@ grants:
 - anr-bala-v1
 - brain-scales
 links:
+- name: Conference
+  url: http://scientific-events.weebly.com/prog-1426.html
 - name: Slides
   url: https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba
 - name: URL

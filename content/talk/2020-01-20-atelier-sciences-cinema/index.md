@@ -21,6 +21,8 @@ event: 'Cinéma et sciences : rencontre avec les élèves du lycée des métiers
 event_url: http://www.pollymaggoo.org/
 featured: false
 links:
+- name: Conference
+  url: http://www.pollymaggoo.org/
 - name: Slides
   url: https://laurentperrinet.github.io/2020-01-20_atelier_sciences_cinema
 - name: Code

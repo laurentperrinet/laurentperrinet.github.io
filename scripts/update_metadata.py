@@ -140,6 +140,7 @@ def import_bibtex(
                     parsed_yaml.pop(this_key, None)
 
             #frontmatter.append(f'featured = {str(featured).lower()}')
+            links = []
 
             if type == 'talks':
                 # if 'time_start' in entry:
@@ -148,9 +149,17 @@ def import_bibtex(
                 #     parsed_yaml['date'] = getDateTimeFromISO8601String(clean_bibtex_str(entry["ID"][:10]))
                 #     # parsed_yaml['date'] = getDateTimeFromISO8601String('1973-02-23')
 
-                for this_key in ['event_url', 'location']:
-                    if this_key in entry:
-                        parsed_yaml[this_key] = f'{clean_bibtex_str(entry[this_key])}'
+                for url_key in ['event_url']:
+                    if url_key in entry:
+                        sane_url = clean_bibtex_str(entry[url_key])
+                        print(">>>>>", url_key, sane_url)
+                        if url_key=='event_url':
+                            url_type = "Conference"
+                        # else:
+                        #     url_type = "location"
+                        
+                        links += [{"name": url_type, "url": sane_url}]
+
                 if 'booktitle' in entry:
                     parsed_yaml['event'] = f'{clean_bibtex_str(entry["booktitle"])}'
 
@@ -198,7 +207,6 @@ def import_bibtex(
                         print(parsed_yaml[this_key])
                     # print(parsed_yaml['projects'])
 
-            links = []
             for url_key in entry.keys():
                 if url_key in ['url', 'preprint', 'url_slides', 'url_venue', 'url_code', 'url_video', 'url_dataset', 'url_poster', 'url_project', 'url_arXiv', 'url_hal', 'url_pdf', 'url_press', 'url_preprint']:
                     sane_url = clean_bibtex_str(entry[url_key])

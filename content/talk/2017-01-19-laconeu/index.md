@@ -8,6 +8,8 @@ featured: false
 grants:
 - anr-trajectory
 links:
+- name: Conference
+  url: http://www.laconeu.cl
 - name: Slides
   url: https://laurentperrinet.github.io/sciblog/files/2017-01-19_LACONEU.html
 - name: URL
