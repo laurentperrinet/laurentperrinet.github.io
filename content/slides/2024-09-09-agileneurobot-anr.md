@@ -12,7 +12,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2024-09-06T12:47:11+02:00"
 
-title: 2024-09-09_agileneurobot_anr
+title: 2024-09-09-agileneurobot-anr
 
 summary: Robots aériens agiles bio-mimetiques pour le vol en conditions réelles: Enjeux pour l'IA embarqué
 
@@ -28,7 +28,7 @@ summary: Robots aériens agiles bio-mimetiques pour le vol en conditions réelle
 	<th>
 		<i> Laurent Perrinet (<a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io</a>)</i>
     <br>
-		<a href="https://laurentperrinet.github.io/slides/2024-09-09_agileneurobot_anr/?transition=fade">
+		<a href="https://laurentperrinet.github.io/slides/2024-09-09-agileneurobot-anr/?transition=fade">
 			<u>[2024-09-09] Enjeux pour l'IA embarquée</u>
 		</a>
 	</th>
@@ -303,7 +303,7 @@ Cette division du travail est inspirée des voies pariétales et dorsales du sys
 	<th>
 		<i> Laurent Perrinet (<a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io</a>)</i>
     <br>
-		<a href="https://laurentperrinet.github.io/slides/2024-09-09_agileneurobot_anr/?transition=fade">
+		<a href="https://laurentperrinet.github.io/slides/2024-09-09-agileneurobot-anr/?transition=fade">
 			<u>[2024-09-09] Enjeux pour l'IA embarquée</u>
 		</a>
 	</th>
