@@ -24,7 +24,7 @@ La vibration des apparences peut évoquer un paysage où l’atmosphère trouble
 
 
 
-**À l'occasion de la Biennale d’Aix-en-Provence, dans le cadre de CHRONIQUES – Biennale des Imaginaires Numériques, l'association Arts Vivants présente au musée Granet, du 8 novembre 2024 au 19 janvier 2025, une exposition consacrée à l'artiste contemporain Étienne Rey et intitulée *La vibration des apparences.* **
+**À l'occasion de la Biennale d’Aix-en-Provence, dans le cadre de CHRONIQUES – Biennale des Imaginaires Numériques, l'association Arts Vivants présente au musée Granet, du 8 novembre 2024 au 19 janvier 2025, une exposition consacrée à l'artiste contemporain Étienne Rey et intitulée *La vibration des apparences.***
 
 Le titre de cette exposition pourrait décrire l’image perçue de l’air vibrant, brouillant légèrement la vision due à la chaleur ou bien encore de l’atmosphère chargée de fines particules d’eau. Ces phénomènes floutent le lointain et donnent à voir en retour la relation jusque-là invisible de l’atmosphère et de la lumière.
 
