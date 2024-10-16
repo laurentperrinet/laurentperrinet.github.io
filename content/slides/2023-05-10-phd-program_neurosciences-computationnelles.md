@@ -23,13 +23,13 @@ summary: Interactions between machine learning, artificial neural networks and o
 ####	*[Laurent Perrinet](https://laurentperrinet.github.io)*
 ####	<u>[[2023-05-10]](https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-computationnelles) [NeuroSchool PhD Program in Neuroscience](https://neuro-marseille.org/en/training/phd-program/): Computation Neuroscience</u>
 
-<img src="https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg" alt="logos" height="130"/>
+<img src="https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg" alt="logos" height="130"/>
 <img src="https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-computationnelles/qrcode.png" alt="qrcode" height="130"/>
 
 
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
-<!-- ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg) 
+<!-- ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg) 
 ![QR code](https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-computationnelles/qrcode.png) -->
 
 
@@ -698,13 +698,13 @@ For instance, we show how precise spike times may be used to detect the directio
 ####	*[Laurent Perrinet](https://laurentperrinet.github.io)*
 ####	<u>[[2023-05-10]](https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-computationnelles) [NeuroSchool PhD Program in Neuroscience](https://neuro-marseille.org/en/training/phd-program/): Computation Neuroscience</u>
 
-<img src="https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg" alt="logos" height="130"/>
+<img src="https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg" alt="logos" height="130"/>
 <img src="https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-computationnelles/qrcode.png" alt="qrcode" height="130"/>
 
 
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
-<!-- ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg) 
+<!-- ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg) 
 ![QR code](https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-computationnelles/qrcode.png) -->
 
 

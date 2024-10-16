@@ -24,7 +24,7 @@ summary: Sparse representations in machine learning applied to the understanding
 ##	*[Laurent Perrinet](https://laurentperrinet.github.io/talk/2024-04-17-phd-program-sparse-representations/)*
 ###	<u>[NeuroSchool PhD Program in Neuroscience](https://neuro-marseille.org/en/training/phd-program/)</u>
 ###	[2024-04-17]
-![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg)
+![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
 [Code](https://github.com/laurentperrinet/2024-04_sparse-representations) / 
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
@@ -952,7 +952,7 @@ Code @ [SparseEdges](https://nbviewer.org/github/bicv/SparseEdges/blob/master/Sp
 ##	*[Laurent Perrinet](https://laurentperrinet.github.io/talk/2024-04-17-phd-program-sparse-representations/)*
 ###	<u>[NeuroSchool PhD Program in Neuroscience](https://neuro-marseille.org/en/training/phd-program/)</u>
 ###	[2024-04-17]
-![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg)
+![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
 [Code](https://github.com/laurentperrinet/2024-04_sparse-representations) / 
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 

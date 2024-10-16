@@ -23,7 +23,7 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 ####	*[Laurent Perrinet](https://laurentperrinet.github.io/talk/2022-03-23-ue-neurosciences-computationnelles/)*
 ####	<u>[[2022-03-23]](https://ametice.univ-amu.fr/pluginfile.php/5559779/mod_resource/content/1/Planning_Neurocomp_M1_2022.pdf) [Master 1 Neurosciences et Sciences Cognitives](https://ametice.univ-amu.fr/course/view.php?id=89069)</u>
 
-![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.png)
+![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.png)
 
 ---
 

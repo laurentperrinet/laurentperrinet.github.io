@@ -23,7 +23,7 @@ summary: Artificial neural networks and machine learning applied to the understa
 ####	*[Laurent Perrinet](https://laurentperrinet.github.io)*
 ####	<u>[[2023-04-05]](https://ametice.univ-amu.fr/course/view.php?id=95116) [Master 1 Neurosciences et Sciences Cognitives.](https://sciences.univ-amu.fr/fr/formation/masters/master-neurosciences)</u>
 
-![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg)
+![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 
@@ -662,7 +662,7 @@ For instance, we show how precise spike times may be used to detect the directio
 ####	*[Laurent Perrinet](https://laurentperrinet.github.io)*
 ####	<u>[[2023-04-05]](https://ametice.univ-amu.fr/course/view.php?id=95116) [Master 1 Neurosciences et Sciences Cognitives.](https://sciences.univ-amu.fr/fr/formation/masters/master-neurosciences)</u>
 
-![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg)
+![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 
