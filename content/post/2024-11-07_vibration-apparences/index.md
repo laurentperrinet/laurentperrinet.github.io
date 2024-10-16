@@ -9,7 +9,7 @@ projects:
 - art-science
 title: La vibration des apparences
 subtitle: "Une exposition In-Situ d'Etienne Rey pour le musée Granet."
-summary: "La vibration des apparences peut évoquer un paysage où l’atmosphère trouble légèrement la vision, estompe le lointain et révèle en retour l’interaction jusqu’alors invisible entre l’air et la lumière. Pour le musée Granet, Etienne Rey a conçu une exposition In-Situ. Il en émerge des formes et phénomènes optiques créant une expérience sensorielle de l’espace par le biais de la lumière."
+summary: "À l'occasion de la Biennale d’Aix-en-Provence, dans le cadre de CHRONIQUES – Biennale des Imaginaires Numériques, l'association Arts Vivants présente au musée Granet, du 8 novembre 2024 au 19 janvier 2025, une exposition consacrée à l'artiste contemporain Étienne Rey et intitulée *La vibration des apparences."
 tags:
 - art-science
 image:
@@ -17,26 +17,30 @@ image:
 
 ---
 
+**À l'occasion de la Biennale d’Aix-en-Provence, dans le cadre de CHRONIQUES – Biennale des Imaginaires Numériques, l'association Arts Vivants présente au musée Granet, du 8 novembre 2024 au 19 janvier 2025, une exposition consacrée à l'artiste contemporain Étienne Rey et intitulée *La vibration des apparences.***
+
 
 La vibration des apparences peut évoquer un paysage où l’atmosphère trouble légèrement la vision, estompe le lointain et révèle en retour l’interaction jusqu’alors invisible entre l’air et la lumière. Pour le [musée Granet](https://www.museegranet-aixenprovence.fr/accueil), Etienne Rey a conçu une exposition In-Situ. Il en émerge des formes et phénomènes optiques créant une expérience sensorielle de l’espace par le biais de la lumière.
+La vibration des apparences évoque un état fluctuant, incertain et dynamique, où ce qui nous apparaît reste encore sans forme définie. Cet état de conscience, souvent éphémère, émerge dans divers contextes, nous invitant à entrevoir les structures sous-jacentes de l'espace.
+
+Conçue comme une installation, sensible au moindre mouvement des spectateurs, l’exposition dévoile des motifs uniques, inspirés par les phénomènes d’interférence, transformant des principes ondulatoires en manifestations visuelles tangibles Ces interactions entre le visiteur et les œuvres soulignent des nuances de couleur, de réflexions et de transparences, sculptant des impressions de creux, de reliefs et de profondeur, au croisement entre matérialité et immatérialité.. 
+
 
 ## La vibration des apparences
 
-
-
-**À l'occasion de la Biennale d’Aix-en-Provence, dans le cadre de CHRONIQUES – Biennale des Imaginaires Numériques, l'association Arts Vivants présente au musée Granet, du 8 novembre 2024 au 19 janvier 2025, une exposition consacrée à l'artiste contemporain Étienne Rey et intitulée *La vibration des apparences.***
-
-Le titre de cette exposition pourrait décrire l’image perçue de l’air vibrant, brouillant légèrement la vision due à la chaleur ou bien encore de l’atmosphère chargée de fines particules d’eau. Ces phénomènes floutent le lointain et donnent à voir en retour la relation jusque-là invisible de l’atmosphère et de la lumière.
-
-Cet événement explore des relations possibles ***entre phénomène et expérience sensorielle***, une zone de transformation, le passage d’un état à un autre, révélant des structures potentielles de l’espace.
-
 Ce titre est  extrait du livre « Le doute de Cézanne et autres textes » de Maurice Merleau-Ponty. « Cézanne, selon ses propres paroles « écrit en peintre ce qui n'est pas encore peint et le rend peinture absolument ». Nous oublions les apparences visqueuses, équivoques et à travers elles nous allons droit aux choses qu'elles présentent. Le peintre reprend et convertit justement en objet visible ce qui sans lui reste enfermé dans la vie séparée de chaque conscience : la vibration des apparences qui est le berceau des choses. »
 
- * Place Saint-Jean de Malte Aix-en-Provence, vendredi 8 novembre 2024.
- * Programmation de [Arts Vivants](https://www.artsvivantsaix.com/) en partenariat avec le musée Granet et [CHRONIQUES](https://chroniques.org/).  
 
 
 ### informations pratiques
+
+- En partenariat avec le musée Granet, Chroniques, biennale des imaginaires numériques, AMU et CRNS 
+
+- Du vendredi 8 novembre 2024 au dimanche 19 janvier 2025
+
+- Programmation de [Arts Vivants](https://www.artsvivantsaix.com/) en partenariat avec le musée Granet et [CHRONIQUES](https://chroniques.org/).  
+
+- Musée Granet Pl. Saint-Jean de Malte, 13100 Aix-en-Provence                                                                      
 
 - https://www.museegranet-aixenprovence.fr/votre-visite/les-evenements/chroniques
 
