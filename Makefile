@@ -2,7 +2,7 @@ all: gitpages
 default: gitpages
 
 update:
-	sh update_wowchemy.sh
+	sh update_hugoblox.sh
 
 diff:
 	opendiff ../academic-file-converter/academic/import_bibtex.py  scripts/update_metadata.py
@@ -32,7 +32,7 @@ metadata:
 	cd scripts; sh update_metadata.sh
 
 academic:
-	sh update_wowchemy.sh
+	sh update_hugoblox.sh
 
 clean:
 	# rm -fr  $(TMPDIR)/hugo_cache
