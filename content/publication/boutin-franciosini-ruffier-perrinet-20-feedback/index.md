@@ -27,7 +27,6 @@ featured: false
 categories:
 - doc-2-amu
 - phd-icn
-- mesocentre
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/
@@ -38,6 +37,7 @@ publication: '*Neural Computation*'
 publication_types:
 - article-journal
 tags:
+- mesocentre
 - deep-learning
 - sparse coding
 title: Effect of top-down connections in Hierarchical Sparse Coding
