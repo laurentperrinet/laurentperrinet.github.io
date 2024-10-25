@@ -5,6 +5,7 @@ image:
   focal_point: Smart
 summary: 'To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences.'
 tags:
+- research-interests
 - log-gabor
 - psychophysics
 - motion-clouds
