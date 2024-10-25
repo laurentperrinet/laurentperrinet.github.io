@@ -1,5 +1,5 @@
 ---
-type: page
+
 summary: 'MesoCentre (2018/2022) : access to the HPC resources of Aix-Marseille Université.'
 tags:
 - grant
@@ -10,7 +10,6 @@ content:
   # Filter on criteria
   filters:
     grants: 'mesocentre'
-
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Choose how many pages you would like to offset by
