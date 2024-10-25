@@ -34,6 +34,8 @@ metadata:
 academic:
 	sh update_hugoblox.sh
 
+test:
+	hugo server -d /tmp/public
 clean:
 	# rm -fr  $(TMPDIR)/hugo_cache
 	hugo mod clean --all

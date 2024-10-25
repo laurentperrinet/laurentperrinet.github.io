@@ -6,5 +6,6 @@ github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20241
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20241016214324-2eaf5f6849fc/go.mod h1:C7jfxMLv1bEUqbM9XDSmEpfOpS8w06OgqNDEcbuRgL4=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal v1.1.2 h1:AyH1pungA2xQDHOrXiIssKOVMY1/qoJUgwrGiK7TzJM=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal v1.1.2/go.mod h1:F7quX1aEkV2pToTpmDBXOSTkytAnCKkqv/JFLclqa2g=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.2/go.mod h1:NsESu6cEms1DgH84icCyylElg2Zu8A0f7Fma5JR0LZE=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.3 h1:pg2uBp1kvNmhy+OmhjWnbPYU6diIcn8m8h3bzf82j8k=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.3/go.mod h1:NsESu6cEms1DgH84icCyylElg2Zu8A0f7Fma5JR0LZE=

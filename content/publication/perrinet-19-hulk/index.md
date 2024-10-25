@@ -31,7 +31,6 @@ featured: false
 grants:
 - anr-horizontal-v1
 - spikeai
-- mesocentre
 links:
 - name: Code
   url: https://github.com/SpikeAI/HULK
@@ -41,6 +40,7 @@ publication: '*Vision*'
 publication_types:
 - article-journal
 tags:
+- mesocentre
 - area-v1
 - gain control
 - homeostasis
