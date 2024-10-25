@@ -21,7 +21,7 @@ location: Marseille (France)
 publication: '*second CENTURI Scientific Day*'
 publication_types:
 - inproceedings
-publishDate: 2022-05-19-21T10:44:45.446866Z
+publishDate: 2022-05-19T10:44:45.446866Z
 tags:
 - efficient coding
 - event-based vision
