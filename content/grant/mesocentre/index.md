@@ -23,43 +23,12 @@ title: MesoCentre (2018/2022)
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: |
-        Wowchemy
-        Research Group
-      text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-
-
-sections:
   - block: collection
     id: meso
     content:
       title: Recent Posts
       subtitle: ''
-      text: 'Check out my recent blog posts below!'
+      text: 'Publications that used the MesoCentre'
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
       # Filter on criteria
