@@ -20,6 +20,7 @@ title: MesoCentre (2018/2022)
 #   view: citation
 #   columns: '2'
 type: page
+
 sections:
   - block: collection
     id: meso
@@ -29,7 +30,7 @@ sections:
       count: 0
       # Filter on criteria
       filters:
-        tags: 'mesocentre'
+        grants: 'mesocentre'
       # Choose how many pages you would like to offset by
       # Useful if you wish to show the first item in the Featured widget
       offset: 0

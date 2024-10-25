@@ -37,8 +37,6 @@ links:
   url: https://github.com/SpikeAI/HULK
 - name: URL
   url: https://spikeai.github.io/HULK/
-projects:
-- mesocentre
 publication: '*Vision*'
 publication_types:
 - article-journal

@@ -24,7 +24,8 @@ authors:
 date: 2020-02-04
 doi: 10.1162/neco_a_01325
 featured: false
-categories:
+grants:
+- mesocentre
 - doc-2-amu
 - phd-icn
 links:
@@ -37,7 +38,6 @@ publication: '*Neural Computation*'
 publication_types:
 - article-journal
 tags:
-- mesocentre
 - deep-learning
 - sparse coding
 title: Effect of top-down connections in Hierarchical Sparse Coding
