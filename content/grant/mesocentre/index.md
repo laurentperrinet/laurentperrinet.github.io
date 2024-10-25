@@ -5,21 +5,21 @@ tags:
 - grant
 - past-grant
 title: MesoCentre (2018/2022)
-content:
-  # Filter on criteria
-  filters:
-    grants: 'mesocentre'
+# content:
+#   # Filter on criteria
+#   filters:
+#     grants: 'mesocentre'
 
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 0
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
-design:
-  # Choose a view for the listings:
-  view: citation
-  columns: '2'
+#   # Choose how many pages you would like to display (0 = all pages)
+#   count: 0
+#   # Choose how many pages you would like to offset by
+#   offset: 0
+#   # Page order: descending (desc) or ascending (asc) date.
+#   order: desc
+# design:
+#   # Choose a view for the listings:
+#   view: citation
+#   columns: '2'
 
 sections:
   - block: collection
