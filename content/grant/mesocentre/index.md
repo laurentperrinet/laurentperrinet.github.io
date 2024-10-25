@@ -3,7 +3,7 @@ summary: 'MesoCentre (2018/2022) : access to the HPC resources of Aix-Marseille 
 tags:
 - grant
 - past-grant
-title: MesoCentre (2018/2022)
+# title: MesoCentre (2018/2022)
 # content:
 #   # Filter on criteria
 #   filters:
@@ -24,28 +24,28 @@ type: page
 sections:
     - block: markdown
         content:
-            title: 🎉 Section 2
+            title: MesoCentre (2018/2022)
             text: |
             In the field of neuroscience, modeling has long made it possible to validate and predict theories of information processing in the neural networks that make up the brain. The recent emergence of solutions inherited from machine learning, in particular deep learning, has changed the field since 2012. One reason for the effectiveness of these methods is the amount of data analyzed but above all the ability to teach these algorithms on dedicated architectures, including graphics cards (GPUs). Indeed, this architecture allows an algorithm to be parallelized into a multitude of simple and independent subprograms that allow speed gains of around 6x to 10x to be achieved over traditional visual information processing architectures. We are now using these architectures excessively to test new image processing models - targeting applications in both neuroscience and machine learning.  
 
-    - block: collection
-        id: meso
-        content:
-        title: 'Publications that used the MesoCentre'
-        # Choose how many pages you would like to display (0 = all pages)
-        count: 0
-        # Filter on criteria
-        filters:
-            grants: 'mesocentre'
-        # Choose how many pages you would like to offset by
-        # Useful if you wish to show the first item in the Featured widget
-        offset: 0
-        # Field to sort by, such as Date or Title
-        sort_by: 'Date'
-        sort_ascending: false
-        design:
-        # Choose a listing view
-        view: card
+    # - block: collection
+    #     id: meso
+    #     content:
+    #     title: 'Publications that used the MesoCentre'
+    #     # Choose how many pages you would like to display (0 = all pages)
+    #     count: 0
+    #     # Filter on criteria
+    #     filters:
+    #         grants: 'mesocentre'
+    #     # Choose how many pages you would like to offset by
+    #     # Useful if you wish to show the first item in the Featured widget
+    #     offset: 0
+    #     # Field to sort by, such as Date or Title
+    #     sort_by: 'Date'
+    #     sort_ascending: false
+    #     design:
+    #     # Choose a listing view
+    #     view: card
 
 ---
 
