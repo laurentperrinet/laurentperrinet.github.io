@@ -1,6 +1,6 @@
 ---
 # An instance of the Portfolio widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
+# Documentation: https://docs.hugoblox.com/getting-started/page-builder/
 widget: portfolio
 
 # This file represents a page section.

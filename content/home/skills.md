@@ -1,6 +1,6 @@
 ---
 # An instance of the Featurette widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
+# Documentation: https://docs.hugoblox.com/getting-started/page-builder/
 widget: featurette
 
 active: false
@@ -16,7 +16,7 @@ subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
-# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+# - For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 feature:
 - description: 90%
   icon: r-project

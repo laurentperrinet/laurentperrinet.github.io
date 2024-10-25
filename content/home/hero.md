@@ -1,6 +1,6 @@
 +++
 # Hero widget.
-widget = "hero"  # See https://wowchemy.com/docs/page-builder/
+widget = "hero"  # See https://docs.hugoblox.com/getting-started/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.

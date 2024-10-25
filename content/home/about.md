@@ -1,6 +1,6 @@
 ---
 # An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
+# Documentation: https://docs.hugoblox.com/getting-started/page-builder/
 widget: about
 
 # Activate this widget? true/false
