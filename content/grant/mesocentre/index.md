@@ -19,7 +19,7 @@ title: MesoCentre (2018/2022)
 #   # Choose a view for the listings:
 #   view: citation
 #   columns: '2'
-type: landing
+type: page
 sections:
   - block: collection
     id: meso
