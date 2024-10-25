@@ -19,22 +19,17 @@ title: MesoCentre (2018/2022)
 #   # Choose a view for the listings:
 #   view: citation
 #   columns: '2'
-
-type: page
-
+type: landing
 sections:
   - block: collection
     id: meso
     content:
-      title: Recent Posts
-      subtitle: ''
-      text: 'Publications that used the MesoCentre'
+      title: 'Publications that used the MesoCentre'
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
       # Filter on criteria
       filters:
-        # The folders to display content from
-        grants: 'mesocentre'
+        categories: 'mesocentre'
       # Choose how many pages you would like to offset by
       # Useful if you wish to show the first item in the Featured widget
       offset: 0
