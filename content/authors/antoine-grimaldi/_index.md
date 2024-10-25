@@ -29,7 +29,7 @@ superuser: false
 tags:
 - aprovis-3-d
 user_groups:
-- Current Students
+- Former Students
 ---
 #  "Ultra-fast vision using Spiking Neural Networks" (PhD position, 2020-09 / 2024-03)
 
