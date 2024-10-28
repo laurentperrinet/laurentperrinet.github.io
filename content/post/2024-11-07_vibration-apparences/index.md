@@ -13,7 +13,7 @@ summary: "À l'occasion de la Biennale d’Aix-en-Provence, dans le cadre de CHR
 tags:
 - art-science
 image:
-  caption: ' Etienne Rey, *Variations* © ADAGP, Paris 2024 Image credit: Etienne Rey'
+  caption: "Etienne Rey, Affiche pour l'exposition *La vibration des apparences*."
 
 ---
 
@@ -30,6 +30,8 @@ Conçue comme une installation, sensible au moindre mouvement des spectateurs, l
 
 Ce titre est  extrait du livre « Le doute de Cézanne et autres textes » de Maurice Merleau-Ponty. « Cézanne, selon ses propres paroles « écrit en peintre ce qui n'est pas encore peint et le rend peinture absolument ». Nous oublions les apparences visqueuses, équivoques et à travers elles nous allons droit aux choses qu'elles présentent. Le peintre reprend et convertit justement en objet visible ce qui sans lui reste enfermé dans la vie séparée de chaque conscience : la vibration des apparences qui est le berceau des choses. »
 
+
+{{< figure src="variations.jpg" title="Etienne Rey, *Variations* © ADAGP, Paris 2024. Image credit: Etienne Rey" >}}
 
 
 ### informations pratiques
