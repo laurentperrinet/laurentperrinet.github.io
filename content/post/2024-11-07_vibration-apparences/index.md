@@ -20,15 +20,19 @@ image:
 **À l'occasion de la Biennale d’Aix-en-Provence, dans le cadre de CHRONIQUES – Biennale des Imaginaires Numériques, l'association Arts Vivants présente au musée Granet, du 8 novembre 2024 au 19 janvier 2025, une exposition consacrée à l'artiste contemporain Étienne Rey et intitulée *La vibration des apparences.***
 
 
-La vibration des apparences peut évoquer un paysage où l’atmosphère trouble légèrement la vision, estompe le lointain et révèle en retour l’interaction jusqu’alors invisible entre l’air et la lumière. Pour le [musée Granet](https://www.museegranet-aixenprovence.fr/accueil), Etienne Rey a conçu une exposition In-Situ. Il en émerge des formes et phénomènes optiques créant une expérience sensorielle de l’espace par le biais de la lumière.
-La vibration des apparences évoque un état fluctuant, incertain et dynamique, où ce qui nous apparaît reste encore sans forme définie. Cet état de conscience, souvent éphémère, émerge dans divers contextes, nous invitant à entrevoir les structures sous-jacentes de l'espace.
+Le travail d’Etienne Rey met en lien des phénomènes naturels et physiques avec notre perception. Ses œuvres se révèlent et se concrétisent dans l’expérience personnelle des spectateurs. La lumière, élément central de sa démarche, active ces expériences, révélant les interactions entre le matériel et l’immatériel.
 
-Conçue comme une installation, sensible au moindre mouvement des spectateurs, l’exposition dévoile des motifs uniques, inspirés par les phénomènes d’interférence, transformant des principes ondulatoires en manifestations visuelles tangibles Ces interactions entre le visiteur et les œuvres soulignent des nuances de couleur, de réflexions et de transparences, sculptant des impressions de creux, de reliefs et de profondeur, au croisement entre matérialité et immatérialité.. 
+{{% callout note %}}
+Depuis 2011, Etienne Rey collabore avec le Dr. Laurent Perrinet de l'Institut de Neuroscience de la Timone. Ensemble, ils sondent le domaine de la perception à l'intersection de leurs disciplines respectives, combinant science et art pour développer de nouvelles approches perceptives. Sélection de réalisations: [Tropiques (2013) & Space Odyssey (2015-2024)](https://laurentperrinet.github.io/post/2013-10-10_tropique/), [Trame Eslasticité 2016](https://laurentperrinet.github.io/post/2018-04-10_trames/), Turbulences 2018, [Instabilités et Delaunay (2019)](https://laurentperrinet.github.io/post/2021-10-04_interstices/), Azur 2028.
+{{% /callout %}}
 
 
 ## La vibration des apparences
 
-Ce titre est  extrait du livre « Le doute de Cézanne et autres textes » de Maurice Merleau-Ponty. « Cézanne, selon ses propres paroles « écrit en peintre ce qui n'est pas encore peint et le rend peinture absolument ». Nous oublions les apparences visqueuses, équivoques et à travers elles nous allons droit aux choses qu'elles présentent. Le peintre reprend et convertit justement en objet visible ce qui sans lui reste enfermé dans la vie séparée de chaque conscience : la vibration des apparences qui est le berceau des choses. »
+La Vibration des Apparences, fait écho au texte "Le Doute de Cézanne" de Merleau-Ponty, qui explore comment, dans la vie quotidienne, nous tendons à ignorer les apparences transitoires pour accéder directement aux objets eux-mêmes. À l'opposé, le peintre se focalise sur cette dynamique de mutation des apparences. Merleau-Ponty écrit au sujet de Cézanne : « Le peintre reprend et convertit justement en objet visible ce qui sans lui reste enfermé dans la vie séparée de chaque conscience : la vibration des apparences qui est le berceau des choses. » 
+
+L'exposition s'inscrit dans le prolongement de cette pensée, illustrant la vibration des apparences au travers du concept d'Interférence. Ce phénomène physique, où deux ondes de même nature en superposition se renforcent ou s'annulent, inspire Etienne Rey à établir un parallèle visuel. Il reprend, décale, transpose des motifs desquels émergent des « interférences optiques », des « ondes chromatiques ». 
+
 
 
 {{< figure src="variations.jpg" title="Etienne Rey, *Variations* © ADAGP, Paris 2024. Image credit: Etienne Rey" >}}
