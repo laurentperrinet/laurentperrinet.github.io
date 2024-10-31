@@ -26,7 +26,6 @@ Le travail d’Etienne Rey met en lien des phénomènes naturels et physiques av
 Depuis 2011, Etienne Rey collabore avec le Dr. Laurent Perrinet de l'Institut de Neuroscience de la Timone. Ensemble, ils sondent le domaine de la perception à l'intersection de leurs disciplines respectives, combinant science et art pour développer de nouvelles approches perceptives. Sélection de réalisations: [Tropiques (2013) & Space Odyssey (2015-2024)](https://laurentperrinet.github.io/post/2013-10-10_tropique/), [Trame Eslasticité 2016](https://laurentperrinet.github.io/post/2018-04-10_trames/), Turbulences 2018, [Instabilités et Delaunay (2019)](https://laurentperrinet.github.io/post/2021-10-04_interstices/), Azur 2028.
 {{% /callout %}}
 
-
 ## La vibration des apparences
 
 La Vibration des Apparences, fait écho au texte "Le Doute de Cézanne" de Merleau-Ponty, qui explore comment, dans la vie quotidienne, nous tendons à ignorer les apparences transitoires pour accéder directement aux objets eux-mêmes. À l'opposé, le peintre se focalise sur cette dynamique de mutation des apparences. Merleau-Ponty écrit au sujet de Cézanne : « Le peintre reprend et convertit justement en objet visible ce qui sans lui reste enfermé dans la vie séparée de chaque conscience : la vibration des apparences qui est le berceau des choses. » 
