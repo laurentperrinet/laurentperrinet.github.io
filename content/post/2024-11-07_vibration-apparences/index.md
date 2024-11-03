@@ -58,3 +58,12 @@ Entrée libre
 - Fermetures annuelles les 25 décembre 2024 et 1er janvier 2025
 
 https://www.unidivers.fr/event/la-vibration-des-apparences-aix-en-provence-bouches-du-rhone-2024-11-08/
+
+
+### autres liens
+
+* https://provence-alpes-cotedazur.com/que-faire/sortir/toutes-les-sorties/la-vibration-des-apparences-aix-en-provence-fr-5157366/
+* https://chroniques-biennale.org/oeuvre/la-vibration-des-apparences/
+* https://www.fest.fr/la-vibration-des-apparences-1936454.html
+* https://www.frequence-sud.fr/art-101092-la_vibration_des_apparences_aix_en_provence
+* https://www.museegranet-aixenprovence.fr/expositions/la-vibration-des-apparences-etienne-rey
