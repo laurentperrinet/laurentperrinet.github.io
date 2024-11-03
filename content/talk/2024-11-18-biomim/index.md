@@ -1,7 +1,7 @@
 ---
 authors:
 - Laurent U Perrinet
-date: 2024-11-18 16:20:00
+date: 2024-11-18
 event: 'Journée Scientifique Biomimove 2024 : Action, Perception et Traitement'
 event_url: https://biomimove2024.sciencesconf.org
 links:
@@ -22,3 +22,5 @@ tags:
 title: 'NeuroAI: interactions multiples entre Neurosciences et Intelligence artificielle'
 slides: 2024-11-18-journee-biomometisme
 ---
+
+* présentation de 15:50:00 à 16:20:00
