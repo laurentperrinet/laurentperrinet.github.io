@@ -40,7 +40,10 @@ summary: "NeuroAI: interactions multiples entre Neurosciences et Intelligence ar
 
 {{< speaker_note >}}
 - outline = 
- - Bonjour. Je suis Laurent Perrinet, directeur de recherche CNRS en neurosciences computationnelles à l'Institut des neurosciences de la Timone à Marseille. Je vous remercie pour cette invitation à participer à cette table ronde sur l'IA embarquée dans le domaine spatial. Je suis moi-même un passionné d'aéronautique et de spatial, ce qui m'a amené à suivre l'école d'aéronautique SUPAERO. Puis vers l’imagerie satellitaire, qui dépendait déjà de l'IA sous la forme des réseaux de neurones. C'est à partir de là, grâce à la rencontre avec mon professeur de mathématiques Manuel Samuelides, que j'ai découvert les neurosciences computationnelles et les pouvoirs qu'elles peuvent offrir pour mieux comprendre le cerveau et pour créer de nouveaux systèmes d’intelligence artificielle.
+
+ - Bonjour. Je suis Laurent Perrinet, directeur de recherche CNRS en neurosciences computationnelles à l'Institut de Neurosciences de la Timone à Marseille. Je vous remercie pour cette invitation à participer à cette Journée Scientifique "Biomimove 2024 : Action, Perception et Traitement" à la croisée entre robotique et science du vivant.  
+
+ -  Je suis moi-même issu d'une formation mixte puisqu'après une école d'ingénieur, grâce à la rencontre avec mon professeur de mathématiques Manuel Samuelides, j'ai découvert les neurosciences computationnelles, c'est-à-dire l'étude théorique des principes des neurosciences et les pouvoirs qu'elles peuvent offrir pour mieux comprendre le cerveau et pour créer de nouveaux systèmes d’intelligence artificielle. C'est de cette rencontre entre ingénierie et neurosciences dont je vais vous parler aujourd'hui.
 
 - Les neurosciences computationnelles sont les sciences qui essaient d’extraire de nos connaissances en neurosciences biologiques des principes computationnels, comme le neurone formel et sa capacité d’apprentissage, qui est la brique de base des réseaux de neurones. Ces derniers ont conduit à la révolution de l’IA avec les réseaux profonds.
 
@@ -48,7 +51,7 @@ summary: "NeuroAI: interactions multiples entre Neurosciences et Intelligence ar
 
  - C'est pourquoi je suis très heureux de vous présenter en premier lieu le projet ANR AgileNeuRobot, un projet de recherche interdisciplinaire visant à développer des robots aériens agiles bio-mimétiques pour le vol en conditions réelles.
 
- Dans cette optique, afin de caractériser certains enjeux de l'IA embarquée, notamment dans le domaine du spatial, je vais vous présenter deux leviers s'inspirant de la biologie et illustrant comment les neurosciences peuvent faire avancer le domaine de façon radicale. L'intégration de connaissances biomimétiques dans les engins spatiaux peut améliorer leur résilience et leur adaptabilité face aux environnements hostiles, tout en réduisant la consommation d'énergie. Je serais ravi d'engager ensuite une discussion avec vous sur ces sujets et d'échanger sur vos propres expériences et perspectives.
+ Dans cette optique, afin de caractériser certains enjeux de l'IA embarquée, notamment dans le domaine du spatial, je vais vous présenter deux leviers s'inspirant de la biologie et illustrant comment les neurosciences peuvent faire avancer le domaine de façon radicale. L'intégration de connaissances biomimétiques dans les engins embarqués peut améliorer leur résilience et leur adaptabilité face aux environnements hostiles, tout en réduisant la consommation d'énergie. Je serais ravi d'engager ensuite une discussion avec vous sur ces sujets et d'échanger sur vos propres expériences et perspectives.
 
 {{< /speaker_note >}}
 
@@ -123,9 +126,9 @@ Mais d'abord, je voudrais souligner deux contraintes majeures de ce type de syst
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies [[Grimaldi *et al*, 2022]](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)" width="55%" >}}
 
 {{< speaker_note >}}
-Tout d’abord, les systèmes sensoriels biologiques sont composés de séquences de traitement qui possèdent des délais de traitement. Je décris ici la chaîne de traitement d’une image visuelle, ici pour un enfant jouant à un jeu et devant cliquer sur le bon bouton, et qui illustre les différentes latences du traitement de l’information de la vision à l’action.
+Tout d’abord, les systèmes sensoriels biologiques sont composés de séquences de traitement qui possèdent des délais de traitement. Je décris ici la chaîne de traitement d’une image visuelle, ici pour un enfant jouant à un jeu video et devant cliquer sur le bon bouton, et qui illustre les différentes latences du traitement de l’information de la vision à l’action.
 
-Si les délais dans un système embarqué sont plus rapides, il reste que les informations dans les différentes étapes de traitement peuvent être décalées et nécessitent un traitement adapté afin de répondre de la façon la plus immédiate possible. Je pense notamment à la détection d'objets en mouvement très rapide dans le cadre spatial.
+Si les délais dans un système embarqué sont plus rapides, il reste que les informations dans les différentes étapes de traitement peuvent être décalées et nécessitent un traitement adapté afin de répondre de la façon la plus immédiate possible. Je pense notamment à la détection d'objets en mouvement très rapide dans le cadre d'un robot en mouvement.
 
 
 
