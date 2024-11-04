@@ -20,20 +20,22 @@ summary: "NeuroAI: interactions multiples entre Neurosciences et Intelligence ar
 ---
 <section>
 
-<a href="https://laurentperrinet.github.io/grant/anr-anr">
-<img src="https://laurentperrinet.github.io/grant/anr-anr/header.png" alt="header" height="450">
-</a>
+<u>[2024-11-18] NeuroAI: interactions multiples entre Neurosciences et Intelligence artificielle</u>
 <table>
 <tr>
+	<a href="https://laurentperrinet.github.io/grant/anr-anr"> 
+		<img src="https://laurentperrinet.github.io/grant/anr-anr/header.png" alt="header" height="450"> 
+	</a>
+</tr>
+<tr>
 	<th>
-		<i> Laurent Perrinet (<a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io</a>)</i>
-    <br>
-		<a href="https://laurentperrinet.github.io/slides/2024-09-09-agileneurobot-anr/?transition=fade">
-			<u>[2024-11-18] NeuroAI: interactions multiples entre Neurosciences et Intelligence artificielle</u>
+		<a href="https://laurentperrinet.github.io/slides/2024-11-18-journee-biomometisme/?transition=fade">
+			<i> Laurent Perrinet (<a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io</a>)</i>
 		</a>
+	    <br>
 	</th>
 	<th>
-  <img src="https://laurentperrinet.github.io/grant/anr-anr/featured.png" alt="ANR" height="80">
+		  <img src="https://laurentperrinet.github.io/grant/anr-anr/featured.png" alt="ANR" height="80" width="80">
 	</th>
 </tr>
 </table>
@@ -298,23 +300,26 @@ Cette division du travail est inspirée des voies pariétales et dorsales du sys
 
 <section>
 
-<a href="https://laurentperrinet.github.io/grant/anr-anr">
-<img src="https://laurentperrinet.github.io/grant/anr-anr/header.png" alt="header" height="450">
-</a>
+<u>[2024-11-18] NeuroAI: interactions multiples entre Neurosciences et Intelligence artificielle</u>
 <table>
 <tr>
+	<a href="https://laurentperrinet.github.io/grant/anr-anr"> 
+		<img src="https://laurentperrinet.github.io/grant/anr-anr/header.png" alt="header" height="450"> 
+	</a>
+</tr>
+<tr>
 	<th>
-		<i> Laurent Perrinet (<a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io</a>)</i>
-    <br>
-		<a href="https://laurentperrinet.github.io/slides/2024-09-09-agileneurobot-anr/?transition=fade">
-			<u>[2024-11-18] NeuroAI: interactions multiples entre Neurosciences et Intelligence artificielle</u>
+		<a href="https://laurentperrinet.github.io/slides/2024-11-18-journee-biomometisme/?transition=fade">
+			<i> Laurent Perrinet (<a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io</a>)</i>
 		</a>
+	    <br>
 	</th>
 	<th>
-  <img src="https://laurentperrinet.github.io/grant/anr-anr/featured.png" alt="ANR" height="80">
+		  <img src="https://laurentperrinet.github.io/grant/anr-anr/featured.png" alt="ANR" height="80" width="80">
 	</th>
 </tr>
 </table>
+
 
 {{< speaker_note >}}
 
