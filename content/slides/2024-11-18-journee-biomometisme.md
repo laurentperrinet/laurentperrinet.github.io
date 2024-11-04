@@ -19,8 +19,9 @@ summary: "NeuroAI: interactions multiples entre Neurosciences et Intelligence ar
 # printing = https://revealjs.com/pdf-export/
 ---
 <section>
-
-<u>[2024-11-18] NeuroAI: interactions multiples entre Neurosciences et Intelligence artificielle</u>
+<h2><u>
+	[2024-11-18] NeuroAI: interactions multiples entre Neurosciences et Intelligence artificielle
+</u></h2>
 <table>
 <tr>
 	<a href="https://laurentperrinet.github.io/grant/anr-anr"> 
