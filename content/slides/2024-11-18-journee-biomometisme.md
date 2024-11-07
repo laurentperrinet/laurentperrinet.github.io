@@ -25,14 +25,12 @@ summary: "NeuroAI: interactions multiples entre Neurosciences et Intelligence ar
 <table>
 <tr>
 	<a href="https://laurentperrinet.github.io/grant/anr-anr"> 
-		<img src="https://laurentperrinet.github.io/grant/anr-anr/header.png" alt="header" height="450"> 
+		<img src="https://laurentperrinet.github.io/grant/anr-anr/header.png" alt="header" height="300"> 
 	</a>
 </tr>
 <tr>
 	<th>
-		<a href="https://laurentperrinet.github.io/slides/2024-11-18-journee-biomometisme/?transition=fade">
-			<i> Laurent Perrinet (<a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io</a>)</i>
-		</a>
+		<a href="https://laurentperrinet.github.io/slides/2024-11-18-journee-biomometisme/?transition=fade"> <i> Laurent Perrinet </i> </a> - <a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io</a>
 	    <br>
 	</th>
 	<th>
