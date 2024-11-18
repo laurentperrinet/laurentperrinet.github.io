@@ -44,8 +44,6 @@ summary: "NeuroAI: interactions multiples entre Neurosciences et Intelligence ar
 
  - Bonjour. Je suis Laurent Perrinet, directeur de recherche CNRS en neurosciences computationnelles à l'Institut de Neurosciences de la Timone à Marseille. Je vous remercie pour cette invitation à participer à cette Journée Scientifique "Biomimove 2024 : Action, Perception et Traitement" à la croisée entre robotique et science du vivant.  
 
- -  Je suis moi-même issu d'une formation mixte puisqu'après une école d'ingénieur, grâce à la rencontre avec mon professeur de mathématiques Manuel Samuelides, j'ai découvert les neurosciences computationnelles, c'est-à-dire l'étude théorique des principes des neurosciences et les pouvoirs qu'elles peuvent offrir pour mieux comprendre le cerveau et pour créer de nouveaux systèmes d’intelligence artificielle. C'est de cette rencontre entre ingénierie et neurosciences dont je vais vous parler aujourd'hui.
-
 - Les neurosciences computationnelles sont les sciences qui essaient d’extraire de nos connaissances en neurosciences biologiques des principes computationnels, comme le neurone formel et sa capacité d’apprentissage, qui est la brique de base des réseaux de neurones. Ces derniers ont conduit à la révolution de l’IA avec les réseaux profonds.
 
  - Je suis convaincu que nous sommes au tournant d'une nouvelle ère dans le développement des systèmes embarqués, où l'intelligence artificielle a le potentiel de créer des innovations disruptives à la hauteur des performances de l’intelligence naturelle et pour lesquelles il est essentiel de s'inspirer des neurosciences biologiques. 
