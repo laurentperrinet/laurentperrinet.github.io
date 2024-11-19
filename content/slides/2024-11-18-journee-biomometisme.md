@@ -130,8 +130,6 @@ Tout d’abord, les systèmes sensoriels biologiques sont composés de séquence
 Si les délais dans un système embarqué sont plus rapides, il reste que les informations dans les différentes étapes de traitement peuvent être décalées et nécessitent un traitement adapté afin de répondre de la façon la plus immédiate possible. Je pense notamment à la détection d'objets en mouvement très rapide dans le cadre d'un robot en mouvement.
 
 
-
-----> Collapse Kessler 
 {{< /speaker_note >}}
 
 ---
@@ -184,7 +182,7 @@ Les caméras événementielles présentent plusieurs propriétés qui les renden
 
 Une autre caractéristique importante de ces caméras est leur capacité à détecter une très large gamme de luminosité, dépassant de loin celle des caméras conventionnelles à 120 dB (un facteur d'un million, comparé au facteur de un sur mille de l'œil humain entre la pleine lune et le soleil),
 
-Il convient de noter que la « résolution spatiale » de ces caméras est souvent relativement modeste, de l'ordre du mégapixel. Cependant, il ne s'agit pas d'une limitation technique, mais plutôt d'une conséquence des applications technologiques dans lesquelles ces caméras sont couramment utilisées. 
+Il convient de noter que la résolution spatiale de ces caméras est souvent relativement modeste, de l'ordre du mégapixel. Cependant, il ne s'agit pas d'une limitation technique, mais plutôt d'une conséquence des applications technologiques dans lesquelles ces caméras sont couramment utilisées. 
 
 Par rapport aux caméras classiques, qui consomment plusieurs watts, les caméras événementielles consomment très peu d'énergie électrique, de l'ordre de 10 milliwatts, soit une consommation équivalente à celle de l'œil humain. 
 https://en.wikipedia.org/wiki/Event_camera#Functional_description
