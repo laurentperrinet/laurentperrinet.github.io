@@ -28,3 +28,4 @@ This online workshop brings together researchers in the fields of computational 
 * abstracts: http://snufa.net/2024/all_abstracts.html
 * https://neuromatch.social/tags/snufa
 * https://www.linkedin.com/posts/laurent-perrinet-1857b9_snufa-2024-activity-7257696714218729473-6E23
+* youtube videos: https://www.youtube.com/playlist?list=PL09WqqDbQWHHijfS3PyGxPxeoATc-suAv
