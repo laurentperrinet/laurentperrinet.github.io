@@ -51,11 +51,9 @@ L'exposition s'inscrit dans le prolongement de cette pensée, illustrant la vibr
 
 - https://www.museegranet-aixenprovence.fr/votre-visite/les-evenements/chroniques
 
-- Du 8 novembre 2024 au 19 janvier 2025, du mardi au dimanche de 12h à 18h.
-Accès inclus dans le droit d'entrée au musée.
+- Du 8 novembre 2024 au 19 janvier 2025, du mardi au dimanche de 12h à 18h. Accès inclus dans le droit d'entrée au musée.
 
-- Soirées inaugurales les 8 et 9 novembre de 18h à 22h
-Entrée libre
+- Soirées inaugurales les 8 et 9 novembre de 18h à 22h. Entrée libre
 
 - Fermetures annuelles les 25 décembre 2024 et 1er janvier 2025
 
