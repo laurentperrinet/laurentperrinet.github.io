@@ -30,7 +30,7 @@ content:
   email: laurent.perrinet@univ-amu.fr
   phone: +33 619 478 120
   address:
-    street: NeOpTo Team <BR> Institut de Neurosciences de la Timone (UMR 7289), Aix Marseille Université - CNRS, Faculté de Médecine - Bâtiment Neurosciences, 27, Bd Jean Moulin
+    street: Institut de Neurosciences de la Timone (UMR 7289), Aix Marseille Université - CNRS, Faculté de Médecine - Bâtiment Neurosciences, 27, Bd Jean Moulin
     city: Marseille
     region: PACA
     postcode: 13385 Marseille Cedex 05
