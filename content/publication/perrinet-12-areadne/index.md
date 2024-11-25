@@ -24,9 +24,9 @@ authors:
 - Karl Friston
 date: 2012-01-01
 featured: false
-grants:
+projects:
 - codde
-projects: []
+
 publication: '*Proceedings of AREADNE, Santorini, Greece, 21-24 June 2012, published
   by The AREADNE Foundation, Inc., Cambridge, Massachusetts, USA, http://areadne.org*'
 publication_types:

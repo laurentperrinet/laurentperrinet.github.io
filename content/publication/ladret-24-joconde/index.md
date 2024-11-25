@@ -3,7 +3,7 @@ authors:
 - Laurent U Perrinet
 - Hugo Ladret
 date: 2024-08-25
-grants:
+projects:
 - anr-anr
 links:
 - name: URL

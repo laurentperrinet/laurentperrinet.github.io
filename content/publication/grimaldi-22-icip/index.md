@@ -22,7 +22,7 @@ date: 2022-10-16
 doi: 10.1109/ICIP46576.2022.9897394
 draft: false
 featured: false
-grants:
+projects:
 - aprovis3D
 image:
   caption: ''
@@ -34,7 +34,7 @@ links:
   url: https://2022.ieeeicip.org/
 - name: URL
   url: https://ieeexplore.ieee.org/document/9897394/
-projects: []
+
 publication: '*Proceedings of ICIP 2022*'
 publication_types:
 - inproceedings

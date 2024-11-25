@@ -8,12 +8,12 @@ authors:
 date: 2010-01-01
 doi: 10.1167/10.7.545
 featured: false
-grants:
+projects:
 - codde
 links:
 - name: URL
   url: http://dx.doi.org/10.1167/10.7.545
-projects: []
+
 publication: '*Vision Science Society*'
 publication_types:
 - inproceedings

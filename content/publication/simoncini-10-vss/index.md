@@ -7,9 +7,9 @@ authors:
 - Guillaume S Masson
 date: 2010-01-01
 featured: false
-grants:
+projects:
 - codde
-projects: []
+
 publication: '*Vision Science Society*'
 publication_types:
 - inproceedings

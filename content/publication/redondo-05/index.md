@@ -31,7 +31,7 @@ authors:
 - Gabriel Cristóbal
 date: 2005-08-01
 featured: false
-grants:
+projects:
 - facets
 publication: '*Perception*'
 publication_types:

@@ -8,7 +8,7 @@ date: 2023-09-26
 doi: 10.1007/978-3-031-44207-0_52
 draft: false
 featured: false
-grants:
+projects:
 - anr-anr
 image:
   caption: ''
@@ -18,7 +18,7 @@ lastmod: 2022-11-17 12:15:57+01:00
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/jeremie-23-icann
-projects: []
+
 publication: '*32nd International Conference on Artificial Neural Networks (ICANN
   2023)*'
 publication_types:

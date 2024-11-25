@@ -45,13 +45,13 @@ authors:
 - Laurent U Perrinet
 date: 2018-01-01
 featured: false
-grants:
+projects:
 - doc-2-amu
 - phd-icn
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/franciosini-perrinet-18-cs/
-projects: []
+
 publication: '*Curves and Surfaces 2018, Arcachon*'
 publication_types:
 - inproceedings

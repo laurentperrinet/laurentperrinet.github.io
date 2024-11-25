@@ -5,9 +5,9 @@ authors:
 date: 2021-09-22
 doi: 10.12751/nncn.bc2021.p094
 featured: false
-grants:
+projects:
 - anr-horizontal-v1
-projects: []
+
 publication: '*Bernstein Conference 2021*'
 publication_types:
 - inproceedings

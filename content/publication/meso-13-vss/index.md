@@ -31,12 +31,12 @@ authors:
 date: 2013-01-01
 doi: 10.1167/13.9.354
 featured: false
-grants:
+projects:
 - anr-speed
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/meso-13-vss
-projects: []
+
 publication: '*VSS Conference Abstract*'
 publication_types:
 - inproceedings

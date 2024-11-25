@@ -1,5 +1,6 @@
 ---
 authors:
+- laurent-u-perrinet
 date: 2023-10-05 14:00:00
 summary: Near-physics emerging models for embedded AI (PhD position, 2023 / 2027).
 image:

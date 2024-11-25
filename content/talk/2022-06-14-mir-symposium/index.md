@@ -7,7 +7,7 @@ date: 2022-06-14 15:00:00
 draft: false
 event: MIR Symposium 2022 bio-inspired and Marine Robotics
 featured: false
-grants:
+projects:
 - aprovis3D
 image:
   caption: ''
@@ -18,7 +18,7 @@ links:
 - name: location
   url: SeaTech building, University of Toulon
 location: SeaTech building, University of Toulon
-projects: []
+
 publication: '*MIR Symposium 2022 bio-inspired & Marine Robotics*'
 publication_types:
 - inproceedings

@@ -16,14 +16,14 @@ authors:
 - Stéphane Viollet
 date: 2018-01-01
 featured: false
-grants:
+projects:
 - doc-2-amu
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/abstract/document/8351433
 - name: HAL
   url: https://hal.science/hal-01899440
-projects: []
+
 publication: '*ISCAS2018, IEEE International Symposium on Circuits and Systems*'
 publication_types:
 - inproceedings

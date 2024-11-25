@@ -5,7 +5,7 @@ date: 2019-01-18 10:45:00
 event: 'LACONEU 2019: 5th Latin-American Summer School in Computational Neuroscience'
 event_url: http://www.laconeu.cl
 featured: false
-grants:
+projects:
 - anr-horizontal-v1
 links:
 - name: Conference
@@ -17,7 +17,7 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2019-01-18-laconeu/
 location: Valparaiso (Chile)
-projects: []
+
 publication: '*LACONEU 2019: 5th Latin-American Summer School in Computational Neuroscience,
   Valparaiso (Chile)*'
 title: Should I stay or should I go? Adaption of human observers to the volatility

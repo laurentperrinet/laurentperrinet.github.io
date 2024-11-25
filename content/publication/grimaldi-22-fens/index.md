@@ -6,7 +6,7 @@ categories: []
 date: 2022-07-12
 draft: false
 featured: false
-grants:
+projects:
 - aprovis3D
 image:
   caption: ''
@@ -16,7 +16,7 @@ lastmod: 2022-06-13 13:42:38+02:00
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/grimaldi-22-fens/
-projects: []
+
 publication: '*Proceedings of the FENS Forum 2022*'
 publication_types:
 - inproceedings

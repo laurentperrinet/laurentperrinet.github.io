@@ -31,12 +31,12 @@ authors:
 - Laurent U Perrinet
 date: 2020-01-01
 featured: false
-grants:
+projects:
 - anr-horizontal-v1
 links:
 - name: URL
   url: http://aes.amegroups.com/article/view/5214
-projects: []
+
 publication: '*Annals of Eye Science*'
 publication_types:
 - inproceedings

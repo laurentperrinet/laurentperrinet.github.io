@@ -5,7 +5,7 @@ date: 2016-07-07 13:00:00
 event: 'Summer School: PDE and Probability for Life Sciences'
 event_url: http://scientific-events.weebly.com/prog-1426.html
 featured: false
-grants:
+projects:
 - anr-bala-v1
 - brain-scales
 links:
@@ -16,7 +16,7 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2016-07-07-edp-proba/
 location: CIRM, Marseille
-projects: []
+
 publication: '*Summer School: PDE and Probability for Life Sciences @ CIRM, Marseille
   - http://scientific-events.weebly.com/prog-1426.html - CIRM, July 7th, 2016*'
 title: 'Modelling the dynamics of cognitive processes: from the Bayesian brain to

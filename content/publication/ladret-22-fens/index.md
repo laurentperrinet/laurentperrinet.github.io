@@ -6,7 +6,7 @@ categories: []
 date: 2022-07-11
 draft: false
 featured: false
-grants:
+projects:
 - anr-anr
 image:
   caption: ''
@@ -16,7 +16,7 @@ lastmod: 2022-06-08 13:33:46+02:00
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/ladret-22-fens/
-projects: []
+
 publication: '*Proceedings of the FENS Forum 2022*'
 publication_types:
 - inproceedings

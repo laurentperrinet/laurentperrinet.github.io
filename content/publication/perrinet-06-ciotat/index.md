@@ -4,7 +4,7 @@ authors:
 - Jens Kremkow
 date: 2006-01-01
 featured: false
-grants:
+projects:
 - facets
 publication: '*Physiogenic and pathogenic oscillations: the beauty and the beast,
   5th INMED/TINS CONFERENCE SEPTEMBER 9 - 12, 2006, La Ciotat, France*'

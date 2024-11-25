@@ -9,7 +9,7 @@ date: 2023-09-12
 doi: 10.1371/journal.pcbi.1011459
 draft: false
 featured: false
-grants:
+projects:
 - anr-runbinvase
 image:
   caption: ''

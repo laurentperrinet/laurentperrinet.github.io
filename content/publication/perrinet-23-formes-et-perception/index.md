@@ -4,7 +4,7 @@ authors:
 date: 2023-01-01
 draft: false
 featured: true
-grants:
+projects:
 - anr-anr
 links:
 - name: URL

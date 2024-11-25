@@ -29,7 +29,7 @@ authors:
 - Laurent U Perrinet
 date: 2021-01-26
 doi: 10.1371/journal.pcbi.1008629
-grants:
+projects:
 - anr-horizontal-v1
 - doc-2-amu
 - phd-icn
@@ -41,7 +41,7 @@ links:
   url: https://doi.org/10.1371/journal.pcbi.1008629
 - name: arXiv
   url: https://arxiv.org/abs/1902.07651
-projects: []
+
 publication: '*PLoS Computational Biology*'
 publication_types:
 - article-journal

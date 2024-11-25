@@ -25,7 +25,7 @@ date: 2020-09-14 18:00:00
 doi: 10.1007/978-3-030-64919-7_17
 event: IWAI 2020
 featured: false
-grants:
+projects:
 - aprovis-3-d
 links:
 - name: Slides

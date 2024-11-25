@@ -8,7 +8,7 @@ image:
   placement: 2
   preview_only: false
 lastmod: 2018-11-09 00:00:00
-projects: []
+
 subtitle: A seminar by [María José Escobar, Ph.D.](http://profesores.elo.utfsm.cl/~mjescobar/)
   at the Institute of Neurosciences Timone in Marseille.
 summary: A seminar by [María José Escobar, Ph.D.](http://profesores.elo.utfsm.cl/~mjescobar/)

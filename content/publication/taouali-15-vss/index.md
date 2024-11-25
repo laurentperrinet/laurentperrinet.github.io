@@ -46,13 +46,13 @@ authors:
 date: 2016-01-01
 doi: 10.1167/15.12.484
 featured: false
-grants:
+projects:
 - anr-bala-v1
 - brain-scales
 links:
 - name: URL
   url: http://jov.arvojournals.org/article.aspx?articleid=2433592
-projects: []
+
 publication: '*Proceedings of VSS*'
 publication_types:
 - inproceedings

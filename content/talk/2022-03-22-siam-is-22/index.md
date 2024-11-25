@@ -31,7 +31,7 @@ lastmod: 2021-10-12 12:44:45+02:00
 links:
 - name: URL
   url: https://www.siam.org/conferences/cm/conference/is22
-projects: []
+
 publication: '*2022 SIAM Conference on Imaging Science (IS22)*'
 publication_types:
 - inproceedings

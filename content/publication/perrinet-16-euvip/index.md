@@ -15,7 +15,7 @@ authors:
 date: 2016-10-01
 doi: 10.1109/EUVIP.2016.7764592
 featured: false
-grants:
+projects:
 - anr-bala-v1
 links:
 - name: Code
@@ -24,7 +24,7 @@ links:
   url: http://ieeexplore.ieee.org/document/7764592/
 - name: arXiv
   url: https://arxiv.org/abs/1702.02485
-projects: []
+
 publication: '*2016 6th European Workshop on Visual Information Processing (EUVIP)*'
 publication_types:
 - inproceedings

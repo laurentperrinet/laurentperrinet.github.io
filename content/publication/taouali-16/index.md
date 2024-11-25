@@ -28,7 +28,7 @@ authors:
 date: 2016-01-22
 doi: 10.1152/jn.00194.2015
 featured: false
-grants:
+projects:
 - anr-bala-v1
 - brain-scales
 links:
@@ -36,7 +36,7 @@ links:
   url: http://www.ncbi.nlm.nih.gov/pubmed/26445864
 - name: HAL
   url: https://hal.science/hal-01396311
-projects: []
+
 publication: '*Journal of Neurophysiology*'
 publication_types:
 - article-journal

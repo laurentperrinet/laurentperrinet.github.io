@@ -30,9 +30,9 @@ authors:
 code: https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars
 date: 2017-01-01
 featured: false
-grants:
+projects:
 - doc-2-amu
-projects: []
+
 publication: '*SPARS2017, Lisbon*'
 publication_types:
 - inproceedings

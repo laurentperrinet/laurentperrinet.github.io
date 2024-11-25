@@ -18,7 +18,7 @@ authors:
 - Laurent U Perrinet
 date: 2018-01-01
 featured: false
-grants:
+projects:
 - pace-itn
 links:
 - name: Pdf
@@ -27,7 +27,7 @@ links:
   url: https://github.com/chloepasturel/AnticipatorySPEM/
 - name: URL
   url: https://laurentperrinet.github.io/publication/pasturel-18
-projects: []
+
 publication: ''
 publication_types:
 - inproceedings

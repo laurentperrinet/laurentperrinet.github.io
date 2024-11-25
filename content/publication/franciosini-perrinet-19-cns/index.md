@@ -5,14 +5,14 @@ authors:
 - Laurent U Perrinet
 date: 2019-01-01
 featured: false
-grants:
+projects:
 - doc-2-amu
 - phd-icn
 - mesocentre
 links:
 - name: URL
   url: https://www.cnsorg.org/cns-2019-poster-presentation-guide
-projects: []
+
 publication: '*Annual Computational Neuroscience Meeting: CNS*2019, Barcelona*'
 publication_types:
 - inproceedings

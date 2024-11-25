@@ -24,7 +24,7 @@ authors:
 date: 2020-02-04
 doi: 10.1162/neco_a_01325
 featured: false
-grants:
+projects:
 - mesocentre
 - doc-2-amu
 - phd-icn
@@ -33,7 +33,7 @@ links:
   url: https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/
 - name: arXiv
   url: https://arxiv.org/abs/2002.00892
-projects: []
+
 publication: '*Neural Computation*'
 publication_types:
 - article-journal

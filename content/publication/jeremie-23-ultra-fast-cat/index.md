@@ -32,7 +32,7 @@ date: 2023-03-21
 doi: 10.3390/vision7020029
 draft: false
 featured: false
-grants:
+projects:
 - aprovis3D
 - anr-anr
 image:
@@ -43,7 +43,7 @@ lastmod: 2022-05-11 09:32:04+02:00
 links:
 - name: arXiv
   url: http://arxiv.org/abs/2205.03635
-projects: []
+
 publication: '*Vision*'
 publication_types:
 - article-journal

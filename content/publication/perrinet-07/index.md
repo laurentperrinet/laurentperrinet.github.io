@@ -27,7 +27,7 @@ authors:
 date: 2007-03-01
 doi: 10.1140/epjst/e2007-00061-7
 featured: false
-grants:
+projects:
 - facets-itn
 publication: '*Topics in Dynamical Neural Networks: From Large Scale Neural Networks
   to Motor Control and Vision*'

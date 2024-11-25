@@ -6,13 +6,13 @@ authors:
 date: 2013-07-05 13:00:00
 event: CerCo 20th anniversary
 featured: false
-grants:
+projects:
 - brain-scales
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2013-07-05-cerco/
 location: CerCo, Toulouse
-projects: []
+
 publication: '*A  seminar at the CerCo, Toulouse, France*'
 tags:
 - Biologically Inspired Computer vision

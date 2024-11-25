@@ -23,7 +23,7 @@ authors:
 date: 2019-03-18
 doi: 10.1523/JNEUROSCI.2792-18.2019
 featured: false
-grants:
+projects:
 - anr-bala-v1
 - anr-trajectory
 links:
@@ -31,7 +31,7 @@ links:
   url: https://www.jneurosci.org/content/39/22/4282
 - name: HAL
   url: https://hal.science/hal-02190752
-projects: []
+
 publication: '*Journal of Neuroscience*'
 publication_types:
 - article-journal

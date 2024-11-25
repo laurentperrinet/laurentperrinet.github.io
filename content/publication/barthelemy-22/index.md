@@ -48,7 +48,7 @@ lastmod: 2022-06-30 08:54:01+03:00
 links:
 - name: HAL
   url: https://hal.science/hal-03741144
-projects: []
+
 publication: '*eNeuro*'
 publication_types:
 - article-journal

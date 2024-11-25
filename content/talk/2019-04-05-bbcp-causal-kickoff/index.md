@@ -25,7 +25,7 @@ authors:
 date: 2019-04-05 15:45:00
 event: CausaL Kick-off
 featured: false
-grants:
+projects:
 - anr-causal
 links:
 - name: Slides
@@ -35,7 +35,7 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff
 location: INT, Marseille (France)
-projects: []
+
 publication: '*CausaL Kick-off*'
 publication_types:
 - inproceedings

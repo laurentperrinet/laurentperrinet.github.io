@@ -17,7 +17,7 @@ links:
   url: https://laurentperrinet.github.io/publication/perrinet-20-dr/
 - name: PDF
   url: https://tel.archives-ouvertes.fr/tel-00002693/file/tel-000026931.pdf
-projects: []
+
 publication: ''
 publication_types:
 - thesis

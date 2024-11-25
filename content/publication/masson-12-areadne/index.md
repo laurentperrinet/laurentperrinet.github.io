@@ -21,12 +21,12 @@ authors:
 - Laurent U Perrinet
 date: 2012-01-01
 featured: false
-grants:
+projects:
 - codde
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/masson-12-areadne
-projects: []
+
 publication: '*Proceedings of AREADNE*'
 publication_types:
 - inproceedings

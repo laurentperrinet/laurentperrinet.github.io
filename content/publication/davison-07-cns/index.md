@@ -31,7 +31,7 @@ authors:
 date: 2007-01-01
 doi: 10.1186/1471-2202-8-S2-P2
 featured: false
-grants:
+projects:
 - facets
 links:
 - name: URL

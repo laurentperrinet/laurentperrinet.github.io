@@ -4,7 +4,7 @@ authors:
 - Emmanuel Daucé
 date: 2008-10-01
 featured: false
-grants:
+projects:
 - facets-itn
 links:
 - name: URL

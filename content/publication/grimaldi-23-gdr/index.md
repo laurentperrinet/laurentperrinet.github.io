@@ -19,7 +19,7 @@ categories: []
 date: 2023-01-27
 draft: false
 featured: false
-grants:
+projects:
 - aprovis3D
 image:
   caption: ''
@@ -29,7 +29,7 @@ lastmod: 2023-03-22 16:35:38+01:00
 links:
 - name: URL
   url: https://gdr-vision-2023.sciencesconf.org/browse?forward-action=index&forward-controller=browse&docid=442297&lang=en
-projects: []
+
 publication: '*GDR Vision, Toulouse, 2023*'
 publication_types:
 - inproceedings

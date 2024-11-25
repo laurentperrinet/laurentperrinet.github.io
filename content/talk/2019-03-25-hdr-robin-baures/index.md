@@ -17,7 +17,7 @@ authors:
 - Laurent U Perrinet
 date: 2019-03-25 14:30:00
 event: HDR Robin Baurès, Toulouse (France)
-grants:
+projects:
 - anr-horizontal-v1
 links:
 - name: Slides
@@ -27,7 +27,7 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/2019-03-25_HDR_RobinBaures
 location: Toulouse (France)
-projects: []
+
 title: 'From the retina to action: Predictive processing in the visual system'
 ---
 

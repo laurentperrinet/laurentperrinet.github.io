@@ -6,7 +6,7 @@ authors:
 date: 2015-11-01
 doi: 10.1002/9783527680863.ch12
 featured: false
-grants:
+projects:
 - anr-speed
 links:
 - name: Pdf
@@ -15,7 +15,7 @@ links:
   url: https://laurentperrinet.github.io/publication/montagnini-15-bicv/
 - name: arXiv
   url: https://arxiv.org/abs/1611.07831
-projects: []
+
 publication: '*Biologically Inspired Computer Vision*'
 publication_types:
 - inbook

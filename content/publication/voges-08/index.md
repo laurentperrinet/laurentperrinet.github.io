@@ -5,9 +5,9 @@ authors:
 - Laurent U Perrinet
 date: 2008-01-01
 featured: false
-grants:
+projects:
 - facets
-projects: []
+
 publication: '*FENS Abstract*'
 publication_types:
 - inproceedings

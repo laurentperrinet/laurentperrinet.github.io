@@ -26,14 +26,14 @@ authors:
 date: 2012-01-01
 doi: 10.3389/fncom.2012.00041
 featured: false
-grants:
+projects:
 - brain-scales
 - codde
 - facets
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/voges-12
-projects: []
+
 publication: '*Frontiers in Computational Neuroscience*'
 publication_types:
 - article-journal

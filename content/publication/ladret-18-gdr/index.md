@@ -20,14 +20,14 @@ authors:
 - Laurent U Perrinet
 date: 2018-01-01
 featured: false
-grants:
+projects:
 - pace-itn
 links:
 - name: Code
   url: https://github.com/hugoladret/InternshipM1
 - name: PDF
   url: https://github.com/hugoladret/InternshipM1/raw/master/2018-06_POSTER_final.pdf
-projects: []
+
 publication: '*GDR Vision, Paris, 2018*'
 publication_types:
 - inproceedings

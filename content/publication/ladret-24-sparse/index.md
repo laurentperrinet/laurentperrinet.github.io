@@ -36,7 +36,7 @@ image:
 links:
 - name: URL
   url: https://iopscience.iop.org/article/10.1088/2634-4386/ad5d0f
-projects: []
+
 publication: Neuromorphic Computing and Engineering
 publication_short: ''
 publication_types:

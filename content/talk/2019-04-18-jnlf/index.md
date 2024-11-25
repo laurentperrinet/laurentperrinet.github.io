@@ -25,7 +25,7 @@ draft: false
 event: JNLF 2019, Revue Neurologique, Volume 175, Supplement 1, Page S165
 event_url: https://www.jnlf.fr/agenda/jnlf-lille-2019
 featured: false
-grants:
+projects:
 - anr-horizontal-v1
 links:
 - name: Conference

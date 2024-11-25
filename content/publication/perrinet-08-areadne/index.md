@@ -37,7 +37,7 @@ authors:
 - Guillaume S Masson
 date: 2008-01-01
 featured: false
-grants:
+projects:
 - facets-itn
 publication: '*Proceedings of AREADNE, 2008*'
 publication_types:

@@ -20,7 +20,7 @@ categories: []
 date: 2024-06-27
 draft: false
 featured: false
-grants:
+projects:
 - polychronies
 image:
   caption: ''
@@ -30,7 +30,7 @@ lastmod: 2024-04-05 10:22:08+02:00
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/fois-24-fens/
-projects: []
+
 publication: '*FENS Forum 2024*'
 publication_types:
 - inproceedings

@@ -30,7 +30,7 @@ date: 2024-10-01
 doi: 10.1016/j.neunet.2024.106415
 draft: false
 featured: false
-grants:
+projects:
 - aprovis3D
 image:
   caption: ''
@@ -46,7 +46,7 @@ links:
   url: https://github.com/AntoineGrimaldi/hotsline
 - name: URL
   url: https://laurentperrinet.github.io/publication/grimaldi-24/
-projects: []
+
 publication: Neural Networks
 publication_types:
 - article-journal

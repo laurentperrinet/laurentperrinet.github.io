@@ -16,7 +16,7 @@ authors:
 date: 2019-04-03 16:00:00
 event: Licence Sciences et Humanité
 featured: false
-grants:
+projects:
 - anr-horizontal-v1
 links:
 - name: Slides

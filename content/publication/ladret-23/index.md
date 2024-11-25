@@ -21,7 +21,7 @@ authors:
 date: 2023-06-06
 doi: 10.1038/s42003-023-05042-3
 featured: true
-grants:
+projects:
 - anr-horizontal-v1
 - anr-anr
 - polychronies
@@ -34,7 +34,7 @@ links:
   url: https://www.nature.com/articles/s42003-023-05042-3
 - name: bioRxiv
   url: https://www.biorxiv.org/content/10.1101/2021.03.30.437692
-projects: []
+
 publication: '*Nature Communications Biology*'
 publication_types:
 - article-journal

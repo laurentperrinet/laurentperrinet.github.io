@@ -29,7 +29,7 @@ authors:
 date: 2007-01-13
 doi: 10.1007/s11263-006-0026-8
 featured: false
-grants:
+projects:
 - facets
 links:
 - name: Code

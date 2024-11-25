@@ -7,7 +7,7 @@ authors:
 - Thierry Vieville
 date: 2006-01-01
 featured: false
-grants:
+projects:
 - facets
 publication: '*Perception*'
 publication_types:

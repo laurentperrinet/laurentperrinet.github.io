@@ -6,9 +6,9 @@ authors:
 - Guillaume S Masson
 date: 2008-10-01
 featured: false
-grants:
+projects:
 - facets
-projects: []
+
 publication: '*Proceedings of NeuroComp08, Marseille*'
 publication_types:
 - inproceedings

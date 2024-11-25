@@ -7,7 +7,7 @@ categories: []
 date: 2022-07-10
 draft: false
 featured: false
-grants:
+projects:
 - anr-anr
 image:
   caption: ''
@@ -17,7 +17,7 @@ lastmod: 2022-05-20 13:42:38+02:00
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/jeremie-22-fens/
-projects: []
+
 publication: '*Proceedings of the FENS Forum 2022*'
 publication_types:
 - inproceedings

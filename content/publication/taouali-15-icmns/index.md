@@ -27,10 +27,10 @@ authors:
 - Laurent U Perrinet
 date: 2015-01-01
 featured: false
-grants:
+projects:
 - anr-bala-v1
 - brain-scales
-projects: []
+
 publication: '*ICMNS 2015 conference*'
 publication_types:
 - inproceedings

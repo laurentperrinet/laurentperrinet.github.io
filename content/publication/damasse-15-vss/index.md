@@ -31,12 +31,12 @@ authors:
 date: 2015-09-01
 doi: 10.1167/15.12.1019
 featured: false
-grants:
+projects:
 - anr-rem
 links:
 - name: URL
   url: http://jov.arvojournals.org/article.aspx?articleid=2434129
-projects: []
+
 publication: '*Proceedings of VSS*'
 publication_types:
 - inproceedings

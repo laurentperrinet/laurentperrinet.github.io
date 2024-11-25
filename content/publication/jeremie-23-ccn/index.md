@@ -7,7 +7,7 @@ categories: []
 date: 2023-01-01
 draft: false
 featured: false
-grants:
+projects:
 - anr-anr
 image:
   caption: ''
@@ -17,7 +17,7 @@ lastmod: 2022-11-17 12:15:57+01:00
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/jeremie-23-ccn
-projects: []
+
 publication: '*In preparation*'
 publication_types:
 - inproceedings

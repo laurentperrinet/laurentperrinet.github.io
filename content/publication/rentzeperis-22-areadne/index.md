@@ -20,7 +20,7 @@ categories: []
 date: 2022-06-29
 draft: false
 featured: false
-grants:
+projects:
 - anr-runbinvase
 image:
   caption: ''

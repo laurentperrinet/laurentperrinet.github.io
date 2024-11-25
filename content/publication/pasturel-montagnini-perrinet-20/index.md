@@ -34,7 +34,7 @@ authors:
 date: 2020-01-26
 doi: 10.1371/journal.pcbi.1007438
 featured: true
-grants:
+projects:
 - pace-itn
 links:
 - name: Press
@@ -47,7 +47,7 @@ links:
   url: https://hal.science/hal-02394142
 - name: bioRxiv
   url: https://www.biorxiv.org/content/10.1101/784116
-projects: []
+
 publication: '*PLoS Computational Biology*'
 publication_types:
 - article-journal

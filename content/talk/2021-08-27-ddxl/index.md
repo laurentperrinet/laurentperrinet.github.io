@@ -29,7 +29,7 @@ lastmod: 2021-07-12 15:52:49+02:00
 links:
 - name: Venue
   url: https://dynamicsdays2021.univ-cotedazur.fr/minisymposia2021/The_dynamics_of_vision/
-projects: []
+
 publication: '*DynamicsDays - XL*'
 publication_types:
 - inproceedings

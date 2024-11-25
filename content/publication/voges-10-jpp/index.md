@@ -20,12 +20,12 @@ authors:
 date: 2010-11-10
 doi: 10.1016/j.jphysparis.2009.11.004
 featured: false
-grants:
+projects:
 - facets
 links:
 - name: URL
   url: http://dx.doi.org/10.1016/j.jphysparis.2009.11.004
-projects: []
+
 publication: '*Journal of Physiology-Paris*'
 publication_types:
 - article-journal

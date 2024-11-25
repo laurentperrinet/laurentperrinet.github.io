@@ -24,10 +24,10 @@ authors:
 - Guillaume S Masson
 date: 2013-01-01
 featured: false
-grants:
+projects:
 - brain-scales
 - codde
-projects: []
+
 publication: '*VSS Conference Abstract*'
 publication_types:
 - inproceedings

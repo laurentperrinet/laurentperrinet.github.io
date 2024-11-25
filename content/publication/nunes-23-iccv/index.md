@@ -20,7 +20,7 @@ categories: []
 date: 2023-10-06
 draft: false
 featured: false
-grants:
+projects:
 - anr-anr
 image:
   caption: ''
@@ -36,7 +36,7 @@ links:
   url: https://github.com/neuromorphic-paris/ETTCM
 - name: URL
   url: https://laurentperrinet.github.io/publication/nunes-23-iccv/
-projects: []
+
 publication: '*International Conference on Computer Vision 2023 (ICCV2023)*'
 publication_types:
 - inproceedings

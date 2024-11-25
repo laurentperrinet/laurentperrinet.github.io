@@ -11,7 +11,7 @@ image:
   placement: 2
   preview_only: false
 lastmod: 2020-03-04 09:00:00
-projects: []
+
 subtitle: Victor Boutin (Equipe NeOpTo) a soutenu sa thèse de doctorat le Vendredi
   13 mars à 14h
 summary: 'Victor Boutin (Equipe NeOpTo) a soutenu sa thèse de doctorat intitulée:

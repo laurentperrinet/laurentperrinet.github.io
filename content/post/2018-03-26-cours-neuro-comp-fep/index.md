@@ -4,7 +4,7 @@ authors:
 date: 2018-03-26 00:00:00
 draft: false
 lastmod: 2018-03-26 00:00:00
-projects: []
+
 subtitle: 'PhD Program: course in Computational Neuroscience.'
 summary: 'PhD Program: course in Computational Neuroscience.'
 tags:

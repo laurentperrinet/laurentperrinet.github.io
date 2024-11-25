@@ -24,12 +24,12 @@ authors:
 date: 2012-01-01
 doi: 10.1167/12.9.1014
 featured: false
-grants:
+projects:
 - codde
 links:
 - name: URL
   url: http://www.journalofvision.org/content/12/9/1014.abstract?sid=9c51ff88-5b9a-4d1b-aaf1-a1219bd02b0a
-projects: []
+
 publication: '*VSS Conference Abstract*'
 publication_types:
 - inproceedings

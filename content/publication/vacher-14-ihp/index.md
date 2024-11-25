@@ -8,9 +8,9 @@ authors:
 - Gabriel Peyré
 date: 2014-01-01
 featured: false
-grants:
+projects:
 - motion-clouds
-projects: []
+
 publication: '*IHP workshop*'
 publication_types:
 - inproceedings

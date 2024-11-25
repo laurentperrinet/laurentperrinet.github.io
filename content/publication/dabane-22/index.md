@@ -22,7 +22,7 @@ date: 2022-01-01
 doi: 10.36227/techrxiv.16550391
 draft: false
 featured: false
-grants:
+projects:
 - anr-anr
 image:
   caption: ''
@@ -32,7 +32,7 @@ lastmod: 2022-05-11 12:51:44+02:00
 links:
 - name: URL
   url: https://www.techrxiv.org/articles/preprint/What_You_See_Is_What_You_Transform_Foveated_Spatial_Transformers_as_a_bio-inspired_attention_mechanism/16550391/1
-projects: []
+
 publication: '*IJCNN 2022 : International Joint Conference on Neural Networks*'
 publication_types:
 - inproceedings

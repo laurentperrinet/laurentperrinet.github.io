@@ -32,12 +32,12 @@ authors:
 date: 2011-04-22
 doi: 10.1016/j.visres.2010.10.021
 featured: false
-grants:
+projects:
 - codde
 links:
 - name: URL
   url: http://dx.doi.org/10.1016/j.visres.2010.10.021
-projects: []
+
 publication: '*Vision research*'
 publication_types:
 - article-journal

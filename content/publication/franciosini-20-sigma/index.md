@@ -57,14 +57,14 @@ authors:
 - Laurent U Perrinet
 date: 2020-03-30
 featured: false
-grants:
+projects:
 - doc-2-amu
 - phd-icn
 - mesocentre
 links:
 - name: URL
   url: https://conferences.cirm-math.fr/2152.html
-projects: []
+
 publication: '*SIGMA''2020 (Signal, Image, Geometry, Modelling, Approximation)*'
 publication_types:
 - inproceedings

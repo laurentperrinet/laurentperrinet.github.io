@@ -6,7 +6,7 @@ date: 2013-11-26
 event: 'Demo 1-3: Apparent Motion in V1/ MT/MST: Neural Implementation of Probabilistic
   Approaches'
 featured: false
-grants:
+projects:
 - brain-scales
 links:
 - name: URL

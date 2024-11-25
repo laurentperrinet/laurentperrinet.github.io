@@ -20,7 +20,7 @@ categories: []
 date: 2024-06-27
 draft: false
 featured: false
-grants:
+projects:
 - polychronies
 image:
   caption: ''
@@ -32,7 +32,7 @@ links:
   url: https://github.com/laurentperrinet/2024-06-26_Perrinet24FENS
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-24-fens/
-projects: []
+
 publication: '*FENS Forum 2024*'
 publication_types:
 - inproceedings

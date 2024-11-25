@@ -37,12 +37,12 @@ authors:
 - Guillaume S Masson
 date: 2008-06-01
 featured: false
-grants:
+projects:
 - facets
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2008-06-01-ulm/
-projects: []
+
 publication: ''
 title: Decoding the population dynamics underlying ocular following response using
   a probabilistic framework

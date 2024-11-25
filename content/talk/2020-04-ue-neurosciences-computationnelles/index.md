@@ -16,7 +16,7 @@ authors:
 date: 2020-04-03 16:00:00
 event: Master Neurosciences et Sciences Cognitives
 featured: false
-grants:
+projects:
 - anr-horizontal-v1
 links:
 - name: Slides

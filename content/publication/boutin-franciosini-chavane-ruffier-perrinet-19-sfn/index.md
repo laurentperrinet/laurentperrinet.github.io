@@ -7,14 +7,14 @@ authors:
 - Laurent U Perrinet
 date: 2019-01-01
 featured: false
-grants:
+projects:
 - doc-2-amu
 - phd-icn
 - mesocentre
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19-sfn/
-projects: []
+
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - inproceedings

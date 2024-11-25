@@ -17,7 +17,7 @@ date: 2016-04-28 18:30:00
 event: Cycle de conférences \"Tous connectés\", Bibliothèque de Méjanes
 event_url: ''
 featured: false
-grants:
+projects:
 - tout-public
 links:
 - name: URL

@@ -21,7 +21,7 @@ authors:
 - Guillaume S Masson
 date: 2007-01-01
 featured: false
-grants:
+projects:
 - facets-itn
 links:
 - name: URL

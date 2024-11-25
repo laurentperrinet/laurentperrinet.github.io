@@ -6,7 +6,7 @@ authors:
 - Gabriel Peyré
 date: 2015-01-01
 featured: false
-grants:
+projects:
 - anr-speed
 links:
 - name: Pdf
@@ -15,7 +15,7 @@ links:
   url: http://papers.nips.cc/paper/5769-biologically-inspired-dynamic-textures-for-probing-motion-perception.pdf
 - name: arXiv
   url: https://arxiv.org/abs/1511.02705
-projects: []
+
 publication: '*Advances in Neural Information Processing Systems*'
 publication_types:
 - article-journal

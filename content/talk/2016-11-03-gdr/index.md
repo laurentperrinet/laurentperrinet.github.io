@@ -31,13 +31,13 @@ authors:
 date: 2016-11-03
 event: GDR Vision, Toulouse, Nov 3rd, 2016
 featured: false
-grants:
+projects:
 - anr-rem
 - pace-itn
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2016-11-03-gdr/
-projects: []
+
 publication: '*GDR Vision, Toulouse, Nov 3rd, 2016*'
 title: Reinforcement contingencies modulate anticipatory smooth eye movements
 ---

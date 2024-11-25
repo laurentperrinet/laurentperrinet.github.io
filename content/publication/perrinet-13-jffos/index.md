@@ -22,12 +22,12 @@ authors:
 - Karl Friston
 date: 2013-01-01
 featured: false
-grants:
+projects:
 - codde
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-13-jffos
-projects: []
+
 publication: '*The 7th Japanese-French Frontiers of Science Symposium*'
 publication_types:
 - inproceedings

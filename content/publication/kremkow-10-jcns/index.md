@@ -22,12 +22,12 @@ authors:
 date: 2010-06-01
 doi: 10.1007/s10827-010-0240-9
 featured: false
-grants:
+projects:
 - facets
 links:
 - name: URL
   url: http://www.ncbi.nlm.nih.gov/pubmed/20490645
-projects: []
+
 publication: '*Journal of Computational Neuroscience*'
 publication_types:
 - article-journal

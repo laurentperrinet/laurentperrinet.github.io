@@ -22,12 +22,12 @@ authors:
 - Karl Friston
 date: 2013-01-01
 featured: false
-grants:
+projects:
 - codde
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-13-cns
-projects: []
+
 publication: '*Annual Computational Neuroscience Meeting: CNS 2013, Paris*'
 publication_types:
 - inproceedings

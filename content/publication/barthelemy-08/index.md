@@ -30,12 +30,12 @@ authors:
 date: 2008-02-01
 doi: 10.1016/j.visres.2007.10.020
 featured: false
-grants:
+projects:
 - facets
 links:
 - name: URL
   url: http://dx.doi.org/10.1016/j.visres.2007.10.020
-projects: []
+
 publication: '*Vision research*'
 publication_types:
 - article-journal

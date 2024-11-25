@@ -7,7 +7,7 @@ authors:
 date: 2018-10-01
 doi: 10.1167/18.11.14
 featured: false
-grants:
+projects:
 - anr-rem
 - pace-itn
 links:
@@ -15,7 +15,7 @@ links:
   url: https://jov.arvojournals.org/article.aspx?articleid=2707670
 - name: HAL
   url: https://hal.science/hal-01901640v1
-projects: []
+
 publication: '*Journal of Vision*'
 publication_types:
 - article-journal

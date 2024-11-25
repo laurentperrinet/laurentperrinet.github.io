@@ -30,9 +30,9 @@ authors:
 code: https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars
 date: 2017-01-01
 featured: false
-grants:
+projects:
 - doc-2-amu
-projects: []
+
 publication: '*NeuroFrance 2017, International Conference from the Société des Neurosciences,
   Bordeaux, France*'
 publication_types:

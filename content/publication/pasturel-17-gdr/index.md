@@ -6,14 +6,14 @@ authors:
 - Laurent U Perrinet
 date: 2017-01-01
 featured: false
-grants:
+projects:
 - anr-rem
 links:
 - name: Pdf
   url: https://github.com/chloepasturel/AnticipatorySPEM/raw/master/2017-10-13_Poster_GDR2017/Pasturel_etal2017gdr.pdf
 - name: URL
   url: https://laurentperrinet.github.io/publication/pasturel-17-gdr
-projects: []
+
 publication: '*GDR Vision, Lille, 2017*'
 publication_types:
 - inproceedings

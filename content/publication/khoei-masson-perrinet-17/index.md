@@ -32,7 +32,7 @@ authors:
 date: 2017-01-26
 doi: 10.1371/journal.pcbi.1005068
 featured: true
-grants:
+projects:
 - facets-itn
 links:
 - name: Press
@@ -43,7 +43,7 @@ links:
   url: https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/
 - name: HAL
   url: https://hal.science/hal-01771125
-projects: []
+
 publication: '*PLoS Computational Biology*'
 publication_types:
 - article-journal

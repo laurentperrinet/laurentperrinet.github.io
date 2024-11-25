@@ -34,12 +34,12 @@ authors:
 date: 2013-11-01
 doi: 10.1016/j.jphysparis.2013.08.001
 featured: false
-grants:
+projects:
 - facets-itn
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/khoei-13-jpp/
-projects: []
+
 publication: '*Journal of Physiology-Paris*'
 publication_types:
 - article-journal

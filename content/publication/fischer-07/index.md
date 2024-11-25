@@ -7,7 +7,7 @@ authors:
 date: 2007-01-01
 doi: 10.1155/2007/90727
 featured: false
-grants:
+projects:
 - facets
 links:
 - name: URL

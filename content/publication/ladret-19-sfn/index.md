@@ -33,12 +33,12 @@ authors:
 - Christian Casanova
 date: 2019-01-01
 featured: false
-grants:
+projects:
 - anr-horizontal-v1
 links:
 - name: URL
   url: https://www.abstractsonline.com/pp8/#!/7883/presentation/65859
-projects: []
+
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - inproceedings

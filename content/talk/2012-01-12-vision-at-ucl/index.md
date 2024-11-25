@@ -21,13 +21,13 @@ authors:
 date: 2012-01-12 17:00:00
 event: Vision@UCL seminar
 featured: false
-grants:
+projects:
 - brain-scales
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/
 location: Malet Place Eng Bldg 1.03 (first floor).
-projects: []
+
 publication: '*Vision@UCL seminar - Thursday, 12th January, 5pm*'
 tags:
 - Bayesian model

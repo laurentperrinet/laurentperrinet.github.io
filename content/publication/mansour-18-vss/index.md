@@ -35,7 +35,7 @@ authors:
 date: 2018-01-01
 doi: 10.1167/18.10.345
 featured: false
-grants:
+projects:
 - anr-speed
 links:
 - name: URL

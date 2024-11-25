@@ -18,9 +18,9 @@ authors:
 - Laurent U Perrinet
 date: 2010-01-01
 featured: false
-grants:
+projects:
 - facets
-projects: []
+
 publication: '*Proceedings of NeuroComp*'
 publication_types:
 - inproceedings

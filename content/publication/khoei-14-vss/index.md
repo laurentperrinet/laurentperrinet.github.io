@@ -31,12 +31,12 @@ authors:
 date: 2014-08-22
 doi: 10.1167/14.10.471
 featured: false
-grants:
+projects:
 - facets-itn
 links:
 - name: URL
   url: http://dx.doi.org/10.1167/14.10.471
-projects: []
+
 publication: '*Journal of Vision*'
 publication_types:
 - inproceedings

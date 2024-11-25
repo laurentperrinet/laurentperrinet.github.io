@@ -22,12 +22,12 @@ authors:
 - Karl Friston
 date: 2016-01-01
 featured: false
-grants:
+projects:
 - codde
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-16-networks
-projects: []
+
 publication: '*Complex Networks: from theory to interdisciplinary applications*'
 publication_types:
 - inproceedings

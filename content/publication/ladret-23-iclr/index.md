@@ -26,7 +26,7 @@ lastmod: 2023-04-07 12:45:44+02:00
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/ladret-23-iclr/
-projects: []
+
 publication: '*ICLR 2023 SNN Workshop*'
 publication_types:
 - inproceedings

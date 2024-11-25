@@ -39,7 +39,7 @@ date: 2011-09-28 13:00:00
 event: Proceedings of SfN, 2011
 event_url: http://glotin.univ-tln.fr/ERMITES11/index.xhtml
 featured: false
-grants:
+projects:
 - brain-scales
 links:
 - name: Conference
@@ -47,7 +47,7 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2011-09-28-ermites/
 location: Porquerolles la Perle des Iles d'Or - Var (France)
-projects: []
+
 publication: '*Proceedings of SfN, 2011*'
 tags:
 - sparse coding

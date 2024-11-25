@@ -7,7 +7,7 @@ date: 2018-04-05 14:00:00
 event: Probabilities and Optimal Inference to Understand the Brain
 event_url: https://laurentperrinet.github.io/post/2018-04-05_optimal-inference-brain-workshop/
 featured: false
-grants:
+projects:
 - pace-itn
 links:
 - name: Conference
@@ -19,7 +19,7 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/
 location: INT, Marseille (France)
-projects: []
+
 publication: '*Probabilities and Optimal Inference to Understand the Brain, INT, Marseille
   (France)*'
 title: Principles and psychophysics of Active Inference in anticipating a dynamic,

@@ -21,7 +21,7 @@ authors:
 - Laurent U Perrinet
 date: 2018-01-01
 featured: false
-grants:
+projects:
 - doc-2-amu
 - phd-icn
 links:
@@ -29,7 +29,7 @@ links:
   url: https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-18-itwist/
 - name: arXiv
   url: https://arxiv.org/abs/1812.01335
-projects: []
+
 publication: '*iTwist, 2018*'
 publication_types:
 - inproceedings

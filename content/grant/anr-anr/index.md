@@ -1,15 +1,20 @@
 ---
 date: 2020-12-07 00:00:00
+
 summary: 'Robots aériens agiles bio-mimetiques pour le vol en conditions réelles'
+
 authors:
 - emmanuel-daucé
 - stéphane-viollet
 - ryad-benosman
 - laurent-u-perrinet
+
 tags:
 - grant
 - current-grant
+
 title: ANR AgileNeuRobot (2021/2025)
+
 slides: "2020-12-10_agileneurobot_anr"
 ---
 

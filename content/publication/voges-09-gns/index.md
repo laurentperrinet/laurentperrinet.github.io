@@ -31,9 +31,9 @@ authors:
 - Laurent U Perrinet
 date: 2009-01-01
 featured: false
-grants:
+projects:
 - facets
-projects: []
+
 publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'
 publication_types:
 - inproceedings

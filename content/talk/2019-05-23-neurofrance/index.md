@@ -23,7 +23,7 @@ authors:
 date: 2019-05-23 01:30:00
 event: Colloque international de la Société Française des Neurosciences 2019
 featured: false
-grants:
+projects:
 - pace-itn
 links:
 - name: Slides
@@ -35,7 +35,7 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2019-05-23-neurofrance
 location: Marseille (France)
-projects: []
+
 publication: '*Probabilities and Optimal Inference to Understand the Brain, INT, Marseille
   (France)*'
 title: Should I stay or should I go? Humans adapt to the volatility of visual motion

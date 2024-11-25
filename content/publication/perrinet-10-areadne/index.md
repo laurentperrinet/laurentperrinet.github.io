@@ -4,9 +4,9 @@ authors:
 - Guillaume S Masson
 date: 2010-01-01
 featured: false
-grants:
+projects:
 - facets
-projects: []
+
 publication: '*Proceedings of AREADNE*'
 publication_types:
 - inproceedings

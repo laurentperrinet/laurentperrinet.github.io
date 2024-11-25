@@ -39,7 +39,7 @@ date: 2012-01-24 13:00:00
 event: A seminar from the Institute for Adaptive and Neural Computation (ANC)
 event_url: http://www.anc.ed.ac.uk/events/anc-dtc-seminar-laurent-perrinet
 featured: false
-grants:
+projects:
 - brain-scales
 links:
 - name: Conference
@@ -48,7 +48,7 @@ links:
   url: https://laurentperrinet.github.io/talk/2012-01-24-edinburgh/
 location: Room IF 4.31/4.33, Institute for Adaptive and Neural Computation (ANC) at
   the University of Edinburgh
-projects: []
+
 publication: '*A  seminar from the Institute for Adaptive and Neural Computation (ANC)*'
 title: 'Edge statistics in natural images versus laboratory animal environments: implications
   for understanding lateral connectivity in V1'

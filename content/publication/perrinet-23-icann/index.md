@@ -22,7 +22,7 @@ date: 2023-09-27
 doi: 10.1007/978-3-031-44207-0_31
 draft: false
 featured: false
-grants:
+projects:
 - polychronies
 image:
   caption: ''
@@ -34,7 +34,7 @@ links:
   url: https://github.com/laurentperrinet/2023-09-27_HDSNN-ICANN
 - name: arXiv
   url: https://arxiv.org/abs/2307.11555
-projects: []
+
 publication: '*ICANN Special Session on Recent Advances in Spiking Neural Networks*'
 publication_types:
 - inproceedings

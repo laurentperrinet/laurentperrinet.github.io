@@ -4,7 +4,7 @@ authors:
 date: 2014-04-17
 draft: false
 lastmod: 2014-04-17 06:00:00
-projects: []
+
 tags:
 - events
 title: '2014-04-17: Soutenance d''habilitation à diriger des recherches (HDR)'

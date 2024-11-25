@@ -22,7 +22,7 @@ authors:
 date: 2015-01-01
 doi: 10.1038/srep11400
 featured: false
-grants:
+projects:
 - anr-bala-v1
 links:
 - name: Code
@@ -32,7 +32,7 @@ links:
 - name: HAL
   url: https://hal.science/hal-01202447
 math: true
-projects: []
+
 publication: '*Scientific Reports*'
 publication_types:
 - article-journal

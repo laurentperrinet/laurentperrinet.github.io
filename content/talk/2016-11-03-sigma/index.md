@@ -4,7 +4,7 @@ authors:
 date: 2016-11-03 13:00:00
 event: 'Workshop SIGMA''2016: Signal, Image, Geometry, Modelling, Approximation'
 featured: false
-grants:
+projects:
 - pace-itn
 links:
 - name: Slides
@@ -12,7 +12,7 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2016-11-03-sigma/
 location: CIRM
-projects: []
+
 publication: '*Workshop SIGMA''2016: Signal, Image, Geometry, Modelling, Approximation*'
 title: The flash-lag effect as a motion-based predictive shift
 ---

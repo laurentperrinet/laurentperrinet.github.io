@@ -29,7 +29,7 @@ authors:
 date: 2015-10-07
 doi: 10.1002/9783527680863
 featured: true
-grants:
+projects:
 - brain-scales
 links:
 - name: Code

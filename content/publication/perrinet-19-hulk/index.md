@@ -28,7 +28,7 @@ authors:
 date: 2019-01-01
 doi: 10.3390/vision3030047
 featured: false
-grants:
+projects:
 - anr-horizontal-v1
 - spikeai
 links:

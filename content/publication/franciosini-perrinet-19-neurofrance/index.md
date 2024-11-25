@@ -31,14 +31,14 @@ authors:
 - Laurent U Perrinet
 date: 2019-01-01
 featured: false
-grants:
+projects:
 - doc-2-amu
 - phd-icn
 - mesocentre
 links:
 - name: URL
   url: https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/790
-projects: []
+
 publication: '*NeuroFrance 2019, International Conference from the Société des Neurosciences,
   Marseille, France*'
 publication_types:

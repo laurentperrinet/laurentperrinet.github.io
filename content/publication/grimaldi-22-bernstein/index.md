@@ -27,7 +27,7 @@ categories: []
 date: 2022-09-11
 draft: false
 featured: false
-grants:
+projects:
 - aprovis3D
 - anr-anr
 - polychronies
@@ -36,7 +36,7 @@ image:
   focal_point: ''
   preview_only: false
 lastmod: 2023-07-21 13:12:04+02:00
-projects: []
+
 publication: '*Bernstein Conference 2022*'
 publication_types:
 - inproceedings

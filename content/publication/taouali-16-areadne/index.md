@@ -46,10 +46,10 @@ authors:
 date: 2016-01-01
 doi: 10.1167/15.12.484
 featured: false
-grants:
+projects:
 - anr-bala-v1
 - brain-scales
-projects: []
+
 publication: '*Proceedings of AREADNE*'
 publication_types:
 - inproceedings

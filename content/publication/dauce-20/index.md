@@ -27,7 +27,7 @@ authors:
 date: 2020-06-05
 doi: 10.1167/jov.20.8.22
 featured: false
-grants:
+projects:
 - spikeai
 - mesocentre
 - aprovis-3-d
@@ -40,7 +40,7 @@ links:
   url: https://laurentperrinet.github.io/publication/dauce-20/
 - name: bioRxiv
   url: https://www.biorxiv.org/content/10.1101/725879
-projects: []
+
 publication: '*Journal of Vision*'
 publication_types:
 - article-journal

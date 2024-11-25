@@ -4,7 +4,7 @@ authors:
 date: 2012-03-22 14:00:00
 event: Second BrainScaleS plenary Meeting - WP4
 featured: false
-grants:
+projects:
 - brain-scales
 links:
 - name: URL

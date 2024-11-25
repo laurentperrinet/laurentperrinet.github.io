@@ -6,12 +6,12 @@ authors:
 - Guillaume S Masson
 date: 2016-01-01
 featured: false
-grants:
+projects:
 - anr-rem
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/montagnini-16-ecvp
-projects: []
+
 publication: '*Proceedings of ECVP*'
 publication_types:
 - inproceedings

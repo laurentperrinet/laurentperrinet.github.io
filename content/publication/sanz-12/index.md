@@ -19,7 +19,7 @@ authors:
 date: 2012-03-14
 doi: 10.1152/jn.00737.2011
 featured: false
-grants:
+projects:
 - motion-clouds
 links:
 - name: Pdf
@@ -28,7 +28,7 @@ links:
   url: http://dx.doi.org/10.1152/jn.00737.2011
 - name: arXiv
   url: https://arxiv.org/abs/1208.6467
-projects: []
+
 publication: '*Journal of Neurophysiology*'
 publication_types:
 - article-journal

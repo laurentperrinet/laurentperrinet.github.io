@@ -21,7 +21,7 @@ categories: []
 date: 2022-06-29
 draft: false
 featured: false
-grants:
+projects:
 - aprovis3D
 image:
   caption: ''
@@ -31,7 +31,7 @@ lastmod: 2022-05-20 13:42:38+02:00
 links:
 - name: Venue
   url: https://areadne.org/
-projects: []
+
 publication: '*Proceedings of AREADNE*'
 publication_types:
 - inproceedings

@@ -10,10 +10,10 @@ authors:
 - Laurent U Perrinet
 date: 2017-01-01
 featured: false
-grants:
+projects:
 - doc-2-amu
 - phd-icn
-projects: []
+
 publication: '*Doc2AMU Doctoral Day - 2017-10-13*'
 publication_types:
 - inproceedings

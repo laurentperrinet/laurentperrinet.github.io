@@ -6,12 +6,12 @@ authors:
 - Anna Montagnini
 date: 2016-01-01
 featured: false
-grants:
+projects:
 - pace-itn
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/mansour-16-ecvp
-projects: []
+
 publication: '*Proceedings of ECVP*'
 publication_types:
 - inproceedings

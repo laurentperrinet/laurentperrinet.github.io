@@ -4,10 +4,10 @@ authors:
 - Laurent U Perrinet
 date: 2014-01-01
 featured: false
-grants:
+projects:
 - anr-bala-v1
 - brain-scales
-projects: []
+
 publication: '*Proceedings of AREADNE*'
 publication_types:
 - inproceedings

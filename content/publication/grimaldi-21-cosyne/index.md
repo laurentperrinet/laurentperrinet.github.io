@@ -26,7 +26,7 @@ authors:
 date: 2021-02-26
 draft: false
 featured: false
-grants:
+projects:
 - aprovis3D
 image:
   caption: ''
@@ -38,7 +38,7 @@ links:
   url: https://www.researchgate.net/profile/Antoine-Grimaldi-2/publication/349715111_A_robust_bio-inspired_approach_to_event-driven_object_recognition/links/603e41d84585154e8c6e6a7c/A-robust-bio-inspired-approach-to-event-driven-object-recognition.pdf
 - name: URL
   url: https://laurentperrinet.github.io/publication/grimaldi-21-cosyne/
-projects: []
+
 publication: '*Computational and Systems Neuroscience (Cosyne) 2021*'
 publication_types:
 - inproceedings

@@ -7,7 +7,7 @@ date: 2023-09-11
 doi: 10.1007/s00422-023-00975-8
 draft: false
 featured: false
-grants:
+projects:
 - aprovis3D
 - anr-anr
 - polychronies
@@ -19,7 +19,7 @@ lastmod: 2022-11-17 12:15:57+01:00
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/grimaldi-23-bc/
-projects: []
+
 publication: '*Biological Cybernetics*'
 publication_types:
 - article-journal

@@ -20,12 +20,12 @@ authors:
 date: 2012-01-01
 doi: 10.1038/nn.3229
 featured: true
-grants:
+projects:
 - codde
 links:
 - name: URL
   url: http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.3229.html
-projects: []
+
 publication: '*Nature Neuroscience*'
 publication_types:
 - article-journal

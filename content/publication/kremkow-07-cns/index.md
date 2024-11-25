@@ -8,12 +8,12 @@ authors:
 date: 2007-07-06
 doi: 10.1186/1471-2202-8-S2-P180
 featured: false
-grants:
+projects:
 - facets
 links:
 - name: URL
   url: http://dx.doi.org/10.1186/1471-2202-8-S2-P180
-projects: []
+
 publication: '*Annual Computational Neuroscience Meeting: BMC Neuroscience*'
 publication_types:
 - inproceedings

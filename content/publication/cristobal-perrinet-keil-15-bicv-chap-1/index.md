@@ -16,7 +16,7 @@ authors:
 date: 2015-11-01
 doi: 10.1002/9783527680863.ch1
 featured: false
-grants:
+projects:
 - brain-scales
 links:
 - name: URL

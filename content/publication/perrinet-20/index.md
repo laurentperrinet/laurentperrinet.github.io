@@ -29,7 +29,7 @@ authors:
 date: 2020-01-01
 doi: 10.5040/9781350099784.ch-005
 featured: false
-grants:
+projects:
 - anr-horizontal-v1
 - spikeai
 links:
@@ -37,7 +37,7 @@ links:
   url: https://github.com/laurentperrinet/Perrinet20PredictiveProcessing_manubot
 - name: URL
   url: https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/latest/index.html
-projects: []
+
 publication: '*The Philosophy and Science of Predictive Processing*'
 publication_types:
 - inbook

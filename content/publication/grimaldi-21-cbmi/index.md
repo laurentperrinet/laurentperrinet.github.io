@@ -25,7 +25,7 @@ date: 2021-06-24
 doi: 10.1109/CBMI50038.2021.9461901
 draft: false
 featured: false
-grants:
+projects:
 - aprovis3D
 image:
   caption: ''
@@ -37,7 +37,7 @@ links:
   url: https://laurentperrinet.github.io/publication/grimaldi-21-cbmi/
 - name: HAL
   url: https://hal.science/hal-03336554
-projects: []
+
 publication: '*Content-Based Multimedia Indexing (CBMI) 2021*'
 publication_types:
 - inproceedings

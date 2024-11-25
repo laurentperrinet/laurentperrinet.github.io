@@ -40,9 +40,9 @@ authors:
 - Ad M Aertsen
 date: 2008-01-01
 featured: false
-grants:
+projects:
 - facets
-projects: []
+
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - inproceedings

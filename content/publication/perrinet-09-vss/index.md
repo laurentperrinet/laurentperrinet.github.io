@@ -27,9 +27,9 @@ authors:
 - Guillaume S Masson
 date: 2009-01-01
 featured: false
-grants:
+projects:
 - facets
-projects: []
+
 publication: '*Vision Science Society*'
 publication_types:
 - inproceedings

@@ -6,7 +6,7 @@ date: 2022-05-19 09:00:00
 event: second CENTURI Scientific Day
 event_url: https://centuri-livingsystems.org/events/centuri-scientific-day-3/
 featured: false
-grants:
+projects:
 - aprovis3D
 image:
   alt_text: AG ready for the talk.

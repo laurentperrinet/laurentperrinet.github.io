@@ -7,7 +7,7 @@ date: 2022-06-19 09:00:00
 draft: false
 event: NeuroVision Workshop in conjunction with CVPR 2022
 featured: false
-grants:
+projects:
 - aprovis3D
 image:
   caption: ''
@@ -18,7 +18,7 @@ links:
 - name: URL
   url: https://sites.google.com/uci.edu/neurovision2022/schedule
 location: New Orleans (virtual)
-projects: []
+
 publication: '*NeuroVision Workshop in conjunction with CVPR 2022*'
 publication_types:
 - inproceedings

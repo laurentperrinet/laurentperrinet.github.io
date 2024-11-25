@@ -27,7 +27,7 @@ authors:
 date: 2019-07-15 12:20:00
 event: 'Annual Computational Neuroscience Meeting: CNS*2019 Barcelona, Spain'
 featured: false
-grants:
+projects:
 - spikeai
 links:
 - name: Slides
@@ -38,7 +38,7 @@ links:
   url: https://github.com/SpikeAI/2019-07-15_CNS/
 - name: URL
   url: https://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-019-0538-0#Sec73
-projects: []
+
 publication: '*CNS*2019 Barcelona, Spain*'
 publication_types:
 - inproceedings

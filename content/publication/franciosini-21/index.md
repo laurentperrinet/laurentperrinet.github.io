@@ -23,7 +23,7 @@ authors:
 date: 2022-07-18
 doi: 10.1371/journal.pcbi.1010270
 featured: true
-grants:
+projects:
 - anr-horizontal-v1
 - doc-2-amu
 - phd-icn
@@ -33,7 +33,7 @@ links:
   url: https://laurentperrinet.github.io/publication/franciosini-21
 - name: bioRxiv
   url: https://www.biorxiv.org/content/10.1101/2021.04.19.440444
-projects: []
+
 publication: '*PLoS Computational Biology*'
 publication_types:
 - article-journal

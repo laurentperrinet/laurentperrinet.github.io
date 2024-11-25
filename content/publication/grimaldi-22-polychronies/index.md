@@ -26,7 +26,7 @@ date: 2022-12-23
 doi: 10.3390/brainsci13010068
 draft: false
 featured: true
-grants:
+projects:
 - aprovis3D
 - anr-anr
 - polychronies

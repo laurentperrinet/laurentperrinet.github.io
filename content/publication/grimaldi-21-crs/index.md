@@ -28,7 +28,7 @@ categories: []
 date: 2021-10-14
 draft: false
 featured: false
-grants:
+projects:
 - aprovis3D
 - anr-anr
 image:
@@ -39,7 +39,7 @@ lastmod: 2021-10-12 12:44:34+02:00
 links:
 - name: Venue
   url: https://symposium.fchampalimaud.science
-projects: []
+
 publication: '*Champalimaud Research Symposium (CRS21)*'
 publication_types:
 - inproceedings

@@ -11,7 +11,7 @@ image:
   placement: 2
   preview_only: false
 lastmod: 2024-05-03 09:00:00
-projects: []
+
 tags:
 - events
 - emergences

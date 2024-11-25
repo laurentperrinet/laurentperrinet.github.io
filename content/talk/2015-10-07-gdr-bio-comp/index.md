@@ -14,7 +14,7 @@ date: 2015-10-07 13:00:00
 event: First GDR BioComp workshop
 event_url: http://gdr-biocomp.fr/colloque/
 featured: false
-grants:
+projects:
 - brain-scales
 image: {}
 links:
@@ -23,7 +23,7 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2015-10-07-gdr-bio-comp/
 location: Saint-Paul de Vence
-projects: []
+
 publication: '*First GDR BioComp workshop, Saint-Paul de Vence, October 7th, 2015*'
 title: Motion-based prediction with neuromorphic hardware
 url_slides: https://laurentperrinet.github.io/sciblog/files/2015-10-07_Perrinet15biocomp_slides.pdf

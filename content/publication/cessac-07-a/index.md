@@ -7,7 +7,7 @@ authors:
 date: 2007-03-01
 doi: 10.1140/epjst/e2007-00057-3
 featured: false
-grants:
+projects:
 - facets
 links:
 - name: URL

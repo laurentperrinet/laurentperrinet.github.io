@@ -29,7 +29,7 @@ authors:
 - Laurent U Perrinet
 date: 2019-03-03
 featured: false
-grants:
+projects:
 - doc-2-amu
 - phd-icn
 - mesocentre
@@ -38,7 +38,7 @@ links:
   url: https://conferences.cirm-math.fr/2152.html
 - name: arXiv
   url: https://arxiv.org/abs/1902.07651
-projects: []
+
 publication: '*SIGMA''2020 (Signal, Image, Geometry, Modelling, Approximation)*'
 publication_types:
 - inproceedings
