@@ -39,7 +39,7 @@ content:
   coordinates:
     latitude: '43.2869'
     longitude: '5.4035'
-  directions: Enter INT Building 1 and take the stairs to Floor 2
+  directions: When you reached the INT building, take the stairs to second floor, then enter the open-space on the left and follow it to the end of the room, my office is on the right-hand side.
   office_hours: []
   appointment_url: ''
   contact_links:
