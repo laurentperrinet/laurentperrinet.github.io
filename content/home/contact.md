@@ -47,6 +47,10 @@ content:
       icon_pack: ai
       name: OrcID
       link: http://orcid.org/0000-0002-9536-010X
+    - icon: mastodon
+      icon_pack: fab
+      name: mastodon
+      link: https://neuromatch.social/@laurentperrinet
     - icon: linkedin
       icon_pack: fab
       name: LinkedIn
@@ -91,10 +95,10 @@ content:
       icon_pack: ai
       name: stackoverflow
       link: https://stackoverflow.com/users/234547/meduz
-    - icon: mastodon
+    - icon: lastfm
       icon_pack: fab
-      name: mastodon
-      link: https://neuromatch.social/@laurentperrinet
+      name: LastFM
+      link: https://www.last.fm/fr/user/meduz
 
 design:
   columns: '2'
