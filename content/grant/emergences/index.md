@@ -13,7 +13,6 @@ links:
   url: https://emergences.lirmm.fr/
   
 tags:
-- polychronies
 - grant
 - current-grant
 
