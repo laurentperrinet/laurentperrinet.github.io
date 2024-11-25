@@ -8,6 +8,8 @@ summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
 
+* "Ah ! Si j’avais conçu plus tôt que les mots sont comme clés de glotte, et que par eux, se défond les obscurités du secret !" Jean-François Beauchemin, in *Le jour des corneilles*
+
 * "Ce sont les prétentions excessives et non les besoins nécessaires qui portent à commettre les injustices les plus graves" Aristote
 
 * "Aucun penseur n'oserait dire que le parfum des aubépines est inutile aux constellations…" Victor Hugo (Les Misérables)
