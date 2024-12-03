@@ -23,9 +23,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/hugoladret/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/hugoladret
 - icon: external-link-alt
   icon_pack: fas
   link: https://hugoladret.github.io

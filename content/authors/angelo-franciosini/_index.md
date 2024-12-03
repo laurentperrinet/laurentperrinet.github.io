@@ -16,9 +16,6 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Angelo_Franciosini
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/Angelo_RDN
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/__r__d__n__/

@@ -20,9 +20,6 @@ social:
 - icon: external-link-alt
   icon_pack: fas
   link: http://jens.kremkow.de
-- icon: twitter
-  icon_pack: fab
-  link: http://twitter.com/KremkowL
 superuser: false
 user_groups:
 - Former Students

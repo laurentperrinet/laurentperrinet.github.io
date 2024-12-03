@@ -83,10 +83,6 @@ content:
       icon_pack: fab
       name: GitHub
       link: https://github.com/laurentperrinet
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: https://twitter.com/laurentperrinet
     - icon: instagram
       icon_pack: fab
       name: instagram

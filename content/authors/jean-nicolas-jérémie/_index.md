@@ -18,9 +18,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/JNJER/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/JnJerem
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jeremie-jean-nicolas-91306a1a1/
