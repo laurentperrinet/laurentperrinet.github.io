@@ -14,7 +14,6 @@ tags:
 - art-science
 image:
   caption: "Etienne Rey, Affiche pour l'exposition *La vibration des apparences*."
-
 ---
 
 **À l'occasion de la Biennale d’Aix-en-Provence, dans le cadre de CHRONIQUES – Biennale des Imaginaires Numériques, l'association Arts Vivants présente au musée Granet, du 8 novembre 2024 au 19 janvier 2025, une exposition consacrée à l'artiste contemporain Étienne Rey et intitulée *La vibration des apparences.***
