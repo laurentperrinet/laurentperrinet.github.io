@@ -30,11 +30,9 @@ Depuis 2011, Etienne Rey collabore avec le Dr. Laurent Perrinet de l'Institut de
 
 ## La vibration des apparences
 
-La Vibration des Apparences, fait écho au texte "Le Doute de Cézanne" de Merleau-Ponty, qui explore comment, dans la vie quotidienne, nous tendons à ignorer les apparences transitoires pour accéder directement aux objets eux-mêmes. À l'opposé, le peintre se focalise sur cette dynamique de mutation des apparences. Merleau-Ponty écrit au sujet de Cézanne : « Le peintre reprend et convertit justement en objet visible ce qui sans lui reste enfermé dans la vie séparée de chaque conscience : la vibration des apparences qui est le berceau des choses. » 
+Le titre de l'exposition fait écho au texte "Le Doute de Cézanne" de Merleau-Ponty, qui explore comment, dans la vie quotidienne, nous tendons à ignorer les apparences transitoires pour accéder directement aux objets eux-mêmes. À l'opposé, le peintre se focalise sur cette dynamique de mutation des apparences. Merleau-Ponty écrit au sujet de Cézanne : « Le peintre reprend et convertit justement en objet visible ce qui sans lui reste enfermé dans la vie séparée de chaque conscience : la vibration des apparences qui est le berceau des choses. » 
 
 L'exposition s'inscrit dans le prolongement de cette pensée, illustrant la vibration des apparences au travers du concept d'Interférence. Ce phénomène physique, où deux ondes de même nature en superposition se renforcent ou s'annulent, inspire Etienne Rey à établir un parallèle visuel. Il reprend, décale, transpose des motifs desquels émergent des « interférences optiques », des « ondes chromatiques ». 
-
-
 
 {{< figure src="variations.jpg" title="Etienne Rey, *Variations* © ADAGP, Paris 2024. Image credit: Etienne Rey" >}}
 
@@ -67,6 +65,7 @@ https://www.unidivers.fr/event/la-vibration-des-apparences-aix-en-provence-bouch
 * https://www.fest.fr/la-vibration-des-apparences-1936454.html
 * https://www.frequence-sud.fr/art-101092-la_vibration_des_apparences_aix_en_provence
 * https://www.museegranet-aixenprovence.fr/expositions/la-vibration-des-apparences-etienne-rey
+* https://www.aixenprovence.fr/La-vibration-des-apparences-conference-et-rencontre-avec-Etienne-Rey
 
 {{< figure src="2024-11-14_provence-une.jpeg" title="Une de *La Provence* du 14 novembre 2024." >}}
 {{< figure src="2024-11-14_provence.jpeg" title="Page de *La Provence* du 14 novembre 2024." >}}
