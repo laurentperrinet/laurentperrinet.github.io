@@ -3,7 +3,11 @@ authors:
 - hilde-teigen
 bio: During my PhD, I am focusing on Ultra-fast vision using Spiking Neural Networks.
 title: Hilde Langengen-Teigen
-role: Phd candidate in Neuroscience  
+role: Phd candidate in Neuroscience
+social:
+- icon: house-user
+  icon_pack: fas
+  link: https://centuri-livingsystems.org/h-l-teigen/
 superuser: false
 user_groups:
 - Current Students
