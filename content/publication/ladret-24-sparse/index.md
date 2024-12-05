@@ -62,9 +62,9 @@ url_video: ''
 
 ![Artboard](2024_ladret.gif)
 * 5 minutes summary: https://hugoladret.github.io/publications/ladret_et_al_sparsecoding/
-{{< tweet user="laurentperrinet" id="1826586440773275942" >}}
+<!-- {{< tweet user="laurentperrinet" id="1826586440773275942" >}} -->
 * In a nutshell: We found that sparse coding of images (here extended in a convolutional framework) is improved when using kernels with heterogeneous precision in how they encode orientation information. This was confirmed by learning, but also by comparison with what is observed in the statistics of natural images and in our recordings from neurons in primary visual cortex.
 {{< figure src="https://laurentperrinet.github.io/publication/ladret-23-iclr/fig_dicos.png" title="Epistemic uncertainty in a CSC dictionary improves both sparseness and reconstruction performance. **(a)** Elements from dictionaries with fixed epistemic uncertainty before (green) and after dictionary learning (orange). **(b)** Elements from a dictionary with heterogeneous epistemic uncertainty before (blue) and after dictionary learning (purple). **(c)** Elements from a dictionary learned from scratch. **(d)** Distribution of the sparseness (top) and Peak Signal-to-Noise Ratio (PSNR, right) of the five dictionaries, shown as a scatter plot for each of the 600 images of the dataset (center). Median values are shown as dashed line on the histograms." numbered="true" >}}
 * open access: https://iopscience.iop.org/article/10.1088/2634-4386/ad5d0f
-* This work is a followup of {{< cite page="/publication/ladret-23-iclr" view="citation" >}}
-* This theoretical work accompanies a similar study in neurophysiology: {{< cite page="/publication/ladret-23" view="citation" >}}
+* This work is a followup of {{< cite page="/publication/ladret-23-iclr" view="4" >}}
+* This theoretical work accompanies a similar study in neurophysiology: {{< cite page="/publication/ladret-23" view="4" >}}

@@ -52,9 +52,9 @@ tags:
 title: A robust bio-inspired approach to event-driven object recognition
 ---
 
-{{< tweet user="laurentperrinet" id="1364962423120265218" >}}
+<!-- {{< tweet user="laurentperrinet" id="1364962423120265218" >}} -->
 {{< figure src="poster.png" width="100%" >}}
 * see the poster online on the [Hopin platform](https://app.hopin.com/events/cosyne-2021/expo/377631)
-* see a follow-up in: {{< cite page="/publication/grimaldi-21-cbmi" view="citation" >}}
-* read also the follow-up paper : {{< cite page="/publication/grimaldi-23" view="citation" >}}
+* see a follow-up in: {{< cite page="/publication/grimaldi-21-cbmi" view="4" >}}
+* read also the follow-up paper : {{< cite page="/publication/grimaldi-23" view="4" >}}
 * Antoine Grimaldi and Laurent Perrinet received funding from the European Union ERA-NET CHIST-ERA 2018 research and innovation program under grant agreement No ANR-19-CHR3-0008-03.

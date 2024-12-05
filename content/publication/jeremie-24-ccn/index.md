@@ -35,4 +35,4 @@ tags:
 title: Retinotopy in CNN's implements Efficient Visual Search
 ---
 
-* for a follow-up, check out {{< cite page="/publication/jeremie-24" view="citation" >}}
+* for a follow-up, check out {{< cite page="/publication/jeremie-24" view="4" >}}

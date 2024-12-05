@@ -33,4 +33,4 @@ tags:
 title: Advances in Texture Analysis for Emphysema Classification
 ---
 
-* relies on log-Gabor filters: {{< cite page="/publication/fischer-07-cv" view="citation" >}}
+* relies on log-Gabor filters: {{< cite page="/publication/fischer-07-cv" view="4" >}}

@@ -31,7 +31,7 @@ The starting date is set to October 1st, 2020 and the appointment is for 36 mont
 
 Thanks for distributing this announcement to potential candidates!
 
-{{< tweet user="laurentperrinet" id="1277872035700539392" >}}
+<!-- {{< tweet user="laurentperrinet" id="1277872035700539392" >}} -->
 
 
 ## Detailed description: "Ultra-fast vision using Spiking Neural Networks"

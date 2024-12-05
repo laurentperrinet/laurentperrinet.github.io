@@ -31,8 +31,8 @@ Most studies on the dynamics of recurrent cortical networks are either based on 
 
 ## Main publications:
 
-* {{< cite page="/publication/voges-10-jpp" view="citation" >}}
-* {{< cite page="/publication/voges-12" view="citation" >}}
+* {{< cite page="/publication/voges-10-jpp" view="4" >}}
+* {{< cite page="/publication/voges-12" view="4" >}}
 
 ## Context
 The goal of the FACETS (Fast Analog Computing with Emergent Transient States) project was to create a theoretical and experimental foundation for the realisation of novel computing paradigms which exploit the concepts experimentally observed in biological nervous systems. The continuous interaction and scientific exchange between biological experiments, computer modelling and hardware emulations within the project provides a unique research infrastructure that will in turn provide an improved insight into the computing principles of the brain. This insight may potentially contribute to an improved understanding of mental disorders in the human brain and help to develop remedies.

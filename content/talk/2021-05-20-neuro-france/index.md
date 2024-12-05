@@ -40,6 +40,6 @@ title: Dynamical processing of orientation precision in the primary visual corte
 ---
 
  * As presented during the [NeuroFrance 2021](https://www.neurosciences.asso.fr/SN21/) meeting
- {{< tweet user="laurentperrinet" id="1395351843035828224" >}}
+ <!-- {{< tweet user="laurentperrinet" id="1395351843035828224" >}} -->
  * get the [abstract book](https://www.professionalabstracts.com/nf2021/programme-nf2021.pdf)
- * In this talk, we will present the following paper : {{< cite page="/publication/ladret-21" view="citation" >}}
+ * In this talk, we will present the following paper : {{< cite page="/publication/ladret-21" view="4" >}}
