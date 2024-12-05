@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: blue
 
 # SEO
 marketing:
@@ -29,12 +29,8 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: "navbar"
-    fixed_to_top: true
     show_search: true
     show_theme_chooser: true
-    logo:
-      text: "Laurent Perrinet"
 
 # Site footer
 footer:
@@ -57,3 +53,7 @@ features:
     enable: false
   privacy_pack:
     enable: false
+  repository:
+    url: 'https://github.com/laurentperrinet/laurentperrinet.github.io'
+    content_dir: content
+    branch: main
