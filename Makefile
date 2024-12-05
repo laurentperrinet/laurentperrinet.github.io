@@ -35,7 +35,7 @@ academic:
 	sh update_hugoblox.sh
 
 test:
-	hugo server -d /tmp/public
+	hugo server  --disableFastRender  --renderToMemory
 clean:
 	# rm -fr  $(TMPDIR)/hugo_cache
 	hugo mod clean --all
