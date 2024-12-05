@@ -4,35 +4,44 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+
 appearance:
-  mode: system
-  color: blue
+  theme_day: minimal
+  theme_night:
+  font: native
+  font_size: L
 
 # SEO
+
 marketing:
   seo:
-    site_type: Person
+    site_type: Organization
     local_business_type: ''
     org_name: ''
     description: 'Scientific website of Laurent Udo Perrinet'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
   verification:
     google: ''
     baidu: ''
 
 # Site header
+
 header:
   navbar:
     enable: true
+    align: r
+    show_logo: true
+    show_language: false
+    show_day_night: true
     show_search: true
-    show_theme_chooser: true
+    highlight_active_link: false
 
 # Site footer
+
 footer:
   copyright:
     notice: '© {year} <a rel="me" href="https://neuromatch.social/@laurentperrinet">Laurent U Perrinet</a>. This work is licensed under {license}'
@@ -43,12 +52,19 @@ footer:
       allow_commercial: false
 
 # Localization
+
 locale:
   date_format: '2006-01-02'
   time_format: '13:04'
 
 # Site features
+
 features:
+  syntax_highlighter:
+    enable: false
+    extra_languages:
+      - r
+      - latex
   math:
     enable: false
   privacy_pack:
@@ -57,3 +73,44 @@ features:
     url: 'https://github.com/laurentperrinet/laurentperrinet.github.io'
     content_dir: content
     branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
+
+# Extensions
+
+extensions:
+  decap_cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true
+
+# Citation style
+
+publications:
+  date_format: January 2006
+  citation_style: apa
