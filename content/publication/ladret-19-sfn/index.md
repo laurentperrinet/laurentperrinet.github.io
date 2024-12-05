@@ -48,5 +48,5 @@ title: Orientation selectivity to synthetic natural patterns in a cortical-like 
   of the cat primary visual cortex
 ---
 
-<!-- {{< tweet user="laurentperrinet" id="1186513282326257665" >}} -->
+{{< tweet user="laurentperrinet" id="1186513282326257665" >}}
 * See a followup in [Ladret and Perrinet, 2020]({{< ref "/publication/ladret-20-aes" >}})
