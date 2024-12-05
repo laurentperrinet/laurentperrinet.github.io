@@ -76,8 +76,10 @@ title: Modelling Complex-cells and topological structure in the visual cortex of
 ---
 
 <!-- {{< tweet user="laurentperrinet" id="1233458739220504578" >}} -->
+
 {{< figure src="poster.jpg" width="100%" >}}
 * see the follow-up paper in: {{< cite page="/publication/franciosini-21" view="4" >}}
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}
+
 <!-- {{< tweet user="laurentperrinet" id="1384940135419101187" >}} -->
