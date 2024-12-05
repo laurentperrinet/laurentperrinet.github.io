@@ -47,7 +47,7 @@ title: Signature of an anticipatory response in area V1 as modeled by a probabil
   model and a spiking neural network
 ---
 
-* Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}
-* see  follow-up on motion extrapolation: {{< cite page="/publication/khoei-13-jpp" view="4" >}}
-* see  follow-up on the flash-lag effect: {{< cite page="/publication/khoei-masson-perrinet-17" view="4" >}}
+* Based on {{< cite page="/publication/perrinet-12-pred" view="citation" >}}
+* see  follow-up on motion extrapolation: {{< cite page="/publication/khoei-13-jpp" view="citation" >}}
+* see  follow-up on the flash-lag effect: {{< cite page="/publication/khoei-masson-perrinet-17" view="citation" >}}
 {{< figure src="https://www.frontiersin.org/files/Articles/53894/fncom-07-00112-r2/image_m/fncom-07-00112-g003.jpg" title="Figure 4: *Rasterplot of input and output spikes.* The raster plot from excitatory neurons is ordered according to their position. Each input spike is a blue dot and each output spike is a black dot. While input is scattered during blanking periods (Figure 1), the network output shows shows some tuned activity during the blank (compare with the activity before visual stimulation). To decode such patterns of activity we used a maximum-likelihood estimation technique based on the tuning curve of the neurons." >}}

@@ -45,4 +45,4 @@ tags:
 title: Edge co-occurrences are sufficient to categorize natural versus animal images
 ---
 
-* see a follow-up: {{< cite page="/publication/perrinet-bednar-15" view="4" >}}
+* see a follow-up: {{< cite page="/publication/perrinet-bednar-15" view="citation" >}}

@@ -25,5 +25,5 @@ title: Sparse Deep Predictive Coding to model visual object recognition
 ---
 
 {{< tweet user="laurentperrinet" id="1186196186170044421" >}}
-* see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
-* more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}
+* see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="citation" >}}
+* more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="citation" >}}

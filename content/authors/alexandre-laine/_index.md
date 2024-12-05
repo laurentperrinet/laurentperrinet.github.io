@@ -36,8 +36,8 @@ user_groups:
 
 ## Relevant papers
 
-{{< cite page="publication/grimaldi-22-polychronies" view="4" >}}
-{{< cite page="publication/perrinet-23-icann" view="4" >}}
+{{< cite page="publication/grimaldi-22-polychronies" view="citation" >}}
+{{< cite page="publication/perrinet-23-icann" view="citation" >}}
 
 ### Project description
 

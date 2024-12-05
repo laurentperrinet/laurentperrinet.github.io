@@ -25,4 +25,4 @@ title: Categorization of microscopy images using a biologically inspired edge co
   descriptor
 ---
 
-* See a followup in {{< cite page="/publication/perrinet-bednar-15" view="4" >}}
+* See a followup in {{< cite page="/publication/perrinet-bednar-15" view="citation" >}}

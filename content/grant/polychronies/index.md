@@ -38,7 +38,7 @@ By extending this paradigm to a hierarchy, we envision practical applications of
 
 - 2023-09-11: [Start of post-doc position](https://laurentperrinet.github.io/author/adrien-fois/)
 - 2023-05-01: [Opening of post-doc position](https://laurentperrinet.github.io/post/2023-05-01_postdoc-position_polychronies) (THE POSITION HAS BEEN FILLED!)
-- 2022-12-29: check out our review paper: {{< cite page="/publication/grimaldi-22-polychronies" view="4" >}}
+- 2022-12-29: check out our review paper: {{< cite page="/publication/grimaldi-22-polychronies" view="citation" >}}
 - 2022-11-28: [Pilot project at the INT brainhack](https://conect-int.github.io/talk/2022-11-28-conect-at-the-int-brainhack/)
 - 2022-07-18: Le projet Polychronies est [lauréat de l'appel à projets « Interdisciplinarité »](https://www.univ-amu.fr/fr/public/lancement-de-lappel-projets-interdisciplinarite-2021) !
 - 2022-02-27: read our [complete proposal](2022-02-27_AMIDEX_PerrinetCossartSchatz_Applicationform-AAP-Interdisciplinarite-2021.pdf).

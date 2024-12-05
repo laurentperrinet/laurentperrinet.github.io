@@ -52,5 +52,5 @@ title: Role of homeostasis in learning sparse representations
 ---
 
 ![header](perrinet-10-shl.png)
-* related publication : {{< cite page="/publication/perrinet-19-hulk" view="4" >}}
+* related publication : {{< cite page="/publication/perrinet-19-hulk" view="citation" >}}
 ![header](ssc.gif)
