@@ -12,9 +12,10 @@ projects:
 - tout-public
 publication: '*Cerveau et Psycho*'
 publication_types:
-- chapter
+- article
 publishDate: '2024-08-25T16:51:26.346012Z'
 title: Le mystère de la Joconde éclairé par les neurosciences
+doi: 10.3917/cerpsy.168.0030
 ---
 
 * https://www.cerveauetpsycho.fr/sd/neurobiologie/le-mystere-de-la-joconde-elucide-par-les-neurosciences-26605.php
