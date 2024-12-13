@@ -36,7 +36,7 @@ projects:
 - facets-itn
 links:
 - name: Press
-  url: http://www.cnrs.fr/insb/recherche/parutions/articles2017/l-perrinet.html
+  url: hhttps://www.insb.cnrs.fr/fr/cnrsinfo/illusions-visuelles-leur-origine-est-dans-la-prediction
 - name: Code
   url: https://github.com/laurentperrinet/Khoei_2017_PLoSCB
 - name: URL
@@ -55,7 +55,7 @@ tags:
 title: The flash-lag effect as a motion-based predictive shift
 ---
 
-* [Press release](http://www.cnrs.fr/insb/recherche/parutions/articles2017/l-perrinet.html)
+* [Press release](https://www.insb.cnrs.fr/fr/cnrsinfo/illusions-visuelles-leur-origine-est-dans-la-prediction)
 # Visual illusions: their origin lies in prediction
 {{< figure src="flash_lag.gif" title="*Flash-Lag Effect.* When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash. Still, after several decades of debates, there is no consensus regarding the underlying mechanisms." >}}
 **Researchers from the Timone Institute of Neurosciences bring a new theoretical hypothesis on a visual illusion discovered at the beginning of the 20th century. This illusion remained misunderstood while it poses fundamental questions about how our brains represent events in space and time. This study published on January 26, 2017 in the journal PLOS Computational Biology, shows that the solution lies in the predictive mechanisms intrinsic to the neural processing of information.**
