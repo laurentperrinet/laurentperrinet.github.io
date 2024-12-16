@@ -11,6 +11,7 @@ projects:
 - tout-public
 summary: "Le mystère de la Joconde éclairé par les neurosciences"
 tags:
+- art-science
 - neuroscience
 - vision
 - perception

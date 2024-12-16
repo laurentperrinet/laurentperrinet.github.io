@@ -23,7 +23,7 @@ authors:
 - Etienne Rey
 date: 2017-01-01
 featured: false
-projects:
+grants:
 - anr-rem
 - pace-itn
 links:

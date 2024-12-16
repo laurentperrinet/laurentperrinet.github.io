@@ -13,6 +13,7 @@ links:
 projects:
 - tout-public
 tags:
+- art-science
 - neuroscience
 - vision
 - perception
