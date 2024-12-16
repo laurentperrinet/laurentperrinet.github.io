@@ -54,8 +54,6 @@ L'exposition s'inscrit dans le prolongement de cette pensée, illustrant la vibr
 
 - Fermetures annuelles les 25 décembre 2024 et 1er janvier 2025
 
-https://www.unidivers.fr/event/la-vibration-des-apparences-aix-en-provence-bouches-du-rhone-2024-11-08/
-
 
 ### autres liens
 

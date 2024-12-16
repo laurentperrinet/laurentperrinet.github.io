@@ -7,6 +7,7 @@ publishDate: '2024-08-25T09:59:44.385734Z'
 draft: false
 featured: false
 projects:
+- art-science
 - tout-public
 summary: "Le mystère de la Joconde éclairé par les neurosciences"
 tags:

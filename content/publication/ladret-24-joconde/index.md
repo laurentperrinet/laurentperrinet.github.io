@@ -4,6 +4,7 @@ authors:
 - Hugo Ladret
 date: 2024-08-25
 projects:
+- art-science
 - anr-anr
 links:
 - name: URL
