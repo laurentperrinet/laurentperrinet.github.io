@@ -19,5 +19,5 @@ tags:
 - Foveated vision
 - Transfer learning
 - visual categorization
-title: Retinotopic Mapping Enhances the Robustness of Convolutional Neural Networks
+title: Foveated Retinotopy Improves Classification and Localization in CNNs
 ---

@@ -114,3 +114,15 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+# Site features
+
+features:
+  privacy_pack:
+    enable: false
+
+# Security
+
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true
