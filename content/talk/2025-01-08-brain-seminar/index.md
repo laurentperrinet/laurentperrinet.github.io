@@ -1,5 +1,5 @@
 ---
-title: How and why does retinotopy provides efficient vision
+title: How and why foveated retinotopy provides efficient vision
 authors:
 - Laurent U Perrinet
 date: '2025-01-08'
