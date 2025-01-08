@@ -234,7 +234,7 @@ Time-to-Contact maps [[Nunes *et al*, 2023]](https://laurentperrinet.github.io/p
 ## Levier #2: Vision active / *Active Vision*
 
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24-ccn/featured.png" title="[[Jérémie *et al*, 2024](https://laurentperrinet.github.io/publication/jeremie-24)]" width="100%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24-ccn/featured.png" title="[[Jérémie *et al*, 2024](https://laurentperrinet.github.io/publication/jeremie-25)]" width="100%" >}}
 
 {{< speaker_note >}}
 Pour cela, je vais d’abord l’illustrer par le travail du chercheur russe Yarbus au début du siècle dernier.  Lorsqu’on présente une scène visuelle à un observateur (comme dans le cas de cette peinture sur le panneau A) – celui-ci va effectuer une série de sauts dans cette image, qu’on appelle saccades. 
@@ -246,7 +246,7 @@ En effet, notre vision possède cette propriété d’être focalisée, de telle
 ---
 ## Levier #2: Vision active / *Active Vision*
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24/featured.jpg" title="[[Jérémie *et al*, 2024](https://laurentperrinet.github.io/publication/jeremie-24/)]" width="65%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/featured.jpg" title="[[Jérémie *et al*, 2024](https://laurentperrinet.github.io/publication/jeremie-25/)]" width="65%" >}}
 
 {{< speaker_note >}}
 Cette capacité d’agir sur l’entrée sensorielle, et notamment d’avoir une capacité attentionnelle de cette sorte, est largement absente des approches classiques de l’apprentissage machine et nous avons pu l’implanter grâce au projet ANR. 
@@ -259,7 +259,7 @@ Pour cela, nous avons utilisé une transformée de type log-polaire qui concentr
 ---
 ## Levier #2: Vision active / *Active Vision*
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24/fig_attack_rotation_imagenet.png" title="[[Jérémie *et al*, 2024](https://laurentperrinet.github.io/publication/jeremie-24/)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/fig_attack_rotation_imagenet.png" title="[[Jérémie *et al*, 2024](https://laurentperrinet.github.io/publication/jeremie-25/)]" width="90%" >}}
 
 {{< speaker_note >}}
 **2 MINUTES**
@@ -275,7 +275,7 @@ Pour cela, nous avons utilisé une transformée de type log-polaire qui concentr
 ---
 ## Levier #2: Vision active / *Active Vision*
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-24/fig_areadne.png" title="[[Jérémie *et al*, 2024](https://laurentperrinet.github.io/publication/jeremie-24/)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/fig_areadne.png" title="[[Jérémie *et al*, 2024](https://laurentperrinet.github.io/publication/jeremie-25/)]" width="90%" >}}
 
 {{< speaker_note >}}
 **2 MINUTES**
