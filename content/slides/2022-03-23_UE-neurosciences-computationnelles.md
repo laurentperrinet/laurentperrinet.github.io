@@ -29,12 +29,6 @@ summary: Réseaux de neurones artificiels et apprentissage machine appliqués à
 
 # Principes de la Vision
 
-{{< speaker_note >}}
-- Only the speaker can read these notes
-- Press `S` key to view
-- more on [doc](https://raw.githubusercontent.com/wowchemy/starter-hugo-academic/master/exampleSite/content/slides/example/index.md)
-{{< /speaker_note >}}
-
 ---
 ## À quoi sert la vision?
 
