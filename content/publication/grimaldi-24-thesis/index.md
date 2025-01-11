@@ -1,0 +1,46 @@
+---
+title: Vision dynamique utilisant la précision temporelle des motifs d'impulsions
+  dans les calculs neuronaux
+authors:
+- Antoine Grimaldi
+date: '2024-05-16'
+publishDate: '2025-01-11T16:13:35.526062Z'
+publication_types:
+- thesis
+abstract: "Notre cerveau est extrêmement efficace pour résoudre des tâches visuelles
+  très complexes. En quelques centaines de millisecondes, nous sommes capables de
+  reconnaître différents objets de manière invariante à diverses caractéristiques,
+  telles que leur taille ou leur orientation. Récemment, les réseaux neuronaux artificiels
+  ont fait de grands progrès dans la résolution des tâches auxquelles sont confrontés
+  les systèmes biologiques. Ils s'appuient sur les connaissances des neurosciences
+  pour former des architectures d'apprentissage biologiquement réalistes qui pourraient
+  nous fournir des informations intéressantes sur le fonctionnement du cerveau humain.
+  Mais ces architectures sont encore confrontées à un certain nombre de défis : les
+  modèles ne sont pas toujours interprétables, ils ne semblent pas nécessairement
+  utiliser les mêmes stratégies que leurs équivalents biologiques et ils sont très
+  gourmands en énergie. Nous pensons qu'une des raisons de la grande efficacité du
+  système visuel est qu'il utilise des impulsions courtes pour représenter l'information
+  : les potentiels d'action émis par les neurones. En utilisant une approche neuromorphique,
+  l'objectif de ce projet de thèse est de développer des modèles de traitement de
+  l'information visuelle utilisant des représentations basées sur ces impulsions,
+  événements binaires décrits uniquement par leur temps et leur origine. Nous avons
+  choisi d'utiliser un signal dynamique, capturé par une caméra événementielle, qui
+  transcrit une scène visuelle en utilisant uniquement des événements, ou impulsions.
+  Nous résolvons des tâches cognitives visuelles en utilisant le code temporel formé
+  par des séquences précises d'événements que nous appelons motifs d'impulsions. De
+  nombreuses preuves expérimentales suggèrent que le code temporel porté par ces motifs
+  serait une stratégie d'encodage de l'information visuelle utilisée par le cerveau.
+  Nous verrons que l'utilisation de ces motifs permet de développer des méthodes d'apprentissage
+  locales et biologiquement réalistes tout en traitant de manière dynamique et asynchrone
+  les événements caractérisant une scène visuelle. Nous montrons que ces algorithmes
+  permettent de résoudre une tâche de reconnaissance d'objet et une tâche d'estimation
+  de mouvement de manière ultra-rapide et efficace. Nous observons également l'émergence
+  d'une organisation des champs récepteurs similaire à celle des systèmes biologiques,
+  ce qui suggère qu'une stratégie similaire peut être employée par le cerveau. Dans
+  la dernière partie de ce travail, nous détaillerons le développement d'un nouvel
+  algorithme pour détecter ce type d'activité dans des enregistrements de neurones
+  réels."
+links:
+- name: URL
+  url: https://theses.fr/s380373
+---
