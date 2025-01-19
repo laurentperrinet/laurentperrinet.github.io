@@ -87,6 +87,10 @@ content:
       icon_pack: fab
       name: instagram
       link: https://www.instagram.com/laurentperrinet/
+    - icon: pixelfed
+      icon_pack: fab
+      name: pixelfed
+      link: https://pixelfed.social/i/web/profile/505657488394461667
     - icon: stackoverflow
       icon_pack: ai
       name: stackoverflow
