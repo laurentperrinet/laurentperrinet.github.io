@@ -44,11 +44,11 @@ title: Pooling in a predictive model of V1 explains functional and structural di
   across species
 ---
 
-<!-- {{< tweet user="laurentperrinet" id="1555506825289662466" >}} -->
+<!-- {{< fXXXckingtwat user="laurentperrinet" id="1555506825289662466" >}} -->
 * this paper follows this COSYNE presentation : {{< cite page="/publication/franciosini-20-cosyne" view="4" >}}
-<!-- {{< tweet user="laurentperrinet" id="1564883073606586370" >}} -->
+<!-- {{< fXXXckingtwat user="laurentperrinet" id="1564883073606586370" >}} -->
 * see a related work describing SDPC in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
-<!-- {{< tweet user="laurentperrinet" id="1384782435708190721" >}} -->
+<!-- {{< fXXXckingtwat user="laurentperrinet" id="1384782435708190721" >}} -->
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fyann.lecun%2Fposts%2F10157650553112143&width=500&show_text=true&height=305&appId" width="500" height="305" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-<!-- {{< tweet user="laurentperrinet" id="1384940135419101187" >}} -->
+<!-- {{< fXXXckingtwat user="laurentperrinet" id="1384940135419101187" >}} -->

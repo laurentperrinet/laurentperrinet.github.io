@@ -39,7 +39,7 @@ slides: https://laurentperrinet.github.io/2020-01-20_atelier_sciences_cinema
 title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
 ---
 
-<!-- {{< tweet user="laurentperrinet" id="1284791644240347138" >}} -->
+<!-- {{< fXXXckingtwat user="laurentperrinet" id="1284791644240347138" >}} -->
 {{< vimeo 398661322 >}}
 * ÇA TOURNE a été sélectionné pour participer à la compétition du « Alexandre Trauner ART/Film Festival » (Szolnok, Hongrie) : http://www.ataff.hu/
 * visible aux Soirée Courts Métrages Ciné Rencontre de la Ville de Berre l'Étang https://www.berreletang.fr/soiree-courts-metrages?periode=2021-04-30%2017%3A23%3A26
