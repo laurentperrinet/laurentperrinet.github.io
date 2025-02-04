@@ -48,5 +48,5 @@ tags:
 title: Decoding spiking motifs using neurons with heterogeneous delays
 ---
 
-{{< tweet user="laurentperrinet" id="1546471536571342849" >}}
+<!-- {{< tweet user="laurentperrinet" id="1546471536571342849" >}} -->
 * for a follow-up, check out {{< cite page="/publication/grimaldi-22-icip" view="4" >}}
