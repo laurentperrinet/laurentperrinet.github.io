@@ -27,7 +27,7 @@ title: 'Chats, mouches, humains : comment la vision a évolué en de multiples f
 ---
 
 
-{{< bluesky link="https://bsky.app/profile/laurentperrinet.bsky.social/post/3lgcyozmqgs2m" >}}
+<!--  bluesky link="https://bsky.app/profile/laurentperrinet.bsky.social/post/3lgcyozmqgs2m"  -->
 
 
 * Ce texte est disponible dans cet article de [The Conversation](https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388).
