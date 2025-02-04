@@ -51,7 +51,7 @@ title: Cortical recurrence supports resilience to sensory variance in the primar
 * open access: https://www.nature.com/articles/s42003-023-05042-3
 * 5 minutes summary: https://hugoladret.github.io/publications/ladret_et_al_variance_v1/
 ![Artboard](Artboard.png)
-<!-- {{< fXXXckingtwat user="laurentperrinet" id="1673229104353509377" >}} -->
+<!-- <<<<  fXXXckingtwat user="laurentperrinet" id="1673229104353509377"  >>>> -->
 * This neurophysiological work accompanies a similar study in theoretical neuroscience : {{< cite page="/publication/ladret-23-iclr" view="4" >}}
 ## Communiqué de presse: Comment le cerveau fait face à l'incertitude ?
 **[Introduction :] Nous vivons dans un monde fait d'incertitudes, qui pourtant ne nous empêchepas d'effectuer nos tâches quotidiennes. Vous ne traverseriez pas la route avant d'être certain que le conducteur de la voiture passante vous a vu, pas d'avantage que vous ne vous approcheriez pas d'un buisson avant d'être sûr qu'il est occupé par un oiseau plutôt que par un lion. Malgré la nécessité fondamentale de résoudre ces incertitudes au quotidien, nous savons relativement peu sur la manière dont notre cerveau procède pour ce faire. Dans cet article publié dans *Nature Communications Biology*, les scientifiques présentent des enregistrements des neurones du cerveau, et mettent en évidence un nouveau type de neurone qui encode cette incertitude. Cette recherche est clé pour avancer la compréhension de notre cerveau et construire des modèles artificiels qui peuvent prendre en compte leurs certitudes.**

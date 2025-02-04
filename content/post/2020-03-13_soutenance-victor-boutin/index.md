@@ -21,7 +21,7 @@ summary: 'Victor Boutin (Equipe NeOpTo) a soutenu sa thèse de doctorat intitul�
 tags:
 - events
 ---
-<!-- {{< fXXXckingtwat user="laurentperrinet" id="1235128290458951680" >}} -->
+<!-- <<<<  fXXXckingtwat user="laurentperrinet" id="1235128290458951680"  >>>> -->
 
 * Date : Vendredi 13 mars à 14h
 

@@ -33,7 +33,7 @@ tags:
 title: Ultra-rapid visual search in natural images using active deep learning
 ---
 
-<!-- {{< fXXXckingtwat user="laurentperrinet" id="1546389505917206531" >}} -->
+<!-- <<<<  fXXXckingtwat user="laurentperrinet" id="1546389505917206531"  >>>> -->
 * This work extends to natural scenes a previous work on visual search on a simplified task formulated in  {{< cite page="/publication/dauce-20" view="4" >}}
 * follows {{< cite page="/publication/jeremie-22-areadne" view="4" >}}
 * It is based on a first work on transfer learning and its application to a natural task : {{< cite page="/publication/jeremie-23-ultra-fast-cat" view="4" >}}
