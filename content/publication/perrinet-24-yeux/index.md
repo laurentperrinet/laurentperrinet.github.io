@@ -26,5 +26,9 @@ publication_types:
 title: 'Chats, mouches, humains : comment la vision a évolué en de multiples facettes'
 ---
 
+
+{{< bluesky link="https://bsky.app/profile/laurentperrinet.bsky.social/post/3lgcyozmqgs2m" >}}
+
+
 * Ce texte est disponible dans cet article de [The Conversation](https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388).
 * Une [version longue](https://laurentperrinet.github.io/2021_theconversation_hasard/) (et son [code](https://github.com/laurentperrinet/2021_theconversation_hasard)) sont aussi disponibles.
