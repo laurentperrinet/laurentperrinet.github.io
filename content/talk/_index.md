@@ -6,7 +6,7 @@ cms_exclude: true
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 2
+view: 3
 
 # Optional header image (relative to `static/media/` folder).
 header:
@@ -31,8 +31,10 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+
 design:
   # Choose a view for the listings:
   view: citation
-  columns: '2'
+  columns: '1'
+  show_summary: true
 ---
