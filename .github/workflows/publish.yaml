@@ -38,7 +38,7 @@ jobs:
         extended: true
     - uses: actions/cache@v4
       with:
-        path: /tmp/hugo_cache_runner/
+        path: /tmp/hugoblox_cache_runner/
         key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod') }}
         restore-keys: |
           ${{ runner.os }}-hugomod-
