@@ -42,7 +42,7 @@ title: Dynamical processing of orientation precision in the primary visual corte
 * This is 40th edition of Dynamicsdays
 * Nice, 23-27 August 2021 - https://dynamicsdays2021.univ-cotedazur.fr
 * check out the [book of abstracts](https://dynamicsdays2021.univ-cotedazur.fr/assets/dynamicsdays_nice_2021.pdf)
-* In this talk, we will present the following paper : {{< cite page="/publication/ladret-21" view="4" >}}
+* In this talk, we will present the following paper : {{< cite page="/publication/ladret-21" view="2" >}}
 * Preliminary Program:
   * Bruno Cessac, *The Retina as a Dynamical System*
   * Hugo Ladret & Laurent Perrinet, *Dynamics of the processing of orientation precision in the primary visual cortex*

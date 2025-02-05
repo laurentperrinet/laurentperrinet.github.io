@@ -43,7 +43,7 @@ title: Should I stay or should I go? Adaption of human observers to the volatili
   of visual inputs
 ---
 
-* See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}
+* See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="2" >}}
 * previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})
 * previous talk @ [INVIBE FEST, Paris]({{< ref "/talk/2018-02-01-bcp-invibe-fest/index.md" >}})
 * previous talk @ [Brain workshop, Marseille]({{< ref "/talk/2018-04-05-bcp-talk/index.md" >}})

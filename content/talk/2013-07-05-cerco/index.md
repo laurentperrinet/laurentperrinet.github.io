@@ -20,4 +20,4 @@ title: Edge co-occurrences and categorizing natural images
 url_slides: perrinet13cerco.pdf
 ---
 
-* See a followup in {{< cite page="/publication/perrinet-bednar-15" view="4" >}}
+* See a followup in {{< cite page="/publication/perrinet-bednar-15" view="2" >}}
