@@ -28,4 +28,4 @@ links:
 * When: Wednesday 11th of February, 2025 from 14:30 to 16h30.
 * Where: room D2.2 of Collège de France
 
-* Read the corresponding paper {{< cite page="/publication/chavane-22" view="short" >}}
+* Read the corresponding paper {{< cite page="/publication/chavane-22" view="2" >}}
