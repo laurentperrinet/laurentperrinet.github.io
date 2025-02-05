@@ -18,6 +18,7 @@ summary: "When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Process
 
 # printing = https://revealjs.com/pdf-export/
 ---
+
 <section>
 <h2><u>
 	[2025-02-11] When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Processing
@@ -25,13 +26,15 @@ summary: "When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Process
 <table>
 <tr>
 	<a href="https://laurentperrinet.github.io/grant/anr-anr"> 
-		  <img src="https://laurentperrinet.github.io/grant/polychronies/featured.png" alt="header" height="300"> 
+		  <!-- <img src="https://laurentperrinet.github.io/grant/polychronies/featured.png" alt="header" height="300">  -->
+		  <img src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/featured.png" alt="header" height="300"> 
 	</a>
 </tr>
 <tr>
 	<th>
 		<a href="https://laurentperrinet.github.io/slides/2025-02-11-neuromath/?transition=fade"> <i> Laurent Perrinet </i> </a> - <a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io</a>
 	    <br>
+		Séminaire Neuromathématiques, <b>Collège de France</b>
 	</th>
 	<th>
 		  <img src="https://laurentperrinet.github.io/qrcode.png" alt="QR code" height="80" width="80">
@@ -57,20 +60,33 @@ summary: "When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Process
 
 <section>
 
+
+
+<!-- cortical column https://laurentperrinet.github.io/publication/perrinet-07-mipm/featured.png  https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/featured.png -->
+
+
+<!-- voges https://laurentperrinet.github.io/publication/voges-12/featured.jpg -->
+
 # Anatomy of the Human Visual system
 
-{{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
+{{% fragment %}}<img src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" height="350"> {{% /fragment %}}{{% fragment %}} <img src="https://outde.xyz/img/Rawski/Marr/7lvls.jpg" height="350"> {{% /fragment %}}
+
+[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)
 
 {{< speaker_note >}}
 - cut in different levels: Marr (+ Poggio)
 - arbitrary, but useful division of labor= computational / algorithm / hardware
 
 - here:
-  - dynamics (computational)
-  - CNNs (hardware)
-  - spiking (algorithm)
+  - anatomy
+  - algorithm / model
+  - funcion
   
-First: What is the function of vision?
+First: What is the anatomy of horizontal connections?
+
+	<!-- {{< figure src="https://outde.xyz/img/Rawski/Marr/7lvls.jpg" title="[[Marr, 1982]](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="45%" >}}  -->
+	<!-- {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="Marr, 1982" width="45%" >}}   -->
+
 {{< /speaker_note >}}
 
 ---
@@ -83,17 +99,17 @@ First: What is the function of vision?
 - let's start with the anatomy
 {{< /speaker_note >}}
 
+<!-- 
 ---
 
 ## Human Visual system : the HMAX model
 
-{{< figure src="https://i.stack.imgur.com/ZlFnp.png" title="[[Serre and Poggio, 2007](https://biology.stackexchange.com/questions/10955/ventral-stream-pathway-and-architecture-proposed-by-poggios-group)]" width="65%" >}}
+{{< figure src="https://i.sstatic.net/ZlFnp.png" title="[Serre and Poggio, 2007]" width="65%" >}}
 
 {{< speaker_note >}}
-- and a model of it...
+- and a model of it...(https://biology.stackexchange.com/questions/10955/ventral-stream-pathway-and-architecture-proposed-by-poggios-group)
 - CNN, the mother of all deep learning models
 {{< /speaker_note >}}
-
 ---
 
 ## Primary visual cortex
@@ -114,7 +130,7 @@ First: What is the function of vision?
 
 {{< speaker_note >}}
 - a single neuron is selective to some visual features...
-{{< /speaker_note >}}
+{{< /speaker_note >}} -->
 
 ---
 
@@ -142,9 +158,54 @@ Paysage catalan (Le Chasseur)
 
 ---
 
+{{< slide background-image="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png" >}}
+
+
+{{< speaker_note >}}
+
+Trames (Etienne Rey)
+
+{{< /speaker_note >}}
+
+---
+
+## Geisler
+
+
+{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/Geisler01Fig3A.png" height="275"> {{% /fragment %}}{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/Geisler01Fig3B.png" height="275"> {{% /fragment %}}{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/Geisler01Fig3C.png" height="275"> {{% /fragment %}}
+
+[Geisler, 2001]
+
+{{< speaker_note >}}
+- topography?
+{{< /speaker_note >}}
+
+---
+
 ## CNN: Topography
 
 {{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]"width="70%" >}}
+
+{{< speaker_note >}}
+- topography?
+{{< /speaker_note >}}
+
+---
+
+## CNN: Topography
+
+<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/bosking2Asso.png" height="275"> 
+
+
+{{< speaker_note >}}
+- topography?
+{{< /speaker_note >}}
+
+---
+
+## CNN: Topography - plus bas car dynmique et hétérogene
+
+{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/figure_series.png" height="275"> {{% /fragment %}}{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/figure_series_11.png" height="275"> {{% /fragment %}}
 
 {{< speaker_note >}}
 - topography?
@@ -161,9 +222,63 @@ Paysage catalan (Le Chasseur)
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies [[Grimaldi *et al*, 2022]](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)" width="55%" >}}
 
 {{< speaker_note >}}
-Tout d’abord, les systèmes sensoriels biologiques sont composés de séquences de traitement qui possèdent des délais de traitement. Je décris ici la chaîne de traitement d’une image visuelle, ici pour un enfant jouant à un jeu video et devant cliquer sur le bon bouton, et qui illustre les différentes latences du traitement de l’information de la vision à l’action.
 
-Si les délais dans un système embarqué sont plus rapides, il reste que les informations dans les différentes étapes de traitement peuvent être décalées et nécessitent un traitement adapté afin de répondre de la façon la plus immédiate possible. Je pense notamment à la détection d'objets en mouvement très rapide dans le cadre d'un robot en mouvement.
+
+
+{{< /speaker_note >}}
+
+---
+
+## Challenging the like-to-like hypothesis
+
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig1AE.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+---
+
+## Challenging the like-to-like hypothesis
+
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig2AC.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+---
+
+## Challenging the like-to-like hypothesis
+
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig4.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+---
+
+## Challenging the like-to-like hypothesis
+
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig5A.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+</section>
+
+---
+
+<section>
+
+# Modelling the Association Field
+
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies [[Grimaldi *et al*, 2022]](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)" width="55%" >}}
+
+{{< speaker_note >}}
+
 
 
 {{< /speaker_note >}}
@@ -273,13 +388,13 @@ Si les délais dans un système embarqué sont plus rapides, il reste que les in
 
 ---
 
-## Convolutional Neural Networks : Topography
+## A diversity of association fields
 
 {{< figure  src="https://github.com/laurentperrinet/2020-09-25_IRPHE/raw/master/figures/PCOMPBIOL-D-19-01811_R2_compressed_FigS4.png" title="[Bosking *et al*, 1997]"width="70%" >}}
 
 ---
 
-## A diversity of association fields
+##  Convolutional Neural Networks : Topography
 
 {{< figure src="https://laurentperrinet.github.io/publication/franciosini-21/featured.jpg" title="[[Boutin *et al*, 2022](https://laurentperrinet.github.io/publication/franciosini-21/)]" width="90%" >}}
 
@@ -407,12 +522,14 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 <tr>
 	<a href="https://laurentperrinet.github.io/grant/anr-anr"> 
 		  <img src="https://laurentperrinet.github.io/grant/polychronies/featured.png" alt="header" height="300"> 
+		  <!-- <img src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/featured.png" alt="header" height="300">  -->
 	</a>
 </tr>
 <tr>
 	<th>
 		<a href="https://laurentperrinet.github.io/slides/2025-02-11-neuromath/?transition=fade"> <i> Laurent Perrinet </i> </a> - <a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io</a>
 	    <br>
+		Séminaire Neuromathématiques, <b>Collège de France</b>
 	</th>
 	<th>
 		  <img src="https://laurentperrinet.github.io/qrcode.png" alt="QR code" height="80" width="80">
