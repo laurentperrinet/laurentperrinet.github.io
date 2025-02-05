@@ -32,6 +32,6 @@ title: Polychrony detection using heterogeneous delays
 ---
 
 * Follow this future presentations {{< cite page="/talk/2022-06-19-neuro-vision-heterogeneous" view="2" >}}
-<!-- <<<<  fXXXckingtwat user="laurentperrinet" id="1527604282043813888"  >>>> -->
+![](@laurentperrinet_1527604282043813888_tweetcapture.png)
 * followed-up as a poster: {{< cite page="/publication/grimaldi-22-areadne" view="2" >}}
 * for event-based motion detection, see: {{< cite page="/publication/grimaldi-22-icip" view="2" >}}

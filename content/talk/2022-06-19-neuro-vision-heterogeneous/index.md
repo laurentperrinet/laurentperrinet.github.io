@@ -33,5 +33,5 @@ tags:
 title: Learning heterogeneous delays of Spiking Neurons for motion detection
 ---
 
-<!-- <<<<  fXXXckingtwat user="laurentperrinet" id="1538417555911720963"  >>>> -->
+![](@laurentperrinet_1538417555911720963_tweetcapture.png)
 * for a follow-up, check out {{< cite page="/publication/grimaldi-22-icip" view="2" >}}

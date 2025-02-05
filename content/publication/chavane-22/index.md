@@ -39,5 +39,4 @@ title: 'Revisiting Horizontal Connectivity Rules in V1: From like-to-like toward
   like-to-All'
 ---
 
-<!-- <<<<  fXXXckingtwat user="laurentperrinet" id="1490717893750935552"  >>>> -->
 ![](@laurentperrinet_1490717893750935552_tweetcapture.png)

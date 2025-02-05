@@ -56,4 +56,4 @@ title: A dual foveal-peripheral visual processing model implements efficient sac
 
 {{< figure src="https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true" >}}
 * for a more mathematical treatment, see {{< cite page="/publication/dauce-20-iwai" view="4" >}}
-<!-- <<<<  fXXXckingtwat user="laurentperrinet" id="1305488088412688385"  >>>> -->
+![](@laurentperrinet_1305488088412688385_tweetcapture.png)

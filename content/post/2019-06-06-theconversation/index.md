@@ -20,7 +20,7 @@ title: 'Illusions et hallucinations visuelles : une porte sur la perception'
 
 Publication d'un nouvel article généraliste autour des "Illusions et hallucinations visuelles" à découvrir sur le site [TheConversation](https://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389):
 
-<!-- <<<<  fXXXckingtwat user="laurentperrinet" id="1136743272024612886"  >>>> -->
+![](@FR_Conversation_1136743272024612886_tweetcapture.png)
 
 Les objectifs sont :
 
@@ -28,6 +28,6 @@ Les objectifs sont :
 * mieux comprendre l’importance de l’aspect dynamique de la perception ;
 * mieux comprendre le rôle de l’action dans la perception.
 
-<!-- <<<<  fXXXckingtwat user="laurentperrinet" id="1136989689867620353"  >>>> -->
+![](@laurentperrinet_1136989689867620353_tweetcapture.png)
 
 Une version étendue est accessible sur le [repo GitHub](https://laurentperrinet.github.io/2019-05_illusions-visuelles/), ainsi que les [sources](https://github.com/laurentperrinet/2019-05_illusions-visuelles).

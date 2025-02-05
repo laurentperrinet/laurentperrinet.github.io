@@ -52,7 +52,7 @@ tags:
 title: A robust bio-inspired approach to event-driven object recognition
 ---
 
-<!-- <<<<  fXXXckingtwat user="laurentperrinet" id="1364962423120265218"  >>>> -->
+![](@laurentperrinet_1364962423120265218_tweetcapture.png)
 {{< figure src="poster.png" width="100%" >}}
 * see the poster online on the [Hopin platform](https://app.hopin.com/events/cosyne-2021/expo/377631)
 * see a follow-up in: {{< cite page="/publication/grimaldi-21-cbmi" view="4" >}}
