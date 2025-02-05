@@ -24,12 +24,14 @@ summary: "When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Process
 </u></h2>
 <table>
 <tr>
+	<a href="https://laurentperrinet.github.io/grant/anr-anr"> 
+		  <img src="https://laurentperrinet.github.io/grant/polychronies/featured.png" alt="header" height="300"> 
+	</a>
+</tr>
+<tr>
 	<th>
 		<a href="https://laurentperrinet.github.io/slides/2025-02-11-neuromath/?transition=fade"> <i> Laurent Perrinet </i> </a> - <a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io</a>
 	    <br>
-	</th>
-	<th>
-		  <img src="https://laurentperrinet.github.io/grant/polychronies/featured.png" alt="ANR" height="80" width="80">
 	</th>
 </tr>
 </table>
@@ -388,12 +390,14 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 </u></h2>
 <table>
 <tr>
+	<a href="https://laurentperrinet.github.io/grant/anr-anr"> 
+		  <img src="https://laurentperrinet.github.io/grant/polychronies/featured.png" alt="header" height="300"> 
+	</a>
+</tr>
+<tr>
 	<th>
 		<a href="https://laurentperrinet.github.io/slides/2025-02-11-neuromath/?transition=fade"> <i> Laurent Perrinet </i> </a> - <a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io</a>
 	    <br>
-	</th>
-	<th>
-		  <img src="https://laurentperrinet.github.io/grant/polychronies/featured.png" alt="ANR" height="80" width="80">
 	</th>
 </tr>
 </table>
