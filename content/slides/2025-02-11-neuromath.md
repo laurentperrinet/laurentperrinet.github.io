@@ -400,9 +400,9 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 {{< speaker_note >}}
 
-- résumé : l'IA embarquée implique des enjeux importants.
-- les neurosciences peuvent apporter une contribution majeure pour résoudre les enjeux de l'IA embarquée.
-- un objectif : acquérir une indépendance scientifique = projet « Active Loop » pour lequel je cherche des partenaires.
+- résumé : diversity
+- les neurosciences peuvent répondre à ces questions par des modélisations - rôle des mathématiques
+- un objectif : passer en dynamique
 
 {{< /speaker_note >}}
 </section>
