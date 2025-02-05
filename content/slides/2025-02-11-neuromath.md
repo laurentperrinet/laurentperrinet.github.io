@@ -33,6 +33,9 @@ summary: "When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Process
 		<a href="https://laurentperrinet.github.io/slides/2025-02-11-neuromath/?transition=fade"> <i> Laurent Perrinet </i> </a> - <a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io</a>
 	    <br>
 	</th>
+	<th>
+		  <img src="https://laurentperrinet.github.io/qrcode.png" alt="QR code" height="80" width="80">
+	</th>	
 </tr>
 </table>
 
@@ -169,7 +172,27 @@ Si les délais dans un système embarqué sont plus rapides, il reste que les in
 
 ## Association field
 
-{{< figure src="content/publication/perrinet-bednar-15/featured.jpg" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/featured.jpg" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" width="55%" >}}
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+---
+
+## Sparse representations in computer vision
+
+{{< figure src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/figures/figure_synthesis.svg" title="[[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" width="70%" >}}
+
+{{< speaker_note >}}
+- extracting edges is useful
+{{< /speaker_note >}}
+
+---
+
+## Association field
+
+{{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_results.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" width="55%" >}}
 
 {{< speaker_note >}}
 
@@ -179,7 +202,7 @@ Si les délais dans un système embarqué sont plus rapides, il reste que les in
 
 ## Association field
 
-{{< figure src="content/publication/perrinet-bednar-15/figure_results.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_chevrons.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" width="55%" >}}
 
 {{< speaker_note >}}
 
@@ -189,7 +212,7 @@ Si les délais dans un système embarqué sont plus rapides, il reste que les in
 
 ## Association field
 
-{{< figure src="content/publication/perrinet-bednar-15/figure_chevrons.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_chevrons2.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" width="55%" >}}
 
 {{< speaker_note >}}
 
@@ -199,17 +222,7 @@ Si les délais dans un système embarqué sont plus rapides, il reste que les in
 
 ## Association field
 
-{{< figure src="content/publication/perrinet-bednar-15/figure_chevrons2.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" width="55%" >}}
-
-{{< speaker_note >}}
-
-{{< /speaker_note >}}
-
----
-
-## Association field
-
-{{< figure src="content/publication/perrinet-bednar-15/figure_results.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_results.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" width="55%" >}}
 
 {{< speaker_note >}}
 
@@ -383,7 +396,9 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 {{< /speaker_note >}}
 
 </section>
+
 ---
+
 <section>
 <h2><u>
 	[2025-02-11] When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Processing
@@ -399,6 +414,9 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 		<a href="https://laurentperrinet.github.io/slides/2025-02-11-neuromath/?transition=fade"> <i> Laurent Perrinet </i> </a> - <a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io</a>
 	    <br>
 	</th>
+	<th>
+		  <img src="https://laurentperrinet.github.io/qrcode.png" alt="QR code" height="80" width="80">
+	</th>	
 </tr>
 </table>
 
