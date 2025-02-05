@@ -24,17 +24,12 @@ summary: "When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Process
 </u></h2>
 <table>
 <tr>
-	<a href="https://laurentperrinet.github.io/grant/anr-anr"> 
-		<img src="https://laurentperrinet.github.io/grant/anr-anr/header.png" alt="header" height="300"> 
-	</a>
-</tr>
-<tr>
 	<th>
 		<a href="https://laurentperrinet.github.io/slides/2025-02-11-neuromath/?transition=fade"> <i> Laurent Perrinet </i> </a> - <a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io</a>
 	    <br>
 	</th>
 	<th>
-		  <img src="https://laurentperrinet.github.io/grant/anr-anr/featured.png" alt="ANR" height="80" width="80">
+		  <img src="https://laurentperrinet.github.io/grant/polychronies/featured.png" alt="ANR" height="80" width="80">
 	</th>
 </tr>
 </table>
@@ -292,29 +287,21 @@ Cette division du travail est inspirée des voies pariétales et dorsales du sys
 </section>
 
 ---
-
 <section>
-
 <h2><u>
-	[2024-11-18] NeuroAI: interactions multiples entre Neurosciences et Intelligence artificielle
+	[2025-02-11] When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Processing
 </u></h2>
 <table>
 <tr>
-	<a href="https://laurentperrinet.github.io/grant/anr-anr"> 
-		<img src="https://laurentperrinet.github.io/grant/anr-anr/header.png" alt="header" height="300"> 
-	</a>
-</tr>
-<tr>
 	<th>
-		<a href="https://laurentperrinet.github.io/slides/2024-11-18-journee-biomometisme/?transition=fade"> <i> Laurent Perrinet </i> </a> - <a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io</a>
+		<a href="https://laurentperrinet.github.io/slides/2025-02-11-neuromath/?transition=fade"> <i> Laurent Perrinet </i> </a> - <a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io</a>
 	    <br>
 	</th>
 	<th>
-		  <img src="https://laurentperrinet.github.io/grant/anr-anr/featured.png" alt="ANR" height="80" width="80">
+		  <img src="https://laurentperrinet.github.io/grant/polychronies/featured.png" alt="ANR" height="80" width="80">
 	</th>
 </tr>
 </table>
-
 
 {{< speaker_note >}}
 
