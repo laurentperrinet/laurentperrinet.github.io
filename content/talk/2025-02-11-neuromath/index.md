@@ -19,6 +19,7 @@ tags:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-02-11-neuromath
+slides: 2025-02-11-neuromath
 ---
 
 

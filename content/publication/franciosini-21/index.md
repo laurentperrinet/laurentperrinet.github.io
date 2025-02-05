@@ -45,10 +45,15 @@ title: Pooling in a predictive model of V1 explains functional and structural di
 ---
 
 ![](@laurentperrinet_1555506825289662466_tweetcapture.png)
+
 * this paper follows this COSYNE presentation : {{< cite page="/publication/franciosini-20-cosyne" view="4" >}}
 ![](@laurentperrinet_1564883073606586370_tweetcapture.png)
+
 * see a related work describing SDPC in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
+
 ![](@laurentperrinet_1384782435708190721_tweetcapture.png)
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fyann.lecun%2Fposts%2F10157650553112143&width=500&show_text=true&height=305&appId" width="500" height="305" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 ![](@laurentperrinet_1384940135419101187_tweetcapture.png)
