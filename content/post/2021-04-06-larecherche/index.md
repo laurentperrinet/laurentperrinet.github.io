@@ -19,7 +19,7 @@ links:
 
 Publication d'un nouvel article généraliste autour des illusions visuelles, "*Les illusions sèment le trouble dans les esprits*" à découvrir dans lee dossier [La Recherche n°565](https://www.larecherche.fr/les-illusions-s%C3%A8ment-le-trouble-dans-les-esprits) (trimestriel N°565 daté avril-juin 2021):
 
-<!--  <<<<  fXXXckingtwat user="laurentperrinet" id="1381305529553813504"  >>>> -->
+![](@laurentperrinet_1381305529553813504_tweetcapture.png)
 
 ![](https://www.larecherche.fr/sites/larecherche.fr/files/parution_parution_image/LaRechercheTrim_13412_565_2104_2106_210408_Conscience_Couverture.jpg)
 
