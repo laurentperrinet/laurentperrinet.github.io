@@ -88,7 +88,8 @@ This is so striking that the lines and contours may appear even when they do not
 
 ## Anatomy of the Human Visual system
 
-{{< figure src="https://www.readkong.com/static/06/b0/06b09f0235ae7fcf29438ce317c10e60/optogenetic-visual-cortical-prosthesis-9612386-7.jpg" width="61%" >}}
+<!-- {{< figure src="https://www.readkong.com/static/06/b0/06b09f0235ae7fcf29438ce317c10e60/optogenetic-visual-cortical-prosthesis-9612386-7.jpg" width="61%" >}} -->
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies ([Grimaldi *et al* 2022](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))." width="75%" >}}
 
 {{< speaker_note >}}
 - let's start with the anatomy
@@ -100,108 +101,37 @@ This is so striking that the lines and contours may appear even when they do not
 
 <!-- cortical column https://laurentperrinet.github.io/publication/perrinet-07-mipm/featured.png   -->
 
-{{< figure src="https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/featured.png" height="80% >}}
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Sigman2001Fig4.jpg" height="80% >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Kaschube2010Fig1.jpg" height="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/featured.png" height="80%" >}}
 
 {{< speaker_note >}}
 - let's start with the anatomy
 {{< /speaker_note >}}
 
-<!-- 
 ---
 
-## Convolutional Neural Nets (CNN)
+## Thalamic, short- & long-range lateral, interareal
 
-{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
+<!-- cortical column https://laurentperrinet.github.io/publication/perrinet-07-mipm/featured.png   -->
 
-{{< speaker_note >}}
-- this can be integrated in a hierarchy...
-- defining a Convolutional Neural Networks (CNN)
-- one layer is a convolution
-{{< /speaker_note >}} -->
-
----
-
-{{< slide background-image="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/bosking2Asso.png" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Markov2011Fig2_cercorbhq201f02_ht.jpg" title="[Markov *et al* 2011]" height="80%" >}}
 
 {{< speaker_note >}}
-- topography?
-{{< /speaker_note >}}
-
-<!-- 
----
-
-# Anatomy of the Human Visual system
-
-{{% fragment %}}<img src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" height="350"> {{% /fragment %}}{{% fragment %}} <img src="https://outde.xyz/img/Rawski/Marr/7lvls.jpg" height="350"> {{% /fragment %}}
-
-[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)
-
-{{< speaker_note >}}
-- cut in different levels: Marr (+ Poggio)
-- arbitrary, but useful division of labor= computational / algorithm / hardware
-
-- here:
-  - anatomy
-  - algorithm / model
-  - function
-  
-First: What is the anatomy of horizontal connections?
-
-	<!-- {{< figure src="https://outde.xyz/img/Rawski/Marr/7lvls.jpg" title="[[Marr, 1982]](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="45%" >}}  -->
-	<!-- {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="Marr, 1982" width="45%" >}}   -->
-
-{{< /speaker_note >}} -->
-
-<!-- 
----
-
-## Human Visual system : the HMAX model
-
-{{< figure src="https://i.sstatic.net/ZlFnp.png" title="[Serre and Poggio, 2007]" width="65%" >}}
-
-{{< speaker_note >}}
-- and a model of it...(https://biology.stackexchange.com/questions/10955/ventral-stream-pathway-and-architecture-proposed-by-poggios-group)
-- CNN, the mother of all deep learning models
-{{< /speaker_note >}}
----
-
-## Primary visual cortex
-
-{{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/scientists.jpg" title="[Hubel & Wiesel, 1962]" width="80%" >}}
-
-{{< speaker_note >}}
-- let's zoom in, the basic ingredient is the receptive field
+- let's start with the anatomy
 {{< /speaker_note >}}
 
 ---
 
-## Primary visual cortex
-
-{{< video src="https://raw.githubusercontent.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/master/figures/ComplexDirSelCortCell250_title.mp4" controls="yes" width="100%" >}}
-
-[Hubel & Wiesel, 1962]
-
-{{< speaker_note >}}
-- a single neuron is selective to some visual features...
-{{< /speaker_note >}} -->
+## Statistics of Natural Images : edges are On a common circle
 
 
-
-<!-- voges https://laurentperrinet.github.io/publication/voges-12/featured.jpg -->
-
----
-
-## On a common circle
-
-
-<img src="https://laurentperrinet.github.io/publication/chavane-22/Sigman2001Fig4.jpg" height="80%"> 
-
-[Sigman *et al*, 2001]
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Sigman2001Fig4.jpg" title="[Sigman *et al*, 2001]" height="80%" >}}
 
 {{< speaker_note >}}
-- topography?
+- let's start with the anatomy
 {{< /speaker_note >}}
+
+
 
 ---
 
@@ -224,6 +154,88 @@ First: What is the anatomy of horizontal connections?
 - topography?
 {{< /speaker_note >}}
 
+
+---
+
+{{< slide background-image="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/bosking2Asso.png" >}}
+
+{{< speaker_note >}}
+- topography?
+{{< /speaker_note >}}
+
+
+---
+
+## Supplementary: modelling the Human Visual system : the HMAX model
+
+{{< figure src="https://i.sstatic.net/ZlFnp.png" title="[Serre and Poggio, 2007]" width="65%" >}}
+
+{{< speaker_note >}}
+- and a model of it...(https://biology.stackexchange.com/questions/10955/ventral-stream-pathway-and-architecture-proposed-by-poggios-group)
+- CNN, the mother of all deep learning models
+{{< /speaker_note >}}
+
+---
+
+## Supplementary:  Convolutional Neural Nets (CNN)
+
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
+
+{{< speaker_note >}}
+- this can be integrated in a hierarchy...
+- defining a Convolutional Neural Networks (CNN)
+- one layer is a convolution
+{{< /speaker_note >}} 
+
+---
+
+
+
+## Supplementary: Orientation selectivity in the Primary visual cortex
+
+{{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/scientists.jpg" title="[Hubel & Wiesel, 1962]" width="80%" >}}
+
+{{< speaker_note >}}
+- let's zoom in, the basic ingredient is the receptive field
+{{< /speaker_note >}}
+
+---
+
+## Supplementary: Orientation selectivity in the Primary visual cortex
+
+{{< video src="https://raw.githubusercontent.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/master/figures/ComplexDirSelCortCell250_title.mp4" controls="yes" width="100%" >}}
+
+[Hubel & Wiesel, 1962]
+
+{{< speaker_note >}}
+- a single neuron is selective to some visual features...
+{{< /speaker_note >}}
+
+---
+
+## Supplementary: Marr's three levels of analysis
+
+{{% fragment %}}<img src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" height="350"> {{% /fragment %}}{{% fragment %}} <img src="https://outde.xyz/img/Rawski/Marr/7lvls.jpg" height="350"> {{% /fragment %}}
+
+[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)
+
+{{< speaker_note >}}
+- cut in different levels: Marr (+ Poggio)
+- arbitrary, but useful division of labor= computational / algorithm / hardware
+
+- here:
+  - anatomy
+  - algorithm / model
+  - function
+  
+First: What is the anatomy of horizontal connections?
+
+	<!-- {{< figure src="https://outde.xyz/img/Rawski/Marr/7lvls.jpg" title="[[Marr, 1982]](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="45%" >}}  -->
+	<!-- {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="Marr, 1982" width="45%" >}}   -->
+
+{{< /speaker_note >}}
+
+<!-- voges https://laurentperrinet.github.io/publication/voges-12/featured.jpg -->
 
 </section>
 
@@ -286,7 +298,7 @@ First: What is the anatomy of horizontal connections?
 
 ## Challenging the like-to-like hypothesis
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Markov2011Fig2_cercorbhq201f02_ht.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Markov2011Fig2_cercorbhq201f02_ht.jpg" title="[Markov *et al* 2011]" width="55%" >}}
 
 [Markov *et al.* 2011]
 
