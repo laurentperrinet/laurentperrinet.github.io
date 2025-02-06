@@ -115,12 +115,21 @@ Let's examine the primary visual cortex (V1). A key characteristic found in many
 
 <!-- cortical column https://laurentperrinet.github.io/publication/perrinet-07-mipm/featured.png   -->
 
-{{< figure src="https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/featured.png" height="60%" >}}
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Markov2011Fig2_cercorbhq201f02_ht.jpg" title="[Markov *et al* 2011]" height="60%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/featured.png" height="20%" >}}
 
 {{< speaker_note >}}
 
-A key feature of primary visual cortex is its layered organization, which is shared across visual areas. The main thalamic input arrives in layer 4, which connects to a dense network of vertical connections across layers. These columns can then communicate via horizontal connections within layers. Markov and colleagues quantified these connections through retrograde tracer injections in macaque V1. Their results showed that the vast majority (85%) of connections are intra-areal. The connection density decreases exponentially with distance, with a characteristic length of ~.23mm. Approximately 80% of connections are confined within 1.5mm, which is notable given that the typical distance between orientation pinwheels is ~0.5mm. As a consequence A vast majority of presynaptic contacts in cortex originate from neurons located in the same area as the postsynaptic target.
+A key feature of primary visual cortex is its layered organization, which is shared across visual areas. The main thalamic input arrives in layer 4, which connects to a dense network of vertical connections across layers. These columns can then communicate via horizontal connections within layers.
+{{< /speaker_note >}}
+
+---
+
+## Thalamic, short- & long-range lateral, interareal
+
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Markov2011Fig2_cercorbhq201f02_ht.jpg" title="[Markov *et al* 2011]" height="60%" >}}
+
+{{< speaker_note >}}
+ Markov and colleagues quantified these connections through retrograde tracer injections in macaque V1. Their results showed that the vast majority (85%) of connections are intra-areal. The connection density decreases exponentially with distance, with a characteristic length of ~.23mm. Approximately 80% of connections are confined within 1.5mm, which is notable given that the typical distance between orientation pinwheels is ~0.5mm. As a consequence A vast majority of presynaptic contacts in cortex originate from neurons located in the same area as the postsynaptic target.
 
 {{< /speaker_note >}}
 
@@ -158,14 +167,25 @@ goodhill.
 ## Contour detection and the Association Field
 
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Field1993Fig3.jpg" title="[Field *et al*, 1993]" height="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Field1993Fig3B.jpg" title="[Field *et al*, 1993]" height="80%" >}}
 
 {{< speaker_note >}}
 But why should it be so? we
 know that edges are easier to
 group when they are approximately
-aligned since the work of field
-in 1993, arguing for an
+aligned since the work of Field
+in 1993, ...
+{{< /speaker_note >}}
+
+---
+
+## Contour detection and the Association Field
+
+
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Field1993Fig3.jpg" title="[Field *et al*, 1993]" height="80%" >}}
+
+{{< speaker_note >}}
+... arguing for an
 association field them for linking
 edges, in a similar way that
 was shown above.
@@ -197,13 +217,19 @@ maximal interaction is the half,
 meaning that the co- occurrence is
 symmetric (relative to the angle bisector)
 and thus they lay on a common
-circle.{{< /speaker_note >}}
+circle.
+
+Plot of the spatial dependence of the histogram of cooccurring pairs for different geometrical configurations. (a) The probability of finding a pair of iso-oriented segments as a function of their relative position; a pair of segments at relative orientation of 22.5° (b), 45° (c), 67.5° (d), or 90° (e). ( f) Cocircularity solution for a particular example of two segments. The solutions to the problem of cocircularity are two orthogonal lines, whose main have values (c 1 w)y2or(c 1 w 1 p)y2. For the example given, w (red segment) 5 20°, c (blue segment) 5 40°, and the two solutions (green lines) are 30° and 120° (all angles from the vertical axis).
+
+{{< /speaker_note >}}
 
 
 ---
 
+## The like-to-like hypothesis
 
-{{< slide background-image="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/bosking2Asso.png" >}}
+{{< figure src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/bosking2Asso.png" title="[Field *et al*, 2013]" height="400" >}}
+
 
 {{< speaker_note >}}
 
@@ -212,7 +238,7 @@ coincidences to not associate
 them. Natural images display
 priors, and horizontal connections
 allow to enhance natural contours.
-The like- to-like hypothesis is here,
+The like-to-like hypothesis is here,
 and it is here to stay.
 {{< /speaker_note >}}
 
@@ -221,7 +247,7 @@ and it is here to stay.
 
 ## Supplementary: modelling the Human Visual system : the HMAX model
 
-{{< figure src="https://i.sstatic.net/ZlFnp.png" title="[Serre and Poggio, 2007]" width="65%" >}}
+{{< figure src="https://www.researchgate.net/profile/Thomas-Serre/publication/253467382/figure/fig1/AS:298143448092675@1448094345807/a-Organization-of-the-visual-cortex-The-diagram-is-modified-from-Gross-1998-Key.png" title="[Serre and Poggio, 2007]" width="65%" >}}
 
 {{< speaker_note >}}
 - and a model of it...(https://biology.stackexchange.com/questions/10955/ventral-stream-pathway-and-architecture-proposed-by-poggios-group)
@@ -268,7 +294,7 @@ and it is here to stay.
 
 ## Supplementary: Marr's three levels of analysis
 
-{{% fragment %}}<img src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" height="350"> {{% /fragment %}}{{% fragment %}} <img src="https://outde.xyz/img/Rawski/Marr/7lvls.jpg" height="350"> {{% /fragment %}}
+<img src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" height="350"> {{% fragment %}} <img src="https://outde.xyz/img/Rawski/Marr/7lvls.jpg" height="350"> {{% /fragment %}}
 
 [Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)
 
@@ -298,7 +324,7 @@ First: What is the anatomy of horizontal connections?
 
 # Challenging the like-to-like hypothesis
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/header.png" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/header.png" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="80%" >}}
 
 {{< speaker_note >}}
 
