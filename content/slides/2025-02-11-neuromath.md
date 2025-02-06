@@ -43,14 +43,12 @@ summary: "When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Process
 </table>
 
 {{< speaker_note >}}
-- outline = 
 
- - Bonjour. Je suis Laurent Perrinet, directeur de recherche CNRS en neurosciences computationnelles à l'Institut de Neurosciences de la Timone à Marseille. Je vous remercie pour cette invitation à participer à ce séminaire de l'équipe "NeuroMathématique" à la croisée entre mathématiques et science du vivant.  
+- Hello. I am Laurent Perrinet, a researcher in computational neuroscience and currently a research director at CNRS at the Institute of Neurosciences of Timone in Marseille. Thank you for inviting me to participate in this seminar of the "NeuroMathematics" team at the intersection of mathematics and life sciences.
 
- - J'ai une formation de ingénieur, ce qui ne me conduisait plus à poursuivre une carrière chez Airbus plutot que de devenir scientifique. encore moins dans un domaine de la biologie, les neurosciences. Mais c'est grâce aux rencontres que j'ai pu faire par l'intermédiaire de mon professeur de mathématiques, Manuel Samuelides, que j'ai pu être sensibiliser avec le monde des réseaux de neurones à la fin de mes études d'ingénieur. 
- 
- - C'est aussi grâce à lui que j'ai pu suivre une formation universitaire en sciences congitives (ce qui s'appelle maintenant le CogMaster en 1998), et je voudrais à ce titre rendre hommage à Jean Petitot car C'est pas de son cours de cette formation que j'ai découvert la possibilité de relier les statistiques que l'on trouve dans les images naturel, avec des principes que l'on peut retrouver dans le système nerveux central. Ce fut un vrai déclic, et je tiens aussi à le remercier pour la patience qu'il a eu pour me guider vers les différentes formations que je pouvais suivre pour continuer mon chemin… Ce séminaire constitue donc un réel retour aux sources car je vais pouvoir vous exposer l'avancée de mes recherches depuis mon DEA sur exactement ce sujet !
- 
+- I have an engineering background, which could have led me to pursue a career at Airbus rather than becoming a scientist, especially in a field of biology like neuroscience. But it is thanks to the encounters I had through my mathematics professor, Manuel Samuelides, that I became interested in the world of neural networks at the end of my engineering studies.
+
+- It is also thanks to him that I was able to follow a university education in cognitive sciences (now called the CogMaster in 1998), and I would like to pay tribute to Jean Petitot in this regard. It was in his course during this training that I discovered the possibility of linking the statistics found in natural images with principles that can be found in the central nervous system. It was a real revelation, and I also want to thank him for his patience in guiding me towards the various training programs I could follow to continue my path... This seminar is therefore a real return to the roots as I will be able to present the progress of my research since my DEA on exactly this subject!
 
 {{< /speaker_note >}}
 
@@ -61,11 +59,77 @@ summary: "When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Process
 <section>
 
 
+{{< slide background-image="https://3minutosdearte.com/wp-content/uploads/2016/11/Mir%C3%B3-Paisaje-catal%C3%A1n-el-cazador-1923-24-e1534625628322.jpg" >}}
 
-<!-- cortical column https://laurentperrinet.github.io/publication/perrinet-07-mipm/featured.png  https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/featured.png -->
+<!-- <img src="https://3minutosdearte.com/wp-content/uploads/2016/11/Mir%C3%B3-Paisaje-catal%C3%A1n-el-cazador-1923-24-e1534625628322.jpg"  width="80%"/> -->
+
+[Paysage catalan (Le Chasseur) [Joan Miró, 1924]](https://fr.wikipedia.org/wiki/Paysage_catalan_(Le_Chasseur))
+
+{{< speaker_note >}}
 
 
-<!-- voges https://laurentperrinet.github.io/publication/voges-12/featured.jpg -->
+Today, I will address our current knowledge about horizontal connectivity rules in V1. Why is this important? As a matter of fact, one main function of sensory systems, such as the pivotal role of the primary visual cortex for vision, is to bind together the different visual features to help ultimately build a global perception. This is playfully illustrated in this painting from Joan Miró, which allows us to depict this Catalan landscape with the hunter. A few strokes are sufficient to signify the landscape or allow us to imagine the hunter.
+
+{{< /speaker_note >}}
+
+---
+
+{{< slide background-image="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png" >}}
+
+Trames (Etienne Rey)
+
+{{< speaker_note >}}
+
+This is so striking that the lines and contours may appear even when they do not exist, such as in this display created with the visual artist Etienne Rey. With only dots, we still see lines, such as a hexagonal grid, and even an illusion of depth. Notice how this illusion depends on the position of your eye and therefore of your retina. Can we make sense of these phenomena?
+
+{{< /speaker_note >}}
+
+---
+
+## Anatomy of the Human Visual system
+
+{{< figure src="https://www.readkong.com/static/06/b0/06b09f0235ae7fcf29438ce317c10e60/optogenetic-visual-cortical-prosthesis-9612386-7.jpg" width="61%" >}}
+
+{{< speaker_note >}}
+- let's start with the anatomy
+{{< /speaker_note >}}
+
+---
+
+## Anatomy of the Primary Visual Cortex
+
+<!-- cortical column https://laurentperrinet.github.io/publication/perrinet-07-mipm/featured.png   -->
+
+{{< figure src="https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/featured.png" height="80% >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Sigman2001Fig4.jpg" height="80% >}}
+
+{{< speaker_note >}}
+- let's start with the anatomy
+{{< /speaker_note >}}
+
+<!-- 
+---
+
+## Convolutional Neural Nets (CNN)
+
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
+
+{{< speaker_note >}}
+- this can be integrated in a hierarchy...
+- defining a Convolutional Neural Networks (CNN)
+- one layer is a convolution
+{{< /speaker_note >}} -->
+
+---
+
+{{< slide background-image="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/bosking2Asso.png" >}}
+
+{{< speaker_note >}}
+- topography?
+{{< /speaker_note >}}
+
+<!-- 
+---
 
 # Anatomy of the Human Visual system
 
@@ -80,24 +144,14 @@ summary: "When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Process
 - here:
   - anatomy
   - algorithm / model
-  - funcion
+  - function
   
 First: What is the anatomy of horizontal connections?
 
 	<!-- {{< figure src="https://outde.xyz/img/Rawski/Marr/7lvls.jpg" title="[[Marr, 1982]](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="45%" >}}  -->
 	<!-- {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="Marr, 1982" width="45%" >}}   -->
 
-{{< /speaker_note >}}
-
----
-
-## Anatomy of the Human Visual system
-
-{{< figure src="https://www.readkong.com/static/06/b0/06b09f0235ae7fcf29438ce317c10e60/optogenetic-visual-cortical-prosthesis-9612386-7.jpg" width="61%" >}}
-
-{{< speaker_note >}}
-- let's start with the anatomy
-{{< /speaker_note >}}
+{{< /speaker_note >}} -->
 
 <!-- 
 ---
@@ -132,49 +186,18 @@ First: What is the anatomy of horizontal connections?
 - a single neuron is selective to some visual features...
 {{< /speaker_note >}} -->
 
----
 
-## Convolutional Neural Nets (CNN)
 
-{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
-
-{{< speaker_note >}}
-- this can be integrated in a hierarchy...
-- defining a Convolutional Neural Networks (CNN)
-- one layer is a convolution
-{{< /speaker_note >}}
+<!-- voges https://laurentperrinet.github.io/publication/voges-12/featured.jpg -->
 
 ---
 
-{{< slide background-image="https://3minutosdearte.com/wp-content/uploads/2016/11/Mir%C3%B3-Paisaje-catal%C3%A1n-el-cazador-1923-24-e1534625628322.jpg" >}}
-
-<!-- <img src="https://3minutosdearte.com/wp-content/uploads/2016/11/Mir%C3%B3-Paisaje-catal%C3%A1n-el-cazador-1923-24-e1534625628322.jpg"  width="80%"/> -->
-
-{{< speaker_note >}}
-
-Paysage catalan (Le Chasseur)
-
-{{< /speaker_note >}}
-
----
-
-{{< slide background-image="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png" >}}
+## On a common circle
 
 
-{{< speaker_note >}}
+<img src="https://laurentperrinet.github.io/publication/chavane-22/Sigman2001Fig4.jpg" height="80%"> 
 
-Trames (Etienne Rey)
-
-{{< /speaker_note >}}
-
----
-
-## Geisler
-
-
-{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/Geisler01Fig3A.png" height="275"> {{% /fragment %}}{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/Geisler01Fig3B.png" height="275"> {{% /fragment %}}{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/Geisler01Fig3C.png" height="275"> {{% /fragment %}}
-
-[Geisler, 2001]
+[Sigman *et al*, 2001]
 
 {{< speaker_note >}}
 - topography?
@@ -201,15 +224,6 @@ Trames (Etienne Rey)
 - topography?
 {{< /speaker_note >}}
 
----
-
-## CNN: Topography - plus bas car dynmique et hétérogene
-
-{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/figure_series.png" height="275"> {{% /fragment %}}{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/figure_series_11.png" height="275"> {{% /fragment %}}
-
-{{< speaker_note >}}
-- topography?
-{{< /speaker_note >}}
 
 </section>
 
@@ -219,7 +233,7 @@ Trames (Etienne Rey)
 
 # Challenging the like-to-like hypothesis
 
-{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies [[Grimaldi *et al*, 2022]](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/header.png" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
 
 {{< speaker_note >}}
 
@@ -267,20 +281,40 @@ Trames (Etienne Rey)
 
 {{< /speaker_note >}}
 
+
+---
+
+## Challenging the like-to-like hypothesis
+
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Markov2011Fig2_cercorbhq201f02_ht.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+
+[Markov *et al.* 2011]
+
+{{< speaker_note >}}
+Figure 2 of Markov et al. 2011
+
+Intrinsic and extrinsic connectivity. (A) Intrinsic FLNt values of 9 areas. V1 and V4 are averages for repeated injections. (B) Exponential decay of density of intrinsic neurons with distance following injection in area V1. (C) Distances within which the 3 thresholds (75%, 80%, and 95%) of intrinsic FLNt are attained in 7 injected areas. Dashed lines indicate mean distance at which each threshold is reached. Error bars are SD.
+{{< /speaker_note >}}
+
 </section>
 
 ---
 
 <section>
 
-# Modelling the Association Field
 
-{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies [[Grimaldi *et al*, 2022]](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)" width="55%" >}}
+
+# Modelling the Association field
+
+## Geisler
+
+
+{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/Geisler01Fig3A.png" height="275"> {{% /fragment %}}{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/Geisler01Fig3B.png" height="275"> {{% /fragment %}}{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/Geisler01Fig3C.png" height="275"> {{% /fragment %}}
+
+[Geisler, 2001]
 
 {{< speaker_note >}}
-
-
-
+- topography?
 {{< /speaker_note >}}
 
 ---
@@ -508,6 +542,16 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 {{< speaker_note >}}
 - ...
+{{< /speaker_note >}}
+
+---
+
+## CNN: Topography - plus bas car dynmique et hétérogene
+
+{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/figure_series.png" height="275"> {{% /fragment %}}{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/figure_series_11.png" height="275"> {{% /fragment %}}
+
+{{< speaker_note >}}
+- topography?
 {{< /speaker_note >}}
 
 </section>
