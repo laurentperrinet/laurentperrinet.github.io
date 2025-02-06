@@ -92,7 +92,7 @@ This is so striking that the lines and contours may appear even when they do not
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies ([Grimaldi *et al* 2022](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))." width="75%" >}}
 
 {{< speaker_note >}}
-- let's start with the anatomy
+Let's begin with the anatomy of the visual system. The diagram shows the human visual pathway, where information flows from the retina through the optic nerve to reach the lateral geniculate nucleus (LGN) in the thalamus. From there, signals project to the primary visual cortex (V1) and then proceed through higher visual areas following two main streams - the ventral "what" pathway and the dorsal "where/how" pathway. This hierarchical organization allows for increasingly complex visual processing, ultimately enabling motor responses and behavior. The latencies shown in the figure indicate the sequential timing of neural activation across these processing stages.
 {{< /speaker_note >}}
 
 ---
@@ -102,10 +102,11 @@ This is so striking that the lines and contours may appear even when they do not
 <!-- cortical column https://laurentperrinet.github.io/publication/perrinet-07-mipm/featured.png   -->
 
 {{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Kaschube2010Fig1.jpg" height="80%" >}}
-{{< figure src="https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/featured.png" height="80%" >}}
 
 {{< speaker_note >}}
-- let's start with the anatomy
+
+Let's examine the primary visual cortex (V1). A key characteristic found in many mammalian species is that V1 neurons exhibit selective responses to oriented visual stimuli, with their spatial arrangement following structured patterns across the cortical surface. In particular, orientation preference is organized in a quasi-periodic manner, forming what is known as an orientation map. However, this organization shows species-specific variations - notably, rodents lack such orderly maps and instead display a "salt-and-pepper" arrangement where neighboring neurons have random orientation preferences. This organizational diversity raises interesting questions about the functional role of these different architectures.
+
 {{< /speaker_note >}}
 
 ---
@@ -114,53 +115,105 @@ This is so striking that the lines and contours may appear even when they do not
 
 <!-- cortical column https://laurentperrinet.github.io/publication/perrinet-07-mipm/featured.png   -->
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Markov2011Fig2_cercorbhq201f02_ht.jpg" title="[Markov *et al* 2011]" height="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/featured.png" height="60%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Markov2011Fig2_cercorbhq201f02_ht.jpg" title="[Markov *et al* 2011]" height="60%" >}}
 
 {{< speaker_note >}}
-- let's start with the anatomy
+
+A key feature of primary visual cortex is its layered organization, which is shared across visual areas. The main thalamic input arrives in layer 4, which connects to a dense network of vertical connections across layers. These columns can then communicate via horizontal connections within layers. Markov and colleagues quantified these connections through retrograde tracer injections in macaque V1. Their results showed that the vast majority (85%) of connections are intra-areal. The connection density decreases exponentially with distance, with a characteristic length of ~.23mm. Approximately 80% of connections are confined within 1.5mm, which is notable given that the typical distance between orientation pinwheels is ~0.5mm. As a consequence A vast majority of presynaptic contacts in cortex originate from neurons located in the same area as the postsynaptic target.
+
 {{< /speaker_note >}}
 
 ---
 
-## Statistics of Natural Images : edges are On a common circle
+## Horizontal connectivity links different hypercolumns
+
+{{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]"width="70%" >}}
+
+{{< speaker_note >}}
+An observation that has been made
+is that this horizontal connectivity
+may further display some organisation.
+The study of Bosting and colleagues is
+exemplar. They combined the classical
+method for putting in evidence topographic
+maps with a retrograde traces.
+This injection is shown by the white arrow
+while the corresponding synapses
+are shown by the black dots. Then
+When overlaying both maps, one
+clearly sees that neurons with
+similar correferences connect together,
+the so- called like-to-like hypothesis.
+Note however that this pattern
+show some diversity (I say
+this with the fear of being
+censored?) which is further
+developed in the work of Hunt and
+goodhill.
+{{< /speaker_note >}}
+
+---
+
+## Contour detection and the Association Field
+
+
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Field1993Fig3.jpg" title="[Field *et al*, 1993]" height="80%" >}}
+
+{{< speaker_note >}}
+But why should it be so? we
+know that edges are easier to
+group when they are approximately
+aligned since the work of field
+in 1993, arguing for an
+association field them for linking
+edges, in a similar way that
+was shown above.
+{{< /speaker_note >}}
+
+---
+
+## Natural Images : Edges are on a common circle
 
 
 {{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Sigman2001Fig4.jpg" title="[Sigman *et al*, 2001]" height="80%" >}}
 
 {{< speaker_note >}}
-- let's start with the anatomy
-{{< /speaker_note >}}
 
-
-
----
-
-## CNN: Topography
-
-{{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]"width="70%" >}}
-
-{{< speaker_note >}}
-- topography?
-{{< /speaker_note >}}
-
----
-
-## CNN: Topography
-
-<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/bosking2Asso.png" height="275"> 
-
-
-{{< speaker_note >}}
-- topography?
-{{< /speaker_note >}}
+Another step was provided by Sigman
+et al in 2001. By using a determination
+of the angle of orientation of edges in
+natural images, he could display
+the probability density function of
+the co-occurrence of edges as a function
+of their distance. this is shown here
+by displaying a reference edge and a distal.
+Co-aligned edges are very finely
+distributed while for a given angle
+they show a different pattern.
+What is striking is that given a
+relative orientation , the angle of
+maximal interaction is the half,
+meaning that the co- occurrence is
+symmetric (relative to the angle bisector)
+and thus they lay on a common
+circle.{{< /speaker_note >}}
 
 
 ---
+
 
 {{< slide background-image="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/bosking2Asso.png" >}}
 
 {{< speaker_note >}}
-- topography?
+
+This is all too much of
+coincidences to not associate
+them. Natural images display
+priors, and horizontal connections
+allow to enhance natural contours.
+The like- to-like hypothesis is here,
+and it is here to stay.
 {{< /speaker_note >}}
 
 
