@@ -94,7 +94,7 @@ This is so striking that the lines and contours may appear even when they do not
 {{< speaker_note >}}
 Let's begin with the anatomy of the visual system. The diagram shows the human visual pathway, where information flows from the retina through the optic nerve to reach the lateral geniculate nucleus (LGN) in the thalamus. From there, signals project to the primary visual cortex (V1) and then proceed through higher visual areas following two main streams - the ventral "what" pathway and the dorsal "where/how" pathway. This hierarchical organization allows for increasingly complex visual processing, ultimately enabling motor responses and behavior. The latencies shown in the figure indicate the sequential timing of neural activation across these processing stages.
 {{< /speaker_note >}}
-
+<!-- 
 ---
 
 ## Anatomy of the Primary Visual Cortex
@@ -107,13 +107,12 @@ Let's begin with the anatomy of the visual system. The diagram shows the human v
 
 Let's examine the primary visual cortex (V1). A key characteristic found in many mammalian species is that V1 neurons exhibit selective responses to oriented visual stimuli, with their spatial arrangement following structured patterns across the cortical surface. In particular, orientation preference is organized in a quasi-periodic manner, forming what is known as an orientation map. However, this organization shows species-specific variations - notably, rodents lack such orderly maps and instead display a "salt-and-pepper" arrangement where neighboring neurons have random orientation preferences. This organizational diversity raises interesting questions about the functional role of these different architectures.
 
-{{< /speaker_note >}}
+{{< /speaker_note >}} -->
 
 ---
 
 ## Thalamic, short- & long-range lateral, interareal
 
-<!-- cortical column https://laurentperrinet.github.io/publication/perrinet-07-mipm/featured.png   -->
 
 {{< figure src="https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/featured.png" height="20%" >}}
 
