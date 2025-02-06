@@ -9,7 +9,7 @@ projects:
 links:
 - name: URL
   url: https://2024.ccneuro.org/poster/?id=293
-publication: '*FENS Forum 2024*'
+publication: '*Proceedings of the FENS Forum 2024*'
 publication_types:
 - paper-conference
 publishDate: '2024-08-06T14:24:04.539329Z'

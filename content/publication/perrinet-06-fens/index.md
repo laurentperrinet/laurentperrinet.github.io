@@ -9,7 +9,7 @@ date: 2006-01-01
 featured: false
 projects:
 - facets
-publication: '*FENS*'
+publication: '*Proceedings of the FENS Forum 2006*'
 publication_types:
 - inproceedings
 tags:

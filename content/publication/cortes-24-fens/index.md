@@ -9,7 +9,7 @@ date: 2024-06-27
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/cortes-24-fens/
-publication: '*FENS Forum 2024*'
+publication: '*Proceedings of the FENS Forum 2024*'
 publication_types:
 - paper-conference
 publishDate: '2024-08-25T16:27:28.685482Z'

@@ -33,7 +33,7 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-24-fens/
 
-publication: '*FENS Forum 2024*'
+publication: '*Proceedings of the FENS Forum 2024*'
 publication_types:
 - inproceedings
 publishDate: '2024-04-05T08:22:04.452494Z'

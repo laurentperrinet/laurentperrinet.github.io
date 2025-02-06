@@ -8,7 +8,7 @@ featured: false
 projects:
 - facets
 
-publication: '*FENS Abstract*'
+publication: '*Proceedings of the FENS Forum 2008*'
 publication_types:
 - inproceedings
 tags:
