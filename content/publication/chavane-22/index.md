@@ -41,4 +41,4 @@ title: 'Revisiting Horizontal Connectivity Rules in V1: From like-to-like toward
 
 ![](@laurentperrinet_1490717893750935552_tweetcapture.png)
 
-* Check-out this presentation on the paper:  {{< cite page="/talk/2025-02-11-neuromath" view="2" >}}
+* Check-out this presentation of the paper:  {{< cite page="/talk/2025-02-11-neuromath" view="2" >}}
