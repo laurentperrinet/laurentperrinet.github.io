@@ -145,28 +145,12 @@ From: https://pressbooks.umn.edu/sensationandperception/chapter/columns-and-hype
 {{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]"width="70%" >}}
 
 {{< speaker_note >}}
-An observation that has been made
-is that this horizontal connectivity
-may further display some organisation.
-The study of Bosting and colleagues is
-exemplar. They combined the classical
-method for putting in evidence topographic
-maps with a retrograde traces.
-This injection is shown by the white arrow
-while the corresponding synapses
-are shown by the black dots. Then
-When overlaying both maps, one
-clearly sees that neurons with
-similar correferences connect together,
-the so- called like-to-like hypothesis.
-Note however that this pattern
-show some diversity (I say
-this with the fear of being
-censored?) which is further
-developed in the work of Hunt and
-goodhill.
-{{< /speaker_note >}}
 
+An important observation about horizontal connectivity is its apparent organization. The seminal work of Bosking and colleagues demonstrated this by combining orientation preference mapping with retrograde tracers. Their results showed that the injection site (marked by a white arrow) led to labeled synapses (black dots) predominantly connecting neurons with similar orientation preferences - supporting what became known as the "like-to-like" connectivity hypothesis. However, subsequent studies, particularly by Hunt and Goodhill, revealed that this pattern exhibits considerable diversity in the specificity and strength of these connections across cortical regions and species.
+
+Note that while this hypothesis was influential, recent evidence suggests the connectivity rules may be more complex than initially thought. The observed variability in connection patterns likely serves important functional roles that are still being investigated.
+
+{{< /speaker_note >}}
 ---
 
 ## Contour detection and the Association Field
@@ -175,11 +159,9 @@ goodhill.
 {{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Field1993Fig3B.jpg" title="[Field *et al*, 1993]" height="80%" >}}
 
 {{< speaker_note >}}
-But why should it be so? we
-know that edges are easier to
-group when they are approximately
-aligned since the work of Field
-in 1993, ...
+
+This seminal work by Field, Hayes and Hess in 1993 demonstrated that observers were better at detecting contours formed by aligned Gabor patches compared to randomly oriented ones. They proposed that this perceptual grouping relies on an "association field" - a hypothetical linking mechanism that preferentially connects neurons tuned to similar orientations. Their psychophysical experiments showed that detection performance was best when elements were co-aligned and degraded systematically as the relative orientation between elements increased. This association field concept provided a compelling framework for understanding how the visual system may implement contour integration through neural connectivity patterns.
+
 {{< /speaker_note >}}
 
 ---
@@ -189,11 +171,11 @@ in 1993, ...
 
 {{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Field1993Fig3.jpg" title="[Field *et al*, 1993]" height="80%" >}}
 
+
 {{< speaker_note >}}
-... arguing for an
-association field them for linking
-edges, in a similar way that
-was shown above.
+
+This figure elaborates on Field's original paradigm, demonstrating psychophysical evidence for contour perception. The plots show performance in detecting contours embedded in noise fields at different angles of curvature. The data reveals that observers are most sensitive to co-aligned elements, with detection performance declining systematically as contour curvature increases. This supports the existence of an "association field" mechanism that preferentially links oriented elements according to their geometric relationships, with a bias toward smooth contours commonly found in natural scenes.
+
 {{< /speaker_note >}}
 
 ---
@@ -205,26 +187,9 @@ was shown above.
 
 {{< speaker_note >}}
 
-Another step was provided by Sigman
-et al in 2001. By using a determination
-of the angle of orientation of edges in
-natural images, he could display
-the probability density function of
-the co-occurrence of edges as a function
-of their distance. this is shown here
-by displaying a reference edge and a distal.
-Co-aligned edges are very finely
-distributed while for a given angle
-they show a different pattern.
-What is striking is that given a
-relative orientation , the angle of
-maximal interaction is the half,
-meaning that the co- occurrence is
-symmetric (relative to the angle bisector)
-and thus they lay on a common
-circle.
+A significant contribution to understanding edge co-occurrences in natural images came from Sigman et al. (2001). By analyzing edge orientations in natural images, they quantified the probability density function of edge co-occurrences based on their relative positions and orientations. The figure demonstrates this by showing the spatial distribution patterns for edges relative to a reference edge at different orientations. For iso-oriented edges (a), the co-occurrence pattern shows clear structure. As the relative orientation increases through 22.5° (b), 45° (c), 67.5° (d), to 90° (e), distinct spatial patterns emerge. 
 
-Plot of the spatial dependence of the histogram of cooccurring pairs for different geometrical configurations. (a) The probability of finding a pair of iso-oriented segments as a function of their relative position; a pair of segments at relative orientation of 22.5° (b), 45° (c), 67.5° (d), or 90° (e). ( f) Cocircularity solution for a particular example of two segments. The solutions to the problem of cocircularity are two orthogonal lines, whose main have values (c 1 w)y2or(c 1 w 1 p)y2. For the example given, w (red segment) 5 20°, c (blue segment) 5 40°, and the two solutions (green lines) are 30° and 120° (all angles from the vertical axis).
+A key finding was that for any given relative orientation between edges, the angle of maximal interaction occurs at the bisector between the orientations. This suggests that co-occurring edges tend to lie on a common circle - a property known as cocircularity. Panel (f) illustrates this geometrical principle: given two edges at angles w (red, 20°) and c (blue, 40°), the cocircularity solutions (green lines at 30° and 120°) represent the possible orientations of connecting circular arcs. This mathematical relationship provides insights into how the visual system might leverage statistical regularities in natural scenes for contour integration.
 
 {{< /speaker_note >}}
 
@@ -238,13 +203,11 @@ Plot of the spatial dependence of the histogram of cooccurring pairs for differe
 
 {{< speaker_note >}}
 
-This is all too much of
-coincidences to not associate
-them. Natural images display
-priors, and horizontal connections
-allow to enhance natural contours.
-The like-to-like hypothesis is here,
-and it is here to stay.
+The like-to-like hypothesis has been influential in understanding horizontal connectivity patterns. Drawing from anatomical studies and natural image statistics, it suggests that neurons preferentially connect to others with similar orientation preferences. This appears to align with the statistical structure of natural scenes, where co-oriented edges tend to form smooth contours.
+
+However, we should be cautious about overstating these relationships. While horizontal connections show some orientation specificity, recent evidence indicates the connectivity patterns are more complex and heterogeneous than initially proposed. The functional role of this diverse connectivity remains an active area of investigation.
+
+
 {{< /speaker_note >}}
 
 
