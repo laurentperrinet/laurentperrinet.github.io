@@ -134,7 +134,8 @@ From: https://pressbooks.umn.edu/sensationandperception/chapter/columns-and-hype
 {{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Markov2011Fig2_cercorbhq201f02_ht.jpg" title="[Markov *et al* 2011]" height="60%" >}}
 
 {{< speaker_note >}}
- Markov and colleagues quantified these connections through retrograde tracer injections in macaque V1. Their results showed that the vast majority (85%) of connections are intra-areal. The connection density decreases exponentially with distance, with a characteristic length of ~.23mm. Approximately 80% of connections are confined within 1.5mm, which is notable given that the typical distance between orientation pinwheels is ~0.5mm. As a consequence A vast majority of presynaptic contacts in cortex originate from neurons located in the same area as the postsynaptic target.
+
+This figure from Markov et al. (2011) quantifies intrinsic connectivity patterns in macaque V1 through retrograde tracer injections. The data shows that 85% of connections are intra-areal, with connection density decreasing exponentially with distance (characteristic length ~0.23mm). Most connections (80%) remain within 1.5mm radius - notably close given the ~0.5mm spacing between orientation pinwheels. This provides strong evidence that the vast majority of inputs to V1 neurons come from within V1 itself rather than from other areas, suggesting local processing plays a dominant role in V1 computation.
 
 {{< /speaker_note >}}
 
@@ -146,9 +147,7 @@ From: https://pressbooks.umn.edu/sensationandperception/chapter/columns-and-hype
 
 {{< speaker_note >}}
 
-An important observation about horizontal connectivity is its apparent organization. The seminal work of Bosking and colleagues demonstrated this by combining orientation preference mapping with retrograde tracers. Their results showed that the injection site (marked by a white arrow) led to labeled synapses (black dots) predominantly connecting neurons with similar orientation preferences - supporting what became known as the "like-to-like" connectivity hypothesis. However, subsequent studies, particularly by Hunt and Goodhill, revealed that this pattern exhibits considerable diversity in the specificity and strength of these connections across cortical regions and species.
-
-Note that while this hypothesis was influential, recent evidence suggests the connectivity rules may be more complex than initially thought. The observed variability in connection patterns likely serves important functional roles that are still being investigated.
+This figure shows landmark results by Bosking et al. (1997) combining orientation preference maps with retrograde tracers. After injecting tracers (white arrow), they found labeled synapses (black dots) primarily connecting neurons of similar orientation preference, leading to the influential "like-to-like" connectivity hypothesis. However, later studies by Hunt, Goodhill and others revealed significant diversity in these connection patterns across cortical regions and species, suggesting more complex connectivity rules than initially proposed. This nuanced understanding has important implications for how we think about the functional organization of horizontal connections in V1.
 
 {{< /speaker_note >}}
 ---
@@ -402,6 +401,41 @@ Panel B presents a comprehensive population analysis spanning nine hemispheres (
 
 Panel C displays intracellular recordings of subthreshold responses visualized as a visuotopic orientation polar map. The color hue represents preferred orientation while brightness indicates the strength of orientation tuning in the membrane potential. White contours outline regions showing statistically significant responses based on both amplitude and orientation selectivity criteria. The middle plots show averaged subthreshold responses to four different oriented stimuli (color-coded) at specific recording locations (marked by circle, triangle and square symbols), with scale bars indicating 50 ms and 1 mV. On the right, normalized orientation tuning curves are shown, computed by integrating responses within a fixed temporal window (shaded region in middle panel). The black circle marks the spontaneous activity level for the depolarizing integral measurement.
 
+These shows a direct functional evidence for a diversity of tuning profile in th horizontal connectivity.
+
+{{< /speaker_note >}}
+
+---
+
+## Challenging the like-to-like hypothesis
+
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig4ABC.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+
+{{< speaker_note >}}
+
+Figure 4 illustrates a neural field model that bridges anatomical structure with functional observations in V1, as developed by Rankin and Chavane (2017). 
+
+Panel A depicts radial connectivity profiles with Gaussian-decaying inhibition and distance-dependent excitation that peaks periodically at multiples of distance L. The Ring Width (RW) parameter controls the spread of these excitatory peaks.
+
+Panel B shows how local orientation preference maps influence lateral connectivity patterns under different orientation bias (BR) values in the recurrent connections. 
+
+Panel C quantifies the orientation tuning that emerges from these connectivity patterns. While orientations are uniformly represented globally, the local excitatory component shows strong bias around -60°. As BR increases above 0.5, the lateral connection orientation bias strengthens, reaching values around k=1 (consistent with Buzás et al. 2006).
+
+{{< /speaker_note >}}
+
+---
+
+## Challenging the like-to-like hypothesis
+
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig4ABCDE.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+
+{{< speaker_note >}}
+
+
+Panel D presents a simulation snapshot at 600ms demonstrating two key activity components: orientation-selective responses (within white contour) confined to the feedforward footprint (FFF, red), and broader non-orientation-specific activity (grey contour) extending beyond.
+
+Panel E tracks the temporal evolution of both the non-orientation-specific and orientation-selective response areas.
+
 {{< /speaker_note >}}
 
 ---
@@ -411,6 +445,11 @@ Panel C displays intracellular recordings of subthreshold responses visualized a
 {{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig4.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
 
 {{< speaker_note >}}
+
+Panel F maps how the normalized selective area (relative to FFF) varies across RW and BR parameters. The white contours delineate anatomically plausible ranges where k=0.7-1.2. The green region indicates where the model additionally satisfies constraints on orientation preference and the radial decay of selectivity.
+
+This comprehensive model successfully reconciles anatomical connectivity patterns with functional observations of orientation selectivity propagation in V1.
+
 
 {{< /speaker_note >}}
 
@@ -424,20 +463,6 @@ Panel C displays intracellular recordings of subthreshold responses visualized a
 
 {{< /speaker_note >}}
 
-
----
-
-## Challenging the like-to-like hypothesis
-
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Markov2011Fig2_cercorbhq201f02_ht.jpg" title="[Markov *et al* 2011]" width="55%" >}}
-
-[Markov *et al.* 2011]
-
-{{< speaker_note >}}
-Figure 2 of Markov et al. 2011
-
-Intrinsic and extrinsic connectivity. (A) Intrinsic FLNt values of 9 areas. V1 and V4 are averages for repeated injections. (B) Exponential decay of density of intrinsic neurons with distance following injection in area V1. (C) Distances within which the 3 thresholds (75%, 80%, and 95%) of intrinsic FLNt are attained in 7 injected areas. Dashed lines indicate mean distance at which each threshold is reached. Error bars are SD.
-{{< /speaker_note >}}
 
 </section>
 
