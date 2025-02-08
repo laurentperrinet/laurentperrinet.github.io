@@ -64,7 +64,7 @@ summary: "When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Process
 
 {{< slide background-image="https://3minutosdearte.com/wp-content/uploads/2016/11/Mir%C3%B3-Paisaje-catal%C3%A1n-el-cazador-1923-24-e1534625628322.jpg" >}}
 
-<!-- <img src="https://3minutosdearte.com/wp-content/uploads/2016/11/Mir%C3%B3-Paisaje-catal%C3%A1n-el-cazador-1923-24-e1534625628322.jpg"  width="80%"/> -->
+<!-- <img src="https://3minutosdearte.com/wp-content/uploads/2016/11/Mir%C3%B3-Paisaje-catal%C3%A1n-el-cazador-1923-24-e1534625628322.jpg" height="420"/> -->
 
 [Paysage catalan (Le Chasseur) [Joan Miró, 1924]](https://fr.wikipedia.org/wiki/Paysage_catalan_(Le_Chasseur))
 
@@ -91,7 +91,7 @@ This is so striking that the lines and contours may appear even when they do not
 
 ## Anatomy of the Human Visual system
 
-{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies ([Grimaldi *et al* 2022](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))"  height="420" >}}
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies ([Grimaldi *et al* 2022](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))" height="420" >}}
 
 {{< speaker_note >}}
 Let's begin with the anatomy of the visual system. The diagram shows the human visual pathway, where information flows from the retina through the optic nerve to reach the lateral geniculate nucleus (LGN) in the thalamus. From there, signals project to the primary visual cortex (V1) and then proceed through higher visual areas following two main streams - the ventral "what" pathway and the dorsal "where/how" pathway. This hierarchical organization allows for increasingly complex visual processing, ultimately enabling motor responses and behavior. The latencies shown in the figure indicate the sequential timing of neural activation across these processing stages.
@@ -101,7 +101,7 @@ Let's begin with the anatomy of the visual system. The diagram shows the human v
 
 ## Anatomy of the Primary Visual Cortex
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Kaschube2010Fig1.jpg"  height="420" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Kaschube2010Fig1.jpg" height="420" >}}
 
 {{< speaker_note >}}
 
@@ -115,7 +115,7 @@ Let's examine the primary visual cortex (V1). A key characteristic found in many
 
 
 <!-- {{< figure src="https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/featured.png" height="200" >}}{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/cortical-columns_a_02_cl_vis_3e.jpg"  height="150" >}} -->
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/cortical-columns.jpg"  height="420" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/cortical-columns.jpg" height="420" >}}
 
 {{< speaker_note >}}
 
@@ -294,7 +294,7 @@ First: What is the anatomy of horizontal connections?
 
 # Challenging the like-to-like hypothesis
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/header.png" title="[[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/header.png" title="[[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" height="420" >}}
 
 {{< speaker_note >}}
 
@@ -306,7 +306,7 @@ Together with my colleagues Frédéric Chavane (INT) and James Rankin (Universit
 
 ## Challenging the like-to-like hypothesis
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig1A.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig1A.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" height="420" >}}
 
 {{< speaker_note >}}
 
@@ -320,7 +320,7 @@ This first schematic (noted A) represents one of the simplest proposed connectiv
 
 ## Challenging the like-to-like hypothesis
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig1AB.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig1AB.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" height="420" >}}
 
 {{< speaker_note >}}
 Panel B shows a more nuanced version of the like-to-like hypothesis that we call "modulated like-to-like bias". In this case, the target neuron still preferentially connects to neurons with similar orientation preferences, but the selectivity is less strict and extends over longer distances. The connections (shown by the gradients of red arrows) exhibit a smooth fall-off in specificity with distance, rather than the binary selectivity shown in panel A. This model better reflects the biological reality where connection specificity tends to be graded rather than absolute, and where horizontal connections can span multiple hypercolumns while maintaining some degree of orientation preference.
@@ -331,7 +331,7 @@ Panel B shows a more nuanced version of the like-to-like hypothesis that we call
 
 ## Challenging the like-to-like hypothesis
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig1AD.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig1AD.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" height="420" >}}
 
 {{< speaker_note >}}
 
@@ -345,7 +345,7 @@ Panel D illustrates a "like-to-all" connectivity pattern that has been observed 
 
 ## Challenging the like-to-like hypothesis
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig1AE.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig1AE.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" height="420" >}}
 
 {{< speaker_note >}}
 
@@ -357,7 +357,7 @@ Panel E presents an integrative model that combines aspects of the previous hypo
 
 ## Challenging the like-to-like hypothesis
 
-{{< figure src="https://laurentperrinet.github.io/publication/voges-12/featured.jpg" title="[[Voges and LP, 2012]](https://laurentperrinet.github.io/publication/voges-12/)" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/voges-12/featured.jpg" title="[[Voges and LP, 2012]](https://laurentperrinet.github.io/publication/voges-12/)" height="420" >}}
 
 {{< speaker_note >}}
 
@@ -369,7 +369,7 @@ To quantitatively understand how connectivity patterns shape network dynamics, w
 
 ## Challenging the like-to-like hypothesis
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig2A.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig2A.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" height="420" >}}
 
 {{< speaker_note >}}
 
@@ -385,7 +385,7 @@ This data demonstrates how orientation selectivity propagates through horizontal
 
 ## Challenging the like-to-like hypothesis
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig2AB.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig2AB.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" height="420" >}}
 
 {{< speaker_note >}}
 
@@ -397,7 +397,7 @@ Panel B presents a comprehensive population analysis spanning nine hemispheres (
 
 ## Challenging the like-to-like hypothesis
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig2AC.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig2AC.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" height="420" >}}
 
 {{< speaker_note >}}
 
@@ -411,7 +411,7 @@ These shows a direct functional evidence for a diversity of tuning profile in th
 
 ## Challenging the like-to-like hypothesis
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig4ABC.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig4ABC.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" height="420" >}}
 
 {{< speaker_note >}}
 
@@ -429,7 +429,7 @@ Panel C quantifies the orientation tuning that emerges from these connectivity p
 
 ## Challenging the like-to-like hypothesis
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig4ABCDE.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig4ABCDE.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" height="420" >}}
 
 {{< speaker_note >}}
 
@@ -444,7 +444,7 @@ Panel E tracks the temporal evolution of both the non-orientation-specific and o
 
 ## Challenging the like-to-like hypothesis
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig4.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig4.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" height="420" >}}
 
 {{< speaker_note >}}
 
@@ -458,12 +458,22 @@ The neural field model effectively connects anatomical connectivity patterns wit
 
 ## Challenging the like-to-like hypothesis
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig5A.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig5A.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" height="420" >}}
 
 {{< speaker_note >}}
 This figure illustrates the groundbreaking approach developed by Geisler et al. (2001) for analyzing edge statistics in natural images. The method involves:
 
-The next section will examine in detail how these statistical regularities inform computational models of the association field.
+This landmark work systematically analyzed the occurrence of edge pairs in natural images through:
+
+1. Edge detection using orientation-selective filters (red segments)
+2. Measuring geometric relationships between edge pairs:
+	- Relative orientation difference (𝜃)
+	- Relative position angle (𝜙)
+
+The analysis revealed robust statistical regularities:
+- A predominance of parallel edge arrangements
+- A strong bias for co-circular edge configurations
+
 
 {{< /speaker_note >}}
 
@@ -474,22 +484,15 @@ The next section will examine in detail how these statistical regularities infor
 
 <section>
 
-
-
 # Modelling the Association field
 
-## Edge co-occurences in natural images
+{{< figure src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/bosking2Asso.png" title="[Field *et al*, 2013]" height="420" >}}
 
-
-<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/Geisler01Fig3A.png" height="275">{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/Geisler01Fig3B.png" height="275"> {{% /fragment %}}{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/Geisler01Fig3C.png" height="275"> {{% /fragment %}}
-
-[Geisler, 2001]
 
 {{< speaker_note >}}
-As Geisler et al. (2001) states, "the obvious hypothesis for the local grouping is a neural population with the receptive field structure matched to the edge co-occurrence statistics". Yet, the emergence of receptive field properties is a combination of anatomy and the dynamics of individual neurons. Can we link the statistics of natural images to the structure of processing in the primary visual cortex?
 
 
-
+Understanding how these image statistics relate to cortical connectivity patterns provides key insights into the computational principles underlying horizontal connections in V1.
 
 {{< /speaker_note >}}
 
@@ -497,7 +500,17 @@ As Geisler et al. (2001) states, "the obvious hypothesis for the local grouping
 
 ## Edge co-occurences in natural images
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig5A.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/featured.jpg" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" height="420" >}}
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+---
+
+## Edge co-occurences in natural images
+
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig5A.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" height="420" >}}
 
 {{< speaker_note >}}
 Panel A illustrates the groundbreaking approach developed by Geisler et al. (2001) for analyzing edge statistics in natural images. The method involves:
@@ -518,46 +531,40 @@ The next section will examine how these statistical regularities inform computat
 {{< /speaker_note >}}
 
 
----
-
-## Edge co-occurences in natural images
-
-{{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/featured.jpg" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" width="55%" >}}
-
-<!-- {{< speaker_note >}}
-
-{{< /speaker_note >}}
-
+<!-- 
 ---
 
 ## Sparse representations in computer vision
 
-{{< figure src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/figures/figure_synthesis.svg" title="[[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" width="70%" >}} -->
-
+{{< figure src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/figures/figure_synthesis.svg" title="[[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" height="420" >}} 
 {{< speaker_note >}}
 
 chevrons
 
 {{< /speaker_note >}}
 
-<!-- 
 ---
 
 ## Edge co-occurences in natural images
 
-{{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_chevrons.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_chevrons.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" height="420" >}}
 
 {{< speaker_note >}}
 
 {{< /speaker_note >}} -->
 
+
 ---
 
 ## Edge co-occurences in natural images
 
-{{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_chevrons2.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" width="55%" >}}
+
+<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/Geisler01Fig3A.png" height="275"><img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/Geisler01Fig3B.png" height="275"> <img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/Geisler01Fig3C.png" height="275"> 
+[Geisler, 2001]
 
 {{< speaker_note >}}
+As Geisler et al. (2001) states, "the obvious hypothesis for the local grouping is a neural population with the receptive field structure matched to the edge co-occurrence statistics". Yet, the emergence of receptive field properties is a combination of anatomy and the dynamics of individual neurons. Can we link the statistics of natural images to the structure of processing in the primary visual cortex?
+
 
 {{< /speaker_note >}}
 
@@ -565,7 +572,19 @@ chevrons
 
 ## Edge co-occurences in natural images
 
-{{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_results.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_chevrons2.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" height="420" >}}
+
+{{< speaker_note >}}
+
+Importantly, these statistics vary across image categories - for instance, animal images show enhanced co-circularity compared to generic natural scenes. This suggests the visual system must handle diverse statistical regularities rather than implementing a fixed association field pattern.
+
+{{< /speaker_note >}}
+
+---
+
+## Edge co-occurences in natural images
+
+{{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_results.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" height="420" >}}
 
 {{< speaker_note >}}
 
@@ -576,12 +595,9 @@ chevrons
 ---
 <section>
 
-# Models challenging the like-to-like hypothesis
+## Predictive processing
 
-
-## CNN: Topography
-
-{{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]"width="70%" >}}
+{{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]" height="420" >}}
 
 {{< speaker_note >}}
 - topography?
@@ -589,9 +605,9 @@ chevrons
 
 ---
 
-## CNN: Predictive processing
+## Predictive processing
 
-{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" height="420" >}}
 
 {{< speaker_note >}}
 - modifications= adding sparse coding + feedback
@@ -600,9 +616,9 @@ chevrons
 
 ---
 
-## CNN: Predictive processing
+## Predictive processing
 
-{{< figure src="https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/BoutinFranciosiniChavaneRuffierPerrinet20face.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/BoutinFranciosiniChavaneRuffierPerrinet20face.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" height="420" >}}
 
 {{< speaker_note >}}
 - result= interpretable features
@@ -610,21 +626,33 @@ chevrons
 
 ---
 
-## Convolutional Neural Networks : Topography
+## Predictive processing
 
-{{< figure  src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]"width="70%" >}}
+{{< figure  src="https://github.com/laurentperrinet/2020-09-25_IRPHE/raw/master/figures/PCOMPBIOL-D-19-01811_R2_compressed_FigS4.png" title="[Bosking *et al*, 1997]" height="420" >}}
 
----
+{{< speaker_note >}}
 
-## A diversity of association fields
-
-{{< figure  src="https://github.com/laurentperrinet/2020-09-25_IRPHE/raw/master/figures/PCOMPBIOL-D-19-01811_R2_compressed_FigS4.png" title="[Bosking *et al*, 1997]"width="70%" >}}
+{{< /speaker_note >}}
 
 ---
 
-##  Convolutional Neural Networks : Topography
+## Predictive processing
 
-{{< figure src="https://laurentperrinet.github.io/publication/franciosini-21/featured.jpg" title="[[Boutin *et al*, 2022](https://laurentperrinet.github.io/publication/franciosini-21/)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/franciosini-21/featured.jpg" title="[[Boutin *et al*, 2022](https://laurentperrinet.github.io/publication/franciosini-21/)]" height="420" >}}
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+---
+
+## Predictive processing
+
+{{< figure  src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]" height="420" >}}
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
 
 </section>
 
@@ -634,7 +662,7 @@ chevrons
 
 # Dynamics of vision
 
-{{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
+{{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" height="420" >}}
 
 {{< speaker_note >}}
 - another important missing feature: time
@@ -644,7 +672,7 @@ chevrons
 
 ## Dynamics of vision
 
-{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency_bg.jpg" title="Visual latencies ([see review](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))." width="75%" >}}
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency_bg.jpg" title="Visual latencies ([see review](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))." height="420" >}}
 
 {{< speaker_note >}}
 **1 MINUTE**
@@ -661,7 +689,7 @@ chevrons
 
 ## Dynamics of vision
 
-{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies ([see review](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))." width="75%" >}}
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies ([see review](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))." height="420" >}}
 
 {{< speaker_note >}}
 **1 MINUTE**
@@ -677,7 +705,7 @@ chevrons
 
 ## Dynamics of vision
 
-{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/tsonga.jpg" title="Sensorimotor delays ([Perrinet & Friston 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))" width="75%" >}}
+{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/tsonga.jpg" title="Sensorimotor delays ([Perrinet & Friston 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))" height="420" >}}
 
 {{< speaker_note >}}
 - ...
@@ -688,7 +716,7 @@ chevrons
 
 ## Dynamics of vision
 
-{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/figure-tsonga.jpg" title="Sensorimotor delays ([Perrinet & Friston, 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))" width="75%" >}}
+{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/figure-tsonga.jpg" title="Sensorimotor delays ([Perrinet & Friston, 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))" height="420" >}}
 
 {{< speaker_note >}}
 - ...
@@ -732,7 +760,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 # Dynamics of vision
 
-{{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
+{{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" height="420" >}}
 
 {{< speaker_note >}}
 - ...
@@ -740,9 +768,9 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 ---
 
-## CNN: Topography - plus bas car dynmique et hétérogene
+# Dynamics of vision: Neural modeling
 
-{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/figure_series.png" height="275"> {{% /fragment %}}{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/figure_series_11.png" height="275"> {{% /fragment %}}
+{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/figure_series.png" height="420"> {{% /fragment %}}{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/figure_series_11.png" height="420"> {{% /fragment %}}
 
 {{< speaker_note >}}
 - topography?
