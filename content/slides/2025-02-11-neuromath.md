@@ -293,11 +293,50 @@ First: What is the anatomy of horizontal connections?
 
 # Challenging the like-to-like hypothesis
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/header.png" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/header.png" title="[[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="80%" >}}
 
 {{< speaker_note >}}
 
+Together with my colleagues Frédéric Chavane (INT) and James Rankin (University of Exeter), we published a review paper in Brain Structure and Function that examines anatomical, functional, computational and theoretical evidence challenging the like-to-like hypothesis. The paper evaluates whether this influential hypothesis about V1 horizontal connectivity holds up against accumulated empirical evidence. The review systematically examines multiple lines of research to reassess our understanding of these important cortical circuits.
 
+{{< /speaker_note >}}
+
+---
+
+## Challenging the like-to-like hypothesis
+
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig1A.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+
+{{< speaker_note >}}
+
+This figure illustrates different hypothetical connectivity rules for horizontal connections in V1. The target neuron (large circle on left) has a specific orientation preference indicated by its color. Following the classical like-to-like hypothesis (shown in panel A), this neuron would preferentially connect to other neurons with matching orientation preference (similar colors) across multiple hypercolumns, as indicated by the vertical red arrows. The radial spread of connections spans approximately three hypercolumns, consistent with anatomical observations. Each hypercolumn contains a complete set of orientation preferences, represented by the different colored neurons.
+
+This first schematic (noted A) represents one of the simplest proposed connectivity rules, where horizontal connections strictly follow orientation similarity. 
+
+{{< /speaker_note >}}
+
+---
+
+## Challenging the like-to-like hypothesis
+
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig1AB.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+
+{{< speaker_note >}}
+Panel B shows a more nuanced version of the like-to-like hypothesis that we call "modulated like-to-like bias". In this case, the target neuron still preferentially connects to neurons with similar orientation preferences, but the selectivity is less strict and extends over longer distances. The connections (shown by the gradients of red arrows) exhibit a smooth fall-off in specificity with distance, rather than the binary selectivity shown in panel A. This model better reflects the biological reality where connection specificity tends to be graded rather than absolute, and where horizontal connections can span multiple hypercolumns while maintaining some degree of orientation preference.
+
+{{< /speaker_note >}}
+
+---
+
+## Challenging the like-to-like hypothesis
+
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig1AD.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+
+{{< speaker_note >}}
+
+Panel C shows evidence for a different type of connectivity pattern in inhibitory interneurons - a "like-to-unlike" bias where neurons preferentially connect to others with different orientation preferences. This highlights how different cell types may follow distinct connectivity rules.
+
+Panel D illustrates a "like-to-all" connectivity pattern that has been observed in layers 4 and 6 of V1, where neurons form connections broadly across orientation preferences without strong selectivity. The arrows indicate connections to neurons of all orientations, suggesting these layers may serve different computational roles that do not require orientation-specific horizontal connectivity.
 
 {{< /speaker_note >}}
 
@@ -308,6 +347,8 @@ First: What is the anatomy of horizontal connections?
 {{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig1AE.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
 
 {{< speaker_note >}}
+
+Panel E presents an integrative model that combines aspects of the previous hypotheses. It shows a hybrid connectivity pattern where neurons exhibit a like-to-like bias at short distances (within adjacent hypercolumns), but this orientation specificity gradually diminishes with distance, transitioning to a like-to-all pattern in more distant hypercolumns. This model better reflects recent empirical findings suggesting that horizontal connectivity rules are more complex and distance-dependent than originally proposed. The gradual fade of red arrows illustrates how connection specificity weakens over larger cortical distances.
 
 {{< /speaker_note >}}
 
