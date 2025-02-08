@@ -47,11 +47,11 @@ summary: "When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Process
 
 {{< speaker_note >}}
 
-- Hello. I am Laurent Perrinet, a researcher in computational neuroscience and currently a research director at CNRS at the Institute of Neurosciences of Timone in Marseille. Thank you for inviting me to participate in this seminar of the "NeuroMathematics" team at the intersection of mathematics and life sciences.
+Hello. I am Laurent Perrinet, a researcher in computational neuroscience and currently a research director at CNRS at the Institute of Neurosciences of la Timone in Marseille. Thank you for inviting me to participate in this "NeuroMathematics" seminar at the intersection of mathematics and neuroscience.
 
-- I have an engineering background, which could have led me to pursue a career at Airbus rather than becoming a scientist, especially in a field of biology like neuroscience. But it is thanks to the encounters I had through my mathematics professor, Manuel Samuelides, that I became interested in the world of neural networks at the end of my engineering studies.
+As an engineer by training, I could have pursued a career in aeronautics rather than becoming a scientist in neuroscience. However, through my mathematics professor Manuel Samuelides, I discovered neural networks at the end of my engineering studies.
 
-- It is also thanks to him that I was able to follow a university education in cognitive sciences (now called the CogMaster in 1998), and I would like to pay tribute to Jean Petitot in this regard. It was in his course during this training that I discovered the possibility of linking the statistics found in natural images with principles that can be found in the central nervous system. It was a real revelation, and I also want to thank him for his patience in guiding me towards the various training programs I could follow to continue my path... This seminar is therefore a real return to the roots as I will be able to present the progress of my research since my DEA on exactly this subject!
+Thanks to him, I was able to study cognitive sciences (now CogMaster) in 1998. I particularly want to acknowledge Jean Petitot - in his course I discovered how natural image statistics could link to principles in the central nervous system. This was a revelation, and I'm grateful for his guidance in my academic path. Today's seminar represents a return to these roots, as I'll present my research progress since my DEA thesis on this very topic.
 
 {{< /speaker_note >}}
 
@@ -71,7 +71,7 @@ summary: "When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Process
 </tr>
 <tr >
 	<th>
-		  <a href ="https://fr.wikipedia.org/wiki/Paysage_catalan_(Le_Chasseur)">Paysage catalan (Le Chasseur) Joan Miró, 1924</a>
+		<a href ="https://fr.wikipedia.org/wiki/Paysage_catalan_(Le_Chasseur)">Paysage catalan (Le Chasseur), <i>Joan Miró</i> (1924)</a>
 	</th>	
 </tr>
 </table>
