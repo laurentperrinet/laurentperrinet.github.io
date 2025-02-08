@@ -3,6 +3,9 @@
  # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: white
   transition: 'fade'
+  width: 1280
+  height: 780
+  margin: 0.01
 
 # Talk start and end times. 2023-05-13-master-m-4-nc
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -88,7 +91,7 @@ This is so striking that the lines and contours may appear even when they do not
 
 ## Anatomy of the Human Visual system
 
-{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies ([Grimaldi *et al* 2022](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))" width="75%" >}}
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Visual latencies ([Grimaldi *et al* 2022](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))"  height="420" >}}
 
 {{< speaker_note >}}
 Let's begin with the anatomy of the visual system. The diagram shows the human visual pathway, where information flows from the retina through the optic nerve to reach the lateral geniculate nucleus (LGN) in the thalamus. From there, signals project to the primary visual cortex (V1) and then proceed through higher visual areas following two main streams - the ventral "what" pathway and the dorsal "where/how" pathway. This hierarchical organization allows for increasingly complex visual processing, ultimately enabling motor responses and behavior. The latencies shown in the figure indicate the sequential timing of neural activation across these processing stages.
@@ -98,7 +101,7 @@ Let's begin with the anatomy of the visual system. The diagram shows the human v
 
 ## Anatomy of the Primary Visual Cortex
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Kaschube2010Fig1.jpg" width="75%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Kaschube2010Fig1.jpg"  height="420" >}}
 
 {{< speaker_note >}}
 
@@ -111,8 +114,8 @@ Let's examine the primary visual cortex (V1). A key characteristic found in many
 ## Thalamic, short- & long-range lateral, interareal
 
 
-{{< figure src="https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/featured.png" width="20%" >}}
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/cortical-columns_a_02_cl_vis_3e.jpg" width="25%" >}}
+<!-- {{< figure src="https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/featured.png" height="200" >}}{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/cortical-columns_a_02_cl_vis_3e.jpg"  height="150" >}} -->
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/cortical-columns.jpg"  height="420" >}}
 
 {{< speaker_note >}}
 
@@ -131,7 +134,7 @@ From: https://pressbooks.umn.edu/sensationandperception/chapter/columns-and-hype
 
 ## Thalamic, short- & long-range lateral, interareal
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Markov2011Fig2_cercorbhq201f02_ht.jpg" title="[Markov *et al* 2011]" height="60%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Markov2011Fig2_cercorbhq201f02_ht.jpg" title="[Markov *et al* 2011]" height="420" >}}
 
 {{< speaker_note >}}
 
@@ -143,7 +146,7 @@ This figure from Markov et al. (2011) quantifies intrinsic connectivity patterns
 
 ## Horizontal connectivity links different hypercolumns
 
-{{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]"width="70%" >}}
+{{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]" height="420" >}}
 
 {{< speaker_note >}}
 
@@ -156,7 +159,7 @@ This figure shows landmark results by Bosking et al. (1997) combining orientatio
 ## Contour detection and the Association Field
 
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Field1993Fig3B.jpg" title="[Field *et al*, 1993]" height="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Field1993Fig3B.jpg" title="[Field *et al*, 1993]" height="420" >}}
 
 {{< speaker_note >}}
 
@@ -169,7 +172,7 @@ This seminal work by Field, Hayes and Hess in 1993 demonstrated that observers w
 ## Contour detection and the Association Field
 
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Field1993Fig3.jpg" title="[Field *et al*, 1993]" height="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Field1993Fig3.jpg" title="[Field *et al*, 1993]" height="420" >}}
 
 
 {{< speaker_note >}}
@@ -183,7 +186,7 @@ This figure elaborates on Field's original paradigm, demonstrating psychophysica
 ## Natural Images : Edges are on a common circle
 
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Sigman2001Fig4.jpg" title="[Sigman *et al*, 2001]" height="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Sigman2001Fig4.jpg" title="[Sigman *et al*, 2001]" height="420" >}}
 
 {{< speaker_note >}}
 
@@ -198,7 +201,7 @@ A key finding was that for any given relative orientation between edges, the ang
 
 ## The like-to-like hypothesis
 
-{{< figure src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/bosking2Asso.png" title="[Field *et al*, 2013]" height="400" >}}
+{{< figure src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/bosking2Asso.png" title="[Field *et al*, 2013]" height="420" >}}
 
 
 {{< speaker_note >}}
@@ -214,9 +217,9 @@ During the remainder of this talk, I will try to shed light on our current knowl
 
 ---
 
-## Supplementary: modelling the Human Visual system : the HMAX model
+## Supplementary: the HMAX model
 
-{{< figure src="https://www.researchgate.net/profile/Thomas-Serre/publication/253467382/figure/fig1/AS:298143448092675@1448094345807/a-Organization-of-the-visual-cortex-The-diagram-is-modified-from-Gross-1998-Key.png" title="[Serre and Poggio, 2007]" width="65%" >}}
+{{< figure src="https://www.researchgate.net/profile/Thomas-Serre/publication/253467382/figure/fig1/AS:298143448092675@1448094345807/a-Organization-of-the-visual-cortex-The-diagram-is-modified-from-Gross-1998-Key.png" title="[Serre and Poggio, 2007]" height="420" >}}
 
 {{< speaker_note >}}
 - and a model of it...(https://biology.stackexchange.com/questions/10955/ventral-stream-pathway-and-architecture-proposed-by-poggios-group)
@@ -227,7 +230,7 @@ During the remainder of this talk, I will try to shed light on our current knowl
 
 ## Supplementary:  Convolutional Neural Nets (CNN)
 
-{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" height="420" >}}
 
 {{< speaker_note >}}
 - this can be integrated in a hierarchy...
@@ -237,11 +240,9 @@ During the remainder of this talk, I will try to shed light on our current knowl
 
 ---
 
+## Supplementary: Orientation selectivity in V1
 
-
-## Supplementary: Orientation selectivity in the Primary visual cortex
-
-{{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/scientists.jpg" title="[Hubel & Wiesel, 1962]" width="80%" >}}
+{{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/scientists.jpg" title="[Hubel & Wiesel, 1962]" height="420" >}}
 
 {{< speaker_note >}}
 - let's zoom in, the basic ingredient is the receptive field
@@ -249,9 +250,9 @@ During the remainder of this talk, I will try to shed light on our current knowl
 
 ---
 
-## Supplementary: Orientation selectivity in the Primary visual cortex
+## Supplementary: Orientation selectivity in V1
 
-{{< video src="https://raw.githubusercontent.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/master/figures/ComplexDirSelCortCell250_title.mp4" controls="yes" width="100%" >}}
+{{< video src="https://raw.githubusercontent.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/master/figures/ComplexDirSelCortCell250_title.mp4" controls="yes" height="420" >}}
 
 [Hubel & Wiesel, 1962]
 
