@@ -118,10 +118,13 @@ Let's examine the primary visual cortex (V1). A key characteristic found in many
 
 A key feature of primary visual cortex is its layered organization, which is shared across visual areas. The main thalamic input arrives in layer 4, which connects to a dense network of vertical connections across layers. These columns can then communicate via horizontal connections within layers.
 
+
+Hubel and Wiesel also showed that every point in the visual field produces a response in a 2 mm x 2 mm area of the cortex. Such an area can contain two complete groups of ocular dominance columns, 16 blobs and interblobs that may contain more than two times all of the orientations possible across 180 degrees. This region of the cortex, which Hubel and Wiesel called a hypercolumn (or, more generally, a cortical module) seems both necessary and sufficient for analyzing the image of a point in visual space. Because the cortex is a continuous cellular layer and because it is very hard to establish the boundaries of these modules physically, their existence from a functional standpoint is still the subject of debate. 
+https://thebrain.mcgill.ca/flash/a/a_02/a_02_cl/a_02_cl_vis/a_02_cl_vis.html
+
 Figure 9.2. Hypercolumn Diagram. Ocular dominance columns are segregated into left and right eye inputs. Orientation columns are neurons that get excited at different orientations and a cluster of these is called a pinwheel. Blobs are color selective and for every pinwheel there is a blob. (Credit: McGill: The Brain from Top to Bottom, Figure of hypercolumns, Copyleft https://copyleft.org/, https://thebrain.mcgill.ca/flash/a/a_02/a_02_cl/a_02_cl_vis/a_02_cl_vis.html. No modifications.)
 
 From: https://pressbooks.umn.edu/sensationandperception/chapter/columns-and-hypercolumns-in-v1/
-https://thebrain.mcgill.ca/flash/a/a_02/a_02_cl/a_02_cl_vis/a_02_cl_vis.html
 {{< /speaker_note >}}
 
 ---
