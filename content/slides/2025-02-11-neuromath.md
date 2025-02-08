@@ -111,11 +111,17 @@ Let's examine the primary visual cortex (V1). A key characteristic found in many
 ## Thalamic, short- & long-range lateral, interareal
 
 
-{{< figure src="https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/featured.png" height="20%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/featured.png" width="25%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/cortical-columns_a_02_cl_vis_3e.jpg" width="25%" >}}
 
 {{< speaker_note >}}
 
 A key feature of primary visual cortex is its layered organization, which is shared across visual areas. The main thalamic input arrives in layer 4, which connects to a dense network of vertical connections across layers. These columns can then communicate via horizontal connections within layers.
+
+Figure 9.2. Hypercolumn Diagram. Ocular dominance columns are segregated into left and right eye inputs. Orientation columns are neurons that get excited at different orientations and a cluster of these is called a pinwheel. Blobs are color selective and for every pinwheel there is a blob. (Credit: McGill: The Brain from Top to Bottom, Figure of hypercolumns, Copyleft https://copyleft.org/, https://thebrain.mcgill.ca/flash/a/a_02/a_02_cl/a_02_cl_vis/a_02_cl_vis.html. No modifications.)
+
+From: https://pressbooks.umn.edu/sensationandperception/chapter/columns-and-hypercolumns-in-v1/
+https://thebrain.mcgill.ca/flash/a/a_02/a_02_cl/a_02_cl_vis/a_02_cl_vis.html
 {{< /speaker_note >}}
 
 ---
