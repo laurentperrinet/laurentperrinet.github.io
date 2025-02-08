@@ -111,7 +111,7 @@ Let's examine the primary visual cortex (V1). A key characteristic found in many
 ## Thalamic, short- & long-range lateral, interareal
 
 
-{{< figure src="https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/featured.png" width="25%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/featured.png" width="20%" >}}
 {{< figure src="https://laurentperrinet.github.io/publication/chavane-22/cortical-columns_a_02_cl_vis_3e.jpg" width="25%" >}}
 
 {{< speaker_note >}}
@@ -150,6 +150,7 @@ This figure from Markov et al. (2011) quantifies intrinsic connectivity patterns
 This figure shows landmark results by Bosking et al. (1997) combining orientation preference maps with retrograde tracers. After injecting tracers (white arrow), they found labeled synapses (black dots) primarily connecting neurons of similar orientation preference, leading to the influential "like-to-like" connectivity hypothesis. However, later studies by Hunt, Goodhill and others revealed significant diversity in these connection patterns across cortical regions and species, suggesting more complex connectivity rules than initially proposed. This nuanced understanding has important implications for how we think about the functional organization of horizontal connections in V1.
 
 {{< /speaker_note >}}
+
 ---
 
 ## Contour detection and the Association Field
@@ -446,10 +447,9 @@ Panel E tracks the temporal evolution of both the non-orientation-specific and o
 
 {{< speaker_note >}}
 
-Panel F maps how the normalized selective area (relative to FFF) varies across RW and BR parameters. The white contours delineate anatomically plausible ranges where k=0.7-1.2. The green region indicates where the model additionally satisfies constraints on orientation preference and the radial decay of selectivity.
+Panel F maps the normalized selective area (relative to the feedforward footprint) across Ring Width (RW) and orientation bias (BR) parameters. White contours delineate anatomically plausible ranges where k values fall between 0.7-1.2, consistent with experimental measurements. The green region indicates parameter combinations that additionally satisfy constraints on both orientation preference and the observed radial decay of selectivity.
 
-This comprehensive model successfully reconciles anatomical connectivity patterns with functional observations of orientation selectivity propagation in V1.
-
+The neural field model effectively connects anatomical connectivity patterns with functional observations of orientation selectivity propagation in V1. The resulting connectivity structure exhibits similarities with "association field" patterns, suggesting potential optimization for encoding natural image statistics. This framework provides a quantitative basis for investigating computational principles underlying horizontal connectivity in visual cortex.
 
 {{< /speaker_note >}}
 
@@ -460,6 +460,9 @@ This comprehensive model successfully reconciles anatomical connectivity pattern
 {{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig5A.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
 
 {{< speaker_note >}}
+This figure illustrates the groundbreaking approach developed by Geisler et al. (2001) for analyzing edge statistics in natural images. The method involves:
+
+The next section will examine in detail how these statistical regularities inform computational models of the association field.
 
 {{< /speaker_note >}}
 
@@ -474,24 +477,53 @@ This comprehensive model successfully reconciles anatomical connectivity pattern
 
 # Modelling the Association field
 
-## Geisler
+## Edge co-occurences in natural images
 
 
-{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/Geisler01Fig3A.png" height="275"> {{% /fragment %}}{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/Geisler01Fig3B.png" height="275"> {{% /fragment %}}{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/Geisler01Fig3C.png" height="275"> {{% /fragment %}}
+<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/Geisler01Fig3A.png" height="275">{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/Geisler01Fig3B.png" height="275"> {{% /fragment %}}{{% fragment %}}<img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/Geisler01Fig3C.png" height="275"> {{% /fragment %}}
 
 [Geisler, 2001]
 
 {{< speaker_note >}}
-- topography?
+As Geisler et al. (2001) states, "the obvious hypothesis for the local grouping is a neural population with the receptive field structure matched to the edge co-occurrence statistics". Yet, the emergence of receptive field properties is a combination of anatomy and the dynamics of individual neurons. Can we link the statistics of natural images to the structure of processing in the primary visual cortex?
+
+
+
+
 {{< /speaker_note >}}
 
 ---
 
-## Association field
+## Edge co-occurences in natural images
+
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig5A.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+
+{{< speaker_note >}}
+Panel A illustrates the groundbreaking approach developed by Geisler et al. (2001) for analyzing edge statistics in natural images. The method involves:
+
+1. Detecting oriented edge elements in natural images (shown as red segments)
+2. For each edge pair, measuring:
+	- Their relative orientation difference (𝜃)
+	- The relative position angle (𝜙)
+
+This quantitative analysis reveals two key distributions:
+- A strong bias for parallel edge arrangements, evident in the orientation difference histogram
+- A marked preference for co-circular alignments, shown in the relative position histogram
+
+These statistics vary significantly across image databases. For example, images containing animals exhibit enhanced co-circularity compared to general natural scenes. This suggests that rather than implementing a single fixed association field, the visual system may need to handle diverse statistical regularities present in natural inputs.
+
+The next section will examine how these statistical regularities inform computational models of the association field.
+
+{{< /speaker_note >}}
+
+
+---
+
+## Edge co-occurences in natural images
 
 {{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/featured.jpg" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" width="55%" >}}
 
-{{< speaker_note >}}
+<!-- {{< speaker_note >}}
 
 {{< /speaker_note >}}
 
@@ -499,35 +531,28 @@ This comprehensive model successfully reconciles anatomical connectivity pattern
 
 ## Sparse representations in computer vision
 
-{{< figure src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/figures/figure_synthesis.svg" title="[[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" width="70%" >}}
-
-{{< speaker_note >}}
-- extracting edges is useful
-{{< /speaker_note >}}
-
----
-
-## Association field
-
-{{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_results.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" width="55%" >}}
+{{< figure src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/figures/figure_synthesis.svg" title="[[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" width="70%" >}} -->
 
 {{< speaker_note >}}
 
+chevrons
+
 {{< /speaker_note >}}
 
+<!-- 
 ---
 
-## Association field
+## Edge co-occurences in natural images
 
 {{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_chevrons.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" width="55%" >}}
 
 {{< speaker_note >}}
 
-{{< /speaker_note >}}
+{{< /speaker_note >}} -->
 
 ---
 
-## Association field
+## Edge co-occurences in natural images
 
 {{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_chevrons2.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" width="55%" >}}
 
@@ -537,7 +562,7 @@ This comprehensive model successfully reconciles anatomical connectivity pattern
 
 ---
 
-## Association field
+## Edge co-occurences in natural images
 
 {{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_results.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" width="55%" >}}
 
