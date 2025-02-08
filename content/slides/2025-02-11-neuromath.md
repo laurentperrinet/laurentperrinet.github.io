@@ -47,11 +47,9 @@ summary: "When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Process
 
 {{< speaker_note >}}
 
-Hello. I am Laurent Perrinet, a researcher in computational neuroscience and currently a research director at CNRS at the Institute of Neurosciences of la Timone in Marseille. Thank you for inviting me to participate in this "NeuroMathematics" seminar at the intersection of mathematics and neuroscience.
+Hi, thanks for the introduction! I am Laurent Perrinet, a researcher in computational neuroscience and currently a research director at CNRS at the Institute of Neurosciences of la Timone in Marseille. Thank you for inviting me to participate in this "NeuroMathematics" seminar at the intersection of mathematics and neuroscience.
 
-As an engineer by training, I could have pursued a career in aeronautics rather than becoming a scientist in neuroscience. However, through my mathematics professor Manuel Samuelides, I discovered neural networks at the end of my engineering studies.
-
-Thanks to him, I was able to study cognitive sciences (now CogMaster) in 1998. I particularly want to acknowledge Jean Petitot - in his course I discovered how natural image statistics could link to principles in the central nervous system. This was a revelation, and I'm grateful for his guidance in my academic path. Today's seminar represents a return to these roots, as I'll present my research progress since my DEA thesis on this very topic.
+As an engineer by training, I could have pursued a career in aeronautics rather than becoming a scientist in neuroscience. However, thanks to my mathematics professor Manuel Samuelides, I discovered neural networks at the end of my engineering studies. This developped a curiosity for me, and thanks to him, I was also able to study in a mastere of cognitive sciences (now called CogMaster) in 1998. I particularly want to acknowledge Jean Petitot - in his course I discovered how natural image statistics could link to principles in the central nervous system. This was a vivid revelation, and I'm grateful for his guidance in my academic path. Today's seminar represents a return to these roots, as I'll present my research progress since my mastere thesis on this very topic.
 
 {{< /speaker_note >}}
 
@@ -67,12 +65,12 @@ Thanks to him, I was able to study cognitive sciences (now CogMaster) in 1998. I
 <!-- <img src="https://3minutosdearte.com/wp-content/uploads/2016/11/Mir%C3%B3-Paisaje-catal%C3%A1n-el-cazador-1923-24-e1534625628322.jpg" height="420"/> -->
 <!-- [Paysage catalan (Le Chasseur) [Joan Miró, 1924]](https://fr.wikipedia.org/wiki/Paysage_catalan_(Le_Chasseur)) -->
 <table>
-<tr style="height:600px;">
-</tr>
 <tr >
 	<th>
 		<a href ="https://fr.wikipedia.org/wiki/Paysage_catalan_(Le_Chasseur)">Paysage catalan (Le Chasseur), <i>Joan Miró</i> (1924)</a>
 	</th>	
+</tr>
+<tr style="height:600px;">
 </tr>
 </table>
 {{< speaker_note >}}
@@ -87,12 +85,12 @@ Today, I will address our current knowledge about horizontal connectivity rules 
 {{< slide background-image="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png" >}}
 
 <table>
-<tr style="height:600px;">
-</tr>
 <tr >
 	<th>
 		  <a href ="https://laurentperrinet.github.io/post/2018-04-10_trames/">Trames (Etienne Rey)</a>
 	</th>	
+</tr>
+<tr style="height:600px;">
 </tr>
 </table>
 
