@@ -545,6 +545,7 @@ Understanding how these image statistics relate to cortical connectivity pattern
 
 {{< /speaker_note >}}
 
+<!-- 
 ---
 
 ## Edge co-occurences in natural images
@@ -564,7 +565,7 @@ Panel B illustrates the geometric relationships between edge pairs. For any refe
 
 Following Geisler et al. (2001), edges outside a central circular mask were excluded to prevent boundary artifacts in the statistical analysis.
 
-{{< /speaker_note >}}
+{{< /speaker_note >}} -->
 
 ---
 
@@ -579,6 +580,9 @@ Panel A illustrates the groundbreaking approach developed by Geisler et al. (200
 2. For each edge pair, measuring:
 	- Their relative orientation difference (𝜃)
 	- The relative position angle (𝜙)
+	- Center-to-center distance (d)
+	- Azimuth difference (φ)
+	- Co-circularity parameter ψ = φ - θ/2
 
 This quantitative analysis reveals two key distributions:
 - A strong bias for parallel edge arrangements, evident in the orientation difference histogram
@@ -625,7 +629,7 @@ Our analysis reproduced the key findings from Geisler et al. (2001) regarding ed
 
 {{< speaker_note >}}
 
-The probability distribution function p(ψ,θ) represents the distribution of the different geometrical arrangements of edges’ angles, which we call a “chevron map”. We show here the histogram for non-animal natural images, illustrating the preference for co-linear edge configurations. For each chevron configuration, deeper and deeper red circles indicate configurations that are more and more likely with respect to a uniform prior, with an average maximum of about 3 times more likely, and deeper and deeper blue circles indicate configurations less likely than a flat prior (with a minimum of about 0.8 times as likely). Conveniently, this “chevron map” shows in one graph that non-animal natural images have on average a preference for co-linear and parallel edges, (the horizontal middle axis) and orthogonal angles (the top and bottom rows), along with a slight preference for co-circular configurations (for ψ =0 and ψ = ± 2 π, just above and below the central row).
+The probability distribution function p(ψ,θ) represents the distribution of the different geometrical arrangements of edges’ angles, which we call a “chevron map”. We show here the histogram for non-animal natural images, illustrating the preference for co-linear edge configurations. For each chevron configuration, deeper and deeper red circles indicate configurations that are more and more likely with respect to a uniform prior, with an average maximum of about 3 times more likely, and deeper and deeper blue circles indicate configurations less likely than a flat prior (with a minimum of about 0.8 times as likely). Conveniently, this “chevron map” shows in one graph that non-animal natural images have on average a preference for co-linear and parallel edges, (the horizontal middle axis) and orthogonal angles (the top and bottom rows), along with a slight preference for co-circular configurations (for ψ =0 and ψ = ± π/2, just above and below the central row).
 
 {{< /speaker_note >}}
 
@@ -692,6 +696,18 @@ This anatomical heterogeneity aligns with V1's role in both specialized feature 
 
 ## Predictive processing
 
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" height="420" >}}
+
+{{< speaker_note >}}
+- this can be integrated in a hierarchy...
+- defining a Convolutional Neural Networks (CNN)
+- one layer is a convolution
+{{< /speaker_note >}} 
+
+---
+
+## Predictive processing
+
 {{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" height="420" >}}
 
 {{< speaker_note >}}
@@ -713,17 +729,7 @@ This anatomical heterogeneity aligns with V1's role in both specialized feature 
 
 ## Predictive processing
 
-{{< figure  src="https://github.com/laurentperrinet/2020-09-25_IRPHE/raw/master/figures/PCOMPBIOL-D-19-01811_R2_compressed_FigS4.png" title="[Bosking *et al*, 1997]" height="420" >}}
-
-{{< speaker_note >}}
-
-{{< /speaker_note >}}
-
----
-
-## Predictive processing
-
-{{< figure src="https://laurentperrinet.github.io/publication/franciosini-21/featured.jpg" title="[[Boutin *et al*, 2022](https://laurentperrinet.github.io/publication/franciosini-21/)]" height="420" >}}
+{{< figure  src="https://github.com/laurentperrinet/2020-09-25_IRPHE/raw/master/figures/PCOMPBIOL-D-19-01811_R2_compressed_FigS4.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" height="420" >}}
 
 {{< speaker_note >}}
 
@@ -738,6 +744,17 @@ This anatomical heterogeneity aligns with V1's role in both specialized feature 
 {{< speaker_note >}}
 
 {{< /speaker_note >}}
+
+---
+
+## Supplementary : Predictive processing with pooling
+
+{{< figure src="https://laurentperrinet.github.io/publication/franciosini-21/featured.jpg" title="[[Boutin *et al*, 2022](https://laurentperrinet.github.io/publication/franciosini-21/)]" height="420" >}}
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
 
 </section>
 
