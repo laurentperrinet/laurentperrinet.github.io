@@ -589,8 +589,7 @@ The probability distribution function p(ψ,θ) represents the distribution of th
 
 {{< speaker_note >}}
 
-
-Importantly, these statistics vary across image categories - for instance, animal images show enhanced co-circularity compared to generic natural scenes. This suggests the visual system must handle diverse statistical regularities rather than implementing a fixed association field pattern.
+The chevron maps reveal distinct edge configuration biases across image categories. Animal images show relatively more circular continuations and converging angles compared to non-animal images (red regions in central vertical axis), while having fewer co-linear, parallel and orthogonal arrangements (blue regions along horizontal axis). In contrast, man-made images exhibit a strong bias for co-linear features (intense red at center). This suggests the visual system must adapt to diverse statistical regularities rather than implementing a fixed association field pattern, as different image categories contain systematically different geometric arrangements of edges.
 
 {{< /speaker_note >}}
 
@@ -601,6 +600,10 @@ Importantly, these statistics vary across image categories - for instance, anima
 {{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_results.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" height="420" >}}
 
 {{< speaker_note >}}
+
+This figure shows classification performance across image categories using different statistical features. We used an SVM classifier with three feature sets: first-order orientation statistics (FO), the reduced 2D "chevron map" (CM), and full 4D second-order statistics (SO). The classification accuracy (F1 score) was tested for distinguishing between image categories. Results show strong performance in separating man-made from natural images, as expected. More notably, the classifier achieved ~80% accuracy in discriminating animal vs non-animal natural images, matching human performance levels reported by Serre et al. This suggests that relatively simple edge co-occurrence statistics contain sufficient information for basic image categorization tasks, without requiring higher-level semantic processing.
+
+We also found that our model made the same errors as humans do: if an image without an animal contains more co-circular edges, it is more likely to be falsely categorized as containing an animal.
 
 {{< /speaker_note >}}
 
@@ -626,7 +629,14 @@ While we have demonstrated how to derive association fields from natural image s
 {{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]" height="420" >}}
 
 {{< speaker_note >}}
-- topography?
+The anatomical data reveals that V1 horizontal connectivity exhibits more complexity than suggested by the classical like-to-like hypothesis. While orientation-specific connections exist, they coexist with non-selective connections that link neurons irrespective of their tuning preferences. This diversity likely serves multiple computational functions:
+
+1. Specific connections could support contour integration and feature binding
+2. Non-selective connections may enable broad contextual modulation 
+3. Mixed connectivity patterns could help maintain network stability while preserving functional specificity
+
+This anatomical heterogeneity aligns with V1's role in both specialized feature detection and broader contextual processing. Understanding how these distinct connectivity patterns interact remains an active area of research in visual neuroscience.
+
 {{< /speaker_note >}}
 
 ---
