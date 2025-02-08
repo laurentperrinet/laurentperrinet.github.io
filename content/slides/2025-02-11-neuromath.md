@@ -207,6 +207,7 @@ The like-to-like hypothesis has been influential in understanding horizontal con
 
 However, we should be cautious about overstating these relationships. While horizontal connections show some orientation specificity, recent evidence indicates the connectivity patterns are more complex and heterogeneous than initially proposed. The functional role of this diverse connectivity remains an active area of investigation.
 
+During the remainder of this talk, I will try to shed light on our current knowledege on horizontal connectivities.
 
 {{< /speaker_note >}}
 
@@ -305,6 +306,16 @@ First: What is the anatomy of horizontal connections?
 ## Challenging the like-to-like hypothesis
 
 {{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig1AE.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" width="55%" >}}
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+---
+
+## Challenging the like-to-like hypothesis
+
+{{< figure src="https://laurentperrinet.github.io/publication/voges-12/featured.jpg" title="[[Voges and LP, 2012]](https://laurentperrinet.github.io/publication/voges-12/)" width="55%" >}}
 
 {{< speaker_note >}}
 
