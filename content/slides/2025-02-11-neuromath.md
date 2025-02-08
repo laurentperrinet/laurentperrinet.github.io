@@ -504,6 +504,17 @@ Understanding how these image statistics relate to cortical connectivity pattern
 
 {{< speaker_note >}}
 
+Panel A shows a sample image overlaid with detected edges represented as red line segments. Each segment encodes position (center point), orientation, and scale (segment length). The edge detection was controlled to ensure the reconstruction error remained below 5% of the original image energy.
+
+Panel B illustrates the geometric relationships between edge pairs. For any reference edge A and target edge B, these relationships are quantified by:
+- Orientation difference (θ)
+- Scale ratio (σ) 
+- Center-to-center distance (d)
+- Azimuth difference (φ)
+- Co-circularity parameter ψ = φ - θ/2
+
+Following Geisler et al. (2001), edges outside a central circular mask were excluded to prevent boundary artifacts in the statistical analysis.
+
 {{< /speaker_note >}}
 
 ---
@@ -541,18 +552,7 @@ The next section will examine how these statistical regularities inform computat
 
 chevrons
 
-{{< /speaker_note >}}
-
----
-
-## Edge co-occurences in natural images
-
-{{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_chevrons.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" height="420" >}}
-
-{{< speaker_note >}}
-
 {{< /speaker_note >}} -->
-
 
 ---
 
@@ -563,8 +563,8 @@ chevrons
 [Geisler, 2001]
 
 {{< speaker_note >}}
-As Geisler et al. (2001) states, "the obvious hypothesis for the local grouping is a neural population with the receptive field structure matched to the edge co-occurrence statistics". Yet, the emergence of receptive field properties is a combination of anatomy and the dynamics of individual neurons. Can we link the statistics of natural images to the structure of processing in the primary visual cortex?
 
+Our analysis reproduced the key findings from Geisler et al. (2001) regarding edge co-occurrence statistics in natural images. Importantly, we observed that these co-occurrence patterns remain invariant with respect to distance, as this parameter depends primarily on viewpoint rather than intrinsic scene structure. Similarly, the statistics show rotational invariance with respect to the reference edge orientation. By leveraging these symmetries and marginalizing over distance and orientation, we were able to reduce the full 4-dimensional co-occurrence distribution to an informationally equivalent 2-dimensional representation of relative orientation difference and Co-circularity parameter ψ = φ - θ/2 where φ Azimuth difference.
 
 {{< /speaker_note >}}
 
@@ -572,9 +572,23 @@ As Geisler et al. (2001) states, "the obvious hypothesis for the local grouping
 
 ## Edge co-occurences in natural images
 
+{{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_chevrons.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" height="420" >}}
+
+{{< speaker_note >}}
+
+The probability distribution function p(ψ,θ) represents the distribution of the different geometrical arrangements of edges’ angles, which we call a “chevron map”. We show here the histogram for non-animal natural images, illustrating the preference for co-linear edge configurations. For each chevron configuration, deeper and deeper red circles indicate configurations that are more and more likely with respect to a uniform prior, with an average maximum of about 3 times more likely, and deeper and deeper blue circles indicate configurations less likely than a flat prior (with a minimum of about 0.8 times as likely). Conveniently, this “chevron map” shows in one graph that non-animal natural images have on average a preference for co-linear and parallel edges, (the horizontal middle axis) and orthogonal angles (the top and bottom rows), along with a slight preference for co-circular configurations (for ψ =0 and ψ = ± 2 π, just above and below the central row).
+
+{{< /speaker_note >}}
+
+---
+
+
+## Edge co-occurences in natural images
+
 {{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_chevrons2.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" height="420" >}}
 
 {{< speaker_note >}}
+
 
 Importantly, these statistics vary across image categories - for instance, animal images show enhanced co-circularity compared to generic natural scenes. This suggests the visual system must handle diverse statistical regularities rather than implementing a fixed association field pattern.
 
@@ -587,6 +601,18 @@ Importantly, these statistics vary across image categories - for instance, anima
 {{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_results.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" height="420" >}}
 
 {{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+---
+
+## Edge co-occurences in natural images
+
+{{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_chevrons.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" height="420" >}}
+
+{{< speaker_note >}}
+
+While we have demonstrated how to derive association fields from natural image statistics, it is important to note that the resulting probability distribution function represents an average over many possible edge configurations. Though this statistical approach successfully discriminates between image categories (e.g., animal vs non-animal images), it likely oversimplifies the true diversity of edge arrangements present in natural scenes. Individual images may contain unique geometrical patterns that deviate significantly from the average statistics. Understanding this variability, rather than just mean tendencies, could provide deeper insights into how the visual system handles the rich complexity of natural scenes.
 
 {{< /speaker_note >}}
 
