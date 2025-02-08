@@ -65,9 +65,16 @@ summary: "When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Process
 {{< slide background-image="https://3minutosdearte.com/wp-content/uploads/2016/11/Mir%C3%B3-Paisaje-catal%C3%A1n-el-cazador-1923-24-e1534625628322.jpg" >}}
 
 <!-- <img src="https://3minutosdearte.com/wp-content/uploads/2016/11/Mir%C3%B3-Paisaje-catal%C3%A1n-el-cazador-1923-24-e1534625628322.jpg" height="420"/> -->
-
-[Paysage catalan (Le Chasseur) [Joan Miró, 1924]](https://fr.wikipedia.org/wiki/Paysage_catalan_(Le_Chasseur))
-
+<!-- [Paysage catalan (Le Chasseur) [Joan Miró, 1924]](https://fr.wikipedia.org/wiki/Paysage_catalan_(Le_Chasseur)) -->
+<table>
+<tr style="height:600px;">
+</tr>
+<tr >
+	<th>
+		  <a href ="https://fr.wikipedia.org/wiki/Paysage_catalan_(Le_Chasseur)">Paysage catalan (Le Chasseur) Joan Miró, 1924</a>
+	</th>	
+</tr>
+</table>
 {{< speaker_note >}}
 
 
@@ -79,7 +86,16 @@ Today, I will address our current knowledge about horizontal connectivity rules 
 
 {{< slide background-image="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png" >}}
 
-Trames (Etienne Rey)
+<table>
+<tr style="height:600px;">
+</tr>
+<tr >
+	<th>
+		  <a href ="https://laurentperrinet.github.io/post/2018-04-10_trames/">Trames (Etienne Rey)</a>
+	</th>	
+</tr>
+</table>
+
 
 {{< speaker_note >}}
 
