@@ -385,6 +385,23 @@ This data demonstrates how orientation selectivity propagates through horizontal
 
 ## Challenging the like-to-like hypothesis
 
+{{< video src="https://laurentperrinet.github.io/publication/chavane-22/area17_lo_diff_circ_plot.mpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)"  controls="yes" height="420" >}}
+
+
+{{< speaker_note >}}
+
+Panel A illustrates functional voltage-sensitive dye imaging (VSDI) data from cat area 17, revealing orientation-selective responses evoked by local oriented gratings. The left image shows a polar orientation map averaged over the final 145ms of the response, where color hue indicates preferred orientation and brightness represents orientation tuning strength. Two contours are overlaid: a thin grey line marking significant activation boundaries and a thick white line delineating regions with significant orientation selectivity.
+
+The right plot quantifies the spatiotemporal dynamics, showing how both the total activated area (grey) and orientation-selective region (black) evolve over time. A red line indicates the expected limit of the feedforward input based on Albus (2004), representing the population of neurons that would be directly or partially activated by feedforward connections. The dotted red line marks the retinotopic area corresponding to the stimulus. The inset compares the spatial extent of both total activation (grey) and orientation-selective activation (black) against the feedforward boundary (red).
+
+This data demonstrates how orientation selectivity propagates through horizontal connections beyond the classical feedforward input zone.
+
+{{< /speaker_note >}}
+
+---
+
+## Challenging the like-to-like hypothesis
+
 {{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig2AB.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" height="420" >}}
 
 {{< speaker_note >}}
