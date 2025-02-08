@@ -369,15 +369,23 @@ To quantitatively understand how connectivity patterns shape network dynamics, w
 
 ## Challenging the like-to-like hypothesis
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig2A.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" height="420" >}}
+{{< video src="https://laurentperrinet.github.io/publication/chavane-22/area17_lo_diff_circ_plot.mpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)"  controls="yes" height="420" >}}
+
 
 {{< speaker_note >}}
 
-Panel A illustrates functional voltage-sensitive dye imaging (VSDI) data from cat area 17, revealing orientation-selective responses evoked by local oriented gratings. The left image shows a polar orientation map averaged over the final 145ms of the response, where color hue indicates preferred orientation and brightness represents orientation tuning strength. Two contours are overlaid: a thin grey line marking significant activation boundaries and a thick white line delineating regions with significant orientation selectivity.
+This video shows voltage-sensitive dye imaging (VSDI) data from cat primary visual cortex (area 17) in response to a local oriented grating stimulus. The visualization reveals two key aspects:
 
-The right plot quantifies the spatiotemporal dynamics, showing how both the total activated area (grey) and orientation-selective region (black) evolve over time. A red line indicates the expected limit of the feedforward input based on Albus (2004), representing the population of neurons that would be directly or partially activated by feedforward connections. The dotted red line marks the retinotopic area corresponding to the stimulus. The inset compares the spatial extent of both total activation (grey) and orientation-selective activation (black) against the feedforward boundary (red).
+1. The broader activation pattern shown by overall fluorescence changes (gray)
+2. The more restricted orientation-selective response pattern (colored regions)
 
-This data demonstrates how orientation selectivity propagates through horizontal connections beyond the classical feedforward input zone.
+Two contours are overlaid: a red line marking the boundary of significant activation, and a white line delineating regions with statistically significant orientation selectivity. The orientation selectivity is encoded by color hue.
+
+The bottom plots quantify the spatiotemporal dynamics by showing:
+- Left: The total activated cortical area over time
+- Right: The extent of orientation-selective regions over time 
+
+Together, these measurements demonstrate how orientation-selective signals propagate laterally beyond the classical feedforward input zone through horizontal connections, while maintaining some degree of feature selectivity.
 
 {{< /speaker_note >}}
 
@@ -385,16 +393,17 @@ This data demonstrates how orientation selectivity propagates through horizontal
 
 ## Challenging the like-to-like hypothesis
 
-{{< video src="https://laurentperrinet.github.io/publication/chavane-22/area17_lo_diff_circ_plot.mpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)"  controls="yes" height="420" >}}
-
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig2A.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" height="420" >}}
 
 {{< speaker_note >}}
+This figure shows spatial and temporal dynamics of orientation selectivity in cat V1 analyzed from voltage-sensitive dye imaging data. Panel A displays a cortical orientation map averaged over the final 145ms of the response, where hue indicates preferred orientation and brightness shows orientation tuning strength. The dotted red line delineates the expected retinotopic boundary of feedforward input based on Albus (2004).
 
-Panel A illustrates functional voltage-sensitive dye imaging (VSDI) data from cat area 17, revealing orientation-selective responses evoked by local oriented gratings. The left image shows a polar orientation map averaged over the final 145ms of the response, where color hue indicates preferred orientation and brightness represents orientation tuning strength. Two contours are overlaid: a thin grey line marking significant activation boundaries and a thick white line delineating regions with significant orientation selectivity.
+The inset quantitatively compares the spatial extent of:
+1. Total cortical activation (grey contour)
+2. Orientation-selective activation (black contour) 
+3. Theoretical feedforward input boundary (red contour)
 
-The right plot quantifies the spatiotemporal dynamics, showing how both the total activated area (grey) and orientation-selective region (black) evolve over time. A red line indicates the expected limit of the feedforward input based on Albus (2004), representing the population of neurons that would be directly or partially activated by feedforward connections. The dotted red line marks the retinotopic area corresponding to the stimulus. The inset compares the spatial extent of both total activation (grey) and orientation-selective activation (black) against the feedforward boundary (red).
-
-This data demonstrates how orientation selectivity propagates through horizontal connections beyond the classical feedforward input zone.
+This data demonstrates that orientation-selective responses propagate laterally beyond the classical feedforward input zone through horizontal connections, while maintaining some degree of feature selectivity. The systematic comparison between total activation and selective activation provides direct evidence for how horizontal connectivity shapes the spatiotemporal dynamics of orientation processing in V1.
 
 {{< /speaker_note >}}
 
