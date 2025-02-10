@@ -47,7 +47,7 @@ summary: "When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Process
 
 {{< speaker_note >}}
 
-Hi, thanks for the introduction! I am Laurent Perrinet, a researcher in computational neuroscience and currently a research director at CNRS at the Institute of Neurosciences of la Timone in Marseille. Thank you for inviting me to participate in this "NeuroMathematics" seminar at the intersection of mathematics and neuroscience.
+Hi, thanks for the introduction! I am Laurent Perrinet, a researcher in computational neuroscience and currently a research director at CNRS at the Institute of Neuroscience of la Timone in Marseille. Thank you for inviting me to participate in this "NeuroMathematics" seminar at the intersection of mathematics and neuroscience.
 
 As an engineer by training, I could have pursued a career in aeronautics rather than becoming a scientist in neuroscience. However, thanks to my mathematics professor Manuel Samuelides, I discovered neural networks at the end of my engineering studies. This developped a curiosity for me, and thanks to him, I was also able to study in a mastere of cognitive sciences (now called CogMaster) in 1998. I particularly want to acknowledge Jean Petitot - in his course I discovered how natural image statistics could link to principles in the central nervous system. This was a vivid revelation, and I'm grateful for his guidance in my academic path. Today's seminar represents a return to these roots, as I'll present my research progress since my mastere thesis on this very topic.
 
