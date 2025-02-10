@@ -114,7 +114,7 @@ With only dots, we still see lines, such as a hexagonal grid, and even an illusi
 
 {{< speaker_note >}}
 
-This percept of continuity which was previously already framed in the Gestalt paadigm has developped into a quantitative framework. This seminal work by Field, Hayes and Hess in 1993 demonstrated that observers were better at detecting contours formed by aligned Gabor patches compared to randomly oriented ones.
+This percept of continuity which was previously already framed in the Gestalt paradigm has developed into a quantitative framework. This seminal work by Field, Hayes and Hess in 1993 demonstrated that observers were better at detecting contours formed by aligned Gabor patches compared to randomly oriented ones. Like how a contour may preferentially emerge in a dense field of edges.
 {{< /speaker_note >}}
 
 ---
@@ -127,7 +127,9 @@ This percept of continuity which was previously already framed in the Gestalt pa
 
 {{< speaker_note >}}
 
-They proposed that this perceptual grouping relies on an "association field" - a hypothetical linking mechanism that preferentially connects neurons tuned to similar orientations. Their psychophysical experiments showed that detection performance was best when elements were co-aligned and degraded systematically as the relative orientation between elements increased. This association field concept provided a compelling framework for understanding how the visual system may implement contour integration through neural connectivity patterns.
+Their psychophysical experiments showed that detection performance was best when elements were co-aligned and degraded systematically as the relative orientation between elements increased. This highlighted significant edge parameters such a relative orientation, distance, but not phase. 
+Consequently, they proposed that this perceptual grouping relies on an "association field" - a hypothetical linking mechanism that preferentially connects neurons tuned to similar orientations. 
+This association field concept provided a compelling framework for understanding how the visual system may implement contour integration through neural connectivity patterns.
 
 {{< /speaker_note >}}
 
@@ -167,11 +169,13 @@ Let's begin with the anatomy of the visual system. The diagram shows the human v
 
 V1 is central to these pathways and shows distinctive anatomical and functional properties along with a complex topographical organization.
 
-This figure from Kaschube et al. (2010) illustrates the organization of orientation preference maps in primary visual cortex (V1). Individual V1 neurons exhibit selective responses to oriented visual stimuli, with their spatial arrangement following highly structured patterns across the cortical surface. In many mammals including cats, monkeys and ferrets, orientation preference is organized in a quasi-periodic manner, forming what are known as orientation preference maps. These maps show remarkable consistency in their geometric properties across species, particularly in the spatial organization of pinwheel centers where orientation preferences converge.
+This figure from Kaschube et al. (2010) illustrates the organization of orientation preference maps in primary visual cortex (V1). 
+Individual V1 neurons exhibit selective responses to oriented visual stimuli (as denoted by varying hues Colors code preferred ORs as indicated by the bars in (C)), with their spatial arrangement following highly structured patterns across the cortical surface. 
+Panel B shows Synthetic orientation-maps of equal column spacing Λ but widely different pinwheel densities ρ. Left to right: solutions of different models: (13–16).. (C) High (blue frame) and low (orange frame) pinwheel density regions in tree shrew visual cortex. (D to F), Optically recorded orientation-maps in tree shrew (D), galago (E), and ferret (F) visual cortex. Regions shown in (C) are marked in (D). White arrows in (F) mark selected pinwheel centers. Framed regions in (C) and (F) are magnified.
+In many mammals including cats, monkeys and ferrets, orientation preference is organized in a quasi-periodic manner, forming what are known as orientation preference maps. These maps show remarkable consistency in their geometric properties across species, particularly in the spatial organization of pinwheel centers where orientation preferences converge.
 
 However, this organization shows important species-specific variations. Most notably, while primates and carnivores display orderly orientation maps with smooth transitions between preferred orientations, rodents lack such maps and instead show a "salt-and-pepper" arrangement where neighboring neurons have seemingly random orientation preferences. This organizational diversity raises interesting questions about the computational advantages of these different architectures and their relationship to visual processing requirements and behavioral needs across species.
 
-(B) Synthetic orientation-maps of equal column spacing Λ but widely different pinwheel densities ρ. Left to right: solutions of different models: (13–16). Colors code preferred ORs as indicated by the bars in (C). (C) High (blue frame) and low (orange frame) pinwheel density regions in tree shrew visual cortex. (D to F), Optically recorded orientation-maps in tree shrew (D), galago (E), and ferret (F) visual cortex. Regions shown in (C) are marked in (D). White arrows in (F) mark selected pinwheel centers. Framed regions in (C) and (F) are magnified.
 
 {{< /speaker_note >}}
 
