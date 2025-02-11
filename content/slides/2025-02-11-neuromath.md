@@ -824,18 +824,6 @@ neighborhoods centered on the 10 most strongly activated neurons
 
 ---
 
-## Predictive processing with pooling
-
-{{< figure src="https://laurentperrinet.github.io/publication/franciosini-21/featured.jpg" title="[[Boutin *et al*, 2022](https://laurentperrinet.github.io/publication/franciosini-21/)]" height="420" >}}
-
-{{< speaker_note >}}
-
-It is worth noting that extending the model with additional architectural features, such as long-range horizontal connectivity across neighboring hypercolumns, enables the emergence of more complex properties including topographic maps and complex cell-like responses. However, examining these extensions falls beyond the scope of today's presentation.
-
-{{< /speaker_note >}}
-
----
-
 ## Predictive processing
 
 {{< figure  src="https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/boutin-franciosini-chavane-ruffier-perrinet-20Fig3.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" height="420" >}}
@@ -860,13 +848,13 @@ We can further analyze the relative role fo feedback: Relative co-linearity and 
 
 ---
 
-## Predictive processing
+## Predictive processing with pooling
 
-{{< figure  src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]" height="420" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/franciosini-21/featured.jpg" title="[[Boutin *et al*, 2022](https://laurentperrinet.github.io/publication/franciosini-21/)]" height="420" >}}
 
 {{< speaker_note >}}
 
-As a result, predictive processing may be an efficient model to better understand the richness of horizontal connectivity patterns. 
+It is worth noting that extending the model with additional architectural features, such as long-range horizontal connectivity across neighboring hypercolumns, enables the emergence of more complex properties including topographic maps and complex cell-like responses. However, examining these extensions falls beyond the scope of today's presentation.
 
 {{< /speaker_note >}}
 
@@ -877,6 +865,18 @@ As a result, predictive processing may be an efficient model to better understan
 
 <section>
 
+
+## Challenging the like-to-like hypothesis
+
+{{< figure  src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]" height="420" >}}
+
+{{< speaker_note >}}
+
+As a result, predictive processing may be an efficient model to better understand the richness of horizontal connectivity patterns. 
+
+{{< /speaker_note >}}
+
+---
 
 ## Challenging the like-to-like hypothesis
 
