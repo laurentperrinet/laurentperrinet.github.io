@@ -47,12 +47,11 @@ summary: "When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Process
 
 {{< speaker_note >}}
 
-Hi, thanks for the introduction! I am Laurent Perrinet, a researcher in computational neuroscience and currently a research director at CNRS at the Institute of Neuroscience of la Timone in Marseille. Thank you for inviting me to participate in this "NeuroMathematics" seminar at the intersection of mathematics and neuroscience.
+Hi, thanks for the introduction! I am Laurent Perrinet, a researcher in computational neuroscience and currently a research director at CNRS at the Institute of Neuroscience of la Timone in Marseille. **Thank you** for inviting me to participate in this "NeuroMathematics" seminar at the intersection of mathematics and neuroscience.
 
-As an engineer by training, I could have pursued a career in aeronautics rather than becoming a scientist in neuroscience. However, thanks to my mathematics professor Manuel Samuelides, I discovered neural networks at the end of my engineering studies. This developped a curiosity for me, and thanks to him, I was also able to study in a mastere of cognitive sciences (now called CogMaster) in 1998. I particularly want to acknowledge Jean Petitot - in his course I discovered how natural image statistics could link to principles in the central nervous system. This was a vivid revelation, and I'm grateful for his guidance in my academic path. Today's seminar represents a return to these roots, as I'll present my research progress since my mastere thesis on this very topic.
+As an engineer by training, I could have pursued a career in aeronautics rather than becoming a neuroscientist. It is thanks to my mathematics professor **Manuel Samuelides** that I discovered the beauty of neural networks at the end of my engineering studies. This developped a curiosity, and thanks to him, I was also able to study in a mastere of cognitive sciences (now called CogMaster) in 1998. This is where I particularly want to acknowledge **Jean Petitot** - for his course I discovered how natural image statistics could link to principles in the central nervous system. This was a vivid revelation, and I'm grateful for his guidance in my academic path. Today's seminar represents a return to these roots, as I'll present my research progress since my mastere thesis on this very topic.
 
-
-Today, I will address our current knowledge about horizontal connectivity rules in V1. Why is this important? As a matter of fact, one main function of sensory systems, such as the pivotal role of the primary visual cortex for vision, is to bind together the different visual features to help ultimately build a global perception.
+Today, I will address our current knowledge about **horizontal connectivity rules in V1**. Why is this important? As a matter of fact, one main function of sensory systems, such as the pivotal role of the primary visual cortex for vision, is to bind together the different visual features to help ultimately build a global perception.
 
 {{< /speaker_note >}}
 
@@ -78,9 +77,9 @@ Today, I will address our current knowledge about horizontal connectivity rules 
 </table>
 {{< speaker_note >}}
 
- This is playfully illustrated in this painting from Joan Miró, which allows us to depict this Catalan landscape with the hunter. A few strokes are sufficient to signify the landscape or allow us to imagine the hunter.
+ This is playfully illustrated in this painting from Joan Miró, which allows us to depict this Catalan landscape with the hunter. A few strokes are sufficient to signify the landscape or allow us to imagine the hunter. This shows the powerfullness of our visual system in evoking us an impression of the world.
 
-This is so striking that the lines and contours may appear even when they do not exist, such as in this display created with the visual artist Etienne Rey.
+This is so striking that the lines and contours may appear even when they do not exist, such as in this display created with the visual artist Etienne Rey (beware! it will likely tickle your eyes).
 
 {{< /speaker_note >}}
 
@@ -101,7 +100,7 @@ This is so striking that the lines and contours may appear even when they do not
 
 {{< speaker_note >}}
 
-With only dots, we still see lines, such as a hexagonal grid, and even an illusion of depth. Notice how this illusion depends on the position of your eye and therefore of your retina. Can we make sense of these phenomena?
+With only dots arranged in two hewxagonal grids simply shifted by an anagle of 9°, we still see lines, such as a lower-frequency hexagonal grid, and even an illusion of depth. Notice how this illusion depends on the position of your eye and therefore of your retina. Can we make sense of these phenomena?
 
 {{< /speaker_note >}}
 
@@ -114,7 +113,7 @@ With only dots, we still see lines, such as a hexagonal grid, and even an illusi
 
 {{< speaker_note >}}
 
-This percept of continuity which was previously already framed in the Gestalt paradigm has developed into a quantitative framework. This seminal work by Field, Hayes and Hess in 1993 demonstrated that observers were better at detecting contours formed by aligned Gabor patches compared to randomly oriented ones. Like how a contour may preferentially emerge in a dense field of edges.
+This percept of continuity was previously already framed in the **Gestalt** paradigm and was further developed into a quantitative framework. This seminal work by Field, Hayes and Hess in 1993 demonstrated that observers were better at detecting contours formed by aligned Gabor patches compared to randomly oriented ones. Like how a contour may preferentially emerge in a dense field of edges.
 {{< /speaker_note >}}
 
 ---
@@ -128,11 +127,23 @@ This percept of continuity which was previously already framed in the Gestalt pa
 {{< speaker_note >}}
 
 Their psychophysical experiments showed that detection performance was best when elements were co-aligned and degraded systematically as the relative orientation between elements increased. This highlighted significant edge parameters such a relative orientation, distance, but not phase. 
-Consequently, they proposed that this perceptual grouping relies on an "association field" - a hypothetical linking mechanism that preferentially connects neurons tuned to similar orientations. 
-This association field concept provided a compelling framework for understanding how the visual system may implement contour integration through neural connectivity patterns.
 
 {{< /speaker_note >}}
 
+---
+
+## Contour detection and the Association Field
+
+
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/AssoFieldNoBosking.png" title="[Field *et al*, 1993]" height="420" >}}
+
+
+{{< speaker_note >}}
+
+Consequently, they proposed that this perceptual grouping relies on an "association field" - a hypothetical linking mechanism that preferentially connects neurons tuned to similar orientations. 
+But where does this association field comes from ?
+
+{{< /speaker_note >}}
 ---
 
 ## Natural Images : Edges are on a common circle
@@ -142,9 +153,24 @@ This association field concept provided a compelling framework for understanding
 
 {{< speaker_note >}}
 
-A significant contribution to understanding edge co-occurrences in natural images came from Sigman et al. (2001). By analyzing edge orientations in natural images, they quantified the probability density function of edge co-occurrences based on their relative positions and orientations. The figure demonstrates this by showing the spatial distribution patterns for edges relative to a reference edge at different orientations. For iso-oriented edges (a), the co-occurrence pattern shows clear structure. As the relative orientation increases through 22.5° (b), 45° (c), 67.5° (d), to 90° (e), distinct spatial patterns emerge. 
+A significant contribution to understanding the association field came from studying **edge co-occurrences in natural images** by Sigman et al. (2001). They quantified the probability density function of edge co-occurrences based on their relative positions and orientations. The figure demonstrates this by showing the spatial distribution patterns for edges relative to a reference edge at different orientations. For iso-oriented edges (a), the co-occurrence pattern shows clear structure. As the relative orientation increases through 22.5° (b), 45° (c), 67.5° (d), to 90° (e), distinct spatial patterns emerge. 
 
-A key finding was that for any given relative orientation between edges, the angle of maximal interaction occurs at the bisector between the orientations. This suggests that co-occurring edges tend to lie on a common circle - a property known as cocircularity. Panel (f) illustrates this geometrical principle: given two edges at angles w (red, 20°) and c (blue, 40°), the cocircularity solutions (green lines at 30° and 120°) represent the possible orientations of connecting circular arcs. This mathematical relationship provides insights into how the visual system might leverage statistical regularities in natural scenes for contour integration.
+A key finding was that for any given relative orientation between edges, the angle of maximal interaction occurs at the bisector between the orientations. This suggests that **co-occurring edges tend to lie on a common circle** - a property known as cocircularity. Panel (f) illustrates this geometrical principle: given two edges at angles w (red, 20°) and c (blue, 40°), the cocircularity solutions (green lines at 30° and 120°) represent the possible orientations of connecting circular arcs. This mathematical relationship provides insights into how the visual system might leverage statistical regularities in natural scenes for contour integration. We will go back into the details of this a bit further in the talk.
+
+This association field concept provided a compelling framework for understanding how the visual system may implement contour integration through neural connectivity patterns. but before going there we should go back to the **basic anatomy of the visual cortex**.
+
+{{< /speaker_note >}}
+
+---
+
+## Contour detection and the Association Field
+
+
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/AssoFieldNoBosking.png" title="[Field *et al*, 1993]" height="420" >}}
+
+
+{{< speaker_note >}}
+
 
 {{< /speaker_note >}}
 
@@ -156,7 +182,7 @@ A key finding was that for any given relative orientation between edges, the ang
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Human Visual system ([Grimaldi *et al* 2022](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))" height="420" >}}
 
 {{< speaker_note >}}
-Let's begin with the anatomy of the visual system. The diagram shows the human visual pathways, where information flows from the retina through the optic nerve to reach the lateral geniculate nucleus  in the thalamus. From there, signals project to the primary visual cortex (V1) and then proceed through higher visual areas following two main streams - the ventral "what" pathway (which I show here) and the dorsal "where/how" pathway. This hierarchical organization allows for increasingly complex visual processing, ultimately enabling motor responses and behavior. The latencies shown in the figure indicate the sequential timing of neural activation across these processing stages.
+Let's begin with the **anatomy** of the visual system. The diagram shows the human visual pathways, where information flows from the **retina** through the optic nerve to reach the lateral geniculate nucleus  in the thalamus. From there, signals project to the **primary visual cortex** (V1) where neurons are selective to local oriented edges. Information then proceed through higher visual areas following two main streams - the ventral "what" pathway (which I show here) and the dorsal "where/how" pathway. This hierarchical organization allows for increasingly complex visual processing, ultimately enabling motor responses and behavior. The **latencies** shown in the figure indicate the sequential timing of neural activation across these processing stages.
 {{< /speaker_note >}}
 
 ---
@@ -169,12 +195,12 @@ Let's begin with the anatomy of the visual system. The diagram shows the human v
 
 V1 is central to these pathways and shows distinctive anatomical and functional properties along with a complex topographical organization.
 
-This figure from Kaschube et al. (2010) illustrates the organization of orientation preference maps in primary visual cortex (V1). 
+This figure from Kaschube et al. (2010) illustrates the **organization of orientation preference maps** in primary visual cortex (V1). 
 Individual V1 neurons exhibit selective responses to oriented visual stimuli (as denoted by varying hues Colors code preferred ORs as indicated by the bars in (C)), with their spatial arrangement following highly structured patterns across the cortical surface. 
 Panel B shows Synthetic orientation-maps of equal column spacing Λ but widely different pinwheel densities ρ. Left to right: solutions of different models: (13–16).. (C) High (blue frame) and low (orange frame) pinwheel density regions in tree shrew visual cortex. (D to F), Optically recorded orientation-maps in tree shrew (D), galago (E), and ferret (F) visual cortex. Regions shown in (C) are marked in (D). White arrows in (F) mark selected pinwheel centers. Framed regions in (C) and (F) are magnified.
 In many mammals including cats, monkeys and ferrets, orientation preference is organized in a quasi-periodic manner, forming what are known as orientation preference maps. These maps show remarkable consistency in their geometric properties across species, particularly in the spatial organization of pinwheel centers where orientation preferences converge.
 
-However, this organization shows important species-specific variations. Most notably, while primates and carnivores display orderly orientation maps with smooth transitions between preferred orientations, rodents lack such maps and instead show a "salt-and-pepper" arrangement where neighboring neurons have seemingly random orientation preferences. This organizational diversity raises interesting questions about the computational advantages of these different architectures and their relationship to visual processing requirements and behavioral needs across species.
+However, this organization shows important **species-specific variations**. Most notably, while primates and carnivores display orderly orientation maps with smooth transitions between preferred orientations, rodents lack such maps and instead show a "salt-and-pepper" arrangement where neighboring neurons have seemingly random orientation preferences. This organizational diversity raises interesting questions about the computational advantages of these different architectures and their relationship to visual processing requirements and behavioral needs across species.
 
 
 {{< /speaker_note >}}
@@ -189,10 +215,10 @@ However, this organization shows important species-specific variations. Most not
 
 {{< speaker_note >}}
 
-A key feature of primary visual cortex is its layered organization, which is shared across visual areas. The main thalamic input arrives in layer 4, which connects to a dense network of vertical connections across layers. These columns can then communicate via horizontal connections within layers.
+A key feature of primary visual cortex is its **layered organization**, which is shared across cortical areas. The main thalamic input arrives in layer 4, which connects to a dense network of vertical connections across layers. These columns can then communicate via horizontal connections within layers.
 
 
-Hubel and Wiesel also showed that every point in the visual field produces a response in a 2 mm x 2 mm area of the cortex. Such an area can contain two complete groups of ocular dominance columns, 16 blobs and interblobs that may contain more than two times all of the orientations possible across 180 degrees. This region of the cortex, which Hubel and Wiesel called a hypercolumn (or, more generally, a cortical module) seems both necessary and sufficient for analyzing the image of a point in visual space. Because the cortex is a continuous cellular layer and because it is very hard to establish the boundaries of these modules physically, their existence from a functional standpoint is still the subject of debate. 
+Hubel and Wiesel also proposed the **ice-cube model** that every point in the visual field produces a response in a 2 mm x 2 mm area of the cortex. Such an area can contain two complete groups of ocular dominance columns, 16 blobs and interblobs that may contain more than two times all of the orientations possible across 180 degrees. This region of the cortex, which Hubel and Wiesel called a hypercolumn (or, more generally, a cortical module) seems both necessary and sufficient for analyzing the image of a point in visual space. Because the cortex is a continuous cellular layer and because it is very hard to establish the boundaries of these modules physically, their existence from a functional standpoint is still the subject of debate. 
 https://thebrain.mcgill.ca/flash/a/a_02/a_02_cl/a_02_cl_vis/a_02_cl_vis.html
 
 Figure 9.2. Hypercolumn Diagram. Ocular dominance columns are segregated into left and right eye inputs. Orientation columns are neurons that get excited at different orientations and a cluster of these is called a pinwheel. Blobs are color selective and for every pinwheel there is a blob. (Credit: McGill: The Brain from Top to Bottom, Figure of hypercolumns, Copyleft https://copyleft.org/, https://thebrain.mcgill.ca/flash/a/a_02/a_02_cl/a_02_cl_vis/a_02_cl_vis.html. No modifications.)
@@ -233,11 +259,11 @@ This figure shows landmark results by Bosking et al. (1997) combining orientatio
 
 {{< speaker_note >}}
 
-The like-to-like hypothesis has been influential in understanding horizontal connectivity patterns. Drawing from anatomical studies and natural image statistics, it suggests that neurons preferentially connect to others with similar orientation preferences. This appears to align with the statistical structure of natural scenes, where co-oriented edges tend to form smooth contours.
+The resemblance between what was shown by Bosking and the structure of the association field that we saw above is such that it is tempting to align both and state that the function of horizontal connections is to bind neurons with a selectivity to *similar orientations** over long distances. This **like-to-like hypothesis** has been influential in understanding horizontal connectivity patterns. 
 
-However, we should be cautious about overstating these relationships. While horizontal connections show some orientation specificity, recent evidence indicates the connectivity patterns are more complex and heterogeneous than initially proposed. The functional role of this diverse connectivity remains an active area of investigation.
+However, we should be cautious about overstating these relationships. While horizontal connections show some orientation specificity, recent evidence indicates the connectivity patterns are **more complex and heterogeneous** than initially proposed. The functional role of this diverse connectivity remains an active area of investigation.
 
-During the remainder of this talk, I will try to shed light on our current knowledege on horizontal connectivities.
+During the **remainder of this talk**, I will try to shed light on our current knowledege on horizontal connectivities.
 
 {{< /speaker_note >}}
 
@@ -325,7 +351,7 @@ First: What is the anatomy of horizontal connections?
 
 {{< speaker_note >}}
 
-Together with my colleagues Frédéric Chavane (INT) and James Rankin (University of Exeter), we published a review paper in Brain Structure and Function that examines anatomical, functional, computational and theoretical evidence challenging the like-to-like hypothesis. The paper evaluates whether this influential hypothesis about V1 horizontal connectivity holds up against accumulated empirical evidence. The review systematically examines multiple lines of research to reassess our understanding of these important cortical circuits.
+Together with my colleagues Frédéric Chavane (INT) and James Rankin (University of Exeter), we published this paper in **Brain Structure and Function** that reviews anatomical, functional, computational and theoretical evidence **challenging the like-to-like hypothesis.** The paper evaluates whether this influential hypothesis about V1 horizontal connectivity holds up against accumulated empirical evidence. The review systematically examines multiple lines of research to reassess our understanding of these important cortical circuits.
 
 {{< /speaker_note >}}
 
@@ -339,7 +365,7 @@ Together with my colleagues Frédéric Chavane (INT) and James Rankin (Universit
 
 This figure illustrates different hypothetical connectivity rules for horizontal connections in V1. The target neuron (large circle on left) has a specific orientation preference indicated by its color. Following the classical like-to-like hypothesis (shown in panel A), this neuron would preferentially connect to other neurons with matching orientation preference (similar colors) across multiple hypercolumns, as indicated by the vertical red arrows. The radial spread of connections spans approximately three hypercolumns, consistent with anatomical observations. Each hypercolumn contains a complete set of orientation preferences, represented by the different colored neurons.
 
-This first schematic (noted A) represents one of the simplest proposed connectivity rules, where horizontal connections strictly follow orientation similarity. 
+This first schematic (noted A) represents one of the like-to-like connectivity rules, where horizontal connections strictly follow orientation similarity. 
 
 {{< /speaker_note >}}
 
@@ -400,6 +426,8 @@ To quantitatively understand how connectivity patterns shape network dynamics, w
 
 
 {{< speaker_note >}}
+
+Let's first shows some functional evidence. 
 
 This video shows voltage-sensitive dye imaging (VSDI) data from cat primary visual cortex (area 17) in response to a local oriented grating stimulus. The visualization reveals two key aspects:
 
