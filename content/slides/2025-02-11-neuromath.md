@@ -77,9 +77,9 @@ Today, I will address our current knowledge about **horizontal connectivity rule
 </table>
 {{< speaker_note >}}
 
- This is playfully illustrated in this painting from Joan Miró, which allows us to depict this Catalan landscape with the hunter. A few strokes are sufficient to signify the landscape or allow us to imagine the hunter. This shows the powerfullness of our visual system in evoking us an impression of the world.
+to rephrase the expression ["The Unreasonable Effectiveness of Mathematics"](https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences) by Wigner, the "Unreasonable efficiency of vision" is playfully illustrated in this painting from Joan Miró, which allows us to depict this Catalan landscape with the a few strokes where our imagination will fill the gaps and signify the landscape, allowing us to imagine the hunter, the sardine or the plane. 
 
-This is so striking that the lines and contours may appear even when they do not exist, such as in this display created with the visual artist Etienne Rey (beware! it will likely tickle your eyes).
+This is so striking that lines or contours may appear even when they do not exist, such as in this display created with the visual artist Etienne Rey (beware! it will likely tickle your eyes).
 
 {{< /speaker_note >}}
 
