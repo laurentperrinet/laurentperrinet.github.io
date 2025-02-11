@@ -174,6 +174,18 @@ This association field concept provided a compelling framework for understanding
 
 {{< /speaker_note >}}
 
+---
+
+## Dynamics of vision
+
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency_bg.jpg" title="Visual latencies ([see review](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))." height="420" >}}
+
+{{< speaker_note >}}
+**<1 MINUTE**
+
+- Let's begin with the **anatomy** of the visual system. 
+
+{{< /speaker_note >}}
 
 ---
 
@@ -182,7 +194,7 @@ This association field concept provided a compelling framework for understanding
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Human Visual system ([Grimaldi *et al* 2022](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))" height="420" >}}
 
 {{< speaker_note >}}
-Let's begin with the **anatomy** of the visual system. The diagram shows the human visual pathways, where information flows from the **retina** through the optic nerve to reach the lateral geniculate nucleus  in the thalamus. From there, signals project to the **primary visual cortex** (V1) where neurons are selective to local oriented edges. Information then proceed through higher visual areas following two main streams - the ventral "what" pathway (which I show here) and the dorsal "where/how" pathway. This hierarchical organization allows for increasingly complex visual processing, ultimately enabling motor responses and behavior. The **latencies** shown in the figure indicate the sequential timing of neural activation across these processing stages.
+The diagram shows the human visual pathways, where information flows from the **retina** through the optic nerve to reach the lateral geniculate nucleus  in the thalamus. From there, signals project to the **primary visual cortex** (V1) where neurons are selective to local oriented edges. Information then proceed through higher visual areas following two main streams - the ventral "what" pathway (which I show here) and the dorsal "where/how" pathway. This hierarchical organization allows for increasingly complex visual processing, ultimately enabling motor responses and behavior. The **latencies** shown in the figure indicate the sequential timing of neural activation across these processing stages.
 {{< /speaker_note >}}
 
 ---
@@ -934,23 +946,6 @@ Thanks for your attention, I would be happy to take your questions.
 
 {{< speaker_note >}}
 - another important missing feature: time
-{{< /speaker_note >}}
-
----
-
-## Dynamics of vision
-
-{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency_bg.jpg" title="Visual latencies ([see review](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))." height="420" >}}
-
-{{< speaker_note >}}
-**1 MINUTE**
-
-- In particular in our group, we are interested in dynamics of neural processing
-
-- The visual system is very efficient in generating a decision from the retinal image to the different stages of the visual pathways, here for a macaque monkey, a reaction of finger muscles in about 300 milliseconds.
-
-- the process of categorizing an object takes 10 layers
-
 {{< /speaker_note >}}
 
 ---
