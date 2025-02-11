@@ -144,6 +144,7 @@ Consequently, they proposed that this perceptual grouping relies on an "associat
 But where does this association field comes from ?
 
 {{< /speaker_note >}}
+
 ---
 
 ## Natural Images : Edges are on a common circle
