@@ -263,11 +263,25 @@ This figure shows landmark results by Bosking et al. (1997) combining orientatio
 
 {{< /speaker_note >}}
 
+
+---
+
+## Contour detection and the Association Field
+
+
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/AssoFieldNoBosking.png" title="[Field *et al*, 1993]" height="420" >}}
+
+
+{{< speaker_note >}}
+
+
+{{< /speaker_note >}}
+
 ---
 
 ## The like-to-like hypothesis
 
-{{< figure src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/bosking2Asso.png" title="[Field *et al*, 2013]" height="420" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/AssoFieldBosking.png" title="[Field *et al*, 1993]" height="420" >}}
 
 
 {{< speaker_note >}}
