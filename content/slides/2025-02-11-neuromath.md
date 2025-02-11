@@ -179,7 +179,7 @@ This association field concept provided a compelling framework for understanding
 
 ## Dynamics of vision
 
-{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency_bg.jpg" title="Visual latencies ([see review](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))." height="420" >}}
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency_bg.jpg" title="Human Visual system ([Grimaldi *et al* 2022](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))" height="420" >}}
 
 {{< speaker_note >}}
 **<1 MINUTE**
