@@ -28,10 +28,10 @@ summary: "When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Process
 </u></h2>
 <table>
 <tr>
-	<a href="https://laurentperrinet.github.io/grant/anr-anr"> 
-		  <!-- <img src="https://laurentperrinet.github.io/grant/polychronies/featured.png" alt="header" height="300">  -->
-		  <img src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/featured.png" alt="header" height="300"> 
-	</a>
+	<!-- <a href="https://laurentperrinet.github.io/grant/anr-anr">  -->
+		  <img src="https://laurentperrinet.github.io/grant/polychronies/featured.png" alt="header" height="300"> 
+		  <!-- <img src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/featured.png" alt="header" height="300">  
+	</a>-->
 </tr>
 <tr>
 	<th>
@@ -900,10 +900,10 @@ These fundamental questions will guide future experimental and theoretical work 
 </u></h2>
 <table>
 <tr>
-	<a href="https://laurentperrinet.github.io/grant/anr-anr"> 
+	<!-- <a href="https://laurentperrinet.github.io/grant/anr-anr">  -->
 		  <img src="https://laurentperrinet.github.io/grant/polychronies/featured.png" alt="header" height="300"> 
-		  <!-- <img src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/featured.png" alt="header" height="300">  -->
-	</a>
+		  <!-- <img src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/featured.png" alt="header" height="300">  
+	</a>-->
 </tr>
 <tr>
 	<th>
