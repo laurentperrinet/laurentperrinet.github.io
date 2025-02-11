@@ -672,7 +672,15 @@ We also found that our model made the same errors as humans do: if an image with
 
 {{< speaker_note >}}
 
-While we have demonstrated how to derive association fields from natural image statistics, it is important to note that the resulting probability distribution function represents an average over many possible edge configurations. Though this statistical approach successfully discriminates between image categories (e.g., animal vs non-animal images), it likely oversimplifies the true diversity of edge arrangements present in natural scenes. Individual images may contain unique geometrical patterns that deviate significantly from the average statistics. Understanding this variability, rather than just mean tendencies, could provide deeper insights into how the visual system handles the rich complexity of natural scenes.
+While we demonstrated how association fields emerge from edge statistics, the resulting probability distribution represents an average across many possible configurations. Though this statistical approach successfully discriminates between image categories like animal vs non-animal images, it likely oversimplifies the true diversity of edge arrangements in natural scenes.
+
+Individual images contain unique geometrical patterns that can deviate significantly from these average statistics - for example:
+- Smooth contours 
+- Edge occlusions
+- Complex textures
+- Fractal-like patterns
+
+Understanding this variability, rather than just mean tendencies, could provide deeper insights into how horizontal connectivity patterns may adapt to handle the rich complexity of natural scenes.
 
 {{< /speaker_note >}}
 
@@ -686,7 +694,7 @@ While we have demonstrated how to derive association fields from natural image s
 {{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]" height="420" >}}
 
 {{< speaker_note >}}
-The anatomical data reveals that V1 horizontal connectivity exhibits more complexity than suggested by the classical like-to-like hypothesis. While orientation-specific connections exist, they coexist with non-selective connections that link neurons irrespective of their tuning preferences. This diversity likely serves multiple computational functions:
+This diversity is revealed in the anatomical data: V1 horizontal connectivity exhibits more complexity than suggested by the classical like-to-like hypothesis. While orientation-specific connections exist, they coexist with non-selective connections that link neurons irrespective of their tuning preferences. This diversity likely serves multiple computational functions:
 
 1. Specific connections could support contour integration and feature binding
 2. Non-selective connections may enable broad contextual modulation 
@@ -911,6 +919,25 @@ As a result, predictive processing may be an efficient model to better understan
 ---
 
 <section>
+
+
+## Challenging the like-to-like hypothesis
+
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig1AE.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" height="420" >}}
+
+{{< speaker_note >}}
+
+To conclude, our review of horizontal connectivity in V1 reveals patterns more complex than initially theorized. The classical like-to-like hypothesis, while valuable, doesn't fully capture the **diversity** of observed connectivity patterns.
+
+**Mathematical modeling** has proven essential in bridging theory and biology. Our predictive processing framework shows how simple computational principles can explain the emergence of these complex connectivity patterns. The model demonstrates how feedback influences lateral interactions and reproduces key experimental observations.
+
+However, **important questions remain unanswered**. We need to better understand how precise timing information is encoded in these circuits, how temporal dynamics shape processing, and whether similar principles apply across other cortical areas.
+
+These fundamental questions will guide future experimental and theoretical work as we continue to unravel the computational principles of cortical processing.
+
+{{< /speaker_note >}}
+
+---
 <h2><u>
 	[2025-02-11] When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Processing
 </u></h2>
@@ -935,9 +962,7 @@ As a result, predictive processing may be an efficient model to better understan
 
 {{< speaker_note >}}
 
-- résumé : diversity
-- les neurosciences peuvent répondre à ces questions par des modélisations - rôle des mathématiques
-- un objectif : passer en dynamique
+Thanks for your attention, I would be happy to take your questions.
 
 {{< /speaker_note >}}
 </section>
