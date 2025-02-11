@@ -681,7 +681,7 @@ While we have demonstrated how to derive association fields from natural image s
 ---
 <section>
 
-## Predictive processing
+## Can we predict more diversity
 
 {{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]" height="420" >}}
 
@@ -760,6 +760,40 @@ This anatomical heterogeneity aligns with V1's role in both specialized feature 
 {{< /speaker_note >}}
 
 
+</section>
+
+---
+
+<section>
+<h2><u>
+	[2025-02-11] When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Processing
+</u></h2>
+<table>
+<tr>
+	<a href="https://laurentperrinet.github.io/grant/anr-anr"> 
+		  <img src="https://laurentperrinet.github.io/grant/polychronies/featured.png" alt="header" height="300"> 
+		  <!-- <img src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/featured.png" alt="header" height="300">  -->
+	</a>
+</tr>
+<tr>
+	<th>
+		<a href="https://laurentperrinet.github.io/slides/2025-02-11-neuromath/?transition=fade"> <i> Laurent Perrinet </i> </a> - <a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io</a>
+	    <br>
+		Séminaire Neuromathématiques, <b>Collège de France</b>
+	</th>
+	<th>
+		  <img src="https://laurentperrinet.github.io/qrcode.png" alt="QR code" height="80" width="80">
+	</th>	
+</tr>
+</table>
+
+{{< speaker_note >}}
+
+- résumé : diversity
+- les neurosciences peuvent répondre à ces questions par des modélisations - rôle des mathématiques
+- un objectif : passer en dynamique
+
+{{< /speaker_note >}}
 </section>
 
 ---
@@ -887,33 +921,132 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 ---
 
 <section>
-<h2><u>
-	[2025-02-11] When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Processing
-</u></h2>
-<table>
-<tr>
-	<a href="https://laurentperrinet.github.io/grant/anr-anr"> 
-		  <img src="https://laurentperrinet.github.io/grant/polychronies/featured.png" alt="header" height="300"> 
-		  <!-- <img src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/featured.png" alt="header" height="300">  -->
-	</a>
-</tr>
-<tr>
-	<th>
-		<a href="https://laurentperrinet.github.io/slides/2025-02-11-neuromath/?transition=fade"> <i> Laurent Perrinet </i> </a> - <a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io</a>
-	    <br>
-		Séminaire Neuromathématiques, <b>Collège de France</b>
-	</th>
-	<th>
-		  <img src="https://laurentperrinet.github.io/qrcode.png" alt="QR code" height="80" width="80">
-	</th>	
-</tr>
-</table>
+
+# Spiking Neural Networks: Spiking motifs
 
 {{< speaker_note >}}
+**2 MINUTE**
 
-- résumé : diversity
-- les neurosciences peuvent répondre à ces questions par des modélisations - rôle des mathématiques
-- un objectif : passer en dynamique
+These observations have led us to *review* neurobiological evidence around the existence of a neural representation that would use the relative time of spikes as a means of representing information. In particular, it is possible to use the conduction *delays* that exist in the transmission of spikes from one neuron to another. It may seem paradoxical, but these delays are not simply a constraint, but can help to improve our ability to represent information by way of *spiking motifs*.
 
 {{< /speaker_note >}}
+
+---
+
+## Spiking Neural Networks: Spiking motifs
+
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png" title="[Grimaldi *et al*, 2023, [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)]" width="80%" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+
+ If we consider, for example, this ultra-simplified network consisting of three presynaptic neurons and two output neurons connected by *heterogeneous* delays, then we can see that a *synchronous* input will generate membrane activity in the two output neurons at different times, so the threshold will never be reached, and these neurons will not produce an output impulse. On the other hand, if these delays are such that the action potentials converge on the neuron at the same instant, then these contributions will be able to sum up at the *same instant* and produce an output spike, as denoted here by the red bar.
+{{< /speaker_note >}}
+
+---
+
+## Spiking Neural Networks: Spiking motifs
+
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/LIF.gif" title="Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)." width="80%" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+
+To better understand this mechanism, let's return to our animation of a spiking neuron. Action potentials arrive at the neuron and are *immediately* transmitted to the neuron's cell body to be integrated and potentially generate a spike. 
+
+{{< /speaker_note >}}
+
+---
+
+## Spiking Neural Networks: Spiking motifs
+
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/HSD.gif" title="Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)." width="80%" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+
+When using *heterogeneous* delays, the situation is different, as the information will take a differential time to arrive or not at the neuron's cell body. Note that if we include a particular *spiking motif*, which we have here highlighted by green action potentials, then these converge at the same instant thanks to the delay. We will therefore have a detection in the neuron in the form of a new impulse.
+
+{{< /speaker_note >}}
+
+---
+
+## Spiking Neural Networks: HD-SNN
+
+{{< video src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/FastMotionDetection_input.mp4" autoplay="yes" title="[Grimaldi & LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+We used this theoretical principle in an algorithm for detecting movement in an image. To do this, we first generated event data using natural images that are set in motion along trajectories that resemble those produced by free exploration of the visual scene. You'll notice several features of the event-driven output, such as the fact that faster motion generates more spikes, or that edges oriented parallel to one direction produce few changes, and therefore little spike output - the so-called aperture problem.
+
+{{< /speaker_note >}}
+
+---
+
+## Spiking Neural Networks: HD-SNN
+
+{{< figure src="https://raw.githubusercontent.com/laurentperrinet/figures/7f382a8074552de1a6a0c5728c60d48788b5a9f8/animated_neurons/conv_HDSNN.svg" title="[Grimaldi & LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" width="100%" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+
+We then used a neural network with a classical architecture, which we enhanced by using an impulse representation that takes into account different possible synaptic delays. In this figure, we have represented the input in the left grid, which represents the occurrence of spikes of positive or negative polarity. Then we have represented different processing channels denoted by the colors green and orange, which are applied to this input to produce membrane activity. As illustrated above, this activity will produce output pulses, notably in synaptic connection nuclei, with heterogeneous delays corresponding to the detection of precise spatio-temporal patterns.
+{{< /speaker_note >}}
+
+
+---
+
+## Spiking Neural Networks: HD-SNN
+
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/motion_kernels.png" title="[Grimaldi & LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" width="90%" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+
+One advantage of this network is that it is differentiable, enabling us to apply classical machine learning methods, notably supervised learning. We then see the emergence of different convolution kernels, and here I represent a subset of its kernels for different directions, as denoted by the red arrows on the left of the graph. It shows the kernels obtained on the spatial representation according to the different columns, and each row represents the different delays from a delay of one on the right to a delay of 12 time steps on the left. Detectors that follow the motion emerge. For example, for the top line from top to bottom. These kernels integrate both positive neurons in red and negative polarity inputs in blue.
+Such spatio-temporal filtering is observed in neurobiology, but to my knowledge had never been observed in a model of spiking neurons trained under natural conditions.
+
+{{< /speaker_note >}}
+
+
+---
+
+## Spiking Neural Networks: HD-SNN
+
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/quant_accuracy_raw.svg" title="[Grimaldi & LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" width="80%" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+
+We will now study the performance of this network in detecting motion in the flow of events entering the network. When we use all the weights of the convolution kernel, we get a very good performance of the order of 99%, represented by the black dot in the top right-hand corner. Note that in the kernels we've seen emerge, most of the synaptic weights are close to zero, so we might consider removing some of these weights, as this can be shown to reduce the number of event calculations required.
+
+{{< /speaker_note >}}
+
+---
+
+## Spiking Neural Networks: HD-SNN
+
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/quant_accuracy_shortening.svg" title="[Grimaldi & LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" width="80%" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+This is what we've done, by first removing the parts of the core corresponding to the longest delays. This "shortens" the kernel. We quickly observed a degradation in performance, which reached half-saturation when we reduced the number of weights by around 50%. This demonstrates the importance of integrating information that is quite distant and structured over time.
+
+
+{{< /speaker_note >}}
+
+---
+
+## Spiking Neural Networks: HD-SNN
+
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/quant_accuracy.svg" title="[Grimaldi & LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" width="80%" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+
+In a second step, we performed a pruning operation, which consists in progressively removing the weights that are the weakest. This time, performance remains optimal over a wide compression range, and we reach half-saturation when we have removed around 99.8% of the weights. This means that the network is able to maintain very good performance, even when only one weight out of 600 has been kept, and therefore, with a computation time increased by a factor of 600. This property, which we didn't expect, seems promising for creating machine learning algorithms that are less energy-hungry.
+
+{{< /speaker_note >}}
+
+
 </section>
