@@ -681,7 +681,7 @@ While we have demonstrated how to derive association fields from natural image s
 ---
 <section>
 
-## Can we predict more diversity
+## Can we explain the diversity ?
 
 {{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]" height="420" >}}
 
@@ -703,10 +703,13 @@ This anatomical heterogeneity aligns with V1's role in both specialized feature 
 {{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" height="420" >}}
 
 {{< speaker_note >}}
-- this can be integrated in a hierarchy...
-- defining a Convolutional Neural Networks (CNN)
-- one layer is a convolution
-{{< /speaker_note >}} 
+To understand the diversity in horizontal connectivity patterns, we developed a biologically plausible hierarchical model based on Convolutional Neural Networks (CNNs). The model processes natural images through multiple convolutional layers organized in a hierarchical structure, similar to the visual cortex. This computational framework allows us to systematically investigate how different connectivity patterns emerge from processing naturalistic inputs.
+
+Our model integrates several key biological constraints:
+1. Natural image as input
+2. Local receptive fields via convolution operations  
+3. Hierarchical processing through multiple layers
+{{< /speaker_note >}}
 
 ---
 
@@ -715,7 +718,30 @@ This anatomical heterogeneity aligns with V1's role in both specialized feature 
 {{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" height="420" >}}
 
 {{< speaker_note >}}
-- modifications= adding sparse coding + feedback
+This approach helps bridge the gap between anatomical observations and functional requirements of visual processing. We added two key ingredients:
+
+1. Sparse connectivity patterns:
+	- Enforcing regularization of the activity map using L1 penalty
+	- Activity computed via recurrent local connectivity
+	- Similar to biological observations
+
+2. Feedback from efferent layers:
+	- Predicts activity of afferent layer
+	- Only residual prediction error is processed 
+	- Defines long-range inter-areal connectivity
+	- Specific influence demonstrated in Neural Computation paper
+
+By defining a cost on minimizing the prediction error in each layer,  everything stays derivable, such that we can use a classical gradient descent. These additions should allow us to better understand how feedback shapes visual processing in biological neural networks.
+
+
+Architecture of a 2-layered SDPC model. In this model,  i represents
+the activity of the neural population and ✏ i is the representation error (also called
+prediction error) at layer i. The synaptic weights of the feedback and feedforward
+connection at each layer (D T
+i and D i respectively) are reciprocal. The level of
+sparseness is tuned with the soft-thresholding parameter  i . The scalar k FB controls the
+strength of the feedback connection represented with a blue arrow.
+
 {{< /speaker_note >}}
 
 
@@ -726,7 +752,49 @@ This anatomical heterogeneity aligns with V1's role in both specialized feature 
 {{< figure src="https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/BoutinFranciosiniChavaneRuffierPerrinet20face.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" height="420" >}}
 
 {{< speaker_note >}}
-- result= interpretable features
+
+Our key findings reveal highly interpretable receptive fields:
+
+1. First layer filters exhibit classical orientation selectivity
+2. When trained on face datasets, specialized feature detectors emerge for:
+	* Eyes
+	* Ears
+	* Mouths
+	* Smooth contours
+
+These results suggest that predictive processing frameworks may offer better interpretability compared to classical deep learning architectures.
+
+
+Fig 2. Results of training SDPC on the natural images (left column) and
+on the face database (right column) with a feedback strength k FB = 1.
+(A): Randomly selected input images from the natural images database (denoted x in
+the text). The two databases are pre-processed with Local Contrast Normalization [40]
+and whitening. (B) & (F): 16 randomly selected first-layer Receptive Fields (RFs)
+from the 64 RFs composing D eff T
+1 (note that D eff T
+1 = D T
+1 , see Eq. 3). The RFs are
+ranked by their activation probability in a descending order. The RF size of neurons
+located on the first layer is 9⇥9 px for both databases. (C): Reconstruction of images
+corresponding to the input images shown in (A) from the representation in the first
+layer, denoted  eff
+1 (note that  eff
+1 = D T
+1  1 , see Eq. 18). (D) & (G): 32 sub-sampled
+RFs out of 128 RFs composing D eff T
+2 (note that D eff T
+2 = D T
+1 D T
+2 , see Eq. 3), ranked by
+their activation probability in descending order. The size of the RF from neurons
+located on the second layer is 22 ⇥ 22 px on the natural images database (D) and
+33⇥33 px on the face database (G). (E): Reconstruction of images corresponding to
+the input images shown in (A) from the representation in the second layer, denoted  eff
+2
+(note that  eff
+2 = D T
+1 D T
+2  2 , see Eq. 18).
 {{< /speaker_note >}}
 
 ---
@@ -736,6 +804,83 @@ This anatomical heterogeneity aligns with V1's role in both specialized feature 
 {{< figure  src="https://github.com/laurentperrinet/2020-09-25_IRPHE/raw/master/figures/PCOMPBIOL-D-19-01811_R2_compressed_FigS4.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" height="420" >}}
 
 {{< speaker_note >}}
+
+More specifically in the context of our focus today, we can look at the co-occurence 
+
+llustration of the procedure to generate interaction map. In this
+illustrative example we consider a V1 representation with only 4 feature maps
+(represented in the upper-left box). Step 1 is to extract a neighborhood (of size 3x3 in
+the illustration only) around the most strongly activated neuron (represented with a red
+square in the illustration) for a given central preferred orientation (denoted ✓ c ). Step 2
+is to normalize the neural activity in the extracted neighborhood using the marginal
+activity (see Eq.8). Step 3 is to compute the resulting orientation and activity at every
+position of the neighborhood using a circular mean (see Eq. 11 and Eq. 12 respectively).
+To keep a concise figure we have illustrated the computation of the central edge of the
+interaction map only. For simplification, the illustration shows only 1 neighborhood
+extraction whereas the interaction maps shown in the paper are computed by averaging
+neighborhoods centered on the 10 most strongly activated neurons
+
+xample of a 9⇥9 interaction map of a V1 area centered on neurons
+strongly responding to a central preferred orientation of 30°. (A) Without
+feedback. (B) With a feedback strength equal to 1. These interaction maps are
+obtained when the SDPC is trained on natural images. At each location identified by
+the coordinates (x c , yc ) the angle is ¯✓[x c , yc ] (see Eq. 11) and the color scale is
+¯a[x c , yc ]
+ (see Eq. 12). The color scale being saturated toward both maximum and
+minimum activity, all the activities above 0.8 or below 0.3 have the same color,
+respectively dark or white.
+
+{{< /speaker_note >}}
+
+---
+
+## Predictive processing with pooling
+
+{{< figure src="https://laurentperrinet.github.io/publication/franciosini-21/featured.jpg" title="[[Boutin *et al*, 2022](https://laurentperrinet.github.io/publication/franciosini-21/)]" height="420" >}}
+
+{{< speaker_note >}}
+
+It is worth noting that extending the model with additional architectural features, such as long-range horizontal connectivity across neighboring hypercolumns, enables the emergence of more complex properties including topographic maps and complex cell-like responses. However, examining these extensions falls beyond the scope of today's presentation.
+
+{{< /speaker_note >}}
+
+---
+
+## Predictive processing
+
+{{< figure  src="https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/boutin-franciosini-chavane-ruffier-perrinet-20Fig3.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" height="420" >}}
+
+{{< speaker_note >}}
+
+What is more relevant is to study in that interaction patterns
+
+Relative co-linearity and co-circularity of the V1 interaction map
+w.r.t. to feedback . (A) In the end-zone. (B) In the side-zone. For each plot, the left
+and right block of bars represents the relative co-linearity (i.e. r ✓ colin (k FB )) and
+co-circularity (i.e. r ✓ cocir (k FB )) with a feedback strength ranging from 1 to 4 w.r.t.
+their respective value without feedback (see Eq. 23 and Eq. 24). Bars’ heights represent
+the median over all the orientations, and error bars are computed as the median
+absolute deviation. The baseline represents co-linearity / co-circularity when k F B = 0
+
+{{< /speaker_note >}}
+
+---
+
+## Predictive processing
+
+{{< figure  src="https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/boutin-franciosini-chavane-ruffier-perrinet-20Fig4.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" height="420" >}}
+
+{{< speaker_note >}}
+
+What is more relevant is to study in that interaction patterns
+
+Relative co-linearity and co-circularity of the V1 interaction map
+w.r.t. to feedback . (A) In the end-zone. (B) In the side-zone. For each plot, the left
+and right block of bars represents the relative co-linearity (i.e. r ✓ colin (k FB )) and
+co-circularity (i.e. r ✓ cocir (k FB )) with a feedback strength ranging from 1 to 4 w.r.t.
+their respective value without feedback (see Eq. 23 and Eq. 24). Bars’ heights represent
+the median over all the orientations, and error bars are computed as the median
+absolute deviation. The baseline represents co-linearity / co-circularity when k F B = 0
 
 {{< /speaker_note >}}
 
@@ -747,15 +892,7 @@ This anatomical heterogeneity aligns with V1's role in both specialized feature 
 
 {{< speaker_note >}}
 
-{{< /speaker_note >}}
-
----
-
-## Supplementary : Predictive processing with pooling
-
-{{< figure src="https://laurentperrinet.github.io/publication/franciosini-21/featured.jpg" title="[[Boutin *et al*, 2022](https://laurentperrinet.github.io/publication/franciosini-21/)]" height="420" >}}
-
-{{< speaker_note >}}
+As a result, predictive processing may be an efficient model to better understand the richness of horizontal connectivity patterns. 
 
 {{< /speaker_note >}}
 
