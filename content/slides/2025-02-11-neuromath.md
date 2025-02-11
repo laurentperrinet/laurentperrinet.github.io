@@ -187,26 +187,6 @@ Let's begin with the **anatomy** of the visual system. The diagram shows the hum
 
 ---
 
-## Anatomy of the Primary Visual Cortex
-
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Kaschube2010Fig1.jpg" title="[Kaschube *et al* (2010)]" height="420" >}}
-
-{{< speaker_note >}}
-
-V1 is central to these pathways and shows distinctive anatomical and functional properties along with a complex topographical organization.
-
-This figure from Kaschube et al. (2010) illustrates the **organization of orientation preference maps** in primary visual cortex (V1). 
-Individual V1 neurons exhibit selective responses to oriented visual stimuli (as denoted by varying hues Colors code preferred ORs as indicated by the bars in (C)), with their spatial arrangement following highly structured patterns across the cortical surface. 
-Panel B shows Synthetic orientation-maps of equal column spacing Λ but widely different pinwheel densities ρ. Left to right: solutions of different models: (13–16).. (C) High (blue frame) and low (orange frame) pinwheel density regions in tree shrew visual cortex. (D to F), Optically recorded orientation-maps in tree shrew (D), galago (E), and ferret (F) visual cortex. Regions shown in (C) are marked in (D). White arrows in (F) mark selected pinwheel centers. Framed regions in (C) and (F) are magnified.
-In many mammals including cats, monkeys and ferrets, orientation preference is organized in a quasi-periodic manner, forming what are known as orientation preference maps. These maps show remarkable consistency in their geometric properties across species, particularly in the spatial organization of pinwheel centers where orientation preferences converge.
-
-However, this organization shows important **species-specific variations**. Most notably, while primates and carnivores display orderly orientation maps with smooth transitions between preferred orientations, rodents lack such maps and instead show a "salt-and-pepper" arrangement where neighboring neurons have seemingly random orientation preferences. This organizational diversity raises interesting questions about the computational advantages of these different architectures and their relationship to visual processing requirements and behavioral needs across species.
-
-
-{{< /speaker_note >}}
-
----
-
 ## Thalamic, short- & long-range lateral, interareal
 
 
@@ -230,11 +210,31 @@ From: https://pressbooks.umn.edu/sensationandperception/chapter/columns-and-hype
 
 ## Thalamic, short- & long-range lateral, interareal
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Markov2011Fig2_cercorbhq201f02_ht.jpg" title="[Markov *et al* 2011]" height="420" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Markov2011Fig2_cercorbhq201f02_ht.jpg" title="[Markov *et al* 2011]" height="380" >}}
 
 {{< speaker_note >}}
 
 This figure from Markov et al. (2011) quantifies intrinsic connectivity patterns in macaque V1 through retrograde tracer injections. The data shows that 85% of connections are intra-areal, with connection density decreasing exponentially with distance (characteristic length ~0.23mm). Most connections (80%) remain within 1.5mm radius - notably close given the ~0.5mm spacing between orientation pinwheels. This provides strong evidence that the vast majority of inputs to V1 neurons come from within V1 itself rather than from other areas, suggesting local processing plays a dominant role in V1 computation.
+
+{{< /speaker_note >}}
+
+---
+
+## Anatomy of the Primary Visual Cortex
+
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Kaschube2010Fig1.jpg" title="[Kaschube *et al* (2010)]" height="420" >}}
+
+{{< speaker_note >}}
+
+V1 is central to these pathways and shows distinctive anatomical and functional properties along with a complex topographical organization.
+
+This figure from Kaschube et al. (2010) illustrates the **organization of orientation preference maps** in primary visual cortex (V1). 
+Individual V1 neurons exhibit selective responses to oriented visual stimuli (as denoted by varying hues Colors code preferred ORs as indicated by the bars in (C)), with their spatial arrangement following highly structured patterns across the cortical surface. 
+Panel B shows Synthetic orientation-maps of equal column spacing Λ but widely different pinwheel densities ρ. Left to right: solutions of different models: (13–16).. (C) High (blue frame) and low (orange frame) pinwheel density regions in tree shrew visual cortex. (D to F), Optically recorded orientation-maps in tree shrew (D), galago (E), and ferret (F) visual cortex. Regions shown in (C) are marked in (D). White arrows in (F) mark selected pinwheel centers. Framed regions in (C) and (F) are magnified.
+In many mammals including cats, monkeys and ferrets, orientation preference is organized in a quasi-periodic manner, forming what are known as orientation preference maps. These maps show remarkable consistency in their geometric properties across species, particularly in the spatial organization of pinwheel centers where orientation preferences converge.
+
+However, this organization shows important **species-specific variations**. Most notably, while primates and carnivores display orderly orientation maps with smooth transitions between preferred orientations, rodents lack such maps and instead show a "salt-and-pepper" arrangement where neighboring neurons have seemingly random orientation preferences. This organizational diversity raises interesting questions about the computational advantages of these different architectures and their relationship to visual processing requirements and behavioral needs across species.
+
 
 {{< /speaker_note >}}
 
@@ -347,7 +347,7 @@ First: What is the anatomy of horizontal connections?
 
 # Challenging the like-to-like hypothesis
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/header.png" title="[[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" height="420" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/header.png" title="[[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" height="380" >}}
 
 {{< speaker_note >}}
 
