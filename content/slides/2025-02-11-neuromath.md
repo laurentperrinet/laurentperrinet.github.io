@@ -337,8 +337,6 @@ First: What is the anatomy of horizontal connections?
 
 {{< /speaker_note >}}
 
-<!-- voges https://laurentperrinet.github.io/publication/voges-12/featured.jpg -->
-
 </section>
 
 ---
@@ -410,18 +408,6 @@ Panel E presents an integrative model that combines aspects of the previous hypo
 
 ## Challenging the like-to-like hypothesis
 
-{{< figure src="https://laurentperrinet.github.io/publication/voges-12/featured.jpg" title="[[Voges and LP, 2012]](https://laurentperrinet.github.io/publication/voges-12/)" height="420" >}}
-
-{{< speaker_note >}}
-
-To quantitatively understand how connectivity patterns shape network dynamics, we previously showed in simulated neural networks that transitioning from local unspecific to local specific and long-range patchy connectivities can fundamentally alter emergent activity patterns [Voges & LP, 2012]. This highlights how the detailed organization of horizontal connections plays a crucial role in shaping the dynamics of recurrent neural circuits. We will examine this computational aspect further in our review of the evidence challenging strict like-to-like connectivity rules.
-
-{{< /speaker_note >}}
-
----
-
-## Challenging the like-to-like hypothesis
-
 {{< video src="https://laurentperrinet.github.io/publication/chavane-22/area17_lo_diff_circ_plot.mp4" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)"  autoplay="yes" repeat="yes" height="420" >}}
 
 
@@ -485,6 +471,19 @@ Panel B presents a comprehensive population analysis spanning nine hemispheres (
 Panel C displays intracellular recordings of subthreshold responses visualized as a visuotopic orientation polar map. The color hue represents preferred orientation while brightness indicates the strength of orientation tuning in the membrane potential. White contours outline regions showing statistically significant responses based on both amplitude and orientation selectivity criteria. The middle plots show averaged subthreshold responses to four different oriented stimuli (color-coded) at specific recording locations (marked by circle, triangle and square symbols), with scale bars indicating 50 ms and 1 mV. On the right, normalized orientation tuning curves are shown, computed by integrating responses within a fixed temporal window (shaded region in middle panel). The black circle marks the spontaneous activity level for the depolarizing integral measurement.
 
 These shows a direct functional evidence for a diversity of tuning profile in th horizontal connectivity.
+
+{{< /speaker_note >}}
+
+
+---
+
+## Challenging the like-to-like hypothesis
+
+{{< figure src="https://laurentperrinet.github.io/publication/voges-12/featured.jpg" title="[[Voges and LP, 2012]](https://laurentperrinet.github.io/publication/voges-12/)" height="420" >}}
+
+{{< speaker_note >}}
+
+To quantitatively understand how connectivity patterns shape network dynamics, we previously showed in simulated neural networks that transitioning from local unspecific to local specific and long-range patchy connectivities can fundamentally alter emergent activity patterns [Voges & LP, 2012]. This highlights how the detailed organization of horizontal connections plays a crucial role in shaping the dynamics of recurrent neural circuits. We will examine this computational aspect further in our review of the evidence challenging strict like-to-like connectivity rules.
 
 {{< /speaker_note >}}
 
@@ -802,7 +801,7 @@ These results suggest that predictive processing frameworks may offer better **i
 
 ## Predictive processing
 
-{{< figure  src="https://github.com/laurentperrinet/2020-09-25_IRPHE/raw/master/figures/PCOMPBIOL-D-19-01811_R2_compressed_Fig4.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" height="420" >}}
+{{< figure  src="https://github.com/laurentperrinet/2020-09-25_IRPHE/raw/master/figures/PCOMPBIOL-D-19-01811_R2_compressed_FigS4.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" height="420" >}}
 
 {{< speaker_note >}}
 
