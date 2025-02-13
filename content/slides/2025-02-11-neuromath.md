@@ -281,7 +281,7 @@ This figure shows landmark results by Bosking et al. (1997) combining orientatio
 
 ## The like-to-like hypothesis
 
-{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/AssoFieldBosking.png" title="[Field *et al*, 1993]" height="420" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/AssoFieldBosking.png" title="[Field *et al*, 2013]" height="420" >}}
 
 
 {{< speaker_note >}}
