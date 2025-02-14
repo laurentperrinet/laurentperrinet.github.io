@@ -1,5 +1,5 @@
 ---
-title: Qu'est-ce que les Neurosciences peuvent apporter à Intelligence artificielle?
+title: Qu'est-ce que les *Neurosciences* peuvent apporter à l'*Intelligence Artificielle* ?
 authors:
 - Laurent U Perrinet
 date: '2025-02-14'
