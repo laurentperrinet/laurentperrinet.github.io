@@ -1,5 +1,5 @@
 ---
-title: Qu'est-ce que les *Neurosciences* peuvent apporter à l'*Intelligence Artificielle* ?
+title: Qu'est-ce que les Neurosciences peuvent apporter à l'Intelligence Artificielle ?
 authors:
 - Laurent U Perrinet
 date: '2025-02-14'
@@ -18,5 +18,4 @@ links:
   url: https://laurentperrinet.github.io/talk/2025-02-14-supaero
 
 slides: 2025-02-14-supaero
-
 ---
