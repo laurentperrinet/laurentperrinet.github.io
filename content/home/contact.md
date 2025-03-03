@@ -53,6 +53,7 @@ content:
       link: https://neuromatch.social/@laurentperrinet
     - icon: bluesky
       icon_pack: fab
+      name: Bluesky
       link: https://bsky.app/profile/laurentperrinet.bsky.social
     - icon: linkedin
       icon_pack: fab
