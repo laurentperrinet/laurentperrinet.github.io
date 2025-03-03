@@ -52,6 +52,9 @@ social:
 - icon: mastodon
   icon_pack: fab
   link: https://neuromatch.social/@laurentperrinet
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/laurentperrinet.bsky.social
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-9536-010X
