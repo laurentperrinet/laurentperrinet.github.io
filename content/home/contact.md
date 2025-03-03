@@ -51,6 +51,9 @@ content:
       icon_pack: fab
       name: mastodon
       link: https://neuromatch.social/@laurentperrinet
+    - icon: bluesky
+      icon_pack: fab
+      link: https://bsky.app/profile/laurentperrinet.bsky.social
     - icon: linkedin
       icon_pack: fab
       name: LinkedIn
