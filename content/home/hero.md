@@ -34,6 +34,6 @@ Brains are not like computers. Our brains can quickly and easily spot familiar o
 To bridge the gap between neuroscience and Artificial Intelligence (AI), I seek to harness the efficiency of vision by understanding how neural computations govern sensory processes like vision and behavioral responses like eye movements.
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/laurentperrinet" data-size="large" data-show-count="true" aria-label="Follow @laurentperrinet on GitHub">Follow @laurentperrinet on GitHub</a>.<script async defer src="https://buttons.github.io/buttons.js"></script> 
 
-<a href="https://neuromatch.social/@laurentperrinet" target="_blank" rel="me"><img src="https://raw.githubusercontent.com/mastodon/mastodon/master/app/javascript/images/logo.svg" alt="Mastodon" style="height: 1em; vertical-align: middle;"> Follow me on Mastodon</a>
+Follow me on <a href="https://neuromatch.social/@laurentperrinet" target="_blank" rel="me"><img src="https://raw.githubusercontent.com/mastodon/mastodon/master/app/javascript/images/logo.svg" alt="Mastodon" style="height: 1em; vertical-align: middle;">Mastodon</a>, 
+<a class="github-button" href="https://github.com/laurentperrinet" data-size="large" data-show-count="true" aria-label="Follow @laurentperrinet on GitHub">GitHub</a>.<script async defer src="https://buttons.github.io/buttons.js"></script> 

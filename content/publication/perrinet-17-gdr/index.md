@@ -23,15 +23,14 @@ authors:
 - Etienne Rey
 date: 2017-01-01
 featured: false
-grants:
-- anr-rem
-- pace-itn
 links:
 - name: Pdf
   url: https://github.com/NaturalPatterns/2017-10-12_GDR/raw/master/2017-10-12_PerrinetRey2017poster.pdf
 - name: Code
   url: https://github.com/NaturalPatterns/2017-10-12_GDR
 projects:
+- anr-rem
+- pace-itn
 - art-science
 - tout-public
 publication: '*GDR Vision, Lille, 2017*'

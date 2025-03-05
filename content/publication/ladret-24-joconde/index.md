@@ -3,12 +3,11 @@ authors:
 - Laurent U Perrinet
 - Hugo Ladret
 date: 2024-08-25
-grants:
-- anr-anr
 links:
 - name: URL
   url: https://www.cerveauetpsycho.fr/sd/neurobiologie/le-mystere-de-la-joconde-elucide-par-les-neurosciences-26605.php
 projects:
+- anr-anr
 - art-science
 - tout-public
 publication: '*Cerveau et Psycho*'
