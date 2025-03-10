@@ -1,14 +1,14 @@
 ---
  slides:
  # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: white
-  transition: 'fade'
-  width: 1280
-  height: 780
-  margin: 0.01
+ theme: white
+ transition: 'fade'
+ width: 1280
+ height: 780
+ margin: 0.01
 
 # Talk start and end times. 2023-05-13-master-m-4-nc
-#   End time can optionally be hidden by prefixing the line with `#`.
+# End time can optionally be hidden by prefixing the line with `#`.
 date: '2025-02-11'
 all_day: false
 
@@ -28,19 +28,19 @@ summary: "When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Process
 </u></h2>
 <table>
 <tr>
-	<!-- <a href="https://laurentperrinet.github.io/grant/anr-anr">  -->
-		  <img src="https://laurentperrinet.github.io/grant/polychronies/featured.png" alt="header" height="300"> 
-		  <!-- <img src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/featured.png" alt="header" height="300">  
+	<!-- <a href="https://laurentperrinet.github.io/grant/anr-anr"> -->
+		 <img src="https://laurentperrinet.github.io/grant/polychronies/featured.png" alt="header" height="300"> 
+		 <!-- <img src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/featured.png" alt="header" height="300"> 
 	</a>-->
 </tr>
 <tr>
 	<th>
 		<a href="https://laurentperrinet.github.io/slides/2025-02-11-neuromath/?transition=fade"> <i> Laurent Perrinet </i> </a> - <a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io</a>
-	    <br>
+	 <br>
 		Séminaire Neuromathématiques, <b>Collège de France</b>
 	</th>
 	<th>
-		  <img src="https://laurentperrinet.github.io/qrcode.png" alt="QR code" height="80" width="80">
+		 <img src="https://laurentperrinet.github.io/qrcode.png" alt="QR code" height="80" width="80">
 	</th>	
 </tr>
 </table>
@@ -90,7 +90,7 @@ This is so striking that lines or contours may appear even when they do not exis
 <table>
 <tr >
 	<th>
-		  <a href ="https://laurentperrinet.github.io/post/2018-04-10_trames/">Trames (Etienne Rey)</a>
+		 <a href ="https://laurentperrinet.github.io/post/2018-04-10_trames/">Trames (Etienne Rey)</a>
 	</th>	
 </tr>
 <tr style="height:600px;">
@@ -100,7 +100,7 @@ This is so striking that lines or contours may appear even when they do not exis
 
 {{< speaker_note >}}
 
-With only dots arranged in two hewxagonal grids simply shifted by an anagle of 9°, we still see lines, such as a lower-frequency hexagonal grid, and even an illusion of depth. Notice how this illusion depends on the position of your eye and therefore of your retina. Can we make sense of these phenomena?
+With only dots arranged in two hexagonal grids simply shifted by an anagle of 9°, we still see lines, such as a lower-frequency hexagonal grid, and even an illusion of depth. Notice how this illusion depends on the position of your eye and therefore of your retina. Can we make sense of these phenomena?
 
 {{< /speaker_note >}}
 
@@ -195,15 +195,15 @@ This association field concept provided a compelling framework for understanding
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" title="Human Visual system ([Grimaldi *et al* 2022](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))" height="420" >}}
 
 {{< speaker_note >}}
-The diagram shows the human visual pathways, where information flows from the **retina** through the optic nerve to reach the lateral geniculate nucleus  in the thalamus. From there, signals project to the **primary visual cortex** (V1) where neurons are selective to local oriented edges. Information then proceed through higher visual areas following two main streams - the ventral "what" pathway (which I show here) and the dorsal "where/how" pathway. This hierarchical organization allows for increasingly complex visual processing, ultimately enabling motor responses and behavior. The **latencies** shown in the figure indicate the sequential timing of neural activation across these processing stages.
+The diagram shows the human visual pathways, where information flows from the **retina** through the optic nerve to reach the lateral geniculate nucleus in the thalamus. From there, signals project to the **primary visual cortex** (V1) where neurons are selective to local oriented edges. Information then proceed through higher visual areas following two main streams - the ventral "what" pathway (which I show here) and the dorsal "where/how" pathway. This hierarchical organization allows for increasingly complex visual processing, ultimately enabling motor responses and behavior. The **latencies** shown in the figure indicate the sequential timing of neural activation across these processing stages.
 {{< /speaker_note >}}
 
 ---
 
-## Thalamic, short- & long-range lateral, interareal
+## Thalamic, short- & long-range lateral, inter-areal
 
 
-<!-- {{< figure src="https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/featured.png" height="200" >}}{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/cortical-columns_a_02_cl_vis_3e.jpg"  height="150" >}} -->
+<!-- {{< figure src="https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/featured.png" height="200" >}}{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/cortical-columns_a_02_cl_vis_3e.jpg" height="150" >}} -->
 {{< figure src="https://laurentperrinet.github.io/publication/chavane-22/cortical-columns.jpg" height="420" >}}
 
 {{< speaker_note >}}
@@ -221,7 +221,7 @@ From: https://pressbooks.umn.edu/sensationandperception/chapter/columns-and-hype
 
 ---
 
-## Thalamic, short- & long-range lateral, interareal
+## Thalamic, short- & long-range lateral, inter-areal
 
 {{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Markov2011Fig2_cercorbhq201f02_ht.jpg" title="[Markov *et al* 2011]" height="380" >}}
 
@@ -308,7 +308,7 @@ During the **remainder of this talk**, I will try to shed light on our current k
 
 ---
 
-## Supplementary:  Convolutional Neural Nets (CNN)
+## Supplementary: Convolutional Neural Nets (CNN)
 
 {{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" height="420" >}}
 
@@ -353,14 +353,14 @@ During the **remainder of this talk**, I will try to shed light on our current k
 - arbitrary, but useful division of labor= computational / algorithm / hardware
 
 - here:
-  - anatomy
-  - algorithm / model
-  - function
-  
+ - anatomy
+ - algorithm / model
+ - function
+ 
 First: What is the anatomy of horizontal connections?
 
-	<!-- {{< figure src="https://outde.xyz/img/Rawski/Marr/7lvls.jpg" title="[[Marr, 1982]](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="45%" >}}  -->
-	<!-- {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="Marr, 1982" width="45%" >}}   -->
+	<!-- {{< figure src="https://outde.xyz/img/Rawski/Marr/7lvls.jpg" title="[[Marr, 1982]](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="45%" >}} -->
+	<!-- {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="Marr, 1982" width="45%" >}} -->
 
 {{< /speaker_note >}}
 
@@ -435,7 +435,7 @@ Panel E presents an integrative model that combines aspects of the previous hypo
 
 ## Challenging the like-to-like hypothesis
 
-{{< video src="https://laurentperrinet.github.io/publication/chavane-22/area17_lo_diff_circ_plot.mp4" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)"  autoplay="yes" repeat="yes" height="420" >}}
+{{< video src="https://laurentperrinet.github.io/publication/chavane-22/area17_lo_diff_circ_plot.mp4" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" autoplay="yes" repeat="yes" height="420" >}}
 
 
 {{< speaker_note >}}
@@ -769,7 +769,7 @@ This anatomical heterogeneity aligns with V1's role in both specialized feature 
 To understand the diversity in horizontal connectivity patterns, we developed a biologically plausible hierarchical model based on **Convolutional Neural Networks (CNNs) backbone**. The model processes natural images through multiple convolutional layers organized in a hierarchical structure:. 
 
 1. Natural image as input
-2. Local receptive fields via convolution operations  
+2. Local receptive fields via convolution operations 
 3. Hierarchical processing through multiple layers
 
 {{< /speaker_note >}}
@@ -783,7 +783,7 @@ To understand the diversity in horizontal connectivity patterns, we developed a 
 
 {{< speaker_note >}}
 
-To bridge the gap between anatomical observations and functional requirements of visual processing, We added two key ingredients in the  sparse deep predictive coding (SDPC) model :
+To bridge the gap between anatomical observations and functional requirements of visual processing, We added two key ingredients in the sparse deep predictive coding (SDPC) model :
 
 
 1. **Sparse** connectivity patterns:
@@ -797,7 +797,7 @@ To bridge the gap between anatomical observations and functional requirements of
 	- Defines long-range inter-areal connectivity
 	- Specific influence demonstrated in Neural Computation paper
 
-By defining a **cost on minimizing the prediction error** in each layer,  everything stays derivable, such that we can use a classical gradient descent. These additions should allow us to better understand how feedback shapes visual processing in biological neural networks.
+By defining a **cost on minimizing the prediction error** in each layer, everything stays derivable, such that we can use a classical gradient descent. These additions should allow us to better understand how feedback shapes visual processing in biological neural networks.
 
 
 {{< /speaker_note >}}
@@ -828,7 +828,7 @@ These results suggest that predictive processing frameworks may offer better **i
 
 ## Predictive processing
 
-{{< figure  src="https://github.com/laurentperrinet/2020-09-25_IRPHE/raw/master/figures/PCOMPBIOL-D-19-01811_R2_compressed_FigS4.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" height="420" >}}
+{{< figure src="https://github.com/laurentperrinet/2020-09-25_IRPHE/raw/master/figures/PCOMPBIOL-D-19-01811_R2_compressed_FigS4.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" height="420" >}}
 
 {{< speaker_note >}}
 
@@ -853,7 +853,7 @@ neighborhoods centered on the 10 most strongly activated neurons
 
 ## Predictive processing
 
-{{< figure  src="https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/boutin-franciosini-chavane-ruffier-perrinet-20Fig3.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" height="420" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/boutin-franciosini-chavane-ruffier-perrinet-20Fig3.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" height="420" >}}
 
 {{< speaker_note >}}
 
@@ -865,7 +865,7 @@ What is more relevant is to study the interaction patterns between neurons from 
 
 ## Predictive processing
 
-{{< figure  src="https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/boutin-franciosini-chavane-ruffier-perrinet-20Fig4.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" height="420" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/boutin-franciosini-chavane-ruffier-perrinet-20Fig4.png" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" height="420" >}}
 
 {{< speaker_note >}}
 
@@ -895,7 +895,7 @@ It is worth noting that extending the model with additional architectural featur
 
 ## Challenging the like-to-like hypothesis
 
-{{< figure  src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]" height="420" >}}
+{{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]" height="420" >}}
 
 {{< speaker_note >}}
 
@@ -927,19 +927,19 @@ These fundamental questions will guide future experimental and theoretical work 
 </u></h2>
 <table>
 <tr>
-	<!-- <a href="https://laurentperrinet.github.io/grant/anr-anr">  -->
-		  <img src="https://laurentperrinet.github.io/grant/polychronies/featured.png" alt="header" height="300"> 
-		  <!-- <img src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/featured.png" alt="header" height="300">  
+	<!-- <a href="https://laurentperrinet.github.io/grant/anr-anr"> -->
+		 <img src="https://laurentperrinet.github.io/grant/polychronies/featured.png" alt="header" height="300"> 
+		 <!-- <img src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/featured.png" alt="header" height="300"> 
 	</a>-->
 </tr>
 <tr>
 	<th>
 		<a href="https://laurentperrinet.github.io/slides/2025-02-11-neuromath/?transition=fade"> <i> Laurent Perrinet </i> </a> - <a href="https://laurentperrinet.github.io">https://laurentperrinet.github.io</a>
-	    <br>
+	 <br>
 		Séminaire Neuromathématiques, <b>Collège de France</b>
 	</th>
 	<th>
-		  <img src="https://laurentperrinet.github.io/qrcode.png" alt="QR code" height="80" width="80">
+		 <img src="https://laurentperrinet.github.io/qrcode.png" alt="QR code" height="80" width="80">
 	</th>	
 </tr>
 </table>
@@ -1025,7 +1025,7 @@ Thanks for your attention, I would be happy to take your questions.
 
 ## Dynamics of vision
 
-<!-- {{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4"  autoplay="yes" >}}{{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4"  autoplay="yes" >}} -->
+<!-- {{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4" autoplay="yes" >}}{{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4" autoplay="yes" >}} -->
 {{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/positional-delay.mp4" autoplay="yes" >}}
 
 Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))
