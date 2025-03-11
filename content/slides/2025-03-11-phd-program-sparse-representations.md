@@ -25,7 +25,7 @@ summary: Sparse representations in machine learning applied to the understanding
 ###	<u>[NeuroSchool PhD Program in Neuroscience](https://neuro-marseille.org/en/training/phd-program/)</u>
 ###	[2025-03-11]
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
-[Code](https://github.com/laurentperrinet/2024-04_sparse-representations) / 
+[Code](https://github.com/CONECT-INT/2025-03_PhDProgram-course-in-computational-neuroscience) / 
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 {{< speaker_note >}}
@@ -33,10 +33,12 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
   - to summarize= sparse representations help understand neuroscience biological vision
   - they have practical applications in machine learning
   - let's sparse!
+
  - in practice: sparse coding in a nutshell
+ 
  - perspective: convolutional sparse coding
 
- url_code = https://github.com/laurentperrinet/2024-04_sparse-representations
+ url_code = https://github.com/CONECT-INT/2025-03_PhDProgram-course-in-computational-neuroscience
 
 - Not only the speaker can read these notes, Press `S` key to view
 - more on [doc](https://raw.githubusercontent.com/wowchemy/starter-hugo-academic/master/exampleSite/content/slides/example/index.md)
@@ -85,37 +87,27 @@ vision is an inverse problem
 
 ---
 
-{{< slide background-image="https://www.christies.com/img/LotImages/2017/CKS/2017_CKS_13486_0110_000(rene_magritte_la_corde_sensible011104).jpg" >}}
-
-<!-- <img src="https://www.christies.com/img/LotImages/2017/CKS/2017_CKS_13486_0110_000(rene_magritte_la_corde_sensible011104).jpg"  width="80%"/> -->
-
-{{< speaker_note >}}
-
-René Magritte La corde sensible (Heartstring)
-
-
-{{< /speaker_note >}}
-
----
-
-<img src="http://www.quickmeme.com/img/e7/e762d72e778aaaf26b40f606761abbdf755b6ae39caeed70fe4abb4ce7071869.jpg"  width="80%"/> 
-
-{{< speaker_note >}}
-
-René Magritte La corde sensible (Heartstring)
-
-Occam's razor: "Entities should not be multiplied without necessity."
-
-{{< /speaker_note >}}
-
----
-
 ## Sparse representations in computer vision
 
-<img src="https://laurentperrinet.github.io/publication/perrinet-03-ieee/v1_tiger.gif"  width="60%"/>
+## Matching pursuit algorithm
+
+<!-- <img src="https://laurentperrinet.github.io/publication/perrinet-03-ieee/v1_tiger.gif"  width="60%"/>
 
 {{< speaker_note >}}
 
+ça marche très bien!
+
+{{< /speaker_note >}}
+
+
+---
+
+## Convolutional Sparse Coding -->
+
+{{< video src="https://laurentperrinet.github.io/sciblog/files/2015-05-22-a-hitchhiker-guide-to-matching-pursuit/MPtutorial_rec.mp4" controls="yes" height="90%" >}}
+
+Code @ [A hitchhiker guide to Matching Pursuit](https://laurentperrinet.github.io/sciblog/posts/2015-05-22-a-hitchhiker-guide-to-matching-pursuit.html)
+{{< speaker_note >}}
 
 
 {{< /speaker_note >}}
