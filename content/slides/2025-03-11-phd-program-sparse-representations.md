@@ -58,7 +58,12 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 {{< figure src="https://i.imgflip.com/2lmff7.jpg" width="80%" >}}
 
 {{< speaker_note >}}
-Sparse coding is a technique used in signal processing and machine learning to represent data in a more concise and efficient manner. It aims to find a sparse representation of the data, which means representing the data with only a small number of non-zero coefficients or activations. In sparse coding, a set of basis functions or atoms is typically defined, and the goal is to find a linear combination of these atoms that best represents the input data. The coefficients of this linear combination are often constrained to be sparse, meaning that only a few of them are allowed to be non-zero. 
+
+you may have heard of it but do you know what it is ?
+
+
+
+
 {{< /speaker_note >}}
 
 ---
@@ -71,25 +76,34 @@ Sparse coding is a technique used in signal processing and machine learning to r
 
 Paysage catalan (Le Chasseur)
 
+to rephrase the expression ["The Unreasonable Effectiveness of Mathematics"](https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences) by Wigner, the "Unreasonable efficiency of vision" is playfully illustrated in this painting from Joan Miró, which allows us to depict this Catalan landscape with the a few strokes where our imagination will fill the gaps and signify the landscape, allowing us to imagine the hunter, the sardine or the plane. 
+
+the whole is the sum of a few parts
+
+Sparse coding is a technique used in signal processing and machine learning to represent data in a more concise and efficient manner. It aims to find a sparse representation of the data, which means representing the data with only a small number of non-zero coefficients or activations. In sparse coding, a set of basis functions or atoms is typically defined, and the goal is to find a linear combination of these atoms that best represents the input data. The coefficients of this linear combination are often constrained to be sparse, meaning that only a few of them are allowed to be non-zero. 
+
+
+
 {{< /speaker_note >}}
 
 ---
 
 ## Sparse representations in computer vision
 
-{{< figure src="https://laurentperrinet.github.io/publication/perrinet-04-tauc/featured.png" title="[[LP *et al*, 2004](https://laurentperrinet.github.io/publication/perrinet-04-tauc/)]" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/perrinet-04-tauc/featured.png" title="[[LP *et al*, 2004](https://laurentperrinet.github.io/publication/perrinet-04-tauc/)]" height="90%" >}}
 
 {{< speaker_note >}}
 
 vision is an inverse problem
 
+link with autoencoder
+
 {{< /speaker_note >}}
 
 ---
 
 ## Sparse representations in computer vision
 
-## Matching pursuit algorithm
 
 <!-- <img src="https://laurentperrinet.github.io/publication/perrinet-03-ieee/v1_tiger.gif"  width="60%"/>
 
@@ -108,6 +122,7 @@ vision is an inverse problem
 
 Code @ [A hitchhiker guide to Matching Pursuit](https://laurentperrinet.github.io/sciblog/posts/2015-05-22-a-hitchhiker-guide-to-matching-pursuit.html)
 {{< speaker_note >}}
+
 
 
 {{< /speaker_note >}}
@@ -278,7 +293,7 @@ review_bib = s.content_bib("LP", "2015", '"Sparse models" in <a href="https://la
 
 ## Sparse representations in a nutshell
 
-{{< figure src="https://laurentperrinet.github.io/publication/perrinet-04-tauc/featured.png" title="[[LP *et al*, 2004](https://laurentperrinet.github.io/publication/perrinet-04-tauc/)]" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/perrinet-04-tauc/featured.png" title="[[LP *et al*, 2004](https://laurentperrinet.github.io/publication/perrinet-04-tauc/)]" height="90%" >}}
 
 {{< speaker_note >}}
 
@@ -290,7 +305,7 @@ review_bib = s.content_bib("LP", "2015", '"Sparse models" in <a href="https://la
 
 ## Sparse representations in a nutshell
 
-{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/Olshausen_2.png" title="[[Olshausen and Field (1997)](http://mplab.ucsd.edu/~marni/Igert/Olshaussen_1997.pdf)]" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/Olshausen_2.png" title="[[Olshausen and Field (1997)](http://mplab.ucsd.edu/~marni/Igert/Olshaussen_1997.pdf)]" height="90%" >}}
 
 {{< speaker_note >}}
 
@@ -422,7 +437,7 @@ exponential prior => L1 norm
 
 ## Sparse representations in a nutshell
 
-{{< figure src="https://laurentperrinet.github.io/publication/rentzeperis-23/featured.png" title="[[Rentzeperis *et al* (2023)](https://laurentperrinet.github.io/publication/rentzeperis-23/)]" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/rentzeperis-23/featured.png" title="[[Rentzeperis *et al* (2023)](https://laurentperrinet.github.io/publication/rentzeperis-23/)]" height="90%" >}}
 
 {{< speaker_note >}}
 
@@ -434,7 +449,7 @@ exponential prior => L1 norm
 
 ## Sparse representations in a nutshell
 
-{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/Olshausen_5.png" title="[[Olshausen and Field (1997)](http://mplab.ucsd.edu/~marni/Igert/Olshaussen_1997.pdf)]" width="55%" >}}
+{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/Olshausen_5.png" title="[[Olshausen and Field (1997)](http://mplab.ucsd.edu/~marni/Igert/Olshaussen_1997.pdf)]" height="90%" >}}
 
 {{< speaker_note >}}
 
