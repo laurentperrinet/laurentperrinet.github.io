@@ -27,6 +27,9 @@ summary: Sparse representations in machine learning applied to the understanding
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
 [Code](https://github.com/CONECT-INT/2025-03_PhDProgram-course-in-computational-neuroscience) / 
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
+<img src="https://laurentperrinet.github.io/qrcode.png" alt="QR code" height="80" width="80">
+
+
 
 {{< speaker_note >}}
 - outline = 
@@ -168,7 +171,7 @@ It's interesting to draw a parallel between this process and the optic nerve tha
 
 
 {{< /speaker_note >}}
-
+<!-- 
 ---
 
 ## Sparse representations in neuromorphic engineering
@@ -195,7 +198,7 @@ It's interesting to draw a parallel between this process and the optic nerve tha
 - yes, the accuracy drops, but it's still good enough with a 500x sparsity
 - frugal computing
 
-{{< /speaker_note >}}
+{{< /speaker_note >}} -->
 
 ---
 
