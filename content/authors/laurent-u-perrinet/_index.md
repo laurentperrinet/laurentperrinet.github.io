@@ -20,6 +20,8 @@ role: Researcher in Computational Neuroscience
 organizations:
 - title: Institut de Neurosciences de la Timone
   url: https://www.int.univ-amu.fr/
+- title: Institut de Neurosciences de la Timone
+  url: https://ror.org/043hw6336
 - title: Centre national de la recherche scientifique (CNRS)
   url: https://www.cnrs.fr/
 - title: Aix-Marseille Université
