@@ -39,4 +39,4 @@ title: Event-based vision
 
 # When brains meet computing machines
 * https://neurosciences.umontreal.ca/wp-content/uploads/sites/6/2024/02/conferenceNikon_Laurent_Perrinet.pdf
-* Related papers {{< cite page="/publication/grimaldi-23" view="2" >}} {{< cite page="/publication/grimaldi-23-bc" view="2" >}}
+* Related papers {{< cite page="/publication/grimaldi-24" view="2" >}} {{< cite page="/publication/grimaldi-23-bc" view="2" >}}
