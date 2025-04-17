@@ -33,7 +33,7 @@ title: Diffraction monochromatique, spectre audiographique
 ---
 
 # Diffraction monochromatique, spectre audiographique
-![Diffraction](ttp://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg)
+![Diffraction](https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg)
  - Diffraction est une sculpture en suspension composée d’une multitude de plaques de matière transparente et réfléchissante. L’installation met en jeu notre perception de l’espace par des phénomènes de résonance et de réflection de la lumière. Chaque lieu d’exposition donne à expérimenter et à élaborer, in situ, de nouvelles formes. A Seconde Nature, [Etienne Rey]({{< relref "/authors/etienne-rey" >}}) abordera la relation entre le volume et le son en prenant comme base de construction un spectre audio, en collaboration avec l’artiste sonore Mathias Delplanque.
  - Live de Mathias Delplanque et rencontre autour de Diffraction, le Mercredi 14 avril 2010: A l’occasion de cette rencontre publique, quatre chercheurs spécialistes de l’architecture, de la perception, du son, et de la lumière exposeront depuis leurs domaines de recherches les processus engagés autour de Diffraction.`
   - Farid Ameziane, Ecole Nationale Supérieure d’Architecture de Marseille Luminy (EAML), Directeur de l’InsARTis, Marseille
