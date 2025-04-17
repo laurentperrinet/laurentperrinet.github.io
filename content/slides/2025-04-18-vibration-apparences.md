@@ -307,7 +307,7 @@ https://github.com/NaturalPatterns/2013_Tropique
 ## Natural patterns
 
 
-{{< figure src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/featured.jpg"  title="[Etienne Rey, Densité flou](https://laurentperrinet.github.io/post/2019-06-22_ardemone/)" width="100%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/featured.png"  title="[Etienne Rey, Densité flou](https://laurentperrinet.github.io/post/2019-06-22_ardemone/)" width="100%" >}}
 
 {{< speaker_note >}}
 
@@ -322,15 +322,6 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 {{< /speaker_note >}}
 
-
-
----
-
-{{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png"  title="[Etienne Rey, Trames](https://laurentperrinet.github.io/post/2018-04-10_trames/)" width="100%" >}}
-
-{{< speaker_note >}}
-
-{{< /speaker_note >}}
 
 
 ---
@@ -366,6 +357,15 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 
 {{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/Merleau-Ponty_Sens-et-non-sens.png" title="[Merleau-Ponty, Sens et non-sens](https://laurentperrinet.github.io/author/etienne-rey/)" width="50%" >}}
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+
+---
+
+{{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png"  title="[Etienne Rey, Trames](https://laurentperrinet.github.io/post/2018-04-10_trames/)" width="100%" >}}
 
 {{< speaker_note >}}
 
