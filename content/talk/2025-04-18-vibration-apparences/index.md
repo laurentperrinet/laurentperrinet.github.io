@@ -20,7 +20,7 @@ projects:
 publication: '*Journées d’Ouverture Scientifique (JOS)*'
 publication_types:
 - inproceedings
-publishDate: '2025-04-18'
+publishDate: '2025-04-17'
 slides: 2025-04-18-vibration-apparences
 subtitle: ''
 tags: []
