@@ -28,7 +28,7 @@ summary: La vibration des apparences
 [Art-Sciences](https://laurentperrinet.github.io/project/art-science/) / 
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
-
+<!-- <img src="https://laurentperrinet.github.io/qrcode.png" alt="QR code" height="80" width="80"> -->
 
 {{< speaker_note >}}
 - outline = 
