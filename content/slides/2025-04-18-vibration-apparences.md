@@ -279,7 +279,7 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 ---
 
-{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/04/etienne_rey_horizons_variables_news2.jpg" title="[Etienne Rey, TRAME ÉLASTICITÉ](https://ondesparalleles.org/projets/trame-elasticite-vasarely/)" width="100%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2016-06-02_elasticite/TRAME_Elasticité.jpg" title="[Etienne Rey, TRAME ÉLASTICITÉ](https://ondesparalleles.org/projets/trame-elasticite-vasarely/)" width="100%" >}}
 
 
 {{< speaker_note >}}
@@ -315,10 +315,9 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 ---
 
-## Tropique
+## Caustiques
 
-<!-- <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/56198653?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Tropique-12-2012-Ososphere"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script> -->
-                <iframe src="https://player.vimeo.com/video/56198653" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/56198653" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 </section>
@@ -344,7 +343,13 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 ## La vibration des apparences
 
-{{< video src="https://raw.githubusercontent.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/master/figures/ComplexDirSelCortCell250_title.mp4" controls="yes" height="420" >}}
+{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/visite_virtuelle.mp4" controls="yes" height="420" >}}
+
+---
+
+## La vibration des apparences
+
+{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}}
 
 
 </section>
@@ -365,9 +370,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 
 {{< speaker_note >}}
-- to summarize= sparse representations help understand neuroscience biological vision
-- they have practical applications in machine learning
-- let's sparse!
+- to summarize= 
 {{< /speaker_note >}}
 
 </section>
