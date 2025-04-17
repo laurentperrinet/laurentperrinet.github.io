@@ -211,6 +211,39 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 ---
 
+
+<section>
+
+
+## Art & Sciences 
+
+
+{{< figure src="https://laurentperrinet.github.io/author/etienne-rey/avatar_hu5659200743397184484.jpg" title="[Etienne Rey](https://laurentperrinet.github.io/author/etienne-rey/)" width="50%" >}}
+
+{{< speaker_note >}}
+
+
+- Les neurosciences computationnelles sont les sciences qui essaient d’extraire de nos connaissances en neurosciences biologiques des principes computationnels, comme le neurone formel et sa capacité d’apprentissage, qui est la brique de base des réseaux de neurones. Ces derniers ont conduit à la révolution de l’IA avec les réseaux profonds.
+
+
+- it's a multi-scale, complex model...
+- perhaps we will never be able to comprehend it in full
+- words are not precise enough, let's use mathematics and models to describe this system
+{{< /speaker_note >}}
+
+---
+
+## Tropique
+
+<!-- <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/56198653?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Tropique-12-2012-Ososphere"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script> -->
+                <iframe src="https://player.vimeo.com/video/56198653" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+</section>
+
+
+---
+
 <section>
 
 
