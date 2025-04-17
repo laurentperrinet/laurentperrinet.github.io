@@ -307,17 +307,38 @@ https://github.com/NaturalPatterns/2013_Tropique
 ## Natural patterns
 
 
-<iframe src="https://player.vimeo.com/video/56198653" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+{{< figure src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/featured.jpg"  title="[Etienne Rey, Densité flou](https://laurentperrinet.github.io/post/2019-06-22_ardemone/)" width="100%" >}}
 
 {{< speaker_note >}}
+
 
 {{< /speaker_note >}}
 
 ---
 
+{{< figure src="https://laurentperrinet.github.io/post/2021-10-04_interstices/featured.jpg"  title="[Etienne Rey, Horizon Faille](https://laurentperrinet.github.io/post/2021-10-04_interstices/)" width="100%" >}}
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+
+
+---
+
+{{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png"  title="[Etienne Rey, Trames](https://laurentperrinet.github.io/post/2018-04-10_trames/)" width="100%" >}}
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+
+---
+
 ## Caustiques
 
-<iframe src="https://player.vimeo.com/video/56198653" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+{{< video src="https://github.com/NaturalPatterns/2020_caustiques/raw/main/iridiscence.mp4" controls="yes" height="420" >}}
+
 
 
 </section>
@@ -332,10 +353,21 @@ https://github.com/NaturalPatterns/2013_Tropique
 ## La vibration des apparences
 
 
-{{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/Merleau-Ponty_Sens-et-non-sens.png" title="[Merleau-Ponty, Sens et non-sens](https://laurentperrinet.github.io/author/etienne-rey/)" width="50%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" width="50%" >}}
 
 {{< speaker_note >}}
 
+{{< /speaker_note >}}
+
+---
+
+
+## La vibration des apparences
+
+
+{{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/Merleau-Ponty_Sens-et-non-sens.png" title="[Merleau-Ponty, Sens et non-sens](https://laurentperrinet.github.io/author/etienne-rey/)" width="50%" >}}
+
+{{< speaker_note >}}
 
 {{< /speaker_note >}}
 
@@ -350,6 +382,12 @@ https://github.com/NaturalPatterns/2013_Tropique
 ## La vibration des apparences
 
 {{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}}
+
+---
+
+## La vibration des apparences
+
+{{< video src="https://github.com/NaturalPatterns/2024_vibrations-apparences/raw/main/2025-01-18_la-vibration-des-apparences.mp4" controls="yes" height="420" >}}
 
 
 </section>
