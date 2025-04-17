@@ -11,6 +11,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences
 location: Marseille (France)
