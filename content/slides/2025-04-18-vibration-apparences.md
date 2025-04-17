@@ -217,8 +217,10 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 ## Art & Sciences 
 
-
+{{% fragment %}} 
 {{< figure src="https://laurentperrinet.github.io/author/etienne-rey/avatar_hu5659200743397184484.jpg" title="[Etienne Rey](https://laurentperrinet.github.io/author/etienne-rey/)" width="50%" >}}
+ {{% /fragment %}}
+
 
 {{< speaker_note >}}
 
@@ -229,10 +231,68 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 ---
 
+{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Etienne Rey, SPECTRE AUDIOGRAPHIQUE – DIFFRACTION](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="100%" >}}
+
+
+{{< speaker_note >}}
+
+
+/Users/laurentperrinet/sdrive_cnrs/blog/laurentperrinet.github.io_hugo/content/talk/2010-04-14-ondes-paralleles/index.md
+
+
+{{< /speaker_note >}}
+
+---
+
 ## Tropique
 
-<!-- <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/56198653?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Tropique-12-2012-Ososphere"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script> -->
+{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_b.jpg" title="[Etienne Rey, Tropique](https://ondesparalleles.org/projets/tropique-7/)" width="100%" >}}
+
+
+{{< speaker_note >}}
+
+
+{{< /speaker_note >}}
+
+---
+
+## Tropique
+
 <iframe src="https://player.vimeo.com/video/56198653" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+---
+
+## Tropique
+
+<iframe src="https://player.vimeo.com/video/66161665" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+---
+
+{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/04/etienne_rey_horizons_variables_news2.jpg" title="[Etienne Rey, Cristal n2](https://ondesparalleles.org/projets/cristal-n2__trashed/)" width="100%" >}}
+
+
+{{< speaker_note >}}
+
+
+{{< /speaker_note >}}
+
+---
+
+{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/04/etienne_rey_horizons_variables_news2.jpg" title="[Etienne Rey, TRAME ÉLASTICITÉ](https://ondesparalleles.org/projets/trame-elasticite-vasarely/)" width="100%" >}}
+
+
+{{< speaker_note >}}
+
+
+{{< /speaker_note >}}
+
+
+---
+
+## TRAME ÉLASTICITÉ
+
+<iframe src="https://player.vimeo.com/video/198189587" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 </section>
@@ -247,17 +307,10 @@ https://github.com/NaturalPatterns/2013_Tropique
 ## Natural patterns
 
 
-{{< figure src="https://laurentperrinet.github.io/author/etienne-rey/avatar_hu5659200743397184484.jpg" title="[Etienne Rey](https://laurentperrinet.github.io/author/etienne-rey/)" width="50%" >}}
+<iframe src="https://player.vimeo.com/video/56198653" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 {{< speaker_note >}}
 
-
-- Les neurosciences computationnelles sont les sciences qui essaient d’extraire de nos connaissances en neurosciences biologiques des principes computationnels, comme le neurone formel et sa capacité d’apprentissage, qui est la brique de base des réseaux de neurones. Ces derniers ont conduit à la révolution de l’IA avec les réseaux profonds.
-
-
-- it's a multi-scale, complex model...
-- perhaps we will never be able to comprehend it in full
-- words are not precise enough, let's use mathematics and models to describe this system
 {{< /speaker_note >}}
 
 ---
@@ -285,12 +338,6 @@ https://github.com/NaturalPatterns/2013_Tropique
 {{< speaker_note >}}
 
 
-- Les neurosciences computationnelles sont les sciences qui essaient d’extraire de nos connaissances en neurosciences biologiques des principes computationnels, comme le neurone formel et sa capacité d’apprentissage, qui est la brique de base des réseaux de neurones. Ces derniers ont conduit à la révolution de l’IA avec les réseaux profonds.
-
-
-- it's a multi-scale, complex model...
-- perhaps we will never be able to comprehend it in full
-- words are not precise enough, let's use mathematics and models to describe this system
 {{< /speaker_note >}}
 
 ---
