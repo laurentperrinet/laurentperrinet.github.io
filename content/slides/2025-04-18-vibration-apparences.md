@@ -27,7 +27,6 @@ summary: La vibration des apparences
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
 [Art-Sciences](https://laurentperrinet.github.io/project/art-science/) / 
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
-<img src="https://laurentperrinet.github.io/qrcode.png" alt="QR code" height="80" width="80">
 
 
 
@@ -404,7 +403,8 @@ https://github.com/NaturalPatterns/2013_Tropique
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
 [Art-Sciences](https://laurentperrinet.github.io/project/art-science/) / 
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
-<img src="https://laurentperrinet.github.io/qrcode.png" alt="QR code" height="80" width="80">
+
+<!-- <img src="https://laurentperrinet.github.io/qrcode.png" alt="QR code" height="80" width="80"> -->
 
 
 {{< speaker_note >}}
