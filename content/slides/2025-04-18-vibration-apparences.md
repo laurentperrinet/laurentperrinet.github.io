@@ -457,12 +457,21 @@ opts = dict(N_rho=N_rho, N_phi=N_phi, N_H=N_H, N_V=N_V,
 @disp
 def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)    
 </code></pre>
+
 ---
 
 ## La vibration des apparences
 
 
 {{< video src="https://github.com/NaturalPatterns/2024_vibrations-apparences/raw/main/2025-01-18_la-vibration-des-apparences.mp4" controls="yes" height="420" >}}
+
+---
+
+## La vibration des apparences
+
+
+{{< video src="https://github.com/NaturalPatterns/2024_vibrations-apparences/raw/main/2025-01-18_la-vibration-des-apparences.mov" controls="yes" height="420" >}}
+
 
 
 </section>
