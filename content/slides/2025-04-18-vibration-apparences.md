@@ -475,6 +475,11 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 {{< video src="https://github.com/NaturalPatterns/2024_vibrations-apparences/raw/main/2025-01-18_la-vibration-des-apparences.mov" controls="yes" height="420" >}}
 
 
+---
+
+## La vibration des apparences
+
+<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/3Xf3W4?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
 
 </section>
 
