@@ -460,20 +460,24 @@ opts = dict(N_rho=N_rho, N_phi=N_phi, N_H=N_H, N_V=N_V,
 def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)    
 ```
 
+
+---
+
+<!-- ## La vibration des apparences
+
+{{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png"  title="[Etienne Rey, La vibration des apparences](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)" width="60%" >}}
+
+{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}} -->
+
 ---
 
 ## La vibration des apparences
 
 
-{{< video src="https://github.com/NaturalPatterns/2024_vibrations-apparences/raw/main/2025-01-18_la-vibration-des-apparences.mp4" controls="yes" height="420" >}}
-
----
-
-## La vibration des apparences
+{{< video src="https://github.com/NaturalPatterns/2024_vibrations-apparences/raw/main/2025-01-18_la-vibration-des-apparences.mp4" type="video/mp4" controls="yes" height="420" >}}
 
 
-{{< video src="https://github.com/NaturalPatterns/2024_vibrations-apparences/raw/main/2025-01-18_la-vibration-des-apparences.mov" controls="yes" height="420" >}}
-
+{{< slide background-image="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png" >}}
 
 ---
 
