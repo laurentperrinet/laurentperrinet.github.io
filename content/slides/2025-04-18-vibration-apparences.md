@@ -253,18 +253,18 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 {{< /speaker_note >}}
 
----
-
-## Tropique
-
-<iframe src="https://player.vimeo.com/video/56198653" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
 
 ---
 
 ## Tropique
 
 <iframe src="https://player.vimeo.com/video/66161665" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+---
+
+## Tropique
+
+<iframe src="https://player.vimeo.com/video/56198653" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ---
 
@@ -303,7 +303,7 @@ https://github.com/NaturalPatterns/2013_Tropique
 <section>
 
 
-## Natural patterns
+## De la nature des choses
 
 
 {{< figure src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/featured.png"  title="[Etienne Rey, Densité flou](https://laurentperrinet.github.io/post/2019-06-22_ardemone/)" width="100%" >}}
@@ -327,7 +327,7 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 ## Caustiques
 
-{{< video src="https://github.com/NaturalPatterns/2020_caustiques/raw/main/iridiscence.mp4" controls="yes" height="420" >}}
+{{< video src="https://github.com/NaturalPatterns/2020_caustiques/raw/main/iridiscence.mp4" controls="yes" repeat="yes" height="420" >}}
 
 
 
@@ -385,6 +385,55 @@ https://github.com/NaturalPatterns/2013_Tropique
 ---
 
 ## La vibration des apparences
+
+<pre><code data-trim class="language-python">
+N_rho, N_phi = 34, 233
+
+def retino_grid(cr, N_rho, N_phi, N_H, N_V, offset, size_mag, ecc_max, alpha, c1, c2, power, operator, channel='both'):
+
+    cr.scale(N_H, N_V)
+    cr.set_operator(operator)
+
+    # Compute the grid
+    # https://laurentperrinet.github.io/sciblog/posts/2020-04-16-creating-an-hexagonal-grid.html
+    # phi_v, rho_v = np.meshgrid(np.linspace(0, 2*np.pi, N_phi, endpoint=False), 
+    #                            np.geomspace(logpolar_min, 1, N_rho, endpoint=True), sparse=False, indexing='xy')
+    phi_v, rho_v = np.meshgrid(np.linspace(0, 2*np.pi, N_phi, endpoint=False), 
+                               np.linspace(0, ecc_max, N_rho+1, endpoint=True)[1:], sparse=False, indexing='xy')
+    
+    phi_v[::2, :] += np.pi/N_phi
+
+    offsets = [-offset, offset]
+    colors = [c1, c2]
+
+    for offset_, color in zip(offsets, colors):
+        # convert to cartesian coordinates
+        X =  rho_v * np.sin(phi_v) + offset_
+        Y =  rho_v * np.cos(phi_v)
+        X = (X+1)/2
+        Y = (Y+1)/2
+        R = size_mag * rho_v**power / N_rho
+
+        # draw 
+        for x, y, r in zip(X.ravel(), Y.ravel(), R.ravel()):
+            circle(cr, x, y, r)
+            cr.set_source_rgba(*hue_to_rgba(color, alpha))
+            cr.fill()
+
+    return cr
+
+c_blue = 240
+dc = 60
+opts = dict(N_rho=N_rho, N_phi=N_phi, N_H=N_H, N_V=N_V,
+            offset=0.07, size_mag=0.3, ecc_max=0.8, alpha=0.80, c1=c_blue-dc, c2=c_blue+dc, power=.5, operator=cairo.OPERATOR_MULTIPLY)
+
+@disp
+def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)    
+</code></pre>
+---
+
+## La vibration des apparences
+
 
 {{< video src="https://github.com/NaturalPatterns/2024_vibrations-apparences/raw/main/2025-01-18_la-vibration-des-apparences.mp4" controls="yes" height="420" >}}
 
