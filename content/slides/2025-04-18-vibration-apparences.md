@@ -18,6 +18,7 @@ title: 2025-04-18-vibration-apparences
 summary: La vibration des apparences
 
 ---
+
 <section>
 
 # [La vibration des apparences](https://laurentperrinet.github.io/slides/2025-04-18-vibration-apparences/?transition=fade)
@@ -141,7 +142,6 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 ---
 
-
 <section>
 
 
@@ -207,9 +207,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 </section>
 
-
 ---
-
 
 <section>
 
@@ -296,9 +294,7 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 </section>
 
-
 ---
-
 
 <section>
 
@@ -362,9 +358,7 @@ Par <a href="//commons.wikimedia.org/wiki/User:Cmglee" title="User:Cmglee">Cmgle
 
 </section>
 
-
 ---
-
 
 <section>
 
@@ -477,10 +471,6 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 {{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}} 
 -->
 
-
-
-<!-- {{< slide background-image="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png" >}} 
--->
 
 ---
 
