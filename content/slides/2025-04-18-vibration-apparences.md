@@ -371,7 +371,7 @@ Par <a href="//commons.wikimedia.org/wiki/User:Cmglee" title="User:Cmglee">Cmgle
 
 <!-- {{< slide background-image="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" >}} -->
 
-{{< figure src="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" width="40%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" width="60%" >}}
 
 {{< speaker_note >}}
 
@@ -383,7 +383,7 @@ Par <a href="//commons.wikimedia.org/wiki/User:Cmglee" title="User:Cmglee">Cmgle
 ## La vibration des apparences
 
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Montagne_Sainte-Victoire%2C_par_Paul_C%C3%A9zanne_108.jpg" title="[Paul Cézanne, Montagne Sainte-Victoire, 1904](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne)" width="70%" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Montagne_Sainte-Victoire%2C_par_Paul_C%C3%A9zanne_108.jpg" title="[Paul Cézanne, Montagne Sainte-Victoire, 1904](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne)" width="62%" >}}
 
 {{< speaker_note >}}
 
@@ -396,7 +396,7 @@ Par <a href="//commons.wikimedia.org/wiki/User:Cmglee" title="User:Cmglee">Cmgle
 ## La vibration des apparences
 
 
-{{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/Merleau-Ponty_Sens-et-non-sens.png" title="[Merleau-Ponty, Sens et non-sens](https://laurentperrinet.github.io/author/etienne-rey/)" width="50%" >}}
+{{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/Merleau-Ponty_Sens-et-non-sens.png" title="[Merleau-Ponty, Sens et non-sens](https://laurentperrinet.github.io/author/etienne-rey/)" width="62%" >}}
 
 {{< speaker_note >}}
 
@@ -428,18 +428,16 @@ Par <a href="//commons.wikimedia.org/wiki/User:Cmglee" title="User:Cmglee">Cmgle
 ```python
 N_rho, N_phi = 34, 233
 
-def retino_grid(cr, N_rho, N_phi, N_H, N_V, offset, size_mag, ecc_max, alpha, c1, c2, power, operator, channel='both'):
+def retino_grid(cr, N_rho, N_phi, N_H, N_V, offset, size_mag, 
+                ecc_max, alpha, c1, c2, power, operator, 
+                channel='both'):
 
     cr.scale(N_H, N_V)
     cr.set_operator(operator)
 
-    # Compute the grid
     # https://laurentperrinet.github.io/sciblog/posts/2020-04-16-creating-an-hexagonal-grid.html
-    # phi_v, rho_v = np.meshgrid(np.linspace(0, 2*np.pi, N_phi, endpoint=False), 
-    #                            np.geomspace(logpolar_min, 1, N_rho, endpoint=True), sparse=False, indexing='xy')
     phi_v, rho_v = np.meshgrid(np.linspace(0, 2*np.pi, N_phi, endpoint=False), 
-                               np.linspace(0, ecc_max, N_rho+1, endpoint=True)[1:], sparse=False, indexing='xy')
-    
+                               np.linspace(0, ecc_max, N_rho+1, endpoint=True)[1:], sparse=False, indexing='xy')    
     phi_v[::2, :] += np.pi/N_phi
 
     offsets = [-offset, offset]
