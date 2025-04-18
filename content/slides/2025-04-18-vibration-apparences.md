@@ -1,7 +1,7 @@
 ---
  slides:
  # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: black
+  theme: white
   reveal_options:
     transition: 'fade'
 
@@ -305,6 +305,33 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 ## De la nature des choses
 
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/90/Phyllotaxis_golden_angle.svg"  title="[Phyllotaxie](https://fr.wikipedia.org/wiki/Phyllotaxie)" width="100%" >}}
+
+Par <a href="//commons.wikimedia.org/wiki/User:Cmglee" title="User:Cmglee">Cmglee</a> — <span class="int-own-work" lang="fr">Travail personnel</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=146404567">Lien</a>
+
+
+{{< speaker_note >}}
+
+
+{{< /speaker_note >}}
+
+---
+
+## De la nature des choses
+
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c3/NGC_4414_%28NASA-med%29.jpg"  title="[NGC 4414](https://fr.wikipedia.org/wiki/Galaxie_spirale)" width="100%" >}}
+
+
+
+
+{{< speaker_note >}}
+
+
+{{< /speaker_note >}}
+
+---
 
 {{< figure src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/featured.png"  title="[Etienne Rey, Densité flou](https://laurentperrinet.github.io/post/2019-06-22_ardemone/)" width="100%" >}}
 
