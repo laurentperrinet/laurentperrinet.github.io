@@ -1,7 +1,7 @@
 ---
  slides:
  # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: white
+  theme: black
   reveal_options:
     transition: 'fade'
 
