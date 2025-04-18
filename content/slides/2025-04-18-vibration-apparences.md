@@ -21,7 +21,7 @@ summary: La vibration des apparences
 <section>
 
 # [La vibration des apparences](https://laurentperrinet.github.io/slides/2025-04-18-vibration-apparences/?transition=fade)
-##	*[Laurent Perrinet](2025-04-18-vibration-apparences/)*
+##	*[Laurent Perrinet](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)*
 ###	<u>[Journées d’Ouverture Scientifique (JOS)](https://jos.lis-lab.fr/)</u>
 ###	[2025-04-18]
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
@@ -505,7 +505,7 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 
 
 # [La vibration des apparences](https://laurentperrinet.github.io/slides/2025-04-18-vibration-apparences/?transition=fade)
-##	*[Laurent Perrinet](2025-04-18-vibration-apparences/)*
+##	*[Laurent Perrinet](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)*
 ###	<u>[Journées d’Ouverture Scientifique (JOS)](https://jos.lis-lab.fr/)</u>
 ###	[2025-04-18]
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
