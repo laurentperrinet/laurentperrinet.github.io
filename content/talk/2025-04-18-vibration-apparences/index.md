@@ -27,6 +27,13 @@ tags: []
 title: 'La vibration des apparences'
 ---
 
+https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/
+
+Cette présentation dans le cadre des *Journées d’Ouverture Scientifique (JOS)* explore le travail exposé à l'exposition *La vibration des apparences* qui a eu lieu au musée Granet:
+
+{{< cite page="/post/2024-11-07_vibration-apparences/" view="4" >}}
+
+
 Le titre de l'exposition fait écho au texte "Le Doute de Cézanne" de Merleau-Ponty, qui explore comment, dans la vie quotidienne, nous tendons à ignorer les apparences transitoires pour accéder directement aux objets eux-mêmes. À l'opposé, le peintre se focalise sur cette dynamique de mutation des apparences. Merleau-Ponty écrit au sujet de Cézanne : « Le peintre reprend et convertit justement en objet visible ce qui sans lui reste enfermé dans la vie séparée de chaque conscience : la vibration des apparences qui est le berceau des choses. » 
 
 L'exposition s'inscrit dans le prolongement de cette pensée, illustrant la vibration des apparences au travers du concept d'Interférence. Ce phénomène physique, où deux ondes de même nature en superposition se renforcent ou s'annulent, inspire Etienne Rey à établir un parallèle visuel. Il reprend, décale, transpose des motifs desquels émergent des « interférences optiques », des « ondes chromatiques ». 
