@@ -306,7 +306,7 @@ https://github.com/NaturalPatterns/2013_Tropique
 ## De la nature des choses
 
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/90/Phyllotaxis_golden_angle.svg"  title="[Phyllotaxie](https://fr.wikipedia.org/wiki/Phyllotaxie)" width="100%" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/90/Phyllotaxis_golden_angle.svg"  title="[Phyllotaxie](https://fr.wikipedia.org/wiki/Phyllotaxie)" width="50%" >}}
 
 Par <a href="//commons.wikimedia.org/wiki/User:Cmglee" title="User:Cmglee">Cmglee</a> — <span class="int-own-work" lang="fr">Travail personnel</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=146404567">Lien</a>
 
@@ -317,19 +317,21 @@ Par <a href="//commons.wikimedia.org/wiki/User:Cmglee" title="User:Cmglee">Cmgle
 {{< /speaker_note >}}
 
 ---
-
+<!-- 
 ## De la nature des choses
 
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c3/NGC_4414_%28NASA-med%29.jpg"  title="[NGC 4414](https://fr.wikipedia.org/wiki/Galaxie_spirale)" width="100%" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c3/NGC_4414_%28NASA-med%29.jpg"  title="[NGC 4414](https://fr.wikipedia.org/wiki/Galaxie_spirale)" width="100%" >}} -->
 
-
-
+{{< slide background-image="https://upload.wikimedia.org/wikipedia/commons/c/c3/NGC_4414_%28NASA-med%29.jpg" >}}
 
 {{< speaker_note >}}
 
 
 {{< /speaker_note >}}
+
+
+
 
 ---
 
@@ -413,7 +415,7 @@ Par <a href="//commons.wikimedia.org/wiki/User:Cmglee" title="User:Cmglee">Cmgle
 
 ## La vibration des apparences
 
-<pre><code data-trim class="language-python">
+```python
 N_rho, N_phi = 34, 233
 
 def retino_grid(cr, N_rho, N_phi, N_H, N_V, offset, size_mag, ecc_max, alpha, c1, c2, power, operator, channel='both'):
@@ -456,7 +458,7 @@ opts = dict(N_rho=N_rho, N_phi=N_phi, N_H=N_H, N_V=N_V,
 
 @disp
 def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)    
-</code></pre>
+```
 
 ---
 
