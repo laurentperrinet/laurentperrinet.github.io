@@ -369,10 +369,9 @@ Par <a href="//commons.wikimedia.org/wiki/User:Cmglee" title="User:Cmglee">Cmgle
 <section>
 
 
-## La vibration des apparences
+{{< slide background-image="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" >}}
 
-
-{{< figure src="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" width="50%" >}}
+<!-- {{< figure src="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" width="50%" >}} -->
 
 {{< speaker_note >}}
 
@@ -488,8 +487,6 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 {{< video src="https://github.com/NaturalPatterns/2024_vibrations-apparences/raw/main/2025-01-18_la-vibration-des-apparences.mp4" type="video/mp4" controls="yes" height="420" >}}
 
 ---
-
-## La vibration des apparences
 
 
 {{< slide background-image="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png" >}}
