@@ -369,9 +369,9 @@ Par <a href="//commons.wikimedia.org/wiki/User:Cmglee" title="User:Cmglee">Cmgle
 <section>
 
 
-{{< slide background-image="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" >}}
+<!-- {{< slide background-image="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" >}} -->
 
-<!-- {{< figure src="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" width="50%" >}} -->
+{{< figure src="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" width="40%" >}}
 
 {{< speaker_note >}}
 
