@@ -17,6 +17,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/alexandre-laine/
+- icon: external-link-alt
+  icon_pack: fas
+  link: https://alexandre-laine.github.io/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/alexandre-lain%C3%A9-6593a4221/
