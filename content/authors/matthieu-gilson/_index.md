@@ -22,9 +22,7 @@ bio: Computational Neuroscience for Cognition and Neuropahtologies
 
 interests:
 - Computational Neuroscience
-- Spiking Neural Networks
 - Machine Learning
-- Vision
 
 social:
 - icon: orcid

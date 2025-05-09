@@ -15,7 +15,7 @@ tags:
 - polychronies
 
 user_groups:
-- Current Students
+- Former Students
 ---
 
 #  "Accurate detection of precise spiking motifs in neurobiological data"
