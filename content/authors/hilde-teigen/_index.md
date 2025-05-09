@@ -10,7 +10,7 @@ social:
   link: https://centuri-livingsystems.org/h-l-teigen/
 superuser: false
 user_groups:
-- Current Students
+- Former Students
 ---
 
 #  "Neuromodulatory mechanisms of predictive processing in the mouse visual cortex" (PhD position, 2023-10 / 2026-09)
