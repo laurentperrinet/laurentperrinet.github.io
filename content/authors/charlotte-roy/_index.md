@@ -5,6 +5,9 @@ bio: During my PhD, I am focusing on Embodied cognition.
 title: Charlotte Roy
 role: PhD candidate in Neuroscience
 social:
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/charlotte-roy-192845227/
 - icon: school
   icon_pack: fas
   link: https://theses.fr/s410921?domaine=theses

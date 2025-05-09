@@ -1,10 +1,13 @@
 ---
 authors:
 - agathe-choplin
-bio: During my PhD, I am focusing on Ultra-fast vision using Spiking Neural Networks.
+bio: During my PhD, I am focusing on Physiological States using Machine Learning.
 title: Agathe Choplin
 role: PhD candidate in Neuroscience
 social:
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/agathe-choplin-567182183/
 - icon: house-user
   icon_pack: fas
   link: https://www.onera.fr/fr/tis#cogin
