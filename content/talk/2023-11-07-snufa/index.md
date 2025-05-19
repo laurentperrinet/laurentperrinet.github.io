@@ -35,3 +35,4 @@ title: Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of 
 * Poster Session at https://snufa.net/2023/
 * https://snufa.net/2023/abstracts/laurent-perrinet-accurate.html
 * code: https://github.com/laurentperrinet/2023-09-27_HDSNN-ICANN
+* see a follow-up as journal paper: {{< cite page="/publication/perrinet-23-icann" view="4" >}}

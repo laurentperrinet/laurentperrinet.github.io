@@ -42,3 +42,7 @@ tags: []
 title: Accurate Detection of Spiking Motifs in Neurobiological Data by Learning Heterogeneous
   Delays of a Spiking Neural Network
 ---
+
+* see accompanying papers
+ * for neural data: {{< cite page="/publication/perrinet-23-icann" view="4" >}}
+ * for event-based cameras: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}

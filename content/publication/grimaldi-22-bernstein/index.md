@@ -46,3 +46,4 @@ tags: []
 title: Detection of precise spiking motifs using spike-time dependent weight and delay
   plasticity
 ---
+* see a follow-up as journal paper: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}

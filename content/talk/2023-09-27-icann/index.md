@@ -37,3 +37,4 @@ title: Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of 
 * Chair: Sander Bohté, Sebastian Otte
 * read the [proceedings](https://link.springer.com/chapter/10.1007/978-3-031-44207-0_31) 
 * The code is available on [GitHub](https://github.com/laurentperrinet/2023-09-27_HDSNN-ICANN)
+* see accompanying paper: {{< cite page="/publication/perrinet-23-icann" view="4" >}}
