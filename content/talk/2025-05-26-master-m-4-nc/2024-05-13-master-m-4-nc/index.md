@@ -22,7 +22,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
-lastmod: 2025-05-26 12:47:11+02:00
+lastmod: 2025-05-26 08:47:11+02:00
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-05-26-master-m-4-nc
@@ -33,7 +33,7 @@ publication: '*Master M4NC de l''institut NeuroMod, cours Prospective Innovation
   Research.*'
 publication_types:
 - inproceedings
-publishDate: '2025-05-26T10:47:11.113238Z'
+publishDate: '2025-05-26T06:47:11.113238Z'
 slides: 2025-05-26-master-m-4-nc
 subtitle: ''
 title: Artificial neural networks and machine learning applied to the understanding
