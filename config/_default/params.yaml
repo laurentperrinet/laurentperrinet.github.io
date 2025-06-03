@@ -22,7 +22,7 @@ marketing:
   analytics:
     google_analytics: ''
     baidu_tongji: ''
-    google_tag_manager: ''
+    google_tag_manager: 'GTM-KT925TCM'
     microsoft_clarity: ''
   verification:
     google: '6jjjboKLYp2QzywShNDvZkAfb0Yc8SDtfFzOonP3o0o'
