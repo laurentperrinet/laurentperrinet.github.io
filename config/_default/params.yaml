@@ -25,7 +25,7 @@ marketing:
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: ''
+    google: '6jjjboKLYp2QzywShNDvZkAfb0Yc8SDtfFzOonP3o0o'
     baidu: ''
 
 # Site header
@@ -63,7 +63,7 @@ features:
   syntax_highlighter:
     enable: false
     extra_languages:
-      - r
+      - python
       - latex
   math:
     enable: false
