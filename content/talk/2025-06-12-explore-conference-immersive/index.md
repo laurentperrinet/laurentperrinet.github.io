@@ -1,5 +1,5 @@
 ---
-title: 'Conférence immersive : Ouvrez grand les yeux'
+title: 'Conférence immersive : La vision, réalité ou perception ?'
 authors:
 - Laurent U Perrinet
 date: '2025-06-12'
