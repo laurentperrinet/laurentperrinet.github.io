@@ -22,7 +22,8 @@ authors:
 - Nikos Gekas
 - Andrew Isaac Meso
 - Jonathan Vacher
-- Laurent Uand Mamassian, Pascal Perrinet
+- Laurent U aPerrinet
+- Pascal Mamassian
 - Guillaume S Masson
 date: 2024-08-27
 links:
