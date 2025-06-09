@@ -21,7 +21,7 @@ links:
 Dans le cadre de la deuxième édition du Festival EXPLORE, l'association Polly Maggoo vous propose de découvrir trois projections gratuites de courts métrages autour de thématiques de recherche de scientifiques, en leur présence.
 
 * Programme: https://pollymaggoo.org/festival-explore-2025/
-* Le mardi 10 juin à 19h au cinéma Pathé Madeleine 
+* Le mardi 10 juin à 19h au cinéma Pathé Madeleine : 36 Avenue du Maréchal Foch, 13004 Marseille, France
 * En présence de Laurent Perrinet, chercheur à l'Institut de Neurosciences de la Timone (INT). Spécialiste de la vision, IA, biomimétisme et biorobotique.
 
 | Titre | Réalisateur | Pays | Année | Genre | Durée | Production | Distribution |
