@@ -35,5 +35,11 @@ To bridge the gap between neuroscience and Artificial Intelligence (AI), I seek 
 
 <!-- Place this tag where you want the button to render. -->
 
-Follow me on <a href="https://neuromatch.social/@laurentperrinet" target="_blank" rel="me"><img src="https://raw.githubusercontent.com/mastodon/mastodon/master/app/javascript/images/logo.svg" alt="Mastodon" style="height: 1em; vertical-align: middle;">Mastodon</a>, 
+Follow me on
+<a href="https://neumatch.social/@laurentperrinet" target="_blank" rel="me">
+  <img src="https://raw.githubusercontent.com/mastodon/mastodon/master/app/javascript/images/logo.svg"
+       alt="Mastodon"
+       style="height: 1em; width: auto; max-width: 1em; vertical-align: middle; display: inline-block; margin: 0; padding: 0;">
+  Mastodon
+</a>, 
 <a class="github-button" href="https://github.com/laurentperrinet" data-size="large" data-show-count="true" aria-label="Follow @laurentperrinet on GitHub">GitHub</a>.<script async defer src="https://buttons.github.io/buttons.js"></script> 
