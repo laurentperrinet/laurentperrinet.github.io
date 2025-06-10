@@ -18,13 +18,13 @@ abstract: "Convolutional Neural Networks (CNNs) have been widely used for catego
   We focus on visual search --- a task requiring both localisation and categorisation
   of a target object in natural scenes. Our work is inspired by the organisation of
   the primate visual system, which processes visual information through two distinct
-  pathways: the ventral ``What'' pathway, responsible for object recognition, and
-  the dorsal ``Where'' pathway, specialized in spatial localisation. Using this principle,
-  we aim to evaluate the validity of a ``what/where\\\" approach, capable of selectively
+  pathways: the ventral ''What'' pathway, responsible for object recognition, and
+  the dorsal ''Where'' pathway, specialized in spatial localisation. Using this principle,
+  we aim to evaluate the validity of a ''what/where'' approach, capable of selectively
   processing only the relevant areas of the visual scene with respect to the classification
-  task. This selection relies on the implementation of a visual sensor (``retina\\\
-  \") that samples only part of the image, coupled with a map representing the regions
-  of the image. This map, referred to as a ``likelihood map,\\\" is based on the probability
+  task. This selection relies on the implementation of a visual sensor (''retina'') 
+  that samples only part of the image, coupled with a map representing the regions
+  of the image. This map, referred to as a ''likelihood map'' is based on the probability
   of correctly identifying the target label. Depending on the case, it can be guided
   (resp not guided) by the target label, similar to the Grad-CAM  (resp DFF). In both
   scenarios, we show improved classification performance when the eye shifts toward
