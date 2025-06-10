@@ -13,7 +13,7 @@ summary: Dans le monde qui nous entoure, nous percevons le temps s’écouler de
 tags:
 - events
 - vision
-title: '2019-10-07: Le temps des sens'
+title: 'Le temps des sens'
 url_video: https://www.youtube.com/watch?v=jJKTdlChefc
 ---
 

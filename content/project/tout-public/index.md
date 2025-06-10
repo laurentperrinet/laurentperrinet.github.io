@@ -31,5 +31,3 @@ design:
   columns: '2'
 
 ---
-
-

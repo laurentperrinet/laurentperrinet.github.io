@@ -12,8 +12,8 @@ links:
   url: https://laurentperrinet.github.io/2023-01-31_formes-et-perception
 projects:
 - tout-public
-tags:
 - art-science
+tags:
 - neuroscience
 - vision
 - perception
