@@ -2,16 +2,16 @@
 summary: L'art permet de dépasser la rigidité requise par les normes académiques. C'est aussi un moyen d'expression et de communication. Une collaboration avec Étienne Rey.
 tags:
 - research-interests
-- EtienneRey
+
 title: Art <> Sciences
 
 sections:
   - block: collection
-    id: meso
+    id: art-science
     content:
-      title: Recent Posts
+      title: 'Interactions entre art et science'
       subtitle: ''
-      text: 'Publications that used the MesoCentre'
+      text: 'Interactions entre art et science'
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
       # Filter on criteria
