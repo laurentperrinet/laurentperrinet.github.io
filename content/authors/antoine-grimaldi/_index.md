@@ -1,14 +1,14 @@
 ---
 authors:
 - antoine-grimaldi
-bio: During my PhD, I am focusing on Ultra-fast vision using Spiking Neural Networks.
+bio: During my PhD, I was focusing on Ultra-fast vision using Spiking Neural Networks.
 education:
   courses:
   - course: Phd candidate in Computational Neuroscience
     institution: Aix-Marseille Université
     year: 2023
-title: Antoine Grimaldi
-role: Phd candidate in Computational Neuroscience
+title: Antoine Grimaldi with Andrea Alamia in Toulouse, France
+role: PostDoc  candidate in Computational Neuroscience
 social:
 - icon: github
   icon_pack: fab

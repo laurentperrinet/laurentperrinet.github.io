@@ -15,7 +15,7 @@ education:
       institution: Aix-Marseille Université
       year: 2019
 title: Hugo Ladret
-role: Phd in Computational Neuroscience
+role: Postdoctoral Researcher at Friedrich Miescher Institute for Biomedical Research
 social:
 - icon: github
   icon_pack: fab
