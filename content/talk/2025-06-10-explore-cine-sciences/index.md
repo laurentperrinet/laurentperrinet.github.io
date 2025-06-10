@@ -6,6 +6,8 @@ date: '2025-06-10'
 publishDate: '2025-06-03T07:46:11.956208Z'
 publication_types:
 - paper-conference
+projects:
+- tout-public
 publication: '*Festival EXPLORE organisé par Aix Marseille Université et la DR12 du
   CNRS.*'
 abstract: 'Ouvrez grand les yeux… mais méfiez-vous de ce qu’ils vous montrent. Cette
@@ -16,6 +18,7 @@ abstract: 'Ouvrez grand les yeux… mais méfiez-vous de ce qu’ils vous montre
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-06-10_explore-cine-sciences
+
 ---
 
 Dans le cadre de la deuxième édition du Festival EXPLORE, l'association Polly Maggoo vous propose de découvrir trois projections gratuites de courts métrages autour de thématiques de recherche de scientifiques, en leur présence.

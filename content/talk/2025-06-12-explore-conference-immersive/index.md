@@ -8,6 +8,8 @@ publication_types:
 - paper-conference
 publication: '*Festival EXPLORE organisé par Aix Marseille Université et la DR12 du
   CNRS.*'
+projects:
+- tout-public  
 abstract: 'Ouvrez grand les yeux… mais méfiez-vous de ce qu’ils vous montrent. Cette
   conférence immersive vous emmène dans un voyage fascinant au cœur du phénomène de
   la vision : de la biologie de l’œil humain aux incroyables capacités visuelles du
