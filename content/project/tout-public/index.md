@@ -11,22 +11,22 @@ title: Tout public!
 content:
   # Filter on criteria
   filters:
-    tag: ''
     projects: 'tout-public'
-    category: ''
-    author: ''
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
+  sort_by: 'Date'
   order: desc
-design:
-  # Choose a view for the listings:
-  view: citation
-  columns: '2'
+
+  design:
+    # Choose how many columns the section has. Valid values: '1' or '2'.
+    columns: '1'
+    # Choose your content listing view - here we use the `showcase` view
+    view: showcase
+    # For the Showcase view, do you want to flip alternate rows?
+    flip_alt_rows: true
+
 
 ---

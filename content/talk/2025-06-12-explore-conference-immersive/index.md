@@ -8,8 +8,6 @@ publication_types:
 - paper-conference
 publication: '*Festival EXPLORE organisé par Aix Marseille Université et la DR12 du
   CNRS.*'
-projects:
-- tout-public  
 abstract: 'Ouvrez grand les yeux… mais méfiez-vous de ce qu’ils vous montrent. Cette
   conférence immersive vous emmène dans un voyage fascinant au cœur du phénomène de
   la vision : de la biologie de l’œil humain aux incroyables capacités visuelles du
@@ -21,6 +19,8 @@ abstract: 'Ouvrez grand les yeux… mais méfiez-vous de ce qu’ils vous montre
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-06-12_explore-conference-immersive
+- name: Tout public!
+  url: https://laurentperrinet.github.io/project/tout-public/
 ---
 
 * https://explore.univ-amu.fr/programme
