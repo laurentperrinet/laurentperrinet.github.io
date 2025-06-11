@@ -4,7 +4,7 @@ tags:
 - research-interests
 title: Art <> Sciences
 
-subtitle: 'Interactions entre art et science'
+subtitle: 'Interactions entre art et sciences'
 # Choose how many pages you would like to display (0 = all pages)
 count: 0
 # Filter on criteria
