@@ -7,8 +7,8 @@ education:
   - course: Phd candidate in Computational Neuroscience
     institution: Aix-Marseille Université
     year: 2023
-title: Antoine Grimaldi with Andrea Alamia in Toulouse, France
-role: PostDoc  candidate in Computational Neuroscience
+title: Antoine Grimaldi
+role: PostDoc  candidate in Computational Neuroscience with Andrea Alamia in Toulouse, France
 social:
 - icon: github
   icon_pack: fab
