@@ -27,7 +27,7 @@ authors:
 date: 2019-07-15 12:20:00
 event: 'Annual Computational Neuroscience Meeting: CNS*2019 Barcelona, Spain'
 featured: false
-projects:
+grants:
 - spikeai
 links:
 - name: Slides

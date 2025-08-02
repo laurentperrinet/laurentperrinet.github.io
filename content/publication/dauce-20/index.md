@@ -27,7 +27,7 @@ authors:
 date: 2020-06-05
 doi: 10.1167/jov.20.8.22
 featured: false
-projects:
+grants:
 - spikeai
 - mesocentre
 - aprovis-3-d
