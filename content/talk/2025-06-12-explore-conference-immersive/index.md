@@ -21,8 +21,14 @@ links:
   url: https://laurentperrinet.github.io/talk/2025-06-12_explore-conference-immersive
 - name: Tout public!
   url: https://laurentperrinet.github.io/project/tout-public/
+projects:
+- tout-public  
 ---
 
 * https://explore.univ-amu.fr/programme
 
-* pour réserver: https://www.eventbrite.fr/e/billets-explore-2025-conference-immersive-la-vision-realite-ou-perception-1338580593589?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl
+* Quoi: Conférence immersive
+* Quand: Jeudi 12 juin 2025 - 16h - 17h
+* Où: CRVM - Centre de réalité virtuelle de la Méditerranée (UMR 6233 CNRS & Université de la Méditerranée Faculté des Sciences du Sport, Avenue de Luminy, 13288 Marseille)
+
+
