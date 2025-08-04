@@ -31,10 +31,10 @@ cascade:
 path: /blog/**
 kind: page
 pager: true
-editable: true
+editable: false
 hide_date: false
 show_date_updated: true
-reading_time: true
+reading_time: false
 commentable: true
 show_related: true
 share: true
@@ -68,7 +68,9 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  event: '/talk/:slug/'
+  event: '/post/:slug/'
+  talk: '/talk/:slug/'
+  project: '/project/:slug/'
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
@@ -85,6 +87,8 @@ imaging:
 timeout: 600000
 taxonomies:
   author: authors
+  post: events
+  talk: talks
   tag: tags
   grant: grants
   publication_type: publication_types

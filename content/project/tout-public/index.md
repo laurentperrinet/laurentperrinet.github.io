@@ -1,4 +1,6 @@
 ---
+title: Tout public!
+
 date: 2016-04-27 00:00:00
 image:
   caption: Photo by Toa Heftiba on Unsplash
@@ -7,24 +9,22 @@ summary: L'entreprise scientifique s'accompagne nécessairement d'actions de dif
 tags:
 - research-interests
 - EtienneRey
-title: Tout public!
 
 content:
   # Filter on criteria
   filters:
-    tag: ''
-    projects: 'tout-public'
+    tag: tout-public
+    projects: tout-public
     category: ''
     author: ''
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Choose how many pages you would like to offset by
   offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+
+  sort_by: 'Date'
+  sort_ascending: false
+
 design:
   # Choose a view for the listings:
   view: citation
