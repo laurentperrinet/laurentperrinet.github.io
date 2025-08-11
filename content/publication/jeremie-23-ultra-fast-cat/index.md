@@ -47,7 +47,6 @@ links:
 publication: '*Vision*'
 publication_types:
 - article-journal
-subtitle: ''
 tags:
 - classification
 - deep learning

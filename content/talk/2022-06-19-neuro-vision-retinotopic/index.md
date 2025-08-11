@@ -9,6 +9,7 @@ draft: false
 event: NeuroVision Workshop in conjunction with CVPR 2022
 featured: false
 projects:
+- anr-anr
 - aprovis3D
 image:
   caption: ''

@@ -42,6 +42,8 @@ tags:
 - ImageNet
 - Visual search
 - NeuroAI
+projects:
+- anr-anr
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/jeremie-25-ccn
