@@ -37,6 +37,10 @@ user_groups:
  * Thesis direction: [Laurent Perrinet](https://laurentperrinet.github.io/author/laurent-u-perrinet/) and co-direction: Sophie Denève
  * Keywords: Spiking Neural Networks, Neurobiology, Efficient coding, Neural Decoding, Temporal precision, Travelling waves
 
+ * Relevant works:
+
+ {{< cite page="publication/laine-25-cns" view="4" >}}
+
 ## Relevant papers
 
 {{< cite page="publication/grimaldi-22-polychronies" view="4" >}}
