@@ -45,4 +45,10 @@ tags:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/jeremie-25-ccn
+- name: Abstract
+  url: https://2025.ccneuro.org/abstract_pdf/Jeremie_2025_Unravelling_relationship_location_categorisation_improves_convolutional.pdf
 ---
+
+* What: Poster A145
+* When: Tuesday, August 12, 1:30 – 4:30 pm,
+* WHere: CCN 2025 conference venue, de Brug & E‑Hall
