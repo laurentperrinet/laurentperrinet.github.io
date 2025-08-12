@@ -26,7 +26,7 @@ tags:
 - Covariance Matrices
 links:
 - name: URL
-  url: https://laurentperrinet.github. io/publication/choplin-25-ccn
+  url: https://laurentperrinet.github.io/publication/choplin-25-ccn
 - name: Abstract
   url: https://2025.ccneuro.org/abstract_pdf/CHOPLIN_2025_Classification_Mental_Workload_Spatial_Effects_using.pdf
 ---
