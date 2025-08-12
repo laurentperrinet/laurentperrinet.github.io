@@ -26,7 +26,7 @@ tags:
 - Covariance Matrices
 links:
 - name: URL
-  url: https://laurentperrinet.github.io/publication/choplin-25-ccn
+  url: https://laurentperrinet.github. io/publication/choplin-25-ccn
 - name: Abstract
   url: https://2025.ccneuro.org/abstract_pdf/CHOPLIN_2025_Classification_Mental_Workload_Spatial_Effects_using.pdf
 ---
@@ -34,3 +34,9 @@ links:
 * What: Poster B152
 * When: Wednesday, August 13, 1:00 – 4:00 pm, 
 * WHere: CCN 2025 conference venue, de Brug & E‑Hall
+
+Links:
+
+* https://www.linkedin.com/posts/laurent-perrinet-1857b9_classification-of-mental-workload-spatial-activity-7360642334927032322-mtJi
+* https://bsky.app/profile/laurentperrinet.bsky.social/post/3lw4qvht4bk2f
+* https://neuromatch.social/@laurentperrinet/115010043260931179
