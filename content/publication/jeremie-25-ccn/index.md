@@ -54,3 +54,9 @@ links:
 * What: Poster A145
 * When: Tuesday, August 12, 1:30 – 4:30 pm,
 * WHere: CCN 2025 conference venue, de Brug & E‑Hall
+
+
+Links:
+* https://www.linkedin.com/posts/laurent-perrinet-1857b9_integrating-the-what-and-where-visual-pathways-activity-7360984148594888705-BaOr
+* https://neuromatch.social/@laurentperrinet/115010043260931179
+* https://bsky.app/profile/laurentperrinet.bsky.social/post/3lw74wyfius2r
