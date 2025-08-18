@@ -3,7 +3,7 @@ authors:
 - Jean-Nicolas Jérémie
 - Emmanuel Daucé
 - Laurent U Perrinet
-date: 2023-08-07
+date: 2025-08-13
 doi: 10.48550/arXiv.2402.15480
 projects:
 - anr-anr
@@ -21,3 +21,4 @@ tags:
 - visual categorization
 title: Foveated Retinotopy Improves Classification and Localization in CNNs
 ---
+
