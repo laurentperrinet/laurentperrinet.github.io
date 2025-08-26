@@ -12,6 +12,8 @@ projects:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/ravello-16-droplets
+- name: Code
+  url: https://github.com/laurentperrinet/2016_DropLets
 - name: arXiv
   url: https://arxiv.org/abs/1611.06834
 projects:
@@ -29,7 +31,7 @@ title: Differential response of the retinal neural code with respect to the spar
 ---
 
 {{< figure src="retina.png" title="Sparse coding of images in the retina follows regular statistics at the global, not the local scale" numbered="true" >}}
-See [supplementray code](https://laurentperrinet.github.io//sciblog/posts/2017-11-21_retina_sparseness.html).
+See [supplementray code](https://laurentperrinet.github.io/sciblog/posts/2017-11-21_retina_sparseness.html).
 # How does the retina respond to stimuli with different sparseness?
 This stimulus is generated simply using the [Motion Clouds library](https://github.com/NeuralEnsemble/MotionClouds/blob/master/MotionClouds/MotionClouds.py#L282) by defining a sparse draw of events:
 ```python
