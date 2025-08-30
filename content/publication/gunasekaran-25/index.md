@@ -1,5 +1,5 @@
 ---
-title: 'Future-Guided Learning: A Predictive Approach To Enhance Time-Series Forecasting'
+title: 'A Predictive Approach to Enhance Time-Series Forecasting'
 authors:
 - Skye Gunasekaran
 - Assel Kembay
@@ -8,7 +8,7 @@ authors:
 - Laurent Perrinet
 - Omid Kavehei
 - Jason Eshraghian
-date: '2024-10-19'
+date: '2025-08-29'
 publishDate: '2024-12-23T13:47:40.425008Z'
 publication_types:
 - manuscript
