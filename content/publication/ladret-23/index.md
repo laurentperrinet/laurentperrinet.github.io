@@ -34,6 +34,8 @@ links:
   url: https://www.nature.com/articles/s42003-023-05042-3
 - name: bioRxiv
   url: https://www.biorxiv.org/content/10.1101/2021.03.30.437692
+- name: HAL
+  url: https://hal.science/hal-04142490
 
 publication: '*Nature Communications Biology*'
 publication_types:
