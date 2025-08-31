@@ -39,3 +39,5 @@ subtitle: ''
 title: Artificial neural networks and machine learning applied to the understanding
   of biological vision
 ---
+
+## Master M4NC de l'institut NeuroMod, cours Prospective Innovation and Research.
