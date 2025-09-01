@@ -36,8 +36,8 @@ publication_types:
 publishDate: '2025-05-26T06:47:11.113238Z'
 slides: 2025-05-26-master-m-4-nc
 subtitle: ''
-title: Artificial neural networks and machine learning applied to the understanding
-  of biological vision
+title: Artificial neural networks and machine learning applied to the understanding of biological vision
 ---
 
 ## Master M4NC de l'institut NeuroMod, cours Prospective Innovation and Research.
+

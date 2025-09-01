@@ -7,7 +7,7 @@
  height: 780
  margin: 0.01
 
-# Talk start and end times. 2023-05-13-master-m-4-nc
+# Talk start and end times. 
 # End time can optionally be hidden by prefixing the line with `#`.
 date: '2025-02-11'
 all_day: false
