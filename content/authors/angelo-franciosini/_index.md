@@ -39,6 +39,7 @@ user_groups:
 
 ## Main publications:
 
+* {{< cite page="/publication/franciosini-20-thesis" view="4" >}}
 * {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
 * {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}
 * {{< cite page="/publication/franciosini-21" view="4" >}}
