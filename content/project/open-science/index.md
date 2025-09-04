@@ -97,7 +97,8 @@ This is a collection of python scripts to test learning strategies to efficientl
 * [Web-site](https://neuralensemble.github.io/MotionClouds/)
 * [Source code](https://github.com/NeuralEnsemble/MotionClouds) using {{< icon name="python" pack="fab" >}} Python.
 * This algorithm was presented in the following paper {{< cite page="/publication/sanz-12" view="4" >}}
-* 37 citations on [Google Scholar](https://scholar.google.com/scholar?cluster=3286688289699014452&hl=fr&as_sdt=7,39) (last updated 22/10/2021)
+* 3746 citations on [Google Scholar](https://scholar.google.com/scholar?cluster=3286688289699014452&hl=fr&as_sdt=7,39) (last updated 04/09/2025)
+* examples of use: https://laurentperrinet.github.io/sciblog/categories/motionclouds.html
 * Follow-up paper {{< cite page="/publication/vacher-16" view="4" >}} {{< cite page="/publication/vacher-16" view="4" >}}
 * This library was notably used in the following papers: {{< cite page="/publication/simoncini-12" view="4" >}}  {{< cite page="/publication/ravello-19" view="4" >}}  {{< cite page="/publication/ladret-23" view="4" >}}
 [![Research software impact](http://depsy.org/api/package/pypi/MotionClouds/badge.svg)](http://depsy.org/package/python/MotionClouds)

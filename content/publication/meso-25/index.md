@@ -35,3 +35,25 @@ links:
 - name: URL
   url: https://doi.org/10.1167/jov.25.11.2
 ---
+
+🚀 Excited to share our new paper: 
+
+> "DynTex: A real-time generative model of dynamic naturalistic luminance textures"
+
+...now published in Journal of Vision!
+
+🔹 Why it matters: Dynamic textures (e.g., fire, water, foliage) are everywhere, but modeling them in real-time has been a challenge. DynTex bridges this gap with a biologically inspired, efficient approach. 
+
+🔹 Key innovation: A generative model that captures the spatiotemporal statistics of natural scenes while running in real-time. 
+
+🔹 Applications: Computer vision, neuroscience, VR/AR, and more.📖 
+
+Read it here: https://doi.org/10.1167/jov.25.11.2 
+
+More on: https://laurentperrinet.github.io/publication/meso-25/ 
+
+#DynamicTextures #ComputationalNeuroscience #ComputerVision #GenerativeModels #OpenScience
+
+
+* The Motion Clouds stimuli were originally presented in the following paper (page links to other sresources) {{< cite page="/publication/sanz-12" view="4" >}}
+* examples of use: https://laurentperrinet.github.io/sciblog/categories/motionclouds.html
