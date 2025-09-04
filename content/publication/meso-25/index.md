@@ -54,6 +54,7 @@ More on: https://laurentperrinet.github.io/publication/meso-25/
 
 #DynamicTextures #ComputationalNeuroscience #ComputerVision #GenerativeModels #OpenScience
 
+* [linkedin](https://www.linkedin.com/posts/laurent-perrinet-1857b9_dyntex-a-real-time-generative-model-of-dynamic-activity-7369272969874788353-31he), [mastodon](https://neuromatch.social/@laurentperrinet/115144892971474328), [bluesky](https://bsky.app/profile/laurentperrinet.bsky.social/post/3lxyng54jb22j)
 
 * The Motion Clouds stimuli were originally presented in the following paper (page links to other sresources) {{< cite page="/publication/sanz-12" view="4" >}}
 * examples of use: https://laurentperrinet.github.io/sciblog/categories/motionclouds.html
