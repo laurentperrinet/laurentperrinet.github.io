@@ -8,6 +8,8 @@ summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
 
+* "The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it (Brandolini’s law)" 
+
 * « Mesure ce qui est mesurable, et, ce qui ne l'est pas, efforce-toi de le rendre mesurable. » Galilée
 
 * "Mes yeux, objets patients, étaient à jamais ouverts sur l'étendue des mers où je me noyais. Enfin une écume blanche passa sur le point noir qui fuyait. Tout s'effaça.' Paul Eluard, Donner à voir
