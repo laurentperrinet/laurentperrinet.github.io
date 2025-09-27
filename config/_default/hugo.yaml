@@ -40,9 +40,6 @@ show_related: true
 share: true
 # Just use Breadcrumb for navigation on blog post pages?
 show_breadcrumb: false
-header:
-navbar:
-enable: true
 
 ############################
 ## LANGUAGE
