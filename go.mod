@@ -1,10 +1,13 @@
-module github.com/HugoBlox/hugo-blox-builder/starters/academic-cv
+module github.com/HugoBlox/hugo-blox-builder/starters/blog
 
 go 1.19
 
-require (
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v0.0.0-20231109145828-d9695efa098f
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.0.0-20250925205154-e9b31f8090c0
-)
+require github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2
 
-require github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal v1.2.3 // indirect
+require (
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.7 // indirect
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.4.1 // indirect
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms v0.2.0 // indirect
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal v1.2.3 // indirect
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.3.1 // indirect
+)

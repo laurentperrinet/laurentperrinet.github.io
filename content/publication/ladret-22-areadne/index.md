@@ -41,5 +41,5 @@ title: A resilient neural code in V1 to process natural images
 ---
 
 ![](@laurentperrinet_1542724828658016256_tweetcapture.png)
-* for a follow-up, check out {{< cite page="/publication/ladret-22-fens" view="card" >}}
-* This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="card" >}}
+* for a follow-up, check out {{< cite page="/publication/ladret-22-fens" view="4" >}}
+* This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}

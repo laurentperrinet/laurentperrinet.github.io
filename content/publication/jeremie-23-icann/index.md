@@ -37,6 +37,6 @@ title: Retinotopy improves the categorisation and localisation of visual objects
 ---
 
 * as was presented at the *32nd International Conference on Artificial Neural Networks (ICANN 2023)* in Heraklion (Greece).
-* this proceedings paper follows up the poster presented in : {{< cite page="/publication/jeremie-23-ccn" view="card" >}}
-* see a follow-up presentation in: {{< cite page="/publication/jeremie-24-ccn" view="card" >}}
-* Read the corresponding paper {{< cite page="/publication/jeremie-25" view="card" >}}
+* this proceedings paper follows up the poster presented in : {{< cite page="/publication/jeremie-23-ccn" view="4" >}}
+* see a follow-up presentation in: {{< cite page="/publication/jeremie-24-ccn" view="4" >}}
+* Read the corresponding paper {{< cite page="/publication/jeremie-25" view="4" >}}

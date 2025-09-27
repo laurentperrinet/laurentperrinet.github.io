@@ -24,4 +24,4 @@ tags:
 title: Visual motion processing and human tracking behavior
 ---
 
-* Appeared in this book: {{< cite page="/publication/cristobal-perrinet-keil-15-bicv" view="card" >}}
+* Appeared in this book: {{< cite page="/publication/cristobal-perrinet-keil-15-bicv" view="4" >}}

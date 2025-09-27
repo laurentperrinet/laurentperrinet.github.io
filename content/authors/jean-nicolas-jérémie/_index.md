@@ -40,9 +40,9 @@ user_groups:
 
 ## Relevant papers
 
-{{< cite page="publication/jeremie-23-ultra-fast-cat" view="card" >}}
-{{< cite page="publication/jeremie-25-thesis" view="card" >}}
-{{< cite page="publication/jeremie-25" view="card" >}}
+{{< cite page="publication/jeremie-23-ultra-fast-cat" view="4" >}}
+{{< cite page="publication/jeremie-25-thesis" view="4" >}}
+{{< cite page="publication/jeremie-25" view="4" >}}
 
 ## Projet #1 : 'Fast & Curious': Modèles ultra-rapides de recherche visuelle
 ## Project #1 : *'Fast & Curious': Models for ultra-fast visual search*

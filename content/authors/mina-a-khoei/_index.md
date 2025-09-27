@@ -37,10 +37,10 @@ Using this architecture, we will explore the consequences of such context-depend
 
 ## Main publications:
 
-* {{< cite page="/publication/khoei-13-jpp" view="card" >}}
-* {{< cite page="/publication/kaplan-khoei-14" view="card" >}}
-* {{< cite page="/publication/khoei-14-thesis" view="card" >}}
-* {{< cite page="/publication/khoei-masson-perrinet-17" view="card" >}}
+* {{< cite page="/publication/khoei-13-jpp" view="4" >}}
+* {{< cite page="/publication/kaplan-khoei-14" view="4" >}}
+* {{< cite page="/publication/khoei-14-thesis" view="4" >}}
+* {{< cite page="/publication/khoei-masson-perrinet-17" view="4" >}}
 
 # Propriétés émergentes d'un modèle de prédiction probabiliste utilisant un champ neural
 

@@ -23,5 +23,5 @@ tags:
 title: Controlling an aerial robot with human gestures using bio-inspired algorithm
 ---
 
-* see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="card" >}}
-* more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="card" >}}
+* see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
+* more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

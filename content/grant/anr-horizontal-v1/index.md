@@ -17,11 +17,11 @@ The Horizontal-V1 project aimed at understanding the emergence of sensory predic
 
 ## Our main contributions to the project:
 
-* {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="card" >}}
-* {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="card" >}}
-* {{< cite page="/publication/franciosini-21" view="card" >}}
-* {{< cite page="/publication/vergani-21-bernstein" view="card" >}}
-* {{< cite page="/post/2021-06-15_neural-turing" view="card" >}}
+* {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
+* {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}
+* {{< cite page="/publication/franciosini-21" view="4" >}}
+* {{< cite page="/publication/vergani-21-bernstein" view="4" >}}
+* {{< cite page="/post/2021-06-15_neural-turing" view="4" >}}
 
 
 

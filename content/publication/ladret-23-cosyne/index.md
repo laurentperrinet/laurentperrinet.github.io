@@ -57,4 +57,4 @@ tags:
 title: Resilience to sensory uncertainty in the primary visual cortex
 ---
 
-* This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="card" >}}
+* This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}

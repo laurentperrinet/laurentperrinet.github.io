@@ -35,6 +35,6 @@ title: Retinotopy improves the categorisation and localisation of visual objects
 ---
 
 * as was presented at the *Computational Cognitive Neuroscience Society Meeting 2023* in Oxford
-* see a follow-up presentation in: {{< cite page="/publication/jeremie-23-icann" view="card" >}}
+* see a follow-up presentation in: {{< cite page="/publication/jeremie-23-icann" view="4" >}}
  
-* Read the corresponding paper {{< cite page="/publication/jeremie-25" view="card" >}}
+* Read the corresponding paper {{< cite page="/publication/jeremie-25" view="4" >}}

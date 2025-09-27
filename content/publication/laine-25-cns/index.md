@@ -36,7 +36,7 @@ Thank you to the CNS organizing committee for hosting such an inspiring conferen
 Link to publication: https://laurentperrinet.github.io/publication/laine-25-cns/
 
 For deeper insights into uncertainty processing mechanisms in the visual cortex, see our Nature Communications Biology study: 
-{{< cite page="/publication/ladret-23" view="card" >}}
+{{< cite page="/publication/ladret-23" view="4" >}}
 
 * https://neuromatch.social/@laurentperrinet/115050564011598328
 * https://www.linkedin.com/posts/laurent-perrinet-1857b9_population-decoding-of-visual-motion-direction-activity-7363238280143745026-zPkg

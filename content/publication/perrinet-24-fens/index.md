@@ -44,5 +44,5 @@ title: Accurate Detection of Spiking Motifs in Neurobiological Data by Learning 
 ---
 
 * see accompanying papers
- * for neural data: {{< cite page="/publication/perrinet-23-icann" view="card" >}}
- * for event-based cameras: {{< cite page="/publication/grimaldi-23-bc" view="card" >}}
+ * for neural data: {{< cite page="/publication/perrinet-23-icann" view="4" >}}
+ * for event-based cameras: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}

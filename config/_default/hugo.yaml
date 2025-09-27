@@ -26,23 +26,20 @@ copyright: 'This material is presented to ensure timely dissemination of scholar
 ############################
 
 cascade:
-  # Blog post options
-  - _target:
-      path: /blog/**
-      kind: page
-    pager: true
-    editable: true
-    hide_date: false
-    show_date_updated: true
-    reading_time: true
-    commentable: true
-    show_related: true
-    share: true
-    # Just use Breadcrumb for navigation on blog post pages?
-    show_breadcrumb: false
-    header:
-      navbar:
-        enable: true
+# Blog post options
+- _target:
+path: /blog/**
+kind: page
+pager: true
+editable: false
+hide_date: false
+show_date_updated: true
+reading_time: false
+commentable: true
+show_related: true
+share: true
+# Just use Breadcrumb for navigation on blog post pages?
+show_breadcrumb: false
 
 ############################
 ## LANGUAGE
@@ -78,13 +75,12 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, headers, redirects, backlinks]
+  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 90
+  quality: 95
   anchor: smart
-  hint: picture
 timeout: 600000
 taxonomies:
   author: authors
@@ -95,8 +91,15 @@ taxonomies:
   publication_type: publication_types
 markup:
   _merge: deep
-  highlight:
-    lineNos: false
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 70
 security:
   _merge: deep
 sitemap:

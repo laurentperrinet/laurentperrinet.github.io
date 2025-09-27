@@ -50,5 +50,5 @@ title: Sparse Deep Predictive Coding captures contour integration capabilities o
 ---
 
  * presented during this [talk]({{< ref "/talk/2019-03-25-hdr-robin-baures/index.md" >}})
- * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="card" >}}
- * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="card" >}}
+ * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
+ * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

@@ -22,4 +22,4 @@ title: Relationship between natural image statistics and lateral connectivity in
   primary visual cortex
 ---
 
-* see a follow-up: {{< cite page="/publication/perrinet-bednar-15" view="card" >}}
+* see a follow-up: {{< cite page="/publication/perrinet-bednar-15" view="4" >}}

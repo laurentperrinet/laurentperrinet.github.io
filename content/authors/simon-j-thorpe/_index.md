@@ -23,6 +23,6 @@ Simon Thorpe is CNRS Research Director (DRCE2), CerCo (CNRS-UT3), TMBI (Univ. To
 
 I had the chance to meet Simon Thorpe thanks to my professor of applied mathematics at SUPAERO, [Manuel Samuelides]({{< relref "/authors/manuel-samuelides" >}}). He introduced me to the world of Spiking Neural Networks, and co-directerd my PhD. During this period, we published a series of papers, among which:
 
-* {{< cite page="/publication/delorme-01" view="card" >}}
-* {{< cite page="publication/perrinet-02-sparse" view="card" >}}
-* {{< cite page="/publication/perrinet-03-ieee" view="card" >}}
+* {{< cite page="/publication/delorme-01" view="4" >}}
+* {{< cite page="publication/perrinet-02-sparse" view="4" >}}
+* {{< cite page="/publication/perrinet-03-ieee" view="4" >}}
