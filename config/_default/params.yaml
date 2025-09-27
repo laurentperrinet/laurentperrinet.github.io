@@ -4,15 +4,11 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-
 appearance:
-  theme_day: minimal
-  theme_night:
-  font: native
-  font_size: L
+  mode: system
+  color: blue
 
 # SEO
-
 marketing:
   seo:
     site_type: Person
@@ -29,7 +25,6 @@ marketing:
     baidu: ''
 
 # Site header
-
 header:
   navbar:
     # Display the navigation bar?
@@ -63,7 +58,6 @@ header:
 
 
 # Site footer
-
 footer:
   copyright:
     notice: '© {year} <a rel="me" href="https://neuromatch.social/@laurentperrinet">Laurent U Perrinet</a>. This work is licensed under {license}'
@@ -74,13 +68,11 @@ footer:
       allow_commercial: false
 
 # Localization
-
 locale:
   date_format: '2006-01-02'
   time_format: '13:04'
 
 # Site features
-
 features:
   syntax_highlighter:
     enable: false
