@@ -31,4 +31,4 @@ tags: []
 title: Beyond $\ell_1$ sparse coding in V1
 ---
 
-* Follows {{< cite page="/publication/rentzeperis-22-areadne" view="4" >}}
+* Follows {{< cite page="/publication/rentzeperis-22-areadne" view="card" >}}

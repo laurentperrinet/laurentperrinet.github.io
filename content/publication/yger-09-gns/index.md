@@ -43,4 +43,4 @@ tags:
 title: 'NeuralEnsemble: Towards a meta-environment for network modeling and data analysis'
 ---
 
-* see a follow-up: {{< cite page="/publication/davison-08" view="4" >}}
+* see a follow-up: {{< cite page="/publication/davison-08" view="card" >}}

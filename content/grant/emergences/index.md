@@ -43,9 +43,9 @@ The *Emergences* project aims at advancing the state-of-the art on near-physics 
 
 ## Description of the PhD project (WP1): *Focus of attention: a sensory-motor task for energy reduction in unsupervised spiking neural networks*
 
-* attention mechanisms based on our cognitive architecture using a dual pathway: {{< cite page="/publication/dauce-20" view="4" >}}
+* attention mechanisms based on our cognitive architecture using a dual pathway: {{< cite page="/publication/dauce-20" view="card" >}}
 
-* implementation in a spiking neural network based: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}
+* implementation in a spiking neural network based: {{< cite page="/publication/grimaldi-23-bc" view="card" >}}
 
 ## Key figures
 

@@ -16,5 +16,5 @@ title: Analyzing cortical network dynamics with respect to different connectivit
   assumptions
 ---
 
-* Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}
-* see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}
+* Based on {{< cite page="/publication/voges-10-jpp" view="card" >}}
+* see  follow-up : {{< cite page="/publication/voges-12" view="card" >}}

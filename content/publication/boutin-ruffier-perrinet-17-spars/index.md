@@ -45,4 +45,4 @@ title: Efficient learning of sparse image representations using homeostatic regu
 * This work is a followup of [Perrinet, 2010, Neural Computation]({{< ref "/publication/perrinet-10-shl" >}})
 * code is available @ https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars and heavily uses https://github.com/bicv/SparseHebbianLearning
 * the [poster (PDF)](https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars/raw/master/docs/BoutinRuffierPerrinet17spars.pdf)  will be presented Thursday, June 8 @ [SPARS, Lisbon](http://spars2017.lx.it.pt/index_files/SPARS2017_program.html).
-* see a related work describing SDPC in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
+* see a related work describing SDPC in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="card" >}}

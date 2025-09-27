@@ -61,5 +61,5 @@ title: Ultra-Fast Image Categorization in biology and in neural models
  * [full code](https://github.com/SpikeAI/2022-09_UltraFastCat) with extensive [Supplementary Material](https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.py)
  * [Video Abstract](https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.mp4) and code for  [Video Abstract](https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.py)
  * join the [Zotero group](https://www.zotero.org/groups/4560566/ultrafastcat) to add and discuss more items
-* this is a follow-up of: {{< cite page="/publication/jeremie-21-crs" view="4" >}}
-* see an extension perspective to visual search in: {{< cite page="/publication/jeremie-22-areadne" view="4" >}}
+* this is a follow-up of: {{< cite page="/publication/jeremie-21-crs" view="card" >}}
+* see an extension perspective to visual search in: {{< cite page="/publication/jeremie-22-areadne" view="card" >}}

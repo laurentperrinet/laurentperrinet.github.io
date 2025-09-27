@@ -54,6 +54,6 @@ This book contains 17 chapters that have been organized in four different parts:
  * Sensing
  * Modeling
  * Applications
-* Notable chapters in the book: {{< cite page="/publication/montagnini-15-bicv" view="4" >}} {{< cite page="/publication/perrinet-15-bicv" view="4" >}}
+* Notable chapters in the book: {{< cite page="/publication/montagnini-15-bicv" view="card" >}} {{< cite page="/publication/perrinet-15-bicv" view="card" >}}
 See the [Table of contents](http://bicv.github.io/toc/).
 {{< figure src="https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/mindmap.png" >}}

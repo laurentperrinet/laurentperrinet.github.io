@@ -35,8 +35,8 @@ The goal of the FACETS (Fast Analog Computing with Emergent Transient States) pr
 
 ## Main publications:
 
-* {{< cite page="/publication/kremkow-16" view="4" >}}
-* {{< cite page="/publication/kremkow-10-jcns" view="4" >}}
+* {{< cite page="/publication/kremkow-16" view="card" >}}
+* {{< cite page="/publication/kremkow-10-jcns" view="card" >}}
 
 ##  Description of the PHD thesis project
 

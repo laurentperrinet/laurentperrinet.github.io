@@ -44,4 +44,4 @@ title: Complex dynamics in recurrent cortical networks based on spatially realis
 ---
 
 ![header](voges-12.png)
-* Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}
+* Based on {{< cite page="/publication/voges-10-jpp" view="card" >}}

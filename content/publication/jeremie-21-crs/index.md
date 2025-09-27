@@ -29,5 +29,5 @@ tags:
 title: Ultra-fast categorization of images containing animals in vivo and in computo
 ---
 
-* see a follow-up in: {{< cite page="/publication/jeremie-23-ultra-fast-cat" view="4" >}}
-* see an extension to visual search in: {{< cite page="/publication/jeremie-22-areadne" view="4" >}}
+* see a follow-up in: {{< cite page="/publication/jeremie-23-ultra-fast-cat" view="card" >}}
+* see an extension to visual search in: {{< cite page="/publication/jeremie-22-areadne" view="card" >}}

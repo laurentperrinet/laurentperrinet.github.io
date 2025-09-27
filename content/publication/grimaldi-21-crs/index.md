@@ -55,5 +55,5 @@ url_video: https://www.youtube.com/watch?v=aIt5OAleMR8
 ---
 
 {{< youtube aIt5OAleMR8 >}}
-* this proceedings paper follows up the poster presented at CBMI : {{< cite page="/publication/grimaldi-21-cbmi" view="4" >}}
-* read the follow-up paper : {{< cite page="/publication/grimaldi-24" view="4" >}}
+* this proceedings paper follows up the poster presented at CBMI : {{< cite page="/publication/grimaldi-21-cbmi" view="card" >}}
+* read the follow-up paper : {{< cite page="/publication/grimaldi-24" view="card" >}}

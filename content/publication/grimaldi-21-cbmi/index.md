@@ -53,7 +53,7 @@ url_video: https://www.youtube.com/watch?v=KxX4pZKexCo&t=3335s
 ---
 
 * was presented at the [Bio-inspired circuits, systems and algorithms for multimedia](https://cbmi2021.univ-lille.fr/call-for-contributions#callforpapersspecialbioinspired) special session of the [Content-Based Multimedia Indexing (CBMI) 2021](https://cbmi2021.univ-lille.fr/) conference that you can [watch on Youtube](https://www.youtube.com/watch?v=KxX4pZKexCo&t=3335s).
-* this proceedings paper follows up he poster presented in : {{< cite page="/publication/grimaldi-21-cosyne" view="4" >}}
-* this proceedings paper was followed by the poster presented at CRS : {{< cite page="/publication/grimaldi-21-crs" view="4" >}}
-* read the follow-up paper : {{< cite page="/publication/grimaldi-24" view="4" >}}
+* this proceedings paper follows up he poster presented in : {{< cite page="/publication/grimaldi-21-cosyne" view="card" >}}
+* this proceedings paper was followed by the poster presented at CRS : {{< cite page="/publication/grimaldi-21-crs" view="card" >}}
+* read the follow-up paper : {{< cite page="/publication/grimaldi-24" view="card" >}}
 * Antoine Grimaldi and Laurent Perrinet received funding from the European Union ERA-NET CHIST-ERA 2018 research and innovation program under grant agreement No ANR-19-CHR3-0008-03.

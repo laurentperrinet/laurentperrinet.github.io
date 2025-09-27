@@ -42,4 +42,4 @@ tags: []
 title: Which sparsity problem does the brain solve?
 ---
 
-* Follow-up paper {{< cite page="/publication/rentzeperis-23" view="4" >}}
+* Follow-up paper {{< cite page="/publication/rentzeperis-23" view="card" >}}

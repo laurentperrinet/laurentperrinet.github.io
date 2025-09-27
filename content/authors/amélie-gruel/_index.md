@@ -28,9 +28,9 @@ user_groups:
 
 ## Main publications
 
-{{< cite page="/publication/gruel-23-thesis" view="4" >}}
-{{< cite page="/publication/gruel-23-bc" view="4" >}}
-{{< cite page="/publication/grimaldi-22-polychronies" view="4" >}}
+{{< cite page="/publication/gruel-23-thesis" view="card" >}}
+{{< cite page="/publication/gruel-23-bc" view="card" >}}
+{{< cite page="/publication/grimaldi-22-polychronies" view="card" >}}
 
 * The objective of the work was to design and implement Spiking-Neural-Network-based machine learning methods to extract vision features from the scene from stereo event-based cameras. This PhD takes place within the SPARKS-MS&N team of i3S laboratory (CNRS), as part of the European CHIST-ERA APROVIS3D project. 
 
