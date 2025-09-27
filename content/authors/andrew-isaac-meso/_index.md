@@ -16,3 +16,4 @@ Main collaborative work:
 
 * {{< cite page="/publication/vacher-15-nips" view="4" >}}
 * {{< cite page="/publication/vacher-16" view="4" >}}
+* {{< cite page="/publication/meso-25" view="4" >}}
