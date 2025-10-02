@@ -47,7 +47,7 @@ links:
 ---
 
 
-From the lead author: Jason Eshragian
+The lead author, Jason Eshragian, speaks most clearly about it: 
 
 For the amount of compute they burn, transformers are pretty bad at time-series data analysis. Which is pretty unsurprising if your objective is to predict the next token, one step at a time. 
 
@@ -60,5 +60,6 @@ Skye Gunasekaran has spent the past couple of years integrating this principle i
 In our preprint, we show how drawing upon neuroscience-inspired ideas actually helps in time-series forecasting with deep learning. Efficiency isn't the only win from the brain; it's also pretty damn good at organizing long-range time-series information. 
 
 https://www.linkedin.com/feed/update/urn:li:activity:7378797683425296385/
+https://bsky.app/profile/laurentperrinet.bsky.social/post/3m26xgwaisc2t
 https://neuromatch.social/@laurentperrinet/115303186807684381
 
