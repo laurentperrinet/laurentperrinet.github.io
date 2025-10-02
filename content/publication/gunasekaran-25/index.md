@@ -36,10 +36,14 @@ abstract: 'Accurate time-series forecasting is essential across a multitude of s
 links:
 - name: URL
   url: https://www.nature.com/articles/s41467-025-63786-4
+- name: Code
+  url: https://github.com/SkyeGunasekaran/FutureGuidedLearning
 - name: PDF
   url: https://www.nature.com/articles/s41467-025-63786-4.epdf
 - name: arXiv
   url: http://arxiv.org/abs/2410.15217
+- name: HAL
+  url: https://hal.science/hal-05293576
 ---
 
 
@@ -56,4 +60,5 @@ Skye Gunasekaran has spent the past couple of years integrating this principle i
 In our preprint, we show how drawing upon neuroscience-inspired ideas actually helps in time-series forecasting with deep learning. Efficiency isn't the only win from the brain; it's also pretty damn good at organizing long-range time-series information. 
 
 https://www.linkedin.com/feed/update/urn:li:activity:7378797683425296385/
+https://neuromatch.social/@laurentperrinet/115303186807684381
 
