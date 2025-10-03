@@ -47,6 +47,10 @@ projects:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/jeremie-25-ccn
+- name: HAL
+  url: https://hal.science/view/index/docid/5295299
+- name: URL
+  url: https://2025.ccneuro.org/poster/?id=GXMCOQjF19
 - name: Abstract
   url: https://2025.ccneuro.org/abstract_pdf/Jeremie_2025_Unravelling_relationship_location_categorisation_improves_convolutional.pdf
 ---
