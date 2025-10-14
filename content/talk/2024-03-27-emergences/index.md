@@ -27,4 +27,4 @@ tags: []
 title: Analyser de larges volumes de données neurobiologiques, vers une approche biomimétique
 ---
 
-* Related papers {{< cite page="/publication/kremkow-16" view="2" >}}{{< cite page="/publication/grimaldi-24" view="2" >}} {{< cite page="/publication/grimaldi-23-bc" view="2" >}}{{< cite page="/publication/ladret-23" view="2" >}}
+<!-- * Related papers {{< cite page="/publication/kremkow-16" view="2" >}}{{< cite page="/publication/grimaldi-24" view="2" >}} {{< cite page="/publication/grimaldi-23-bc" view="2" >}}{{< cite page="/publication/ladret-23" view="2" >}} -->
