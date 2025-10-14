@@ -25,21 +25,6 @@ copyright: 'This material is presented to ensure timely dissemination of scholar
 ## PAGE OPTIONS
 ############################
 
-cascade:
-# Blog post options
-- _target:
-path: /blog/**
-kind: page
-pager: true
-editable: false
-hide_date: false
-show_date_updated: true
-reading_time: false
-commentable: true
-show_related: true
-share: true
-# Just use Breadcrumb for navigation on blog post pages?
-show_breadcrumb: false
 
 ############################
 ## LANGUAGE
