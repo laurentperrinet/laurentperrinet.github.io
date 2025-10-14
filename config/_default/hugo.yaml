@@ -50,9 +50,9 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  event: '/post/:slug/'
-  talk: '/talk/:slug/'
-  project: '/project/:slug/'
+  events: '/post/:slug/'
+  talks: '/talk/:slug/'
+  projects: '/project/:slug/'
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
