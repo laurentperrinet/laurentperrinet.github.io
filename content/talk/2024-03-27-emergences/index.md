@@ -4,7 +4,7 @@ authors:
 categories: []
 date: 2024-03-27 17:00:00
 draft: false
-event: "Séminaire au colloque du PEPR AI ``Emergences'' 2024"
+event: 'Séminaire au colloque du PEPR AI Emergences 2024'
 featured: false
 image:
   caption: ''
@@ -22,9 +22,10 @@ publication_types:
 - inproceedings
 publishDate: '2024-03-26T07:59:44.385734Z'
 slides: 2024-03-27-emergences
-subtitle: "Seminar at the *Emergences (PEPR AI) workshop, Autrans, France*"
+subtitle: 'Seminar at the *Emergences (PEPR AI) workshop, Autrans, France*'
 tags: []
-title: "Analyser de larges volumes de données neurobiologiques, vers une approche biomimétique"
+title: 'Analyser de larges volumes de données neurobiologiques, vers une approche biomimétique'
 ---
 
-<!-- * Related papers {{< cite page="/publication/kremkow-16" view="2" >}}{{< cite page="/publication/grimaldi-24" view="2" >}} {{< cite page="/publication/grimaldi-23-bc" view="2" >}}{{< cite page="/publication/ladret-23" view="2" >}} -->
+* Related papers
+{{< cite page="/publication/grimaldi-24" view="1" >}} {{< cite page="/publication/grimaldi-23-bc" view="1" >}}{{< cite page="/publication/ladret-23" view="1" >}}

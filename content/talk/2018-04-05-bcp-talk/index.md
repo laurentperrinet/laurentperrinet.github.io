@@ -26,7 +26,7 @@ title: Principles and psychophysics of Active Inference in anticipating a dynami
   switching probabilistic bias
 ---
 
-* See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="2" >}}
+* See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="1" >}}
 * previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})
 * previous talk @ [INVIBE FEST, Paris]({{< ref "/talk/2018-02-01-bcp-invibe-fest/index.md" >}})
 * next talk @ [LACONEU, Chile]({{< ref "/talk/2019-01-18-laconeu/index.md" >}})

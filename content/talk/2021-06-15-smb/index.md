@@ -29,6 +29,6 @@ title: Pooling in a predictive model of V1 explains functional and structural di
 
 ![](@laurentperrinet_1384940135419101187_tweetcapture.png)
 {{< figure src="poster.jpg" width="100%" >}}
-* In this talk, I will present the following paper : {{< cite page="/publication/franciosini-21" view="2" >}}
-* see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="2" >}}
-* more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="2" >}}
+* In this talk, I will present the following paper : {{< cite page="/publication/franciosini-21" view="1" >}}
+* see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="1" >}}
+* more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="1" >}}

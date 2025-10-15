@@ -34,7 +34,7 @@ title: Contributions of neuroscience to the detection and localization of object
   in visual inputs
 ---
 
-* for visual search see: {{< cite page="/publication/dauce-20" view="2" >}}
-* for retinotopy, see: {{< cite page="/talk/2022-06-19-neuro-vision-retinotopic" view="2" >}}
-* for event-based computations, see: {{< cite page="/talk/2022-06-19-neuro-vision-heterogeneous" view="2" >}}
-* for event-based motion detection, see: {{< cite page="/publication/grimaldi-22-icip" view="2" >}}
+* for visual search see: {{< cite page="/publication/dauce-20" view="1" >}}
+* for retinotopy, see: {{< cite page="/talk/2022-06-19-neuro-vision-retinotopic" view="1" >}}
+* for event-based computations, see: {{< cite page="/talk/2022-06-19-neuro-vision-heterogeneous" view="1" >}}
+* for event-based motion detection, see: {{< cite page="/publication/grimaldi-22-icip" view="1" >}}

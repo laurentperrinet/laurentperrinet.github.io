@@ -35,6 +35,6 @@ tags:
 title: Retinotopic mapping improves the reliability of image classification
 ---
 
-* Follows a previous work {{< cite page="/publication/dauce-20" view="2" >}}
+* Follows a previous work {{< cite page="/publication/dauce-20" view="1" >}}
 {{< video src="2022-06-10_Jeremie-etal-NeuroVision_video-abstract.mp4" controls="yes" >}}
-* for a follow-up, check out {{< cite page="/publication/jeremie-22-fens" view="2" >}}
+* for a follow-up, check out {{< cite page="/publication/jeremie-22-fens" view="1" >}}

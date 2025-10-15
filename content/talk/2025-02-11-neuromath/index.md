@@ -29,4 +29,4 @@ slides: 2025-02-11-neuromath
 * When: Wednesday 11th of February, 2025 from 14:30 to 16h30.
 * Where: room D2.2 of Collège de France
 
-* Accompanying paper {{< cite page="/publication/chavane-22" view="2" >}}
+* Accompanying paper {{< cite page="/publication/chavane-22" view="1" >}}

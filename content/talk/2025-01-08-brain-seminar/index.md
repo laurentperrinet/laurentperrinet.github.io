@@ -34,4 +34,4 @@ links:
 * When: Wednesday 9th of January, 2025 at 12 noon.
 * Where: CRN seminar room, Montreal General Hospital, Livingston Hall, L7-140, with hybrid option.
 
-* Read the corresponding paper {{< cite page="/publication/jeremie-25" view="2" >}}
+* Read the corresponding paper {{< cite page="/publication/jeremie-25" view="1" >}}

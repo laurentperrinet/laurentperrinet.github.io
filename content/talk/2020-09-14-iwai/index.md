@@ -41,7 +41,7 @@ publication_types:
 title: Visual search as active inference
 ---
 
-* see proceedings paper: {{< cite page="/publication/dauce-20-iwai" view="2" >}}
+* see proceedings paper: {{< cite page="/publication/dauce-20-iwai" view="1" >}}
 ![](@laurentperrinet_1305488089989754883_tweetcapture.png)
 {{< figure src="https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true" >}}
 * What:: talk @ [1st International Workshop on Active Inference (IWAI 2020)](https://iwaiworkshop.github.io/)

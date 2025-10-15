@@ -55,4 +55,4 @@ title: 'Edge statistics in natural images versus laboratory animal environments:
   for understanding lateral connectivity in V1'
 ---
 
-* See a followup in {{< cite page="/publication/perrinet-bednar-15" view="2" >}}
+* See a followup in {{< cite page="/publication/perrinet-bednar-15" view="1" >}}

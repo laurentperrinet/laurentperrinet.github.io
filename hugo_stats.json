@@ -347,6 +347,8 @@
       "view-card",
       "view-citation",
       "view-compact",
+      "view-list",
+      "view-list-item",
       "w-100",
       "wg-about",
       "wg-collection",
