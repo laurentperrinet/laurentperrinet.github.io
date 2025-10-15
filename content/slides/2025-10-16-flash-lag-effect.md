@@ -20,8 +20,8 @@ summary: Suresh Krishna's lab meeting
 ---
 <section>
 
-# [Mislocalization by Design: The Flash-Lag Effect as Prediction](https://laurentperrinet.github.io/slides/2025-10-16-flash-lag-effect/?transition=fade)
-###	*[Laurent Perrinet](https://laurentperrinet.github.io)*
+# [Mislocalization by Design<br> The Flash-Lag Effect as Prediction](https://laurentperrinet.github.io/slides/2025-10-16-flash-lag-effect/?transition=fade)
+###	*[Laurent Perrinet, CNRS/AMU, Marseille, France](https://laurentperrinet.github.io)*
 
 <table width="100%"> 
 <tr>
@@ -36,11 +36,13 @@ summary: Suresh Krishna's lab meeting
 
 ###	<u>[[2025-10-16]](https://laurentperrinet.github.io/talk/2025-10-16-flash-lag-effect/) [Suresh Krishna's lab meeting](https://neuromod.univ-cotedazur.eu)</u>
 
-![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 
 {{< speaker_note >}}
+
+![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
+
  Mislocalization by Design: The Flash-Lag Effect as Prediction »
 
 Why do we sometimes misjudge where visual objects are? This talk explores how predictive processing may cause systematic perceptual mislocalizations. Indeed, the early visual system doesn't passively process information—it actively predicts the world, compensating for neural delays by extrapolating motion trajectories. Using a Bayesian computational model, I show how this predictive mechanism explains the flash-lag effect: moving objects appear ahead of flashed ones because the brain forecasts their current position while the unpredictable flash cannot be anticipated. This framework reveals that mislocalization isn't a bug but a feature of efficient visual coding. I'll discuss how these principles illuminate both biological vision and artificial visual system design, demonstrating that what we perceive as "now" is actually the brain's best prediction of the present.
@@ -50,7 +52,12 @@ Why do we sometimes misjudge where visual objects are? This talk explores how pr
 </section>
 
 
+</section>
+
 ---
+
+<section>
+
 ## Timing in the visual pathways
 
 ---
@@ -78,7 +85,12 @@ Why do we sometimes misjudge where visual objects are? This talk explores how pr
 
 {{< figure src="https://raw.githubusercontent.com/laurentperrinet/2019-04-18_JNLF/master/figures/Chemla_etal2019.png" title="Suppressive travelling waves ([Chemla *et al*, 2019](https://laurentperrinet.github.io/publication/chemla-19/))." width="50%" >}}
 
+</section>
+
 ---
+
+<section>
+
 ## Predictive coding
 
 ---
@@ -116,7 +128,13 @@ Why do we sometimes misjudge where visual objects are? This talk explores how pr
 
 Motion-based prediction ([Perrinet *et al*, 2012](https://laurentperrinet.github.io/publication/perrinet-12-pred/)).
 
+
+</section>
+
 ---
+
+<section>
+
 ## Flash-lag effect
 
 ---
@@ -264,12 +282,17 @@ src="../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4" khoei-m
 {{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_DiagonalMarkov_neural.jpg" width="95%" title="Diagonal neural" >}} -->
 
 
----
 
-{{< figure src="https://eyewiki.aao.org/w/images/1/e/eb/Pulfrich.png" width="95%" title="Application to the [Pulfrich phenomenon](https://eyewiki.aao.org/Pulfrich_Phenomenon)?" >}}
-
+</section>
 
 ---
+
+<section>
+
+
+
+# [Mislocalization by Design<br> The Flash-Lag Effect as Prediction](https://laurentperrinet.github.io/slides/2025-10-16-flash-lag-effect/?transition=fade)
+###	*[Laurent Perrinet, CNRS/AMU, Marseille, France](https://laurentperrinet.github.io)*
 
 <table width="100%"> 
 <tr>
@@ -281,17 +304,20 @@ src="../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4" khoei-m
 </tr>
 </table>
 
-__[2025-10-16] Suresh Krishna's lab meeting__
 
-<p style="color:blue;font-size:25px;">
-<a href="https://laurentperrinet.github.io/slides/2025-10-16-flash-lag-effect">https://laurentperrinet.github.io/slides/2025-10-16-flash-lag-effect</a></p>
+###	<u>[[2025-10-16]](https://laurentperrinet.github.io/talk/2025-10-16-flash-lag-effect/) [Suresh Krishna's lab meeting](https://neuromod.univ-cotedazur.eu)</u>
+
+Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
+
 
 {{< speaker_note >}}
-Questions?
 
-Ask info @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
+![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
 
-More info @ web-site + [paper](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/) 
+ Mislocalization by Design: The Flash-Lag Effect as Prediction »
+
+Why do we sometimes misjudge where visual objects are? This talk explores how predictive processing may cause systematic perceptual mislocalizations. Indeed, the early visual system doesn't passively process information—it actively predicts the world, compensating for neural delays by extrapolating motion trajectories. Using a Bayesian computational model, I show how this predictive mechanism explains the flash-lag effect: moving objects appear ahead of flashed ones because the brain forecasts their current position while the unpredictable flash cannot be anticipated. This framework reveals that mislocalization isn't a bug but a feature of efficient visual coding. I'll discuss how these principles illuminate both biological vision and artificial visual system design, demonstrating that what we perceive as "now" is actually the brain's best prediction of the present.
 
 {{< /speaker_note >}}
 
+</section>
