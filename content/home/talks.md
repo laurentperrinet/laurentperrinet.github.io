@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://docs.hugoblox.com/getting-started/page-builder/
-widget: featured
+widget: pages
 
 # This file represents a page section.
 headless: true
@@ -33,11 +33,8 @@ content:
 
 design:
   # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: compact
+  view: citation
+  columns: '2'
 ---
 
 {{% callout note %}}
