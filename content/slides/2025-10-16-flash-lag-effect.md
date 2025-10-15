@@ -1,18 +1,27 @@
 ---
-authors:
-- Laurent U Perrinet
-date: 2025-10-16
-tags:
-- Bayesian model
-- motion prediction
-- psychophysics
+ slides:
+  # Choose a theme from https://github.com/hakimel/reveal.js#theming
+  theme: white
+  transition: 'fade'
+  title: "Mislocalization by Design: The Flash-Lag Effect as Prediction"
 
-slides:
- theme: "white" # Reveal JS theme name
+# Talk start and end times. 2023-05-13-master-m-4-nc
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: '2025-10-16'
+all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: "2025-10-14T06:47:11+02:00"
 
 title: 2025-10-16-flash-lag-effect
 
+summary: Suresh Krishna's lab meeting
+
 ---
+<section>
+
+# [Mislocalization by Design: The Flash-Lag Effect as Prediction](https://laurentperrinet.github.io/slides/2025-10-16-flash-lag-effect/?transition=fade)
+###	*[Laurent Perrinet](https://laurentperrinet.github.io)*
 
 <table width="100%"> 
 <tr>
@@ -24,44 +33,22 @@ title: 2025-10-16-flash-lag-effect
 </tr>
 </table>
 
-__[2025-10-16] Suresh Krishna's lab meeting__
 
-<p style="color:blue;font-size:25px;">
-<a href="https://laurentperrinet.github.io/slides/2025-10-16-flash-lag-effect">https://laurentperrinet.github.io/slides/2025-10-16-flash-lag-effect</a></p>
+###	<u>[[2025-10-16]](https://laurentperrinet.github.io/talk/2025-10-16-flash-lag-effect/) [Suresh Krishna's lab meeting](https://neuromod.univ-cotedazur.eu)</u>
+
+![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
+Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
+
 
 {{< speaker_note >}}
+ Mislocalization by Design: The Flash-Lag Effect as Prediction »
 
-- Only the speaker can read these notes
-- Press `S` key to view
+Why do we sometimes misjudge where visual objects are? This talk explores how predictive processing may cause systematic perceptual mislocalizations. Indeed, the early visual system doesn't passively process information—it actively predicts the world, compensating for neural delays by extrapolating motion trajectories. Using a Bayesian computational model, I show how this predictive mechanism explains the flash-lag effect: moving objects appear ahead of flashed ones because the brain forecasts their current position while the unpredictable flash cannot be anticipated. This framework reveals that mislocalization isn't a bug but a feature of efficient visual coding. I'll discuss how these principles illuminate both biological vision and artificial visual system design, demonstrating that what we perceive as "now" is actually the brain's best prediction of the present.
 
 {{< /speaker_note >}}
 
-<!--
----
+</section>
 
-
-<table width="100%">
-<tr>
-	<th width="80%">
-	{{< figure src="../../publication/khoei-masson-perrinet-17/header.png" >}}	</th>
-	<th width="20%">
-	{{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/coverart.jpg" >}}
-	</th>
-</tr>
-</table>
-
-__[2022-11-21] Alex Reynaud's lab meeting__
-
-<p style="color:blue;font-size:25px;">
-<a href="https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect">https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect</a></p> -->
-
-<!-- ---
-
-|{{< figure src="../../publication/khoei-masson-perrinet-17/header.png" width="70%" >}}{{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/coverart.jpg" width="29%" >}}|
-
-__[2022-11-21] Alex Reynaud's lab meeting__
-https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
- -->
 
 ---
 ## Timing in the visual pathways
