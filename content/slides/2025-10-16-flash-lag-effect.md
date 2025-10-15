@@ -75,11 +75,11 @@ Why do we sometimes misjudge where visual objects are? This talk explores how pr
 ---
 ## Travelling waves?
 
-{{< video src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/line_motion.mp4" autoplay="yes" title="Line-motion" >}}
+{{< video src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/line_motion.mp4"  loop="yes"  title="Line-motion" >}}
 
 ---
 
-{{< video src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/phi_motion.mp4" autoplay="yes" title="Phi motion" >}}
+{{< video src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/phi_motion.mp4"  loop="yes"  title="Phi motion" >}}
 
 ---
 
@@ -91,19 +91,19 @@ Why do we sometimes misjudge where visual objects are? This talk explores how pr
 
 <section>
 
-## Predictive coding
+## Predictive processing
 
 ---
 
-{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/aperture_aperture.mp4" autoplay="yes" width="100%" >}}
+{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/aperture_aperture.mp4"  loop="yes"  width="100%" >}}
 <!--
 ---
 
-{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/aperture_box.mp4" autoplay="yes" width="100%" >}} -->
+{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/aperture_box.mp4"  loop="yes"  width="100%" >}} -->
 
 ---
 
-{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/aperture_cube.mp4" autoplay="yes" width="300%" >}}
+{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/aperture_cube.mp4"  loop="yes"  width="300%" >}}
 
 ---
 
@@ -115,11 +115,11 @@ Why do we sometimes misjudge where visual objects are? This talk explores how pr
 
 <!-- ---
 
-{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/line-nopred_particles.mp4" autoplay="yes" >}}
+{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/line-nopred_particles.mp4"  loop="yes"  >}}
 
 ---
 
-{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/line_particles.mp4" autoplay="yes" >}}
+{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/line_particles.mp4"  loop="yes"  >}}
  -->
 
 ---
@@ -139,7 +139,7 @@ Motion-based prediction ([Perrinet *et al*, 2012](https://laurentperrinet.github
 
 ---
 
-{{< video src="https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag.mp4" autoplay="yes" >}}
+{{< video src="https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag.mp4"  loop="yes"  >}}
 
 ---
 
@@ -170,46 +170,46 @@ https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.137
 ---
 
 
-{{< video src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/PBP_flash_spatial_readout.mp4?raw=true" autoplay="yes" >}}
+{{< video src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/PBP_flash_spatial_readout.mp4?raw=true"  loop="yes"  >}}
 
 
 ---
 
 
-{{< video src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/PBP_dot_spatial_readout.mp4?raw=true" autoplay="yes" >}}
+{{< video src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/PBP_dot_spatial_readout.mp4?raw=true"  loop="yes"  >}}
 
 
 ---
 
 
-{{< video src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_flash_spatial_readout.mp4?raw=true" autoplay="yes" >}}
+{{< video src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_flash_spatial_readout.mp4?raw=true"  loop="yes"  >}}
 
 ---
 
 
-{{< video src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_dot_spatial_readout.mp4?raw=true" autoplay="yes" >}} -->
+{{< video src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_dot_spatial_readout.mp4?raw=true"  loop="yes"  >}} -->
 
 <!-- ---
 
-{{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4"  autoplay="yes" >}}
+{{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4"   loop="yes"  >}}
 
 Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)).
 
 ---
 
-{{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4"  autoplay="yes" >}}
+{{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4"   loop="yes"  >}}
 
 Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)). -->
 
 ---
 
-{{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4"  autoplay="yes" >}}{{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4"  autoplay="yes" >}}
+{{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4"   loop="yes"  >}}{{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4"   loop="yes"  >}}
 
 Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)).
 
 ---
 
-{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/positional-delay.mp4" autoplay="yes" >}}
+{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/positional-delay.mp4"  loop="yes"  >}}
 
 ---
 
@@ -267,7 +267,7 @@ src="../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4" khoei-m
 
 ---
 
-{{< video src="https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag_stop.mp4" autoplay="yes" >}}
+{{< video src="https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag_stop.mp4"  loop="yes"  >}}
 
 ---
 
