@@ -16,8 +16,8 @@ abstract: "Why do we sometimes misjudge where visual objects are? This talk expl
   forecasts their current position while the unpredictable flash cannot be anticipated.
   This framework reveals that mislocalization isn't a bug but a feature of efficient
   visual coding. I'll discuss how these principles illuminate both biological vision
-  and artificial visual system design, demonstrating that what we perceive as \\\"\
-  now\\\" is actually the brain's best prediction of the present."
+  and artificial visual system design, demonstrating that what we perceive as *now*
+  is actually the brain's best prediction of the present."
 tags:
 - deep learning
 - computational neuroscience

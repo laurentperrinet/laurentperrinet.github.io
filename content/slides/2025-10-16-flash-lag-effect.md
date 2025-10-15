@@ -24,7 +24,7 @@ title: 2025-10-16-flash-lag-effect
 </tr>
 </table>
 
-__[2025-10-16] Alex Reynaud's lab meeting__
+__[2025-10-16] Suresh Krishna's lab meeting__
 
 <p style="color:blue;font-size:25px;">
 <a href="https://laurentperrinet.github.io/slides/2025-10-16-flash-lag-effect">https://laurentperrinet.github.io/slides/2025-10-16-flash-lag-effect</a></p>
@@ -283,8 +283,28 @@ src="../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4" khoei-m
 
 
 ---
-# Questions?
+
+<table width="100%"> 
+<tr>
+	<th width="80%">
+	<img src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/header.png" width="100%" >
+	<th width="20%">
+	<img src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/coverart.jpg" width="100%" >
+	</th>
+</tr>
+</table>
+
+__[2025-10-16] Suresh Krishna's lab meeting__
+
+<p style="color:blue;font-size:25px;">
+<a href="https://laurentperrinet.github.io/slides/2025-10-16-flash-lag-effect">https://laurentperrinet.github.io/slides/2025-10-16-flash-lag-effect</a></p>
+
+{{< speaker_note >}}
+Questions?
 
 Ask info @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
-More info @ [web-site](https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect) + [paper](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)
+More info @ web-site + [paper](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/) 
+
+{{< /speaker_note >}}
+
