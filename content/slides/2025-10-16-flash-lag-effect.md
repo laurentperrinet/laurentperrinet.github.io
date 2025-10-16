@@ -73,7 +73,6 @@ Why do we sometimes misjudge where visual objects are? This talk explores how pr
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/figure-tsonga.jpg" title="Compensating visual delays ([Perrinet Adams & Friston, 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))." width="80%" >}}
 
 ---
-## Travelling waves?
 
 {{< video src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/line_motion.mp4" title="Line-motion" loop="yes" >}}
 
