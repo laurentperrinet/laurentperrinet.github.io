@@ -75,11 +75,11 @@ Why do we sometimes misjudge where visual objects are? This talk explores how pr
 ---
 ## Travelling waves?
 
-{{< video src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/line_motion.mp4"  loop="yes"  title="Line-motion" >}}
+{{< video src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/line_motion.mp4" title="Line-motion" loop="yes" >}}
 
 ---
 
-{{< video src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/phi_motion.mp4"  loop="yes"  title="Phi motion" >}}
+{{< video src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/phi_motion.mp4" title="Phi motion" loop="yes" >}}
 
 ---
 
@@ -95,15 +95,15 @@ Why do we sometimes misjudge where visual objects are? This talk explores how pr
 
 ---
 
-{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/aperture_aperture.mp4"  loop="yes"  width="100%" >}}
+{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/aperture_aperture.mp4" loop="yes" width="100%" >}}
 <!--
 ---
 
-{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/aperture_box.mp4"  loop="yes"  width="100%" >}} -->
+{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/aperture_box.mp4" loop="yes" width="100%" >}} -->
 
 ---
 
-{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/aperture_cube.mp4"  loop="yes"  width="300%" >}}
+{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/aperture_cube.mp4" loop="yes" width="300%" >}}
 
 ---
 
@@ -112,15 +112,6 @@ Why do we sometimes misjudge where visual objects are? This talk explores how pr
 ---
 
 {{< figure src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/perrinet12pred_figure2.png" title="Motion-based prediction ([Perrinet *et al*, 2012](https://laurentperrinet.github.io/publication/perrinet-12-pred/))." width="61%" >}}
-
-<!-- ---
-
-{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/line-nopred_particles.mp4"  loop="yes"  >}}
-
----
-
-{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/line_particles.mp4"  loop="yes"  >}}
- -->
 
 ---
 
@@ -139,121 +130,38 @@ Motion-based prediction ([Perrinet *et al*, 2012](https://laurentperrinet.github
 
 ---
 
-{{< video src="https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag.mp4"  loop="yes"  >}}
-
----
-
 {{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_cartoon.jpg" width="95%" title="Flash-lag effect ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." >}}
 
 ---
 
-{{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_DiagonalMarkov.jpg" width="100%" title="Diagonal markov model ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." >}}
-
-<!--
----
-
-{{< figure src="https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.1371/journal.pcbi.1005068.g002" width="100%" title="Diagonal markov model ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." >}}
-
-https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.1371/journal.pcbi.1005068.g002
----
-
-{{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_DiagonalMarkov.jpg" width="95%" title="Diagonal markov" >}}
+{{< video src="https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag.mp4" loop="yes" >}}
 
 ---
 
-{{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_DiagonalMarkov_simple.jpg" width="95%" title="Diagonal markov" >}}
+{{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_DiagonalMarkov.jpg" width="100%" title="Diagonal Markov model ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." >}}
 
 ---
 
-{{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_DiagonalMarkov_pull.jpg" width="95%" title="Diagonal markov (pull)" >}} -->
-<!--
----
-
-
-{{< video src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/PBP_flash_spatial_readout.mp4?raw=true"  loop="yes"  >}}
-
-
----
-
-
-{{< video src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/PBP_dot_spatial_readout.mp4?raw=true"  loop="yes"  >}}
-
-
----
-
-
-{{< video src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_flash_spatial_readout.mp4?raw=true"  loop="yes"  >}}
-
----
-
-
-{{< video src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_dot_spatial_readout.mp4?raw=true"  loop="yes"  >}} -->
-
-<!-- ---
-
-{{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4"   loop="yes"  >}}
+{{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4" loop="yes" >}}{{% fragment %}} {{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4" loop="yes" >}}{{% /fragment %}}
 
 Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)).
-
----
-
-{{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4"   loop="yes"  >}}
-
-Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)). -->
-
----
-
-{{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4"   loop="yes"  >}}{{< video src="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4"   loop="yes"  >}}
-
-Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)).
-
----
-
-{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/positional-delay.mp4"  loop="yes"  >}}
 
 ---
 
 {{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE.jpg" title="Flash-lag effect ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." width="95%" >}}
 
-<!--
+---
+
+{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/positional-delay.mp4" loop="yes" >}}
 
 
 ---
+<!-- 
+{{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_histogram.jpg" width="95%" title="Space-time probability distributions ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." >}}
 
-{{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE.jpg" width="95%" title="Qauntitative result" >}}
+--- -->
 
-
-https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE.jpg
-
-
-https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_dot_spatial_readout.mp4?raw=true
-MBP_dot_spatial_readout.mp4
-MBP_flash_spatial_readout.mp4
-MBP_spatial_readout.mp4
-PBP_dot_spatial_readout.mp4
-PBP_flash_spatial_readout.mp4
-
-https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_dot_spatial_readout.mp4?raw=true
-
-PBP_spatial_readout.mp4
-
-
-src="../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4" khoei-masson-perrinet-17
-
-
- create mode 100644 publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4
- create mode 100644 publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4
-
- -->
-
-
----
-
-{{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_histogram.jpg" width="95%" title="Probability distributions ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." >}}
-
----
-
-{{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_histogram_comp.jpg" width="95%" title="Probability distributions ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." >}}
+{{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_histogram_comp.jpg" width="95%" title="Space-time probability distributions ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." >}}
 
 
 ---
@@ -267,21 +175,15 @@ src="../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4" khoei-m
 
 ---
 
-{{< video src="https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag_stop.mp4"  loop="yes"  >}}
+{{< video src="https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag_stop.mp4" loop="yes" >}}
 
 ---
 
-{{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_histogram.jpg" width="95%" title="Probability distributions ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." >}}
+{{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_histogram.jpg" width="95%" title="Space-time probability distributions ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." >}}
 
 ---
 
 {{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_limit_cycles.jpg" width="100%" title="Limit cycles ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." >}}
-<!--
----
-
-{{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_DiagonalMarkov_neural.jpg" width="95%" title="Diagonal neural" >}} -->
-
-
 
 </section>
 
