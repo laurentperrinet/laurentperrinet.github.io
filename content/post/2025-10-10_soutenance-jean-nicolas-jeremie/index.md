@@ -1,5 +1,5 @@
 ---
-title: 'Foveal Retinotopy and Dual Pathways: A Computational Model for Active Visual Search'
+title: 'Soutenance de Jean-Nicolas Jérémie *Foveal Retinotopy and Dual Pathways: A Computational Model for Active Visual Search*'
 authors:
 - Jean-Nicolas Jérémie
 date: '2025-10-10'
@@ -8,9 +8,7 @@ publication_types:
 - thesis
 ---
 
-# **Avis de Soutenance** : Monsieur Jean-Nicolas JEREMIE
-
-Soutiendra publiquement ses travaux de thèse intitulés
+Jean-Nicolas Jérémie soutiendra publiquement ses travaux de thèse intitulés:
 
 *Foveal Retinotopy and Dual Pathways: A Computational Model for Active Visual Search*
 
