@@ -37,6 +37,7 @@ academic:
 test:
 # 	hugo --gc --cleanDestinationDir
 	hugo server --gc --disableFastRender --renderToMemory
+
 clean:
 	# rm -fr  $(TMPDIR)/hugo_cache
 	hugo mod clean --all
