@@ -8,16 +8,15 @@ publication_types:
 - thesis
 ---
 
-Jean-Nicolas Jérémie soutiendra publiquement ses travaux de thèse intitulés:
-
-*Foveal Retinotopy and Dual Pathways: A Computational Model for Active Visual Search*
+Jean-Nicolas Jérémie soutiendra publiquement ses travaux de thèse intitulés: *Foveal Retinotopy and Dual Pathways: A Computational Model for Active Visual Search*
 
 dirigés par Monsieur Laurent PERRINET et Monsieur Emmanuel DAUCE
 
-Soutenance prévue
 * Date:  le ***vendredi 10 octobre 2025*** à 13h30
 * Lieu :   Faculté de Médecine de la Timone 27 Boulevard Jean Moulin, 13005 Marseille 5ème
 * Salle : Amphithéâtre CERIMED
+
+{{< cite page="publication/jeremie-25-thesis" view="4" >}}
 
 **Composition du jury proposé**
 | Name                         | Affiliation                                          | Role                  |

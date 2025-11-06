@@ -3,13 +3,13 @@ authors:
 - jean-nicolas-jeremie
 title: Jean-Nicolas Jérémie
 role: Phd candidate in Computational Neuroscience
-bio: During my PhD, I am focusing on ultra-fast processing in event-based neural networks.
+bio: During my PhD, I was focusing on ultra-fast processing using convolutional neural networks.
 
 education:
   courses:
   - course: Phd candidate in Computational Neuroscience
     institution: Aix-Marseille Université
-    year: 2024
+    year: 2025
   - course: Master in Neuroscience
     institution: Aix-Marseille Université
     year: 2021
@@ -28,12 +28,14 @@ user_groups:
 - Current Students
 ---
 
-# PhD Student (2021-10 / 2024-09): Bio-mimetic agile aerial robots flying in real-life conditions
+# PhD Student (2021-10 / 2025-10): Bio-mimetic agile aerial robots flying in real-life conditions
 
  * this fellowship is part of the [AgileNeuRobot project](https://laurentperrinet.github.io/grant/anr-anr/)
  * Institut des Neurosciences de la Timone, Aix-Marseille Université / CNRS
 
 * Thesis direction: [Laurent Perrinet](https://laurentperrinet.github.io/author/laurent-u-perrinet/) and co-direction: [Emmanuel Daucé](https://laurentperrinet.github.io/author/emmanuel-daucé/)
+
+{{< cite page="publication/jeremie-25-thesis" view="4" >}}
 
 {{< figure src="/grant/anr-anr/event_driven_computations.png" title="A miniature, event-based ATIS sensor. Contrary to a classical frame-based camera for which a full dense image representation is given at discrete, regularly spaced timings, the event-based camera provides with events at the micro-second resolution. These are sparse as they represent luminance increments or decrements (ON and OFF events, respectively)." numbered="true" >}}
 
@@ -67,6 +69,7 @@ Le domaine de la thèse croise donc vision par ordinateur, apprentissage machine
 Un aspect crucial de la thèse est le traitement central dû à l’organisation log-polaire du champ visuel primaire. Celle-ci est constituée d'une organisation radiale avec forte densité de capteurs visuels au centre et très faible densité à la périphérie, codage que l’on retrouve des aires primaires jusqu’aux aux aires oculomotrices. Il est montré qu’une telle disposition spatiale des champs récepteurs permet une meilleure invariance de la réponse aux changements d’échelle (zoom) et à la rotation subjective (tilt) des objets de l'environnement.
 
 ### Objectifs
+
 Tous ces caractéristiques combinées du traitement visuel des mammifères se distinguent fortement des approches classiques de la vision artificielle, basées sur une analyse uniforme des pixels de la scène visuelle et de nombreuses couches de convolution. Le but est donc de montrer que dans le cas d’un traitement visuel à large champ, en environnement dynamique, et sous des contraintes matérielles et énergétiques fortes, un traitement visuel qui combine recherche de cibles et traitement central log-polaire optimise le traitement des données visuelles (via une invariance native à la translation, au zoom et au tilt), tout en atteignant des capacités de reconnaissance égales, voire supérieures à celles des algorithme de vision artificielle traditionnels. Méthode Nous allons développer un modèle de recherche visuelle ultra-rapide en étendant un modèle existant basé sur le deep learning et appliqué à un flux d'images naturelles. La première contrainte que nous allons inclure est la transformation de l'entrée visuelle en une entrée log-polaire afin que la réduction de volume de données permette à cet algorithmique neuro-mimétique de fonctionner sur une carte de calcul embarquée (de type Jetson JTX2). En étendant un algorithme précédent (Dauce & Perrinet, 2020 September) à une tâche écologique (détecter la présence d'un animal ou d'une classe arbitraire d'objet), nous allons créer un système capable de produire une séquence de saccades. À chaque saccade sera associée une détection en vision centrale ainsi que la précision assignée à cette détection.
 
 ### Objectifs de valorisation des travaux de recherche du doctorant : diffusion, publication et confidentialité, droit à la propriété intellectuelle,...

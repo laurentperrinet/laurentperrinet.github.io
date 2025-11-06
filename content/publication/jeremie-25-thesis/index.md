@@ -23,3 +23,4 @@ Cette thèse étudie la recherche visuelle à travers le prisme des deux voies v
 Recherche visuelle, Voie visuel ventrale, Voie visuel dorsale, Réseau neuronal convolutifs profonds, Rétinotopie fovéale, Vision active 
 
 
+{{< cite page="post/2025-10-10_soutenance-jean-nicolas-jeremie" view="4" >}}
