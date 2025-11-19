@@ -25,7 +25,7 @@ social:
 superuser: false
 
 user_groups:
-- Current Students
+- Former Students
 ---
 
 # PhD Student (2021-10 / 2025-10): Bio-mimetic agile aerial robots flying in real-life conditions
