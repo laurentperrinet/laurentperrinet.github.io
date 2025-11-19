@@ -9,6 +9,9 @@ date: '2025-11-01'
 publishDate: '2025-11-19T14:23:54.316247Z'
 publication_types:
 - manuscript
+links:
+- name: HAL
+  url: https://hal.science/hal-05364582
 tags:
 - Spiking Neural Networks ; Temporal Coding ; Synaptic Delays ; Motif Recognition
   ; Sequential Detection ; Leaky Integrate-and-Fire Neurons ; Neuromorphic Computing
