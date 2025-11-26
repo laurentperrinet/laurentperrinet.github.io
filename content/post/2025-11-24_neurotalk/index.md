@@ -19,7 +19,7 @@ title: "NeuroTalk sur le thème des métiers du cerveau"
 Le 24 novembre 2025, j'ai eu l'opportunité de participer au Neurotalk, un événement organisé par l'association [#neuronautes](https://www.instagram.com/neuronautes/) sur le campus Saint-Charles à Marseille. Cette soirée était dédiée à l'exploration des carrières dans le domaine des neurosciences.
 
 L'événement s'est articulé en deux temps :
-1.  Une série de présentations par des intervenants de renom, issus de horizons divers (recherche académique, industrie, entrepreneuriat).
+1.  Une série de présentations par des intervenants de la communauté des neurosciences à Marseille, issus de horizons divers (recherche académique, industrie, entrepreneuriat).
 2.  Une session de networking informelle autour d'un buffet, favorisant les échanges directs avec ces professionnels.
 
 Les intervenants incluaient des experts tels que :
