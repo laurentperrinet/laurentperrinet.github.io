@@ -24,5 +24,6 @@ title: 'Chats, mouches, humains : comment la vision a évolué en de multiples f
 <!--  bluesky link="https://bsky.app/profile/laurentperrinet.bsky.social/post/3lgcyozmqgs2m"  -->
 
 
-* Ce texte est disponible dans cet article de [The Conversation](https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388).
-* Une [version longue](https://laurentperrinet.github.io/2021_theconversation_hasard/) (et son [code](https://github.com/laurentperrinet/2021_theconversation_hasard)) sont aussi disponibles.
+* Ce texte est disponible dans cet article de [The Conversation](https://theconversation.com/chats-mouches-humains-comment-la-vision-a-evolue-en-de-multiples-facettes-220083).
+* Une [version longue](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/latest/index.html) (et son [code](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux)) sont aussi disponibles.
+* Let's discuss it:  [linkedIn](https://www.linkedin.com/posts/isabelle-virard-4b976b33_chats-mouches-humains-comment-la-vision-activity-7222491667939885057-tIHQ) - [linkedIn](https://www.linkedin.com/posts/laurent-perrinet-1857b9_chats-mouches-humains-comment-la-vision-activity-7155290902758850560-SQSX) - [facebook](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheConversationFrance%2Fposts%2Fpfbid0qx3UwsCSryWKVbvXjmCEsQkbPtCNRaMUsBxNQU5NdwiNKyFCFiRLgU6e8p5TWSzfl)
