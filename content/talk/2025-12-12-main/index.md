@@ -26,9 +26,11 @@ tags:
 - computational neuroscience
 - neuroai
 - vision
-links:
+links:  
 - name: URL
   url: https://main2025.org
+- name: Slides
+  url: https://laurentperrinet.github.io/2025-12-13_Perrinet-talk-MAIN2025
 ---
 
 
