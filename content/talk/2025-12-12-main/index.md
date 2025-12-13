@@ -34,7 +34,7 @@ links:
 
 🔬 Excited to present our latest research at the #MAIN2025 conference today!
 
-🔗 https://laurentperrinet.github.io/talk/2025-12-12-main/
+🔗 https://www.main2025.org/
 
 👁️ What if CNNs could see like humans? Our new work shows how foveated vision—concentrating processing at gaze center—makes networks more robust to perturbations & great at localization. Inspired by human vision's architecture (high-resolution foveal center, low-resolution periphery), we embedded this retinotopic transformation into CNN architectures, allowing to actively scan the image. This gives it a new look for #ConvNets !
 
