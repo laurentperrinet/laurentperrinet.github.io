@@ -38,9 +38,15 @@ links:
 📄 Paper: "Foveated Retinotopy Improves Classification and Localization in CNNs"
 🔗 https://laurentperrinet.github.io/talk/2025-12-12-main/
 
-#DeepLearning #ComputerVision #AI #Research #NeuralNetworks #NeuroAI #OpenScience
+#DeepLearning #ComputerVision #AI #Research #NeuralNetworks #NeuroAI #OpenScience I love #Montreal
 
 
 In particular, I will present the work by [Jean-Nicolas Jérémie](https://laurentperrinet.github.io/author/jean-nicolas-jérémie/:)
 
 {{< cite page="publication/jeremie-25" view="4" >}}
+
+Media storm - share if you like :
+- https://neuromatch.social/@laurentperrinet/115712116667035852
+- https://www.linkedin.com/posts/laurent-perrinet-1857b9_main2025-convnets-deeplearning-activity-7405576210266890240-mOLV
+- https://bsky.app/profile/laurentperrinet.bsky.social/post/3m7ukcmx4nk24
+- https://www.instagram.com/reel/DSM-apSj1GH/
