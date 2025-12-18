@@ -8,6 +8,10 @@ summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
 
+* « Qu’un pople toumbe esclau, /Se tèn sa lengo, tèn la clau / Que di cadeno lou deliéuro » Frédéric Mistral
+
+* « Nous sommes les bâtisseurs de notre propre salut, de l’espoir. » Elsa Triolet
+
 * “Though my soul may set in darkness, it will rise in perfect light; I have loved the stars too fondly to be fearful of the night.” ― Sarah Williams, Twilight Hours: A Legacy of Verse
 
 * "The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it (Brandolini’s law)" 
