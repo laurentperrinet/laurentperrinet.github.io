@@ -240,3 +240,6 @@ will include:
 * <a name="ref7"> \[7\]  Emmanuel Daucé, Pierre Albigès, Laurent U Perrinet (2020). « [A dual foveal-peripheral visual processing model implements efficient saccade selection](https://laurentperrinet.github.io/publication/dauce-20/) ». *Journal of Vision*. doi:<https://doi.org/10.1167/jov.20.8.22>
 
 * <a name="ref8"> \[8\] Jean-Nicolas Jérémie, Emmanuel Daucé, Laurent U Perrinet (2020). « Retinotopic Mapping Enhances the Robustness of Convolutional Neural Networks ». arXiv https://arxiv.org/abs/2402.15480
+
+
+
