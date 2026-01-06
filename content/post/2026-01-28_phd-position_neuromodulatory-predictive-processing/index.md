@@ -1,5 +1,5 @@
 ---
-title: "Open PhD Position in Computational & Systems Neuroscience (Marseille, France) : 'Neuromodulatory control of predictive processing in visual cortical circuits'"
+title: "Open PhD Position in Computational & Systems Neuroscience : 'Neuromodulatory control of predictive processing in visual cortical circuits'"
 subtitle: "⏰ Deadline: January 28, 2026."
 authors:
 - laurent-u-perrinet
@@ -16,8 +16,6 @@ lastmod: 2026-01-03 09:00:00
 tags:
 - events
 ---
-
-**⏰ Deadline: January 28, 2026**
 
 We are recruiting a PhD student to work on **neuromodulatory control of predictive processing in mouse vision**, co-supervised by [Ede Rancz](https://bsky.app/profile/did:plc:kgbpgmybkvnarzamc2g55xpg) (INMED) and myself.
 

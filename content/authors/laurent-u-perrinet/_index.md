@@ -12,6 +12,9 @@ superuser: true
 # Role/position
 role: Researcher in Computational Neuroscience
 
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include Machine Learning and computational neuroscience applied to Vision.
+
 # Status emoji
 # status:
 #   icon: ☕️
@@ -26,9 +29,6 @@ organizations:
   url: https://www.cnrs.fr/
 - title: Aix-Marseille Université
   url: https://www.univ-amu.fr
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include Machine Learning and computational neuroscience applied to Vision.
 
 education:
   courses:

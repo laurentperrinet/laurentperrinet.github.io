@@ -3,6 +3,13 @@ authors:
 - ede-rancz
 title: Ede Rancz
 superuser: false
+
+# Role/position
+role: Researcher in Neuroscience
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include Machine Learning and computational neuroscience applied to Vision.
+
 user_groups:
 - Collaborators
 social:
@@ -15,6 +22,9 @@ social:
 - icon: external-link-alt
   icon_pack: fas
   link: https://www.inmed.fr/en/en-circuits-corticaux
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/ederancz.bsky.social
 ---
 
 Ede Rancz is a Research Director at the Mediterranean Institute of Neurobiology, Marseille, France. He is interested in the neural circuits underlying visual perception and decision-making. He uses a combination of in vivo and in vitro electrophysiology, optogenetics, and computational modeling to study the function of the visual cortex. He is also interested in the development of new tools and methods for studying neural circuits.
