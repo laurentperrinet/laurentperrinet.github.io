@@ -52,13 +52,17 @@ content:
       name: mastodon
       link: https://neuromatch.social/@laurentperrinet
     - icon: bluesky
-      icon_pack: fab
+      icon_pack: bootstrap
       name: Bluesky
       link: https://bsky.app/profile/laurentperrinet.bsky.social
     - icon: linkedin
       icon_pack: fab
       name: LinkedIn
       link: https://www.linkedin.com/in/laurent-perrinet-1857b9/
+    - icon: semanticscholar
+      icon_pack: simple-icons
+      name: openAlex
+      link: https://openalex.org/works?page=3&filter=authorships.author.id:a5010769763
     - icon: researcherid
       icon_pack: ai
       name: ResearcherID
