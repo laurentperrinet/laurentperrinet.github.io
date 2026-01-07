@@ -41,7 +41,7 @@ user_groups:
 
  {{< cite page="publication/laine-25-cns" view="4" >}}
 
-## Relevant papers
+## Relevant publications
 
 {{< cite page="publication/grimaldi-22-polychronies" view="4" >}}
 {{< cite page="publication/perrinet-23-icann" view="4" >}}

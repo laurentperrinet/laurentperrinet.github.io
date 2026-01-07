@@ -28,7 +28,7 @@ The mission aims to develop a spiking neural network (SNN) capable of ultra-fast
 This project seeks to leverage the unique capabilities of spiking neural networks (SNNs), which mimic biological neural processes by transmitting information through discrete "spikes" rather than continuous signals. Unlike traditional deep learning models, SNNs are inherently energy-efficient and well-suited for real-time, low-latency applications. The integration with an event camera—a sensor that captures dynamic changes in a scene (e.g., motion) rather than full frames—further enhances processing speed and reduces data redundancy. By designing an end-to-end event-based pipeline, the system will directly process asynchronous event streams from the camera to detect critical features (e.g., optical flow for motion analysis or bird detection in ecological monitoring). A key innovation lies in the algorithm’s ability to operate with minimal computational overhead, making it ideal for edge devices with strict power constraints. The energy efficiency evaluation will benchmark the SNN against conventional convolutional neural networks (CNNs) or other state-of-the-art methods, emphasizing metrics like operations per joule or latency under resource-limited conditions. This work could advance applications in autonomous systems, wildlife tracking, and real-time surveillance where speed and power efficiency are critical.
 
 
-## Relevant papers
+## Relevant publications
 
 {{< cite page="publication/kronlandmartinet-25" view="4" >}}
 {{< cite page="publication/kronlandmartinet-25-snufa" view="4" >}}

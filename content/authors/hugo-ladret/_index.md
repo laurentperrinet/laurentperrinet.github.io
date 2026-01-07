@@ -39,7 +39,7 @@ user_groups:
 Hugo Ladret focuses on predictive coding, an influential brain theory that promises to account for the many seemingly disparate results neuroscientists have gathered over decades of experiments. Using neurobiology with a theory-driven approach, his experimental work deals about vision, and to find theoretical insights for neural network modelling.
 
 
-## Relevant papers
+## Relevant publications
 
 {{< cite page="/publication/ladret-24-thesis" view="4" >}}
 {{< cite page="publication/ladret-23-iclr" view="4" >}}

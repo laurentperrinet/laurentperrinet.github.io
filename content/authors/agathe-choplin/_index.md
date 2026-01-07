@@ -29,6 +29,11 @@ user_groups:
 **Funding:** 3-year contract from ONERA and Région PACA  
 **Doctoral School:** ED658 SV - Sciences du Vivant n°658
 
+### Relevant publications
+
+{{< cite page="/publication/choplin-25-ccn" view="4" >}}
+
+
 ### Project Description
 
 The continuous increase in automation and embedded artificial intelligence in techno-industrial systems makes them both increasingly capable and complex, particularly in the aeronautical field: autopilots, multi-drone supervision systems, etc. The human operator's role gradually shifts from "low-level" regulation to system supervision. The performance of human-machine systems depends on numerous factors, including:
