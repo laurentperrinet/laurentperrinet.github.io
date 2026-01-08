@@ -36,6 +36,8 @@ image:
 links:
 - name: URL
   url: https://iopscience.iop.org/article/10.1088/2634-4386/ad5d0f
+- name: HAL
+  url: https://hal.science/hal-04842588
 
 publication: Neuromorphic Computing and Engineering
 publication_short: ''

@@ -37,7 +37,8 @@ links:
   url: https://github.com/laurentperrinet/Perrinet20PredictiveProcessing_manubot
 - name: URL
   url: https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/latest/index.html
-
+- name: HAL
+  url: https://hal.science/hal-03031128
 publication: '*The Philosophy and Science of Predictive Processing*'
 publication_types:
 - inbook
