@@ -27,6 +27,8 @@ tags:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/choplin-25-ccn
+- name: HAL
+  url: https://hal.science/hal-05288951
 - name: Abstract
   url: https://2025.ccneuro.org/abstract_pdf/CHOPLIN_2025_Classification_Mental_Workload_Spatial_Effects_using.pdf
 ---
