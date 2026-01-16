@@ -32,7 +32,6 @@ links:
   url: https://laurentperrinet.github.io/talk/2026-01-19_art-and-science
 ---
 
-
 👁️ Excited to present our Art/Perception collaboration with Etienne Rey today!
 
 🔗 https://laurentperrinet.github.io/talk/2026-01-19_art-and-science
@@ -41,7 +40,7 @@ What happens today:
 
 - We will discuss with Etienne about the emergence of our collaboration
 
-- I will give a talk about computational neuroscience and neuroAI - in line with:
+- To discov er the fantastic world of neuroAI, I will give a *scientific talk* about computational neuroscience and neuroAI - in line with:
 {{< cite page="talk/2025-12-12-main/" view="4" >}}
 
 - We will see in practice see and discuss some actual works that emerged from that collaboration
