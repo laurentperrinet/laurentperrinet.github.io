@@ -2,6 +2,7 @@
 title: A New Look for Convolutional Deep Networks
 authors:
 - Laurent U Perrinet
+- etienne-rey
 date: '2026-01-19'
 publishDate: '2026-01-16T09:59:39.757451Z'
 publication_types:
@@ -32,17 +33,17 @@ links:
 ---
 
 
-🔬 Excited to present our latest research at the #MAIN2025 conference today!
+👁️ Excited to present our Art/Perception collaboration with Etienne Rey today!
 
-🔗 https://www.main2025.org/
+🔗 https://laurentperrinet.github.io/talk/2026-01-19_art-and-science
 
-👁️ What if CNNs could see like humans? Our new work shows how foveated vision—concentrating processing at gaze center—makes networks more robust to perturbations & great at localization. Inspired by human vision's architecture (high-resolution foveal center, low-resolution periphery), we embedded this retinotopic transformation into CNN architectures, allowing to actively scan the image. This gives literally a new look to #ConvNets !
+What happens today:
 
-🔬 Talk: 
+- We will discuss with Etienne about the emergence of our collaboration
+
+- I will give a talk about computational neuroscience and neuroAI - in line with:
 {{< cite page="talk/2025-12-12-main/" view="4" >}}
 
-📄 Paper: 
-{{< cite page="publication/jeremie-25" view="4" >}}
+- We will see in practice see and discuss some actual works that emerged from that collaboration
 
-
-#DeepLearning #ComputerVision #AI #Research #NeuralNetworks #NeuroAI #OpenScience I love #Montreal
+#DeepLearning #ComputerVision #AI #Research #NeuralNetworks #NeuroAI #OpenScience #artScience
