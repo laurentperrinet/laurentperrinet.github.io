@@ -2,6 +2,7 @@
 authors:
 - rick-a-adams
 title: Rick A Adams
+role: Future Leaders Fellow, Institute of Cognitive Neuroscience & Centre for Medical Image Computing, UCL
 superuser: false
 user_groups:
 - Collaborators
