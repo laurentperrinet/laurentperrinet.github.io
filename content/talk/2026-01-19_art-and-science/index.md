@@ -1,5 +1,5 @@
 ---
-title: A New Look for Convolutional Deep Networks
+title: Lab Tour for Art - Perception Collaboration
 authors:
 - Laurent U Perrinet
 - etienne-rey
