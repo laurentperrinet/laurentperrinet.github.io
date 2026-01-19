@@ -29,12 +29,12 @@ tags:
 - vision
 links:  
 - name: URL
-  url: https://laurentperrinet.github.io/talk/2026-01-19_art-and-science
+  url: https://laurentperrinet.github.io/talk/2026-01-19-art-and-science
 ---
 
 👁️ Excited to present our Art/Perception collaboration with Etienne Rey today!
 
-🔗 https://laurentperrinet.github.io/talk/2026-01-19_art-and-science
+🔗 https://laurentperrinet.github.io/talk/2026-01-19-art-and-science
 
 What happens today:
 

@@ -27,4 +27,31 @@ tags:
 - computational neuroscience
 - neuroai
 - vision
+links:  
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2026-01-19-art-and-science
 ---
+
+👁️ Very glad to present our Art/Perception collaboration with Etienne Rey today!
+
+🔗 https://laurentperrinet.github.io/talk/2026-01-19-art-and-science
+
+What happens today:
+
+- We will discuss with Etienne about the emergence of our collaboration
+
+- To discov er the fantastic world of neuroAI, I will give a *scientific talk* about computational neuroscience and neuroAI - in line with:
+{{< cite page="talk/2025-12-12-main/" view="4" >}}
+
+- We will see in practice see and discuss some actual works that emerged from that collaboration
+
+#DeepLearning #ComputerVision #AI #Research #NeuralNetworks #NeuroAI #OpenScience #artScience
+
+
+{{% callout note %}}
+
+The work of Etienne Rey links natural and physical phenomena with our perception. His works reveal themselves and become concrete in the personal experience of viewers. Light, the central element of his approach, activates these experiences, revealing the interactions between the material and the immaterial.
+
+Since 2011, Etienne Rey has been collaborating with Dr. Laurent Perrinet of the Timone Institute of Neuroscience. Together, they explore the domain of perception at the intersection of their respective disciplines, combining science and art to develop new perceptual approaches. Selected works: [Tropiques (2013) & Space Odyssey (2015‑2024)](https://laurentperrinet.github.io/post/2013-10-10_tropique/), [Trame Eslasticité 2016](https://laurentperrinet.github.io/post/2018-04-10_trames/), Turbulences 2018, [Instabilités et Delaunay (2019)](https://laurentperrinet.github.io/post/2021-10-04_interstices/), Azur 2028.
+
+{{% /callout %}}
