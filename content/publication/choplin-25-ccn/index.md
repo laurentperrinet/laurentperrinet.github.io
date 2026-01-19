@@ -5,7 +5,7 @@ authors:
 - T Rakotomamonjy
 - Laurent U Perrinet
 - N Lantos
-- S angelliaume
+- S Angelliaume
 date: '2025-01-01'
 publishDate: '2025-06-03T07:46:10.998558Z'
 publication_types:
