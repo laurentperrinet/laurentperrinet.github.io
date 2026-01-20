@@ -20,7 +20,7 @@ event: Master 1 Neurosciences et Sciences Cognitives
 featured: false
 image:
   caption: ''
-  focal_point: ''
+  focal_point: Center
   preview_only: false
 lastmod: 2023-03-29 12:47:11+02:00
 links:

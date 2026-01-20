@@ -34,7 +34,7 @@ projects:
 - aprovis3D
 image:
   caption: ''
-  focal_point: ''
+  focal_point: Center
   preview_only: false
 lastmod: 2022-01-13 15:27:10+01:00
 links:

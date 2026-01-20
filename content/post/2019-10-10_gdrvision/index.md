@@ -6,7 +6,7 @@ draft: false
 featured: false
 image:
   caption: ''
-  focal_point: ''
+  focal_point: Center
 summary: Le GDR Vision réunit toute la communauté des chercheurs en France travaillant
   sur la perception visuelle (de la perception des attributs visuels comme la couleur
   et le mouvement à la reconnaissance des mots et des visages), l'intégration multi-sensorielle,

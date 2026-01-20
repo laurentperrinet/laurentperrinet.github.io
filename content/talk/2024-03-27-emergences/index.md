@@ -8,7 +8,7 @@ event: 'Séminaire au colloque du PEPR AI Emergences 2024'
 featured: false
 image:
   caption: ''
-  focal_point: ''
+  focal_point: Center
   preview_only: false
 links:
 - name: URL

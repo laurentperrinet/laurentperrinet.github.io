@@ -10,7 +10,7 @@ projects:
 - aprovis-3-d
 image:
   caption: ''
-  focal_point: ''
+  focal_point: Center
   preview_only: false
 lastmod: 2020-12-21 12:51:20+01:00
 links:

@@ -10,7 +10,7 @@ projects:
 - anr-anr
 image:
   caption: ''
-  focal_point: ''
+  focal_point: Center
   preview_only: false
 lastmod: 2022-06-08 13:33:46+02:00
 links:

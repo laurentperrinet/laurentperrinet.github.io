@@ -42,7 +42,7 @@ draft: false
 featured: false
 image:
   caption: ''
-  focal_point: ''
+  focal_point: Center
   preview_only: false
 lastmod: 2022-06-30 08:54:01+03:00
 links:

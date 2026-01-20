@@ -23,7 +23,7 @@ event: NeuroFrance 2021
 featured: false
 image:
   caption: ''
-  focal_point: ''
+  focal_point: Center
   preview_only: false
 lastmod: 2021-07-12 16:15:38+02:00
 links:

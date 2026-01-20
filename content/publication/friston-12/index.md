@@ -22,7 +22,7 @@ date: 2012-01-01
 doi: 10.3389/fpsyg.2012.00151
 featured: true
 image:
-  focal_point: ''
+  focal_point: Center
 links:
 - name: URL
   url: http://dx.doi.org/10.3389/fpsyg.2012.00151

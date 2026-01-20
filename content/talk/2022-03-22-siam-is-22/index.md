@@ -25,7 +25,7 @@ event: 2022 SIAM Conference on Imaging Science (IS22)
 featured: false
 image:
   caption: ''
-  focal_point: ''
+  focal_point: Center
   preview_only: false
 lastmod: 2021-10-12 12:44:45+02:00
 links:

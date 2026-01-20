@@ -7,7 +7,7 @@ draft: false
 featured: false
 image:
   caption: ''
-  focal_point: ''
+  focal_point: Center
   preview_only: false
 lastmod: 2024-04-05 10:38:46+02:00
 links:

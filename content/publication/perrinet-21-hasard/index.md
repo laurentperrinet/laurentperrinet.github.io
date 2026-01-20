@@ -16,7 +16,7 @@ projects:
 - anr-anr
 image:
   caption: 'Image credit: Naser Tamimi [**Unsplash**](https://unsplash.com/photos/yG9pCqSOrAg)'
-  focal_point: ''
+  focal_point: Center
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-21-hasard/

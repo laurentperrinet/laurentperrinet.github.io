@@ -9,7 +9,7 @@ event: Journées d’Ouverture Scientifique (JOS)
 featured: false
 image:
   caption: ''
-  focal_point: ''
+  focal_point: Center
   preview_only: false
 links:
 - name: URL

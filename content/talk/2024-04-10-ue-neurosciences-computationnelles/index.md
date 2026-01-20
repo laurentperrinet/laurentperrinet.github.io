@@ -8,7 +8,7 @@ event: 'Master 1 Neurosciences et Sciences Cognitives'
 featured: false
 image:
   caption: ''
-  focal_point: ''
+  focal_point: Center
   preview_only: false
 links:
 - name: Code

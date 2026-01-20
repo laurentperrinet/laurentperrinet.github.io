@@ -17,7 +17,7 @@ event: Séminaire à l'Institut Fresnel
 featured: false
 image:
   caption: ''
-  focal_point: ''
+  focal_point: Center
   preview_only: false
 lastmod: 2023-09-05 11:59:44+02:00
 links:

@@ -31,7 +31,7 @@ doi: 10.1088/2634-4386/ad5d0f
 featured: false
 image:
   caption: ''
-  focal_point: ''
+  focal_point: Center
   preview_only: false
 links:
 - name: URL
