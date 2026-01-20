@@ -8,7 +8,7 @@ event: NeuroSchool PhD Program in Neuroscience
 featured: false
 image:
   caption: ''
-  focal_point: Center
+  focal_point: Smart
   preview_only: false
 lastmod: 2023-05-10 11:25:10+02:00
 links:

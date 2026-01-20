@@ -5,7 +5,7 @@ authors:
 date: 2008-10-08 00:00:00
 draft: false
 image:
-  focal_point: Center
+  focal_point: Smart
   placement: 2
   preview_only: false
 lastmod: 2008-10-08 00:00:00

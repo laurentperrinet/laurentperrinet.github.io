@@ -11,7 +11,7 @@ projects:
 image:
   alt_text: AG ready for the talk.
   caption: LP
-  focal_point: Center
+  focal_point: Smart
   placement: 1
   preview_only: false
 links:

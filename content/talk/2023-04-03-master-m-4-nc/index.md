@@ -20,7 +20,7 @@ event: Master M4NC de l'institut NeuroMod, cours Prospective Innovation and Rese
 featured: false
 image:
   caption: ''
-  focal_point: Center
+  focal_point: Smart
   preview_only: false
 lastmod: 2023-03-29 12:47:11+02:00
 links:

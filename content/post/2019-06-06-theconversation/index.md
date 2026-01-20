@@ -6,7 +6,7 @@ draft: false
 featured: false
 image:
   caption: Hallucination ? Ashley Bean/Unsplash
-  focal_point: Center
+  focal_point: Smart
 projects:
 - tout-public
 - art-science

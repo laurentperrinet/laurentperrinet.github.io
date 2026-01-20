@@ -20,7 +20,7 @@ draft: false
 featured: false
 image:
   caption: ''
-  focal_point: Center
+  focal_point: Smart
   preview_only: false
 lastmod: 2023-04-07 12:45:44+02:00
 links:

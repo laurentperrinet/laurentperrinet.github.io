@@ -7,7 +7,7 @@ date: 2024-05-03 09:00:00
 draft: false
 image:
   caption: "Animal camouflage illustrates the importance of exploration in vision: looking straight ahead reveals only vegetation, while making the right saccade reveals a cheetah ready to hunt its prey."
-  focal_point: Center
+  focal_point: Smart
   placement: 2
   preview_only: false
 lastmod: 2024-05-03 09:00:00

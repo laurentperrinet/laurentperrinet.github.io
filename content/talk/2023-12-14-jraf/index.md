@@ -18,7 +18,7 @@ event: Journées sur l'apprentissage frugal (JRAF)
 featured: false
 image:
   caption: ''
-  focal_point: Center
+  focal_point: Smart
   preview_only: false
 links:
 - name: Venue

@@ -15,7 +15,7 @@ draft: true
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: Center
+  focal_point: Smart
 math: true
 projects:
 - internal-project

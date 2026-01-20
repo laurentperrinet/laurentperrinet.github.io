@@ -32,7 +32,7 @@ links:
   url: https://laurentperrinet.github.io/talk/2026-01-19-art-and-science
 image:
   caption: 'La vibration des apparences (2025)'
-  focal_point: Center
+  focal_point: Smart
   preview_only: false
 
 ---

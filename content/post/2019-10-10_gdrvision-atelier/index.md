@@ -6,7 +6,7 @@ draft: false
 featured: false
 image:
   caption: ''
-  focal_point: Center
+  focal_point: Smart
 grants:
 - spikeai
 summary: 'Le GDR Vision réunit toute la communauté française de chercheurs en vision.

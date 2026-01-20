@@ -8,7 +8,7 @@ date: 2020-06-30 09:00:00
 draft: false
 image:
   caption: Rufous Hummingbird "Super fast little hummer on a scarlet Kunzea plant, (thanks for the plant ID, Teddy) El Chorro regional park" photo [Anita Ritenour](https://www.flickr.com/photos/puliarfanita/13322040205) - Attribution 2.0 Generic (CC BY 2.0)
-  focal_point: Center
+  focal_point: Smart
   placement: 2
   preview_only: false
 lastmod: 2020-06-30 09:00:00

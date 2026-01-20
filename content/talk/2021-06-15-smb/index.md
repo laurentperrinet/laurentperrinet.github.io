@@ -10,7 +10,7 @@ projects:
 - anr-horizontal-v1
 image:
   caption: ''
-  focal_point: Center
+  focal_point: Smart
   preview_only: false
 lastmod: 2021-06-14 21:26:49+02:00
 links:

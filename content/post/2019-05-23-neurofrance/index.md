@@ -6,7 +6,7 @@ draft: false
 featured: false
 image:
   caption: ''
-  focal_point: Center
+  focal_point: Smart
 summary: 'We organized a Symposium at NeuroFrance 2019 entitled *Active Inference:
   Bridging theoretical and experimental neurosciences*. This is part of a series of
   theoretical neuroscience symposia organized in this international conference from

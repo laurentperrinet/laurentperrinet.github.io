@@ -10,7 +10,7 @@ projects:
 - polychronies
 image:
   caption: ''
-  focal_point: Center
+  focal_point: Smart
   preview_only: false
 lastmod: 2023-09-10 17:59:14+02:00
 links:

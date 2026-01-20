@@ -33,7 +33,7 @@ projects:
 - polychronies
 image:
   caption: ''
-  focal_point: Center
+  focal_point: Smart
   preview_only: false
 lastmod: 2023-07-21 13:12:04+02:00
 

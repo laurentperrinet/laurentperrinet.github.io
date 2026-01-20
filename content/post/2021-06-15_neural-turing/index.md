@@ -14,7 +14,7 @@ tags:
 title: Neural Turing Patterns
 image:
   caption: © Neural Turing Patterns - Alberto Vergani & Laurent Perrinet.
-  focal_point: Center
+  focal_point: Smart
   placement: 2
   preview_only: false
 ---

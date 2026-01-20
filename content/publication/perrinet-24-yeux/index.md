@@ -8,7 +8,7 @@ projects:
 - anr-anr
 image:
   caption: 'Image credit: Naser Tamimi [**Unsplash**](https://unsplash.com/photos/yG9pCqSOrAg)'
-  focal_point: Center
+  focal_point: Smart
 links:
 - name: URL
   url: https://theconversation.com/chats-mouches-humains-comment-la-vision-a-evolue-en-de-multiples-facettes-220083

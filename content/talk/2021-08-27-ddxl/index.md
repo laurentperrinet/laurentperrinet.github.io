@@ -23,7 +23,7 @@ event: DynamicsDays - XL
 featured: false
 image:
   caption: ''
-  focal_point: Center
+  focal_point: Smart
   preview_only: false
 lastmod: 2021-07-12 15:52:49+02:00
 links:

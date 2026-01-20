@@ -11,7 +11,7 @@ image:
     20 dots at random in the frame". This shows that we tend to judge noise differently
     to pure independent noise. This reflects some prior information (here on some
     spacing between dots) which are learned by our brains.
-  focal_point: Center
+  focal_point: Smart
   preview_only: false
 lastmod: 2023-01-24 11:51:28+01:00
 links:

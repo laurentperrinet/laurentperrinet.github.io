@@ -18,7 +18,7 @@ event: Seminar at UdeM’s School of Optometry, UdeM
 featured: false
 image:
   caption: ''
-  focal_point: Center
+  focal_point: Smart
   preview_only: false
 links:
 - name: URL

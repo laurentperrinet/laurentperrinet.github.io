@@ -8,7 +8,7 @@ date: 2026-01-03 09:00:00
 draft: false
 image:
   caption: "Do mice dream of virtual lice?"
-  focal_point: Center
+  focal_point: Smart
   placement: 2
   preview_only: false
 lastmod: 2026-01-03 09:00:00

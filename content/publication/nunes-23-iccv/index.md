@@ -25,7 +25,7 @@ projects:
 - anr-anr
 image:
   caption: ''
-  focal_point: Center
+  focal_point: Smart
   preview_only: false
 lastmod: 2023-09-05 10:59:11+02:00
 links:

@@ -17,7 +17,7 @@ event: Séminaire colloque BioComp 2023
 featured: false
 image:
   caption: ''
-  focal_point: Center
+  focal_point: Smart
   preview_only: false
 lastmod: 2023-11-29 11:59:44+02:00
 links:

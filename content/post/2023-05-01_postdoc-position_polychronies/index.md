@@ -8,7 +8,7 @@ date: 2023-05-01 09:00:00
 draft: false
 image:
   caption: © [Motion Exposure](http://www.motionexposure.com) - Stephen Orlando. With permission by the artist.
-  focal_point: Center
+  focal_point: Smart
   placement: 2
   preview_only: false
 lastmod: 2023-05-01 09:00:00

@@ -24,7 +24,7 @@ projects:
 - polychronies
 image:
   caption: ''
-  focal_point: Center
+  focal_point: Smart
   preview_only: false
 lastmod: 2024-04-05 10:22:08+02:00
 links:
