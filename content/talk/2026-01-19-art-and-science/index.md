@@ -1,5 +1,5 @@
 ---
-title: A New Look for Convolutional Deep Networks
+title: Lab Tour for Art - Perception Collaboration
 authors:
 - Laurent Perrinet
 - Etienne Rey
@@ -36,6 +36,8 @@ links:
 
 🔗 https://laurentperrinet.github.io/talk/2026-01-19-art-and-science
 
+This session is part of the [France: perception en Provence: French art and science](https://www.risd.edu/academics/illustration/courses) course from the [Rhode Island School of Design](https://www.risd.edu), organized by [Catherine Huang](https://www.instagram.com/cathuangart/) with [Nick Tolley](https://www.linkedin.com/in/ntolley/).
+
 What happens today:
 
 - We will discuss with Etienne about the emergence of our collaboration
@@ -43,7 +45,7 @@ What happens today:
 - To discover the fantastic world of neuroAI, I will give a *scientific talk* about computational neuroscience and neuroAI - in line with:
 {{< cite page="talk/2025-12-12-main/" view="4" >}}
 
-- We will see in practice see and discuss some actual works that emerged from that collaboration
+- We will see and discuss some actual works that emerged from that collaboration
 
 #DeepLearning #ComputerVision #AI #Research #NeuralNetworks #NeuroAI #OpenScience #artScience
 
