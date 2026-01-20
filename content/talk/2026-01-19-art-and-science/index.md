@@ -49,7 +49,7 @@ What happens today:
 
 - To discover the fantastic world of neuroAI, I will give a *
 scientific talk* about computational neuroscience and neuroAI - in line with:
-{{< cite page="talk/2025-12-12-main/" view="4" >}}
+{{< cite page="talk/2025-12-12-main/" view="4" >}} {{< cite page="talk/2025-04-18-vibration-apparences" view="4" >}}
 
 - We will see and discuss some actual works that emerged from that collaboration
 

@@ -33,6 +33,9 @@ Cette présentation dans le cadre des *Journées d’Ouverture Scientifique (JOS
 
 {{< cite page="/post/2024-11-07_vibration-apparences/" view="4" >}}
 
+Pour encore plus d'informations, voir la présentation qui a été donnée au musée Granet:
+
+{{< cite page="talk/2025-04-18-vibration-apparences" view="4" >}}
 
 Le titre de l'exposition fait écho au texte "Le Doute de Cézanne" de Merleau-Ponty, qui explore comment, dans la vie quotidienne, nous tendons à ignorer les apparences transitoires pour accéder directement aux objets eux-mêmes. À l'opposé, le peintre se focalise sur cette dynamique de mutation des apparences. Merleau-Ponty écrit au sujet de Cézanne : « Le peintre reprend et convertit justement en objet visible ce qui sans lui reste enfermé dans la vie séparée de chaque conscience : la vibration des apparences qui est le berceau des choses. » 
 
