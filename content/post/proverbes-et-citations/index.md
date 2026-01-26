@@ -8,6 +8,8 @@ summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
 
+* « Dis, Muse, le récit de l’homme aux mille ruses, / qui, après la perte de la cité de Troie, / a longtemps erré sur les flots, / subissant maintes épreuves et affrontant dieux, monstres et tempêtes, / et qui, désireux de regagner Ithaque, finit par triompher. » Homère 
+
 * « Qu’un pople toumbe esclau, /Se tèn sa lengo, tèn la clau / Que di cadeno lou deliéuro » Frédéric Mistral
 
 * « Nous sommes les bâtisseurs de notre propre salut, de l’espoir. » Elsa Triolet
