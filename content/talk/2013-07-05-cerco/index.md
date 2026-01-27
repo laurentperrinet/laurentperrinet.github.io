@@ -6,7 +6,7 @@ authors:
 date: 2013-07-05 13:00:00
 event: CerCo 20th anniversary
 featured: false
-projects:
+grants:
 - brain-scales
 links:
 - name: URL

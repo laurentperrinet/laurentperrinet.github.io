@@ -14,7 +14,7 @@ date: 2015-10-07 13:00:00
 event: First GDR BioComp workshop
 event_url: http://gdr-biocomp.fr/colloque/
 featured: false
-projects:
+grants:
 - brain-scales
 image: {}
 links:

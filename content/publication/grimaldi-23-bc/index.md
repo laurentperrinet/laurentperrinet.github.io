@@ -19,7 +19,6 @@ lastmod: 2022-11-17 12:15:57+01:00
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/grimaldi-23-bc/
-links:
 - name: Code
   url: https://github.com/SpikeAI/2023_GrimaldiPerrinet_HeterogeneousDelaySNN
 - name: Supplementary Material

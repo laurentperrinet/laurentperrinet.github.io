@@ -7,7 +7,7 @@ authors:
 - Laurent Madelain
 date: 2015-01-01
 featured: false
-projects:
+grants:
 - anr-rem
 links:
 - name: URL

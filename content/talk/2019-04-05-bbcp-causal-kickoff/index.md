@@ -25,7 +25,7 @@ authors:
 date: 2019-04-05 15:45:00
 event: CausaL Kick-off
 featured: false
-projects:
+grants:
 - anr-causal
 links:
 - name: Slides

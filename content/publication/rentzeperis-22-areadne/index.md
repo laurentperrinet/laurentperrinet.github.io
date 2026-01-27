@@ -20,7 +20,7 @@ categories: []
 date: 2022-06-29
 draft: false
 featured: false
-projects:
+grants:
 - anr-runbinvase
 image:
   caption: ''
@@ -30,8 +30,6 @@ lastmod: 2022-05-20 13:42:38+02:00
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/rentzeperis-22-areadne/
-projects:
-- anr-runbinvase
 publication: '*Proceedings of AREADNE*'
 publication_types:
 - inproceedings

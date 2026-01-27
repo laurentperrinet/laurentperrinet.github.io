@@ -7,7 +7,7 @@ doi: 10.1007/978-3-031-44207-0_31
 draft: false
 event: ICANN Special Session on Recent Advances in Spiking Neural Networks
 featured: false
-projects:
+grants:
 - polychronies
 image:
   caption: ''

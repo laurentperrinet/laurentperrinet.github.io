@@ -25,7 +25,6 @@ social:
 - icon: external-link-alt
   icon_pack: fas
   link: https://serre-lab.clps.brown.edu/person/victor-boutin/
-  link: https://github.com/VictorBoutin
 - icon: external-link-alt
   icon_pack: fas
   link: https://victorboutin.github.io/
@@ -39,7 +38,7 @@ social:
 superuser: false
 tags:
 - doc-2-amu
-projects:
+grants:
 - anr-horizontal-v1
 user_groups:
 - Former Students

@@ -24,7 +24,7 @@ authors:
 date: 2022-02-05
 doi: 10.1007/s00429-022-02455-4
 featured: false
-projects:
+grants:
 - anr-trajectory
 links:
 - name: URL

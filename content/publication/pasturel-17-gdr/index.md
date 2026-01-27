@@ -6,7 +6,7 @@ authors:
 - Laurent U Perrinet
 date: 2017-01-01
 featured: false
-projects:
+grants:
 - anr-rem
 links:
 - name: Pdf

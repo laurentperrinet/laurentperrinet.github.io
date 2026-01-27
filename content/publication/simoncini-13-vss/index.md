@@ -24,7 +24,7 @@ authors:
 - Guillaume S Masson
 date: 2013-01-01
 featured: false
-projects:
+grants:
 - brain-scales
 - codde
 

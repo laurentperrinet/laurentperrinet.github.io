@@ -29,7 +29,7 @@ authors:
 - Andrew P Davison
 date: 2009-01-01
 featured: false
-projects:
+grants:
 - brain-scales
 - facets
 - facets-itn

@@ -5,7 +5,7 @@ authors:
 - Laurent U Perrinet
 date: 2018-01-01
 featured: false
-projects:
+grants:
 - pace-itn
 links:
 - name: URL

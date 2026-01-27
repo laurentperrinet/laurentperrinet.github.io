@@ -27,7 +27,7 @@ authors:
 - Laurent U Perrinet
 date: 2015-01-01
 featured: false
-projects:
+grants:
 - anr-bala-v1
 - brain-scales
 

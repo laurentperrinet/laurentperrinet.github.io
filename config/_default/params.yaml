@@ -81,6 +81,9 @@ locale:
 
 # Site features
 
+
+# Site features
+
 features:
   syntax_highlighter:
     enable: false
@@ -137,11 +140,6 @@ publications:
   date_format: January 2006
   citation_style: apa
 
-# Site features
-
-features:
-  privacy_pack:
-    enable: false
 
 # Security
 

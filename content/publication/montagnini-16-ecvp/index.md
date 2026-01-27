@@ -6,7 +6,7 @@ authors:
 - Guillaume S Masson
 date: 2016-01-01
 featured: false
-projects:
+grants:
 - anr-rem
 links:
 - name: URL

@@ -17,7 +17,7 @@ authors:
 - Laurent U Perrinet
 date: 2019-03-25 14:30:00
 event: HDR Robin Baurès, Toulouse (France)
-projects:
+grants:
 - anr-horizontal-v1
 links:
 - name: Slides

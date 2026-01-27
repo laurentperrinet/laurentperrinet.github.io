@@ -13,7 +13,6 @@ social:
   icon_pack: ai
   link: https://www.researchgate.net/profile/Jean-Bernard-Damasse-2
 title: Jean-Bernard Damasse
-role: Medical Doctor
 superuser: false
 user_groups:
 - Former Students

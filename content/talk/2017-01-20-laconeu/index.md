@@ -5,7 +5,7 @@ date: 2017-01-20 10:45:00
 event: 'LACONEU 2017: 4th Latin-American Summer School in Computational Neuroscience'
 event_url: http://www.laconeu.cl
 featured: false
-projects:
+grants:
 - anr-trajectory
 links:
 - name: Conference

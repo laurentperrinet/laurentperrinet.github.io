@@ -19,5 +19,4 @@ tags:
 - neuromorphic hardware
 title: 'Robots aériens agiles bio-mimetiques pour le vol en conditions réelles: Enjeux
   pour l''IA embarqué'
-slides: 2024-09-09-agileneurobot-anr
 ---

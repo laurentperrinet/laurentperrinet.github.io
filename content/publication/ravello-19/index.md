@@ -23,7 +23,7 @@ authors:
 date: 2019-01-24
 doi: 10.1038/s41598-018-36861-8
 featured: false
-projects:
+grants:
 - anr-trajectory
 links:
 - name: Press

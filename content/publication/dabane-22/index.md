@@ -22,7 +22,7 @@ date: 2022-01-01
 doi: 10.36227/techrxiv.16550391
 draft: false
 featured: false
-projects:
+grants:
 - anr-anr
 image:
   caption: ''

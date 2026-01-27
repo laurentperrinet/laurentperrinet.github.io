@@ -8,7 +8,7 @@ date: 2023-09-26
 doi: 10.1007/978-3-031-44207-0_52
 draft: false
 featured: false
-projects:
+grants:
 - anr-anr
 image:
   caption: ''

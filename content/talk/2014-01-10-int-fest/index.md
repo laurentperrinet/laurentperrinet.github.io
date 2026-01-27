@@ -20,7 +20,7 @@ authors:
 date: 2014-01-10
 event: Marseille INT Fest, January 10th, 2014
 featured: false
-projects:
+grants:
 - brain-scales
 links:
 - name: URL

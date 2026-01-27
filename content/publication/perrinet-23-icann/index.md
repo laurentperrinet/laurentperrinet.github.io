@@ -22,7 +22,7 @@ date: 2023-09-27
 doi: 10.1007/978-3-031-44207-0_31
 draft: false
 featured: false
-projects:
+grants:
 - polychronies
 image:
   caption: ''

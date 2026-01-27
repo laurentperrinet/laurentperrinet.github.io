@@ -5,7 +5,7 @@ authors:
 - Laurent U Perrinet
 date: 2025-08-13
 doi: 10.48550/arXiv.2402.15480
-projects:
+grants:
 - anr-anr
 links:
 - name: arXiv

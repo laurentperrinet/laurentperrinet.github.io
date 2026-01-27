@@ -4,8 +4,7 @@ authors:
 date: 2023-01-01
 draft: false
 featured: true
-projects:
-- art-science
+grants:
 - anr-anr
 links:
 - name: URL

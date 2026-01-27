@@ -6,7 +6,7 @@ date: 2023-11-07 19:00:00
 draft: false
 event: 'SNUFA: Spiking Neural networks as Universal Function Approximators'
 featured: false
-projects:
+grants:
 - polychronies
 image:
   caption: ''

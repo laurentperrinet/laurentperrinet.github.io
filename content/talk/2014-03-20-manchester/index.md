@@ -28,7 +28,7 @@ date: 2014-03-20 13:00:00
 event: 4th BrainScaleS Plenary meeting
 event_url: https://brainscales.kip.uni-heidelberg.de/internal/jss/AttendMeeting?m=showAgenda&meetingID=45
 featured: false
-projects:
+grants:
 - brain-scales
 links:
 - name: Conference

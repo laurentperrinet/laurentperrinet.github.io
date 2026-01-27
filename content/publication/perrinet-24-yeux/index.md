@@ -4,7 +4,7 @@ authors:
 - Laurent U Perrinet
 date: 2024-02-23
 featured: false
-projects:
+grants:
 - anr-anr
 image:
   caption: 'Image credit: Naser Tamimi [**Unsplash**](https://unsplash.com/photos/yG9pCqSOrAg)'

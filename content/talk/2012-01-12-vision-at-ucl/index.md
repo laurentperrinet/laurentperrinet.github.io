@@ -21,7 +21,7 @@ authors:
 date: 2012-01-12 17:00:00
 event: Vision@UCL seminar
 featured: false
-projects:
+grants:
 - brain-scales
 links:
 - name: URL

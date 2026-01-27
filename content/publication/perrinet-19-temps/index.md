@@ -9,7 +9,7 @@ authors:
 - Laurent U Perrinet
 date: 2019-01-01
 featured: false
-projects:
+grants:
 - anr-horizontal-v1
 image:
   caption: 'Un pélican en vol photographié par Etienne-Jules Marey en 1882. https://commons.wikimedia.org/wiki/File:Marey_-_birds.jpg '

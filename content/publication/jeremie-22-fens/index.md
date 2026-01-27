@@ -7,7 +7,7 @@ categories: []
 date: 2022-07-10
 draft: false
 featured: false
-projects:
+grants:
 - anr-anr
 image:
   caption: ''

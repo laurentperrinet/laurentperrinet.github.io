@@ -30,7 +30,7 @@ authors:
 date: 2014-08-22
 doi: 10.1167/14.10.110
 featured: false
-projects:
+grants:
 - brain-scales
 - codde
 links:

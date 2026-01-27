@@ -20,7 +20,7 @@ categories: []
 date: 2024-06-27
 draft: false
 featured: false
-projects:
+grants:
 - polychronies
 image:
   caption: ''

@@ -32,7 +32,7 @@ authors:
 date: 2014-08-22
 doi: 10.1167/14.10.491
 featured: false
-projects:
+grants:
 - anr-speed
 links:
 - name: URL

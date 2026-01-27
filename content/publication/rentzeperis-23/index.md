@@ -9,7 +9,7 @@ date: 2023-09-12
 doi: 10.1371/journal.pcbi.1011459
 draft: false
 featured: false
-projects:
+grants:
 - anr-runbinvase
 image:
   caption: ''
@@ -19,8 +19,6 @@ lastmod: 2022-05-20 13:42:38+02:00
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/rentzeperis-23
-projects:
-- anr-runbinvase
 publication: '*PLOS Computational Biology*'
 publication_types:
 - article-journal

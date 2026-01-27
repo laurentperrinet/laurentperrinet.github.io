@@ -39,7 +39,7 @@ date: 2012-01-24 13:00:00
 event: A seminar from the Institute for Adaptive and Neural Computation (ANC)
 event_url: http://www.anc.ed.ac.uk/events/anc-dtc-seminar-laurent-perrinet
 featured: false
-projects:
+grants:
 - brain-scales
 links:
 - name: Conference

@@ -20,7 +20,7 @@ authors:
 date: 2012-01-27
 event: Brain meeting at FIL, London - Friday, January 27th, 2012
 featured: false
-projects:
+grants:
 - brain-scales
 links:
 - name: URL

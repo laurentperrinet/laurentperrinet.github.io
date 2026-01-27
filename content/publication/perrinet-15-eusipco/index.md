@@ -15,7 +15,7 @@ authors:
 date: 2015-08-01
 doi: 10.1109/EUSIPCO.2015.7362781
 featured: false
-projects:
+grants:
 - anr-bala-v1
 - brain-scales
 links:

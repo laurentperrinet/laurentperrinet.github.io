@@ -7,7 +7,7 @@ authors:
 date: 2018-10-01
 doi: 10.1167/18.11.14
 featured: false
-projects:
+grants:
 - anr-rem
 - pace-itn
 links:

@@ -23,8 +23,6 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/sciblog/files/2016-04-28_mejanes/
 location: Marseille, France
-projects:
-- tout-public
 publication: '**'
 publication_types:
 - inproceedings

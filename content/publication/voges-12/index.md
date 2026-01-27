@@ -26,7 +26,7 @@ authors:
 date: 2012-01-01
 doi: 10.3389/fncom.2012.00041
 featured: false
-projects:
+grants:
 - brain-scales
 - codde
 - facets

@@ -6,7 +6,7 @@ date: 2021-06-15 11:15:00
 draft: false
 event: Society for Mathematical Biology * 2021
 featured: false
-projects:
+grants:
 - anr-horizontal-v1
 image:
   caption: ''

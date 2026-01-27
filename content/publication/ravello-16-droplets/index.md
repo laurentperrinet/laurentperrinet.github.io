@@ -7,7 +7,7 @@ authors:
 date: 2016-11-01
 doi: 10.5281/zenodo.5823016
 featured: false
-projects:
+grants:
 - anr-trajectory
 links:
 - name: URL

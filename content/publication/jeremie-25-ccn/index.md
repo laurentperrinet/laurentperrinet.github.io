@@ -42,7 +42,7 @@ tags:
 - ImageNet
 - Visual search
 - NeuroAI
-projects:
+grants:
 - anr-anr
 links:
 - name: URL

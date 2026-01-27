@@ -7,7 +7,7 @@ authors:
 - James A Bednar
 date: 2014-01-01
 featured: false
-projects:
+grants:
 - anr-bala-v1
 links:
 - name: URL

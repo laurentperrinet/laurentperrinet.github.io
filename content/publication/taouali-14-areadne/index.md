@@ -4,7 +4,7 @@ authors:
 - Laurent U Perrinet
 date: 2014-01-01
 featured: false
-projects:
+grants:
 - anr-bala-v1
 - brain-scales
 

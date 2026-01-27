@@ -29,7 +29,7 @@ authors:
 date: 2020-01-01
 doi: 10.5040/9781350099784.ch-005
 featured: false
-projects:
+grants:
 - anr-horizontal-v1
 - spikeai
 links:

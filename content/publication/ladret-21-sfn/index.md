@@ -22,7 +22,7 @@ categories: []
 date: 2021-01-01
 draft: false
 featured: false
-projects:
+grants:
 - anr-horizontal-v1
 image:
   caption: ''

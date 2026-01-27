@@ -12,7 +12,7 @@ authors:
 date: 2013-03-21
 event: 3rd BrainScaleS Plenary Meeting - Friday, March 21st, 2013
 featured: false
-projects:
+grants:
 - brain-scales
 links:
 - name: URL

@@ -30,7 +30,7 @@ authors:
 date: 2008-01-01
 doi: 10.3389/neuro.11.011.2008
 featured: false
-projects:
+grants:
 - facets
 links:
 - name: URL

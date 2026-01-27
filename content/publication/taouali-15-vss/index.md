@@ -46,7 +46,7 @@ authors:
 date: 2016-01-01
 doi: 10.1167/15.12.484
 featured: false
-projects:
+grants:
 - anr-bala-v1
 - brain-scales
 links:
