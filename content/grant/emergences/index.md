@@ -35,7 +35,7 @@ The [*Emergences* project](https://emergences.lirmm.fr/) aims at advancing the s
 
 Contemporary machine learning (ML) has incurred profound changes in the scientific, societal and economic landscapes alike. After a decade of sustained progress AI as a discipline is still making regular breakthroughs on many fronts, at the expense of an ever-increasing amount of consumption of compute resources. Modern language models feature hundreds of billion parameters and training energy consumption alone likely falls in the GWh range, with a logical forecast worsening the already prohibitive carbon footprint of AI.
 
-Besides the flourishing initiatives aimed at defining AI-friendly digital compute stack, the next logical breakthrough on the horizon is undoubtedly the emergence of disruptive AI compute technologies having improved energy efficiency. This development will likely involve the utilization of models that differ from those traditionally used in ML and exhibit properties that resemble the behavior of physical components, thereby facilitating implementation.
+Besides the flourishing initiatives aimed at defining AI-friendly digital compute stack, the next logical breakthrough on the horizon is undoubtedly the emergence of disruptive AI compute technologies having improved energy efficiency. This development will likely involve the utilization of models that differ from those traditionally used in ML and exhibit properties that resemble the behavior of physical components, thereby facilitating implementation. 
 
 The *Emergences* project aims at advancing the state-of-the art on near-physics emerging models by collaboratively exploring various computation models leveraging physical devices properties. Efforts will be put on 3 distinct fronts: Event-based models, Physics-inspired models (from physical systems dynamics) and innovative near-physics ML solutions (exploiting device properties). The investigations will be focused on embedded systems for Edge AI that call for increased energy efficiency for inference and learning, which could be incremental. They will apply to several application domains ranging for instance from the monitoring of the environment to health. Other important tasks such as common tools, performance metrics definition and model scalability analysis and will be conducted through as a collaborative transverse initiative.
 
@@ -46,6 +46,10 @@ The *Emergences* project aims at advancing the state-of-the art on near-physics 
 * attention mechanisms based on our cognitive architecture using a dual pathway: {{< cite page="/publication/dauce-20" view="4" >}}
 
 * implementation in a spiking neural network based: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}
+
+
+{{< figure src="carte_partenaire.jpg" title="Carte des partenaires du projet Emergences." numbered="false" >}}
+
 
 ## Key figures
 
@@ -59,6 +63,7 @@ The *Emergences* project aims at advancing the state-of-the art on near-physics 
 
 - This work is supported by a public grant overseen by the French National Research Agency (ANR) under the grant number ANR-23-PEIA-0002 EMERGENCES.
 
+{{< figure src="logo_PEPR-IA.png" numbered="false" >}}
 
 ## Latest news
 
