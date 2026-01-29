@@ -335,6 +335,18 @@ exponential prior => L1 norm
 <section>
 
 
+## Sparse representations and learning
+
+{{< video src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/ssc.mp4" title="[[LP (2010)](https://laurentperrinet.github.io/publication/perrinet-10-shl/)]" controls="yes" width="55%" >}}
+
+{{< speaker_note >}}
+
+
+
+{{< /speaker_note >}}
+
+--- 
+
 ## Convolutional Sparse Coding
 
 {{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_c.svg" title="[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]" width="90%" >}}
@@ -453,7 +465,7 @@ For instance, we show how precise spike times may be used to detect the directio
 
 ## SNN in neuromorphic engineering
 
-{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/accuracy.png" title="The HD-SNN neural network." width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/accuracy.png" title="The HD-SNN neural network." width="60%" >}}
 
 {{< speaker_note >}}
 **2 MINUTE**
