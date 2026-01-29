@@ -54,20 +54,6 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 <section>
 
-## Sparse representations?
-
-<!-- {{< figure src="https://www.vhv.rs/dpng/d/57-574294_old-man-shrugging-shoulders-meme-hd-png-download.png" width="90%" >}} -->
-{{< figure src="https://i.imgflip.com/2lmff7.jpg" width="80%" >}}
-
-{{< speaker_note >}}
-
-you may have heard of it but do you know what it is ?
-
-
-{{< /speaker_note >}}
-
----
-
 ## Sparse representations in computer vision
 
 {{< video src="https://laurentperrinet.github.io/sciblog/files/2015-05-22-a-hitchhiker-guide-to-matching-pursuit/MPtutorial_rec.mp4" controls="yes" height="90%" >}}
@@ -84,7 +70,38 @@ Sparse coding is a technique used in signal processing and machine learning to r
 
 ---
 
-## Sparse representations in neuroscience
+## Neurosciences and sparsity
+
+
+<!-- <iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/HLEQUP/questions/697a765837a5e7d1b8a8eefe" width="100%"></iframe>
+ -->
+
+* Go to wooclap.com
+* Code HLEQUP
+* https://app.wooclap.com/HLEQUP?from=instruction-slide
+{{< speaker_note >}}
+
+Time for a wooclap
+
+{{< /speaker_note >}}
+
+---
+
+## Neurosciences and sparsity
+
+{{< figure src="https://media.neuromatch.social/media_attachments/files/114/427/857/683/632/363/original/a3b375df340a54aa.png" title="[[Lennie, 2003, The Cost of Cortical Computation](https://neuromatch.social/@laurentperrinet/114427859025152015)]" width="50%" >}}
+
+{{< speaker_note >}}
+
+Starting with the brain's known energy consumption (approximately 20% of the body's entire energy budget despite being only 2% of body weight), Lennie worked backward to determine how many action potentials this energy could reasonably support.
+
+By synthesizing these factors and dividing the available energy budget by the number of neurons and the energy cost per spike, Lennie calculated that cortical neurons can only sustain an average firing rate of approximately 0.16 Hz while remaining within the brain's metabolic constraints.
+
+{{< /speaker_note >}}
+
+---
+
+## Neurosciences and sparsity
 
 {{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/Brunel200Fig2.png" title="[[Brunel, 2001](https://books.google.fr/books?hl=fr&lr=&id=b8woDqWdTssC&oi=fnd&pg=PA307&ots=KNHQrJ-TsZ&sig=0WI2cq2RnMXC7fVTyjOEWZEdlCg&redir_esc=y#v=onepage&q&f=false)]" width="50%" >}}
 
@@ -98,7 +115,7 @@ healthy network = 1Hz = sparse activity (stronger in auditory, in insects, ...)
 
 ---
 
-## Sparse representations in neuroscience
+## Neurosciences and sparsity
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/replicating_MainenSejnowski1995.png" title="[[Mainen & Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]" width="99%" >}}
 
@@ -109,7 +126,7 @@ diesmann
 
 ---
 
-## Sparse representations in neuroscience
+## Neurosciences and sparsity
 
 {{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/fncir-10-00037-g001a.jpg" title="[[Kremkow *et al*, 2016](https://laurentperrinet.github.io/publication/kremkow-16/)]" width="90%" >}}
 
@@ -121,7 +138,7 @@ diesmann
 
 ---
 
-## Sparse representations in neuroscience
+## Neurosciences and sparsity
 
 {{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/fncir-10-00037-g001.jpg" title="[[Kremkow *et al*, 2016](https://laurentperrinet.github.io/publication/kremkow-16/)]" width="90%" >}}
 
@@ -129,17 +146,6 @@ diesmann
 mainen et sejnowski
 diesmann
 vinje et gallant
-{{< /speaker_note >}}
-
----
-
-## Sparse representations?
-
-<!-- {{< figure src="https://www.vhv.rs/dpng/d/57-574294_old-man-shrugging-shoulders-meme-hd-png-download.png" width="90%" >}} -->
-{{< figure src="https://memecreator.org/static/images/memes/5646953.jpg" width="45%" >}}
-
-{{< speaker_note >}}
-in summary: Sparse representations resulting from these processes have been successfully applied in various domains such as image processing, computer vision, and audio signal processing. It has shown promise in tasks such as noise reduction, compression, feature extraction, and pattern recognition. By capturing the essential structure and characteristics of the data in a sparse representation, sparse coding can help reduce redundancy and noise, and extract meaningful features for further analysis or processing.
 {{< /speaker_note >}}
 
 
@@ -155,8 +161,9 @@ in summary: Sparse representations resulting from these processes have been succ
 {{< figure src="https://i.giphy.com/26xBtPbmDlugFxUiY.webp" width="90%" >}}
 
 {{< speaker_note >}}
-- ...let's delve into a computational theory of sparse coding
+in summary: Sparse representations resulting from these processes have been successfully applied in various domains such as image processing, computer vision, and audio signal processing. It has shown promise in tasks such as noise reduction, compression, feature extraction, and pattern recognition. By capturing the essential structure and characteristics of the data in a sparse representation, sparse coding can help reduce redundancy and noise, and extract meaningful features for further analysis or processing.
 
+- ...let's delve into a computational theory of sparse coding
 
 review_bib = s.content_bib("LP", "2015", '"Sparse models" in <a href="https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/">Biologically Inspired Computer Vision</a>')
 
@@ -312,35 +319,10 @@ exponential prior => L1 norm
 
 ## Sparse representations in a nutshell
 
-{{< figure src="https://laurentperrinet.github.io/publication/rentzeperis-23/featured.png" title="[[Rentzeperis *et al* (2023)](https://laurentperrinet.github.io/publication/rentzeperis-23/)]" height="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/rentzeperis-23/featured.png" title="[[Rentzeperis *et al* (2023)](https://laurentperrinet.github.io/publication/rentzeperis-23/)]" height="60%" >}}
 
 {{< speaker_note >}}
 
-
-{{< /speaker_note >}}
-
-
----
-
-## Sparse representations in a nutshell
-
-{{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/Olshausen_5.png" title="[[Olshausen and Field (1997)](http://mplab.ucsd.edu/~marni/Igert/Olshaussen_1997.pdf)]" height="80%" >}}
-
-{{< speaker_note >}}
-
-Neural implementation = gradient descent
-
-LASSO = least absolute shrinkage and selection operator
-
-Orthogonal Matching Pursuit (OMP): OMP is an iterative algorithm used for sparse signal recovery. It starts with an initial sparse solution and iteratively selects the most correlated dictionary atoms with the residual signal. OMP aims to minimize the L2 norm of the residual while maintaining sparsity. It has a greedy nature and can provide a near-optimal sparse solution.
-
-Basis Pursuit (BP): Basis Pursuit is an optimization problem that seeks the sparsest solution to an underdetermined linear system of equations. It involves minimizing the L1 norm of the coefficient vector subject to a linear constraint. BP can be solved using linear programming techniques or convex optimization algorithms.
-
-Iterative Soft Thresholding Algorithm (ISTA): ISTA is an iterative optimization algorithm commonly used in sparse coding. It alternates between a gradient descent step and a soft thresholding step. The gradient descent step minimizes the data fidelity term, and the soft thresholding step enforces sparsity by setting small coefficients to zero. ISTA converges to a sparse solution and can be used for dictionary learning.
-
-FISTA (Fast Iterative Shrinkage-Thresholding Algorithm): FISTA is an accelerated version of ISTA that improves convergence speed. It incorporates momentum into the optimization process and achieves faster convergence rates.
-
-ADMM (Alternating Direction Method of Multipliers): ADMM is an optimization technique that decomposes the original problem into smaller subproblems and solves them iteratively. It is often used for convex optimization problems with L1 regularization. ADMM has been applied to solve sparse coding problems efficiently.
 
 {{< /speaker_note >}}
 
@@ -423,6 +405,63 @@ ADMM (Alternating Direction Method of Multipliers): ADMM is an optimization tech
 {{< speaker_note >}}
 - result= interpretable features
 {{< /speaker_note >}}
+
+
+---
+
+## SNN in neuromorphic engineering
+
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/HDSNN_conv.png" title="The HD-SNN neural network." width="90%" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+
+- For instance, we show how precise spike times may be used to detect the direction of motion from such a stream of events in an ultrafast fashion.
+{{< /speaker_note >}}
+
+
+---
+
+## SNN in neuromorphic engineering
+
+{{< video src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/FastMotionDetection_input.mp4" autoplay="yes" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+
+- A nice HSD neuron
+
+For instance, we show how precise spike times may be used to detect the direction of motion from such a stream of events in an ultrafast fashion.
+{{< /speaker_note >}}
+
+
+---
+
+## SNN in neuromorphic engineering
+
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/motion_kernels.png" title="The HD-SNN neural network." width="90%" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+
+- nice kernels
+
+{{< /speaker_note >}}
+
+
+---
+
+## SNN in neuromorphic engineering
+
+{{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/accuracy.png" title="The HD-SNN neural network." width="80%" >}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+
+- frugal computing
+
+{{< /speaker_note >}}
+
 
 ---
 
