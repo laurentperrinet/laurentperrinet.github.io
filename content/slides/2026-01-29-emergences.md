@@ -91,31 +91,31 @@ Time for a wooclap
 
 ## Neurosciences and sparsity: a survey
 
-{{< figure src="https://laurentperrinet.github.io/talk/2026-01-29-emergences/wooclap_1.png" width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/talk/2026-01-29-emergences/wooclap_1.png" width="62%" >}}
 
 ---
 
 ## Neurosciences and sparsity: a survey
 
-{{< figure src="https://laurentperrinet.github.io/talk/2026-01-29-emergences/wooclap_2.png" width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/talk/2026-01-29-emergences/wooclap_2.png" width="62%" >}}
 
 ---
 
 ## Neurosciences and sparsity: a survey
 
-{{< figure src="https://laurentperrinet.github.io/talk/2026-01-29-emergences/wooclap_3.png" width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/talk/2026-01-29-emergences/wooclap_3.png" width="62%" >}}
 
 ---
 
 ## Neurosciences and sparsity: a survey
 
-{{< figure src="https://laurentperrinet.github.io/talk/2026-01-29-emergences/wooclap_4.png" width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/talk/2026-01-29-emergences/wooclap_4.png" width="62%" >}}
 
 ---
 
 ## Neurosciences and sparsity: a survey
 
-{{< figure src="https://laurentperrinet.github.io/talk/2026-01-29-emergences/wooclap_5.png" width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/talk/2026-01-29-emergences/wooclap_5.png" width="62%" >}}
 
 ---
 
