@@ -71,23 +71,51 @@ Sparse coding is a technique used in signal processing and machine learning to r
 
 ---
 
-## Neurosciences and sparsity
+## Neurosciences and sparsity: a survey
 
 
 <!-- <iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/HLEQUP/questions/697a765837a5e7d1b8a8eefe" width="100%"></iframe>
  -->
 
 * Go to wooclap.com
-* Code HLEQUP
+* Enter the code HLEQUP
+* Or directly follow https://app.wooclap.com/HLEQUP?from=instruction-slide
 
-{{< figure src="talk/2026-01-29-emergences/wooclap_5.png" width="80%" >}}
-
-* https://app.wooclap.com/HLEQUP?from=instruction-slide
 {{< speaker_note >}}
 
 Time for a wooclap
 
 {{< /speaker_note >}}
+
+---
+
+## Neurosciences and sparsity: a survey
+
+{{< figure src="https://laurentperrinet.github.io/talk/2026-01-29-emergences/wooclap_1.png" width="80%" >}}
+
+---
+
+## Neurosciences and sparsity: a survey
+
+{{< figure src="https://laurentperrinet.github.io/talk/2026-01-29-emergences/wooclap_2.png" width="80%" >}}
+
+---
+
+## Neurosciences and sparsity: a survey
+
+{{< figure src="https://laurentperrinet.github.io/talk/2026-01-29-emergences/wooclap_3.png" width="80%" >}}
+
+---
+
+## Neurosciences and sparsity: a survey
+
+{{< figure src="https://laurentperrinet.github.io/talk/2026-01-29-emergences/wooclap_4.png" width="80%" >}}
+
+---
+
+## Neurosciences and sparsity: a survey
+
+{{< figure src="https://laurentperrinet.github.io/talk/2026-01-29-emergences/wooclap_5.png" width="80%" >}}
 
 ---
 
