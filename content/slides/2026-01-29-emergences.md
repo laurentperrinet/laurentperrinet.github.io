@@ -45,6 +45,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 - Not only the speaker can read these notes, Press `S` key to view
 - more on [doc](https://raw.githubusercontent.com/wowchemy/starter-hugo-academic/master/exampleSite/content/slides/example/index.md)
 
+-   url?print-pdf http://localhost:8000/?print-pdf
 
 {{< /speaker_note >}}
 
@@ -78,6 +79,9 @@ Sparse coding is a technique used in signal processing and machine learning to r
 
 * Go to wooclap.com
 * Code HLEQUP
+
+{{< figure src="talk/2026-01-29-emergences/wooclap_5.png" width="80%" >}}
+
 * https://app.wooclap.com/HLEQUP?from=instruction-slide
 {{< speaker_note >}}
 
