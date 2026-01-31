@@ -105,7 +105,55 @@ One example of attention maps is shown in the figure above
 
 ## Learning where to look
 
-{{< video src="https://laurentperrinet.github.io/talk/2025-12-12-main/50_fixation_sequence.mp4"  title="Fixation sequence." numbered="false" autoplay="yes" >}}
+{{< figure src="https://laurentperrinet.github.io/talk/2025-12-12-main/where_1.jpg" width="60%" >}}
+
+{{< speaker_note >}}
+
+More generally, 
+
+{{< /speaker_note >}}
+
+---
+
+## Learning where to look
+
+{{< figure src="https://laurentperrinet.github.io/talk/2025-12-12-main/where_2.jpg" width="60%" >}}
+
+{{< speaker_note >}}
+
+More generally, 
+
+{{< /speaker_note >}}
+
+---
+
+## Learning where to look
+
+{{< figure src="https://laurentperrinet.github.io/talk/2025-12-12-main/where_3.jpg" width="60%" >}}
+
+{{< speaker_note >}}
+
+More generally, 
+
+{{< /speaker_note >}}
+
+---
+
+## Learning where to look
+
+{{< figure src="https://laurentperrinet.github.io/talk/2025-12-12-main/where_4.jpg" width="60%" >}}
+
+{{< speaker_note >}}
+
+More generally, 
+
+{{< /speaker_note >}}
+
+---
+
+## Learning where to look
+
+{{< figure src="https://laurentperrinet.github.io/talk/2025-12-12-main/where_5.jpg" width="60%" >}}
 
 {{< speaker_note >}}
 
