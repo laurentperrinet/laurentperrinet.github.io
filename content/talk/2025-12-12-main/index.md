@@ -47,6 +47,9 @@ links:
 #DeepLearning #ComputerVision #AI #Research #NeuralNetworks #NeuroAI #OpenScience I love #Montreal
 
 
+{{< video src="50_fixation_sequence.mp4"  title="Fixation sequence." numbered="false" autoplay="yes" >}}
+
+
 Media storm - share if you like :
 - https://neuromatch.social/@laurentperrinet/115712116667035852
 - https://www.linkedin.com/posts/laurent-perrinet-1857b9_main2025-convnets-deeplearning-activity-7405576210266890240-mOLV
