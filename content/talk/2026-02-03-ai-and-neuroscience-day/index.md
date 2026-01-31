@@ -1,0 +1,24 @@
+---
+title: Al for visual processing and energy-efficient algorithms
+authors:
+- Laurent U Perrinet
+date: '2026-02-03'
+publishDate: '2026-01-31T14:47:34.189424Z'
+publication_types:
+- paper-conference
+publication: '*AI and Neuroscience Day*'
+tags:
+- computational neuroscience
+- event-based vision
+- neuromorphic hardware
+- deep learning
+- computational neuroscience
+- neuroai
+- vision
+slides: 2026-02-03-ai-and-neuroscience-day
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2026-02-03-ai-and-neuroscience-day
+---
+
+* check out https://neuro-marseille.org/en/events/workshop-on-artificial-intelligence-in-neuroscience-projects-tools-and-perspectives/
