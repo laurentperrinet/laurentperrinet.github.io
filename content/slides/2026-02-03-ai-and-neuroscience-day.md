@@ -19,9 +19,9 @@ summary: Al for visual processing and energy-efficient algorithms.
 
 ---
 
-# [Al for visual processing and energy-efficient algorithms](https://laurentperrinet.github.io/slides/2026-02-03-ai-and-neuroscience-day/?transition=fade)
+# [Neuroscience & AI: Energy-efficient visual processing algorithms](https://laurentperrinet.github.io/slides/2026-02-03-ai-and-neuroscience-day/?transition=fade)
 ##	*[Laurent Perrinet](https://laurentperrinet.github.io/talk/2026-02-03-ai-and-neuroscience-day/)*
-###	<u>[*Neurosciences et IA / IA et Neurosciences* NeuroMarseille](https://neuro-marseille.org/en/events/workshop-on-artificial-intelligence-in-neuroscience-projects-tools-and-perspectives/)</u>
+###	<u>[Journée *Neurosciences et IA / IA et Neurosciences* de NeuroMarseille](https://neuro-marseille.org/en/events/workshop-on-artificial-intelligence-in-neuroscience-projects-tools-and-perspectives/)</u>
 ###	[2026-02-03]
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
@@ -93,7 +93,7 @@ For instance, we show how precise spike times may be used to detect the directio
 ## Attention in Vision Transformers and in Natural Vision
 
 
-{{< figure src="https://laurentperrinet.github.io/publication/dallain-26/saccade_selection.jpg" title="Saccade selection method." numbered="false" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/dallain-26/saccade_selection.jpg" title="Saccade selection method. [Matthis Dallain](https://laurentperrinet.github.io/author/matthis-dallain/) with the [EDGE Team @ LEAT Laboratory](https://leat.univ-cotedazur.fr/)" numbered="false" >}}
 
 {{< speaker_note >}}
 
@@ -105,7 +105,7 @@ One example of attention maps is shown in the figure above
 
 ## Learning where to look
 
-{{< figure src="https://laurentperrinet.github.io/talk/2025-12-12-main/where_1.jpg" width="60%" >}}
+{{< figure src="https://laurentperrinet.github.io/talk/2025-12-12-main/where_1.jpg" width="95%" >}}
 
 {{< speaker_note >}}
 
@@ -117,7 +117,7 @@ More generally,
 
 ## Learning where to look
 
-{{< figure src="https://laurentperrinet.github.io/talk/2025-12-12-main/where_2.jpg" width="60%" >}}
+{{< figure src="https://laurentperrinet.github.io/talk/2025-12-12-main/where_2.jpg" width="95%" >}}
 
 {{< speaker_note >}}
 
@@ -129,7 +129,7 @@ More generally,
 
 ## Learning where to look
 
-{{< figure src="https://laurentperrinet.github.io/talk/2025-12-12-main/where_3.jpg" width="60%" >}}
+{{< figure src="https://laurentperrinet.github.io/talk/2025-12-12-main/where_3.jpg" width="95%" >}}
 
 {{< speaker_note >}}
 
@@ -141,7 +141,7 @@ More generally,
 
 ## Learning where to look
 
-{{< figure src="https://laurentperrinet.github.io/talk/2025-12-12-main/where_4.jpg" width="60%" >}}
+{{< figure src="https://laurentperrinet.github.io/talk/2025-12-12-main/where_4.jpg" width="95%" >}}
 
 {{< speaker_note >}}
 
@@ -153,7 +153,7 @@ More generally,
 
 ## Learning where to look
 
-{{< figure src="https://laurentperrinet.github.io/talk/2025-12-12-main/where_5.jpg" width="60%" >}}
+{{< figure src="https://laurentperrinet.github.io/talk/2025-12-12-main/where_5.jpg" width="95%" >}}
 
 {{< speaker_note >}}
 
@@ -164,9 +164,9 @@ More generally,
 
 ---
 
-# [Al for visual processing and energy-efficient algorithms](https://laurentperrinet.github.io/slides/2026-02-03-ai-and-neuroscience-day/?transition=fade)
+# [Neuroscience & AI: Energy-efficient visual processing algorithms](https://laurentperrinet.github.io/slides/2026-02-03-ai-and-neuroscience-day/?transition=fade)
 ##	*[Laurent Perrinet](https://laurentperrinet.github.io/talk/2026-02-03-ai-and-neuroscience-day/)*
-###	<u>[*Neurosciences et IA / IA et Neurosciences* NeuroMarseille](https://neuro-marseille.org/en/events/workshop-on-artificial-intelligence-in-neuroscience-projects-tools-and-perspectives/)</u>
+###	<u>[Journée *Neurosciences et IA / IA et Neurosciences* de NeuroMarseille](https://neuro-marseille.org/en/events/workshop-on-artificial-intelligence-in-neuroscience-projects-tools-and-perspectives/)</u>
 ###	[2026-02-03]
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)

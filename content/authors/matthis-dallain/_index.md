@@ -32,7 +32,12 @@ user_groups:
  * a fellowship from the doctoreal school "Ecole Doctorale Sciences de la Vie et de la Santé, Aix Marseille Université"
  * Institut des Neurosciences de la Timone, Aix-Marseille Université / CNRS
  * Thesis co-direction: [Laurent Perrinet](https://laurentperrinet.github.io/author/laurent-u-perrinet/) and [Benoît Miramond](http://sites.unice.fr/site/bmiramond/Perso/)
- * he position will be located at the [EDGE Team @ LEAT Laboratory](https://leat.univ-cotedazur.fr/) within [Université Côte d'Azur](https://www.univ-cotedazur.fr/) and/or at the [INT](http://www.int.univ-amu.fr/?lang=en) in [Marseille](https://en.wikipedia.org/wiki/Marseille), France. 
+ * the position will be located at the [EDGE Team @ LEAT Laboratory](https://leat.univ-cotedazur.fr/) within [Université Côte d'Azur](https://www.univ-cotedazur.fr/) and/or at the [INT](http://www.int.univ-amu.fr/?lang=en) in [Marseille](https://en.wikipedia.org/wiki/Marseille), France. 
+
+## Publications
+
+* {{< cite page="/publication/dallain-26" view="4" >}}
+
 
 ## Context
 
