@@ -93,7 +93,7 @@ For instance, we show how precise spike times may be used to detect the directio
 ## Attention in Vision Transformers and in Natural Vision
 
 
-{{< figure src="https://laurentperrinet.github.io/publication/dallain-26/saccade_selection.jpg" title="Saccade selection method: (a.) The input image of dimensionH× Wis split intoH16×Wnsized patches and embeddedinto token vectors. (b.) The tokens are passed through the DINO transformer, and attention flow from patch tokens to [CLS]token (white arrows) are extracted and reshaped into one attention map per attention-head. (c.) The multiple attention maps arefused into one by taking the maximum value across heads. (d.) The highest-attention locations define square regions(“saccades”) whose tokens are retained. (e.) Selected regions are revealed sequentially, and the image variants are classified bya pre-trained linear head." numbered="false" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/dallain-26/saccade_selection.jpg" title="Saccade selection method." numbered="false" >}}
 
 {{< speaker_note >}}
 
@@ -104,8 +104,6 @@ One example of attention maps is shown in the figure above
 ---
 
 ## Learning where to look
-
-
 
 {{< video src="https://laurentperrinet.github.io/talk/2025-12-12-main/50_fixation_sequence.mp4"  title="Fixation sequence." numbered="false" autoplay="yes" >}}
 
