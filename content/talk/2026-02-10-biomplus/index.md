@@ -7,6 +7,7 @@ publishDate: '2026-01-26T11:48:02.451044Z'
 publication_types:
 - paper-conference
 publication: '*Séminaire en ligne biomimétisme et neurosciences*'
+slides: 2026-02-10-biomplus
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-02-10-biomplus
