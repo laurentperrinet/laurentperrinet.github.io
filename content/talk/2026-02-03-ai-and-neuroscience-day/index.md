@@ -22,3 +22,5 @@ links:
 ---
 
 * check out https://neuro-marseille.org/en/events/workshop-on-artificial-intelligence-in-neuroscience-projects-tools-and-perspectives/
+
+* program https://neuro-marseille.org/wp-content/uploads/2026/02/1-3-6.pdf

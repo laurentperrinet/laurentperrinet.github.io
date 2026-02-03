@@ -23,9 +23,17 @@ summary: Al for visual processing and energy-efficient algorithms.
 ##	*[Laurent Perrinet](https://laurentperrinet.github.io/talk/2026-02-03-ai-and-neuroscience-day/)*
 ###	<u>[Journée *Neurosciences et IA / IA et Neurosciences* de NeuroMarseille](https://neuro-marseille.org/en/events/workshop-on-artificial-intelligence-in-neuroscience-projects-tools-and-perspectives/)</u>
 ###	[2026-02-03]
-![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
-Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
+<table width="100%"> 
+<tr>
+	<th width="60%">
+	<img src="https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg" width="100%" >
+	<th width="30%">
+	<img src="https://conect-int.github.io/slides/conect/CONECT-logo.png" width="100%" >
+	</th>
+</tr>
+</table>
 
+Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 {{< speaker_note >}}
 - outline = 
@@ -98,6 +106,16 @@ For instance, we show how precise spike times may be used to detect the directio
 {{< speaker_note >}}
 
 One example of attention maps is shown in the figure above
+
+{{< /speaker_note >}}
+
+---
+
+{{< video src="http://laurentperrinet.github.io/talk/2025-12-12-main/50_fixation_sequence.mp4" width="75%" loop="yes" >}}
+
+{{< speaker_note >}}
+
+More generally, 
 
 {{< /speaker_note >}}
 
