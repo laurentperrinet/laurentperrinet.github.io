@@ -8,6 +8,8 @@ summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
 
+* "On n’est jamais plus esclave que quand on se croit libre sans l’être. / Celui qui ose se déclarer libre sent dans le moment même sa dépendance ; celui qui ne craint pas de se déclarer dépendant se sent libre. /Il n’y a pas d’autre moyen de se défendre contre la supériorité d’autrui que d’aimer." Goethe - Maximes et Réflexions, 1842
+
 * « Dis, Muse, le récit de l’homme aux mille ruses, / qui, après la perte de la cité de Troie, / a longtemps erré sur les flots, / subissant maintes épreuves et affrontant dieux, monstres et tempêtes, / et qui, désireux de regagner Ithaque, finit par triompher. » Homère 
 
 * « Qu’un pople toumbe esclau, /Se tèn sa lengo, tèn la clau / Que di cadeno lou deliéuro » Frédéric Mistral
