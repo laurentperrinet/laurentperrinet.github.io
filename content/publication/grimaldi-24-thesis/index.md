@@ -42,5 +42,5 @@ abstract: "Notre cerveau est extrêmement efficace pour résoudre des tâches vi
   réels."
 links:
 - name: URL
-  url: https://theses.fr/s380373
+  url: https://theses.fr/2024AIXM0117
 ---
