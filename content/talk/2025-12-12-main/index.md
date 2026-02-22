@@ -27,7 +27,7 @@ tags:
 - neuroai
 - vision
 links:  
-- name: URL
+- name: MAIN
   url: https://main2025.org
 - name: Slides
   url: https://laurentperrinet.github.io/2025-12-13_Perrinet-talk-MAIN2025
@@ -47,7 +47,6 @@ links:
 
 
 #DeepLearning #ComputerVision #AI #Research #NeuralNetworks #NeuroAI #OpenScience I love #Montreal
-
 
 {{< video src="50_fixation_sequence.mp4"  title="Fixation sequence." numbered="false" autoplay="yes" >}}
 
