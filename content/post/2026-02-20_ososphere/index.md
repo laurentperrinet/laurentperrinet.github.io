@@ -41,3 +41,6 @@ Sélection de réalisations: [Tropiques (2013) & Space Odyssey (2015-2024)](http
 * https://www.artefact.org/l-ososphere/evenements/du-20-fevrier-au-08-mars-2026-exposition-lososphere-a-la-laiterie-40-oeuvres-sur-3-lieux/
 * https://www.facebook.com/events/825214380564628/825892337163499/?active_tab=discussion
 * https://www.artefact.org/artiste/etienne-rey/
+* https://www.linkedin.com/posts/laurent-perrinet-1857b9_variable-density-s%C3%A9rie-delaunay-next-generation-activity-7434178139477524480-dSgU
+* https://neuromatch.social/@laurentperrinet/116159029094119255
+* https://bsky.app/profile/laurentperrinet.bsky.social/post/3mg2zbhi4bc2b
