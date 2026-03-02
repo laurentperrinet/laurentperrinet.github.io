@@ -8,7 +8,7 @@ lastmod: 2026-03-01 00:00:00
 projects:
 - art-science
 title: Variable Density, série Delaunay
-subtitle: "DU 20 FÉVRIER AU 08 MARS 2026 : EXPOSITION L’OSOSPHÈRE À LA LAITERIE"
+subtitle: "Du 20 février au 08 mars 2026 : exposition l’ososphère à la Laiterie (Strasbourg)."
 summary: "À la croisée des arts plastiques et de l'architecture, Etienne Rey explore les dimensions comme une matière première propice à la construction de formes évolutives. A travers ses œuvres où l'expérience est primordiale, Etienne Rey jongle avec les composantes de la lumière, de l'espace et pour certaines également du son. La démarche de ce sociétaire de l'Ososphère tend à révéler les mécanismes d'organisation, d'interrelation et d'interaction qui définissent notre monde."
 tags:
 - art-science
@@ -19,7 +19,7 @@ image:
   caption: "Etienne Rey, *Variable Density, série Delaunay."
 ---
 
-**DU 20 FÉVRIER AU 08 MARS 2026 : EXPOSITION L’OSOSPHÈRE À LA LAITERIE.***
+**Du 20 février au 08 mars 2026 : exposition l’ososphère à la Laiterie (Strasbourg).**
 
 
 À la croisée des arts plastiques et de l'architecture, Etienne Rey explore les dimensions comme une matière première propice à la construction de formes évolutives. A travers ses œuvres où l'expérience est primordiale, Etienne Rey jongle avec les composantes de la lumière, de l'espace et pour certaines également du son. La démarche de ce sociétaire de l'Ososphère tend à révéler les mécanismes d'organisation, d'interrelation et d'interaction qui définissent notre monde.
@@ -33,11 +33,11 @@ Sélection de réalisations: [Tropiques (2013) & Space Odyssey (2015-2024)](http
 
 {{< figure src="643545855_18444436261109562_1480440487903792518_n.jpg" title="Etienne Rey, *Variable Density, série Delaunay* . Image credit: Etienne Rey" >}}
 {{< figure src="642495844_18444436183109562_654533462198023062_n.jpg" title="Etienne Rey, *Variable Density, série Delaunay* . Image credit: Etienne Rey" >}}
-{{< figure src="641768374_18444436231109562_7601748313863839212_n.jpg" title="Etienne Rey, *Variable Density, série Delaunay* . Image credit: Etienne Rey" >}}
+{{< figure src="featured.jpg" title="Etienne Rey, *Variable Density, série Delaunay* . Image credit: Etienne Rey" >}}
 
 ### autres liens
 
-* https://www.instagram.com/p/DVTh_n3DI-A/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+* https://www.instagram.com/p/DVTh_n3DI-A
 * https://www.artefact.org/l-ososphere/evenements/du-20-fevrier-au-08-mars-2026-exposition-lososphere-a-la-laiterie-40-oeuvres-sur-3-lieux/
 * https://www.facebook.com/events/825214380564628/825892337163499/?active_tab=discussion
 * https://www.artefact.org/artiste/etienne-rey/
