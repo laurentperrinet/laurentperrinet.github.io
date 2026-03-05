@@ -74,6 +74,19 @@ First: What is the function of vision?
 
 ## What is the function of vision?
 
+{{< video src="http://laurentperrinet.github.io/talk/2025-12-12-main/50_fixation_sequence.mp4" width="75%" loop="yes" >}}
+
+{{< speaker_note >}}
+
+More generally, 
+
+{{< /speaker_note >}}
+
+---
+
+## What is the function of vision?
+
+
 {{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_001.jpg" title="[An Unexpected Visitor (Ilya Repin, 1884)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
 
 
@@ -293,6 +306,29 @@ First: What is the function of vision?
 {{< /speaker_note >}}
 
 
+</section>
+
+---
+
+<section>
+
+
+# Principles of Vision
+
+{{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
+
+{{< speaker_note >}}
+- cut in different levels: Marr (+ Poggio)
+- arbitrary, but useful division of labor= computational / algorithm / hardware
+
+- here:
+  - dynamics (computational)
+  - CNNs (hardware)
+  - spiking (algorithm)
+  
+First: What is the function of vision?
+{{< /speaker_note >}}
+
 ---
 
 ## Convolutional Neural Nets (CNN)
@@ -315,7 +351,6 @@ First: What is the function of vision?
 - sota...
 {{< /speaker_note >}}
 
-<!-- 
 
 ---
 
@@ -408,7 +443,6 @@ $$
 - sota
 {{< /speaker_note >}}
 
--->
 
 
 ---
@@ -423,6 +457,29 @@ $$
 {{< /speaker_note >}}
 
 
+
+</section>
+
+---
+
+<section>
+
+
+# Principles of Vision
+
+{{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
+
+{{< speaker_note >}}
+- cut in different levels: Marr (+ Poggio)
+- arbitrary, but useful division of labor= computational / algorithm / hardware
+
+- here:
+  - dynamics (computational)
+  - CNNs (hardware)
+  - spiking (algorithm)
+  
+First: What is the function of vision?
+{{< /speaker_note >}}
 
 ---
 
@@ -593,7 +650,6 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 {{< /speaker_note >}}
 
 </section> 
--->
 
 ---
 
@@ -800,6 +856,7 @@ For instance, we show how precise spike times may be used to detect the directio
 
 
 </section>
+-->
 
 ---
 
