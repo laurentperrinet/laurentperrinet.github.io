@@ -179,12 +179,6 @@ More generally,
 
 ---
 
-## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
-
-{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg" title="[Rotating Snakes *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)" width="70%" >}}
-
----
-
 ## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Face-on-mars.jpg" title="[Cydonia Mensae (1976) *Viking Orbiter image*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
@@ -306,6 +300,16 @@ More generally,
 {{< /speaker_note >}}
 
 
+---
+
+# Principles of vision?
+
+{{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
+
+{{< speaker_note >}}
+- we know more about the function...
+{{< /speaker_note >}}
+
 </section>
 
 ---
@@ -313,7 +317,7 @@ More generally,
 <section>
 
 
-# Principles of Vision
+# Convolutional Neural Nets (CNN)
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
@@ -522,6 +526,12 @@ First: What is the function of vision?
 - result= bio-mimetism
 {{< /speaker_note >}}
 
+</section>
+
+
+<!-- 
+
+
 ---
 
 # Computational neuroscience of vision
@@ -531,12 +541,6 @@ First: What is the function of vision?
 {{< speaker_note >}}
 - neuroAI
 {{< /speaker_note >}}
-
-</section>
-
-
-<!-- 
-
 ---
 
 <section>
