@@ -74,8 +74,7 @@ First: What is the function of vision?
 
 ## What is the function of vision?
 
-{{< video src="http://laurentperrinet.github.io/talk/2025-12-12-main/50_fixation_sequence.mp4" width="75%" loop="yes" >}}
-
+{{< video src="http://laurentperrinet.github.io/talk/2025-12-12-main/50_fixation_sequence.mp4" loop="yes"  title="[An Unexpected Visitor (Ilya Repin, 1884)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
 {{< speaker_note >}}
 
 More generally, 
