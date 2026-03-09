@@ -2,7 +2,7 @@
 authors:
 - angelo-franciosini
 title: Angelo Franciosini
-bio: Phd candidate in Computational Neuroscience
+bio: Phd in Computational Neuroscience
 role: Biomedical Engineer @ Avicenna.AI.
 education:
   courses:

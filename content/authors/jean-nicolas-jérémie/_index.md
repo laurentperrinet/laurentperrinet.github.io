@@ -2,12 +2,12 @@
 authors:
 - jean-nicolas-jeremie
 title: Jean-Nicolas Jérémie
-role: Phd candidate in Computational Neuroscience
+role: Phd in Computational Neuroscience
 bio: During my PhD, I was focusing on ultra-fast processing using convolutional neural networks.
 
 education:
   courses:
-  - course: Phd candidate in Computational Neuroscience
+  - course: Phd in Computational Neuroscience
     institution: Aix-Marseille Université
     year: 2025
   - course: Master in Neuroscience
