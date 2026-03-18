@@ -19,18 +19,18 @@ tags:
 
 We are recruiting a PhD student to work on **neuromodulatory control of predictive processing in mouse vision**, co-supervised by [Ede Rancz](https://bsky.app/profile/did:plc:kgbpgmybkvnarzamc2g55xpg) (INMED) and myself.
 
-## Project Overview
+### Project Overview
 This **CENTURI** project combines:
 - Computational modeling (spiking and normative models)
 - In vivo electrophysiology, imaging, behavior, and optogenetics
 - Investigation of how serotonin and noradrenaline shape prediction error signaling during sensory-motor mismatch
 
-## Candidate Profile
+### Candidate Profile
 - Motivated individual with a background in neuroscience or computational sciences
 - Experience in either experimental in vivo work or modeling (Python, neural networks)
 - Interest in working at the interface of theory and biology
 
-## Application Details
+### Application Details
 📄 [Full project description](https://centuri-livingsystems.org/wp-content/uploads/2025/11/PHD2026_19_RANCZ_PERRINETpub.pdf)
 📬 [Application form](https://centuri-livingsystems.org/application-form-phd2026-19/)
 :rainbow_heart:  We welcome applicants from all backgrounds and celebrate diversity and free creative thinking in our research environment. 

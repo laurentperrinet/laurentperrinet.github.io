@@ -16,6 +16,9 @@ tags:
 - Artificial Saccades
 - Image Classification
 - Energy-efficient Computer Vision
+- name: arXiv
+  url: http://arxiv.org/abs/2603.09613
+
 ---
 
 
