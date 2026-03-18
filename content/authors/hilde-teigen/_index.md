@@ -8,6 +8,9 @@ social:
 - icon: house-user
   icon_pack: fas
   link: https://centuri-livingsystems.org/h-l-teigen/
+- icon: house-user
+  icon_pack: fas
+  link: https://www.hf.uio.no/ifikk/english/people/aca/philosophy/temporary/hildelt/
 superuser: false
 user_groups:
 - Former Students

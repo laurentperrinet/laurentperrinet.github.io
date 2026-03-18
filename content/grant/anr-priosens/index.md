@@ -6,7 +6,7 @@ authors:
 - laurent-u-perrinet
 tags:
 - grant
-- current-grant
+- past-grant
 title: ANR PRIOSENS (2021/2025)
 ---
 

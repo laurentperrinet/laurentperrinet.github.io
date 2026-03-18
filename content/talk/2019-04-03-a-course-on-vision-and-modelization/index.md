@@ -33,3 +33,5 @@ publication_types:
 - inproceedings
 title: 'From the retina to action: Understanding visual processing'
 ---
+
+Cours de Licence Sciences & Humanité, 3/4/2019
