@@ -31,6 +31,22 @@ The [*Emergences* project](https://emergences.lirmm.fr/) aims at advancing the s
 * Co-Pilote: Gilles Sassatelli, CNRS, Research Director
 
 
+## Latest news
+
+- 2026-01-29 : talk at the PEPR AI meeting {{< cite page="/talk/2026-01-29-emergences" view="4" >}}
+
+- 2025-03-18: PEPR IA Days du 18 au 20 mars à CentraleSupélec.
+
+- 2024-09-26: 2nd workshop meeting in Paris.
+
+- 2024-05-03 : we are hiring ! {{< cite page="/post/2024-05-03_phd-position_focus-of-attention" view="4" >}}
+
+- 2024-03-27 : talk at the PEPR AI meeting {{< cite page="/talk/2024-03-27-emergences" view="4" >}}
+
+- 2023-10-05: Kick-off meeting!
+
+{{< figure src="2024-09-26_paris.png" numbered="false" >}}
+
 ## Description of the "*Emergences*" project
 
 Contemporary machine learning (ML) has incurred profound changes in the scientific, societal and economic landscapes alike. After a decade of sustained progress AI as a discipline is still making regular breakthroughs on many fronts, at the expense of an ever-increasing amount of consumption of compute resources. Modern language models feature hundreds of billion parameters and training energy consumption alone likely falls in the GWh range, with a logical forecast worsening the already prohibitive carbon footprint of AI.
@@ -72,22 +88,6 @@ Toutes ces investigations sont menées dans un cadre d’expérimentations basé
 
 {{< figure src="logo_PEPR-IA.png" numbered="false" >}}
 
-## Latest news
-
-- 2026-01-29 : talk at the PEPR AI meeting {{< cite page="/talk/2026-01-29-emergences" view="4" >}}
-
-- 2025-03-18: PEPR IA Days du 18 au 20 mars à CentraleSupélec.
-
-- 2024-09-26: 2nd workshop meeting in Paris.
-
-- 2024-05-03 : we are hiring ! {{< cite page="/post/2024-05-03_phd-position_focus-of-attention" view="4" >}}
-
-- 2024-03-27 : talk at the PEPR AI meeting {{< cite page="/talk/2024-03-27-emergences" view="4" >}}
-
-- 2023-10-05: Kick-off meeting!
-
-
-{{< figure src="2024-09-26_paris.png" numbered="false" >}}
 
 
 ![Funded by...](ackno.jpg)
