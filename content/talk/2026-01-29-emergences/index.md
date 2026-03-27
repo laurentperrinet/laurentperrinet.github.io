@@ -11,6 +11,8 @@ publication_types:
 - paper-conference
 publication: "*Séminaire au colloque du PEPR AI ``Emergences'' 2026*"
 slides: 2026-01-29-emergences
+tags:
+- emergences
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-01-29-emergences

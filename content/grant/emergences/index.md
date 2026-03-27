@@ -50,6 +50,13 @@ The *Emergences* project aims at advancing the state-of-the art on near-physics 
 
 {{< figure src="carte_partenaire.jpg" title="Carte des partenaires du projet Emergences." numbered="false" >}}
 
+{{% callout note %}}
+L'intelligence artificielle induit des changements profonds dans les paysages scientifiques, économiques, politiques et sociétaux contemporains. Une décennie après sa « renaissance », l'apprentissage automatique continue à réaliser des avancées sur de nombreux fronts, au prix cependant d'une boulimie de ressources informatiques induisant une consommation électrique préoccupante. Les modèles de langage actuels comportent quelques centaines de milliards de paramètres et consomment pour leur entraînement seul plusieurs GWh, ce qui aujourd'hui motive la recherche d'approches (de rupture) plus sobres.
+En plus des diverses initiatives visant à développer des composants et systèmes numériques pensés pour l'IA et dotés d'une meilleure efficacité énergétique, des approches disruptives en IA doivent être développées pour viser des gains énergétiques encore plus importants. Cette évolution passera par l'utilisation de modèles différents de ceux utilisés traditionnellement en apprentissage et présentant des propriétés proches des comportements de composants physiques, en facilitant par là-même l'implantation.
+Le projet Emergences fait avancer l'état de l'art sur les modèles émergents proches de la physique en explorant de manière collaborative divers modèles de calcul en utilisant les propriétés de différents dispositifs physiques. Les efforts concentrés sur trois fronts distincts : i) les modèles événementiels bio-inspirés pour lesquels des avancées sont réalisées sur la compréhension du fonctionnement de ces modèles et leur optimisation notamment dans le cas d’implémentation sur semiconducteurs (FPGA et ASIC) mais aussi de lois d’apprentissage émergentes (Sparse Forward forward) ou encore sur la parcimonie des données ii) les modèles inspirés de la physique pour lesquelles des premières propositions concrètes de solutions permettant de réaliser des circuits émergent (création d’un testchip, modèles stochastiques, apprentissage continu bayésien, accélération matériel de couches MHA, entre autres) et enfin iii) les solutions d'apprentissage automatique innovantes proches de la physique, avec des propositions d’implémentation d’apprentissage on-chip pour des composants émergents (apprentissage forward-only sur réseaux memristifs, apprentissage multimodal et incrémental). 
+Toutes ces investigations sont menées dans un cadre d’expérimentations basés sur des jeu de données et indicateurs de performances décidés communément, et un effort très significatif à l’endroit de la soutenabilité est réalisé avec une méthodologie d’évaluation de l’empreinte environnementale en cours de mise en place. Ainsi Emergences vise à proposer un cadre de travail pour qualifier ses propositions, face à l’état de l’art académique et industriel dans le domaine de l’IA à la périphérie (Edge AI) qui nous sert de référentiel d’analyse.
+{{% /callout %}}
+
 
 ## Key figures
 
@@ -67,8 +74,20 @@ The *Emergences* project aims at advancing the state-of-the art on near-physics 
 
 ## Latest news
 
+- 2026-01-29 : talk at the PEPR AI meeting {{< cite page="/talk/2026-01-29-emergences" view="4" >}}
+
+- 2025-03-18: PEPR IA Days du 18 au 20 mars à CentraleSupélec.
+
 - 2024-09-26: 2nd workshop meeting in Paris.
 
+- 2024-05-03 : we are hiring ! {{< cite page="/post/2024-05-03_phd-position_focus-of-attention" view="4" >}}
+
+- 2024-03-27 : talk at the PEPR AI meeting {{< cite page="/talk/2024-03-27-emergences" view="4" >}}
+
 - 2023-10-05: Kick-off meeting!
+
+
+{{< figure src="2024-09-26_paris.png" numbered="false" >}}
+
 
 ![Funded by...](ackno.jpg)
