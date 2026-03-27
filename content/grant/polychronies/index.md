@@ -14,7 +14,7 @@ image:
 tags:
 - polychronies
 - grant
-- current-grant
+- past-grant
 title: Polychronies (2022 / 2025)
 ---
 

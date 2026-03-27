@@ -8,7 +8,7 @@ authors:
 - laurent-madelain
 tags:
 - grant
-- current-grant
+- past-grant
 title: ANR ACES (2022/2026)
 ---
 

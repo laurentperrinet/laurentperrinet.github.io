@@ -11,7 +11,7 @@ authors:
 
 tags:
 - grant
-- current-grant
+- past-grant
 
 title: ANR AgileNeuRobot (2021/2025)
 
