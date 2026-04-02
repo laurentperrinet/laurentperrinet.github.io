@@ -20,3 +20,6 @@ social:
   link: https://scholar.google.com/citations?user=ZbJ97FAAAAAJ
 
 ---
+
+
+Main publication: {{< cite page="/publication/sanz-12" view="4" >}}
