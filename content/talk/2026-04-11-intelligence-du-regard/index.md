@@ -16,6 +16,9 @@ abstract: "La vision reste un paradoxe : comment un processus aussi complexe qu�
   jusqu'à l’art contemporain. Grâce à ma collaboration avec l’artiste plasticien Étienne
   Rey, je montrerai comment ces créations deviennent des outils pour décrypter certains
   mécanismes cachés de la vision — à l’heure où l’IA interroge notre rapport au réel."
+
+slides: 2026-04-11-intelligence-du-regard
+
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-04-11-intelligence-du-regard
