@@ -165,8 +165,8 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 ## Comment rassemnbler les pièces du puzzle ?
 
-<!-- 
-{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_high.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}} -->
+{{< figure src="https://laurentperrinet.github.io/post/2026-02-20_ososphere/643545855_18444436261109562_1480440487903792518_n.jpg" title="[Etienne Rey (2025) *Variable Density, série Delaunay *](https://laurentperrinet.github.io/post/2026-02-20_ososphere/)" width="50%" >}} 
+
 
 {{< speaker_note >}}
 
