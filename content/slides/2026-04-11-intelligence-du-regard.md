@@ -95,17 +95,6 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 {{< /speaker_note >}}
 
----
-
-
-## [Illusions visuelles](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
-
-{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg" title="[Rotating Snakes *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)" width="70%" >}}
-
-{{< speaker_note >}}
-- Visual illusions are a great way to understand the constraints of vision
-- notce that here the illusion depend on your eye movements
-{{< /speaker_note >}}
 
 ---
 
@@ -172,23 +161,23 @@ https://github.com/NaturalPatterns/2013_Tropique
 - ... it's just a rock
 {{< /speaker_note >}}
 
+---
+
+## Comment rassemnbler les pièces du puzzle ?
+
+<!-- 
+{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_high.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}} -->
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
 </section>
 
 ---
 
 <section>
 
-
-## À quoi sert la vision ?
-
-{{< video src="http://laurentperrinet.github.io/talk/2025-12-12-main/50_fixation_sequence.mp4" loop="yes" width="45%" >}}
-{{< speaker_note >}}
-
-More generally, 
-
-{{< /speaker_note >}}
-
----
 
 ## À quoi sert la vision ?
 
@@ -238,20 +227,48 @@ More generally,
 - active: depends on task
 {{< /speaker_note >}}
 
+---
+
+## À quoi sert la vision ?
+
+{{< video src="http://laurentperrinet.github.io/talk/2025-12-12-main/50_fixation_sequence.mp4" loop="yes" width="45%" >}}
+{{< speaker_note >}}
+
+
+
+{{< /speaker_note >}}
+
+---
+
+## [Illusions visuelles](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
+
+{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg" title="[Rotating Snakes *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)" width="70%" >}}
+
+{{< speaker_note >}}
+- Visual illusions are a great way to understand the constraints of vision
+- notce that here the illusion depend on your eye movements
+{{< /speaker_note >}}
+
+
+---
+
+## Caustiques
+
+{{< video src="https://github.com/NaturalPatterns/2020_caustiques/raw/main/iridiscence.mp4" controls="yes" repeat="yes" height="420" >}}
+
+
 </section>
 
 ---
 
 <section>
 
+## Art & Sciences révèlent la vision en action 
 
 {{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Etienne Rey, SPECTRE AUDIOGRAPHIQUE – DIFFRACTION](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="100%" >}}
 
 
 {{< speaker_note >}}
-
-
-/Users/laurentperrinet/sdrive_cnrs/blog/laurentperrinet.github.io_hugo/content/talk/2010-04-14-ondes-paralleles/index.md
 
 
 {{< /speaker_note >}}
@@ -298,7 +315,10 @@ More generally,
 
 {{< speaker_note >}}
 
-
+DIMENSIONS : 3 M DE HAUT 5 M DE LARGE
+INOX POLI MIROIR / ALUMINIUM / ACIER / MOTEURS / PROGRAMME TEMPS RÉEL
+À la Fondation Vasarely à Aix-en-Provence, Etienne Rey a choisi d’installer dans la salle des Intégrations architectoniques un ballet visuel hypnotique.
+Composé d’une succession de lames de miroirs, verticales et rotatives, l’installation Trame se joue des reflets et de la démultiplication de l’espace, offrant au spectateur une multiplicité de points de vue dans lesquels il peut se perdre à loisir. Par un effet de « porosité » recherché par l’artiste, le dispositif dialogue intensément avec les Intégrations.
 {{< /speaker_note >}}
 
 
@@ -307,68 +327,6 @@ More generally,
 ## TRAME ÉLASTICITÉ
 
 <iframe src="https://player.vimeo.com/video/198189587" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-
-</section>
-
----
-
-<section>
-
-
-## De la nature des choses
-
-
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/90/Phyllotaxis_golden_angle.svg"  title="[Phyllotaxie](https://fr.wikipedia.org/wiki/Phyllotaxie)" width="50%" >}}
-
-Par <a href="//commons.wikimedia.org/wiki/User:Cmglee" title="User:Cmglee">Cmglee</a> — <span class="int-own-work" lang="fr">Travail personnel</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=146404567">Lien</a>
-
-
-{{< speaker_note >}}
-
-
-{{< /speaker_note >}}
-
----
-<!-- 
-## De la nature des choses
-
-
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c3/NGC_4414_%28NASA-med%29.jpg"  title="[NGC 4414](https://fr.wikipedia.org/wiki/Galaxie_spirale)" width="100%" >}} -->
-
-{{< slide background-image="https://upload.wikimedia.org/wikipedia/commons/c/c3/NGC_4414_%28NASA-med%29.jpg" >}}
-
-{{< speaker_note >}}
-
-
-{{< /speaker_note >}}
-
-
----
-
-{{< figure src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/featured.png"  title="[Etienne Rey, Densité flou](https://laurentperrinet.github.io/post/2019-06-22_ardemone/)" width="100%" >}}
-
-{{< speaker_note >}}
-
-
-{{< /speaker_note >}}
-
----
-
-{{< figure src="https://laurentperrinet.github.io/post/2021-10-04_interstices/featured.jpg"  title="[Etienne Rey, Horizon Faille](https://laurentperrinet.github.io/post/2021-10-04_interstices/)" width="100%" >}}
-
-{{< speaker_note >}}
-
-{{< /speaker_note >}}
-
-
-
----
-
-## Caustiques
-
-{{< video src="https://github.com/NaturalPatterns/2020_caustiques/raw/main/iridiscence.mp4" controls="yes" repeat="yes" height="420" >}}
-
 
 
 </section>
@@ -388,6 +346,16 @@ Par <a href="//commons.wikimedia.org/wiki/User:Cmglee" title="User:Cmglee">Cmgle
 
 ---
 
+## La vision en action
+
+{{< video src="https://laurentperrinet.github.io/sciblog/files/2025-04-24-orienting-yourself-in-the-visual-flow.mp4" controls="yes" height="420" >}} 
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+
+---
 
 ## La vibration des apparences
 
@@ -489,8 +457,14 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 
 ## La vision en action
 
-{{< figure src="https://laurentperrinet.github.io/authors/ede-rancz/rancz_lite.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/authors/ede-rancz/)" height="80%" >}}
+{{< video src="https://laurentperrinet.github.io/sciblog/files/2025-04-24-orienting-yourself-in-the-visual-flow-perturb.mp4" controls="yes" height="420" >}} 
 
+
+---
+
+## La vision en action
+
+{{< figure src="https://laurentperrinet.github.io/authors/ede-rancz/rancz_lite.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/authors/ede-rancz/)" height="80%" >}}
 
 
 ---
