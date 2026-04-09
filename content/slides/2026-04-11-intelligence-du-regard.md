@@ -51,7 +51,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 ## "L'irraisonnable efficacité de la vision"
 
-{{< figure src="https://images.theconversation.com/files/568221/original/file-20240108-17-78s0cj.png" title="Comment la vision a évolué... [[Perrinet, 2024]](https://theconversation.com/chats-mouches-humains-comment-la-vision-a-evolue-en-de-multiples-facettes-220083) " width="100%" >}}
+{{< figure src="https://images.theconversation.com/files/568221/original/file-20240108-17-78s0cj.png" title="Comment la vision a évolué... [[LP, 2024, The Conversation]](https://theconversation.com/chats-mouches-humains-comment-la-vision-a-evolue-en-de-multiples-facettes-220083) " width="100%" >}}
 
 
 {{< speaker_note >}}
@@ -213,7 +213,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 ## Art & Sciences 
 
 {{% fragment %}} 
-{{< figure src="https://laurentperrinet.github.io/author/etienne-rey/avatar_hu5659200743397184484.jpg" title="[Etienne Rey](https://laurentperrinet.github.io/author/etienne-rey/)" width="50%" >}}
+{{< figure src="https://laurentperrinet.github.io/author/etienne-rey/avatar.jpg" title="[Etienne Rey](https://laurentperrinet.github.io/author/etienne-rey/)" width="50%" >}}
  {{% /fragment %}}
 
 
@@ -418,44 +418,27 @@ Par <a href="//commons.wikimedia.org/wiki/User:Cmglee" title="User:Cmglee">Cmgle
 ---
 
 ```python
-N_rho, N_phi = 34, 233
-
-def retino_grid(cr, N_rho, N_phi, N_H, N_V, offset, size_mag, 
-                ecc_max, alpha, c1, c2, power, operator, 
-                channel='both'):
-
-    cr.scale(N_H, N_V)
-    cr.set_operator(operator)
-
+def retino_grid(cr, N_rho=34, N_phi=233, N_H, N_V, offset, size_mag, ecc_max, alpha, c1, c2, power):
     # https://laurentperrinet.github.io/sciblog/posts/2020-04-16-creating-an-hexagonal-grid.html
     phi_v, rho_v = np.meshgrid(np.linspace(0, 2*np.pi, N_phi, endpoint=False), 
                                np.linspace(0, ecc_max, N_rho+1, endpoint=True)[1:], sparse=False, indexing='xy')    
     phi_v[::2, :] += np.pi/N_phi
 
-    offsets = [-offset, offset]
-    colors = [c1, c2]
-
+    offsets, colors = [-offset, offset], [c1, c2]
     for offset_, color in zip(offsets, colors):
         # convert to cartesian coordinates
-        X =  rho_v * np.sin(phi_v) + offset_
-        Y =  rho_v * np.cos(phi_v)
-        X = (X+1)/2
-        Y = (Y+1)/2
+        X, Y = (rho_v * np.sin(phi_v) + offset_+1)/2, (rho_v * np.cos(phi_v)+1)/2
         R = size_mag * rho_v**power / N_rho
 
-        # draw 
         for x, y, r in zip(X.ravel(), Y.ravel(), R.ravel()):
             circle(cr, x, y, r)
             cr.set_source_rgba(*hue_to_rgba(color, alpha))
             cr.fill()
 
     return cr
-
-c_blue = 240
-dc = 60
+c_blue, dc = 240, 60
 opts = dict(N_rho=N_rho, N_phi=N_phi, N_H=N_H, N_V=N_V,
             offset=0.07, size_mag=0.3, ecc_max=0.8, alpha=0.80, c1=c_blue-dc, c2=c_blue+dc, power=.5, operator=cairo.OPERATOR_MULTIPLY)
-
 @disp
 def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)    
 ```
@@ -474,18 +457,13 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 
 {{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png"  title="[Etienne Rey, La vibration des apparences](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)" height="80%" >}}
 
-
 ---
+
 {{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2025-01-18_la-vibration-des-apparences.mp4" type="video/mp4" controls="yes" height="80%" >}}
 
-
 ---
 
-## La vibration des apparences
-
-<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/3Xf3W4?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
-
-</section>
+{{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png"  title="[Etienne Rey, La vibration des apparences](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)" height="80%" >}}
 
 ---
 

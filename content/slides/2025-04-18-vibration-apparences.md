@@ -215,7 +215,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 ## Art & Sciences 
 
 {{% fragment %}} 
-{{< figure src="https://laurentperrinet.github.io/author/etienne-rey/avatar_hu5659200743397184484.jpg" title="[Etienne Rey](https://laurentperrinet.github.io/author/etienne-rey/)" width="50%" >}}
+{{< figure src="https://laurentperrinet.github.io/author/etienne-rey/avatar.jpg" title="[Etienne Rey](https://laurentperrinet.github.io/author/etienne-rey/)" width="50%" >}}
  {{% /fragment %}}
 
 

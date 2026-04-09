@@ -261,7 +261,7 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 
 # Representing uncertainty
 
-{{< figure src="https://laurentperrinet.github.io/publication/ladret-23/featured_hubbf63d8d7d25b21f139c2f10354080fc_466086_720x2500_fit_q75_h2_lanczos_3.webp" title="Visual epistemic uncertainty ([Hugo Ladret](https://laurentperrinet.github.io/publication/ladret-23/))." width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/ladret-23/featured.png" title="Visual epistemic uncertainty ([Hugo Ladret](https://laurentperrinet.github.io/publication/ladret-23/))." width="80%" >}}
 
 
 {{< speaker_note >}}
