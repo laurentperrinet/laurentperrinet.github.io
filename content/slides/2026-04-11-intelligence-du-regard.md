@@ -48,10 +48,45 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 <section>
 
+## Art & Sciences révèlent la diversité de notre vision
+
+{{% fragment %}} 
+{{< figure src="https://laurentperrinet.github.io/author/etienne-rey/avatar.jpg" title="[Etienne Rey](https://laurentperrinet.github.io/author/etienne-rey/)" width="50%" >}}
+{{% /fragment %}}
+
+{{< speaker_note >}}
+
+https://github.com/NaturalPatterns/2013_Tropique
+
+{{< /speaker_note >}}
+
+---
 
 ## "L'irraisonnable efficacité de la vision"
 
 {{< figure src="https://images.theconversation.com/files/568221/original/file-20240108-17-78s0cj.png" title="Comment la vision a évolué... [[LP, 2024, The Conversation]](https://theconversation.com/chats-mouches-humains-comment-la-vision-a-evolue-en-de-multiples-facettes-220083) " width="100%" >}}
+
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+---
+
+## "L'irraisonnable efficacité de la vision"
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/5/5b/18_PanneauDesLions%28PartieDroite%29BisonsPoursuivisParDesLions.jpg" title="Panneau Des Lions [[Grotte chauvet, -30 kA]](https://fr.wikipedia.org/wiki/Grotte_Chauvet)" width="100%" >}}
+
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+---
+
+## "L'irraisonnable efficacité de la vision"
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/5/5b/18_PanneauDesLions%28PartieDroite%29BisonsPoursuivisParDesLions.jpg" title="Panneau Des Lions [[Grotte chauvet, -30 kA]](https://fr.wikipedia.org/wiki/Grotte_Chauvet)" width="100%" >}}
 
 
 {{< speaker_note >}}
@@ -73,7 +108,6 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 ---
 
 ## [Illusions visuelles](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
-
 
 {{< video src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Kitaoka.mp4" controls="yes" width="80%" >}}
 [Ilusions of brightness or lightness *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)
@@ -143,64 +177,63 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 <section>
 
 
-## Neurosciences computationnelles de la vision
+## À quoi sert la vision ?
 
-
-{{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Churchland92.png" title="[[Sejnowski, Koch & Churchland (1998)](http://www.hms.harvard.edu/bss/neuro/bornlab/nb204/papers/sejnowski-koch-churchland-science1988.pdf)]" width="50%" >}}
-
+{{< video src="http://laurentperrinet.github.io/talk/2025-12-12-main/50_fixation_sequence.mp4" loop="yes" width="45%" >}}
 {{< speaker_note >}}
 
+More generally, 
 
-- Les neurosciences computationnelles sont les sciences qui essaient d’extraire de nos connaissances en neurosciences biologiques des principes computationnels, comme le neurone formel et sa capacité d’apprentissage, qui est la brique de base des réseaux de neurones. Ces derniers ont conduit à la révolution de l’IA avec les réseaux profonds.
-
-
-- it's a multi-scale, complex model...
-- perhaps we will never be able to comprehend it in full
-- words are not precise enough, let's use mathematics and models to describe this system
 {{< /speaker_note >}}
 
 ---
 
-## Anatomie du système visuel humain
+## À quoi sert la vision ?
 
 
-{{< figure src="https://www.readkong.com/static/06/b0/06b09f0235ae7fcf29438ce317c10e60/optogenetic-visual-cortical-prosthesis-9612386-7.jpg" width="61%" >}}
+{{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_001.jpg" title="[An Unexpected Visitor (Ilya Repin, 1884)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
+
 
 {{< speaker_note >}}
-- let's start with the anatomy
+- seeing= interacting with the visual world
+- social animals: looking at emotions
 {{< /speaker_note >}}
+
 
 ---
 
-## Cortex visuel primaire
+## À quoi sert la vision ?
 
-{{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/scientists.jpg" title="[Hubel & Wiesel, 1962]" width="80%" >}}
+{{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_002.jpg" title="[An Unexpected Visitor (Yarbus, 1965)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
 
 {{< speaker_note >}}
-- let's zoom in, the basic ingredient is the receptive field
+- active: the eye is always moving
+- https://fr.wikipedia.org/wiki/Alfred_Iarbous
+- consistency of eye traces
 {{< /speaker_note >}}
+
 
 ---
 
-## Cortex visuel primaire
+## À quoi sert la vision ?
 
-{{< video src="https://raw.githubusercontent.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/master/figures/ComplexDirSelCortCell250_title.mp4" controls="yes" width="100%" >}}
+{{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_003.jpg" title="[An Unexpected Visitor - *Age?* (Yarbus, 1965)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
 
-[Hubel & Wiesel, 1962]
 
 {{< speaker_note >}}
-- a single neuron is selective to some visual features...
+- social animals: looking at emotions
 {{< /speaker_note >}}
+
 
 ---
 
-## Modèles hybrides d'IA
+## À quoi sert la vision ?
 
-{{< figure src="https://knu-brainai.github.io/images/cnn.png" title="Using goal-driven deep learning models to understand sensory cortex [Yamins & DiCarlo, 2016] "  width="70%" >}}
+{{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_006.jpg" title="[An Unexpected Visitor - *How long?* (Yarbus, 1965)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
+
 
 {{< speaker_note >}}
-- a single neuron is selective to some visual features...
-
+- active: depends on task
 {{< /speaker_note >}}
 
 </section>
@@ -209,22 +242,6 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 <section>
 
-
-## Art & Sciences 
-
-{{% fragment %}} 
-{{< figure src="https://laurentperrinet.github.io/author/etienne-rey/avatar.jpg" title="[Etienne Rey](https://laurentperrinet.github.io/author/etienne-rey/)" width="50%" >}}
- {{% /fragment %}}
-
-
-{{< speaker_note >}}
-
-
-https://github.com/NaturalPatterns/2013_Tropique
-
-{{< /speaker_note >}}
-
----
 
 {{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Etienne Rey, SPECTRE AUDIOGRAPHIQUE – DIFFRACTION](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="100%" >}}
 
@@ -323,8 +340,6 @@ Par <a href="//commons.wikimedia.org/wiki/User:Cmglee" title="User:Cmglee">Cmgle
 
 
 {{< /speaker_note >}}
-
-
 
 
 ---
@@ -463,7 +478,19 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 
 ---
 
-{{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png"  title="[Etienne Rey, La vibration des apparences](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)" height="80%" >}}
+## La vision en action
+
+{{< figure src="https://laurentperrinet.github.io/authors/ede-rancz/rancz_lite.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/authors/ede-rancz/)" height="80%" >}}
+
+
+
+---
+
+## La vision en action
+
+{{< figure src="https://laurentperrinet.github.io/authors/ede-rancz/rancz_free.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/authors/ede-rancz/)" height="80%" >}}
+
+
 
 ---
 
