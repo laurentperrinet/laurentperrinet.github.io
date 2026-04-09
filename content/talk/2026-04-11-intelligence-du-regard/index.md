@@ -31,7 +31,7 @@ Plus d'infos sur :
 - le site de l'asso https://cognivence.scicog.fr/forum-des-sciences-cognitives/
 - les ateliers: https://www.linkedin.com/posts/cognivence_forum-ateliers-science-activity-7447730430671372288-atJq - [linkedIn](https://www.linkedin.com/posts/forum-ateliers-science-ugcPost-7447730429412962304--n5f)
 - instagram: https://www.instagram.com/forum_sciences_cognitives
-
+- linkedin: https://www.linkedin.com/company/cognivence/posts/
 
 
 {{< figure src="/post/2024-11-07_vibration-apparences/variations.jpg" title="Etienne Rey, *Variations* © ADAGP, Paris 2024. Image credit: Etienne Rey" >}}
