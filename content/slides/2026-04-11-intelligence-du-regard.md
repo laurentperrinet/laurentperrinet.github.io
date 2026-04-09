@@ -42,11 +42,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 - more on [doc](https://raw.githubusercontent.com/wowchemy/starter-hugo-academic/master/exampleSite/content/slides/example/index.md)
 {{< /speaker_note >}}
 
-</section>
-
 ---
-
-<section>
 
 ## Art & Sciences révèlent la diversité de notre vision
 
@@ -60,11 +56,17 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 {{< /speaker_note >}}
 
+</section>
+
 ---
+
+<section>
 
 ## "L'irraisonnable efficacité de la vision"
 
+{{% fragment %}} 
 {{< figure src="https://images.theconversation.com/files/568221/original/file-20240108-17-78s0cj.png" title="Comment la vision a évolué... [[LP, 2024, The Conversation]](https://theconversation.com/chats-mouches-humains-comment-la-vision-a-evolue-en-de-multiples-facettes-220083) " width="100%" >}}
+{{% /fragment %}}
 
 
 {{< speaker_note >}}
@@ -75,7 +77,7 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 ## "L'irraisonnable efficacité de la vision"
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/5/5b/18_PanneauDesLions%28PartieDroite%29BisonsPoursuivisParDesLions.jpg" title="Panneau Des Lions [[Grotte chauvet, -30 kA]](https://fr.wikipedia.org/wiki/Grotte_Chauvet)" width="100%" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/95/Nage_de_la_raie%2C_Marey%2C_1894.gif" title="Nage de la raie, 1894 [[Étienne-Jules Marey]](https://fr.wikipedia.org/wiki/Étienne-Jules_Marey)" width="100%" >}}
 
 
 {{< speaker_note >}}
@@ -458,14 +460,11 @@ opts = dict(N_rho=N_rho, N_phi=N_phi, N_H=N_H, N_V=N_V,
 def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)    
 ```
 
-<!--
----
- ## La vibration des apparences
+--
 
-{{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png"  title="[Etienne Rey, La vibration des apparences](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)" width="60%" >}}
+## La vibration des apparences
 
 {{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}} 
--->
 
 
 ---
@@ -474,7 +473,17 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 
 ---
 
+## La vibration des apparences
+
 {{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2025-01-18_la-vibration-des-apparences.mp4" type="video/mp4" controls="yes" height="80%" >}}
+
+---
+
+## La vision en action
+
+{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/Varini.mp4" loop="yes" >}}
+
+
 
 ---
 
