@@ -576,7 +576,9 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 
 {{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/Varini.mp4" loop="yes" >}}
 
+---
 
+{{< slide background-video="https://laurentperrinet.github.io/sciblog/files/2025-04-24-orienting-yourself-in-the-visual-flow-perturb.mp4" background-video-loop="true" background-video-muted="true" >}}
 
 ---
 
@@ -619,5 +621,28 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 {{< speaker_note >}}
 - to summarize= 
 {{< /speaker_note >}}
+
+</section>
+
+
+---
+
+<section>
+
+# Diapositives supplémentaires
+
+
+---
+
+## Victor Vasarely
+
+{{< figure src="https://mcalp.fr/wp-content/uploads/2014/10/Gare-Montparnasse-10.jpg" title="[Victor Vasarely (1962) Mönchengladbach, Sphère - trames](https://fr.wikipedia.org/wiki/Victor_Vasarely)" width="100%" >}}
+
+
+{{< speaker_note >}}
+
+
+{{< /speaker_note >}}
+
 
 </section>
