@@ -278,25 +278,11 @@ il est aussi d'un plaisir artistique celui qui a été développé jusqu'à deve
 
 {{< /speaker_note >}}
 
-
----
-
-## La vibration des apparences
-
-{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/visite_virtuelle.mp4" controls="yes" height="420" >}}
-
----
-
-## La vibration des apparences
-
-{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}}
-
 ---
 
 ## La vibration des apparences
 
 ```python
-
 def retino_grid(cr, N_rho=34, N_phi=233, N_H, N_V, offset, 
                 size_mag, ecc_max, alpha, c1, c2, power):
     # https://laurentperrinet.github.io/sciblog/posts/2020-04-16-creating-an-hexagonal-grid.html
@@ -314,28 +300,47 @@ def retino_grid(cr, N_rho=34, N_phi=233, N_H, N_V, offset,
             circle(cr, x, y, r)
             cr.set_source_rgba(*hue_to_rgba(color, alpha))
             cr.fill()
-
     return cr
-
 c_blue, dc = 240, 60
 opts = dict(N_rho=N_rho, N_phi=N_phi, N_H=N_H, N_V=N_V,
-            offset=0.07, size_mag=0.3, ecc_max=0.8, alpha=0.80, c1=c_blue-dc, c2=c_blue+dc, power=.5, operator=cairo.OPERATOR_MULTIPLY)
-
+            offset=0.07, size_mag=0.3, ecc_max=0.8, alpha=0.80, 
+            c1=c_blue-dc, c2=c_blue+dc)
 @disp
 def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
-
 ```
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+
+---
+
+{{< slide background-image="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png" >}}
+
+<!-- {{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png"  title="[Etienne Rey, La vibration des apparences](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)" height="80%" >}} -->
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
 
 ---
 
 ## La vibration des apparences
 
-{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}} 
+{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2025-01-18_la-vibration-des-apparences.mp4" type="video/mp4" controls="yes" height="80%" >}}
 
 
----
+{{< speaker_note >}}
 
-{{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png"  title="[Etienne Rey, La vibration des apparences](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)" height="80%" >}}
+une première réponse : "la vision ça sert à mettre ensemble"
+
+à créer quelque chose de nouveau : 1 + 1 = plus que 2
+
+mais à quoi ça sert
+
+{{< /speaker_note >}}
 
 </section>
 
@@ -394,7 +399,7 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 
 ---
 
-{{< video src="http://laurentperrinet.github.io/talk/2025-12-12-main/50_fixation_sequence.mp4" loop="yes" width="100%" >}}
+{{< video src="http://laurentperrinet.github.io/talk/2025-12-12-main/50_fixation_sequence.mp4" loop="yes" width="62%" >}}
 {{< speaker_note >}}
 
 
@@ -405,7 +410,7 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 
 ## Diversité des rétinotopies
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_dolphin.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_dolphin.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
 
 
 {{< speaker_note >}}
@@ -416,7 +421,18 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 
 ## Diversité des rétinotopies
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_hallucinations.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_primate.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
+
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+---
+
+## Diversité des rétinotopies
+
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_hallucinations.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
 
 
 {{< speaker_note >}}
@@ -428,18 +444,7 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 
 ## Diversité des rétinotopies
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_primate.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="80%" >}}
-
-
-{{< speaker_note >}}
-
-{{< /speaker_note >}}
-
----
-
-## Diversité des rétinotopies
-
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/graphical.png" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/graphical.png" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
 <!-- {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/featured.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="45%" >}} -->
 
 
@@ -560,12 +565,6 @@ Composé d’une succession de lames de miroirs, verticales et rotatives, l’in
 
 ---
 
-## La vibration des apparences
-
-{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2025-01-18_la-vibration-des-apparences.mp4" type="video/mp4" controls="yes" height="80%" >}}
-
----
-
 ## La vision en action
 
 {{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/Varini.mp4" loop="yes" >}}
@@ -574,7 +573,8 @@ Composé d’une succession de lames de miroirs, verticales et rotatives, l’in
 
 ## La vision en action
 
-{{< video src="https://laurentperrinet.github.io/sciblog/files/2025-04-24-orienting-yourself-in-the-visual-flow.mp4" controls="yes" height="420" >}} 
+{{< slide background-video="https://laurentperrinet.github.io/sciblog/files/2025-04-24-orienting-yourself-in-the-visual-flow.mp4" background-video-loop="true" background-video-muted="true" >}}
+<!-- {{< video src="https://laurentperrinet.github.io/sciblog/files/2025-04-24-orienting-yourself-in-the-visual-flow.mp4" controls="yes" height="420" >}}  -->
 
 {{< speaker_note >}}
 
@@ -584,27 +584,27 @@ Composé d’une succession de lames de miroirs, verticales et rotatives, l’in
 
 {{< slide background-video="https://laurentperrinet.github.io/sciblog/files/2025-04-24-orienting-yourself-in-the-visual-flow-perturb.mp4" background-video-loop="true" background-video-muted="true" >}}
 
----
+<!-- ---
 
 ## La vision en action
 
 {{< video src="https://laurentperrinet.github.io/sciblog/files/2025-04-24-orienting-yourself-in-the-visual-flow-perturb.mp4" controls="yes" height="420" >}} 
-
-
----
-
-## La vision en action
-
-{{< figure src="https://laurentperrinet.github.io/author/ede-rancz/rancz_lite.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/author/ede-rancz/)" height="80%" >}}
-
+ -->
 
 ---
 
 ## La vision en action
 
-{{< figure src="https://laurentperrinet.github.io/author/ede-rancz/rancz_free.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/author/ede-rancz/)" height="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/author/ede-rancz/rancz_free.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/author/ede-rancz/)" height="70%" >}}
 
 </section>
+
+---
+
+## La vision en action
+
+{{< figure src="https://laurentperrinet.github.io/author/ede-rancz/rancz_lite.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/author/ede-rancz/)" height="70%" >}}
+
 
 
 ---
@@ -687,6 +687,28 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 {{< speaker_note >}}
 
+
+{{< /speaker_note >}}
+
+---
+
+## La vibration des apparences
+
+{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}} 
+
+---
+
+## La vibration des apparences
+
+{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/visite_virtuelle.mp4" controls="yes" height="420" >}}
+
+---
+
+## La vibration des apparences
+
+{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}}
+
+{{< speaker_note >}}
 
 {{< /speaker_note >}}
 
