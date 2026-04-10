@@ -55,9 +55,8 @@ Les objectifs de mon séminaire vont être multiples:
 
 {{< speaker_note >}}
 
-Tout d'abord, il faut que je vous présente mon acolyte qui m'a permis de lier mon projet de recherche avec son travail d'artistes plasticien : je vous présente Etienne Rey, artiste, plasticien, résident à la friche Belle de mai, à marseille. C'est un artiste reconnu dont on peut les œuvres, soit dans l'espace public, soit
+Tout d'abord, il faut que je vous présente mon acolyte qui m'a permis de lier mon projet de recherche avec son travail d'artistes plasticien : je vous présente Etienne Rey, artiste, plasticien, résident à la friche Belle de mai, à marseille. C'est un artiste reconnu dont on peut les œuvres, soit dans l'espace public, soit à Montréal, à Paris ou à Marseille, dans les galeries ou dans les festivals comme Ososphhere
 
-À Montréal ou à Paris , pas du tout et comme je travaillais encore encore parce que je pars demain à un séminaire, je sais pas encore, je suis chez moi
 
 {{< /speaker_note >}}
 
@@ -74,7 +73,9 @@ Tout d'abord, il faut que je vous présente mon acolyte qui m'a permis de lier m
 
 
 {{< speaker_note >}}
+Notre collaboration a commencé quand il m'a invité à présenter mon travail sur la perception visuelle au vernissage de cet œuvre qui représente une visualisation spatio-temporelle du spectre autographie auto audio du son d'une cloche. Il est composé de multiples plaque semi transparente et dichroiques, c'est-à-dire ayant la capacité de présenter différentes couleurs selon l'angle de vue, ce volume sculptural, donnant de façon furtive toute la profondeur de cette expérience sensorielle. 
 
+  
 
 {{< /speaker_note >}}
 
