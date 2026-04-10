@@ -593,6 +593,7 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 
 {{< figure src="https://laurentperrinet.github.io/authors/ede-rancz/rancz_free.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/authors/ede-rancz/)" height="80%" >}}
 
+</section>
 
 
 ---
