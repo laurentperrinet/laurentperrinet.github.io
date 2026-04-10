@@ -522,7 +522,10 @@ Composé d’une succession de lames de miroirs, verticales et rotatives, l’in
 
 ---
 
+## La vibration des apparences
+
 ```python
+
 def retino_grid(cr, N_rho=34, N_phi=233, N_H, N_V, offset, size_mag, ecc_max, alpha, c1, c2, power):
     # https://laurentperrinet.github.io/sciblog/posts/2020-04-16-creating-an-hexagonal-grid.html
     phi_v, rho_v = np.meshgrid(np.linspace(0, 2*np.pi, N_phi, endpoint=False), 
@@ -541,14 +544,16 @@ def retino_grid(cr, N_rho=34, N_phi=233, N_H, N_V, offset, size_mag, ecc_max, al
             cr.fill()
 
     return cr
+
 c_blue, dc = 240, 60
 opts = dict(N_rho=N_rho, N_phi=N_phi, N_H=N_H, N_V=N_V,
             offset=0.07, size_mag=0.3, ecc_max=0.8, alpha=0.80, c1=c_blue-dc, c2=c_blue+dc, power=.5, operator=cairo.OPERATOR_MULTIPLY)
+
 @disp
 def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)    
 ```
 
---
+---
 
 ## La vibration des apparences
 
