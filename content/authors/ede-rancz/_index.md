@@ -32,5 +32,6 @@ Ede Rancz is a Research Director at the Mediterranean Institute of Neurobiology,
 
 * "Neuromodulatory control of predictive processing in visual cortical circuits" (co-direction with Laurent Perrinet,  CENTURI call  https://laurentperrinet.github.io/post/2026-01-28_phd-position_neuromodulatory-predictive-processing/)
 
+{{< figure src="https://laurentperrinet.github.io/authors/ede-rancz/rancz_lite.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/authors/ede-rancz/)" height="80%" >}}
 
 * Thesis director of: [Hilde Langengen-Teigen](https://laurentperrinet.github.io/author/hilde-langengen-teigen/), Mediterranean Institute of Neurobiology, Marseille. This PhD position was made possible thanks to a 3-year contract from AIX-MARSEILLE University awarded by the [Turing Centre for Living Systems PhD call (CENTURI)](https://centuri-livingsystems.org/phd2023-14/).
