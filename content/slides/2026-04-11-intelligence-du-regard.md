@@ -32,10 +32,13 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 <!-- <img src="https://laurentperrinet.github.io/qrcode.png" alt="QR code" height="80" width="80"> -->
 
 {{< speaker_note >}}
-- outline = 
-  - vision is a puzzle
-  - inspiration may help AI
-  - vision is in action
+
+Bonjour, je suis Laurent Perrinet, je suis très heureux de participer au forum des sciences cognitives et je remercie leurs organisateurs pour cette invitation. Je suis d'autant plus ravi d'y participer que je ne vais pas parler de mes recherches, mais plutôt d'une collaboration que j'ai avec un artiste plasticien à Marseille et d'essayer de vous convaincre de bénéfices que l'on peut avoir à s'ouvrir au monde artistique pour mieux percer les mystères de la commission.
+
+Les objectifs de mon séminaire vont être multiples:
+  - vous faire découvrir certains artistes contemporain qui questionnent notre rapport aux nombres visuels
+  - montrer la diversité de la vision à travers les interactions entre art et Science
+  - dévoiler certains des mystères, de la vision et des applications que cela peut avoir sur notre compréhension de la cognition
 
 
 - Not only the speaker can read these notes, Press `S` key to view
@@ -52,7 +55,9 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 {{< speaker_note >}}
 
-https://github.com/NaturalPatterns/2013_Tropique
+Tout d'abord, il faut que je vous présente mon acolyte qui m'a permis de lier mon projet de recherche avec son travail d'artistes plasticien : je vous présente Etienne Rey, artiste, plasticien, résident à la friche Belle de mai, à marseille. C'est un artiste reconnu dont on peut les œuvres, soit dans l'espace public, soit
+
+À Montréal ou à Paris , pas du tout et comme je travaillais encore encore parce que je pars demain à un séminaire, je sais pas encore, je suis chez moi
 
 {{< /speaker_note >}}
 
@@ -61,8 +66,6 @@ https://github.com/NaturalPatterns/2013_Tropique
 ---
 
 <section>
-
-## "L'irraisonnable efficacité de la vision"
 
 
 ## Art & Sciences révèlent la diversité de notre vision
@@ -207,6 +210,18 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 ---
 
+## Art & Sciences révèlent la diversité de notre vision
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Mgmorellet.jpg" title="[François Morrelet (1962) Mönchengladbach, Sphère - trames](https://fr.wikipedia.org/wiki/François_Morellet)" width="100%" >}}
+
+
+{{< speaker_note >}}
+
+
+{{< /speaker_note >}}
+
+---
+
 ## Comment rassemnbler les pièces du puzzle ?
 
 {{< figure src="https://laurentperrinet.github.io/post/2026-02-20_ososphere/643545855_18444436261109562_1480440487903792518_n.jpg" title="[Etienne Rey (2025) *Variable Density, série Delaunay *](https://laurentperrinet.github.io/post/2026-02-20_ososphere/)" width="50%" >}} 
@@ -230,18 +245,6 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 {{< /speaker_note >}}
 
-
----
-
-## Art & Sciences révèlent la diversité de notre vision
-
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Mgmorellet.jpg" title="[François Morrelet (1962) Mönchengladbach, Sphère - trames](https://fr.wikipedia.org/wiki/François_Morellet)" width="100%" >}}
-
-
-{{< speaker_note >}}
-
-
-{{< /speaker_note >}}
 
 
 ---
