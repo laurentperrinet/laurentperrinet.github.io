@@ -56,7 +56,14 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 {{< /speaker_note >}}
 
+</section>
+
 ---
+
+<section>
+
+## "L'irraisonnable efficacité de la vision"
+
 
 ## Art & Sciences révèlent la diversité de notre vision
 
@@ -70,67 +77,6 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 ---
 
-## Art & Sciences révèlent la diversité de notre vision
-
-{{< figure src="https://mcalp.fr/wp-content/uploads/2014/10/Gare-Montparnasse-10.jpg" title="[Victor Vasarely (1962) Mönchengladbach, Sphère - trames](https://fr.wikipedia.org/wiki/Victor_Vasarely)" width="100%" >}}
-
-
-{{< speaker_note >}}
-
-
-{{< /speaker_note >}}
-
----
-
-## Caustiques
-
-{{< video src="https://github.com/NaturalPatterns/2020_caustiques/raw/main/iridiscence.mp4" controls="yes" repeat="yes" height="420" >}}
-
-
----
-
-## Art & Sciences révèlent la diversité de notre vision
-
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Mgmorellet.jpg" title="[François Morrelet (1962) Mönchengladbach, Sphère - trames](https://fr.wikipedia.org/wiki/François_Morellet)" width="100%" >}}
-
-
-{{< speaker_note >}}
-
-
-{{< /speaker_note >}}
-
----
-
-## Art & Sciences révèlent la diversité de notre vision
-
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/92/Cruz-Diez_2013_Grand_Palais_Paris_France.jpg" title="[Carlos Cruz-Diez (2013) Chromosaturation](https://fr.wikipedia.org/wiki/Carlos_Cruz-Diez)" width="100%" >}}
-
-
-{{< speaker_note >}}
-
-
-{{< /speaker_note >}}
-
----
-</section>
-
----
-
-<section>
-
-## "L'irraisonnable efficacité de la vision"
-
-{{% fragment %}} 
-{{< figure src="https://images.theconversation.com/files/568221/original/file-20240108-17-78s0cj.png" title="Comment la vision a évolué... [[LP, 2024, The Conversation]](https://theconversation.com/chats-mouches-humains-comment-la-vision-a-evolue-en-de-multiples-facettes-220083) " width="100%" >}}
-{{% /fragment %}}
-
-
-{{< speaker_note >}}
-
-{{< /speaker_note >}}
-
----
-
 ## "L'irraisonnable efficacité de la vision"
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/95/Nage_de_la_raie%2C_Marey%2C_1894.gif" title="Nage de la raie, 1894 [[Étienne-Jules Marey]](https://fr.wikipedia.org/wiki/Étienne-Jules_Marey)" width="100%" >}}
@@ -139,8 +85,6 @@ https://github.com/NaturalPatterns/2013_Tropique
 {{< speaker_note >}}
 
 {{< /speaker_note >}}
-
-
 
 ---
 
@@ -156,6 +100,19 @@ https://github.com/NaturalPatterns/2013_Tropique
 ## "L'irraisonnable efficacité de la vision"
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/5/5b/18_PanneauDesLions%28PartieDroite%29BisonsPoursuivisParDesLions.jpg" title="Panneau Des Lions [[Grotte chauvet, -30 kA]](https://fr.wikipedia.org/wiki/Grotte_Chauvet)" width="100%" >}}
+
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+---
+
+## "L'irraisonnable efficacité de la vision"
+
+{{% fragment %}} 
+{{< figure src="https://images.theconversation.com/files/568221/original/file-20240108-17-78s0cj.png" title="Comment la vision a évolué... [[LP, 2024, The Conversation]](https://theconversation.com/chats-mouches-humains-comment-la-vision-a-evolue-en-de-multiples-facettes-220083) " width="100%" >}}
+{{% /fragment %}}
 
 
 {{< speaker_note >}}
@@ -230,6 +187,26 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 ---
 
+## Art & Sciences révèlent la diversité de notre vision
+
+{{< figure src="https://mcalp.fr/wp-content/uploads/2014/10/Gare-Montparnasse-10.jpg" title="[Victor Vasarely (1971) Gare Montparnasse](https://fr.wikipedia.org/wiki/Victor_Vasarely)" width="100%" >}}
+
+
+{{< speaker_note >}}
+
+
+{{< /speaker_note >}}
+
+---
+
+{{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png"  title="[Etienne Rey, Trames](https://laurentperrinet.github.io/post/2018-04-10_trames/)" width="80%" >}}
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+---
+
 ## Comment rassemnbler les pièces du puzzle ?
 
 {{< figure src="https://laurentperrinet.github.io/post/2026-02-20_ososphere/643545855_18444436261109562_1480440487903792518_n.jpg" title="[Etienne Rey (2025) *Variable Density, série Delaunay *](https://laurentperrinet.github.io/post/2026-02-20_ososphere/)" width="50%" >}} 
@@ -238,6 +215,117 @@ https://github.com/NaturalPatterns/2013_Tropique
 {{< speaker_note >}}
 
 {{< /speaker_note >}}
+
+
+</section>
+
+---
+
+<section>
+
+
+{{< figure src="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" width="50%" >}}
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+
+---
+
+## Art & Sciences révèlent la diversité de notre vision
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Mgmorellet.jpg" title="[François Morrelet (1962) Mönchengladbach, Sphère - trames](https://fr.wikipedia.org/wiki/François_Morellet)" width="100%" >}}
+
+
+{{< speaker_note >}}
+
+
+{{< /speaker_note >}}
+
+
+---
+
+## La vibration des apparences
+
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Montagne_Sainte-Victoire%2C_par_Paul_C%C3%A9zanne_108.jpg" title="[Paul Cézanne, Montagne Sainte-Victoire, 1904](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne)" width="62%" >}}
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+
+---
+
+
+## La vibration des apparences
+
+
+{{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/Merleau-Ponty_Sens-et-non-sens.png" title="[Merleau-Ponty, Sens et non-sens](https://laurentperrinet.github.io/author/etienne-rey/)" width="62%" >}}
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+
+---
+
+## La vibration des apparences
+
+{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/visite_virtuelle.mp4" controls="yes" height="420" >}}
+
+---
+
+## La vibration des apparences
+
+{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}}
+
+---
+
+## La vibration des apparences
+
+```python
+
+def retino_grid(cr, N_rho=34, N_phi=233, N_H, N_V, offset, 
+                size_mag, ecc_max, alpha, c1, c2, power):
+    # https://laurentperrinet.github.io/sciblog/posts/2020-04-16-creating-an-hexagonal-grid.html
+    phi_v, rho_v = np.meshgrid(np.linspace(0, 2*np.pi, N_phi, endpoint=False), 
+                               np.linspace(0, ecc_max, N_rho+1, endpoint=True)[1:], sparse=False, indexing='xy')    
+    phi_v[::2, :] += np.pi/N_phi
+
+    offsets, colors = [-offset, offset], [c1, c2]
+    for offset_, color in zip(offsets, colors):
+        # convert to cartesian coordinates
+        X, Y = (rho_v * np.sin(phi_v) + offset_+1)/2, (rho_v * np.cos(phi_v)+1)/2
+        R = size_mag * rho_v**power / N_rho
+
+        for x, y, r in zip(X.ravel(), Y.ravel(), R.ravel()):
+            circle(cr, x, y, r)
+            cr.set_source_rgba(*hue_to_rgba(color, alpha))
+            cr.fill()
+
+    return cr
+
+c_blue, dc = 240, 60
+opts = dict(N_rho=N_rho, N_phi=N_phi, N_H=N_H, N_V=N_V,
+            offset=0.07, size_mag=0.3, ecc_max=0.8, alpha=0.80, c1=c_blue-dc, c2=c_blue+dc, power=.5, operator=cairo.OPERATOR_MULTIPLY)
+
+@disp
+def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
+
+```
+
+---
+
+## La vibration des apparences
+
+{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}} 
+
+
+---
+
+{{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png"  title="[Etienne Rey, La vibration des apparences](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)" height="80%" >}}
 
 </section>
 
@@ -307,7 +395,7 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 ## Diversité des rétinotopies
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_dolphin.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="45%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_dolphin.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="80%" >}}
 
 
 {{< speaker_note >}}
@@ -318,7 +406,7 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 ## Diversité des rétinotopies
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_hallucinations.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="45%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_hallucinations.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="80%" >}}
 
 
 {{< speaker_note >}}
@@ -330,7 +418,7 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 ## Diversité des rétinotopies
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_primate.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="45%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_primate.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="80%" >}}
 
 
 {{< speaker_note >}}
@@ -341,7 +429,7 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 ## Diversité des rétinotopies
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/graphical.png" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="45%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/graphical.png" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="80%" >}}
 <!-- {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/featured.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="45%" >}} -->
 
 
@@ -397,6 +485,18 @@ https://laurentperrinet.github.io/2023-01-31_formes-et-perception/images/retinot
 
 ---
 
+## Art & Sciences révèlent la diversité de notre vision
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/92/Cruz-Diez_2013_Grand_Palais_Paris_France.jpg" title="[Carlos Cruz-Diez (2013) Chromosaturation](https://fr.wikipedia.org/wiki/Carlos_Cruz-Diez)" width="100%" >}}
+
+
+{{< speaker_note >}}
+
+
+{{< /speaker_note >}}
+
+---
+
 ## Tropique
 
 {{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_b.jpg" title="[Etienne Rey, Tropique](https://ondesparalleles.org/projets/tropique-7/)" width="100%" >}}
@@ -406,7 +506,6 @@ https://laurentperrinet.github.io/2023-01-31_formes-et-perception/images/retinot
 
 
 {{< /speaker_note >}}
-
 
 ---
 
@@ -420,15 +519,6 @@ https://laurentperrinet.github.io/2023-01-31_formes-et-perception/images/retinot
 
 <iframe src="https://player.vimeo.com/video/56198653" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
----
-
-{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/04/etienne_rey_horizons_variables_news2.jpg" title="[Etienne Rey, Cristal n2](https://ondesparalleles.org/projets/cristal-n2__trashed/)" width="100%" >}}
-
-
-{{< speaker_note >}}
-
-
-{{< /speaker_note >}}
 
 ---
 
@@ -450,119 +540,13 @@ Composé d’une succession de lames de miroirs, verticales et rotatives, l’in
 
 <iframe src="https://player.vimeo.com/video/198189587" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-
-</section>
-
 ---
 
-<section>
+## Caustiques
+
+{{< video src="https://github.com/NaturalPatterns/2020_caustiques/raw/main/iridiscence.mp4" controls="yes" repeat="yes" height="420" >}}
 
 
-{{< figure src="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" width="50%" >}}
-
-{{< speaker_note >}}
-
-{{< /speaker_note >}}
-
----
-
-## La vision en action
-
-{{< video src="https://laurentperrinet.github.io/sciblog/files/2025-04-24-orienting-yourself-in-the-visual-flow.mp4" controls="yes" height="420" >}} 
-
-{{< speaker_note >}}
-
-{{< /speaker_note >}}
-
-
----
-
-## La vibration des apparences
-
-
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Montagne_Sainte-Victoire%2C_par_Paul_C%C3%A9zanne_108.jpg" title="[Paul Cézanne, Montagne Sainte-Victoire, 1904](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne)" width="62%" >}}
-
-{{< speaker_note >}}
-
-{{< /speaker_note >}}
-
-
----
-
-
-## La vibration des apparences
-
-
-{{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/Merleau-Ponty_Sens-et-non-sens.png" title="[Merleau-Ponty, Sens et non-sens](https://laurentperrinet.github.io/author/etienne-rey/)" width="62%" >}}
-
-{{< speaker_note >}}
-
-{{< /speaker_note >}}
-
-
----
-
-{{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png"  title="[Etienne Rey, Trames](https://laurentperrinet.github.io/post/2018-04-10_trames/)" width="80%" >}}
-
-{{< speaker_note >}}
-
-{{< /speaker_note >}}
-
----
-
-## La vibration des apparences
-
-{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/visite_virtuelle.mp4" controls="yes" height="420" >}}
-
----
-
-## La vibration des apparences
-
-{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}}
-
----
-
-## La vibration des apparences
-
-```python
-
-def retino_grid(cr, N_rho=34, N_phi=233, N_H, N_V, offset, size_mag, ecc_max, alpha, c1, c2, power):
-    # https://laurentperrinet.github.io/sciblog/posts/2020-04-16-creating-an-hexagonal-grid.html
-    phi_v, rho_v = np.meshgrid(np.linspace(0, 2*np.pi, N_phi, endpoint=False), 
-                               np.linspace(0, ecc_max, N_rho+1, endpoint=True)[1:], sparse=False, indexing='xy')    
-    phi_v[::2, :] += np.pi/N_phi
-
-    offsets, colors = [-offset, offset], [c1, c2]
-    for offset_, color in zip(offsets, colors):
-        # convert to cartesian coordinates
-        X, Y = (rho_v * np.sin(phi_v) + offset_+1)/2, (rho_v * np.cos(phi_v)+1)/2
-        R = size_mag * rho_v**power / N_rho
-
-        for x, y, r in zip(X.ravel(), Y.ravel(), R.ravel()):
-            circle(cr, x, y, r)
-            cr.set_source_rgba(*hue_to_rgba(color, alpha))
-            cr.fill()
-
-    return cr
-
-c_blue, dc = 240, 60
-opts = dict(N_rho=N_rho, N_phi=N_phi, N_H=N_H, N_V=N_V,
-            offset=0.07, size_mag=0.3, ecc_max=0.8, alpha=0.80, c1=c_blue-dc, c2=c_blue+dc, power=.5, operator=cairo.OPERATOR_MULTIPLY)
-
-@disp
-def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)    
-```
-
----
-
-## La vibration des apparences
-
-{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}} 
-
-
----
-
-{{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png"  title="[Etienne Rey, La vibration des apparences](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)" height="80%" >}}
 
 ---
 
@@ -575,6 +559,16 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 ## La vision en action
 
 {{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/Varini.mp4" loop="yes" >}}
+
+---
+
+## La vision en action
+
+{{< video src="https://laurentperrinet.github.io/sciblog/files/2025-04-24-orienting-yourself-in-the-visual-flow.mp4" controls="yes" height="420" >}} 
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
 
 ---
 
@@ -636,7 +630,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 ## Victor Vasarely
 
-{{< figure src="https://mcalp.fr/wp-content/uploads/2014/10/Gare-Montparnasse-10.jpg" title="[Victor Vasarely (1962) Mönchengladbach, Sphère - trames](https://fr.wikipedia.org/wiki/Victor_Vasarely)" width="100%" >}}
+{{< figure src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnqT-ltEk7fE-iUfHgea6HPeusGiz357ctHroJoxUxy02oXJ4U8EGbWoXPz0aEaTOtKQKNBCJ9IMsXMKBpS9ngmwWsAESV8Rrto9iM3mCBaYmRj6MiQqpyGy-uzomgMHtdXxE6QNwBqr8/s1600/fds.jpg" title="[Victor Vasarely (1962) Mönchengladbach, Sphère - trames](https://fr.wikipedia.org/wiki/Victor_Vasarely)" width="100%" >}}
 
 
 {{< speaker_note >}}
@@ -644,5 +638,46 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 {{< /speaker_note >}}
 
+---
+
+## Victor Vasarely
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/1/14/Hungary_pecs_-_vasarely0.jpg" title="[Victor Vasarely (1977)Outdoor Vasarely artwork at the church of Pálos in Pécs.](https://fr.wikipedia.org/wiki/Victor_Vasarely)" width="100%" >}}
+
+
+{{< speaker_note >}}
+
+
+{{< /speaker_note >}}
+
+---
+
+## Victor Vasarely
+
+{{< figure src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUqb-w6zGJ8ul1sTnh0gXi2PWwDC4uNM0Ctj_XNerPS-BuJR6_ZGNsNWO8fv5fl3S5is8faHPrgSsD1f7_KR8JDxbaYlDFJQ9ZMmRQ5S1LzBxgq-qA3vDb-_spbICOqtVNExc2bHdIiNM/s320/Supernovae.jpg" title="[Victor Vasarely (1962) Supernovae](https://fr.wikipedia.org/wiki/Victor_Vasarely)" width="100%" >}}
+
+
+---
+
+## Victor Vasarely
+
+{{< figure src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_LmwCk716jFOMR8cAwmX96DUlrCFEGfgwJVp4SaDvk9AmlGiXA25N9-DViXxGW9zHE2AHBLxo1dVuHUg9TvRn2yEsmt-i_vvNX_h9rBqnnOFVqFUCbnXIPWVWtkv_tqKGcHRMzX4wUJQ/s1600/800px-FondationAix.JPG" title="[Victor Vasarely (1976) Fondation Vasarely, Aix-en-Provence](https://fr.wikipedia.org/wiki/Fondation_Vasarely)" width="100%" >}}
+
+
+{{< speaker_note >}}
+
+
+{{< /speaker_note >}}
+
+---
+
+
+{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/04/etienne_rey_horizons_variables_news2.jpg" title="[Etienne Rey, Cristal n2](https://ondesparalleles.org/projets/cristal-n2__trashed/)" width="100%" >}}
+
+
+{{< speaker_note >}}
+
+
+{{< /speaker_note >}}
 
 </section>
