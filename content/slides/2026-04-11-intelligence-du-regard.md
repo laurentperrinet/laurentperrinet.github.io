@@ -75,7 +75,7 @@ Tout d'abord, il faut que je vous présente mon acolyte qui m'a permis de lier m
 {{< speaker_note >}}
 Notre collaboration a commencé quand il m'a invité à présenter mon travail sur la perception visuelle au vernissage de cet œuvre qui représente une visualisation spatio-temporelle du spectre autographie auto audio du son d'une cloche. Il est composé de multiples plaque semi transparente et dichroiques, c'est-à-dire ayant la capacité de présenter différentes couleurs selon l'angle de vue, ce volume sculptural, donnant de façon furtive toute la profondeur de cette expérience sensorielle. 
 
-  
+c'est là que se révèle "L'irraisonnable efficacité de la vision" - je reprneds les mots de Wigner à propos de la capacité des mathématiques à sonder le monde - car nous nous retrouvons deavant un constat similaire : comment est-il possible avec aussi oeu de moyens d'obtenir une perception si vivante du monde qui nous entoure...
 
 {{< /speaker_note >}}
 
@@ -87,7 +87,13 @@ Notre collaboration a commencé quand il m'a invité à présenter mon travail s
 
 
 {{< speaker_note >}}
+... j'espère vous surprendre en vous montrant ce vol de raie - une nage capturée par JEM grace au procédé de chronophotographie
 
+il utilisait cattément un appareil en fiorme de fusil mitrailleur avec des plaques photographiquers en guise de balles pour "shooter" une scène dynamique que l'oaeil humain aurtait du mal à décoimposer
+
+l'enjeu est d'abord scientifique, comprendre le mouvement, il a donné son nom à l'ISM
+
+il est aussi d'un plaisir artistique celui qui a été développé jusqu'à devenir l'industrie cinématographique: une succession d'images peut donner la perception d'un mouvement fluide.
 {{< /speaker_note >}}
 
 ---
