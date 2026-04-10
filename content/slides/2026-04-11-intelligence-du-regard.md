@@ -56,6 +56,62 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 {{< /speaker_note >}}
 
+---
+
+## Art & Sciences révèlent la diversité de notre vision
+
+{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Etienne Rey (2010) SPECTRE AUDIOGRAPHIQUE – DIFFRACTION](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="100%" >}}
+
+
+{{< speaker_note >}}
+
+
+{{< /speaker_note >}}
+
+---
+
+## Art & Sciences révèlent la diversité de notre vision
+
+{{< figure src="https://mcalp.fr/wp-content/uploads/2014/10/Gare-Montparnasse-10.jpg" title="[Victor Vasarely (1962) Mönchengladbach, Sphère - trames](https://fr.wikipedia.org/wiki/Victor_Vasarely)" width="100%" >}}
+
+
+{{< speaker_note >}}
+
+
+{{< /speaker_note >}}
+
+---
+
+## Caustiques
+
+{{< video src="https://github.com/NaturalPatterns/2020_caustiques/raw/main/iridiscence.mp4" controls="yes" repeat="yes" height="420" >}}
+
+
+---
+
+## Art & Sciences révèlent la diversité de notre vision
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Mgmorellet.jpg" title="[François Morrelet (1962) Mönchengladbach, Sphère - trames](https://fr.wikipedia.org/wiki/François_Morellet)" width="100%" >}}
+
+
+{{< speaker_note >}}
+
+
+{{< /speaker_note >}}
+
+---
+
+## Art & Sciences révèlent la diversité de notre vision
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/92/Cruz-Diez_2013_Grand_Palais_Paris_France.jpg" title="[Carlos Cruz-Diez (2013) Chromosaturation](https://fr.wikipedia.org/wiki/Carlos_Cruz-Diez)" width="100%" >}}
+
+
+{{< speaker_note >}}
+
+
+{{< /speaker_note >}}
+
+---
 </section>
 
 ---
@@ -78,6 +134,17 @@ https://github.com/NaturalPatterns/2013_Tropique
 ## "L'irraisonnable efficacité de la vision"
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/95/Nage_de_la_raie%2C_Marey%2C_1894.gif" title="Nage de la raie, 1894 [[Étienne-Jules Marey]](https://fr.wikipedia.org/wiki/Étienne-Jules_Marey)" width="100%" >}}
+
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+
+
+---
+
+{{< slide background-image="https://upload.wikimedia.org/wikipedia/commons/5/5b/18_PanneauDesLions%28PartieDroite%29BisonsPoursuivisParDesLions.jpg" >}}
 
 
 {{< speaker_note >}}
@@ -229,11 +296,66 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 ---
 
-## À quoi sert la vision ?
-
-{{< video src="http://laurentperrinet.github.io/talk/2025-12-12-main/50_fixation_sequence.mp4" loop="yes" width="45%" >}}
+{{< video src="http://laurentperrinet.github.io/talk/2025-12-12-main/50_fixation_sequence.mp4" loop="yes" width="100%" >}}
 {{< speaker_note >}}
 
+
+
+{{< /speaker_note >}}
+
+---
+
+## Diversité des rétinotopies
+
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_dolphin.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="45%" >}}
+
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+---
+
+## Diversité des rétinotopies
+
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_hallucinations.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="45%" >}}
+
+
+{{< speaker_note >}}
+
+
+{{< /speaker_note >}}
+
+---
+
+## Diversité des rétinotopies
+
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_primate.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="45%" >}}
+
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+---
+
+## Diversité des rétinotopies
+
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/graphical.png" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="45%" >}}
+<!-- {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/featured.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="45%" >}} -->
+
+
+{{< speaker_note >}}
+
+Formes & perception
+
+https://laurentperrinet.github.io/2023-01-31_formes-et-perception/
+
+Republication d’un article écrit pour le catalogue de l’exposition “Vasarely, d’un art programmatique au numérique” qui a eu lieu du 17 juin au 15 octobre 2023 à l’Espace Culturel départemental Lympia de Nice.
+Pour plus d’informations, suivre le lien sur le site de l’auteur.
+
+utiliser plutôt Holbein de 2023-01-31_formes-et-perception
+https://laurentperrinet.github.io/2023-01-31_formes-et-perception/images/retinotopy.png
 
 
 {{< /speaker_note >}}
@@ -335,8 +457,6 @@ Composé d’une succession de lames de miroirs, verticales et rotatives, l’in
 
 <section>
 
-
-<!-- {{< slide background-image="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" >}} -->
 
 {{< figure src="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" width="50%" >}}
 
