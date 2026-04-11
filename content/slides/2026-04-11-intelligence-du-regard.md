@@ -998,14 +998,14 @@ l'intelligence du regard est dans sonincarnation
 
 ## Victor Vasarely
 
-{{< figure src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUqb-w6zGJ8ul1sTnh0gXi2PWwDC4uNM0Ctj_XNerPS-BuJR6_ZGNsNWO8fv5fl3S5is8faHPrgSsD1f7_KR8JDxbaYlDFJQ9ZMmRQ5S1LzBxgq-qA3vDb-_spbICOqtVNExc2bHdIiNM/s320/Supernovae.jpg" title="[Victor Vasarely (1962) Supernovae](https://fr.wikipedia.org/wiki/Victor_Vasarely)" width="100%" >}}
+{{< figure src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUqb-w6zGJ8ul1sTnh0gXi2PWwDC4uNM0Ctj_XNerPS-BuJR6_ZGNsNWO8fv5fl3S5is8faHPrgSsD1f7_KR8JDxbaYlDFJQ9ZMmRQ5S1LzBxgq-qA3vDb-_spbICOqtVNExc2bHdIiNM/s320/Supernovae.jpg" title="[Victor Vasarely (1962) Supernovae](https://fr.wikipedia.org/wiki/Victor_Vasarely)" width="60%" >}}
 
 
 ---
 
 ## Victor Vasarely
 
-{{< figure src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_LmwCk716jFOMR8cAwmX96DUlrCFEGfgwJVp4SaDvk9AmlGiXA25N9-DViXxGW9zHE2AHBLxo1dVuHUg9TvRn2yEsmt-i_vvNX_h9rBqnnOFVqFUCbnXIPWVWtkv_tqKGcHRMzX4wUJQ/s1600/800px-FondationAix.JPG" title="[Victor Vasarely (1976) Fondation Vasarely, Aix-en-Provence](https://fr.wikipedia.org/wiki/Fondation_Vasarely)" width="100%" >}}
+{{< figure src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_LmwCk716jFOMR8cAwmX96DUlrCFEGfgwJVp4SaDvk9AmlGiXA25N9-DViXxGW9zHE2AHBLxo1dVuHUg9TvRn2yEsmt-i_vvNX_h9rBqnnOFVqFUCbnXIPWVWtkv_tqKGcHRMzX4wUJQ/s1600/800px-FondationAix.JPG" title="[Victor Vasarely (1976) Fondation Vasarely, Aix-en-Provence](https://fr.wikipedia.org/wiki/Fondation_Vasarely)" width="60%" >}}
 
 
 {{< speaker_note >}}
