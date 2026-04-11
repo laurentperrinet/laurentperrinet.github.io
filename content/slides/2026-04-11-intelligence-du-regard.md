@@ -87,13 +87,15 @@ c'est là que se révèle "L'irraisonnable efficacité de la vision" - je reprne
 
 
 {{< speaker_note >}}
-... j'espère vous surprendre en vous montrant ce vol de raie - une nage capturée par JEM grace au procédé de chronophotographie
+... j'espère vous surprendre en vous montrant ce vol de raie - une nage capturée par JEM grace au procédé de chronophotographie. je trouve cette image animée remaquable par plusieurs aspects
 
-il utilisait cattément un appareil en fiorme de fusil mitrailleur avec des plaques photographiquers en guise de balles pour "shooter" une scène dynamique que l'oaeil humain aurtait du mal à décoimposer
+il utilisait carrément un appareil en fiorme de fusil mitrailleur avec des plaques photographiquers en guise de balles pour "shooter" une scène dynamique que l'oaeil humain aurtait du mal à décoimposer
 
 l'enjeu est d'abord scientifique, comprendre le mouvement, il a donné son nom à l'ISM
 
-il est aussi d'un plaisir artistique celui qui a été développé jusqu'à devenir l'industrie cinématographique: une succession d'images peut donner la perception d'un mouvement fluide.
+il est aussi d'un plaisir artistique celui qui a été développé jusqu'à devenir l'industrie cinématographique: une succession d'images peut donner la perception d'un mouvement fluide. c'est là que c'est irraisonnable - des images statiques, de qualité médiocres donnent pourtant une impression vidide
+
+cette capacité n'est pas nouvelle
 {{< /speaker_note >}}
 
 ---
@@ -102,6 +104,10 @@ il est aussi d'un plaisir artistique celui qui a été développé jusqu'à deve
 
 
 {{< speaker_note >}}
+comme le démontre la justesse de cette meute de lions - ou est-ce un seul lion déployé à différents instants dans un effet cinématographique
+
+reste cette complicité que nous pouvons avoir à apprécier aujourd'hui la représentation de notre environnement par des artistes si éloignés dans le temps et pourtant si proches dans le sensibilité
+
 
 {{< /speaker_note >}}
 
@@ -109,10 +115,13 @@ il est aussi d'un plaisir artistique celui qui a été développé jusqu'à deve
 
 ## "L'irraisonnable efficacité de la vision"
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/5/5b/18_PanneauDesLions%28PartieDroite%29BisonsPoursuivisParDesLions.jpg" title="Panneau Des Lions [[Grotte chauvet, -30 kA]](https://fr.wikipedia.org/wiki/Grotte_Chauvet)" width="100%" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/5/5b/18_PanneauDesLions%28PartieDroite%29BisonsPoursuivisParDesLions.jpg" title="Panneau Des Lions [[Grotte chauvet, -30 kA]](https://fr.wikipedia.org/wiki/Grotte_Chauvet)" width="90%" >}}
 
 
 {{< speaker_note >}}
+je vous encourage à voir ces oeuvres à Chauvet 2
+
+mais quel est ce sens, la vision?
 
 {{< /speaker_note >}}
 
@@ -120,12 +129,18 @@ il est aussi d'un plaisir artistique celui qui a été développé jusqu'à deve
 
 ## "L'irraisonnable efficacité de la vision"
 
-{{% fragment %}} 
 {{< figure src="https://images.theconversation.com/files/568221/original/file-20240108-17-78s0cj.png" title="Comment la vision a évolué... [[LP, 2024, The Conversation]](https://theconversation.com/chats-mouches-humains-comment-la-vision-a-evolue-en-de-multiples-facettes-220083) " width="100%" >}}
-{{% /fragment %}}
-
 
 {{< speaker_note >}}
+
+l'organe de notre vision sont nos yeux dont l'anatomie est la suivante
+
+
+premier miracle: de l'énergie lumineuse est transformée en un signal electro-chimique, la magie peut commencer
+
+je ne vais pas rentrer dans les détails, il faudrait des heures, mais explorons plutot ce que nous appelons
+
+
 
 {{< /speaker_note >}}
 
@@ -138,8 +153,17 @@ il est aussi d'un plaisir artistique celui qui a été développé jusqu'à deve
 [Ilusions of brightness or lightness *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 
 {{< speaker_note >}}
-- a simpler one showing effect of context
-- here the ever changing lighting conditions from moonlight (1 candela) to sunlight (100 000 candela)
+
+les illusions visuelles
+
+ici nous avons une démonstration simple par Akiyoshi Kitaoka - entre sciences et art minimal - qui montre comment 
+
+ce n'est pas un bug, mais une capacité du système
+
+le terme illusion est quelque peut impropre
+
+c'est plutot que la vision à la capacité de s'adapter au contexte, here the ever changing lighting conditions from moonlight (1 candela) to sunlight (100 000 candela)
+
 {{< /speaker_note >}}
 
 ---
@@ -149,8 +173,11 @@ il est aussi d'un plaisir artistique celui qui a été développé jusqu'à deve
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion_without.svg" title="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" width="70%" >}}
 
 {{< speaker_note >}}
-- the process of inverting the reason of an illusion can be intriguing
-- hering: two parallel lines
+la vision peut aussi jouer avec la géométrie de l'image
+
+prenons ces deux lignes parallèles - elle sont bien rigides
+
+
 {{< /speaker_note >}}
 
 ---
@@ -160,19 +187,34 @@ il est aussi d'un plaisir artistique celui qui a été développé jusqu'à deve
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion.svg" title="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" width="70%" >}}
 
 {{< speaker_note >}}
-- appear bent
-- effect of context -> 3D
+
+mais si nous les plongons devant ce faisceau de lignes, alors elles apparaissent légérement tordues
+
+
+l'explication se trouverait dans le fait que nous interpréterions l'image maintenant en 3D et que les distrsions que nous attendons rendent plus plausibles des lignes courbées
+
+la vision montre là toute sa crétivité à créer elle meme des illusions
+
 {{< /speaker_note >}}
 
 ---
 
 ## [Illusions visuelles](https://laurentperrinet.github.io/publication/perrinet-19-illusions/) : [Paréidolie](https://fr.wikipedia.org/wiki/Paréidolie)
 
+{{% fragment %}} 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Face-on-mars.jpg" title="[Cydonia Mensae (1976) *Viking Orbiter image*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
+{{% /fragment %}}
 
 {{< speaker_note >}}
-- more generally it reveals vision generates a model of the world
-- pareidolia: seeing faces in clouds, or a man on mars
+
+le cas de cette image est à ce titre remarquable. 
+
+en 1976, la sonde viking orbiter photographie sous toute les coutures la surface de mars, que nous ne connaissions que par les telescopes - l'hypothèse est née au début du siecles de l'existance de canaux - et donc de la possibilité d'une vie intelligente, les "martiens"
+
+les résultats sont tombés: ils sont eux mêmes sculpteurs et ont pris la peine 
+
+outre la mythomanie anthropomorphiste inhérente à ons biais cognitifs, on est quand même frappé par 
+
 {{< /speaker_note >}}
 
 ---
@@ -182,7 +224,10 @@ il est aussi d'un plaisir artistique celui qui a été développé jusqu'à deve
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_low.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
 
 {{< speaker_note >}}
-- 30 years later...
+- 30 years later... unenouvelle sonde a osculté la suface de mars
+
+a photographié le même terrain et révélé
+
 {{< /speaker_note >}}
 
 ---
@@ -193,25 +238,32 @@ il est aussi d'un plaisir artistique celui qui a été développé jusqu'à deve
 
 {{< speaker_note >}}
 - ... it's just a rock
+
+le dites pas à Elon et qu'il y aille sur Mars
+
+morale: plus d'informations tue la fake news
+
 {{< /speaker_note >}}
 
 ---
 
 ## Art & Sciences révèlent la diversité de notre vision
 
+{{% fragment %}} 
 {{< figure src="https://mcalp.fr/wp-content/uploads/2014/10/Gare-Montparnasse-10.jpg" title="[Victor Vasarely (1971) Gare Montparnasse](https://fr.wikipedia.org/wiki/Victor_Vasarely)" width="100%" >}}
+{{% /fragment %}}
 
 
 {{< speaker_note >}}
 
+d'autres formes d'illusions visuelles jouent avec notre crétivité visuelle, vous pourrez penser à Escher (belle expo au musée de la monnaie)
+ et on pense peut-être moins à ...
 
-{{< /speaker_note >}}
+Victor Vasarely, artiste plasticien d'origine hongroise, fondateur du op-art
 
----
+espace public le logo de renault, les publicité quand il y en a pas, gare montparnasse
 
-{{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png"  title="[Etienne Rey, Trames](https://laurentperrinet.github.io/post/2018-04-10_trames/)" width="80%" >}}
-
-{{< speaker_note >}}
+très belle fondation à Aix
 
 {{< /speaker_note >}}
 
@@ -224,6 +276,27 @@ il est aussi d'un plaisir artistique celui qui a été développé jusqu'à deve
 
 {{< speaker_note >}}
 
+un autre artiste de cette période est François Morrelet
+
+ici une trame - montre des alignements en bougeant 
+
+art cinétique
+
+{{< /speaker_note >}}
+
+---
+
+## Art & Sciences révèlent la diversité de notre vision
+
+{{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png"  title="[Etienne Rey, Trames](https://laurentperrinet.github.io/post/2018-04-10_trames/)" width="80%" >}}
+
+{{< speaker_note >}}
+
+c'est dans ce cadre que nous avons expérimenté avec E Rey sur des trames, qui crée ces interférences
+
+émergence de nouvelles formes - hexagones comme utilisés à l'Alhambra - espaces tridimensionnels
+
+je reviendrais sur le fais que vous pouvez transformer l'image en bougeant les yeux
 
 {{< /speaker_note >}}
 
@@ -235,6 +308,12 @@ il est aussi d'un plaisir artistique celui qui a été développé jusqu'à deve
 
 
 {{< speaker_note >}}
+
+plus récement au festival ososphère
+
+delaunay, un assemblage de points optimisés pour couvrir au mieux le carré mais avec une condition au bord
+
+limites perceptives
 
 {{< /speaker_note >}}
 
@@ -250,6 +329,13 @@ il est aussi d'un plaisir artistique celui qui a été développé jusqu'à deve
 
 {{< speaker_note >}}
 
+pour faire le lien Etienne a organisé une exposition au musée Granet - premiere pour de l'art contemporain
+
+reprend plusieurs des travaux issus de notre collaboration
+
+dont l'affiche que je vais vous décrire. 
+
+
 {{< /speaker_note >}}
 
 
@@ -263,11 +349,15 @@ il est aussi d'un plaisir artistique celui qui a été développé jusqu'à deve
 
 {{< speaker_note >}}
 
+le muset Granet est le musée de Cézanne
+
+le titre de l'exposition fait référence...
+
+
 {{< /speaker_note >}}
 
 
 ---
-
 
 ## La vibration des apparences
 
@@ -276,11 +366,15 @@ il est aussi d'un plaisir artistique celui qui a été développé jusqu'à deve
 
 {{< speaker_note >}}
 
+... à un texte de Merleau-Ponty et d'un passage sur Cezanne
+
+la vibration, l'interférence entre couleurs qui rend la réalité
+
+c'est une ligne de recherche que je vais vous illustrer par trois des oeuvres préentées
+
 {{< /speaker_note >}}
 
 ---
-
-## La vibration des apparences
 
 {{< slide background-video="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/visite_virtuelle.mp4" background-video-loop="true" background-video-muted="true" >}}
 <!-- {{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}} -->
@@ -288,13 +382,8 @@ il est aussi d'un plaisir artistique celui qui a été développé jusqu'à deve
 
 {{< speaker_note >}}
 
-{{< /speaker_note >}}
+mais commençons par une visite des deux salles de l'exposition
 
----
-
-{{< figure src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/Avignon-02.jpg" title="Etienne Rey - Horizon faille - Densité flou, 2019 - Sans gravité - une poétique de l’air à - Ardenome - Avignon © https://www.enrevenantdelexpo.com" lightbox="true" height="80%" >}}
-
-{{< speaker_note >}}
 
 {{< /speaker_note >}}
 
@@ -304,21 +393,78 @@ il est aussi d'un plaisir artistique celui qui a été développé jusqu'à deve
 
 {{< speaker_note >}}
 
+le preier est densité floue: des réseaux de delaunay à haute entropie - mais superposé surune plaque en verre 1 cm au dessus
+
+effet de profondeur et de halo, de perspective dépendnat du point de vue
 
 {{< /speaker_note >}}
 
 ---
 
-## Caustiques
+{{< figure src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/Avignon-02.jpg" title="Etienne Rey  (2019) Horizon faille - Densité flou - Sans gravité - une poétique de l’air à - Ardenome - Avignon © https://www.enrevenantdelexpo.com" lightbox="true" height="80%" >}}
+
+{{< speaker_note >}}
+
+
+limite entre perçu et non perçu
+
+{{< /speaker_note >}}
+
+---
+
 
 {{< slide background-video="https://github.com/NaturalPatterns/2020_caustiques/raw/main/iridiscence.mp4" background-video-loop="true" background-video-muted="true" >}}
 <!-- {{< video src="https://github.com/NaturalPatterns/2020_caustiques/raw/main/iridiscence.mp4" controls="yes" repeat="yes" height="420" >}} -->
+
+
+{{< speaker_note >}}
+
+dans caustiques nous explorons la notion de forme par transformation
+
+c'est une simulation de la refraction 
+
+en palme masque tuba dans la mer (piscine), vous regardez le fond de l'eau
+
+l'illumination uniforme donnée par le soleil génére de nouvelles formes - on note aussi ces iridescences - formes que nous pouvons faire évoluer entre ordre et chaos
+
+{{< /speaker_note >}}
+
+---
+
+{{< slide background-image="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png" height="80%" >}}
+
+<!-- {{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png"  title="[Etienne Rey, La vibration des apparences](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)" height="80%" >}} -->
+
+{{< speaker_note >}}
+
+une oeuvre centrale est celle ci - notre affiche
+
+consiste de deux grilles polaires hexagonales - de deux couleurs - celles des supernovae - oxygène et hydrogène
+
+
+{{< /speaker_note >}}
+
+
+---
+
+## La vibration des apparences
+
+
+{{< figure src="https://laurentperrinet.github.io/talk/2026-01-19-art-and-science/featured.jpg" title="[Etienne rey (2025) Polaire](https://laurentperrinet.github.io/author/etienne-rey/)" width="62%" >}}
+
+{{< speaker_note >}}
+un zoom permet d'apprécier iterferences - moiré (mohair)
+
+
+
+{{< /speaker_note >}}
 
 ---
 
 ## La vibration des apparences
 
 ```python
+
 def retino_grid(cr, N_rho=34, N_phi=233, N_H, N_V, offset, 
                 size_mag, ecc_max, alpha, c1, c2, power):
     # https://laurentperrinet.github.io/sciblog/posts/2020-04-16-creating-an-hexagonal-grid.html
@@ -343,25 +489,24 @@ opts = dict(N_rho=N_rho, N_phi=N_phi, N_H=N_H, N_V=N_V,
             c1=c_blue-dc, c2=c_blue+dc)
 @disp
 def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
+
 ```
 
 {{< speaker_note >}}
 
-{{< /speaker_note >}}
+mon travail est prosaïquement de générer du code
+dont voici une version 
 
+pour les geeks : on crée une grille polaire désinée en cairo
 
----
+puis on en déduit
 
-{{< slide background-image="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png" height="80%" >}}
-
-<!-- {{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png"  title="[Etienne Rey, La vibration des apparences](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)" height="80%" >}} -->
-
-{{< speaker_note >}}
+et on décalla avec un offset en horizontal
 
 {{< /speaker_note >}}
 
-
 ---
+
 
 ## La vibration des apparences
 
@@ -369,6 +514,8 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 
 
 {{< speaker_note >}}
+
+on peut jouer avec ce décalge - expérimentation artistique
 
 une première réponse : "la vision ça sert à mettre ensemble"
 
@@ -387,19 +534,21 @@ mais à quoi ça sert
 
 ## À quoi sert la vision ?
 
-
-{{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_001.jpg" title="[An Unexpected Visitor (Ilya Repin, 1884)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
+{{% fragment %}} 
+{{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_001.jpg" title="[Ilya Repin (1884) An Unexpected Visitor](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
+{{% /fragment %}}
 
 
 {{< speaker_note >}}
 
 nous avons vu que la vision est un processus qui essaie de faire du sens - même s'il n'y en a pas forcément. 
 
-ce processus assemble différentes 
+ce processus assemble différentes parties ensemble 
 
+on caonnit le processus "comment" mais on peut se poser à quoi ça sert "pouquoi" la visiona cette forme
 
-- seeing= interacting with the visual world
-- social animals: looking at emotions
+c'est là qu'intervient Yarbus et cette peinture d'Ilya Repin - un soldat rentrant à la maison - tension liée à la surprise évoquée par le titre de la peinture
+
 {{< /speaker_note >}}
 
 
@@ -407,45 +556,68 @@ ce processus assemble différentes
 
 ## À quoi sert la vision ?
 
-{{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_002.jpg" title="[An Unexpected Visitor (Yarbus, 1965)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
+{{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_002.jpg" title="[Yarbus (1965) An Unexpected Visitor](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
 
 {{< speaker_note >}}
-- active: the eye is always moving
+
+
 - https://fr.wikipedia.org/wiki/Alfred_Iarbous
-- consistency of eye traces
+Yarbus a réussi à 
+
+l'oeil bouge, est actif - dépend des espèces - des personnes
+
+traces structurées, même dans cette exploration libre
+
 {{< /speaker_note >}}
+
 
 
 ---
 
 ## À quoi sert la vision ?
 
-{{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_003.jpg" title="[An Unexpected Visitor - *Age?* (Yarbus, 1965)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
+{{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_006.jpg" title="[Yarbus (1965) An Unexpected Visitor *How long?*](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
 
 
 {{< speaker_note >}}
-- social animals: looking at emotions
-{{< /speaker_note >}}
 
+
+ce qui est intéressant est que l'on peut modifier cette structure en donnant un contexte
+
+sii on pose la question depuis quand est-il parti
+
+
+{{< /speaker_note >}}
 
 ---
 
 ## À quoi sert la vision ?
 
-{{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_006.jpg" title="[An Unexpected Visitor - *How long?* (Yarbus, 1965)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
+{{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_003.jpg" title="[Yarbus (1965) An Unexpected Visitor - *Age?*](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
 
 
 {{< speaker_note >}}
-- active: depends on task
+
+sii on pose maintenant la question de l'age des participants
+
+la preuve que nous sommes des animaux sociaux - une des fontions principales de l vision est de trouver nos congféneres et deviner leur émotions
+
+mais pour quoi faire des saccades ? si notre rétine était uniforme nous n'en aurions pas besoin - c'est le cas des lapins ou souris
+
+mais les primates - comme d'autres prédateurs ont une vision qu'on dit fovée - la densité de photorecepeteurs est plus grande au centre de l'axe optique
+
 {{< /speaker_note >}}
 
 ---
 
 {{< slide background-video="http://laurentperrinet.github.io/talk/2025-12-12-main/50_fixation_sequence.mp4" background-video-loop="true" background-video-muted="true" width="62%" >}}
 <!-- {{< video src="http://laurentperrinet.github.io/talk/2025-12-12-main/50_fixation_sequence.mp4" loop="yes" width="62%" >}} -->
+
 {{< speaker_note >}}
 
+c'est une capacité que nous essayons de comprendre au laboratoire grace à des simulations numériques 
 
+je montre ici une reconstruction de l'information lors d'un scan de l'image
 
 {{< /speaker_note >}}
 
@@ -458,6 +630,10 @@ ce processus assemble différentes
 
 {{< speaker_note >}}
 
+cette simulation est basée sur une modélisation de cet espace rétintopique
+
+physiologie chez le primate
+
 {{< /speaker_note >}}
 
 ---
@@ -468,6 +644,11 @@ ce processus assemble différentes
 
 
 {{< speaker_note >}}
+
+à noter la grande diversité des rétinotopies - on montre ici des cartes de densités
+
+chez les dauphins on peut avoir une fovea, ou deux! (4 alors :-) )
+
 
 {{< /speaker_note >}}
 
@@ -480,6 +661,11 @@ ce processus assemble différentes
 
 {{< speaker_note >}}
 
+nous sommes aveugles  à ce chengement de précision
+
+la rétinotopie se révèle lors de migraines ou la prise de drogue
+
+beau papier théorique
 
 {{< /speaker_note >}}
 
@@ -491,6 +677,8 @@ ce processus assemble différentes
 
 {{< speaker_note >}}
 
+dans les modélisations
+
 Republication d’un article écrit pour le catalogue de l’exposition “Vasarely, d’un art programmatique au numérique” qui a eu lieu du 17 juin au 15 octobre 2023 à l’Espace Culturel départemental Lympia de Nice.
 Pour plus d’informations, suivre le lien sur le site de l’auteur.
 
@@ -499,7 +687,7 @@ Pour plus d’informations, suivre le lien sur le site de l’auteur.
 
 ---
 
-## Diversité des rétinotopies
+## Rétinotopie et inteligence artificielle
 
 {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/graphical.png" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
 <!-- {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/featured.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="45%" >}} -->
@@ -507,16 +695,22 @@ Pour plus d’informations, suivre le lien sur le site de l’auteur.
 
 {{< speaker_note >}}
 
-Formes & perception
+on peut insérer ces images dans un réseau deep
 
-https://laurentperrinet.github.io/2023-01-31_formes-et-perception/
+que nous venons de publier
 
-Republication d’un article écrit pour le catalogue de l’exposition “Vasarely, d’un art programmatique au numérique” qui a eu lieu du 17 juin au 15 octobre 2023 à l’Espace Culturel départemental Lympia de Nice.
-Pour plus d’informations, suivre le lien sur le site de l’auteur.
+résultats: énergie, robustesse et localisation = apport des neurociences
 
-utiliser plutôt Holbein de 2023-01-31_formes-et-perception
-https://laurentperrinet.github.io/2023-01-31_formes-et-perception/images/retinotopy.png
+un résultat qui nous intéresse ici est que la vision dépend de notre point de vue
 
+{{< /speaker_note >}}
+
+---
+
+{{< slide background-image="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg"  >}}
+
+{{< speaker_note >}}
+illustré par cette illusion
 
 {{< /speaker_note >}}
 
@@ -527,8 +721,14 @@ https://laurentperrinet.github.io/2023-01-31_formes-et-perception/images/retinot
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg" title="[Rotating Snakes *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)" width="70%" >}}
 
 {{< speaker_note >}}
-- Visual illusions are a great way to understand the constraints of vision
-- notce that here the illusion depend on your eye movements
+
+encore une fois Akiyoshi KITAOKA a frappé
+
+scientifique et vrai artiste
+
+je vous invite à visiter son site
+
+
 {{< /speaker_note >}}
 
 
@@ -546,6 +746,9 @@ https://laurentperrinet.github.io/2023-01-31_formes-et-perception/images/retinot
 
 {{< speaker_note >}}
 
+donc la vision n'est pas un processus actif, mais un processus actif
+
+l'art nous le montre- dans cette sculture d'ER on peut dse déplacer 
 
 {{< /speaker_note >}}
 
@@ -558,6 +761,21 @@ https://laurentperrinet.github.io/2023-01-31_formes-et-perception/images/retinot
 
 {{< speaker_note >}}
 
+c'est un thème recurrent das l'art cinétique
+
+ici Carlos Cruz Diez - qui nous plonge 
+
+{{< /speaker_note >}}
+
+---
+
+{{< slide background-video="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/Varini.mp4" background-video-loop="true" background-video-muted="true" >}}
+<!-- ## La vision en action
+{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/Varini.mp4" loop="yes" >}} -->
+
+{{< speaker_note >}}
+
+Felice Varini
 
 {{< /speaker_note >}}
 
@@ -570,7 +788,15 @@ https://laurentperrinet.github.io/2023-01-31_formes-et-perception/images/retinot
 
 {{< speaker_note >}}
 
+nous avons fait cette expérience sur notre première collaboration - Marseille capitale de la cuture 2013
 
+un vrai peplum: une salle remplie de goutelettes microspciques en suspension
+
+6 video projecteurs
+12 kinect
+6 raspberrry, des arduinos 
+
+du son
 {{< /speaker_note >}}
 
 ---
@@ -579,6 +805,16 @@ https://laurentperrinet.github.io/2023-01-31_formes-et-perception/images/retinot
 
 <iframe src="https://player.vimeo.com/video/66161665" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+
+{{< speaker_note >}}
+
+désolé de la qualité
+
+matérialité des lames de lumières
+
+{{< /speaker_note >}}
+
+
 ---
 
 ## Tropique
@@ -586,12 +822,26 @@ https://laurentperrinet.github.io/2023-01-31_formes-et-perception/images/retinot
 <iframe src="https://player.vimeo.com/video/56198653" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
+{{< speaker_note >}}
+
+pourquoi les kinects?
+
+interaction
+
+exteroceptif à introspectif 
+
+vraie expérience hallucinatoire
+
+{{< /speaker_note >}}
+
 ---
 
 {{< figure src="https://laurentperrinet.github.io/post/2016-06-02_elasticite/TRAME_Elasticité.jpg" title="[Etienne Rey, TRAME ÉLASTICITÉ](https://ondesparalleles.org/projets/trame-elasticite-vasarely/)" width="100%" >}}
 
 
 {{< speaker_note >}}
+
+Autre collaboration de taille: 
 
 DIMENSIONS : 3 M DE HAUT 5 M DE LARGE
 INOX POLI MIROIR / ALUMINIUM / ACIER / MOTEURS / PROGRAMME TEMPS RÉEL
@@ -606,28 +856,28 @@ Composé d’une succession de lames de miroirs, verticales et rotatives, l’in
 
 <iframe src="https://player.vimeo.com/video/198189587" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
----
+{{< speaker_note >}}
 
-## Caustiques
+piege à instagram
 
-{{< video src="https://github.com/NaturalPatterns/2020_caustiques/raw/main/iridiscence.mp4" controls="yes" repeat="yes" height="420" >}}
+cohérence à incohérence
 
+une nouvelle matière
 
+{{< /speaker_note >}}
 
----
-
-## La vision en action
-
-{{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/Varini.mp4" loop="yes" >}}
 
 ---
-
-## La vision en action
 
 {{< slide background-video="https://laurentperrinet.github.io/sciblog/files/2025-04-24-orienting-yourself-in-the-visual-flow.mp4" background-video-loop="true" background-video-muted="true" >}}
 <!-- {{< video src="https://laurentperrinet.github.io/sciblog/files/2025-04-24-orienting-yourself-in-the-visual-flow.mp4" controls="yes" height="420" >}}  -->
 
 {{< speaker_note >}}
+
+
+pour maintenant illustrer comment cette exploration peut avoir un intéret en neuroscience...
+
+nous pouvons créer des stimulations visuelle qui simulent
 
 {{< /speaker_note >}}
 
@@ -642,13 +892,13 @@ Composé d’une succession de lames de miroirs, verticales et rotatives, l’in
 {{< video src="https://laurentperrinet.github.io/sciblog/files/2025-04-24-orienting-yourself-in-the-visual-flow-perturb.mp4" controls="yes" height="420" >}} 
  -->
 
----
+{{< speaker_note >}}
 
-## La vision en action
+mais aussi créer des perturbations
 
-{{< figure src="https://laurentperrinet.github.io/author/ede-rancz/rancz_free.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/author/ede-rancz/)" height="70%" >}}
+qui force une adaptation posturale / mvmt de yeux
 
-</section>
+{{< /speaker_note >}}
 
 ---
 
@@ -656,7 +906,29 @@ Composé d’une succession de lames de miroirs, verticales et rotatives, l’in
 
 {{< figure src="https://laurentperrinet.github.io/author/ede-rancz/rancz_lite.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/author/ede-rancz/)" height="70%" >}}
 
+{{< speaker_note >}}
 
+dans un environnement virtuel
+
+perturbations visuelles ou motrices, nécessité du controle de la balance entre vision et proprioception
+
+{{< /speaker_note >}}
+
+</section>
+
+---
+
+## La vision en action
+
+{{< figure src="https://laurentperrinet.github.io/author/ede-rancz/rancz_free.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/author/ede-rancz/)" height="70%" >}}
+
+{{< speaker_note >}}
+
+role des modulateurs - schizophrénie
+
+on a eu la bourse - Arthur Bertin
+
+{{< /speaker_note >}}
 
 ---
 
@@ -675,6 +947,13 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 {{< speaker_note >}}
 - to summarize= 
+
+vision est magique
+
+l'art peut révéler la diversité
+
+penser la cognition comme incarnée - varela
+
 {{< /speaker_note >}}
 
 </section>
