@@ -50,7 +50,7 @@ Les objectifs de mon séminaire vont être multiples:
 ## Art & Sciences révèlent la diversité de notre vision
 
 {{% fragment %}} 
-{{< figure src="https://laurentperrinet.github.io/author/etienne-rey/avatar.jpg" title="[Etienne Rey](https://laurentperrinet.github.io/author/etienne-rey/)" width="50%" >}}
+{{< figure src="https://laurentperrinet.github.io/author/etienne-rey/avatar.jpg" title="[Etienne Rey](https://laurentperrinet.github.io/author/etienne-rey/)" width="35%" >}}
 {{% /fragment %}}
 
 {{< speaker_note >}}
@@ -247,7 +247,7 @@ morale: plus d'informations tue la fake news
 
 ---
 
-## La percpetion comme processus émergent
+## La perception comme processus émergent
 
 {{% fragment %}} 
 {{< figure src="https://mcalp.fr/wp-content/uploads/2014/10/Gare-Montparnasse-10.jpg" title="[Victor Vasarely (1971) Gare Montparnasse](https://fr.wikipedia.org/wiki/Victor_Vasarely)" width="90%" >}}
@@ -269,7 +269,7 @@ très belle fondation à Aix
 
 ---
 
-## La percpetion comme processus émergent
+## La perception comme processus émergent
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Mgmorellet.jpg" title="[François Morrelet (1962) Mönchengladbach, Sphère - trames](https://fr.wikipedia.org/wiki/François_Morellet)" width="80%" >}}
 
@@ -286,7 +286,7 @@ art cinétique
 
 ---
 
-## La percpetion comme processus émergent
+## La perception comme processus émergent
 
 {{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png"  title="[Etienne Rey, Trames](https://laurentperrinet.github.io/post/2018-04-10_trames/)" width="72%" >}}
 
@@ -302,7 +302,7 @@ je reviendrais sur le fais que vous pouvez transformer l'image en bougeant les y
 
 ---
 
-## La percpetion comme processus émergent
+## La perception comme processus émergent
 
 {{< figure src="https://laurentperrinet.github.io/post/2026-02-20_ososphere/643545855_18444436261109562_1480440487903792518_n.jpg" title="[Etienne Rey (2025) Variable Density, série Delaunay](https://laurentperrinet.github.io/post/2026-02-20_ososphere/)" width="61.8%" >}} 
 
@@ -624,7 +624,7 @@ je montre ici une reconstruction de l'information lors d'un scan de l'image
 
 --- 
 
-## Diversité des rétinotopies
+## À quoi sert la vision : rétinotopie fovéée
 
 {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_primate.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
 
@@ -639,7 +639,7 @@ physiologie chez le primate
 
 ---
 
-## Diversité des rétinotopies
+## À quoi sert la vision : rétinotopie fovéée
 
 {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_dolphin.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
 
@@ -655,7 +655,7 @@ chez les dauphins on peut avoir une fovea, ou deux! (4 alors :-) )
 
 ---
 
-## Diversité des rétinotopies
+## À quoi sert la vision : rétinotopie fovéée
 
 {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_hallucinations.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
 
@@ -672,7 +672,7 @@ beau papier théorique
 
 ---
 
-## Diversité des rétinotopies
+## À quoi sert la vision : rétinotopie fovéée
 
 {{< figure src="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/images/retinotopy.png" title="[E Rey et LP (2026) Formes & perception](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/)" width="90%" >}}
 
@@ -688,13 +688,15 @@ Pour plus d’informations, suivre le lien sur le site de l’auteur.
 
 ---
 
-## Rétinotopie et inteligence artificielle
+## À quoi sert la vision : rétinotopie fovéée
 
 {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/graphical.png" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
 <!-- {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/featured.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="45%" >}} -->
 
 
 {{< speaker_note >}}
+
+## Rétinotopie et inteligence artificielle
 
 on peut insérer ces images dans un réseau deep
 
