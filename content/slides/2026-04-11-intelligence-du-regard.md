@@ -69,7 +69,7 @@ Tout d'abord, il faut que je vous présente mon acolyte dans cette exporation qu
 
 ## Art & Sciences révèlent la diversité de notre vision
 
-{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Etienne Rey (2010) SPECTRE AUDIOGRAPHIQUE – DIFFRACTION](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="100%" >}}
+{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Etienne Rey (2010) Spectre audiographique](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="100%" >}}
 
 
 {{< speaker_note >}}
@@ -250,7 +250,7 @@ morale: plus d'informations tue la fake news
 ## Art & Sciences révèlent la diversité de notre vision
 
 {{% fragment %}} 
-{{< figure src="https://mcalp.fr/wp-content/uploads/2014/10/Gare-Montparnasse-10.jpg" title="[Victor Vasarely (1971) Gare Montparnasse](https://fr.wikipedia.org/wiki/Victor_Vasarely)" width="100%" >}}
+{{< figure src="https://mcalp.fr/wp-content/uploads/2014/10/Gare-Montparnasse-10.jpg" title="[Victor Vasarely (1971) Gare Montparnasse](https://fr.wikipedia.org/wiki/Victor_Vasarely)" width="90%" >}}
 {{% /fragment %}}
 
 
@@ -288,7 +288,7 @@ art cinétique
 
 ## Art & Sciences révèlent la diversité de notre vision
 
-{{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png"  title="[Etienne Rey, Trames](https://laurentperrinet.github.io/post/2018-04-10_trames/)" width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png"  title="[Etienne Rey, Trames](https://laurentperrinet.github.io/post/2018-04-10_trames/)" width="72%" >}}
 
 {{< speaker_note >}}
 
@@ -304,12 +304,12 @@ je reviendrais sur le fais que vous pouvez transformer l'image en bougeant les y
 
 ## Comment rassemnbler les pièces du puzzle ?
 
-{{< figure src="https://laurentperrinet.github.io/post/2026-02-20_ososphere/643545855_18444436261109562_1480440487903792518_n.jpg" title="[Etienne Rey (2025) *Variable Density, série Delaunay *](https://laurentperrinet.github.io/post/2026-02-20_ososphere/)" width="61.8%" >}} 
+{{< figure src="https://laurentperrinet.github.io/post/2026-02-20_ososphere/643545855_18444436261109562_1480440487903792518_n.jpg" title="[Etienne Rey (2025) Variable Density, série Delaunay](https://laurentperrinet.github.io/post/2026-02-20_ososphere/)" width="61.8%" >}} 
 
 
 {{< speaker_note >}}
 
-plus récement au festival ososphère
+plus récement au festival ososphère à Strasbourg
 
 delaunay, un assemblage de points optimisés pour couvrir au mieux le carré mais avec une condition au bord
 
@@ -325,7 +325,7 @@ limites perceptives
 <section>
 
 
-{{< figure src="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" width="61.8%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" width="50%" >}}
 
 {{< speaker_note >}}
 
@@ -401,7 +401,7 @@ effet de profondeur et de halo, de perspective dépendnat du point de vue
 
 ---
 
-{{< figure src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/Avignon-02.jpg" title="Etienne Rey  (2019) Horizon faille - Densité flou - Sans gravité - une poétique de l’air à - Ardenome - Avignon © https://www.enrevenantdelexpo.com" lightbox="true" height="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/Avignon-02.jpg" title="Etienne Rey  (2019) Horizon faille - Densité flou - Sans gravité - une poétique de l’air à Ardenome Avignon  https://www.enrevenantdelexpo.com" lightbox="true" height="80%" >}}
 
 {{< speaker_note >}}
 
@@ -507,10 +507,11 @@ et on décalla avec un offset en horizontal
 
 ---
 
+{{< slide background-video="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2025-01-18_la-vibration-des-apparences.mp4" background-video-loop="true" background-video-muted="true" >}}
 
-## La vibration des apparences
+<!-- ## La vibration des apparences
 
-{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2025-01-18_la-vibration-des-apparences.mp4" type="video/mp4" controls="yes" height="80%" >}}
+{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2025-01-18_la-vibration-des-apparences.mp4" type="video/mp4" controls="yes" height="80%" >}} -->
 
 
 {{< speaker_note >}}
@@ -741,7 +742,7 @@ je vous invite à visiter son site
 
 ## Art & Sciences révèlent la vision en action 
 
-{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Etienne Rey, SPECTRE AUDIOGRAPHIQUE – DIFFRACTION](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="100%" >}}
+{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Etienne Rey, Spectre audiographique](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="100%" >}}
 
 
 {{< speaker_note >}}
@@ -950,9 +951,10 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 vision est magique
 
-l'art peut révéler la diversité
+l'art peut en révéler la diversité
 
-penser la cognition comme incarnée - varela
+l'intelligence du regard est dans sonincarnation
+(cognition incarnée - varela)
 
 {{< /speaker_note >}}
 
