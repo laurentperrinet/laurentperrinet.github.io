@@ -412,7 +412,6 @@ limite entre perçu et non perçu
 
 ---
 
-
 {{< slide background-video="https://github.com/NaturalPatterns/2020_caustiques/raw/main/iridiscence.mp4" background-video-loop="true" background-video-muted="true" >}}
 <!-- {{< video src="https://github.com/NaturalPatterns/2020_caustiques/raw/main/iridiscence.mp4" controls="yes" repeat="yes" height="420" >}} -->
 
@@ -1024,8 +1023,8 @@ l'intelligence du regard est dans sonincarnation
 
 
 ---
-
-## La vibration des apparences
+<!-- 
+## La vibration des apparences -->
 
 {{< slide background-video="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" background-video-loop="true" background-video-muted="true" >}}
 <!-- {{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}} -->
