@@ -247,7 +247,7 @@ morale: plus d'informations tue la fake news
 
 ---
 
-## Art & Sciences révèlent la diversité de notre vision
+## La percpetion comme processus émergent
 
 {{% fragment %}} 
 {{< figure src="https://mcalp.fr/wp-content/uploads/2014/10/Gare-Montparnasse-10.jpg" title="[Victor Vasarely (1971) Gare Montparnasse](https://fr.wikipedia.org/wiki/Victor_Vasarely)" width="90%" >}}
@@ -269,7 +269,7 @@ très belle fondation à Aix
 
 ---
 
-## Art & Sciences révèlent la diversité de notre vision
+## La percpetion comme processus émergent
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Mgmorellet.jpg" title="[François Morrelet (1962) Mönchengladbach, Sphère - trames](https://fr.wikipedia.org/wiki/François_Morellet)" width="80%" >}}
 
@@ -286,7 +286,7 @@ art cinétique
 
 ---
 
-## Art & Sciences révèlent la diversité de notre vision
+## La percpetion comme processus émergent
 
 {{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png"  title="[Etienne Rey, Trames](https://laurentperrinet.github.io/post/2018-04-10_trames/)" width="72%" >}}
 
@@ -302,12 +302,13 @@ je reviendrais sur le fais que vous pouvez transformer l'image en bougeant les y
 
 ---
 
-## Comment rassemnbler les pièces du puzzle ?
+## La percpetion comme processus émergent
 
 {{< figure src="https://laurentperrinet.github.io/post/2026-02-20_ososphere/643545855_18444436261109562_1480440487903792518_n.jpg" title="[Etienne Rey (2025) Variable Density, série Delaunay](https://laurentperrinet.github.io/post/2026-02-20_ososphere/)" width="61.8%" >}} 
 
 
 {{< speaker_note >}}
+## Comment rassemnbler les pièces du puzzle ?
 
 plus récement au festival ososphère à Strasbourg
 
@@ -754,7 +755,7 @@ l'art nous le montre- dans cette sculture d'ER on peut dse déplacer
 
 ---
 
-## Art & Sciences révèlent la diversité de notre vision
+## Art & Sciences révèlent la vision en action 
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/92/Cruz-Diez_2013_Grand_Palais_Paris_France.jpg" title="[Carlos Cruz-Diez (2013) Chromosaturation](https://fr.wikipedia.org/wiki/Carlos_Cruz-Diez)" width="90%" >}}
 
@@ -781,7 +782,7 @@ Felice Varini
 
 ---
 
-## Tropique
+## Art & Sciences révèlent la vision en action : Tropique
 
 {{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_b.jpg" title="[Etienne Rey, Tropique](https://ondesparalleles.org/projets/tropique-7/)" width="100%" >}}
 
@@ -801,7 +802,7 @@ du son
 
 ---
 
-## Tropique
+## Art & Sciences révèlent la vision en action : Tropique
 
 <iframe src="https://player.vimeo.com/video/66161665" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -817,7 +818,7 @@ matérialité des lames de lumières
 
 ---
 
-## Tropique
+## Art & Sciences révèlent la vision en action : Tropique
 
 <iframe src="https://player.vimeo.com/video/56198653" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -852,7 +853,7 @@ Composé d’une succession de lames de miroirs, verticales et rotatives, l’in
 
 ---
 
-## TRAME ÉLASTICITÉ
+## Art & Sciences révèlent la vision en action : TRAME ÉLASTICITÉ
 
 <iframe src="https://player.vimeo.com/video/198189587" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -902,7 +903,7 @@ qui force une adaptation posturale / mvmt de yeux
 
 ---
 
-## La vision en action
+## Art & Sciences révèlent la vision en action 
 
 {{< figure src="https://laurentperrinet.github.io/author/ede-rancz/rancz_lite.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/author/ede-rancz/)" height="70%" >}}
 
@@ -916,7 +917,7 @@ perturbations visuelles ou motrices, nécessité du controle de la balance entre
 
 ---
 
-## La vision en action
+## Art & Sciences révèlent la vision en action 
 
 {{< figure src="https://laurentperrinet.github.io/author/ede-rancz/rancz_free.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/author/ede-rancz/)" height="70%" >}}
 
