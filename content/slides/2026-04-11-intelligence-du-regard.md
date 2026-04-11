@@ -219,7 +219,7 @@ il est aussi d'un plaisir artistique celui qui a été développé jusqu'à deve
 
 ## Art & Sciences révèlent la diversité de notre vision
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Mgmorellet.jpg" title="[François Morrelet (1962) Mönchengladbach, Sphère - trames](https://fr.wikipedia.org/wiki/François_Morellet)" width="100%" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Mgmorellet.jpg" title="[François Morrelet (1962) Mönchengladbach, Sphère - trames](https://fr.wikipedia.org/wiki/François_Morellet)" width="80%" >}}
 
 
 {{< speaker_note >}}
