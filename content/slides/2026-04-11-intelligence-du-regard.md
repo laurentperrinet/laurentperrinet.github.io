@@ -757,7 +757,7 @@ l'art nous le montre- dans cette sculture d'ER on peut dse déplacer
 
 ## Art & Sciences révèlent la diversité de notre vision
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/92/Cruz-Diez_2013_Grand_Palais_Paris_France.jpg" title="[Carlos Cruz-Diez (2013) Chromosaturation](https://fr.wikipedia.org/wiki/Carlos_Cruz-Diez)" width="100%" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/92/Cruz-Diez_2013_Grand_Palais_Paris_France.jpg" title="[Carlos Cruz-Diez (2013) Chromosaturation](https://fr.wikipedia.org/wiki/Carlos_Cruz-Diez)" width="90%" >}}
 
 
 {{< speaker_note >}}
