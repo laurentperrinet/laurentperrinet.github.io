@@ -231,7 +231,7 @@ il est aussi d'un plaisir artistique celui qui a été développé jusqu'à deve
 
 ## Comment rassemnbler les pièces du puzzle ?
 
-{{< figure src="https://laurentperrinet.github.io/post/2026-02-20_ososphere/643545855_18444436261109562_1480440487903792518_n.jpg" title="[Etienne Rey (2025) *Variable Density, série Delaunay *](https://laurentperrinet.github.io/post/2026-02-20_ososphere/)" width="50%" >}} 
+{{< figure src="https://laurentperrinet.github.io/post/2026-02-20_ososphere/643545855_18444436261109562_1480440487903792518_n.jpg" title="[Etienne Rey (2025) *Variable Density, série Delaunay *](https://laurentperrinet.github.io/post/2026-02-20_ososphere/)" width="61.8%" >}} 
 
 
 {{< speaker_note >}}
@@ -246,7 +246,7 @@ il est aussi d'un plaisir artistique celui qui a été développé jusqu'à deve
 <section>
 
 
-{{< figure src="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" width="50%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" width="61.8%" >}}
 
 {{< speaker_note >}}
 
@@ -277,6 +277,22 @@ il est aussi d'un plaisir artistique celui qui a été développé jusqu'à deve
 {{< speaker_note >}}
 
 {{< /speaker_note >}}
+
+---
+
+## La vibration des apparences
+
+{{< slide background-video="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/visite_virtuelle.mp4" background-video-loop="true" background-video-muted="true" >}}
+<!-- {{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}} -->
+
+
+
+---
+
+## Caustiques
+
+{{< slide background-video="https://github.com/NaturalPatterns/2020_caustiques/raw/main/iridiscence.mp4" background-video-loop="true" background-video-muted="true" >}}
+<!-- {{< video src="https://github.com/NaturalPatterns/2020_caustiques/raw/main/iridiscence.mp4" controls="yes" repeat="yes" height="420" >}} -->
 
 ---
 
@@ -316,7 +332,7 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 
 ---
 
-{{< slide background-image="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png" >}}
+{{< slide background-image="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png" height="80%" >}}
 
 <!-- {{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png"  title="[Etienne Rey, La vibration des apparences](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)" height="80%" >}} -->
 
@@ -474,12 +490,6 @@ https://laurentperrinet.github.io/2023-01-31_formes-et-perception/images/retinot
 - notce that here the illusion depend on your eye movements
 {{< /speaker_note >}}
 
-
----
-
-## Caustiques
-
-{{< video src="https://github.com/NaturalPatterns/2020_caustiques/raw/main/iridiscence.mp4" controls="yes" repeat="yes" height="420" >}}
 
 
 </section>
@@ -690,23 +700,13 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 {{< /speaker_note >}}
 
----
-
-## La vibration des apparences
-
-{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}} 
 
 ---
 
 ## La vibration des apparences
 
-{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/visite_virtuelle.mp4" controls="yes" height="420" >}}
-
----
-
-## La vibration des apparences
-
-{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}}
+{{< slide background-video="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" background-video-loop="true" background-video-muted="true" >}}
+<!-- {{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}} -->
 
 {{< speaker_note >}}
 
