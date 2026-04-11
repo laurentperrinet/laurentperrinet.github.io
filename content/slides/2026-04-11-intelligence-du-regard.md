@@ -415,21 +415,11 @@ mais à quoi ça sert
 
 ---
 
-{{< video src="http://laurentperrinet.github.io/talk/2025-12-12-main/50_fixation_sequence.mp4" loop="yes" width="62%" >}}
+{{< slide background-video="http://laurentperrinet.github.io/talk/2025-12-12-main/50_fixation_sequence.mp4" background-video-loop="true" background-video-muted="true" width="62%" >}}
+<!-- {{< video src="http://laurentperrinet.github.io/talk/2025-12-12-main/50_fixation_sequence.mp4" loop="yes" width="62%" >}} -->
 {{< speaker_note >}}
 
 
-
-{{< /speaker_note >}}
-
----
-
-## Diversité des rétinotopies
-
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_dolphin.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
-
-
-{{< speaker_note >}}
 
 {{< /speaker_note >}}
 
@@ -448,10 +438,35 @@ mais à quoi ça sert
 
 ## Diversité des rétinotopies
 
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_dolphin.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
+
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+---
+
+## Diversité des rétinotopies
+
 {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_hallucinations.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
 
 
 {{< speaker_note >}}
+
+
+{{< /speaker_note >}}
+
+---
+
+## Diversité des rétinotopies
+
+{{< figure src="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/images/retinotopy.png" title="[E Rey et LP (2026) Formes & perception](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/)" width="90%" >}}
+
+{{< speaker_note >}}
+
+Republication d’un article écrit pour le catalogue de l’exposition “Vasarely, d’un art programmatique au numérique” qui a eu lieu du 17 juin au 15 octobre 2023 à l’Espace Culturel départemental Lympia de Nice.
+Pour plus d’informations, suivre le lien sur le site de l’auteur.
 
 
 {{< /speaker_note >}}
