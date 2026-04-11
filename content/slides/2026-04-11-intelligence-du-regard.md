@@ -914,8 +914,6 @@ perturbations visuelles ou motrices, nécessité du controle de la balance entre
 
 {{< /speaker_note >}}
 
-</section>
-
 ---
 
 ## La vision en action
@@ -929,6 +927,8 @@ role des modulateurs - schizophrénie
 on a eu la bourse - Arthur Bertin
 
 {{< /speaker_note >}}
+
+</section>
 
 ---
 
