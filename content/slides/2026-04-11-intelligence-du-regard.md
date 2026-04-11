@@ -32,10 +32,13 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 <!-- <img src="https://laurentperrinet.github.io/qrcode.png" alt="QR code" height="80" width="80"> -->
 
 {{< speaker_note >}}
-- outline = 
-  - vision is a puzzle
-  - inspiration may help AI
-  - vision is in action
+
+Bonjour, je suis Laurent Perrinet, je suis très heureux de participer au forum des sciences cognitives et je remercie leurs organisateurs pour cette invitation. Je suis d'autant plus ravi d'y participer que je ne vais pas parler de mes recherches, mais plutôt d'une collaboration que j'ai avec un artiste plasticien à Marseille et d'essayer de vous convaincre de bénéfices que l'on peut avoir à s'ouvrir au monde artistique pour mieux percer les mystères de la commission.
+
+Les objectifs de mon séminaire vont être multiples:
+  - vous faire découvrir certains artistes contemporain qui questionnent notre rapport aux nombres visuels
+  - montrer la diversité de la vision à travers les interactions entre art et Science
+  - dévoiler certains des mystères, de la vision et des applications que cela peut avoir sur notre compréhension de la cognition
 
 
 - Not only the speaker can read these notes, Press `S` key to view
@@ -52,7 +55,8 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 {{< speaker_note >}}
 
-https://github.com/NaturalPatterns/2013_Tropique
+Tout d'abord, il faut que je vous présente mon acolyte qui m'a permis de lier mon projet de recherche avec son travail d'artistes plasticien : je vous présente Etienne Rey, artiste, plasticien, résident à la friche Belle de mai, à marseille. C'est un artiste reconnu dont on peut les œuvres, soit dans l'espace public, soit à Montréal, à Paris ou à Marseille, dans les galeries ou dans les festivals comme Ososphhere
+
 
 {{< /speaker_note >}}
 
@@ -62,8 +66,6 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 <section>
 
-## "L'irraisonnable efficacité de la vision"
-
 
 ## Art & Sciences révèlent la diversité de notre vision
 
@@ -71,7 +73,9 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 
 {{< speaker_note >}}
+Notre collaboration a commencé quand il m'a invité à présenter mon travail sur la perception visuelle au vernissage de cet œuvre qui représente une visualisation spatio-temporelle du spectre autographie auto audio du son d'une cloche. Il est composé de multiples plaque semi transparente et dichroiques, c'est-à-dire ayant la capacité de présenter différentes couleurs selon l'angle de vue, ce volume sculptural, donnant de façon furtive toute la profondeur de cette expérience sensorielle. 
 
+c'est là que se révèle "L'irraisonnable efficacité de la vision" - je reprneds les mots de Wigner à propos de la capacité des mathématiques à sonder le monde - car nous nous retrouvons deavant un constat similaire : comment est-il possible avec aussi oeu de moyens d'obtenir une perception si vivante du monde qui nous entoure...
 
 {{< /speaker_note >}}
 
@@ -83,7 +87,13 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 
 {{< speaker_note >}}
+... j'espère vous surprendre en vous montrant ce vol de raie - une nage capturée par JEM grace au procédé de chronophotographie
 
+il utilisait cattément un appareil en fiorme de fusil mitrailleur avec des plaques photographiquers en guise de balles pour "shooter" une scène dynamique que l'oaeil humain aurtait du mal à décoimposer
+
+l'enjeu est d'abord scientifique, comprendre le mouvement, il a donné son nom à l'ISM
+
+il est aussi d'un plaisir artistique celui qui a été développé jusqu'à devenir l'industrie cinématographique: une succession d'images peut donner la perception d'un mouvement fluide.
 {{< /speaker_note >}}
 
 ---
@@ -207,6 +217,18 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 ---
 
+## Art & Sciences révèlent la diversité de notre vision
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Mgmorellet.jpg" title="[François Morrelet (1962) Mönchengladbach, Sphère - trames](https://fr.wikipedia.org/wiki/François_Morellet)" width="100%" >}}
+
+
+{{< speaker_note >}}
+
+
+{{< /speaker_note >}}
+
+---
+
 ## Comment rassemnbler les pièces du puzzle ?
 
 {{< figure src="https://laurentperrinet.github.io/post/2026-02-20_ososphere/643545855_18444436261109562_1480440487903792518_n.jpg" title="[Etienne Rey (2025) *Variable Density, série Delaunay *](https://laurentperrinet.github.io/post/2026-02-20_ososphere/)" width="50%" >}} 
@@ -230,18 +252,6 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 {{< /speaker_note >}}
 
-
----
-
-## Art & Sciences révèlent la diversité de notre vision
-
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Mgmorellet.jpg" title="[François Morrelet (1962) Mönchengladbach, Sphère - trames](https://fr.wikipedia.org/wiki/François_Morellet)" width="100%" >}}
-
-
-{{< speaker_note >}}
-
-
-{{< /speaker_note >}}
 
 
 ---
@@ -268,25 +278,11 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 {{< /speaker_note >}}
 
-
----
-
-## La vibration des apparences
-
-{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/visite_virtuelle.mp4" controls="yes" height="420" >}}
-
----
-
-## La vibration des apparences
-
-{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}}
-
 ---
 
 ## La vibration des apparences
 
 ```python
-
 def retino_grid(cr, N_rho=34, N_phi=233, N_H, N_V, offset, 
                 size_mag, ecc_max, alpha, c1, c2, power):
     # https://laurentperrinet.github.io/sciblog/posts/2020-04-16-creating-an-hexagonal-grid.html
@@ -304,28 +300,47 @@ def retino_grid(cr, N_rho=34, N_phi=233, N_H, N_V, offset,
             circle(cr, x, y, r)
             cr.set_source_rgba(*hue_to_rgba(color, alpha))
             cr.fill()
-
     return cr
-
 c_blue, dc = 240, 60
 opts = dict(N_rho=N_rho, N_phi=N_phi, N_H=N_H, N_V=N_V,
-            offset=0.07, size_mag=0.3, ecc_max=0.8, alpha=0.80, c1=c_blue-dc, c2=c_blue+dc, power=.5, operator=cairo.OPERATOR_MULTIPLY)
-
+            offset=0.07, size_mag=0.3, ecc_max=0.8, alpha=0.80, 
+            c1=c_blue-dc, c2=c_blue+dc)
 @disp
 def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
-
 ```
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+
+---
+
+{{< slide background-image="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png" >}}
+
+<!-- {{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png"  title="[Etienne Rey, La vibration des apparences](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)" height="80%" >}} -->
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
 
 ---
 
 ## La vibration des apparences
 
-{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}} 
+{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2025-01-18_la-vibration-des-apparences.mp4" type="video/mp4" controls="yes" height="80%" >}}
 
 
----
+{{< speaker_note >}}
 
-{{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png"  title="[Etienne Rey, La vibration des apparences](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)" height="80%" >}}
+une première réponse : "la vision ça sert à mettre ensemble"
+
+à créer quelque chose de nouveau : 1 + 1 = plus que 2
+
+mais à quoi ça sert
+
+{{< /speaker_note >}}
 
 </section>
 
@@ -384,7 +399,7 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 
 ---
 
-{{< video src="http://laurentperrinet.github.io/talk/2025-12-12-main/50_fixation_sequence.mp4" loop="yes" width="100%" >}}
+{{< video src="http://laurentperrinet.github.io/talk/2025-12-12-main/50_fixation_sequence.mp4" loop="yes" width="62%" >}}
 {{< speaker_note >}}
 
 
@@ -395,7 +410,18 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 
 ## Diversité des rétinotopies
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_dolphin.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_dolphin.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
+
+
+{{< speaker_note >}}
+
+{{< /speaker_note >}}
+
+--- 
+
+## Diversité des rétinotopies
+
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_primate.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
 
 
 {{< speaker_note >}}
@@ -406,7 +432,7 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 
 ## Diversité des rétinotopies
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_hallucinations.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_hallucinations.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
 
 
 {{< speaker_note >}}
@@ -418,18 +444,7 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 
 ## Diversité des rétinotopies
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_primate.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="80%" >}}
-
-
-{{< speaker_note >}}
-
-{{< /speaker_note >}}
-
----
-
-## Diversité des rétinotopies
-
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/graphical.png" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/graphical.png" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
 <!-- {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/featured.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="45%" >}} -->
 
 
@@ -550,12 +565,6 @@ Composé d’une succession de lames de miroirs, verticales et rotatives, l’in
 
 ---
 
-## La vibration des apparences
-
-{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2025-01-18_la-vibration-des-apparences.mp4" type="video/mp4" controls="yes" height="80%" >}}
-
----
-
 ## La vision en action
 
 {{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/Varini.mp4" loop="yes" >}}
@@ -564,7 +573,8 @@ Composé d’une succession de lames de miroirs, verticales et rotatives, l’in
 
 ## La vision en action
 
-{{< video src="https://laurentperrinet.github.io/sciblog/files/2025-04-24-orienting-yourself-in-the-visual-flow.mp4" controls="yes" height="420" >}} 
+{{< slide background-video="https://laurentperrinet.github.io/sciblog/files/2025-04-24-orienting-yourself-in-the-visual-flow.mp4" background-video-loop="true" background-video-muted="true" >}}
+<!-- {{< video src="https://laurentperrinet.github.io/sciblog/files/2025-04-24-orienting-yourself-in-the-visual-flow.mp4" controls="yes" height="420" >}}  -->
 
 {{< speaker_note >}}
 
@@ -574,27 +584,27 @@ Composé d’une succession de lames de miroirs, verticales et rotatives, l’in
 
 {{< slide background-video="https://laurentperrinet.github.io/sciblog/files/2025-04-24-orienting-yourself-in-the-visual-flow-perturb.mp4" background-video-loop="true" background-video-muted="true" >}}
 
----
+<!-- ---
 
 ## La vision en action
 
 {{< video src="https://laurentperrinet.github.io/sciblog/files/2025-04-24-orienting-yourself-in-the-visual-flow-perturb.mp4" controls="yes" height="420" >}} 
-
-
----
-
-## La vision en action
-
-{{< figure src="https://laurentperrinet.github.io/author/ede-rancz/rancz_lite.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/author/ede-rancz/)" height="80%" >}}
-
+ -->
 
 ---
 
 ## La vision en action
 
-{{< figure src="https://laurentperrinet.github.io/author/ede-rancz/rancz_free.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/author/ede-rancz/)" height="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/author/ede-rancz/rancz_free.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/author/ede-rancz/)" height="70%" >}}
 
 </section>
+
+---
+
+## La vision en action
+
+{{< figure src="https://laurentperrinet.github.io/author/ede-rancz/rancz_lite.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/author/ede-rancz/)" height="70%" >}}
+
 
 
 ---
@@ -677,6 +687,28 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 {{< speaker_note >}}
 
+
+{{< /speaker_note >}}
+
+---
+
+## La vibration des apparences
+
+{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}} 
+
+---
+
+## La vibration des apparences
+
+{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/visite_virtuelle.mp4" controls="yes" height="420" >}}
+
+---
+
+## La vibration des apparences
+
+{{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}}
+
+{{< speaker_note >}}
 
 {{< /speaker_note >}}
 

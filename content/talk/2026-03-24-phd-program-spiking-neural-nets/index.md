@@ -11,7 +11,6 @@ links:
 - name: URL
   url: 
     https://laurentperrinet.github.io/talk/2026-03-24-phd-program-spiking-neural-nets
-links:
 - name: Code
   url: 
     https://github.com/CONECT-INT/2026-03_PhDProgram-course-in-computational-neuroscience/
