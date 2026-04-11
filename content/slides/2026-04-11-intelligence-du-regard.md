@@ -285,7 +285,13 @@ il est aussi d'un plaisir artistique celui qui a été développé jusqu'à deve
 {{< slide background-video="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/visite_virtuelle.mp4" background-video-loop="true" background-video-muted="true" >}}
 <!-- {{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}} -->
 
+---
 
+{{< figure src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/Avignon-02.jpg" title="Etienne Rey - Horizon faille - Densité flou, 2019 - Sans gravité - une poétique de l’air à - Ardenome - Avignon © https://www.enrevenantdelexpo.com" lightbox="true" height="80%" >}}
+
+---
+
+{{< slide background-image="https://laurentperrinet.github.io/post/2019-06-22_ardemone/Avignon-02.jpg" height="80%" >}}
 
 ---
 
@@ -372,6 +378,12 @@ mais à quoi ça sert
 
 
 {{< speaker_note >}}
+
+nous avons vu que la vision est un processus qui essaie de faire du sens - même s'il n'y en a pas forcément. 
+
+ce processus assemble différentes 
+
+
 - seeing= interacting with the visual world
 - social animals: looking at emotions
 {{< /speaker_note >}}
