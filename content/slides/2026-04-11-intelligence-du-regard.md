@@ -466,7 +466,7 @@ C'est une capacité que nous essayons de comprendre au laboratoire grâce à des
 
 --- 
 
-## À quoi sert la vision : rétinotopie fovéée
+## À quoi sert la vision : rétinotopie fovéale
 
 {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_primate.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
 {{< speaker_note >}}
@@ -475,7 +475,7 @@ Cette simulation est basée sur une modélisation de cet espace rétinotopique. 
 
 ---
 
-## À quoi sert la vision : rétinotopie fovéée
+## À quoi sert la vision : rétinotopie fovéale
 
 {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_dolphin.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
 
@@ -491,7 +491,7 @@ chez les dauphins on peut avoir une fovea, ou deux! (4 alors :-) )
 
 ---
 
-## À quoi sert la vision : rétinotopie fovéée
+## À quoi sert la vision : rétinotopie fovéale
 
 {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_hallucinations.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
 {{< speaker_note >}}
@@ -500,7 +500,7 @@ Nous sommes aveugles à ce changement de précision. La rétinotopie se révèle
 
 ---
 
-## À quoi sert la vision : rétinotopie fovéée
+## À quoi sert la vision : rétinotopie fovéale
 
 {{< figure src="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/images/retinotopy.png" title="[E Rey et LP (2026) Formes & perception](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/)" width="90%" >}}
 
@@ -510,7 +510,7 @@ Dans les modélisations... Republication d'un article écrit pour le catalogue d
 
 ---
 
-## À quoi sert la vision : rétinotopie fovéée
+## À quoi sert la vision : rétinotopie fovéale
 
 {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/graphical.png" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
 <!-- {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/featured.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="45%" >}} -->
