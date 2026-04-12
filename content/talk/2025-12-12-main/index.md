@@ -48,7 +48,7 @@ links:
 
 #DeepLearning #ComputerVision #AI #Research #NeuralNetworks #NeuroAI #OpenScience I love #Montreal
 
-{{< video src="50_fixation_sequence.mp4"  title="Fixation sequence." numbered="false" autoplay="yes" >}}
+{{< video src="50_fixation_sequence.mp4" title="Fixation sequence." numbered="false" autoplay="yes" >}}
 
 
 Media storm - share if you like :
