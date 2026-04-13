@@ -17,6 +17,8 @@ abstract: "La vision reste un paradoxe : comment un processus aussi complexe qu�
   Rey, je montrerai comment ces créations deviennent des outils pour décrypter certains
   mécanismes cachés de la vision — à l’heure où l’IA interroge notre rapport au réel."
 
+projects: art-science
+
 slides: 2026-04-11-intelligence-du-regard
 
 links:

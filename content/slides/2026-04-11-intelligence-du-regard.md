@@ -17,6 +17,8 @@ title: 2026-04-11-intelligence-du-regard
 
 summary: L'intelligence du regard
 
+projects: art-science
+
 ---
 
 <section>
