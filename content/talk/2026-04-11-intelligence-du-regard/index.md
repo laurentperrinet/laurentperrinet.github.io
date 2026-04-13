@@ -24,6 +24,7 @@ slides: 2026-04-11-intelligence-du-regard
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-04-11-intelligence-du-regard
+  
 ---
 
 
