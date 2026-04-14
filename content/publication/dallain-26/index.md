@@ -17,7 +17,7 @@ tags:
 - Image Classification
 - Energy-efficient Computer Vision
 - name: arXiv
-  url: http://arxiv.org/abs/2603.09613
+  url: https://arxiv.org/abs/2603.09613
 
 ---
 

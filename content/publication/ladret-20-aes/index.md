@@ -35,7 +35,7 @@ grants:
 - anr-horizontal-v1
 links:
 - name: URL
-  url: http://aes.amegroups.com/article/view/5214
+  url: https://aes.amegroups.com/article/view/5214
 
 publication: '*Annals of Eye Science*'
 publication_types:

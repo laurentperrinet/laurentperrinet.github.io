@@ -12,7 +12,7 @@ abstract: 'We describe the theoretical formulation of a learning algorithm in a 
   inhibition and provides a dynamical implementation close to the concept of neural
   assemblies from Hebb [3]). We present here results of simulation of this network
   with small natural images and compare it to the Sparsenet solution. Extending it
-  to realistic images and to the NEST simulator http://www.nest-initiative.org/, we
+  to realistic images and to the NEST simulator https://www.nest-initiative.org/, we
   show that this learning algorithm based on the properties of neural computations
   produces adaptive and efficient representations in V1. 1. Olshausen B, Field DJ:
   Sparse coding with an overcomplete basis set: A strategy employed by V1? Vision
@@ -28,7 +28,7 @@ projects:
 - facets-itn
 links:
 - name: URL
-  url: http://dx.doi.org/10.1186/1471-2202-8-S2-P206
+  url: https://doi.org/10.1186/1471-2202-8-S2-P206
 publication: '*Sixteenth Annual Computational Neuroscience Meeting: CNS*2007, Toronto,
   Canada. 7--12 July 2007*'
 publication_types:

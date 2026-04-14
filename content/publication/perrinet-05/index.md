@@ -8,7 +8,7 @@ projects:
 - facets
 links:
 - name: URL
-  url: http://dx.doi.org/10.1007/11550822_27
+  url: https://doi.org/10.1007/11550822_27
 publication: '*International Conference on Artificial Neural Networks*'
 publication_types:
 - inproceedings

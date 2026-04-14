@@ -31,7 +31,7 @@ projects:
 - facets
 links:
 - name: URL
-  url: http://journal.frontiersin.org/article/10.3389/fncir.2016.00037/full
+  url: https://journal.frontiersin.org/article/10.3389/fncir.2016.00037/full
 - name: HAL
   url: https://hal.science/hal-02062034
 

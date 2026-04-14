@@ -12,7 +12,7 @@ grants:
 - anr-rem
 links:
 - name: URL
-  url: http://jov.arvojournals.org/article.aspx?doi=10.1167/16.12.1356
+  url: https://jov.arvojournals.org/article.aspx?doi=10.1167/16.12.1356
 
 publication: '*Proceedings of VSS*'
 publication_types:

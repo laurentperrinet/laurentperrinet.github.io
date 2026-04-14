@@ -21,7 +21,7 @@ links:
 - name: Code
   url: https://github.com/bicv/Perrinet16EUVIP
 - name: URL
-  url: http://ieeexplore.ieee.org/document/7764592/
+  url: https://ieeexplore.ieee.org/document/7764592/
 - name: arXiv
   url: https://arxiv.org/abs/1702.02485
 

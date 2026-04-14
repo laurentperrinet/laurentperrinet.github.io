@@ -28,7 +28,7 @@ links:
 - name: Code
   url: https://github.com/laurentperrinet/PerrinetBednar15
 - name: URL
-  url: http://www.nature.com/articles/srep11400
+  url: https://www.nature.com/articles/srep11400
 - name: HAL
   url: https://hal.science/hal-01202447
 math: true
@@ -44,7 +44,7 @@ title: Edge co-occurrences can account for rapid categorization of natural versu
   animal images
 ---
 
-* [supplementary information](http://www.nature.com/article-assets/npg/srep/2015/150622/srep11400/extref/srep11400-s1.pdf)
+* [supplementary information](https://www.nature.com/article-assets/npg/srep/2015/150622/srep11400/extref/srep11400-s1.pdf)
 * [supplementary material](PerrinetBednar15supplementary.pdf)
 # A study of how people can quickly spot animals by sight is helping uncover the workings of the human brain.
 Scientists examined why volunteers who were shown hundreds of pictures - some with animals and some without - were able to detect animals in as little as one-tenth of a second.

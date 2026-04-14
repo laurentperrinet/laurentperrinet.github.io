@@ -26,7 +26,7 @@ projects:
 - facets
 links:
 - name: URL
-  url: http://www.ncbi.nlm.nih.gov/pubmed/20490645
+  url: https://www.ncbi.nlm.nih.gov/pubmed/20490645
 
 publication: '*Journal of Computational Neuroscience*'
 publication_types:

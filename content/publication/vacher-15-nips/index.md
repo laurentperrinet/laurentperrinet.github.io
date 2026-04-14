@@ -12,7 +12,7 @@ links:
 - name: Pdf
   url: https://hal.science/hal-01225867
 - name: PDF
-  url: http://papers.nips.cc/paper/5769-biologically-inspired-dynamic-textures-for-probing-motion-perception.pdf
+  url: https://papers.nips.cc/paper/5769-biologically-inspired-dynamic-textures-for-probing-motion-perception.pdf
 - name: arXiv
   url: https://arxiv.org/abs/1511.02705
 

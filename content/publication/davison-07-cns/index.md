@@ -2,7 +2,7 @@
 abstract: Trends in programming language development and adoption point to Python
   as the high-level systems integration language of choice. Python leverages a vast
   developer-base external to the neuroscience community, and promises leaps in simulation
-  complexity and maintainability to any neural simulator that adopts it. PyNN http://neuralensemble.org/PyNN
+  complexity and maintainability to any neural simulator that adopts it. PyNN https://neuralensemble.org/PyNN
   strives to provide a uniform application programming interface (API) across neural
   simulators. Presently NEURON and NEST are supported, and support for other simulators
   and neuromorphic VLSI hardware is under development. With PyNN it is possible to
@@ -36,7 +36,7 @@ projects:
 - open-science
 links:
 - name: URL
-  url: http://dx.doi.org/10.1186/1471-2202-8-S2-P2
+  url: https://doi.org/10.1186/1471-2202-8-S2-P2
 publication: '*Sixteenth Annual Computational Neuroscience Meeting: CNS*2007, Toronto,
   Canada. 7--12 July 2007*'
 publication_types:

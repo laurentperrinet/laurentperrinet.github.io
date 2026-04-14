@@ -34,7 +34,7 @@ doi: 10.1167/11.11.749
 featured: false
 links:
 - name: URL
-  url: http://dx.doi.org/10.1167/11.11.749
+  url: https://doi.org/10.1167/11.11.749
 publication: '*Journal of Vision*'
 publication_types:
 - inproceedings

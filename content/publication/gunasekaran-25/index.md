@@ -41,7 +41,7 @@ links:
 - name: PDF
   url: https://www.nature.com/articles/s41467-025-63786-4.epdf
 - name: arXiv
-  url: http://arxiv.org/abs/2410.15217
+  url: https://arxiv.org/abs/2410.15217
 - name: HAL
   url: https://hal.science/hal-05293576
 ---

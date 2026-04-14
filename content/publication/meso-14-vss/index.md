@@ -36,7 +36,7 @@ grants:
 - anr-speed
 links:
 - name: URL
-  url: http://dx.doi.org/10.1167/14.10.491
+  url: https://doi.org/10.1167/14.10.491
 
 publication: '*Journal of Vision*'
 publication_types:

@@ -1,15 +1,15 @@
 ---
-abstract: 'NeuralEnsemble (http://neuralensemble.org) is a multilateral effort to
+abstract: 'NeuralEnsemble (https://neuralensemble.org) is a multilateral effort to
   coordinate and organise neuroscience software development efforts based around the
   Python programming language into a larger, meta-simulator software system. To this
   end, NeuralEnsemble hosts services for source code management and bug tracking (Subversion/Trac)
   for a number of open-source neuroscience tools, organizes an annual workshop devoted
   to collaborative software development in neuroscience, and manages a google-group
-  discussion forum. Here, we present two NeuralEnsemble hosted projects: PyNN (http://neuralensemble.org/PyNN)
+  discussion forum. Here, we present two NeuralEnsemble hosted projects: PyNN (https://neuralensemble.org/PyNN)
   is a package for simulator-independent specification of neuronal network models.
   You can write the code for a model once, using the PyNN API, and then run it without
   modification on any simulator that PyNN supports. Currently NEURON, NEST, PCSIM
-  and a VLSI hardware implementation are fully supported. NeuroTools (http://neuralensemble.org/NeuroTools)
+  and a VLSI hardware implementation are fully supported. NeuroTools (https://neuralensemble.org/NeuroTools)
   is a set of tools to manage, store and analyse computational neuroscience simulations.
   It has been designed around PyNN, but can also be used for data from other simulation
   environments or even electrophysiological measurements. We will illustrate how the

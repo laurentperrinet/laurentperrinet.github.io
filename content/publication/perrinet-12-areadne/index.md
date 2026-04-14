@@ -28,7 +28,7 @@ projects:
 - codde
 
 publication: '*Proceedings of AREADNE, Santorini, Greece, 21-24 June 2012, published
-  by The AREADNE Foundation, Inc., Cambridge, Massachusetts, USA, http://areadne.org*'
+  by The AREADNE Foundation, Inc., Cambridge, Massachusetts, USA, https://areadne.org*'
 publication_types:
 - inproceedings
 tags:

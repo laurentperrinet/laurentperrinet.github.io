@@ -35,7 +35,7 @@ grants:
 - codde
 links:
 - name: URL
-  url: http://dx.doi.org/10.1167/14.10.110
+  url: https://doi.org/10.1167/14.10.110
 
 publication: '*Journal of Vision*'
 publication_types:

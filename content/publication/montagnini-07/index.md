@@ -27,7 +27,7 @@ projects:
 - facets-itn
 links:
 - name: URL
-  url: http://dx.doi.org/10.1016/j.jphysparis.2007.10.013
+  url: https://doi.org/10.1016/j.jphysparis.2007.10.013
 publication: '*Neuro-Computation: From Sensorimotor Integration to Computational Frameworks*'
 publication_types:
 - article-journal
