@@ -36,7 +36,7 @@ projects:
 - codde
 links:
 - name: URL
-  url: http://dx.doi.org/10.1016/j.visres.2010.10.021
+  url: https://doi.org/10.1016/j.visres.2010.10.021
 
 publication: '*Vision research*'
 publication_types:

@@ -12,7 +12,7 @@ projects:
 - codde
 links:
 - name: URL
-  url: http://dx.doi.org/10.1167/10.7.545
+  url: https://doi.org/10.1167/10.7.545
 
 publication: '*Vision Science Society*'
 publication_types:

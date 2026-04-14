@@ -8,7 +8,7 @@ doi: 10.1016/j.neucom.2004.01.133
 featured: false
 links:
 - name: URL
-  url: http://dx.doi.org/10.1016/j.neucom.2004.01.133
+  url: https://doi.org/10.1016/j.neucom.2004.01.133
 publication: '*Neurocomputing*'
 publication_types:
 - article-journal

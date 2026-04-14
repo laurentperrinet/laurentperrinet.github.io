@@ -11,7 +11,7 @@ grants:
 - anr-bala-v1
 links:
 - name: URL
-  url: http://goo.gl/RJpJR4
+  url: https://goo.gl/RJpJR4
 
 publication: '*Proceedings of COSYNE*'
 publication_types:

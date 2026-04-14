@@ -26,7 +26,7 @@ links:
 - name: Code
   url: https://github.com/bicv/Perrinet2015BICV_sparse
 - name: URL
-  url: http://onlinelibrary.wiley.com/doi/10.1002/9783527680863.ch14/summary
+  url: https://onlinelibrary.wiley.com/doi/10.1002/9783527680863.ch14/summary
 - name: arXiv
   url: https://arxiv.org/abs/1701.06859
 publication: '*Biologically Inspired Computer Vision*'

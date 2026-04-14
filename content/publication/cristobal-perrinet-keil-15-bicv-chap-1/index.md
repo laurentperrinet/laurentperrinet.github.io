@@ -20,7 +20,7 @@ grants:
 - brain-scales
 links:
 - name: URL
-  url: http://bicv.github.io/chap1/
+  url: https://bicv.github.io/chap1/
 publication: '*Biologically Inspired Computer Vision*'
 publication_types:
 - inbook

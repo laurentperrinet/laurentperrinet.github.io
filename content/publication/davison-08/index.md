@@ -17,7 +17,7 @@ abstract: Computational neuroscience has produced a diversity of software for si
   and by providing a foundation for simulator-agnostic analysis, visualization and
   data-management tools. PyNN increases the reliability of modelling studies by making
   it much easier to check results on multiple simulators. PyNN is open-source software
-  and is available from http://neuralensemble.org/PyNN.
+  and is available from https://neuralensemble.org/PyNN.
 authors:
 - Andrew P Davison
 - Daniel Bruderle
@@ -34,7 +34,7 @@ grants:
 - facets
 links:
 - name: URL
-  url: http://dx.doi.org/10.3389/neuro.11.011.2008
+  url: https://doi.org/10.3389/neuro.11.011.2008
 - name: HAL
   url: https://hal.science/hal-00586786
 projects:

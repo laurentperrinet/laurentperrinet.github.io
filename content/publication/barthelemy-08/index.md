@@ -34,7 +34,7 @@ projects:
 - facets
 links:
 - name: URL
-  url: http://dx.doi.org/10.1016/j.visres.2007.10.020
+  url: https://doi.org/10.1016/j.visres.2007.10.020
 
 publication: '*Vision research*'
 publication_types:

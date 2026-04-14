@@ -35,7 +35,7 @@ links:
 - name: Code
   url: https://github.com/bicv/LogGabor
 - name: URL
-  url: http://dx.doi.org/10.1007/s11263-006-0026-8
+  url: https://doi.org/10.1007/s11263-006-0026-8
 publication: '*International Journal of Computer Vision*'
 publication_types:
 - article-journal

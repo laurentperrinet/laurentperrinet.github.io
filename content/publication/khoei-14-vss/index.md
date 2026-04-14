@@ -35,7 +35,7 @@ projects:
 - facets-itn
 links:
 - name: URL
-  url: http://dx.doi.org/10.1167/14.10.471
+  url: https://doi.org/10.1167/14.10.471
 
 publication: '*Journal of Vision*'
 publication_types:

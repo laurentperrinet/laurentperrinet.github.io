@@ -24,7 +24,7 @@ projects:
 - facets
 links:
 - name: URL
-  url: http://dx.doi.org/10.1016/j.jphysparis.2009.11.004
+  url: https://doi.org/10.1016/j.jphysparis.2009.11.004
 
 publication: '*Journal of Physiology-Paris*'
 publication_types:

@@ -25,7 +25,7 @@ image:
   focal_point: Smart
 links:
 - name: URL
-  url: http://dx.doi.org/10.3389/fpsyg.2012.00151
+  url: https://doi.org/10.3389/fpsyg.2012.00151
 publication: '*Frontiers in Psychology*'
 publication_types:
 - article-journal

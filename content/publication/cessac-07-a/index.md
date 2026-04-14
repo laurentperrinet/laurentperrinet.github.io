@@ -11,7 +11,7 @@ projects:
 - facets
 links:
 - name: URL
-  url: http://www.springerlink.com/index/10.1140/epjst/e2007-00057-3
+  url: https://www.springerlink.com/index/10.1140/epjst/e2007-00057-3
 publication: '*Topics in Dynamical Neural Networks: From Large Scale Neural Networks
   to Motor Control and Vision*'
 publication_types:

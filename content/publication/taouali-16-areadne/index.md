@@ -29,7 +29,7 @@ abstract: 'Natural scenes generally contain objects in motion. The local orienta
   moving bar can be progressively decoded in V1. This is a signature of a dynamic
   solution to the aperture problem in area V1, similarly to what was already found
   in area MT~[5]. $[1]$ J. Burge, W. Geisler. Optimal speed estimation in natural
-  image movies predicts human performance. Nature Communications, 6, 7900. http://doi.org/10.1038/ncomms8900,
+  image movies predicts human performance. Nature Communications, 6, 7900. https://doi.org/10.1038/ncomms8900,
   2015.  $[2]$ L. Perrinet. Role of homeostasis in learning sparse representations.
   ıt Neural Computation, 22(7):1812--36, 2010.  $[3]$ M. Jazayeri and J.A. Movshon.
   Optimal representation of sensory information by neural populations. ıt Nature Neuroscience,

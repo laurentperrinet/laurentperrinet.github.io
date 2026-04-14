@@ -31,7 +31,7 @@ doi: 10.1152/jn.00622.2010
 featured: false
 links:
 - name: URL
-  url: http://dx.doi.org/10.1152/jn.00622.2010
+  url: https://doi.org/10.1152/jn.00622.2010
 publication: '*Journal of Neurophysiology*'
 publication_types:
 - article-journal

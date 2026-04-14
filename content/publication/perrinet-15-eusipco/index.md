@@ -20,7 +20,7 @@ grants:
 - brain-scales
 links:
 - name: URL
-  url: http://dx.doi.org/10.1109/EUSIPCO.2015.7362781
+  url: https://doi.org/10.1109/EUSIPCO.2015.7362781
 
 publication: '*European Signal Processing Conference 2015 (EUSIPCO 2015)*'
 publication_types:

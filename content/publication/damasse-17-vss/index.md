@@ -10,7 +10,7 @@ grants:
 - anr-rem
 links:
 - name: URL
-  url: http://jov.arvojournals.org/article.aspx?doi=10.1167/17.10.273
+  url: https://jov.arvojournals.org/article.aspx?doi=10.1167/17.10.273
 
 publication: '*Proceedings of Vision Sciences Society Annual Meeting*'
 publication_types:

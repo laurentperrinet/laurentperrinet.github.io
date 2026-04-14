@@ -27,7 +27,7 @@ doi: 10.1371/journal.pone.0047502
 featured: false
 links:
 - name: URL
-  url: http://dx.doi.org/10.1371/journal.pone.0047502
+  url: https://doi.org/10.1371/journal.pone.0047502
 publication: '*PLoS ONE*'
 publication_types:
 - article-journal

@@ -33,7 +33,7 @@ grants:
 - brain-scales
 links:
 - name: URL
-  url: http://www.ncbi.nlm.nih.gov/pubmed/26445864
+  url: https://www.ncbi.nlm.nih.gov/pubmed/26445864
 - name: HAL
   url: https://hal.science/hal-01396311
 

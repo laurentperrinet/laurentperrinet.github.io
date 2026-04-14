@@ -44,6 +44,6 @@ title: Efficient learning of sparse image representations using homeostatic regu
 ---
 
 * This work is a followup of {{< cite page="/publication/perrinet-10-shl" view="4" >}}
-* the [poster (PDF)](https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars/raw/master/docs/BoutinRuffierPerrinet17neurofrance.pdf) will be presented Thursday, May 18 @ [NeuroFrance, Bordeaux](http://www.professionalabstracts.com/sn2017/programme-sn2017.pdf).
+* the [poster (PDF)](https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars/raw/master/docs/BoutinRuffierPerrinet17neurofrance.pdf) will be presented Thursday, May 18 @ [NeuroFrance, Bordeaux](https://www.professionalabstracts.com/sn2017/programme-sn2017.pdf).
 * see a follow-up publication on {{< cite page="/publication/perrinet-19-hulk" view="4" >}}
 * see a related work describing SDPC in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}

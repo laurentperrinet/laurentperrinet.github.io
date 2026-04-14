@@ -37,7 +37,7 @@ projects:
 - codde
 links:
 - name: URL
-  url: http://www.frontiersin.org/myfrontiers/abstractdetails.aspx?abs_doi=10.3389/conf.fnins.2012.86.00016
+  url: https://www.frontiersin.org/myfrontiers/abstractdetails.aspx?abs_doi=10.3389/conf.fnins.2012.86.00016
 
 publication: '*Front. Neurosci. Conference Abstract: Neural Coding, Decision-Making
   and Integration in Time*'

@@ -33,9 +33,9 @@ grants:
 - brain-scales
 links:
 - name: Code
-  url: http://bicv.github.io/toc/
+  url: https://bicv.github.io/toc/
 - name: URL
-  url: http://onlinelibrary.wiley.com/book/10.1002/9783527680863
+  url: https://onlinelibrary.wiley.com/book/10.1002/9783527680863
 publication: ''
 publication_types:
 - book
@@ -55,5 +55,5 @@ This book contains 17 chapters that have been organized in four different parts:
  * Modeling
  * Applications
 * Notable chapters in the book: {{< cite page="/publication/montagnini-15-bicv" view="4" >}} {{< cite page="/publication/perrinet-15-bicv" view="4" >}}
-See the [Table of contents](http://bicv.github.io/toc/).
+See the [Table of contents](https://bicv.github.io/toc/).
 {{< figure src="https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/mindmap.png" >}}

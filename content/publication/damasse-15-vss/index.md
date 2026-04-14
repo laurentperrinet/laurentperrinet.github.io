@@ -35,7 +35,7 @@ grants:
 - anr-rem
 links:
 - name: URL
-  url: http://jov.arvojournals.org/article.aspx?articleid=2434129
+  url: https://jov.arvojournals.org/article.aspx?articleid=2434129
 
 publication: '*Proceedings of VSS*'
 publication_types:

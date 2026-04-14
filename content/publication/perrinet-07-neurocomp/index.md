@@ -28,7 +28,7 @@ projects:
 - facets-itn
 links:
 - name: URL
-  url: http://dx.doi.org/10.1016/j.jphysparis.2007.10.011
+  url: https://doi.org/10.1016/j.jphysparis.2007.10.011
 publication: '*Journal of Physiology-Paris*'
 publication_types:
 - article-journal

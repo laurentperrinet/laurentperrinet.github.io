@@ -24,7 +24,7 @@ projects:
 - codde
 links:
 - name: URL
-  url: http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.3229.html
+  url: https://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.3229.html
 
 publication: '*Nature Neuroscience*'
 publication_types:

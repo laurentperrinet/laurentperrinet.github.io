@@ -11,7 +11,7 @@ projects:
 - facets
 links:
 - name: URL
-  url: http://dx.doi.org/10.1155/2007/90727
+  url: https://doi.org/10.1155/2007/90727
 publication: '*EURASIP Journal on Advances in Signal Processing*'
 publication_types:
 - article-journal

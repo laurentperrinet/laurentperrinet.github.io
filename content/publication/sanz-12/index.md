@@ -25,7 +25,7 @@ links:
 - name: HAL
   url: https://hal.science/hal-00726828
 - name: URL
-  url: http://dx.doi.org/10.1152/jn.00737.2011
+  url: https://doi.org/10.1152/jn.00737.2011
 - name: arXiv
   url: https://arxiv.org/abs/1208.6467
 - name: Supp
