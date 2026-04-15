@@ -23,6 +23,9 @@ abstract: 'Working memory—the ability to store and retrieve precise temporal p
   time. Our results demonstrate that heterogeneous synaptic delays provide an efficient,
   biologically plausible substrate for working memory in SNNs, enabling energy-efficient
   neuromorphic implementations on edge devices.'
+
+slides: 2026-04-16-cerco
+
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/2026-04-16-cerco/
