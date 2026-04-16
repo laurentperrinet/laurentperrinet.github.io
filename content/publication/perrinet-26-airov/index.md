@@ -12,4 +12,6 @@ slides: 2026-04-15-airov
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-26-airov/
+- name: Preprint
+  url: http://arxiv.org/abs/2604.14096
 ---
