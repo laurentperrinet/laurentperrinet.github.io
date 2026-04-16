@@ -273,7 +273,7 @@ causal par rapport à ce que fait l'activité (?)
 ---
 ### Exploitation d'un timing précis
 
-{{< figure src="http://i.stack.imgur.com/ixnrz.png" title="[[Mainen & Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]" width="80%" >}}
+{{< figure src="https://i.sstatic.net/ixnrz.png" title="[[Mainen & Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]" width="80%" >}}
 
 {{< speaker_note >}}
 mainen et sejnowski
