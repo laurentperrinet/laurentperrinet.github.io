@@ -15,3 +15,5 @@ links:
 - name: Preprint
   url: http://arxiv.org/abs/2604.14096
 ---
+
+* see a follow-up: {{< cite page="/talk/2026-04-16-cerco" view="4" >}}
