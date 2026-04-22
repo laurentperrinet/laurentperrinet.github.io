@@ -14,6 +14,10 @@ links:
   url: https://laurentperrinet.github.io/publication/perrinet-26-airov/
 - name: Preprint
   url: http://arxiv.org/abs/2604.14096
+- name: Code
+  url: https://github.com/laurentperrinet/MNESIS
 ---
 
+* See the accompanying code: https://github.com/laurentperrinet/MNESIS
+* The code and results at the time of the presentation is accessible [in this commit](https://github.com/laurentperrinet/MNESIS/commit/2e5448655fb5cd8714ed9b7f1dfa05bc3f13f682)
 * see a follow-up: {{< cite page="/talk/2026-04-16-cerco" view="4" >}}
