@@ -51,10 +51,11 @@ What happens today:
 scientific talk* about computational neuroscience and neuroAI - in line with:
 {{< cite page="talk/2025-12-12-main/" view="4" >}} {{< cite page="talk/2025-04-18-vibration-apparences" view="4" >}}
 
-- We will see and discuss some actual works that emerged from that collaboration
+- We will see and discuss some actual works that emerged from that collaboration and notably this art exhibit:
+
+{{< cite page="/post/2024-11-07_vibration-apparences/" view="4" >}}
 
 #DeepLearning #ComputerVision #AI #Research #NeuralNetworks #NeuroAI #OpenScience #artScience
-
 
 {{% callout note %}}
 

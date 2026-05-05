@@ -23,6 +23,11 @@ image:
 
 {{< cite page="/talk/2025-04-18-vibration-apparences/" view="4" >}}
 
+et cette présentation en anglais:
+
+{{< cite page="/talk/2026-01-19-art-and-science/" view="4" >}}
+
+
 **À l'occasion de la Biennale d’Aix-en-Provence, dans le cadre de CHRONIQUES – Biennale des Imaginaires Numériques, l'association Arts Vivants présente au musée Granet, du 8 novembre 2024 au 19 janvier 2025, une exposition consacrée à l'artiste contemporain Étienne Rey et intitulée *La vibration des apparences.***
 
 
@@ -33,8 +38,6 @@ Depuis 2011, Etienne Rey collabore avec le Dr. Laurent Perrinet de l'Institut de
 {{% /callout %}}
 
 {{< figure src="2024-11-08_provence.png" title="Encart dans *La Provence* du 8 novembre 2024." >}}
-
-
 
 
 ## La vibration des apparences
