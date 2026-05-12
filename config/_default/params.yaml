@@ -4,7 +4,6 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-
 appearance:
   theme_day: minimal
   theme_night:
@@ -12,13 +11,13 @@ appearance:
   font_size: L
 
 # SEO
-
 marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'Scientific website of Laurent Udo Perrinet'
+    org_name: 'CNRS / Aix-Marseille Université'
+    description: "Laurent Perrinet — computational neuroscientist at CNRS Marseille. Research on predictive processing, spiking neural networks, and neuromorphic computing. 63+ publications, h-index 30."
+
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -63,7 +62,6 @@ header:
 
 
 # Site footer
-
 footer:
   copyright:
     notice: '© {year} <a rel="me" href="https://neuromatch.social/@laurentperrinet">Laurent U Perrinet</a>. This work is licensed under {license}'
@@ -74,26 +72,21 @@ footer:
       allow_commercial: false
 
 # Localization
-
 locale:
   date_format: '2006-01-02'
   time_format: '13:04'
 
 # Site features
-
-
-# Site features
-
 features:
   syntax_highlighter:
-    enable: false
+    enable: true
     extra_languages:
       - python
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
-    enable: false
+    enable: true
   repository:
     url: 'https://github.com/laurentperrinet/laurentperrinet.github.io'
     content_dir: content

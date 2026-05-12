@@ -2,3 +2,17 @@
 <link rel="icon" href="/
 
 " type="image/x-icon">
+
+{{ if eq .Type "publication" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": {{ .Title | jsonify }},
+  "datePublished": {{ .Date.Format "2006-01-02" | jsonify }},
+  "url": {{ .Permalink | jsonify }},
+  "description": {{ .Params.abstract | jsonify }},
+  {{ with .Params.doi }}"sameAs": "https://doi.org/{{ . }}"{{ end }}
+}
+</script>
+{{ end }}
