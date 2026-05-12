@@ -84,9 +84,9 @@ features:
       - python
       - latex
   math:
-    enable: true
+    enable: false
   privacy_pack:
-    enable: true
+    enable: false
   repository:
     url: 'https://github.com/laurentperrinet/laurentperrinet.github.io'
     content_dir: content
@@ -133,9 +133,7 @@ publications:
   date_format: January 2006
   citation_style: apa
 
-
 # Security
-
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
