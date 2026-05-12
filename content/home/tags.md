@@ -3,6 +3,8 @@
 # Docs: https://docs.hugoblox.com/getting-started/page-builder/
 widget: tag_cloud
 
+active: false
+
 # This file represents a page section.
 headless: true
 
