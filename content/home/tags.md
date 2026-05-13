@@ -16,6 +16,7 @@ subtitle: ''
 
 content:
 # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
+  # taxonomy: tags
   taxonomy: 
     - HTML
     - RSS  

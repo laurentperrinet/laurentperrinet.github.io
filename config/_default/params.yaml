@@ -47,7 +47,7 @@ header:
     # Shop a call-to-action button in the top right?
     button:
       enable: true
-      text: 'Scientific website of Laurent Udo Perrinet'
+      text: "Laurent Perrinet — computational neuroscientist at CNRS Marseille. Research on predictive processing, spiking neural networks, and neuromorphic computing. 63+ publications, h-index 30."
       url: "https://laurentperrinet.github.io"
     # Let the user choose between light or dark mode?
     show_theme_chooser: false
