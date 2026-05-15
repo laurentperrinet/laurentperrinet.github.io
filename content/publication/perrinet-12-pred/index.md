@@ -26,6 +26,9 @@ links:
   url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3472550/
 - name: arXiv
   url: https://arxiv.org/abs/1208.6471
+- name: Doi
+  url: https://doi.org/10.1162/NECO_a_00332
+
 publication: '*Neural Computation*'
 publication_types:
 - article-journal
