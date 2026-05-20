@@ -18,7 +18,7 @@
 }
 </script>
 
-{{ if eq .Type "publication" }}
+{{/* {{ if eq .Type "publication" }}
 <meta name="citation_title" content="{{ .Title }}">
 {{ range .Params.authors }}
 <meta name="citation_author" content="{{ . }}">
@@ -30,4 +30,4 @@
 {{ with .Params.doi }}
 <meta name="citation_doi" content="{{ . }}">
 {{ end }}
-{{ end }}
+{{ end }} */}}
