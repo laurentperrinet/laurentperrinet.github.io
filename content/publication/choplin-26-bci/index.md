@@ -33,6 +33,8 @@ tags:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/choplin-26-bci
+- name: HAL
+  url: https://hal.science/hal-05627987
 - name: IEEE
   url: https://ieeexplore.ieee.org/document/11435104
 ---
