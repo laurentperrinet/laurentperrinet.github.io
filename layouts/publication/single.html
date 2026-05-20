@@ -1,0 +1,33 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": "{{ .Title }}",
+  "author": [{{ range .Params.authors }}"{{ . }}"{{ end }}],
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "DOI",
+    "value": "{{ .Params.doi }}"
+  },
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "{{ .Params.publication }}"
+  },
+  "url": "{{ .Permalink }}"
+}
+</script>
+
+{{ if eq .Type "publication" }}
+<meta name="citation_title" content="{{ .Title }}">
+{{ range .Params.authors }}
+<meta name="citation_author" content="{{ . }}">
+{{ end }}
+<meta name="citation_publication_date" content="{{ .Date.Format "2006/01/02" }}">
+{{ with .Params.publication }}
+<meta name="citation_journal_title" content="{{ . }}">
+{{ end }}
+{{ with .Params.doi }}
+<meta name="citation_doi" content="{{ . }}">
+{{ end }}
+{{ end }}
