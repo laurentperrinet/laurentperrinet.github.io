@@ -6,7 +6,7 @@ authors:
 - Laurent Rodriguez
 - Laurent U Perrinet
 - Benoît Miramond
-date: '2026-11-01'
+date: '2026-01-01'
 publishDate: '2026-01-31T14:12:18.239393Z'
 publication_types:
 - preprint
