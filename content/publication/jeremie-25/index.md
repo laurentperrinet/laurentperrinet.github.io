@@ -3,6 +3,7 @@ authors:
 - Jean-Nicolas Jérémie
 - Emmanuel Daucé
 - Laurent U Perrinet
+
 date: 2026-02-23
 doi: 10.3390/vision10020017
 grants:
@@ -12,7 +13,7 @@ links:
   url: https://www.mdpi.com/2411-5150/10/2/17
 - name: arXiv
   url: https://arxiv.org/abs/2402.15480
-publication: 'Vision'
+publication: '*Vision*'
 publication_types:
 - article-journal
 publishDate: '2024-08-06T15:13:44.587984Z'

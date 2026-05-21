@@ -39,7 +39,7 @@ title: Diffraction monochromatique, spectre audiographique
   - Farid Ameziane, Ecole Nationale Supérieure d’Architecture de Marseille Luminy (EAML), Directeur de l’InsARTis, Marseille
   - Guillaume Bonello, Chargé de mission, POPsud, co/OAMP, Marseille
   - Fabrice Mortessagne, Directeur du laboratoire de Physique de la Matière Condensée (LPMC), Nice-Sophia Antipolis
-  - Laurent Perrinet, Chercheur à l’Institut de Neurosciences Cognitives de Méditerranée, Equipe DyVA, Marseille
+  - Laurent U Perrinet, Chercheur à l’Institut de Neurosciences Cognitives de Méditerranée, Equipe DyVA, Marseille
   - Modératrice : Colette Tron, Fondatrice d’Alphabetville, Marseille
  - Entrée libre & gratuite - 19h, durée 2h.
  - Renseignements pratiques :

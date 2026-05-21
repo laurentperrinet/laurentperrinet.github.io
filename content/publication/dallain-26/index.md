@@ -9,7 +9,7 @@ authors:
 date: '2026-11-01'
 publishDate: '2026-01-31T14:12:18.239393Z'
 publication_types:
-- manuscript
+- preprint
 tags:
 - Vision Transformer
 - Neuro-inspired AI

@@ -5,14 +5,13 @@ authors:
 - Assel Kembay
 - Hugo Ladret
 - Rui-Jie Zhu
-- Laurent Perrinet
+- Laurent U Perrinet
 - Omid Kavehei
 - Jason Eshraghian
 date: '2025-08-29'
 publishDate: '2024-12-23T13:47:40.425008Z'
 publication_types:
 - manuscript
-doi: 10.48550/arXiv.2410.15217
 abstract: 'Accurate time-series forecasting is essential across a multitude of scientific
   and industrial domains, yet deep learning models often struggle with challenges
   such as capturing long-term dependencies and adapting to drift in data distributions
@@ -33,6 +32,7 @@ abstract: 'Accurate time-series forecasting is essential across a multitude of s
   a predictive feedback mechanism that adapts to data distribution drift, Future-Guided
   Learning offers a promising avenue for advancing time-series forecasting with deep
   learning.'
+doi: 10.1038/s41467-025-63786-4
 links:
 - name: URL
   url: https://www.nature.com/articles/s41467-025-63786-4
@@ -44,6 +44,7 @@ links:
   url: https://arxiv.org/abs/2410.15217
 - name: HAL
   url: https://hal.science/hal-05293576
+  
 ---
 
 

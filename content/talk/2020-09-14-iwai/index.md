@@ -20,7 +20,7 @@ abstract: Visual search is an essential cognitive ability, offering a prototypic
   processing taking the role of a value (or intrinsic reward) of the previous saccade.
 authors:
 - Emmanuel Daucé
-- Laurent Perrinet
+- Laurent U Perrinet
 date: 2020-09-14 18:00:00
 doi: 10.1007/978-3-030-64919-7_17
 event: IWAI 2020

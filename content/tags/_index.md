@@ -1,7 +1,7 @@
 ---
 # content/tags/_index.md
 cascade:
-  _build:
+  build:
     render: always
     list: always
   noindex: true

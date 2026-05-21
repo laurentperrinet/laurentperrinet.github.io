@@ -1,7 +1,7 @@
 ---
 title: Lab Tour for Art - Perception Collaboration
 authors:
-- Laurent Perrinet
+- Laurent U Perrinet
 - Etienne Rey
 date: '2026-01-01'
 publishDate: '2026-01-19T08:15:26.200728Z'

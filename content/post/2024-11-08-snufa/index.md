@@ -17,7 +17,7 @@ This online workshop brings together researchers in the fields of computational 
 ## Executive committee. 
 
 - [Melika Payvand](https://services.ini.uzh.ch/people/melika),
-- Laurent Perrinet,
+- Laurent U Perrinet,
 - [Dan Goodman](https://neural-reckoning.org/),
 - [Friedemann Zenke](https://zenkelab.org/).
 

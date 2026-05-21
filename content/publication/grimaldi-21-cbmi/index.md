@@ -37,6 +37,8 @@ links:
   url: https://laurentperrinet.github.io/publication/grimaldi-21-cbmi/
 - name: HAL
   url: https://hal.science/hal-03336554
+- name: Video
+  url: https://www.youtube.com/watch?v=KxX4pZKexCo&t=3335s
 
 publication: '*Content-Based Multimedia Indexing (CBMI) 2021*'
 publication_types:
@@ -49,7 +51,7 @@ tags:
 - neuromorphic hardware
 - online classification
 title: A homeostatic gain control mechanism to improve event-driven object recognition
-url_video: https://www.youtube.com/watch?v=KxX4pZKexCo&t=3335s
+
 ---
 
 * was presented at the [Bio-inspired circuits, systems and algorithms for multimedia](https://cbmi2021.univ-lille.fr/call-for-contributions#callforpapersspecialbioinspired) special session of the [Content-Based Multimedia Indexing (CBMI) 2021](https://cbmi2021.univ-lille.fr/) conference that you can [watch on Youtube](https://www.youtube.com/watch?v=KxX4pZKexCo&t=3335s).
