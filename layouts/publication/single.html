@@ -1,22 +1,22 @@
-{{/* <script type="application/ld+json">
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "ScholarlyArticle",
-  "headline": "{{ .Title }}",
-  "author": [{{ range .Params.authors }}"{{ . }}"{{ end }}],
+  "headline": {{ .Title | jsonify }},
+  "author": [{{ range $i, $a := .Params.authors }}{{ if $i }},{{ end }}{{ $a | jsonify }}{{ end }}],
   "datePublished": "{{ .Date.Format "2006-01-02" }}",
   "identifier": {
     "@type": "PropertyValue",
     "propertyID": "DOI",
-    "value": "{{ .Params.doi }}"
+    "value": {{ .Params.doi | jsonify }}
   },
   "isPartOf": {
     "@type": "Periodical",
-    "name": "{{ .Params.publication }}"
+    "name": {{ .Params.publication | jsonify }}
   },
   "url": "{{ .Permalink }}"
 }
-</script> */}}
+</script>
 
 {{ if eq .Type "publication" }}
 <meta name="citation_title" content="{{ .Title }}">
