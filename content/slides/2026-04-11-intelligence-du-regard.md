@@ -176,7 +176,7 @@ La vision montre là toute sa créativité à créer elle-même des illusions.
 {{< speaker_note >}}
 Le cas de cette image est à ce titre remarquable.
 
-En 1976, la sonde Viking Orbiter a fotografía sous toutes les coutures la surface de Mars, que nous ne connaissions que par les télescopes. L'hypothèse de l'existence de canaux était née au début du siècle — et donc la possibilité d'une vie intelligente, les « Martiens ».
+En 1976, la sonde Viking Orbiter a fotographié sous toutes les coutures la surface de Mars, que nous ne connaissions que par les images obtenus via les télescopes terrestres. L'hypothèse de l'existence de canaux était née au début du siècle — et donc la possibilité d'une vie intelligente, les « Martiens ».
 
 Les résultats sont tombés : ils sont eux-mêmes sculptés dans la roche.
 {{< /speaker_note >}}
