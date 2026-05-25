@@ -644,7 +644,9 @@ Pour maintenant illustrer comment cette exploration peut avoir un intérêt en n
 
 {{< slide background-video="https://laurentperrinet.github.io/sciblog/files/2025-04-24-orienting-yourself-in-the-visual-flow-perturb.mp4" background-video-loop="true" background-video-muted="true" >}}
 
-<!-- ---
+<!-- 
+
+---
 
 ## La vision en action
 
@@ -765,11 +767,11 @@ L'intelligence du regard est dans son incarnation — cognition incarnée, Varel
 
 
 ---
-<!-- 
-## La vibration des apparences -->
+
+## La vibration des apparences
 
 {{< slide background-video="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" background-video-loop="true" background-video-muted="true" >}}
-<!-- {{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}} -->
+
 {{< speaker_note >}}
 
 {{< /speaker_note >}}
