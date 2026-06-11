@@ -8,6 +8,8 @@ summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
 ---
 
+*  "Anything that is in the world when you're born is normal and ordinary and is just a natural part of the way the world works. Anything that's invented between when you’re 15 and 35 is new and exciting and revolutionary and you can probably get a career in it. Anything invented after you're 35 is against the natural order of things." Douglas Adams
+  
 * “Subjective confidence is determined by the coherence of the story one has constructed, not by the quality and amount of the information that supports it.” Daniel Kahneman
 
 * "On n’est jamais plus esclave que quand on se croit libre sans l’être. / Celui qui ose se déclarer libre sent dans le moment même sa dépendance ; celui qui ne craint pas de se déclarer dépendant se sent libre. /Il n’y a pas d’autre moyen de se défendre contre la supériorité d’autrui que d’aimer." Goethe - Maximes et Réflexions, 1842
