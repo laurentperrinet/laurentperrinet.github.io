@@ -16,7 +16,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'CNRS / Aix-Marseille Université'
-    description: "Laurent Perrinet — computational neuroscientist at CNRS Marseille. Research on predictive processing, spiking neural networks, and neuromorphic computing. 63+ publications, h-index 30."
+    description: "Laurent Perrinet — Computational Neuroscience & Neuromorphic AI — computational neuroscientist at CNRS Marseille. Research on predictive processing, spiking neural networks, and neuromorphic computing. 63+ publications, h-index 30."
 
   analytics:
     google_analytics: ''
@@ -47,7 +47,7 @@ header:
     # Shop a call-to-action button in the top right?
     button:
       enable: true
-      text: "Laurent Perrinet — computational neuroscientist at CNRS Marseille. Research on predictive processing, spiking neural networks, and neuromorphic computing. 63+ publications, h-index 30."
+      text: "Laurent Perrinet — Computational Neuroscience & Neuromorphic AI — computational neuroscientist at CNRS Marseille. Research on predictive processing, spiking neural networks, and neuromorphic computing. 63+ publications, h-index 30."
       url: "https://laurentperrinet.github.io"
     # Let the user choose between light or dark mode?
     show_theme_chooser: false
