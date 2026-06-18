@@ -157,6 +157,7 @@ C'est dans ce cadre que nous avons expérimenté avec Etienne Rey sur des trames
 
 Je reviendrai sur le fait que vous pouvez transformer l'image en bougeant les yeux.
 {{< /speaker_note >}}
+
 ---
 
 ## La perception comme processus émergent
@@ -177,7 +178,7 @@ Plus récemment, au festival Ososphère à Strasbourg, Delaunay : un assemblage 
 <section>
 
 
-# Neurosciences computationnelles de la vision
+# Neurosciences computationnelles
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
@@ -187,7 +188,7 @@ Plus récemment, au festival Ososphère à Strasbourg, Delaunay : un assemblage 
 
 ---
 
-## Neurosciences computationnelles de la vision
+## Neurosciences computationnelles
 
 {{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Churchland92.png" title="[[Sejnowski, Koch & Churchland (1998)](http://www.hms.harvard.edu/bss/neuro/bornlab/nb204/papers/sejnowski-koch-churchland-science1988.pdf)]" width="50%" >}}
 
@@ -263,11 +264,17 @@ Plus récemment, au festival Ososphère à Strasbourg, Delaunay : un assemblage 
 ## Les Neurosciences Computationnelles c'est un métier ?
 
 
-{{< fragment >}}Ingénieur, chercheur, journaliste, ...{{< /fragment >}}
+{{< fragment >}}
+* Ingénieur, chercheur, journaliste, ...
+{{< /fragment >}}
 
-{{< fragment >}}Neurosciences Computationnelles pour l'IA{{< /fragment >}}
+{{< fragment >}}
+* Neurosciences Computationnelles pour l'IA
+{{< /fragment >}}
 
-{{< fragment >}}Neurosciences Computationnelles pour la biologie{{< /fragment >}}
+{{< fragment >}}
+* Neurosciences Computationnelles pour la biologie
+{{< /fragment >}}
 
 
 {{< speaker_note >}}
@@ -284,7 +291,7 @@ Plus récemment, au festival Ososphère à Strasbourg, Delaunay : un assemblage 
 <section>
 
 # [Topo Neurosciences Computationnelles](https://laurentperrinet.github.io/slides/2026-06-18-topo-neurocomp/?transition=fade)
-##	*[Laurent Perrinet](https://laurentperrinet.github.io/talk/2026-06-18-topo-neurocomp/)*
+##	*Laurent Perrinet*
 ###	<u>[Computational Neuroscience Center](https://conect-int.github.io)</u>
 ###	[2026-06-18]
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
