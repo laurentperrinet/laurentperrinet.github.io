@@ -244,12 +244,18 @@ Plus récemment, au festival Ososphère à Strasbourg, Delaunay : un assemblage 
 
 ## Modèles hybrides d'IA
 
-{{< figure src="https://knu-brainai.github.io/images/cnn.png" title="Utiliser des modèles d'apprentissage profond guidés par les objectifs pour comprendre le cortex sensoriel [Yamins & DiCarlo, 2016] "  width="70%" >}}
+{{< figure src="https://knu-brainai.github.io/images/cnn.png" title="Utiliser des modèles d'apprentissage profond pour comprendre le cortex sensoriel [Yamins & DiCarlo, 2016] "  width="70%" >}}
 
 {{< speaker_note >}}
 - un neurone unique est sélectif à certaines caractéristiques visuelles...
 
 {{< /speaker_note >}}
+
+---
+
+## Modèles de langage 
+
+{{< figure src="https://poloclub.github.io/transformer-explainer/article_assets/attention.png" title="Transformer: Attention is All You Need [Vaswani et al., 2017]"  width="70%" >}}
 
 
 ---
@@ -284,17 +290,6 @@ Plus récemment, au festival Ososphère à Strasbourg, Delaunay : un assemblage 
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
 [Tout public](https://laurentperrinet.github.io/project/tout-public/) / 
 Me contacter : [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
-
-{{< speaker_note >}}
-
-## Pour résumer
-
-La vision est magique.
-
-L'art peut en révéler la diversité.
-
-L'intelligence du regard est dans son incarnation — cognition incarnée, Varela.
-{{< /speaker_note >}}
 
 </section>
 
