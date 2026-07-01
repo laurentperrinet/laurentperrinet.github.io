@@ -11,8 +11,11 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of AREADNE*'
 links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/laine-26-areadne
+- name: Poster
+  url: https://alexandre-laine.github.io/files/2026_AREADNE-Poster.pdf
+- name: LinkedIn
+  url: https://www.linkedin.com/posts/ugcPost-7477633136114348033-Jze9
+
 ---
 
 
