@@ -30,7 +30,7 @@ This project seeks to leverage the unique capabilities of spiking neural network
 
 ## Relevant publications
 
-{{< cite page="publication/kronlandmartinet-25" view="4" >}}
+{{< cite page="publication/kronlandmartinet-26" view="4" >}}
 {{< cite page="publication/kronlandmartinet-25-snufa" view="4" >}}
 
 
