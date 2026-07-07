@@ -5,10 +5,11 @@ authors:
 - Thomas Kronland-Martinet
 - Stéphane Viollet
 - Laurent U Perrinet
-date: '2025-11-01'
-publishDate: '2025-11-19T14:23:54.316247Z'
+date: '2026-07-01'
+publishDate: '2026-07-19T14:23:54.316247Z'
+publication: '*Biological Cybernetics*'
 publication_types:
-- manuscript
+- article-journal
 links:
 - name: HAL
   url: https://hal.science/hal-05364582
