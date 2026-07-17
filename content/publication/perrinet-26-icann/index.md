@@ -12,7 +12,7 @@ publication: '*35th International Conference on Artificial Neural Networks (ICAN
 doi: 10.48550/arXiv.2604.14096
 links:
 - name: URL
-  url: https://laurentperrinet.github.io/publication/perrinet-26-icann/
+  url: https://laurentperrinet.github.io/publication/perrinet-26-icann
 - name: Preprint
   url: http://arxiv.org/abs/2604.14096
 - name: Code
