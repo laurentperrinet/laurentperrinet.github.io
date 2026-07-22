@@ -2,13 +2,18 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Site Overview
+
+- **Description**: The website of Laurent Perrinet, an academic in computational neuroscience.
+- **Content**: It details all his production, including publications, talks, slides, and more. 
+- **Note**: I like to link related content together (e.g., linking a talk to its corresponding paper).
+
 ## Build & Development Commands
 
-- **Local Development**: `npm run dev` (runs `hugo server --disableFastRender`) or `make test`
-- **Production Build**: `npm run build` (runs `hugo --minify`)
+- **Local Development**: `make test` (runs `hugo server --disableFastRender`) or `npm run dev`
 - **Clean Hugo Modules**: `make clean`
 - **Update Theme/Dependencies**: `make update` (runs `sh update_hugoblox.sh`)
-- **Deploy to GitHub Pages**: `make gitpages` (commits and pushes changes to `main`)
+- **Deploy to GitHub Pages**: `make gitpages` (commits and pushes changes to `main`, optionally with a custom message via `MESSAGE="your message"`)
 
 ## Architecture & Content Structure
 
