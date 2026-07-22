@@ -1,0 +1,50 @@
+{{/* Table Shortcode Override to fix getCSV deprecation */}}
+{{ $src := .Get "path" }}
+{{ $delimiter := .Get "delimiter" | default "," }}
+{{ $useHeaderRow := (eq (lower (.Get "header")) "true") | default true }}
+{{ $caption := .Get "caption" }}
+
+{{ $is_remote := strings.HasPrefix $src "http" }}
+{{ $rows := slice }}
+
+{{ if $is_remote }}
+  {{ $res := resources.GetRemote $src }}
+  {{ if $res }}
+    {{ $rows = $res | transform.Unmarshal (dict "delimiter" $delimiter) }}
+  {{ end }}
+{{ else }}
+  {{/* For local files, we look in the current page's resources or global assets */}}
+  {{ $res := $.Page.Resources.Get $src }}
+  {{ if not $res }}
+    {{/* Fallback: try finding it in the global 'assets' folder */}}
+    {{ $res = resources.Get $src }}
+  {{ end }}
+
+  {{ if $res }}
+    {{ $rows = $res | transform.Unmarshal (dict "delimiter" $delimiter) }}
+  {{ end }}
+{{ end }}
+
+<table class="table">
+  {{ if $useHeaderRow }}
+    {{ if gt (len $rows) 0 }}
+      {{ $headerRow := index $rows 0 }}
+      {{ $rows = after 1 $rows }}
+      <tr> {{ range $headerRow }} <th>{{ . | markdownify | emojify }}</th> {{ end }} </tr>
+    {{ end }}
+  {{ end }}
+  {{ range $rows }}
+    <tr>
+      {{ range . }}
+        {{ if findRE "^\\d+$" . }}
+          <td data-table-dtype="number">{{ . }}</td>
+        {{ else }}
+          <td data-table-dtype="text">{{ . | markdownify | emojify }}</td>
+        {{ end }}
+      {{ end }}
+    </tr>
+  {{ end }}
+  {{ if $caption }}
+    <caption>{{ $caption | markdownify | emojify }}</caption>
+  {{ end }}
+</table>
