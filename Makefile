@@ -8,19 +8,17 @@ diff:
 	opendiff ../academic-file-converter/academic/import_bibtex.py  scripts/update_metadata.py
 
 gitpages:
-	echo ">>> Commit changes to source repo to GitHub..."
+	@echo ">>> Committing changes..."
 	git add .
-
-	msg="rebuilding site `date`"
-	if [ $# -eq 1 ]
-	then msg="$1"
-	fi
-	git commit -m "$msg"
-
+	@if [ -z "$(MESSAGE)" ]; then \
+		msg="chore: rebuild site ($$(date))"; \
+	else \
+		msg="$(MESSAGE)"; \
+	fi; \
+		git commit -m "$$msg"
+	@echo ">>> Pushing to GitHub..."
 	git push origin main
 
-	echo ">>> Deploying updates to GitHub pages repo..."
-	
 entries:
 	cd scripts; python update_entries.py
 
@@ -39,11 +37,10 @@ test:
 	hugo server --gc --disableFastRender --renderToMemory
 
 clean:
-	# rm -fr  $(TMPDIR)/hugo_cache
+# 	rm -fr  $(TMPDIR)/hugo_cache
 	hugo mod clean --all
 	hugo mod tidy
 	hugo mod get -u ./...
-	# hugo --gc
-	# hugo --cleanDestinationDir
-	# hugo --debug
-	
+# 	hugo --gc
+# 	hugo --cleanDestination-dir
+# 	hugo --debug
