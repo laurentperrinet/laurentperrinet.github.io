@@ -16,14 +16,16 @@ location: Marseille, France
 title: "Rencontre cinémas & sciences à l'école Air Bel"
 ---
 
-> Bienvenue dans une des écoles les plus novatrices du monde : « l’école des Fake news ». C’est à
-Marseille en France, et grâce aux généreux financements des plus puissantes entreprises numériques
-chinoises er américaines, que cette école haut de gamme a été constituée.
-> Ici, les meilleurs éléments, ont été sélectionnés. Notamment en fonction de leur talent précoce pour
-imaginer des fables invraisemblables : Aliens, match de foot intergalactique, météorite rebondissant
-sur un sol en trampoline,…, rien ne leur fait peur !
-> Or, ici plus que nulle part ailleurs, on sait qu’une pédagogie adaptée au monde moderne, réside dans
-la faculté de savoir manipuler pour ne pas être manipulé !
+
+{{% callout note %}}
+Bienvenue dans une des écoles les plus novatrices du monde : *l’école des Fake news*. C’est à Marseille en France, et grâce aux généreux financements des plus puissantes entreprises numériques chinoises et américaines, que cette école haut de gamme a été constituée. 
+
+Ici, les meilleurs éléments ont été sélectionnés. Notamment en fonction de leur talent précoce pour imaginer des fables invraisemblables : Aliens, match de foot intergalactique, météorite rebondissant sur un sol en trampoline, …, rien ne leur fait peur ! 
+
+Or, ici plus que nulle part ailleurs, on sait qu’une pédagogie adaptée au monde moderne, réside dans la faculté de savoir manipuler pour ne pas être manipulé !
+{{% /callout %}}
+
+
 
 
 * où? école Air Bel 

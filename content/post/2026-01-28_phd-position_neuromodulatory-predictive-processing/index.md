@@ -1,6 +1,6 @@
 ---
 title: "Open PhD Position in Computational & Systems Neuroscience : 'Neuromodulatory control of predictive processing in visual cortical circuits'"
-subtitle: "⏰ Deadline: January 28, 2026."
+subtitle: "⏰ *The position has been filled.*"
 authors:
 - laurent-u-perrinet
 - ede-rancz
@@ -11,15 +11,22 @@ image:
   focal_point: Smart
   placement: 2
   preview_only: false
+
 lastmod: 2026-01-03 09:00:00
 
 tags:
 - events
 ---
 
+{{% callout note %}}
+The position has been filled.
+{{% /callout %}}
+
+
 We are recruiting a PhD student to work on **neuromodulatory control of predictive processing in mouse vision**, co-supervised by [Ede Rancz](https://bsky.app/profile/did:plc:kgbpgmybkvnarzamc2g55xpg) (INMED) and myself.
 
 ### Project Overview
+
 This **CENTURI** project combines:
 - Computational modeling (spiking and normative models)
 - In vivo electrophysiology, imaging, behavior, and optogenetics
