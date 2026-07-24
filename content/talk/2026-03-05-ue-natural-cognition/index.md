@@ -29,3 +29,5 @@ links:
 
 
 Practical work: https://github.com/laurentperrinet/2026-03_UE-neurosciences-computationnelles/
+
+📖 **See the full publication:** {{< cite page="/publication/perrinet-26" view="4" >}}
