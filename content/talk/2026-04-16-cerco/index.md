@@ -12,6 +12,17 @@ abstract: 'Working memory --- the ability to store and retrieve precise temporal
 
 slides: 2026-04-16-cerco
 
+tags: 
+- spikes
+- spiking-neural-networks
+- polychronization
+- working-memory
+- recurrent-networks
+- heterogeneous-delays
+- spiking-motifs
+- surrogate-gradient
+- neuromorphic
+
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-04-16-cerco/
