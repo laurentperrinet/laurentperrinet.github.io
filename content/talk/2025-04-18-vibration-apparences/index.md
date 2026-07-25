@@ -1,5 +1,5 @@
 ---
-abstract: Le travail d’Étienne Rey met en relation des phénomènes naturels et physiques avec notre perception. Ses œuvres se révèlent et se concrétisent dans l’expérience personnelle des spectateurs. La lumière, élément central de sa démarche, active ces expériences et révèle les interactions entre le matériel et l’immatériel. Depuis 2011, Étienne Rey collabore avec le Dr Laurent Perrinet, de l’Institut de Neurosciences de la Timone. Ensemble, ils explorent le domaine de la perception à l’intersection de leurs disciplines respectives, combinant science et art pour développer de nouvelles approches perceptives.
+abstract: Le travail d’Étienne Rey met en relation des phénomènes naturels et physiques avec notre perception. Ses œuvres se révèlent et se concrétisent dans l’expérience personnelle des spectateurs. La lumière, élément central de sa démarche, active ces expériences et révèle les interactions entre le matériel et l’immatériel. Depuis 2011, Étienne Rey collabore avec le Dr Laurent Perrinet, de l’Institut de Neurosciences de la Timone. Ensemble, ils explorent le domaine de la perception à l’intersection de leurs disciplines respectives, et combinent science et art pour développer de nouvelles approches perceptives.
 authors:
 - Laurent U Perrinet
 categories: []
@@ -27,11 +27,11 @@ tags: []
 title: 'La vibration des apparences'
 ---
 
-Cette présentation, dans le cadre des *Journées d’Ouverture Scientifique (JOS)*, explore le travail présenté lors de l’exposition *La vibration des apparences*, qui s’est tenue au musée Granet :
+Cette présentation, dans le cadre des *Journées d’Ouverture Scientifique (JOS)*, explore le travail présenté lors de l’exposition *La vibration des apparences*, au musée Granet :
 
 {{< cite page="/post/2024-11-07_vibration-apparences/" view="4" >}}
 
-Voir aussi cette présentation en anglais :
+Version anglaise de cette présentation :
 
 {{< cite page="/talk/2026-01-19-art-and-science/" view="4" >}}
 
@@ -46,4 +46,6 @@ L’exposition s’inscrit dans le prolongement de cette pensée, en illustrant 
 
 - La page de l’exposition : {{< cite page="/post/2024-11-07_vibration-apparences/" view="4" >}}
 - La version anglaise de cette présentation : {{< cite page="/talk/2026-01-19-art-and-science/" view="4" >}}
+- Une intervention connexe : {{< cite page="/talk/2026-04-11-intelligence-du-regard/" view="4" >}}
+- Le projet associé : [Art & science](/project/art-science/)
 - Le profil d’[Étienne Rey](/author/etienne-rey/) et celui de [Laurent Perrinet](/author/laurent-u-perrinet/)
