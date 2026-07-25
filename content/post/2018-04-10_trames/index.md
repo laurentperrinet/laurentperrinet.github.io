@@ -8,31 +8,43 @@ lastmod: 2018-01-13 00:00:00
 projects:
 - art-science
 subtitle: Installation à la Fondation Vasarely à Aix-en-Provence.
-summary: À la Fondation Vasarely à Aix-en-Provence, Etienne Rey a choisi d’installer
+summary: À la Fondation Vasarely à Aix-en-Provence, Étienne Rey a choisi d’installer
   dans la salle des Intégrations architectoniques un ballet visuel hypnotique.
 tags:
 - art-science
 title: TRAMES
 ---
- # TRAMES
 
- {{< vimeo 191830797 >}}
+# TRAMES
 
- À la Fondation Vasarely à Aix-en-Provence, [Etienne Rey]({{< relref "/authors/etienne-rey" >}}) a choisi d’installer dans la salle des Intégrations architectoniques un ballet visuel hypnotique.
+{{< vimeo 191830797 >}}
 
- «Trame instabilité» est un travail en cours de recherche. Le projet est basé sur des principes d’occultations partielles en couches associées à des trames qui font émerger une dimension immatérielle. L’expérience de perception de ces motifs produit un sentiment de basculement de la perception dans le sens où le motifs réel passe au second plan pour laisser place à l’émergence d’une figure du vide, c’est dans les blancs immatériel que des formes apparaissent et vacillent occupant tout notre champ visuel. Ces apparitions virtuelles, purs phénomènes optiques n’existent pas dans notre monde «physique», réel. 
+À la Fondation Vasarely, à Aix-en-Provence, [Étienne Rey]({{< relref "/authors/etienne-rey" >}}) a installé, dans la salle des Intégrations architectoniques, un ballet visuel hypnotique.
 
-Ce qui est en jeu ici c’est l’émergence de l’apparition de motifs virtuels résultat de la relation entre une réalité physique, la grandeur et l’ordonnancement de trames et notre physiologie qui conduit à cette état de perception. Lorsqu’on est fasse à ces motifs ce qui saute au yeux plus que le motif réel c’est sa résultante, instable et éphémère qui fait apparaitre une richesse de figures géométriques qui se transforment et évoluent en fonction du temps d’observation et du point de vue. Sur ce principe de dispositif optique, le travail de chacun des motifs, lié à un séquençage de trames conduit à faire apparaitre une composition et des émergences de formes spécifiques. L’expérience de perception de chacun des motifs explore les notions d’instabilité, de flux, d’émergences … dont l’expérience donne à entrevoir des formes que l’on retrouve dans la nature ou les phénomènes naturels: le dessin du pelage d’un zèbre, une accumulation de bulles de savons, ou plus généralement dans les compositions chimiques issue de la théorie de la morphogénèse de Turing.
+« Trame instabilité » est un travail en cours de recherche. Le projet s’appuie sur des principes d’occultations partielles en couches, associées à des trames qui font émerger une dimension immatérielle. L’expérience de perception de ces motifs produit un basculement : le motif réel passe au second plan pour laisser place à l’émergence d’une figure du vide. C’est dans ces blancs immatériels que des formes apparaissent et vacillent, occupant tout notre champ visuel. Ces apparitions virtuelles, purs phénomènes optiques, n’existent pas dans notre monde « physique ».
 
+Ce qui est en jeu ici, c’est l’émergence de motifs virtuels, issus de la relation entre une réalité physique (grandeur et ordonnancement des trames) et notre physiologie perceptive. Face à ces motifs, ce qui saute aux yeux, plus que le motif réel, c’est sa résultante instable et éphémère, qui fait apparaître une richesse de figures géométriques se transformant avec le temps d’observation et le point de vue.
 
-* L’œuvre « Trames Instabilité » (voir aussi [cet article](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/#fig:Trames)) d’Etienne Rey montre comment les principes anatomiques de la formation de l’image sur la rétine peuvent être utilisés dans l’art. Il dispose des motifs élémentaires sur une grille hexagonale resserrée et rythmique. Une seconde grille est superposée en profondeur et crée un effet de moiré d’oscillation plus lente. Cette œuvre est calibrée pour rentrer en résonance avec les limites induites par l’anatomie de la rétine. Les deux échelles entrent en résonance avec l’arrangement des photorécepteurs de la rétine et créent une impression d’instabilité. Les points semblent s’organiser suivant des alignements en périphérie, suggérant une organisation en profondeur, mais cette perception disparaît dès qu’on veut la saisir, un mouvement oculaire tel qu’une saccade, ce qui invite à la remplacer par une autre.
-
- ![Sortie modèle](featured.png)
-
- En collaboration avec le chercheur Laurent Perrinet, CNRS-AMU / Institut de Neurosciences de la Timone.
+Sur ce principe de dispositif optique, le travail de chaque motif, lié à un séquençage de trames, conduit à faire apparaître des compositions et des émergences de formes spécifiques. Cette expérience perceptive explore les notions d’instabilité, de flux et d’émergence, et donne à entrevoir des formes que l’on retrouve dans la nature : dessin du pelage d’un zèbre, accumulation de bulles de savon, ou encore compositions chimiques issues de la théorie de la morphogenèse de Turing.
 
 
- * Trame, Élasticité & Écran n°3  étaient aussi présentés au Festival Ososphère, Strasbourg en Avril 2017.
+* L’œuvre « Trames Instabilité » (voir aussi [cet article](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/#fig:Trames)) d’Étienne Rey montre comment les principes anatomiques de la formation de l’image sur la rétine peuvent être mobilisés dans l’art. L’artiste dispose des motifs élémentaires sur une grille hexagonale dense et rythmique. Une seconde grille, superposée en profondeur, crée un effet de moiré d’oscillation plus lente. Cette œuvre est calibrée pour entrer en résonance avec les limites induites par l’anatomie de la rétine. Les deux échelles entrent en résonance avec l’arrangement des photorécepteurs et produisent une impression d’instabilité. Les points semblent s’organiser en alignements périphériques, suggérant une organisation en profondeur ; mais cette perception disparaît dès qu’on tente de la saisir, à la faveur d’un mouvement oculaire (par exemple une saccade), ce qui invite à la remplacer par une autre.
+
+![Sortie modèle](featured.png)
+
+En collaboration avec le chercheur [Laurent Perrinet](/author/laurent-u-perrinet/), CNRS-AMU / [Institut de Neurosciences de la Timone](https://www.int.univ-amu.fr/).
+
+
+* Trame, Élasticité et Écran n°3 ont également été présentés au festival Ososphère, à Strasbourg, en avril 2017.
+
+### Voir aussi
+
+* [Profil d’Étienne Rey](/author/etienne-rey/)
+* [Projet Art & science](/project/art-science/)
+* [Horizon Faille @ interstices](/post/2021-10-04_interstices/)
+* [Cristal N°2 - Arbre théorique](/post/2022-09-30_cristal-no2/)
+* [La vibration des apparences](/post/2024-11-07_vibration-apparences/)
+* [Variable Density, série Delaunay](/post/2026-02-20_ososphere/)
 
 ![](https://maison-contemporain.com/wp-content/uploads/2020/04/INSTABILITE_ORANGE_ROUGE_F3030-scaled.jpg)
 
