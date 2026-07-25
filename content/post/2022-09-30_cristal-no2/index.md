@@ -13,15 +13,22 @@ summary: Cristal N°2 - Arbre théorique / 2014
 tags:
 - art-science
 image:
-  caption: 'Image credit: Etienne Rey'
+  caption: 'Crédit image : Étienne Rey'
 
 ---
 
 # Cristal N°2 - Arbre théorique / 2014
 
-* Dimensions: 134 X 91 X 21 CM
-* Miroirs / Bois
+* Dimensions : 134 x 91 x 21 cm
+* Matériaux : miroirs, bois
 
-* Don de l'artiste à l'Institut de Neurosciences de la Timone
+* Don de l’artiste à l’[Institut de Neurosciences de la Timone](https://www.int.univ-amu.fr/)
 
-https://ondesparalleles.org/projets/cristal-n2-2/?lang=en
+Source : [fiche du projet sur Ondes Parallèles](https://ondesparalleles.org/projets/cristal-n2-2/?lang=en)
+
+### Voir aussi
+
+* [Profil d’Étienne Rey](/author/etienne-rey/)
+* [Projet Art & science](/project/art-science/)
+* [La vibration des apparences](/post/2024-11-07_vibration-apparences/)
+* [Variable Density, série Delaunay](/post/2026-02-20_ososphere/)
