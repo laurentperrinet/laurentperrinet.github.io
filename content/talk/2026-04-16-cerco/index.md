@@ -26,11 +26,13 @@ tags:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-04-16-cerco/
-- name: Preprint
-  url: http://arxiv.org/abs/2604.14096
-- name: Code
-  url: https://github.com/laurentperrinet/MNESIS
 ---
 
+* Invited seminar at CerCo, Toulouse, France, 2026-04-16
+
 * See the accompanying code: https://github.com/laurentperrinet/MNESIS
+
 * The code and results at the time of the presentation is accessible [in this commit](https://github.com/laurentperrinet/MNESIS/commit/4532f12f39cafed8b95a61d52c3f8447e5bfb5d8)
+
+
+* A follow-up paper: {{< cite page="/publication/perrinet-26" view="4" >}}
