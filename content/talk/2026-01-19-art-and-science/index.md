@@ -23,10 +23,11 @@ abstract: "By construction, deep convolutional networks treat all pixels equally
   for classical CNNs. This suggests that this specific Nature's million-year solution
   may offer deep learning visual networks a fundamentally new architectural look."
 tags:
-- deep learning
-- computational neuroscience
-- neuroai
-- vision
+- art-perception
+- foveated-vision
+- object-localization
+- neuro-ai
+- computer-vision
 links:  
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-01-19-art-and-science

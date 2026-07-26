@@ -37,4 +37,10 @@ links:
   url: https://laurentperrinet.github.io/publication/grimaldi-26-fens/
 - name: FENS
   url: https://fens2026.abstractserver.com/program/#/details/presentations/3594
+tags:
+- optimal-transport
+- emd
+- spike-timing
+- autoencoders
+- spatiotemporal-patterns
 ---
