@@ -47,12 +47,7 @@ links:
 publication: '*Vision*'
 publication_types:
 - article-journal
-tags:
-- classification
-- deep learning
-- efficient coding
-- psychophysics
-- ultra-fast categorization
+tags: ["classification", "deep-learning", "efficient-coding", "psychophysics", "ultra-fast-categorization"]
 title: Ultra-Fast Image Categorization in biology and in neural models
 ---
 {{< video src="Jeremie-etal-Vision_video-abstract.mp4" controls="yes" >}}

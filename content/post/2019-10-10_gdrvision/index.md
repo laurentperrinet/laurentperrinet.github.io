@@ -15,9 +15,7 @@ summary: Le GDR Vision réunit toute la communauté des chercheurs en France tra
   de l'espace et les processus décisionnels. Il s'agit d'un réseau pluridisciplinaire
   réunissant psychophysiciens, psychologues, chercheurs en neurosciences (électrophysiologie
   et imagerie chez l'animal et l'Homme), et modélisateurs.
-tags:
-- events
-- vision
+tags: ["vision"]
 title: '2019-10-10: GDR vision 2019'
 categories: ["Events & Outreach"]
 ---

@@ -11,17 +11,7 @@ publication: '*35th International Conference on Artificial Neural Networks (ICAN
   2026)-  Special Session on Recent Advances in Spiking Neural Networks*'
 doi: 10.48550/arXiv.2604.14096
 
-tags: 
-- spikes
-- spiking-neural-networks
-- polychronization
-- working-memory
-- recurrent-networks
-- heterogeneous-delays
-- spiking-motifs
-- surrogate-gradient
-- neuromorphic
-
+tags: ["heterogeneous-delays", "neuromorphic", "polychronization", "recurrent-networks", "spikes", "spiking-motifs", "spiking-neural-networks", "surrogate-gradient", "working-memory"]
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-26-icann

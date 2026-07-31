@@ -33,8 +33,7 @@ links:
 publication: '*Brain Structure and Function*'
 publication_types:
 - article-journal
-tags:
-- area-v1
+tags: ["visual-cortex"]
 title: 'Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards
   like-to-All'
 categories: ["Computational Neuroscience"]

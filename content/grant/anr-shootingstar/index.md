@@ -4,9 +4,7 @@ summary: 'Processing of naturalistic motion in early vision'
 authors:
 - frédéric-y-chavane
 - laurent-u-perrinet
-tags:
-- grant
-- past-grant
+tags: []
 title: ANR ShootingStar (2021/2024)
 categories: ["Grants & Funding"]
 ---

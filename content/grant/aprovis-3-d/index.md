@@ -4,9 +4,7 @@ summary: Analog PROcessing of bioinspired VIsion Sensors for 3D reconstruction (
 authors:  
 - jean-martinet
 - laurent-u-perrinet
-tags:
-- grant
-- past-grant
+tags: []
 title: 'APROVIS3D (2019/2023)'
 categories: ["Grants & Funding"]
 ---

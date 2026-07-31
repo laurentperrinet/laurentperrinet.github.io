@@ -17,9 +17,7 @@ links:
 publication: '*GDR Vision, Lille, 2017*'
 publication_types:
 - inproceedings
-tags:
-- Bayesian model
-- motion detection
+tags: ["bayesian-modeling", "motion-detection"]
 title: Estimating and anticipating a dynamic probabilistic bias in visual motion direction
 categories: ["Computational Neuroscience"]
 ---

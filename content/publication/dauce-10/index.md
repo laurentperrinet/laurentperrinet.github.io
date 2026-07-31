@@ -22,8 +22,7 @@ links:
 publication: '*Journal of Physiology-Paris*'
 publication_types:
 - article-journal
-tags:
-- computational neuroscience
+tags: []
 title: Computational Neuroscience, from Multiple Levels to Multi-level
 categories: ["Computational Neuroscience"]
 ---

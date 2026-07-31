@@ -36,18 +36,7 @@ links:
 publication: '*Neural Computation*'
 publication_types:
 - article-journal
-tags:
-- association field
-- coding decoding
-- eye movements
-- homeostasis
-- matching pursuit
-- motion-clouds
-- receptive field
-- sparse coding
-- sparse hebbian learning
-- statistics of natural images
-- unsupervised learning
+tags: ["association-field", "coding-decoding", "eye-movements", "homeostasis", "matching-pursuit", "motion-detection", "receptive-field", "sparse-coding", "sparse-hebbian-learning", "statistics-of-natural-images", "unsupervised-learning"]
 title: Role of homeostasis in learning sparse representations
 categories: ["Computational Neuroscience"]
 ---

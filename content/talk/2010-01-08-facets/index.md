@@ -8,13 +8,7 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2010-01-08-facets/
 publication: ''
-tags:
-- Bayesian model
-- center-surround interactions
-- dynamics
-- eye movements
-- motion detection
-- motion prediction
+tags: ["bayesian-modeling", "dynamics", "eye-movements", "motion-detection", "visual-cortex"]
 title: 'Models of low-level vision: linking probabilistic models and neural masses'
 categories: ["Computational Neuroscience"]
 ---

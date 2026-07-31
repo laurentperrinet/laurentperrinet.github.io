@@ -17,9 +17,7 @@ links:
 publication: '*Perception*'
 publication_types:
 - inproceedings
-tags:
-- bayesian model
-- motion prediction
+tags: ["bayesian-modeling", "motion-detection"]
 title: Role of motion inertia in dynamic motion integration for smooth pursuit
 categories: ["Computational Neuroscience"]
 ---

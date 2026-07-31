@@ -57,8 +57,7 @@ links:
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - inproceedings
-tags:
-- motion-clouds
+tags: ["motion-detection"]
 title: 'Edge statistics in natural images versus laboratory animal environments: implications
   for understanding lateral connectivity in V1'
 categories: ["Computational Neuroscience"]

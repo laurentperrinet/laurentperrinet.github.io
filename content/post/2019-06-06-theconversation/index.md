@@ -11,10 +11,7 @@ projects:
 - tout-public
 - art-science
 summary: Article de dissémination sur la perception visuelle vue à travers illusions et hallucinations.
-tags:
-- neuroscience
-- vision
-- psychiatry
+tags: ["neuroscience", "psychiatry", "vision"]
 title: 'Illusions et hallucinations visuelles : une porte sur la perception'
 categories: ["Events & Outreach"]
 ---

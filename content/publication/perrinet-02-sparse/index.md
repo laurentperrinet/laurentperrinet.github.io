@@ -14,10 +14,7 @@ links:
 publication: '*Neurocomputing*'
 publication_types:
 - article-journal
-tags:
-- association field
-- matching pursuit
-- sparse coding
+tags: ["association-field", "matching-pursuit", "sparse-coding"]
 title: Sparse spike coding in an asynchronous feed-forward multi-layer neural network
   using matching pursuit
 categories: ["Computational Neuroscience"]

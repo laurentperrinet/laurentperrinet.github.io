@@ -14,9 +14,7 @@ links:
 publication: '*Proceedings of ECVP*'
 publication_types:
 - inproceedings
-tags:
-- eye movements
-- Smooth pursuit eye movement
+tags: ["eye-movements", "smooth-pursuit-eye-movement"]
 title: Modeling the effect of dynamic contingencies on anticipatory eye movements
 categories: ["Computational Neuroscience"]
 ---

@@ -11,10 +11,7 @@ abstract: "La vision reste un paradoxe : comment un processus aussi complexe quâ
 
 projects:
 - art-science
-tags:
-- visual-perception
-- visual-illusions
-- art-and-science
+tags: ["art-and-science", "visual-illusions", "visual-perception"]
 slides: 2026-04-11-intelligence-du-regard
 
 links:

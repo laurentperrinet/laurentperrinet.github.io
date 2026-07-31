@@ -34,8 +34,7 @@ publication: '*NeuroFrance 2021*'
 publication_types:
 - inproceedings
 subtitle: ''
-tags:
-- area-v1
+tags: ["visual-cortex"]
 title: Dynamical processing of orientation precision in the primary visual cortex
 categories: ["Computational Neuroscience"]
 ---

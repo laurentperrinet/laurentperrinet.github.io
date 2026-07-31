@@ -42,13 +42,7 @@ projects:
 publication: '*Proceedings of AREADNE, 2008*'
 publication_types:
 - inproceedings
-tags:
-- Bayesian model
-- center-surround interactions
-- eye movements
-- lateral connections
-- motion detection
-- visual perception
+tags: ["bayesian-modeling", "eye-movements", "motion-detection", "visual-cortex", "visual-perception"]
 title: Decoding the population dynamics underlying ocular following response using
   a probabilistic framework
 categories: ["Computational Neuroscience"]

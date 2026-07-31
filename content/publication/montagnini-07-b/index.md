@@ -37,8 +37,7 @@ links:
 publication: '*Journal of Vision*'
 publication_types:
 - inproceedings
-tags:
-- Bayesian model
+tags: ["bayesian-modeling"]
 title: 'Visual tracking of ambiguous moving objects: A recursive Bayesian model'
 categories: ["Computational Neuroscience"]
 ---

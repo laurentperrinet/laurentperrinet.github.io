@@ -27,12 +27,7 @@ publication: '*IWAI 2020*'
 publication_types:
 - inproceedings
 subtitle: ''
-tags:
-- Active Inference
-- Deep-Learning
-- Object localization
-- Visual search
-- Visuomotor control
+tags: ["active-inference", "deep-learning", "object-localization", "visual-search", "visuomotor-control"]
 title: Visual search as active inference
 categories: ["NeuroAI & Machine Learning"]
 ---

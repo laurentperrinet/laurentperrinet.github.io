@@ -13,10 +13,7 @@ links:
 - name: URL
   url: https://emergences.lirmm.fr/
   
-tags:
-- grant
-- current-grant
-
+tags: []
 title: "Emergences (2023 / 2027)"
 categories: ["Grants & Funding"]
 ---

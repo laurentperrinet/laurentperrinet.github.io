@@ -24,12 +24,7 @@ links:
 publication: '*Microtechnologies for the New Millennium 2005*'
 publication_types:
 - inproceedings
-tags:
-- area-v1
-- Biologically Inspired Computer vision
-- log-gabor
-- receptive field
-- sparse coding
+tags: ["log-gabor", "receptive-field", "sparse-coding", "vision", "visual-cortex"]
 title: Sparse Gabor wavelets by local operations
 categories: ["Computational Neuroscience"]
 ---

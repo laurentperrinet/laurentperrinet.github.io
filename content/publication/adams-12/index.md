@@ -31,11 +31,7 @@ links:
 publication: '*PLoS ONE*'
 publication_types:
 - article-journal
-tags:
-- active inference
-- Bayesian model
-- eye movements
-- motion detection
+tags: ["active-inference", "bayesian-modeling", "eye-movements", "motion-detection"]
 title: 'Smooth Pursuit and Visual Occlusion: Active Inference and Oculomotor Control
   in Schizophrenia'
 categories: ["Computational Neuroscience"]

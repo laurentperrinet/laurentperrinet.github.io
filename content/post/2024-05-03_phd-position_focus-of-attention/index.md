@@ -12,9 +12,7 @@ image:
   preview_only: false
 lastmod: 2024-05-03 09:00:00
 
-tags:
-- events
-- emergences
+tags: ["emergences"]
 categories: ["Events & Outreach"]
 ---
 Dear colleagues,

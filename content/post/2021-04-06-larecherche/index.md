@@ -6,10 +6,7 @@ draft: false
 featured: true
 projects:
 - tout-public
-tags:
-- neuroscience
-- vision
-- psychiatry
+tags: ["neuroscience", "psychiatry", "vision"]
 title: 'Les illusions sèment le trouble dans les esprits'
 summary: "Article de dissémination : la perception visuelle, telle qu'elle paut être comprise à travers illusions visuelles."
 links:

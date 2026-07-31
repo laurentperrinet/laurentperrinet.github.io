@@ -9,12 +9,7 @@ projects:
 publication: '*Proceedings of COSYNE*'
 publication_types:
 - inproceedings
-tags:
-- Bayesian model
-- coding decoding
-- sparse coding
-- sparse hebbian learning
-- spike
+tags: ["bayesian-modeling", "coding-decoding", "sparse-coding", "sparse-hebbian-learning", "spike"]
 title: What adaptive code for efficient spiking representations? A model for the formation
   of receptive fields of simple cells
 categories: ["Computational Neuroscience"]

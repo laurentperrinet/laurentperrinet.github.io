@@ -42,11 +42,7 @@ links:
 publication: '*The Philosophy and Science of Predictive Processing*'
 publication_types:
 - inbook
-tags:
-- active inference
-- area-v1
-- Bayesian model
-- psychophysics
+tags: ["active-inference", "bayesian-modeling", "psychophysics", "visual-cortex"]
 title: 'From the retina to action: Dynamics of predictive processing in the visual
   system'
 categories: ["Computational Neuroscience"]

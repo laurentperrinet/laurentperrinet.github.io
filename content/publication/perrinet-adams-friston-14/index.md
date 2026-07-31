@@ -31,13 +31,7 @@ links:
 publication: '*Biological Cybernetics*'
 publication_types:
 - article-journal
-tags:
-- active inference
-- Bayesian model
-- Biologically Inspired Computer vision
-- eye movements
-- free energy
-- motion detection
+tags: ["active-inference", "bayesian-modeling", "eye-movements", "free-energy", "motion-detection", "vision"]
 title: Active inference, eye movements and oculomotor delays
 categories: ["Computational Neuroscience"]
 ---

@@ -2,9 +2,7 @@
 type: page
 date: 2024-10-25
 summary: 'MesoCentre (2018/2022) : access to the HPC resources of Aix-Marseille Université.'
-tags:
-- grant
-- current-grant
+tags: []
 title: MesoCentre (2018/2026)
 
 # content:

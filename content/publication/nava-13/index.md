@@ -26,10 +26,7 @@ publication: '*Progress in Pattern Recognition, Image Analysis, Computer Vision,
   Applications*'
 publication_types:
 - article-journal
-tags:
-- Biologically Inspired Computer vision
-- Image texture
-- sparse coding
+tags: ["image-texture", "sparse-coding", "vision"]
 title: Advances in Texture Analysis for Emphysema Classification
 categories: ["Computational Neuroscience"]
 ---

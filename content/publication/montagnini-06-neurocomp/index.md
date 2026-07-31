@@ -28,13 +28,7 @@ projects:
 publication: '*1ère conférence francophone NEUROsciences COMPutationnelles (NeuroComp)*'
 publication_types:
 - inproceedings
-tags:
-- Aperture problem
-- Bayesian model
-- Object motion
-- recursive inference
-- Smooth pursuit eye movement
-- Temporal evolution
+tags: ["aperture-problem", "bayesian-modeling", "object-motion", "recursive-inference", "smooth-pursuit-eye-movement", "temporal-evolution"]
 title: Bayesian modeling of dynamic motion integration
 categories: ["Computational Neuroscience"]
 ---

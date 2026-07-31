@@ -11,9 +11,7 @@ summary: 'We organize a Symposium at NeuroFrance 2019 entitled Active Inference:
   theoretical and experimental neurosciences. This is part of a series of theoretical
   neuroscience symposia organized in this international conference from the french
   Neursocience Society.'
-tags:
-- events
-- probalistic-inference
+tags: ["probalistic-inference"]
 title: '2018-04-05 : *Probabilities and Optimal Inference to understand the Brain*
   Workshop'
 categories: ["Events & Outreach"]

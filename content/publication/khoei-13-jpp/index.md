@@ -43,9 +43,7 @@ links:
 publication: '*Journal of Physiology-Paris*'
 publication_types:
 - article-journal
-tags:
-- motion detection
-- motion prediction
+tags: ["motion-detection"]
 title: Motion-based prediction explains the role of tracking in motion extrapolation
 categories: ["Computational Neuroscience"]
 ---

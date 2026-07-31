@@ -18,9 +18,7 @@ links:
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - inproceedings
-tags:
-- deep-learning
-- sparse coding
+tags: ["deep-learning", "sparse-coding"]
 title: Sparse Deep Predictive Coding to model visual object recognition
 categories: ["NeuroAI & Machine Learning"]
 ---

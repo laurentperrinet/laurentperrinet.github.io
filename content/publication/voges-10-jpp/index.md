@@ -29,9 +29,7 @@ links:
 publication: '*Journal of Physiology-Paris*'
 publication_types:
 - article-journal
-tags:
-- area-v1
-- association field
+tags: ["association-field", "visual-cortex"]
 title: Phase space analysis of networks based on biologically realistic parameters
 categories: ["Computational Neuroscience"]
 ---

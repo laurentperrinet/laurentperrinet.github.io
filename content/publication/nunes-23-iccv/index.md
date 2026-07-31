@@ -43,10 +43,7 @@ publication_types:
 - inproceedings
 publishDate: '2023-09-05T08:59:11.517138Z'
 subtitle: ''
-tags:
-- event-based vision
-- neuromorphic hardware
-- time-to-contact
+tags: ["event-based-vision", "neuromorphic-hardware", "time-to-contact"]
 title: Time-to-Contact Map by Joint Estimation of Up-to-Scale Inverse Depth and Global
   Motion using a Single Event Camera
 ---

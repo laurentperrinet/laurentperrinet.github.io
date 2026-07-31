@@ -20,12 +20,7 @@ abstract: The retinas of many animals, including humans, have a specialized area
   Overall, this study suggests why retinotopic mapping in foveated vision implements
   prior knowledge about visual object geometry, providing an efficient solution to
   the visual search problem, an essential function for predators.
-tags:
-- deep learning
-- retinotopy
-- computational neuroscience
-- neuroai
-- eye movements
+tags: ["deep-learning", "eye-movements", "neuroai", "retinotopy"]
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-01-08-brain-seminar

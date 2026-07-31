@@ -27,13 +27,7 @@ links:
   url: https://laurentperrinet.github.io/talk/2014-01-10-int-fest/
 
 publication: '*Marseille INT Fest, January 10th, 2014*'
-tags:
-- Bayesian model
-- dynamics
-- eye movements
-- free energy
-- motion detection
-- predictive coding
+tags: ["bayesian-modeling", "dynamics", "eye-movements", "free-energy", "motion-detection", "predictive-coding"]
 title: Axonal delays and on-time control of eye movements
 categories: ["Computational Neuroscience"]
 ---

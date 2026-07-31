@@ -51,12 +51,7 @@ publication: Neural Networks
 publication_types:
 - article-journal
 subtitle: ''
-tags:
-- efficient coding
-- event-based vision
-- homeostasis
-- neuromorphic hardware
-- online classification
+tags: ["efficient-coding", "event-based-vision", "homeostasis", "neuromorphic-hardware", "online-classification"]
 title: A Robust Event-Driven Approach to Always-on Object Recognition
 ---
 Main contributions:

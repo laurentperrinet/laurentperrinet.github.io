@@ -14,13 +14,7 @@ image:
 
 lastmod: 2026-01-03 09:00:00
 
-tags:
-- neuroscience
-- phd-position
-- predictive-processing
-- neuromodulation
-- mouse-vision
-- computational-neuroscience
+tags: ["computational-neuroscience", "mouse-vision", "neuromodulation", "neuroscience", "phd-position", "predictive-processing"]
 categories: ["Events & Outreach"]
 ---
 {{% callout note %}}

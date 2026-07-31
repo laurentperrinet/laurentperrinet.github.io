@@ -40,9 +40,7 @@ links:
 publication: '*Journal of Vision*'
 publication_types:
 - inproceedings
-tags:
-- motion detection
-- motion prediction
+tags: ["motion-detection"]
 title: Motion-based prediction model for flash lag effect
 categories: ["Computational Neuroscience"]
 ---

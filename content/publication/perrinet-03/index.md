@@ -12,10 +12,7 @@ links:
 publication: '*Neurocomputing*'
 publication_types:
 - article-journal
-tags:
-- area-v1
-- receptive field
-- sparse coding
+tags: ["receptive-field", "sparse-coding", "visual-cortex"]
 title: Emergence of filters from natural scenes in a sparse spike coding scheme
 categories: ["Computational Neuroscience"]
 ---

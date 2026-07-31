@@ -11,12 +11,7 @@ links:
 publication: ''
 publication_types:
 - thesis
-tags:
-- lateral connections
-- rank-order-coding
-- sparse coding
-- spike
-- stdp
+tags: ["rank-order-coding", "sparse-coding", "spike", "stdp", "visual-cortex"]
 title: Comment déchiffrer le code impulsionnel de la vision ? Étude du flux parallèle,
   asynchrone et épars dans le traitement visuel ultra-rapide
 categories: ["Computational Neuroscience"]

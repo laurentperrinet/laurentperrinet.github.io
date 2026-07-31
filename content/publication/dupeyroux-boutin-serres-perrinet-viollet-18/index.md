@@ -27,8 +27,7 @@ links:
 publication: '*ISCAS2018, IEEE International Symposium on Circuits and Systems*'
 publication_types:
 - inproceedings
-tags:
-- Biologically Inspired Computer vision
+tags: ["vision"]
 title: 'M2APix: a bio-inspired auto-adaptive visual sensor for robust ground height
   estimation'
 categories: ["Computational Neuroscience"]

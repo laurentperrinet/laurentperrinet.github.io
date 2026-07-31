@@ -4,9 +4,7 @@ summary: 'DOC2AMU: An Excellence Fellowship (2016/2019).'
 authors:
 - victor-boutin
 - laurent-u-perrinet
-tags:
-- grant
-- past-grant
+tags: []
 title: DOC2AMU (2016/2019)
 categories: ["Grants & Funding"]
 ---

@@ -46,9 +46,7 @@ projects:
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - inproceedings
-tags:
-- feed-forward_inhibition
-- large-scale_networks
+tags: ["feed-forward-inhibition", "large-scale-networks"]
 title: 'Control of the temporal interplay between excitation and inhibition by the
   statistics of visual input: a V1 network modelling study'
 categories: ["Computational Neuroscience"]

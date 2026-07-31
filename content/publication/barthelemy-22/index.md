@@ -54,13 +54,7 @@ publication_types:
 - article-journal
 publishDate: '2022-06-30T05:54:01.160596Z'
 subtitle: ''
-tags:
-- center-surround interactions
-- monkey
-- ocular following
-- spatial frequency
-- tracking eye movements
-- visual motion integration
+tags: ["monkey", "ocular-following", "spatial-frequency", "tracking-eye-movements", "visual-cortex", "visual-motion-integration"]
 title: 'A Behavioral Receptive Field for Ocular Following in Monkeys: Spatial Summation
   and Its Spatial Frequency Tuning'
 ---

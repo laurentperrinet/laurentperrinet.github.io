@@ -24,8 +24,7 @@ links:
 publication: '*Biologically Inspired Computer Vision*'
 publication_types:
 - inbook
-tags:
-- Biologically Inspired Computer vision
+tags: ["vision"]
 title: Introduction
 categories: ["Computational Neuroscience"]
 ---

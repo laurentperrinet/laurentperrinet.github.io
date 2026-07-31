@@ -32,9 +32,7 @@ links:
 publication: '*Biologically Inspired Computer Vision*'
 publication_types:
 - inbook
-tags:
-- Biologically Inspired Computer vision
-- sparse coding
+tags: ["sparse-coding", "vision"]
 title: Sparse Models for Computer Vision
 categories: ["Computational Neuroscience"]
 ---

@@ -68,9 +68,7 @@ links:
 publication: '*SIGMA''2020 (Signal, Image, Geometry, Modelling, Approximation)*'
 publication_types:
 - inproceedings
-tags:
-- deep-learning
-- sparse coding
+tags: ["deep-learning", "sparse-coding"]
 title: Modelling Complex-cells and topological structure in the visual cortex of mammals
   using Sparse Predictive Coding
 categories: ["NeuroAI & Machine Learning"]

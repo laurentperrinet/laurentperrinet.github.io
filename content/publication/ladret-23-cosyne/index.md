@@ -48,12 +48,7 @@ publication_types:
 - inproceedings
 publishDate: '2023-03-13T11:29:25.141921Z'
 subtitle: ''
-tags:
-- decoding
-- orientation
-- precision
-- predictive coding
-- V1
+tags: ["decoding", "orientation", "precision", "predictive-coding", "v1"]
 title: Resilience to sensory uncertainty in the primary visual cortex
 ---
 * This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}

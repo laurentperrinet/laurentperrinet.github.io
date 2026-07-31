@@ -15,13 +15,7 @@ links:
 publication: '*Proceedings of Tauc*'
 publication_types:
 - inproceedings
-tags:
-- Bayesian model
-- center-surround interactions
-- motion prediction
-- Ocular Following Response
-- tracking eye movements
-- Visual perception
+tags: ["bayesian-modeling", "motion-detection", "ocular-following-response", "tracking-eye-movements", "visual-cortex", "visual-perception"]
 title: Dynamical emergence of a neural solution for motion integration
 categories: ["Computational Neuroscience"]
 ---

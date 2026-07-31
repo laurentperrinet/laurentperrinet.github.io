@@ -6,10 +6,7 @@ draft: false
 featured: true
 projects:
 - tout-public
-tags:
-- neuroscience
-- prediction
-- incertitude
+tags: ["incertitude", "neuroscience", "prediction"]
 title: 'Comment notre cerveau fait-il face à l’incertitude ?'
 links:
 - name: URL

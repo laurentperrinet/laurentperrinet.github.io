@@ -1,9 +1,7 @@
 ---
 date: 2015-04-27 00:00:00
 summary: 'FACETS: Fast Analog Computing with Emergent Transient States (2006/2010).'
-tags:
-- grant
-- past-grant
+tags: []
 authors:
 - yves-fregnac
 - laurent-u-perrinet

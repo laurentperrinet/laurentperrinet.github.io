@@ -37,8 +37,7 @@ links:
 publication: '*Frontiers in Computational Neuroscience*'
 publication_types:
 - article-journal
-tags:
-- lateral connections
+tags: ["visual-cortex"]
 title: Complex dynamics in recurrent cortical networks based on spatially realistic
   connectivities
 categories: ["Computational Neuroscience"]

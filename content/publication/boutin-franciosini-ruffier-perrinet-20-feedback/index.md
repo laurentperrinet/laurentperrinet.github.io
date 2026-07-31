@@ -37,9 +37,7 @@ links:
 publication: '*Neural Computation*'
 publication_types:
 - article-journal
-tags:
-- deep-learning
-- sparse coding
+tags: ["deep-learning", "sparse-coding"]
 title: Effect of top-down connections in Hierarchical Sparse Coding
 categories: ["NeuroAI & Machine Learning"]
 ---

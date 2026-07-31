@@ -17,8 +17,7 @@ subtitle: THE POSITION HAS BEEN FILLED. 18 month Post-doc position coordinated b
 summary: THE POSITION HAS BEEN FILLED. 18 month Post-doc position coordinated by [Laurent Perrinet](https://laurentperrinet.github.io/),
   supported by (INT, Marseille) and [Yves Frégnac](http://neuro-psi.cnrs.fr/spip.php?article934&lang=fr)
   (UNIC-NeuroPSI, Gif).
-tags:
-- events
+tags: []
 title: Postdoc position on Visual computations using Spatio-temporal Diffusion Kernels
   and Traveling Waves
 categories: ["Events & Outreach"]

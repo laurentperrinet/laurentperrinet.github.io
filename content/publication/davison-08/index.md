@@ -42,9 +42,7 @@ projects:
 publication: '*Frontiers in Neuroinformatics*'
 publication_types:
 - article-journal
-tags:
-- computational neuroscience
-- pynn
+tags: ["pynn"]
 title: 'PyNN: A Common Interface for Neuronal Network Simulators'
 categories: ["Computational Neuroscience"]
 ---

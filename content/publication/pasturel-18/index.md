@@ -31,8 +31,7 @@ links:
 publication: ''
 publication_types:
 - inproceedings
-tags:
-- motion anticipation
+tags: ["motion-anticipation"]
 title: Estimating and anticipating a dynamic probabilistic bias in visual motion direction
 categories: ["Computational Neuroscience"]
 ---

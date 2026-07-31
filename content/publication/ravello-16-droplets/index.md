@@ -21,11 +21,7 @@ projects:
 publication: ''
 publication_types:
 - preprint
-tags:
-- Biologically Inspired Computer vision
-- Image texture
-- Retina
-- sparse coding
+tags: ["image-texture", "retina", "sparse-coding", "vision"]
 title: Differential response of the retinal neural code with respect to the sparseness
   of natural images
 categories: ["Computational Neuroscience"]

@@ -15,10 +15,7 @@ links:
 publication: '*GDR Vision, Toulouse, Nov 3rd, 2016*'
 publication_types:
 - inproceedings
-tags:
-- eye movements
-- motion detection
-- motion-clouds
+tags: ["eye-movements", "motion-detection"]
 title: 'Voluntary tracking the moving clouds : Effects of speed variability on human
   smooth pursuit'
 categories: ["Computational Neuroscience"]

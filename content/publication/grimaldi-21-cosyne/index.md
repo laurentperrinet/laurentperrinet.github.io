@@ -43,12 +43,7 @@ publication: '*Computational and Systems Neuroscience (Cosyne) 2021*'
 publication_types:
 - inproceedings
 subtitle: ''
-tags:
-- efficient coding
-- event-based vision
-- homeostasis
-- neuromorphic hardware
-- online classification
+tags: ["efficient-coding", "event-based-vision", "homeostasis", "neuromorphic-hardware", "online-classification"]
 title: A robust bio-inspired approach to event-driven object recognition
 categories: ["NeuroAI & Machine Learning"]
 ---

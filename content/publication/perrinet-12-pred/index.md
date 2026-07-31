@@ -32,11 +32,7 @@ links:
 publication: '*Neural Computation*'
 publication_types:
 - article-journal
-tags:
-- aperture problem
-- Bayesian model
-- motion prediction
-- predictive coding
+tags: ["aperture-problem", "bayesian-modeling", "motion-detection", "predictive-coding"]
 title: Motion-based prediction is sufficient to solve the aperture problem
 categories: ["Computational Neuroscience"]
 ---

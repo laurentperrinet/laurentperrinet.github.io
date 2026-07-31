@@ -9,17 +9,7 @@ publication_types:
 publication: '*Proceedings of the Austrian Symposium on AI, Robotics and Vision*'
 slides: 2026-04-15-airov
 
-tags: 
-- spikes
-- spiking-neural-networks
-- polychronization
-- working-memory
-- recurrent-networks
-- heterogeneous-delays
-- spiking-motifs
-- surrogate-gradient
-- neuromorphic
-
+tags: ["heterogeneous-delays", "neuromorphic", "polychronization", "recurrent-networks", "spikes", "spiking-motifs", "spiking-neural-networks", "surrogate-gradient", "working-memory"]
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-26-airov/

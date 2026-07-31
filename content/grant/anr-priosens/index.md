@@ -4,9 +4,7 @@ summary: 'Integration sensory and prior information to control behavior (CRCNS U
 authors:
 - anna-montagnini
 - laurent-u-perrinet
-tags:
-- grant
-- past-grant
+tags: []
 title: ANR PRIOSENS (2021/2025)
 categories: ["Grants & Funding"]
 ---

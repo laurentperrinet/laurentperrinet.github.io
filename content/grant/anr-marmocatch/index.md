@@ -4,9 +4,7 @@ summary: ANR MarmoCatch (2023-10/2029-04)
 authors:  
 - frédéric-y-chavane
 - laurent-u-perrinet
-tags:
-- grant
-- current-grant
+tags: []
 title: ANR MarmoCatch (2023-10/2029-04)
 categories: ["Grants & Funding"]
 ---

@@ -13,11 +13,7 @@ links:
   url: https://laurentperrinet.github.io/talk/2014-04-25-kaplan-beijing/
 location: Beijing, China
 publication: '*2014 International Joint Conference on Neural Networks (IJCNN)*'
-tags:
-- Bayesian model
-- Biologically Inspired Computer vision
-- dynamics
-- motion detection
+tags: ["bayesian-modeling", "dynamics", "motion-detection", "vision"]
 title: Signature of an anticipatory response in area V1 as modeled by a probabilistic
   model and a spiking neural network
 categories: ["Computational Neuroscience"]

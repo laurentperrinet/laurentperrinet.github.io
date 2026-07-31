@@ -33,8 +33,7 @@ projects:
 publication: '*Vision Science Society*'
 publication_types:
 - inproceedings
-tags:
-- motion detection
+tags: ["motion-detection"]
 title: Inferring monkey ocular following responses from V1 population dynamics using
   a probabilistic model of motion integration
 categories: ["Computational Neuroscience"]

@@ -3,9 +3,7 @@ date: 2015-04-27 00:00:00
 external_link: ''
 summary: 'BrainScaleS: Brain-inspired multiscale computation in neuromorphic hybrid
   systems (2011/2014).'
-tags:
-- grant
-- past-grant
+tags: []
 authors:
 - yves-fregnac
 - laurent-u-perrinet

@@ -17,8 +17,7 @@ links:
 location: IMERA (Aix-Marseille Université)
 
 publication: '*Journee du GT 8 (Neurosciences - Robotique)*'
-tags:
-- sparse coding
+tags: ["sparse-coding"]
 title: Unsupervised learning applied to robotic vision
 url_code: ''
 url_slides: ''

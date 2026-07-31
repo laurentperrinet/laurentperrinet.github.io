@@ -35,9 +35,7 @@ projects:
 publication: '*Perception*'
 publication_types:
 - inproceedings
-tags:
-- Biologically Inspired Computer vision
-- matching pursuit
+tags: ["matching-pursuit", "vision"]
 title: Efficient representation of natural images using local cooperation
 categories: ["Computational Neuroscience"]
 ---

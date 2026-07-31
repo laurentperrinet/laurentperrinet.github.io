@@ -26,12 +26,7 @@ publication_types:
 - inproceedings
 publishDate: '2022-05-20T11:12:27.976406Z'
 subtitle: ''
-tags:
-- Active Inference
-- Deep Learning
-- Object localization
-- Visual search
-- Visuomotor control
+tags: ["active-inference", "deep-learning", "object-localization", "visual-search", "visuomotor-control"]
 title: Retinotopic mapping improves the reliability of image classification
 ---
 * Follows a previous work {{< cite page="/publication/dauce-20" view="1" >}}

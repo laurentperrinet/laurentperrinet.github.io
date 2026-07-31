@@ -25,13 +25,7 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-06-neurocomp/
 publication: '*1ère conférence francophone NEUROsciences COMPutationnelles - NeuroComp*'
-tags:
-- Aperture problem
-- Bayesian model
-- Object motion
-- recursive inference
-- Smooth pursuit eye movement
-- Temporal evolution.
+tags: ["aperture-problem", "bayesian-modeling", "object-motion", "recursive-inference", "smooth-pursuit-eye-movement", "temporal-evolution."]
 title: 'Input-output transformation in the visuo-oculomotor loop: modeling the ocular
   following response to center-surround stimulation in a probabilistic framework'
 categories: ["Computational Neuroscience"]

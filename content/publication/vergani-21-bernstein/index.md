@@ -11,8 +11,7 @@ grants:
 publication: '*Bernstein Conference 2021*'
 publication_types:
 - inproceedings
-tags:
-- lateral interactions
+tags: ["lateral-interactions"]
 title: Simulating anticipatory activity in a 1D Spiking Neural Network Model
 categories: ["Computational Neuroscience"]
 ---

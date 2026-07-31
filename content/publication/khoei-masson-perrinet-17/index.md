@@ -48,10 +48,7 @@ publication: '*PLoS Computational Biology*'
 publication_types:
 - article-journal
 slides: 2022-11-21_flash-lag-effect
-tags:
-- Bayesian model
-- motion prediction
-- psychophysics
+tags: ["bayesian-modeling", "motion-detection", "psychophysics"]
 title: The flash-lag effect as a motion-based predictive shift
 categories: ["Computational Neuroscience"]
 ---

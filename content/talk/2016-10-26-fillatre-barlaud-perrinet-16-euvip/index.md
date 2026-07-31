@@ -19,8 +19,7 @@ links:
 location: Ecole Centrale Marseille
 publication: '*EUVIP (Special Session): Biologically Inspired Computer Vision - October
   16th, 2016*'
-tags:
-- Biologically Inspired Computer vision
+tags: ["vision"]
 title: Categorization of microscopy images using a biologically inspired edge co-occurrences
   descriptor
 categories: ["Computational Neuroscience"]

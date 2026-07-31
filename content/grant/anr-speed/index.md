@@ -2,9 +2,7 @@
 date: 2016-04-27 00:00:00
 summary: 'ANR SPEED: Traitement de la vitesse dans les scènes visuelles naturelles
   (2013/2016).'
-tags:
-- grant
-- past-grant
+tags: []
 title: ANR SPEED (2013/2016)
 categories: ["Grants & Funding"]
 ---

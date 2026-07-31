@@ -32,13 +32,7 @@ publication_types:
 - inproceedings
 publishDate: '2023-04-07T10:45:44.753196Z'
 subtitle: ''
-tags:
-- coding
-- convolutional
-- images
-- natural
-- sparse
-- uncertainty
+tags: ["coding", "convolutional", "images", "natural", "sparse", "uncertainty"]
 title: Convolutional Sparse Coding is improved by heterogeneous uncertainty modeling
 ---
 * Accepted paper (poster) at the [ICLR 2023 Workshop on

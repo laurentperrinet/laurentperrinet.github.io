@@ -12,11 +12,7 @@ publication_types:
 - paper-conference
 publishDate: '2024-10-03T07:45:42.681710Z'
 slides: 2024-09-09-agileneurobot-anr
-tags:
-- artificial intelligence
-- computational neuroscience
-- neuroai
-- neuromorphic hardware
+tags: ["artificial-intelligence", "neuroai", "neuromorphic-hardware"]
 title: 'Robots aériens agiles bio-mimetiques pour le vol en conditions réelles: Enjeux
   pour l''IA embarqué'
 categories: ["NeuroAI & Machine Learning"]

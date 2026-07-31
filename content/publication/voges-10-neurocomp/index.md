@@ -24,8 +24,7 @@ projects:
 publication: '*Proceedings of NeuroComp*'
 publication_types:
 - inproceedings
-tags:
-- lateral connections
+tags: ["visual-cortex"]
 title: Phase space analysis of networks based on biologically realistic parameters
 categories: ["Computational Neuroscience"]
 ---

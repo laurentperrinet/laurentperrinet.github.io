@@ -40,12 +40,7 @@ links:
 publication: '*Nature Communications Biology*'
 publication_types:
 - article-journal
-tags:
-- decoding
-- orientation
-- precision
-- predictive coding
-- V1
+tags: ["decoding", "orientation", "precision", "predictive-coding", "v1"]
 title: Cortical recurrence supports resilience to sensory variance in the primary
   visual cortex
 categories: ["Computational Neuroscience"]

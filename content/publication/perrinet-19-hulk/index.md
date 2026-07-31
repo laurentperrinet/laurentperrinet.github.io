@@ -39,15 +39,7 @@ links:
 publication: '*Vision*'
 publication_types:
 - article-journal
-tags:
-- mesocentre
-- area-v1
-- gain control
-- homeostasis
-- matching pursuit
-- sparse coding
-- sparse hebbian learning
-- unsupervised learning
+tags: ["gain-control", "homeostasis", "matching-pursuit", "mesocentre", "sparse-coding", "sparse-hebbian-learning", "unsupervised-learning", "visual-cortex"]
 title: An adaptive homeostatic algorithm for the unsupervised learning of visual features
 categories: ["Computational Neuroscience"]
 ---

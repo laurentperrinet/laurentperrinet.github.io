@@ -3,9 +3,7 @@ date: 2021-04-01 00:00:00
 summary: 'RedUndancy-free neuro-BIological desigN of Visual and Auditory SEnsing'
 authors:
 - laurent-u-perrinet
-tags:
-- grant
-- past-grant
+tags: []
 title: ANR RubinVase (2021/2024)
 categories: ["Grants & Funding"]
 ---

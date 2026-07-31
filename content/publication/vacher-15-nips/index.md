@@ -19,8 +19,7 @@ links:
 publication: '*Advances in Neural Information Processing Systems*'
 publication_types:
 - article-journal
-tags:
-- motion-clouds
+tags: ["motion-detection"]
 title: Biologically Inspired Dynamic Textures for Probing Motion Perception
 categories: ["Computational Neuroscience"]
 ---

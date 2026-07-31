@@ -40,8 +40,7 @@ links:
 publication: '*VSS Conference Abstract*'
 publication_types:
 - inproceedings
-tags:
-- motion-clouds
+tags: ["motion-detection"]
 title: How and why do image frequency properties influence perceived speed?
 categories: ["Computational Neuroscience"]
 ---

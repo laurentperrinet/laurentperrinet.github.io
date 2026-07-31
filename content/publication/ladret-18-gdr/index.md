@@ -31,11 +31,7 @@ links:
 publication: '*GDR Vision, Paris, 2018*'
 publication_types:
 - inproceedings
-tags:
-- area-v1
-- deep-learning
-- orientation
-- psychophysics
+tags: ["deep-learning", "orientation", "psychophysics", "visual-cortex"]
 title: Selectivity to oriented patterns of different precisions
 categories: ["NeuroAI & Machine Learning"]
 ---

@@ -29,11 +29,7 @@ links:
 publication: '*Nature Neuroscience*'
 publication_types:
 - article-journal
-tags:
-- eye movements
-- motion detection
-- motion-clouds
-- psychophysics
+tags: ["eye-movements", "motion-detection", "psychophysics"]
 title: 'More is not always better: dissociation between perception and action explained
   by adaptive gain control'
 categories: ["Computational Neuroscience"]

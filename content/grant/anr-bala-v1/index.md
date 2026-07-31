@@ -4,9 +4,7 @@ summary: 'ANR BalaV1: Balanced states in area V1 (2013--2016)'
 authors:
 - frédéric-y-chavane
 - laurent-u-perrinet
-tags:
-- grant
-- past-grant
+tags: []
 title: ANR BalaV1 (2013/2016)
 categories: ["Grants & Funding"]
 ---

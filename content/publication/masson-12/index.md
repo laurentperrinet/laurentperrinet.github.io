@@ -21,9 +21,7 @@ links:
 publication: '*Neuroscience and biobehavioral reviews*'
 publication_types:
 - article-journal
-tags:
-- eye movements
-- motion detection
+tags: ["eye-movements", "motion-detection"]
 title: The behavioral receptive field underlying motion integration for primate tracking
   eye movements
 categories: ["Computational Neuroscience"]

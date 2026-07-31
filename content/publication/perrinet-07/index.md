@@ -33,19 +33,7 @@ publication: '*Topics in Dynamical Neural Networks: From Large Scale Neural Netw
   to Motor Control and Vision*'
 publication_types:
 - inbook
-tags:
-- Bayesian model
-- center-surround interactions
-- coding decoding
-- eye movements
-- lateral connections
-- matching pursuit
-- motion detection
-- motion-clouds
-- sparse coding
-- sparse hebbian learning
-- spike
-- visual perception
+tags: ["bayesian-modeling", "coding-decoding", "eye-movements", "matching-pursuit", "motion-detection", "sparse-coding", "sparse-hebbian-learning", "spike", "visual-cortex", "visual-perception"]
 title: 'Dynamical Neural Networks: modeling low-level vision at short latencies'
 categories: ["Computational Neuroscience"]
 ---

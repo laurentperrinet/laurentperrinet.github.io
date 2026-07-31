@@ -31,8 +31,7 @@ links:
 publication: '*Neuro-Computation: From Sensorimotor Integration to Computational Frameworks*'
 publication_types:
 - article-journal
-tags:
-- Bayesian model
+tags: ["bayesian-modeling"]
 title: Bayesian modeling of dynamic motion integration
 categories: ["Computational Neuroscience"]
 ---

@@ -6,9 +6,7 @@ featured: false
 publication: ''
 publication_types:
 - thesis
-tags:
-- rank-order-coding
-- unsupervised learning
+tags: ["rank-order-coding", "unsupervised-learning"]
 title: Apprentissage hebbien d'un reseau de neurones asynchrone a codage par rang
 categories: ["Computational Neuroscience"]
 ---

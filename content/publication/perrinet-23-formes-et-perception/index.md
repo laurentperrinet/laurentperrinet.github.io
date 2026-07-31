@@ -12,10 +12,7 @@ links:
 projects:
 - tout-public
 - art-science
-tags:
-- neuroscience
-- vision
-- perception
+tags: ["neuroscience", "perception", "vision"]
 title: Formes et perception
 categories: ["Computational Neuroscience"]
 ---

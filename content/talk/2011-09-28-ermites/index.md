@@ -49,8 +49,7 @@ links:
 location: Porquerolles la Perle des Iles d'Or - Var (France)
 
 publication: '*Proceedings of SfN, 2011*'
-tags:
-- sparse coding
+tags: ["sparse-coding"]
 title: 'Edge statistics in natural images versus laboratory animal environments: implications
   for understanding lateral connectivity in V1'
 categories: ["Computational Neuroscience"]

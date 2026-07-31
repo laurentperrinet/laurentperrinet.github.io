@@ -15,12 +15,7 @@ links:
   url: https://alexandre-laine.github.io/files/2026_AREADNE-Poster.pdf
 - name: LinkedIn
   url: https://www.linkedin.com/posts/ugcPost-7477633136114348033-Jze9
-tags:
-- visual-motion-direction
-- v1
-- marmoset
-- population-decoding
-- uncertainty-processing
+tags: ["marmoset", "population-decoding", "uncertainty-processing", "v1", "visual-motion-direction"]
 categories: ["Computational Neuroscience"]
 ---
 🧠 Excited to share our latest research led by Alexandre Lainé and presented this summer at AREADNE 2026!

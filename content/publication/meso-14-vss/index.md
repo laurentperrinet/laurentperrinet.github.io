@@ -41,8 +41,7 @@ links:
 publication: '*Journal of Vision*'
 publication_types:
 - inproceedings
-tags:
-- motion-clouds
+tags: ["motion-detection"]
 title: 'Beyond simply faster and slower: exploring paradoxes in speed perception'
 categories: ["Computational Neuroscience"]
 ---

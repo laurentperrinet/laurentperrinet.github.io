@@ -28,10 +28,7 @@ links:
 publication: '*2016 6th European Workshop on Visual Information Processing (EUVIP)*'
 publication_types:
 - inproceedings
-tags:
-- Biologically Inspired Computer vision
-- Image texture
-- sparse coding
+tags: ["image-texture", "sparse-coding", "vision"]
 title: Biologically-inspired characterization of sparseness in natural images
 categories: ["Computational Neuroscience"]
 ---

@@ -15,8 +15,7 @@ links:
 publication: '*Proceedings of ECVP*'
 publication_types:
 - inproceedings
-tags:
-- eye movements
+tags: ["eye-movements"]
 title: 'Effects of motion predictability on anticipatory and visually-guided eye movements:
   a common prior for sensory processing and motor control?'
 categories: ["Computational Neuroscience"]

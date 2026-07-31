@@ -18,8 +18,7 @@ summary: 'Victor Boutin (Equipe NeOpTo) a soutenu sa thèse de doctorat intitul�
   *Sparse deep predictive coding: a bio-inspired model of visual perception* / **Etude
   d’un algorithme hiérarchique et codage épars et prédictif : vers un modèle bio-inspiré
   de la perception visuelle** le Vendredi 13 mars à 14h'
-tags:
-- events
+tags: []
 categories: ["Events & Outreach"]
 ---
 ![](@laurentperrinet_1235128290458951680_tweetcapture.png)

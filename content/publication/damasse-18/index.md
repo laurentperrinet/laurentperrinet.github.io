@@ -19,8 +19,7 @@ links:
 publication: '*Journal of Vision*'
 publication_types:
 - article-journal
-tags:
-- eye movements
+tags: ["eye-movements"]
 title: Reinforcement effects in anticipatory smooth eye movements
 categories: ["Computational Neuroscience"]
 ---

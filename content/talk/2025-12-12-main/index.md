@@ -21,11 +21,7 @@ abstract: "By construction, deep convolutional networks treat all pixels equally
   position points to ground truth bounding boxes with 85% accuracy, compared to 71%
   for classical CNNs. This suggests that this specific Nature's million-year solution
   may offer deep learning visual networks a fundamentally new architectural look."
-tags:
-- deep learning
-- computational neuroscience
-- neuroai
-- vision
+tags: ["deep-learning", "neuroai", "vision"]
 links:  
 - name: MAIN
   url: https://main2025.org

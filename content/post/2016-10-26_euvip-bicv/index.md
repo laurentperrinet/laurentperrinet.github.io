@@ -12,9 +12,7 @@ projects:
 - bicv
 subtitle: 'EUVIP Session 7: Biologically Inspired Computer Vision (Special Session).'
 summary: 'EUVIP Session 7: Biologically Inspired Computer Vision (Special Session).'
-tags:
-- events
-- Biologically Inspired Computer Vision
+tags: ["vision"]
 title: '2016-10-26 : EUVIP BICV'
 categories: ["Events & Outreach"]
 ---

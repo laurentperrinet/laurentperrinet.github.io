@@ -10,11 +10,7 @@ projects:
 - art-science
 - tout-public
 summary: "Le mystère de la Joconde éclairé par les neurosciences"
-tags:
-- art-science
-- neuroscience
-- vision
-- perception
+tags: ["art-science", "neuroscience", "perception", "vision"]
 title: 'Le mystère de la Joconde éclairé par les neurosciences'
 links:
 - name: URL

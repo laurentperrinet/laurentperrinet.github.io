@@ -4,9 +4,7 @@ summary: 'ANR PredictEye (2018/2020) : Mapping and predicting trajectories for e
 authors:
 - anna-montagnini
 - laurent-u-perrinet
-tags:
-- grant
-- past-grant
+tags: []
 title: ANR PredictEye (2018/2020)
 categories: ["Grants & Funding"]
 ---

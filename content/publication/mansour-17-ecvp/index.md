@@ -17,10 +17,7 @@ links:
 publication: '*Proceedings of ECVP*'
 publication_types:
 - inproceedings
-tags:
-- eye movements
-- motion detection
-- motion-clouds
+tags: ["eye-movements", "motion-detection"]
 title: How the dynamics of human smooth pursuit is influenced by speed uncertainty
 categories: ["Computational Neuroscience"]
 ---

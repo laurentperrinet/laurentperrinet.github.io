@@ -37,8 +37,7 @@ publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - inproceedings
 subtitle: ''
-tags:
-- area-v1
+tags: ["visual-cortex"]
 title: Modulation of orientation selectivity by orientation precision
 ---
 ![](@laurentperrinet_1457644824723705856_tweetcapture.png)

@@ -13,9 +13,7 @@ projects:
 publication: '*ICMS 2015 conference*'
 publication_types:
 - inproceedings
-tags:
-- motion-clouds
-- psychophysics
+tags: ["motion-detection", "psychophysics"]
 title: A Mathematical Account of Dynamic Texture Synthesis for Probing Visual Perception
 categories: ["Computational Neuroscience"]
 ---

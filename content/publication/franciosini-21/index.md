@@ -37,9 +37,7 @@ links:
 publication: '*PLoS Computational Biology*'
 publication_types:
 - article-journal
-tags:
-- deep-learning
-- sparse coding
+tags: ["deep-learning", "sparse-coding"]
 title: Pooling in a predictive model of V1 explains functional and structural diversity
   across species
 categories: ["NeuroAI & Machine Learning"]

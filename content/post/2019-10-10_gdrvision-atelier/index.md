@@ -13,9 +13,7 @@ summary: 'Le GDR Vision réunit toute la communauté française de chercheurs en
   Nous aurons un atelier méthodologique le jeudi matin sur les apports possibles du
   Deep Learning pour les sciences de la vision: Utiliser l''apprentissage profond
   en vision.'
-tags:
-- events
-- vision
+tags: ["vision"]
 title: '2019-10-10: Atelier Utiliser l''apprentissage profond en vision'
 categories: ["Events & Outreach"]
 ---

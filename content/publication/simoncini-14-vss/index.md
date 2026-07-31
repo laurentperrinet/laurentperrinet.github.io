@@ -40,11 +40,7 @@ links:
 publication: '*Journal of Vision*'
 publication_types:
 - inproceedings
-tags:
-- eye movements
-- motion detection
-- motion-clouds
-- psychophysics
+tags: ["eye-movements", "motion-detection", "psychophysics"]
 title: The characteristics of microsaccadic eye movements varied with the change of
   strategy in a match-to-sample task
 categories: ["Computational Neuroscience"]

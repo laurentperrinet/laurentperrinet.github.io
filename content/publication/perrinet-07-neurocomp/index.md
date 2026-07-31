@@ -32,13 +32,7 @@ links:
 publication: '*Journal of Physiology-Paris*'
 publication_types:
 - article-journal
-tags:
-- Bayesian model
-- center-surround interactions
-- eye movements
-- lateral connections
-- motion detection
-- visual perception
+tags: ["bayesian-modeling", "eye-movements", "motion-detection", "visual-cortex", "visual-perception"]
 title: Modeling spatial integration in the ocular following response using a probabilistic
   framework
 categories: ["Computational Neuroscience"]

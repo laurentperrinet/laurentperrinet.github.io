@@ -10,8 +10,7 @@ projects:
 title: Cristal N°2
 subtitle: Cristal N°2 - Arbre théorique / 2014
 summary: Cristal N°2 - Arbre théorique / 2014
-tags:
-- art-science
+tags: ["art-science"]
 image:
   caption: 'Crédit image : Étienne Rey'
 

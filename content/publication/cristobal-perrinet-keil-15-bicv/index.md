@@ -39,8 +39,7 @@ links:
 publication: ''
 publication_types:
 - book
-tags:
-- Biologically Inspired Computer vision
+tags: ["vision"]
 title: Biologically Inspired Computer Vision
 categories: ["Computational Neuroscience"]
 ---

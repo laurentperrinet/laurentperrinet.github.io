@@ -46,8 +46,7 @@ summary: Traveling waves have recently been observed in different animal species
   motion stimuli. Our study suggests that cortical waves shape the representation
   of illusory moving stimulus within retinotopic maps for an straightforward read-out
   by downstream areas.
-tags:
-- area-v1
+tags: ["visual-cortex"]
 title: Suppressive waves disambiguate the representation of long-range apparent motion
   in awake monkey V1
 categories: ["Computational Neuroscience"]

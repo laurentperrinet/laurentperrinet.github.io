@@ -9,8 +9,7 @@ projects:
 - art-science
 subtitle: Horizon Faille @ interstices, Caen, 2021
 summary: Horizon Faille @ interstices, Orangerie du jardin des plantes, Caen, 2021.
-tags:
-- art-science
+tags: ["art-science"]
 title: Horizon Faille @ interstices
 image:
   caption: 'Crédit image : Étienne Rey'

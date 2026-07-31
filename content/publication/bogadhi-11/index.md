@@ -41,9 +41,7 @@ links:
 publication: '*Vision research*'
 publication_types:
 - article-journal
-tags:
-- Bayesian model
-- predictive coding
+tags: ["bayesian-modeling", "predictive-coding"]
 title: 'Pursuing motion illusions: a realistic oculomotor framework for Bayesian inference'
 categories: ["Computational Neuroscience"]
 ---

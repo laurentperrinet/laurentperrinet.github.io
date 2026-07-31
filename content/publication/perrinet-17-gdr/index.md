@@ -36,8 +36,7 @@ grants:
 publication: '*GDR Vision, Lille, 2017*'
 publication_types:
 - inproceedings
-tags:
-- motion anticipation
+tags: ["motion-anticipation"]
 title: Expériences autour de la perception de la forme en art et science
 categories: ["Computational Neuroscience"]
 ---

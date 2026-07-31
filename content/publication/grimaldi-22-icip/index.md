@@ -40,10 +40,7 @@ publication_types:
 - inproceedings
 publishDate: '2022-06-21T08:00:50.371310Z'
 subtitle: ''
-tags:
-- polychronies
-- event-based vision
-- neuromorphic hardware
+tags: ["event-based-vision", "neuromorphic-hardware", "polychronies"]
 title: Learning heterogeneous delays of spiking neurons for motion detection
 ---
 * see a follow-up as journal paper: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}

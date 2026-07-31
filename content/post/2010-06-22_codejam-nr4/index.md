@@ -13,8 +13,7 @@ projects:
 - brain-scales
 subtitle: We held a CodeJam 22nd-24th June 2010, in Marseille.
 summary: We held a CodeJam 22nd-24th June 2010, in Marseille.
-tags:
-- events
+tags: []
 title: '2010-06-22 : CodeJamNr4'
 categories: ["Events & Outreach"]
 ---

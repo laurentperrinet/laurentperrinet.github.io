@@ -16,9 +16,7 @@ links:
 publication: '*Annual Computational Neuroscience Meeting: CNS*2019, Barcelona*'
 publication_types:
 - inproceedings
-tags:
-- deep-learning
-- sparse coding
+tags: ["deep-learning", "sparse-coding"]
 title: Modelling Complex Cells of Early Visual Cortex using Predictive Coding
 categories: ["NeuroAI & Machine Learning"]
 ---

@@ -20,8 +20,7 @@ links:
 publication: '*Neurocomputing*'
 publication_types:
 - article-journal
-tags:
-- stdp
+tags: ["stdp"]
 title: 'Network of integrate-and-fire neurons using Rank Order Coding B: spike timing
   dependant plasticity and emergence of orientation selectivity'
 categories: ["Computational Neuroscience"]

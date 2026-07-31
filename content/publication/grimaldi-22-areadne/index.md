@@ -38,13 +38,7 @@ publication_types:
 publishDate: '2022-06-16T11:51:41.890310Z'
 slides: 2022-07-01_grimaldi-22-areadne
 subtitle: ''
-tags:
-- polychronies
-- efficient coding
-- event-based vision
-- neuromorphic hardware
-- homeostasis
-- online classification
+tags: ["efficient-coding", "event-based-vision", "homeostasis", "neuromorphic-hardware", "online-classification", "polychronies"]
 title: Decoding spiking motifs using neurons with heterogeneous delays
 ---
 ![](@laurentperrinet_1546471536571342849_tweetcapture.png)

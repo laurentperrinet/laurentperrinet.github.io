@@ -8,9 +8,7 @@ featured: false
 projects:
 - tout-public
 summary: "NeuroTalk sur le thème des métiers du cerveau, organisé par les neuronautes"
-tags:
-- neuroscience
-- recherche
+tags: ["neuroscience", "recherche"]
 location: Marseille, France
 title: "NeuroTalk sur le thème des métiers du cerveau"
 categories: ["Events & Outreach"]

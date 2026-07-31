@@ -10,8 +10,7 @@ projects:
 publication: '*Proceedings of NeuroComp08, Marseille*'
 publication_types:
 - inproceedings
-tags:
-- lateral connections
+tags: ["visual-cortex"]
 title: Analyzing cortical network dynamics with respect to different connectivity
   assumptions
 categories: ["Computational Neuroscience"]

@@ -11,8 +11,7 @@ projects:
 publication: '*Proceedings of the FENS Forum 2008*'
 publication_types:
 - inproceedings
-tags:
-- lateral connections
+tags: ["visual-cortex"]
 title: Dynamics of cortical networks based on patchy connectivity patterns
 categories: ["Computational Neuroscience"]
 ---

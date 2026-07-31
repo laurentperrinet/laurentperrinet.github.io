@@ -29,12 +29,7 @@ links:
 publication: '*Frontiers in Psychology*'
 publication_types:
 - article-journal
-tags:
-- active inference
-- Bayesian model
-- eye movements
-- free energy
-- psychophysics
+tags: ["active-inference", "bayesian-modeling", "eye-movements", "free-energy", "psychophysics"]
 title: 'Perceptions as Hypotheses: Saccades as Experiments'
 categories: ["Computational Neuroscience"]
 ---

@@ -8,10 +8,7 @@ featured: false
 projects:
 - tout-public
 summary: "Participation à Structure d’Accompagnement à la Sortie de la prison des Baumettes"
-tags:
-- neuroscience
-- vision
-- perception
+tags: ["neuroscience", "perception", "vision"]
 location: Marseille, France
 title: 'Rencontre cinémas & sciences à la prison des Baumettes'
 links:

@@ -14,9 +14,7 @@ links:
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - inproceedings
-tags:
-- Bayesian model
-- motion prediction
+tags: ["bayesian-modeling", "motion-detection"]
 title: Role of motion-based prediction in motion extrapolation
 categories: ["Computational Neuroscience"]
 ---

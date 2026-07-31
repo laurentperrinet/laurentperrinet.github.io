@@ -11,10 +11,7 @@ image:
   placement: 2
   preview_only: false
 
-tags:
-- polychronies
-- grant
-- past-grant
+tags: ["polychronies"]
 title: Polychronies (2022 / 2025)
 categories: ["Grants & Funding"]
 ---

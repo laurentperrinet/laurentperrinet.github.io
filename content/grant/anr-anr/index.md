@@ -9,10 +9,7 @@ authors:
 - ryad-benosman
 - laurent-u-perrinet
 
-tags:
-- grant
-- past-grant
-
+tags: []
 title: ANR AgileNeuRobot (2021/2025)
 
 slides: "2020-12-10_agileneurobot_anr"

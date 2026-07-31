@@ -44,12 +44,7 @@ links:
 publication: '*Journal of Vision*'
 publication_types:
 - article-journal
-tags:
-- Active Inference
-- Deep-Learning
-- Object localization
-- Visual search
-- Visuomotor control
+tags: ["active-inference", "deep-learning", "object-localization", "visual-search", "visuomotor-control"]
 title: A dual foveal-peripheral visual processing model implements efficient saccade
   selection
 categories: ["NeuroAI & Machine Learning"]

@@ -8,10 +8,7 @@ featured: false
 projects:
 - tout-public
 summary: "Restitution film  #nofakenews | école Air Bel | Polly Maggoo"
-tags:
-- neuroscience
-- vision
-- perception
+tags: ["neuroscience", "perception", "vision"]
 location: Marseille, France
 title: "Rencontre cinémas & sciences à l'école Air Bel"
 categories: ["Events & Outreach"]

@@ -10,10 +10,7 @@ projects:
 title: Variable Density, série Delaunay
 subtitle: "Du 20 février au 8 mars 2026 : exposition Ososphère à la Laiterie (Strasbourg)."
 summary: "À la croisée des arts plastiques et de l'architecture, Étienne Rey explore les dimensions comme une matière première propice à la construction de formes évolutives. À travers ses œuvres, où l'expérience est primordiale, il joue avec les composantes de la lumière, de l'espace et, pour certaines, du son. La démarche de ce sociétaire de l'Ososphère tend à révéler les mécanismes d'organisation, d'interrelation et d'interaction qui définissent notre monde."
-tags:
-- art-science
-- spatial-organization
-- visual-perception
+tags: ["art-science", "spatial-organization", "visual-perception"]
 links:
 - name: Ososphère
   url: https://www.artefact.org/l-ososphere/evenements/du-20-fevrier-au-08-mars-2026-exposition-lososphere-a-la-laiterie-40-oeuvres-sur-3-lieux/

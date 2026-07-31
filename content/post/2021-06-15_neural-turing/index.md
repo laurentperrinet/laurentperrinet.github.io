@@ -9,8 +9,7 @@ projects:
 - art-science
 subtitle: Modèles de Turing neuronaux
 summary:  Neural Turing Patterns
-tags:
-- art-science
+tags: ["art-science"]
 title: Neural Turing Patterns
 image:
   caption: © Neural Turing Patterns - Alberto Vergani & Laurent Perrinet.

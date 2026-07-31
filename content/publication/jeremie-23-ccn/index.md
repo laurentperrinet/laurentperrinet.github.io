@@ -23,13 +23,7 @@ publication_types:
 - inproceedings
 publishDate: '2022-11-17T11:15:57.788793Z'
 subtitle: ''
-tags:
-- efficient coding
-- localization
-- online classification
-- retinotopy
-- ultra-fast categorization
-- visual search
+tags: ["efficient-coding", "localization", "online-classification", "retinotopy", "ultra-fast-categorization", "visual-search"]
 title: Retinotopy improves the categorisation and localisation of visual objects in
   CNNs
 ---

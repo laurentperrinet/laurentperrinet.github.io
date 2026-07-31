@@ -7,10 +7,7 @@ featured: false
 publication: '*Proceedings of ESANN*'
 publication_types:
 - inproceedings
-tags:
-- area-v1
-- receptive field
-- sparse coding
+tags: ["receptive-field", "sparse-coding", "visual-cortex"]
 title: Sparse Image Coding Using an Asynchronous Spiking Neural Network
 categories: ["Computational Neuroscience"]
 ---

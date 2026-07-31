@@ -15,11 +15,7 @@ links:
 publication: '*EURASIP Journal on Advances in Signal Processing*'
 publication_types:
 - article-journal
-tags:
-- association field
-- Biologically Inspired Computer vision
-- log-gabor
-- motion-clouds
+tags: ["association-field", "log-gabor", "motion-detection", "vision"]
 title: Sparse Approximation of Images Inspired from the Functional Architecture of
   the Primary Visual Areas
 categories: ["Computational Neuroscience"]

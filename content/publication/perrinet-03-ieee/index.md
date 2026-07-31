@@ -34,14 +34,7 @@ links:
 publication: '*IEEE Transactions on Neural Networks*'
 publication_types:
 - article-journal
-tags:
-- association field
-- Biologically Inspired Computer vision
-- matching pursuit
-- sparse coding
-- sparse hebbian learning
-- spike
-- statistics of natural images
+tags: ["association-field", "matching-pursuit", "sparse-coding", "sparse-hebbian-learning", "spike", "statistics-of-natural-images", "vision"]
 title: 'Coding static natural images using spiking event times: do neurons cooperate?'
 categories: ["Computational Neuroscience"]
 ---

@@ -17,13 +17,7 @@ links:
   url: https://laurentperrinet.github.io/talk/2010-12-17-tauc-talk/
 publication: '*LADISLAV TAUC & GDR MSPC NEUROSCIENCES CONFERENCE, From Mathematical
   Image Analysis to Neurogeometry of the Brain*'
-tags:
-- Bayesian model
-- center-surround interactions
-- dynamics
-- eye movements
-- motion detection
-- motion prediction
+tags: ["bayesian-modeling", "dynamics", "eye-movements", "motion-detection", "visual-cortex"]
 title: 'Probabilistic models of the low-level visual system: the role of prediction
   in detecting motion'
 categories: ["Computational Neuroscience"]

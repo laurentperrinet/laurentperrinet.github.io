@@ -10,14 +10,7 @@ projects:
 publication: '*Proceedings of AREADNE*'
 publication_types:
 - inproceedings
-tags:
-- Bayesian model
-- center-surround interactions
-- eye movements
-- lateral connections
-- motion detection
-- motion prediction
-- visual perception
+tags: ["bayesian-modeling", "eye-movements", "motion-detection", "visual-cortex", "visual-perception"]
 title: Dynamical emergence of a neural solution for motion integration
 categories: ["Computational Neuroscience"]
 ---

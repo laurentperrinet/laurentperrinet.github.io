@@ -24,12 +24,7 @@ publication_types:
 - inproceedings
 publishDate: '2022-05-20T10:34:17.824678Z'
 subtitle: ''
-tags:
-- efficient coding
-- event-based vision
-- homeostasis
-- neuromorphic hardware
-- online classification
+tags: ["efficient-coding", "event-based-vision", "homeostasis", "neuromorphic-hardware", "online-classification"]
 title: Learning heterogeneous delays of Spiking Neurons for motion detection
 ---
 ![](@laurentperrinet_1538417555911720963_tweetcapture.png)

@@ -6,9 +6,7 @@ authors:
 - yves-fregnac
 - frédéric-y-chavane
 - laurent-u-perrinet
-tags:
-- grant
-- past-grant
+tags: []
 title: ANR Horizontal-V1 (2017/2021)
 categories: ["Grants & Funding"]
 ---

@@ -45,8 +45,7 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2012-05-10-itwist/
 publication: '*iTWIST ''12 workshop*'
-tags:
-- sparse coding
+tags: ["sparse-coding"]
 title: 'Edge statistics in natural images versus laboratory animal environments: implications
   for understanding lateral connectivity in V1'
 url_slides: Perrinet12itwist.pdf

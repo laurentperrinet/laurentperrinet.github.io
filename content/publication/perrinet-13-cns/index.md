@@ -31,8 +31,7 @@ links:
 publication: '*Annual Computational Neuroscience Meeting: CNS 2013, Paris*'
 publication_types:
 - inproceedings
-tags:
-- active inference
+tags: ["active-inference"]
 title: Active inference, eye movements and oculomotor delays
 categories: ["Computational Neuroscience"]
 ---

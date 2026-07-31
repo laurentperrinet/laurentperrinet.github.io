@@ -18,8 +18,7 @@ projects:
 - art-science
 - tout-public
 publication: '*Meetup Art et Neurosciences*'
-tags:
-- Biologically Inspired Computer vision
+tags: ["vision"]
 title: Expériences autour de la perception de la forme en art et science
 categories: ["Computational Neuroscience"]
 ---

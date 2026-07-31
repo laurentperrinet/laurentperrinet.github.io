@@ -34,9 +34,7 @@ links:
 publication: '*Journal of Neurophysiology*'
 publication_types:
 - article-journal
-tags:
-- log-gabor
-- motion-clouds
+tags: ["log-gabor", "motion-detection"]
 title: 'Motion Clouds: Model-based stimulus synthesis of natural-like random textures
   for the study of motion perception'
 categories: ["Computational Neuroscience"]

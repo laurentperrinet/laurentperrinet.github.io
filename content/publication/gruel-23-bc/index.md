@@ -25,9 +25,6 @@ publication_types:
 - article-journal
 publishDate: '2022-11-17T11:15:57.623607Z'
 subtitle: ''
-tags:
-- efficient coding
-- event-based vision
-- neuromorphic hardware
+tags: ["efficient-coding", "event-based-vision", "neuromorphic-hardware"]
 title: 'Stakes of Neuromorphic Foveation: a promising future for embedded event cameras'
 ---

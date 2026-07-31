@@ -35,10 +35,7 @@ publication: '*European Conference on Visual Perception 2024*'
 publication_types:
 - paper-conference
 publishDate: '2024-08-25T16:05:27.274458Z'
-tags:
-- eye movements
-- motion detection
-- motion-clouds
+tags: ["eye-movements", "motion-detection"]
 title: An open-source vision-science tool for the auto-regressive generation of dynamic
   stochastic textures Motion Clouds
 categories: ["Computational Neuroscience"]

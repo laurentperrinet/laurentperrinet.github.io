@@ -24,12 +24,7 @@ publication_types:
 - inproceedings
 publishDate: '2022-06-16T11:51:41.890310Z'
 subtitle: ''
-tags:
-- efficient coding
-- event-based vision
-- foveation
-- neuromorphic hardware
-- saccades
+tags: ["efficient-coding", "event-based-vision", "foveation", "neuromorphic-hardware", "saccades"]
 title: Contributions of neuroscience to the detection and localization of objects
   in visual inputs
 ---

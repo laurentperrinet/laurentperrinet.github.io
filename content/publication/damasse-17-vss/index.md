@@ -15,9 +15,7 @@ links:
 publication: '*Proceedings of Vision Sciences Society Annual Meeting*'
 publication_types:
 - inproceedings
-tags:
-- eye movements
-- Smooth pursuit eye movement
+tags: ["eye-movements", "smooth-pursuit-eye-movement"]
 title: 'Dynamic modulation of volatility by reward contingencies: effects on anticipatory
   smooth eye movement'
 categories: ["Computational Neuroscience"]

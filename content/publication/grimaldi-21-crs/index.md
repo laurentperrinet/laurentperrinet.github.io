@@ -44,12 +44,7 @@ publication: '*Champalimaud Research Symposium (CRS21)*'
 publication_types:
 - inproceedings
 subtitle: ''
-tags:
-- efficient coding
-- event-based vision
-- homeostasis
-- neuromorphic hardware
-- online classification
+tags: ["efficient-coding", "event-based-vision", "homeostasis", "neuromorphic-hardware", "online-classification"]
 title: From event-based computations to a bio-plausible Spiking Neural Network
 url_video: https://www.youtube.com/watch?v=aIt5OAleMR8
 ---

@@ -9,10 +9,7 @@ projects:
 - tout-public
 summary: "Rencontres Internationales Sciences Et Cinémas"
 event_url: http://www.pollymaggoo.org/
-tags:
-- neuroscience
-- vision
-- perception
+tags: ["neuroscience", "perception", "vision"]
 location: Marseille, France
 title: 'Participation au jury du RISC'
 links:

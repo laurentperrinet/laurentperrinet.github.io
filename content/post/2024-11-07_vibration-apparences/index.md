@@ -10,8 +10,7 @@ projects:
 title: La vibration des apparences
 subtitle: "Une exposition in situ d’Étienne Rey pour le musée Granet."
 summary: "À l'occasion de la Biennale d’Aix-en-Provence, dans le cadre de CHRONIQUES – Biennale des Imaginaires Numériques, l'association Arts Vivants présente au musée Granet, du 8 novembre 2024 au 19 janvier 2025, une exposition consacrée à l'artiste contemporain Étienne Rey, intitulée *La vibration des apparences*."
-tags:
-- art-science
+tags: ["art-science"]
 links:
 - name: Code
   url: https://laurentperrinet.github.io/sciblog/posts/2025-01-18_la-vibration-des-apparences.html

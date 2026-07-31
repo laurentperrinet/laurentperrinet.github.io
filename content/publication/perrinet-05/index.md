@@ -12,8 +12,7 @@ links:
 publication: '*International Conference on Artificial Neural Networks*'
 publication_types:
 - inproceedings
-tags:
-- spike
+tags: ["spike"]
 title: Efficient Source Detection Using Integrate-and-Fire Neurons
 categories: ["Computational Neuroscience"]
 ---

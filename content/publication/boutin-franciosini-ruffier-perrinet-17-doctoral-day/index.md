@@ -17,9 +17,7 @@ projects:
 publication: '*Doc2AMU Doctoral Day - 2017-10-13*'
 publication_types:
 - inproceedings
-tags:
-- deep-learning
-- sparse coding
+tags: ["deep-learning", "sparse-coding"]
 title: Controlling an aerial robot with human gestures using bio-inspired algorithm
 categories: ["NeuroAI & Machine Learning"]
 ---

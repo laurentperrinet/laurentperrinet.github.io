@@ -40,8 +40,7 @@ links:
 publication: '*Annals of Eye Science*'
 publication_types:
 - inproceedings
-tags:
-- area-v1
+tags: ["visual-cortex"]
 title: Learning dynamics in a neural network model of the primary visual cortex
 categories: ["Computational Neuroscience"]
 ---

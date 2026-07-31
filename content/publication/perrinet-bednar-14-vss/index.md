@@ -38,10 +38,7 @@ links:
 publication: '*Journal of Vision*'
 publication_types:
 - inproceedings
-tags:
-- association field
-- Biologically Inspired Computer vision
-- sparse coding
+tags: ["association-field", "sparse-coding", "vision"]
 title: Edge co-occurrences are sufficient to categorize natural versus animal images
 categories: ["Computational Neuroscience"]
 ---

@@ -12,9 +12,7 @@ projects:
 publication: '*Proceedings of NeuroComp08, Marseille*'
 publication_types:
 - inproceedings
-tags:
-- feed-forward_inhibition
-- large-scale_networks
+tags: ["feed-forward-inhibition", "large-scale-networks"]
 title: Functional properties of feed-forward inhibition
 categories: ["Computational Neuroscience"]
 ---

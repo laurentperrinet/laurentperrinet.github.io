@@ -4,9 +4,7 @@ summary: 'PACE-ITN: ITN Marie Curie network (2015/2019).'
 authors:
 - anna-montagnini
 - laurent-u-perrinet
-tags:
-- grant
-- past-grant
+tags: []
 title: PACE-ITN (2015/2019)
 categories: ["Grants & Funding"]
 ---

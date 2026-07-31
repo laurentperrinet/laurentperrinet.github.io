@@ -17,9 +17,7 @@ links:
 publication: '*Proceedings of VSS*'
 publication_types:
 - inproceedings
-tags:
-- eye movements
-- Smooth pursuit eye movement
+tags: ["eye-movements", "smooth-pursuit-eye-movement"]
 title: 'Operant reinforcement versus reward expectancy: effects on anticipatory eye
   movements'
 categories: ["Computational Neuroscience"]

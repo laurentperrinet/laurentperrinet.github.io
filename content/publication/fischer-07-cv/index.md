@@ -39,10 +39,7 @@ links:
 publication: '*International Journal of Computer Vision*'
 publication_types:
 - article-journal
-tags:
-- Biologically Inspired Computer vision
-- log-gabor
-- visual perception
+tags: ["log-gabor", "vision", "visual-perception"]
 title: Self-Invertible 2D Log-Gabor Wavelets
 categories: ["Computational Neuroscience"]
 ---

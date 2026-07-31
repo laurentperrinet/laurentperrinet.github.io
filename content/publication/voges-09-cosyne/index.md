@@ -49,8 +49,7 @@ projects:
 publication: '*Proceedings of COSYNE*'
 publication_types:
 - inproceedings
-tags:
-- lateral connections
+tags: ["visual-cortex"]
 title: Dynamical state spaces of cortical networks representing various horizontal
   connectivities
 categories: ["Computational Neuroscience"]

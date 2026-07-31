@@ -14,11 +14,7 @@ publication: '*Journée Scientifique Biomimove 2024 : Action, Perception et Trai
 publication_types:
 - paper-conference
 publishDate: '2024-10-03T07:45:42.692151Z'
-tags:
-- artificial intelligence
-- computational neuroscience
-- neuroai
-- neuromorphic hardware
+tags: ["artificial-intelligence", "neuroai", "neuromorphic-hardware"]
 title: 'NeuroAI: interactions multiples entre Neurosciences et Intelligence artificielle'
 slides: 2024-11-18-journee-biomometisme
 categories: ["NeuroAI & Machine Learning"]

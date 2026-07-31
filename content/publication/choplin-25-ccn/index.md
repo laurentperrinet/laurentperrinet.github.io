@@ -18,12 +18,7 @@ abstract: This study investigates the use of Riemannian geometry to classify men
   Minimum Distance to Mean (MDM) classifier, the results demonstrate spatial effects
   of mental workload irrespective of the investigated spectral domain. This demonstrates
   that spatial information is distributed evenly across all explored frequency bands.
-tags:
-- Mental workload
-- Riemannian geometry
-- Classification
-- Electroencephalogram
-- Covariance Matrices
+tags: ["classification", "covariance-matrices", "electroencephalogram", "mental-workload", "riemannian-geometry"]
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/choplin-25-ccn

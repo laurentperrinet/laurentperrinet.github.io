@@ -1,9 +1,7 @@
 ---
 date: 2016-04-27 00:00:00
 summary: 'ANR REM : Renforcement et mouvements oculaires (2013/2016).'
-tags:
-- grant
-- past-grant
+tags: []
 title: ANR REM (2013/2016)
 categories: ["Grants & Funding"]
 ---

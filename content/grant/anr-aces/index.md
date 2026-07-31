@@ -6,9 +6,7 @@ authors:
 - emmanuel-daucé
 - laurent-u-perrinet
 - laurent-madelain
-tags:
-- grant
-- past-grant
+tags: []
 title: ANR ACES (2022/2026)
 categories: ["Grants & Funding"]
 ---

@@ -29,13 +29,7 @@ links:
 location: Malet Place Eng Bldg 1.03 (first floor).
 
 publication: '*Vision@UCL seminar - Thursday, 12th January, 5pm*'
-tags:
-- Bayesian model
-- center-surround interactions
-- dynamics
-- eye movements
-- motion detection
-- motion prediction
+tags: ["bayesian-modeling", "dynamics", "eye-movements", "motion-detection", "visual-cortex"]
 title: Motion-based prediction is sufficient to solve the aperture problem
 categories: ["Computational Neuroscience"]
 ---

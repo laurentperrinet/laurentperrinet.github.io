@@ -42,12 +42,7 @@ links:
 publication: '*CNS*2019 Barcelona, Spain*'
 publication_types:
 - inproceedings
-tags:
-- Active Inference
-- Deep Learning
-- Object localization
-- Visual search
-- Visuomotor control
+tags: ["active-inference", "deep-learning", "object-localization", "visual-search", "visuomotor-control"]
 title: 'Learning where to look: a foveated visuomotor control model'
 categories: ["Computational Neuroscience"]
 ---

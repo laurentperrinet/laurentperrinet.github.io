@@ -42,8 +42,7 @@ links:
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - inproceedings
-tags:
-- area-v1
+tags: ["visual-cortex"]
 title: Orientation selectivity to synthetic natural patterns in a cortical-like model
   of the cat primary visual cortex
 categories: ["Computational Neuroscience"]

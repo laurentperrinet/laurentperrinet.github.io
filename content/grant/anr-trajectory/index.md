@@ -4,9 +4,7 @@ summary: ANR TRAJECTORY (2016/2019).
 authors:  
 - frédéric-y-chavane
 - laurent-u-perrinet
-tags:
-- grant
-- past-grant
+tags: []
 title: ANR TRAJECTORY (2016/2019)
 categories: ["Grants & Funding"]
 ---

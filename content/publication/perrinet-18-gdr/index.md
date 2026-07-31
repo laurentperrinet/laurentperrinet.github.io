@@ -30,9 +30,7 @@ links:
 publication: '*GDR Vision, Paris, 2018*'
 publication_types:
 - inproceedings
-tags:
-- deep-learning
-- motion anticipation
+tags: ["deep-learning", "motion-anticipation"]
 title: A low-cost, accessible eye tracking framework
 categories: ["NeuroAI & Machine Learning"]
 ---

@@ -33,9 +33,7 @@ links:
 publication: '*iTwist, 2018*'
 publication_types:
 - inproceedings
-tags:
-- deep-learning
-- sparse coding
+tags: ["deep-learning", "sparse-coding"]
 title: From biological vision to unsupervised hierarchical sparse coding
 categories: ["NeuroAI & Machine Learning"]
 ---

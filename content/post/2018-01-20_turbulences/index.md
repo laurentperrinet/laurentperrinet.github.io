@@ -13,8 +13,7 @@ summary: L’installation Turbulences explore l’émergence de caustiques, phé
   caractéristiques de la relation entre l’eau, la lumière et l’air. Le mouvement y
   perturbe un état optique stable. La turbulence des plis lumineux donne l’illusion
   d’un corps flottant.
-tags:
-- art-science
+tags: ["art-science"]
 title: Turbulences
 categories: ["Events & Outreach"]
 ---

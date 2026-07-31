@@ -17,12 +17,7 @@ publication: '*LADISLAV TAUC and GDR MSPC NEUROSCIENCES CONFERENCE, From Mathema
   Image Analysis to Neurogeometry of the Brain*'
 publication_types:
 - inproceedings
-tags:
-- Bayesian model
-- center-surround interactions
-- coding decoding
-- eye movements
-- motion detection
+tags: ["bayesian-modeling", "coding-decoding", "eye-movements", "motion-detection", "visual-cortex"]
 title: 'Probabilistic models of the low-level visual system: the role of prediction
   in detecting motion'
 categories: ["Computational Neuroscience"]

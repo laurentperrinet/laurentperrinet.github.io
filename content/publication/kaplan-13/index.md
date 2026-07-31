@@ -30,14 +30,7 @@ links:
 publication: '*Frontiers in Computational Neuroscience*'
 publication_types:
 - article-journal
-tags:
-- Bayesian model
-- large-scale_networks
-- motion detection
-- motion prediction
-- predictive coding
-- pynn
-- spike
+tags: ["bayesian-modeling", "large-scale-networks", "motion-detection", "predictive-coding", "pynn", "spike"]
 title: Anisotropic connectivity implements motion-based prediction in a spiking neural
   network
 categories: ["Computational Neuroscience"]

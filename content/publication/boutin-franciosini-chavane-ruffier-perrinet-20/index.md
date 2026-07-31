@@ -45,9 +45,7 @@ links:
 publication: '*PLoS Computational Biology*'
 publication_types:
 - article-journal
-tags:
-- deep-learning
-- sparse coding
+tags: ["deep-learning", "sparse-coding"]
 title: Sparse Deep Predictive Coding captures contour integration capabilities of
   the early visual system
 categories: ["NeuroAI & Machine Learning"]

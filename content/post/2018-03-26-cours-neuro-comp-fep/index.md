@@ -7,8 +7,7 @@ lastmod: 2018-03-26 00:00:00
 
 subtitle: 'PhD Program: course in Computational Neuroscience.'
 summary: 'PhD Program: course in Computational Neuroscience.'
-tags:
-- events
+tags: []
 title: '2018-03-26 : PhD Program: course in Computational Neuroscience'
 categories: ["Events & Outreach"]
 ---

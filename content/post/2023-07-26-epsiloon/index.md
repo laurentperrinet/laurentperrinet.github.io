@@ -7,10 +7,7 @@ featured: true
 projects:
 - tout-public
 summary: Article de dissémination sur ce que l'étrange et le paranormal peut révéler sur notre cerveau.
-tags:
-- neuroscience
-- prediction
-- psychiatrie
+tags: ["neuroscience", "prediction", "psychiatrie"]
 title: 'Ce que le paranormal dit de notre cerveau'
 links:
 - name: URL

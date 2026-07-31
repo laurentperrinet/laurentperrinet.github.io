@@ -14,9 +14,7 @@ projects:
 publication: '*IHP workshop*'
 publication_types:
 - inproceedings
-tags:
-- motion-clouds
-- psychophysics
+tags: ["motion-detection", "psychophysics"]
 title: Dynamic Textures For Probing Motion Perception
 categories: ["Computational Neuroscience"]
 ---

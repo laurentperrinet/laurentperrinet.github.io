@@ -9,10 +9,7 @@ projects:
 - tout-public
 title: "Court-métrage *L’école des Fake News* sur grand écran ! #NOFAKENEWS"
 summary: "Présentation du court métrage *L’école des Fake News* #NOFAKENEWS, à l’occasion de la 31e édition de Ciné Plein Air Marseille, organisée par Les Écrans du Sud, et réalisé avec l’école Air Bel et l’association Polly Maggoo."
-tags:
-- neuroscience
-- vision
-- perception
+tags: ["neuroscience", "perception", "vision"]
 location: Marseille, France
 categories: ["Events & Outreach"]
 ---

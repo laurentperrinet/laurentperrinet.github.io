@@ -25,9 +25,7 @@ projects:
 publication: '*GdR Robotics - 2019-06-05*'
 publication_types:
 - inproceedings
-tags:
-- deep-learning
-- sparse coding
+tags: ["deep-learning", "sparse-coding"]
 title: Top-down connection in Hierarchical Sparse Coding
 categories: ["NeuroAI & Machine Learning"]
 ---

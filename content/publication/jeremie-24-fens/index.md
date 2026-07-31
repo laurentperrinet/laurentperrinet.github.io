@@ -13,11 +13,7 @@ publication: '*Proceedings of the FENS Forum 2024*'
 publication_types:
 - paper-conference
 publishDate: '2024-08-06T14:24:04.539329Z'
-tags:
-- Convolutional Neural Networks
-- Foveated vision
-- Transfer learning
-- visual categorization
+tags: ["convolutional-neural-networks", "foveated-vision", "transfer-learning", "visual-categorization"]
 title: Retinotopy in CNN's implements Efficient Visual Search
 categories: ["Computational Neuroscience"]
 ---

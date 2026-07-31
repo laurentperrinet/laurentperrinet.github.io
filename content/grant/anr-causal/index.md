@@ -1,9 +1,7 @@
 ---
 date: 2016-04-27 00:00:00
 summary: 'ANR CausaL (2018/2020) : Cognitive​ ​architectures​ ​of​ Causal​ ​Learning.'
-tags:
-- grant
-- past-grant
+tags: []
 title: ANR CausaL (2018/2020)
 categories: ["Grants & Funding"]
 ---

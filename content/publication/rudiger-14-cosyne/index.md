@@ -16,8 +16,7 @@ links:
 publication: '*Proceedings of COSYNE*'
 publication_types:
 - inproceedings
-tags:
-- statistics of natural images
+tags: ["statistics-of-natural-images"]
 title: Relationship between natural image statistics and lateral connectivity in the
   primary visual cortex
 categories: ["Computational Neuroscience"]

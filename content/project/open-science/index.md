@@ -4,11 +4,7 @@ image:
   caption: Snapshot of a Motion Cloud
   focal_point: Smart
 summary: 'To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences.'
-tags:
-- research-interests
-- log-gabor
-- psychophysics
-- motion-clouds
+tags: ["log-gabor", "motion-detection", "psychophysics", "research-interests"]
 title: Open Science
 categories: ["Research Projects"]
 ---

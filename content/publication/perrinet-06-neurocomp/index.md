@@ -26,12 +26,7 @@ projects:
 publication: '*1ère conférence francophone NEUROsciences COMPutationnelles - NeuroComp*'
 publication_types:
 - inproceedings
-tags:
-- aperture problem
-- Bayesian model
-- eye movements
-- matching pursuit
-- motion detection
+tags: ["aperture-problem", "bayesian-modeling", "eye-movements", "matching-pursuit", "motion-detection"]
 title: 'Input-output transformation in the visuo-oculomotor loop: modeling the ocular
   following response to center-surround stimulation in a probabilistic framework'
 categories: ["Computational Neuroscience"]

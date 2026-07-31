@@ -38,11 +38,7 @@ links:
 publication: '*Journal of Vision*'
 publication_types:
 - inproceedings
-tags:
-- eye movements
-- motion detection
-- motion-clouds
-- psychophysics
+tags: ["eye-movements", "motion-detection", "psychophysics"]
 title: 'Pattern discrimination for moving random textures: Richer stimuli are more
   difficult to recognize'
 categories: ["Computational Neuroscience"]

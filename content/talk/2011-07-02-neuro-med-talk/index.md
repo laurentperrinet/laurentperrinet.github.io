@@ -16,12 +16,7 @@ links:
   url: https://laurentperrinet.github.io/talk/2011-07-02-neuro-med-talk/
 publication: '*Atelier Neurosciences Computationnelles, 2-3 Juillet 2011 Khemisset,
   Maroc*'
-tags:
-- Bayesian model
-- dynamics
-- eye movements
-- motion detection
-- motion prediction
+tags: ["bayesian-modeling", "dynamics", "eye-movements", "motion-detection"]
 title: Propriétés émergentes d'un modèle de prédiction probabiliste utilisant un champ
   neural
 categories: ["Computational Neuroscience"]

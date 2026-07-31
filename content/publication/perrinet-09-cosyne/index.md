@@ -61,13 +61,7 @@ projects:
 publication: '*Proceedings of COSYNE*'
 publication_types:
 - inproceedings
-tags:
-- Bayesian model
-- center-surround interactions
-- eye movements
-- lateral connections
-- motion detection
-- visual perception
+tags: ["bayesian-modeling", "eye-movements", "motion-detection", "visual-cortex", "visual-perception"]
 title: Decoding center-surround interactions in population of neurons for the ocular
   following response
 categories: ["Computational Neuroscience"]

@@ -53,8 +53,7 @@ grants:
 publication: '*Proceedings of AREADNE*'
 publication_types:
 - inproceedings
-tags:
-- coding decoding
+tags: ["coding-decoding"]
 title: A dynamic model for decoding direction and orientation in macaque primary visual
   cortex
 categories: ["Computational Neuroscience"]

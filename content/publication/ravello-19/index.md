@@ -36,10 +36,7 @@ links:
 publication: '*Scientific Reports*'
 publication_types:
 - article-journal
-tags:
-- motion detection
-- motion-clouds
-- Retina
+tags: ["motion-detection", "retina"]
 title: Speed-Selectivity in Retinal Ganglion Cells is Sharpened by Broad Spatial Frequency,
   Naturalistic Stimuli
 categories: ["Computational Neuroscience"]

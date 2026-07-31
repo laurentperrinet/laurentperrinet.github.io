@@ -10,9 +10,7 @@ summary: Dans le monde qui nous entoure, nous percevons le temps s’écouler de
   immuable et universelle. Pourtant, il existe un temps pour chaque sens. Laurent
   Perrinet (AMU) exposera la dynamique des réseaux de neurones et le temps particulier
   qui est associé à l’un de ces sens, la vision.
-tags:
-- events
-- vision
+tags: ["vision"]
 title: 'Le temps des sens'
 url_video: https://www.youtube.com/watch?v=jJKTdlChefc
 categories: ["Events & Outreach"]

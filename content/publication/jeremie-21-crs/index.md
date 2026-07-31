@@ -22,10 +22,7 @@ publication: '*Champalimaud Research Symposium (CRS21)*'
 publication_types:
 - inproceedings
 subtitle: ''
-tags:
-- deep-learning
-- object categorization
-- psychophysics
+tags: ["deep-learning", "object-categorization", "psychophysics"]
 title: Ultra-fast categorization of images containing animals in vivo and in computo
 ---
 * see a follow-up in: {{< cite page="/publication/jeremie-23-ultra-fast-cat" view="4" >}}

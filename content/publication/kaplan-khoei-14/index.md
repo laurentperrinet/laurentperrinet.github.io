@@ -38,11 +38,7 @@ publication: '*IEEE International Joint Conference on Neural Networks (IJCNN) 20
   Beijing, China*'
 publication_types:
 - inproceedings
-tags:
-- Bayesian model
-- motion detection
-- motion prediction
-- pynn
+tags: ["bayesian-modeling", "motion-detection", "pynn"]
 title: Signature of an anticipatory response in area V1 as modeled by a probabilistic
   model and a spiking neural network
 categories: ["Computational Neuroscience"]

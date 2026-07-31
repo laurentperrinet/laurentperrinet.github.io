@@ -40,9 +40,7 @@ links:
 publication: '*Journal of Neurophysiology*'
 publication_types:
 - article-journal
-tags:
-- coding decoding
-- spike
+tags: ["coding-decoding", "spike"]
 title: Testing the odds of inherent vs. observed overdispersion in neural spike counts
 categories: ["Computational Neuroscience"]
 ---

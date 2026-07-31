@@ -17,11 +17,7 @@ publication: '*Vision*'
 publication_types:
 - article-journal
 publishDate: '2024-08-06T15:13:44.587984Z'
-tags:
-- Convolutional Neural Networks
-- Foveated vision
-- Transfer learning
-- visual categorization
+tags: ["convolutional-neural-networks", "foveated-vision", "transfer-learning", "visual-categorization"]
 title: Foveated Retinotopy Improves Classification and Localization in CNNs
 categories: ["Computational Neuroscience"]
 ---

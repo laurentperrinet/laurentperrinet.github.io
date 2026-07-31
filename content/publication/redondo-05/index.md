@@ -36,8 +36,7 @@ projects:
 publication: '*Perception*'
 publication_types:
 - inproceedings
-tags:
-- log-gabor
+tags: ["log-gabor"]
 title: Modeling of simple cells through a sparse overcomplete gabor wavelet representation
   based on local inhibition and facilitation
 categories: ["Computational Neuroscience"]

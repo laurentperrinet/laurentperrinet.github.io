@@ -18,8 +18,7 @@ publication: '*Grenoble Workshop on Models and Analysis of Eye Movements, Grenob
   France*'
 publication_types:
 - inproceedings
-tags:
-- motion anticipation
+tags: ["motion-anticipation"]
 title: 'ANEMO: Quantitative tools for the ANalysis of Eye MOvements'
 categories: ["Computational Neuroscience"]
 ---

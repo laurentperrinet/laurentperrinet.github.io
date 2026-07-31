@@ -14,8 +14,7 @@ links:
 location: CerCo, Toulouse
 
 publication: '*A  seminar at the CerCo, Toulouse, France*'
-tags:
-- Biologically Inspired Computer vision
+tags: ["vision"]
 title: Edge co-occurrences and categorizing natural images
 url_slides: perrinet13cerco.pdf
 categories: ["Computational Neuroscience"]

@@ -10,12 +10,7 @@ date: '2026-01-01'
 publishDate: '2026-01-31T14:12:18.239393Z'
 publication_types:
 - preprint
-tags:
-- vision-transformer
-- saccades
-- attention-maps
-- image-classification
-- computer-vision
+tags: ["attention-maps", "computer-vision", "image-classification", "saccades", "vision-transformer"]
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2603.09613

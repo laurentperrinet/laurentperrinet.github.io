@@ -10,8 +10,7 @@ featured: false
 publication: '*Neurocomputing*'
 publication_types:
 - article-journal
-tags:
-- center-surround interactions
+tags: ["visual-cortex"]
 title: 'Network of integrate-and-fire neurons using Rank Order Coding A: how to implement
   spike timing dependant plasticity'
 categories: ["Computational Neuroscience"]

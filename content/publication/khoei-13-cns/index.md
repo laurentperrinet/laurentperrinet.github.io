@@ -16,10 +16,7 @@ links:
 publication: '*Annual Computational Neuroscience Meeting: CNS*2013, Paris*'
 publication_types:
 - inproceedings
-tags:
-- Bayesian model
-- motion detection
-- motion prediction
+tags: ["bayesian-modeling", "motion-detection"]
 title: Motion-based prediction and development of the response to an 'on the way'
   stimulus
 categories: ["Computational Neuroscience"]

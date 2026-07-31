@@ -9,17 +9,7 @@ publication_types:
 publication: '*arXiv preprint arXiv:2604.14096*'
 draft: false
 
-tags: 
-- spikes
-- spiking-neural-networks
-- polychronization
-- working-memory
-- recurrent-networks
-- heterogeneous-delays
-- spiking-motifs
-- surrogate-gradient
-- neuromorphic
-
+tags: ["heterogeneous-delays", "neuromorphic", "polychronization", "recurrent-networks", "spikes", "spiking-motifs", "spiking-neural-networks", "surrogate-gradient", "working-memory"]
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-26
