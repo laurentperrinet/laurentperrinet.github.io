@@ -18,4 +18,5 @@ links:
   url: https://snufa.net/2025/abstracts/thomas-kronland-martinet-detection.html
 - name: HAL
   url: https://amu.hal.science/hal-05368448
+categories: ["Computational Neuroscience"]
 ---

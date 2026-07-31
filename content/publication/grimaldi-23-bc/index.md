@@ -2,7 +2,7 @@
 authors:
 - Antoine Grimaldi
 - Laurent U Perrinet
-categories: []
+categories: ["NeuroAI & Machine Learning"]
 date: 2023-09-11
 doi: 10.1007/s00422-023-00975-8
 draft: false
@@ -35,7 +35,6 @@ tags:
 title: Learning heterogeneous delays in a layer of spiking neurons for fast motion
   detection
 ---
-
 {{< video src="2023-09-14_HDSNN_video-abstract.mp4" controls="yes" >}}
 
  * read the paper [online](https://doi.org/10.1007/s00422-023-00975-8) (paywall) or read the reprint as [PDF](https://laurentperrinet.github.io/publication/grimaldi-23-bc/grimaldi-23-bc.pdf)

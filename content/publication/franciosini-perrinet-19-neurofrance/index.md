@@ -48,7 +48,7 @@ tags:
 - sparse coding
 title: A hierarchical, multi-layer convolutional sparse coding algorithm based on
   predictive coding
+categories: ["NeuroAI & Machine Learning"]
 ---
-
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

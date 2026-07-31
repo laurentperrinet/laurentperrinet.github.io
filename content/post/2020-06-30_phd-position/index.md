@@ -16,6 +16,7 @@ lastmod: 2020-06-30 09:00:00
 
 tags:
 - events
+categories: ["Events & Outreach"]
 ---
 {{% callout warning %}}
 THE POSITION HAS BEEN FILLED.

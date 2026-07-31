@@ -44,6 +44,6 @@ publication_types:
 tags:
 - pynn
 title: 'PyNN: towards a universal neural simulator API in Python'
+categories: ["Computational Neuroscience"]
 ---
-
 * see a follow-up: {{< cite page="/publication/davison-08" view="4" >}}

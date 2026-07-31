@@ -13,7 +13,7 @@ abstract: Visual areas are essential in transforming the raw luminous signal int
   and psychophysics.
 authors:
 - Laurent U Perrinet
-categories: []
+categories: ["Computational Neuroscience"]
 date: 2025-05-26 14:00:00
 draft: false
 event: Master M4NC de l'institut NeuroMod, cours Prospective Innovation and Research.
@@ -38,6 +38,5 @@ slides: 2025-05-26-master-m-4-nc
 subtitle: ''
 title: Artificial neural networks and machine learning applied to the understanding of biological vision
 ---
-
 ## Master M4NC de l'institut NeuroMod, cours Prospective Innovation and Research.
 

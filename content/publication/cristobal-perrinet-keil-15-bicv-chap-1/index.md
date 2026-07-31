@@ -27,6 +27,6 @@ publication_types:
 tags:
 - Biologically Inspired Computer vision
 title: Introduction
+categories: ["Computational Neuroscience"]
 ---
-
 {{< figure src="mindmap.png" title="Mindmap of the book contents. Cross-links between chapters have been indicated as thin lines." >}}

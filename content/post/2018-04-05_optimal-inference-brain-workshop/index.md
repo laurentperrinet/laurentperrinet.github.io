@@ -16,6 +16,7 @@ tags:
 - probalistic-inference
 title: '2018-04-05 : *Probabilities and Optimal Inference to understand the Brain*
   Workshop'
+categories: ["Events & Outreach"]
 ---
 ![participants](IMG_20180406_164630.jpg)
 

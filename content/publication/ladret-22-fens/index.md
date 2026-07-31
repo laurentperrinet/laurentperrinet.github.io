@@ -2,7 +2,7 @@
 authors:
 - Hugo Ladret
 - Laurent U Perrinet
-categories: []
+categories: ["Computational Neuroscience"]
 date: 2022-07-11
 draft: false
 featured: false
@@ -26,6 +26,5 @@ tags: []
 title: Recurrent cortical connectivity in the primary visual cortex supports robust
   encoding of natural sensory inputs
 ---
-
 ![](@laurentperrinet_1545743191198121985_tweetcapture.png)
 * This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}

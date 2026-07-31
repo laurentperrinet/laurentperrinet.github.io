@@ -18,8 +18,8 @@ title: 'Participation au jury du RISC'
 links:
 - name: URL
   url: http://festivalrisc.org/14e-edition/
+categories: ["Events & Outreach"]
 ---
-
 # 14ème RENCONTRES INTERNATIONALES SCIENCES & CINÉMAS (RISC)
 
 ![14eme du RISC](http://festivalrisc.org/wp-content/uploads/2023/11/RISCV02rvb-web-WP.jpg)

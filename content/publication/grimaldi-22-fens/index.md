@@ -2,7 +2,7 @@
 authors:
 - Antoine Grimaldi
 - Laurent U Perrinet
-categories: []
+categories: ["NeuroAI & Machine Learning"]
 date: 2022-07-12
 draft: false
 featured: false
@@ -31,6 +31,5 @@ tags:
 - online classification
 title: Learning heterogeneous delays of spiking neurons for motion detection
 ---
-
 ![](@laurentperrinet_1546471536571342849_tweetcapture.png)
 * for a follow-up, check out {{< cite page="/publication/grimaldi-22-icip" view="4" >}}

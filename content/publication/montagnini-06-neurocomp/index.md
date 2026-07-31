@@ -36,6 +36,6 @@ tags:
 - Smooth pursuit eye movement
 - Temporal evolution
 title: Bayesian modeling of dynamic motion integration
+categories: ["Computational Neuroscience"]
 ---
-
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

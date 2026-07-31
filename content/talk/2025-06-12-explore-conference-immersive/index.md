@@ -23,8 +23,8 @@ links:
   url: https://laurentperrinet.github.io/project/tout-public/
 projects:
 - tout-public  
+categories: ["Computational Neuroscience"]
 ---
-
 * https://explore.univ-amu.fr/programme
 
 * Quoi: Conférence immersive

@@ -41,6 +41,6 @@ tags:
 - visual perception
 title: Modeling spatial integration in the ocular following response using a probabilistic
   framework
+categories: ["Computational Neuroscience"]
 ---
-
 ![header](perrinet-07-neurocomp.png)

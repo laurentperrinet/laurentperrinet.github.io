@@ -1,7 +1,7 @@
 ---
 authors:
 - Laurent U Perrinet
-categories: []
+categories: ["Computational Neuroscience"]
 date: 2024-04-10 09:00:00
 draft: false
 event: 'Master 1 Neurosciences et Sciences Cognitives'

@@ -1,7 +1,7 @@
 ---
 authors:
 - Laurent U Perrinet
-categories: []
+categories: ["Computational Neuroscience"]
 date: 2023-01-23 18:00:00
 draft: false
 event: Atelier jeu et cerveau - M2 MASCO
@@ -31,7 +31,6 @@ subtitle: ''
 tags: []
 title: Game theory and brain strategies
 ---
-
 * workshop organisé par les étudiants du master de sciences cognitives les 23 et 24 janvier 2023.
  
  

@@ -43,4 +43,5 @@ tags:
 - statistics of natural images
 title: 'Push-Pull Receptive Field Organization and Synaptic Depression: Mechanisms
   for Reliably Encoding Naturalistic Stimuli in V1'
+categories: ["Computational Neuroscience"]
 ---

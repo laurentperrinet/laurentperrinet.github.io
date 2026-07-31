@@ -30,6 +30,5 @@ design:
   view: citation
   columns: '2'
 
+categories: ["Research Projects"]
 ---
-
-

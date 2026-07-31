@@ -50,4 +50,5 @@ tags:
 - psychophysics
 title: 'Measuring speed of moving textures: Different pooling of motion information
   for human ocular following and perception.'
+categories: ["Computational Neuroscience"]
 ---

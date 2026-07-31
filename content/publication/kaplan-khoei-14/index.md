@@ -45,8 +45,8 @@ tags:
 - pynn
 title: Signature of an anticipatory response in area V1 as modeled by a probabilistic
   model and a spiking neural network
+categories: ["Computational Neuroscience"]
 ---
-
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}
 * see  follow-up on motion extrapolation: {{< cite page="/publication/khoei-13-jpp" view="4" >}}
 * see  follow-up on the flash-lag effect: {{< cite page="/publication/khoei-masson-perrinet-17" view="4" >}}

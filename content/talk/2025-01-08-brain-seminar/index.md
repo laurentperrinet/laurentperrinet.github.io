@@ -29,8 +29,8 @@ tags:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-01-08-brain-seminar
+categories: ["NeuroAI & Machine Learning"]
 ---
-
 * When: Wednesday 9th of January, 2025 at 12 noon.
 * Where: CRN seminar room, Montreal General Hospital, Livingston Hall, L7-140, with hybrid option.
 

@@ -7,7 +7,7 @@ authors:
 - Laurent U Perrinet
 - Bernabé Linares-Barranco
 - Teresa Serrano-Gotarredona
-categories: []
+categories: ["NeuroAI & Machine Learning"]
 date: 2023-01-01
 draft: false
 featured: false

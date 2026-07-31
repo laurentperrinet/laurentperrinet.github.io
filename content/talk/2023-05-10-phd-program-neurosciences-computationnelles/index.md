@@ -1,7 +1,7 @@
 ---
 authors:
 - Laurent U Perrinet
-categories: []
+categories: ["Computational Neuroscience"]
 date: 2023-05-10 14:00:00
 draft: false
 event: NeuroSchool PhD Program in Neuroscience

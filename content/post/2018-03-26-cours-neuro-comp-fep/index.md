@@ -10,6 +10,7 @@ summary: 'PhD Program: course in Computational Neuroscience.'
 tags:
 - events
 title: '2018-03-26 : PhD Program: course in Computational Neuroscience'
+categories: ["Events & Outreach"]
 ---
 # PhD Program: course in Computational Neuroscience
 

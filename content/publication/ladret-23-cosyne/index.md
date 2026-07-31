@@ -30,7 +30,7 @@ authors:
 - Frédéric Chavane
 - Christian Casanova
 - Laurent U Perrinet
-categories: []
+categories: ["Computational Neuroscience"]
 date: 2023-03-09
 draft: false
 featured: false
@@ -56,5 +56,4 @@ tags:
 - V1
 title: Resilience to sensory uncertainty in the primary visual cortex
 ---
-
 * This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}

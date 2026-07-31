@@ -20,6 +20,6 @@ tags:
 - statistics of natural images
 title: Relationship between natural image statistics and lateral connectivity in the
   primary visual cortex
+categories: ["Computational Neuroscience"]
 ---
-
 * see a follow-up: {{< cite page="/publication/perrinet-bednar-15" view="4" >}}

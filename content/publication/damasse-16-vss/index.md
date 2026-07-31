@@ -22,4 +22,5 @@ tags:
 - Smooth pursuit eye movement
 title: 'Operant reinforcement versus reward expectancy: effects on anticipatory eye
   movements'
+categories: ["Computational Neuroscience"]
 ---

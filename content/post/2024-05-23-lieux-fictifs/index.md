@@ -17,8 +17,8 @@ title: 'Rencontre cinémas & sciences à la prison des Baumettes'
 links:
 - name: URL
   url: http://www.lieuxfictifs.org/actualites/article/inauguration-de-la-salle-de-cinema
+categories: ["Events & Outreach"]
 ---
-
 ![14eme du RISC](http://festivalrisc.org/wp-content/uploads/2023/11/RISCV02rvb-web-WP.jpg)
 
 À la suite des [14ème RENCONTRES INTERNATIONALES SCIENCES & CINÉMAS (RISC)](https://laurentperrinet.github.io/post/2023-12-16-risc/), organisées par l’association Polly Maggoo depuis 2006  l’association Lieux Fictifs, diffuse l’ensemble des films primés au sein de la [Structure d’Accompagnement à la Sortie](http://www.lieuxfictifs.org/actualites/article/inauguration-de-la-salle-de-cinema) de la prison des Baumettes.

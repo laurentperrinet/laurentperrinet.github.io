@@ -15,8 +15,8 @@ tags:
 - vision
 title: 'Le temps des sens'
 url_video: https://www.youtube.com/watch?v=jJKTdlChefc
+categories: ["Events & Outreach"]
 ---
-
 * Cette présentation lors des [NeuroStories](http://neuroschool-stories.com/) vise à aborder la notion de temps dans le cerveau.
 
 {{< youtube jJKTdlChefc >}}

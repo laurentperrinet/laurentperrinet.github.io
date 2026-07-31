@@ -4,4 +4,5 @@ summary: Je distribue de façon libre une série de cours et tutoriels.
 tags:
 - research-interests
 title: Cours et tutoriels
+categories: ["Research Projects"]
 ---

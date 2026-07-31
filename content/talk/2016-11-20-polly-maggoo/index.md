@@ -17,8 +17,8 @@ publication: '*Cinésciences, collège Clair Soleil (Marseille)*'
 publication_types:
 - inproceedings
 title: Participation au jury et entretien avec Clara Delmon
+categories: ["Computational Neuroscience"]
 ---
-
 # RENCONTRES INTERNATIONALES SCIENCES & CINÉMAS
 ## cinéma les Variétés
 ![http://pollymaggoo.org/wp-content/uploads/2016/10/RISC2016\_A3-724x1024.jpg](http://pollymaggoo.org/wp-content/uploads/2016/10/RISC2016_A3-724x1024.jpg

@@ -18,4 +18,5 @@ links:
   url: https://laurentperrinet.github.io/talk/2025-02-14-supaero
 
 slides: 2025-02-14-supaero
+categories: ["NeuroAI & Machine Learning"]
 ---

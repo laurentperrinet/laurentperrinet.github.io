@@ -21,4 +21,5 @@ projects:
 publication: '*LACONEU2017:  4th Latin-American Summer School in Computational Neuroscience*'
 title: 'Tutorial: Active inference for eye movements: Bayesian methods, neural inference,
   dynamics'
+categories: ["Computational Neuroscience"]
 ---

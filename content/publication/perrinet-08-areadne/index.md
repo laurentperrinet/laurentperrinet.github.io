@@ -51,4 +51,5 @@ tags:
 - visual perception
 title: Decoding the population dynamics underlying ocular following response using
   a probabilistic framework
+categories: ["Computational Neuroscience"]
 ---

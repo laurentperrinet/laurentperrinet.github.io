@@ -21,6 +21,6 @@ tags:
 - neuromorphic hardware
 title: 'NeuroAI: interactions multiples entre Neurosciences et Intelligence artificielle'
 slides: 2024-11-18-journee-biomometisme
+categories: ["NeuroAI & Machine Learning"]
 ---
-
 * présentation de 15:50:00 à 16:20:00

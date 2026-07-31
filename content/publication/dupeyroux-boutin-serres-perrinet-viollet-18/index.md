@@ -31,4 +31,5 @@ tags:
 - Biologically Inspired Computer vision
 title: 'M2APix: a bio-inspired auto-adaptive visual sensor for robust ground height
   estimation'
+categories: ["Computational Neuroscience"]
 ---

@@ -19,4 +19,5 @@ tags:
 - eye movements
 - Smooth pursuit eye movement
 title: Anticipatory smooth eye movements as operant behavior
+categories: ["Computational Neuroscience"]
 ---

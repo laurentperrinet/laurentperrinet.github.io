@@ -13,6 +13,7 @@ summary: Tropique is an immersive installation which puts in link the perception
 tags:
 - art-science
 title: TROPIQUE
+categories: ["Events & Outreach"]
 ---
 # TROPIQUE
 

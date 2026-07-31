@@ -20,4 +20,5 @@ tags:
 - psychophysics
 title: Different pooling of motion information for perceptual speed discrimination
   and behavioral speed estimation
+categories: ["Computational Neuroscience"]
 ---

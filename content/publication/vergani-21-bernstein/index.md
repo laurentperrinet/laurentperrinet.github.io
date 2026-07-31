@@ -14,8 +14,8 @@ publication_types:
 tags:
 - lateral interactions
 title: Simulating anticipatory activity in a 1D Spiking Neural Network Model
+categories: ["Computational Neuroscience"]
 ---
-
 * poster number: 94
 * scheduled on Wednesday, Sep 22, 18:00 CEST.
 * https://abstracts.g-node.org/conference/BC21/abstracts#/uuid/05f81f30-d5d5-4467-b977-f28e9bed65f0

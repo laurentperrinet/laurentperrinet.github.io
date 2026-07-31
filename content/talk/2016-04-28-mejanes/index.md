@@ -27,8 +27,8 @@ publication: '**'
 publication_types:
 - inproceedings
 title: Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
+categories: ["Computational Neuroscience"]
 ---
-
 # Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
 ## Cycle de conférences "Tous connectés", Bibliothèque de Méjanes
 ![conférence tout public à la Bibliothèque de Méjanes (Aix-en-Provence, Avril 2016)](featured.jpg)

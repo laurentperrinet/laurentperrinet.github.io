@@ -18,6 +18,6 @@ tags:
 - motion-clouds
 - psychophysics
 title: Dynamic Textures For Probing Motion Perception
+categories: ["Computational Neuroscience"]
 ---
-
 * See a followup in {{< cite page="/publication/vacher-16" view="4" >}}

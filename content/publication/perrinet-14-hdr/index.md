@@ -1,7 +1,7 @@
 ---
 authors:
 - Laurent U Perrinet
-categories: []
+categories: ["Computational Neuroscience"]
 date: 2014-04-17
 draft: false
 featured: false
@@ -24,6 +24,5 @@ subtitle: ''
 tags: []
 title: Codage prédictif dans les transformations visuo-motrices
 ---
-
 * {{< cite page="/post/2014-04-17_hdr" view="4" >}}
 * Voir une extension dans {{< cite page="/publication/perrinet-20-dr" view="4" >}}

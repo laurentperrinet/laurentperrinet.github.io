@@ -21,4 +21,5 @@ tags:
 title: 'Demo 1, Task4: Implementation of models showing emergence of cortical fields
   and maps'
 url_slides: 2011-10-05-brain-scales-ess-talk.pdf
+categories: ["Computational Neuroscience"]
 ---

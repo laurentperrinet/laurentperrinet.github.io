@@ -10,6 +10,7 @@ tags:
 - grant
 - past-grant
 title: ANR Horizontal-V1 (2017/2021)
+categories: ["Grants & Funding"]
 ---
 * Description on the official website of the [ANR](http://www.agence-nationale-recherche.fr/Project-ANR-17-CE37-0006)
 

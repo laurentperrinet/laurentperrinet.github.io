@@ -23,7 +23,7 @@ authors:
 - Camille Besnainou
 - Hugo Ladret
 - Laurent U Perrinet
-categories: []
+categories: ["Computational Neuroscience"]
 date: 2022-09-11
 draft: false
 featured: false

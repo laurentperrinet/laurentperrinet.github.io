@@ -20,4 +20,5 @@ publication: '*EUVIP (Special Session): Biologically Inspired Computer Vision - 
 tags:
 - Biologically Inspired Computer vision
 title: Biologically-inspired characterization of sparseness in natural images
+categories: ["Computational Neuroscience"]
 ---

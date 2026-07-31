@@ -43,4 +43,5 @@ publication_types:
 tags:
 - motion-clouds
 title: How and why do image frequency properties influence perceived speed?
+categories: ["Computational Neuroscience"]
 ---

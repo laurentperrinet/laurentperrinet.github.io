@@ -39,4 +39,5 @@ tags:
 - motion-clouds
 - psychophysics
 title: Effect of image statistics on fixational eye movements
+categories: ["Computational Neuroscience"]
 ---

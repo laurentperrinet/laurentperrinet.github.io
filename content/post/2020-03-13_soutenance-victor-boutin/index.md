@@ -20,6 +20,7 @@ summary: 'Victor Boutin (Equipe NeOpTo) a soutenu sa thèse de doctorat intitul�
   de la perception visuelle** le Vendredi 13 mars à 14h'
 tags:
 - events
+categories: ["Events & Outreach"]
 ---
 ![](@laurentperrinet_1235128290458951680_tweetcapture.png)
 

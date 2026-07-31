@@ -24,7 +24,7 @@ authors:
 - Sio-Hoi Ieng
 - Ryad Benosman
 - Laurent U Perrinet
-categories: []
+categories: ["NeuroAI & Machine Learning"]
 date: 2021-10-14
 draft: false
 featured: false
@@ -53,7 +53,6 @@ tags:
 title: From event-based computations to a bio-plausible Spiking Neural Network
 url_video: https://www.youtube.com/watch?v=aIt5OAleMR8
 ---
-
 {{< youtube aIt5OAleMR8 >}}
 * this proceedings paper follows up the poster presented at CBMI : {{< cite page="/publication/grimaldi-21-cbmi" view="4" >}}
 * read the follow-up paper : {{< cite page="/publication/grimaldi-24" view="4" >}}

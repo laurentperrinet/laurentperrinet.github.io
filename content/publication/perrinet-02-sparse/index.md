@@ -20,4 +20,5 @@ tags:
 - sparse coding
 title: Sparse spike coding in an asynchronous feed-forward multi-layer neural network
   using matching pursuit
+categories: ["Computational Neuroscience"]
 ---

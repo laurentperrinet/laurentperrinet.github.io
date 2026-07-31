@@ -8,6 +8,7 @@ tags:
 - grant
 - past-grant
 title: ANR BalaV1 (2013/2016)
+categories: ["Grants & Funding"]
 ---
 # ANR BalaV1: Balanced states in area V1 (2013/2016)
 

@@ -25,6 +25,6 @@ links:
 
 publication: ''
 title: Decoding low-level neural information to track visual motion
+categories: ["Computational Neuroscience"]
 ---
-
 * see this more recent talk @ [UCL, London]({{< ref "/talk/2012-01-12-vision-at-ucl/index.md" >}})

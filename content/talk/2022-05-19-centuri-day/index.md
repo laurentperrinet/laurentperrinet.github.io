@@ -29,8 +29,8 @@ tags:
 - neuromorphic hardware
 - online classification
 title: Polychrony detection using heterogeneous delays
+categories: ["NeuroAI & Machine Learning"]
 ---
-
 * Follow this future presentations {{< cite page="/talk/2022-06-19-neuro-vision-heterogeneous" view="1" >}}
 ![](@laurentperrinet_1527604282043813888_tweetcapture.png)
 * followed-up as a poster: {{< cite page="/publication/grimaldi-22-areadne" view="1" >}}

@@ -16,7 +16,7 @@ abstract: 'On a daily basis, the primary visual cortex (V1) detects oriented ele
 authors:
 - Hugo Ladret
 - Laurent U Perrinet
-categories: []
+categories: ["Computational Neuroscience"]
 date: 2022-06-29
 draft: false
 featured: false
@@ -39,7 +39,6 @@ subtitle: ''
 tags: []
 title: A resilient neural code in V1 to process natural images
 ---
-
 ![](@laurentperrinet_1542724828658016256_tweetcapture.png)
 * for a follow-up, check out {{< cite page="/publication/ladret-22-fens" view="4" >}}
 * This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}

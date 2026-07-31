@@ -14,8 +14,8 @@ tags:
 - perception
 location: Marseille, France
 title: "Rencontre cinémas & sciences à l'école Air Bel"
+categories: ["Events & Outreach"]
 ---
-
 {{% callout note %}}
 Bienvenue dans l’une des écoles les plus novatrices du monde : *l’école des Fake news* ! Située à Marseille, en France, cette école haut de gamme a vu le jour grâce aux généreux financements des plus puissantes entreprises numériques chinoises et américaines. 
 

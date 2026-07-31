@@ -21,6 +21,6 @@ tags:
 - pynn
 title: Synchrony in thalamic inputs enhances propagation of activity through cortical
   layers
+categories: ["Computational Neuroscience"]
 ---
-
 * see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publication/kremkow-10-jcns/index.md" >}})

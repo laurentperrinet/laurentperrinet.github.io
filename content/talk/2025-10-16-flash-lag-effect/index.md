@@ -27,4 +27,5 @@ slides: 2025-10-16-flash-lag-effect
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-10-16-flash-lag-effect
+categories: ["NeuroAI & Machine Learning"]
 ---

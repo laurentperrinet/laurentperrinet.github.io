@@ -43,8 +43,8 @@ publication: '*Séminaire à l''Institut de Recherche sur les Phénomènes Hors 
 publication_types:
 - inproceedings
 title: Understanding natural vision using deep predictive coding
+categories: ["Computational Neuroscience"]
 ---
-
 * What:: talk @ [Séminaire à l'Institut de Recherche sur les Phénomènes Hors Équilibre (IRPHÉ)](https://laurentperrinet.github.io/talk/2020-09-25-irphe)
 * Who:: Perrinet, Laurent U
 * Where: Marseille (France), see https://laurentperrinet.github.io/talk/2020-09-25-irphe

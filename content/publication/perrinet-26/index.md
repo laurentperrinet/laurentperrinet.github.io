@@ -27,8 +27,8 @@ links:
   url: http://arxiv.org/abs/2604.14096
 - name: Code
   url: https://github.com/laurentperrinet/MNESIS
+categories: ["Computational Neuroscience"]
 ---
-
 * See the accompanying code: https://github.com/laurentperrinet/MNESIS
 * see a related presentation: {{< cite page="/talk/2026-04-16-cerco" view="4" >}}
 * This paper is a follow-up of the ICANN conference paper: {{< cite page="/publication/perrinet-26-icann" view="4" >}}

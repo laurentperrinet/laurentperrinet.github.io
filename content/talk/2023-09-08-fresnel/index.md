@@ -10,7 +10,7 @@ abstract: 'Event-based cameras mimic the way biological retinas process visual i
   for computer vision that emulate biological principles.'
 authors:
 - Laurent U Perrinet
-categories: []
+categories: ["Computational Neuroscience"]
 date: 2023-09-08 11:00:00
 draft: false
 event: Séminaire à l'Institut Fresnel

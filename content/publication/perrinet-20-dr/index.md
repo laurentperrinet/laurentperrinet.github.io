@@ -1,7 +1,7 @@
 ---
 authors:
 - Laurent U Perrinet
-categories: []
+categories: ["Computational Neuroscience"]
 date: 2020-01-07
 draft: false
 featured: false
@@ -26,5 +26,4 @@ subtitle: ''
 tags: []
 title: 'La vision comme processus prédictif: Une approche bio-mimétique'
 ---
-
 * Suite de mes travaux d'habilitation à diriger des recherches (HDR) sur le thème de la vision comme processus prédictif. {{< cite page="/publication/perrinet-14-hdr" view="4" >}}

@@ -27,4 +27,5 @@ tags:
 - unsupervised learning
 title: An efficiency razor for model selection and adaptation in the primary visual
   cortex
+categories: ["Computational Neuroscience"]
 ---

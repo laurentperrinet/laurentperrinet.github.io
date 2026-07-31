@@ -13,8 +13,8 @@ summary: À la Fondation Vasarely à Aix-en-Provence, Étienne Rey a choisi d’
 tags:
 - art-science
 title: TRAMES
+categories: ["Events & Outreach"]
 ---
-
 # TRAMES
 
 {{< vimeo 191830797 >}}

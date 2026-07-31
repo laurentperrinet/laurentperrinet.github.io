@@ -41,6 +41,6 @@ publication_types:
 tags:
 - pynn
 title: 'NeuralEnsemble: Towards a meta-environment for network modeling and data analysis'
+categories: ["Computational Neuroscience"]
 ---
-
 * see a follow-up: {{< cite page="/publication/davison-08" view="4" >}}

@@ -19,6 +19,6 @@ location: Valparaiso (Chile)
 publication: '*Workshop on Computational Neuroscience entitled "New trends and challenges
   for 2030"*'
 title: 'Back to the present: how neurons deal with delays'
+categories: ["Computational Neuroscience"]
 ---
-
 ![Chile](http://laconeu.cl/wp-content/uploads/2018/04/Valparaiso-3.jpg)

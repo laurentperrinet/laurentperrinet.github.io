@@ -14,6 +14,7 @@ summary: Installation (sérigraphie, dessin mural, lumière), 2018;  Guest artis
 tags:
 - art-science
 title: Instabilité (series) @ Art-O-Rama
+categories: ["Events & Outreach"]
 ---
 # Instabilité (series)
 

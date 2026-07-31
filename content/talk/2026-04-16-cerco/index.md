@@ -26,8 +26,8 @@ tags:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-04-16-cerco/
+categories: ["Computational Neuroscience"]
 ---
-
 * Invited seminar at CerCo, Toulouse, France, 2026-04-16
 
 * See the accompanying code: https://github.com/laurentperrinet/MNESIS

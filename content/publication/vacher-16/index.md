@@ -45,4 +45,5 @@ tags:
 - motion-clouds
 - psychophysics
 title: Bayesian Modeling of Motion Perception using Dynamical Stochastic Textures
+categories: ["Computational Neuroscience"]
 ---

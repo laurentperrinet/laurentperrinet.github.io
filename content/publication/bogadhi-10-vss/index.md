@@ -20,4 +20,5 @@ publication_types:
 tags:
 - Bayesian model
 title: A recurrent Bayesian model of dynamic motion integration for smooth pursuit
+categories: ["Computational Neuroscience"]
 ---

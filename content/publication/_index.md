@@ -13,4 +13,5 @@ view: list
 header:
   caption: ""
   image: ""
+categories: ["Computational Neuroscience"]
 ---

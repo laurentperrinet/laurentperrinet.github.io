@@ -44,8 +44,8 @@ tags:
 - log-gabor
 - visual perception
 title: Self-Invertible 2D Log-Gabor Wavelets
+categories: ["Computational Neuroscience"]
 ---
-
 This library defines the set of [LogGabor](https://pythonhosted.org/LogGabor/) kernels. These are generic edge-like filters at different scales, phases and orientations. The library develops a simple method to construct a simple multi-scale linear transform.
 * [Web-site](https://pythonhosted.org/LogGabor)
 * [Source code](https://github.com/bicv/LogGabor/)

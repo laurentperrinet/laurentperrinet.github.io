@@ -16,7 +16,7 @@ abstract: Timing is essential for neural processing, but evidence for such tempo
 authors:
 - Adrien Fois
 - Laurent U Perrinet
-categories: []
+categories: ["Computational Neuroscience"]
 date: 2024-06-27
 draft: false
 featured: false

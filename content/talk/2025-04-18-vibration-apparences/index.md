@@ -2,7 +2,7 @@
 abstract: Le travail d’Étienne Rey met en relation des phénomènes naturels et physiques avec notre perception. Ses œuvres se révèlent et se concrétisent dans l’expérience personnelle des spectateurs. La lumière, élément central de sa démarche, active ces expériences et révèle les interactions entre le matériel et l’immatériel. Depuis 2011, Étienne Rey collabore avec le Dr Laurent Perrinet, de l’Institut de Neurosciences de la Timone. Ensemble, ils explorent le domaine de la perception à l’intersection de leurs disciplines respectives, et combinent science et art pour développer de nouvelles approches perceptives.
 authors:
 - Laurent U Perrinet
-categories: []
+categories: ["Computational Neuroscience"]
 date: 2025-04-18
 draft: false
 event: Journées d’Ouverture Scientifique (JOS)
@@ -26,7 +26,6 @@ subtitle: ''
 tags: []
 title: 'La vibration des apparences'
 ---
-
 Cette présentation, dans le cadre des *Journées d’Ouverture Scientifique (JOS)*, explore le travail présenté lors de l’exposition *La vibration des apparences*, au musée Granet :
 
 {{< cite page="/post/2024-11-07_vibration-apparences/" view="4" >}}

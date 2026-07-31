@@ -29,4 +29,5 @@ tags:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-12-02-symposium-masters
+categories: ["NeuroAI & Machine Learning"]
 ---

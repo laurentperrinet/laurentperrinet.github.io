@@ -29,4 +29,5 @@ publication: '*bioRxiv*'
 publication_types:
 - article-journal
 title: Anticipatory Responses along Motion Trajectories in Awake Monkey Area V1
+categories: ["Computational Neuroscience"]
 ---

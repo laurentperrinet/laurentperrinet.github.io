@@ -16,6 +16,6 @@ tags:
 - feed-forward_inhibition
 - large-scale_networks
 title: Functional properties of feed-forward inhibition
+categories: ["Computational Neuroscience"]
 ---
-
 * see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publication/kremkow-10-jcns/index.md" >}})

@@ -16,4 +16,5 @@ tags:
 - retina
 title: Contrast sensitivity adaptation in a virtual spiking retina and its adequation
   with mammalians retinas
+categories: ["Computational Neuroscience"]
 ---

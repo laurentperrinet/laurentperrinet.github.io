@@ -12,6 +12,7 @@ summary: Sans gravité – une poétique de l’air – Ardenome à Avignon.
 tags:
 - art-science
 title: Sans gravité – une poétique de l’air
+categories: ["Events & Outreach"]
 ---
 {{< vimeo 317504725 >}}
 

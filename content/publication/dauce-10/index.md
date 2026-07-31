@@ -25,4 +25,5 @@ publication_types:
 tags:
 - computational neuroscience
 title: Computational Neuroscience, from Multiple Levels to Multi-level
+categories: ["Computational Neuroscience"]
 ---

@@ -3,7 +3,7 @@ authors:
 - Jean-Nicolas Jérémie
 - Emmanuel Daucé
 - Laurent U Perrinet
-categories: []
+categories: ["Computational Neuroscience"]
 date: 2023-01-01
 draft: false
 featured: false
@@ -33,7 +33,6 @@ tags:
 title: Retinotopy improves the categorisation and localisation of visual objects in
   CNNs
 ---
-
 * as was presented at the *Computational Cognitive Neuroscience Society Meeting 2023* in Oxford
 * see a follow-up presentation in: {{< cite page="/publication/jeremie-23-icann" view="4" >}}
  

@@ -40,4 +40,5 @@ tags:
 - sparse hebbian learning
 - spike
 title: 'Feature detection using spikes : the greedy approach'
+categories: ["Computational Neuroscience"]
 ---

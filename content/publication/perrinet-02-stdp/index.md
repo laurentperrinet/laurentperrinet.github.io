@@ -28,6 +28,6 @@ tags:
 - spike
 - stdp
 title: Coherence detection in a spiking neuron via Hebbian learning
+categories: ["Computational Neuroscience"]
 ---
-
 ![header](perrinet-02-stdp.png)

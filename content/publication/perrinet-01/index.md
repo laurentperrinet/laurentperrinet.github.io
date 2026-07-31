@@ -14,4 +14,5 @@ tags:
 - center-surround interactions
 title: 'Network of integrate-and-fire neurons using Rank Order Coding A: how to implement
   spike timing dependant plasticity'
+categories: ["Computational Neuroscience"]
 ---

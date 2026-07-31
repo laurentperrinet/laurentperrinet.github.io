@@ -10,6 +10,6 @@ tags:
 - rank-order-coding
 - unsupervised learning
 title: Apprentissage hebbien d'un reseau de neurones asynchrone a codage par rang
+categories: ["Computational Neuroscience"]
 ---
-
 Travail de master sur la STDP. 

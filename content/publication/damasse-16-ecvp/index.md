@@ -18,4 +18,5 @@ tags:
 - eye movements
 - Smooth pursuit eye movement
 title: Modeling the effect of dynamic contingencies on anticipatory eye movements
+categories: ["Computational Neuroscience"]
 ---

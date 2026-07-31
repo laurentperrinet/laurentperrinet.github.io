@@ -35,7 +35,7 @@ authors:
 - Jérome Fleuriet
 - Laurent U Perrinet
 - Guillaume S Masson
-categories: []
+categories: ["Computational Neuroscience"]
 date: 2022-01-01
 doi: 10.1523/ENEURO.0374-21.2022
 draft: false

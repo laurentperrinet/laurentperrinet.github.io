@@ -37,4 +37,5 @@ links:
 publication: '*Séminaires de l''INCM, April 11th, 2008*'
 title: 'From neural activity to behavior: computational neuroscience as a synthetic
   approach for understanding the neural code.'
+categories: ["Computational Neuroscience"]
 ---

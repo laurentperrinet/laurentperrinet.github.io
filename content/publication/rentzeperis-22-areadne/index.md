@@ -16,7 +16,7 @@ authors:
 - Luca Calatroni
 - Laurent U Perrinet
 - Dario Prandi
-categories: []
+categories: ["Computational Neuroscience"]
 date: 2022-06-29
 draft: false
 featured: false
@@ -39,5 +39,4 @@ subtitle: ''
 tags: []
 title: Which sparsity problem does the brain solve?
 ---
-
 * Follow-up paper {{< cite page="/publication/rentzeperis-23" view="4" >}}

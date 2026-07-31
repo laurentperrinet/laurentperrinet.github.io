@@ -41,4 +41,5 @@ tags:
 - motion-clouds
 title: An open-source vision-science tool for the auto-regressive generation of dynamic
   stochastic textures Motion Clouds
+categories: ["Computational Neuroscience"]
 ---

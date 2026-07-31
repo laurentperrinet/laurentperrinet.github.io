@@ -11,4 +11,5 @@ tags:
 - sparse hebbian learning
 - stdp
 title: Visual Strategies for Sparse Spike Coding
+categories: ["Computational Neuroscience"]
 ---

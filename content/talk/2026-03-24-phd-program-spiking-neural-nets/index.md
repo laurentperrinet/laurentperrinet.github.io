@@ -14,10 +14,8 @@ links:
 - name: Code
   url: 
     https://github.com/CONECT-INT/2026-03_PhDProgram-course-in-computational-neuroscience/
+categories: ["Computational Neuroscience"]
 ---
-
-
-
 This repository contains all the material for this practical course about the "Introduction to SNN torch".
 
 * material for the course: https://amubox.univ-amu.fr/s/PyGP2mrT47E6jj2 / https://github.com/CONECT-INT/2026-03_PhDProgram-course-in-computational-neuroscience/

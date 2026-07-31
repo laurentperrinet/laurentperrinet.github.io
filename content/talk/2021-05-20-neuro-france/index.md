@@ -37,8 +37,8 @@ subtitle: ''
 tags:
 - area-v1
 title: Dynamical processing of orientation precision in the primary visual cortex
+categories: ["Computational Neuroscience"]
 ---
-
  * As presented during the [NeuroFrance 2021](https://www.neurosciences.asso.fr/SN21/) meeting
  ![](@laurentperrinet_1395351843035828224_tweetcapture.png)
  * get the [abstract book](https://www.professionalabstracts.com/nf2021/programme-nf2021.pdf)

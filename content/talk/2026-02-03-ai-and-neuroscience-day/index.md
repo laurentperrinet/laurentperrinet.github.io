@@ -19,8 +19,8 @@ slides: 2026-02-03-ai-and-neuroscience-day
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-02-03-ai-and-neuroscience-day
+categories: ["NeuroAI & Machine Learning"]
 ---
-
 * check out https://neuro-marseille.org/en/events/workshop-on-artificial-intelligence-in-neuroscience-projects-tools-and-perspectives/
 
 * program https://neuro-marseille.org/wp-content/uploads/2026/02/1-3-6.pdf

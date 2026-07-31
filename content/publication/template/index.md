@@ -82,5 +82,6 @@ url_slides: '#'
 url_source: '#'
 url_video: '#'
 publishDate: '2020-12-12T13:31:46.868407Z'
+categories: ["Computational Neuroscience"]
 ---
 More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

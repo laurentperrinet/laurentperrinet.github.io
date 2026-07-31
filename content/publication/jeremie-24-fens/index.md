@@ -19,6 +19,6 @@ tags:
 - Transfer learning
 - visual categorization
 title: Retinotopy in CNN's implements Efficient Visual Search
+categories: ["Computational Neuroscience"]
 ---
-
 * Read the corresponding paper {{< cite page="/publication/jeremie-25" view="4" >}}

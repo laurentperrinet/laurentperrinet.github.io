@@ -38,6 +38,6 @@ tags:
 - motion detection
 title: 'Smooth Pursuit and Visual Occlusion: Active Inference and Oculomotor Control
   in Schizophrenia'
+categories: ["Computational Neuroscience"]
 ---
-
 ![header](adams-12.png)

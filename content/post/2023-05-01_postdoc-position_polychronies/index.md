@@ -16,6 +16,7 @@ lastmod: 2023-05-01 09:00:00
 subtitle: THE POSITION HAS BEEN FILLED!
 tags:
 - events
+categories: ["Events & Outreach"]
 ---
 {{% callout warning %}}
 THE POSITION HAS BEEN FILLED.

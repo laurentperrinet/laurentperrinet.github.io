@@ -17,8 +17,8 @@ links:
   url: https://laurentperrinet.github.io/sciblog/posts/2025-01-18_la-vibration-des-apparences.html
 image:
   caption: "Étienne Rey, affiche pour l'exposition *La vibration des apparences*."
+categories: ["Events & Outreach"]
 ---
-
 À voir également : une présentation, dans le cadre des *Journées d’Ouverture Scientifique (JOS)*, qui prolonge le travail exposé ici :
 
 {{< cite page="/talk/2025-04-18-vibration-apparences/" view="4" >}}

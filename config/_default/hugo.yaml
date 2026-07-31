@@ -63,6 +63,7 @@ taxonomies:
   post: events
   talk: talks
   tag: tags
+  category: categories
   grant: grants
   publication_type: publication_types
 markup:

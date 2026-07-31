@@ -6,8 +6,8 @@ date: '2025-10-10'
 publishDate: '2025-09-04T07:19:00.636355Z'
 publication_types:
 - thesis
+categories: ["Events & Outreach"]
 ---
-
 Jean-Nicolas Jérémie soutiendra publiquement ses travaux de thèse intitulés: *Foveal Retinotopy and Dual Pathways: A Computational Model for Active Visual Search*
 
 dirigés par Monsieur Laurent PERRINET et Monsieur Emmanuel DAUCE

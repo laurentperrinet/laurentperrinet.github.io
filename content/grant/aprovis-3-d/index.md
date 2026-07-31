@@ -8,6 +8,7 @@ tags:
 - grant
 - past-grant
 title: 'APROVIS3D (2019/2023)'
+categories: ["Grants & Funding"]
 ---
 * Le projet APROVIS3D est lauréat de l'[appel à projets 2018 *CHIST-ERA*](http://www.chistera.eu/projects/aprovis3d) :
 

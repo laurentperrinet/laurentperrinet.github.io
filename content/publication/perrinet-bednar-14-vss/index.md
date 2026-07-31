@@ -43,6 +43,6 @@ tags:
 - Biologically Inspired Computer vision
 - sparse coding
 title: Edge co-occurrences are sufficient to categorize natural versus animal images
+categories: ["Computational Neuroscience"]
 ---
-
 * see a follow-up: {{< cite page="/publication/perrinet-bednar-15" view="4" >}}

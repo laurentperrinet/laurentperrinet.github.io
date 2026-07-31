@@ -46,7 +46,7 @@ tags:
 - area-v1
 title: Orientation selectivity to synthetic natural patterns in a cortical-like model
   of the cat primary visual cortex
+categories: ["Computational Neuroscience"]
 ---
-
 ![](@laurentperrinet_1186513282326257665_tweetcapture.png)
 * See a followup in [Ladret and Perrinet, 2020]({{< ref "/publication/ladret-20-aes" >}})

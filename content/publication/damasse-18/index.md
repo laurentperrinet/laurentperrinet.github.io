@@ -22,4 +22,5 @@ publication_types:
 tags:
 - eye movements
 title: Reinforcement effects in anticipatory smooth eye movements
+categories: ["Computational Neuroscience"]
 ---

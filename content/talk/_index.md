@@ -13,4 +13,5 @@ header:
   caption: ""
   image: ""
 
+categories: ["Computational Neuroscience"]
 ---

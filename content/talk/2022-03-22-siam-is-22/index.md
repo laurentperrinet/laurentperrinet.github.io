@@ -18,7 +18,7 @@ abstract: In most mammals, the primary visual cortex (V1) processes complex mixt
 authors:
 - Hugo Ladret
 - Laurent U Perrinet
-categories: []
+categories: ["Computational Neuroscience"]
 date: 2022-03-22 00:00:00
 draft: false
 event: 2022 SIAM Conference on Imaging Science (IS22)
@@ -40,7 +40,6 @@ subtitle: ''
 tags: []
 title: Statistics of the sparse representations of natural images
 ---
-
  * see previous work: https://laurentperrinet.github.io/sciblog/posts/2018-11-05-statistics-of-the-natural-input-to-a-ring-model.html
 ## Mini-Symposium "Learning from vision: Efficient representation, sparse coding, and modelling"
 Although recent years have seen a striking improvement in imaging techniques, there are many tasks for which human interaction is still essential, as color gamut correction in the cinema industry. This suggests that a better understanding of the mechanisms underlying the visual system is instrumental to advances in imaging techniques.

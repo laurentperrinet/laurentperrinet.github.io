@@ -49,8 +49,8 @@ tags:
 - statistics of natural images
 - unsupervised learning
 title: Role of homeostasis in learning sparse representations
+categories: ["Computational Neuroscience"]
 ---
-
 ![header](perrinet-10-shl.png)
 * related publication : {{< cite page="/publication/perrinet-19-hulk" view="4" >}}
 ![header](ssc.gif)

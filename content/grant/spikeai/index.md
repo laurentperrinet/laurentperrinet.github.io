@@ -6,6 +6,7 @@ tags:
 - grant
 - past-grant
 title: 'SpikeAI: laureat du Défi Biomimétisme (2019)'
+categories: ["Grants & Funding"]
 ---
 # Description
 

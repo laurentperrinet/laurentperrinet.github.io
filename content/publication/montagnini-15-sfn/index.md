@@ -18,4 +18,5 @@ publication_types:
 tags:
 - Bayesian model
 title: 'Anticipating a moving target: role of vision and reinforcement'
+categories: ["Computational Neuroscience"]
 ---

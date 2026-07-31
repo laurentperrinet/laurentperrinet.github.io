@@ -19,4 +19,5 @@ tags:
 - eye movements
 - Smooth pursuit eye movement
 title: On the nature of anticipatory eye movements and the factors affecting them
+categories: ["Computational Neuroscience"]
 ---

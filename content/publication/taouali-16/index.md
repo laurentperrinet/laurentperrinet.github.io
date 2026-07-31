@@ -44,4 +44,5 @@ tags:
 - coding decoding
 - spike
 title: Testing the odds of inherent vs. observed overdispersion in neural spike counts
+categories: ["Computational Neuroscience"]
 ---

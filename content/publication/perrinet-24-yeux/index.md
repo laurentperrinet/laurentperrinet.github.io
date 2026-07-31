@@ -18,9 +18,8 @@ publication: '*The Conversation*'
 publication_types:
 - article-journal
 title: 'Chats, mouches, humains : comment la vision a évolué en de multiples facettes'
+categories: ["Computational Neuroscience"]
 ---
-
-
 <!--  bluesky link="https://bsky.app/profile/laurentperrinet.bsky.social/post/3lgcyozmqgs2m"  -->
 
 

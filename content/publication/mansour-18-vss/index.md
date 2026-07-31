@@ -46,4 +46,5 @@ publication_types:
 tags:
 - motion detection
 title: Speed uncertainty and motion perception with naturalistic random textures
+categories: ["Computational Neuroscience"]
 ---

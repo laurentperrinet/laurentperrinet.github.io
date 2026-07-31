@@ -36,6 +36,6 @@ tags:
 - Biologically Inspired Computer vision
 - sparse coding
 title: Sparse Models for Computer Vision
+categories: ["Computational Neuroscience"]
 ---
-
 * Appeared in this book: {{< cite page="/publication/cristobal-perrinet-keil-15-bicv" view="4" >}}

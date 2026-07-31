@@ -48,6 +48,6 @@ tags:
 - large-scale_networks
 title: Functional consequences of correlated excitation and inhibition on single neuron
   integration and signal propagation through synfire chains
+categories: ["Computational Neuroscience"]
 ---
-
 * see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publication/kremkow-10-jcns/index.md" >}})

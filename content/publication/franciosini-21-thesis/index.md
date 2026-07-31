@@ -25,4 +25,5 @@ abstract: "Un des objectifs des neurosciences visuelles est de comprendre commen
 links:
 - name: URL
   url: https://theses.fr/2021AIXM0346
+categories: ["Computational Neuroscience"]
 ---

@@ -39,8 +39,8 @@ tags:
 - motion-clouds
 title: 'Motion Clouds: Model-based stimulus synthesis of natural-like random textures
   for the study of motion perception'
+categories: ["Computational Neuroscience"]
 ---
-
 ![header](sanz-12.png)
 **MotionClouds** are random dynamic stimuli optimized to study motion perception.
 * [Web-site](https://neuralensemble.github.io/MotionClouds/)

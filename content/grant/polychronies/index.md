@@ -16,8 +16,8 @@ tags:
 - grant
 - past-grant
 title: Polychronies (2022 / 2025)
+categories: ["Grants & Funding"]
 ---
-
 {{% callout warning %}}
 THE POSITION HAS BEEN FILLED.
 {{% /callout %}}

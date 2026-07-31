@@ -26,6 +26,6 @@ tags:
 - motion detection
 title: The behavioral receptive field underlying motion integration for primate tracking
   eye movements
+categories: ["Computational Neuroscience"]
 ---
-
 ![header](masson-12.png)

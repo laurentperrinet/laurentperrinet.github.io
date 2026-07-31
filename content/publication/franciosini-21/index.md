@@ -42,8 +42,8 @@ tags:
 - sparse coding
 title: Pooling in a predictive model of V1 explains functional and structural diversity
   across species
+categories: ["NeuroAI & Machine Learning"]
 ---
-
 ![](@laurentperrinet_1555506825289662466_tweetcapture.png)
 
 * this paper follows this COSYNE presentation : {{< cite page="/publication/franciosini-20-cosyne" view="4" >}}

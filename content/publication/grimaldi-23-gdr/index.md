@@ -15,7 +15,7 @@ abstract: 'The response of a biological neuron depends largely on the precise ti
 authors:
 - Antoine Grimaldi
 - Laurent U Perrinet
-categories: []
+categories: ["Computational Neuroscience"]
 date: 2023-01-27
 draft: false
 featured: false
@@ -38,6 +38,5 @@ subtitle: ''
 tags: []
 title: Learning heterogeneous delays of spiking neurons for motion detection
 ---
-
 * see a follow-up as journal paper: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}
 * presented at [GDR vision 2023 2022](https://gdr-vision-2023.sciencesconf.org/) January 2023 in Toulouse, France

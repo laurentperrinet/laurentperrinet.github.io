@@ -18,7 +18,7 @@ authors:
 - Frédéric Y Chavane
 - Christian Casanova
 - Laurent U Perrinet
-categories: []
+categories: ["Computational Neuroscience"]
 date: 2021-01-01
 draft: false
 featured: false
@@ -41,7 +41,6 @@ tags:
 - area-v1
 title: Modulation of orientation selectivity by orientation precision
 ---
-
 ![](@laurentperrinet_1457644824723705856_tweetcapture.png)
 {{< youtube Hy2UlLDkPyU >}}
 * This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}

@@ -20,4 +20,5 @@ tags:
 - Smooth pursuit eye movement
 title: 'Dynamic modulation of volatility by reward contingencies: effects on anticipatory
   smooth eye movement'
+categories: ["Computational Neuroscience"]
 ---

@@ -19,4 +19,5 @@ tags:
 - motion prediction
 - visual perception
 title: Dynamical emergence of a neural solution for motion integration
+categories: ["Computational Neuroscience"]
 ---

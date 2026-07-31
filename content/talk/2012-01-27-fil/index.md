@@ -35,4 +35,5 @@ tags:
 - motion detection
 - predictive coding
 title: Grabbing, tracking and sniffing as models for motion detection and eye movements
+categories: ["Computational Neuroscience"]
 ---

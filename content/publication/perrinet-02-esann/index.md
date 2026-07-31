@@ -12,6 +12,6 @@ tags:
 - receptive field
 - sparse coding
 title: Sparse Image Coding Using an Asynchronous Spiking Neural Network
+categories: ["Computational Neuroscience"]
 ---
-
 {{< figure src="lena256pyr.gif" title="*Progressive reconstruction of a static image using spikes in a Laplacian pyramid.*" >}}

@@ -41,8 +41,8 @@ tags:
 - deep-learning
 - sparse coding
 title: Efficient learning of sparse image representations using homeostatic regulation
+categories: ["NeuroAI & Machine Learning"]
 ---
-
 * This work is a followup of {{< cite page="/publication/perrinet-10-shl" view="4" >}}
 * the [poster (PDF)](https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars/raw/master/docs/BoutinRuffierPerrinet17neurofrance.pdf) will be presented Thursday, May 18 @ [NeuroFrance, Bordeaux](https://www.professionalabstracts.com/sn2017/programme-sn2017.pdf).
 * see a follow-up publication on {{< cite page="/publication/perrinet-19-hulk" view="4" >}}

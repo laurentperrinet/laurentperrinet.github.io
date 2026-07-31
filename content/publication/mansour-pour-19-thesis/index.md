@@ -29,4 +29,5 @@ abstract: Nous avons expliqué comment le système visuel intègre les informati
 links:
 - name: URL
   url: https://theses.fr/2019AIXM0137
+categories: ["Computational Neuroscience"]
 ---

@@ -37,4 +37,5 @@ tags:
 - area-v1
 title: On efficient sparse spike coding schemes for learning natural scenes in the
   primary visual cortex
+categories: ["Computational Neuroscience"]
 ---

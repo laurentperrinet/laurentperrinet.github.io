@@ -8,6 +8,7 @@ tags:
 - grant
 - past-grant
 title: PACE-ITN (2015/2019)
+categories: ["Grants & Funding"]
 ---
 The PACE ITN project involved over 50 researchers spread across 10 full and 5 associated partners, from academia and the private sector, established in 7 different European and Associated countries, the PACE network gathers a broad range of expertise from experimental psychology, cognitive neurosciences, brain imaging, technology and clinical sciences.
 

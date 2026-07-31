@@ -8,6 +8,7 @@ authors:
 - yves-fregnac
 - laurent-u-perrinet
 title: FACETS (2006/2010)
+categories: ["Grants & Funding"]
 ---
 List of publications that were funded by the
 <a href="http://facets.kip.uni-heidelberg.de/" class="http">FACETS</a>

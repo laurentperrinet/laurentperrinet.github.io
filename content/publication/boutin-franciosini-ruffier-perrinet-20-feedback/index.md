@@ -41,8 +41,8 @@ tags:
 - deep-learning
 - sparse coding
 title: Effect of top-down connections in Hierarchical Sparse Coding
+categories: ["NeuroAI & Machine Learning"]
 ---
-
 ![](@laurentperrinet_1323549136088694790_tweetcapture.png)
  * get the code @ https://github.com/VictorBoutin/SPC_2L
 * see a related work describing SDPC in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}

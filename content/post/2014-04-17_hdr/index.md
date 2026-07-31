@@ -10,9 +10,8 @@ tags:
 title: '2014-04-17: Soutenance d''habilitation à diriger des recherches (HDR)'
 subtitle: Codage prédictif dans les transformations visuo-motrices
 summary: 'J''ai soutenu mon habilitation à diriger des recherche (HDR) le 17 avril 2014, celle-ci ayant pour titre: **Codage prédictif dans les transformations visuo-motrices**'
+categories: ["Events & Outreach"]
 ---
-
-
 Quand: le 17 avril 2014 de 14 H30 à 16 H 30,
 
 Quoi: “Codage prédictif dans les transformations visuo-motrices” 

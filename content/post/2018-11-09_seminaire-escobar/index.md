@@ -16,6 +16,7 @@ summary: A seminar by [María José Escobar, Ph.D.](http://profesores.elo.utfsm.
 tags:
 - events
 title: '2018-11-09 : Retinal computations'
+categories: ["Events & Outreach"]
 ---
 # 2018-11-09 : "Retinal computations" by Maria José Escobar (Chile)
 

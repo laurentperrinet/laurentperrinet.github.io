@@ -23,8 +23,8 @@ publication: '**'
 publication_types:
 - inproceedings
 title: Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
+categories: ["Computational Neuroscience"]
 ---
-
 # Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
 ## Cinésciences, collège Clair Soleil
 L'Association Polly Maggoo <http://www.pollymaggoo.org/> met en place

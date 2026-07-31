@@ -41,8 +41,8 @@ publication_types:
 - inproceedings
 title: Should I stay or should I go? Adaption of human observers to the volatility
   of visual inputs
+categories: ["Computational Neuroscience"]
 ---
-
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="1" >}}
 * previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})
 * previous talk @ [INVIBE FEST, Paris]({{< ref "/talk/2018-02-01-bcp-invibe-fest/index.md" >}})

@@ -15,6 +15,7 @@ tags:
 - events
 - probalistic-inference
 title: '2019-05-20: Symposium on Active Inference at NeuroFrance 2019'
+categories: ["Events & Outreach"]
 ---
 ## Active Inference: Bridging theoretical and experimental neurosciences. / Inference Active: Un pont entre neurosciences théoriques et expérimentales.
 

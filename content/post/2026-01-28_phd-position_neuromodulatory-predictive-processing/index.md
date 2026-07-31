@@ -21,8 +21,8 @@ tags:
 - neuromodulation
 - mouse-vision
 - computational-neuroscience
+categories: ["Events & Outreach"]
 ---
-
 {{% callout note %}}
 The position has been filled.
 {{% /callout %}}

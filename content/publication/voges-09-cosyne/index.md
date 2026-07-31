@@ -53,7 +53,7 @@ tags:
 - lateral connections
 title: Dynamical state spaces of cortical networks representing various horizontal
   connectivities
+categories: ["Computational Neuroscience"]
 ---
-
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}
 * see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

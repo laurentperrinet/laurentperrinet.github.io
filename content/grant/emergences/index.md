@@ -18,8 +18,8 @@ tags:
 - current-grant
 
 title: "Emergences (2023 / 2027)"
+categories: ["Grants & Funding"]
 ---
-
 {{% callout note %}}
 TL;DR: Conventional deep learning models consume too much energy. Inspired by biology, we will explore new models that are more energy efficient.
 {{% /callout %}}

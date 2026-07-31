@@ -23,4 +23,5 @@ projects:
 publication: '*LACONEU 2019: 5th Latin-American Summer School in Computational Neuroscience,
   Valparaiso (Chile)*'
 title: Modelling spiking neural networks using Brian, Nest and pyNN
+categories: ["Computational Neuroscience"]
 ---

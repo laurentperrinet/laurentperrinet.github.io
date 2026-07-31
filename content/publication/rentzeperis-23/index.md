@@ -4,7 +4,7 @@ authors:
 - Luca Calatroni
 - Laurent U Perrinet
 - Dario Prandi
-categories: []
+categories: ["Computational Neuroscience"]
 date: 2023-09-12
 doi: 10.1371/journal.pcbi.1011459
 draft: false
@@ -28,5 +28,4 @@ subtitle: ''
 tags: []
 title: Beyond $\ell_1$ sparse coding in V1
 ---
-
 * Follows {{< cite page="/publication/rentzeperis-22-areadne" view="4" >}}

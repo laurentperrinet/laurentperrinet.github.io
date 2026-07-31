@@ -16,6 +16,5 @@ tags:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-01-29-emergences
+categories: ["Computational Neuroscience"]
 ---
-
-

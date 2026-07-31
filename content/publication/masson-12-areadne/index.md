@@ -36,6 +36,6 @@ tags:
 - motion prediction
 - predictive coding
 title: Motion-based prediction is sufficient to solve the aperture problem
+categories: ["Computational Neuroscience"]
 ---
-
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

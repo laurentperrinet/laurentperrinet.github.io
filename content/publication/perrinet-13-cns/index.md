@@ -34,4 +34,5 @@ publication_types:
 tags:
 - active inference
 title: Active inference, eye movements and oculomotor delays
+categories: ["Computational Neuroscience"]
 ---

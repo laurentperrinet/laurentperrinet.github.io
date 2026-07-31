@@ -45,7 +45,7 @@ tags:
 - Bayesian model
 - predictive coding
 title: 'Pursuing motion illusions: a realistic oculomotor framework for Bayesian inference'
+categories: ["Computational Neuroscience"]
 ---
-
 ![header](bogadhi-11.png)
 * See a followup in {{< cite page="/publication/perrinet-12-pred" view="4" >}}

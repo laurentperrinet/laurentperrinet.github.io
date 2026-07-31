@@ -47,4 +47,5 @@ abstract: 'The primary visual cortex (V1) is one of the most studied cortical ar
 links:
 - name: URL
   url: https://theses.fr/2009AIX20677
+categories: ["Computational Neuroscience"]
 ---

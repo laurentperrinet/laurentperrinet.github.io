@@ -3,7 +3,7 @@ authors:
 - Jean-Nicolas Jérémie
 - Emmanuel Daucé
 - Laurent U Perrinet
-categories: []
+categories: ["Computational Neuroscience"]
 date: 2022-07-10
 draft: false
 featured: false
@@ -32,7 +32,6 @@ tags:
 - visual search
 title: Ultra-rapid visual search in natural images using active deep learning
 ---
-
 ![](@laurentperrinet_1546389505917206531_tweetcapture.png)
 * This work extends to natural scenes a previous work on visual search on a simplified task formulated in  {{< cite page="/publication/dauce-20" view="4" >}}
 * follows {{< cite page="/publication/jeremie-22-areadne" view="4" >}}

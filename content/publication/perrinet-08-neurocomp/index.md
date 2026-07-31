@@ -16,4 +16,5 @@ tags:
 - computational neuroscience
 title: Proceedings of the second french conference on Computational Neuroscience,
   Marseille
+categories: ["Computational Neuroscience"]
 ---

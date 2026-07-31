@@ -2,7 +2,7 @@
 authors:
 - Antoine Grimaldi
 - Laurent U Perrinet
-categories: []
+categories: ["NeuroAI & Machine Learning"]
 date: 2022-06-19 09:00:00
 draft: false
 event: NeuroVision Workshop in conjunction with CVPR 2022
@@ -32,6 +32,5 @@ tags:
 - online classification
 title: Learning heterogeneous delays of Spiking Neurons for motion detection
 ---
-
 ![](@laurentperrinet_1538417555911720963_tweetcapture.png)
 * for a follow-up, check out {{< cite page="/publication/grimaldi-22-icip" view="1" >}}

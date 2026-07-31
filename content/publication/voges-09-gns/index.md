@@ -40,7 +40,7 @@ publication_types:
 tags:
 - lateral connections
 title: Dynamics of cortical networks including long-range patchy connections
+categories: ["Computational Neuroscience"]
 ---
-
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}
 * see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

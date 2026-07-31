@@ -1,7 +1,7 @@
 ---
 authors:
 - Laurent U Perrinet
-categories: []
+categories: ["Computational Neuroscience"]
 date: 2023-09-27 11:30:00
 doi: 10.1007/978-3-031-44207-0_31
 draft: false
@@ -32,7 +32,6 @@ tags: []
 title: Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a
   Spiking Neural Network
 ---
-
 * Hybrid Session, Room 2
 * Chair: Sander Bohté, Sebastian Otte
 * read the [proceedings](https://link.springer.com/chapter/10.1007/978-3-031-44207-0_31) 

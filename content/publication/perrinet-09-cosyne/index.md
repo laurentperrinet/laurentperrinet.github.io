@@ -70,4 +70,5 @@ tags:
 - visual perception
 title: Decoding center-surround interactions in population of neurons for the ocular
   following response
+categories: ["Computational Neuroscience"]
 ---

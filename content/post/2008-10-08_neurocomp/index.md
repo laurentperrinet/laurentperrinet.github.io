@@ -16,6 +16,7 @@ tags:
 - events
 - computational-neuroscience
 title: '2010-05-27 : Neurocomp08'
+categories: ["Events & Outreach"]
 ---
 # 2008-10-08 : Deuxième conférence française de Neurosciences Computationnelles, "Neurocomp08"
 

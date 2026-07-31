@@ -16,8 +16,8 @@ summary: L’installation Turbulences explore l’émergence de caustiques, phé
 tags:
 - art-science
 title: Turbulences
+categories: ["Events & Outreach"]
 ---
-
 # Turbulences
 
 {{< vimeo 303255760 >}}

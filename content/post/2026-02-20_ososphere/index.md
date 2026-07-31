@@ -19,8 +19,8 @@ links:
   url: https://www.artefact.org/l-ososphere/evenements/du-20-fevrier-au-08-mars-2026-exposition-lososphere-a-la-laiterie-40-oeuvres-sur-3-lieux/
 image:
   caption: "Étienne Rey, *Variable Density, série Delaunay*."
+categories: ["Events & Outreach"]
 ---
-
 **Du 20 février au 8 mars 2026 : exposition Ososphère à la Laiterie (Strasbourg).**
 
 

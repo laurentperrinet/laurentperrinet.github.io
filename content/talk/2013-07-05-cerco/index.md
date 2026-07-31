@@ -18,6 +18,6 @@ tags:
 - Biologically Inspired Computer vision
 title: Edge co-occurrences and categorizing natural images
 url_slides: perrinet13cerco.pdf
+categories: ["Computational Neuroscience"]
 ---
-
 * See a followup in {{< cite page="/publication/perrinet-bednar-15" view="1" >}}

@@ -5,6 +5,7 @@ tags:
 - grant
 - past-grant
 title: ANR CausaL (2018/2020)
+categories: ["Grants & Funding"]
 ---
 With Andrea Brovelli (INT), Mateus Joffily (GATE)...
 

@@ -25,8 +25,8 @@ subtitle: ''
 tags: []
 title: Pooling in a predictive model of V1 explains functional and structural diversity
   across species
+categories: ["Computational Neuroscience"]
 ---
-
 ![](@laurentperrinet_1384940135419101187_tweetcapture.png)
 {{< figure src="poster.jpg" width="100%" >}}
 * In this talk, I will present the following paper : {{< cite page="/publication/franciosini-21" view="1" >}}

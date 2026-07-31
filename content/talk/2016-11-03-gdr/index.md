@@ -40,4 +40,5 @@ links:
 
 publication: '*GDR Vision, Toulouse, Nov 3rd, 2016*'
 title: Reinforcement contingencies modulate anticipatory smooth eye movements
+categories: ["Computational Neuroscience"]
 ---

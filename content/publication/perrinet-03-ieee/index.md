@@ -43,7 +43,7 @@ tags:
 - spike
 - statistics of natural images
 title: 'Coding static natural images using spiking event times: do neurons cooperate?'
+categories: ["Computational Neuroscience"]
 ---
-
 ![header](perrinet-03-ieee.png)
 {{< figure src="v1_tiger.gif" title="*Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.*" >}}

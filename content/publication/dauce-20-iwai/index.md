@@ -34,8 +34,8 @@ tags:
 - Visual search
 - Visuomotor control
 title: Visual search as active inference
+categories: ["NeuroAI & Machine Learning"]
 ---
-
 * a follow-up of: {{< cite page="/publication/dauce-20" view="4" >}}
 ![](@laurentperrinet_1305488089989754883_tweetcapture.png)
 {{< figure src="https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true" >}}

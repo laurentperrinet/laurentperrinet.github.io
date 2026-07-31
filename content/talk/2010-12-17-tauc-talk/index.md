@@ -26,8 +26,8 @@ tags:
 - motion prediction
 title: 'Probabilistic models of the low-level visual system: the role of prediction
   in detecting motion'
+categories: ["Computational Neuroscience"]
 ---
-
 An event ranging "From Mathematical Image Analysis to Neurogeometry of the Brain" Ladislav Tauc & GDR MSPC neurosciences conference.
 * related publication from Mina Khoei @ [TAUC 2012]({{< ref "/publication/khoei-10-tauc/index.md" >}})
 * see this more recent talk @ [UCL, London]({{< ref "/talk/2012-01-12-vision-at-ucl/index.md" >}})

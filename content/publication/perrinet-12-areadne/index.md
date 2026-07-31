@@ -34,4 +34,5 @@ publication_types:
 tags:
 - active inference
 title: Active inference, smooth pursuit and oculomotor delays
+categories: ["Computational Neuroscience"]
 ---

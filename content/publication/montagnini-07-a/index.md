@@ -32,4 +32,5 @@ publication_types:
 tags:
 - motion detection
 title: Dynamic inference for motion tracking
+categories: ["Computational Neuroscience"]
 ---

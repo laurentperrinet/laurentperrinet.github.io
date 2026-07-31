@@ -50,8 +50,8 @@ tags:
 - neuromorphic hardware
 - online classification
 title: A robust bio-inspired approach to event-driven object recognition
+categories: ["NeuroAI & Machine Learning"]
 ---
-
 ![](@laurentperrinet_1364962423120265218_tweetcapture.png)
 {{< figure src="poster.png" width="100%" >}}
 * see the poster online on the [Hopin platform](https://app.hopin.com/events/cosyne-2021/expo/377631)

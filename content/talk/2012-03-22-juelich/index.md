@@ -18,4 +18,5 @@ tags:
 title: 'MotionClouds: Model-based stimulus synthesis of natural-like random textures
   for the study of motion perception'
 url_slides: perrinet12wp4_handout.pdf
+categories: ["Computational Neuroscience"]
 ---

@@ -14,6 +14,6 @@ publication_types:
 tags:
 - coding decoding
 title: A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise
+categories: ["Computational Neuroscience"]
 ---
-
 * see a follow-up in this [publication]({{< ref "/publication/taouali-16" >}})

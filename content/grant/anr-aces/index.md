@@ -10,8 +10,8 @@ tags:
 - grant
 - past-grant
 title: ANR ACES (2022/2026)
+categories: ["Grants & Funding"]
 ---
-
 Contextual motor adaptation is the ability to produce different motor responses depending on different contingencies signaled by specific cues or contexts. This requires to learn the relation between antecedent stimuli, that signal the future state of the environment, motor responses, and outcomes. A wealth of research have demonstrated that motor systems such as the saccadic or the pursuit eye movement system may simultaneously adapt in two opposite directions (for instance increasing and decreasing the saccade amplitudes) when a context, such as the orbital position of the eye before the movement, signals different contingencies for each response.
 
 However, it has also been repeatedly reported that some cues, such as the target color or its shape, do not come to control the adaptation of the motor response. These observations remain unexplained and we lack adequate theoretical concepts to account for them: any stimulus, or context, that is perfectly correlated with the experimental manipulation should, in theory, induce contextual adaptation as it is conventionally thought that outcome predictability is the main factor controlling contextual learning. This has been a particularly vexing problem for the past 25 years as motor adaptation has become one of the main experimental model to study learning in humans.

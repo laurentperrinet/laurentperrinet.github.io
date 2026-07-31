@@ -21,6 +21,7 @@ tags:
 - events
 title: Postdoc position on Visual computations using Spatio-temporal Diffusion Kernels
   and Traveling Waves
+categories: ["Events & Outreach"]
 ---
 {{% callout warning %}}
 THE POSITION HAS BEEN FILLED.

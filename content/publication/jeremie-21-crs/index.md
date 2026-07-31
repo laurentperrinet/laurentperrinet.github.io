@@ -2,7 +2,7 @@
 authors:
 - Jean-Nicolas Jérémie
 - Laurent U Perrinet
-categories: []
+categories: ["NeuroAI & Machine Learning"]
 date: 2021-10-15
 draft: false
 featured: false
@@ -28,6 +28,5 @@ tags:
 - psychophysics
 title: Ultra-fast categorization of images containing animals in vivo and in computo
 ---
-
 * see a follow-up in: {{< cite page="/publication/jeremie-23-ultra-fast-cat" view="4" >}}
 * see an extension to visual search in: {{< cite page="/publication/jeremie-22-areadne" view="4" >}}

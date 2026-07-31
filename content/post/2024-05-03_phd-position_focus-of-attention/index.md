@@ -15,6 +15,7 @@ lastmod: 2024-05-03 09:00:00
 tags:
 - events
 - emergences
+categories: ["Events & Outreach"]
 ---
 Dear colleagues,
 

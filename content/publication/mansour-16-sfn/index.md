@@ -21,4 +21,5 @@ tags:
 - motion-clouds
 title: 'Voluntary tracking the moving clouds : Effects of speed variability on human
   smooth pursuit'
+categories: ["Computational Neuroscience"]
 ---

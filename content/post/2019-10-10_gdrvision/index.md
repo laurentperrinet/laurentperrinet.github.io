@@ -19,6 +19,7 @@ tags:
 - events
 - vision
 title: '2019-10-10: GDR vision 2019'
+categories: ["Events & Outreach"]
 ---
 Avec Anna Montagnini, Manuel Vidal et Françoise Vitu, nous organisons cette année le GDR Vision à Marseille les journées du 10 et 11 octobre.
 

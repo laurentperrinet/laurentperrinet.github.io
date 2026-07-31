@@ -8,4 +8,5 @@ view: compact
 banner:
   caption: ''
   image: ''
+categories: ["Events & Outreach"]
 ---

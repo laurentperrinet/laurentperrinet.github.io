@@ -34,4 +34,5 @@ publication_types:
 tags:
 - active inference
 title: Compensation of oculomotor delays in the visual system's network
+categories: ["Computational Neuroscience"]
 ---

@@ -46,8 +46,8 @@ tags:
 - computational neuroscience
 - pynn
 title: 'PyNN: A Common Interface for Neuronal Network Simulators'
+categories: ["Computational Neuroscience"]
 ---
-
 **PyNN** is a simulator-independent language for building neuronal network models using {{< icon name="python" pack="fab" >}} Python.
 * [Web-site](https://neuralensemble.github.io/PyNN/)
 * [Source code](https://github.com/NeuralEnsemble/PyNN)

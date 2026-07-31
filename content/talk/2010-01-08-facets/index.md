@@ -16,6 +16,6 @@ tags:
 - motion detection
 - motion prediction
 title: 'Models of low-level vision: linking probabilistic models and neural masses'
+categories: ["Computational Neuroscience"]
 ---
-
 * see this more recent talk @ [UCL, London]({{< ref "/talk/2012-01-12-vision-at-ucl/index.md" >}})

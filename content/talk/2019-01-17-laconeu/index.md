@@ -21,4 +21,5 @@ location: Valparaiso (Chile)
 publication: '*LACONEU 2019: 5th Latin-American Summer School in Computational Neuroscience,
   Valparaiso (Chile)*'
 title: Role of dynamics in neural computations underlying visual processing
+categories: ["Computational Neuroscience"]
 ---

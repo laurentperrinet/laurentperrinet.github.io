@@ -53,9 +53,8 @@ links:
   url: https://2025.ccneuro.org/poster/?id=GXMCOQjF19
 - name: Abstract
   url: https://2025.ccneuro.org/abstract_pdf/Jeremie_2025_Unravelling_relationship_location_categorisation_improves_convolutional.pdf
+categories: ["NeuroAI & Machine Learning"]
 ---
-
-
 🧠 TODAY at #CCN2025 ! Poster A145, 1:30-4:30pm at de Brug & E‑Hall. We've developed a bio-inspired "What-Where" CNN that mimics primate visual pathways - achieving better classification with less computation. Come chat! 🎯
 
 * What: Poster A145

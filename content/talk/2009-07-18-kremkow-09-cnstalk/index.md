@@ -18,6 +18,6 @@ publication: '*Eighteenth Annual Computational Neuroscience Meeting: CNS*2009 Be
   Germany. 18–23 July 2009*'
 title: Control of the temporal interplay between excitation and inhibition by the
   statistics of visual input
+categories: ["Computational Neuroscience"]
 ---
-
 * see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publication/kremkow-10-jcns/index.md" >}})

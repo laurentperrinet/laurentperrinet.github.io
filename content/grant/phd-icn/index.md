@@ -10,6 +10,7 @@ tags:
 - past-grant
 - phd-icn
 title: PhD ICN (2017 / 2021)
+categories: ["Grants & Funding"]
 ---
 ## Description
 

@@ -41,4 +41,5 @@ tags:
 - spike
 title: 'Adaptive Sparse Spike Coding : applications of Neuroscience to the compression
   of natural images'
+categories: ["Computational Neuroscience"]
 ---

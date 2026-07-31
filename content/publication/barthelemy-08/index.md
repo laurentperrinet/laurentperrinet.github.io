@@ -46,4 +46,5 @@ tags:
 - motion-clouds
 title: Dynamics of distributed 1D and 2D motion representations for short-latency
   ocular following
+categories: ["Computational Neuroscience"]
 ---

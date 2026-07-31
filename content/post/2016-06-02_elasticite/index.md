@@ -16,6 +16,7 @@ summary: L'installation ''Elasticité dynamique'' agit comme un filtre et génè
 tags:
 - art-science
 title: Elasticité dynamique
+categories: ["Events & Outreach"]
 ---
 # Trame Élasticité @  Fondation Vasarely à Aix-en-Provence
 

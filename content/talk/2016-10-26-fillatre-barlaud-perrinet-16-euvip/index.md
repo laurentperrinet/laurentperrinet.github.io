@@ -23,6 +23,6 @@ tags:
 - Biologically Inspired Computer vision
 title: Categorization of microscopy images using a biologically inspired edge co-occurrences
   descriptor
+categories: ["Computational Neuroscience"]
 ---
-
 * See a followup in {{< cite page="/publication/perrinet-bednar-15" view="1" >}}

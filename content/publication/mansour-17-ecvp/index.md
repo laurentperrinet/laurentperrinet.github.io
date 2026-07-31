@@ -22,4 +22,5 @@ tags:
 - motion detection
 - motion-clouds
 title: How the dynamics of human smooth pursuit is influenced by speed uncertainty
+categories: ["Computational Neuroscience"]
 ---

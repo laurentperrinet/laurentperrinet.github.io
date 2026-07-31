@@ -37,8 +37,8 @@ subtitle: ''
 tags:
 - area-v1
 title: Dynamical processing of orientation precision in the primary visual cortex
+categories: ["Computational Neuroscience"]
 ---
-
 * This is 40th edition of Dynamicsdays
 * Nice, 23-27 August 2021 - https://dynamicsdays2021.univ-cotedazur.fr
 * check out the [book of abstracts](https://dynamicsdays2021.univ-cotedazur.fr/assets/dynamicsdays_nice_2021.pdf)

@@ -5,5 +5,6 @@ tags:
 - grant
 - past-grant
 title: CODDE (2008/2012)
+categories: ["Grants & Funding"]
 ---
  The [CODDE](http://www.optimaldecisions.org/) network studies the links between sensory input, brain activity and motor output. It does this by combining behavioural techniques, brain imaging, movement recording and computational modelling.

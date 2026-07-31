@@ -44,4 +44,5 @@ tags:
 - eye movements
 - Smooth pursuit eye movement
 title: Anticipatory smooth eye movements and reinforcement
+categories: ["Computational Neuroscience"]
 ---

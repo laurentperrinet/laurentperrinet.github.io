@@ -47,4 +47,5 @@ tags:
 - psychophysics
 title: The characteristics of microsaccadic eye movements varied with the change of
   strategy in a match-to-sample task
+categories: ["Computational Neuroscience"]
 ---

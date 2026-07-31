@@ -41,7 +41,7 @@ tags:
 - lateral connections
 title: Complex dynamics in recurrent cortical networks based on spatially realistic
   connectivities
+categories: ["Computational Neuroscience"]
 ---
-
 ![header](voges-12.png)
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}

@@ -40,8 +40,8 @@ publication: '*Probabilities and Optimal Inference to Understand the Brain, INT,
   (France)*'
 title: Should I stay or should I go? Humans adapt to the volatility of visual motion
   properties, and know about it
+categories: ["Computational Neuroscience"]
 ---
-
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="1" >}}
 * This is part of the [Active Inference symposium]({{< ref "/post/2019-05-23-neurofrance/index.md" >}}) @ [NeuroFrance](https://www.neurosciences.asso.fr/V2/colloques/SN19/) SYMPOSIUM, Room 7
 23.05.2019, 11:00 -- 13:00

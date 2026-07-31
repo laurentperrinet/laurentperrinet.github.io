@@ -37,8 +37,8 @@ tags:
 - area-v1
 title: 'Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards
   like-to-All'
+categories: ["Computational Neuroscience"]
 ---
-
 ![](@laurentperrinet_1490717893750935552_tweetcapture.png)
 
 * Check-out this presentation of the paper:  {{< cite page="/talk/2025-02-11-neuromath" view="2" >}}

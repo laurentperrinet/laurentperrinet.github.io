@@ -25,7 +25,7 @@ authors:
 - Sio-Hoi Ieng
 - Ryad Benosman
 - Laurent U Perrinet
-categories: []
+categories: ["NeuroAI & Machine Learning"]
 date: 2024-10-01
 doi: 10.1016/j.neunet.2024.106415
 draft: false
@@ -59,7 +59,6 @@ tags:
 - online classification
 title: A Robust Event-Driven Approach to Always-on Object Recognition
 ---
-
 Main contributions:
 - Builds an adaptive, back to  back event-based pattern recognition architecture, inspired by neuroscience and capable of always-on decision, that is, that the decision can be taken it can be needed,
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-24/hots.png" title="The HOTS architecture." width="100%" >}}

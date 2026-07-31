@@ -16,6 +16,7 @@ tags:
 - events
 - Biologically Inspired Computer Vision
 title: '2016-10-26 : EUVIP BICV'
+categories: ["Events & Outreach"]
 ---
 # 2016-10-26 : EUVIP Special Session on *Biologically Inspired Computer Vision*
 

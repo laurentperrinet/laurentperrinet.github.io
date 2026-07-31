@@ -17,7 +17,7 @@ authors:
 - Camille Besnainou
 - Hugo Ladret
 - Laurent U Perrinet
-categories: []
+categories: ["NeuroAI & Machine Learning"]
 date: 2022-10-16
 doi: 10.1109/ICIP46576.2022.9897394
 draft: false
@@ -46,7 +46,6 @@ tags:
 - neuromorphic hardware
 title: Learning heterogeneous delays of spiking neurons for motion detection
 ---
-
 * see a follow-up as journal paper: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}
 * presented at [ICIP 2022](https://2022.ieeeicip.org) 16-19 October 2022 in Bordeaux, France
 * paper [3241](https://cmsworkshops.com/ICIP2022/papers/accepted_papers.php) (note that the title of the paper was slightly changed)

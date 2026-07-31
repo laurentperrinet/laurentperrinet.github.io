@@ -5,6 +5,7 @@ tags:
 - grant
 - past-grant
 title: ANR REM (2013/2016)
+categories: ["Grants & Funding"]
 ---
 {{< figure src="http://static.tvtropes.org/pmwiki/pub/images/R.E.M..jpg" alt="We were open :-)" lightbox="true" >}}
 
