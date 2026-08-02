@@ -49,5 +49,5 @@ publication_types:
 tags: ["gain-control"]
 title: Dynamical contrast gain control mechanisms in a layer 2/3 model of the primary
   visual cortex
-categories: ["Computational Neuroscience"]
+categories: ["Biological Neuroscience"]
 ---

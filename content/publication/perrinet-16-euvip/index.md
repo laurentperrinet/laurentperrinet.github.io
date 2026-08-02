@@ -30,5 +30,5 @@ publication_types:
 - inproceedings
 tags: ["image-texture", "sparse-coding", "vision"]
 title: Biologically-inspired characterization of sparseness in natural images
-categories: ["Computational Neuroscience"]
+categories: ["Biological Neuroscience"]
 ---

@@ -46,5 +46,5 @@ publication_types:
 tags: ["eye-movements", "motion-detection", "psychophysics"]
 title: 'Measuring speed of moving textures: Different pooling of motion information
   for human ocular following and perception.'
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience"]
 ---

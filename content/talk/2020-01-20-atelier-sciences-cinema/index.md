@@ -37,7 +37,7 @@ publication_types:
 - inproceedings
 slides: https://laurentperrinet.github.io/2020-01-20_atelier_sciences_cinema
 title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience"]
 ---
 ![](@laurentperrinet_1284791644240347138_tweetcapture.png)
 {{< vimeo 398661322 >}}

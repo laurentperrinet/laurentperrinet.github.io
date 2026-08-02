@@ -34,6 +34,6 @@ publication_types:
 - inbook
 tags: ["sparse-coding", "vision"]
 title: Sparse Models for Computer Vision
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---
 * Appeared in this book: {{< cite page="/publication/cristobal-perrinet-keil-15-bicv" view="4" >}}

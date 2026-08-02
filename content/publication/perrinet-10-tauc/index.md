@@ -20,6 +20,6 @@ publication_types:
 tags: ["bayesian-modeling", "coding-decoding", "eye-movements", "motion-detection", "visual-cortex"]
 title: 'Probabilistic models of the low-level visual system: the role of prediction
   in detecting motion'
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

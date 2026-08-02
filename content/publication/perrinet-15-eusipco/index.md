@@ -27,5 +27,5 @@ publication_types:
 - inproceedings
 tags: ["association-field", "coding-decoding", "sparse-coding", "sparselets", "statistics-of-natural-images", "vision", "visual-cortex"]
 title: Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience"]
 ---

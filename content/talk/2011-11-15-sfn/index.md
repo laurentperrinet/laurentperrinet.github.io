@@ -45,7 +45,7 @@ location: Washington, DC
 publication: '*Society for Neuroscience Abstracts*'
 title: 'Edge statistics in natural images versus laboratory animal environments: implications
   for understanding lateral connectivity in V1'
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience"]
 ---
 * Abstract Control Number: 17671
 * Presentation Number: 530.04

@@ -21,5 +21,5 @@ links:
 publication: '*Mathematical image processing meeting (Marseille, France) September
   5*'
 title: Neural Codes for Adaptive Sparse Representations of Natural Images
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---

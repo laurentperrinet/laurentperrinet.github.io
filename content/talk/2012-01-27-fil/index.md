@@ -29,5 +29,5 @@ links:
 publication: '*Brain meeting at FIL, London - Friday, January 27th, 2012*'
 tags: ["bayesian-modeling", "dynamics", "eye-movements", "free-energy", "motion-detection", "predictive-coding"]
 title: Grabbing, tracking and sniffing as models for motion detection and eye movements
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience"]
 ---

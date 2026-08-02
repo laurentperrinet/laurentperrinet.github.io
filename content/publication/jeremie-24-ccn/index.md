@@ -29,6 +29,6 @@ publication_types:
 publishDate: '2024-08-06T14:24:04.549072Z'
 tags: ["convolutional-neural-networks", "foveated-vision", "transfer-learning", "visual-categorization"]
 title: Retinotopy in CNN's implements Efficient Visual Search
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience"]
 ---
 * Read the corresponding paper {{< cite page="/publication/jeremie-25" view="4" >}}

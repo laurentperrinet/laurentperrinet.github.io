@@ -41,5 +41,5 @@ projects:
 publication: '*4th BrainScaleS Plenary meeting - March 20th, 2014*'
 title: 'WP5 - Demo 1.3 : Spiking model of motion-based prediction'
 url_slides: 14-03-20_BK_LP_MK_handout.pdf
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---

@@ -50,7 +50,7 @@ publication_types:
 slides: 2022-11-21_flash-lag-effect
 tags: ["bayesian-modeling", "motion-detection", "psychophysics"]
 title: The flash-lag effect as a motion-based predictive shift
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---
 * [Press release](https://www.insb.cnrs.fr/fr/cnrsinfo/illusions-visuelles-leur-origine-est-dans-la-prediction)
 # Visual illusions: their origin lies in prediction

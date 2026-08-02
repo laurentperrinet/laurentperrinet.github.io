@@ -39,7 +39,7 @@ publication_types:
 tags: ["association-field", "sparse-coding", "vision"]
 title: Edge co-occurrences can account for rapid categorization of natural versus
   animal images
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience"]
 ---
 * [supplementary information](https://www.nature.com/article-assets/npg/srep/2015/150622/srep11400/extref/srep11400-s1.pdf)
 * [supplementary material](PerrinetBednar15supplementary.pdf)

@@ -44,7 +44,7 @@ publication_types:
 - inproceedings
 tags: ["active-inference", "deep-learning", "object-localization", "visual-search", "visuomotor-control"]
 title: 'Learning where to look: a foveated visuomotor control model'
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---
  - download a [preliminary PDF](https://laurentperrinet.github.io/talk/2019-07-15-cns/2019-07-15-cns.pdf)
  ![](@laurentperrinet_1150713758643380226_tweetcapture.png)

@@ -33,7 +33,7 @@ publication_types:
 tags: ["bayesian-modeling", "large-scale-networks", "motion-detection", "predictive-coding", "pynn", "spike"]
 title: Anisotropic connectivity implements motion-based prediction in a spiking neural
   network
-categories: ["Computational Neuroscience"]
+categories: ["Biological Neuroscience"]
 ---
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}
 * see  follow-up on motion extrapolation: {{< cite page="/publication/khoei-13-jpp" view="4" >}}

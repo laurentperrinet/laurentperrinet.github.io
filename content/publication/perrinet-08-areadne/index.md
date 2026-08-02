@@ -45,5 +45,5 @@ publication_types:
 tags: ["bayesian-modeling", "eye-movements", "motion-detection", "visual-cortex", "visual-perception"]
 title: Decoding the population dynamics underlying ocular following response using
   a probabilistic framework
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---

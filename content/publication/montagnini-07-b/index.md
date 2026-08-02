@@ -39,5 +39,5 @@ publication_types:
 - inproceedings
 tags: ["bayesian-modeling"]
 title: 'Visual tracking of ambiguous moving objects: A recursive Bayesian model'
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience"]
 ---

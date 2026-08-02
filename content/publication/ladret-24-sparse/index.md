@@ -53,7 +53,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---
 ![Artboard](2024_ladret.gif)
 * 5 minutes summary: https://hugoladret.github.io/publications/ladret_et_al_sparsecoding/

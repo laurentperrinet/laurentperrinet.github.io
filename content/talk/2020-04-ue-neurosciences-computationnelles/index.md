@@ -32,7 +32,7 @@ publication: '*Master Neurosciences et Sciences Cognitives*'
 publication_types:
 - inproceedings
 title: 'From the retina to action: Understanding visual processing'
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---
 # 2020-04_UE-neurosciences-computationnelles, matériel pour le cours de modélisation
 * Où: Marseille (France)

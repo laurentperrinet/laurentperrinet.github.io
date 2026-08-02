@@ -37,7 +37,7 @@ publication_types:
 tags: ["log-gabor", "motion-detection"]
 title: 'Motion Clouds: Model-based stimulus synthesis of natural-like random textures
   for the study of motion perception'
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---
 ![header](sanz-12.png)
 **MotionClouds** are random dynamic stimuli optimized to study motion perception.

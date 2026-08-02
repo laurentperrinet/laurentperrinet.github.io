@@ -23,7 +23,7 @@ links:
   url: https://laurentperrinet.github.io/project/tout-public/
 projects:
 - tout-public  
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience"]
 ---
 * https://explore.univ-amu.fr/programme
 

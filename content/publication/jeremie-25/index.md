@@ -19,7 +19,7 @@ publication_types:
 publishDate: '2024-08-06T15:13:44.587984Z'
 tags: ["convolutional-neural-networks", "foveated-vision", "transfer-learning", "visual-categorization"]
 title: Foveated Retinotopy Improves Classification and Localization in CNNs
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---
 {{< figure src="graphical.png" title="*Foveated Retinotopy in CNNs.* We represent Left an input image and how it is transformed by foveated retinotopy. We show below a representative reconstruction showing that it also acts as a cortical zoom on the image around the point of fixation. The transformed image is then fed to the ResNet deep learning architecture." >}}
 

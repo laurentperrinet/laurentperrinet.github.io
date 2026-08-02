@@ -24,6 +24,6 @@ publication_types:
 tags: ["eye-movements", "motion-detection"]
 title: The behavioral receptive field underlying motion integration for primate tracking
   eye movements
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience"]
 ---
 ![header](masson-12.png)

@@ -15,5 +15,5 @@ publication_types:
 tags: ["motion-detection"]
 title: 'Input-output transformation in the visuo-oculomotor loop: modeling the ocular
   following response to center-surround stimulation in a probabilistic framework'
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---

@@ -3,7 +3,7 @@ authors:
 - Jean-Nicolas Jérémie
 - Emmanuel Daucé
 - Laurent U Perrinet
-categories: ["Computational Neuroscience"]
+categories: ["Biological Neuroscience"]
 date: 2022-07-10
 draft: false
 featured: false

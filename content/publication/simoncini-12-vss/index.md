@@ -35,5 +35,5 @@ publication_types:
 - inproceedings
 tags: ["eye-movements", "motion-detection", "psychophysics"]
 title: Effect of image statistics on fixational eye movements
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience"]
 ---

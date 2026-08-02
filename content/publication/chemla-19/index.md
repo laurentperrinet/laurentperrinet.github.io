@@ -49,5 +49,5 @@ summary: Traveling waves have recently been observed in different animal species
 tags: ["visual-cortex"]
 title: Suppressive waves disambiguate the representation of long-range apparent motion
   in awake monkey V1
-categories: ["Computational Neuroscience"]
+categories: ["Biological Neuroscience"]
 ---

@@ -30,7 +30,7 @@ authors:
 - Frédéric Chavane
 - Christian Casanova
 - Laurent U Perrinet
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience"]
 date: 2023-03-09
 draft: false
 featured: false

@@ -37,5 +37,5 @@ publication_types:
 - article-journal
 tags: ["eye-movements", "motion-detection"]
 title: Saccadic foveation of a moving visual target in the rhesus monkey
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---

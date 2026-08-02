@@ -52,6 +52,6 @@ publication: '*Proceedings of SfN, 2011*'
 tags: ["sparse-coding"]
 title: 'Edge statistics in natural images versus laboratory animal environments: implications
   for understanding lateral connectivity in V1'
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience"]
 ---
 * See a followup in {{< cite page="/publication/perrinet-bednar-15" view="1" >}}

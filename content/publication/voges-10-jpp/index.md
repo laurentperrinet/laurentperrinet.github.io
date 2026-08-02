@@ -31,7 +31,7 @@ publication_types:
 - article-journal
 tags: ["association-field", "visual-cortex"]
 title: Phase space analysis of networks based on biologically realistic parameters
-categories: ["Computational Neuroscience"]
+categories: ["Biological Neuroscience"]
 ---
 ![header](voges-10-jpp.png)
 * see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

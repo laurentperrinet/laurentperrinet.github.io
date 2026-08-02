@@ -28,6 +28,6 @@ publication_types:
 - article-journal
 tags: ["image-texture", "sparse-coding", "vision"]
 title: Advances in Texture Analysis for Emphysema Classification
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---
 * relies on log-Gabor filters: {{< cite page="/publication/fischer-07-cv" view="4" >}}

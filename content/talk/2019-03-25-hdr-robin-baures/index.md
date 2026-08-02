@@ -29,7 +29,7 @@ links:
 location: Toulouse (France)
 
 title: 'From the retina to action: Predictive processing in the visual system'
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="1" >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="1" >}}

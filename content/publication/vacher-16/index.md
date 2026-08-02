@@ -41,5 +41,5 @@ publication_types:
 - article-journal
 tags: ["bayesian-modeling", "motion-detection", "psychophysics"]
 title: Bayesian Modeling of Motion Perception using Dynamical Stochastic Textures
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---

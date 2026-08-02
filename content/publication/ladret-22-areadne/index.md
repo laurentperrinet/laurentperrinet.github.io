@@ -16,7 +16,7 @@ abstract: 'On a daily basis, the primary visual cortex (V1) detects oriented ele
 authors:
 - Hugo Ladret
 - Laurent U Perrinet
-categories: ["Computational Neuroscience"]
+categories: ["Biological Neuroscience"]
 date: 2022-06-29
 draft: false
 featured: false

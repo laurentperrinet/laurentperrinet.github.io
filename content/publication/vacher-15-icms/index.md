@@ -15,6 +15,6 @@ publication_types:
 - inproceedings
 tags: ["motion-detection", "psychophysics"]
 title: A Mathematical Account of Dynamic Texture Synthesis for Probing Visual Perception
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---
 * See a followup in {{< cite page="/publication/vacher-16" view="4" >}}

@@ -31,7 +31,7 @@ image:
   focal_point: Smart
   preview_only: false
 
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience"]
 ---
 👁️ Very glad to present our Art/Perception collaboration with Etienne Rey today!
 

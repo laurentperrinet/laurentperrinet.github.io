@@ -27,5 +27,5 @@ location: Saint-Paul de Vence
 publication: '*First GDR BioComp workshop, Saint-Paul de Vence, October 7th, 2015*'
 title: Motion-based prediction with neuromorphic hardware
 url_slides: https://laurentperrinet.github.io/sciblog/files/2015-10-07_Perrinet15biocomp_slides.pdf
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience"]
 ---

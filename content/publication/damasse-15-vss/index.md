@@ -42,5 +42,5 @@ publication_types:
 - inproceedings
 tags: ["eye-movements", "smooth-pursuit-eye-movement"]
 title: Anticipatory smooth eye movements and reinforcement
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---

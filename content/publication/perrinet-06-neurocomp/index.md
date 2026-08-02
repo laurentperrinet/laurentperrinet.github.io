@@ -29,6 +29,6 @@ publication_types:
 tags: ["aperture-problem", "bayesian-modeling", "eye-movements", "matching-pursuit", "motion-detection"]
 title: 'Input-output transformation in the visuo-oculomotor loop: modeling the ocular
   following response to center-surround stimulation in a probabilistic framework'
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

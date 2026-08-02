@@ -25,7 +25,7 @@ slides: 2026-03-05-ue-natural-cognition
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-03-05-ue-natural-cognition
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---
 Practical work: https://github.com/laurentperrinet/2026-03_UE-neurosciences-computationnelles/
 

@@ -20,7 +20,7 @@ authors:
 - Jean-Nicolas Jérémie
 - Emmanuel Daucé
 - Laurent U Perrinet
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience"]
 date: 2022-06-29
 draft: false
 featured: false

@@ -14,7 +14,7 @@ abstract: Aleatoric uncertainty characterizes the variability of features found 
 authors:
 - Hugo Ladret
 - Laurent U Perrinet
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 date: 2023-05-05
 draft: false
 featured: false

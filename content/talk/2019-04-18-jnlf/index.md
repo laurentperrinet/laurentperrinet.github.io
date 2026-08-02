@@ -49,7 +49,7 @@ summary: 'Les objectifs sont : -- mieux comprendre la fonction de la perception 
   dynamique de la perception ; -- mieux comprendre le rôle de l''action dans la perception.'
 tags: []
 title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience"]
 ---
 * Le texte de cette présentation est reprise dans cet article de [The Conversation](https://laurentperrinet.github.io/publication/perrinet-19-temps/) ([lien direct](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567)).
 * Voir la @ [présentation au NeuroStories]({{< ref "/post/2019-10-07_neurostories/index.md" >}})

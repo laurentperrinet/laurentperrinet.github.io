@@ -18,7 +18,7 @@ abstract: In most mammals, the primary visual cortex (V1) processes complex mixt
 authors:
 - Hugo Ladret
 - Laurent U Perrinet
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 date: 2022-03-22 00:00:00
 draft: false
 event: 2022 SIAM Conference on Imaging Science (IS22)

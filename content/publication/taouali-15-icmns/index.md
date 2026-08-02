@@ -36,6 +36,6 @@ publication_types:
 - inproceedings
 tags: ["coding-decoding"]
 title: On overdispersion in neuronal evoked activity
-categories: ["Computational Neuroscience"]
+categories: ["Biological Neuroscience"]
 ---
 * see a follow-up in this [publication]({{< ref "/publication/taouali-16" >}})

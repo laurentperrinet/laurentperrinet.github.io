@@ -36,7 +36,7 @@ links:
   url: https://doi.org/10.1167/jov.25.11.2
 - name: HAL
   url: https://hal.science/hal-05288188
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---
 🚀 Excited to share our new paper: 
 

@@ -33,6 +33,6 @@ publication_types:
 - article-journal
 tags: ["bayesian-modeling"]
 title: Bayesian modeling of dynamic motion integration
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---
 ![header](montagnini-07.png)

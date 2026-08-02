@@ -33,5 +33,5 @@ publication_types:
 tags: ["sparselets", "unsupervised-learning", "visual-cortex"]
 title: 'Finding Independent Components using spikes : a natural result of Hebbian
   learning in a sparse spike coding scheme'
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---

@@ -42,5 +42,5 @@ publication_types:
 - inproceedings
 tags: ["motion-detection"]
 title: How and why do image frequency properties influence perceived speed?
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience"]
 ---

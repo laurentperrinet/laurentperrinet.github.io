@@ -39,7 +39,7 @@ publication: '*IWAI 2020*'
 publication_types:
 - inproceedings
 title: Visual search as active inference
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---
 * see proceedings paper: {{< cite page="/publication/dauce-20-iwai" view="1" >}}
 ![](@laurentperrinet_1305488089989754883_tweetcapture.png)

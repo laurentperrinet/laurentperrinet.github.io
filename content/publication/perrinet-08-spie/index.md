@@ -33,5 +33,5 @@ publication_types:
 tags: ["association-field", "coding-decoding", "inhibition", "matching-pursuit", "sparse-coding", "sparse-hebbian-learning", "spike", "vision"]
 title: 'Adaptive Sparse Spike Coding : applications of Neuroscience to the compression
   of natural images'
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---

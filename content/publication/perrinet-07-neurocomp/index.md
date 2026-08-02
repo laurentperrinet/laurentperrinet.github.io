@@ -35,6 +35,6 @@ publication_types:
 tags: ["bayesian-modeling", "eye-movements", "motion-detection", "visual-cortex", "visual-perception"]
 title: Modeling spatial integration in the ocular following response using a probabilistic
   framework
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---
 ![header](perrinet-07-neurocomp.png)

@@ -32,6 +32,6 @@ publication: '*Licence Sciences & Humanité*'
 publication_types:
 - inproceedings
 title: 'From the retina to action: Understanding visual processing'
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---
 Cours de Licence Sciences & Humanité, 3/4/2019

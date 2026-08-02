@@ -59,7 +59,7 @@ publication_types:
 tags: ["coding-decoding"]
 title: A dynamic model for decoding direction and orientation in macaque primary visual
   cortex
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience"]
 ---
 * see a follow-up in this [poster]({{< ref "/publication/taouali-16-areadne" >}})
 * This is a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

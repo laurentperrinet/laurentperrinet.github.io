@@ -13,7 +13,7 @@ abstract: Visual areas are essential in transforming the raw luminous signal int
   and psychophysics.
 authors:
 - Laurent U Perrinet
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 date: 2023-04-03 14:00:00
 draft: false
 event: Master M4NC de l'institut NeuroMod, cours Prospective Innovation and Research.

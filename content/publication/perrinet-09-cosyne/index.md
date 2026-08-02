@@ -64,5 +64,5 @@ publication_types:
 tags: ["bayesian-modeling", "eye-movements", "motion-detection", "visual-cortex", "visual-perception"]
 title: Decoding center-surround interactions in population of neurons for the ocular
   following response
-categories: ["Computational Neuroscience"]
+categories: ["Theoretical Neuroscience"]
 ---

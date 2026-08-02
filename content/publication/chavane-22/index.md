@@ -36,7 +36,7 @@ publication_types:
 tags: ["visual-cortex"]
 title: 'Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards
   like-to-All'
-categories: ["Computational Neuroscience"]
+categories: ["Biological Neuroscience"]
 ---
 ![](@laurentperrinet_1490717893750935552_tweetcapture.png)
 

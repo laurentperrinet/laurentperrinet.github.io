@@ -45,7 +45,7 @@ publication_types:
 - article-journal
 tags: ["motion-detection"]
 title: Motion-based prediction explains the role of tracking in motion extrapolation
-categories: ["Computational Neuroscience"]
+categories: ["Biological Neuroscience"]
 ---
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}
 * see  follow-up on the flash-lag effect: {{< cite page="/publication/khoei-masson-perrinet-17" view="4" >}}
