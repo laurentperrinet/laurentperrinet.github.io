@@ -37,7 +37,7 @@ publication: '*IJCNN 2022 : International Joint Conference on Neural Networks*'
 publication_types:
 - inproceedings
 subtitle: ''
-tags: []
+tags: ["attention-mechanism", "computer-vision", "convolutional-neural-networks"]
 title: 'What You See Is What You Transform: Foveated Spatial Transformers as a Bio-Inspired
   Attention Mechanism'
 ---

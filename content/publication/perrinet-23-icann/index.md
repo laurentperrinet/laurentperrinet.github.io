@@ -41,7 +41,7 @@ publication_types:
 publishDate: '2023-07-21T11:12:04.721342Z'
 slides: 2023-09-27_icann
 subtitle: ''
-tags: []
+tags: ["polychronization", "spiking-motifs", "spiking-neural-networks"]
 title: Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a
   Spiking Neural Network
 ---

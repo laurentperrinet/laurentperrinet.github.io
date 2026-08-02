@@ -21,7 +21,7 @@ publication_types:
 - thesis
 publishDate: '2024-04-05T08:28:28.491801Z'
 subtitle: ''
-tags: []
+tags: ["predictive-coding", "visuo-motor"]
 title: Codage prédictif dans les transformations visuo-motrices
 ---
 * {{< cite page="/post/2014-04-17_hdr" view="4" >}}

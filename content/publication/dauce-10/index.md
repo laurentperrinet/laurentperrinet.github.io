@@ -22,7 +22,7 @@ links:
 publication: '*Journal of Physiology-Paris*'
 publication_types:
 - article-journal
-tags: []
+tags: ["dynamics", "information-theory"]
 title: Computational Neuroscience, from Multiple Levels to Multi-level
 categories: ["Computational Neuroscience"]
 ---

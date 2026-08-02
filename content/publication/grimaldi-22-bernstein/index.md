@@ -42,7 +42,7 @@ publication_types:
 - inproceedings
 publishDate: '2023-07-21T11:11:54.651024Z'
 subtitle: ''
-tags: []
+tags: ["polychronization", "spiking-motifs", "spiking-neural-networks", "stdp"]
 title: Detection of precise spiking motifs using spike-time dependent weight and delay
   plasticity
 ---

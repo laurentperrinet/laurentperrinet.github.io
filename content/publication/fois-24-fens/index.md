@@ -36,6 +36,6 @@ publication_types:
 - inproceedings
 publishDate: '2024-04-05T08:22:04.452494Z'
 subtitle: ''
-tags: []
+tags: ["self-supervised-learning", "spiking-motifs"]
 title: Self-Supervised Learning of Spiking Motifs in Neurobiological Data
 ---

@@ -36,7 +36,7 @@ publication_types:
 publishDate: '2022-06-16T11:51:41.890310Z'
 show_authors_only: false
 subtitle: ''
-tags: []
+tags: ["generative-models", "sparse-coding", "v1"]
 title: Which sparsity problem does the brain solve?
 ---
 * Follow-up paper {{< cite page="/publication/rentzeperis-23" view="4" >}}

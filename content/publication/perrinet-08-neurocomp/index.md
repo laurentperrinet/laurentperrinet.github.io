@@ -12,7 +12,7 @@ links:
 publication: '*Proceedings of NeuroComp08, Marseille*'
 publication_types:
 - book
-tags: []
+tags: ["computational-neuroscience"]
 title: Proceedings of the second french conference on Computational Neuroscience,
   Marseille
 categories: ["Computational Neuroscience"]

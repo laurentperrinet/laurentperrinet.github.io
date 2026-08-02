@@ -36,7 +36,7 @@ publication_types:
 - inproceedings
 publishDate: '2022-06-16T11:51:41.890310Z'
 subtitle: ''
-tags: []
+tags: ["decoding", "natural-images", "orientation", "v1"]
 title: A resilient neural code in V1 to process natural images
 ---
 ![](@laurentperrinet_1542724828658016256_tweetcapture.png)

@@ -23,7 +23,7 @@ publication_types:
 - thesis
 publishDate: '2024-04-05T08:38:46.355166Z'
 subtitle: ''
-tags: []
+tags: ["bio-mimetic", "predictive-coding"]
 title: 'La vision comme processus prédictif: Une approche bio-mimétique'
 ---
 * Suite de mes travaux d'habilitation à diriger des recherches (HDR) sur le thème de la vision comme processus prédictif. {{< cite page="/publication/perrinet-14-hdr" view="4" >}}

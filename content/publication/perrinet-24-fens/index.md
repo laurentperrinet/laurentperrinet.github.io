@@ -38,7 +38,7 @@ publication_types:
 - inproceedings
 publishDate: '2024-04-05T08:22:04.452494Z'
 subtitle: ''
-tags: []
+tags: ["polychronization", "spiking-motifs", "spiking-neural-networks"]
 title: Accurate Detection of Spiking Motifs in Neurobiological Data by Learning Heterogeneous
   Delays of a Spiking Neural Network
 ---

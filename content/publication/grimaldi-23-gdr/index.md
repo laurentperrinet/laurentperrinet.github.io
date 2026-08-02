@@ -35,7 +35,7 @@ publication_types:
 - inproceedings
 publishDate: '2023-03-22T15:35:38.869745Z'
 subtitle: ''
-tags: []
+tags: ["motion-detection", "polychronization", "spiking-motifs", "spiking-neural-networks", "stdp"]
 title: Learning heterogeneous delays of spiking neurons for motion detection
 ---
 * see a follow-up as journal paper: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}
