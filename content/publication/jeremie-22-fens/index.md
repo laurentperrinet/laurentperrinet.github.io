@@ -23,7 +23,7 @@ publication_types:
 - inproceedings
 publishDate: '2022-06-16T11:51:41.890310Z'
 subtitle: ''
-tags: ["spiking-neural-networks", "primary-visual-cortex", "retinotopy", "ultra-fast-categorization", "visual-search]
+tags: ["spiking-neural-networks", "primary-visual-cortex", "retinotopy", "ultra-fast-categorization", "visual-search"]
 title: Ultra-rapid visual search in natural images using active deep learning
 ---
 ![](@laurentperrinet_1546389505917206531_tweetcapture.png)
