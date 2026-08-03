@@ -22,6 +22,8 @@ social:
 superuser: false
 user_groups:
 - Former Students
+categories: ["Biological Neuroscience", "Computational Neuroscience"]
+tags: ["spiking-neural-networks", "primary-visual-cortex", "neuromorphic-computing", "motion-perception"]
 ---
 # Complex dynamics in recurrent cortical networks based on spatially realistic connectivities (Post-Doc, 2008 / 2010)
 

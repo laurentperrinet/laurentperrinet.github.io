@@ -25,6 +25,8 @@ social:
 superuser: false
 user_groups:
 - Former Students
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["motion-perception", "primary-visual-cortex", "synaptic-delays", "predictive-coding", "spiking-neural-networks", "neuromorphic-computing"]
 ---
 # Emerging properties in a neural field model implementing probabilistic prediction (PhD, 2011-2014)
 

@@ -23,6 +23,8 @@ social:
 superuser: false
 user_groups:
 - Former Students
+categories: ["Biological Neuroscience", "Computational Neuroscience"]
+tags: ["spiking-neural-networks", "primary-visual-cortex", "neuromorphic-computing", "sparse-coding"]
 ---
 # Correlating Excitation and Inhibition in Visual Cortical Circuits: Functional Consequences and Biological Feasibility  (PhD, 2006-01 / 2009-05)
 

@@ -9,6 +9,8 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Manuel_Samuelides
+categories: ["Computational Neuroscience", "Theoretical Neuroscience"]
+tags: ["spiking-neural-networks", "sparse-coding"]
 ---
 
 

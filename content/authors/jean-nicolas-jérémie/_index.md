@@ -26,6 +26,8 @@ superuser: false
 
 user_groups:
 - Former Students
+categories: ["NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["log-polar", "retinotopy", "neuromorphic-computing", "event-based-vision", "active-vision", "deep-learning"]
 ---
 
 # PhD Student (2021-10 / 2025-10): Bio-mimetic agile aerial robots flying in real-life conditions

@@ -14,6 +14,8 @@ social:
 superuser: false
 user_groups:
 - Former Students
+categories: ["Biological Neuroscience"]
+tags: ["predictive-coding", "spiking-neural-networks"]
 ---
 
 #  "Neuromodulatory mechanisms of predictive processing in the mouse visual cortex" (PhD position, 2023-10 / 2026-09)

@@ -66,6 +66,8 @@ email: laurent.perrinet@univ-amu.fr
 
 user_groups:
 - Researcher
+categories: ["Biological Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["spiking-neural-networks", "neuromorphic-computing", "motion-perception", "eye-movements"]
 ---
 
 [Laurent Perrinet](https://laurentperrinet.github.io/) is a computational neuroscientist (DR2 CNRS) at the Institut de Neurosciences de la Timone (UMR 7289, CNRS / Aix-Marseille Université), within the NeOpTo team. His research investigates predictive processing in the visual system — from single cortical cells to active vision and behavior — and its translation into neuromorphic algorithms. He has co-authored more than 63 peer-reviewed articles (h-index 30), supervised 6 completed PhD students and currently directs 3 PhD students (Alexandre Lainé, Matthis Dallain, Kevin Mairot). His work combines neurophysiology (Neuropixels recordings in marmoset), computational modeling (spiking neural networks, Free-Energy Principle) and open-source algorithmic development (MotionClouds, AnEMo, LogGabor).

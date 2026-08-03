@@ -29,6 +29,8 @@ social:
 superuser: false
 user_groups:
 - Former Students
+categories: ["Biological Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["predictive-coding", "spiking-neural-networks", "primary-visual-cortex", "visual-illusions"]
 ---
 
 # PhD Student (2019-09 / 2024-02): A multiscale cortical model to account for orientation selectivity in natural-like stimulations

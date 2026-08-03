@@ -16,6 +16,8 @@ title: Jean-Bernard Damasse
 superuser: false
 user_groups:
 - Former Students
+categories: ["Behavioral Neuroscience"]
+tags: ["motion-perception", "eye-movements"]
 ---
 # Smooth pursuit eye movements and learning: Role of motion probability and reinforcement contingencies (PhD, 2014-2017)
 

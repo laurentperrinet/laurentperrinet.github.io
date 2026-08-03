@@ -12,6 +12,8 @@ social:
 - icon: external-link-alt
   icon_pack: fas
   link: https://www.fil.ion.ucl.ac.uk/~karl/
+categories: ["Theoretical Neuroscience"]
+tags: ["predictive-coding", "visual-illusions", "eye-movements"]
 ---
 
 

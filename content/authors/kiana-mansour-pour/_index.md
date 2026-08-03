@@ -16,6 +16,8 @@ social:
 superuser: false
 user_groups:
 - Former Students
+categories: ["Behavioural Neuroscience"]
+tags: ["spiking-neural-networks", "visual-illusions", "motion-perception", "eye-movements"]
 ---
 
 # Predicting and selecting sensory events: inference for smooth eye movements (PhD: 2015 - 2019)

@@ -19,6 +19,8 @@ superuser: false
 
 user_groups:
 - Current Students
+categories: ["Biological Neuroscience", "NeuroAI & Machine Learning", "Clinical Neuroscience"]
+tags: ["deep-learning", "retinal-dystrophies"]
 ---
 
 # PhD Student (2023-10 / 2027-09): L'intelligence artificielle comme aide au diagnostic des dystrophies rétiniennes

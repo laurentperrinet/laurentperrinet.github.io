@@ -28,6 +28,7 @@ superuser: false
 
 user_groups:
 - Current Students
+tags: ["spiking-neural-networks"]
 ---
 
 # PhD Student (2024-10 / 2027-09): Model-based analysis of neurobiological data
