@@ -13,7 +13,7 @@ summary: Installation (sérigraphie, dessin mural, lumière), 2018;  Guest artis
   du Sud / Art-O-Rama (Fair), Marseille I 2018.
 tags: ["art-science"]
 title: Instabilité (series) @ Art-O-Rama
-categories: ["Events & Outreach"]
+categories: ["NeuroAI & Machine Learning"]
 ---
 # Instabilité (series)
 

@@ -14,8 +14,8 @@ image:
 
 lastmod: 2026-01-03 09:00:00
 
-tags: ["computational-neuroscience", "mouse-vision", "neuromodulation", "neuroscience", "phd-position", "predictive-processing"]
-categories: ["Events & Outreach"]
+tags: ["predictive-coding", "spiking-neural-networks"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
 {{% callout note %}}
 The position has been filled.

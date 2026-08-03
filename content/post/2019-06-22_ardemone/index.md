@@ -9,9 +9,9 @@ projects:
 - art-science
 subtitle: Sans gravité – une poétique de l’air – Ardenome à Avignon
 summary: Sans gravité – une poétique de l’air – Ardenome à Avignon.
-tags: ["art-science"]
+tags: ["visual-illusions"]
 title: Sans gravité – une poétique de l’air
-categories: ["Events & Outreach"]
+categories: ["NeuroAI & Machine Learning"]
 ---
 {{< vimeo 317504725 >}}
 

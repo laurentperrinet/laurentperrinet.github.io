@@ -37,7 +37,7 @@ gallery_item:
   image: DJI_20211005_122145_287.JPG
   caption: 'Trames (microscopique). Crédit image : Étienne Rey'
 
-categories: ["Events & Outreach"]
+categories: ["NeuroAI & Machine Learning"]
 ---
 # Horizon Faille
 

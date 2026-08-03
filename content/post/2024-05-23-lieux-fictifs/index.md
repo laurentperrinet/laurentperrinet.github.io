@@ -8,13 +8,13 @@ featured: false
 projects:
 - tout-public
 summary: "Participation à Structure d’Accompagnement à la Sortie de la prison des Baumettes"
-tags: ["neuroscience", "perception", "vision"]
+tags: ["visual-illusions"]
 location: Marseille, France
 title: 'Rencontre cinémas & sciences à la prison des Baumettes'
 links:
 - name: URL
   url: http://www.lieuxfictifs.org/actualites/article/inauguration-de-la-salle-de-cinema
-categories: ["Events & Outreach"]
+categories: ["NeuroAI & Machine Learning"]
 ---
 ![14eme du RISC](http://festivalrisc.org/wp-content/uploads/2023/11/RISCV02rvb-web-WP.jpg)
 

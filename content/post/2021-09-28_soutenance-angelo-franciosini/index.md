@@ -8,8 +8,8 @@ draft: false
 lastmod: 2021-09-09 09:00:00
 subtitle: 'Angelo Franciosini (Equipe NeOpTo) a soutenu sa thèse de doctorat le Mardi 28 septembre 2021 à 13h à 15h30'
 summary: 'Angelo Franciosini (Equipe NeOpTo) a soutenu sa thèse de doctorat intitulée: *SDPC : a sparse and predictive model of the early visual system* le Mardi 28 septembre 2021 à 13h à 15h30'
-tags: []
-categories: ["Events & Outreach"]
+tags: ["predictive-coding", "visual-illusions", "primary-visual-cortex", "sparse-coding"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
 # "SDPC : a sparse and predictive model of the early visual system" Soutenance de thèse Angelo Franciosini
 

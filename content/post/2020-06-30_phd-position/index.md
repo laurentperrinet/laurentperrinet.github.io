@@ -14,8 +14,8 @@ image:
 lastmod: 2020-06-30 09:00:00
 
 
-tags: []
-categories: ["Events & Outreach"]
+tags: ["neuromorphic-computing", "sparse-coding", "predictive-coding", "visual-illusions", "spiking-neural-networks", "primary-visual-cortex"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
 {{% callout warning %}}
 THE POSITION HAS BEEN FILLED.

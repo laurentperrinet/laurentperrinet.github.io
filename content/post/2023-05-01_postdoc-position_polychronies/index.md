@@ -14,8 +14,8 @@ image:
 lastmod: 2023-05-01 09:00:00
 
 subtitle: THE POSITION HAS BEEN FILLED!
-tags: []
-categories: ["Events & Outreach"]
+tags: ["spiking-neural-networks", "primary-visual-cortex", "neuromorphic-computing", "motion-perception"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
 {{% callout warning %}}
 THE POSITION HAS BEEN FILLED.

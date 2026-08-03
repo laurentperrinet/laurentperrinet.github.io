@@ -13,9 +13,8 @@ lastmod: 2008-10-08 00:00:00
 subtitle: Second NeuroComp Marseille Workshop
 summary: 'Computational Neuroscience: From Representations to Behavior, the Second
   NeuroComp Marseille Workshop.'
-tags: ["computational-neuroscience"]
 title: 'Computational Neuroscience: From Representations to Behavior'
-categories: ["Events & Outreach"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
 - Date: 27-28 May 2010
 

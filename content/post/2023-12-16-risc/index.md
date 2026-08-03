@@ -9,13 +9,13 @@ projects:
 - tout-public
 summary: "Rencontres Internationales Sciences Et Cinémas"
 event_url: http://www.pollymaggoo.org/
-tags: ["neuroscience", "perception", "vision"]
+tags: ["visual-illusions"]
 location: Marseille, France
 title: 'Participation au jury du RISC'
 links:
 - name: URL
   url: http://festivalrisc.org/14e-edition/
-categories: ["Events & Outreach"]
+categories: ["NeuroAI & Machine Learning"]
 ---
 # 14ème RENCONTRES INTERNATIONALES SCIENCES & CINÉMAS (RISC)
 

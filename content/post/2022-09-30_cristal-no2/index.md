@@ -10,11 +10,11 @@ projects:
 title: Cristal N°2
 subtitle: Cristal N°2 - Arbre théorique / 2014
 summary: Cristal N°2 - Arbre théorique / 2014
-tags: ["art-science"]
+tags: ["visual-illusions"]
 image:
   caption: 'Crédit image : Étienne Rey'
 
-categories: ["Events & Outreach"]
+categories: ["NeuroAI & Machine Learning"]
 ---
 # Cristal N°2 - Arbre théorique / 2014
 

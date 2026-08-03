@@ -11,9 +11,9 @@ summary: 'We organized a Symposium at NeuroFrance 2019 entitled *Active Inferenc
   Bridging theoretical and experimental neurosciences*. This is part of a series of
   theoretical neuroscience symposia organized in this international conference from
   the french Neursocience Society.'
-tags: ["probalistic-inference"]
+tags: ["predictive-coding", "motion-perception", "visual-illusions"]
 title: '2019-05-20: Symposium on Active Inference at NeuroFrance 2019'
-categories: ["Events & Outreach"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
 ## Active Inference: Bridging theoretical and experimental neurosciences. / Inference Active: Un pont entre neurosciences théoriques et expérimentales.
 

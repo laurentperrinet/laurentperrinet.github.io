@@ -15,7 +15,7 @@ summary: 'Le GDR Vision réunit toute la communauté française de chercheurs en
   en vision.'
 tags: ["vision"]
 title: '2019-10-10: Atelier Utiliser l''apprentissage profond en vision'
-categories: ["Events & Outreach"]
+categories: ["NeuroAI & Machine Learning"]
 ---
 Date : jeudi 10 octobre de 9h30 à 12h30
 

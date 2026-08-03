@@ -12,8 +12,8 @@ image:
   preview_only: false
 lastmod: 2024-05-03 09:00:00
 
-tags: ["emergences"]
-categories: ["Events & Outreach"]
+tags: ["neuromorphic-computing", "visual-illusions", "predictive-coding", "spiking-neural-networks", "primary-visual-cortex", "eye-movements"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
 Dear colleagues,
 

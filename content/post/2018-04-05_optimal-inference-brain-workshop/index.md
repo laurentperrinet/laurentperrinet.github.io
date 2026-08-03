@@ -14,7 +14,7 @@ summary: 'We organize a Symposium at NeuroFrance 2019 entitled Active Inference:
 tags: ["probalistic-inference"]
 title: '2018-04-05 : *Probabilities and Optimal Inference to understand the Brain*
   Workshop'
-categories: ["Events & Outreach"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
 ![participants](IMG_20180406_164630.jpg)
 

@@ -6,13 +6,13 @@ draft: false
 featured: true
 projects:
 - tout-public
-tags: ["neuroscience", "psychiatry", "vision"]
+tags: ["visual-illusions"]
 title: 'Les illusions sèment le trouble dans les esprits'
 summary: "Article de dissémination : la perception visuelle, telle qu'elle paut être comprise à travers illusions visuelles."
 links:
 - name: URL
   url: https://laurentperrinet.github.io/2019-05_illusions-visuelles/
-categories: ["Events & Outreach"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
 ---
 Publication d'un nouvel article généraliste autour des illusions visuelles, "*Les illusions sèment le trouble dans les esprits*" à découvrir dans lee dossier [La Recherche n°565](https://www.larecherche.fr/les-illusions-s%C3%A8ment-le-trouble-dans-les-esprits) (trimestriel N°565 daté avril-juin 2021):
 
