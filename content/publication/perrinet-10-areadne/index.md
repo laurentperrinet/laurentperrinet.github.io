@@ -4,6 +4,7 @@ authors:
 - Guillaume S Masson
 date: 2010-01-01
 featured: false
+grants:
 - facets
 
 publication: '*Proceedings of AREADNE*'

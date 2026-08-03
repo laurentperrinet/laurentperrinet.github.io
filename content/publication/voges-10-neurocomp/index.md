@@ -18,6 +18,7 @@ authors:
 - Laurent U Perrinet
 date: 2010-01-01
 featured: false
+grants:
 - facets
 
 publication: '*Proceedings of NeuroComp*'

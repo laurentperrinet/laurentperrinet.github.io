@@ -5,6 +5,7 @@ date: 2016-07-07 13:00:00
 event: 'Summer School: PDE and Probability for Life Sciences'
 event_url: http://scientific-events.weebly.com/prog-1426.html
 featured: false
+grants:
 - anr-bala-v1
 - brain-scales
 links:

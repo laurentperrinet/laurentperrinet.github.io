@@ -12,6 +12,7 @@ authors:
 - Laurent U Perrinet
 date: 2021-01-01
 featured: false
+grants:
 - anr-anr
 image:
   caption: 'Image credit: Naser Tamimi [**Unsplash**](https://unsplash.com/photos/yG9pCqSOrAg)'

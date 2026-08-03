@@ -7,6 +7,7 @@ authors:
 - Frédéric Y Chavane
 date: 2006-01-01
 featured: false
+grants:
 - facets
 publication: '*Proceedings of the FENS Forum 2006*'
 publication_types:

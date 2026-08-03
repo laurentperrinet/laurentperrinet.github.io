@@ -20,6 +20,7 @@ authors:
 - Guillaume S Masson
 date: 2006-01-01
 featured: false
+grants:
 - facets
 
 publication: '*1ère conférence francophone NEUROsciences COMPutationnelles - NeuroComp*'

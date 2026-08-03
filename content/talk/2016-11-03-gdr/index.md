@@ -31,7 +31,9 @@ authors:
 date: 2016-11-03
 event: GDR Vision, Toulouse, Nov 3rd, 2016
 featured: false
+grants:
 - anr-rem
+grants:
 - pace-itn
 links:
 - name: URL

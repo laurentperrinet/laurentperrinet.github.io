@@ -40,6 +40,7 @@ authors:
 - Ad M Aertsen
 date: 2008-01-01
 featured: false
+grants:
 - facets
 
 publication: '*Proceedings of the Society for Neuroscience conference*'

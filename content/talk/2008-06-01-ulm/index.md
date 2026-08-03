@@ -37,6 +37,7 @@ authors:
 - Guillaume S Masson
 date: 2008-06-01
 featured: false
+grants:
 - facets
 links:
 - name: URL

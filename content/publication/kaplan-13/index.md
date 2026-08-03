@@ -21,6 +21,7 @@ authors:
 date: 2013-09-17
 doi: 10.3389/fncom.2013.00112
 featured: false
+grants:
 - facets-itn
 links:
 - name: URL

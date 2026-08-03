@@ -4,6 +4,7 @@ authors:
 - Emmanuel Daucé
 - Laurent U Perrinet
 date: 2024-06-27
+grants:
 - anr-anr
 links:
 - name: URL

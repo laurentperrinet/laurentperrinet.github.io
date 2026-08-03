@@ -23,6 +23,7 @@ authors:
 date: 2022-07-18
 doi: 10.1371/journal.pcbi.1010270
 featured: true
+grants:
 - anr-horizontal-v1
 - doc-2-amu
 - phd-icn

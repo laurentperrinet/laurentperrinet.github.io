@@ -29,6 +29,7 @@ date: 2009-11-30
 event: 'Macroscopic aspects of neuronal activity: ''''Macroscopic models, LFP models
   and VSD models'''' a FACETS workshop in Marseille, Nov. 30th /Dec. 1st'
 featured: false
+grants:
 - facets
 links:
 - name: URL

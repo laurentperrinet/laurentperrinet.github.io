@@ -6,6 +6,7 @@ date: 2024-08-25
 links:
 - name: URL
   url: https://www.cerveauetpsycho.fr/sd/neurobiologie/le-mystere-de-la-joconde-elucide-par-les-neurosciences-26605.php
+grants:
 - anr-anr
 - art-science
 - tout-public

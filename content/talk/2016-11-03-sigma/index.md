@@ -4,6 +4,7 @@ authors:
 date: 2016-11-03 13:00:00
 event: 'Workshop SIGMA''2016: Signal, Image, Geometry, Modelling, Approximation'
 featured: false
+grants:
 - pace-itn
 links:
 - name: Slides

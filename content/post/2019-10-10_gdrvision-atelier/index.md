@@ -7,6 +7,7 @@ featured: false
 image:
   caption: ''
   focal_point: Smart
+grants:
 - spikeai
 summary: 'Le GDR Vision réunit toute la communauté française de chercheurs en vision.
   Nous aurons un atelier méthodologique le jeudi matin sur les apports possibles du

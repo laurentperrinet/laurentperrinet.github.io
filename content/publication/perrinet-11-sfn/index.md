@@ -47,6 +47,7 @@ authors:
 - James A Bednar
 date: 2011-01-01
 featured: false
+grants:
 - anr-bala-v1
 - brain-scales
 links:

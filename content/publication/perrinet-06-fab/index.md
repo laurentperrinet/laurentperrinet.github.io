@@ -40,6 +40,7 @@ authors:
 - Jens Kremkow
 date: 2006-01-01
 featured: false
+grants:
 - facets
 publication: '*The Functional Architecture of the Brain : from Dendrites to Networks.
   Symposium in honour of Dr Suzanne Tyc-Dumont. 4- 5 May 2006. GLM, Marseille, France*'

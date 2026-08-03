@@ -7,6 +7,7 @@ date: 2022-06-19 09:00:00
 draft: false
 event: NeuroVision Workshop in conjunction with CVPR 2022
 featured: false
+grants:
 - anr-anr
 - aprovis3D
 image:

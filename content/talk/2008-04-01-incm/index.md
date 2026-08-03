@@ -28,6 +28,7 @@ authors:
 date: 2008-04-01
 event: Séminaires de l'INCM, April 11th, 2008
 featured: false
+grants:
 - facets
 links:
 - name: URL

@@ -28,6 +28,7 @@ date: 2014-07-06
 doi: 10.1109/IJCNN.2014.6889847
 featured: false
 - brain-scales
+grants:
 - facets-itn
 links:
 - name: URL

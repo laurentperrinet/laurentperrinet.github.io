@@ -20,6 +20,7 @@ authors:
 - Laurent U Perrinet
 date: 2018-01-01
 featured: false
+grants:
 - pace-itn
 links:
 - name: Code

@@ -18,6 +18,7 @@ authors:
 - Emmanuel Daucé
 - Laurent U Perrinet
 date: 2023-08-08
+grants:
 - anr-anr
 links:
 - name: URL

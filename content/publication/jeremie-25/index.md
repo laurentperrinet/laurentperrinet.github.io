@@ -6,6 +6,7 @@ authors:
 
 date: 2026-02-23
 doi: 10.3390/vision10020017
+grants:
 - anr-anr
 links:
 - name: URL

@@ -5,7 +5,9 @@ date: 2016-10-13 10:00:00
 event: Lyon Active inference Workshop (LAW)
 event_url: https://law2016.sciencesconf.org/
 featured: false
+grants:
 - anr-rem
+grants:
 - pace-itn
 links:
 - name: Conference

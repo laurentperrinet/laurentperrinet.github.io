@@ -8,6 +8,7 @@ image:
   placement: 2
   preview_only: false
 lastmod: 2010-06-22 00:00:00
+grants:
 - facets
 - brain-scales
 subtitle: We held a CodeJam 22nd-24th June 2010, in Marseille.

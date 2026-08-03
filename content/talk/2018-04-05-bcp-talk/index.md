@@ -7,6 +7,7 @@ date: 2018-04-05 14:00:00
 event: Probabilities and Optimal Inference to Understand the Brain
 event_url: https://laurentperrinet.github.io/post/2018-04-05_optimal-inference-brain-workshop/
 featured: false
+grants:
 - pace-itn
 links:
 - name: Conference

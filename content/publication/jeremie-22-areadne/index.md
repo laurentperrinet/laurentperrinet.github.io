@@ -25,6 +25,7 @@ draft: false
 featured: false
 grants:
 - aprovis3D
+grants:
 - anr-anr
 image:
   caption: ''

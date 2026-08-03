@@ -14,6 +14,7 @@ date: 2015-11-05 13:00:00
 event: Charla
 event_url: http://www.eventos.usm.cl/evento/charla-motion-based-prediction-with-neuromorphic-hardware/
 featured: false
+grants:
 - anr-bala-v1
 links:
 - name: Conference

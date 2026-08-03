@@ -5,6 +5,7 @@ authors:
 - Guillaume S Masson
 date: 2012-01-01
 featured: false
+grants:
 - facets-itn
 links:
 - name: URL

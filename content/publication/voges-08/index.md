@@ -5,6 +5,7 @@ authors:
 - Laurent U Perrinet
 date: 2008-01-01
 featured: false
+grants:
 - facets
 
 publication: '*Proceedings of the FENS Forum 2008*'

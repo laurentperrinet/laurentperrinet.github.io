@@ -37,6 +37,7 @@ social:
 
 superuser: false
 - doc-2-amu
+grants:
 - anr-horizontal-v1
 user_groups:
 - Former Students

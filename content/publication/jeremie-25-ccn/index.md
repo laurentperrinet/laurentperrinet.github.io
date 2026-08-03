@@ -33,6 +33,7 @@ abstract: "Convolutional Neural Networks (CNNs) have been widely used for catego
   object localisation within the scene. Beyond its computational benefits, this What-Where
   framework serves as an experimental tool to further investigate the neural mechanisms
   underlying visual processing."
+grants:
 - anr-anr
 links:
 - name: URL

@@ -32,6 +32,7 @@ doi: 10.3390/vision7020029
 draft: false
 featured: false
 - aprovis3D
+grants:
 - anr-anr
 image:
   caption: ''

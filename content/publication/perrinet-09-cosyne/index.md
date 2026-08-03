@@ -55,6 +55,7 @@ authors:
 - Guillaume S Masson
 date: 2009-01-01
 featured: false
+grants:
 - facets
 
 publication: '*Proceedings of COSYNE*'

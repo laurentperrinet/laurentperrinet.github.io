@@ -17,6 +17,7 @@ authors:
 - Laurent U Perrinet
 date: 2019-01-01
 featured: false
+grants:
 - anr-horizontal-v1
 links:
 - name: URL

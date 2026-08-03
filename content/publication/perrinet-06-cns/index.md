@@ -15,6 +15,7 @@ authors:
 - Laurent U Perrinet
 date: 2006-01-01
 featured: false
+grants:
 - facets
 links:
 - name: PDF

@@ -37,6 +37,7 @@ authors:
 - Ad M Aertsen
 date: 2009-01-01
 featured: false
+grants:
 - facets
 
 publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'

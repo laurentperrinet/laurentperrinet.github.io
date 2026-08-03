@@ -6,6 +6,7 @@ authors:
 - Manuel Samuelides
 date: 2007-03-01
 featured: false
+grants:
 - facets
 publication: '*Topics in Dynamical Neural Networks: From Large Scale Neural Networks
   to Motor Control and Vision*'

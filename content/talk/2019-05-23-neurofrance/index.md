@@ -23,6 +23,7 @@ authors:
 date: 2019-05-23 01:30:00
 event: Colloque international de la Société Française des Neurosciences 2019
 featured: false
+grants:
 - pace-itn
 links:
 - name: Slides

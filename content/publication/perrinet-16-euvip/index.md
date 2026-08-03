@@ -15,6 +15,7 @@ authors:
 date: 2016-10-01
 doi: 10.1109/EUVIP.2016.7764592
 featured: false
+grants:
 - anr-bala-v1
 links:
 - name: Code

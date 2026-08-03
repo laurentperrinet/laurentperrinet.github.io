@@ -28,6 +28,7 @@ authors:
 date: 2018-11-21
 doi: 10.1162/neco_a_01142
 featured: false
+grants:
 - anr-speed
 links:
 - name: URL

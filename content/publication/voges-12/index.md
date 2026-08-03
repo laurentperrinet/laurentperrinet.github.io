@@ -28,6 +28,7 @@ doi: 10.3389/fncom.2012.00041
 featured: false
 - brain-scales
 - codde
+grants:
 - facets
 links:
 - name: URL

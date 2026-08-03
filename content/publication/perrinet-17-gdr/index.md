@@ -28,7 +28,9 @@ links:
   url: https://github.com/NaturalPatterns/2017-10-12_GDR/raw/master/2017-10-12_PerrinetRey2017poster.pdf
 - name: Code
   url: https://github.com/NaturalPatterns/2017-10-12_GDR
+grants:
 - anr-rem
+grants:
 - pace-itn
 - art-science
 - tout-public

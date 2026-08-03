@@ -23,7 +23,9 @@ authors:
 date: 2019-03-18
 doi: 10.1523/JNEUROSCI.2792-18.2019
 featured: false
+grants:
 - anr-bala-v1
+grants:
 - anr-trajectory
 links:
 - name: URL
