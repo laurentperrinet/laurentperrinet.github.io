@@ -6,7 +6,6 @@ date: 2021-06-15 11:15:00
 draft: false
 event: Society for Mathematical Biology * 2021
 featured: false
-grants:
 - anr-horizontal-v1
 image:
   caption: ''
@@ -22,10 +21,11 @@ publication: '*Society for Mathematical Biology * 2021*'
 publication_types:
 - inproceedings
 subtitle: ''
-tags: ["predictive-coding", "primary-visual-cortex"]
 title: Pooling in a predictive model of V1 explains functional and structural diversity
   across species
-categories: ["NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["predictive-coding", "primary-visual-cortex"]
+categories: ["NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
 ![](@laurentperrinet_1384940135419101187_tweetcapture.png)
 {{< figure src="poster.jpg" width="100%" >}}

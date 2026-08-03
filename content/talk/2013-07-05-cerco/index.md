@@ -6,7 +6,6 @@ authors:
 date: 2013-07-05 13:00:00
 event: CerCo 20th anniversary
 featured: false
-grants:
 - brain-scales
 links:
 - name: URL
@@ -14,9 +13,10 @@ links:
 location: CerCo, Toulouse
 
 publication: '*A  seminar at the CerCo, Toulouse, France*'
-tags: ["vision"]
 title: Edge co-occurrences and categorizing natural images
 url_slides: perrinet13cerco.pdf
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["vision"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * See a followup in {{< cite page="/publication/perrinet-bednar-15" view="1" >}}

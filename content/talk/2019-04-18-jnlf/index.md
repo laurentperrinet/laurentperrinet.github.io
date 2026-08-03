@@ -25,7 +25,6 @@ draft: false
 event: JNLF 2019, Revue Neurologique, Volume 175, Supplement 1, Page S165
 event_url: https://www.jnlf.fr/agenda/jnlf-lille-2019
 featured: false
-grants:
 - anr-horizontal-v1
 links:
 - name: Conference
@@ -42,14 +41,14 @@ links:
   url: https://www.em-consulte.com/e-tap/1283936/ftafhrsrftfxjyjaaumj
 location: Lille, France
 math: true
-projects:
 - tout-public
 summary: 'Les objectifs sont : -- mieux comprendre la fonction de la perception visuelle
   en explorant certaines limites ; -- mieux comprendre l''importance de l''aspect
   dynamique de la perception ; -- mieux comprendre le rôle de l''action dans la perception.'
-tags: ["primary-visual-cortex", "visual-illusions"]
 title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["primary-visual-cortex", "visual-illusions"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: ["tout-public"]
 ---
 * Le texte de cette présentation est reprise dans cet article de [The Conversation](https://laurentperrinet.github.io/publication/perrinet-19-temps/) ([lien direct](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567)).
 * Voir la @ [présentation au NeuroStories]({{< ref "/post/2019-10-07_neurostories/index.md" >}})

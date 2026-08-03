@@ -22,7 +22,6 @@ authors:
 date: 2004-07-01
 doi: 10.1016/j.jphysparis.2005.09.012
 featured: false
-projects:
 - facets
 links:
 - name: URL
@@ -32,7 +31,8 @@ links:
 publication: '*Journal of Physiology-Paris*'
 publication_types:
 - article-journal
-tags: ["spiking-neural-networks", "primary-visual-cortex", "sparse-coding"]
 title: 'Feature detection using spikes : the greedy approach'
-categories: ["Biological Neuroscience", "Computational Neuroscience"]
+tags: ["bayesian-modelling", "primary-visual-cortex", "sparse-coding", "spiking-neural-networks"]
+categories: ["Biological Neuroscience", "Computational Neuroscience", "Outreach & Public Engagement"]
+projects: [""]
 ---

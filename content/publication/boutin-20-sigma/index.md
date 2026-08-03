@@ -29,7 +29,6 @@ authors:
 - Laurent U Perrinet
 date: 2019-03-03
 featured: false
-projects:
 - doc-2-amu
 - phd-icn
 - mesocentre
@@ -42,10 +41,11 @@ links:
 publication: '*SIGMA''2020 (Signal, Image, Geometry, Modelling, Approximation)*'
 publication_types:
 - inproceedings
-tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding"]
 title: Sparse Deep Predictive Coding captures contour integration capabilities of
   the early visual system
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
  * presented during this [talk]({{< ref "/talk/2019-03-25-hdr-robin-baures/index.md" >}})
  * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}

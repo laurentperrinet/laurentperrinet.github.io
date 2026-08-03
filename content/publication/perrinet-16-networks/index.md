@@ -22,7 +22,6 @@ authors:
 - Karl Friston
 date: 2016-01-01
 featured: false
-projects:
 - codde
 links:
 - name: URL
@@ -31,7 +30,8 @@ links:
 publication: '*Complex Networks: from theory to interdisciplinary applications*'
 publication_types:
 - inproceedings
-tags: ["predictive-coding", "motion-perception", "eye-movements"]
 title: Compensation of oculomotor delays in the visual system's network
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["bayesian-modelling", "eye-movements", "motion-perception", "predictive-coding"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

@@ -11,14 +11,14 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2018-10-10-polly-maggoo/
 location: Marseille, France
-projects:
 - tout-public
 publication: '**'
 publication_types:
 - inproceedings
 title: Intervention fête de la science 2018
-categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
 tags: ["visual-illusions"]
+categories: ["Computational Neuroscience", "Education", "Outreach & Public Engagement"]
+projects: ["tout-public"]
 ---
 # FÊTE DE LA SCIENCE 2018 : Alcazar / MERLAN
 L'Association Polly Maggoo <http://www.pollymaggoo.org/> met en place

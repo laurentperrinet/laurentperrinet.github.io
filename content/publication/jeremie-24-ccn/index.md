@@ -18,7 +18,6 @@ authors:
 - Emmanuel Daucé
 - Laurent U Perrinet
 date: 2023-08-08
-grants:
 - anr-anr
 links:
 - name: URL
@@ -27,8 +26,9 @@ publication: '*Computational Cognitive Neuroscience Society Meeting (CCN) 2024*'
 publication_types:
 - paper-conference
 publishDate: '2024-08-06T14:24:04.549072Z'
-tags: ["convolutional-neural-networks", "foveated-vision", "transfer-learning", "visual-categorization"]
 title: Retinotopy in CNN's implements Efficient Visual Search
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["convolutional-neural-networks", "foveated-vision", "log-polar-mapping", "retinotopy", "transfer-learning", "visual-categorization"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---
 * Read the corresponding paper {{< cite page="/publication/jeremie-25" view="4" >}}

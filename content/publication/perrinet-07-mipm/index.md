@@ -14,13 +14,13 @@ authors:
 - Laurent U Perrinet
 date: 2007-01-01
 featured: false
-projects:
 - facets-itn
 publication: '*Mathematical image processing meeting (Marseille, France) September
   5, 2007*'
 publication_types:
 - inproceedings
-tags: ["neuromorphic-computing", "primary-visual-cortex", "sparse-coding"]
 title: Neural Codes for Adaptive Sparse Representations of Natural Images
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["bayesian-modelling", "neuromorphic-computing", "primary-visual-cortex", "sparse-coding"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
+projects: [""]
 ---

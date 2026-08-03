@@ -25,7 +25,6 @@ date: 2021-06-24
 doi: 10.1109/CBMI50038.2021.9461901
 draft: false
 featured: false
-projects:
 - aprovis3D
 image:
   caption: ''
@@ -44,10 +43,11 @@ publication: '*Content-Based Multimedia Indexing (CBMI) 2021*'
 publication_types:
 - inproceedings
 subtitle: ''
-tags: ["neuromorphic-computing", "metaplasticity"]
 title: A homeostatic gain control mechanism to improve event-driven object recognition
 
-categories: ["NeuroAI & Machine Learning"]
+tags: ["homeostasis", "metaplasticity", "neuromorphic-computing"]
+categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * was presented at the [Bio-inspired circuits, systems and algorithms for multimedia](https://cbmi2021.univ-lille.fr/call-for-contributions#callforpapersspecialbioinspired) special session of the [Content-Based Multimedia Indexing (CBMI) 2021](https://cbmi2021.univ-lille.fr/) conference that you can [watch on Youtube](https://www.youtube.com/watch?v=KxX4pZKexCo&t=3335s).
 * this proceedings paper follows up he poster presented in : {{< cite page="/publication/grimaldi-21-cosyne" view="4" >}}

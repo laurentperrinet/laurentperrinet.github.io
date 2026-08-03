@@ -40,14 +40,14 @@ authors:
 - Jens Kremkow
 date: 2006-01-01
 featured: false
-projects:
 - facets
 publication: '*The Functional Architecture of the Brain : from Dendrites to Networks.
   Symposium in honour of Dr Suzanne Tyc-Dumont. 4- 5 May 2006. GLM, Marseille, France*'
 publication_types:
 - inproceedings
-tags: ["spiking-neural-networks", "primary-visual-cortex", "neuromorphic-computing", "eye-movements"]
 title: Dynamical contrast gain control mechanisms in a layer 2/3 model of the primary
   visual cortex
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["eye-movements", "neuromorphic-computing", "primary-visual-cortex", "spiking-neural-networks"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---

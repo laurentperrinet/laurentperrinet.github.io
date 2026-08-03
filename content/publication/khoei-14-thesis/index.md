@@ -30,6 +30,7 @@ abstract: "Cette thèse est centralisée sur cette question : comment est-ce que
 links:
 - name: URL
   url: https://theses.fr/2014AIXM4041
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
-tags: ["primary-visual-cortex"]
+tags: ["bayesian-modelling", "primary-visual-cortex"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

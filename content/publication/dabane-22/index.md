@@ -17,12 +17,10 @@ authors:
 - Ghassan Dabane
 - Laurent U Perrinet
 - Emmanuel Daucé
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 date: 2022-01-01
 doi: 10.36227/techrxiv.16550391
 draft: false
 featured: false
-grants:
 - anr-anr
 image:
   caption: ''
@@ -37,8 +35,10 @@ publication: '*IJCNN 2022 : International Joint Conference on Neural Networks*'
 publication_types:
 - inproceedings
 subtitle: ''
-tags: ["attention-mechanism", "computer-vision", "convolutional-neural-networks"]
 title: 'What You See Is What You Transform: Foveated Spatial Transformers as a Bio-Inspired
   Attention Mechanism'
+tags: ["attention-mechanism", "computer-vision", "convolutional-neural-networks", "foveated-vision", "log-polar-mapping", "retinotopy"]
+categories: ["Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 IJCNN page: https://www.techrxiv.org/articles/preprint/What_You_See_Is_What_You_Transform_Foveated_Spatial_Transformers_as_a_bio-inspired_attention_mechanism/16550391/1

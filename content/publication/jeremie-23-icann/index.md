@@ -3,12 +3,10 @@ authors:
 - Jean-Nicolas Jérémie
 - Emmanuel Daucé
 - Laurent U Perrinet
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 date: 2023-09-26
 doi: 10.1007/978-3-031-44207-0_52
 draft: false
 featured: false
-grants:
 - anr-anr
 image:
   caption: ''
@@ -25,9 +23,11 @@ publication_types:
 - inproceedings
 publishDate: '2022-11-17T11:15:57.788793Z'
 subtitle: ''
-tags: ["efficient-coding", "localization", "online-classification", "retinotopy", "ultra-fast-categorization", "visual-search"]
 title: Retinotopy improves the categorisation and localisation of visual objects in
   CNNs
+tags: ["efficient-coding", "foveated-vision", "localization", "log-polar-mapping", "online-classification", "retinotopy", "ultra-fast-categorization", "visual-search"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * as was presented at the *32nd International Conference on Artificial Neural Networks (ICANN 2023)* in Heraklion (Greece).
 * this proceedings paper follows up the poster presented in : {{< cite page="/publication/jeremie-23-ccn" view="4" >}}

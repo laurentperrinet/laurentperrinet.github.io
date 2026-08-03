@@ -17,6 +17,7 @@ location: Telluride, CO
 publication: '*Workshop on Computational Neuroscience entitled "New trends and challenges
   for 2030"*'
 title: 'Back to the present: dealing with delays in biological and neuromorphic systems'
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 tags: ["neuromorphic-computing"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

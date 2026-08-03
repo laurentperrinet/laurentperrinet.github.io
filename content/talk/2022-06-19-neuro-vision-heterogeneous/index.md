@@ -2,12 +2,10 @@
 authors:
 - Antoine Grimaldi
 - Laurent U Perrinet
-categories: ["NeuroAI & Machine Learning"]
 date: 2022-06-19 09:00:00
 draft: false
 event: NeuroVision Workshop in conjunction with CVPR 2022
 featured: false
-projects:
 - aprovis3D
 image:
   caption: ''
@@ -24,8 +22,10 @@ publication_types:
 - inproceedings
 publishDate: '2022-05-20T10:34:17.824678Z'
 subtitle: ''
-tags: ["spiking-neural-networks", "neuromorphic-computing", "efficient-coding", "event-based-vision", "homeostasis"]
 title: Learning heterogeneous delays of Spiking Neurons for motion detection
+tags: ["efficient-coding", "event-based-vision", "homeostasis", "neuromorphic-computing", "spiking-neural-networks"]
+categories: ["NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 ![](@laurentperrinet_1538417555911720963_tweetcapture.png)
 * for a follow-up, check out {{< cite page="/publication/grimaldi-22-icip" view="1" >}}

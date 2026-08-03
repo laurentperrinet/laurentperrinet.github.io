@@ -2,11 +2,9 @@
 authors:
 - Jean-Nicolas Jérémie
 - Laurent U Perrinet
-categories: ["NeuroAI & Machine Learning"]
 date: 2021-10-15
 draft: false
 featured: false
-projects:
 - aprovis3D
 - anr-anr
 image:
@@ -22,8 +20,10 @@ publication: '*Champalimaud Research Symposium (CRS21)*'
 publication_types:
 - inproceedings
 subtitle: ''
-tags: ["deep-learning", "object-categorization", "psychophysics"]
 title: Ultra-fast categorization of images containing animals in vivo and in computo
+tags: ["deep-learning", "object-categorization", "psychophysics"]
+categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * see a follow-up in: {{< cite page="/publication/jeremie-23-ultra-fast-cat" view="4" >}}
 * see an extension to visual search in: {{< cite page="/publication/jeremie-22-areadne" view="4" >}}

@@ -10,7 +10,8 @@ links:
 publication: Prisma workshop, Toledo (Spain), February 7, 2008
 title: 'Modeling of spikes, sparseness and adaptation in the primary visual cortex:
   applications to imaging'
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 tags: ["primary-visual-cortex", "sparse-coding"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---
 * related publications  @ [FENS 2006]({{< ref "/publication/perrinet-06-fens/index.md" >}}),   @ [NeuroComp 2008]({{< ref "/publication/perrinet-08-neurocomp/index.md" >}}) and   @ [AREADNE 2008]({{< ref "/publication/perrinet-08-areadne/index.md" >}})

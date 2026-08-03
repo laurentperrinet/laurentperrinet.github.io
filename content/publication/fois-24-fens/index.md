@@ -16,11 +16,9 @@ abstract: Timing is essential for neural processing, but evidence for such tempo
 authors:
 - Adrien Fois
 - Laurent U Perrinet
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 date: 2024-06-27
 draft: false
 featured: false
-grants:
 - polychronies
 image:
   caption: ''
@@ -36,6 +34,8 @@ publication_types:
 - inproceedings
 publishDate: '2024-04-05T08:22:04.452494Z'
 subtitle: ''
-tags: ["spiking-neural-networks"]
 title: Self-Supervised Learning of Spiking Motifs in Neurobiological Data
+tags: ["homeostasis", "spiking-neural-networks"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---

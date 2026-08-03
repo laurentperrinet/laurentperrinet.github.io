@@ -14,7 +14,9 @@ subtitle: Second NeuroComp Marseille Workshop
 summary: 'Computational Neuroscience: From Representations to Behavior, the Second
   NeuroComp Marseille Workshop.'
 title: 'Computational Neuroscience: From Representations to Behavior'
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["bayesian-modelling", "foveated-vision", "log-polar-mapping", "retinotopy"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Theoretical Neuroscience", "Visual Neuroscience"]
+projects: [""]
 ---
 - Date: 27-28 May 2010
 

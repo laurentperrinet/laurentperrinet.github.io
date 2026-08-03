@@ -5,16 +5,16 @@ authors:
 date: 2022-09-30 00:00:00
 draft: false
 lastmod: 2022-09-30 00:00:00
-projects:
 - art-science
 title: Cristal N°2
 subtitle: Cristal N°2 - Arbre théorique / 2014
 summary: Cristal N°2 - Arbre théorique / 2014
-tags: ["visual-illusions"]
 image:
   caption: 'Crédit image : Étienne Rey'
 
-categories: ["NeuroAI & Machine Learning"]
+tags: ["visual-illusions"]
+categories: ["Education", "NeuroAI & Machine Learning"]
+projects: [""]
 ---
 # Cristal N°2 - Arbre théorique / 2014
 

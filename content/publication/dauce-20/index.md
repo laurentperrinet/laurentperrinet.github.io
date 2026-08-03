@@ -27,7 +27,6 @@ authors:
 date: 2020-06-05
 doi: 10.1167/jov.20.8.22
 featured: false
-grants:
 - spikeai
 - mesocentre
 - aprovis-3-d
@@ -44,10 +43,11 @@ links:
 publication: '*Journal of Vision*'
 publication_types:
 - article-journal
-tags: ["primary-visual-cortex", "eye-movements", "foveated-vision", "saccades", "visual-search", "neuroAI", "neuro-inspired-computing"]
 title: A dual foveal-peripheral visual processing model implements efficient saccade
   selection
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["bayesian-modelling", "eye-movements", "foveated-vision", "log-polar-mapping", "neuro-inspired-computing", "neuroAI", "primary-visual-cortex", "retinotopy", "saccades", "visual-search"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
+projects: [""]
 ---
 {{< figure src="https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true" >}}
 * for a more mathematical treatment, see {{< cite page="/publication/dauce-20-iwai" view="4" >}}

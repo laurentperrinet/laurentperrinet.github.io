@@ -4,15 +4,15 @@ authors:
 date: 2023-07-26 00:00:00
 draft: false
 featured: true
-projects:
 - tout-public
 summary: Article de dissémination sur ce que l'étrange et le paranormal peut révéler sur notre cerveau.
-tags: ["primary-visual-cortex"]
 title: 'Ce que le paranormal dit de notre cerveau'
 links:
 - name: URL
   url: https://www.epsiloon.com/tous-les-numeros/n26/ce_que_le_paranormal_dit_de_notre_cerveau/
-categories: ["NeuroAI & Machine Learning"]
+tags: ["primary-visual-cortex"]
+categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 Participation à un article de dissémination pour l'excellent magazine Epsiloon, écrit par Alexandra Pihen: qu'est-ce que qe l'étrange et le paranormal peut révéler sur notre cerveau
 

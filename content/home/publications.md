@@ -34,8 +34,10 @@ design:
   # Choose a view for the listings:
   view: list
   columns: '2'
+tags: [""]
+categories: ["Education", "Outreach & Public Engagement"]
+projects: [""]
 ---
-
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}

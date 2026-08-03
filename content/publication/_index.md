@@ -13,5 +13,7 @@ view: list
 header:
   caption: ""
   image: ""
-categories: ["Computational Neuroscience"]
+tags: [""]
+categories: ["Computational Neuroscience", "Education", "Outreach & Public Engagement"]
+projects: [""]
 ---

@@ -31,7 +31,6 @@ authors:
 date: 2007-01-01
 doi: 10.1186/1471-2202-8-S2-P2
 featured: false
-projects:
 - facets
 - open-science
 links:
@@ -41,8 +40,9 @@ publication: '*Sixteenth Annual Computational Neuroscience Meeting: CNS*2007, To
   Canada. 7--12 July 2007*'
 publication_types:
 - inproceedings
-tags: ["spiking-neural-networks", "neuromorphic-computing", "pynn", "neural-simulator", "python"]
 title: 'PyNN: towards a universal neural simulator API in Python'
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["neural-simulator", "neuromorphic-computing", "pynn", "python", "spiking-neural-networks"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * see a follow-up: {{< cite page="/publication/davison-08" view="4" >}}

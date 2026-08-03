@@ -21,6 +21,7 @@ links:
 publication: '*Mathematical image processing meeting (Marseille, France) September
   5*'
 title: Neural Codes for Adaptive Sparse Representations of Natural Images
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-tags: ["neuromorphic-computing", "primary-visual-cortex", "sparse-coding"]
+tags: ["bayesian-modelling", "neuromorphic-computing", "primary-visual-cortex", "sparse-coding"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
+projects: [""]
 ---

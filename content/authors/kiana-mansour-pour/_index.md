@@ -16,10 +16,10 @@ social:
 superuser: false
 user_groups:
 - Former Students
-categories: ["Behavioural Neuroscience"]
-tags: ["spiking-neural-networks", "visual-illusions", "motion-perception", "eye-movements"]
+tags: ["bayesian-modelling", "eye-movements", "motion-perception", "spiking-neural-networks", "visual-illusions"]
+projects: [""]
+categories: ["Behavioural Neuroscience", "Computer Vision", "Education"]
 ---
-
 # Predicting and selecting sensory events: inference for smooth eye movements (PhD: 2015 - 2019)
 
 * Funding: This position is funded by the Marie Skodowska-Curie program of the H2020 European Union program, as part of the [Innovative Training Network PACE (Perception and Action in Complex Environments)](https://laurentperrinet.github.io/grant/pace-itn/).

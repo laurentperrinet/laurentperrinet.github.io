@@ -4,7 +4,6 @@ authors:
 date: 2005-01-01
 doi: 10.1007/11550822_27
 featured: false
-projects:
 - facets
 links:
 - name: URL
@@ -12,7 +11,8 @@ links:
 publication: '*International Conference on Artificial Neural Networks*'
 publication_types:
 - inproceedings
-tags: ["spike"]
 title: Efficient Source Detection Using Integrate-and-Fire Neurons
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["spike"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

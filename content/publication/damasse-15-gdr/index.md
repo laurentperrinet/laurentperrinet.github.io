@@ -6,7 +6,6 @@ authors:
 - Anna Montagnini
 date: 2015-01-01
 featured: false
-grants:
 - anr-rem
 links:
 - name: URL
@@ -15,7 +14,8 @@ links:
 publication: '*Proceedings of GDR Vision (Lyon, France)*'
 publication_types:
 - inproceedings
-tags: ["eye-movements"]
 title: Anticipatory smooth eye movements as operant behavior
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["eye-movements"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

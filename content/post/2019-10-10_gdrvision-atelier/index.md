@@ -7,15 +7,15 @@ featured: false
 image:
   caption: ''
   focal_point: Smart
-grants:
 - spikeai
 summary: 'Le GDR Vision réunit toute la communauté française de chercheurs en vision.
   Nous aurons un atelier méthodologique le jeudi matin sur les apports possibles du
   Deep Learning pour les sciences de la vision: Utiliser l''apprentissage profond
   en vision.'
-tags: ["vision"]
 title: '2019-10-10: Atelier Utiliser l''apprentissage profond en vision'
-categories: ["NeuroAI & Machine Learning"]
+tags: ["vision"]
+categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 Date : jeudi 10 octobre de 9h30 à 12h30
 

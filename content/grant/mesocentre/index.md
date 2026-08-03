@@ -2,7 +2,6 @@
 type: page
 date: 2024-10-25
 summary: 'MesoCentre (2018/2022) : access to the HPC resources of Aix-Marseille Université.'
-tags: []
 title: MesoCentre (2018/2026)
 
 # content:
@@ -27,7 +26,6 @@ sections:
       filters:
         folders:
           - publication
-        grants: 
           - mesocentre
     design:
       view: card
@@ -53,7 +51,9 @@ sections:
 #     view: card
 
 
-categories: ["Computational Neuroscience", "Grants & Funding", "NeuroAI & Machine Learning"]
+tags: [""]
+categories: ["Computational Neuroscience", "Education", "Grants & Funding", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 In the field of neuroscience, modeling has long made it possible to validate and predict theories of information processing in the neural networks that make up the brain. The recent emergence of solutions inherited from machine learning, in particular deep learning, has changed the field since 2012. One reason for the effectiveness of these methods is the amount of data analyzed but above all the ability to teach these algorithms on dedicated architectures, including graphics cards (GPUs). Indeed, this architecture allows an algorithm to be parallelized into a multitude of simple and independent subprograms that allow speed gains of around 6x to 10x to be achieved over traditional visual information processing architectures. We are now using these architectures excessively to test new image processing models - targeting applications in both neuroscience and machine learning.  
 

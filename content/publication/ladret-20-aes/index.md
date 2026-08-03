@@ -31,7 +31,6 @@ authors:
 - Laurent U Perrinet
 date: 2020-01-01
 featured: false
-grants:
 - anr-horizontal-v1
 links:
 - name: URL
@@ -40,8 +39,9 @@ links:
 publication: '*Annals of Eye Science*'
 publication_types:
 - inproceedings
-tags: ["spiking-neural-networks", "primary-visual-cortex", "metaplasticity", "sparse-coding"]
 title: Learning dynamics in a neural network model of the primary visual cortex
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["metaplasticity", "primary-visual-cortex", "pynn", "sparse-coding", "spiking-neural-networks"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---
 * See also [Ladret and Perrinet, 2019]({{< ref "/publication/ladret-19-sfn" >}})

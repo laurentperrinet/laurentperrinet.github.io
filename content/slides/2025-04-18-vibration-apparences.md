@@ -17,10 +17,10 @@ title: 2025-04-18-vibration-apparences
 
 summary: La vibration des apparences
 
-categories: ["NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-tags: ["eye-movements", "visual-illusions", "sparse-coding"]
+tags: ["eye-movements", "sparse-coding", "visual-illusions"]
+categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: ["art-science"]
 ---
-
 <section>
 
 # [La vibration des apparences](https://laurentperrinet.github.io/slides/2025-04-18-vibration-apparences/?transition=fade)

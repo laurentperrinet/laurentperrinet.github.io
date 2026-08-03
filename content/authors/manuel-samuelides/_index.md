@@ -9,11 +9,10 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Manuel_Samuelides
-categories: ["Computational Neuroscience", "Theoretical Neuroscience"]
-tags: ["spiking-neural-networks", "sparse-coding"]
+tags: ["sparse-coding", "spiking-neural-networks"]
+projects: [""]
+categories: ["Computational Neuroscience", "Education", "Outreach & Public Engagement", "Theoretical Neuroscience"]
 ---
-
-
 Ph.D. of Mathematics, Membre de la commission des titres d'ingénieur at Institut Supérieur de l'Aéronautique et de l'Espace (ISAE).
 
 ## Collaborative publications

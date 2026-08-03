@@ -11,6 +11,7 @@ links:
 publication: '*The Rank Prize Funds, Mini-Symposium on Representations of the Visual
   World in the Brain*'
 title: What efficient code for adaptive spiking representations?
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 tags: ["spiking-neural-networks"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

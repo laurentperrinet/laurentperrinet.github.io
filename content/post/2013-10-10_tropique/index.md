@@ -5,14 +5,14 @@ authors:
 date: 2016-04-20 00:00:00
 draft: false
 lastmod: 2018-01-13 00:00:00
-projects:
 - art-science
 subtitle: Sculpture immersive.
 summary: Tropique is an immersive installation which puts in link the perception of
   the space connected to the movement, to the light and to the sound.
-tags: ["art-science", "visual-illusions"]
 title: TROPIQUE
-categories: ["Outreach & Public Engagement"]
+tags: ["art-science", "visual-illusions"]
+categories: ["Education", "Outreach & Public Engagement"]
+projects: ["art-science"]
 ---
 # TROPIQUE
 

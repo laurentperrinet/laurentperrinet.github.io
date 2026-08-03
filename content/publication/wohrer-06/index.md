@@ -7,13 +7,13 @@ authors:
 - Thierry Vieville
 date: 2006-01-01
 featured: false
-projects:
 - facets
 publication: '*Perception*'
 publication_types:
 - inproceedings
-tags: ["spiking-neural-networks", "visual-illusions"]
 title: Contrast sensitivity adaptation in a virtual spiking retina and its adequation
   with mammalians retinas
-categories: ["Computational Neuroscience"]
+tags: ["spiking-neural-networks", "visual-illusions"]
+categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
+projects: [""]
 ---

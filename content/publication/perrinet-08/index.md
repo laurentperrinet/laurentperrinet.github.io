@@ -3,14 +3,14 @@ authors:
 - Laurent U Perrinet
 date: 2008-01-01
 featured: false
-projects:
 - facets
 
 publication: '*Proceedings of COSYNE*'
 publication_types:
 - inproceedings
-tags: ["spiking-neural-networks", "sparse-coding"]
 title: What adaptive code for efficient spiking representations? A model for the formation
   of receptive fields of simple cells
-categories: ["Computational Neuroscience"]
+tags: ["sparse-coding", "spiking-neural-networks"]
+categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
+projects: [""]
 ---

@@ -7,7 +7,6 @@ authors:
 - James A Bednar
 date: 2014-01-01
 featured: false
-grants:
 - anr-bala-v1
 links:
 - name: URL
@@ -16,9 +15,10 @@ links:
 publication: '*Proceedings of COSYNE*'
 publication_types:
 - inproceedings
-tags: ["primary-visual-cortex"]
 title: Relationship between natural image statistics and lateral connectivity in the
   primary visual cortex
-categories: ["Computational Neuroscience"]
+tags: ["primary-visual-cortex"]
+categories: ["Computational Neuroscience", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---
 * see a follow-up: {{< cite page="/publication/perrinet-bednar-15" view="4" >}}

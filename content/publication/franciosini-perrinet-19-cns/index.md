@@ -5,7 +5,6 @@ authors:
 - Laurent U Perrinet
 date: 2019-01-01
 featured: false
-projects:
 - doc-2-amu
 - phd-icn
 - mesocentre
@@ -16,9 +15,10 @@ links:
 publication: '*Annual Computational Neuroscience Meeting: CNS*2019, Barcelona*'
 publication_types:
 - inproceedings
-tags: ["predictive-coding", "sparse-coding"]
 title: Modelling Complex Cells of Early Visual Cortex using Predictive Coding
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["predictive-coding", "sparse-coding"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

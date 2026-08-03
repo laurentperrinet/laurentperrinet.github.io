@@ -17,8 +17,9 @@ title: 2025-10-16-flash-lag-effect
 
 summary: Suresh Krishna's lab meeting
 
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 tags: ["motion-perception"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
 <section>
 

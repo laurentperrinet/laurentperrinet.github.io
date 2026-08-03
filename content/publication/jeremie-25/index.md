@@ -6,7 +6,6 @@ authors:
 
 date: 2026-02-23
 doi: 10.3390/vision10020017
-grants:
 - anr-anr
 links:
 - name: URL
@@ -17,9 +16,10 @@ publication: '*Vision*'
 publication_types:
 - article-journal
 publishDate: '2024-08-06T15:13:44.587984Z'
-tags: ["primary-visual-cortex", "eye-movements"]
 title: Foveated Retinotopy Improves Classification and Localization in CNNs
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["bayesian-modelling", "eye-movements", "foveated-vision", "log-polar-mapping", "primary-visual-cortex", "retinotopy"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
+projects: [""]
 ---
 {{< figure src="graphical.png" title="*Foveated Retinotopy in CNNs.* We represent Left an input image and how it is transformed by foveated retinotopy. We show below a representative reconstruction showing that it also acts as a cortical zoom on the image around the point of fixation. The transformed image is then fed to the ResNet deep learning architecture." >}}
 

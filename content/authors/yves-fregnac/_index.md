@@ -12,10 +12,10 @@ social:
 - icon: external-link-alt
   icon_pack: fas
   link: https://neuropsi.cnrs.fr/annuaire/yves-fregnac/
-categories: ["Biological Neuroscience", "NeuroAI & Machine Learning", "Computational Neuroscience"]
-tags: ["neuromorphic-computing", "primary-visual-cortex", "predictive-coding"]
+tags: ["neuromorphic-computing", "predictive-coding", "primary-visual-cortex"]
+projects: [""]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "Grants & Funding", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
 ---
-
 Yves Frégnac is Emeritus Research Director (DRCE2, Exceptional Class) at the Centre National de la Recherche Scientifique. He has been the Head of the CNRS interdisciplinary department that he founded in 1999 (UNIC : Unit of Integrative and Computational Neuroscience, which became Unit of Information and Complexity in 2011), and co-director of the CNRS Federative Institute Alfred Fessard of Neurobiology (INAF) in Gif sur Yvette. He is now Emeritus Research Director (since January 2017). He has been also Full Professor in the Department of Humanities and Social Sciences at the Ecole Polytechnique, near Paris, for the past 8 years, and continues teaching a course on « Brain and Cognition » at the Ecole Centrale-Supelec.
 
 ## Collaborative publications

@@ -17,7 +17,6 @@ authors:
 - Guillaume S Masson
 date: 2009-04-01
 featured: false
-projects:
 - facets
 links:
 - name: URL
@@ -25,7 +24,8 @@ links:
 
 publication: ''
 title: Decoding low-level neural information to track visual motion
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-tags: ["motion-perception"]
+tags: ["bayesian-modelling", "motion-perception"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
 * see this more recent talk @ [UCL, London]({{< ref "/talk/2012-01-12-vision-at-ucl/index.md" >}})

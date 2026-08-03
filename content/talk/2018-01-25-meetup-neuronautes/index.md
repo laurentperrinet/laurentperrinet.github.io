@@ -14,13 +14,13 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2018-01-25-meetup-neuronautes/
 location: Salle des voutes campus Saint Charles
-projects:
 - art-science
 - tout-public
 publication: '*Meetup Art et Neurosciences*'
-tags: ["visual-illusions"]
 title: Expériences autour de la perception de la forme en art et science
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["visual-illusions"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: ["art-science"]
 ---
 {{< figure src="https://www.proarti.fr/uploads/media/project/0001/07/thumb_6988_project_medium.png" title="Elasticité dynamique est composée des pièces Expansion, Trame et Lignes sonores. Volume hexagonal en miroir de 7 mètres de diamètre, Expansion fonctionne comme une chambre d'écho. A l'intérieur de ce volume se situe Trame. Constituée de 25 lames de miroir en rotation, cette pièce réoriente continuellement le regard. Quant à Lignes sonores, elle est formée de quatre monolithes orientés vers Expansion et émet des sons qui se réorientent en fonction du mouvement des lames. (© Etienne Rey, Adagp Paris" numbered="false" >}}
 

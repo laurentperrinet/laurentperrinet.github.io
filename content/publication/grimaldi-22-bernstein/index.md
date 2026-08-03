@@ -23,11 +23,9 @@ authors:
 - Camille Besnainou
 - Hugo Ladret
 - Laurent U Perrinet
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 date: 2022-09-11
 draft: false
 featured: false
-projects:
 - aprovis3D
 - anr-anr
 - polychronies
@@ -42,8 +40,10 @@ publication_types:
 - inproceedings
 publishDate: '2023-07-21T11:11:54.651024Z'
 subtitle: ''
-tags: ["spiking-neural-networks", "metaplasticity", "sparse-coding"]
 title: Detection of precise spiking motifs using spike-time dependent weight and delay
   plasticity
+tags: ["metaplasticity", "sparse-coding", "spiking-neural-networks"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * see a follow-up as journal paper: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}

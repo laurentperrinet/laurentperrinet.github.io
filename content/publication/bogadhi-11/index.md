@@ -32,7 +32,6 @@ authors:
 date: 2011-04-22
 doi: 10.1016/j.visres.2010.10.021
 featured: false
-projects:
 - codde
 links:
 - name: URL
@@ -41,9 +40,10 @@ links:
 publication: '*Vision research*'
 publication_types:
 - article-journal
-tags: ["visual-illusions", "motion-perception", "eye-movements"]
 title: 'Pursuing motion illusions: a realistic oculomotor framework for Bayesian inference'
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["bayesian-modelling", "eye-movements", "motion-perception", "visual-illusions"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
 ![header](bogadhi-11.png)
 * See a followup in {{< cite page="/publication/perrinet-12-pred" view="4" >}}

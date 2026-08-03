@@ -2,12 +2,10 @@
 authors:
 - Antoine Grimaldi
 - Laurent U Perrinet
-categories: ["NeuroAI & Machine Learning"]
 date: 2023-09-11
 doi: 10.1007/s00422-023-00975-8
 draft: false
 featured: false
-projects:
 - aprovis3D
 - anr-anr
 - polychronies
@@ -28,9 +26,11 @@ publication_types:
 - article-journal
 publishDate: '2022-11-17T11:15:57.021954Z'
 subtitle: ''
-tags: ["spiking-neural-networks", "neuromorphic-computing", "motion-perception", "polychrony", "spiking-motifs", "motion-detection"]
 title: Learning heterogeneous delays in a layer of spiking neurons for fast motion
   detection
+tags: ["motion-detection", "motion-perception", "neuromorphic-computing", "polychrony", "spiking-motifs", "spiking-neural-networks"]
+categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 {{< video src="2023-09-14_HDSNN_video-abstract.mp4" controls="yes" >}}
 

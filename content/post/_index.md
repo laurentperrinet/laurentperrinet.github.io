@@ -8,5 +8,7 @@ view: compact
 banner:
   caption: ''
   image: ''
-categories: []
+tags: [""]
+categories: [""]
+projects: [""]
 ---

@@ -22,7 +22,6 @@ authors:
 date: 2010-06-01
 doi: 10.1007/s10827-010-0240-9
 featured: false
-projects:
 - facets
 links:
 - name: URL
@@ -31,9 +30,10 @@ links:
 publication: '*Journal of Computational Neuroscience*'
 publication_types:
 - article-journal
-tags: ["spiking-neural-networks", "sparse-coding"]
 title: Functional consequences of correlated excitatory and inhibitory conductances
   in cortical networks
-categories: ["Computational Neuroscience"]
+tags: ["sparse-coding", "spiking-neural-networks"]
+categories: ["Computational Neuroscience", "Education", "Outreach & Public Engagement"]
+projects: [""]
 ---
 ![header](kremkow-10-jcns.png)

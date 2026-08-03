@@ -36,15 +36,15 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2020-09-25-irphe
 location: Marseille (France)
-projects:
 - aprovis-3-d
 publication: '*Séminaire à l''Institut de Recherche sur les Phénomènes Hors Équilibre
   (IRPHÉ)*'
 publication_types:
 - inproceedings
 title: Understanding natural vision using deep predictive coding
-categories: ["Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-tags: ["predictive-coding", "visual-illusions", "sparse-coding"]
+tags: ["predictive-coding", "sparse-coding", "visual-illusions"]
+categories: ["Biological Neuroscience", "Computational Neuroscience", "Computer Vision", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
 * What:: talk @ [Séminaire à l'Institut de Recherche sur les Phénomènes Hors Équilibre (IRPHÉ)](https://laurentperrinet.github.io/talk/2020-09-25-irphe)
 * Who:: Perrinet, Laurent U

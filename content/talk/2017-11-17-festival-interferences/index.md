@@ -11,14 +11,14 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2017-11-17-festival-interferences/
 location: Lyon, France
-projects:
 - tout-public
 publication: '**'
 publication_types:
 - inproceedings
 title: Participation au jury
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
 tags: ["primary-visual-cortex"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 # FESTIVAL INTERFÉRENCES​
 ## Cinéma Documentaire et Débat Public

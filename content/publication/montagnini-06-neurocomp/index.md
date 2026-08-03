@@ -23,13 +23,13 @@ authors:
 date: 2006-01-01
 doi: 10.1016/j.jphysparis.2007.10.013
 featured: false
-projects:
 - facets
 publication: '*1ère conférence francophone NEUROsciences COMPutationnelles (NeuroComp)*'
 publication_types:
 - inproceedings
-tags: ["aperture-problem", "bayesian-modeling", "visual-illusions", "motion-perception", "eye-movements"]
 title: Bayesian modeling of dynamic motion integration
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["aperture-problem", "bayesian-modeling", "eye-movements", "motion-perception", "visual-illusions"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

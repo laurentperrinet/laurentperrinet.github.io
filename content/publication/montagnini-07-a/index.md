@@ -21,7 +21,6 @@ authors:
 - Guillaume S Masson
 date: 2007-01-01
 featured: false
-projects:
 - facets-itn
 links:
 - name: URL
@@ -29,7 +28,8 @@ links:
 publication: '*Perception 36 ECVP Abstract Supplement*'
 publication_types:
 - inproceedings
-tags: ["motion-perception", "visual-illusions"]
 title: Dynamic inference for motion tracking
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["bayesian-modelling", "motion-perception", "visual-illusions"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

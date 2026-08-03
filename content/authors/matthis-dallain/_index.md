@@ -20,13 +20,14 @@ social:
 
 superuser: false
 
-tags:
 - emergences
 
 user_groups:
 - Current Students
+tags: ["bayesian-modelling", "foveated-vision", "log-polar-mapping", "retinotopy"]
+projects: [""]
+categories: ["Education", "Outreach & Public Engagement", "Visual Neuroscience"]
 ---
-
 # PhD Student (2024-10 / 2027-09): Focus of attention: a sensory-motor task for energy reduction in spiking neural networks.
 
  * a fellowship from the doctoreal school "Ecole Doctorale Sciences de la Vie et de la Santé, Aix Marseille Université"

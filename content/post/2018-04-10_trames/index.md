@@ -5,14 +5,14 @@ authors:
 date: 2016-04-20 00:00:00
 draft: false
 lastmod: 2018-01-13 00:00:00
-projects:
 - art-science
 subtitle: Installation à la Fondation Vasarely à Aix-en-Provence.
 summary: À la Fondation Vasarely à Aix-en-Provence, Étienne Rey a choisi d’installer
   dans la salle des Intégrations architectoniques un ballet visuel hypnotique.
-tags: ["visual-illusions", "eye-movements"]
 title: TRAMES
-categories: ["NeuroAI & Machine Learning"]
+tags: ["eye-movements", "visual-illusions"]
+categories: ["Education", "NeuroAI & Machine Learning"]
+projects: [""]
 ---
 # TRAMES
 

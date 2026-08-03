@@ -16,7 +16,8 @@ links:
 - name: LinkedIn
   url: https://www.linkedin.com/posts/ugcPost-7477633136114348033-Jze9
 tags: ["motion-perception", "primary-visual-cortex"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---
 🧠 Excited to share our latest research led by Alexandre Lainé and presented this summer at AREADNE 2026!
 

@@ -21,7 +21,6 @@ authors:
 - Laurent U Perrinet
 date: 2018-01-01
 featured: false
-projects:
 - doc-2-amu
 - phd-icn
 links:
@@ -33,9 +32,10 @@ links:
 publication: '*iTwist, 2018*'
 publication_types:
 - inproceedings
-tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding"]
 title: From biological vision to unsupervised hierarchical sparse coding
-categories: ["NeuroAI & Machine Learning"]
+tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding"]
+categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 1. accepted submission @ [iTWIST: international Traveling Workshop on Interactions between low-complexity data models and Sensing Techniques](https://sites.google.com/view/itwist18), 21 - 23 November​, 2018
 2. [poster session](https://sites.google.com/view/itwist18/program#h.p_9OOcrreKb--s) scheduled on Thursday, November 22th, from 10h30 till 12h00.

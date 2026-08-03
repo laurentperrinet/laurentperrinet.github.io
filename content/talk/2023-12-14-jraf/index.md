@@ -11,7 +11,6 @@ abstract: 'Event-based cameras mimic the way biological retinas process visual i
 authors:
 - Adrien Fois
 - Laurent U Perrinet
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 date: 2023-12-14 14:00:00
 draft: false
 event: Journées sur l'apprentissage frugal (JRAF)
@@ -26,7 +25,6 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2023-12-14-jraf
 location: Grenoble (France)
-projects:
 - computational neuroscience
 - event-based vision
 - neuromorphic hardware
@@ -35,8 +33,10 @@ publication_types:
 publishDate: '2023-12-01T09:59:44.385734Z'
 slides: 2023-12-14-jraf
 subtitle: '*Journées sur l''apprentissage frugal (JRAF)*'
-tags: ["neuromorphic-computing", "motion-perception"]
 title: Event-based vision
+tags: ["motion-perception", "neuromorphic-computing"]
+categories: ["Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * Journées sur l'apprentissage frugal (JRAF) 
 * 13-14 décembre 2023

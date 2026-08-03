@@ -28,7 +28,6 @@ authors:
 date: 2016-01-22
 doi: 10.1152/jn.00194.2015
 featured: false
-grants:
 - anr-bala-v1
 - brain-scales
 links:
@@ -40,7 +39,8 @@ links:
 publication: '*Journal of Neurophysiology*'
 publication_types:
 - article-journal
-tags: ["spiking-neural-networks", "primary-visual-cortex"]
 title: Testing the odds of inherent vs. observed overdispersion in neural spike counts
-categories: ["Biological Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["bayesian-modelling", "primary-visual-cortex", "spiking-neural-networks"]
+categories: ["Biological Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

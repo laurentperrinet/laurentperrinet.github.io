@@ -15,7 +15,6 @@ authors:
 date: 2016-10-01
 doi: 10.1109/EUVIP.2016.7764592
 featured: false
-grants:
 - anr-bala-v1
 links:
 - name: Code
@@ -28,7 +27,8 @@ links:
 publication: '*2016 6th European Workshop on Visual Information Processing (EUVIP)*'
 publication_types:
 - inproceedings
-tags: ["primary-visual-cortex", "sparse-coding"]
 title: Biologically-inspired characterization of sparseness in natural images
-categories: ["Biological Neuroscience"]
+tags: ["primary-visual-cortex", "sparse-coding"]
+categories: ["Biological Neuroscience", "Education", "Outreach & Public Engagement"]
+projects: [""]
 ---

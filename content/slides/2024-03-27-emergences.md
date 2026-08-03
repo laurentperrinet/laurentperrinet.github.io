@@ -17,10 +17,10 @@ title: 2024-03-27-emergences.md
 
 summary: "Analyser de larges volumes de données neurobiologiques : modèles émergents bio-inspirés, a Seminar at *the Emergences workshop, Autrans, France*"
 
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-tags: ["motion-perception", "neuromorphic-computing", "visual-illusions", "spiking-neural-networks", "primary-visual-cortex"]
+tags: ["motion-perception", "neuromorphic-computing", "primary-visual-cortex", "spiking-neural-networks", "visual-illusions"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
-
 <section>
 
 ### [Analyser de larges volumes de données neurobiologiques](https://laurentperrinet.github.io/slides/2024-03-27-emergences/?transition=fade)

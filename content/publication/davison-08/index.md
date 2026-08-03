@@ -30,21 +30,20 @@ authors:
 date: 2008-01-01
 doi: 10.3389/neuro.11.011.2008
 featured: false
-grants:
 - facets
 links:
 - name: URL
   url: https://doi.org/10.3389/neuro.11.011.2008
 - name: HAL
   url: https://hal.science/hal-00586786
-projects:
 - open-science
 publication: '*Frontiers in Neuroinformatics*'
 publication_types:
 - article-journal
-tags: ["spiking-neural-networks", "neuromorphic-computing", "pynn", "neural-simulation"]
 title: 'PyNN: A Common Interface for Neuronal Network Simulators'
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["neural-simulation", "neuromorphic-computing", "pynn", "spiking-neural-networks"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 **PyNN** is a simulator-independent language for building neuronal network models using {{< icon name="python" pack="fab" >}} Python.
 * [Web-site](https://neuralensemble.github.io/PyNN/)

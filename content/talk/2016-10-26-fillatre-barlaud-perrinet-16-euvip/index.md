@@ -19,9 +19,10 @@ links:
 location: Ecole Centrale Marseille
 publication: '*EUVIP (Special Session): Biologically Inspired Computer Vision - October
   16th, 2016*'
-tags: ["vision"]
 title: Categorization of microscopy images using a biologically inspired edge co-occurrences
   descriptor
-categories: ["Computational Neuroscience"]
+tags: ["vision"]
+categories: ["Computational Neuroscience", "Computer Vision", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * See a followup in {{< cite page="/publication/perrinet-bednar-15" view="1" >}}

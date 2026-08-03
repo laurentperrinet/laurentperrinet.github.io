@@ -30,13 +30,13 @@ authors:
 - Guillaume S Masson
 date: 2005-01-01
 featured: false
-projects:
 - facets
 publication: '*Perception*'
 publication_types:
 - inproceedings
-tags: ["visual-illusions", "motion-perception", "eye-movements"]
 title: 'Dynamics of motion representation in short-latency ocular following: A two-pathways
   Bayesian model'
-categories: ["Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["eye-movements", "motion-perception", "visual-illusions"]
+categories: ["Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

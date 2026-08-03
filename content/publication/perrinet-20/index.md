@@ -29,7 +29,6 @@ authors:
 date: 2020-01-01
 doi: 10.5040/9781350099784.ch-005
 featured: false
-grants:
 - anr-horizontal-v1
 - spikeai
 links:
@@ -42,10 +41,11 @@ links:
 publication: '*The Philosophy and Science of Predictive Processing*'
 publication_types:
 - inbook
-tags: ["predictive-coding", "motion-perception", "primary-visual-cortex"]
 title: 'From the retina to action: Dynamics of predictive processing in the visual
   system'
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["bayesian-modelling", "foveated-vision", "log-polar-mapping", "motion-perception", "predictive-coding", "primary-visual-cortex", "retinotopy"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
+projects: [""]
 ---
  * Find the text at https://laurentperrinet.github.io/Perrinet20PredictiveProcessing/
  * The source code of the text is available at https://github.com/laurentperrinet/Perrinet20PredictiveProcessing

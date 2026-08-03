@@ -9,8 +9,9 @@ draft: false
 lastmod: '2024-05-15T09:00:00'
 subtitle: 'Antoine Grimaldi (Equipe NeOpTo) a soutenu sa thèse de doctorat le Jeudi 16 mai à 15h'
 summary: 'Antoine Grimaldi (Equipe NeOpTo) a soutenu sa thèse de doctorat intitulée: *Neural computations with precise spiking motifs for dynamic vision* le Jeudi 16 mai à 15h'
-tags: ["spiking-neural-networks", "neuromorphic-computing", "motion-perception"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["motion-perception", "neuromorphic-computing", "spiking-neural-networks"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Education", "NeuroAI & Machine Learning"]
+projects: [""]
 ---
 # "Neural computations with precise spiking motifs for dynamic vision" Soutenance de thèse Antoine Grimaldi
 

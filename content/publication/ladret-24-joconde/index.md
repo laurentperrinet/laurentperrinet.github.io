@@ -6,7 +6,6 @@ date: 2024-08-25
 links:
 - name: URL
   url: https://www.cerveauetpsycho.fr/sd/neurobiologie/le-mystere-de-la-joconde-elucide-par-les-neurosciences-26605.php
-grants:
 - anr-anr
 - art-science
 - tout-public
@@ -16,7 +15,9 @@ publication_types:
 publishDate: '2024-08-25T16:51:26.346012Z'
 title: Le mystère de la Joconde éclairé par les neurosciences
 doi: 10.3917/cerpsy.168.0030
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: [""]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * sur Radio Canada, par Sonia Lupien : Les neurones de la Joconde : Les neurones de la Joconde (Émission ICI Première  •  Pénélope - 12 novembre 2024) https://ici.radio-canada.ca/ohdio/premiere/emissions/penelope/segments/rattrapage/1910587/sonia-lupien-neurones-joconde
 * https://www.cerveauetpsycho.fr/sd/neurobiologie/le-mystere-de-la-joconde-elucide-par-les-neurosciences-26605.php

@@ -5,11 +5,9 @@ authors:
 date: 2021-10-03 00:00:00
 draft: false
 lastmod: 2021-10-03 00:00:00
-projects:
 - art-science
 subtitle: Horizon Faille @ interstices, Caen, 2021
 summary: Horizon Faille @ interstices, Orangerie du jardin des plantes, Caen, 2021.
-tags: ["art-science"]
 title: Horizon Faille @ interstices
 image:
   caption: 'Crédit image : Étienne Rey'
@@ -37,7 +35,9 @@ gallery_item:
   image: DJI_20211005_122145_287.JPG
   caption: 'Trames (microscopique). Crédit image : Étienne Rey'
 
-categories: ["NeuroAI & Machine Learning"]
+tags: ["art-science"]
+categories: ["Education", "NeuroAI & Machine Learning"]
+projects: ["art-science"]
 ---
 # Horizon Faille
 

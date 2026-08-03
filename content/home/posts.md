@@ -36,4 +36,7 @@ design:
   view: compact
   columns: 1
 
+tags: [""]
+categories: ["Education", "Outreach & Public Engagement"]
+projects: [""]
 ---

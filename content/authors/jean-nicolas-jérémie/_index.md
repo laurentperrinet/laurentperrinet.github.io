@@ -26,10 +26,10 @@ superuser: false
 
 user_groups:
 - Former Students
-categories: ["NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-tags: ["log-polar", "retinotopy", "neuromorphic-computing", "event-based-vision", "active-vision", "deep-learning"]
+tags: ["active-vision", "bayesian-modelling", "deep-learning", "event-based-vision", "foveated-vision", "log-polar", "log-polar-mapping", "neuromorphic-computing", "retinotopy"]
+projects: [""]
+categories: ["Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
 ---
-
 # PhD Student (2021-10 / 2025-10): Bio-mimetic agile aerial robots flying in real-life conditions
 
  * this fellowship is part of the [AgileNeuRobot project](https://laurentperrinet.github.io/grant/anr-anr/)

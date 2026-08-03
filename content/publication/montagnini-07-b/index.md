@@ -29,7 +29,6 @@ authors:
 - Guillaume S Masson
 date: 2007-01-01
 featured: false
-projects:
 - facets-itn
 links:
 - name: URL
@@ -37,7 +36,8 @@ links:
 publication: '*Journal of Vision*'
 publication_types:
 - inproceedings
-tags: ["motion-perception", "eye-movements"]
 title: 'Visual tracking of ambiguous moving objects: A recursive Bayesian model'
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["bayesian-modelling", "eye-movements", "motion-perception"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

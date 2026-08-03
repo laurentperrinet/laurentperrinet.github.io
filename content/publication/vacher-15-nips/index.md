@@ -6,7 +6,6 @@ authors:
 - Gabriel Peyré
 date: 2015-01-01
 featured: false
-grants:
 - anr-speed
 links:
 - name: Pdf
@@ -19,9 +18,10 @@ links:
 publication: '*Advances in Neural Information Processing Systems*'
 publication_types:
 - article-journal
-tags: ["motion-perception", "visual-illusions"]
 title: Biologically Inspired Dynamic Textures for Probing Motion Perception
-categories: ["Computational Neuroscience"]
+tags: ["motion-perception", "visual-illusions"]
+categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * Talk @ NeurIPS: https://neurips.cc/Conferences/2015/Schedule?showEvent=5418
 * See a followup in {{< cite page="/publication/vacher-16" view="4" >}}

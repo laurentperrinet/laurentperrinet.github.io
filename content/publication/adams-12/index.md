@@ -31,9 +31,10 @@ links:
 publication: '*PLoS ONE*'
 publication_types:
 - article-journal
-tags: ["predictive-coding", "motion-perception", "eye-movements"]
 title: 'Smooth Pursuit and Visual Occlusion: Active Inference and Oculomotor Control
   in Schizophrenia'
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Clinical Neuroscience"]
+tags: ["bayesian-modelling", "eye-movements", "motion-perception", "predictive-coding"]
+categories: ["Behavioural Neuroscience", "Clinical Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 ![header](adams-12.png)

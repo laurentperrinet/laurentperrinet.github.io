@@ -37,13 +37,13 @@ authors:
 - Guillaume S Masson
 date: 2008-01-01
 featured: false
-projects:
 - facets-itn
 publication: '*Proceedings of AREADNE, 2008*'
 publication_types:
 - inproceedings
-tags: ["motion-perception", "visual-illusions"]
 title: Decoding the population dynamics underlying ocular following response using
   a probabilistic framework
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["bayesian-modelling", "motion-perception", "visual-illusions"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---

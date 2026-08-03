@@ -4,9 +4,10 @@ summary: Analog PROcessing of bioinspired VIsion Sensors for 3D reconstruction (
 authors:  
 - jean-martinet
 - laurent-u-perrinet
-tags: ["spiking-neural-networks", "neuromorphic-computing"]
 title: 'APROVIS3D (2019/2023)'
-categories: ["Computational Neuroscience", "Grants & Funding", "NeuroAI & Machine Learning"]
+tags: ["neuromorphic-computing", "spiking-neural-networks"]
+categories: ["Computational Neuroscience", "Computer Vision", "Education", "Grants & Funding", "NeuroAI & Machine Learning"]
+projects: [""]
 ---
 * Le projet APROVIS3D est lauréat de l'[appel à projets 2018 *CHIST-ERA*](http://www.chistera.eu/projects/aprovis3d) :
 

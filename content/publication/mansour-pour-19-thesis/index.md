@@ -29,6 +29,7 @@ abstract: Nous avons expliqué comment le système visuel intègre les informati
 links:
 - name: URL
   url: https://theses.fr/2019AIXM0137
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
-tags: ["aperture-problem", "bayesian-modeling", "predictive-coding", "motion-perception", "visual-illusions"]
+tags: ["aperture-problem", "bayesian-modeling", "motion-perception", "predictive-coding", "visual-illusions"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

@@ -25,7 +25,6 @@ authors:
 date: 2019-04-05 15:45:00
 event: CausaL Kick-off
 featured: false
-grants:
 - anr-causal
 links:
 - name: Slides
@@ -41,8 +40,9 @@ publication_types:
 - inproceedings
 title: Should I stay or should I go? Adaption of human observers to the volatility
   of visual inputs
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
-tags: ["motion-perception", "eye-movements"]
+tags: ["bayesian-modelling", "eye-movements", "motion-perception"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="1" >}}
 * previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})

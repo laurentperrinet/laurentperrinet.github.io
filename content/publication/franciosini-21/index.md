@@ -23,7 +23,6 @@ authors:
 date: 2022-07-18
 doi: 10.1371/journal.pcbi.1010270
 featured: true
-grants:
 - anr-horizontal-v1
 - doc-2-amu
 - phd-icn
@@ -37,10 +36,11 @@ links:
 publication: '*PLoS Computational Biology*'
 publication_types:
 - article-journal
-tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding"]
 title: Pooling in a predictive model of V1 explains functional and structural diversity
   across species
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
+projects: [""]
 ---
 ![](@laurentperrinet_1555506825289662466_tweetcapture.png)
 

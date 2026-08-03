@@ -39,7 +39,6 @@ date: 2012-01-24 13:00:00
 event: A seminar from the Institute for Adaptive and Neural Computation (ANC)
 event_url: http://www.anc.ed.ac.uk/events/anc-dtc-seminar-laurent-perrinet
 featured: false
-grants:
 - brain-scales
 links:
 - name: Conference
@@ -52,7 +51,8 @@ location: Room IF 4.31/4.33, Institute for Adaptive and Neural Computation (ANC)
 publication: '*A  seminar from the Institute for Adaptive and Neural Computation (ANC)*'
 title: 'Edge statistics in natural images versus laboratory animal environments: implications
   for understanding lateral connectivity in V1'
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
-tags: ["primary-visual-cortex", "sparse-coding"]
+tags: ["bayesian-modelling", "primary-visual-cortex", "sparse-coding"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---
 * See a followup in {{< cite page="/publication/perrinet-bednar-15" view="1" >}}

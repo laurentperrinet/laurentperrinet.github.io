@@ -17,13 +17,11 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: Smart
 math: true
-projects:
 - internal-project
 publication: ''
 publication_short: In *ICMEW*
 publication_types:
 - article-journal
-tags: ["visual-illusions", "motion-perception", "sparse-coding"]
 title: template
 url_code: '#'
 url_custom:
@@ -40,6 +38,8 @@ url_slides: '#'
 url_source: '#'
 url_video: '#'
 publishDate: '2020-12-12T13:31:46.868407Z'
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["motion-perception", "sparse-coding", "visual-illusions"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

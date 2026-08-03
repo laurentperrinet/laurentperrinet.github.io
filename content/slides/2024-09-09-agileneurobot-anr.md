@@ -17,8 +17,9 @@ title: 2024-09-09-agileneurobot-anr
 summary: "Robots aériens agiles bio-mimetiques pour le vol en conditions réelles: Enjeux pour l'IA embarqué"
 
 # printing = https://revealjs.com/pdf-export/
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-tags: ["spiking-neural-networks", "neuromorphic-computing", "visual-illusions", "eye-movements"]
+tags: ["eye-movements", "neuromorphic-computing", "spiking-neural-networks", "visual-illusions"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
 <section>
 

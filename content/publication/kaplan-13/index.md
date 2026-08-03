@@ -21,7 +21,6 @@ authors:
 date: 2013-09-17
 doi: 10.3389/fncom.2013.00112
 featured: false
-projects:
 - facets-itn
 links:
 - name: URL
@@ -30,10 +29,11 @@ links:
 publication: '*Frontiers in Computational Neuroscience*'
 publication_types:
 - article-journal
-tags: ["predictive-coding", "spiking-neural-networks", "primary-visual-cortex", "motion-perception"]
 title: Anisotropic connectivity implements motion-based prediction in a spiking neural
   network
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["bayesian-modelling", "foveated-vision", "log-polar-mapping", "motion-perception", "predictive-coding", "primary-visual-cortex", "retinotopy", "spiking-neural-networks"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}
 * see  follow-up on motion extrapolation: {{< cite page="/publication/khoei-13-jpp" view="4" >}}

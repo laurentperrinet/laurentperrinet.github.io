@@ -20,14 +20,14 @@ authors:
 date: 2012-01-27
 event: Brain meeting at FIL, London - Friday, January 27th, 2012
 featured: false
-grants:
 - brain-scales
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2012-01-27-fil/
 
 publication: '*Brain meeting at FIL, London - Friday, January 27th, 2012*'
-tags: ["motion-perception", "eye-movements"]
 title: Grabbing, tracking and sniffing as models for motion detection and eye movements
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["eye-movements", "motion-perception"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

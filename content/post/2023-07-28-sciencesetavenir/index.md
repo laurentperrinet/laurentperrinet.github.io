@@ -4,14 +4,14 @@ authors:
 date: 2023-07-28 00:00:00
 draft: false
 featured: true
-projects:
 - tout-public
-tags: ["visual-illusions"]
 title: 'Comment notre cerveau fait-il face à l’incertitude ?'
 links:
 - name: URL
   url: https://www.sciencesetavenir.fr/sante/cerveau-et-psy/l-incertitude-est-dans-notre-tete-litteralement_172883
-categories: ["NeuroAI & Machine Learning"]
+tags: ["visual-illusions"]
+categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 Participation à un article de dissémination pour le magazine en ligne Sciences & Avenir, écrit par Alice Carliez: Comment notre cerveau fait-il face à l’incertitude ?
 

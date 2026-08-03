@@ -32,7 +32,6 @@ authors:
 date: 2014-08-22
 doi: 10.1167/14.10.491
 featured: false
-grants:
 - anr-speed
 links:
 - name: URL
@@ -41,7 +40,8 @@ links:
 publication: '*Journal of Vision*'
 publication_types:
 - inproceedings
-tags: ["visual-illusions", "motion-perception", "eye-movements"]
 title: 'Beyond simply faster and slower: exploring paradoxes in speed perception'
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["eye-movements", "motion-perception", "visual-illusions"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

@@ -9,7 +9,6 @@ publication_types:
 publication: '*arXiv preprint arXiv:2604.14096*'
 draft: false
 
-tags: ["spiking-neural-networks", "neuromorphic-computing"]
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-26
@@ -17,7 +16,9 @@ links:
   url: http://arxiv.org/abs/2604.14096
 - name: Code
   url: https://github.com/laurentperrinet/MNESIS
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["neuromorphic-computing", "spiking-neural-networks"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * See the accompanying code: https://github.com/laurentperrinet/MNESIS
 * see a related presentation: {{< cite page="/talk/2026-04-16-cerco" view="4" >}}

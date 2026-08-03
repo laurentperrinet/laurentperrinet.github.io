@@ -31,7 +31,6 @@ authors:
 date: 2016-11-03
 event: GDR Vision, Toulouse, Nov 3rd, 2016
 featured: false
-grants:
 - anr-rem
 - pace-itn
 links:
@@ -40,6 +39,7 @@ links:
 
 publication: '*GDR Vision, Toulouse, Nov 3rd, 2016*'
 title: Reinforcement contingencies modulate anticipatory smooth eye movements
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
-tags: ["motion-perception", "eye-movements"]
+tags: ["eye-movements", "motion-perception"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

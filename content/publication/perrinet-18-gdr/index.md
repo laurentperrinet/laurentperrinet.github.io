@@ -19,7 +19,6 @@ authors:
 - Laurent U Perrinet
 date: 2018-01-01
 featured: false
-projects:
 - pace-itn
 links:
 - name: Pdf
@@ -30,9 +29,10 @@ links:
 publication: '*GDR Vision, Paris, 2018*'
 publication_types:
 - inproceedings
-tags: ["visual-illusions", "motion-perception", "eye-movements"]
 title: A low-cost, accessible eye tracking framework
-categories: ["NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["eye-movements", "motion-perception", "visual-illusions"]
+categories: ["Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
  - poster presented @ [[https://gdrvision2018.sciencesconf.org/|GDR vision, Paris]].
  - program : https://gdrvision2018.sciencesconf.org/data/pages/posters_GDRVision2018.pdf

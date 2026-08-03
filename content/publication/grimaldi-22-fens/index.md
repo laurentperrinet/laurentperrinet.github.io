@@ -2,11 +2,9 @@
 authors:
 - Antoine Grimaldi
 - Laurent U Perrinet
-categories: ["NeuroAI & Machine Learning"]
 date: 2022-07-12
 draft: false
 featured: false
-projects:
 - aprovis3D
 image:
   caption: ''
@@ -22,8 +20,10 @@ publication_types:
 - inproceedings
 publishDate: '2022-06-16T11:51:41.890310Z'
 subtitle: ''
-tags: ["spiking-neural-networks", "neuromorphic-computing", "motion-perception"]
 title: Learning heterogeneous delays of spiking neurons for motion detection
+tags: ["motion-perception", "neuromorphic-computing", "spiking-neural-networks"]
+categories: ["NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 ![](@laurentperrinet_1546471536571342849_tweetcapture.png)
 * for a follow-up, check out {{< cite page="/publication/grimaldi-22-icip" view="4" >}}

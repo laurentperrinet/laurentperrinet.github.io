@@ -36,14 +36,14 @@ social:
   link: https://scholar.google.com/citations?user=Z-YF5FsAAAAJ
 
 superuser: false
-tags:
 - doc-2-amu
-grants:
 - anr-horizontal-v1
 user_groups:
 - Former Students
+tags: [""]
+projects: [""]
+categories: ["Computer Vision", "Education", "Grants & Funding", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
 ---
-
 Vicotr obtained a PhD in the Institute of Neuroscience of Marseille, at the Aix-Marseille university. My PhD was supervised by Laurent U Perrinet. He did his post-doc with Thomas Serre at ANITI (Toulouse, France) & Brown University (Boston, USA). He is now a permanent CNRS researcher (CR) at Cerco, Toulouse, France.
 
 # Controlling an aerial robot by human semaphore gestures using a bio-inspired neural network (PhD, 12/2016 - 02/2020)

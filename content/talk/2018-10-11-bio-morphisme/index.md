@@ -12,15 +12,15 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/sciblog/files/2018-10-11_BioMorphisme.html
 location: Marseille, France
-projects:
 - courses
 - tout-public
 publication: '**'
 publication_types:
 - inproceedings
 title: La modélisation biomorphique de la perception visuelle
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
 tags: ["visual-illusions"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 ## in "La modélisation de la genèse physico-mathématique du vivant"
 ## BIOMORPHISME ET CREATION ARTISTIQUE – Session 3

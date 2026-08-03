@@ -37,15 +37,15 @@ authors:
 - Ad M Aertsen
 date: 2009-01-01
 featured: false
-projects:
 - facets
 
 publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'
 publication_types:
 - inproceedings
-tags: ["spiking-neural-networks"]
 title: Functional consequences of correlated excitation and inhibition on single neuron
   integration and signal propagation through synfire chains
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["spiking-neural-networks"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publication/kremkow-10-jcns/index.md" >}})

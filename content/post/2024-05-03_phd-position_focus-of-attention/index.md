@@ -12,8 +12,9 @@ image:
   preview_only: false
 lastmod: 2024-05-03 09:00:00
 
-tags: ["neuromorphic-computing", "visual-illusions", "predictive-coding", "spiking-neural-networks", "primary-visual-cortex", "eye-movements"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["bayesian-modelling", "deep-learning", "eye-movements", "foveated-vision", "log-polar-mapping", "neuromorphic-computing", "predictive-coding", "primary-visual-cortex", "retinotopy", "spiking-neural-networks", "visual-illusions"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---
 Dear colleagues,
 

@@ -35,4 +35,7 @@ design:
   view: citation
   columns: 1
 
+tags: [""]
+categories: ["Education", "Outreach & Public Engagement"]
+projects: [""]
 ---

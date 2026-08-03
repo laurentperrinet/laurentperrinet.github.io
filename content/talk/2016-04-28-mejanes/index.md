@@ -17,7 +17,6 @@ date: 2016-04-28 18:30:00
 event: Cycle de conférences \"Tous connectés\", Bibliothèque de Méjanes
 event_url: ''
 featured: false
-projects:
 - tout-public
 links:
 - name: URL
@@ -27,8 +26,9 @@ publication: '**'
 publication_types:
 - inproceedings
 title: Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
 tags: ["visual-illusions"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: ["tout-public"]
 ---
 # Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
 ## Cycle de conférences "Tous connectés", Bibliothèque de Méjanes

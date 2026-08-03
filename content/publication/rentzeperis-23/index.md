@@ -4,12 +4,10 @@ authors:
 - Luca Calatroni
 - Laurent U Perrinet
 - Dario Prandi
-categories: ["Computational Neuroscience"]
 date: 2023-09-12
 doi: 10.1371/journal.pcbi.1011459
 draft: false
 featured: false
-grants:
 - anr-runbinvase
 image:
   caption: ''
@@ -25,7 +23,9 @@ publication_types:
 publishDate: '2022-06-16T11:51:41.890310Z'
 show_authors_only: false
 subtitle: ''
-tags: ["primary-visual-cortex", "sparse-coding"]
 title: Beyond $\ell_1$ sparse coding in V1
+tags: ["primary-visual-cortex", "sparse-coding"]
+categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * Follows {{< cite page="/publication/rentzeperis-22-areadne" view="4" >}}

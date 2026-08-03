@@ -27,15 +27,15 @@ authors:
 - Laurent U Perrinet
 date: 2015-01-01
 featured: false
-grants:
 - anr-bala-v1
 - brain-scales
 
 publication: '*ICMNS 2015 conference*'
 publication_types:
 - inproceedings
-tags: ["spiking-neural-networks", "primary-visual-cortex"]
 title: On overdispersion in neuronal evoked activity
-categories: ["Biological Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["bayesian-modelling", "primary-visual-cortex", "spiking-neural-networks"]
+categories: ["Biological Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * see a follow-up in this [publication]({{< ref "/publication/taouali-16" >}})

@@ -29,17 +29,16 @@ authors:
 - Andrew P Davison
 date: 2009-01-01
 featured: false
-grants:
 - brain-scales
 - facets
 - facets-itn
-projects:
 - open-science
 publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'
 publication_types:
 - inproceedings
-tags: ["spiking-neural-networks", "neuromorphic-computing"]
 title: 'NeuralEnsemble: Towards a meta-environment for network modeling and data analysis'
-categories: ["Biological Neuroscience", "Computational Neuroscience"]
+tags: ["neuromorphic-computing", "pynn", "spiking-neural-networks"]
+categories: ["Biological Neuroscience", "Computational Neuroscience", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * see a follow-up: {{< cite page="/publication/davison-08" view="4" >}}

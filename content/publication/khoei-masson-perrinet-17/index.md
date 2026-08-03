@@ -32,7 +32,6 @@ authors:
 date: 2017-01-26
 doi: 10.1371/journal.pcbi.1005068
 featured: true
-projects:
 - facets-itn
 links:
 - name: Press
@@ -48,9 +47,10 @@ publication: '*PLoS Computational Biology*'
 publication_types:
 - article-journal
 slides: 2022-11-21_flash-lag-effect
-tags: ["motion-perception", "primary-visual-cortex", "visual-illusions"]
 title: The flash-lag effect as a motion-based predictive shift
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["bayesian-modelling", "foveated-vision", "log-polar-mapping", "motion-perception", "primary-visual-cortex", "retinotopy", "visual-illusions"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
+projects: [""]
 ---
 * [Press release](https://www.insb.cnrs.fr/fr/cnrsinfo/illusions-visuelles-leur-origine-est-dans-la-prediction)
 # Visual illusions: their origin lies in prediction

@@ -16,8 +16,9 @@ title: 2023-05-10-phd-program_neurosciences-computationnelles.md
 
 summary: Interactions between machine learning, artificial neural networks and our understanding of biological vision
 
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-tags: ["motion-perception", "neuromorphic-computing", "sparse-coding", "predictive-coding", "visual-illusions", "spiking-neural-networks", "primary-visual-cortex"]
+tags: ["deep-learning", "motion-perception", "neuromorphic-computing", "predictive-coding", "primary-visual-cortex", "sparse-coding", "spiking-neural-networks", "visual-illusions"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
+projects: [""]
 ---
 <section>
 

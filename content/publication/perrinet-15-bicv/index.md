@@ -20,7 +20,6 @@ authors:
 date: 2015-11-01
 doi: 10.1002/9783527680863.ch14
 featured: false
-grants:
 - brain-scales
 links:
 - name: Code
@@ -32,8 +31,9 @@ links:
 publication: '*Biologically Inspired Computer Vision*'
 publication_types:
 - inbook
-tags: ["primary-visual-cortex", "sparse-coding"]
 title: Sparse Models for Computer Vision
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["bayesian-modelling", "primary-visual-cortex", "sparse-coding"]
+categories: ["Behavioural Neuroscience", "Computer Vision", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
 * Appeared in this book: {{< cite page="/publication/cristobal-perrinet-keil-15-bicv" view="4" >}}

@@ -18,8 +18,9 @@ title: 2026-06-18-topo-neurocomp
 summary: Topo Neurosciences Computationnelles
 
 tags: ["motion-perception", "visual-illusions"]
+categories: ["Education", "Outreach & Public Engagement"]
+projects: ["art-science", "tout-public"]
 ---
-
 <section>
 
 # [Topo Neurosciences Computationnelles](https://laurentperrinet.github.io/slides/2026-06-18-topo-neurocomp/?transition=fade)

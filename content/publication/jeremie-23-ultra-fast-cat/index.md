@@ -27,12 +27,10 @@ abstract: 'Humans are able to robustly categorize images and can, for instance, 
 authors:
 - Jean-Nicolas Jérémie
 - Laurent U Perrinet
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 date: 2023-03-21
 doi: 10.3390/vision7020029
 draft: false
 featured: false
-projects:
 - aprovis3D
 - anr-anr
 image:
@@ -47,8 +45,10 @@ links:
 publication: '*Vision*'
 publication_types:
 - article-journal
-tags: ["classification", "deep-learning", "efficient-coding", "psychophysics", "ultra-fast-categorization"]
 title: Ultra-Fast Image Categorization in biology and in neural models
+tags: ["classification", "deep-learning", "efficient-coding", "psychophysics", "ultra-fast-categorization"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
 {{< video src="Jeremie-etal-Vision_video-abstract.mp4" controls="yes" >}}
  * read the paper [online](https://www.mdpi.com/2411-5150/7/2/29) or in [PDF](https://www.mdpi.com/2411-5150/7/2/29/pdf)

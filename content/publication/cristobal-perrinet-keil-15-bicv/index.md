@@ -29,7 +29,6 @@ authors:
 date: 2015-10-07
 doi: 10.1002/9783527680863
 featured: true
-grants:
 - brain-scales
 links:
 - name: Code
@@ -39,9 +38,10 @@ links:
 publication: ''
 publication_types:
 - book
-tags: ["neuromorphic-computing"]
 title: Biologically Inspired Computer Vision
-categories: ["Computational Neuroscience", "Computer Vision"]
+tags: ["neuromorphic-computing"]
+categories: ["Computational Neuroscience", "Computer Vision", "Education", "Outreach & Public Engagement"]
+projects: [""]
 ---
 {{< figure src="header.jpg" title="Biologically Inspired Computer vision" >}}
 # Biologically Inspired Computer Vision

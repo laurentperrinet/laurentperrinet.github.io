@@ -30,7 +30,6 @@ authors:
 date: 2008-02-01
 doi: 10.1016/j.visres.2007.10.020
 featured: false
-projects:
 - facets
 links:
 - name: URL
@@ -39,8 +38,9 @@ links:
 publication: '*Vision research*'
 publication_types:
 - article-journal
-tags: ["motion-perception", "eye-movements"]
 title: Dynamics of distributed 1D and 2D motion representations for short-latency
   ocular following
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["bayesian-modelling", "eye-movements", "motion-perception"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

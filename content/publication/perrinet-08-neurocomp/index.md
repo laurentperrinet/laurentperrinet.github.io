@@ -4,7 +4,6 @@ authors:
 - Emmanuel Daucé
 date: 2008-10-01
 featured: false
-projects:
 - facets-itn
 links:
 - name: URL
@@ -12,8 +11,9 @@ links:
 publication: '*Proceedings of NeuroComp08, Marseille*'
 publication_types:
 - book
-tags: ["computational-neuroscience"]
 title: Proceedings of the second french conference on Computational Neuroscience,
   Marseille
-categories: ["Computational Neuroscience"]
+tags: ["computational-neuroscience"]
+categories: ["Computational Neuroscience", "Education", "Outreach & Public Engagement"]
+projects: [""]
 ---

@@ -28,7 +28,6 @@ links:
   url: https://github.com/NaturalPatterns/2017-10-12_GDR/raw/master/2017-10-12_PerrinetRey2017poster.pdf
 - name: Code
   url: https://github.com/NaturalPatterns/2017-10-12_GDR
-grants:
 - anr-rem
 - pace-itn
 - art-science
@@ -36,9 +35,10 @@ grants:
 publication: '*GDR Vision, Lille, 2017*'
 publication_types:
 - inproceedings
-tags: ["motion-perception", "visual-illusions"]
 title: Expériences autour de la perception de la forme en art et science
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["motion-perception", "visual-illusions"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: ["art-science"]
 ---
 # Expériences autour de la perception de la forme en art et science
 La vision utilise un faisceau d'informations de différentes qualités pour atteindre une perception unifiée du monde environnant. Nous avons utilisé lors de plusieurs projets art-science (voir https://github.com/NaturalPatterns) des installations permettant de manipuler explicitement des composantes de ce flux d'information et de révéler des ambiguités dans notre perception.

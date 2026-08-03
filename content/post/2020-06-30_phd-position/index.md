@@ -14,8 +14,9 @@ image:
 lastmod: 2020-06-30 09:00:00
 
 
-tags: ["neuromorphic-computing", "sparse-coding", "predictive-coding", "visual-illusions", "spiking-neural-networks", "primary-visual-cortex"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["neuromorphic-computing", "predictive-coding", "primary-visual-cortex", "sparse-coding", "spiking-neural-networks", "visual-illusions"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---
 {{% callout warning %}}
 THE POSITION HAS BEEN FILLED.

@@ -32,7 +32,6 @@ authors:
 date: 2012-08-01
 doi: 10.1167/11.11.749
 featured: false
-projects:
 - codde
 links:
 - name: URL
@@ -41,8 +40,9 @@ links:
 publication: '*VSS Conference Abstract*'
 publication_types:
 - inproceedings
-tags: ["motion-perception", "visual-illusions"]
 title: 'Pattern discrimination for moving random textures: Richer stimuli are more
   difficult to recognize'
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["motion-perception", "visual-illusions"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

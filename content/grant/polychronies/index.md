@@ -11,9 +11,10 @@ image:
   placement: 2
   preview_only: false
 
-tags: ["spiking-neural-networks", "neuromorphic-computing", "motion-perception", "delayed-coding", "predictive-coding", "polychronous-groups"]
 title: Polychronies (2022 / 2025)
-categories: ["Computational Neuroscience", "Grants & Funding", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["delayed-coding", "motion-perception", "neuromorphic-computing", "polychronous-groups", "predictive-coding", "spiking-neural-networks"]
+categories: ["Computational Neuroscience", "Grants & Funding", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
 {{% callout warning %}}
 THE POSITION HAS BEEN FILLED.

@@ -26,7 +26,6 @@ authors:
 date: 2021-02-26
 draft: false
 featured: false
-projects:
 - aprovis3D
 image:
   caption: ''
@@ -43,9 +42,10 @@ publication: '*Computational and Systems Neuroscience (Cosyne) 2021*'
 publication_types:
 - inproceedings
 subtitle: ''
-tags: ["neuromorphic-computing", "metaplasticity"]
 title: A robust bio-inspired approach to event-driven object recognition
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["homeostasis", "metaplasticity", "neuromorphic-computing"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 ![](@laurentperrinet_1364962423120265218_tweetcapture.png)
 {{< figure src="poster.png" width="100%" >}}

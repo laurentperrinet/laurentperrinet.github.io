@@ -7,9 +7,10 @@ lastmod: 2018-03-26 00:00:00
 
 subtitle: 'PhD Program: course in Computational Neuroscience.'
 summary: 'PhD Program: course in Computational Neuroscience.'
-tags: []
 title: '2018-03-26 : PhD Program: course in Computational Neuroscience'
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["bayesian-modelling"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: ["open-science"]
 ---
 # PhD Program: course in Computational Neuroscience
 

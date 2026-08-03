@@ -29,10 +29,10 @@ social:
 superuser: false
 user_groups:
 - Former Students
-categories: ["Biological Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-tags: ["predictive-coding", "spiking-neural-networks", "primary-visual-cortex", "visual-illusions"]
+tags: ["predictive-coding", "primary-visual-cortex", "spiking-neural-networks", "visual-illusions"]
+projects: ["art-science"]
+categories: ["Biological Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
 ---
-
 # PhD Student (2019-09 / 2024-02): A multiscale cortical model to account for orientation selectivity in natural-like stimulations
 
  * Aix-Marseille Université, Institut des Neurosciences de la Timone

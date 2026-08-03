@@ -38,8 +38,9 @@ links:
 publication: '*Journal of Vision*'
 publication_types:
 - inproceedings
-tags: ["motion-perception", "visual-illusions"]
 title: 'Pattern discrimination for moving random textures: Richer stimuli are more
   difficult to recognize'
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["motion-perception", "visual-illusions"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

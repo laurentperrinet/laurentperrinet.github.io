@@ -1,6 +1,5 @@
 ---
 summary: L'art permet de dépasser la rigidité requise par les normes académiques. C'est aussi un moyen d'expression et de communication. Une collaboration avec Étienne Rey.
-tags: ["research-interests"]
 title: Art <> Sciences
 
 subtitle: 'Interactions entre art et sciences'
@@ -30,5 +29,6 @@ design:
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: true
-categories: ["Research Projects"]
+tags: ["research-interests"]
+categories: ["Education", "Research Projects"]
 ---

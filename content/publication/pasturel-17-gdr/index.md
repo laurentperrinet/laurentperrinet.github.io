@@ -17,8 +17,9 @@ links:
 publication: '*GDR Vision, Lille, 2017*'
 publication_types:
 - inproceedings
-tags: ["motion-perception", "eye-movements"]
 title: Estimating and anticipating a dynamic probabilistic bias in visual motion direction
-categories: ["Behavioural Neuroscience", "Computational Neuroscience"]
+tags: ["bayesian-modelling", "eye-movements", "motion-perception"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * see a write-up in {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}

@@ -4,14 +4,14 @@ authors:
 - Guillaume S Masson
 date: 2008-01-01
 featured: false
-projects:
 - facets
 
 publication: '*Proceedings of COSYNE*'
 publication_types:
 - inproceedings
-tags: ["motion-perception", "visual-illusions"]
 title: Modeling spatial integration in the ocular following response to center-surround
   stimulation using a probabilistic framework
-categories: ["Computational Neuroscience", "Theoretical Neuroscience"]
+tags: ["bayesian-modelling", "motion-perception", "visual-illusions"]
+categories: ["Computational Neuroscience", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---

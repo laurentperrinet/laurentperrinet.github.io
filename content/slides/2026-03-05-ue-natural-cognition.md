@@ -17,8 +17,9 @@ title: 2026-03-05-ue-natural-cognition
 
 summary: Artificial neural networks and machine learning applied to the understanding of biological vision
 
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-tags: ["motion-perception", "neuromorphic-computing", "sparse-coding", "visual-illusions", "spiking-neural-networks", "primary-visual-cortex", "eye-movements"]
+tags: ["deep-learning", "eye-movements", "motion-perception", "neuromorphic-computing", "primary-visual-cortex", "sparse-coding", "spiking-neural-networks", "visual-illusions"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
+projects: [""]
 ---
 <section>
 

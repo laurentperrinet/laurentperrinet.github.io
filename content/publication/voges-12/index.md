@@ -26,7 +26,6 @@ authors:
 date: 2012-01-01
 doi: 10.3389/fncom.2012.00041
 featured: false
-grants:
 - brain-scales
 - codde
 - facets
@@ -37,10 +36,11 @@ links:
 publication: '*Frontiers in Computational Neuroscience*'
 publication_types:
 - article-journal
-tags: ["spiking-neural-networks"]
 title: Complex dynamics in recurrent cortical networks based on spatially realistic
   connectivities
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["spiking-neural-networks"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 ![header](voges-12.png)
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}

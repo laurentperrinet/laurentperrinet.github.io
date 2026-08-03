@@ -4,7 +4,6 @@ authors:
 date: 2012-03-23 13:00:00
 event: Second BrainScaleS plenary Meeting - WP5
 featured: false
-grants:
 - brain-scales
 links:
 - name: URL
@@ -14,6 +13,7 @@ location: Forschungszentrum Jülich
 publication: '*2nd BrainScaleS Plenary Meeting - Friday, March 23rd, 2012*'
 title: Apparent motion in V1 - Probabilistic approaches
 url_slides: perrinet12wp5_handout.pdf
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
-tags: ["neuromorphic-computing", "primary-visual-cortex", "motion-perception"]
+tags: ["bayesian-modelling", "motion-perception", "neuromorphic-computing", "primary-visual-cortex"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

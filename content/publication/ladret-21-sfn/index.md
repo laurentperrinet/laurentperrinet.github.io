@@ -18,11 +18,9 @@ authors:
 - Frédéric Y Chavane
 - Christian Casanova
 - Laurent U Perrinet
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 date: 2021-01-01
 draft: false
 featured: false
-grants:
 - anr-horizontal-v1
 image:
   caption: ''
@@ -37,8 +35,10 @@ publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - inproceedings
 subtitle: ''
-tags: ["primary-visual-cortex"]
 title: Modulation of orientation selectivity by orientation precision
+tags: ["primary-visual-cortex"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---
 ![](@laurentperrinet_1457644824723705856_tweetcapture.png)
 {{< youtube Hy2UlLDkPyU >}}

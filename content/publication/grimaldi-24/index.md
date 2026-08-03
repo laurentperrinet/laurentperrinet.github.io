@@ -25,12 +25,10 @@ authors:
 - Sio-Hoi Ieng
 - Ryad Benosman
 - Laurent U Perrinet
-categories: ["NeuroAI & Machine Learning"]
 date: 2024-10-01
 doi: 10.1016/j.neunet.2024.106415
 draft: false
 featured: false
-projects:
 - aprovis3D
 image:
   caption: ''
@@ -51,8 +49,10 @@ publication: Neural Networks
 publication_types:
 - article-journal
 subtitle: ''
-tags: ["event-based-vision", "homeostasis", "spiking-neural-networks", "neuromorphic-computing"]
 title: A Robust Event-Driven Approach to Always-on Object Recognition
+tags: ["event-based-vision", "homeostasis", "neuromorphic-computing", "spiking-neural-networks"]
+categories: ["NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 Main contributions:
 - Builds an adaptive, back to  back event-based pattern recognition architecture, inspired by neuroscience and capable of always-on decision, that is, that the decision can be taken it can be needed,

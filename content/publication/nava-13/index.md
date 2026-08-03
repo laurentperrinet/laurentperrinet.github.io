@@ -26,8 +26,9 @@ publication: '*Progress in Pattern Recognition, Image Analysis, Computer Vision,
   Applications*'
 publication_types:
 - article-journal
-tags: ["image-texture", "sparse-coding", "vision"]
 title: Advances in Texture Analysis for Emphysema Classification
-categories: ["Theoretical Neuroscience"]
+tags: ["image-texture", "log-gabor", "sparse-coding", "vision"]
+categories: ["Computer Vision", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
 * relies on log-Gabor filters: {{< cite page="/publication/fischer-07-cv" view="4" >}}

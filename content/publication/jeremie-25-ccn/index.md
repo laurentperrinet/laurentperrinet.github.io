@@ -33,8 +33,6 @@ abstract: "Convolutional Neural Networks (CNNs) have been widely used for catego
   object localisation within the scene. Beyond its computational benefits, this What-Where
   framework serves as an experimental tool to further investigate the neural mechanisms
   underlying visual processing."
-tags: ["neuromorphic-computing"]
-grants:
 - anr-anr
 links:
 - name: URL
@@ -45,7 +43,9 @@ links:
   url: https://2025.ccneuro.org/poster/?id=GXMCOQjF19
 - name: Abstract
   url: https://2025.ccneuro.org/abstract_pdf/Jeremie_2025_Unravelling_relationship_location_categorisation_improves_convolutional.pdf
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["bayesian-modelling", "neuromorphic-computing"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
 🧠 TODAY at #CCN2025 ! Poster A145, 1:30-4:30pm at de Brug & E‑Hall. We've developed a bio-inspired "What-Where" CNN that mimics primate visual pathways - achieving better classification with less computation. Come chat! 🎯
 

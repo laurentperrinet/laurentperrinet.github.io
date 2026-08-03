@@ -29,8 +29,9 @@ superuser: false
 user_groups:
 - Current Students
 tags: ["spiking-neural-networks"]
+projects: [""]
+categories: ["Education", "Outreach & Public Engagement"]
 ---
-
 # PhD Student (2024-10 / 2027-09): Model-based analysis of neurobiological data
 
  * a fellowship from the doctoral school "Ecole Doctorale Sciences de la Vie et de la Santé, Aix Marseille Université"

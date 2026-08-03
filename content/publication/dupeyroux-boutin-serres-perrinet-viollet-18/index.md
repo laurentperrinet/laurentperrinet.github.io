@@ -16,7 +16,6 @@ authors:
 - Stéphane Viollet
 date: 2018-01-01
 featured: false
-projects:
 - doc-2-amu
 links:
 - name: URL
@@ -27,8 +26,9 @@ links:
 publication: '*ISCAS2018, IEEE International Symposium on Circuits and Systems*'
 publication_types:
 - inproceedings
-tags: ["motion-perception", "neuro-inspired", "bio-inspired", "optic-flow", "motion-detection"]
 title: 'M2APix: a bio-inspired auto-adaptive visual sensor for robust ground height
   estimation'
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["bio-inspired", "motion-detection", "motion-perception", "neuro-inspired", "optic-flow"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

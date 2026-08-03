@@ -18,15 +18,15 @@ authors:
 - Laurent U Perrinet
 date: 2010-01-01
 featured: false
-projects:
 - facets
 
 publication: '*Proceedings of NeuroComp*'
 publication_types:
 - inproceedings
-tags: ["spiking-neural-networks", "sparse-coding"]
 title: Phase space analysis of networks based on biologically realistic parameters
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["sparse-coding", "spiking-neural-networks"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}
 * see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

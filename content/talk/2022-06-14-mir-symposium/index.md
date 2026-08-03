@@ -2,12 +2,10 @@
 authors:
 - Emmanuel Daucé
 - Laurent U Perrinet
-categories: ["Biological Neuroscience", "NeuroAI & Machine Learning"]
 date: 2022-06-14 15:00:00
 draft: false
 event: MIR Symposium 2022 bio-inspired and Marine Robotics
 featured: false
-projects:
 - aprovis3D
 image:
   caption: ''
@@ -24,9 +22,11 @@ publication_types:
 - inproceedings
 publishDate: '2022-06-16T11:51:41.890310Z'
 subtitle: ''
-tags: ["neuromorphic-computing", "primary-visual-cortex", "motion-perception", "eye-movements"]
 title: Contributions of neuroscience to the detection and localization of objects
   in visual inputs
+tags: ["eye-movements", "foveated-vision", "log-polar-mapping", "motion-perception", "neuromorphic-computing", "primary-visual-cortex", "retinotopy"]
+categories: ["Biological Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---
 * for visual search see: {{< cite page="/publication/dauce-20" view="1" >}}
 * for retinotopy, see: {{< cite page="/talk/2022-06-19-neuro-vision-retinotopic" view="1" >}}

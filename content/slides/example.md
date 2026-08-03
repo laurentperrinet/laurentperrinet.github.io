@@ -3,7 +3,6 @@ title: "Markdown Slides Demo"
 date: 2025-12-15
 description: "A comprehensive demo of all Reveal.js features available in Hugo Blox"
 authors: ["me", "Hugo Blox Team"]
-tags: ["demo", "tutorial", "features"]
 venue: "Hugo Blox Tutorial"
 featured: true
 type: slides
@@ -35,8 +34,10 @@ slides:
     footer:
       text: "© 2026 HugoBlox"       # Supports Markdown (e.g., links)
       position: "bottom-center"     # Options: top-left, top-right, bottom-left, bottom-right, bottom-center
+tags: ["demo", "features", "tutorial"]
+categories: ["Education"]
+projects: ["open-science"]
 ---
-
 <!-- no-branding -->
 # Markdown Slides
 

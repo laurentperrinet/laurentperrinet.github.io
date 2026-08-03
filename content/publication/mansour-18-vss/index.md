@@ -35,7 +35,6 @@ authors:
 date: 2018-01-01
 doi: 10.1167/18.10.345
 featured: false
-grants:
 - anr-speed
 links:
 - name: URL
@@ -43,7 +42,8 @@ links:
 publication: '*Journal of Vision, Vol.18, 345, proceedings of VSS*'
 publication_types:
 - inproceedings
-tags: ["motion-perception", "visual-illusions"]
 title: Speed uncertainty and motion perception with naturalistic random textures
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["motion-perception", "visual-illusions"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

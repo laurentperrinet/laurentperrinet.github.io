@@ -34,7 +34,6 @@ authors:
 date: 2020-01-26
 doi: 10.1371/journal.pcbi.1007438
 featured: true
-projects:
 - pace-itn
 links:
 - name: Press
@@ -51,10 +50,11 @@ links:
 publication: '*PLoS Computational Biology*'
 publication_types:
 - article-journal
-tags: ["motion-perception", "eye-movements"]
 title: Humans adapt their anticipatory eye movements to the volatility of visual motion
   properties
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["bayesian-modelling", "eye-movements", "motion-perception"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
 # "Humans adapt their anticipatory eye movements to the volatility of visual motion properties"
 {{< video src="https://raw.githubusercontent.com/chloepasturel/AnticipatorySPEM/master/2020-03_video-abstract/PasturelMontagniniPerrinet2020_video-abstract.mp4" controls="yes" >}}

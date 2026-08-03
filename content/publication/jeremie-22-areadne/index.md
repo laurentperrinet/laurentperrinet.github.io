@@ -20,11 +20,10 @@ authors:
 - Jean-Nicolas Jérémie
 - Emmanuel Daucé
 - Laurent U Perrinet
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "NeuroAI & Machine Learning"]
 date: 2022-06-29
 draft: false
 featured: false
-projects:
+grants:
 - aprovis3D
 - anr-anr
 image:
@@ -41,8 +40,10 @@ publication_types:
 - inproceedings
 publishDate: '2022-06-16T11:51:41.890310Z'
 subtitle: ''
-tags: ["spiking-neural-networks", "primary-visual-cortex", "eye-movements", "retinotopy", "ultra-fast-categorization", "visual-search"]
 title: Ultra-rapid visual search in natural images using active deep learning
+tags: ["eye-movements", "foveated-vision", "log-polar-mapping", "primary-visual-cortex", "retinotopy", "spiking-neural-networks", "ultra-fast-categorization", "visual-search"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---
 * This work extends to natural scenes a previous work on visual search on a simplified task formulated in  {{< cite page="/publication/dauce-20" view="4" >}}
 * It is based on a first work on transfer learning and its application to a natural task : {{< cite page="/publication/jeremie-23-ultra-fast-cat" view="4" >}}

@@ -47,6 +47,7 @@ abstract: 'The primary visual cortex (V1) is one of the most studied cortical ar
 links:
 - name: URL
   url: https://theses.fr/2009AIX20677
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
-tags: ["spiking-neural-networks", "primary-visual-cortex", "neuromorphic-computing", "sparse-coding"]
+tags: ["neuromorphic-computing", "primary-visual-cortex", "pynn", "sparse-coding", "spiking-neural-networks"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---

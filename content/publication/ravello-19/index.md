@@ -23,7 +23,6 @@ authors:
 date: 2019-01-24
 doi: 10.1038/s41598-018-36861-8
 featured: false
-grants:
 - anr-trajectory
 links:
 - name: Press
@@ -36,10 +35,11 @@ links:
 publication: '*Scientific Reports*'
 publication_types:
 - article-journal
-tags: ["motion-perception", "sparse-coding"]
 title: Speed-Selectivity in Retinal Ganglion Cells is Sharpened by Broad Spatial Frequency,
   Naturalistic Stimuli
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["motion-perception", "sparse-coding"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * [Press release](https://www4.cnrs-dir.fr/insb/recherche/parutions/articles2019/l-perrinet.html)
 # Dès la rétine, le système visuel préfère des images naturelles

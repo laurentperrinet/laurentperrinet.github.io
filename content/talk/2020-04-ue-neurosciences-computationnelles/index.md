@@ -16,7 +16,6 @@ authors:
 date: 2020-04-03 16:00:00
 event: Master Neurosciences et Sciences Cognitives
 featured: false
-grants:
 - anr-horizontal-v1
 links:
 - name: Slides
@@ -26,14 +25,14 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2020-04-ue-neurosciences-computationnelles
 location: Marseille (France)
-projects:
 - courses
 publication: '*Master Neurosciences et Sciences Cognitives*'
 publication_types:
 - inproceedings
 title: 'From the retina to action: Understanding visual processing'
-categories: ["Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-tags: ["predictive-coding", "motion-perception", "primary-visual-cortex"]
+tags: ["bayesian-modelling", "motion-perception", "predictive-coding", "primary-visual-cortex"]
+categories: ["Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
 # 2020-04_UE-neurosciences-computationnelles, matériel pour le cours de modélisation
 * Où: Marseille (France)

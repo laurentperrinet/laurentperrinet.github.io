@@ -5,7 +5,6 @@ date: 2019-01-18 10:45:00
 event: 'LACONEU 2019: 5th Latin-American Summer School in Computational Neuroscience'
 event_url: http://www.laconeu.cl
 featured: false
-grants:
 - anr-horizontal-v1
 links:
 - name: Conference
@@ -22,8 +21,9 @@ publication: '*LACONEU 2019: 5th Latin-American Summer School in Computational N
   Valparaiso (Chile)*'
 title: Should I stay or should I go? Adaption of human observers to the volatility
   of visual inputs
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
 tags: ["primary-visual-cortex"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="1" >}}
 * previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})

@@ -12,7 +12,6 @@ authors:
 - Laurent U Perrinet
 date: 2021-01-01
 featured: false
-grants:
 - anr-anr
 image:
   caption: 'Image credit: Naser Tamimi [**Unsplash**](https://unsplash.com/photos/yG9pCqSOrAg)'
@@ -20,14 +19,14 @@ image:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-21-hasard/
-projects:
 - tout-public
 publication: '*The Conversation*'
 publication_types:
 - article-journal
 title: Le jeu du cerveau et du hasard
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
 tags: ["visual-illusions"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * Ce texte est disponible dans cet article de [The Conversation](https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388).
 * Une [version longue](https://laurentperrinet.github.io/2021_theconversation_hasard/) (et son [code](https://github.com/laurentperrinet/2021_theconversation_hasard)) sont aussi disponibles.

@@ -27,14 +27,14 @@ authors:
 - Guillaume S Masson
 date: 2009-01-01
 featured: false
-projects:
 - facets
 
 publication: '*Vision Science Society*'
 publication_types:
 - inproceedings
-tags: ["motion-perception", "primary-visual-cortex"]
 title: Inferring monkey ocular following responses from V1 population dynamics using
   a probabilistic model of motion integration
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["bayesian-modelling", "motion-perception", "primary-visual-cortex"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---

@@ -11,7 +11,9 @@ slides: 2026-02-10-biomplus
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-02-10-biomplus
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+tags: [""]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 Rendez-vous ce mardi 10 février 2026 / 9h-10h30 pour plonger dans le monde fascinant des neurosciences.
 

@@ -21,7 +21,6 @@ abstract: "By construction, deep convolutional networks treat all pixels equally
   position points to ground truth bounding boxes with 85% accuracy, compared to 71%
   for classical CNNs. This suggests that this specific Nature's million-year solution
   may offer deep learning visual networks a fundamentally new architectural look."
-tags: ["primary-visual-cortex", "eye-movements", "deep-learning", "computer-vision"]
 links:  
 - name: MAIN
   url: https://main2025.org
@@ -29,7 +28,9 @@ links:
   url: https://laurentperrinet.github.io/2025-12-13_Perrinet-talk-MAIN2025
 - name: YouTube
   url: https://www.youtube.com/watch?v=1BUidO5GY98
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["computer-vision", "deep-learning", "eye-movements", "foveated-vision", "log-polar-mapping", "primary-visual-cortex", "retinotopy"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---
 🔬 Excited to present our latest research at the #MAIN2025 conference today!
 

@@ -12,11 +12,12 @@ abstract: 'Working memory --- the ability to store and retrieve precise temporal
 
 slides: 2026-04-16-cerco
 
-tags: ["spiking-neural-networks", "neuromorphic-computing"]
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-04-16-cerco/
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["neuromorphic-computing", "spiking-neural-networks"]
+categories: ["Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * Invited seminar at CerCo, Toulouse, France, 2026-04-16
 

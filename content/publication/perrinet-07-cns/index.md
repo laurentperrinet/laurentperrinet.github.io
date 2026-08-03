@@ -24,7 +24,6 @@ authors:
 date: 2007-01-01
 doi: 10.1186/1471-2202-8-S2-P206
 featured: false
-projects:
 - facets-itn
 links:
 - name: URL
@@ -33,8 +32,9 @@ publication: '*Sixteenth Annual Computational Neuroscience Meeting: CNS*2007, To
   Canada. 7--12 July 2007*'
 publication_types:
 - inproceedings
-tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding"]
 title: On efficient sparse spike coding schemes for learning natural scenes in the
   primary visual cortex
-categories: ["Computational Neuroscience", "Theoretical Neuroscience"]
+tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding"]
+categories: ["Computational Neuroscience", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
+projects: [""]
 ---

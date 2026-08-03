@@ -11,11 +11,12 @@ publication: '*35th International Conference on Artificial Neural Networks (ICAN
   2026)-  Special Session on Recent Advances in Spiking Neural Networks*'
 doi: 10.48550/arXiv.2604.14096
 
-tags: ["spiking-neural-networks", "neuromorphic-computing"]
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-26-icann
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["neuromorphic-computing", "spiking-neural-networks"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * The code and results at the time of the submission of this camera-ready paper is accessible [in this commit](https://github.com/laurentperrinet/MNESIS/tree/7d53c2fd47f253f4c78772e99f5b54c38d57faf9)
 

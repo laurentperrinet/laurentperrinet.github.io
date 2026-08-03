@@ -13,9 +13,10 @@ subtitle: A seminar by [María José Escobar, Ph.D.](http://profesores.elo.utfsm
   at the Institute of Neurosciences Timone in Marseille.
 summary: A seminar by [María José Escobar, Ph.D.](http://profesores.elo.utfsm.cl/~mjescobar/)
   at the Institute of Neurosciences Timone in Marseille.
-tags: []
 title: '2018-11-09 : Retinal computations'
+tags: [""]
 categories: ["Biological Neuroscience"]
+projects: [""]
 ---
 # 2018-11-09 : "Retinal computations" by Maria José Escobar (Chile)
 

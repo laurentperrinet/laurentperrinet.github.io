@@ -8,7 +8,6 @@ authors:
 date: 2016-09-01
 doi: 10.1167/16.12.1356
 featured: false
-grants:
 - anr-rem
 links:
 - name: URL
@@ -17,8 +16,9 @@ links:
 publication: '*Proceedings of VSS*'
 publication_types:
 - inproceedings
-tags: ["eye-movements", "smooth-pursuit-eye-movement"]
 title: 'Operant reinforcement versus reward expectancy: effects on anticipatory eye
   movements'
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["eye-movements", "smooth-pursuit-eye-movement"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

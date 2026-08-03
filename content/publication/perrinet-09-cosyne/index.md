@@ -55,14 +55,14 @@ authors:
 - Guillaume S Masson
 date: 2009-01-01
 featured: false
-projects:
 - facets
 
 publication: '*Proceedings of COSYNE*'
 publication_types:
 - inproceedings
-tags: ["motion-perception", "primary-visual-cortex", "visual-illusions"]
 title: Decoding center-surround interactions in population of neurons for the ocular
   following response
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["bayesian-modelling", "motion-perception", "primary-visual-cortex", "visual-illusions"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---

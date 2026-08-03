@@ -7,7 +7,6 @@ date: 2017-11-24 13:00:00
 event: Journee du GT 8 (Neurosciences - Robotique)
 event_url: http://www.isir.upmc.fr/index.php?op=view_page&id=1463&menuid=17
 featured: false
-projects:
 - doc-2-amu
 links:
 - name: Conference
@@ -17,10 +16,11 @@ links:
 location: IMERA (Aix-Marseille Université)
 
 publication: '*Journee du GT 8 (Neurosciences - Robotique)*'
-tags: ["sparse-coding"]
 title: Unsupervised learning applied to robotic vision
 url_code: ''
 url_slides: ''
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["sparse-coding"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * see a related work describing SDPC in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="1" >}}

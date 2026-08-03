@@ -5,13 +5,13 @@ date: 2025-09-23 08:30:00
 publishDate: '2025-08-21T09:59:44.385734Z'
 draft: false
 featured: false
-projects:
 - tout-public
 summary: "Restitution film  #nofakenews | école Air Bel | Polly Maggoo"
-tags: ["visual-illusions"]
 location: Marseille, France
 title: "Rencontre cinémas & sciences à l'école Air Bel"
-categories: ["NeuroAI & Machine Learning"]
+tags: ["visual-illusions"]
+categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 {{% callout note %}}
 Bienvenue dans l’une des écoles les plus novatrices du monde : *l’école des Fake news* ! Située à Marseille, en France, cette école haut de gamme a vu le jour grâce aux généreux financements des plus puissantes entreprises numériques chinoises et américaines. 

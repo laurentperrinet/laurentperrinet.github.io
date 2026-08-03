@@ -17,10 +17,10 @@ title: 2026-04-11-intelligence-du-regard
 
 summary: L'intelligence du regard
 
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-tags: ["eye-movements", "visual-illusions", "motion-perception", "sparse-coding"]
+tags: ["eye-movements", "foveated-vision", "log-polar-mapping", "motion-perception", "retinotopy", "sparse-coding", "visual-illusions"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: ["art-science"]
 ---
-
 <section>
 
 # [L'intelligence du regard](https://laurentperrinet.github.io/slides/2026-04-11-intelligence-du-regard/?transition=fade)

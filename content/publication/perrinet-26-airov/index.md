@@ -9,11 +9,12 @@ publication_types:
 publication: '*Proceedings of the Austrian Symposium on AI, Robotics and Vision*'
 slides: 2026-04-15-airov
 
-tags: ["spiking-neural-networks", "neuromorphic-computing"]
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-26-airov/
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["neuromorphic-computing", "spiking-neural-networks"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * See the accompanying code: https://github.com/laurentperrinet/MNESIS
 

@@ -45,8 +45,9 @@ links:
 - name: HAL
   url: https://hal.science/hal-05293576
   
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 tags: ["predictive-coding"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 The lead author, Jason Eshragian, speaks most clearly about it: 
 

@@ -25,8 +25,9 @@ social:
 superuser: false
 user_groups:
 - Former Students
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-tags: ["motion-perception", "primary-visual-cortex", "synaptic-delays", "predictive-coding", "spiking-neural-networks", "neuromorphic-computing"]
+tags: ["bayesian-modelling", "foveated-vision", "log-polar-mapping", "motion-perception", "neuromorphic-computing", "predictive-coding", "primary-visual-cortex", "retinotopy", "spiking-neural-networks", "synaptic-delays"]
+projects: [""]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
 ---
 # Emerging properties in a neural field model implementing probabilistic prediction (PhD, 2011-2014)
 

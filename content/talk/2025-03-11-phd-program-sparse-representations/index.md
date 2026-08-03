@@ -15,7 +15,6 @@ abstract: Sparse coding is a technique used in signal processing and machine lea
   for further analysis or processing.
 authors:
 - Laurent U Perrinet
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 date: 2025-03-11
 draft: false
 event: NeuroSchool PhD Program in Neuroscience
@@ -30,7 +29,6 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-03-11-phd-program-sparse-representations
 location: Marseille (France)
-projects:
 - courses
 publication: '*NeuroSchool PhD Program in Neuroscience*'
 publication_types:
@@ -38,6 +36,8 @@ publication_types:
 publishDate: '2025-03-11'
 slides: 2025-03-11-phd-program-sparse-representations
 subtitle: ''
-tags: ["sparse-coding"]
 title: 'NeuroSchool PhD Program in Neuroscience: Sparse representations'
+tags: ["sparse-coding"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

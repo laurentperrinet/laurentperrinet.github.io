@@ -3,7 +3,6 @@ authors:
 - Laurent U Perrinet
 date: 2023-01-23
 publishDate: 2023-01-21
-tags:
 - Bayesian model
 - neuroscience
 - psychophysics
@@ -13,8 +12,10 @@ slides:
 
 title: 2023-01-23_game-theory-and-the-brain
 
+tags: [""]
+categories: ["Education", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: ["art-science"]
 ---
-
 # Game theory and brain strategies
 
 <img src="https://laurentperrinet.github.io/publication/perrinet-21-hasard/featured.jpg" width="50%" >

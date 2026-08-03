@@ -14,9 +14,10 @@ publication: '*Journée Scientifique Biomimove 2024 : Action, Perception et Trai
 publication_types:
 - paper-conference
 publishDate: '2024-10-03T07:45:42.692151Z'
-tags: ["neuromorphic-computing", "visual-illusions"]
 title: 'NeuroAI: interactions multiples entre Neurosciences et Intelligence artificielle'
 slides: 2024-11-18-journee-biomometisme
-categories: ["NeuroAI & Machine Learning"]
+tags: ["neuromorphic-computing", "visual-illusions"]
+categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * présentation de 15:50:00 à 16:20:00

@@ -5,7 +5,6 @@ authors:
 - Laurent U Perrinet
 date: 2016-01-01
 featured: false
-grants:
 - anr-rem
 links:
 - name: URL
@@ -14,7 +13,8 @@ links:
 publication: '*Proceedings of ECVP*'
 publication_types:
 - inproceedings
-tags: ["eye-movements"]
 title: Modeling the effect of dynamic contingencies on anticipatory eye movements
-categories: ["Computational Neuroscience"]
+tags: ["eye-movements"]
+categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
+projects: [""]
 ---

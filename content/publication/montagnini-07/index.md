@@ -23,7 +23,6 @@ authors:
 date: 2007-01-01
 doi: 10.1016/j.jphysparis.2007.10.013
 featured: false
-projects:
 - facets-itn
 links:
 - name: URL
@@ -31,8 +30,9 @@ links:
 publication: '*Neuro-Computation: From Sensorimotor Integration to Computational Frameworks*'
 publication_types:
 - article-journal
-tags: ["visual-illusions", "motion-perception", "eye-movements"]
 title: Bayesian modeling of dynamic motion integration
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["eye-movements", "motion-perception", "visual-illusions"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
 ![header](montagnini-07.png)

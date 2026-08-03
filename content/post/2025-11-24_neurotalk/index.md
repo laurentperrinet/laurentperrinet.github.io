@@ -5,13 +5,13 @@ date: 2025-11-24 08:30:00
 publishDate: '2025-11-24T09:59:44.385734Z'
 draft: false
 featured: false
-projects:
 - tout-public
 summary: "NeuroTalk sur le thème des métiers du cerveau, organisé par les neuronautes"
-tags: ["neuroscience", "recherche"]
 location: Marseille, France
 title: "NeuroTalk sur le thème des métiers du cerveau"
-categories: ["NeuroAI & Machine Learning"]
+tags: ["neuroscience", "recherche"]
+categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 Le 24 novembre 2025, j'ai eu l'opportunité de participer au Neurotalk, un événement organisé par l'association [#neuronautes](https://www.instagram.com/neuronautes/) sur le campus Saint-Charles à Marseille. Cette soirée était dédiée à l'exploration des carrières dans le domaine des neurosciences.
 

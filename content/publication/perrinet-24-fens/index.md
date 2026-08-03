@@ -16,11 +16,9 @@ abstract: Recently, there has been an increase in interest in exploring the hypo
   detect spiking motifs in a more natural and biologically relevant context.
 authors:
 - Laurent U Perrinet
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 date: 2024-06-27
 draft: false
 featured: false
-grants:
 - polychronies
 image:
   caption: ''
@@ -38,9 +36,11 @@ publication_types:
 - inproceedings
 publishDate: '2024-04-05T08:22:04.452494Z'
 subtitle: ''
-tags: ["predictive-coding", "spiking-neural-networks", "neuromorphic-computing"]
 title: Accurate Detection of Spiking Motifs in Neurobiological Data by Learning Heterogeneous
   Delays of a Spiking Neural Network
+tags: ["neuromorphic-computing", "predictive-coding", "spiking-neural-networks"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * see accompanying papers
  * for neural data: {{< cite page="/publication/perrinet-23-icann" view="4" >}}

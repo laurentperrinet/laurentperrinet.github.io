@@ -7,7 +7,6 @@ authors:
 - Laurent U Perrinet
 - Bernabé Linares-Barranco
 - Teresa Serrano-Gotarredona
-categories: ["NeuroAI & Machine Learning"]
 date: 2023-01-01
 draft: false
 featured: false
@@ -25,6 +24,8 @@ publication_types:
 - article-journal
 publishDate: '2022-11-17T11:15:57.623607Z'
 subtitle: ''
-tags: ["efficient-coding", "event-based-vision", "neuromorphic-computing"]
 title: 'Stakes of Neuromorphic Foveation: a promising future for embedded event cameras'
+tags: ["efficient-coding", "event-based-vision", "neuromorphic-computing"]
+categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

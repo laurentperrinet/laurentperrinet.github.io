@@ -17,11 +17,9 @@ authors:
 - Camille Besnainou
 - Hugo Ladret
 - Laurent U Perrinet
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
 date: 2022-06-29
 draft: false
 featured: false
-projects:
 - aprovis3D
 image:
   caption: ''
@@ -38,8 +36,10 @@ publication_types:
 publishDate: '2022-06-16T11:51:41.890310Z'
 slides: 2022-07-01_grimaldi-22-areadne
 subtitle: ''
-tags: ["spiking-neural-networks", "neuromorphic-computing"]
 title: Decoding spiking motifs using neurons with heterogeneous delays
+tags: ["bayesian-modelling", "neuromorphic-computing", "spiking-neural-networks"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 ![](@laurentperrinet_1546471536571342849_tweetcapture.png)
 * for a follow-up, check out {{< cite page="/publication/grimaldi-22-icip" view="4" >}}

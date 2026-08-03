@@ -25,6 +25,7 @@ abstract: "Un des objectifs des neurosciences visuelles est de comprendre commen
 links:
 - name: URL
   url: https://theses.fr/2021AIXM0346
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
-tags: ["predictive-coding", "visual-illusions", "primary-visual-cortex", "sparse-coding"]
+tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding", "visual-illusions"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

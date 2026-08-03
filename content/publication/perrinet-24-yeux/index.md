@@ -4,7 +4,6 @@ authors:
 - Laurent U Perrinet
 date: 2024-02-23
 featured: false
-grants:
 - anr-anr
 image:
   caption: 'Image credit: Naser Tamimi [**Unsplash**](https://unsplash.com/photos/yG9pCqSOrAg)'
@@ -12,13 +11,14 @@ image:
 links:
 - name: URL
   url: https://theconversation.com/chats-mouches-humains-comment-la-vision-a-evolue-en-de-multiples-facettes-220083
-projects:
 - tout-public
 publication: '*The Conversation*'
 publication_types:
 - article-journal
 title: 'Chats, mouches, humains : comment la vision a évolué en de multiples facettes'
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: [""]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 <!--  bluesky link="https://bsky.app/profile/laurentperrinet.bsky.social/post/3lgcyozmqgs2m"  -->
 

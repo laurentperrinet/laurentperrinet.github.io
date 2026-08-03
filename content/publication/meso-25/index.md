@@ -36,8 +36,9 @@ links:
   url: https://doi.org/10.1167/jov.25.11.2
 - name: HAL
   url: https://hal.science/hal-05288188
-tags: ["predictive-coding", "motion-perception"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["motion-clouds", "motion-perception", "predictive-coding"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: ["open-science"]
 ---
 🚀 Excited to share our new paper: 
 

@@ -28,7 +28,6 @@ authors:
 date: 2008-04-01
 event: Séminaires de l'INCM, April 11th, 2008
 featured: false
-projects:
 - facets
 links:
 - name: URL
@@ -37,6 +36,7 @@ links:
 publication: '*Séminaires de l''INCM, April 11th, 2008*'
 title: 'From neural activity to behavior: computational neuroscience as a synthetic
   approach for understanding the neural code.'
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
-tags: ["spiking-neural-networks", "primary-visual-cortex"]
+tags: ["bayesian-modelling", "primary-visual-cortex", "spiking-neural-networks"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---

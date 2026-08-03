@@ -5,7 +5,6 @@ date: 2019-01-14 11:00:00
 event: 'LACONEU 2019: 5th Latin-American Summer School in Computational Neuroscience'
 event_url: http://www.laconeu.cl
 featured: false
-grants:
 - anr-horizontal-v1
 links:
 - name: Conference
@@ -17,12 +16,12 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2019-01-14-laconeu/
 location: Valparaiso (Chile)
-projects:
 - courses
 - open-science
 publication: '*LACONEU 2019: 5th Latin-American Summer School in Computational Neuroscience,
   Valparaiso (Chile)*'
 title: Modelling spiking neural networks using Brian, Nest and pyNN
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
-tags: ["spiking-neural-networks", "primary-visual-cortex"]
+tags: ["primary-visual-cortex", "pynn", "spiking-neural-networks"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

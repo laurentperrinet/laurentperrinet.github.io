@@ -10,7 +10,6 @@ abstract: 'Event-based cameras mimic the way biological retinas process visual i
   for computer vision that emulate biological principles.'
 authors:
 - Laurent U Perrinet
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 date: 2023-09-08 11:00:00
 draft: false
 event: Séminaire à l'Institut Fresnel
@@ -24,7 +23,6 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2023-09-08-fresnel
 location: Marseille (France)
-projects:
 - computational neuroscience
 - event-based vision
 - neuromorphic hardware
@@ -33,6 +31,8 @@ publication_types:
 publishDate: '2023-09-05T09:59:44.385734Z'
 slides: 2023-09-08_fresnel
 subtitle: '*Séminaire à l''Institut Fresnel*'
-tags: ["neuromorphic-computing", "motion-perception"]
 title: Event-based vision
+tags: ["motion-perception", "neuromorphic-computing"]
+categories: ["Computational Neuroscience", "Computer Vision", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

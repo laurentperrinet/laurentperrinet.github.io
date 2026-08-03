@@ -21,7 +21,6 @@ authors:
 - Laurent U Perrinet
 date: 2012-01-01
 featured: false
-projects:
 - codde
 links:
 - name: URL
@@ -30,8 +29,9 @@ links:
 publication: '*Proceedings of AREADNE*'
 publication_types:
 - inproceedings
-tags: ["aperture-problem", "bayesian-modeling", "predictive-coding", "motion-perception"]
 title: Motion-based prediction is sufficient to solve the aperture problem
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["aperture-problem", "bayesian-modeling", "bayesian-modelling", "motion-perception", "predictive-coding"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

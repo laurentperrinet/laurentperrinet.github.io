@@ -27,7 +27,6 @@ authors:
 date: 2014-07-06
 doi: 10.1109/IJCNN.2014.6889847
 featured: false
-grants:
 - brain-scales
 - facets-itn
 links:
@@ -38,10 +37,11 @@ publication: '*IEEE International Joint Conference on Neural Networks (IJCNN) 20
   Beijing, China*'
 publication_types:
 - inproceedings
-tags: ["bayesian-modeling", "motion-detection"]
 title: Signature of an anticipatory response in area V1 as modeled by a probabilistic
   model and a spiking neural network
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["bayesian-modeling", "bayesian-modelling", "motion-detection"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
+projects: [""]
 ---
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}
 * see  follow-up on motion extrapolation: {{< cite page="/publication/khoei-13-jpp" view="4" >}}

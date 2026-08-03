@@ -8,7 +8,6 @@ authors:
 date: 2007-07-06
 doi: 10.1186/1471-2202-8-S2-P180
 featured: false
-projects:
 - facets
 links:
 - name: URL
@@ -17,9 +16,10 @@ links:
 publication: '*Annual Computational Neuroscience Meeting: BMC Neuroscience*'
 publication_types:
 - inproceedings
-tags: ["pynn"]
 title: Synchrony in thalamic inputs enhances propagation of activity through cortical
   layers
-categories: ["Computational Neuroscience"]
+tags: ["pynn"]
+categories: ["Computational Neuroscience", "Education", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publication/kremkow-10-jcns/index.md" >}})

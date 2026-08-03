@@ -14,7 +14,6 @@ date: 2015-11-05 13:00:00
 event: Charla
 event_url: http://www.eventos.usm.cl/evento/charla-motion-based-prediction-with-neuromorphic-hardware/
 featured: false
-grants:
 - anr-bala-v1
 links:
 - name: Conference
@@ -26,6 +25,7 @@ location: Universidad Tecnica Federico Santa Maria, Valparaiso (Chile)
 publication: '*Universidad Técnica Federico Santa María, Valparaíso, Chile, November
   5th, 2015*'
 title: Motion-based prediction with neuromorphic hardware
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
-tags: ["neuromorphic-computing", "primary-visual-cortex", "motion-perception"]
+tags: ["bayesian-modelling", "motion-perception", "neuromorphic-computing", "primary-visual-cortex"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

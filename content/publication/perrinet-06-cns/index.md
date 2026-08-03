@@ -15,7 +15,6 @@ authors:
 - Laurent U Perrinet
 date: 2006-01-01
 featured: false
-projects:
 - facets
 links:
 - name: PDF
@@ -23,8 +22,9 @@ links:
 publication: '*Fifteenth Annual Computational Neuroscience Meeting: CNS*2006*'
 publication_types:
 - inproceedings
-tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding"]
 title: An efficiency razor for model selection and adaptation in the primary visual
   cortex
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
+projects: [""]
 ---

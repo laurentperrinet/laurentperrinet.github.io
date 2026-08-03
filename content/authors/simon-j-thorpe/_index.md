@@ -15,10 +15,10 @@ social:
 - icon: external-link-alt
   icon_pack: fas
   link: https://cerco.cnrs.fr/page-perso-simon-thorpe/
-categories: ["Biological Neuroscience", "NeuroAI & Machine Learning", "Computational Neuroscience"]
-tags: ["spiking-neural-networks", "temporal-coding", "sparse-coding"]
+tags: ["sparse-coding", "spiking-neural-networks", "temporal-coding"]
+projects: [""]
+categories: ["Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
 ---
-
 Simon Thorpe is CNRS Research Director (DRCE2), CerCo (CNRS-UT3), TMBI (Univ. Toulouse), France. His current interests are centered on understanding the phenomenal processing speed achieved by the visual system thanks to experiments that attempt to measure just how fast visual processing is using briefly flashed natural scenes using a combination of electrophysiological and behavioural methods.  In an attempt to explain this sort of ultra-rapid processing he proposed a novel coding scheme that uses the order in which cells fire spikes, rather than firing rates to encode information.
 
 ## Collaborative publications

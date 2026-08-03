@@ -17,7 +17,8 @@ links:
 location: Ecole Centrale Marseille
 publication: '*EUVIP (Special Session): Biologically Inspired Computer Vision - October
   16th, 2016*'
-tags: ["sparse-coding"]
 title: Biologically-inspired characterization of sparseness in natural images
-categories: ["Computational Neuroscience"]
+tags: ["sparse-coding"]
+categories: ["Computational Neuroscience", "Computer Vision", "Outreach & Public Engagement"]
+projects: [""]
 ---

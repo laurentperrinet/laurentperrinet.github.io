@@ -2,7 +2,6 @@
 authors:
 - Laurent U Perrinet
 date: 2022-11-21
-tags:
 - Bayesian model
 - motion prediction
 - psychophysics
@@ -12,8 +11,10 @@ slides:
 
 title: 2022-11-21_flash-lag-effect
 
+tags: [""]
+categories: ["Education", "Outreach & Public Engagement"]
+projects: [""]
 ---
-
 <table width="100%"> 
 <tr>
 	<th width="80%">

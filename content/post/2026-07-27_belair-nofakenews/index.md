@@ -5,13 +5,13 @@ date: 2026-07-27 21:30:00
 publishDate: '2026-07-21T09:59:44.385734Z'
 draft: false
 featured: false
-projects:
 - tout-public
 title: "Court-métrage *L’école des Fake News* sur grand écran ! #NOFAKENEWS"
 summary: "Présentation du court métrage *L’école des Fake News* #NOFAKENEWS, à l’occasion de la 31e édition de Ciné Plein Air Marseille, organisée par Les Écrans du Sud, et réalisé avec l’école Air Bel et l’association Polly Maggoo."
-tags: ["visual-illusions"]
 location: Marseille, France
-categories: ["NeuroAI & Machine Learning"]
+tags: ["visual-illusions"]
+categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: ["tout-public"]
 ---
 {{% callout note %}}
 Bienvenue dans l’une des écoles les plus novatrices du monde : *l’école des Fake News* ! Située à Marseille, en France, cette école haut de gamme a vu le jour grâce aux généreux financements des plus puissantes entreprises numériques chinoises et américaines.

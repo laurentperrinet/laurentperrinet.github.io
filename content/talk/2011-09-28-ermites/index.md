@@ -39,7 +39,6 @@ date: 2011-09-28 13:00:00
 event: Proceedings of SfN, 2011
 event_url: http://glotin.univ-tln.fr/ERMITES11/index.xhtml
 featured: false
-grants:
 - brain-scales
 links:
 - name: Conference
@@ -49,9 +48,10 @@ links:
 location: Porquerolles la Perle des Iles d'Or - Var (France)
 
 publication: '*Proceedings of SfN, 2011*'
-tags: ["primary-visual-cortex", "sparse-coding"]
 title: 'Edge statistics in natural images versus laboratory animal environments: implications
   for understanding lateral connectivity in V1'
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["bayesian-modelling", "primary-visual-cortex", "sparse-coding"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---
 * See a followup in {{< cite page="/publication/perrinet-bednar-15" view="1" >}}

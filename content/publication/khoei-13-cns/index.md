@@ -7,7 +7,6 @@ authors:
 date: 2013-01-01
 doi: 10.1186/1471-2202-14-S1-P314
 featured: false
-projects:
 - facets-itn
 links:
 - name: URL
@@ -16,10 +15,11 @@ links:
 publication: '*Annual Computational Neuroscience Meeting: CNS*2013, Paris*'
 publication_types:
 - inproceedings
-tags: ["bayesian-modeling", "motion-detection"]
 title: Motion-based prediction and development of the response to an 'on the way'
   stimulus
-categories: ["Computational Neuroscience"]
+tags: ["bayesian-modeling", "motion-detection"]
+categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}
 * see  follow-up on motion extrapolation: {{< cite page="/publication/khoei-13-jpp" view="4" >}}

@@ -6,7 +6,6 @@ authors:
 date: 2015-11-01
 doi: 10.1002/9783527680863.ch12
 featured: false
-grants:
 - anr-speed
 links:
 - name: Pdf
@@ -19,8 +18,9 @@ links:
 publication: '*Biologically Inspired Computer Vision*'
 publication_types:
 - inbook
-tags: ["motion-perception"]
 title: Visual motion processing and human tracking behavior
-categories: ["Behavioural Neuroscience"]
+tags: ["motion-perception"]
+categories: ["Behavioural Neuroscience", "Computer Vision", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * Appeared in this book: {{< cite page="/publication/cristobal-perrinet-keil-15-bicv" view="4" >}}

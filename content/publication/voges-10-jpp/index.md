@@ -20,7 +20,6 @@ authors:
 date: 2010-11-10
 doi: 10.1016/j.jphysparis.2009.11.004
 featured: false
-projects:
 - facets
 links:
 - name: URL
@@ -29,9 +28,10 @@ links:
 publication: '*Journal of Physiology-Paris*'
 publication_types:
 - article-journal
-tags: ["sparse-coding"]
 title: Phase space analysis of networks based on biologically realistic parameters
-categories: ["Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["sparse-coding"]
+categories: ["Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 ![header](voges-10-jpp.png)
 * see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

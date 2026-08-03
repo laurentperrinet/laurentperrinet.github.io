@@ -5,16 +5,16 @@ date: 2024-05-23 08:30:00
 publishDate: '2024-05-21T09:59:44.385734Z'
 draft: false
 featured: false
-projects:
 - tout-public
 summary: "Participation à Structure d’Accompagnement à la Sortie de la prison des Baumettes"
-tags: ["visual-illusions"]
 location: Marseille, France
 title: 'Rencontre cinémas & sciences à la prison des Baumettes'
 links:
 - name: URL
   url: http://www.lieuxfictifs.org/actualites/article/inauguration-de-la-salle-de-cinema
-categories: ["NeuroAI & Machine Learning"]
+tags: ["visual-illusions"]
+categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 ![14eme du RISC](http://festivalrisc.org/wp-content/uploads/2023/11/RISCV02rvb-web-WP.jpg)
 

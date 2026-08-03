@@ -15,9 +15,10 @@ summary: Le GDR Vision réunit toute la communauté des chercheurs en France tra
   de l'espace et les processus décisionnels. Il s'agit d'un réseau pluridisciplinaire
   réunissant psychophysiciens, psychologues, chercheurs en neurosciences (électrophysiologie
   et imagerie chez l'animal et l'Homme), et modélisateurs.
-tags: ["visual-illusions"]
 title: '2019-10-10: GDR vision 2019'
-categories: ["NeuroAI & Machine Learning"]
+tags: ["visual-illusions"]
+categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 Avec Anna Montagnini, Manuel Vidal et Françoise Vitu, nous organisons cette année le GDR Vision à Marseille les journées du 10 et 11 octobre.
 

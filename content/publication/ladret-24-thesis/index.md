@@ -38,5 +38,7 @@ abstract: Cette thèse vise à comprendre les fondements et les fonctions des ca
 links:
 - name: URL
   url: https://theses.fr/s377438
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: [""]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

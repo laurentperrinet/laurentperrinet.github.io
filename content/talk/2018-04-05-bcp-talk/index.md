@@ -7,7 +7,6 @@ date: 2018-04-05 14:00:00
 event: Probabilities and Optimal Inference to Understand the Brain
 event_url: https://laurentperrinet.github.io/post/2018-04-05_optimal-inference-brain-workshop/
 featured: false
-projects:
 - pace-itn
 links:
 - name: Conference
@@ -24,7 +23,9 @@ publication: '*Probabilities and Optimal Inference to Understand the Brain, INT,
   (France)*'
 title: Principles and psychophysics of Active Inference in anticipating a dynamic,
   switching probabilistic bias
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["bayesian-modelling"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="1" >}}
 * previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})

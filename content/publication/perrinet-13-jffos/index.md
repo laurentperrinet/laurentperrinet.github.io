@@ -22,7 +22,6 @@ authors:
 - Karl Friston
 date: 2013-01-01
 featured: false
-projects:
 - codde
 links:
 - name: URL
@@ -31,7 +30,8 @@ links:
 publication: '*The 7th Japanese-French Frontiers of Science Symposium*'
 publication_types:
 - inproceedings
-tags: ["predictive-coding", "motion-perception", "eye-movements"]
 title: Active inference, eye movements and oculomotor delays
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["bayesian-modelling", "eye-movements", "motion-perception", "predictive-coding"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

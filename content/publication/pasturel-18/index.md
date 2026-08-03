@@ -31,8 +31,9 @@ links:
 publication: ''
 publication_types:
 - inproceedings
-tags: ["motion-anticipation", "motion-perception", "eye-movements"]
 title: Estimating and anticipating a dynamic probabilistic bias in visual motion direction
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["bayesian-modelling", "eye-movements", "motion-anticipation", "motion-perception"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * see a write-up in {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}

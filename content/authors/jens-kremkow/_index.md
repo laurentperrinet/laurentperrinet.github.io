@@ -23,8 +23,9 @@ social:
 superuser: false
 user_groups:
 - Former Students
-categories: ["Biological Neuroscience", "Computational Neuroscience"]
-tags: ["spiking-neural-networks", "primary-visual-cortex", "neuromorphic-computing", "sparse-coding"]
+tags: ["neuromorphic-computing", "primary-visual-cortex", "pynn", "sparse-coding", "spiking-neural-networks"]
+projects: [""]
+categories: ["Biological Neuroscience", "Computational Neuroscience", "Education", "Outreach & Public Engagement", "Visual Neuroscience"]
 ---
 # Correlating Excitation and Inhibition in Visual Cortical Circuits: Functional Consequences and Biological Feasibility  (PhD, 2006-01 / 2009-05)
 

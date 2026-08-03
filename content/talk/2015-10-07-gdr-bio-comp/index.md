@@ -14,7 +14,6 @@ date: 2015-10-07 13:00:00
 event: First GDR BioComp workshop
 event_url: http://gdr-biocomp.fr/colloque/
 featured: false
-grants:
 - brain-scales
 image: {}
 links:
@@ -27,6 +26,7 @@ location: Saint-Paul de Vence
 publication: '*First GDR BioComp workshop, Saint-Paul de Vence, October 7th, 2015*'
 title: Motion-based prediction with neuromorphic hardware
 url_slides: https://laurentperrinet.github.io/sciblog/files/2015-10-07_Perrinet15biocomp_slides.pdf
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
-tags: ["neuromorphic-computing", "motion-perception"]
+tags: ["bayesian-modelling", "motion-perception", "neuromorphic-computing"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

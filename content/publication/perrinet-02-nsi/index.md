@@ -7,7 +7,8 @@ featured: false
 publication: '*Actes de Neurosciences et Sciences de l''Ingenieur, L''Agelonde,*'
 publication_types:
 - inproceedings
-tags: ["sparse-coding"]
 title: Visual Strategies for Sparse Spike Coding
-categories: ["Computational Neuroscience"]
+tags: ["sparse-coding"]
+categories: ["Computational Neuroscience", "Education", "Outreach & Public Engagement"]
+projects: [""]
 ---

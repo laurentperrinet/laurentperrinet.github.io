@@ -110,4 +110,7 @@ content:
 
 design:
   columns: '2'
+tags: [""]
+categories: ["Education"]
+projects: [""]
 ---

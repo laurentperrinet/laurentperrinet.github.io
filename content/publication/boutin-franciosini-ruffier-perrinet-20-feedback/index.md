@@ -24,7 +24,6 @@ authors:
 date: 2020-02-04
 doi: 10.1162/neco_a_01325
 featured: false
-projects:
 - mesocentre
 - doc-2-amu
 - phd-icn
@@ -37,9 +36,10 @@ links:
 publication: '*Neural Computation*'
 publication_types:
 - article-journal
-tags: ["predictive-coding", "sparse-coding"]
 title: Effect of top-down connections in Hierarchical Sparse Coding
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["bayesian-modelling", "predictive-coding", "sparse-coding"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 ![](@laurentperrinet_1323549136088694790_tweetcapture.png)
  * get the code @ https://github.com/VictorBoutin/SPC_2L

@@ -6,7 +6,6 @@ date: 2022-05-19 09:00:00
 event: second CENTURI Scientific Day
 event_url: https://centuri-livingsystems.org/events/centuri-scientific-day-3/
 featured: false
-projects:
 - aprovis3D
 image:
   alt_text: AG ready for the talk.
@@ -22,9 +21,10 @@ publication: '*second CENTURI Scientific Day*'
 publication_types:
 - inproceedings
 publishDate: 2022-05-19T10:44:45.446866Z
-tags: ["neuromorphic-computing", "efficient-coding", "event-based-vision", "homeostasis", "motion-perception"]
 title: Polychrony detection using heterogeneous delays
-categories: ["NeuroAI & Machine Learning"]
+tags: ["efficient-coding", "event-based-vision", "homeostasis", "motion-perception", "neuromorphic-computing"]
+categories: ["NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * Follow this future presentations {{< cite page="/talk/2022-06-19-neuro-vision-heterogeneous" view="1" >}}
 ![](@laurentperrinet_1527604282043813888_tweetcapture.png)

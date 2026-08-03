@@ -1,7 +1,6 @@
 ---
 authors:
 - Laurent U Perrinet
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 date: 2023-05-10 14:00:00
 draft: false
 event: NeuroSchool PhD Program in Neuroscience
@@ -15,7 +14,6 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-computationnelles/
 location: Marseille (France)
-projects:
 - courses
 publication: '*NeuroSchool PhD Program in Neuroscience*'
 publication_types:
@@ -23,7 +21,9 @@ publication_types:
 publishDate: '2023-05-10T09:25:10.644867Z'
 slides: 2023-05-10-phd-program_neurosciences-computationnelles
 subtitle: ''
-tags: []
 title: Interactions between machine learning, artificial neural networks and our understanding
   of biological vision
+tags: [""]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

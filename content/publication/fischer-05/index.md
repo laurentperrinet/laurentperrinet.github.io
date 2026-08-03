@@ -30,14 +30,14 @@ authors:
 - Gabriel Cristóbal
 date: 2005-01-01
 featured: false
-projects:
 - facets
 publication: '*Perception*'
 publication_types:
 - inproceedings
-tags: ["spiking-neural-networks", "primary-visual-cortex", "matching-pursuit", "visual-illusions", "sparse-coding"]
 title: Efficient representation of natural images using local cooperation
-categories: ["Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["bayesian-modelling", "foveated-vision", "log-gabor", "log-polar-mapping", "matching-pursuit", "primary-visual-cortex", "retinotopy", "sparse-coding", "spiking-neural-networks", "visual-illusions"]
+categories: ["Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---
 * relies on log-Gabor filters: {{< cite page="/publication/fischer-07-cv" view="4" >}}
 {{< figure src="https://laurentperrinet.github.io/publication/fischer-07/figure2.png" width="80%" title="Schematic structure of the primary visual cortex implemented in the present study. Simple cortical cells are modeled through log-Gabor functions. They are organized in pairs in quadrature of phase (dark-gray circles). For each position the set of different orientations compose a pinwheel (large light-gray circles). The retinotopic organization induces that adjacent spatial positions are arranged in adjacent pinwheels. Inhibition interactions occur towards the closest adjacent positions which are in the direc-tions perpendicular to the cell preferred orientation and toward adjacent orientations (light-red connections). Facilitation occurs to-wards co-aligned cells up to a larger distance (dark-blue connections). " >}}

@@ -22,7 +22,6 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2010-04-14-ondes-paralleles/
 location: Aix-enProvence (France)
-projects:
 - art-science
 - tout-public
 publication: '*intervention autour du vernissage de "Diffraction monochromatique,
@@ -30,8 +29,9 @@ publication: '*intervention autour du vernissage de "Diffraction monochromatique
 publication_types:
 - inproceedings
 title: Diffraction monochromatique, spectre audiographique
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
-tags: ["spiking-neural-networks", "visual-illusions", "sparse-coding"]
+tags: ["homeostasis", "sparse-coding", "spiking-neural-networks", "visual-illusions"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: ["art-science"]
 ---
 # Diffraction monochromatique, spectre audiographique
 ![Diffraction](https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg)

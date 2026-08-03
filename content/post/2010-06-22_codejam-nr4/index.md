@@ -8,14 +8,14 @@ image:
   placement: 2
   preview_only: false
 lastmod: 2010-06-22 00:00:00
-projects:
 - facets
 - brain-scales
 subtitle: We held a CodeJam 22nd-24th June 2010, in Marseille.
 summary: We held a CodeJam 22nd-24th June 2010, in Marseille.
-tags: ["spiking-neural-networks", "neuromorphic-computing"]
 title: '2010-06-22 : CodeJamNr4'
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["neuromorphic-computing", "spiking-neural-networks"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 # FACETS Code Jam Workshop \#4
 

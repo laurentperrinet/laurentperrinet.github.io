@@ -18,7 +18,6 @@ authors:
 - Anna Montagnini
 date: 2018-01-01
 featured: false
-projects:
 - pace-itn
 links:
 - name: URL
@@ -28,9 +27,10 @@ publication: '*Grenoble Workshop on Models and Analysis of Eye Movements, Grenob
   France*'
 publication_types:
 - inproceedings
-tags: ["motion-perception", "eye-movements"]
 title: Estimating and anticipating a dynamic probabilistic bias in visual motion direction
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["bayesian-modelling", "eye-movements", "motion-perception"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * see a write-up in {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}
 * as presented at https://eyemovements.sciencesconf.org/

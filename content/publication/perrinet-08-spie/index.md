@@ -20,7 +20,6 @@ authors:
 - Laurent U Perrinet
 date: 2008-01-01
 featured: false
-projects:
 - facets
 links:
 - name: arXiv
@@ -30,8 +29,9 @@ publication: '*Optical and Digital Image Processing Conference 7000 - Proceeding
   of SPIE Volume 7000, 7 - 11 April 2008*'
 publication_types:
 - inproceedings
-tags: ["spiking-neural-networks", "primary-visual-cortex", "neuromorphic-computing", "sparse-coding"]
 title: 'Adaptive Sparse Spike Coding : applications of Neuroscience to the compression
   of natural images'
-categories: ["Computational Neuroscience", "Theoretical Neuroscience"]
+tags: ["neuromorphic-computing", "primary-visual-cortex", "sparse-coding", "spiking-neural-networks"]
+categories: ["Computational Neuroscience", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
+projects: [""]
 ---

@@ -8,7 +8,6 @@ authors:
 date: 2010-01-01
 doi: 10.1167/10.7.545
 featured: false
-projects:
 - codde
 links:
 - name: URL
@@ -17,7 +16,8 @@ links:
 publication: '*Vision Science Society*'
 publication_types:
 - inproceedings
-tags: ["motion-perception"]
 title: A recurrent Bayesian model of dynamic motion integration for smooth pursuit
-categories: ["Computational Neuroscience"]
+tags: ["motion-perception"]
+categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
+projects: [""]
 ---

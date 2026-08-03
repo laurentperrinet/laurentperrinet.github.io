@@ -28,7 +28,6 @@ authors:
 date: 2018-11-21
 doi: 10.1162/neco_a_01142
 featured: false
-grants:
 - anr-speed
 links:
 - name: URL
@@ -39,7 +38,8 @@ links:
 publication: '*Neural Computation*'
 publication_types:
 - article-journal
-tags: ["predictive-coding", "motion-perception", "visual-illusions"]
 title: Bayesian Modeling of Motion Perception using Dynamical Stochastic Textures
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["bayesian-modelling", "motion-perception", "predictive-coding", "visual-illusions"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---

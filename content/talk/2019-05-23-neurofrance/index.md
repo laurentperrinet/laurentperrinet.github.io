@@ -23,7 +23,6 @@ authors:
 date: 2019-05-23 01:30:00
 event: Colloque international de la Société Française des Neurosciences 2019
 featured: false
-projects:
 - pace-itn
 links:
 - name: Slides
@@ -40,8 +39,9 @@ publication: '*Probabilities and Optimal Inference to Understand the Brain, INT,
   (France)*'
 title: Should I stay or should I go? Humans adapt to the volatility of visual motion
   properties, and know about it
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
-tags: ["motion-perception", "eye-movements"]
+tags: ["bayesian-modelling", "eye-movements", "motion-perception"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="1" >}}
 * This is part of the [Active Inference symposium]({{< ref "/post/2019-05-23-neurofrance/index.md" >}}) @ [NeuroFrance](https://www.neurosciences.asso.fr/V2/colloques/SN19/) SYMPOSIUM, Room 7

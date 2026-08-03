@@ -6,7 +6,6 @@ authors:
 - Anna Montagnini
 date: 2016-01-01
 featured: false
-projects:
 - pace-itn
 links:
 - name: URL
@@ -15,8 +14,9 @@ links:
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - inproceedings
-tags: ["eye-movements", "motion-detection"]
 title: 'Voluntary tracking the moving clouds : Effects of speed variability on human
   smooth pursuit'
-categories: ["Behavioural Neuroscience"]
+tags: ["eye-movements", "motion-detection"]
+categories: ["Behavioural Neuroscience", "Outreach & Public Engagement"]
+projects: [""]
 ---

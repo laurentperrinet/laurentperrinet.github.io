@@ -27,7 +27,6 @@ authors:
 date: 2019-07-15 12:20:00
 event: 'Annual Computational Neuroscience Meeting: CNS*2019 Barcelona, Spain'
 featured: false
-grants:
 - spikeai
 links:
 - name: Slides
@@ -42,9 +41,10 @@ links:
 publication: '*CNS*2019 Barcelona, Spain*'
 publication_types:
 - inproceedings
-tags: ["primary-visual-cortex", "eye-movements"]
 title: 'Learning where to look: a foveated visuomotor control model'
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["bayesian-modelling", "eye-movements", "foveated-vision", "log-polar-mapping", "primary-visual-cortex", "retinotopy"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
+projects: [""]
 ---
  - download a [preliminary PDF](https://laurentperrinet.github.io/talk/2019-07-15-cns/2019-07-15-cns.pdf)
  ![](@laurentperrinet_1150713758643380226_tweetcapture.png)

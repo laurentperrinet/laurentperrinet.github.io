@@ -20,7 +20,6 @@ authors:
 - Laurent U Perrinet
 date: 2018-01-01
 featured: false
-projects:
 - pace-itn
 links:
 - name: Code
@@ -31,9 +30,10 @@ links:
 publication: '*GDR Vision, Paris, 2018*'
 publication_types:
 - inproceedings
-tags: ["spiking-neural-networks", "primary-visual-cortex"]
 title: Selectivity to oriented patterns of different precisions
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["primary-visual-cortex", "spiking-neural-networks"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---
 * poster présenté au [GDR vision, Paris](https://gdrvision2018.sciencesconf.org).
 * program : https://gdrvision2018.sciencesconf.org/data/pages/posters_GDRVision2018.pdf

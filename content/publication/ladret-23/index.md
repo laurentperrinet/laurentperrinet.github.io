@@ -21,7 +21,6 @@ authors:
 date: 2023-06-06
 doi: 10.1038/s42003-023-05042-3
 featured: true
-grants:
 - anr-horizontal-v1
 - anr-anr
 - polychronies
@@ -40,10 +39,11 @@ links:
 publication: '*Nature Communications Biology*'
 publication_types:
 - article-journal
-tags: ["predictive-coding", "motion-perception", "primary-visual-cortex", "visual-illusions"]
 title: Cortical recurrence supports resilience to sensory variance in the primary
   visual cortex
-categories: ["Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["bayesian-modelling", "motion-perception", "predictive-coding", "primary-visual-cortex", "visual-illusions"]
+categories: ["Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
 * open access: https://www.nature.com/articles/s42003-023-05042-3
 * 5 minutes summary: https://hugoladret.github.io/publications/ladret_et_al_variance_v1/

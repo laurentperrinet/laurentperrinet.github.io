@@ -11,9 +11,10 @@ publication_types:
 - paper-conference
 publication: "*Séminaire au colloque du PEPR AI ``Emergences'' 2026*"
 slides: 2026-01-29-emergences
-tags: ["sparse-coding"]
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-01-29-emergences
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["sparse-coding"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

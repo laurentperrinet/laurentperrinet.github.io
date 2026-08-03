@@ -17,12 +17,13 @@ social:
   icon_pack: ai
   link: https://www.researchgate.net/profile/amélie-gruel
 superuser: false
-tags:
 - aprovis-3-d
 user_groups:
 - Former Students
+tags: [""]
+projects: [""]
+categories: ["Computer Vision", "Education", "Outreach & Public Engagement"]
 ---
-
 #  "Design of bio-inspired spiking neural networks (spiking neurons) for event-based stereovision" (PhD position, 2020-09 / 2023-09)
 
 

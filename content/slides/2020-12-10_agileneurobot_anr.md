@@ -4,10 +4,10 @@ slides:
 
 title: 2020-12-10_agileneurobot_anr
 
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-tags: ["spiking-neural-networks", "neuromorphic-computing"]
+tags: ["neuromorphic-computing", "spiking-neural-networks"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+projects: [""]
 ---
-
 <a href="https://laurentperrinet.github.io/grant/anr-anr">
 <img src="https://laurentperrinet.github.io/grant/anr-anr/header.png" alt="header" height="450">
 </a>

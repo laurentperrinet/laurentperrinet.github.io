@@ -4,15 +4,15 @@ authors:
 - Laurent U Perrinet
 date: 2014-01-01
 featured: false
-grants:
 - anr-bala-v1
 - brain-scales
 
 publication: '*6th Workshop of the Computational Neuroscience Network in Marseille*'
 publication_types:
 - inproceedings
-tags: ["primary-visual-cortex"]
 title: A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["primary-visual-cortex"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * see a follow-up in this [publication]({{< ref "/publication/taouali-16" >}})

@@ -29,7 +29,6 @@ authors:
 - Laurent U Perrinet
 date: 2021-01-26
 doi: 10.1371/journal.pcbi.1008629
-grants:
 - anr-horizontal-v1
 - doc-2-amu
 - phd-icn
@@ -45,10 +44,11 @@ links:
 publication: '*PLoS Computational Biology*'
 publication_types:
 - article-journal
-tags: ["predictive-coding", "visual-illusions", "primary-visual-cortex", "sparse-coding"]
 title: Sparse Deep Predictive Coding captures contour integration capabilities of
   the early visual system
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding", "visual-illusions"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
 ![](@laurentperrinet_1355810283835564033_tweetcapture.png)
 {{< figure src="https://journals.plos.org/ploscompbiol/article/figure/image?size=large&download=&id=10.1371/journal.pcbi.1008629.g001" width="80%" title="Fig 1. Architecture of a 2-layered SDPC model." >}}

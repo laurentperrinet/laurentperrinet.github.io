@@ -32,7 +32,6 @@ authors:
 - Anna Montagnini
 date: 2017-01-01
 featured: false
-projects:
 - pace-itn
 links:
 - name: URL
@@ -41,8 +40,9 @@ links:
 publication: '*GDR Vision, Lille, 2017*'
 publication_types:
 - inproceedings
-tags: ["motion-perception", "eye-movements"]
 title: 'Voluntary tracking the moving clouds : Effects of speed variability on human
   smooth pursuit'
-categories: ["Behavioural Neuroscience"]
+tags: ["eye-movements", "motion-perception"]
+categories: ["Behavioural Neuroscience", "Education", "Outreach & Public Engagement"]
+projects: [""]
 ---

@@ -15,7 +15,6 @@ authors:
 date: 2015-08-01
 doi: 10.1109/EUSIPCO.2015.7362781
 featured: false
-grants:
 - anr-bala-v1
 - brain-scales
 links:
@@ -25,7 +24,8 @@ links:
 publication: '*European Signal Processing Conference 2015 (EUSIPCO 2015)*'
 publication_types:
 - inproceedings
-tags: ["primary-visual-cortex", "sparse-coding"]
 title: Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["bayesian-modelling", "primary-visual-cortex", "sparse-coding"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

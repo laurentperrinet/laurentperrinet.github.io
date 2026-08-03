@@ -10,8 +10,9 @@ featured: false
 publication: '*Neurocomputing*'
 publication_types:
 - article-journal
-tags: ["visual-cortex"]
 title: 'Network of integrate-and-fire neurons using Rank Order Coding A: how to implement
   spike timing dependant plasticity'
-categories: ["Computational Neuroscience"]
+tags: ["visual-cortex"]
+categories: ["Computational Neuroscience", "Education", "Outreach & Public Engagement"]
+projects: [""]
 ---

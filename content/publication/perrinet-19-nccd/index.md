@@ -38,7 +38,6 @@ authors:
 - Laurent U Perrinet
 date: 2019-09-23
 featured: false
-grants:
 - anr-horizontal-v1
 links:
 - name: URL
@@ -47,8 +46,9 @@ links:
 publication: '*Proceedings of NCCD, Capbreton*'
 publication_types:
 - inproceedings
-tags: ["motion-perception", "primary-visual-cortex"]
 title: A dynamic model for decoding direction and orientation in macaque primary visual
   cortex
-categories: ["Biological Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["motion-perception", "primary-visual-cortex"]
+categories: ["Biological Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---

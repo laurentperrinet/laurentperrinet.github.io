@@ -19,7 +19,8 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ZbJ97FAAAAAJ
 
+tags: [""]
+projects: [""]
+categories: ["Outreach & Public Engagement"]
 ---
-
-
 Main publication: {{< cite page="/publication/sanz-12" view="4" >}}

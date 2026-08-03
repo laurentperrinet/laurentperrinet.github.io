@@ -9,7 +9,6 @@ authors:
 - Laurent U Perrinet
 date: 2019-01-01
 featured: false
-grants:
 - anr-horizontal-v1
 image:
   caption: 'Un pélican en vol photographié par Etienne-Jules Marey en 1882. https://commons.wikimedia.org/wiki/File:Marey_-_birds.jpg '
@@ -17,14 +16,14 @@ image:
 links:
 - name: URL
   url: https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567
-projects:
 - tout-public
 publication: '*The Conversation*'
 publication_types:
 - article-journal
 title: 'Temps et cerveau : comment notre perception nous fait voyager dans le temps'
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
 tags: ["primary-visual-cortex", "visual-illusions"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * Un article dans [The Conversation](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567) dont l'objectif est d'être accessible et réutilisable (dans des cours d'introduction aux neurosciences, sciences cognitives, vision, réseaux de neurones, intelligence artificielle).
 * Le flash-lag effect original:

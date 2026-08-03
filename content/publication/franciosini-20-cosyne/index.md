@@ -57,7 +57,6 @@ authors:
 - Laurent U Perrinet
 date: 2020-09-27
 featured: false
-projects:
 - doc-2-amu
 - phd-icn
 - mesocentre
@@ -68,10 +67,11 @@ links:
 publication: '*Computational and Systems Neuroscience (Cosyne) 2020*'
 publication_types:
 - inproceedings
-tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding"]
 title: Modelling Complex-cells and topological structure in the visual cortex of mammals
   using Sparse Predictive Coding
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["bayesian-modelling", "predictive-coding", "primary-visual-cortex", "sparse-coding"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
+projects: [""]
 ---
 {{< figure src="poster.jpg" width="100%" >}}
 * see the follow-up paper in: {{< cite page="/publication/franciosini-21" view="4" >}}

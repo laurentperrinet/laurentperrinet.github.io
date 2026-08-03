@@ -6,9 +6,10 @@ authors:
 - yves-fregnac
 - frédéric-y-chavane
 - laurent-u-perrinet
-tags: ["motion-perception", "visual-illusions", "predictive-coding", "sparse-coding", "spiking-neural-networks", "primary-visual-cortex"]
 title: ANR Horizontal-V1 (2017/2021)
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Grants & Funding"]
+tags: ["bayesian-modelling", "foveated-vision", "log-polar-mapping", "motion-perception", "predictive-coding", "primary-visual-cortex", "retinotopy", "sparse-coding", "spiking-neural-networks", "visual-illusions"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "Grants & Funding", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---
 * Description on the official website of the [ANR](http://www.agence-nationale-recherche.fr/Project-ANR-17-CE37-0006)
 

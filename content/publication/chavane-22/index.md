@@ -24,7 +24,6 @@ authors:
 date: 2022-02-05
 doi: 10.1007/s00429-022-02455-4
 featured: false
-grants:
 - anr-trajectory
 links:
 - name: URL
@@ -33,10 +32,11 @@ links:
 publication: '*Brain Structure and Function*'
 publication_types:
 - article-journal
-tags: ["primary-visual-cortex", "lateral-interactions", "horizontal-connectivity", "orientation-maps"]
 title: 'Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards
   like-to-All'
-categories: ["Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["foveated-vision", "horizontal-connectivity", "lateral-interactions", "log-polar-mapping", "orientation-maps", "primary-visual-cortex", "retinotopy"]
+categories: ["Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
+projects: [""]
 ---
 ![](@laurentperrinet_1490717893750935552_tweetcapture.png)
 

@@ -7,7 +7,6 @@ authors:
 date: 2016-11-01
 doi: 10.5281/zenodo.5823016
 featured: false
-grants:
 - anr-trajectory
 links:
 - name: URL
@@ -16,15 +15,15 @@ links:
   url: https://github.com/laurentperrinet/2016_DropLets
 - name: arXiv
   url: https://arxiv.org/abs/1611.06834
-projects:
 - motion-clouds
 publication: ''
 publication_types:
 - preprint
-tags: ["motion-perception", "sparse-coding"]
 title: Differential response of the retinal neural code with respect to the sparseness
   of natural images
-categories: ["Computational Neuroscience"]
+tags: ["motion-clouds", "motion-perception", "sparse-coding"]
+categories: ["Computational Neuroscience", "Education", "Outreach & Public Engagement"]
+projects: ["open-science"]
 ---
 {{< figure src="retina.png" title="Sparse coding of images in the retina follows regular statistics at the global, not the local scale" numbered="true" >}}
 See [supplementray code](https://laurentperrinet.github.io/sciblog/posts/2017-11-21_retina_sparseness.html).

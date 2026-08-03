@@ -1,9 +1,14 @@
 ---
+title: 'ANEMO: Quantitative tools for the ANalysis of Eye MOvements'
 authors:
 - Chloé Pasturel
 - Anna Montagnini
 - Laurent U Perrinet
+publication: '*Grenoble Workshop on Models and Analysis of Eye Movements, Grenoble,
+  France*'
 date: 2018-01-01
+publication_types:
+- inproceedings
 featured: false
 grants:
 - pace-itn
@@ -14,13 +19,9 @@ links:
   url: https://hal.science/hal-04157003
 projects:
 - open-science
-publication: '*Grenoble Workshop on Models and Analysis of Eye Movements, Grenoble,
-  France*'
-publication_types:
-- inproceedings
-tags: ["motion-perception", "eye-movements"]
-title: 'ANEMO: Quantitative tools for the ANalysis of Eye MOvements'
-categories: ["Behavioural Neuroscience"]
+tags: ["eye-movements", "motion-clouds", "motion-perception"]
+categories: ["Behavioural Neuroscience", "Education", "Outreach & Public Engagement"]
+projects: ["open-science"]
 ---
 * see a write-up in {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}
 * as presented at https://eyemovements.sciencesconf.org/

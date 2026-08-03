@@ -46,7 +46,6 @@ authors:
 date: 2016-01-01
 doi: 10.1167/15.12.484
 featured: false
-grants:
 - anr-bala-v1
 - brain-scales
 links:
@@ -56,10 +55,11 @@ links:
 publication: '*Proceedings of VSS*'
 publication_types:
 - inproceedings
-tags: ["motion-perception", "primary-visual-cortex", "metaplasticity", "sparse-coding"]
 title: A dynamic model for decoding direction and orientation in macaque primary visual
   cortex
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["homeostasis", "metaplasticity", "motion-perception", "primary-visual-cortex", "sparse-coding"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---
 * see a follow-up in this [poster]({{< ref "/publication/taouali-16-areadne" >}})
 * This is a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

@@ -31,7 +31,6 @@ authors:
 date: 2015-09-01
 doi: 10.1167/15.12.1019
 featured: false
-grants:
 - anr-rem
 links:
 - name: URL
@@ -40,7 +39,8 @@ links:
 publication: '*Proceedings of VSS*'
 publication_types:
 - inproceedings
-tags: ["visual-illusions", "motion-perception", "eye-movements"]
 title: Anticipatory smooth eye movements and reinforcement
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["bayesian-modelling", "eye-movements", "motion-perception", "visual-illusions"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---

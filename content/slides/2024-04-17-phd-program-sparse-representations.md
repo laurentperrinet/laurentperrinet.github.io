@@ -17,8 +17,9 @@ title: 2024-04-17-phd-program-sparse-representations
 
 summary: Sparse representations in machine learning applied to the understanding of biological vision
 
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-tags: ["motion-perception", "neuromorphic-computing", "sparse-coding", "predictive-coding", "spiking-neural-networks", "primary-visual-cortex"]
+tags: ["bayesian-modelling", "deep-learning", "motion-perception", "neuromorphic-computing", "predictive-coding", "primary-visual-cortex", "sparse-coding", "spiking-neural-networks"]
+categories: ["Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
 <section>
 

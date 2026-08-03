@@ -33,7 +33,6 @@ authors:
 - Christian Casanova
 date: 2019-01-01
 featured: false
-grants:
 - anr-horizontal-v1
 links:
 - name: URL
@@ -42,10 +41,11 @@ links:
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - inproceedings
-tags: ["spiking-neural-networks", "primary-visual-cortex", "sparse-coding"]
 title: Orientation selectivity to synthetic natural patterns in a cortical-like model
   of the cat primary visual cortex
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["primary-visual-cortex", "sparse-coding", "spiking-neural-networks"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
+projects: [""]
 ---
 ![](@laurentperrinet_1186513282326257665_tweetcapture.png)
 * See a followup in [Ladret and Perrinet, 2020]({{< ref "/publication/ladret-20-aes" >}})

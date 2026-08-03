@@ -43,16 +43,16 @@ authors:
 - Laurent U Perrinet
 date: 2009-01-01
 featured: false
-projects:
 - facets
 
 publication: '*Proceedings of COSYNE*'
 publication_types:
 - inproceedings
-tags: ["spiking-neural-networks"]
 title: Dynamical state spaces of cortical networks representing various horizontal
   connectivities
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["bayesian-modelling", "pynn", "spiking-neural-networks"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}
 * see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

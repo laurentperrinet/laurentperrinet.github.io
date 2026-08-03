@@ -5,11 +5,12 @@ date: 2014-04-17
 draft: false
 lastmod: 2014-04-17 06:00:00
 
-tags: ["predictive-coding", "motion-perception", "eye-movements"]
 title: '2014-04-17: Soutenance d''habilitation à diriger des recherches (HDR)'
 subtitle: Codage prédictif dans les transformations visuo-motrices
 summary: 'J''ai soutenu mon habilitation à diriger des recherche (HDR) le 17 avril 2014, celle-ci ayant pour titre: **Codage prédictif dans les transformations visuo-motrices**'
-categories: ["NeuroAI & Machine Learning"]
+tags: ["eye-movements", "motion-perception", "predictive-coding"]
+categories: ["NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 Quand: le 17 avril 2014 de 14 H30 à 16 H 30,
 

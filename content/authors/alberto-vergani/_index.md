@@ -29,12 +29,13 @@ education:
     institution: University of Insubria, Varese, Italy
     year: 2018
 
-tags:
 - phd-icn
 user_groups:
 - Former Students
+tags: [""]
+projects: [""]
+categories: ["Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
 ---
-
 ## Main contributions to the project:
 
 * {{< cite page="/publication/vergani-21-bernstein" view="4" >}}

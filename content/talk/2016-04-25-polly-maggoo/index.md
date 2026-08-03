@@ -17,14 +17,14 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/sciblog/files/2016-04-25_pollymagoo/
 location: Marseille, France
-projects:
 - tout-public
 publication: '**'
 publication_types:
 - inproceedings
 title: Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
 tags: ["visual-illusions"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 # Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
 ## Cinésciences, collège Clair Soleil

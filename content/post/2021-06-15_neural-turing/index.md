@@ -5,18 +5,18 @@ authors:
 date: 2021-06-15 00:00:00
 draft: false
 lastmod: 2021-06-15 00:00:00
-projects:
 - art-science
 subtitle: Modèles de Turing neuronaux
 summary:  Neural Turing Patterns
-tags: ["visual-illusions"]
 title: Neural Turing Patterns
 image:
   caption: © Neural Turing Patterns - Alberto Vergani & Laurent Perrinet.
   focal_point: Smart
   placement: 2
   preview_only: false
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["visual-illusions"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
+projects: [""]
 ---
 # Neural Turing Patterns
 

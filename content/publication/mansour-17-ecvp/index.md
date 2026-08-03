@@ -6,7 +6,6 @@ authors:
 - Anna Montagnini
 date: 2017-01-01
 featured: false
-projects:
 - pace-itn
 links:
 - name: Pdf
@@ -17,7 +16,8 @@ links:
 publication: '*Proceedings of ECVP*'
 publication_types:
 - inproceedings
-tags: ["eye-movements", "motion-detection"]
 title: How the dynamics of human smooth pursuit is influenced by speed uncertainty
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["eye-movements", "motion-detection"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

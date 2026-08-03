@@ -34,7 +34,6 @@ authors:
 date: 2013-11-01
 doi: 10.1016/j.jphysparis.2013.08.001
 featured: false
-projects:
 - facets-itn
 links:
 - name: URL
@@ -43,9 +42,10 @@ links:
 publication: '*Journal of Physiology-Paris*'
 publication_types:
 - article-journal
-tags: ["bayesian-modeling", "motion-detection"]
 title: Motion-based prediction explains the role of tracking in motion extrapolation
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["bayesian-modeling", "bayesian-modelling", "motion-detection"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}
 * see  follow-up on the flash-lag effect: {{< cite page="/publication/khoei-masson-perrinet-17" view="4" >}}

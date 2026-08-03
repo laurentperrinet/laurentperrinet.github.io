@@ -17,7 +17,6 @@ authors:
 - Laurent U Perrinet
 date: 2019-03-25 14:30:00
 event: HDR Robin Baurès, Toulouse (France)
-grants:
 - anr-horizontal-v1
 links:
 - name: Slides
@@ -29,8 +28,9 @@ links:
 location: Toulouse (France)
 
 title: 'From the retina to action: Predictive processing in the visual system'
-categories: ["Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-tags: ["predictive-coding", "motion-perception", "primary-visual-cortex"]
+tags: ["bayesian-modelling", "motion-perception", "predictive-coding", "primary-visual-cortex"]
+categories: ["Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="1" >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="1" >}}

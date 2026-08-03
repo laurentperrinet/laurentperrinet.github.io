@@ -11,14 +11,14 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2016-11-20-polly-maggoo/
 location: Marseille, France
-projects:
 - tout-public
 publication: '*Cinésciences, collège Clair Soleil (Marseille)*'
 publication_types:
 - inproceedings
 title: Participation au jury et entretien avec Clara Delmon
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
 tags: ["visual-illusions"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: ["art-science", "tout-public"]
 ---
 # RENCONTRES INTERNATIONALES SCIENCES & CINÉMAS
 ## cinéma les Variétés

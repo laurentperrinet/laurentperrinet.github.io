@@ -16,6 +16,7 @@ lastmod: 2026-01-03 09:00:00
 
 tags: ["predictive-coding", "spiking-neural-networks"]
 categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
+projects: [""]
 ---
 {{% callout note %}}
 The position has been filled.

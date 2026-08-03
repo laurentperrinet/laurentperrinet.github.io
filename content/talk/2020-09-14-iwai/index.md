@@ -25,7 +25,6 @@ date: 2020-09-14 18:00:00
 doi: 10.1007/978-3-030-64919-7_17
 event: IWAI 2020
 featured: false
-projects:
 - aprovis-3-d
 links:
 - name: Slides
@@ -39,8 +38,9 @@ publication: '*IWAI 2020*'
 publication_types:
 - inproceedings
 title: Visual search as active inference
-categories: ["NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-tags: ["eye-movements"]
+tags: ["bayesian-modelling", "eye-movements"]
+categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
 * see proceedings paper: {{< cite page="/publication/dauce-20-iwai" view="1" >}}
 ![](@laurentperrinet_1305488089989754883_tweetcapture.png)

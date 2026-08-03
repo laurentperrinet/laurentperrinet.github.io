@@ -31,7 +31,6 @@ authors:
 date: 2013-01-01
 doi: 10.1167/13.9.354
 featured: false
-grants:
 - anr-speed
 links:
 - name: URL
@@ -40,7 +39,8 @@ links:
 publication: '*VSS Conference Abstract*'
 publication_types:
 - inproceedings
-tags: ["neuromorphic-computing", "motion-perception"]
 title: How and why do image frequency properties influence perceived speed?
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["motion-perception", "neuromorphic-computing"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---

@@ -45,8 +45,9 @@ location: Washington, DC
 publication: '*Society for Neuroscience Abstracts*'
 title: 'Edge statistics in natural images versus laboratory animal environments: implications
   for understanding lateral connectivity in V1'
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
-tags: ["primary-visual-cortex", "sparse-coding"]
+tags: ["bayesian-modelling", "primary-visual-cortex", "sparse-coding"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---
 * Abstract Control Number: 17671
 * Presentation Number: 530.04

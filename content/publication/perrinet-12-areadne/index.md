@@ -24,14 +24,14 @@ authors:
 - Karl Friston
 date: 2012-01-01
 featured: false
-projects:
 - codde
 
 publication: '*Proceedings of AREADNE, Santorini, Greece, 21-24 June 2012, published
   by The AREADNE Foundation, Inc., Cambridge, Massachusetts, USA, https://areadne.org*'
 publication_types:
 - inproceedings
-tags: ["predictive-coding", "motion-perception", "eye-movements"]
 title: Active inference, smooth pursuit and oculomotor delays
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["bayesian-modelling", "eye-movements", "motion-perception", "predictive-coding"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---

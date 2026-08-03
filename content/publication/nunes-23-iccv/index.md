@@ -16,12 +16,10 @@ authors:
 - Urbano Miguel Nunes
 - Laurent U Perrinet
 - Sio-Hoi Ieng
-categories: ["NeuroAI & Machine Learning"]
 date: 2023-10-06
 doi: 10.1109/ICCV51070.2023.02162
 draft: false
 featured: false
-grants:
 - anr-anr
 image:
   caption: ''
@@ -43,8 +41,10 @@ publication_types:
 - inproceedings
 publishDate: '2023-09-05T08:59:11.517138Z'
 subtitle: ''
-tags: ["neuromorphic-computing", "motion-perception", "visual-illusions"]
 title: Time-to-Contact Map by Joint Estimation of Up-to-Scale Inverse Depth and Global
   Motion using a Single Event Camera
+tags: ["motion-perception", "neuromorphic-computing", "visual-illusions"]
+categories: ["Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 * the code is openly available on [GitHub](https://github.com/neuromorphic-paris/ETTCM) with the accompanying data [VL.zip](https://www.dropbox.com/scl/fi/lw9ztsopinnjfztt82oxt/VL.zip?rlkey=6uccvu486iulvityrvrom50e4&dl=0).

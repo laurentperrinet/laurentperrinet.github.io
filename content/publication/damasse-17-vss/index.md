@@ -6,7 +6,6 @@ authors:
 date: 2017-01-01
 doi: 10.1167/17.10.273
 featured: false
-grants:
 - anr-rem
 links:
 - name: URL
@@ -15,8 +14,9 @@ links:
 publication: '*Proceedings of Vision Sciences Society Annual Meeting*'
 publication_types:
 - inproceedings
-tags: ["eye-movements"]
 title: 'Dynamic modulation of volatility by reward contingencies: effects on anticipatory
   smooth eye movement'
-categories: ["Computational Neuroscience"]
+tags: ["eye-movements"]
+categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
+projects: [""]
 ---

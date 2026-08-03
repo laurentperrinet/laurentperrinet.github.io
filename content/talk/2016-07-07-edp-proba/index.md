@@ -5,7 +5,6 @@ date: 2016-07-07 13:00:00
 event: 'Summer School: PDE and Probability for Life Sciences'
 event_url: http://scientific-events.weebly.com/prog-1426.html
 featured: false
-grants:
 - anr-bala-v1
 - brain-scales
 links:
@@ -21,7 +20,8 @@ publication: '*Summer School: PDE and Probability for Life Sciences @ CIRM, Mars
   - http://scientific-events.weebly.com/prog-1426.html - CIRM, July 7th, 2016*'
 title: 'Modelling the dynamics of cognitive processes: from the Bayesian brain to
   particles'
-categories: ["NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-tags: ["spiking-neural-networks", "primary-visual-cortex"]
+tags: ["primary-visual-cortex", "spiking-neural-networks"]
+categories: ["NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

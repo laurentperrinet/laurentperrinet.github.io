@@ -20,11 +20,12 @@ abstract: The retinas of many animals, including humans, have a specialized area
   Overall, this study suggests why retinotopic mapping in foveated vision implements
   prior knowledge about visual object geometry, providing an efficient solution to
   the visual search problem, an essential function for predators.
-tags: ["primary-visual-cortex", "eye-movements"]
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-01-08-brain-seminar
-categories: ["Computational Neuroscience", "Biological Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["bayesian-modelling", "eye-movements", "foveated-vision", "log-polar-mapping", "primary-visual-cortex", "retinotopy"]
+categories: ["Biological Neuroscience", "Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---
 * When: Wednesday 9th of January, 2025 at 12 noon.
 * Where: CRN seminar room, Montreal General Hospital, Livingston Hall, L7-140, with hybrid option.

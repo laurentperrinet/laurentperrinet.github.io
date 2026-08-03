@@ -29,7 +29,6 @@ date: 2009-11-30
 event: 'Macroscopic aspects of neuronal activity: ''''Macroscopic models, LFP models
   and VSD models'''' a FACETS workshop in Marseille, Nov. 30th /Dec. 1st'
 featured: false
-projects:
 - facets
 links:
 - name: URL
@@ -39,7 +38,8 @@ publication: '*Macroscopic aspects of neuronal activity: ''''Macroscopic models,
   models and VSD models'''' a FACETS workshop in Marseille, Nov. 30th /Dec. 1st*'
 title: Reading out the dynamics of lateral interactions in the primary visual cortex
   from VSD data
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 tags: ["motion-perception", "primary-visual-cortex"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
+projects: [""]
 ---
 * see this more recent poster @ [VSS]({{< ref "/publication/perrinet-09-vss/index.md" >}})

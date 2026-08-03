@@ -5,7 +5,6 @@ authors:
 date: 2016-04-20 00:00:00
 draft: false
 lastmod: 2018-01-13 00:00:00
-projects:
 - art-science
 subtitle: Installation à la Fondation Vasarely à Aix-en-Provence.
 summary: L'installation ''Elasticité dynamique'' agit comme un filtre et génère de
@@ -13,9 +12,10 @@ summary: L'installation ''Elasticité dynamique'' agit comme un filtre et génè
   principe de réflexion, la pièce absorbe l'image de l'environnement et accumule les
   points de vue ; le mouvement permanent requalifie continuellement ce qui est regardé
   et entendu.
-tags: ["spiking-neural-networks", "visual-illusions"]
 title: Elasticité dynamique
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["spiking-neural-networks", "visual-illusions"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: ["art-science"]
 ---
 # Trame Élasticité @  Fondation Vasarely à Aix-en-Provence
 

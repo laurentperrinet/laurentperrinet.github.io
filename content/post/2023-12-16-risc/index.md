@@ -5,17 +5,17 @@ date: 2023-12-16 20:00:00
 publishDate: '2023-12-04T09:59:44.385734Z'
 draft: false
 featured: false
-projects:
 - tout-public
 summary: "Rencontres Internationales Sciences Et Cinémas"
 event_url: http://www.pollymaggoo.org/
-tags: ["visual-illusions"]
 location: Marseille, France
 title: 'Participation au jury du RISC'
 links:
 - name: URL
   url: http://festivalrisc.org/14e-edition/
-categories: ["NeuroAI & Machine Learning"]
+tags: ["visual-illusions"]
+categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 # 14ème RENCONTRES INTERNATIONALES SCIENCES & CINÉMAS (RISC)
 

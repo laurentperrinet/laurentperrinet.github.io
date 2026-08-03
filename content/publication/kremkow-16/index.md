@@ -27,7 +27,6 @@ authors:
 date: 2016-01-01
 doi: 10.3389/fncir.2016.00037
 featured: false
-projects:
 - facets
 links:
 - name: URL
@@ -38,8 +37,9 @@ links:
 publication: '*Frontiers in Neural Circuits*'
 publication_types:
 - article-journal
-tags: ["spiking-neural-networks", "primary-visual-cortex", "sparse-coding"]
 title: 'Push-Pull Receptive Field Organization and Synaptic Depression: Mechanisms
   for Reliably Encoding Naturalistic Stimuli in V1'
-categories: ["Computational Neuroscience"]
+tags: ["primary-visual-cortex", "sparse-coding", "spiking-neural-networks"]
+categories: ["Computational Neuroscience", "Education", "Outreach & Public Engagement", "Visual Neuroscience"]
+projects: [""]
 ---

@@ -16,7 +16,6 @@ authors:
 date: 2019-04-03 16:00:00
 event: Licence Sciences et Humanité
 featured: false
-grants:
 - anr-horizontal-v1
 links:
 - name: Slides
@@ -26,13 +25,13 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2019-04-03-a-course-on-vision-and-modelization
 location: Marseille (France)
-projects:
 - courses
 publication: '*Licence Sciences & Humanité*'
 publication_types:
 - inproceedings
 title: 'From the retina to action: Understanding visual processing'
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-tags: ["predictive-coding", "motion-perception", "primary-visual-cortex"]
+tags: ["bayesian-modelling", "motion-perception", "predictive-coding", "primary-visual-cortex"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
 Cours de Licence Sciences & Humanité, 3/4/2019

@@ -16,7 +16,6 @@ authors:
 date: 2015-11-01
 doi: 10.1002/9783527680863.ch1
 featured: false
-grants:
 - brain-scales
 links:
 - name: URL
@@ -24,8 +23,9 @@ links:
 publication: '*Biologically Inspired Computer Vision*'
 publication_types:
 - inbook
-tags: ["vision"]
 title: Introduction
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["vision"]
+categories: ["Computational Neuroscience", "Computer Vision", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+projects: [""]
 ---
 {{< figure src="mindmap.png" title="Mindmap of the book contents. Cross-links between chapters have been indicated as thin lines." >}}

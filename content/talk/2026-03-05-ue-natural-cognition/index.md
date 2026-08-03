@@ -25,8 +25,9 @@ slides: 2026-03-05-ue-natural-cognition
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-03-05-ue-natural-cognition
-categories: ["Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-tags: ["predictive-coding", "motion-perception"]
+tags: ["bayesian-modelling", "motion-perception", "predictive-coding"]
+categories: ["Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+projects: [""]
 ---
 Practical work: https://github.com/laurentperrinet/2026-03_UE-neurosciences-computationnelles/
 
