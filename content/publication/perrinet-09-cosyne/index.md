@@ -57,13 +57,26 @@ date: 2009-01-01
 featured: false
 grants:
 - facets
-
 publication: '*Proceedings of COSYNE*'
 publication_types:
 - inproceedings
 title: Decoding center-surround interactions in population of neurons for the ocular
   following response
-tags: ["bayesian-modelling", "motion-perception", "primary-visual-cortex", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- motion-perception
+- primary-visual-cortex
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+projects:
+- ''
 ---
+
+

@@ -45,15 +45,24 @@ date: 2009-01-01
 featured: false
 grants:
 - facets
-
 publication: '*Proceedings of COSYNE*'
 publication_types:
 - inproceedings
 title: Dynamical state spaces of cortical networks representing various horizontal
   connectivities
-tags: ["bayesian-modelling", "pynn", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- bayesian-modelling
+- pynn
+- spiking-neural-networks
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}
 * see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

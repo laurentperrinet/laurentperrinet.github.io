@@ -36,8 +36,17 @@ publishDate: '2022-06-16T11:51:41.890310Z'
 show_authors_only: false
 subtitle: ''
 title: Which sparsity problem does the brain solve?
-tags: ["primary-visual-cortex", "sparse-coding"]
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- primary-visual-cortex
+- sparse-coding
+categories:
+- Behavioural Neuroscience
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
 * Follow-up paper {{< cite page="/publication/rentzeperis-23" view="4" >}}

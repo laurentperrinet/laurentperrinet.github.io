@@ -37,7 +37,19 @@ publication_types:
 publishDate: '2024-08-25T16:05:27.274458Z'
 title: An open-source vision-science tool for the auto-regressive generation of dynamic
   stochastic textures Motion Clouds
-tags: ["motion-perception", "predictive-coding", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- motion-perception
+- predictive-coding
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+

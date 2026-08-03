@@ -41,10 +41,22 @@ publication: '*Journal of Vision*'
 publication_types:
 - inproceedings
 title: Motion-based prediction model for flash lag effect
-tags: ["bayesian-modelling", "motion-perception", "primary-visual-cortex", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- motion-perception
+- primary-visual-cortex
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+projects:
+- ''
 ---
+
+
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}
 * see  follow-up on motion extrapolation: {{< cite page="/publication/khoei-13-jpp" view="4" >}}
 * see  follow-up on the flash-lag effect: {{< cite page="/publication/khoei-masson-perrinet-17" view="4" >}}

@@ -23,10 +23,25 @@ publication_types:
 publishDate: '2022-06-16T11:51:41.890310Z'
 subtitle: ''
 title: Ultra-rapid visual search in natural images using active deep learning
-tags: ["foveated-vision", "log-polar-mapping", "primary-visual-cortex", "retinotopy", "spiking-neural-networks", "ultra-fast-categorization", "visual-search"]
-categories: ["Biological Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
-projects: [""]
+tags:
+- foveated-vision
+- log-polar-mapping
+- primary-visual-cortex
+- retinotopy
+- spiking-neural-networks
+- ultra-fast-categorization
+- visual-search
+categories:
+- Biological Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Visual Neuroscience
+projects:
+- ''
 ---
+
+
 ![](@laurentperrinet_1546389505917206531_tweetcapture.png)
 * This work extends to natural scenes a previous work on visual search on a simplified task formulated in  {{< cite page="/publication/dauce-20" view="4" >}}
 * follows {{< cite page="/publication/jeremie-22-areadne" view="4" >}}

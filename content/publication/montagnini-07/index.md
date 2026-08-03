@@ -32,8 +32,20 @@ publication: '*Neuro-Computation: From Sensorimotor Integration to Computational
 publication_types:
 - article-journal
 title: Bayesian modeling of dynamic motion integration
-tags: ["eye-movements", "motion-perception", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- eye-movements
+- motion-perception
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+projects:
+- ''
 ---
+
+
 ![header](montagnini-07.png)

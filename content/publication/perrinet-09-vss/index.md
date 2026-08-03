@@ -29,13 +29,22 @@ date: 2009-01-01
 featured: false
 grants:
 - facets
-
 publication: '*Vision Science Society*'
 publication_types:
 - inproceedings
 title: Inferring monkey ocular following responses from V1 population dynamics using
   a probabilistic model of motion integration
-tags: ["bayesian-modelling", "motion-perception", "primary-visual-cortex"]
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- motion-perception
+- primary-visual-cortex
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+projects:
+- ''
 ---
+
+

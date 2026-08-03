@@ -22,14 +22,26 @@ date: 2006-01-01
 featured: false
 grants:
 - facets
-
 publication: '*1ère conférence francophone NEUROsciences COMPutationnelles - NeuroComp*'
 publication_types:
 - inproceedings
 title: 'Input-output transformation in the visuo-oculomotor loop: modeling the ocular
   following response to center-surround stimulation in a probabilistic framework'
-tags: ["bayesian-modelling", "eye-movements", "motion-perception", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- eye-movements
+- motion-perception
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+projects:
+- ''
 ---
+
+
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

@@ -14,7 +14,14 @@ publication_types:
 - inproceedings
 title: Contrast sensitivity adaptation in a virtual spiking retina and its adequation
   with mammalians retinas
-tags: ["spiking-neural-networks", "visual-illusions"]
-categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- spiking-neural-networks
+- visual-illusions
+categories:
+- Computational Neuroscience
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+

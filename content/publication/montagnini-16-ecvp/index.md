@@ -17,7 +17,15 @@ publication_types:
 - inproceedings
 title: 'Effects of motion predictability on anticipatory and visually-guided eye movements:
   a common prior for sensory processing and motor control?'
-tags: ["bayesian-modelling", "eye-movements", "motion-perception"]
-categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- bayesian-modelling
+- eye-movements
+- motion-perception
+categories:
+- Computational Neuroscience
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+

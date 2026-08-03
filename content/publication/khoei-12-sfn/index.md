@@ -15,10 +15,17 @@ publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - inproceedings
 title: Role of motion-based prediction in motion extrapolation
-tags: ["bayesian-modeling", "motion-detection"]
-categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- bayesian-modeling
+- motion-detection
+categories:
+- Computational Neuroscience
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}
 * see  follow-up on motion extrapolation: {{< cite page="/publication/khoei-13-jpp" view="4" >}}
 * see  follow-up on the flash-lag effect: {{< cite page="/publication/khoei-masson-perrinet-17" view="4" >}}

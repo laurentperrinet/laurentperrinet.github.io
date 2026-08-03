@@ -42,4 +42,5 @@ tags: ["motion-perception", "sparse-coding", "visual-illusions"]
 categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
 projects: [""]
 ---
+
 More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

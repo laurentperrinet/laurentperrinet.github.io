@@ -34,8 +34,21 @@ publication_types:
 - article-journal
 title: Modeling spatial integration in the ocular following response using a probabilistic
   framework
-tags: ["bayesian-modelling", "motion-perception", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- motion-perception
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+projects:
+- ''
 ---
+
+
 ![header](perrinet-07-neurocomp.png)

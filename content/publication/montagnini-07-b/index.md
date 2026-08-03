@@ -38,7 +38,18 @@ publication: '*Journal of Vision*'
 publication_types:
 - inproceedings
 title: 'Visual tracking of ambiguous moving objects: A recursive Bayesian model'
-tags: ["bayesian-modelling", "eye-movements", "motion-perception"]
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- bayesian-modelling
+- eye-movements
+- motion-perception
+categories:
+- Behavioural Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+

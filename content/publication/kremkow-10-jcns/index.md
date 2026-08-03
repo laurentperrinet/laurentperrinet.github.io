@@ -33,8 +33,16 @@ publication_types:
 - article-journal
 title: Functional consequences of correlated excitatory and inhibitory conductances
   in cortical networks
-tags: ["sparse-coding", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "Education", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- sparse-coding
+- spiking-neural-networks
+categories:
+- Computational Neuroscience
+- Education
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
 ![header](kremkow-10-jcns.png)

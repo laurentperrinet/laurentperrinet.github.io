@@ -18,7 +18,16 @@ publication: '*Proceedings of ECVP*'
 publication_types:
 - inproceedings
 title: How the dynamics of human smooth pursuit is influenced by speed uncertainty
-tags: ["eye-movements", "motion-detection"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- eye-movements
+- motion-detection
+categories:
+- Behavioural Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+

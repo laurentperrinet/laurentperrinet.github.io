@@ -25,7 +25,16 @@ publication_types:
 publishDate: '2022-11-17T11:15:57.623607Z'
 subtitle: ''
 title: 'Stakes of Neuromorphic Foveation: a promising future for embedded event cameras'
-tags: ["efficient-coding", "event-based-vision", "neuromorphic-computing"]
-categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- efficient-coding
+- event-based-vision
+- neuromorphic-computing
+categories:
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+

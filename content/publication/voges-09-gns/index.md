@@ -33,14 +33,22 @@ date: 2009-01-01
 featured: false
 grants:
 - facets
-
 publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'
 publication_types:
 - inproceedings
 title: Dynamics of cortical networks including long-range patchy connections
-tags: ["pynn", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- pynn
+- spiking-neural-networks
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}
 * see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

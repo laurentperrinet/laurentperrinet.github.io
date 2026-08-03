@@ -16,7 +16,14 @@ publication_types:
 - article-journal
 title: Sparse spike coding in an asynchronous feed-forward multi-layer neural network
   using matching pursuit
-tags: ["sparse-coding"]
-categories: ["Computational Neuroscience", "Education", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- sparse-coding
+categories:
+- Computational Neuroscience
+- Education
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+

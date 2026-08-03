@@ -22,8 +22,16 @@ publication: '*Neurocomputing*'
 publication_types:
 - article-journal
 title: Coherence detection in a spiking neuron via Hebbian learning
-tags: ["sparse-coding", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "Education", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- sparse-coding
+- spiking-neural-networks
+categories:
+- Computational Neuroscience
+- Education
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
 ![header](perrinet-02-stdp.png)

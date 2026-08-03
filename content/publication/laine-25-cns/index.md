@@ -15,10 +15,20 @@ publication: '*Annual Computational Neuroscience Meeting: CNS*2025, Firenze, Ita
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/laine-25-cns
-tags: ["motion-perception", "primary-visual-cortex"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
-projects: [""]
+tags:
+- motion-perception
+- primary-visual-cortex
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Visual Neuroscience
+projects:
+- ''
 ---
+
+
 🧠 Excited to share our latest research led by Alexandre Lainé and presented this summer at CNS2025 in beautiful Firenze, Italy!
 
 "Population decoding of visual motion direction in V1 marmoset monkey: effects of uncertainty"

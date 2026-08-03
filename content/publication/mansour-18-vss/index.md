@@ -44,7 +44,16 @@ publication: '*Journal of Vision, Vol.18, 345, proceedings of VSS*'
 publication_types:
 - inproceedings
 title: Speed uncertainty and motion perception with naturalistic random textures
-tags: ["motion-perception", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- motion-perception
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+

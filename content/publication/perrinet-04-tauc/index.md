@@ -33,7 +33,17 @@ publication: '*Journal of Physiology-Paris*'
 publication_types:
 - article-journal
 title: 'Feature detection using spikes : the greedy approach'
-tags: ["bayesian-modelling", "primary-visual-cortex", "sparse-coding", "spiking-neural-networks"]
-categories: ["Biological Neuroscience", "Computational Neuroscience", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- bayesian-modelling
+- primary-visual-cortex
+- sparse-coding
+- spiking-neural-networks
+categories:
+- Biological Neuroscience
+- Computational Neuroscience
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+

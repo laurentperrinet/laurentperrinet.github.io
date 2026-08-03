@@ -13,7 +13,14 @@ publication: '*Neurocomputing*'
 publication_types:
 - article-journal
 title: Emergence of filters from natural scenes in a sparse spike coding scheme
-tags: ["sparse-coding"]
-categories: ["Computational Neuroscience", "Education", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- sparse-coding
+categories:
+- Computational Neuroscience
+- Education
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+

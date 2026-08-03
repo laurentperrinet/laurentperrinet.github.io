@@ -44,9 +44,21 @@ publication_types:
 - inproceedings
 title: Orientation selectivity to synthetic natural patterns in a cortical-like model
   of the cat primary visual cortex
-tags: ["primary-visual-cortex", "sparse-coding", "spiking-neural-networks"]
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
-projects: [""]
+tags:
+- primary-visual-cortex
+- sparse-coding
+- spiking-neural-networks
+categories:
+- Behavioural Neuroscience
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+- Visual Neuroscience
+projects:
+- ''
 ---
+
+
 ![](@laurentperrinet_1186513282326257665_tweetcapture.png)
 * See a followup in [Ladret and Perrinet, 2020]({{< ref "/publication/ladret-20-aes" >}})

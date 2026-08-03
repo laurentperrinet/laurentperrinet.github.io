@@ -21,9 +21,16 @@ publication_types:
 publishDate: '2024-04-05T08:28:28.491801Z'
 subtitle: ''
 title: Codage prédictif dans les transformations visuo-motrices
-tags: ["predictive-coding", "visuo-motor"]
-categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- predictive-coding
+- visuo-motor
+categories:
+- Computational Neuroscience
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
 * {{< cite page="/post/2014-04-17_hdr" view="4" >}}
 * Voir une extension dans {{< cite page="/publication/perrinet-20-dr" view="4" >}}

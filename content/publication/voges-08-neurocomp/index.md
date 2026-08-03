@@ -6,15 +6,20 @@ date: 2008-10-01
 featured: false
 grants:
 - facets
-
 publication: '*Proceedings of NeuroComp08, Marseille*'
 publication_types:
 - inproceedings
 title: Analyzing cortical network dynamics with respect to different connectivity
   assumptions
-tags: ["visual-cortex"]
-categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- visual-cortex
+categories:
+- Computational Neuroscience
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}
 * see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

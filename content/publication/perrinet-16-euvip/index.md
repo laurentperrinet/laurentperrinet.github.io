@@ -29,7 +29,15 @@ publication: '*2016 6th European Workshop on Visual Information Processing (EUVI
 publication_types:
 - inproceedings
 title: Biologically-inspired characterization of sparseness in natural images
-tags: ["primary-visual-cortex", "sparse-coding"]
-categories: ["Biological Neuroscience", "Education", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- primary-visual-cortex
+- sparse-coding
+categories:
+- Biological Neuroscience
+- Education
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+

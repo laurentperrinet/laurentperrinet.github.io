@@ -16,7 +16,14 @@ publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - inproceedings
 title: 'Anticipating a moving target: role of vision and reinforcement'
-tags: ["bayesian-modeling"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- bayesian-modeling
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+

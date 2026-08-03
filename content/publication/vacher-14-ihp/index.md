@@ -8,14 +8,20 @@ authors:
 - Gabriel Peyré
 date: 2014-01-01
 featured: false
-- motion-clouds
-
 publication: '*IHP workshop*'
 publication_types:
 - inproceedings
 title: Dynamic Textures For Probing Motion Perception
-tags: ["motion-clouds", "motion-perception", "visual-illusions"]
-categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
-projects: ["open-science"]
+tags:
+- motion-clouds
+- motion-perception
+- visual-illusions
+categories:
+- Computational Neuroscience
+- Outreach & Public Engagement
+projects:
+- open-science
 ---
+
+
 * See a followup in {{< cite page="/publication/vacher-16" view="4" >}}

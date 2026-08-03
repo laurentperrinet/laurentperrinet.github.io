@@ -15,7 +15,16 @@ links:
   url: https://snufa.net/2025/abstracts/thomas-kronland-martinet-detection.html
 - name: HAL
   url: https://amu.hal.science/hal-05368448
-tags: ["polychronicity", "spiking-motifs", "spiking-neural-networks", "temporal-coding"]
-categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- polychronicity
+- spiking-motifs
+- spiking-neural-networks
+- temporal-coding
+categories:
+- Computational Neuroscience
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+

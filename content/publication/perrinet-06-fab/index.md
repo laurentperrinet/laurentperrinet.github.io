@@ -48,7 +48,21 @@ publication_types:
 - inproceedings
 title: Dynamical contrast gain control mechanisms in a layer 2/3 model of the primary
   visual cortex
-tags: ["eye-movements", "neuromorphic-computing", "primary-visual-cortex", "spiking-neural-networks"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
-projects: [""]
+tags:
+- eye-movements
+- neuromorphic-computing
+- primary-visual-cortex
+- spiking-neural-networks
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Visual Neuroscience
+projects:
+- ''
 ---
+
+

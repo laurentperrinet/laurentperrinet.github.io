@@ -49,10 +49,28 @@ publication_types:
 - article-journal
 slides: 2022-11-21_flash-lag-effect
 title: The flash-lag effect as a motion-based predictive shift
-tags: ["bayesian-modelling", "foveated-vision", "log-polar-mapping", "motion-perception", "primary-visual-cortex", "retinotopy", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- foveated-vision
+- log-polar-mapping
+- motion-perception
+- primary-visual-cortex
+- retinotopy
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+- Visual Neuroscience
+projects:
+- ''
 ---
+
+
 * [Press release](https://www.insb.cnrs.fr/fr/cnrsinfo/illusions-visuelles-leur-origine-est-dans-la-prediction)
 # Visual illusions: their origin lies in prediction
 {{< figure src="flash_lag.gif" title="*Flash-Lag Effect.* When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash. Still, after several decades of debates, there is no consensus regarding the underlying mechanisms." >}}

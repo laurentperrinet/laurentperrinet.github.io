@@ -40,7 +40,17 @@ publication_types:
 - article-journal
 title: 'Push-Pull Receptive Field Organization and Synaptic Depression: Mechanisms
   for Reliably Encoding Naturalistic Stimuli in V1'
-tags: ["primary-visual-cortex", "sparse-coding", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "Education", "Outreach & Public Engagement", "Visual Neuroscience"]
-projects: [""]
+tags:
+- primary-visual-cortex
+- sparse-coding
+- spiking-neural-networks
+categories:
+- Computational Neuroscience
+- Education
+- Outreach & Public Engagement
+- Visual Neuroscience
+projects:
+- ''
 ---
+
+

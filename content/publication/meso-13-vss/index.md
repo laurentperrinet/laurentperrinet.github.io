@@ -41,7 +41,16 @@ publication: '*VSS Conference Abstract*'
 publication_types:
 - inproceedings
 title: How and why do image frequency properties influence perceived speed?
-tags: ["motion-perception", "neuromorphic-computing"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- motion-perception
+- neuromorphic-computing
+categories:
+- Behavioural Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+

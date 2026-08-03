@@ -48,8 +48,20 @@ publication_types:
 publishDate: '2023-03-13T11:29:25.141921Z'
 subtitle: ''
 title: Resilience to sensory uncertainty in the primary visual cortex
-tags: ["bayesian-modelling", "primary-visual-cortex"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- primary-visual-cortex
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+- Visual Neuroscience
+projects:
+- ''
 ---
+
+
 * This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}

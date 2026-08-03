@@ -12,7 +12,14 @@ publication_types:
 - inproceedings
 title: Dynamical contrast gain control mechanisms in a layer 2/3 model of the primary
   visual cortex
-tags: ["gain-control"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- gain-control
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+

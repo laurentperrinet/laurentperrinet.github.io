@@ -42,14 +42,25 @@ date: 2008-01-01
 featured: false
 grants:
 - facets
-
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - inproceedings
 title: 'Control of the temporal interplay between excitation and inhibition by the
   statistics of visual input: a V1 network modelling study'
-tags: ["primary-visual-cortex", "sparse-coding", "spiking-neural-networks"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "Outreach & Public Engagement", "Visual Neuroscience"]
-projects: [""]
+tags:
+- primary-visual-cortex
+- sparse-coding
+- spiking-neural-networks
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- Education
+- Outreach & Public Engagement
+- Visual Neuroscience
+projects:
+- ''
 ---
+
+
 * see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publication/kremkow-10-jcns/index.md" >}})

@@ -22,10 +22,20 @@ publication: '*The Conversation*'
 publication_types:
 - article-journal
 title: 'Temps et cerveau : comment notre perception nous fait voyager dans le temps'
-tags: ["primary-visual-cortex", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- primary-visual-cortex
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
 * Un article dans [The Conversation](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567) dont l'objectif est d'être accessible et réutilisable (dans des cours d'introduction aux neurosciences, sciences cognitives, vision, réseaux de neurones, intelligence artificielle).
 * Le flash-lag effect original:
 {{< video src="flash_lag.mp4" autoplay="yes" >}}

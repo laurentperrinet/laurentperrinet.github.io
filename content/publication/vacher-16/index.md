@@ -40,7 +40,20 @@ publication: '*Neural Computation*'
 publication_types:
 - article-journal
 title: Bayesian Modeling of Motion Perception using Dynamical Stochastic Textures
-tags: ["bayesian-modelling", "motion-perception", "predictive-coding", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- motion-perception
+- predictive-coding
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+projects:
+- ''
 ---
+
+

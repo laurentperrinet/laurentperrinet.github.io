@@ -14,7 +14,14 @@ publication_types:
 - book
 title: Proceedings of the second french conference on Computational Neuroscience,
   Marseille
-tags: ["computational-neuroscience"]
-categories: ["Computational Neuroscience", "Education", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- computational-neuroscience
+categories:
+- Computational Neuroscience
+- Education
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+

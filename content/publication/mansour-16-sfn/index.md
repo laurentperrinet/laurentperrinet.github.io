@@ -17,7 +17,14 @@ publication_types:
 - inproceedings
 title: 'Voluntary tracking the moving clouds : Effects of speed variability on human
   smooth pursuit'
-tags: ["eye-movements", "motion-detection"]
-categories: ["Behavioural Neuroscience", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- eye-movements
+- motion-detection
+categories:
+- Behavioural Neuroscience
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+

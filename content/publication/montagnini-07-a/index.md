@@ -30,7 +30,18 @@ publication: '*Perception 36 ECVP Abstract Supplement*'
 publication_types:
 - inproceedings
 title: Dynamic inference for motion tracking
-tags: ["bayesian-modelling", "motion-perception", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- bayesian-modelling
+- motion-perception
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+

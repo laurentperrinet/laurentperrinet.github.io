@@ -25,9 +25,17 @@ publication: '*The Conversation*'
 publication_types:
 - article-journal
 title: Le jeu du cerveau et du hasard
-tags: ["visual-illusions"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
 * Ce texte est disponible dans cet article de [The Conversation](https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388).
 * Une [version longue](https://laurentperrinet.github.io/2021_theconversation_hasard/) (et son [code](https://github.com/laurentperrinet/2021_theconversation_hasard)) sont aussi disponibles.

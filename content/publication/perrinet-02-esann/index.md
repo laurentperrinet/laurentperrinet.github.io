@@ -8,8 +8,17 @@ publication: '*Proceedings of ESANN*'
 publication_types:
 - inproceedings
 title: Sparse Image Coding Using an Asynchronous Spiking Neural Network
-tags: ["sparse-coding", "spiking-neural-networks", "temporal-coding"]
-categories: ["Computational Neuroscience", "Education", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- sparse-coding
+- spiking-neural-networks
+- temporal-coding
+categories:
+- Computational Neuroscience
+- Education
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
 {{< figure src="lena256pyr.gif" title="*Progressive reconstruction of a static image using spikes in a Laplacian pyramid.*" >}}

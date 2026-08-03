@@ -14,7 +14,16 @@ publication_types:
 - inproceedings
 title: 'Input-output transformation in the visuo-oculomotor loop: modeling the ocular
   following response to center-surround stimulation in a probabilistic framework'
-tags: ["bayesian-modelling", "eye-movements", "motion-perception"]
-categories: ["Computational Neuroscience", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- eye-movements
+- motion-perception
+categories:
+- Computational Neuroscience
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+projects:
+- ''
 ---
+
+

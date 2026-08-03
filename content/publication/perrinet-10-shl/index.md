@@ -37,10 +37,21 @@ publication: '*Neural Computation*'
 publication_types:
 - article-journal
 title: Role of homeostasis in learning sparse representations
-tags: ["homeostasis", "motion-perception", "primary-visual-cortex", "sparse-coding"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
-projects: [""]
+tags:
+- homeostasis
+- motion-perception
+- primary-visual-cortex
+- sparse-coding
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Visual Neuroscience
+projects:
+- ''
 ---
+
+
 ![header](perrinet-10-shl.png)
 * related publication : {{< cite page="/publication/perrinet-19-hulk" view="4" >}}
 ![header](ssc.gif)

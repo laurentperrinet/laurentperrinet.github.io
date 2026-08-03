@@ -20,14 +20,21 @@ date: 2010-01-01
 featured: false
 grants:
 - facets
-
 publication: '*Proceedings of NeuroComp*'
 publication_types:
 - inproceedings
 title: Phase space analysis of networks based on biologically realistic parameters
-tags: ["sparse-coding", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- sparse-coding
+- spiking-neural-networks
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}
 * see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

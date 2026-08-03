@@ -41,8 +41,20 @@ publication: '*Annals of Eye Science*'
 publication_types:
 - inproceedings
 title: Learning dynamics in a neural network model of the primary visual cortex
-tags: ["metaplasticity", "primary-visual-cortex", "pynn", "sparse-coding", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
-projects: [""]
+tags:
+- metaplasticity
+- primary-visual-cortex
+- pynn
+- sparse-coding
+- spiking-neural-networks
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Visual Neuroscience
+projects:
+- ''
 ---
+
+
 * See also [Ladret and Perrinet, 2019]({{< ref "/publication/ladret-19-sfn" >}})

@@ -23,8 +23,19 @@ publication_types:
 - article-journal
 title: The behavioral receptive field underlying motion integration for primate tracking
   eye movements
-tags: ["aperture-problem", "bayesian-modeling", "eye-movements", "motion-detection", "predictive-coding"]
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- aperture-problem
+- bayesian-modeling
+- eye-movements
+- motion-detection
+- predictive-coding
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
 ![header](masson-12.png)

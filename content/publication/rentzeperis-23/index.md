@@ -25,8 +25,15 @@ publishDate: '2022-06-16T11:51:41.890310Z'
 show_authors_only: false
 subtitle: ''
 title: Beyond $\ell_1$ sparse coding in V1
-tags: ["primary-visual-cortex", "sparse-coding"]
-categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- primary-visual-cortex
+- sparse-coding
+categories:
+- Computational Neuroscience
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
 * Follows {{< cite page="/publication/rentzeperis-22-areadne" view="4" >}}

@@ -18,8 +18,15 @@ publication_types:
 - inproceedings
 title: Relationship between natural image statistics and lateral connectivity in the
   primary visual cortex
-tags: ["primary-visual-cortex"]
-categories: ["Computational Neuroscience", "Outreach & Public Engagement", "Visual Neuroscience"]
-projects: [""]
+tags:
+- primary-visual-cortex
+categories:
+- Computational Neuroscience
+- Outreach & Public Engagement
+- Visual Neuroscience
+projects:
+- ''
 ---
+
+
 * see a follow-up: {{< cite page="/publication/perrinet-bednar-15" view="4" >}}

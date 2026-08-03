@@ -24,10 +24,24 @@ publishDate: '2022-11-17T11:15:57.788793Z'
 subtitle: ''
 title: Retinotopy improves the categorisation and localisation of visual objects in
   CNNs
-tags: ["efficient-coding", "foveated-vision", "localization", "log-polar-mapping", "online-classification", "retinotopy", "ultra-fast-categorization", "visual-search"]
-categories: ["Computational Neuroscience", "Education", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- efficient-coding
+- foveated-vision
+- localization
+- log-polar-mapping
+- online-classification
+- retinotopy
+- ultra-fast-categorization
+- visual-search
+categories:
+- Computational Neuroscience
+- Education
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
 * as was presented at the *Computational Cognitive Neuroscience Society Meeting 2023* in Oxford
 * see a follow-up presentation in: {{< cite page="/publication/jeremie-23-icann" view="4" >}}
  

@@ -42,7 +42,18 @@ publication: '*Journal of Vision*'
 publication_types:
 - inproceedings
 title: 'Beyond simply faster and slower: exploring paradoxes in speed perception'
-tags: ["eye-movements", "motion-perception", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- eye-movements
+- motion-perception
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+

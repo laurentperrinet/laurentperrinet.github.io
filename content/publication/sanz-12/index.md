@@ -19,7 +19,6 @@ authors:
 date: 2012-03-14
 doi: 10.1152/jn.00737.2011
 featured: false
-- motion-clouds
 links:
 - name: HAL
   url: https://hal.science/hal-00726828
@@ -35,10 +34,23 @@ publication_types:
 - article-journal
 title: 'Motion Clouds: Model-based stimulus synthesis of natural-like random textures
   for the study of motion perception'
-tags: ["motion-clouds", "motion-perception", "predictive-coding", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: ["open-science"]
+tags:
+- motion-clouds
+- motion-perception
+- predictive-coding
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+projects:
+- open-science
 ---
+
+
 ![header](sanz-12.png)
 **MotionClouds** are random dynamic stimuli optimized to study motion perception.
 * [Web-site](https://neuralensemble.github.io/MotionClouds/)

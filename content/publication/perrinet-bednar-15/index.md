@@ -32,16 +32,28 @@ links:
 - name: HAL
   url: https://hal.science/hal-01202447
 math: true
-
 publication: '*Scientific Reports*'
 publication_types:
 - article-journal
 title: Edge co-occurrences can account for rapid categorization of natural versus
   animal images
-tags: ["bayesian-modelling", "primary-visual-cortex", "sparse-coding", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- primary-visual-cortex
+- sparse-coding
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Visual Neuroscience
+projects:
+- ''
 ---
+
+
 * [supplementary information](https://www.nature.com/article-assets/npg/srep/2015/150622/srep11400/extref/srep11400-s1.pdf)
 * [supplementary material](PerrinetBednar15supplementary.pdf)
 # A study of how people can quickly spot animals by sight is helping uncover the workings of the human brain.

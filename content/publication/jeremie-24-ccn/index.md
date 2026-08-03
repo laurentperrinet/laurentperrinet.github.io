@@ -28,8 +28,24 @@ publication_types:
 - paper-conference
 publishDate: '2024-08-06T14:24:04.549072Z'
 title: Retinotopy in CNN's implements Efficient Visual Search
-tags: ["convolutional-neural-networks", "foveated-vision", "log-polar-mapping", "retinotopy", "transfer-learning", "visual-categorization"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
-projects: [""]
+tags:
+- convolutional-neural-networks
+- foveated-vision
+- log-polar-mapping
+- retinotopy
+- transfer-learning
+- visual-categorization
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Visual Neuroscience
+projects:
+- ''
 ---
+
+
 * Read the corresponding paper {{< cite page="/publication/jeremie-25" view="4" >}}
