@@ -5,7 +5,6 @@ authors:
 date: 2016-04-20 00:00:00
 draft: false
 lastmod: 2018-01-13 00:00:00
-- art-science
 subtitle: Installation à la Fondation Vasarely à Aix-en-Provence.
 summary: L'installation ''Elasticité dynamique'' agit comme un filtre et génère de
   nouveaux espaces démultipliés, comme un empilement quasi infini d'horizons. Par
@@ -13,10 +12,19 @@ summary: L'installation ''Elasticité dynamique'' agit comme un filtre et génè
   points de vue ; le mouvement permanent requalifie continuellement ce qui est regardé
   et entendu.
 title: Elasticité dynamique
-tags: ["spiking-neural-networks", "visual-illusions"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: ["art-science"]
+tags:
+- spiking-neural-networks
+- visual-illusions
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- art-science
 ---
+
+
 # Trame Élasticité @  Fondation Vasarely à Aix-en-Provence
 
 * Dans « Trame Élasticité », présentée en 2016 dans le cadre d’un hommage à Victor Vasarely à la Fondation d’Aix-en-Provence, 25 monolithes de 3 m de hauteur et 40 cm de largeur étaient placés sur un socle rectiligne de 5 m de long et pouvaient tourner indépendamment suivant leur axe vertical. Cette chorégraphie produisait des moments de calme cristallin qui rapidement se transformaient en instants de chaos. Ce procédé permettait de projeter son propre reflet tout en le fragmentant dans l’environnent de l’œuvre, notamment les rythmes colorés de Vasarely, afin de produire un va-et-vient entre les mondes réels et perçus. Les observateurs devaient alors changer de perspective pour résoudre cette incertitude et explorer le lien entre le monde réel et le monde perçu  (voir aussi [cet article](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/#fig:Élasticité)).

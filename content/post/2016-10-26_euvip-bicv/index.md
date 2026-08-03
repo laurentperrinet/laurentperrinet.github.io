@@ -8,14 +8,24 @@ image:
   placement: 2
   preview_only: false
 lastmod: 2016-10-26 00:00:00
-- bicv
 subtitle: 'EUVIP Session 7: Biologically Inspired Computer Vision (Special Session).'
 summary: 'EUVIP Session 7: Biologically Inspired Computer Vision (Special Session).'
 title: '2016-10-26 : EUVIP BICV'
-tags: ["neuromorphic-computing", "sparse-coding"]
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- neuromorphic-computing
+- sparse-coding
+categories:
+- Behavioural Neuroscience
+- Computational Neuroscience
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
 # 2016-10-26 : EUVIP Special Session on *Biologically Inspired Computer Vision*
 
 ## description of the session

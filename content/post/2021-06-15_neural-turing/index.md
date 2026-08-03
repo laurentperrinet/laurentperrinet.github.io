@@ -5,19 +5,25 @@ authors:
 date: 2021-06-15 00:00:00
 draft: false
 lastmod: 2021-06-15 00:00:00
-- art-science
 subtitle: Modèles de Turing neuronaux
-summary:  Neural Turing Patterns
+summary: Neural Turing Patterns
 title: Neural Turing Patterns
 image:
   caption: © Neural Turing Patterns - Alberto Vergani & Laurent Perrinet.
   focal_point: Smart
   placement: 2
   preview_only: false
-tags: ["visual-illusions"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
-projects: [""]
+tags:
+- visual-illusions
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+projects:
+- ''
 ---
+
+
 # Neural Turing Patterns
 
 Il y a des structures dans la nature qui émergent spontanément. Ils ont été étudiés pour la première fois par le mathématicien anglais Alan Turing (1912 – 1954), qui a également introduit le concept de machine informatique contemporaine. Des exemples de ces formes sont les rayures, les taches, les grilles, les pavages, les bulles, les spirales, les mousses et les vagues. Dans le cas spécifique de cette œuvre, il est montré une collection de modèles de Turing générés via des simulations neuronales. Chaque carré est un réseau neuronal de cellules qui se déclenchent avec des intensités faibles (bleues), moyennes (blanches) et élevées (rouge). Beaucoup d'entre eux se ressemblent beaucoup, tandis que d'autres sont très différents. Regroupées comme elles le sont, les images semblent avoir une continuité graphique avec leurs voisins plus proches. Mais, cette fonctionnalité visuelle est bien une illusion de la Gestalt, car ce sont des résultats de simulation complètement indépendants.

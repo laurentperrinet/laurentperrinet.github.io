@@ -5,7 +5,6 @@ authors:
 date: 2016-04-20 00:00:00
 draft: false
 lastmod: 2018-01-13 00:00:00
-- art-science
 subtitle: Installation in situ, 2018; Collection of the François Schneider Foundation,
   Wattwiller I 2018
 summary: L’installation Turbulences explore l’émergence de caustiques, phénomènes
@@ -13,10 +12,16 @@ summary: L’installation Turbulences explore l’émergence de caustiques, phé
   perturbe un état optique stable. La turbulence des plis lumineux donne l’illusion
   d’un corps flottant.
 title: Turbulences
-tags: ["visual-illusions"]
-categories: ["Education", "NeuroAI & Machine Learning"]
-projects: ["art-science"]
+tags:
+- visual-illusions
+categories:
+- Education
+- NeuroAI & Machine Learning
+projects:
+- art-science
 ---
+
+
 # Turbulences
 
 {{< vimeo 303255760 >}}

@@ -5,14 +5,20 @@ authors:
 date: 2016-04-20 00:00:00
 draft: false
 lastmod: 2018-01-13 00:00:00
-- art-science
 subtitle: Sans gravité – une poétique de l’air – Ardenome à Avignon
 summary: Sans gravité – une poétique de l’air – Ardenome à Avignon.
 title: Sans gravité – une poétique de l’air
-tags: ["visual-illusions"]
-categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: ["art-science"]
+tags:
+- visual-illusions
+categories:
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- art-science
 ---
+
+
 {{< vimeo 317504725 >}}
 
 # « Densité flou » (2019)

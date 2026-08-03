@@ -5,16 +5,21 @@ authors:
 date: 2016-04-20 00:00:00
 draft: false
 lastmod: 2018-01-13 00:00:00
-- art-science
 subtitle: Installation (sérigraphie, dessin mural, lumière), 2018;  Guest artist,
   Mécènes du Sud / Art-O-Rama (Fair), Marseille I 2018.
 summary: Installation (sérigraphie, dessin mural, lumière), 2018;  Guest artist, Mécènes
   du Sud / Art-O-Rama (Fair), Marseille I 2018.
 title: Instabilité (series) @ Art-O-Rama
-tags: ["art-science"]
-categories: ["Education", "NeuroAI & Machine Learning"]
-projects: ["art-science"]
+tags:
+- art-science
+categories:
+- Education
+- NeuroAI & Machine Learning
+projects:
+- art-science
 ---
+
+
 # Instabilité (series)
 
 ## Installation (sérigraphie, dessin mural, lumière), 2018;  Guest artist, Mécènes du Sud / Art-O-Rama (Fair), Marseille I 2018
