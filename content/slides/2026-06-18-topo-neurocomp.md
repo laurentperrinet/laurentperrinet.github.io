@@ -17,6 +17,7 @@ title: 2026-06-18-topo-neurocomp
 
 summary: Topo Neurosciences Computationnelles
 
+tags: ["motion-perception", "visual-illusions"]
 ---
 
 <section>

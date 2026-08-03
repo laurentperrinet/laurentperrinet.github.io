@@ -1,10 +1,11 @@
-
 ---
 slides:
   theme: "white"  # Reveal JS theme name
 
 title: 2020-12-10_agileneurobot_anr
 
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["spiking-neural-networks", "neuromorphic-computing"]
 ---
 
 <a href="https://laurentperrinet.github.io/grant/anr-anr">

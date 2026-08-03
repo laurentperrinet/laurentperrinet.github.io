@@ -16,6 +16,8 @@ title: 2024-04-10-ue-neurosciences-computationnelles
 
 summary: Artificial neural networks applied to the understanding of biological vision
 
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["motion-perception", "neuromorphic-computing", "sparse-coding", "visual-illusions", "spiking-neural-networks", "primary-visual-cortex", "eye-movements"]
 ---
 <section>
 

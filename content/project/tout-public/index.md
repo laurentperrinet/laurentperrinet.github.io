@@ -27,5 +27,5 @@ design:
   view: citation
   columns: '2'
 
-categories: ["Research Projects"]
+categories: ["Outreach & Public Engagement"]
 ---

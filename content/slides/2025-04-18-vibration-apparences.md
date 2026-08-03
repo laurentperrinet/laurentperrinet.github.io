@@ -17,6 +17,8 @@ title: 2025-04-18-vibration-apparences
 
 summary: La vibration des apparences
 
+categories: ["NeuroAI & Machine Learning", "Outreach & Education"]
+tags: ["eye-movements", "visual-illusions", "sparse-coding"]
 ---
 
 <section>

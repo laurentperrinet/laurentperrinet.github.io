@@ -17,6 +17,8 @@ title: 2026-01-29-emergences
 
 summary: Sparse representations in biological vision applied to the effciency of machine learning.
 
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["motion-perception", "neuromorphic-computing", "sparse-coding", "predictive-coding", "spiking-neural-networks"]
 ---
 <section>
 

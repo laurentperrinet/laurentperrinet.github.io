@@ -18,6 +18,8 @@ title: 2022-03-23_UE-neurosciences-computationnelles
 
 summary: Réseaux de neurones artificiels et apprentissage machine appliqués à la compréhension de la vision
 
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["spiking-neural-networks", "primary-visual-cortex", "neuromorphic-computing", "visual-illusions"]
 ---
 # [Réseaux de neurones artificiels et apprentissage machine appliqués à la compréhension de la vision](https://github.com/laurentperrinet/2022_UE-neurosciences-computationnelles)
 ####	*[Laurent Perrinet](https://laurentperrinet.github.io/talk/2022-03-23-ue-neurosciences-computationnelles/)*

@@ -4,6 +4,8 @@ slides:
 
 title: 2022-07-01_grimaldi-22-areadne
 
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["spiking-neural-networks", "neuromorphic-computing"]
 ---
 
 <img src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/brain-logo-240.jpg" alt="header" height="350">

@@ -17,6 +17,8 @@ title: 2026-04-11-intelligence-du-regard
 
 summary: L'intelligence du regard
 
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["eye-movements", "visual-illusions", "motion-perception", "sparse-coding"]
 ---
 
 <section>

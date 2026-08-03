@@ -17,6 +17,8 @@ title: 2024-11-18-journee-biomometisme
 summary: "NeuroAI: interactions multiples entre Neurosciences et Intelligence artificielle"
 
 # printing = https://revealjs.com/pdf-export/
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Education"]
+tags: ["spiking-neural-networks", "neuromorphic-computing", "visual-illusions", "eye-movements"]
 ---
 <section>
 <h2><u>

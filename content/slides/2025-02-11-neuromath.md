@@ -20,6 +20,8 @@ title: 2025-02-11-neuromath
 summary: "When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Processing"
 
 # printing = https://revealjs.com/pdf-export/
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["motion-perception", "neuromorphic-computing", "sparse-coding", "predictive-coding", "visual-illusions", "spiking-neural-networks", "primary-visual-cortex"]
 ---
 
 <section>
