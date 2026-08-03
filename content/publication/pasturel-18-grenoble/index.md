@@ -32,7 +32,7 @@ tags: ["motion-perception", "eye-movements"]
 title: Estimating and anticipating a dynamic probabilistic bias in visual motion direction
 categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
 ---
-* see a write-up in "[Humans adapt their anticipatory eye movements to the volatility of visual motion properties](https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/)"
+* see a write-up in {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}
 * as presented at https://eyemovements.sciencesconf.org/
 * get the [poster](https://github.com/chloepasturel/AnticipatorySPEM/raw/master/Poster/2018-06-05_Poster_Workshop_Grenoble/Pasturel_etal2018grenoble.pdf)
 * code : https://github.com/chloepasturel/AnticipatorySPEM/
