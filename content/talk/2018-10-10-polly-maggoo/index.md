@@ -17,7 +17,8 @@ publication: '**'
 publication_types:
 - inproceedings
 title: Intervention fête de la science 2018
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
+tags: ["visual-illusions"]
 ---
 # FÊTE DE LA SCIENCE 2018 : Alcazar / MERLAN
 L'Association Polly Maggoo <http://www.pollymaggoo.org/> met en place

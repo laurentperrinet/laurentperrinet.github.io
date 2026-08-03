@@ -22,7 +22,8 @@ publication: '**'
 publication_types:
 - inproceedings
 title: Rencontre avec les collégiens marseillais
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+tags: ["visual-illusions"]
 ---
 # Cinéma et sciences : rencontre avec les collégiens marseillais
 L'Association Polly Maggoo <http://www.pollymaggoo.org/> met en place

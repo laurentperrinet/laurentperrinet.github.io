@@ -1,7 +1,7 @@
 ---
 authors:
 - Laurent U Perrinet
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 date: 2023-09-27 11:30:00
 doi: 10.1007/978-3-031-44207-0_31
 draft: false
@@ -28,7 +28,7 @@ publication_types:
 publishDate: '2023-09-10T15:59:14.546901Z'
 slides: 2023-09-27_icann
 subtitle: ''
-tags: []
+tags: ["spiking-neural-networks", "neuromorphic-computing"]
 title: Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a
   Spiking Neural Network
 ---

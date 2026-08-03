@@ -17,5 +17,6 @@ location: Telluride, CO
 publication: '*Telluride Neuromorphic Workshop, Workgroup on Compound Eyes and Event-based
   Vision*'
 title: Tutorial on predictive coding
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["predictive-coding", "neuromorphic-computing"]
 ---

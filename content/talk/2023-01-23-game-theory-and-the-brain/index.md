@@ -1,7 +1,7 @@
 ---
 authors:
 - Laurent U Perrinet
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 date: 2023-01-23 18:00:00
 draft: false
 event: Atelier jeu et cerveau - M2 MASCO

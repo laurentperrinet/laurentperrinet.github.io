@@ -11,7 +11,7 @@ abstract: 'Event-based cameras mimic the way biological retinas process visual i
 authors:
 - Adrien Fois
 - Laurent U Perrinet
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 date: 2023-12-14 14:00:00
 draft: false
 event: Journées sur l'apprentissage frugal (JRAF)
@@ -35,7 +35,7 @@ publication_types:
 publishDate: '2023-12-01T09:59:44.385734Z'
 slides: 2023-12-14-jraf
 subtitle: '*Journées sur l''apprentissage frugal (JRAF)*'
-tags: []
+tags: ["neuromorphic-computing", "motion-perception"]
 title: Event-based vision
 ---
 * Journées sur l'apprentissage frugal (JRAF) 

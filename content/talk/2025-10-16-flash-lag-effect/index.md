@@ -18,10 +18,10 @@ abstract: "Why do we sometimes misjudge where visual objects are? This talk expl
   visual coding. I'll discuss how these principles illuminate both biological vision
   and artificial visual system design, demonstrating that what we perceive as *now*
   is actually the brain's best prediction of the present."
-tags: ["deep-learning", "eye-movements", "neuroai"]
+tags: ["motion-perception"]
 slides: 2025-10-16-flash-lag-effect
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-10-16-flash-lag-effect
-categories: ["NeuroAI & Machine Learning"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---

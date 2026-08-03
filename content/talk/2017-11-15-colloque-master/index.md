@@ -18,7 +18,7 @@ location: Aix-Marseille Université, Campus Saint-Charles, Salle des voûtes
 publication: '*Colloque : "CODAGES ET REPRESENTATIONS", MASTER DE NEUROSCIENCES 2ème
   année*'
 title: What dynamic neural codes for efficient visual processing
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
 ## References
  - unsupervised learning : [Perrinet (2010)](https://laurentperrinet.github.io/publication/perrinet-10-shl/)

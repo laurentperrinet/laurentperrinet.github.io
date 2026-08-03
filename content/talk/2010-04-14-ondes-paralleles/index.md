@@ -30,7 +30,8 @@ publication: '*intervention autour du vernissage de "Diffraction monochromatique
 publication_types:
 - inproceedings
 title: Diffraction monochromatique, spectre audiographique
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["spiking-neural-networks", "visual-illusions", "sparse-coding"]
 ---
 # Diffraction monochromatique, spectre audiographique
 ![Diffraction](https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg)

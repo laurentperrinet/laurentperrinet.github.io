@@ -17,10 +17,10 @@ links:
   url: https://laurentperrinet.github.io/talk/2010-12-17-tauc-talk/
 publication: '*LADISLAV TAUC & GDR MSPC NEUROSCIENCES CONFERENCE, From Mathematical
   Image Analysis to Neurogeometry of the Brain*'
-tags: ["bayesian-modeling", "dynamics", "eye-movements", "motion-detection", "visual-cortex"]
+tags: ["motion-perception"]
 title: 'Probabilistic models of the low-level visual system: the role of prediction
   in detecting motion'
-categories: ["Theoretical Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
 An event ranging "From Mathematical Image Analysis to Neurogeometry of the Brain" Ladislav Tauc & GDR MSPC neurosciences conference.
 * related publication from Mina Khoei @ [TAUC 2012]({{< ref "/publication/khoei-10-tauc/index.md" >}})

@@ -21,5 +21,6 @@ location: Valparaiso (Chile)
 publication: '*LACONEU 2019: 5th Latin-American Summer School in Computational Neuroscience,
   Valparaiso (Chile)*'
 title: Efficient coding of visual information in neural computations
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["primary-visual-cortex"]
 ---

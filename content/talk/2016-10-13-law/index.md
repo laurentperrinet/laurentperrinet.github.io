@@ -21,7 +21,8 @@ publication: '*Lyon Active Inference Workshop (LAW) https://law2016.sciencesconf
   - October 13th, 2016*'
 title: Eye movements as a model for active inference
 url_code: ''
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["eye-movements"]
 ---
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="1" >}}
 * next talk @ [INVIBE FEST, Paris]({{< ref "/talk/2018-02-01-bcp-invibe-fest/index.md" >}})

@@ -11,13 +11,13 @@ abstract: "La vision reste un paradoxe : comment un processus aussi complexe qu�
 
 projects:
 - art-science
-tags: ["art-and-science", "visual-illusions", "visual-perception"]
+tags: ["visual-illusions"]
 slides: 2026-04-11-intelligence-du-regard
 
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-04-11-intelligence-du-regard
-categories: ["Behavioural Neuroscience"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
 ---
 Cette présentation (dans le cadre du *Forum des Sciences Cognitives*) explore la collaboration avec Étienne Rey, notamment le travail exposé lors de l’exposition *La vibration des apparences*, qui a eu lieu au musée Granet :
 

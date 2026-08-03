@@ -29,5 +29,5 @@ links:
 publication: '*Marseille INT Fest, January 10th, 2014*'
 tags: ["bayesian-modeling", "dynamics", "eye-movements", "free-energy", "motion-detection", "predictive-coding"]
 title: Axonal delays and on-time control of eye movements
-categories: ["Behavioural Neuroscience"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---

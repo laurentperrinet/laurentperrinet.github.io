@@ -23,7 +23,8 @@ links:
   url: https://laurentperrinet.github.io/project/tout-public/
 projects:
 - tout-public  
-categories: ["Behavioural Neuroscience"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+tags: ["visual-illusions"]
 ---
 * https://explore.univ-amu.fr/programme
 

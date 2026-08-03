@@ -42,9 +42,9 @@ links:
 publication: '*CNS*2019 Barcelona, Spain*'
 publication_types:
 - inproceedings
-tags: ["active-inference", "deep-learning", "object-localization", "visual-search", "visuomotor-control"]
+tags: ["primary-visual-cortex", "eye-movements"]
 title: 'Learning where to look: a foveated visuomotor control model'
-categories: ["Theoretical Neuroscience"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
  - download a [preliminary PDF](https://laurentperrinet.github.io/talk/2019-07-15-cns/2019-07-15-cns.pdf)
  ![](@laurentperrinet_1150713758643380226_tweetcapture.png)

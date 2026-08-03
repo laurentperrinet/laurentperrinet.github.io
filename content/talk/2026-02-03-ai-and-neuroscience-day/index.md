@@ -7,7 +7,7 @@ publishDate: '2026-01-31T14:47:34.189424Z'
 publication_types:
 - paper-conference
 publication: '*AI and Neuroscience Day*'
-tags: ["deep-learning", "event-based-vision", "neuroai", "neuromorphic-hardware", "vision"]
+tags: ["neuromorphic-computing"]
 slides: 2026-02-03-ai-and-neuroscience-day
 links:
 - name: URL

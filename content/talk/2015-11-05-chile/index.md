@@ -26,5 +26,6 @@ location: Universidad Tecnica Federico Santa Maria, Valparaiso (Chile)
 publication: '*Universidad Técnica Federico Santa María, Valparaíso, Chile, November
   5th, 2015*'
 title: Motion-based prediction with neuromorphic hardware
-categories: ["Behavioural Neuroscience"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["neuromorphic-computing", "primary-visual-cortex", "motion-perception"]
 ---

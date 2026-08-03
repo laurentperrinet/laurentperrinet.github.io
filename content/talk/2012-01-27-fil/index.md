@@ -27,7 +27,7 @@ links:
   url: https://laurentperrinet.github.io/talk/2012-01-27-fil/
 
 publication: '*Brain meeting at FIL, London - Friday, January 27th, 2012*'
-tags: ["bayesian-modeling", "dynamics", "eye-movements", "free-energy", "motion-detection", "predictive-coding"]
+tags: ["motion-perception", "eye-movements"]
 title: Grabbing, tracking and sniffing as models for motion detection and eye movements
-categories: ["Behavioural Neuroscience"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---

@@ -29,8 +29,9 @@ links:
 location: Malet Place Eng Bldg 1.03 (first floor).
 
 publication: '*Vision@UCL seminar - Thursday, 12th January, 5pm*'
-tags: ["bayesian-modeling", "dynamics", "eye-movements", "motion-detection", "visual-cortex"]
+tags: ["predictive-coding", "motion-perception", "bayesian-modeling", "dynamics", "eye-movements", "motion-detection", "visual-cortex"]
+
 title: Motion-based prediction is sufficient to solve the aperture problem
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

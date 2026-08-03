@@ -14,5 +14,6 @@ location: Forschungszentrum Jülich
 publication: '*2nd BrainScaleS Plenary Meeting - Friday, March 23rd, 2012*'
 title: Apparent motion in V1 - Probabilistic approaches
 url_slides: perrinet12wp5_handout.pdf
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["neuromorphic-computing", "primary-visual-cortex", "motion-perception"]
 ---

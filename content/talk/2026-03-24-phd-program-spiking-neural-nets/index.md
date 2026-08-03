@@ -14,7 +14,8 @@ links:
 - name: Code
   url: 
     https://github.com/CONECT-INT/2026-03_PhDProgram-course-in-computational-neuroscience/
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["spiking-neural-networks"]
 ---
 This repository contains all the material for this practical course about the "Introduction to SNN torch".
 

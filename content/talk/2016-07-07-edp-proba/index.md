@@ -21,6 +21,7 @@ publication: '*Summer School: PDE and Probability for Life Sciences @ CIRM, Mars
   - http://scientific-events.weebly.com/prog-1426.html - CIRM, July 7th, 2016*'
 title: 'Modelling the dynamics of cognitive processes: from the Bayesian brain to
   particles'
-categories: ["Theoretical Neuroscience"]
+categories: ["NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["spiking-neural-networks", "primary-visual-cortex"]
 ---
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

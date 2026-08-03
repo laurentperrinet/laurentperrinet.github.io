@@ -11,7 +11,7 @@ abstract: 'The biological retina represents changes in light intensity and commu
   but also to deepen our understanding of visual processes.'
 authors:
 - Laurent U Perrinet
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 date: 2023-12-01 09:45:00
 draft: false
 event: Seminar at UdeM’s School of Optometry, UdeM
@@ -33,7 +33,7 @@ publication_types:
 publishDate: '2024-01-19T07:59:44.385734Z'
 slides: 2024-02-05-udem
 subtitle: '*Seminar at UdeM’s School of Optometry, Montréal*'
-tags: []
+tags: ["neuromorphic-computing", "motion-perception"]
 title: Event-based vision
 ---
 # When brains meet computing machines

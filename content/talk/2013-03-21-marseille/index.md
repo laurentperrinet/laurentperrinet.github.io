@@ -21,6 +21,7 @@ projects:
 - open-science
 publication: '*3rd BrainScaleS Plenary Meeting - Friday, March 21st, 2013*'
 title: Why methods and tools are the key to artificial brain-like systems
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["neuromorphic-computing", "motion-perception"]
 ---
 * see also: {{< cite page="/publication/davison-08" view="1" >}}

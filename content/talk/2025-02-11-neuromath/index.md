@@ -8,7 +8,7 @@ publishDate: '2024-12-23T15:12:20.504112Z'
 publication_types:
 - paper-conference
 publication: '*Séminaire Neuromathématiques*'
-tags: ["deep-learning", "horizontal-connections", "lateral-interactions", "natural-images", "neuroai", "retinotopy"]
+tags: ["primary-visual-cortex", "lateral-connections", "orientation-selectivity"]
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-02-11-neuromath

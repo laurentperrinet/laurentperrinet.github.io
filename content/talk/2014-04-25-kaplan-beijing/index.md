@@ -13,9 +13,9 @@ links:
   url: https://laurentperrinet.github.io/talk/2014-04-25-kaplan-beijing/
 location: Beijing, China
 publication: '*2014 International Joint Conference on Neural Networks (IJCNN)*'
-tags: ["bayesian-modeling", "dynamics", "motion-detection", "vision"]
+tags: ["spiking-neural-networks", "primary-visual-cortex", "motion-perception"]
 title: Signature of an anticipatory response in area V1 as modeled by a probabilistic
   model and a spiking neural network
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
 * see [Kaplan and al, 2014]({{< ref "/publication/kaplan-khoei-14" >}})

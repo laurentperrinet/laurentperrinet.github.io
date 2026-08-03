@@ -18,7 +18,7 @@ abstract: In most mammals, the primary visual cortex (V1) processes complex mixt
 authors:
 - Hugo Ladret
 - Laurent U Perrinet
-categories: ["Theoretical Neuroscience"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 date: 2022-03-22 00:00:00
 draft: false
 event: 2022 SIAM Conference on Imaging Science (IS22)
@@ -37,7 +37,7 @@ publication_types:
 - inproceedings
 publishDate: '2021-10-12T10:44:45.446866Z'
 subtitle: ''
-tags: []
+tags: ["predictive-coding", "visual-illusions", "primary-visual-cortex", "sparse-coding"]
 title: Statistics of the sparse representations of natural images
 ---
  * see previous work: https://laurentperrinet.github.io/sciblog/posts/2018-11-05-statistics-of-the-natural-input-to-a-ring-model.html

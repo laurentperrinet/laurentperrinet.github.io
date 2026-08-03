@@ -46,7 +46,8 @@ links:
 publication: ''
 title: Decoding the population dynamics underlying ocular following response using
   a probabilistic framework
-categories: ["Theoretical Neuroscience"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["motion-perception", "visual-illusions"]
 ---
 * related publications  @ [FENS 2006]({{< ref "/publication/perrinet-06-fens/index.md" >}}),   @ [NeuroComp 2008]({{< ref "/publication/perrinet-08-neurocomp/index.md" >}}) and   @ [AREADNE 2008]({{< ref "/publication/perrinet-08-areadne/index.md" >}})
 * see this more recent talk @ [UCL, London]({{< ref "/talk/2012-01-12-vision-at-ucl/index.md" >}})

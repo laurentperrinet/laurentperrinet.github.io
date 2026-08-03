@@ -19,7 +19,7 @@ projects:
 - courses
 - open-science
 publication: '*LACONEU2017:  4th Latin-American Summer School in Computational Neuroscience*'
-tags: ["vision"]
+tags: ["sparse-coding"]
 title: 'Tutorial: Sparse optimization in neural computations'
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---

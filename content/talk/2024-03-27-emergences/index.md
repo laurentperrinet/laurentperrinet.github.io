@@ -1,7 +1,7 @@
 ---
 authors:
 - Laurent U Perrinet
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 date: 2024-03-27 17:00:00
 draft: false
 event: 'Séminaire au colloque du PEPR AI Emergences 2024'
@@ -23,7 +23,7 @@ publication_types:
 publishDate: '2024-03-26T07:59:44.385734Z'
 slides: 2024-03-27-emergences
 subtitle: 'Seminar at the *Emergences (PEPR AI) workshop, Autrans, France*'
-tags: []
+tags: ["neuromorphic-computing"]
 title: 'Analyser de larges volumes de données neurobiologiques, vers une approche biomimétique'
 ---
 * Related papers

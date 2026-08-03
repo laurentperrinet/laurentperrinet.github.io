@@ -13,9 +13,9 @@ location: Forschungszentrum Jülich
 projects:
 - open-science
 publication: '*2nd BrainScaleS Plenary Meeting - Friday, March 22nd, 2012*'
-tags: ["motion-detection"]
+tags: ["neuromorphic-computing", "motion-perception", "visual-illusions"]
 title: 'MotionClouds: Model-based stimulus synthesis of natural-like random textures
   for the study of motion perception'
 url_slides: perrinet12wp4_handout.pdf
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---

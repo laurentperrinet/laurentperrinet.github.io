@@ -22,7 +22,7 @@ publication: '*second CENTURI Scientific Day*'
 publication_types:
 - inproceedings
 publishDate: 2022-05-19T10:44:45.446866Z
-tags: ["efficient-coding", "event-based-vision", "homeostasis", "neuromorphic-hardware", "online-classification"]
+tags: ["neuromorphic-computing", "efficient-coding", "event-based-vision", "homeostasis", "motion-perception"]
 title: Polychrony detection using heterogeneous delays
 categories: ["NeuroAI & Machine Learning"]
 ---

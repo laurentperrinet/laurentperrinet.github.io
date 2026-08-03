@@ -33,7 +33,8 @@ publishDate: '2022-03-21T10:44:45.446866Z'
 slides: 2022-03-23_ue-neurosciences-computationnelles
 title: Réseaux de neurones artificiels et apprentissage machine appliqués à la compréhension
   de la vision
-categories: ["Theoretical Neuroscience"]
+categories: ["Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+tags: ["predictive-coding", "motion-perception"]
 ---
 * Où: Salle PHY51 - Marseille (France)
 * Quoi: [Master 1 Neurosciences et Sciences Cognitives](https://ametice.univ-amu.fr/course/view.php?id=89069)

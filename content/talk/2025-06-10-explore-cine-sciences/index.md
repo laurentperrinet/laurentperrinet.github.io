@@ -18,7 +18,8 @@ abstract: 'Ouvrez grand les yeux… mais méfiez-vous de ce qu’ils vous montre
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-06-10_explore-cine-sciences
-categories: ["Behavioural Neuroscience"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+tags: ["visual-illusions"]
 ---
 Dans le cadre de la deuxième édition du Festival EXPLORE, l'association Polly Maggoo vous propose de découvrir trois projections gratuites de courts métrages autour de thématiques de recherche de scientifiques, en leur présence.
 

@@ -21,9 +21,9 @@ abstract: "By construction, deep convolutional networks treat all pixels equally
   position points to ground truth bounding boxes with 85% accuracy, compared to 71%
   for classical CNNs. This suggests that this specific Nature's million-year solution
   may offer deep learning visual networks a fundamentally new architectural look."
-tags: ["deep-learning", "neuroai", "vision"]
+tags: ["eye-movements"]
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-12-02-symposium-masters
-categories: ["NeuroAI & Machine Learning"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
 ---

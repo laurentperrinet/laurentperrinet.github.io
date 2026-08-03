@@ -1,7 +1,7 @@
 ---
 authors:
 - Laurent U Perrinet
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 date: 2023-11-07 19:00:00
 draft: false
 event: 'SNUFA: Spiking Neural networks as Universal Function Approximators'
@@ -27,7 +27,7 @@ publication_types:
 publishDate: '2023-11-06T15:59:14.546901Z'
 slides: 2023-11-07-snufa
 subtitle: ''
-tags: []
+tags: ["spiking-neural-networks", "neuromorphic-computing"]
 title: Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a
   Spiking Neural Network
 ---
