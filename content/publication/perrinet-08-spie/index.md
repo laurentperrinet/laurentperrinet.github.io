@@ -30,8 +30,8 @@ publication: '*Optical and Digital Image Processing Conference 7000 - Proceeding
   of SPIE Volume 7000, 7 - 11 April 2008*'
 publication_types:
 - inproceedings
-tags: ["association-field", "coding-decoding", "inhibition", "matching-pursuit", "sparse-coding", "sparse-hebbian-learning", "spike", "vision"]
+tags: ["spiking-neural-networks", "primary-visual-cortex", "neuromorphic-computing", "sparse-coding"]
 title: 'Adaptive Sparse Spike Coding : applications of Neuroscience to the compression
   of natural images'
-categories: ["Theoretical Neuroscience"]
+categories: ["Computational Neuroscience", "Theoretical Neuroscience"]
 ---

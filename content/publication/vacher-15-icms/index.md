@@ -13,7 +13,7 @@ projects:
 publication: '*ICMS 2015 conference*'
 publication_types:
 - inproceedings
-tags: ["motion-detection", "psychophysics"]
+tags: ["motion-perception", "visual-illusions"]
 title: A Mathematical Account of Dynamic Texture Synthesis for Probing Visual Perception
 categories: ["Theoretical Neuroscience"]
 ---

@@ -44,7 +44,7 @@ publication: '*Content-Based Multimedia Indexing (CBMI) 2021*'
 publication_types:
 - inproceedings
 subtitle: ''
-tags: ["efficient-coding", "event-based-vision", "homeostasis", "neuromorphic-hardware", "online-classification"]
+tags: ["neuromorphic-computing", "metaplasticity"]
 title: A homeostatic gain control mechanism to improve event-driven object recognition
 
 categories: ["NeuroAI & Machine Learning"]

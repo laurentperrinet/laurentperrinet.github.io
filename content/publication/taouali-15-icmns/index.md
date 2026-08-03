@@ -34,8 +34,8 @@ grants:
 publication: '*ICMNS 2015 conference*'
 publication_types:
 - inproceedings
-tags: ["coding-decoding"]
+tags: ["spiking-neural-networks", "primary-visual-cortex"]
 title: On overdispersion in neuronal evoked activity
-categories: ["Biological Neuroscience"]
+categories: ["Biological Neuroscience", "NeuroAI & Machine Learning"]
 ---
 * see a follow-up in this [publication]({{< ref "/publication/taouali-16" >}})

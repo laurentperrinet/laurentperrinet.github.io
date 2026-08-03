@@ -31,8 +31,8 @@ grants:
 publication: '*VSS Conference Abstract*'
 publication_types:
 - inproceedings
-tags: ["eye-movements", "motion-detection", "psychophysics"]
+tags: ["visual-illusions", "motion-perception", "eye-movements"]
 title: 'Measuring speed of moving textures: Different pooling of motion information
   for human ocular following and perception'
-categories: ["Behavioural Neuroscience"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
 ---

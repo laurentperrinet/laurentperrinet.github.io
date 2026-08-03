@@ -30,7 +30,7 @@ links:
 publication: '*Natural Computing*'
 publication_types:
 - article-journal
-tags: ["sparselets", "unsupervised-learning", "visual-cortex"]
+tags: ["spiking-neural-networks", "sparse-coding"]
 title: 'Finding Independent Components using spikes : a natural result of Hebbian
   learning in a sparse spike coding scheme'
 categories: ["Theoretical Neuroscience"]

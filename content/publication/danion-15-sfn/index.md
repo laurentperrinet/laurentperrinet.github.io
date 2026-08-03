@@ -18,5 +18,5 @@ publication_types:
 - inproceedings
 tags: ["bayesian-modeling"]
 title: Eye tracking a self-moved target with complex hand-target dynamics
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---

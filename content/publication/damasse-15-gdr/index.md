@@ -15,7 +15,7 @@ links:
 publication: '*Proceedings of GDR Vision (Lyon, France)*'
 publication_types:
 - inproceedings
-tags: ["eye-movements", "smooth-pursuit-eye-movement"]
+tags: ["eye-movements"]
 title: Anticipatory smooth eye movements as operant behavior
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---

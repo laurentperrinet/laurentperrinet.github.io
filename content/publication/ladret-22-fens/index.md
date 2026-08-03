@@ -22,7 +22,7 @@ publication_types:
 - inproceedings
 publishDate: '2022-06-16T11:51:41.890310Z'
 subtitle: ''
-tags: ["natural-images", "recurrent-connectivity", "v1"]
+tags: ["primary-visual-cortex"]
 title: Recurrent cortical connectivity in the primary visual cortex supports robust
   encoding of natural sensory inputs
 ---

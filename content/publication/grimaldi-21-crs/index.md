@@ -24,7 +24,7 @@ authors:
 - Sio-Hoi Ieng
 - Ryad Benosman
 - Laurent U Perrinet
-categories: ["NeuroAI & Machine Learning"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 date: 2021-10-14
 draft: false
 featured: false
@@ -44,7 +44,7 @@ publication: '*Champalimaud Research Symposium (CRS21)*'
 publication_types:
 - inproceedings
 subtitle: ''
-tags: ["efficient-coding", "event-based-vision", "homeostasis", "neuromorphic-hardware", "online-classification"]
+tags: ["spiking-neural-networks", "neuromorphic-computing"]
 title: From event-based computations to a bio-plausible Spiking Neural Network
 url_video: https://www.youtube.com/watch?v=aIt5OAleMR8
 ---

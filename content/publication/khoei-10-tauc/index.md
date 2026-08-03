@@ -15,7 +15,7 @@ links:
 publication: '*Proceedings of Tauc*'
 publication_types:
 - inproceedings
-tags: ["bayesian-modeling", "motion-detection", "ocular-following-response", "tracking-eye-movements", "visual-cortex", "visual-perception"]
+tags: ["bayesian-modeling", "motion-detection"]
 title: Dynamical emergence of a neural solution for motion integration
 categories: ["Computational Neuroscience"]
 ---

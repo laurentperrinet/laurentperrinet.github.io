@@ -37,10 +37,10 @@ links:
 publication: '*Frontiers in Computational Neuroscience*'
 publication_types:
 - article-journal
-tags: ["visual-cortex"]
+tags: ["spiking-neural-networks"]
 title: Complex dynamics in recurrent cortical networks based on spatially realistic
   connectivities
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
 ![header](voges-12.png)
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}

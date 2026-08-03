@@ -39,9 +39,9 @@ links:
 publication: '*Vision*'
 publication_types:
 - article-journal
-tags: ["gain-control", "homeostasis", "matching-pursuit", "mesocentre", "sparse-coding", "sparse-hebbian-learning", "unsupervised-learning", "visual-cortex"]
+tags: ["spiking-neural-networks", "primary-visual-cortex", "sparse-coding"]
 title: An adaptive homeostatic algorithm for the unsupervised learning of visual features
-categories: ["Theoretical Neuroscience"]
+categories: ["NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
 # "An adaptive algorithm for unsupervised learning"
 {{< video src="https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4" controls="yes" >}}

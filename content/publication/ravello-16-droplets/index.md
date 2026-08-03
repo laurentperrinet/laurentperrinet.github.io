@@ -21,7 +21,7 @@ projects:
 publication: ''
 publication_types:
 - preprint
-tags: ["image-texture", "retina", "sparse-coding", "vision"]
+tags: ["motion-perception", "sparse-coding"]
 title: Differential response of the retinal neural code with respect to the sparseness
   of natural images
 categories: ["Computational Neuroscience"]

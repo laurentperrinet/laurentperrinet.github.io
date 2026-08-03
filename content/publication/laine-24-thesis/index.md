@@ -37,5 +37,5 @@ abstract: Les récentes avancées technologiques en neurobiologie ont ouvert la 
 links:
 - name: URL
   url: https://theses.fr/s400564
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---

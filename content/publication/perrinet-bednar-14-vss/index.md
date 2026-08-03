@@ -38,8 +38,8 @@ links:
 publication: '*Journal of Vision*'
 publication_types:
 - inproceedings
-tags: ["association-field", "sparse-coding", "vision"]
+tags: ["primary-visual-cortex", "sparse-coding"]
 title: Edge co-occurrences are sufficient to categorize natural versus animal images
-categories: ["Behavioural Neuroscience"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
 ---
 * see a follow-up: {{< cite page="/publication/perrinet-bednar-15" view="4" >}}

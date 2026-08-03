@@ -17,7 +17,7 @@ authors:
 - Camille Besnainou
 - Hugo Ladret
 - Laurent U Perrinet
-categories: ["NeuroAI & Machine Learning"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
 date: 2022-06-29
 draft: false
 featured: false
@@ -38,7 +38,7 @@ publication_types:
 publishDate: '2022-06-16T11:51:41.890310Z'
 slides: 2022-07-01_grimaldi-22-areadne
 subtitle: ''
-tags: ["efficient-coding", "event-based-vision", "homeostasis", "neuromorphic-hardware", "online-classification", "polychronies"]
+tags: ["spiking-neural-networks", "neuromorphic-computing"]
 title: Decoding spiking motifs using neurons with heterogeneous delays
 ---
 ![](@laurentperrinet_1546471536571342849_tweetcapture.png)

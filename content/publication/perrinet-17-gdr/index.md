@@ -36,9 +36,9 @@ grants:
 publication: '*GDR Vision, Lille, 2017*'
 publication_types:
 - inproceedings
-tags: ["motion-anticipation"]
+tags: ["motion-perception", "visual-illusions"]
 title: Expériences autour de la perception de la forme en art et science
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
 # Expériences autour de la perception de la forme en art et science
 La vision utilise un faisceau d'informations de différentes qualités pour atteindre une perception unifiée du monde environnant. Nous avons utilisé lors de plusieurs projets art-science (voir https://github.com/NaturalPatterns) des installations permettant de manipuler explicitement des composantes de ce flux d'information et de révéler des ambiguités dans notre perception.

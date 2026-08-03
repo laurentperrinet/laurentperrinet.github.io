@@ -22,7 +22,7 @@ publication: '*Champalimaud Research Symposium (CRS21)*'
 publication_types:
 - inproceedings
 subtitle: ''
-tags: ["decoding", "orientation", "precision", "predictive-coding", "v1"]
+tags: ["primary-visual-cortex"]
 title: Decoding orientation distributions from noisy observations in V1
 ---
 * This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}

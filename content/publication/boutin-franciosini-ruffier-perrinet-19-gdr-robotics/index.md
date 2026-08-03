@@ -25,9 +25,9 @@ projects:
 publication: '*GdR Robotics - 2019-06-05*'
 publication_types:
 - inproceedings
-tags: ["deep-learning", "sparse-coding"]
+tags: ["predictive-coding", "sparse-coding"]
 title: Top-down connection in Hierarchical Sparse Coding
-categories: ["NeuroAI & Machine Learning"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

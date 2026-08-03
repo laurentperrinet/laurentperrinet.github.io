@@ -9,7 +9,7 @@ publication_types:
 publication: '*arXiv preprint arXiv:2604.14096*'
 draft: false
 
-tags: ["heterogeneous-delays", "neuromorphic", "polychronization", "recurrent-networks", "spikes", "spiking-motifs", "spiking-neural-networks", "surrogate-gradient", "working-memory"]
+tags: ["spiking-neural-networks", "neuromorphic-computing"]
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-26
@@ -17,7 +17,7 @@ links:
   url: http://arxiv.org/abs/2604.14096
 - name: Code
   url: https://github.com/laurentperrinet/MNESIS
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
 * See the accompanying code: https://github.com/laurentperrinet/MNESIS
 * see a related presentation: {{< cite page="/talk/2026-04-16-cerco" view="4" >}}

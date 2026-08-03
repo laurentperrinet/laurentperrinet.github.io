@@ -34,9 +34,9 @@ links:
 publication: '*IEEE Transactions on Neural Networks*'
 publication_types:
 - article-journal
-tags: ["association-field", "matching-pursuit", "sparse-coding", "sparse-hebbian-learning", "spike", "statistics-of-natural-images", "vision"]
+tags: ["spiking-neural-networks", "primary-visual-cortex", "sparse-coding"]
 title: 'Coding static natural images using spiking event times: do neurons cooperate?'
-categories: ["Theoretical Neuroscience"]
+categories: ["NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
 ![header](perrinet-03-ieee.png)
 {{< figure src="v1_tiger.gif" title="*Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.*" >}}

@@ -30,5 +30,6 @@ abstract: "Cette thèse est centralisée sur cette question : comment est-ce que
 links:
 - name: URL
   url: https://theses.fr/2014AIXM4041
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["primary-visual-cortex"]
 ---

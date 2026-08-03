@@ -43,5 +43,5 @@ abstract: "Notre cerveau est extrêmement efficace pour résoudre des tâches vi
 links:
 - name: URL
   url: https://theses.fr/2024AIXM0117
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---

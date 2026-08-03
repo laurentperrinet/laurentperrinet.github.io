@@ -40,9 +40,9 @@ links:
 publication: '*Journal of Vision*'
 publication_types:
 - inproceedings
-tags: ["motion-detection"]
+tags: ["motion-perception", "primary-visual-cortex", "visual-illusions"]
 title: Motion-based prediction model for flash lag effect
-categories: ["Theoretical Neuroscience"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}
 * see  follow-up on motion extrapolation: {{< cite page="/publication/khoei-13-jpp" view="4" >}}

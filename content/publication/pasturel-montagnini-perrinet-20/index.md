@@ -51,10 +51,10 @@ links:
 publication: '*PLoS Computational Biology*'
 publication_types:
 - article-journal
-tags: ["motion-anticipation"]
+tags: ["motion-perception", "eye-movements"]
 title: Humans adapt their anticipatory eye movements to the volatility of visual motion
   properties
-categories: ["Theoretical Neuroscience"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
 # "Humans adapt their anticipatory eye movements to the volatility of visual motion properties"
 {{< video src="https://raw.githubusercontent.com/chloepasturel/AnticipatorySPEM/master/2020-03_video-abstract/PasturelMontagniniPerrinet2020_video-abstract.mp4" controls="yes" >}}

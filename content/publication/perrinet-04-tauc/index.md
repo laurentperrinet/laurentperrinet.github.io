@@ -32,7 +32,7 @@ links:
 publication: '*Journal of Physiology-Paris*'
 publication_types:
 - article-journal
-tags: ["bayesian-modeling", "coding-decoding", "matching-pursuit", "sparse-coding", "sparse-hebbian-learning", "spike"]
+tags: ["spiking-neural-networks", "primary-visual-cortex", "sparse-coding"]
 title: 'Feature detection using spikes : the greedy approach'
-categories: ["Biological Neuroscience"]
+categories: ["Biological Neuroscience", "Computational Neuroscience"]
 ---

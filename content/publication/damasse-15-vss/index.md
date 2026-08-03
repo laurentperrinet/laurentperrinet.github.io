@@ -40,7 +40,7 @@ links:
 publication: '*Proceedings of VSS*'
 publication_types:
 - inproceedings
-tags: ["eye-movements", "smooth-pursuit-eye-movement"]
+tags: ["visual-illusions", "motion-perception", "eye-movements"]
 title: Anticipatory smooth eye movements and reinforcement
-categories: ["Theoretical Neuroscience"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---

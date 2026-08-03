@@ -36,10 +36,10 @@ math: true
 publication: '*Scientific Reports*'
 publication_types:
 - article-journal
-tags: ["association-field", "sparse-coding", "vision"]
+tags: ["visual-illusions", "primary-visual-cortex", "sparse-coding"]
 title: Edge co-occurrences can account for rapid categorization of natural versus
   animal images
-categories: ["Behavioural Neuroscience"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
 ---
 * [supplementary information](https://www.nature.com/article-assets/npg/srep/2015/150622/srep11400/extref/srep11400-s1.pdf)
 * [supplementary material](PerrinetBednar15supplementary.pdf)

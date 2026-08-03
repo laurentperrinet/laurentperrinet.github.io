@@ -40,8 +40,8 @@ links:
 publication: '*Journal of Vision*'
 publication_types:
 - inproceedings
-tags: ["eye-movements", "motion-detection", "psychophysics"]
+tags: ["visual-illusions", "motion-perception", "eye-movements"]
 title: The characteristics of microsaccadic eye movements varied with the change of
   strategy in a match-to-sample task
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---

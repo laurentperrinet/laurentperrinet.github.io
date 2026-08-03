@@ -39,8 +39,8 @@ links:
 publication: '*Vision research*'
 publication_types:
 - article-journal
-tags: ["bayesian-modeling", "eye-movements", "motion-detection"]
+tags: ["motion-perception", "eye-movements"]
 title: Dynamics of distributed 1D and 2D motion representations for short-latency
   ocular following
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---

@@ -11,9 +11,9 @@ grants:
 publication: '*Bernstein Conference 2021*'
 publication_types:
 - inproceedings
-tags: ["lateral-interactions"]
+tags: ["spiking-neural-networks", "primary-visual-cortex"]
 title: Simulating anticipatory activity in a 1D Spiking Neural Network Model
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
 * poster number: 94
 * scheduled on Wednesday, Sep 22, 18:00 CEST.

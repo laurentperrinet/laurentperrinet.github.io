@@ -27,8 +27,8 @@ links:
 publication: '*ISCAS2018, IEEE International Symposium on Circuits and Systems*'
 publication_types:
 - inproceedings
-tags: ["vision"]
+tags: ["motion-perception", "neuro-inspired", "bio-inspired", "optic-flow", "motion-detection"]
 title: 'M2APix: a bio-inspired auto-adaptive visual sensor for robust ground height
   estimation'
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---

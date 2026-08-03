@@ -15,10 +15,10 @@ links:
 publication: '*EURASIP Journal on Advances in Signal Processing*'
 publication_types:
 - article-journal
-tags: ["association-field", "log-gabor", "motion-detection", "vision"]
+tags: ["association-field", "log-gabor", "motion-detection", "lateral-interactions", "motion-perception", "primary-visual-cortex", "sparse-coding"]
 title: Sparse Approximation of Images Inspired from the Functional Architecture of
   the Primary Visual Areas
-categories: ["Biological Neuroscience"]
+categories: ["Biological Neuroscience", "NeuroAI & Machine Learning"]
 ---
 * relies on log-Gabor filters: {{< cite page="/publication/fischer-07-cv" view="4" >}}
 {{< figure src="https://laurentperrinet.github.io/publication/fischer-07/figure2.png" width="80%" title="Schematic structure of the primary visual cortex implemented in the present study. Simple cortical cells are modeled through log-Gabor functions. They are organized in pairs in quadrature of phase (dark-gray circles). For each position the set of different orientations compose a pinwheel (large light-gray circles). The retinotopic organization induces that adjacent spatial positions are arranged in adjacent pinwheels. Inhibition interactions occur towards the closest adjacent positions which are in the direc-tions perpendicular to the cell preferred orientation and toward adjacent orientations (light-red connections). Facilitation occurs to-wards co-aligned cells up to a larger distance (dark-blue connections). " >}}

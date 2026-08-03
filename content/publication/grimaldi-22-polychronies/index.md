@@ -42,7 +42,8 @@ links:
 publication_types:
 - article-journal
 title: Precise spiking motifs in neurobiological and neuromorphic data
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["spiking-neural-networks", "primary-visual-cortex", "neuromorphic-computing", "temporal-coding", "polychronization", "spiking-motifs", "motion-perception"]
 ---
 {{< video src="2022-12-23_polychrony-review_video-abstract.mp4" controls="yes" >}}
  * read the paper [online](https://arxiv.org/html/2404.07866v1) or in [PDF](https://arxiv.org/pdf/2404.07866v1.pdf)

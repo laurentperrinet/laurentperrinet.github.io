@@ -44,10 +44,10 @@ links:
 publication: '*Journal of Vision*'
 publication_types:
 - article-journal
-tags: ["active-inference", "deep-learning", "object-localization", "visual-search", "visuomotor-control"]
+tags: ["primary-visual-cortex", "eye-movements", "foveated-vision", "saccades", "visual-search", "neuroAI", "neuro-inspired-computing"]
 title: A dual foveal-peripheral visual processing model implements efficient saccade
   selection
-categories: ["NeuroAI & Machine Learning"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
 {{< figure src="https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true" >}}
 * for a more mathematical treatment, see {{< cite page="/publication/dauce-20-iwai" view="4" >}}

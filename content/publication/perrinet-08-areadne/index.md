@@ -42,8 +42,8 @@ projects:
 publication: '*Proceedings of AREADNE, 2008*'
 publication_types:
 - inproceedings
-tags: ["bayesian-modeling", "eye-movements", "motion-detection", "visual-cortex", "visual-perception"]
+tags: ["motion-perception", "visual-illusions"]
 title: Decoding the population dynamics underlying ocular following response using
   a probabilistic framework
-categories: ["Theoretical Neuroscience"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---

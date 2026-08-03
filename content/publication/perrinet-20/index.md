@@ -42,10 +42,10 @@ links:
 publication: '*The Philosophy and Science of Predictive Processing*'
 publication_types:
 - inbook
-tags: ["active-inference", "bayesian-modeling", "psychophysics", "visual-cortex"]
+tags: ["predictive-coding", "motion-perception", "primary-visual-cortex"]
 title: 'From the retina to action: Dynamics of predictive processing in the visual
   system'
-categories: ["Theoretical Neuroscience"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
  * Find the text at https://laurentperrinet.github.io/Perrinet20PredictiveProcessing/
  * The source code of the text is available at https://github.com/laurentperrinet/Perrinet20PredictiveProcessing

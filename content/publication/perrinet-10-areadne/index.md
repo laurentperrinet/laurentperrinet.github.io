@@ -10,7 +10,7 @@ projects:
 publication: '*Proceedings of AREADNE*'
 publication_types:
 - inproceedings
-tags: ["bayesian-modeling", "eye-movements", "motion-detection", "visual-cortex", "visual-perception"]
+tags: ["motion-perception", "visual-illusions"]
 title: Dynamical emergence of a neural solution for motion integration
 categories: ["Computational Neuroscience"]
 ---

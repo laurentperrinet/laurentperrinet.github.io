@@ -13,8 +13,8 @@ projects:
 publication: '*Vision Science Society*'
 publication_types:
 - inproceedings
-tags: ["eye-movements", "motion-detection", "psychophysics"]
+tags: ["motion-perception"]
 title: Different pooling of motion information for perceptual speed discrimination
   and behavioral speed estimation
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience"]
 ---

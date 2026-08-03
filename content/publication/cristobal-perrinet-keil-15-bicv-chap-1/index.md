@@ -26,6 +26,6 @@ publication_types:
 - inbook
 tags: ["vision"]
 title: Introduction
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
 {{< figure src="mindmap.png" title="Mindmap of the book contents. Cross-links between chapters have been indicated as thin lines." >}}

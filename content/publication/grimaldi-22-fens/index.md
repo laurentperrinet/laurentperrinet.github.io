@@ -22,7 +22,7 @@ publication_types:
 - inproceedings
 publishDate: '2022-06-16T11:51:41.890310Z'
 subtitle: ''
-tags: ["efficient-coding", "event-based-vision", "homeostasis", "neuromorphic-hardware", "online-classification", "polychronies"]
+tags: ["spiking-neural-networks", "neuromorphic-computing", "motion-perception"]
 title: Learning heterogeneous delays of spiking neurons for motion detection
 ---
 ![](@laurentperrinet_1546471536571342849_tweetcapture.png)

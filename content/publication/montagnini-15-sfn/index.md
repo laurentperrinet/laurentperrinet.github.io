@@ -17,5 +17,5 @@ publication_types:
 - inproceedings
 tags: ["bayesian-modeling"]
 title: 'Anticipating a moving target: role of vision and reinforcement'
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---

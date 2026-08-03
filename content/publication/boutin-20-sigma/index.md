@@ -42,10 +42,10 @@ links:
 publication: '*SIGMA''2020 (Signal, Image, Geometry, Modelling, Approximation)*'
 publication_types:
 - inproceedings
-tags: ["deep-learning", "sparse-coding"]
+tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding"]
 title: Sparse Deep Predictive Coding captures contour integration capabilities of
   the early visual system
-categories: ["NeuroAI & Machine Learning"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
  * presented during this [talk]({{< ref "/talk/2019-03-25-hdr-robin-baures/index.md" >}})
  * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}

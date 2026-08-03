@@ -21,7 +21,7 @@ links:
 publication: '*Neurocomputing*'
 publication_types:
 - article-journal
-tags: ["coding-decoding", "rank-order-coding", "sparse-hebbian-learning", "spike", "stdp"]
+tags: ["spiking-neural-networks", "sparse-coding"]
 title: Coherence detection in a spiking neuron via Hebbian learning
 categories: ["Computational Neuroscience"]
 ---

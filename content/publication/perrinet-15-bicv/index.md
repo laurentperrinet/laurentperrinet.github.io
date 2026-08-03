@@ -32,8 +32,8 @@ links:
 publication: '*Biologically Inspired Computer Vision*'
 publication_types:
 - inbook
-tags: ["sparse-coding", "vision"]
+tags: ["primary-visual-cortex", "sparse-coding"]
 title: Sparse Models for Computer Vision
-categories: ["Theoretical Neuroscience"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
 * Appeared in this book: {{< cite page="/publication/cristobal-perrinet-keil-15-bicv" view="4" >}}

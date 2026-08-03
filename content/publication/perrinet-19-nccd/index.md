@@ -47,8 +47,8 @@ links:
 publication: '*Proceedings of NCCD, Capbreton*'
 publication_types:
 - inproceedings
-tags: ["coding-decoding"]
+tags: ["motion-perception", "primary-visual-cortex"]
 title: A dynamic model for decoding direction and orientation in macaque primary visual
   cortex
-categories: ["Biological Neuroscience"]
+categories: ["Biological Neuroscience", "NeuroAI & Machine Learning"]
 ---

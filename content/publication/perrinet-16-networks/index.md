@@ -31,7 +31,7 @@ links:
 publication: '*Complex Networks: from theory to interdisciplinary applications*'
 publication_types:
 - inproceedings
-tags: ["active-inference"]
+tags: ["predictive-coding", "motion-perception", "eye-movements"]
 title: Compensation of oculomotor delays in the visual system's network
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---

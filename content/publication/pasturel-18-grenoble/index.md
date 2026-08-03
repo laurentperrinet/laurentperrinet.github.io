@@ -28,9 +28,9 @@ publication: '*Grenoble Workshop on Models and Analysis of Eye Movements, Grenob
   France*'
 publication_types:
 - inproceedings
-tags: ["motion-anticipation"]
+tags: ["motion-perception", "eye-movements"]
 title: Estimating and anticipating a dynamic probabilistic bias in visual motion direction
-categories: ["Behavioural Neuroscience"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
 ---
 * see a write-up in "[Humans adapt their anticipatory eye movements to the volatility of visual motion properties](https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/)"
 * as presented at https://eyemovements.sciencesconf.org/

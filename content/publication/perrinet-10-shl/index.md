@@ -36,9 +36,9 @@ links:
 publication: '*Neural Computation*'
 publication_types:
 - article-journal
-tags: ["association-field", "coding-decoding", "eye-movements", "homeostasis", "matching-pursuit", "motion-detection", "receptive-field", "sparse-coding", "sparse-hebbian-learning", "statistics-of-natural-images", "unsupervised-learning"]
+tags: ["motion-perception", "primary-visual-cortex", "sparse-coding"]
 title: Role of homeostasis in learning sparse representations
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
 ![header](perrinet-10-shl.png)
 * related publication : {{< cite page="/publication/perrinet-19-hulk" view="4" >}}

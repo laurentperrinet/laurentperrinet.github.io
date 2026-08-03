@@ -19,5 +19,5 @@ publication_types:
 - inproceedings
 tags: ["eye-movements", "motion-detection"]
 title: How the dynamics of human smooth pursuit is influenced by speed uncertainty
-categories: ["Behavioural Neuroscience"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
 ---

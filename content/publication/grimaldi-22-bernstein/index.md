@@ -23,7 +23,7 @@ authors:
 - Camille Besnainou
 - Hugo Ladret
 - Laurent U Perrinet
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 date: 2022-09-11
 draft: false
 featured: false
@@ -42,7 +42,7 @@ publication_types:
 - inproceedings
 publishDate: '2023-07-21T11:11:54.651024Z'
 subtitle: ''
-tags: ["polychronization", "spiking-motifs", "spiking-neural-networks", "stdp"]
+tags: ["spiking-neural-networks", "metaplasticity", "sparse-coding"]
 title: Detection of precise spiking motifs using spike-time dependent weight and delay
   plasticity
 ---

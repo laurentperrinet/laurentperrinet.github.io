@@ -14,7 +14,7 @@ abstract: Aleatoric uncertainty characterizes the variability of features found 
 authors:
 - Hugo Ladret
 - Laurent U Perrinet
-categories: ["Theoretical Neuroscience"]
+categories: ["Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 date: 2023-05-05
 draft: false
 featured: false
@@ -32,7 +32,7 @@ publication_types:
 - inproceedings
 publishDate: '2023-04-07T10:45:44.753196Z'
 subtitle: ''
-tags: ["coding", "convolutional", "images", "natural", "sparse", "uncertainty"]
+tags: ["spiking-neural-networks", "primary-visual-cortex", "sparse-coding"]
 title: Convolutional Sparse Coding is improved by heterogeneous uncertainty modeling
 ---
 * Accepted paper (poster) at the [ICLR 2023 Workshop on

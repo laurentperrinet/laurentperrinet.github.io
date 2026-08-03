@@ -29,9 +29,9 @@ links:
 publication: '*Journal of Physiology-Paris*'
 publication_types:
 - article-journal
-tags: ["association-field", "visual-cortex"]
+tags: ["sparse-coding"]
 title: Phase space analysis of networks based on biologically realistic parameters
-categories: ["Biological Neuroscience"]
+categories: ["Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
 ![header](voges-10-jpp.png)
 * see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

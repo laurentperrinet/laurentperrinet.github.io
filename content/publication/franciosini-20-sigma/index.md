@@ -68,10 +68,10 @@ links:
 publication: '*SIGMA''2020 (Signal, Image, Geometry, Modelling, Approximation)*'
 publication_types:
 - inproceedings
-tags: ["deep-learning", "sparse-coding"]
+tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding"]
 title: Modelling Complex-cells and topological structure in the visual cortex of mammals
   using Sparse Predictive Coding
-categories: ["NeuroAI & Machine Learning"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

@@ -16,7 +16,7 @@ authors:
 - Luca Calatroni
 - Laurent U Perrinet
 - Dario Prandi
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
 date: 2022-06-29
 draft: false
 featured: false
@@ -36,7 +36,7 @@ publication_types:
 publishDate: '2022-06-16T11:51:41.890310Z'
 show_authors_only: false
 subtitle: ''
-tags: ["generative-models", "sparse-coding", "v1"]
+tags: ["primary-visual-cortex", "sparse-coding"]
 title: Which sparsity problem does the brain solve?
 ---
 * Follow-up paper {{< cite page="/publication/rentzeperis-23" view="4" >}}

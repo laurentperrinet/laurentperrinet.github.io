@@ -44,7 +44,7 @@ publication_short: ''
 publication_types:
 - article-journal
 publishDate: '2024-01-09T10:17:44.040592Z'
-tags: ["coding", "deep-learning", "efficiency", "heterogeneity", "representation", "sparseness", "vision"]
+tags: ["neuromorphic-computing", "primary-visual-cortex", "sparse-coding"]
 title: Kernel Heterogeneity Improves Sparseness of Natural Images Representations
 url_code: ''
 url_dataset: https://figshare.com/articles/media/HD_natural_images_database_for_sparse_coding/24167265?file=42404574
@@ -53,7 +53,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-categories: ["Theoretical Neuroscience"]
+categories: ["Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
 ![Artboard](2024_ladret.gif)
 * 5 minutes summary: https://hugoladret.github.io/publications/ladret_et_al_sparsecoding/

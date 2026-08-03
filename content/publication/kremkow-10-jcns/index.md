@@ -31,7 +31,7 @@ links:
 publication: '*Journal of Computational Neuroscience*'
 publication_types:
 - article-journal
-tags: ["coding-decoding", "pynn", "sparse-coding", "visual-cortex"]
+tags: ["spiking-neural-networks", "sparse-coding"]
 title: Functional consequences of correlated excitatory and inhibitory conductances
   in cortical networks
 categories: ["Computational Neuroscience"]

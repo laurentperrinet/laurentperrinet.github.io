@@ -12,7 +12,7 @@ projects:
 publication: '*Perception*'
 publication_types:
 - inproceedings
-tags: ["retina"]
+tags: ["spiking-neural-networks", "visual-illusions"]
 title: Contrast sensitivity adaptation in a virtual spiking retina and its adequation
   with mammalians retinas
 categories: ["Computational Neuroscience"]

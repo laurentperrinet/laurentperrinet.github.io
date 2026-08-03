@@ -37,9 +37,9 @@ publication: '*NeuroFrance 2017, International Conference from the Société des
   Bordeaux, France*'
 publication_types:
 - inproceedings
-tags: ["deep-learning", "sparse-coding"]
+tags: ["spiking-neural-networks", "metaplasticity", "sparse-coding", "homeostasis"]
 title: Efficient learning of sparse image representations using homeostatic regulation
-categories: ["NeuroAI & Machine Learning"]
+categories: ["Computational Neuroscience", "Theoretical Neuroscience"]
 ---
 * This work is a followup of {{< cite page="/publication/perrinet-10-shl" view="4" >}}
 * the [poster (PDF)](https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars/raw/master/docs/BoutinRuffierPerrinet17neurofrance.pdf) will be presented Thursday, May 18 @ [NeuroFrance, Bordeaux](https://www.professionalabstracts.com/sn2017/programme-sn2017.pdf).

@@ -33,7 +33,7 @@ links:
 publication: '*VSS Conference Abstract*'
 publication_types:
 - inproceedings
-tags: ["eye-movements", "motion-detection", "psychophysics"]
+tags: ["motion-perception", "eye-movements"]
 title: Effect of image statistics on fixational eye movements
-categories: ["Behavioural Neuroscience"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
 ---

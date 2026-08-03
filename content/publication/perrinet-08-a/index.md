@@ -10,8 +10,8 @@ projects:
 publication: '*Proceedings of COSYNE*'
 publication_types:
 - inproceedings
-tags: ["bayesian-modeling", "eye-movements", "motion-detection", "visual-cortex", "visual-perception"]
+tags: ["motion-perception", "visual-illusions"]
 title: Modeling spatial integration in the ocular following response to center-surround
   stimulation using a probabilistic framework
-categories: ["Theoretical Neuroscience"]
+categories: ["Computational Neuroscience", "Theoretical Neuroscience"]
 ---

@@ -17,9 +17,9 @@ publication: '*LADISLAV TAUC and GDR MSPC NEUROSCIENCES CONFERENCE, From Mathema
   Image Analysis to Neurogeometry of the Brain*'
 publication_types:
 - inproceedings
-tags: ["bayesian-modeling", "coding-decoding", "eye-movements", "motion-detection", "visual-cortex"]
+tags: ["motion-perception"]
 title: 'Probabilistic models of the low-level visual system: the role of prediction
   in detecting motion'
-categories: ["Theoretical Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

@@ -41,9 +41,9 @@ links:
 publication: '*Vision research*'
 publication_types:
 - article-journal
-tags: ["bayesian-modeling", "predictive-coding"]
+tags: ["visual-illusions", "motion-perception", "eye-movements"]
 title: 'Pursuing motion illusions: a realistic oculomotor framework for Bayesian inference'
-categories: ["Theoretical Neuroscience"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
 ![header](bogadhi-11.png)
 * See a followup in {{< cite page="/publication/perrinet-12-pred" view="4" >}}

@@ -17,7 +17,7 @@ authors:
 - Camille Besnainou
 - Hugo Ladret
 - Laurent U Perrinet
-categories: ["NeuroAI & Machine Learning"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
 date: 2022-10-16
 doi: 10.1109/ICIP46576.2022.9897394
 draft: false
@@ -40,7 +40,7 @@ publication_types:
 - inproceedings
 publishDate: '2022-06-21T08:00:50.371310Z'
 subtitle: ''
-tags: ["event-based-vision", "neuromorphic-hardware", "polychronies"]
+tags: ["spiking-neural-networks", "neuromorphic-computing", "motion-perception", "visual-illusions"]
 title: Learning heterogeneous delays of spiking neurons for motion detection
 ---
 * see a follow-up as journal paper: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}

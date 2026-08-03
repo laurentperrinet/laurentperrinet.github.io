@@ -43,10 +43,10 @@ publication: '*NeuroFrance 2019, International Conference from the Société des
   Marseille, France*'
 publication_types:
 - inproceedings
-tags: ["deep-learning", "sparse-coding"]
+tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding"]
 title: A hierarchical, multi-layer convolutional sparse coding algorithm based on
   predictive coding
-categories: ["NeuroAI & Machine Learning"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

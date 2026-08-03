@@ -32,9 +32,9 @@ links:
 publication: '*Neural Computation*'
 publication_types:
 - article-journal
-tags: ["aperture-problem", "bayesian-modeling", "motion-detection", "predictive-coding"]
+tags: ["predictive-coding", "spiking-neural-networks", "motion-perception"]
 title: Motion-based prediction is sufficient to solve the aperture problem
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
 ![header](perrinet-12-pred.png)
 {{< figure src="line_particles.gif" width="80%" title="The estimation of the motion of an elongated, slanted segment (here moving horizontally to the right) on a limited area (such as the receptive field of a neuron) leads to ambiguous velocity measurements compared to physical motion: it’s the aperture problem. We represent as arrows the velocity vectors that are most likely detected by a motion energy model; hue indicates direction angle. Introducing predictive coding resolves the aperture problem." >}}

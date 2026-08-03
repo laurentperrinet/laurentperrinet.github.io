@@ -23,8 +23,8 @@ links:
 publication: '*Fifteenth Annual Computational Neuroscience Meeting: CNS*2006*'
 publication_types:
 - inproceedings
-tags: ["unsupervised-learning"]
+tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding"]
 title: An efficiency razor for model selection and adaptation in the primary visual
   cortex
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---

@@ -29,7 +29,7 @@ links:
 publication: '*Perception 36 ECVP Abstract Supplement*'
 publication_types:
 - inproceedings
-tags: ["motion-detection"]
+tags: ["motion-perception", "visual-illusions"]
 title: Dynamic inference for motion tracking
-categories: ["Behavioural Neuroscience"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "NeuroAI & Machine Learning"]
 ---

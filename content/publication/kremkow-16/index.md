@@ -38,7 +38,7 @@ links:
 publication: '*Frontiers in Neural Circuits*'
 publication_types:
 - article-journal
-tags: ["statistics-of-natural-images", "visual-cortex"]
+tags: ["spiking-neural-networks", "primary-visual-cortex", "sparse-coding"]
 title: 'Push-Pull Receptive Field Organization and Synaptic Depression: Mechanisms
   for Reliably Encoding Naturalistic Stimuli in V1'
 categories: ["Computational Neuroscience"]

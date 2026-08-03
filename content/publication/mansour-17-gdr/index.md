@@ -41,7 +41,7 @@ links:
 publication: '*GDR Vision, Lille, 2017*'
 publication_types:
 - inproceedings
-tags: ["eye-movements", "motion-detection"]
+tags: ["motion-perception", "eye-movements"]
 title: 'Voluntary tracking the moving clouds : Effects of speed variability on human
   smooth pursuit'
 categories: ["Behavioural Neuroscience"]

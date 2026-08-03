@@ -31,9 +31,9 @@ links:
 publication: '*GDR Vision, Paris, 2018*'
 publication_types:
 - inproceedings
-tags: ["deep-learning", "orientation", "psychophysics", "visual-cortex"]
+tags: ["spiking-neural-networks", "primary-visual-cortex"]
 title: Selectivity to oriented patterns of different precisions
-categories: ["NeuroAI & Machine Learning"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
 ---
 * poster présenté au [GDR vision, Paris](https://gdrvision2018.sciencesconf.org).
 * program : https://gdrvision2018.sciencesconf.org/data/pages/posters_GDRVision2018.pdf

@@ -43,9 +43,9 @@ publication: '*Computational and Systems Neuroscience (Cosyne) 2021*'
 publication_types:
 - inproceedings
 subtitle: ''
-tags: ["efficient-coding", "event-based-vision", "homeostasis", "neuromorphic-hardware", "online-classification"]
+tags: ["neuromorphic-computing", "metaplasticity"]
 title: A robust bio-inspired approach to event-driven object recognition
-categories: ["NeuroAI & Machine Learning"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
 ![](@laurentperrinet_1364962423120265218_tweetcapture.png)
 {{< figure src="poster.png" width="100%" >}}

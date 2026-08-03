@@ -55,7 +55,7 @@ links:
 publication: '*Curves and Surfaces 2018, Arcachon*'
 publication_types:
 - inproceedings
-tags: ["deep-learning", "sparse-coding"]
+tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding"]
 title: On the Origins of Hierarchy in Visual Processing
 categories: ["NeuroAI & Machine Learning"]
 ---

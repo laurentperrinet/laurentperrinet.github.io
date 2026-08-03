@@ -30,5 +30,6 @@ abstract: La représentation concise et efficace de l'information est un problè
 links:
 - name: URL
   url: https://theses.fr/2020AIXM0028
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["primary-visual-cortex", "visual-illusions"]
 ---

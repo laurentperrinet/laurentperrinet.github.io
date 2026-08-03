@@ -24,9 +24,9 @@ projects:
 publication: '*Proceedings of NeuroComp*'
 publication_types:
 - inproceedings
-tags: ["visual-cortex"]
+tags: ["spiking-neural-networks", "sparse-coding"]
 title: Phase space analysis of networks based on biologically realistic parameters
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}
 * see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

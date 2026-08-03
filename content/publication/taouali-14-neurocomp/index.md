@@ -11,8 +11,8 @@ grants:
 publication: '*6th Workshop of the Computational Neuroscience Network in Marseille*'
 publication_types:
 - inproceedings
-tags: ["coding-decoding"]
+tags: ["primary-visual-cortex"]
 title: A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
 * see a follow-up in this [publication]({{< ref "/publication/taouali-16" >}})

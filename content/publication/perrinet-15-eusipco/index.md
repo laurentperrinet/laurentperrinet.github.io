@@ -25,7 +25,7 @@ links:
 publication: '*European Signal Processing Conference 2015 (EUSIPCO 2015)*'
 publication_types:
 - inproceedings
-tags: ["association-field", "coding-decoding", "sparse-coding", "sparselets", "statistics-of-natural-images", "vision", "visual-cortex"]
+tags: ["primary-visual-cortex", "sparse-coding"]
 title: Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences
-categories: ["Behavioural Neuroscience"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
 ---

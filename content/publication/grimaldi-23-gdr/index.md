@@ -15,7 +15,7 @@ abstract: 'The response of a biological neuron depends largely on the precise ti
 authors:
 - Antoine Grimaldi
 - Laurent U Perrinet
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
 date: 2023-01-27
 draft: false
 featured: false
@@ -35,7 +35,7 @@ publication_types:
 - inproceedings
 publishDate: '2023-03-22T15:35:38.869745Z'
 subtitle: ''
-tags: ["motion-detection", "polychronization", "spiking-motifs", "spiking-neural-networks", "stdp"]
+tags: ["motion-detection", "polychronization", "spiking-motifs", "spiking-neural-networks", "motion-perception"]
 title: Learning heterogeneous delays of spiking neurons for motion detection
 ---
 * see a follow-up as journal paper: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}

@@ -17,7 +17,7 @@ abstract: Recently, interest has grown in exploring the hypothesis that neural a
   detect spiking motifs in a more natural and biologically relevant context.
 authors:
 - Laurent U Perrinet
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 date: 2023-09-27
 doi: 10.1007/978-3-031-44207-0_31
 draft: false
@@ -41,7 +41,7 @@ publication_types:
 publishDate: '2023-07-21T11:12:04.721342Z'
 slides: 2023-09-27_icann
 subtitle: ''
-tags: ["polychronization", "spiking-motifs", "spiking-neural-networks"]
+tags: ["predictive-coding", "spiking-neural-networks"]
 title: Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a
   Spiking Neural Network
 ---

@@ -30,5 +30,5 @@ links:
   url: https://hal.science/hal-05627987
 - name: IEEE
   url: https://ieeexplore.ieee.org/document/11435104
-categories: ["Behavioural Neuroscience"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
 ---

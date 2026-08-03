@@ -7,7 +7,7 @@ featured: false
 publication: '*Proceedings of DYNN*'
 publication_types:
 - inproceedings
-tags: ["sparse-hebbian-learning", "stdp", "unsupervised-learning"]
+tags: ["predictive-coding", "sparse-coding", "hebbian-plasticity", temporal-coding"]
 title: A generative model for Spike Time Dependent Hebbian Plasticity
 categories: ["Computational Neuroscience"]
 ---

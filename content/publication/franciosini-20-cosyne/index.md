@@ -68,10 +68,10 @@ links:
 publication: '*Computational and Systems Neuroscience (Cosyne) 2020*'
 publication_types:
 - inproceedings
-tags: ["deep-learning", "sparse-coding"]
+tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding"]
 title: Modelling Complex-cells and topological structure in the visual cortex of mammals
   using Sparse Predictive Coding
-categories: ["NeuroAI & Machine Learning"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
 {{< figure src="poster.jpg" width="100%" >}}
 * see the follow-up paper in: {{< cite page="/publication/franciosini-21" view="4" >}}

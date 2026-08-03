@@ -29,10 +29,10 @@ links:
 publication: '*Nature Neuroscience*'
 publication_types:
 - article-journal
-tags: ["eye-movements", "motion-detection", "psychophysics"]
+tags: ["visual-illusions", "motion-perception", "eye-movements"]
 title: 'More is not always better: dissociation between perception and action explained
   by adaptive gain control'
-categories: ["Behavioural Neuroscience"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
 ---
 ![header](simoncini-12.png)
 {{< figure src="grating.gif" width="80%" title="*Band-pass motion stimuli for perception and action tasks.* (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples. Human performance was measured for two different tasks, run in parallel blocks. (b) For ocular tracking, motion stimuli were presented for a short duration (200ms) in the wake of a centering saccade to control both attention and fixation states. (c) For speed discrimination, test and reference stimuli were presented successively for the same duration and subjects were instructed to indicate whether the test stimulus was perceived as slower or faster than reference. " >}}

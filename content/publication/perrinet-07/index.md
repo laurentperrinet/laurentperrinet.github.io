@@ -33,9 +33,9 @@ publication: '*Topics in Dynamical Neural Networks: From Large Scale Neural Netw
   to Motor Control and Vision*'
 publication_types:
 - inbook
-tags: ["bayesian-modeling", "coding-decoding", "eye-movements", "matching-pursuit", "motion-detection", "sparse-coding", "sparse-hebbian-learning", "spike", "visual-cortex", "visual-perception"]
+tags: ["visual-illusions", "motion-perception", "sparse-coding"]
 title: 'Dynamical Neural Networks: modeling low-level vision at short latencies'
-categories: ["Theoretical Neuroscience"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
 Dynamical Neural Networks (DyNNs) are a class of models for networks of neurons where particular focus is put on the role of time in the emergence of functional computational properties. The definition and study of these models involves the cooperation of a large range of scientific fields from statistical physics, probabilistic modelling, neuroscience and psychology to control theory. It focuses on the mechanisms that may be relevant for studying cognition by hypothesizing that information is distributed in the activity of the neurons in the system and that the timing helps in maintaining this information to lastly form decisions or actions. The system responds at best to the constraints of the outside world and learning strategies tune this internal dynamics to achieve optimal performance.
 This chapter introduces the book. See also:

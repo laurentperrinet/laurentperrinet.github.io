@@ -20,7 +20,7 @@ publication: '*Mathematical image processing meeting (Marseille, France) Septemb
   5, 2007*'
 publication_types:
 - inproceedings
-tags: ["unsupervised-learning"]
+tags: ["neuromorphic-computing", "primary-visual-cortex", "sparse-coding"]
 title: Neural Codes for Adaptive Sparse Representations of Natural Images
-categories: ["Theoretical Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---

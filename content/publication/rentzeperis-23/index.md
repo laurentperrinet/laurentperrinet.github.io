@@ -25,7 +25,7 @@ publication_types:
 publishDate: '2022-06-16T11:51:41.890310Z'
 show_authors_only: false
 subtitle: ''
-tags: ["sparse-coding", "visual-cortex"]
+tags: ["primary-visual-cortex", "sparse-coding"]
 title: Beyond $\ell_1$ sparse coding in V1
 ---
 * Follows {{< cite page="/publication/rentzeperis-22-areadne" view="4" >}}

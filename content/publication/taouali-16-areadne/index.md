@@ -53,8 +53,8 @@ grants:
 publication: '*Proceedings of AREADNE*'
 publication_types:
 - inproceedings
-tags: ["coding-decoding"]
+tags: ["motion-perception", "primary-visual-cortex", "metaplasticity", "sparse-coding"]
 title: A dynamic model for decoding direction and orientation in macaque primary visual
   cortex
-categories: ["Behavioural Neuroscience"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "NeuroAI & Machine Learning"]
 ---

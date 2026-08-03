@@ -32,9 +32,9 @@ links:
 publication: '*Journal of Physiology-Paris*'
 publication_types:
 - article-journal
-tags: ["bayesian-modeling", "eye-movements", "motion-detection", "visual-cortex", "visual-perception"]
+tags: ["motion-perception", "visual-illusions"]
 title: Modeling spatial integration in the ocular following response using a probabilistic
   framework
-categories: ["Theoretical Neuroscience"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
 ![header](perrinet-07-neurocomp.png)

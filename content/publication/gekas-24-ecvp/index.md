@@ -35,8 +35,8 @@ publication: '*European Conference on Visual Perception 2024*'
 publication_types:
 - paper-conference
 publishDate: '2024-08-25T16:05:27.274458Z'
-tags: ["eye-movements", "motion-detection"]
+tags: ["predictive-coding", "motion-perception", "visual-illusions"]
 title: An open-source vision-science tool for the auto-regressive generation of dynamic
   stochastic textures Motion Clouds
-categories: ["Biological Neuroscience"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---

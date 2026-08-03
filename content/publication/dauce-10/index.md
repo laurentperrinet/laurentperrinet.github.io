@@ -24,5 +24,5 @@ publication_types:
 - article-journal
 tags: ["dynamics", "information-theory"]
 title: Computational Neuroscience, from Multiple Levels to Multi-level
-categories: ["Biological Neuroscience"]
+categories: ["Biological Neuroscience", "Computational Neuroscience", "Theoretical Neuroscience"]
 ---

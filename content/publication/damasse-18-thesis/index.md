@@ -31,5 +31,6 @@ abstract: Un défi majeur pour les organismes vivants est leur capacité d’ada
 links:
 - name: URL
   url: https://theses.fr/2018AIXM0223
-categories: ["Behavioural Neuroscience"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["motion-perception", "eye-movements"]
 ---

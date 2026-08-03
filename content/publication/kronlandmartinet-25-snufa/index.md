@@ -10,7 +10,7 @@ publishDate: '2025-11-19T14:23:54.305848Z'
 publication_types:
 - paper-conference
 publication: '*Poster at SNUFA 2025 online workshop (5-6 Nov 2025)*'
-tags: ["spiking-neural-networks", "temporal-coding", "synaptic-delays", "motif-recognition"]
+tags: ["spiking-neural-networks", "polychronicity", "temporal-coding", "spiking-motifs"]
 links:
 - name: URL
   url: https://snufa.net/2025/abstracts/thomas-kronland-martinet-detection.html

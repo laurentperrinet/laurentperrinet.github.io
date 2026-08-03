@@ -19,7 +19,7 @@ links:
 publication: '*Advances in Neural Information Processing Systems*'
 publication_types:
 - article-journal
-tags: ["motion-detection"]
+tags: ["motion-perception", "visual-illusions"]
 title: Biologically Inspired Dynamic Textures for Probing Motion Perception
 categories: ["Computational Neuroscience"]
 ---

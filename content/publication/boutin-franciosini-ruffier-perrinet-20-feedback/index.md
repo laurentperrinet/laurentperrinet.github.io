@@ -37,9 +37,9 @@ links:
 publication: '*Neural Computation*'
 publication_types:
 - article-journal
-tags: ["deep-learning", "sparse-coding"]
+tags: ["predictive-coding", "sparse-coding"]
 title: Effect of top-down connections in Hierarchical Sparse Coding
-categories: ["NeuroAI & Machine Learning"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
 ![](@laurentperrinet_1323549136088694790_tweetcapture.png)
  * get the code @ https://github.com/VictorBoutin/SPC_2L

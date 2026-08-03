@@ -19,7 +19,7 @@ links:
 publication: '*Biologically Inspired Computer Vision*'
 publication_types:
 - inbook
-tags: ["vision"]
+tags: ["motion-perception"]
 title: Visual motion processing and human tracking behavior
 categories: ["Behavioural Neuroscience"]
 ---

@@ -45,10 +45,10 @@ links:
 publication: '*PLoS Computational Biology*'
 publication_types:
 - article-journal
-tags: ["deep-learning", "sparse-coding"]
+tags: ["predictive-coding", "visual-illusions", "primary-visual-cortex", "sparse-coding"]
 title: Sparse Deep Predictive Coding captures contour integration capabilities of
   the early visual system
-categories: ["NeuroAI & Machine Learning"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
 ![](@laurentperrinet_1355810283835564033_tweetcapture.png)
 {{< figure src="https://journals.plos.org/ploscompbiol/article/figure/image?size=large&download=&id=10.1371/journal.pcbi.1008629.g001" width="80%" title="Fig 1. Architecture of a 2-layered SDPC model." >}}

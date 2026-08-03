@@ -23,7 +23,7 @@ publication: ''
 publication_short: In *ICMEW*
 publication_types:
 - article-journal
-tags: ["active-inference", "aperture-problem", "association-field", "bayesian-modeling", "coding-decoding", "dynamics", "eye-movements", "feed-forward-inhibition", "free-energy", "gain-control", "homeostasis", "image-texture", "inhibition", "large-scale-networks", "log-gabor", "matching-pursuit", "motion-detection", "object-motion", "predictive-coding", "psychophysics", "pynn", "rank-order-coding", "receptive-field", "recursive-inference", "retina", "smooth-pursuit-eye-movement", "sparse-coding", "sparse-hebbian-learning", "sparselets", "spike", "statistics-of-natural-images", "stdp", "temporal-evolution", "unsupervised-learning", "vision", "visual-cortex", "visual-perception"]
+tags: ["visual-illusions", "motion-perception", "sparse-coding"]
 title: template
 url_code: '#'
 url_custom:
@@ -40,6 +40,6 @@ url_slides: '#'
 url_source: '#'
 url_video: '#'
 publishDate: '2020-12-12T13:31:46.868407Z'
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
 More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

@@ -11,9 +11,9 @@ links:
 publication: ''
 publication_types:
 - thesis
-tags: ["rank-order-coding", "sparse-coding", "spike", "stdp", "visual-cortex"]
+tags: ["sparse-coding"]
 title: Comment déchiffrer le code impulsionnel de la vision ? Étude du flux parallèle,
   asynchrone et épars dans le traitement visuel ultra-rapide
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
 {{< figure src="jury.jpg" title="Le jury était consistué (de gauche à droite) de Jeanny Hérault (Rapporteur), Michel Imbert (Président), Yves Burnod (Rapporteur, absent de la photo), Manuel Samuelides (Directeur de thèse) et Simon Thorpe (Co-directeur de thèse)."  width="100%" >}}

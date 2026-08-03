@@ -17,7 +17,7 @@ links:
 publication: '*Vision Science Society*'
 publication_types:
 - inproceedings
-tags: ["bayesian-modeling"]
+tags: ["motion-perception"]
 title: A recurrent Bayesian model of dynamic motion integration for smooth pursuit
 categories: ["Computational Neuroscience"]
 ---

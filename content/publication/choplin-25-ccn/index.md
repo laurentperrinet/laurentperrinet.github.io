@@ -26,7 +26,7 @@ links:
   url: https://hal.science/hal-05288951
 - name: Abstract
   url: https://2025.ccneuro.org/abstract_pdf/CHOPLIN_2025_Classification_Mental_Workload_Spatial_Effects_using.pdf
-categories: ["Theoretical Neuroscience"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
 ---
 This year at #CCN2025 we will be showcasing our  research on the classification of Mental Workload 🥵 Spatial Effects using Riemannian Manifold. 
 

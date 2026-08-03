@@ -40,10 +40,10 @@ links:
 publication: '*Nature Communications Biology*'
 publication_types:
 - article-journal
-tags: ["decoding", "orientation", "precision", "predictive-coding", "v1"]
+tags: ["predictive-coding", "motion-perception", "primary-visual-cortex", "visual-illusions"]
 title: Cortical recurrence supports resilience to sensory variance in the primary
   visual cortex
-categories: ["Biological Neuroscience"]
+categories: ["Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
 * open access: https://www.nature.com/articles/s42003-023-05042-3
 * 5 minutes summary: https://hugoladret.github.io/publications/ladret_et_al_variance_v1/

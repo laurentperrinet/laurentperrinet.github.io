@@ -48,5 +48,6 @@ abstract: "La vision par ordinateur embarquée est récemment devenue omniprése
 links:
 - name: URL
   url: https://theses.fr/2023COAZ4070
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+tags: ["spiking-neural-networks"]
 ---

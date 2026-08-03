@@ -28,7 +28,7 @@ publication_types:
 - article-journal
 publishDate: '2022-11-17T11:15:57.021954Z'
 subtitle: ''
-tags: ["efficient-coding", "neuromorphic-hardware", "polychronies"]
+tags: ["spiking-neural-networks", "neuromorphic-computing", "motion-perception", "polychrony", "spiking-motifs", "motion-detection"]
 title: Learning heterogeneous delays in a layer of spiking neurons for fast motion
   detection
 ---

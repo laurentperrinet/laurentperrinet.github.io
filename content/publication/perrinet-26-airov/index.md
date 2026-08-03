@@ -9,11 +9,11 @@ publication_types:
 publication: '*Proceedings of the Austrian Symposium on AI, Robotics and Vision*'
 slides: 2026-04-15-airov
 
-tags: ["heterogeneous-delays", "neuromorphic", "polychronization", "recurrent-networks", "spikes", "spiking-motifs", "spiking-neural-networks", "surrogate-gradient", "working-memory"]
+tags: ["spiking-neural-networks", "neuromorphic-computing"]
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-26-airov/
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
 * See the accompanying code: https://github.com/laurentperrinet/MNESIS
 

@@ -35,7 +35,7 @@ authors:
 - Jérome Fleuriet
 - Laurent U Perrinet
 - Guillaume S Masson
-categories: ["Behavioural Neuroscience"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
 date: 2022-01-01
 doi: 10.1523/ENEURO.0374-21.2022
 draft: false
@@ -54,7 +54,7 @@ publication_types:
 - article-journal
 publishDate: '2022-06-30T05:54:01.160596Z'
 subtitle: ''
-tags: ["monkey", "ocular-following", "spatial-frequency", "tracking-eye-movements", "visual-cortex", "visual-motion-integration"]
+tags: ["eye-movements", "motion-perception", "sparse-coding"]
 title: 'A Behavioral Receptive Field for Ocular Following in Monkeys: Spatial Summation
   and Its Spatial Frequency Tuning'
 ---

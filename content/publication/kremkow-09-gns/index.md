@@ -43,9 +43,9 @@ projects:
 publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'
 publication_types:
 - inproceedings
-tags: ["feed-forward-inhibition", "large-scale-networks"]
+tags: ["spiking-neural-networks"]
 title: Functional consequences of correlated excitation and inhibition on single neuron
   integration and signal propagation through synfire chains
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
 * see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publication/kremkow-10-jcns/index.md" >}})

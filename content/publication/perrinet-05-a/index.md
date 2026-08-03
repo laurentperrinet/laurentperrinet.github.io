@@ -35,8 +35,8 @@ projects:
 publication: '*Perception*'
 publication_types:
 - inproceedings
-tags: ["bayesian-modeling", "motion-detection"]
+tags: ["visual-illusions", "motion-perception", "eye-movements"]
 title: 'Dynamics of motion representation in short-latency ocular following: A two-pathways
   Bayesian model'
-categories: ["Biological Neuroscience"]
+categories: ["Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---

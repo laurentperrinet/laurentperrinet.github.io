@@ -39,9 +39,9 @@ links:
 publication: ''
 publication_types:
 - book
-tags: ["vision"]
+tags: ["neuromorphic-computing"]
 title: Biologically Inspired Computer Vision
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "Computer Vision"]
 ---
 {{< figure src="header.jpg" title="Biologically Inspired Computer vision" >}}
 # Biologically Inspired Computer Vision

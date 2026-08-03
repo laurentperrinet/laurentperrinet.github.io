@@ -30,9 +30,9 @@ links:
 publication: '*GDR Vision, Paris, 2018*'
 publication_types:
 - inproceedings
-tags: ["deep-learning", "motion-anticipation"]
+tags: ["visual-illusions", "motion-perception", "eye-movements"]
 title: A low-cost, accessible eye tracking framework
-categories: ["NeuroAI & Machine Learning"]
+categories: ["NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
  - poster presented @ [[https://gdrvision2018.sciencesconf.org/|GDR vision, Paris]].
  - program : https://gdrvision2018.sciencesconf.org/data/pages/posters_GDRVision2018.pdf

@@ -27,7 +27,7 @@ abstract: 'Humans are able to robustly categorize images and can, for instance, 
 authors:
 - Jean-Nicolas Jérémie
 - Laurent U Perrinet
-categories: ["Theoretical Neuroscience"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 date: 2023-03-21
 doi: 10.3390/vision7020029
 draft: false

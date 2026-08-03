@@ -41,8 +41,8 @@ links:
 publication: '*VSS Conference Abstract*'
 publication_types:
 - inproceedings
-tags: ["eye-movements", "motion-detection", "psychophysics"]
+tags: ["motion-perception", "visual-illusions"]
 title: 'Pattern discrimination for moving random textures: Richer stimuli are more
   difficult to recognize'
-categories: ["Computational Neuroscience"]
+categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---

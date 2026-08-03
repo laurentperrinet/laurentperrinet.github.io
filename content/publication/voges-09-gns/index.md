@@ -37,9 +37,9 @@ projects:
 publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'
 publication_types:
 - inproceedings
-tags: ["visual-cortex"]
+tags: ["spiking-neural-networks"]
 title: Dynamics of cortical networks including long-range patchy connections
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}
 * see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

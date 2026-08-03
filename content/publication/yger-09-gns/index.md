@@ -38,8 +38,8 @@ projects:
 publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'
 publication_types:
 - inproceedings
-tags: ["pynn"]
+tags: ["spiking-neural-networks", "neuromorphic-computing"]
 title: 'NeuralEnsemble: Towards a meta-environment for network modeling and data analysis'
-categories: ["Biological Neuroscience"]
+categories: ["Biological Neuroscience", "Computational Neuroscience"]
 ---
 * see a follow-up: {{< cite page="/publication/davison-08" view="4" >}}

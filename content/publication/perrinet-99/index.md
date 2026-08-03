@@ -8,6 +8,6 @@ publication_types:
 - thesis
 tags: ["rank-order-coding", "unsupervised-learning"]
 title: Apprentissage hebbien d'un reseau de neurones asynchrone a codage par rang
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
 Travail de master sur la STDP. 

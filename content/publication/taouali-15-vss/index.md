@@ -56,10 +56,10 @@ links:
 publication: '*Proceedings of VSS*'
 publication_types:
 - inproceedings
-tags: ["coding-decoding"]
+tags: ["motion-perception", "primary-visual-cortex", "metaplasticity", "sparse-coding"]
 title: A dynamic model for decoding direction and orientation in macaque primary visual
   cortex
-categories: ["Behavioural Neuroscience"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "NeuroAI & Machine Learning"]
 ---
 * see a follow-up in this [poster]({{< ref "/publication/taouali-16-areadne" >}})
 * This is a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

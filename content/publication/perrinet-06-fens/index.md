@@ -12,8 +12,8 @@ projects:
 publication: '*Proceedings of the FENS Forum 2006*'
 publication_types:
 - inproceedings
-tags: ["motion-detection"]
+tags: ["motion-perception", "eye-movements"]
 title: 'Input-output transformation in the visuo-oculomotor loop: modeling the ocular
   following response to center-surround stimulation in a probabilistic framework'
-categories: ["Theoretical Neuroscience"]
+categories: ["Computational Neuroscience", "Theoretical Neuroscience"]
 ---

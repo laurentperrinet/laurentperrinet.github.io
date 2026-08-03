@@ -40,7 +40,7 @@ links:
 publication: '*VSS Conference Abstract*'
 publication_types:
 - inproceedings
-tags: ["motion-detection"]
+tags: ["neuromorphic-computing", "motion-perception"]
 title: How and why do image frequency properties influence perceived speed?
-categories: ["Behavioural Neuroscience"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
 ---

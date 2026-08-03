@@ -31,7 +31,7 @@ links:
 publication: '*The 7th Japanese-French Frontiers of Science Symposium*'
 publication_types:
 - inproceedings
-tags: ["active-inference"]
+tags: ["predictive-coding", "motion-perception", "eye-movements"]
 title: Active inference, eye movements and oculomotor delays
-categories: ["Computational Neuroscience"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 ---
