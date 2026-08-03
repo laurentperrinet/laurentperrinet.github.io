@@ -13,9 +13,9 @@ links:
 - name: URL
   url: https://emergences.lirmm.fr/
   
-tags: []
+tags: ["spiking-neural-networks", "neuromorphic-computing", "sparse-coding"]
 title: "Emergences (2023 / 2027)"
-categories: ["Grants & Funding"]
+categories: ["Grants & Funding", "NeuroAI & Machine Learning"]
 ---
 {{% callout note %}}
 TL;DR: Conventional deep learning models consume too much energy. Inspired by biology, we will explore new models that are more energy efficient.

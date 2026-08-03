@@ -4,9 +4,9 @@ summary: 'DOC2AMU: An Excellence Fellowship (2016/2019).'
 authors:
 - victor-boutin
 - laurent-u-perrinet
-tags: []
+tags: ["spiking-neural-networks", "neuromorphic-computing", "sparse-coding", "predictive-coding"]
 title: DOC2AMU (2016/2019)
-categories: ["Grants & Funding"]
+categories: ["Grants & Funding", "NeuroAI & Machine Learning"]
 ---
 [DOC2AMU](https://doc2amu.univ-amu.fr/en) is co-funded by the prestigious Marie Skłodowska-Curie COFUND action within the H2020 Research and Innovation programme of the European Union and by the Regional Council of Provence-Alpes-Côte d’Azur, with a contribution from A*MIDEX Foundation.
 

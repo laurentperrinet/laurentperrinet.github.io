@@ -4,9 +4,9 @@ summary: 'ANR PredictEye (2018/2020) : Mapping and predicting trajectories for e
 authors:
 - anna-montagnini
 - laurent-u-perrinet
-tags: []
+tags: ["motion-perception", "eye-movements"]
 title: ANR PredictEye (2018/2020)
-categories: ["Grants & Funding"]
+categories: ["Biological Neuroscience", "Grants & Funding", "NeuroAI & Machine Learning"]
 ---
 The objectives of PREDICTEYE is to rigorously test and define the functional and neurophysiological grounds of probabilistic oculomotor internal models by investigating the multiple timescales at which the trajectory of a moving target is learned and represented in a probabilistic framework (Aim #1). Second, we will investigate the role of (pre)frontal oculomotor networks in building such probabilistic representations and their impact upon two of their downstream neural targets of the brainstem premotor centers (superior colliculus for saccades; NRTP for pursuit) (Aim #2). Our third objective is to model and simulate the dynamics of target motion prediction and eye movement performance. A key question is to unveil how probabilistic information about target timing and motion (i.e. direction and speed) is sampled over trial history by neuronal populations and integrated with Prior knowledge (i.e. sequence properties and rules of conditional probabilities) in order to coordinate saccades and pursuit and optimize their precisions (Aim #3).
 

@@ -5,9 +5,9 @@ authors:
 date: 2016-04-27 00:00:00
 summary: A grant from the Ph.D. program in Integrative and Clinical Neuroscience (PhD
   position, 2017 / 2021).
-tags: ["phd-icn"]
+tags: ["predictive-coding", "motion-perception", "eye-movements"]
 title: PhD ICN (2017 / 2021)
-categories: ["Grants & Funding"]
+categories: ["Grants & Funding", "NeuroAI & Machine Learning"]
 ---
 ## Description
 

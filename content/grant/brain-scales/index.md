@@ -3,12 +3,12 @@ date: 2015-04-27 00:00:00
 external_link: ''
 summary: 'BrainScaleS: Brain-inspired multiscale computation in neuromorphic hybrid
   systems (2011/2014).'
-tags: []
+tags: ["neuromorphic-computing"]
 authors:
 - yves-fregnac
 - laurent-u-perrinet
 title: 'BrainScaleS (2011/2014) '
-categories: ["Grants & Funding"]
+categories: ["Grants & Funding", "NeuroAI & Machine Learning", "Computational Neuroscience"]
 ---
 List of publications that were funded by European Union's project Number FP7-269921, "[BrainScales](http://brainscales.kip.uni-heidelberg.de/)".
 

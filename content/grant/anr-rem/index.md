@@ -1,9 +1,9 @@
 ---
 date: 2016-04-27 00:00:00
 summary: 'ANR REM : Renforcement et mouvements oculaires (2013/2016).'
-tags: []
+tags: ["spiking-neural-networks", "eye-movements"]
 title: ANR REM (2013/2016)
-categories: ["Grants & Funding"]
+categories: ["Behavioural Neuroscience", "Grants & Funding", "Theoretical Neuroscience"]
 ---
 {{< figure src="http://static.tvtropes.org/pmwiki/pub/images/R.E.M..jpg" alt="We were open :-)" lightbox="true" >}}
 

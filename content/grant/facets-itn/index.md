@@ -1,12 +1,12 @@
 ---
 date: 2015-04-27 00:00:00
 summary: 'FACETS-ITN: From Neuroscience to neuro-inspired computing (2010/2013)'
-tags: []
+tags: ["neuromorphic-computing"]
 authors:
 - yves-fregnac
 - laurent-u-perrinet
 title: FACETS-ITN (2010/2013)
-categories: ["Grants & Funding"]
+categories: ["Grants & Funding", "Computational Neuroscience", "Biological Neuroscience"]
 ---
 # FACETS-ITN: From Neuroscience to neuro-inspired computing (2010/2013)
 

@@ -9,11 +9,11 @@ authors:
 - ryad-benosman
 - laurent-u-perrinet
 
-tags: []
+tags: ["spiking-neural-networks", "neuromorphic-computing", "sparse-coding"]
 title: ANR AgileNeuRobot (2021/2025)
 
 slides: "2020-12-10_agileneurobot_anr"
-categories: ["Grants & Funding"]
+categories: ["Computational Neuroscience", "Grants & Funding", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 ---
 <!-- youtube-dl https://www.youtube.com/watch\?v\=36CTDiJjQ8I -->
 
