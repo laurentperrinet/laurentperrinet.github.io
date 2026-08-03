@@ -41,7 +41,7 @@ publication_types:
 - inproceedings
 publishDate: '2022-06-16T11:51:41.890310Z'
 subtitle: ''
-tags: ["spiking-neural-networks", "primary-visual-cortex", "eye-movements", "retinotopy", "ultra-fast-categorization", "visual-search]
+tags: ["spiking-neural-networks", "primary-visual-cortex", "eye-movements", "retinotopy", "ultra-fast-categorization", "visual-search"]
 title: Ultra-rapid visual search in natural images using active deep learning
 ---
 * This work extends to natural scenes a previous work on visual search on a simplified task formulated in  {{< cite page="/publication/dauce-20" view="4" >}}
