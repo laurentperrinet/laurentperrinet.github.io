@@ -42,6 +42,8 @@ projects:
 ---
 
 
+
+
 * as was presented at the *Computational Cognitive Neuroscience Society Meeting 2023* in Oxford
 * see a follow-up presentation in: {{< cite page="/publication/jeremie-23-icann" view="4" >}}
  

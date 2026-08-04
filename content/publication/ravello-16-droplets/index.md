@@ -35,6 +35,8 @@ projects:
 ---
 
 
+
+
 {{< figure src="retina.png" title="Sparse coding of images in the retina follows regular statistics at the global, not the local scale" numbered="true" >}}
 See [supplementray code](https://laurentperrinet.github.io/sciblog/posts/2017-11-21_retina_sparseness.html).
 # How does the retina respond to stimuli with different sparseness?

@@ -17,6 +17,8 @@ tags: ["bayesian-modelling", "probalistic-inference"]
 categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 projects: [""]
 ---
+
+
 ![participants](IMG_20180406_164630.jpg)
 
 # Probabilities and Optimal Inference to understand the Brain

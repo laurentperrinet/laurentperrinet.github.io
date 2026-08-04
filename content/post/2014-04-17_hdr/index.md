@@ -12,6 +12,8 @@ tags: ["eye-movements", "motion-perception", "predictive-coding"]
 categories: ["NeuroAI & Machine Learning", "Outreach & Public Engagement"]
 projects: [""]
 ---
+
+
 Quand: le 17 avril 2014 de 14 H30 à 16 H 30,
 
 Quoi: “Codage prédictif dans les transformations visuo-motrices” 

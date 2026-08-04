@@ -36,3 +36,5 @@ tags: ["neuromorphic-computing", "primary-visual-cortex", "sparse-coding", "spik
 categories: ["Computational Neuroscience", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
 projects: [""]
 ---
+
+

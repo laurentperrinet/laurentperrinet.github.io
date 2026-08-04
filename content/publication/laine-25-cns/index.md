@@ -29,6 +29,8 @@ projects:
 ---
 
 
+
+
 🧠 Excited to share our latest research led by Alexandre Lainé and presented this summer at CNS2025 in beautiful Firenze, Italy!
 
 "Population decoding of visual motion direction in V1 marmoset monkey: effects of uncertainty"

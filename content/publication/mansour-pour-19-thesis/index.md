@@ -33,3 +33,5 @@ tags: ["aperture-problem", "bayesian-modeling", "motion-perception", "predictive
 categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
 projects: [""]
 ---
+
+

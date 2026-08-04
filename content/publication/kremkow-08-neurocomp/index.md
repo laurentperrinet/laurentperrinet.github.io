@@ -8,6 +8,7 @@ date: 2008-10-01
 featured: false
 grants:
 - facets
+
 publication: '*Proceedings of NeuroComp08, Marseille*'
 publication_types:
 - inproceedings
@@ -22,6 +23,8 @@ categories:
 projects:
 - ''
 ---
+
+
 
 
 * see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publication/kremkow-10-jcns/index.md" >}})

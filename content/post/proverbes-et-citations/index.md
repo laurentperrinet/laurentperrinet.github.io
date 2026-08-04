@@ -10,6 +10,8 @@ tags: ["motion-perception", "spiking-neural-networks", "visual-illusions"]
 categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning"]
 projects: [""]
 ---
+
+
 *  "Anything that is in the world when you're born is normal and ordinary and is just a natural part of the way the world works. Anything that's invented between when you’re 15 and 35 is new and exciting and revolutionary and you can probably get a career in it. Anything invented after you're 35 is against the natural order of things." Douglas Adams
   
 * “Subjective confidence is determined by the coherence of the story one has constructed, not by the quality and amount of the information that supports it.” Daniel Kahneman

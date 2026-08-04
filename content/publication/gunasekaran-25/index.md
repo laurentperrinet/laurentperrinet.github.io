@@ -57,6 +57,8 @@ projects:
 ---
 
 
+
+
 The lead author, Jason Eshragian, speaks most clearly about it: 
 
 For the amount of compute they burn, transformers are pretty bad at time-series data analysis. Which is pretty unsurprising if your objective is to predict the next token, one step at a time. 

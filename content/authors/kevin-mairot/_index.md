@@ -23,6 +23,8 @@ tags: ["deep-learning", "retinal-dystrophies"]
 projects: [""]
 categories: ["Biological Neuroscience", "Clinical Neuroscience", "Education", "NeuroAI & Machine Learning"]
 ---
+
+
 # PhD Student (2023-10 / 2027-09): L'intelligence artificielle comme aide au diagnostic des dystrophies rétiniennes
 
  * Institut des Neurosciences de la Timone, Aix-Marseille Université / CNRS

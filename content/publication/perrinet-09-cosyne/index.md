@@ -57,6 +57,7 @@ date: 2009-01-01
 featured: false
 grants:
 - facets
+
 publication: '*Proceedings of COSYNE*'
 publication_types:
 - inproceedings
@@ -78,5 +79,7 @@ categories:
 projects:
 - ''
 ---
+
+
 
 

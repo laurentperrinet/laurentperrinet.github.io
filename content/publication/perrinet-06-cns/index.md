@@ -29,3 +29,5 @@ tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding"]
 categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
 projects: [""]
 ---
+
+

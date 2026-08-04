@@ -23,6 +23,8 @@ tags: ["motion-perception", "predictive-coding", "primary-visual-cortex", "spars
 categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
 projects: ["art-science"]
 ---
+
+
 {{% callout warning %}}
 THE POSITION HAS BEEN FILLED.
 {{% /callout %}}

@@ -7,14 +7,23 @@ featured: false
 image:
   caption: Hallucination ? Ashley Bean/Unsplash
   focal_point: Smart
-- tout-public
-- art-science
-summary: Article de dissémination sur la perception visuelle vue à travers illusions et hallucinations.
+summary: Article de dissémination sur la perception visuelle vue à travers illusions
+  et hallucinations.
 title: 'Illusions et hallucinations visuelles : une porte sur la perception'
-tags: ["visual-illusions"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
+
+
 Publication d'un nouvel article généraliste autour des "Illusions et hallucinations visuelles" à découvrir sur le site [TheConversation](https://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389):
 
 ![](@FR_Conversation_1136743272024612886_tweetcapture.png)

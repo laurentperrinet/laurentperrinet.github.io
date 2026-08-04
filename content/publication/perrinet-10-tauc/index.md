@@ -23,4 +23,6 @@ tags: ["bayesian-modelling", "motion-perception"]
 categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
 projects: [""]
 ---
+
+
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

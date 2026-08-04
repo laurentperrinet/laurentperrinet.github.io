@@ -20,6 +20,8 @@ projects:
 ---
 
 
+
+
 # Instabilité (series)
 
 ## Installation (sérigraphie, dessin mural, lumière), 2018;  Guest artist, Mécènes du Sud / Art-O-Rama (Fair), Marseille I 2018

@@ -26,6 +26,8 @@ projects:
 ---
 
 
+
+
 # 2016-10-26 : EUVIP Special Session on *Biologically Inspired Computer Vision*
 
 ## description of the session

@@ -20,6 +20,7 @@ date: 2010-01-01
 featured: false
 grants:
 - facets
+
 publication: '*Proceedings of NeuroComp*'
 publication_types:
 - inproceedings
@@ -34,6 +35,8 @@ categories:
 projects:
 - ''
 ---
+
+
 
 
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}

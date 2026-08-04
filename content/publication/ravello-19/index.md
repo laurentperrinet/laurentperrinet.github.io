@@ -51,6 +51,8 @@ projects:
 ---
 
 
+
+
 * [Press release](https://www4.cnrs-dir.fr/insb/recherche/parutions/articles2019/l-perrinet.html)
 # Dès la rétine, le système visuel préfère des images naturelles
 *Dans la rétine, au premier étage du traitement de l'image visuelle, on peut obtenir des représentations extrêmement fines. Une collaboration entre des chercheurs français et chiliens a permis de mettre en évidence que, dans la rétine de rongeurs, une représentation de la vitesse de l'image visuelle est précisément codée. Dans cette collaboration pluridisciplinaire, l'utilisation d'un modèle du fonctionnement de la rétine a permis de générer un nouveau type de stimuli visuels qui a révélé des résultats expérimentaux surprenants.*

@@ -30,4 +30,6 @@ projects:
 ---
 
 
+
+
 * see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publication/kremkow-10-jcns/index.md" >}})

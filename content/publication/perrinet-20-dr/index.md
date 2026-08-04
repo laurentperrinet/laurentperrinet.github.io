@@ -35,4 +35,6 @@ projects:
 ---
 
 
+
+
 * Suite de mes travaux d'habilitation à diriger des recherches (HDR) sur le thème de la vision comme processus prédictif. {{< cite page="/publication/perrinet-14-hdr" view="4" >}}

@@ -29,6 +29,7 @@ date: 2009-01-01
 featured: false
 grants:
 - facets
+
 publication: '*Vision Science Society*'
 publication_types:
 - inproceedings
@@ -46,5 +47,7 @@ categories:
 projects:
 - ''
 ---
+
+
 
 

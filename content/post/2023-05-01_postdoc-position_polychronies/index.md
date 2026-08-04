@@ -18,6 +18,8 @@ tags: ["motion-perception", "neuromorphic-computing", "primary-visual-cortex", "
 categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
 projects: [""]
 ---
+
+
 {{% callout warning %}}
 THE POSITION HAS BEEN FILLED.
 {{% /callout %}}

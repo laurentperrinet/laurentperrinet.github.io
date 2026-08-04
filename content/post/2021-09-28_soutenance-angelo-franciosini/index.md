@@ -27,6 +27,8 @@ projects:
 ---
 
 
+
+
 # "SDPC : a sparse and predictive model of the early visual system" Soutenance de thèse Angelo Franciosini
 
 * Date : Mardi 28 septembre 2021 à 13h (CEST)

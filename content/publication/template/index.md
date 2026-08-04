@@ -43,4 +43,6 @@ categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learn
 projects: [""]
 ---
 
+
+
 More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

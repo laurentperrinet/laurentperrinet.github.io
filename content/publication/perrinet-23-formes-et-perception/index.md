@@ -27,6 +27,8 @@ projects:
 ---
 
 
+
+
 {{< figure src="retinotopy_dpi800.png" title="*Rétinotopie.* L’image du tableau “Les Ambassadeurs” de Hans Holbein le Jeune peut être représentée sur une grille régulière représentée par des lignes verticales (rouges) et horizontales (bleues). La rétinotopie transforme radicalement cette grille, et en particulier la zone représentant la fovéa (en gris) occupe environ la moitié de l’espace dans l’espace rétinien. Appliquée à l’image originale du portrait, l’image est fortement déformée et représente plus finalement les parties situées sous l’axe de vision (ici la main)." numbered="true" >}}
 Publication d'un article écrit pour le catalogue de l'exposition "Vasarely, d'un art programmatique au numérique" qui a eu lieu du 17 juin au 15 octobre 2023 à l'Espace Culturel départemental Lympia de Nice.
 Le catalogue est édité par [Décitre](https://www.decitre.fr/livres/vasarely-9788836649587.html) - (ISBN: 978-88-366-4958-7).

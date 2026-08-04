@@ -25,3 +25,5 @@ tags: ["bayesian-modelling", "neuromorphic-computing", "primary-visual-cortex", 
 categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
 projects: [""]
 ---
+
+

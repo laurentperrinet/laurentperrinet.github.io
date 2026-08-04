@@ -39,6 +39,7 @@ date: 2009-01-01
 featured: false
 grants:
 - facets
+
 publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'
 publication_types:
 - inproceedings
@@ -54,6 +55,8 @@ categories:
 projects:
 - ''
 ---
+
+
 
 
 * see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publication/kremkow-10-jcns/index.md" >}})

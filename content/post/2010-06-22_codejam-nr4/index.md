@@ -10,6 +10,7 @@ image:
 lastmod: 2010-06-22 00:00:00
 grants:
 - facets
+- brain-scales
 subtitle: We held a CodeJam 22nd-24th June 2010, in Marseille.
 summary: We held a CodeJam 22nd-24th June 2010, in Marseille.
 title: '2010-06-22 : CodeJamNr4'
@@ -23,6 +24,8 @@ categories:
 projects:
 - ''
 ---
+
+
 
 
 # FACETS Code Jam Workshop \#4

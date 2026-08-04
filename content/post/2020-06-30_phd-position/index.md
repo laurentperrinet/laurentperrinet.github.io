@@ -18,6 +18,8 @@ tags: ["neuromorphic-computing", "predictive-coding", "primary-visual-cortex", "
 categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
 projects: [""]
 ---
+
+
 {{% callout warning %}}
 THE POSITION HAS BEEN FILLED.
 {{% /callout %}}

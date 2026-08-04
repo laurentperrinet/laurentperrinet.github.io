@@ -8,6 +8,7 @@ date: 2015-01-01
 featured: false
 grants:
 - anr-trajectory
+- motion-clouds
 publication: '*ICMS 2015 conference*'
 publication_types:
 - inproceedings
@@ -21,6 +22,8 @@ categories:
 projects:
 - ''
 ---
+
+
 
 
 * See a followup in {{< cite page="/publication/vacher-16" view="4" >}}

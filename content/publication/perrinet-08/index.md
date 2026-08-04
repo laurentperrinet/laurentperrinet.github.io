@@ -15,3 +15,5 @@ tags: ["sparse-coding", "spiking-neural-networks"]
 categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
 projects: [""]
 ---
+
+

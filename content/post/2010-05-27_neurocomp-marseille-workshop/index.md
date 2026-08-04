@@ -9,15 +9,31 @@ image:
   placement: 2
   preview_only: false
 lastmod: 2008-10-08 00:00:00
-
 subtitle: Second NeuroComp Marseille Workshop
 summary: 'Computational Neuroscience: From Representations to Behavior, the Second
   NeuroComp Marseille Workshop.'
 title: 'Computational Neuroscience: From Representations to Behavior'
-tags: ["bayesian-modelling", "foveated-vision", "log-polar-mapping", "retinotopy"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Theoretical Neuroscience", "Visual Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- foveated-vision
+- log-polar-mapping
+- retinotopy
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+- Visual Neuroscience
+projects:
+- ''
 ---
+
+
+
+
 - Date: 27-28 May 2010
 
 - Location: Amphithéâtre Charve at the Saint-Charles' University campus
@@ -43,7 +59,9 @@ with sufficient time to discuss and share ideas and data. All
 conferences were in English.
 
 Program
--------
+
+
+-
 
 
 27 May 2010 **Neural representations for sensory information & the
@@ -341,7 +359,11 @@ class="anchor"></span>
 class="anchor"></span>
 
 Sponsored by
-------------
+
+
+
+
+
 
 <span id="line-59"
 class="anchor"></span>

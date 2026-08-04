@@ -25,4 +25,6 @@ projects:
 ---
 
 
+
+
 {{< figure src="jury.jpg" title="Le jury était consistué (de gauche à droite) de Jeanny Hérault (Rapporteur), Michel Imbert (Président), Yves Burnod (Rapporteur, absent de la photo), Manuel Samuelides (Directeur de thèse) et Simon Thorpe (Co-directeur de thèse)."  width="100%" >}}
