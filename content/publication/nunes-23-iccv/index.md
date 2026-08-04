@@ -1,5 +1,4 @@
----
-abstract: Event cameras asynchronously report brightness changes with a temporal resolution
+---abstract: Event cameras asynchronously report brightness changes with a temporal resolution
   in the order of microseconds, which makes them inherently suitable to address problems
   that involve rapid motion perception, such as ventral landing and fast obstacle
   avoidance. These problems are typically addressed by estimating a single global
@@ -56,6 +55,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

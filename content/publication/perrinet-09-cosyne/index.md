@@ -1,5 +1,4 @@
----
-abstract: 'Short presentation of a large moving pattern elicits an Ocular Following
+---abstract: 'Short presentation of a large moving pattern elicits an Ocular Following
   Response (OFR) that exhibits many of the properties attributed to low-level motion
   processing such as spatial and temporal integration, contrast gain control and divisive
   interaction between competing motions. Similar mechanisms have been demonstrated
@@ -77,8 +76,9 @@ categories:
 - Outreach & Public Engagement
 - Theoretical Neuroscience
 projects:
-- ''
+- facets
 ---
+
 
 
 

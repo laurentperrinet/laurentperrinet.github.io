@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Laurent U Perrinet
 date: 2020-01-07
 draft: false
@@ -33,6 +32,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

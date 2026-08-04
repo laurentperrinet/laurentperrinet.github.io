@@ -1,5 +1,4 @@
----
-abstract: I will illustrate in this talk how computational neuroscience may inspire
+---abstract: I will illustrate in this talk how computational neuroscience may inspire
   and be inspired by mathematical image processing. Focusing on efficiently representing
   natural images in the primary visual cortex, we derive an event-based adaptive algorithm
   inspired by statistical inference, Matching Pursuit and Hebbian learning. This algorithm
@@ -24,6 +23,11 @@ title: Neural Codes for Adaptive Sparse Representations of Natural Images
 tags: ["bayesian-modelling", "neuromorphic-computing", "primary-visual-cortex", "sparse-coding"]
 categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
 projects: [""]
+
+
+projects:
+- facets-itn
 ---
+
 
 

@@ -1,5 +1,4 @@
----
-abstract: Predictive coding hypothesizes that the brain explicitly infers upcoming
+---abstract: Predictive coding hypothesizes that the brain explicitly infers upcoming
   sensory input to establish a coherent representation of the world. Although it is
   becoming generally accepted, it is not clear on which level spiking neural networks
   may implement predictive coding and what function their connectivity may have. We
@@ -49,8 +48,9 @@ categories:
 - Outreach & Public Engagement
 - Visual Neuroscience
 projects:
-- ''
+- facets-itn
 ---
+
 
 
 

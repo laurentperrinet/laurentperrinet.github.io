@@ -1,5 +1,4 @@
----
-abstract: A goal of low-level neural processes is to build an efficient code extracting
+---abstract: A goal of low-level neural processes is to build an efficient code extracting
   the relevant information from the sensory input. It is believed that this is implemented
   in cortical areas by elementary inferential computations dynamically extracting
   the most likely parameters corresponding to the sensory signal. We explore here
@@ -43,8 +42,9 @@ categories:
 - Computational Neuroscience
 - Outreach & Public Engagement
 projects:
-- ''
+- facets
 ---
+
 
 
 

@@ -1,5 +1,4 @@
----
-abstract: 'If modern computers are sometimes superior to cognition in some specialized
+---abstract: 'If modern computers are sometimes superior to cognition in some specialized
   tasks such as playing chess or browsing a large database, they can''t beat the efficiency
   of biological vision for such simple tasks as recognizing a relative or following
   an object in a complex background. We present in this paper our attempt at outlining
@@ -35,6 +34,11 @@ title: 'Adaptive Sparse Spike Coding : applications of Neuroscience to the compr
 tags: ["neuromorphic-computing", "primary-visual-cortex", "sparse-coding", "spiking-neural-networks"]
 categories: ["Computational Neuroscience", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
 projects: [""]
+
+
+projects:
+- facets
 ---
+
 
 

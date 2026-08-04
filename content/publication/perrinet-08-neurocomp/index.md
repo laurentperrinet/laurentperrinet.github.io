@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Laurent U Perrinet
 - Emmanuel Daucé
 date: 2008-10-01
@@ -21,8 +20,9 @@ categories:
 - Education
 - Outreach & Public Engagement
 projects:
-- ''
+- facets-itn
 ---
+
 
 
 

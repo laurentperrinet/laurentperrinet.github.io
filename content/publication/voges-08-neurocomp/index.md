@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Nicole Voges
 - Laurent U Perrinet
 date: 2008-10-01
@@ -18,8 +17,9 @@ categories:
 - Computational Neuroscience
 - Outreach & Public Engagement
 projects:
-- ''
+- facets
 ---
+
 
 
 

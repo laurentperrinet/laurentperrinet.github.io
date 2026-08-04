@@ -7,7 +7,7 @@ education:
     institution: Aix-Marseille Université
     year: 2009
 title: Jens Kremkow
-role: PI @ Neuroscience Research Center, Charité, Berlin, Germany. 
+role: PI @ Neuroscience Research Center, Charité, Berlin, Germany.
 bio: During my PhD, I focused on the interplay of Excitation and Inhibition in Visual
   Cortical Circuits.
 social:
@@ -23,10 +23,25 @@ social:
 superuser: false
 user_groups:
 - Former Students
-tags: ["neuromorphic-computing", "primary-visual-cortex", "pynn", "sparse-coding", "spiking-neural-networks"]
-projects: [""]
-categories: ["Biological Neuroscience", "Computational Neuroscience", "Education", "Outreach & Public Engagement", "Visual Neuroscience"]
+tags:
+- neuromorphic-computing
+- primary-visual-cortex
+- pynn
+- sparse-coding
+- spiking-neural-networks
+projects:
+- ''
+categories:
+- Biological Neuroscience
+- Computational Neuroscience
+- Education
+- Outreach & Public Engagement
+- Visual Neuroscience
 ---
+
+
+
+
 # Correlating Excitation and Inhibition in Visual Cortical Circuits: Functional Consequences and Biological Feasibility  (PhD, 2006-01 / 2009-05)
 
 The goal of the FACETS (Fast Analog Computing with Emergent Transient States) project was to create a theoretical and experimental foundation for the realisation of novel computing paradigms which exploit the concepts experimentally observed in biological nervous systems. The continuous interaction and scientific exchange between biological experiments, computer modelling and hardware emulations within the project provides a unique research infrastructure that will in turn provide an improved insight into the computing principles of the brain. This insight may potentially contribute to an improved understanding of mental disorders in the human brain and help to develop remedies.

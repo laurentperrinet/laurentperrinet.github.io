@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Cesar U Ravello
 - Maria-José Escobar
 - Adrián G Palacios
@@ -31,8 +30,9 @@ categories:
 - Education
 - Outreach & Public Engagement
 projects:
-- open-science
+- motion-clouds
 ---
+
 
 
 

@@ -1,5 +1,4 @@
----
-title: 'Foveal Retinotopy and Dual Pathways: A Computational Model for Active Visual
+---title: 'Foveal Retinotopy and Dual Pathways: A Computational Model for Active Visual
   Search'
 authors:
 - Jean-Nicolas Jérémie
@@ -11,6 +10,7 @@ tags: ["bayesian-modelling", "eye-movements", "foveated-vision", "log-polar-mapp
 categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
 projects: [""]
 ---
+
 
 
 ## Abstract

@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Anna Montagnini
 - Jean-Bernard Damasse
 - Laurent U Perrinet
@@ -25,6 +24,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

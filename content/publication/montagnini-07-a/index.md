@@ -1,5 +1,4 @@
----
-abstract: When the visual information about an object's motion differs at the local
+---abstract: When the visual information about an object's motion differs at the local
   level, the visuomotor system needs to integrate information across time to solve
   this ambiguity and converge to the final motion solution. For an oblique line moving
   horizontally, edge-related motion cues differ from terminator-related information,
@@ -41,8 +40,9 @@ categories:
 - NeuroAI & Machine Learning
 - Outreach & Public Engagement
 projects:
-- ''
+- facets-itn
 ---
+
 
 
 

@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Kiana Mansour Pour
 - Laurent U Perrinet
 - Guillaume S Masson
@@ -24,8 +23,9 @@ categories:
 - Behavioural Neuroscience
 - Outreach & Public Engagement
 projects:
-- ''
+- pace-itn
 ---
+
 
 
 

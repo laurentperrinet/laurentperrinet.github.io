@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Laurent U Perrinet
 - Guillaume S Masson
 date: 2010-01-01
@@ -18,8 +17,9 @@ categories:
 - Computational Neuroscience
 - Outreach & Public Engagement
 projects:
-- ''
+- facets
 ---
+
 
 
 

@@ -1,5 +1,4 @@
----
-abstract: Humans are able to accurately track a moving object with a combination of
+---abstract: Humans are able to accurately track a moving object with a combination of
   saccades and smooth eye movements. These movements allow us to align and stabilize
   the object on the fovea, thus enabling high*resolution visual analysis. When predictive
   information is available about target motion, anticipatory smooth pursuit eye movements
@@ -65,8 +64,9 @@ categories:
 - Outreach & Public Engagement
 - Theoretical Neuroscience
 projects:
-- ''
+- pace-itn
 ---
+
 
 
 

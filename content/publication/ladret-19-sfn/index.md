@@ -1,5 +1,4 @@
----
-abstract: A key property of the neurons in the primary visual cortex (V1) is their
+---abstract: A key property of the neurons in the primary visual cortex (V1) is their
   selectivity to oriented stimuli in the visual field. Orientation selectivity allows
   the segmentation of objects in natural visual scenes, which is the first step in
   building integrative representations from retinal inputs. As such, V1 has always
@@ -58,6 +57,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Laurent U Perrinet
 - Manuel Samuelides
 - Simon J Thorpe
@@ -25,6 +24,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

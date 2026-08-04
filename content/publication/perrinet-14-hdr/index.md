@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Laurent U Perrinet
 date: 2014-04-17
 draft: false
@@ -30,6 +29,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

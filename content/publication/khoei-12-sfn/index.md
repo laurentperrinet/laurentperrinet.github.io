@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Mina A Khoei
 - Laurent U Perrinet
 - Guillaume S Masson
@@ -22,8 +21,9 @@ categories:
 - Computational Neuroscience
 - Outreach & Public Engagement
 projects:
-- ''
+- facets-itn
 ---
+
 
 
 

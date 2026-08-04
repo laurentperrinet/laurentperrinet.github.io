@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Laurent U Perrinet
 - Jens Kremkow
 date: 2006-01-01
@@ -19,8 +18,9 @@ categories:
 - NeuroAI & Machine Learning
 - Outreach & Public Engagement
 projects:
-- ''
+- facets
 ---
+
 
 
 

@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Nicole Voges
 - Jens Kremkow
 - Laurent U Perrinet
@@ -18,8 +17,9 @@ categories:
 - Computational Neuroscience
 - Outreach & Public Engagement
 projects:
-- ''
+- facets
 ---
+
 
 
 

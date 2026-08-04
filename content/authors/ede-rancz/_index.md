@@ -3,13 +3,9 @@ authors:
 - ede-rancz
 title: Ede Rancz
 superuser: false
-
-# Role/position
 role: Researcher in Neuroscience
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include Machine Learning and computational neuroscience applied to Vision.
-
+bio: My research interests include Machine Learning and computational neuroscience
+  applied to Vision.
 user_groups:
 - Collaborators
 social:
@@ -25,10 +21,25 @@ social:
 - icon: bluesky
   icon_pack: fab
   link: https://bsky.app/profile/ederancz.bsky.social
-tags: ["motion-perception", "predictive-coding", "primary-visual-cortex", "spiking-neural-networks", "visual-illusions"]
-projects: [""]
-categories: ["Biological Neuroscience", "Education", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+
+tags:
+- motion-perception
+- predictive-coding
+- primary-visual-cortex
+- spiking-neural-networks
+- visual-illusions
+projects:
+- ''
+categories:
+- Biological Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
 ---
+
+
+
+
 Ede Rancz is a Research Director at the Mediterranean Institute of Neurobiology, Marseille, France. He is interested in the neural circuits underlying visual perception and decision-making. He uses a combination of in vivo and in vitro electrophysiology, optogenetics, and computational modeling to study the function of the visual cortex. He is also interested in the development of new tools and methods for studying neural circuits.
 
 *[CENTURI call](https://laurentperrinet.github.io/post/2026-01-28_phd-position_neuromodulatory-predictive-processing/)  "Neuromodulatory control of predictive processing in visual cortical circuits" (co-direction with Laurent Perrinet) (POSITION HAS BEEN FILLED)

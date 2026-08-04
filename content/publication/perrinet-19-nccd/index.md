@@ -1,5 +1,4 @@
----
-abstract: 'When objects are in motion, the local orientation of their contours and
+---abstract: 'When objects are in motion, the local orientation of their contours and
   the direction of motion are two essential components of visual information which
   are processed in parallel in the early visual areas. Generally, to probe a neuron''s
   response property to moving stimuli, bars or gratings are drifted across neuron''s
@@ -61,6 +60,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

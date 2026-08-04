@@ -1,5 +1,4 @@
----
-abstract: 'The properties of motion processing for driving smooth eye movements have
+---abstract: 'The properties of motion processing for driving smooth eye movements have
   bee investigated using simple, artificial stimuli such as gratings, small dots or
   random dot patterns. Motion processing in the context of complex, natural images
   is less known. We have previously investigated the human ocular following responses
@@ -51,8 +50,9 @@ categories:
 - Education
 - Outreach & Public Engagement
 projects:
-- ''
+- pace-itn
 ---
+
 
 
 

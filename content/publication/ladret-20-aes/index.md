@@ -1,5 +1,4 @@
----
-abstract: '*Background*: The primary visual cortex (V1) is a key component of the
+---abstract: '*Background*: The primary visual cortex (V1) is a key component of the
   visual system that builds some of the first levels of coherent visual representations
   from sparse visual inputs. While the study of its dynamics has been the focus of
   many computational models for the past years, there is still relatively few research
@@ -55,6 +54,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

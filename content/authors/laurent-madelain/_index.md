@@ -15,7 +15,15 @@ social:
 - icon: external-link-alt
   icon_pack: fas
   link: https://pro.univ-lille.fr/laurent-madelain/
-tags: [""]
-projects: [""]
-categories: [""]
+
+tags:
+- ''
+projects:
+- ''
+categories:
+- ''
 ---
+
+
+
+

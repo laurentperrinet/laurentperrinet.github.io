@@ -1,5 +1,4 @@
----
-title: Réseaux de Neurones Impulsionnels Pour La Vision Embarquée Basée Sur Les Événements
+---title: Réseaux de Neurones Impulsionnels Pour La Vision Embarquée Basée Sur Les Événements
 authors:
 - Amélie Gruel
 date: '2023-10-06'
@@ -52,5 +51,6 @@ tags: ["spiking-neural-networks"]
 categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
 projects: [""]
 ---
+
 
 

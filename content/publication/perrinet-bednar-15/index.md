@@ -1,5 +1,4 @@
----
-abstract: Making a judgment about the semantic category of a visual scene, such as
+---abstract: Making a judgment about the semantic category of a visual scene, such as
   whether it contains an animal, is typically assumed to involve high-level associative
   brain areas. Previous explanations require progressively analyzing the scene hierarchically
   at increasing levels of abstraction, from edge extraction to mid-level object recognition
@@ -52,6 +51,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

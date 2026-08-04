@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Jens Kremkow
 - Laurent U Perrinet
 - Arvind Kumar
@@ -26,8 +25,9 @@ categories:
 - Education
 - Outreach & Public Engagement
 projects:
-- ''
+- facets
 ---
+
 
 
 

@@ -17,10 +17,18 @@ social:
 superuser: false
 user_groups:
 - Current Students
-tags: ["bayesian-modelling"]
-projects: [""]
-categories: ["Education", "Outreach & Public Engagement"]
+tags:
+- bayesian-modelling
+projects:
+- ''
+categories:
+- Education
+- Outreach & Public Engagement
 ---
+
+
+
+
 ## Characterization of Physiological States using Machine Learning
 ### PhD position (2024-10 / 2027-09)
 

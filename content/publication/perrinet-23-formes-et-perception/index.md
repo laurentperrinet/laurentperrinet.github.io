@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Laurent U Perrinet
 date: 2023-01-01
 draft: false
@@ -23,8 +22,10 @@ categories:
 - NeuroAI & Machine Learning
 - Outreach & Public Engagement
 projects:
+- tout-public
 - art-science
 ---
+
 
 
 

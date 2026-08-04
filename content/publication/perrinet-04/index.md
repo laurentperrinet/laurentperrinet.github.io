@@ -1,5 +1,4 @@
----
-abstract: To understand possible strategies of temporal spike coding in the central
+---abstract: To understand possible strategies of temporal spike coding in the central
   nervous system, we study functional neuromimetic models of visual processing for
   static images. We will first present the retinal model which was introduced by Van
   Rullen and Thorpe [1] and which represents the multiscale contrast values of the
@@ -36,5 +35,6 @@ tags: ["sparse-coding", "spiking-neural-networks"]
 categories: ["Education", "Outreach & Public Engagement", "Theoretical Neuroscience"]
 projects: [""]
 ---
+
 
 

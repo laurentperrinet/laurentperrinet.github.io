@@ -1,5 +1,4 @@
----
-abstract: This work extends the MotionClouds dynamic texture model testing aspects
+---abstract: This work extends the MotionClouds dynamic texture model testing aspects
   of its parametrization with an application in psychophysics.
 authors:
 - Jonathan Vacher
@@ -20,8 +19,9 @@ categories:
 - Computational Neuroscience
 - Outreach & Public Engagement
 projects:
-- open-science
+- motion-clouds
 ---
+
 
 
 

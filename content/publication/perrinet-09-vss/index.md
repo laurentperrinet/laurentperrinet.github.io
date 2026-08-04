@@ -1,5 +1,4 @@
----
-abstract: 'Short presentation of a large moving pattern elicits an ocular following
+---abstract: 'Short presentation of a large moving pattern elicits an ocular following
   response that exhibits many of the properties attributed to low-level motion processing
   such as spatial and temporal integration, contrast gain control and divisive interaction
   between competing motions. Similar mechanisms have been demonstrated in V1 cortical
@@ -45,8 +44,9 @@ categories:
 - Outreach & Public Engagement
 - Theoretical Neuroscience
 projects:
-- ''
+- facets
 ---
+
 
 
 

@@ -16,7 +16,22 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/anna-montagnini-a292606
 
-tags: [""]
-projects: [""]
-categories: ["", "Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "Grants & Funding", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+
+tags:
+- ''
+projects:
+- ''
+categories:
+- ''
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- Education
+- Grants & Funding
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
 ---
+
+
+
+

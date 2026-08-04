@@ -2,7 +2,8 @@
 authors:
 - rick-a-adams
 title: Rick A Adams
-role: Future Leaders Fellow, Institute of Cognitive Neuroscience & Centre for Medical Image Computing, UCL
+role: Future Leaders Fellow, Institute of Cognitive Neuroscience & Centre for Medical
+  Image Computing, UCL
 superuser: false
 user_groups:
 - Collaborators
@@ -13,10 +14,23 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=dAi_S_MAAAAJ
-tags: ["bayesian-modelling", "eye-movements", "predictive-coding", "visual-illusions"]
-projects: [""]
-categories: ["Clinical Neuroscience", "Outreach & Public Engagement", "Theoretical Neuroscience"]
+
+tags:
+- bayesian-modelling
+- eye-movements
+- predictive-coding
+- visual-illusions
+projects:
+- ''
+categories:
+- Clinical Neuroscience
+- Outreach & Public Engagement
+- Theoretical Neuroscience
 ---
+
+
+
+
 ## Collaborative publications
 
 I had the chance to visit the theoretical group of Karl Friston at the Wellcome Trust Centre for Neuroimaging (University College London) from November 2010 to February 2012. During this period we built a series of active‑inference models of eye‑movement control. First, we introduced a generative model of saccadic behaviour [Friston *et al.*, 2012]({{< relref "/publication/friston-12" >}}). We then extended the framework to clinical populations, demonstrating that neuromodulation may critically shape model predictions in participants with and without schizophrenia ([Adams *et al.*, 2012]({{< relref "/publication/adams-12" >}})). Finally, we incorporated realistic sensory‑motor transmission delays, providing a more accurate account of the timing of perception‑action cycles [Perrinet *et al.*, 2014]({{< relref "/publication/perrinet-adams-friston-14" >}}).

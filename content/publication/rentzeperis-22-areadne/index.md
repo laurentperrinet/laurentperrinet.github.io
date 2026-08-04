@@ -1,5 +1,4 @@
----
-abstract: 'Experimental evidence suggests that activity in sensory cortices is sparse
+---abstract: 'Experimental evidence suggests that activity in sensory cortices is sparse
   in that only few neurons out of a large pool that could respond to sensed stimuli,
   are active at a time. Generative learning models that aim to replicate sensory systems
   could deviate from sparse activity patterns when representing noisy signals. We
@@ -47,6 +46,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

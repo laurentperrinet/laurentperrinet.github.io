@@ -1,5 +1,4 @@
----
-abstract: It is generally assumed that neurons in the central nervous system communicate
+---abstract: It is generally assumed that neurons in the central nervous system communicate
   through temporal firing patterns. As a first step, we will study the learning of
   a layer of realistic neurons in the particular case where the relevant messages
   are formed by temporally correlated patterns, or synfire patterns. The model is
@@ -32,6 +31,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

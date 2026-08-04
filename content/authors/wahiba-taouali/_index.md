@@ -5,9 +5,6 @@ education:
   courses:
   - course: PostDoc in Computational Neuroscience
     institution: Aix-Marseille Université
-    year: 2016
-  - course: PostDoc in Computational Neuroscience
-    institution: Aix-Marseille Université
     year: 2013
 title: Wahiba Taouali
 role: Consulting manager @ Enthought, Cambridge, United Kingdom.
@@ -25,10 +22,23 @@ social:
 superuser: false
 user_groups:
 - Former Students
-tags: ["motion-perception", "neuromorphic-computing", "primary-visual-cortex"]
-projects: [""]
-categories: ["Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+tags:
+- motion-perception
+- neuromorphic-computing
+- primary-visual-cortex
+projects:
+- ''
+categories:
+- Biological Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
 ---
+
+
+
+
 # Motion Integration By V1 Population  (Post-Doc, 2013-03 / 2015-01)
 
 ## Description

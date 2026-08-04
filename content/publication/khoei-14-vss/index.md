@@ -1,5 +1,4 @@
----
-abstract: The flash lag effect (FLE) is a well known visual illusion that reveals
+---abstract: The flash lag effect (FLE) is a well known visual illusion that reveals
   the perceptual difference in position coding of moving and stationary flashed objects.
   It has been reproduced experimentally in retina and V1 along with some relevant
   evidences about motion based position coding in areas MT and MT+. Numerous hypotheses
@@ -53,8 +52,9 @@ categories:
 - Outreach & Public Engagement
 - Theoretical Neuroscience
 projects:
-- ''
+- facets-itn
 ---
+
 
 
 

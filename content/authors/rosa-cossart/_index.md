@@ -9,6 +9,7 @@ social:
 - icon: external-link-alt
   icon_pack: fas
   link: https://www.inmed.fr/developpement-des-microcircuits-gabaergiques-corticaux-fr
+
 tags: [""]
 projects: [""]
 categories: ["Computational Neuroscience", "Education", "Grants & Funding", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]

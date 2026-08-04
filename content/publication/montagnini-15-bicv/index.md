@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Anna Montagnini
 - Laurent U Perrinet
 - Guillaume S Masson
@@ -29,6 +28,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

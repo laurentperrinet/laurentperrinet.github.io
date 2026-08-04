@@ -1,5 +1,4 @@
----
-abstract: 'We present a biologically plausible model of simple cortical cells as 1)
+---abstract: 'We present a biologically plausible model of simple cortical cells as 1)
   a linear transform representing edges and 2) a non-linear iterative stage of inhibition
   and facilitation between neighboring coefficients. The linear transform is a complex
   log-Gabor wavelet transform which is overcomplete (i.e. there are more coefficients
@@ -55,8 +54,9 @@ categories:
 - Outreach & Public Engagement
 - Visual Neuroscience
 projects:
-- ''
+- facets
 ---
+
 
 
 

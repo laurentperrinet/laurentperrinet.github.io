@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Laurent U Perrinet
 - Jens Kremkow
 - Frédéric V Barthélemy
@@ -23,8 +22,9 @@ categories:
 - Outreach & Public Engagement
 - Theoretical Neuroscience
 projects:
-- ''
+- facets
 ---
+
 
 
 

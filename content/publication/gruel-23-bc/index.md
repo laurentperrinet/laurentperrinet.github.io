@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Amélie Gruel
 - Dalia Hareb
 - Antoine Grimaldi
@@ -36,6 +35,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

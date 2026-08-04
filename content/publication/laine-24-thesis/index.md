@@ -1,5 +1,4 @@
----
-title: Analyse Des Données Neurobiologiques Guidée Par La Modélisation
+---title: Analyse Des Données Neurobiologiques Guidée Par La Modélisation
 authors:
 - Alexandre Laine
 date: '2024-01-01'
@@ -41,5 +40,6 @@ tags: [""]
 categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
 projects: [""]
 ---
+
 
 

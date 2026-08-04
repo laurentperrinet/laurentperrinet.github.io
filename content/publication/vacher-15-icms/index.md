@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Jonathan Vacher
 - Andrew Isaac Meso
 - Laurent U Perrinet
@@ -20,8 +19,9 @@ categories:
 - Outreach & Public Engagement
 - Theoretical Neuroscience
 projects:
-- ''
+- motion-clouds
 ---
+
 
 
 

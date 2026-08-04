@@ -1,5 +1,4 @@
----
-abstract: 'The machinery behind the visual perception of motion and the subsequent
+---abstract: 'The machinery behind the visual perception of motion and the subsequent
   sensori-motor transformation, such as in ocular following response (OFR), is confronted
   to uncertainties which are efficiently resolved in the primate''s visual system.
   We may understand this response as an ideal observer in a probabilistic framework
@@ -37,7 +36,12 @@ title: 'Dynamical Neural Networks: modeling low-level vision at short latencies'
 tags: ["bayesian-modelling", "motion-perception", "sparse-coding", "visual-illusions"]
 categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
 projects: [""]
+
+
+projects:
+- facets-itn
 ---
+
 
 
 Dynamical Neural Networks (DyNNs) are a class of models for networks of neurons where particular focus is put on the role of time in the emergence of functional computational properties. The definition and study of these models involves the cooperation of a large range of scientific fields from statistical physics, probabilistic modelling, neuroscience and psychology to control theory. It focuses on the mechanisms that may be relevant for studying cognition by hypothesizing that information is distributed in the activity of the neurons in the system and that the timing helps in maintaining this information to lastly form decisions or actions. The system responds at best to the constraints of the outside world and learning strategies tune this internal dynamics to achieve optimal performance.

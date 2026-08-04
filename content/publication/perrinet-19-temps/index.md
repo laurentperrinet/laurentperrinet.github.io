@@ -1,5 +1,4 @@
----
-abstract: Lorsque nous observons un sablier, lorsque nous fixons notre regard sur
+---abstract: Lorsque nous observons un sablier, lorsque nous fixons notre regard sur
   les grains de sable qui tombent, nous avons le sentiment que le temps s'écoule de
   façon continue. Nous pensons qu'il en est ainsi depuis la naissance du monde, et
   que rien ne peut contredire cette vérité universelle. Pourtant, nos perceptions
@@ -32,8 +31,9 @@ categories:
 - NeuroAI & Machine Learning
 - Outreach & Public Engagement
 projects:
-- ''
+- tout-public
 ---
+
 
 
 

@@ -1,5 +1,4 @@
----
-title: Modélisation multi-échelle de la sélectivité à l'orientation dans les stimulations
+---title: Modélisation multi-échelle de la sélectivité à l'orientation dans les stimulations
   visuelles naturelles
 authors:
 - Hugo Ladret
@@ -42,5 +41,6 @@ tags: [""]
 categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
 projects: [""]
 ---
+
 
 

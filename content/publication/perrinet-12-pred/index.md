@@ -1,5 +1,4 @@
----
-abstract: 'In low-level sensory systems, it is still unclear how the noisy information
+---abstract: 'In low-level sensory systems, it is still unclear how the noisy information
   collected locally by neurons may give rise to a coherent global percept. This is
   well demonstrated for the detection of motion in the aperture problem: as luminance
   of an elongated line is symmetrical along its axis, tangential velocity is ambiguous
@@ -46,6 +45,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

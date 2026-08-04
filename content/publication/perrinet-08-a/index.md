@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Laurent U Perrinet
 - Guillaume S Masson
 date: 2008-01-01
@@ -21,8 +20,9 @@ categories:
 - Outreach & Public Engagement
 - Theoretical Neuroscience
 projects:
-- ''
+- facets
 ---
+
 
 
 

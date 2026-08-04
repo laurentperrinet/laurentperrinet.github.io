@@ -1,23 +1,33 @@
 ---
-title: "Open PhD Position in Computational & Systems Neuroscience : 'Neuromodulatory control of predictive processing in visual cortical circuits'"
-subtitle: "⏰ *The position has been filled.*"
+title: 'Open PhD Position in Computational & Systems Neuroscience : ''Neuromodulatory
+  control of predictive processing in visual cortical circuits'''
+subtitle: ⏰ *The position has been filled.*
 authors:
 - laurent-u-perrinet
 - ede-rancz
 date: 2026-01-03 09:00:00
 draft: false
 image:
-  caption: "Do mice dream of virtual lice?"
+  caption: Do mice dream of virtual lice?
   focal_point: Smart
   placement: 2
   preview_only: false
-
 lastmod: 2026-01-03 09:00:00
-
-tags: ["predictive-coding", "spiking-neural-networks"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
-projects: [""]
+tags:
+- predictive-coding
+- spiking-neural-networks
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- ''
 ---
+
+
+
+
 {{% callout note %}}
 The position has been filled.
 {{% /callout %}}

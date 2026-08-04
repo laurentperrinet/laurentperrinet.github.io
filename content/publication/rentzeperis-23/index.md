@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Ilias Rentzeperis
 - Luca Calatroni
 - Laurent U Perrinet
@@ -34,6 +33,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

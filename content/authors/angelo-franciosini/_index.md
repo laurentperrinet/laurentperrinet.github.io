@@ -23,13 +23,24 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/angelo-franciosini/
 superuser: false
-- phd-icn
 user_groups:
 - Former Students
-tags: ["bayesian-modelling"]
-projects: [""]
-categories: ["Computer Vision", "Education", "Grants & Funding", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
+tags:
+- bayesian-modelling
+projects:
+- ''
+categories:
+- Computer Vision
+- Education
+- Grants & Funding
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Visual Neuroscience
 ---
+
+
+
+
 # Trajectories in natural images and the sensory processing of contours (PhD position, 2017-09 / 2021-03)
 
 * Venue: Aix-Marseille Université's [Neuroschool PhD program in Neuroscience](https://laurentperrinet.github.io/grant/phd-icn/) (formerly known as "Ph.D. program in Integrative and Clinical Neuroscience")

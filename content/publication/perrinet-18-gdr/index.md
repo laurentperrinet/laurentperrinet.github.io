@@ -1,5 +1,4 @@
----
-abstract: 'Recording eye movements is a technique that attracts an increasing number
+---abstract: 'Recording eye movements is a technique that attracts an increasing number
   of scientists, but also in the general public. Indeed, this allows to quantitatively
   measure a number of useful dimensions of perception and behavior in general. However,
   most existing trackers rely on expensive or technically complex solutions. Here,
@@ -42,8 +41,9 @@ categories:
 - Outreach & Public Engagement
 - Theoretical Neuroscience
 projects:
-- ''
+- pace-itn
 ---
+
 
 
 

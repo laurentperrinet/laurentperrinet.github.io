@@ -9,6 +9,7 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Manuel_Samuelides
+
 tags: ["sparse-coding", "spiking-neural-networks"]
 projects: [""]
 categories: ["Computational Neuroscience", "Education", "Outreach & Public Engagement", "Theoretical Neuroscience"]

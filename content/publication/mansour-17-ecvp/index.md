@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Kiana Mansour Pour
 - Laurent U Perrinet
 - Guillaume S Masson
@@ -27,8 +26,9 @@ categories:
 - NeuroAI & Machine Learning
 - Outreach & Public Engagement
 projects:
-- ''
+- pace-itn
 ---
+
 
 
 

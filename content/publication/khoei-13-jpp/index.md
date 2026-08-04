@@ -1,5 +1,4 @@
----
-abstract: During normal viewing, the continuous stream of visual input is regularly
+---abstract: During normal viewing, the continuous stream of visual input is regularly
   interrupted, for instance by blinks of the eye. Despite these frequents blanks (that
   is the transient absence of a raw sensory source), the visual system is most often
   able to maintain a continuous representation of motion. For instance, it maintains
@@ -55,8 +54,9 @@ categories:
 - NeuroAI & Machine Learning
 - Outreach & Public Engagement
 projects:
-- ''
+- facets-itn
 ---
+
 
 
 

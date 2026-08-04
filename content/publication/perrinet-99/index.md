@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Laurent U Perrinet
 date: 1999-01-01
 featured: false
@@ -11,6 +10,7 @@ tags: ["rank-order-coding", "unsupervised-learning"]
 categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
 projects: [""]
 ---
+
 
 
 Travail de master sur la STDP. 

@@ -1,5 +1,4 @@
----
-abstract: 'The integration of information is essential to measure the exact 2D motion
+---abstract: 'The integration of information is essential to measure the exact 2D motion
   of a surface from both local ambiguous 1D motion produced by elongated edges and
   local non-ambiguous 2D motion from features such as corners, end-points or texture
   elements. The dynamics of this motion integration shows a complex time course which
@@ -48,8 +47,9 @@ categories:
 - NeuroAI & Machine Learning
 - Outreach & Public Engagement
 projects:
-- ''
+- facets
 ---
+
 
 
 

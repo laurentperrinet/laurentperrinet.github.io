@@ -1,5 +1,4 @@
----
-abstract: In the primary visual cortex (V1), single cell responses to simple visual
+---abstract: In the primary visual cortex (V1), single cell responses to simple visual
   stimuli (gratings) are usually dense but with a high trial-by-trial variability.
   In contrast, when exposed to full field natural scenes, the firing patterns of these
   neurons are sparse but highly reproducible over trials (Marre et al., 2005; Frégnac
@@ -60,8 +59,9 @@ categories:
 - Outreach & Public Engagement
 - Visual Neuroscience
 projects:
-- ''
+- facets
 ---
+
 
 
 

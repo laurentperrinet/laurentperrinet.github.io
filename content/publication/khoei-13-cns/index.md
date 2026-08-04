@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Mina A Khoei
 - Giacomo Benvenuti
 - Frédéric Y Chavane
@@ -25,8 +24,9 @@ categories:
 - Computational Neuroscience
 - Outreach & Public Engagement
 projects:
-- ''
+- facets-itn
 ---
+
 
 
 

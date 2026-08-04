@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Laurent U Perrinet
 - Manuel Samuelides
 date: 2002-01-01
@@ -17,6 +16,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

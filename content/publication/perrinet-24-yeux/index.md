@@ -1,5 +1,4 @@
----
-abstract: 'Grâce à nos yeux, l’organe sensible de la vision, nous pouvons aisément
+---abstract: 'Grâce à nos yeux, l’organe sensible de la vision, nous pouvons aisément
   et instantanément explorer le monde visible qui nous entoure. C’est littéralement
   incroyable : la vision opère sans effort malgré la complexité des processus qui
   sont mis en œuvre. Mais en fait, comment fonctionnent nos yeux ? Quelles leçons
@@ -31,8 +30,9 @@ categories:
 - NeuroAI & Machine Learning
 - Outreach & Public Engagement
 projects:
-- ''
+- tout-public
 ---
+
 
 
 

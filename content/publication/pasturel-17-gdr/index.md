@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Chloé Pasturel
 - Jean-Bernard Damasse
 - Anna Montagnini
@@ -30,6 +29,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

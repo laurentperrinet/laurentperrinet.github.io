@@ -1,5 +1,4 @@
----
-abstract: Analysis and interpretation of a visual scene to extract its category, such
+---abstract: Analysis and interpretation of a visual scene to extract its category, such
   as whether it contains an animal, is typically assumed to involve higher-level associative
   brain areas. Previous proposals have been based on a series of processing steps
   organized in a multi-level hierarchy that would progressively analyze the scene
@@ -50,6 +49,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

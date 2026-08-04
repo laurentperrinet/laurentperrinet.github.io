@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Laurent U Perrinet
 date: 2011-06-20
 featured: false
@@ -19,8 +18,9 @@ categories:
 - NeuroAI & Machine Learning
 - Outreach & Public Engagement
 projects:
-- ''
+- tout-public
 ---
+
 
 
 

@@ -1,5 +1,4 @@
----
-title: 'Correlating Excitation and Inhibition in Visual Cortical Circuits : Functional
+---title: 'Correlating Excitation and Inhibition in Visual Cortical Circuits : Functional
   Consequences and Biological Feasibility'
 authors:
 - Jens Oliver Kremkow
@@ -51,5 +50,6 @@ tags: ["neuromorphic-computing", "primary-visual-cortex", "pynn", "sparse-coding
 categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
 projects: [""]
 ---
+
 
 

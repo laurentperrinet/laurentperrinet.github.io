@@ -1,5 +1,4 @@
----
-title: Learning Working Memory in Recurrent Spiking Neural Networks Using Heterogeneous Delays
+---title: Learning Working Memory in Recurrent Spiking Neural Networks Using Heterogeneous Delays
 authors:
 - Laurent U Perrinet
 date: '2026-04-15'
@@ -16,6 +15,7 @@ tags: ["neuromorphic-computing", "spiking-neural-networks"]
 categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
 projects: [""]
 ---
+
 
 
 * See the accompanying code: https://github.com/laurentperrinet/MNESIS

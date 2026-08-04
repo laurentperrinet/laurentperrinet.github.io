@@ -17,10 +17,18 @@ social:
   icon_pack: ai
   link: https://stackoverflow.com/users/8684783/Jonathan%20Vacher
 
-tags: [""]
-projects: [""]
-categories: ["Outreach & Public Engagement"]
+
+tags:
+- ''
+projects:
+- ''
+categories:
+- Outreach & Public Engagement
 ---
+
+
+
+
 Main collaborative work:
 
 * {{< cite page="/publication/vacher-15-nips" view="4" >}}

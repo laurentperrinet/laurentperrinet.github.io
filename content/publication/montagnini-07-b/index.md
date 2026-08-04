@@ -1,5 +1,4 @@
----
-abstract: Perceptual and oculomotor data demonstrate that, when the visual information
+---abstract: Perceptual and oculomotor data demonstrate that, when the visual information
   about an object's motion differs on the local (edge-related) and global levels,
   the local 1D motion cues dominate initially, whereas 2D information takes progressively
   over and leads to the final correct representation of global motion. Previous models
@@ -49,8 +48,9 @@ categories:
 - NeuroAI & Machine Learning
 - Outreach & Public Engagement
 projects:
-- ''
+- facets-itn
 ---
+
 
 
 

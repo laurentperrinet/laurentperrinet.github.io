@@ -1,5 +1,4 @@
----
-title: Detection of spiking motifs of arbitrary length in neural activity using bounded
+---title: Detection of spiking motifs of arbitrary length in neural activity using bounded
   synaptic delays
 authors:
 - Thomas Kronland-Martinet
@@ -26,6 +25,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

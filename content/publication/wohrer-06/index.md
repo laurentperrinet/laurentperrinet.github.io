@@ -1,5 +1,4 @@
----
-authors:
+---authors:
 - Adrien Wohrer
 - Guillaume S Masson
 - Laurent U Perrinet
@@ -21,8 +20,9 @@ categories:
 - Computational Neuroscience
 - Outreach & Public Engagement
 projects:
-- ''
+- facets
 ---
+
 
 
 

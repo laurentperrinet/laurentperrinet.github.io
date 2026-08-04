@@ -14,10 +14,20 @@ social:
 superuser: false
 user_groups:
 - Former Students
-tags: ["predictive-coding", "spiking-neural-networks"]
-projects: [""]
-categories: ["Biological Neuroscience", "Education", "Outreach & Public Engagement"]
+tags:
+- predictive-coding
+- spiking-neural-networks
+projects:
+- ''
+categories:
+- Biological Neuroscience
+- Education
+- Outreach & Public Engagement
 ---
+
+
+
+
 #  "Neuromodulatory mechanisms of predictive processing in the mouse visual cortex" (PhD position, 2023-10 / 2026-09)
 
 * Thesis director: [Dr. Ede Rancz](https://laurentperrinet.github.io/author/ede-rancz/), Mediterranean Institute of Neurobiology, Marseille

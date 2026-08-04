@@ -1,5 +1,4 @@
----
-abstract: Les illusions visuelles sont des créations d'artistes, de scientifiques
+---abstract: Les illusions visuelles sont des créations d'artistes, de scientifiques
   et plus récemment, grâce aux réseaux sociaux, du grand public qui proposent des
   situations souvent incongrues, dans lesquelles l'eau remonte une cascade, les personnes
   volent dans les airs ou des serpents se mettent à tourner. Au-delà de leur indéniable
@@ -39,6 +38,7 @@ categories:
 projects:
 - tout-public
 ---
+
 
 
 
