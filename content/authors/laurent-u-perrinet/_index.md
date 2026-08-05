@@ -1,4 +1,6 @@
----# Display name
+
+---
+# Display name
 title: Laurent U Perrinet
 
 # Username (this should match the folder name)

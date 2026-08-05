@@ -53,7 +53,6 @@ Select one or more based on the primary contribution of the work:
 - `Computer Vision`: Computer vision algorithms, benchmarks, and image processing tools.
 - `Clinical Neuroscience`: Medical/clinical applications (Specialty).
 - `Education`: Courses, teaching material, PhD training.
-- `Outreach & Public Engagement`: Dissemination to the general public, museums, forums.
 
 #### 2. Tags (Topics & Tooling)
 Use kebab-case for all tags.
