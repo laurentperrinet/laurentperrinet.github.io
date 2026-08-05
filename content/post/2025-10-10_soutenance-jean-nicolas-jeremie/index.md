@@ -23,12 +23,7 @@ dirigés par Monsieur Laurent PERRINET et Monsieur Emmanuel DAUCE
 
 **Composition du jury proposé**
 | Name                         | Affiliation                                          | Role                  |
-|
-
-|
-
-|
---|
+|------------------------------|------------------------------------------------------|-----------------------|
 | M. Ronan SICRE               | IRIT (UMR 5505) – Université de Toulouse III          | Rapporteur            |
 | M. Jean‑Julien AUCOUTURIER   | FEMTO‑ST (UMR 6174) – Université de Bourgogne Franche‑Comté | Rapporteur            |
 | Mme Teresa SERRANO‑GOTARREDONA| IMSE‑CNM‑CSIC – Universidad de Sevilla                | Examinatrice          |
