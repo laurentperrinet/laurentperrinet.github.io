@@ -12,15 +12,25 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=QQL7gpYAAAAJ&hl=fr
 superuser: false
-
+grants:
 - polychronies
 
 user_groups:
 - Former Students
-tags: [""]
-projects: [""]
-categories: ["Computer Vision", "Education", "Outreach & Public Engagement"]
+tags:
+- ''
+projects:
+- ''
+categories:
+- Computer Vision
+- Education
+- Outreach & Public Engagement
 ---
+
+
+
+
+
 #  Ultra-fast processing of sensor inputs acquired by an event camera
 The mission aims to develop a spiking neural network (SNN) capable of ultra-fast processing of sensor inputs acquired by an event camera, enabling the extraction of fundamental video stream features such as optical flow or the presence of specific objects like birds. The mission will focus on developing an end-to-end event-based algorithm and evaluating its energy efficiency compared to the state of the art.
 

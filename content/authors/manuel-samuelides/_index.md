@@ -16,6 +16,7 @@ categories: ["Computational Neuroscience", "Education", "Outreach & Public Engag
 ---
 
 
+
 Ph.D. of Mathematics, Membre de la commission des titres d'ingénieur at Institut Supérieur de l'Aéronautique et de l'Espace (ISAE).
 
 ## Collaborative publications

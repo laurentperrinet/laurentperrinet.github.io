@@ -1,8 +1,8 @@
 ---
 authors:
 - hugo-ladret
-bio: My PhD subject focused on the role of precision in natural and artificial neural networks.
-
+bio: My PhD subject focused on the role of precision in natural and artificial neural
+  networks.
 education:
   courses:
     - course:  Now a Postdoc in Georg Keller’s lab
@@ -29,10 +29,26 @@ social:
 superuser: false
 user_groups:
 - Former Students
-tags: ["predictive-coding", "primary-visual-cortex", "spiking-neural-networks", "visual-illusions"]
-projects: ["art-science"]
-categories: ["Biological Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
+tags:
+- predictive-coding
+- primary-visual-cortex
+- spiking-neural-networks
+- visual-illusions
+projects:
+- art-science
+categories:
+- Biological Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+- Visual Neuroscience
 ---
+
+
+
+
+
 # PhD Student (2019-09 / 2024-02): A multiscale cortical model to account for orientation selectivity in natural-like stimulations
 
  * Aix-Marseille Université, Institut des Neurosciences de la Timone

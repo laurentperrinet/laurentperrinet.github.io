@@ -5,6 +5,9 @@ education:
   courses:
   - course: PostDoc in Computational Neuroscience
     institution: Aix-Marseille Université
+    year: 2016
+  - course: PostDoc in Computational Neuroscience
+    institution: Aix-Marseille Université
     year: 2013
 title: Wahiba Taouali
 role: Consulting manager @ Enthought, Cambridge, United Kingdom.
@@ -35,6 +38,7 @@ categories:
 - NeuroAI & Machine Learning
 - Outreach & Public Engagement
 ---
+
 
 
 

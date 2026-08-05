@@ -8,7 +8,8 @@ education:
     institution: Aix-Marseille Université
     year: 2023
 title: Antoine Grimaldi
-role: PostDoc Researcher in Computational Neuroscience with Andrea Alamia in Toulouse, France
+role: PostDoc Researcher in Computational Neuroscience with Andrea Alamia in Toulouse,
+  France
 social:
 - icon: github
   icon_pack: fab
@@ -23,13 +24,25 @@ social:
   icon_pack: ai
   link: https://www.researchgate.net/profile/Antoine-Grimaldi-2
 superuser: false
-- aprovis-3-d
 user_groups:
 - Former Students
-tags: [""]
-projects: [""]
-categories: ["Computer Vision", "Education", "Outreach & Public Engagement", "Visual Neuroscience"]
+grants:
+- aprovis-3-d
+tags:
+- ''
+projects:
+- ''
+categories:
+- Computer Vision
+- Education
+- Outreach & Public Engagement
+- Visual Neuroscience
 ---
+
+
+
+
+
 #  "Ultra-fast vision using Spiking Neural Networks" (PhD position, 2020-09 / 2024-03)
 
 * [APROVIS3D grant (ANR-19-CHR3-0008-03)](https://laurentperrinet.github.io/post/2020-06-30_phd-position/) at Aix-Marseille Université

@@ -1,14 +1,15 @@
 ---
 authors:
 - amélie-gruel
-bio: During my PhD in Computer Sciences at i3S/CNRS, I was focusing on Ultra-fast vision using Spiking Neural Networks.
+bio: During my PhD in Computer Sciences at i3S/CNRS, I was focusing on Ultra-fast
+  vision using Spiking Neural Networks.
 education:
   courses:
   - course: PhD student in Computer Sciences at i3S/CNRS
     institution: Université Cote d'Azur
     year: 2023
 title: Amélie Gruel
-role:  Post-doctoral researcher in neuromorphic computer science in Bordeaux, France 
+role: Post-doctoral researcher in neuromorphic computer science in Bordeaux, France
 social:
 - icon: linkedin
   icon_pack: fab
@@ -17,13 +18,22 @@ social:
   icon_pack: ai
   link: https://www.researchgate.net/profile/amélie-gruel
 superuser: false
-- aprovis-3-d
 user_groups:
 - Former Students
-tags: [""]
-projects: [""]
-categories: ["Computer Vision", "Education", "Outreach & Public Engagement"]
+tags:
+- ''
+projects:
+- ''
+categories:
+- Computer Vision
+- Education
+- Outreach & Public Engagement
 ---
+
+
+
+
+
 #  "Design of bio-inspired spiking neural networks (spiking neurons) for event-based stereovision" (PhD position, 2020-09 / 2023-09)
 
 

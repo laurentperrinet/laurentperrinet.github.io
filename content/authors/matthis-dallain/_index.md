@@ -4,7 +4,6 @@ authors:
 title: Matthis Dallain
 role: Phd candidate in Computational Neuroscience
 bio: During my PhD, I am focusing on spiking neural networks with heterogeneous delays.
-
 education:
   courses:
   - course: Phd candidate in Computational Neuroscience
@@ -19,15 +18,25 @@ social:
   link: https://www.linkedin.com/in/matthis-dallain-3aaa26281/
 
 superuser: false
-
-- emergences
-
 user_groups:
 - Current Students
-tags: ["bayesian-modelling", "foveated-vision", "log-polar-mapping", "retinotopy"]
-projects: [""]
-categories: ["Education", "Outreach & Public Engagement", "Visual Neuroscience"]
+tags:
+- bayesian-modelling
+- foveated-vision
+- log-polar-mapping
+- retinotopy
+projects:
+- ''
+categories:
+- Education
+- Outreach & Public Engagement
+- Visual Neuroscience
 ---
+
+
+
+
+
 # PhD Student (2024-10 / 2027-09): Focus of attention: a sensory-motor task for energy reduction in spiking neural networks.
 
  * a fellowship from the doctoreal school "Ecole Doctorale Sciences de la Vie et de la Santé, Aix Marseille Université"
