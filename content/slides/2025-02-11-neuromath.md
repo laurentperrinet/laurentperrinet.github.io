@@ -62,8 +62,6 @@ Today, I will address our current knowledge about **horizontal connectivity rule
 ---
 
 <section>
-
-
 {{< slide background-image="https://3minutosdearte.com/wp-content/uploads/2016/11/Mir%C3%B3-Paisaje-catal%C3%A1n-el-cazador-1923-24-e1534625628322.jpg" >}}
 
 <!-- <img src="https://3minutosdearte.com/wp-content/uploads/2016/11/Mir%C3%B3-Paisaje-catal%C3%A1n-el-cazador-1923-24-e1534625628322.jpg" height="420"/> -->
@@ -98,8 +96,6 @@ This is so striking that lines or contours may appear even when they do not exis
 <tr style="height:600px;">
 </tr>
 </table>
-
-
 {{< speaker_note >}}
 
 With only dots arranged in two hexagonal grids simply shifted by an anagle of 9°, we still see lines, such as a lower-frequency hexagonal grid, and even an illusion of depth. Notice how this illusion depends on the position of your eye and therefore of your retina. Can we make sense of these phenomena?
@@ -109,8 +105,6 @@ With only dots arranged in two hexagonal grids simply shifted by an anagle of 9�
 ---
 
 ## Contour detection and the Association Field
-
-
 {{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Field1993Fig3B.jpg" title="[Field *et al*, 1993]" height="420" >}}
 
 {{< speaker_note >}}
@@ -121,11 +115,7 @@ This percept of continuity was previously already framed in the **Gestalt** para
 ---
 
 ## Contour detection and the Association Field
-
-
 {{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Field1993Fig3.jpg" title="[Field *et al*, 1993]" height="420" >}}
-
-
 {{< speaker_note >}}
 
 Their psychophysical experiments showed that detection performance was best when elements were co-aligned and degraded systematically as the relative orientation between elements increased. This highlighted significant edge parameters such a relative orientation, distance, but not phase. 
@@ -135,11 +125,7 @@ Their psychophysical experiments showed that detection performance was best when
 ---
 
 ## Contour detection and the Association Field
-
-
 {{< figure src="https://laurentperrinet.github.io/publication/chavane-22/AssoFieldNoBosking.png" title="[Field *et al*, 1993]" height="420" >}}
-
-
 {{< speaker_note >}}
 
 Consequently, they proposed that this perceptual grouping relies on an "association field" - a hypothetical linking mechanism that preferentially connects neurons tuned to similar orientations. 
@@ -150,8 +136,6 @@ But where does this association field comes from ?
 ---
 
 ## Natural Images : Edges are on a common circle
-
-
 {{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Sigman2001Fig4.jpg" title="[Sigman *et al*, 2001]" height="420" >}}
 
 {{< speaker_note >}}
@@ -167,14 +151,8 @@ This association field concept provided a compelling framework for understanding
 ---
 
 ## Contour detection and the Association Field
-
-
 {{< figure src="https://laurentperrinet.github.io/publication/chavane-22/AssoFieldNoBosking.png" title="[Field *et al*, 1993]" height="420" >}}
-
-
 {{< speaker_note >}}
-
-
 {{< /speaker_note >}}
 
 ---
@@ -203,16 +181,12 @@ The diagram shows the human visual pathways, where information flows from the **
 ---
 
 ## Thalamic, short- & long-range lateral, inter-areal
-
-
 <!-- {{< figure src="https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/featured.png" height="200" >}}{{< figure src="https://laurentperrinet.github.io/publication/chavane-22/cortical-columns_a_02_cl_vis_3e.jpg" height="150" >}} -->
 {{< figure src="https://laurentperrinet.github.io/publication/chavane-22/cortical-columns.jpg" height="420" >}}
 
 {{< speaker_note >}}
 
 A key feature of primary visual cortex is its **layered organization**, which is shared across cortical areas. The main thalamic input arrives in layer 4, which connects to a dense network of vertical connections across layers. These columns can then communicate via horizontal connections within layers.
-
-
 Hubel and Wiesel also proposed the **ice-cube model** that every point in the visual field produces a response in a 2 mm x 2 mm area of the cortex. Such an area can contain two complete groups of ocular dominance columns, 16 blobs and interblobs that may contain more than two times all of the orientations possible across 180 degrees. This region of the cortex, which Hubel and Wiesel called a hypercolumn (or, more generally, a cortical module) seems both necessary and sufficient for analyzing the image of a point in visual space. Because the cortex is a continuous cellular layer and because it is very hard to establish the boundaries of these modules physically, their existence from a functional standpoint is still the subject of debate. 
 https://thebrain.mcgill.ca/flash/a/a_02/a_02_cl/a_02_cl_vis/a_02_cl_vis.html
 
@@ -249,8 +223,6 @@ Panel B shows Synthetic orientation-maps of equal column spacing Λ but widely d
 In many mammals including cats, monkeys and ferrets, orientation preference is organized in a quasi-periodic manner, forming what are known as orientation preference maps. These maps show remarkable consistency in their geometric properties across species, particularly in the spatial organization of pinwheel centers where orientation preferences converge.
 
 However, this organization shows important **species-specific variations**. Most notably, while primates and carnivores display orderly orientation maps with smooth transitions between preferred orientations, rodents lack such maps and instead show a "salt-and-pepper" arrangement where neighboring neurons have seemingly random orientation preferences. This organizational diversity raises interesting questions about the computational advantages of these different architectures and their relationship to visual processing requirements and behavioral needs across species.
-
-
 {{< /speaker_note >}}
 
 ---
@@ -264,19 +236,11 @@ However, this organization shows important **species-specific variations**. Most
 This figure shows landmark results by Bosking et al. (1997) combining orientation preference maps with retrograde tracers. After injecting tracers (white arrow), they found labeled synapses (black dots) primarily connecting neurons of similar orientation preference, leading to the influential "like-to-like" connectivity hypothesis. However, later studies by Hunt, Goodhill and others revealed significant diversity in these connection patterns across cortical regions and species, suggesting more complex connectivity rules than initially proposed. This nuanced understanding has important implications for how we think about the functional organization of horizontal connections in V1.
 
 {{< /speaker_note >}}
-
-
 ---
 
 ## Contour detection and the Association Field
-
-
 {{< figure src="https://laurentperrinet.github.io/publication/chavane-22/AssoFieldNoBosking.png" title="[Field *et al*, 1993]" height="420" >}}
-
-
 {{< speaker_note >}}
-
-
 {{< /speaker_note >}}
 
 ---
@@ -284,8 +248,6 @@ This figure shows landmark results by Bosking et al. (1997) combining orientatio
 ## The like-to-like hypothesis
 
 {{< figure src="https://laurentperrinet.github.io/publication/chavane-22/AssoFieldBosking.png" title="[Field *et al*, 2013]" height="420" >}}
-
-
 {{< speaker_note >}}
 
 The resemblance between what was shown by Bosking and the structure of the association field that we saw above is such that it is tempting to align both and state that the function of horizontal connections is to bind neurons with a selectivity to *similar orientations** over long distances. This **like-to-like hypothesis** has been influential in understanding horizontal connectivity patterns. 
@@ -295,8 +257,6 @@ However, we should be cautious about overstating these relationships. While hori
 During the **remainder of this talk**, I will try to shed light on our current knowledege on horizontal connectivities.
 
 {{< /speaker_note >}}
-
-
 ---
 
 ## Supplementary: the HMAX model
@@ -438,8 +398,6 @@ Panel E presents an integrative model that combines aspects of the previous hypo
 ## Challenging the like-to-like hypothesis
 
 {{< video src="https://laurentperrinet.github.io/publication/chavane-22/area17_lo_diff_circ_plot.mp4" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" autoplay="yes" repeat="yes" height="420" >}}
-
-
 {{< speaker_note >}}
 
 Let's first shows some functional evidence. 
@@ -502,8 +460,6 @@ Panel C displays intracellular recordings of subthreshold responses visualized a
 These shows a direct functional evidence for a diversity of tuning profile in th horizontal connectivity.
 
 {{< /speaker_note >}}
-
-
 ---
 
 ## Challenging the like-to-like hypothesis
@@ -541,8 +497,6 @@ Panel C quantifies the orientation tuning that emerges from these connectivity p
 {{< figure src="https://laurentperrinet.github.io/publication/chavane-22/Chavane2022fig4ABCDE.jpg" title="Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All [[Chavane, LP and Rankin, 2022]](https://laurentperrinet.github.io/publication/chavane-22/)" height="420" >}}
 
 {{< speaker_note >}}
-
-
 Panel D presents a simulation snapshot at 600ms demonstrating two key activity components: orientation-selective responses (within white contour) confined to the feedforward footprint (FFF, red), and broader non-orientation-specific activity (grey contour) extending beyond.
 
 Panel E tracks the temporal evolution of both the non-orientation-specific and orientation-selective response areas.
@@ -582,11 +536,7 @@ This landmark work systematically analyzed the occurrence of edge pairs in natur
 The analysis revealed robust statistical regularities:
 - A predominance of parallel edge arrangements
 - A strong bias for co-circular edge configurations
-
-
 {{< /speaker_note >}}
-
-
 </section>
 
 ---
@@ -596,11 +546,7 @@ The analysis revealed robust statistical regularities:
 # Modelling the Association field
 
 {{< figure src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/bosking2Asso.png" title="[Field *et al*, 2013]" height="420" >}}
-
-
 {{< speaker_note >}}
-
-
 Understanding how these image statistics relate to cortical connectivity patterns provides key insights into the computational principles underlying horizontal connections in V1.
 
 {{< /speaker_note >}}
@@ -653,8 +599,6 @@ These statistics vary significantly across image databases. For example, images 
 The next section will examine how these statistical regularities inform computational models of the association field.
 
 {{< /speaker_note >}}
-
-
 <!-- 
 ---
 
@@ -670,8 +614,6 @@ chevrons
 ---
 
 ## Edge co-occurences in natural images
-
-
 <img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/Geisler01Fig3A.png" height="275"><img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/Geisler01Fig3B.png" height="275"> <img src="https://github.com/laurentperrinet/PerrinetBednar15/raw/master/talk/Geisler01Fig3C.png" height="275"> 
 [Geisler, 2001]
 
@@ -694,8 +636,6 @@ The probability distribution function p(ψ,θ) represents the distribution of th
 {{< /speaker_note >}}
 
 ---
-
-
 ## Edge co-occurences in natural images
 
 {{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_chevrons2.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" height="420" >}}
@@ -775,8 +715,6 @@ To understand the diversity in horizontal connectivity patterns, we developed a 
 3. Hierarchical processing through multiple layers
 
 {{< /speaker_note >}}
-
-
 ---
 
 ## Predictive processing
@@ -786,8 +724,6 @@ To understand the diversity in horizontal connectivity patterns, we developed a 
 {{< speaker_note >}}
 
 To bridge the gap between anatomical observations and functional requirements of visual processing, We added two key ingredients in the sparse deep predictive coding (SDPC) model :
-
-
 1. **Sparse** connectivity patterns:
 	- Enforcing regularization of the activity map using L1 penalty
 	- Activity computed via recurrent local connectivity
@@ -800,11 +736,7 @@ To bridge the gap between anatomical observations and functional requirements of
 	- Specific influence demonstrated in Neural Computation paper
 
 By defining a **cost on minimizing the prediction error** in each layer, everything stays derivable, such that we can use a classical gradient descent. These additions should allow us to better understand how feedback shapes visual processing in biological neural networks.
-
-
 {{< /speaker_note >}}
-
-
 ---
 
 ## Predictive processing
@@ -886,15 +818,11 @@ We can further analyze the relative role fo feedback: Relative co-linearity and 
 It is worth noting that extending the model with additional architectural features, such as long-range horizontal connectivity across neighboring hypercolumns, enables the emergence of more complex properties including topographic maps and complex cell-like responses. However, examining these extensions falls beyond the scope of today's presentation.
 
 {{< /speaker_note >}}
-
-
 </section>
 
 ---
 
 <section>
-
-
 ## Challenging the like-to-like hypothesis
 
 {{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]" height="420" >}}
@@ -981,8 +909,6 @@ Thanks for your attention, I would be happy to take your questions.
 {{< /speaker_note >}}
 
 ---
-
-
 ## Dynamics of vision
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/tsonga.jpg" title="Sensorimotor delays ([Perrinet & Friston 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))" height="420" >}}
@@ -992,8 +918,6 @@ Thanks for your attention, I would be happy to take your questions.
 {{< /speaker_note >}}
 
 ---
-
-
 ## Dynamics of vision
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/figure-tsonga.jpg" title="Sensorimotor delays ([Perrinet & Friston, 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))" height="420" >}}
@@ -1003,8 +927,6 @@ Thanks for your attention, I would be happy to take your questions.
 {{< /speaker_note >}}
 
 ---
-
-
 ## Dynamics of vision
 
 {{< video src="https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag.mp4" autoplay="yes" >}}
@@ -1132,8 +1054,6 @@ We used this theoretical principle in an algorithm for detecting movement in an 
 
 We then used a neural network with a classical architecture, which we enhanced by using an impulse representation that takes into account different possible synaptic delays. In this figure, we have represented the input in the left grid, which represents the occurrence of spikes of positive or negative polarity. Then we have represented different processing channels denoted by the colors green and orange, which are applied to this input to produce membrane activity. As illustrated above, this activity will produce output pulses, notably in synaptic connection nuclei, with heterogeneous delays corresponding to the detection of precise spatio-temporal patterns.
 {{< /speaker_note >}}
-
-
 ---
 
 ## Spiking Neural Networks: HD-SNN
@@ -1147,8 +1067,6 @@ One advantage of this network is that it is differentiable, enabling us to apply
 Such spatio-temporal filtering is observed in neurobiology, but to my knowledge had never been observed in a model of spiking neurons trained under natural conditions.
 
 {{< /speaker_note >}}
-
-
 ---
 
 ## Spiking Neural Networks: HD-SNN
@@ -1171,8 +1089,6 @@ We will now study the performance of this network in detecting motion in the flo
 {{< speaker_note >}}
 **2 MINUTE**
 This is what we've done, by first removing the parts of the core corresponding to the longest delays. This "shortens" the kernel. We quickly observed a degradation in performance, which reached half-saturation when we reduced the number of weights by around 50%. This demonstrates the importance of integrating information that is quite distant and structured over time.
-
-
 {{< /speaker_note >}}
 
 ---
@@ -1187,6 +1103,4 @@ This is what we've done, by first removing the parts of the core corresponding t
 In a second step, we performed a pruning operation, which consists in progressively removing the weights that are the weakest. This time, performance remains optimal over a wide compression range, and we reach half-saturation when we have removed around 99.8% of the weights. This means that the network is able to maintain very good performance, even when only one weight out of 600 has been kept, and therefore, with a computation time increased by a factor of 600. This property, which we didn't expect, seems promising for creating machine learning algorithms that are less energy-hungry.
 
 {{< /speaker_note >}}
-
-
 </section>

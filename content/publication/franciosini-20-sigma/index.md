@@ -83,11 +83,5 @@ projects:
 - phd-icn
 - mesocentre
 ---
-
-
-
-
-
-
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

@@ -55,10 +55,4 @@ projects:
 - anr-anr
 - polychronies
 ---
-
-
-
-
-
-
 * see a follow-up as journal paper: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}

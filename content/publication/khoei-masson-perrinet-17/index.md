@@ -69,12 +69,6 @@ categories:
 projects:
 - facets-itn
 ---
-
-
-
-
-
-
 * [Press release](https://www.insb.cnrs.fr/fr/cnrsinfo/illusions-visuelles-leur-origine-est-dans-la-prediction)
 # Visual illusions: their origin lies in prediction
 {{< figure src="flash_lag.gif" title="*Flash-Lag Effect.* When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash. Still, after several decades of debates, there is no consensus regarding the underlying mechanisms." >}}
@@ -87,6 +81,4 @@ The researchers show that this hypothesis also makes it possible to explain the 
 {{< figure src="https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.1371/journal.pcbi.1005068.g005" width="80%" title="Fig 5. *Histogram of the estimated positions as a function of time for the dMBP model.* Histograms of the inferred horizontal positions (blueish bottom panel) and horizontal velocity (reddish top panel), as a function of time frame, from the dMBP model. Darker levels correspond to higher probabilities, while a light color corresponds to an unlikely estimation. We highlight three successive epochs along the trajectory, corresponding to the flash initiated, standard (mid-point) and flash terminated cycles. The timing of the flashes are respectively indicated by the dashed vertical lines. In dark, the physical time and in green the delayed input knowing τ = 100 ms. Histograms are plotted at two different levels of our model in the push mode. The left-hand column illustrates the source layer that corresponds to the integration of delayed sensory information, including the prior on motion. The right-hand illustrates the target layer corresponding to the same information but after the occurrence of some motion extrapolation compensating for the known neural delay τ.  " >}}
 Despite the simplicity of this solution, parodiction has elements that may seem counter-intuitive. Indeed, in this model, the physical world is considered "hidden", that is to say, it can only be guessed by our sensations and our experience. The role of visual perception is then to deliver to our central nervous system the most likely information despite the different sources of noise, ambiguity and time delays. According to the authors of this publication, the visual treatment would consist in a "simulation" of the visual world projected at the present time, even before the visual information can actually modulate, confirm or cancel this simulation. This hypothesis, which seems to belong to "science fiction", is being tested with more detailed and biologically plausible hierarchical neural network models that should allow us to better understand the mysteries underlying our perception. Visual illusions have still the power to amaze us!
 ![](@laurentperrinet_829474896023474176_tweetcapture.png)
-
-
 * check_out further results on [introducing anisotropies in the FLE](https://laurentperrinet.github.io/sciblog/files/2017-02-17_JournalClub.html)

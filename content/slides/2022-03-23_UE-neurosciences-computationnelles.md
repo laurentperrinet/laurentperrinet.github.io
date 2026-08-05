@@ -12,8 +12,6 @@ all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2012-03-21T06:00:00Z"
-
-
 title: 2022-03-23_UE-neurosciences-computationnelles
 
 summary: Réseaux de neurones artificiels et apprentissage machine appliqués à la compréhension de la vision
@@ -64,8 +62,6 @@ projects: [""]
 
 ---
 ## [Les illusions visuelles](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
-
-
 {{< video width="80%"  src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Kitaoka.mp4" controls="yes" >}}
 [Ilusions of brightness or lightness *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 
@@ -113,8 +109,6 @@ projects: [""]
 {{< video width="80%" src="https://raw.githubusercontent.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/master/figures/ComplexDirSelCortCell250_title.mp4" controls="yes" >}}
 
 [Hubel & Wiesel, 1962]
-
-
 ---
 ## Réseaux convolutionnels : hiérarchie
 

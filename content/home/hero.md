@@ -6,11 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "Next-generation neural computations"
-
-
 [design.background]
-
-
   # Background gradient.
   gradient_start = "#4bb4e3"
   gradient_end = "#2b94c3"

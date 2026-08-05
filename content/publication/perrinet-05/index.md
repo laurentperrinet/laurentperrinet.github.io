@@ -16,12 +16,6 @@ title: Efficient Source Detection Using Integrate-and-Fire Neurons
 tags: ["spike"]
 categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
 projects: [""]
-
-
 projects:
 - facets
 ---
-
-
-
-

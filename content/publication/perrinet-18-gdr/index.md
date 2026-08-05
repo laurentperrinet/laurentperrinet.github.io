@@ -44,12 +44,6 @@ categories:
 projects:
 - pace-itn
 ---
-
-
-
-
-
-
  - poster presented @ [[https://gdrvision2018.sciencesconf.org/|GDR vision, Paris]].
  - program : https://gdrvision2018.sciencesconf.org/data/pages/posters_GDRVision2018.pdf
  - poster : https://github.com/laurentperrinet/Perrinet18gdr/raw/master/Perrinet18gdr.pdf

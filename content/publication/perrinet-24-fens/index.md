@@ -31,7 +31,6 @@ links:
   url: https://github.com/laurentperrinet/2024-06-26_Perrinet24FENS
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-24-fens/
-
 publication: '*Proceedings of the FENS Forum 2024*'
 publication_types:
 - inproceedings
@@ -50,12 +49,6 @@ categories:
 projects:
 - ''
 ---
-
-
-
-
-
-
 * see accompanying papers
  * for neural data: {{< cite page="/publication/perrinet-23-icann" view="4" >}}
  * for event-based cameras: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}

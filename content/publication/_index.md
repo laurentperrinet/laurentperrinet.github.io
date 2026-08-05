@@ -18,5 +18,3 @@ categories: ["Computational Neuroscience", "Education", "Outreach & Public Engag
 projects: [""]
 ---
 
-
-

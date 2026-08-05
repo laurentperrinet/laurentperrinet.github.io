@@ -18,10 +18,6 @@ projects:
 - tout-public
 ---
 
-
-
-
-
 Participation à un article de dissémination pour le magazine en ligne Sciences & Avenir, écrit par Alice Carliez: Comment notre cerveau fait-il face à l’incertitude ?
 
 > Une équipe du CNRS et d'Aix-Marseille Université a élucidé des mécanismes neuronaux qui représentent la perception de stimuli visuels plus ou moins précis. Voici les explications de Laurent Perrinet, chercheur en neurosciences computationnelles.

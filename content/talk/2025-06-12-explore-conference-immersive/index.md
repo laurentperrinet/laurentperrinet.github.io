@@ -31,5 +31,3 @@ projects: ["tout-public"]
 * Quoi: Conférence immersive
 * Quand: Jeudi 12 juin 2025 - 16h - 17h
 * Où: CRVM - Centre de réalité virtuelle de la Méditerranée (UMR 6233 CNRS & Université de la Méditerranée Faculté des Sciences du Sport, Avenue de Luminy, 13288 Marseille)
-
-

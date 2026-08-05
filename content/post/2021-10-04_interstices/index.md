@@ -23,15 +23,9 @@ projects:
 - art-science
 ---
 
-
-
-
-
 # Horizon Faille
 
 ## Festival Interstice, du 5 au 17 octobre 2021 (du mercredi au dimanche, de 14 h à 18 h)
-
-
 Du 5 au 17 octobre, le festival [Interstice](http://festival-interstice.net/2021/) présente des expositions et des performances, à travers des créations spectaculaires.
 
 {{< gallery album="2021-10-04_interstices" >}}

@@ -22,10 +22,6 @@ The Horizontal-V1 project aimed at understanding the emergence of sensory predic
 * {{< cite page="/publication/franciosini-21" view="4" >}}
 * {{< cite page="/publication/vergani-21-bernstein" view="4" >}}
 * {{< cite page="/post/2021-06-15_neural-turing" view="4" >}}
-
-
-
-
 # WP3 - Design of novel visual paradigms, probabilistic model of V1 and data-driven simulations - co lead UNIC-INT.
 
 Objectives : This WP will have two primary goals. The first one is theoretically driven, and for sake of simplicity will ignore the dynamic features of neural integration (as expected from a statistical model of image analysis). Binding the different features of visual objects at the local scale (contours) as well as a more global level involves understanding the statistical regularities of the sensory inflow. In particular, titrating the predictions that can be done at the statistical level can be seen as a first pass to better search for critical parameters constraining the network behaviour. From these, we will build probabilistic predictive models optimized for edge co-occurrence classification and generate novel visual statistics 1) which obey rules imposed by the functional horizontal connectivity anisotropies, such as co- circularity, and 2) which facilitate binding in the orientation domain, such as log-polar planforms. These statistics generated in the first half of the grant will be implemented and tested experimentally in the second half of the grant. The second one is more data-driven (as well as phenomenological for feedback from higher cortical areas, since it will not be explored in the grant). Since model fitting will depend on close interactions with WP1 and WP2 measurements, it will be done in the second half of the grant.

@@ -28,12 +28,6 @@ title: An efficiency razor for model selection and adaptation in the primary vis
 tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding"]
 categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
 projects: [""]
-
-
 projects:
 - facets
 ---
-
-
-
-

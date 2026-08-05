@@ -16,6 +16,4 @@ Humans have an extraordinary capacity to infer cause-effect relations. In partic
 
 2. How ​​are ​​internal​ ​representations​ ​and ​​computational​​ processes​ ​​implemented​ ​​in ​​the ​​brain? CausaL​ ​​will​ ​address​ ​these​ ​two​ ​objectives​ ​through​ ​two​ ​dedicated​ ​research​ ​work​ ​packages​ ​(WPs).
 
-
-
 Acknowledgement : This work was supported by ANR project ANR-18-AAPG–“CAUSAL, Cognitive Architectures of  Causal  Learning”.

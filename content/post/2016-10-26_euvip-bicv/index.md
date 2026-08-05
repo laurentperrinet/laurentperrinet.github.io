@@ -25,10 +25,6 @@ projects:
 - bicv
 ---
 
-
-
-
-
 # 2016-10-26 : EUVIP Special Session on *Biologically Inspired Computer Vision*
 
 ## description of the session
@@ -73,8 +69,6 @@ in this area.
     (0)4 91 05 45 45
 
   - Programme
-
-
    - 13.50  [Visual System Inspired Algorithm For Contours, Corner And T Junction Detection](http://ieeexplore.ieee.org/document/7764586/), Antoni Buades, *Rafael Grompone Von Gioi*
    - 13.50  [Biologically-inspired characterization of sparseness in natural images](https://laurentperrinet.github.io/talk/2016-10-26-perrinet-16-euvip/), *Laurent Perrinet*
    - 14.10 [Color filter array imitating the random nature of color arrangement in the human cone mosaic](http://david.alleysson.free.fr/Publications/JIST0224reprint.pdf), Prakhar Amba, *David Alleysson*

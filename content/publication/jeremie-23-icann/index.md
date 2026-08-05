@@ -43,12 +43,6 @@ categories:
 projects:
 - ''
 ---
-
-
-
-
-
-
 * as was presented at the *32nd International Conference on Artificial Neural Networks (ICANN 2023)* in Heraklion (Greece).
 * this proceedings paper follows up the poster presented in : {{< cite page="/publication/jeremie-23-ccn" view="4" >}}
 * see a follow-up presentation in: {{< cite page="/publication/jeremie-24-ccn" view="4" >}}

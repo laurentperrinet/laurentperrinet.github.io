@@ -39,10 +39,4 @@ categories:
 projects:
 - ''
 ---
-
-
-
-
-
-
 * relies on log-Gabor filters: {{< cite page="/publication/fischer-07-cv" view="4" >}}

@@ -23,8 +23,6 @@ projects: [""]
 	</th>
 </tr>
 </table>
-
-
 ---
 ## Spiking Neural Networks
 
@@ -37,8 +35,6 @@ projects: [""]
 ---
 
 {{< figure src="../../publication/grimaldi-22-areadne/figure_1a.png" title=".. as a mixture of motifs" width="95%" >}}
-
-
 ---
 
 {{< figure src="../../publication/grimaldi-22-areadne/figure_1b.png" title="... defined as list of weights and delays.." width="95%" >}}
@@ -46,8 +42,6 @@ projects: [""]
 ---
 
 {{< figure src="../../publication/grimaldi-22-areadne/figure_1c.png" title="occurring from a new raster plot.." width="95%" >}}
-
-
 ---
 
 {{< video src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/LIF.mp4" autoplay="yes" title="A standard LIF neurons as homogeneous delays..." >}}
@@ -72,8 +66,6 @@ projects: [""]
 ---
 
 {{< video src="https://laurentperrinet.github.io/talk/2022-06-19-neuro-vision-heterogeneous/2022-05-24_Supervised_MC_MC.mp4" autoplay="yes" >}}
-
-
 ---
 ## Learned heterogeneous weights
 ---

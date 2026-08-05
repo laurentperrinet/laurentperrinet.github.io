@@ -19,8 +19,6 @@ categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engag
 projects: [""]
 ---
 
-
-
 Date : jeudi 10 octobre de 9h30 à 12h30
 
 Intervenants : Laurent Perrinet et Chloe Pasturel

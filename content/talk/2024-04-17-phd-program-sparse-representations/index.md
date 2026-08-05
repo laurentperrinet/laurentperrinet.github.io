@@ -47,8 +47,6 @@ Timeline of the whole course:
 * April 16th (morning+afternoon): deep learning and automated differenciation, practice with notebook using pytorch (MG)
 * April 17th morning: interpretable machine learning (ET)
 * April 17th afternoon: sparse representations (LP)
-
-
 If not done already, please install a (reasonably) recent version of python (easy option is anaconda, see details here: https://etulab.univ-amu.fr/gilson.m/compneuro_course). Importantly, part of the course will rely on pytorch, see instructions for installing a dedicated environment here: https://etulab.univ-amu.fr/gilson.m/compneuro_course/-/tree/main/autodiff (we can do together it the first morning for those who have trouble).
 The first day (or morning depending on how we go), we will first review basics in supervised learning, to be on the same page (with a focus on recursive feature elimination): https://etulab.univ-amu.fr/gilson.m/compneuro_course/-/tree/main/sup_lrn
 

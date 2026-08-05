@@ -34,10 +34,4 @@ categories:
 projects:
 - ''
 ---
-
-
-
-
-
-
 * Follows {{< cite page="/publication/rentzeperis-22-areadne" view="4" >}}

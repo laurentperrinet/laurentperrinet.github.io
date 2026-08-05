@@ -22,10 +22,4 @@ categories:
 projects:
 - motion-clouds
 ---
-
-
-
-
-
-
 * See a followup in {{< cite page="/publication/vacher-16" view="4" >}}

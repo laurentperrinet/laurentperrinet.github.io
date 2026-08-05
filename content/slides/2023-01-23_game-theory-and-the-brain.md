@@ -40,8 +40,6 @@ __[2023-01-23] Atelier jeu et cerveau__
 <img src="https://laurentperrinet.github.io/publication/perrinet-21-hasard/featured.jpg" width="80%" >
 
 <a href="https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388">Le jeu du cerveau et du hasard, <i>The Conversation</i></a></p>
-
-
 {{< speaker_note >}}
 
 - What is noise? The uncertainty due to noise is symbolized by dices: a throw of fair dices, even if they are optimally simulated can not be predicted: the outcome is uniformly one facet from 1 to 6,
@@ -72,8 +70,6 @@ grants:
 - In your opinion, which of the two is the most random pattern?
 - from your responses ...
 - the answer is that ...
-
-
 When it comes to true randomness, one of its stranger aspects is that it often behaves differently to people’s expectations. Take the two diagrams below – which one do you think is a random distribution, and which has been deliberately created/adjusted?
 
 randomized dots
@@ -133,8 +129,6 @@ https://theconversation.com/daniel-kahneman-on-noise-the-flaw-in-human-judgement
 - the face was gone ...
 - conclusion 1: information pops out from noise
 - conclusion 2: further information may change the interpretation
-
-
 {{< /speaker_note >}}
 
 ---
@@ -194,8 +188,6 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 ---
 
 # Sequence prediction
-
-
 {{< figure src="https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/synthesis.png" title="([Pasturel *et al*, 2020](https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/))." width="70%" >}}
 
 {{< speaker_note >}}
@@ -207,8 +199,6 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 - The aleatoric noise is transformed into a measure of knowledge = epistemic noise
 
 {{< /speaker_note >}}
-
-
 ---
 
 # Epistemic noise
@@ -216,8 +206,6 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 ---
 
 # Playing with noise
-
-
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/6/67/Rock-paper-scissors.svg" title="Nash equilibrium ([Rock paper scissors](https://en.wikipedia.org/wiki/Rock_paper_scissors))." width="70%" >}}
 
 {{< speaker_note >}}
@@ -235,16 +223,12 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 ---
 
 {{< figure src="http://www.salemmarafi.com/wp-content/uploads/2011/10/prisoners_dilemma.jpg" title="Prisoner’s Dilemma ([Salem Marafi](http://www.salemmarafi.com/business/prisoners-dilemma/))." width="60%" >}}
-
-
 {{< speaker_note >}}
 
 - Only the speaker can read these notes
 - uncertainty comes not from aleatoric noise but from not knowing: epistemic uncertainty
 
 {{< /speaker_note >}} -->
-
-
 ---
 
 # Representing uncertainty
@@ -264,8 +248,6 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 # Representing uncertainty
 
 {{< figure src="https://laurentperrinet.github.io/publication/ladret-23/featured.png" title="Visual epistemic uncertainty ([Hugo Ladret](https://laurentperrinet.github.io/publication/ladret-23/))." width="80%" >}}
-
-
 {{< speaker_note >}}
 
 - Only the speaker can read these notes
@@ -307,15 +289,11 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 # Game theory and brain strategies
 
 {{< figure src="https://images.theconversation.com/files/407867/original/file-20210623-17-ai1gc3.png" title="Epistemic uncertainty ([Hugo Ladret](https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388))." width="100%" >}}
-
-
 {{< speaker_note >}}
 
 - For this, it represents explictly uncertainty (epistemic noise)
 
 {{< /speaker_note >}}
-
-
 ---
 # Questions?
 

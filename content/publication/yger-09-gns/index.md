@@ -124,10 +124,4 @@ categories:
 projects:
 - open-science
 ---
-
-
-
-
-
-
 * see a follow-up: {{< cite page="/publication/davison-08" view="4" >}}

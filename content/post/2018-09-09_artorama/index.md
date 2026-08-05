@@ -19,10 +19,6 @@ projects:
 - art-science
 ---
 
-
-
-
-
 # Instabilité (series)
 
 ## Installation (sérigraphie, dessin mural, lumière), 2018;  Guest artist, Mécènes du Sud / Art-O-Rama (Fair), Marseille I 2018
@@ -37,11 +33,7 @@ Mécènes du Sud invite chaque année un artiste lauréat pour concevoir un stan
  - https://www.lemonde.fr/argent/article/2018/08/19/avec-art-o-rama-marseille-se-demarque-sur-le-marche-de-l-art_5343904_1657007.html
  - https://www.apollo-magazine.com/why-manifesta-makes-sense-in-marseille/
  - Retour par [En revenant de l'expo !](https://www.enrevenantdelexpo.com/2018/09/07/retour-sur-art-o-rama-2018-j1-marseille-1er-partie/)
-
-
 ![Sortie modèle OptimalPacking](https://i0.wp.com/www.enrevenantdelexpo.com/wp-content/uploads/2018/09/Art-O-Rama-2018-M%C3%A9c%C3%A8nes-du-Sud-%C3%89ienne-Rey-01.jpg)
-
-
 
  - SALON INTERNATIONAL D'ART CONTEMPORAIN ART-O-RAMA
  - SALON : 31 AOÛT > 2 SEPTEMBRE 2018

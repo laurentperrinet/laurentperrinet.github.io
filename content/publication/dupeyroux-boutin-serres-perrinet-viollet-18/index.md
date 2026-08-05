@@ -40,9 +40,3 @@ categories:
 projects:
 - doc-2-amu
 ---
-
-
-
-
-
-

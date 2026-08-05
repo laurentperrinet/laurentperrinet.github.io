@@ -19,10 +19,6 @@ projects:
 - art-science
 ---
 
-
-
-
-
 # TROPIQUE
 
 * « Tropique » est une installation artistique créée par Etienne Rey en collaboration avec Wilfried Wendling (son) et sous mon expertise scientifique. Elle a été produite pour l’Année européenne de la culture d’Aix-Marseille et présentée en 2013 à la fondation Vasarely. Cette installation immersive consiste en une sculpture de lumière incluse dans un espace fermé de 20 mètres de longueur sur 15 mètres de large. La salle est remplie de minuscules billes d’eau transparentes en suspension. Elles produisent une diffraction visible lorsqu’elles sont illuminées par les vidéoprojecteurs qui sont placés aux bords opposés de la salle. Les sources de lumière projettent des segments qui composent l’alphabet de la sculpture. Chaque segment est caractérisé par sa position, sa longueur et son orientation et chacun crée une lame de lumière dans l’espace de la salle. Une fois les segments combinés, ils forment un monde propre à la sculpture et isolé du monde habituel (voir aussi [cet article](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/#fig:Tropique)). La grammaire qui régit les mouvements de ces segments est inspirée par les forces d’attraction et de répulsion observées aux tailles microscopiques des cellules et macroscopique des galaxies. Cette population de segments évoluait alors comme un système autonome, sans scénario pré-écrit ou enregistré et complété par une synchronisation des différentes sources de lumière ainsi que du système de génération spatiale du son. Un point crucial de l’installation était d’introduire une interaction intime entre ce système et chaque observateur. Un discret système de capteurs de mouvement permettait de localiser la présence des différents observateurs et de modifier la configuration de la sculpture en fonction de leurs mouvements. Le système évoluait ainsi de façon autonome d’une sculpture de lumière que l’on pouvait regarder et toucher à une configuration dans laquelle le spectateur était plongé dans un monde propre, intime. Dans cet état, les segments alignés autour de l’observateur formaient une “aura” où tout repère de perspective était perdu. Ce dispositif, en manipulant visible et invisible, levait alors le voile sur des mécanismes cachés de la perception
@@ -40,8 +36,6 @@ projects:
 ![Tropique](http://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_b.jpg)
 
 ![Tropique](http://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_a.jpg)
-
-
 [Tropique](http://ondesparalleles.org/projets/tropique-7/) est une installation environnementale, un espace vide de matière, qui se densiﬁe en ondes sonores et lumineuses, activées et modulées par la présence et l’activité humaines. Ce projet met en lien la perception de l’espace articulée au mouvement, à la lumière et au son. Les personnes qui se situent dans l’espace sont entourées d’une aura lumineuse et sonore qui ﬂuctue en fonction des mouvements et de la proximité des corps.
 
 ![Tropique](http://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_c.jpg)
@@ -49,8 +43,6 @@ projects:
 Etienne Rey investigates the invisible and mutual relationships which take place between human and his environment. Prize-winner of the 1st call for projects of the RAN, its project of immersive installation Tropique puts in link the perception of the space connected to the movement, to the light and to the sound. Within the framework of a residence of creation in the Centre des arts, the object of which is ” to sculpt the light “, he presents a work in progress of this installation.''
 
 {{< vimeo 33718945 >}}
-
-
 ![Tropique](http://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_d.jpg)
 
 ![Tropique](http://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_l.jpg)
@@ -64,8 +56,6 @@ Accueilli en résidence dans le cadre des résidences de recherche de l’IMéRA
 ## news
 
 {{< vimeo 56198653 >}}
-
-
  - [space odyssée](http://ondesparalleles.org/projets/space-odyssey/) à [l'institut francais en Coree du Sud de juin a octobre 2016](http://www.institutfrancais-seoul.com/portfolio-item/exposition-home-cinema/)
  - Un entretien d'ER durant le [Mois multi 2015](https://www.youtube.com/watch?v=lA2bovigzLg)
 

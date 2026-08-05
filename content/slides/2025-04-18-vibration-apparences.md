@@ -38,12 +38,8 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
   - to summarize= sparse representations help understand neuroscience biological vision
   - they have practical applications in machine learning
   - 
-
-
 - Not only the speaker can read these notes, Press `S` key to view
 - more on [doc](https://raw.githubusercontent.com/wowchemy/starter-hugo-academic/master/exampleSite/content/slides/example/index.md)
-
-
 {{< /speaker_note >}}
 
 </section>
@@ -51,20 +47,14 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 ---
 
 <section>
-
-
 ## "L'irraisonnable efficacité de la vision"
 
 {{< figure src="https://images.theconversation.com/files/568221/original/file-20240108-17-78s0cj.png" title="Comment la vision a évolué... [[Perrinet, 2024]](https://theconversation.com/chats-mouches-humains-comment-la-vision-a-evolue-en-de-multiples-facettes-220083) " width="100%" >}}
-
-
 {{< speaker_note >}}
 
 {{< /speaker_note >}}
 
 ---
-
-
 ## [Illusions visuelles](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg" title="[Rotating Snakes *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)" width="70%" >}}
@@ -77,8 +67,6 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 ---
 
 ## [Illusions visuelles](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
-
-
 {{< video src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Kitaoka.mp4" controls="yes" width="80%" >}}
 [Ilusions of brightness or lightness *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 
@@ -145,19 +133,11 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 ---
 
 <section>
-
-
 ## Neurosciences computationnelles de la vision
-
-
 {{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Churchland92.png" title="[[Sejnowski, Koch & Churchland (1998)](http://www.hms.harvard.edu/bss/neuro/bornlab/nb204/papers/sejnowski-koch-churchland-science1988.pdf)]" width="50%" >}}
 
 {{< speaker_note >}}
-
-
 - Les neurosciences computationnelles sont les sciences qui essaient d’extraire de nos connaissances en neurosciences biologiques des principes computationnels, comme le neurone formel et sa capacité d’apprentissage, qui est la brique de base des réseaux de neurones. Ces derniers ont conduit à la révolution de l’IA avec les réseaux profonds.
-
-
 - it's a multi-scale, complex model...
 - perhaps we will never be able to comprehend it in full
 - words are not precise enough, let's use mathematics and models to describe this system
@@ -166,8 +146,6 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 ---
 
 ## Anatomie du système visuel humain
-
-
 {{< figure src="https://www.readkong.com/static/06/b0/06b09f0235ae7fcf29438ce317c10e60/optogenetic-visual-cortical-prosthesis-9612386-7.jpg" width="61%" >}}
 
 {{< speaker_note >}}
@@ -212,18 +190,12 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 ---
 
 <section>
-
-
 ## Art & Sciences 
 
 {{% fragment %}} 
 {{< figure src="https://laurentperrinet.github.io/author/etienne-rey/avatar.jpg" title="[Etienne Rey](https://laurentperrinet.github.io/author/etienne-rey/)" width="50%" >}}
  {{% /fragment %}}
-
-
 {{< speaker_note >}}
-
-
 https://github.com/NaturalPatterns/2013_Tropique
 
 {{< /speaker_note >}}
@@ -231,14 +203,8 @@ https://github.com/NaturalPatterns/2013_Tropique
 ---
 
 {{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Etienne Rey, SPECTRE AUDIOGRAPHIQUE – DIFFRACTION](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="100%" >}}
-
-
 {{< speaker_note >}}
-
-
 /Users/laurentperrinet/sdrive_cnrs/blog/laurentperrinet.github.io_hugo/content/talk/2010-04-14-ondes-paralleles/index.md
-
-
 {{< /speaker_note >}}
 
 ---
@@ -246,14 +212,8 @@ https://github.com/NaturalPatterns/2013_Tropique
 ## Tropique
 
 {{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_b.jpg" title="[Etienne Rey, Tropique](https://ondesparalleles.org/projets/tropique-7/)" width="100%" >}}
-
-
 {{< speaker_note >}}
-
-
 {{< /speaker_note >}}
-
-
 ---
 
 ## Tropique
@@ -269,75 +229,45 @@ https://github.com/NaturalPatterns/2013_Tropique
 ---
 
 {{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/04/etienne_rey_horizons_variables_news2.jpg" title="[Etienne Rey, Cristal n2](https://ondesparalleles.org/projets/cristal-n2__trashed/)" width="100%" >}}
-
-
 {{< speaker_note >}}
-
-
 {{< /speaker_note >}}
 
 ---
 
 {{< figure src="https://laurentperrinet.github.io/post/2016-06-02_elasticite/TRAME_Elasticité.jpg" title="[Etienne Rey, TRAME ÉLASTICITÉ](https://ondesparalleles.org/projets/trame-elasticite-vasarely/)" width="100%" >}}
-
-
 {{< speaker_note >}}
-
-
 {{< /speaker_note >}}
-
-
 ---
 
 ## TRAME ÉLASTICITÉ
 
 <iframe src="https://player.vimeo.com/video/198189587" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-
 </section>
 
 ---
 
 <section>
-
-
 ## De la nature des choses
-
-
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/90/Phyllotaxis_golden_angle.svg"  title="[Phyllotaxie](https://fr.wikipedia.org/wiki/Phyllotaxie)" width="50%" >}}
 
 Par <a href="//commons.wikimedia.org/wiki/User:Cmglee" title="User:Cmglee">Cmglee</a> — <span class="int-own-work" lang="fr">Travail personnel</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=146404567">Lien</a>
-
-
 {{< speaker_note >}}
-
-
 {{< /speaker_note >}}
 
 ---
 <!-- 
 ## De la nature des choses
-
-
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c3/NGC_4414_%28NASA-med%29.jpg"  title="[NGC 4414](https://fr.wikipedia.org/wiki/Galaxie_spirale)" width="100%" >}} -->
 
 {{< slide background-image="https://upload.wikimedia.org/wikipedia/commons/c/c3/NGC_4414_%28NASA-med%29.jpg" >}}
 
 {{< speaker_note >}}
-
-
 {{< /speaker_note >}}
-
-
-
-
 ---
 
 {{< figure src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/featured.png"  title="[Etienne Rey, Densité flou](https://laurentperrinet.github.io/post/2019-06-22_ardemone/)" width="100%" >}}
 
 {{< speaker_note >}}
-
-
 {{< /speaker_note >}}
 
 ---
@@ -348,23 +278,17 @@ Par <a href="//commons.wikimedia.org/wiki/User:Cmglee" title="User:Cmglee">Cmgle
 
 {{< /speaker_note >}}
 
-
-
 ---
 
 ## Caustiques
 
 {{< video src="https://github.com/NaturalPatterns/2020_caustiques/raw/main/iridiscence.mp4" controls="yes" repeat="yes" height="420" >}}
 
-
-
 </section>
 
 ---
 
 <section>
-
-
 <!-- {{< slide background-image="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" >}} -->
 
 {{< figure src="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" width="50%" >}}
@@ -374,31 +298,19 @@ Par <a href="//commons.wikimedia.org/wiki/User:Cmglee" title="User:Cmglee">Cmgle
 {{< /speaker_note >}}
 
 ---
-
-
 ## La vibration des apparences
-
-
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Montagne_Sainte-Victoire%2C_par_Paul_C%C3%A9zanne_108.jpg" title="[Paul Cézanne, Montagne Sainte-Victoire, 1904](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne)" width="62%" >}}
 
 {{< speaker_note >}}
 
 {{< /speaker_note >}}
-
-
 ---
-
-
 ## La vibration des apparences
-
-
 {{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/Merleau-Ponty_Sens-et-non-sens.png" title="[Merleau-Ponty, Sens et non-sens](https://laurentperrinet.github.io/author/etienne-rey/)" width="62%" >}}
 
 {{< speaker_note >}}
 
 {{< /speaker_note >}}
-
-
 ---
 
 {{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png"  title="[Etienne Rey, Trames](https://laurentperrinet.github.io/post/2018-04-10_trames/)" width="80%" >}}
@@ -472,17 +384,11 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 
 {{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}} 
 -->
-
-
 ---
 
 {{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png"  title="[Etienne Rey, La vibration des apparences](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)" height="80%" >}}
-
-
 ---
 {{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2025-01-18_la-vibration-des-apparences.mp4" type="video/mp4" controls="yes" height="80%" >}}
-
-
 ---
 
 ## La vibration des apparences
@@ -494,8 +400,6 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 ---
 
 <section>
-
-
 # [La vibration des apparences](https://laurentperrinet.github.io/slides/2025-04-18-vibration-apparences/?transition=fade)
 ##	*[Laurent Perrinet](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)*
 ###	<u>[Journées d’Ouverture Scientifique (JOS)](https://jos.lis-lab.fr/)</u>
@@ -505,8 +409,6 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 <!-- <img src="https://laurentperrinet.github.io/qrcode.png" alt="QR code" height="80" width="80"> -->
-
-
 {{< speaker_note >}}
 - to summarize= 
 {{< /speaker_note >}}

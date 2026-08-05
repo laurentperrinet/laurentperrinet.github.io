@@ -22,10 +22,6 @@ projects:
 - art-science
 ---
 
-
-
-
-
 Publication d'un nouvel article généraliste autour des "Illusions et hallucinations visuelles" à découvrir sur le site [TheConversation](https://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389):
 
 ![](@FR_Conversation_1136743272024612886_tweetcapture.png)

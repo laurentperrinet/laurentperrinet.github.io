@@ -12,8 +12,6 @@ categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 projects: [""]
 ---
 
-
-
 This online workshop brings together researchers in the fields of computational neuroscience, machine learning, and neuromorphic engineering to present their work and discuss ways of translating these findings into a better understanding of neural circuits. Topics include artificial and biologically plausible learning algorithms and the dissection of trained spiking circuits toward understanding neural processing. We have a manageable number of talks with ample time for discussions.
 
 ## Executive committee. 
@@ -22,8 +20,6 @@ This online workshop brings together researchers in the fields of computational 
 - Laurent U Perrinet,
 - [Dan Goodman](https://neural-reckoning.org/),
 - [Friedemann Zenke](https://zenkelab.org/).
-
-
 
 ### links
 

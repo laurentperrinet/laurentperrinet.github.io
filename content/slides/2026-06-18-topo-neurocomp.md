@@ -48,8 +48,6 @@ L'objectif de cet exposé est de présenter les neurosciences computationnelles 
 ## "L'irraisonnable efficacité de la vision"
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/95/Nage_de_la_raie%2C_Marey%2C_1894.gif" title="Nage de la raie, 1894 [[Étienne-Jules Marey]](https://fr.wikipedia.org/wiki/Étienne-Jules_Marey)" width="100%" >}}
-
-
 {{< speaker_note >}}
 J'espère vous surprendre en vous montrant ce vol de raie, une nage capturée par Étienne-Jules Marey grâce au procédé de chronophotographie. Je trouve cette image animée remarquable par plusieurs aspects.
 
@@ -65,15 +63,11 @@ Et cette capacité n'est pas nouvelle.
 ---
 
 {{< slide background-image="https://upload.wikimedia.org/wikipedia/commons/5/5b/18_PanneauDesLions%28PartieDroite%29BisonsPoursuivisParDesLions.jpg" >}}
-
-
 {{< speaker_note >}}
 Comme le démontre la justesse de cette meute de lions — ou est-ce un seul lion déployé à différents instants dans un effet cinématographique ?
 
 Reste cette complicité que nous pouvons avoir à apprécier aujourd'hui la représentation de notre environnement par des artistes si éloignés dans le temps et pourtant si proches dans leur sensibilité.
 {{< /speaker_note >}}
-
-
 ---
 
 ## "L'irraisonnable efficacité de la vision"
@@ -87,8 +81,6 @@ Premier miracle : de l'énergie lumineuse est transformée en un signal electro-
 
 Je ne vais pas rentrer dans les détails — il faudrait des heures — mais explorons plutôt ce que nous appelons...
 {{< /speaker_note >}}
-
-
 ---
 
 ## [Illusions visuelles](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
@@ -125,8 +117,6 @@ L'explication se trouverait dans le fait que nous interprétons l'image en 3D et
 
 La vision montre là toute sa créativité à créer elle-même des illusions.
 {{< /speaker_note >}}
-
-
 ---
 
 ## La perception comme processus émergent
@@ -171,15 +161,11 @@ Comment rassembler les pièces du puzzle ?
 
 Plus récemment, au festival Ososphère à Strasbourg, Delaunay : un assemblage de points optimisés pour couvrir au mieux le carré, mais avec une condition au bord. Limites perceptives.
 {{< /speaker_note >}}
-
-
 </section>
 
 ---
 
 <section>
-
-
 # Neurosciences computationnelles
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
@@ -259,13 +245,9 @@ Plus récemment, au festival Ososphère à Strasbourg, Delaunay : un assemblage 
 ## Modèles de langage 
 
 {{< figure src="https://poloclub.github.io/transformer-explainer/article_assets/attention.png" title="Transformer: Attention is All You Need [Vaswani et al., 2017]"  width="70%" >}}
-
-
 ---
 
 ## Les Neurosciences Computationnelles c'est un métier ?
-
-
 {{< fragment >}}
 * Ingénieur, chercheur, journaliste, ...
 {{< /fragment >}}
@@ -277,15 +259,11 @@ Plus récemment, au festival Ososphère à Strasbourg, Delaunay : un assemblage 
 {{< fragment >}}
 * Neurosciences Computationnelles pour la biologie
 {{< /fragment >}}
-
-
 {{< speaker_note >}}
 - de nombreuses voies pour en faire son métier
 - applications à l'IA: efficacité, interprétabilité, frugalité
 - applications à la biologie: comprendre le cerveau, la cognition, la perception
 {{< /speaker_note >}}
-
-
 </section>
 
 ---
@@ -301,6 +279,4 @@ Plus récemment, au festival Ososphère à Strasbourg, Delaunay : un assemblage 
 Me contacter : [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 </section>
-
-
 ---

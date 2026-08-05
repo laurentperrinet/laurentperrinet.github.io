@@ -35,13 +35,9 @@ projects: [""]
 	</th>
 </tr>
 </table>
-
-
 ###	<u>[[2025-10-16]](https://laurentperrinet.github.io/talk/2025-10-16-flash-lag-effect/) [Suresh Krishna's lab meeting](https://neuromod.univ-cotedazur.eu)</u>
 
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
-
-
 {{< speaker_note >}}
 
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
@@ -53,8 +49,6 @@ Why do we sometimes misjudge where visual objects are? This talk explores how pr
 {{< /speaker_note >}}
 
 </section>
-
-
 </section>
 
 ---
@@ -120,8 +114,6 @@ Why do we sometimes misjudge where visual objects are? This talk explores how pr
 {{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/line_particles.mp4" autoplay="no" controls="yes" >}}
 
 Motion-based prediction ([Perrinet *et al*, 2012](https://laurentperrinet.github.io/publication/perrinet-12-pred/)).
-
-
 </section>
 
 ---
@@ -155,8 +147,6 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 ---
 
 {{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/positional-delay.mp4" loop="yes" >}}
-
-
 ---
 <!-- 
 {{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_histogram.jpg" width="95%" title="Space-time probability distributions ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." >}}
@@ -164,8 +154,6 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 --- -->
 
 {{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_histogram_comp.jpg" width="95%" title="Space-time probability distributions ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." >}}
-
-
 ---
 
 {{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_MotionReversal_MBP.jpg" width="95%" title="Motion reversal ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." >}}
@@ -173,8 +161,6 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 ---
 
 {{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_MotionReversal.jpg" width="95%" title="Motion reversal (smoothed) ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." >}}
-
-
 ---
 
 {{< video src="https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag_stop.mp4" loop="yes" >}}
@@ -193,8 +179,6 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 <section>
 
-
-
 # [Mislocalization by Design<br> The Flash-Lag Effect as Prediction](https://laurentperrinet.github.io/slides/2025-10-16-flash-lag-effect/?transition=fade)
 ###	*[Laurent Perrinet, CNRS/AMU, Marseille, France](https://laurentperrinet.github.io)*
 
@@ -207,13 +191,9 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 	</th>
 </tr>
 </table>
-
-
 ###	<u>[[2025-10-16]](https://laurentperrinet.github.io/talk/2025-10-16-flash-lag-effect/) [Suresh Krishna's lab meeting](https://neuromod.univ-cotedazur.eu)</u>
 
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
-
-
 {{< speaker_note >}}
 
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)

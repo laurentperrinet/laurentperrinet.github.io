@@ -41,14 +41,8 @@ publishDate: '2020-12-12T13:31:46.868407Z'
 tags: ["motion-perception", "sparse-coding", "visual-illusions"]
 categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
 projects: [""]
-
-
 projects:
 - internal-project
 ---
-
-
-
-
 
 More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

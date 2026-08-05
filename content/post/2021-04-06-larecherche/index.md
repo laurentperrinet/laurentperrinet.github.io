@@ -21,10 +21,6 @@ projects:
 - tout-public
 ---
 
-
-
-
-
 Publication d'un nouvel article généraliste autour des illusions visuelles, "*Les illusions sèment le trouble dans les esprits*" à découvrir dans lee dossier [La Recherche n°565](https://www.larecherche.fr/les-illusions-s%C3%A8ment-le-trouble-dans-les-esprits) (trimestriel N°565 daté avril-juin 2021):
 
 ![](@laurentperrinet_1381305529553813504_tweetcapture.png)

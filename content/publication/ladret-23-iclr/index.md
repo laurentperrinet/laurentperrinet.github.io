@@ -47,12 +47,6 @@ categories:
 projects:
 - ''
 ---
-
-
-
-
-
-
 * Accepted paper (poster) at the [ICLR 2023 Workshop on
 Sparsity in Neural Networks](https://www.sparseneural.net/accepted-papers):
  * the focus of the WS is on "On practical limitations and tradeoffs between sustainability and efficiency" in Kigali, Rwanda / May 5th 2023

@@ -47,11 +47,5 @@ categories:
 projects:
 - ''
 ---
-
-
-
-
-
-
 ![header](perrinet-03-ieee.png)
 {{< figure src="v1_tiger.gif" title="*Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.*" >}}

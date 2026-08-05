@@ -14,7 +14,3 @@ social:
   link: https://scholar.google.com/citations?user=LT0P6OwAAAAJ
 ---
 
-
-
-
-

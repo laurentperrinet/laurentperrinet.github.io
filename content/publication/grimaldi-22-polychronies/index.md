@@ -59,12 +59,6 @@ projects:
 - anr-anr
 - polychronies
 ---
-
-
-
-
-
-
 {{< video src="2022-12-23_polychrony-review_video-abstract.mp4" controls="yes" >}}
  * read the paper [online](https://arxiv.org/html/2404.07866v1) or in [PDF](https://arxiv.org/pdf/2404.07866v1.pdf)
  * [Video Abstract](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/2022-12-23_polychrony-review_video-abstract.mp4)

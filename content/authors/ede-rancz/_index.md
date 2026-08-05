@@ -37,10 +37,6 @@ categories:
 - Theoretical Neuroscience
 ---
 
-
-
-
-
 Ede Rancz is a Research Director at the Mediterranean Institute of Neurobiology, Marseille, France. He is interested in the neural circuits underlying visual perception and decision-making. He uses a combination of in vivo and in vitro electrophysiology, optogenetics, and computational modeling to study the function of the visual cortex. He is also interested in the development of new tools and methods for studying neural circuits.
 
 *[CENTURI call](https://laurentperrinet.github.io/post/2026-01-28_phd-position_neuromodulatory-predictive-processing/)  "Neuromodulatory control of predictive processing in visual cortical circuits" (co-direction with Laurent Perrinet) (POSITION HAS BEEN FILLED)

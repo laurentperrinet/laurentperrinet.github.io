@@ -14,12 +14,6 @@ title: What adaptive code for efficient spiking representations? A model for the
 tags: ["sparse-coding", "spiking-neural-networks"]
 categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
 projects: [""]
-
-
 projects:
 - facets
 ---
-
-
-
-

@@ -24,19 +24,13 @@ subtitle = ""
   [[content.filter_button]]
     name = "Current Grants"
     tag = "current-grant"
-
-
   [[content.filter_button]]
     # name = "[Past Grants](http://phdcomics.com/comics/archive.php?comicid=1431)"
     name = "Past Grants"
     tag = "past-grant"
-
-
   [[content.filter_button]]
     name = "All Grants"
     tag = "grant"
-
-
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"

@@ -11,8 +11,6 @@ categories: ["Computer Vision", "Education", "Outreach & Public Engagement"]
 projects: ["open-science"]
 ---
 To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences. This includes code to reproduce results obtained in papers (e.g. [(Perrinet, Adams and Friston, 2015)](https://github.com/laurentperrinet/PerrinetAdamsFriston14), [(Perrinet and Bednar, 2015)](https://github.com/laurentperrinet/PerrinetBednar15), [(Khoei et, 2017)](https://github.com/laurentperrinet/Khoei_2017_PLoSCB), [(Perrinet, 2019)](https://github.com/laurentperrinet/2019-05_illusions-visuelles), [(Pasturel et al, 2020)]({{< ref "/publication/pasturel-montagnini-perrinet-20/index.md" >}}), [(Dauce et al, 2020)]({{< ref "/publication/dauce-20/index.md" >}})) or courses and slides (e.g. [2019-04-03: vision and modelization](https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization), [2019-04-18_JNLF](https://github.com/laurentperrinet/2019-04-18_JNLF), ...) and also the development of the following libraries on [GitHub](https://github.com/laurentperrinet).
-
-
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/laurentperrinet" data-size="large" data-show-count="true" aria-label="Follow @laurentperrinet on GitHub">Follow @laurentperrinet</a>
 <!-- Place this tag in your head or just before your close body tag. -->
@@ -65,15 +63,11 @@ This library defines the set of [LogGabor](https://pythonhosted.org/LogGabor/) k
 * This library is detailed in the following publication {{< cite page="/publication/fischer-07-cv" view="4" >}}
 * LogGabor filters are used in numerous computer vision applications and reaches 177 citations on [Google Scholar](https://scholar.google.com/scholar?cluster=15692697050569088559&hl=fr&as_sdt=7,39) (last updated 22/10/2021).
 * [![Research software impact](http://depsy.org/api/package/pypi/LogGabor/badge.svg)](http://depsy.org/package/python/LogGabor)
-
-
 ## SparseEdges: sparse coding of natural images
 
 Our goal here is to build practical algorithms of sparse coding for computer vision.
 
 This class exploits the [SLIP](https://pythonhosted.org/SLIP/) and [LogGabor](https://pythonhosted.org/LogGabor/) libraries to provide with a sparse representation of edges in images.
-
-
 * [Web-site](https://pythonhosted.org/SparseEdges)
 * [Source code](https://github.com/bicv/SparseEdges/)
 * This algorithm was presented in the following paper, which is available as a reprint {{< cite page="/publication/perrinet-15-bicv" view="4" >}}

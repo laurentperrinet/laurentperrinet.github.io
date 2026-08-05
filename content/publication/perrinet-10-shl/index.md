@@ -50,12 +50,6 @@ categories:
 projects:
 - ''
 ---
-
-
-
-
-
-
 ![header](perrinet-10-shl.png)
 * related publication : {{< cite page="/publication/perrinet-19-hulk" view="4" >}}
 ![header](ssc.gif)

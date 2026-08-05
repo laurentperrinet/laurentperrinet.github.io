@@ -17,8 +17,6 @@ The [Ph.D. program in Integrative and Clinical Neuroscience](http://neuro-marsei
 ##Funding
 
 This project is funded by the Aix-Marseille Université, which was awarded the prestigious status of "Excellence Initiative" (A*MIDEX) by the French Government and considering interdisciplinary studies as one of its main axes of growth. Within this program, the PhD fellow will sign a three-year work contract. They will enroll the ICN PhD program offering personalized follow-up to the students, a wide spectrum of scientific and professional training activities including specialized courses and career development activities and interactions with multi-disciplinary researchers at Aix-Marseille University and top world-wide visiting speakers, in a vibrant international community of students.
-
-
 ## Acknowledgement
 
 This work has received support from the French government under the Programme Investissements d’Avenir, Initiative d’Excellence d’Aix-Marseille Université via A*Midex (AMX-19-IET-004) and ANR (ANR-17-EURE-0029) funding.

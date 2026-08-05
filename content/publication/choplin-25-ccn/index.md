@@ -39,20 +39,10 @@ categories:
 projects:
 - ''
 ---
-
-
-
-
-
-
 This year at #CCN2025 we will be showcasing our  research on the classification of Mental Workload 🥵 Spatial Effects using Riemannian Manifold. 
-
-
 📅 When: Wednesday, August 13, 1:00 – 4:00 pm
 📍 Where: CCN 2025 Conference Venue, de Brug & E-Hall
 📋 What: Poster B152
-
-
 * It  leverages advanced mathematical techniques to better understand and classify mental workloads, offering new insights into cognitive processes and potential applications in various fields such as neuroscience, psychology, and human-computer interaction.
 * By utilizing Riemannian geometry, this research provides a robust framework for analyzing spatial effects in mental workload, paving the way for more accurate and efficient classification methods. This contribution not only advances our theoretical understanding but also has practical implications for improving mental workload assessment and management.
 
@@ -63,8 +53,6 @@ https://laurentperrinet.github.io/publication/choplin-25-ccn/
 👏  CNRS @cnrs@social.numerique.gouv.fr -  Aix-Marseille University - ONERA,  The French Aerospace Lab CNRS 
 
 #CCN2025 #Mental #Workload #MentalWorkload #Riemannian #Manifold
-
-
 Links:
 
 * https://www.linkedin.com/posts/laurent-perrinet-1857b9_classification-of-mental-workload-spatial-activity-7360642334927032322-mtJi

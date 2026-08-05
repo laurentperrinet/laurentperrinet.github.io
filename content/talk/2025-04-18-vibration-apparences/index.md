@@ -33,8 +33,6 @@ Cette présentation, dans le cadre des *Journées d’Ouverture Scientifique (JO
 Version anglaise de cette présentation :
 
 {{< cite page="/talk/2026-01-19-art-and-science/" view="4" >}}
-
-
 Le titre de l’exposition fait écho au texte *Le Doute de Cézanne* de Merleau-Ponty, qui montre comment, dans la vie quotidienne, nous tendons à ignorer les apparences transitoires pour accéder directement aux objets eux-mêmes. À l’opposé, le peintre se concentre sur cette dynamique de mutation des apparences. Merleau-Ponty écrit au sujet de Cézanne : « Le peintre reprend et convertit justement en objet visible ce qui, sans lui, reste enfermé dans la vie séparée de chaque conscience : la vibration des apparences qui est le berceau des choses. »
 
 L’exposition s’inscrit dans le prolongement de cette pensée, en illustrant la vibration des apparences à travers le concept d’interférence. Ce phénomène physique, dans lequel deux ondes de même nature en superposition se renforcent ou s’annulent, inspire Étienne Rey dans l’élaboration d’un parallèle visuel. Il reprend, décale et transpose des motifs dont émergent des « interférences optiques » et des « ondes chromatiques ».

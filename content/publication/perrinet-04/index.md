@@ -36,7 +36,3 @@ tags: ["sparse-coding", "spiking-neural-networks"]
 categories: ["Education", "Outreach & Public Engagement", "Theoretical Neuroscience"]
 projects: [""]
 ---
-
-
-
-

@@ -59,13 +59,9 @@ Tout d'abord, laissez-moi vous présenter mon acolyte dans cette exploration qui
 ---
 
 <section>
-
-
 ## Art & Sciences révèlent la diversité de notre vision
 
 {{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Etienne Rey (2010) Spectre audiographique](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="100%" >}}
-
-
 {{< speaker_note >}}
 Notre collaboration a commencé quand il m'a invité à présenter mon travail sur la perception visuelle au vernissage de cette œuvre qui représente une visualisation spatio-temporelle du spectre audiographique du son d'une cloche. Il est composé de multiples plaques semi-transparentes et dichroïques, c'est-à-dire ayant la capacité de présenter différentes couleurs selon l'angle de vue. Ce volume sculptural donne, de façon furtive, toute la profondeur de cette expérience sensorielle.
 
@@ -77,8 +73,6 @@ C'est là que se révèle « L'irraisonnable efficacité de la vision » — je 
 ## "L'irraisonnable efficacité de la vision"
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/95/Nage_de_la_raie%2C_Marey%2C_1894.gif" title="Nage de la raie, 1894 [[Étienne-Jules Marey]](https://fr.wikipedia.org/wiki/Étienne-Jules_Marey)" width="100%" >}}
-
-
 {{< speaker_note >}}
 J'espère vous surprendre en vous montrant ce vol de raie, une nage capturée par Étienne-Jules Marey grâce au procédé de chronophotographie. Je trouve cette image animée remarquable par plusieurs aspects.
 
@@ -94,8 +88,6 @@ Et cette capacité n'est pas nouvelle.
 ---
 
 {{< slide background-image="https://upload.wikimedia.org/wikipedia/commons/5/5b/18_PanneauDesLions%28PartieDroite%29BisonsPoursuivisParDesLions.jpg" >}}
-
-
 {{< speaker_note >}}
 Comme le démontre la justesse de cette meute de lions — ou est-ce un seul lion déployé à différents instants dans un effet cinématographique ?
 
@@ -107,8 +99,6 @@ Reste cette complicité que nous pouvons avoir à apprécier aujourd'hui la repr
 ## "L'irraisonnable efficacité de la vision"
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/5/5b/18_PanneauDesLions%28PartieDroite%29BisonsPoursuivisParDesLions.jpg" title="Panneau Des Lions [[Grotte chauvet, -30 kA]](https://fr.wikipedia.org/wiki/Grotte_Chauvet)" width="90%" >}}
-
-
 {{< speaker_note >}}
 Je vous encourage à voir ces œuvres à Chauvet 2.
 
@@ -128,8 +118,6 @@ Premier miracle : de l'énergie lumineuse est transformée en un signal electro-
 
 Je ne vais pas rentrer dans les détails — il faudrait des heures — mais explorons plutôt ce que nous appelons...
 {{< /speaker_note >}}
-
-
 ---
 
 ## [Illusions visuelles](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
@@ -249,26 +237,18 @@ Comment rassembler les pièces du puzzle ?
 
 Plus récemment, au festival Ososphère à Strasbourg, Delaunay : un assemblage de points optimisés pour couvrir au mieux le carré, mais avec une condition au bord. Limites perceptives.
 {{< /speaker_note >}}
-
-
 </section>
 
 ---
 
 <section>
-
-
 {{< figure src="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" width="50%" >}}
 {{< speaker_note >}}
 Pour faire le lien, Etienne a organisé une exposition au musée Granet — première pour de l'art contemporain. Elle reprend plusieurs des travaux issus de notre collaboration, dont l'affiche que je vais vous décrire.
 {{< /speaker_note >}}
-
-
 ---
 
 ## La vibration des apparences
-
-
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Montagne_Sainte-Victoire%2C_par_Paul_C%C3%A9zanne_108.jpg" title="[Paul Cézanne, Montagne Sainte-Victoire, 1904](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne)" width="62%" >}}
 
 {{< speaker_note >}}
@@ -276,16 +256,10 @@ Pour faire le lien, Etienne a organisé une exposition au musée Granet — prem
 le muset Granet est le musée de Cézanne
 
 le titre de l'exposition fait référence...
-
-
 {{< /speaker_note >}}
-
-
 ---
 
 ## La vibration des apparences
-
-
 {{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/Merleau-Ponty_Sens-et-non-sens.png" title="[Merleau-Ponty, Sens et non-sens](https://laurentperrinet.github.io/author/etienne-rey/)" width="62%" >}}
 {{< speaker_note >}}
 ... à un texte de Merleau-Ponty et d'un passage sur Cézanne. La vibration, l'interférence entre couleurs qui rend la réalité. C'est une ligne de recherche que je vais vous illustrer par trois des œuvres présentées.
@@ -334,14 +308,10 @@ Une œuvre centrale est celle-ci — notre affiche. Elle consiste en deux grille
 ---
 
 ## La vibration des apparences
-
-
 {{< figure src="https://laurentperrinet.github.io/talk/2026-01-19-art-and-science/featured.jpg" title="[Etienne rey (2025) Polaire](https://laurentperrinet.github.io/author/etienne-rey/)" width="62%" >}}
 
 {{< speaker_note >}}
 un zoom permet d'apprécier iterferences - moiré (mohair)
-
-
 
 {{< /speaker_note >}}
 
@@ -398,8 +368,6 @@ On peut jouer avec ce décalage — expérimentation artistique. Une première r
 ---
 
 <section>
-
-
 ## À quoi sert la vision ?
 
 {{% fragment %}} 
@@ -411,8 +379,6 @@ Nous avons vu que la vision est un processus qui essaie de faire du sens — mê
 
 C'est là qu'intervient Yarbus et cette peinture d'Ilya Repin : un soldat rentrant à la maison, tension liée à la surprise évoquée par le titre de la peinture.
 {{< /speaker_note >}}
-
-
 ---
 
 ## À quoi sert la vision ?
@@ -420,8 +386,6 @@ C'est là qu'intervient Yarbus et cette peinture d'Ilya Repin : un soldat rentra
 {{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_002.jpg" title="[Yarbus (1965) An Unexpected Visitor](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
 
 {{< speaker_note >}}
-
-
 - https://fr.wikipedia.org/wiki/Alfred_Iarbous
 Yarbus a réussi à 
 
@@ -431,15 +395,11 @@ traces structurées, même dans cette exploration libre
 
 {{< /speaker_note >}}
 
-
-
 ---
 
 ## À quoi sert la vision ?
 
 {{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_006.jpg" title="[Yarbus (1965) An Unexpected Visitor *How long?*](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
-
-
 {{< speaker_note >}}
 Ce qui est intéressant, c'est que l'on peut modifier cette structure en donnant un contexte. Si on pose la question « Depuis quand est-il parti ? », les mouvements oculaires changent...
 {{< /speaker_note >}}
@@ -449,8 +409,6 @@ Ce qui est intéressant, c'est que l'on peut modifier cette structure en donnant
 ## À quoi sert la vision ?
 
 {{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_003.jpg" title="[Yarbus (1965) An Unexpected Visitor - *Age?*](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
-
-
 {{< speaker_note >}}
 Si on pose maintenant la question de l'âge des participants, la structure change encore. La preuve que nous sommes des animaux sociaux — une des fonctions principales de la vision est de trouver nos congénères et deviner leurs émotions.
 
@@ -480,15 +438,11 @@ Cette simulation est basée sur une modélisation de cet espace rétinotopique. 
 ## À quoi sert la vision : rétinotopie fovéale
 
 {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_dolphin.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
-
-
 {{< speaker_note >}}
 
 à noter la grande diversité des rétinotopies - on montre ici des cartes de densités
 
 chez les dauphins on peut avoir une fovea, ou deux! (4 alors :-) )
-
-
 {{< /speaker_note >}}
 
 ---
@@ -516,8 +470,6 @@ Dans les modélisations... Republication d'un article écrit pour le catalogue d
 
 {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/graphical.png" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
 <!-- {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/featured.jpg" title="[JN Jérémie, E Daucé et LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="45%" >}} -->
-
-
 {{< speaker_note >}}
 
 ## Rétinotopie et intelligence artificielle
@@ -540,8 +492,6 @@ Illustré par cette illusion.
 {{< speaker_note >}}
 Encore une fois, Akiyoshi Kitaoka a frappé. Scientifique et vrai artiste. Je vous invite à visiter son site.
 {{< /speaker_note >}}
-
-
 </section>
 
 ---
@@ -551,8 +501,6 @@ Encore une fois, Akiyoshi Kitaoka a frappé. Scientifique et vrai artiste. Je vo
 ## Art & Sciences révèlent la vision en action 
 
 {{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Etienne Rey, Spectre audiographique](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="100%" >}}
-
-
 {{< speaker_note >}}
 
 donc la vision n'est pas un processus actif, mais un processus actif
@@ -566,8 +514,6 @@ l'art nous le montre- dans cette sculture d'ER on peut dse déplacer
 ## Art & Sciences révèlent la vision en action 
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/92/Cruz-Diez_2013_Grand_Palais_Paris_France.jpg" title="[Carlos Cruz-Diez (2013) Chromosaturation](https://fr.wikipedia.org/wiki/Carlos_Cruz-Diez)" width="90%" >}}
-
-
 {{< speaker_note >}}
 C'est un thème récurrent dans l'art cinétique. Ici, Carlos Cruz-Diez — qui nous plonge...
 {{< /speaker_note >}}
@@ -598,8 +544,6 @@ Nous avons fait cette expérience sur notre première collaboration — Marseill
 {{< speaker_note >}}
 Désolé de la qualité. Matérialité des lames de lumière.
 {{< /speaker_note >}}
-
-
 ---
 
 ## Art & Sciences révèlent la vision en action : Tropique
@@ -612,8 +556,6 @@ Pourquoi les Kinects ? Interaction. Exteroceptif à introspectif. Vraie expérie
 ---
 
 {{< figure src="https://laurentperrinet.github.io/post/2016-06-02_elasticite/TRAME_Elasticité.jpg" title="[Etienne Rey, TRAME ÉLASTICITÉ](https://ondesparalleles.org/projets/trame-elasticite-vasarely/)" width="100%" >}}
-
-
 {{< speaker_note >}}
 
 Autre collaboration de taille: 
@@ -623,8 +565,6 @@ INOX POLI MIROIR / ALUMINIUM / ACIER / MOTEURS / PROGRAMME TEMPS RÉEL
 À la Fondation Vasarely à Aix-en-Provence, Etienne Rey a choisi d’installer dans la salle des Intégrations architectoniques un ballet visuel hypnotique.
 Composé d’une succession de lames de miroirs, verticales et rotatives, l’installation Trame se joue des reflets et de la démultiplication de l’espace, offrant au spectateur une multiplicité de points de vue dans lesquels il peut se perdre à loisir. Par un effet de « porosité » recherché par l’artiste, le dispositif dialogue intensément avec les Intégrations.
 {{< /speaker_note >}}
-
-
 ---
 
 ## Art & Sciences révèlent la vision en action : TRAME ÉLASTICITÉ
@@ -704,25 +644,17 @@ L'intelligence du regard est dans son incarnation — cognition incarnée, Varel
 {{< /speaker_note >}}
 
 </section>
-
-
 ---
 
 <section>
 
 # Diapositives supplémentaires
-
-
 ---
 
 ## Victor Vasarely
 
 {{< figure src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnqT-ltEk7fE-iUfHgea6HPeusGiz357ctHroJoxUxy02oXJ4U8EGbWoXPz0aEaTOtKQKNBCJ9IMsXMKBpS9ngmwWsAESV8Rrto9iM3mCBaYmRj6MiQqpyGy-uzomgMHtdXxE6QNwBqr8/s1600/fds.jpg" title="[Victor Vasarely (1962) Mönchengladbach, Sphère - trames](https://fr.wikipedia.org/wiki/Victor_Vasarely)" width="100%" >}}
-
-
 {{< speaker_note >}}
-
-
 {{< /speaker_note >}}
 
 ---
@@ -730,11 +662,7 @@ L'intelligence du regard est dans son incarnation — cognition incarnée, Varel
 ## Victor Vasarely
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/1/14/Hungary_pecs_-_vasarely0.jpg" title="[Victor Vasarely (1977)Outdoor Vasarely artwork at the church of Pálos in Pécs.](https://fr.wikipedia.org/wiki/Victor_Vasarely)" width="100%" >}}
-
-
 {{< speaker_note >}}
-
-
 {{< /speaker_note >}}
 
 ---
@@ -742,32 +670,18 @@ L'intelligence du regard est dans son incarnation — cognition incarnée, Varel
 ## Victor Vasarely
 
 {{< figure src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUqb-w6zGJ8ul1sTnh0gXi2PWwDC4uNM0Ctj_XNerPS-BuJR6_ZGNsNWO8fv5fl3S5is8faHPrgSsD1f7_KR8JDxbaYlDFJQ9ZMmRQ5S1LzBxgq-qA3vDb-_spbICOqtVNExc2bHdIiNM/s320/Supernovae.jpg" title="[Victor Vasarely (1962) Supernovae](https://fr.wikipedia.org/wiki/Victor_Vasarely)" width="60%" >}}
-
-
 ---
 
 ## Victor Vasarely
 
 {{< figure src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_LmwCk716jFOMR8cAwmX96DUlrCFEGfgwJVp4SaDvk9AmlGiXA25N9-DViXxGW9zHE2AHBLxo1dVuHUg9TvRn2yEsmt-i_vvNX_h9rBqnnOFVqFUCbnXIPWVWtkv_tqKGcHRMzX4wUJQ/s1600/800px-FondationAix.JPG" title="[Victor Vasarely (1976) Fondation Vasarely, Aix-en-Provence](https://fr.wikipedia.org/wiki/Fondation_Vasarely)" width="60%" >}}
-
-
 {{< speaker_note >}}
-
-
 {{< /speaker_note >}}
 
 ---
-
-
 {{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/04/etienne_rey_horizons_variables_news2.jpg" title="[Etienne Rey, Cristal n2](https://ondesparalleles.org/projets/cristal-n2__trashed/)" width="100%" >}}
-
-
 {{< speaker_note >}}
-
-
 {{< /speaker_note >}}
-
-
 ---
 
 ## La vibration des apparences

@@ -39,10 +39,6 @@ categories:
 - Outreach & Public Engagement
 ---
 
-
-
-
-
 # Motion Integration By V1 Population  (Post-Doc, 2013-03 / 2015-01)
 
 ## Description
@@ -51,8 +47,6 @@ Wahiba hold the postdoctoral position at the ["Institut de Neurosciences de la T
  * The work was done in collaboration with a post-doc in physiology, with Frédéric Chavane, that focused on the role of propagation and diffusion of activity at the level of neuronal population in V1 of awake monkeys (using Voltage-sensitive dye imaging and UTAH array recording).
 
 Wahiba is now scientific software developper at [Enthought](https://www.enthought.com/).
-
-
 ## Main publications:
 
 * {{< cite page="/publication/taouali-16" view="4" >}}

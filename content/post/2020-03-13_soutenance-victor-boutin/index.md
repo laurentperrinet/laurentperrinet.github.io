@@ -33,10 +33,6 @@ projects:
 - ''
 ---
 
-
-
-
-
 ![](@laurentperrinet_1235128290458951680_tweetcapture.png)
 
 * Date : Vendredi 13 mars à 14h
@@ -55,8 +51,6 @@ projects:
 * [Laurent Perrinet](https://laurentperrinet.github.io/), CNRS, Directeur de thèse
 * [Franck Ruffier](http://www.ism.univ-amu.fr/ruffier/), CNRS, Co-directeur de thèse
 * [Mossadek Talby](https://www.researchgate.net/profile/Mossadek_Talby), AMU, Jury invité
-
-
 ## Abstract
 Building models to efficiently represent images is a central and difficult problem in the machine learning community. The neuroscientific study of the early visual cortical areas is a great source of inspiration to find economical and robust solutions. For instance, Sparse Coding (SC) is one of the most successful frameworks to model neural computation at the local scale in the visual cortex. It directly derives from the efficient coding hypothesis and could be thought of as a competitive mechanism that describes visual stimulus using the activity of a small fraction of neurons. At the structural scale of the ventral visual pathways, feedforward models of vision have accounted for neurophysiological evidence and provide the most successful frameworks for object recognition tasks. Nevertheless, these models do not leverage the high density of feedback and lateral interactions observed in the visual cortex. In particular, these connections are known to integrate contextual and attentional modulations to feedforward signals. The Predictive Coding (PC) theory has been proposed to model top-down and bottom-up interaction between cortical regions. The presented thesis introduces a model combining Sparse Coding and Predictive Coding in a hierarchical and convolutional architecture. Our model, called  Sparse Deep Predictive Coding (SDPC), was trained on several different databases including faces and natural images. We analyze the SPDC from a computational and a biological perspective. In terms of computation, the recurrent connectivity introduced by the PC framework allows the SDPC to converge to lower prediction errors with a higher convergence rate. In addition, we combine neuroscientific evidence with machine learning methods to analyze the impact of recurrent processing at both the neural organization and representational level. At the neural organization level, the feedback signal of the model accounted for a reorganization of the V1 association fields that promotes contour integration. At the representational level, the SDPC exhibited significant denoising ability which is highly correlated with the strength of the feedback from V2 to V1. These results from the SDPC model demonstrate that neuro-inspiration might be the right methodology to design more powerful and more robust computer vision algorithms.
 

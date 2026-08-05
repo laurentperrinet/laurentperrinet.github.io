@@ -26,13 +26,7 @@ projects:
 - brain-scales
 ---
 
-
-
-
-
 # FACETS Code Jam Workshop \#4
-
-
 We held a CodeJam 22nd-24th June 2010, in Marseille.
 
 ![Participants](http://neuralensemble.org/media/images/codejam4_group_photo.jpg)
@@ -44,11 +38,7 @@ We held a CodeJam 22nd-24th June 2010, in Marseille.
         For the 4th FACETS CodeJam, the main theme of the meeting will be workflows: what are the best practices for combining different tools (simulators, analysis tools, visualization tools, databases etc.) to ensure the efficient and reproducible flow of data and information from experiment conception to publication and archiving? <BR>
         (...) <BR>
         The meeting organizers gratefully acknowledge the support of the European Union through the FACETS Project (grant no. IST-2005-15879), and the International Neuroinformatics Co-ordinating Facility (INCF). We also wish to express our great appreciation to the DyVA team at the Institut de Neurosciences Cognitives de la Méditerranée for providing us with a great location and much assistance.
-
-
 -   <http://neuralensemble.org/meetings/CodeJam4.html>
 
 -   [FACETS code jam #4](https://facets.kip.uni-heidelberg.de/internal/jss/AttendMeeting?mI=73){.https}
-
-
 ![Affiche](featured.png)

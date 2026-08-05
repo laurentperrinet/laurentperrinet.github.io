@@ -25,9 +25,3 @@ categories:
 projects:
 - facets
 ---
-
-
-
-
-
-

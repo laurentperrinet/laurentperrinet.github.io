@@ -134,12 +134,6 @@ categories:
 projects:
 - ''
 ---
-
-
-
-
-
-
 * open access: https://www.nature.com/articles/s42003-023-05042-3
 * 5 minutes summary: https://hugoladret.github.io/publications/ladret_et_al_variance_v1/
 ![Artboard](Artboard.png)

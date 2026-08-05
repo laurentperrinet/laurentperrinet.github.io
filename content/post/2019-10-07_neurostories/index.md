@@ -20,10 +20,6 @@ projects:
 - tout-public
 ---
 
-
-
-
-
 * Cette présentation lors des [NeuroStories](http://neuroschool-stories.com/) vise à aborder la notion de temps dans le cerveau.
 
 {{< youtube jJKTdlChefc >}}

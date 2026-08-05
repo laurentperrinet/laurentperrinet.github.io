@@ -14,5 +14,3 @@ Under natural conditions, many animals perform interceptive movements to catch s
 ## Acknowledgement
 
 This work was supported by ANR project "MarmoCatch" N° ANR-XXX-YYY.
-
-

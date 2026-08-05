@@ -11,8 +11,6 @@ type: docs
 
 ---
 TODO
-
-
 This feature can be used for publishing content such as:
 
 * **Project or software documentation**

@@ -43,10 +43,4 @@ categories:
 projects:
 - facets
 ---
-
-
-
-
-
-
 ![header](kremkow-10-jcns.png)

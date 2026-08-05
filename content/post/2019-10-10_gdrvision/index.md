@@ -21,8 +21,6 @@ categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engag
 projects: [""]
 ---
 
-
-
 Avec Anna Montagnini, Manuel Vidal et Françoise Vitu, nous organisons cette année le GDR Vision à Marseille les journées du 10 et 11 octobre.
 
 * plus d'infos sur https://gdrvision2019.sciencesconf.org/

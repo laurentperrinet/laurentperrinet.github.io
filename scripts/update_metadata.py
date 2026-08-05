@@ -22,8 +22,6 @@ def getDateTimeFromISO8601String(s, full=False):
     if not full:
         d = d.date()
     return d
-
-
 def import_bibtex(
     bibtex, pub_dir="publication", featured=False, overwrite=False, normalize=False, dry_run=False, verbose=False
 ):
@@ -54,8 +52,6 @@ def import_bibtex(
     dico = {}
     for key in keys:
         dico[slugify(key)] = key
-
-
     # 4- updating metadata with bibtex
 
     import yaml
@@ -97,8 +93,6 @@ def import_bibtex(
 
             if "subtitle" in entry:
                 parsed_yaml["subtitle"] = clean_bibtex_str(entry["subtitle"])
-
-
             if 'date' in entry:
                 date_str = clean_bibtex_str(entry["date"])
             else:
@@ -131,8 +125,6 @@ def import_bibtex(
             if authors:
                 authors = clean_bibtex_authors([i.strip() for i in authors.replace("\n", " ").split(" and ")])
                 parsed_yaml["authors"] = authors
-
-
             for this_key in ['abstract', 'summary']:
                 if this_key in entry:
                     parsed_yaml[this_key] = clean_bibtex_str(entry[this_key])
@@ -282,8 +274,6 @@ def import_bibtex(
                     f.write(page + '\n')
             except IOError:
                 log.error("Could not save file.")
-
-
 def slugify(s, lower=True):
     bad_symbols = (".", "_", ":")  # Symbols to replace with hyphen delimiter.
     delimiter = "-"
@@ -300,8 +290,6 @@ def slugify(s, lower=True):
     if lower:
         s = s.lower()
     return s
-
-
 def clean_bibtex_authors(author_str):
     """Convert author names to `firstname(s) lastname` format."""
     authors = []
@@ -329,8 +317,6 @@ def clean_bibtex_authors(author_str):
         authors.append(" ".join(first_names) + " " + last_name)
 
     return authors
-
-
 def clean_bibtex_str(s):
     """Clean BibTeX string and escape TOML special characters"""
     s = s.replace("\\", "")
@@ -339,8 +325,6 @@ def clean_bibtex_str(s):
     s = s.replace("\t", " ").replace("\n", " ").replace("\r", "")
     s = s.replace("$ell_1$", "$\\ell_1$")
     return s
-
-
 def clean_bibtex_tags(s, normalize=False):
     """Clean BibTeX keywords and convert to TOML tags"""
 
@@ -351,8 +335,6 @@ def clean_bibtex_tags(s, normalize=False):
         tags = [tag.lower().capitalize() for tag in tags]
 
     return tags
-
-
 def month2number(month):
     """Convert BibTeX or BibLateX month to numeric"""
     from academic.cli import log
@@ -365,8 +347,6 @@ def month2number(month):
             return str(list(calendar.month_abbr).index(month_abbr)).zfill(2)
         except ValueError:
             log.error("Please update the entry with a valid month.")
-
-
 for type, pub_dir in zip(['talks', 'publications'],
                          ['../content/talk', '../content/publication']):
     bibtex = f'../../perrinet_curriculum-vitae.tex/LaurentPerrinet_{type}.bib'

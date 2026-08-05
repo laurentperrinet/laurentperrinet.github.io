@@ -70,8 +70,6 @@ projects: [""]
 * CES : CE23 - Intelligence Artificielle (ANR-20-CE23-0021)
 * Durée: 4 ans, du 1er Octobre 2021 au 30 Septembre 2025
 * Budget total: 435 k€
-
-
 {{< speaker_note >}}
 
 Le projet ANR AgileNeuRobot est donc un projet interdisciplinaire financé par l'Agence Nationale de la Recherche (ANR) dans le cadre de l'appel à projets « Intelligence Artificielle » (ANR-20-CE23-0021). Il vise à développer des robots aériens agiles bio-mimétiques pour le vol en conditions réelles sur une période de 4 ans, du 1er octobre 2021 au 30 septembre 2025. Il est financé à hauteur de 435 k€ et représente un exemple convaincant de l'impact potentiel des neurosciences computationnelles sur les systèmes embarqués dans le domaine des robots aériens autonomes.
@@ -131,8 +129,6 @@ Mais d'abord, je voudrais souligner deux contraintes majeures de ce type de syst
 Tout d’abord, les systèmes sensoriels biologiques sont composés de séquences de traitement qui possèdent des délais de traitement. Je décris ici la chaîne de traitement d’une image visuelle, ici pour un enfant jouant à un jeu video et devant cliquer sur le bon bouton, et qui illustre les différentes latences du traitement de l’information de la vision à l’action.
 
 Si les délais dans un système embarqué sont plus rapides, il reste que les informations dans les différentes étapes de traitement peuvent être décalées et nécessitent un traitement adapté afin de répondre de la façon la plus immédiate possible. Je pense notamment à la détection d'objets en mouvement très rapide dans le cadre d'un robot en mouvement.
-
-
 {{< /speaker_note >}}
 
 ---
@@ -167,8 +163,6 @@ Je vais proposer deux leviers, inspirés de la biologie, pour faire avancer le d
 
 - le mode de représentation de l'information est différent : le signal consiste à émettre un événement si et seulement si un changement a été observé par ce pixel, ce qui est représenté ici par ces flux d’événements. 
 {{< /speaker_note >}}
-
-
 ---
 ## Levier #1: Réseaux de neurones impulsionnels (SNNs)
 
@@ -191,8 +185,6 @@ Par rapport aux caméras classiques, qui consomment plusieurs watts, les caméra
 https://en.wikipedia.org/wiki/Event_camera#Functional_description
 
 {{< /speaker_note >}}
-
-
 ---
 
 ## Levier #1: Réseaux de neurones impulsionnels (SNNs)
@@ -235,8 +227,6 @@ Time-to-Contact maps [[Nunes *et al*, 2023]](https://laurentperrinet.github.io/p
 <section>
 
 ## Levier #2: Vision active / *Active Vision*
-
-
 {{< figure src="https://laurentperrinet.github.io/publication/jeremie-24-ccn/featured.png" title="[[Jérémie *et al*, 2024](https://laurentperrinet.github.io/publication/jeremie-25)]" width="100%" >}}
 
 {{< speaker_note >}}
@@ -255,8 +245,6 @@ En effet, notre vision possède cette propriété d’être focalisée, de telle
 Cette capacité d’agir sur l’entrée sensorielle, et notamment d’avoir une capacité attentionnelle de cette sorte, est largement absente des approches classiques de l’apprentissage machine et nous avons pu l’implanter grâce au projet ANR. 
 
 Pour cela, nous avons utilisé une transformée de type log-polaire qui concentre l’information autour de l’axe de vision, comme on peut le voir à l’intérieur de la zone matérialisée par la zone grise. Notez également l’importance du point sur lequel se pose le regard, notamment s'il est éloigné ou proche de l’objet d’intérêt.
-
-
 {{< /speaker_note >}}
 
 ---
@@ -317,8 +305,6 @@ Cette division du travail est inspirée des voies pariétales et dorsales du sys
 	</th>
 </tr>
 </table>
-
-
 {{< speaker_note >}}
 
 - résumé : l'IA embarquée implique des enjeux importants.

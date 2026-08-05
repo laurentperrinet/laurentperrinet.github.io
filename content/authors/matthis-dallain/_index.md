@@ -33,10 +33,6 @@ categories:
 - Visual Neuroscience
 ---
 
-
-
-
-
 # PhD Student (2024-10 / 2027-09): Focus of attention: a sensory-motor task for energy reduction in spiking neural networks.
 
  * a fellowship from the doctoreal school "Ecole Doctorale Sciences de la Vie et de la Santé, Aix Marseille Université"
@@ -47,8 +43,6 @@ categories:
 ## Publications
 
 * {{< cite page="/publication/dallain-26" view="4" >}}
-
-
 ## Context
 
 This project takes place in the context of the [EMERGENCES project (ANR
@@ -147,8 +141,6 @@ model will draw on the dynamics at play in a sensory-motor approach to
 perception and will thus reconsider the classical perception tasks in
 order to better fit with the continuous flow of information coming from
 the environment.
-
-
 ## References
 
 * <a name="ref1"> \[1\] L. Itti et C. Koch, « Computational modelling of visual attention ». *Nat Rev Neurosci*, vol. 2, 3, 3, mars 2001, doi:

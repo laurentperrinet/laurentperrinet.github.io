@@ -25,12 +25,6 @@ categories:
 projects:
 - ''
 ---
-
-
-
-
-
-
 * See the accompanying code: https://github.com/laurentperrinet/MNESIS
 * see a related presentation: {{< cite page="/talk/2026-04-16-cerco" view="4" >}}
 * This paper is a follow-up of the ICANN conference paper: {{< cite page="/publication/perrinet-26-icann" view="4" >}}

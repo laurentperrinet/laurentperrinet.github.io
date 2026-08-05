@@ -33,7 +33,6 @@ grants:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/voges-12
-
 publication: '*Frontiers in Computational Neuroscience*'
 publication_types:
 - article-journal
@@ -49,11 +48,5 @@ categories:
 projects:
 - ''
 ---
-
-
-
-
-
-
 ![header](voges-12.png)
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}

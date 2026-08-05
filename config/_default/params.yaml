@@ -59,8 +59,6 @@ header:
     show_translations: false
     # If `show_translations` is enabled, do you wish to hide the current language name?
     hide_language_name: true
-
-
 # Site footer
 footer:
   copyright:

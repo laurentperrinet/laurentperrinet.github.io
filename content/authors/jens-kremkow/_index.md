@@ -39,19 +39,11 @@ categories:
 - Visual Neuroscience
 ---
 
-
-
-
-
 # Correlating Excitation and Inhibition in Visual Cortical Circuits: Functional Consequences and Biological Feasibility  (PhD, 2006-01 / 2009-05)
 
 The goal of the FACETS (Fast Analog Computing with Emergent Transient States) project was to create a theoretical and experimental foundation for the realisation of novel computing paradigms which exploit the concepts experimentally observed in biological nervous systems. The continuous interaction and scientific exchange between biological experiments, computer modelling and hardware emulations within the project provides a unique research infrastructure that will in turn provide an improved insight into the computing principles of the brain. This insight may potentially contribute to an improved understanding of mental disorders in the human brain and help to develop remedies.
-
-
 * Venue: Thèse de Doctorat de l’Université d’Aix-Marseille II, Ecole Doctorale des Sciences de la Vie et de la Santé Marseille, France en Cotutelle avec la Fakultät für Biologie Albert-Ludwigs-Universität Freiburg im Breisgau, Allemagne
 * Thesis director: Guillaume MASSON and Dr. Laurent PERRINET
-
-
 ## Main publications:
 
 * {{< cite page="/publication/kremkow-16" view="4" >}}

@@ -24,8 +24,6 @@ content:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
-
-
   # Contact (edit or remove options as required)
   email: laurent.perrinet@univ-amu.fr
   phone: +33 619 478 120

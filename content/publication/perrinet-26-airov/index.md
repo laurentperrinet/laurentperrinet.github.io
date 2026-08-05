@@ -16,10 +16,6 @@ tags: ["neuromorphic-computing", "spiking-neural-networks"]
 categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
 projects: [""]
 ---
-
-
-
-
 * See the accompanying code: https://github.com/laurentperrinet/MNESIS
 
 * The code and results at the time of the presentation is accessible [in this commit](https://github.com/laurentperrinet/MNESIS/commit/2e5448655fb5cd8714ed9b7f1dfa05bc3f13f682)

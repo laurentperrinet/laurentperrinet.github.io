@@ -25,17 +25,11 @@ categories:
 - Outreach & Public Engagement
 ---
 
-
-
-
-
 #  "Neuromodulatory mechanisms of predictive processing in the mouse visual cortex" (PhD position, 2023-10 / 2026-09)
 
 * Thesis director: [Dr. Ede Rancz](https://laurentperrinet.github.io/author/ede-rancz/), Mediterranean Institute of Neurobiology, Marseille
 * Thesis co-director: Dr. Laurent Perrinet, Institut de Neurosciences de la Timone (INT)
 * This PhD position is made possible thanks to a 3-year contract from AIX-MARSEILLE University awarded by the [Turing Centre for Living Systems PhD call (CENTURI)](https://centuri-livingsystems.org/phd2023-14/).
-
-
 The predictive processing framework is considered a universal principle in the operation of the brain[^1]. However, how it is implemented on the level of circuits and single neurons is an open question[^2]. For any such computation, external sensory information must be compared with internally generated predictions. We have previously uncovered the connectivity and synaptic integration foundations for such algorithms in the mouse visual cortex[^3]. In this project, we will study how neuromodulators, such as serotonin (implicated in depression and psychosis) and acetylcholine (implicated in attention and dementia), govern the integration of internal and external information.
 
 ## Keywords

@@ -33,11 +33,5 @@ projects:
 - aprovis3D
 - anr-anr
 ---
-
-
-
-
-
-
 * see a follow-up in: {{< cite page="/publication/jeremie-23-ultra-fast-cat" view="4" >}}
 * see an extension to visual search in: {{< cite page="/publication/jeremie-22-areadne" view="4" >}}

@@ -40,15 +40,7 @@ categories:
 - Outreach & Public Engagement
 projects:
 - ''
-
-
 grants:
 - brain-scales
 - codde
 ---
-
-
-
-
-
-

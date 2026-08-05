@@ -18,10 +18,6 @@ projects:
 - tout-public
 ---
 
-
-
-
-
 {{% callout note %}}
 Bienvenue dans l’une des écoles les plus novatrices du monde : *l’école des Fake news* ! Située à Marseille, en France, cette école haut de gamme a vu le jour grâce aux généreux financements des plus puissantes entreprises numériques chinoises et américaines. 
 
@@ -29,8 +25,6 @@ Ici, les meilleurs éléments ont été sélectionnés, notamment en fonction de
 
 Or, ici plus que nulle part ailleurs, on sait qu’une pédagogie adaptée au monde moderne réside dans la capacité à savoir manipuler pour ne pas être manipulé !
 {{% /callout %}}
-
-
 * où ? École Air Bel
 * qui : une proposition de l’association Polly Maggoo (Marseille), [www.pollymaggoo.org](https://www.pollymaggoo.org), avec Serge Dentin et Jean-François Comminges (à la réalisation), en partenariat avec l’école Air Bel (Marseille)
 * quoi : atelier de réalisation Cinésciences #NOFAKENEWS !

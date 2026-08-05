@@ -34,7 +34,3 @@ tags: ["bayesian-modelling", "primary-visual-cortex"]
 categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
 projects: [""]
 ---
-
-
-
-

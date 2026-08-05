@@ -30,13 +30,7 @@ categories:
 - Outreach & Public Engagement
 ---
 
-
-
-
-
 #  "Design of bio-inspired spiking neural networks (spiking neurons) for event-based stereovision" (PhD position, 2020-09 / 2023-09)
-
-
 ## Main publications
 
 {{< cite page="/publication/gruel-23-thesis" view="4" >}}

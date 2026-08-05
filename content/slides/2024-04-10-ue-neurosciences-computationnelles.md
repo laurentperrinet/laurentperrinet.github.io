@@ -28,8 +28,6 @@ projects: [""]
 
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
-
-
 {{< speaker_note >}}
 - outline = 
  - fact: paradoxically vision is a complex process for the simplest function
@@ -60,13 +58,9 @@ First: What is the function of vision?
 {{< /speaker_note >}}
 
 ---
-
-
 ## What is the function of vision?
 
 {{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_001.jpg" title="[An Unexpected Visitor (Ilya Repin, 1884)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
-
-
 {{< speaker_note >}}
 - seeing= interacting with the visual world
 {{< /speaker_note >}}
@@ -88,20 +82,14 @@ First: What is the function of vision?
 ## What is the function of vision?
 
 {{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_003.jpg" title="[An Unexpected Visitor - *Age?* (Yarbus, 1965)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
-
-
 {{< speaker_note >}}
 - social animals: looking at emotions
 {{< /speaker_note >}}
-
-
 ---
 
 ## What is the function of vision?
 
 {{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_006.jpg" title="[An Unexpected Visitor - *How long?* (Yarbus, 1965)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
-
-
 {{< speaker_note >}}
 - active: depends on task
 {{< /speaker_note >}}
@@ -120,8 +108,6 @@ First: What is the function of vision?
 ---
 
 ## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
-
-
 {{< video src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Kitaoka.mp4" controls="yes" width="80%" >}}
 [Ilusions of brightness or lightness *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 
@@ -372,8 +358,6 @@ $$
 {{< speaker_note >}}
 - sota
 {{< /speaker_note >}}
-
-
 ---
 
 ## CNN: challenges
@@ -385,8 +369,6 @@ $$
 - 1/ backpropagation is not bioplausible 
 {{< /speaker_note >}}
 
-
-
 ---
 
 ## CNN: Predictive processing
@@ -396,8 +378,6 @@ $$
 {{< speaker_note >}}
 - modifications= adding sparse coding + feedback
 {{< /speaker_note >}}
-
-
 ---
 
 ## CNN: Predictive processing
@@ -485,8 +465,6 @@ $$
 {{< /speaker_note >}}
 
 ---
-
-
 ## Dynamics of vision
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/tsonga.jpg" title="Sensorimotor delays ([Perrinet & Friston 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))" width="75%" >}}
@@ -496,8 +474,6 @@ $$
 {{< /speaker_note >}}
 
 ---
-
-
 ## Dynamics of vision
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/figure-tsonga.jpg" title="Sensorimotor delays ([Perrinet & Friston, 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))" width="75%" >}}
@@ -507,8 +483,6 @@ $$
 {{< /speaker_note >}}
 
 ---
-
-
 ## Dynamics of vision
 
 {{< video src="https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag.mp4" autoplay="yes" >}}
@@ -582,8 +556,6 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 ## SNN in neurobiology
 
 {{< figure src="https://i.sstatic.net/ixnrz.png" title="[[Mainen & Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]" width="99%" >}}
-
-
 {{< speaker_note >}}
 **2 MINUTE**
 
@@ -592,13 +564,9 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 {{< /speaker_note >}}
 
 ---
-
-
 ## SNN in neurobiology
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/replicating_MainenSejnowski1995.png" title="[[Mainen & Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]" width="99%" >}}
-
-
 {{< speaker_note >}}
 **2 MINUTE**
 
@@ -607,8 +575,6 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 {{< /speaker_note >}}
 
 ---
-
-
 ## SNN in neurobiology
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/Diesmann_et_al_1999.png" title="[[Diesmann et al. 1999](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_3_Diesmann_et_al_1999.py)]" width="99%" >}}
@@ -621,8 +587,6 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 {{< /speaker_note >}}
 
 ---
-
-
 ## SNN in neurobiology
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/haimerl2019.jpg" title="[[Haimerl et al, 2019](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)]" width="99%" >}}
@@ -674,8 +638,6 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 - A nice HSD neuron
 
 {{< /speaker_note >}}
-
-
 ---
 
 ## SNN in neuromorphic engineering
@@ -688,8 +650,6 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 - event-based cameras
 
 {{< /speaker_note >}}
-
-
 ---
 
 ## SNN in neuromorphic engineering
@@ -701,8 +661,6 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 - For instance, we show how precise spike times may be used to detect the direction of motion from such a stream of events in an ultrafast fashion.
 {{< /speaker_note >}}
-
-
 ---
 
 ## SNN in neuromorphic engineering
@@ -716,8 +674,6 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 For instance, we show how precise spike times may be used to detect the direction of motion from such a stream of events in an ultrafast fashion.
 {{< /speaker_note >}}
-
-
 ---
 
 ## SNN in neuromorphic engineering
@@ -730,8 +686,6 @@ For instance, we show how precise spike times may be used to detect the directio
 - nice kernels
 
 {{< /speaker_note >}}
-
-
 ---
 
 ## SNN in neuromorphic engineering
@@ -754,15 +708,11 @@ For instance, we show how precise spike times may be used to detect the directio
 {{< speaker_note >}}
 - ...
 {{< /speaker_note >}}
-
-
 </section>
 
 ---
 
 <section>
-
-
 # Artificial neural networks applied to the understanding of biological vision
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
@@ -781,8 +731,6 @@ For instance, we show how precise spike times may be used to detect the directio
 
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
-
-
 {{< speaker_note >}}
 - objective= understand biological vision
 - interaction between artificial and natural NNs

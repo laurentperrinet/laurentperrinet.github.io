@@ -31,8 +31,6 @@ projects: [""]
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 <!-- <img src="https://laurentperrinet.github.io/qrcode.png" alt="QR code" height="80" width="80"> -->
-
-
 {{< speaker_note >}}
 - outline = 
   - to summarize= sparse representations help understand neuroscience biological vision
@@ -75,8 +73,6 @@ Sparse coding is a technique used in signal processing and machine learning to r
 ---
 
 ## Neurosciences and sparsity: a survey
-
-
 <!-- <iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/HLEQUP/questions/697a765837a5e7d1b8a8eefe" width="100%"></iframe>
  -->
 
@@ -142,8 +138,6 @@ By synthesizing these factors and dividing the available energy budget by the nu
 
 {{< speaker_note >}}
 Phase diagrams of sparsely connected networks of excitatory and inhibitory spiking neurons
-
-
 healthy network = 1Hz = sparse activity (stronger in auditory, in insects, ...)
 
 {{< /speaker_note >}}
@@ -169,8 +163,6 @@ diesmann
 mainen et sejnowski
 diesmann
 {{< /speaker_note >}}
-
-
 ---
 
 ## Neurosciences and sparsity
@@ -182,8 +174,6 @@ mainen et sejnowski
 diesmann
 vinje et gallant
 {{< /speaker_note >}}
-
-
 </section>
 
 ---
@@ -191,8 +181,6 @@ vinje et gallant
 <section>
 
 ## Sparse representations in a nutshell
-
-
 {{< figure src="https://i.giphy.com/26xBtPbmDlugFxUiY.webp" width="90%" >}}
 
 {{< speaker_note >}}
@@ -201,11 +189,7 @@ in summary: Sparse representations resulting from these processes have been succ
 - ...let's delve into a computational theory of sparse coding
 
 review_bib = s.content_bib("LP", "2015", '"Sparse models" in <a href="https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/">Biologically Inspired Computer Vision</a>')
-
-
 {{< /speaker_note >}}
-
-
 ---
 
 ## Sparse representations in a nutshell
@@ -213,8 +197,6 @@ review_bib = s.content_bib("LP", "2015", '"Sparse models" in <a href="https://la
 {{< figure src="https://laurentperrinet.github.io/publication/perrinet-04-tauc/featured.png" title="[[LP *et al*, 2004](https://laurentperrinet.github.io/publication/perrinet-04-tauc/)]" height="90%" >}}
 
 {{< speaker_note >}}
-
-
 
 {{< /speaker_note >}}
 
@@ -226,11 +208,7 @@ review_bib = s.content_bib("LP", "2015", '"Sparse models" in <a href="https://la
 
 {{< speaker_note >}}
 
-
-
 {{< /speaker_note >}}
-
-
 ---
 
 ## Sparse representations in a nutshell
@@ -240,8 +218,6 @@ Generative model of image synthesis:
 $I[x, y] =  $ 
 {{< fragment >}} $\sum_{i=1}^{K} a[i] \cdot \phi[i, x, y]$ {{< /fragment >}}
 {{< fragment >}} $ + \varepsilon[x, y]$ {{< /fragment >}}
-
-
 {{< fragment >}}
 Where $\phi$ is a dictionary of $K$ atoms, $a$ is a sparse vector of coefficients, and $\varepsilon$ is a noise term.
 {{< /fragment >}}
@@ -263,8 +239,6 @@ generative model
 {{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/Olshausen_1.png" title="[[Olshausen and Field (1997)](http://mplab.ucsd.edu/~marni/Igert/Olshaussen_1997.pdf)]" width="90%" >}}
 
 {{< speaker_note >}}
-
-
 
 {{< /speaker_note >}}
 
@@ -306,8 +280,6 @@ $$
   &amp; = \frac{1}{2\sigma_n^2} \sum_{x, y} ( I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi[i, x, y])^2 - \sum_{i=1}^{K} \log Pr( a[i] )
   \end{aligned} 
   $$
-
-
 {{< speaker_note >}}
 
 Probabilistic model
@@ -342,8 +314,6 @@ The problem is formalized as an optimization problem $a^\ast = \arg \min_a \math
 $$
 \mathcal{L}(a) = \frac{1}{2} \sum_{x, y} ( I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi[i, x, y])^2 + \lambda \cdot \sum_{i=1}^{K} | a[i] |
 $$
-
-
 {{< speaker_note >}}
 
 exponential prior => L1 norm
@@ -357,26 +327,16 @@ exponential prior => L1 norm
 {{< figure src="https://laurentperrinet.github.io/publication/rentzeperis-23/featured.png" title="[[Rentzeperis *et al* (2023)](https://laurentperrinet.github.io/publication/rentzeperis-23/)]" height="60%" >}}
 
 {{< speaker_note >}}
-
-
 {{< /speaker_note >}}
-
-
 </section>
-
-
 ---
 
 <section>
-
-
 ## Sparse representations and learning
 
 {{< video src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/ssc.mp4" title="[[LP (2010)](https://laurentperrinet.github.io/publication/perrinet-10-shl/)]" controls="yes" width="55%" >}}
 
 {{< speaker_note >}}
-
-
 
 {{< /speaker_note >}}
 
@@ -401,8 +361,6 @@ exponential prior => L1 norm
 - novel challenges for CNNs
 - 1/ backpropagation is not bioplausible 
 {{< /speaker_note >}}
-
-
 ---
 
 ### CNN: Predictive processing
@@ -452,8 +410,6 @@ exponential prior => L1 norm
 {{< speaker_note >}}
 - result= interpretable features
 {{< /speaker_note >}}
-
-
 ---
 
 ## SNN in neuromorphic engineering
@@ -465,8 +421,6 @@ exponential prior => L1 norm
 
 - For instance, we show how precise spike times may be used to detect the direction of motion from such a stream of events in an ultrafast fashion.
 {{< /speaker_note >}}
-
-
 ---
 
 ## SNN in neuromorphic engineering
@@ -480,8 +434,6 @@ exponential prior => L1 norm
 
 For instance, we show how precise spike times may be used to detect the direction of motion from such a stream of events in an ultrafast fashion.
 {{< /speaker_note >}}
-
-
 ---
 
 ## SNN in neuromorphic engineering
@@ -494,8 +446,6 @@ For instance, we show how precise spike times may be used to detect the directio
 - nice kernels
 
 {{< /speaker_note >}}
-
-
 ---
 
 ## SNN in neuromorphic engineering
@@ -508,8 +458,6 @@ For instance, we show how precise spike times may be used to detect the directio
 - frugal computing
 
 {{< /speaker_note >}}
-
-
 ---
 
 <section>

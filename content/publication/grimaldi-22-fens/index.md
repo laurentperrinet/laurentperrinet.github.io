@@ -30,11 +30,5 @@ categories:
 projects:
 - aprovis3D
 ---
-
-
-
-
-
-
 ![](@laurentperrinet_1546471536571342849_tweetcapture.png)
 * for a follow-up, check out {{< cite page="/publication/grimaldi-22-icip" view="4" >}}

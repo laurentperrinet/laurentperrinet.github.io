@@ -21,8 +21,6 @@ projects: [""]
 categories: ["Behavioural Neuroscience", "Computer Vision", "Education"]
 ---
 
-
-
 # Predicting and selecting sensory events: inference for smooth eye movements (PhD: 2015 - 2019)
 
 * Funding: This position is funded by the Marie Skodowska-Curie program of the H2020 European Union program, as part of the [Innovative Training Network PACE (Perception and Action in Complex Environments)](https://laurentperrinet.github.io/grant/pace-itn/).

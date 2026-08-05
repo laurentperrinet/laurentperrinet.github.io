@@ -83,12 +83,6 @@ projects:
 - phd-icn
 - mesocentre
 ---
-
-
-
-
-
-
 {{< figure src="poster.jpg" width="100%" >}}
 * see the follow-up paper in: {{< cite page="/publication/franciosini-21" view="4" >}}
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}

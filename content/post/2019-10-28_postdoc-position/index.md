@@ -24,8 +24,6 @@ categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computation
 projects: ["art-science"]
 ---
 
-
-
 {{% callout warning %}}
 THE POSITION HAS BEEN FILLED.
 {{% /callout %}}
@@ -66,8 +64,6 @@ The candidate has to fluently speak English to understand publications and to at
 ## Research context
 
 This project is funded by the French National Research Agency (ANR) under the [ANR Horizontal V1](https://laurentperrinet.github.io/grant/anr-horizontal-v1/) grant (coordinator Y. Frégnac) which aims at understanding the emergence of sensory predictions linking local shape attributes (orientation, contour) to global indices of movement (direction, speed, trajectory) at the earliest stage of cortical processing (primary visual cortex, i.e. V1). The cross-talk between physiological and theoretical approaches will be fostered by the close collaboration with the teams of Frédéric Chavane at INT and Yves Frégnac at UNIC. The theoretical work will be performed in close collaboration with [Lyle Muller](https://www.mullerlab.ca/) (Western U) and Jan Antolik (Prague). The project will be primarily hosted at the [Institut de Neurosciences de la Timone](http://www.int.univ-amu.fr/?lang=en) in [Marseille](https://en.wikipedia.org/wiki/Marseille), a lively town by the Mediterranean sea in the south of France, but the applicant will be asked also to show mobility to visit the other partner lab when needed.
-
-
 # References
 
 * <a name="Antolik2019"> Antolik, J, C Monier, Y Frégnac, AP Davison. (2019). </a> "[A comprehensive data-driven model of cat primary visual cortex.](https://www.biorxiv.org/content/10.1101/416156v1)" *BioRxiv*, 416156.

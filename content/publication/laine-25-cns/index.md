@@ -27,12 +27,6 @@ categories:
 projects:
 - ''
 ---
-
-
-
-
-
-
 🧠 Excited to share our latest research led by Alexandre Lainé and presented this summer at CNS2025 in beautiful Firenze, Italy!
 
 "Population decoding of visual motion direction in V1 marmoset monkey: effects of uncertainty"
@@ -55,8 +49,6 @@ Link to publication: https://laurentperrinet.github.io/publication/laine-25-cns/
 {{< cite page="/publication/ladret-23" view="4" >}}
 
  * see a follow-up in: {{< cite page="/publication/laine-26-areadne" view="4" >}}
-
-
 * https://neuromatch.social/@laurentperrinet/115050564011598328
 * https://www.linkedin.com/posts/laurent-perrinet-1857b9_population-decoding-of-visual-motion-direction-activity-7363238280143745026-zPkg
 * https://bsky.app/profile/laurentperrinet.bsky.social/post/3lwowjtpbw22a

@@ -54,12 +54,6 @@ categories:
 projects:
 - ''
 ---
-
-
-
-
-
-
 ![](@laurentperrinet_1490717893750935552_tweetcapture.png)
 
 * Check-out this presentation of the paper:  {{< cite page="/talk/2025-02-11-neuromath" view="2" >}}

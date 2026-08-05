@@ -26,10 +26,6 @@ categories:
 - Outreach & Public Engagement
 ---
 
-
-
-
-
 ## Characterization of Physiological States using Machine Learning
 ### PhD position (2024-10 / 2027-09)
 
@@ -43,8 +39,6 @@ categories:
 ### Relevant publications
 
 {{< cite page="/publication/choplin-25-ccn" view="4" >}}
-
-
 ### Project Description
 
 The continuous increase in automation and embedded artificial intelligence in techno-industrial systems makes them both increasingly capable and complex, particularly in the aeronautical field: autopilots, multi-drone supervision systems, etc. The human operator's role gradually shifts from "low-level" regulation to system supervision. The performance of human-machine systems depends on numerous factors, including:

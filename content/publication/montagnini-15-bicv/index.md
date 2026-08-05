@@ -29,10 +29,4 @@ categories:
 projects:
 - ''
 ---
-
-
-
-
-
-
 * Appeared in this book: {{< cite page="/publication/cristobal-perrinet-keil-15-bicv" view="4" >}}

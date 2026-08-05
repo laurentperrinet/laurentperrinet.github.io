@@ -44,12 +44,6 @@ projects:
 - anr-anr
 - polychronies
 ---
-
-
-
-
-
-
 {{< video src="2023-09-14_HDSNN_video-abstract.mp4" controls="yes" >}}
 
  * read the paper [online](https://doi.org/10.1007/s00422-023-00975-8) (paywall) or read the reprint as [PDF](https://laurentperrinet.github.io/publication/grimaldi-23-bc/grimaldi-23-bc.pdf)

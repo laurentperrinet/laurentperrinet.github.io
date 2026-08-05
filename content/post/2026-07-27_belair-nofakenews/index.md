@@ -20,10 +20,6 @@ projects:
 - tout-public
 ---
 
-
-
-
-
 {{% callout note %}}
 Bienvenue dans l’une des écoles les plus novatrices du monde : *l’école des Fake News* ! Située à Marseille, en France, cette école haut de gamme a vu le jour grâce aux généreux financements des plus puissantes entreprises numériques chinoises et américaines.
 

@@ -67,12 +67,6 @@ categories:
 projects:
 - ''
 ---
-
-
-
-
-
-
 ![Artboard](2024_ladret.gif)
 * 5 minutes summary: https://hugoladret.github.io/publications/ladret_et_al_sparsecoding/
 ![](@laurentperrinet_1826586440773275942_tweetcapture.png)

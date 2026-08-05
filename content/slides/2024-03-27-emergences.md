@@ -53,8 +53,6 @@ If you wish to go further, these slides along with a number of references and us
 
 {{< speaker_note >}}
 Nous allons passer en revue différentes techniques d'enregistrement de données neurobiologiques et leur évolution au cours du temps. Ensuite, j'évoquerai quelques méthodes d'analyse en donnant des exemples concrets et le lien avec les systèmes neuro morphiques.
-
-
 {{< /speaker_note >}}
 
 ---
@@ -67,8 +65,6 @@ Même si ce ne sont pas les premiers à avoir enregistré l'activité électriqu
 
 La technique principale utilisée par Hubel et Wiesel dans leurs expériences était la microélectrode d'enregistrement extracellulaire. Ils ont inséré de fines électrodes dans le cortex visuel primaire (aussi appelé cortex strié) de chats et de singes anesthésiés. Ces électrodes leur ont permis d'enregistrer l'activité électrique des neurones individuels lors de la présentation de stimuli visuels.
 {{< /speaker_note >}}
-
-
 ---
 ### Aire visuelle primaire
 
@@ -77,8 +73,6 @@ La technique principale utilisée par Hubel et Wiesel dans leurs expériences é
 {{< speaker_note >}}
 L'aire visuelle primaire est une région du cerveau spécialisée dans le traitement des informations visuelles. Située à l'arrière du lobe occipital, elle joue un rôle clé dans la perception visuelle en analysant des caractéristiques telles que l'orientation, la couleur et la taille des stimuli. Son organisation topographique et l'activité électrique de ses neurones permettent la construction d'une représentation visuelle cohérente.
 {{< /speaker_note >}}
-
-
 ---
 
 ### Enregistrement extracellulaire
@@ -117,8 +111,6 @@ une aire, à plusieures aires mesoscopique (parler taille cerveau)
 ### Différentes échelles
 
 {{< figure src="https://laurentperrinet.github.io/talk/2024-03-27-emergences/scales.png" title="[[Chemla *et al*, 2017](https://dx.doi.org/10.1117/1.NPh.4.3.031215)]" width="70%" >}}
-
-
 {{< speaker_note >}}
 imagerie: fMRI, EEG, MEG, MEEG, iEEG, ...
 
@@ -130,8 +122,6 @@ big initiatives: BRAIN, HBP, Human Connectome Project, Allen Institute, Blue Bra
 ### Vers des données massives
 
 {{< figure src="https://laurentperrinet.github.io/talk/2024-03-27-emergences/featured.png" title="[[Stevenson and Kording, 2011](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC3410539&blobtype=pdf)]" width="90%" >}}
-
-
 {{< speaker_note >}}
 
 Ian H Stevenson & Konrad P Kording 
@@ -142,22 +132,16 @@ Ian H Stevenson & Konrad P Kording
 ### Vers des données massives
 
 {{< figure src="https://www.ucl.ac.uk/neuropixels/sites/neuropixels/files/styles/medium_image/public/neuropixels_1_and_2.png" title="[[Steinmetz *et al*, 2017](https://www.ucl.ac.uk/neuropixels/)]" width="80%" >}}
-
-
 {{< speaker_note >}}
 
 neuropixel
 
 Compared to Neuropixels 1.0, the 2.0 probe has a smaller, lighter weight package, and is available in single- or four-shank versions allowing even higher density chronic recording in small animal models.. 
-
-
 The probe features 1280 low-impedance TiN recording sites densely tiled along one thin, 10 mm-long, straight shank, or 5120 electrodes divided over 4 shanks. The 384 parallel, configurable, low-noise recording channels integrated in the base enable simultaneous full band recording of hundreds of neurons.
 
 Données Priebe: utilisation de GPUs... mais jusqu'à quand?
 
 {{< /speaker_note >}}
-
-
 </section>
 
 ---
@@ -178,8 +162,6 @@ Données Priebe: utilisation de GPUs... mais jusqu'à quand?
 {{< speaker_note >}}
 
 https://hugoladret.github.io/publications/ladret_et_al_variance_v1/
-
-
 depuis les PAs: fréquence de tir (Adrian) donner l'exemple de Ladret
 souvent pas suffisantes, c'est de la biologie
 rhythmes, connectivité fonctionnelle
@@ -226,8 +208,6 @@ Une autre méthode consiste à utiliser un procédé de décodage qui va appliqu
 ### ... et au-delà: le décodage
 
 {{< figure src="https://hugoladret.github.io/publications/imgs/ladret_et_al_variance_V1_7.png" title="[[Ladret *et al*, 2023](https://laurentperrinet.github.io/publication/ladret-23/)]" width="90%" >}}
-
-
 {{< speaker_note >}}
 The next question was: what exactly do these different neurons do? To figure this out, we used a method called neural decoding, which tries to guess what the neurons are “seeing” based on their responses.
 
@@ -242,14 +222,10 @@ The next question was: what exactly do these different neurons do? To figure thi
 
 explicabilité des coefficients
 ICA, SVM auto-encoder Gallant
-
-
 {{< /speaker_note >}}
 
 ---
 ### Brain-Computer Interface (BCI)
-
-
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/InterfaceNeuronaleDirecte-fr.svg/2560px-InterfaceNeuronaleDirecte-fr.svg.png" title="[[Interface neuronale directe (BCI)](https://fr.wikipedia.org/wiki/Interface_neuronale_directe)]" width="75%" >}}
 
 {{< speaker_note >}}
@@ -306,8 +282,6 @@ diesmann
 ### Exploitation d'un timing précis
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/Diesmann_et_al_1999.png" title="[[Diesmann et al. 1999](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_3_Diesmann_et_al_1999.py)]" width="99%" >}}
-
-
 {{< speaker_note >}}
 mainen et sejnowski
 diesmann
@@ -347,8 +321,6 @@ thorpe
 - as a consequence, it is thought that this efficiency is achieved by spikes that is, brief all-or-none events which are passed in the very large network which forms the brain from assemblies of neurons to others.
 
 {{< /speaker_note >}}
-
-
 </section>
 
 ---
@@ -374,19 +346,13 @@ always-on
 ### Always-on classification using HOTS
 
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-24/gesture_offline.png" title="[[Grimaldi, Boutin, Sio-Ieng, Benosman & LP, 2023](https://laurentperrinet.github.io/publication/grimaldi-24/)]" width="75%" >}}
-
-
 {{< speaker_note >}}
 always-on
 {{< /speaker_note >}}
 
 ---
 ### Always-on classification using HOTS
-
-
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-24/gesture_online.png" title="[[Grimaldi, Boutin, Sio-Ieng, Benosman & LP, 2023](https://laurentperrinet.github.io/publication/grimaldi-24/)]" width="75%" >}}
-
-
 {{< speaker_note >}}
 always-on
 {{< /speaker_note >}}
@@ -402,8 +368,6 @@ thorpe
 
 ---
 ### Spiking motifs in vision
-
-
 {{< video src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/FastMotionDetection_input.mp4" autoplay="yes" title="[Grimaldi & LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" >}}
 
 {{< speaker_note >}}
@@ -447,8 +411,6 @@ thorpe
 
 ---
 ### Spiking motifs in vision
-
-
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/quant_accuracy.svg" title="[Grimaldi & LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" width="80%" >}}
 
 {{< speaker_note >}}
@@ -462,8 +424,6 @@ thorpe
 {{% fragment %}} <img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/THC_toy-b.svg" width="42%">     {{% /fragment %}}
 {{% fragment %}} <img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/THC_toy-c.svg" width="42%">     {{% /fragment %}}
 {{% fragment %}} <img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/THC_toy-a.svg" width="42%"> {{% /fragment %}}
-
-
 {{< speaker_note >}}
 spiking motifs
 {{< /speaker_note >}}
@@ -481,8 +441,6 @@ spiking motifs
 This was a toy example and let's now quantify the performance of this method in real scale settings by measuring the accuracy of finding the right SM at the right time. For this we will compare our method to a classical approach using the correlation. 
 First, by increasing the number of motifs, we show that the accuracy of our method (in blue) is very high and outperforms the cross-correlation method (red), in particular as the number of SMs increases. The same trend is shown also when the number of presynaptic inputs increases from a low to a high dimension. Finally, the number of possible delays is a crucial parameter and enough heterogenous delays are necessary to reach a good performance.
 {{< /speaker_note >}}
-
-
 </section>
 
 ---
@@ -517,16 +475,12 @@ unsupervised / contrastive learning
 
 {{< speaker_note >}}
 puces neuromorphiques, spike sorting on electrode
-
-
 {{< /speaker_note >}}
 
 ---
 ### real-time using  neuromorphic hardware
 
 {{< figure src="https://cdn.cnx-software.com/wp-content/uploads/2022/09/Intel-Loihi-2.jpg" title="Loihi 2" width="100%" >}}
-
-
 {{< speaker_note >}}
 énergie (heat) +
 rapidité +
@@ -550,8 +504,6 @@ anticpation (PP)
 <aside class="notes">
 
 En conclusion, ...
-
-
 ... in coopearation with robotics
 </aside>
 

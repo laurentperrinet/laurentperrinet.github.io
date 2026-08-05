@@ -25,15 +25,9 @@ projects:
 - ''
 ---
 
-
-
-
-
 {{% callout note %}}
 The position has been filled.
 {{% /callout %}}
-
-
 We are recruiting a PhD student to work on **neuromodulatory control of predictive processing in mouse vision**, co-supervised by [Ede Rancz](https://bsky.app/profile/did:plc:kgbpgmybkvnarzamc2g55xpg) (INMED) and myself.
 
 ### Project Overview

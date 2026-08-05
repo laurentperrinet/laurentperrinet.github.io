@@ -15,8 +15,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/anna-montagnini-a292606
-
-
 tags:
 - ''
 projects:
@@ -31,8 +29,4 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 ---
-
-
-
-
 

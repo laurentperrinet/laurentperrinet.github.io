@@ -32,10 +32,4 @@ categories:
 projects:
 - ''
 ---
-
-
-
-
-
-
 ![header](perrinet-02-stdp.png)

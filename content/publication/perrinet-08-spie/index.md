@@ -35,12 +35,6 @@ title: 'Adaptive Sparse Spike Coding : applications of Neuroscience to the compr
 tags: ["neuromorphic-computing", "primary-visual-cortex", "sparse-coding", "spiking-neural-networks"]
 categories: ["Computational Neuroscience", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
 projects: [""]
-
-
 projects:
 - facets
 ---
-
-
-
-

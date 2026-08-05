@@ -12,14 +12,10 @@ image:
   placement: 2
   preview_only: false
 lastmod: 2020-06-30 09:00:00
-
-
 tags: ["neuromorphic-computing", "predictive-coding", "primary-visual-cortex", "sparse-coding", "spiking-neural-networks", "visual-illusions"]
 categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
 projects: [""]
 ---
-
-
 
 {{% callout warning %}}
 THE POSITION HAS BEEN FILLED.
@@ -36,8 +32,6 @@ The starting date is set to October 1st, 2020 and the appointment is for 36 mont
 Thanks for distributing this announcement to potential candidates!
 
 ![](@laurentperrinet_1277872035700539392_tweetcapture.png)
-
-
 ## Detailed description: "Ultra-fast vision using Spiking Neural Networks"
 
 Biological vision is surprisingly efficient. To take advantage of this efficiency, Deep learning and convolutional neural networks (CNNs) have recently produced great advances in artificial computer vision. However, these algorithms now face multiple challenges: learned architectures are often not interpretable, disproportionally energy greedy, and often lack the integration of contextual information that seems optimized in biological vision and human perception. Crucially, given an equal constraint on energy consumption, these algorithms are relatively slow compared to biological vision. It is believed that one major factor of this rapidity is the fact that visual information is represented by short pulses (spikes) at analog – not discrete – times ([Paugam and Bohte, 2012](#Paugam12)). However, most classical computer vision algorithms rely on such frame-based approaches. One solution to overcome their limitations is to use event-based representations, but these still lack in practice, and their high potential is largely underexploited. Inspired by biology, the project addresses the scientific question of developing a low-power sensing architecture for the processing of visual scenes, able to function on analog devices without a central clock and aimed at being validated in real-life situations. More specifically, the project will develop new paradigms for biologically inspired computer vision ([Cristobal, Keil and Perrinet, 2015](#Cristobal15)), from sensing to processing, in order to help machines such as Unmanned Autonomous Vehicles (UAV), autonomous vehicles, or robots gain high-level understanding from visual scenes.
@@ -56,8 +50,6 @@ The candidate has to fluently speak English to understand publications and to at
 The thesis will be carried out in the team "NEuronal OPerations in visual TOpographic maps" (NeOpTo) within the [Institut de Neurosciences de la Timone](http://www.int.univ-amu.fr/?lang=en) in [Marseille](https://en.wikipedia.org/wiki/Marseille), a welcoming and lively town by the Mediterranean sea in the south of France. The research team is led by F. Chavane (DR2, CNRS) and currently hosts 4 permanent staff, 3 post-docs and 4 PhD students. The research themes of the team are focused on neuronal operations within visual cortical maps. Indeed, along the cortical hierarchy, low-level features such as the position and orientation of the visual stimulus (but also auditory tone, somatosensory touch, etc...) but also higher-level features (such as faces, viewpoints of objects, etc...) are represented topographically on the cortical surface.
 
 This work will be conducted in direct collaboration with [Jean Martinet](http://i3s.unice.fr/jmartinet/en) who will co-supervise the thesis. We will develop these algorithms in collaboration with [Ryad Benosman](https://scholar.google.fr/citations?user=_ZTFUooAAAAJ&hl=fr) (Université Pierre et Marie Curie) and [Stéphane Viollet](https://scholar.google.com/citations?user=iIGoymcAAAAJ) (équipe biorobotique, Institut des Sciences du Mouvement).
-
-
 ## FR: Description du sujet de thèse
 La vision biologique est étonnamment efficace. Pour tirer parti de cette efficacité, l'apprentissage profond et les réseaux neuronaux convolutionnels (CNN) ont récemment permis de réaliser de grandes avancées en matière de vision artificielle par ordinateur. Cependant, ces algorithmes sont aujourd'hui confrontés à de multiples défis : les architectures apprises sont souvent peu interprétables, sont démesurément gourmandes en énergie, n'intègrent généralement pas les informations contextuelles qui semblent parfaitement adaptées à la vision biologique et à la perception humaine. Aussi ces algorithmes sont relativement lents -à consommation énergétique égale- par rapport à la vision biologique. On pense qu'un facteur majeur de cette rapidité est le fait que l'information est représentée par de courtes impulsions à des moments analogiques - et non discrets. Toutefois, les algorithmes de vision par ordinateur utilisant une telle représentation dans des réseaux de neurones impulsionnels font encore défaut dans la pratique, et son important potentiel est largement sous-exploité. Ce projet, qui est inspiré de la biologie, aborde la question scientifique du développement d'une architecture ultra-rapide de détection et de traitement de scènes visuelles, fonctionnant sur des appareils sans horloge centrale, et visant à valider ce genre d'algorithmes événementiels dans des situations réelles. Plus spécifiquement, le projet développera de nouveaux paradigmes pour une vision d'inspiration biologique, de la détection au traitement, afin d'aider des machines telles que les robots aériens autonomes (UAV), les véhicules autonomes ou les robots à acquérir une compréhension de haut niveau des scènes visuelles.
 
@@ -65,8 +57,6 @@ La vision biologique est étonnamment efficace. Pour tirer parti de cette effica
 La thèse sera effectuée dans l'équipe "NEuronal OPerations in visual TOpographic maps" (NeOpTo) au sein de l'Institut de Neurosciences de la Timone (INT). L'équipe de recherche est dirigée par F. Chavane (DR2, CNRS) et accueille actuellement 4 personnels permanents, 3 post-doctorants et 4 doctorants. Les thématiques de recherche de l'équipe sont centrées sur les opérations neuronales au sein de cartes corticales visuelles. En effet, le long de la hiérarchie corticale, les caractéristiques de bas niveau telles que la position, l’orientation du stimulus visuel (mais aussi la tonalité auditive, le toucher somatosensoriel, etc...) mais aussi les caractéristiques de niveau supérieur (telles que les visages, les points de vue d’objets, etc...) sont représentées topographiquement sur la surface corticale.
 
 Cette thèse sera menée en collaboration directe avec [Jean Martinet](http://i3s.unice.fr/jmartinet/en) qui co-supervisera cette thèse. Nous développerons ces algorithmes en collaboration avec [Ryad Benosman](https://scholar.google.fr/citations?user=_ZTFUooAAAAJ&hl=fr) (Université Pierre et Marie Curie) et [Stéphane Viollet](https://scholar.google.com/citations?user=iIGoymcAAAAJ) (équipe biorobotique, Institut des Sciences du Mouvement).
-
-
 # References
 
 * <a name="BoutinFranciosiniChavaneRuffierPerrinet20">Boutin, Victor, Angelo Franciosini, Frédéric Chavane, Franck Ruffier, and Laurent U Perrinet. (2019). </a> "[Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system.](https://arxiv.org/abs/1902.07651)" *arXiv*

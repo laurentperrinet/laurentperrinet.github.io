@@ -48,10 +48,4 @@ categories:
 projects:
 - ''
 ---
-
-
-
-
-
-
 ![header](adams-12.png)

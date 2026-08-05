@@ -31,10 +31,6 @@ projects:
 - ''
 ---
 
-
-
-
-
 - Date: 27-28 May 2010
 
 - Location: Amphithéâtre Charve at the Saint-Charles' University campus
@@ -60,21 +56,13 @@ with sufficient time to discuss and share ideas and data. All
 conferences were in English.
 
 Program
-
-
 -
-
-
 27 May 2010 **Neural representations for sensory information & the
 structure-function relation**
-
-
 
 9h00-9h30
 
 Reception and coffee
-
-
 
 9h30-10h00
 
@@ -82,8 +70,6 @@ Reception and coffee
 Institut de Neurosciences Cognitives de la Méditerranée, CNRS and
 Université de la Méditerranée - Marseille
 **«Presentation of the Workshop and Topic»**
-
-
 
 10h00-11h00
 
@@ -108,8 +94,6 @@ that operate in areas V1 and V2 of the visual brain. We believe both
 processing and biological application of geometrical methods work hand
 in hand to design and analyze new cortical imaging methods.
 
-
-
 11h00-12h00
 
 *Jean Petitot*
@@ -125,17 +109,9 @@ and sub-Riemannian geometry, are all neurophysiologically realized by
 long-range horizontal connections. Virtual structures, such as illusory
 contours of the Kanizsa type, can then be explained by this model.
 
-
-
-
-
 12h00
 
 Lunch
-
-
-
-
 
 14h00-14h45
 
@@ -159,8 +135,6 @@ very simple behavioral task, we show that optimism can be described in
 terms of a prior on expected future rewards. We examine the correlation
 between the shape of this prior for individual subjects and their scores
 on questionnaires, as well as with other measures of personality traits.
-
-
 
 14h45-15h45
 
@@ -188,13 +162,9 @@ psychophysics. Finally, the model is demonstrated to cope with realistic
 data from computer vision benchmark databases.
 Work supported by European Union (project SEARISE), BMBF, and CELEST
 
-
-
 15h45-15h00
 
 Coffee break
-
-
 
 16h00-17h00
 
@@ -216,10 +186,6 @@ qualitative changes in systems far from equilibrium.
 Fluctuations: Complexity in the View of stochastic Processes (in:
 Springer Encyclopedia on Complexity and System Science, (2009))
 
-
-
-
-
 17h00-17h45
 
 General Discussion
@@ -229,8 +195,6 @@ class="anchor"></span>
 
 28 May 2010 **Computational models of learning and decision making**
 
-
-
 9h30-10h00
 
 * Andrea Brovelli*
@@ -238,8 +202,6 @@ Institut de Neurosciences Cognitives de la Méditerranée, CNRS and
 Université de la Méditerranée - Marseille
 **«An introduction to Motor Learning, Decision-Making and Motor
 Control»**
-
-
 
 10h00-11h00
 
@@ -264,8 +226,6 @@ from the perception to the command space. We also present a method for
 using multivariate correlated noise for learning high-DOF control
 problems, and propose some interpretations on the putative role of
 correlated noise for learning in biological systems.
-
-
 
 11h00-12h00
 
@@ -294,17 +254,9 @@ habitization (the use of implicit memories) has set in. We interpret
 data on the transfer of control from the hippocampus to the striatum in
 the light of this hypothesis.
 
-
-
-
-
 12h00-14h00
 
 Lunch
-
-
-
-
 
 14h00-15h00
 
@@ -327,13 +279,9 @@ ongoing experiments. During the talk I will also discuss the
 relationships between the above model and current theories of
 reinforcement learning in the cortico-basal-ganglia circuit.
 
-
-
 15h00-15h30
 
 Coffee break
-
-
 
 15h30-16h30
 
@@ -343,10 +291,6 @@ Institut des Systèmes Intelligents et de Robotique, UPMC - CNRS / UMR
 **«Optimal feedback control as a principle for adaptive control of
 posture and movement»**
 
-
-
-
-
 16h30-17h15
 
 General Discussion
@@ -354,18 +298,10 @@ General Discussion
 <span id="line-54"
 class="anchor"></span>
 
-
-
 <span id="line-57"
 class="anchor"></span>
 
 Sponsored by
-
-
-
-
-
-
 <span id="line-59"
 class="anchor"></span>
 

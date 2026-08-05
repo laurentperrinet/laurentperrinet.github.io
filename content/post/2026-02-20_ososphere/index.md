@@ -28,13 +28,7 @@ projects:
 - art-science
 ---
 
-
-
-
-
 **Du 20 février au 8 mars 2026 : exposition Ososphère à la Laiterie (Strasbourg).**
-
-
 À la croisée des arts plastiques et de l'architecture, Étienne Rey explore les dimensions comme une matière première propice à la construction de formes évolutives. À travers ses œuvres, où l'expérience est primordiale, il joue avec les composantes de la lumière, de l'espace et, pour certaines, du son. La démarche de ce sociétaire de l'Ososphère tend à révéler les mécanismes d'organisation, d'interrelation et d'interaction qui définissent notre monde.
 
 {{% callout note %}}
@@ -42,8 +36,6 @@ Issue d'une collaboration avec le Dr [Laurent Perrinet](/author/laurent-u-perrin
 Pour l'exposition de l'Ososphère, se déploie ainsi une distribution aléatoire de points ; ceux-ci sont connectés selon des règles de rapports de tension. Une manière de faire converser le lieu avec les œuvres qui y trouvent place.
 Sélection de réalisations : [Tropiques (2013) et Space Odyssey (2015-2024)](/post/2013-10-10_tropique/), [Trame Elasticité (2016)](/post/2018-04-10_trames/), [Turbulences (2018)](/post/2018-01-20_turbulences/), [Instabilités et Delaunay (2019)](/post/2021-10-04_interstices/), Azur (2028).
 {{% /callout %}}
-
-
 
 {{< figure src="643545855_18444436261109562_1480440487903792518_n.jpg" title="Étienne Rey, *Variable Density, série Delaunay*. Crédit image : Étienne Rey." >}}
 {{< figure src="642495844_18444436183109562_654533462198023062_n.jpg" title="Étienne Rey, *Variable Density, série Delaunay*. Crédit image : Étienne Rey." >}}

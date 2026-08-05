@@ -28,14 +28,10 @@ projects: [""]
 
 <img src="https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg" alt="logos" height="130"/>
 <img src="https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-computationnelles/qrcode.png" alt="qrcode" height="130"/>
-
-
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 <!-- ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg) 
 ![QR code](https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-computationnelles/qrcode.png) -->
-
-
 {{< speaker_note >}}
 
 - welcome to the course on COMPUTATIONAL NEUROSCIENCE 2023 entitled "Machine learning to analyze complex data"
@@ -43,8 +39,6 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 - outcome= interaction between artificial and natural NNs
 - outline= principles / CNNs / challenges / solutions
 {{< /speaker_note >}}
-
-
 </section>
 
 ---
@@ -61,19 +55,13 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 {{< /speaker_note >}}
 
 ---
-
-
 ## What is the function of vision?
 
 {{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_001.jpg" title="[An Unexpected Visitor (Ilya Repin, 1884)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
-
-
 {{< speaker_note >}}
 - seeing= interacting with the visual world
 - social animals: looking at emotions
 {{< /speaker_note >}}
-
-
 ---
 
 ## What is the function of vision?
@@ -86,28 +74,20 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 - "1) examine the painting freely"
 - consistency of eye traces / interindividual differences
 {{< /speaker_note >}}
-
-
 ---
 
 ## What is the function of vision?
 
 {{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_004.jpg" title="[An Unexpected Visitor - *Age?* (Yarbus, 1965)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
-
-
 {{< speaker_note >}}
 - active: depends on task:
 - "3) assess the ages of the characters"
 {{< /speaker_note >}}
-
-
 ---
 
 ## What is the function of vision?
 
 {{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_007.jpg" title="[An Unexpected Visitor - *How long?* (Yarbus, 1965)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
-
-
 {{< speaker_note >}}
 - "6) surmise how long the “unexpected visitor” had been away"
 - adaptive and efficient system...
@@ -161,8 +141,6 @@ in that specific case...
 ---
 
 ## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/): Context
-
-
 {{< video src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Kitaoka.mp4" controls="yes" width="80%" >}}
 [Ilusions of brightness or lightness *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 
@@ -186,18 +164,10 @@ in that specific case...
 {{< speaker_note >}}
 - of showing an effect of context -> 3D
 {{< /speaker_note >}}
-
-
 ---
-
-
 ## Principles of vision?
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
-
-
-
-
 </section>
 
 ---
@@ -207,15 +177,11 @@ in that specific case...
 # Computational neuroscience of vision
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
-
-
 ---
 
 ## Computational neuroscience of vision
 
 {{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Churchland92.png" title="[[Sejnowski, Koch & Churchland, 1998](http://www.hms.harvard.edu/bss/neuro/bornlab/nb204/papers/sejnowski-koch-churchland-science1988.pdf)]" width="50%" >}}
-
-
 ---
 
 ## Anatomy of the Human Visual system
@@ -263,8 +229,6 @@ in that specific case...
 {{< video src="https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-computationnelles/hubel_wiesel.webm" controls="yes" height=250 >}}
 
 [Hubel & Wiesel, 1962] - from [@Neuroslicer](https://www.youtube.com/@Neuroslicer)
-
-
 {{< speaker_note >}}
 - https://www.youtube.com/watch?v=KE952yueVLA -
 https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-computationnelles/hubel_wiesel.webm
@@ -282,8 +246,6 @@ https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-comp
 - backpropagation is not bioplausible 
 - modification
 {{< /speaker_note >}}
-
-
 ---
 
 ## Convolutional Neural Networks : Mathematics
@@ -328,8 +290,6 @@ $$
 $$
 (f \ast \tilde{g})[x, y] = \sum_{c=1}^{C} \sum_{i,j} f[c, x+i, y+j] \cdot g[c, i, j]
 $$
-
-
 ---
 
 ## Convolutional Neural Networks : Mathematics
@@ -349,8 +309,6 @@ $$
 {{< speaker_note >}}
 - adding sparse coding + feedback
 {{< /speaker_note >}}
-
-
 ---
 
 ## Convolutional Neural Networks : Predictive coding
@@ -384,25 +342,17 @@ $$
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
 ---
-
-
 # Dynamics of vision
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
 <!--
 ---
-
-
 ## Dynamics of vision
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/scheme_thorpe.jpg" title="[[Thorpe, 2001]](https://laurentperrinet.github.io/2022-01-12_NeuroCercle/#/2/1)" width="70%" >}} -->
-
-
 <!--
 ---
-
-
 ## Dynamics of vision
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency-estimate.jpg" title="Precise Spiking Motifs] ([see review](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))." width="80%" >}} -->
@@ -440,29 +390,17 @@ $$
 {{< /speaker_note >}}
 
 ---
-
-
 ## Dynamics of vision
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/tsonga.jpg" title="Sensorimotor delays ([Perrinet & Friston 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))" width="75%" >}}
-
-
 ---
-
-
 ## Dynamics of vision
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/figure-tsonga.jpg" title="Sensorimotor delays ([Perrinet & Friston, 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))" width="75%" >}}
 
 ---
-
-
 ## Dynamics of vision
-
-
 {{< video src="https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag.mp4" autoplay="yes" >}}
-
-
 ---
 
 ## Dynamics of vision
@@ -477,15 +415,11 @@ $$
 {{< video src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/positional-delay.mp4" autoplay="yes" >}}
 
 Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))
-
-
 ---
 
 ## Dynamics of vision
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
-
-
 </section>
 
 ---
@@ -514,8 +448,6 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 ## Spiking Neural Networks in neurobiology
 
 {{< figure src="https://i.sstatic.net/ixnrz.png" title="[[Mainen & Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]" width="99%" >}}
-
-
 {{< speaker_note >}}
 **2 MINUTE**
 
@@ -524,13 +456,9 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 {{< /speaker_note >}}
 
 ---
-
-
 ## Spiking Neural Networks in neurobiology
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/replicating_MainenSejnowski1995.png" title="[[Mainen & Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]" width="99%" >}}
-
-
 {{< speaker_note >}}
 **2 MINUTE**
 
@@ -539,8 +467,6 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 {{< /speaker_note >}}
 
 ---
-
-
 ## Spiking Neural Networks in neurobiology
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/Diesmann_et_al_1999.png" title="[[Diesmann et al. 1999](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_3_Diesmann_et_al_1999.py)]" width="99%" >}}
@@ -553,8 +479,6 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 {{< /speaker_note >}}
 
 ---
-
-
 ## Spiking Neural Networks in neurobiology
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/haimerl2019.jpg" title="[[Haimerl et al, 2019](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)]" width="99%" >}}
@@ -606,8 +530,6 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 - A nice HSD neuron
 
 {{< /speaker_note >}}
-
-
 ---
 
 ## Spiking Neural Networks in neuromorphic engineering
@@ -620,8 +542,6 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 - event-based cameras
 
 {{< /speaker_note >}}
-
-
 ---
 
 ## Spiking Neural Networks in neuromorphic engineering
@@ -633,8 +553,6 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 - For instance, we show how precise spike times may be used to detect the direction of motion from such a stream of events in an ultrafast fashion.
 {{< /speaker_note >}}
-
-
 ---
 
 ## Spiking Neural Networks in neuromorphic engineering
@@ -648,8 +566,6 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 For instance, we show how precise spike times may be used to detect the direction of motion from such a stream of events in an ultrafast fashion.
 {{< /speaker_note >}}
-
-
 ---
 
 ## Spiking Neural Networks in neuromorphic engineering
@@ -662,8 +578,6 @@ For instance, we show how precise spike times may be used to detect the directio
 - nice kernels
 
 {{< /speaker_note >}}
-
-
 ---
 
 ## Spiking Neural Networks in neuromorphic engineering
@@ -676,15 +590,11 @@ For instance, we show how precise spike times may be used to detect the directio
 - frugal computing
 
 {{< /speaker_note >}}
-
-
 </section>
 
 ---
 
 <section>
-
-
 ## Artificial neural networks and machine learning applied to the understanding of biological vision
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
@@ -703,17 +613,11 @@ For instance, we show how precise spike times may be used to detect the directio
 
 <img src="https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg" alt="logos" height="130"/>
 <img src="https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-computationnelles/qrcode.png" alt="qrcode" height="130"/>
-
-
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 <!-- ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg) 
 ![QR code](https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-computationnelles/qrcode.png) -->
-
-
 {{< speaker_note >}}
 - thanks for your attention
 {{< /speaker_note >}}
-
-
 </section>

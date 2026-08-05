@@ -16,7 +16,5 @@ git pull ; git commit  -m "$msg" -a ; git push
 echo "\033[0;32mrecompiling website...\033[0m"
 
 cd ../laurentperrinet.github.io_hugo/scripts
-
-
 python ../scripts/update_metadata.py
 

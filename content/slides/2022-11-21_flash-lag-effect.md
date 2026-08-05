@@ -39,8 +39,6 @@ __[2022-11-21] Alex Reynaud's lab meeting__
 
 <!--
 ---
-
-
 <table width="100%">
 <tr>
 	<th width="80%">
@@ -164,25 +162,13 @@ https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.137
 {{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_DiagonalMarkov_pull.jpg" width="95%" title="Diagonal markov (pull)" >}} -->
 <!--
 ---
-
-
 {{< video src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/PBP_flash_spatial_readout.mp4?raw=true" autoplay="yes" >}}
-
-
 ---
-
-
 {{< video src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/PBP_dot_spatial_readout.mp4?raw=true" autoplay="yes" >}}
-
-
 ---
-
-
 {{< video src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_flash_spatial_readout.mp4?raw=true" autoplay="yes" >}}
 
 ---
-
-
 {{< video src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_dot_spatial_readout.mp4?raw=true" autoplay="yes" >}} -->
 
 <!-- ---
@@ -212,16 +198,10 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 {{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE.jpg" title="Flash-lag effect ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." width="95%" >}}
 
 <!--
-
-
 ---
 
 {{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE.jpg" width="95%" title="Qauntitative result" >}}
-
-
 https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE.jpg
-
-
 https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_dot_spatial_readout.mp4?raw=true
 MBP_dot_spatial_readout.mp4
 MBP_flash_spatial_readout.mp4
@@ -232,17 +212,11 @@ PBP_flash_spatial_readout.mp4
 https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_dot_spatial_readout.mp4?raw=true
 
 PBP_spatial_readout.mp4
-
-
 src="../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4" khoei-masson-perrinet-17
-
-
  create mode 100644 publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4
  create mode 100644 publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4
 
  -->
-
-
 ---
 
 {{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_histogram.jpg" width="95%" title="Probability distributions ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." >}}
@@ -250,8 +224,6 @@ src="../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4" khoei-m
 ---
 
 {{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_histogram_comp.jpg" width="95%" title="Probability distributions ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." >}}
-
-
 ---
 
 {{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_MotionReversal_MBP.jpg" width="95%" title="Motion reversal ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." >}}
@@ -259,8 +231,6 @@ src="../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4" khoei-m
 ---
 
 {{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_MotionReversal.jpg" width="95%" title="Motion reversal (smoothed) ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/))." >}}
-
-
 ---
 
 {{< video src="https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag_stop.mp4" autoplay="yes" >}}
@@ -276,13 +246,9 @@ src="../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4" khoei-m
 ---
 
 {{< figure src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_DiagonalMarkov_neural.jpg" width="95%" title="Diagonal neural" >}} -->
-
-
 ---
 
 {{< figure src="https://eyewiki.aao.org/w/images/1/e/eb/Pulfrich.png" width="95%" title="Application to the [Pulfrich phenomenon](https://eyewiki.aao.org/Pulfrich_Phenomenon)?" >}}
-
-
 ---
 # Questions?
 

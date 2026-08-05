@@ -19,8 +19,6 @@ categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learn
 projects: [""]
 ---
 
-
-
 {{% callout warning %}}
 THE POSITION HAS BEEN FILLED.
 {{% /callout %}}
@@ -30,8 +28,6 @@ Dear colleagues,
 Applications are welcome for a fully funded 18-month postdoctoral position for the development of an algorithm for the **accurate detection of precise spiking motifs in neurobiological data**. The position will be located at the [INT](http://www.int.univ-amu.fr/?lang=en) in [Marseille](https://en.wikipedia.org/wiki/Marseille), France. The project is funded by the [polychronies](https://laurentperrinet.github.io/grant/polychronies) grant (AMX-21-RID-025) and coordinated by [Laurent Perrinet](https://laurentperrinet.github.io/) together with [Thomas Schatz](https://thomas.schatz.cogserver.net/) (theory) and [Rosa Cossart](https://www.inmed.fr/developpement-des-microcircuits-gabaergiques-corticaux-fr) (neurobiology).
 
 Candidates should have experience in computational neuroscience, physics, engineering, or related fields, and a strong background in machine learning. The candidate must have good computer science skills (programming skills, git versioning, ...) and Python programming experience is required. A multidisciplinary background would be highly appreciated, especially an advanced knowledge of mathematics. The candidate must have a strong interest in neuroscience. The candidate must be fluent in English and willing to proactively interact with partners in different communities, including theoretical neuroscience, machine learning, or neurobiology. The preferred candidate should have the ability to work independently and be flexible to adapt to the working methods of the supervisors.
-
-
 ## Related references
 
 * More details on the "polychronies" grant: {{< cite page="/grant/polychronies" view="4" >}}

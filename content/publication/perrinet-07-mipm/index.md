@@ -24,12 +24,6 @@ title: Neural Codes for Adaptive Sparse Representations of Natural Images
 tags: ["bayesian-modelling", "neuromorphic-computing", "primary-visual-cortex", "sparse-coding"]
 categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
 projects: [""]
-
-
 projects:
 - facets-itn
 ---
-
-
-
-

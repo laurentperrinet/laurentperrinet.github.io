@@ -18,8 +18,6 @@ categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Theoreti
 projects: [""]
 ---
 
-
-
 ![participants](IMG_20180406_164630.jpg)
 
 # Probabilities and Optimal Inference to understand the Brain
@@ -42,11 +40,7 @@ Main site
 Full program
 
 :   <https://opt-infer-brain.sciencesconf.org/program/details>.
-
-
 Organizing committee
 :   Paul Apicella, Frederic Danion, Nicole Malfait, Anna Montagnini and
     Laurent Perrinet
-
-
 ![Sponsored by](http://www.int.univ-amu.fr/IMG/200x130xsiteon0.png,q1331299836.pagespeed.ic.IKYGzK4Zu8.png)

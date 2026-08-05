@@ -49,10 +49,4 @@ categories:
 projects:
 - facets-itn
 ---
-
-
-
-
-
-
 ![header](perrinet-07-neurocomp.png)

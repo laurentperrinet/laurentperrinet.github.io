@@ -25,7 +25,3 @@ categories:
 - Education
 ---
 
-
-
-
-

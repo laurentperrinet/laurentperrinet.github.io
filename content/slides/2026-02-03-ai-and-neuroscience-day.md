@@ -67,8 +67,6 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 - For instance, we show how precise spike times may be used to detect the direction of motion from such a stream of events in an ultrafast fashion.
 {{< /speaker_note >}}
-
-
 ---
 
 ## Spiking Neural Networks
@@ -82,8 +80,6 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 For instance, we show how precise spike times may be used to detect the direction of motion from such a stream of events in an ultrafast fashion.
 {{< /speaker_note >}}
-
-
 ---
 
 ## Spiking Neural Networks
@@ -96,13 +92,9 @@ For instance, we show how precise spike times may be used to detect the directio
 - frugal computing
 
 {{< /speaker_note >}}
-
-
 ---
 
 ## Attention in Vision Transformers and in Natural Vision
-
-
 {{< figure src="https://laurentperrinet.github.io/publication/dallain-26/saccade_selection.jpg" title="Saccade selection method. [Matthis Dallain](https://laurentperrinet.github.io/author/matthis-dallain/) with the [EDGE Team @ LEAT Laboratory](https://leat.univ-cotedazur.fr/)" numbered="false" >}}
 
 {{< speaker_note >}}
@@ -180,8 +172,6 @@ More generally,
 More generally, 
 
 {{< /speaker_note >}}
-
-
 ---
 
 # [Neuroscience & AI: Energy-efficient visual processing algorithms](https://laurentperrinet.github.io/slides/2026-02-03-ai-and-neuroscience-day/?transition=fade)

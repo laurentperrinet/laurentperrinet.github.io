@@ -43,10 +43,4 @@ categories:
 - NeuroAI & Machine Learning
 - Outreach & Public Engagement
 ---
-
-
-
-
-
-
 * see a write-up in {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}

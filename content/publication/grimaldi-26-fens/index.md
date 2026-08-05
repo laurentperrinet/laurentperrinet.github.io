@@ -41,7 +41,3 @@ tags:
 - optimal-transport
 ---
 
-
-
-
-

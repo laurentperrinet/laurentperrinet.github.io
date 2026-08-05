@@ -21,8 +21,4 @@ projects:
 - tout-public
 ---
 
-
-
-
-
 Publication d'un nouvel article généraliste intitulé "Le mystère de la Joconde éclairé par les neurosciences" à découvrir sur le numéro de Septembre 2024 de [Cerveau & Psycho](https://laurentperrinet.github.io/publication/ladret-24-joconde/).

@@ -17,8 +17,6 @@ categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computation
 projects: [""]
 ---
 
-
-
 Dear colleagues,
 
 Applications are welcome for a fully funded PhD position **Focus of attention: a sensory-motor task for energy reduction in spiking neural networks**. The position will be located at the [EDGE Team @ LEAT Laboratory](https://leat.univ-cotedazur.fr/) within [Université Côte d'Azur](https://www.univ-cotedazur.fr/) and/or at the [INT](http://www.int.univ-amu.fr/?lang=en) in [Marseille](https://en.wikipedia.org/wiki/Marseille), France. 
@@ -186,8 +184,6 @@ Duration: 3 years
 
 Location: Sophia-Antipolis and/or Marseille
 
-
-
 ## Contacts
 
 * Benoît Miramond is Full Professor in Electrical Engineering at LEAT
@@ -207,8 +203,6 @@ neural networks.
 * Laurent Rodriguez is associate professor at LEAT laboratory in the
 eBRAIN group. He is interested in dynamic neural networks and develop
 neural models from biological inspiration.
-
-
 * More details on the "Emergences" grant: {{< cite page="/grant/emergences" view="4" >}}
 
 # Application
@@ -221,8 +215,6 @@ will include:
 • Curriculum vitæ.
 
 • Motivation Letter.
-
-
 
 ## References
 
@@ -243,6 +235,4 @@ will include:
 * <a name="ref7"> \[7\]  Emmanuel Daucé, Pierre Albigès, Laurent U Perrinet (2020). « [A dual foveal-peripheral visual processing model implements efficient saccade selection](https://laurentperrinet.github.io/publication/dauce-20/) ». *Journal of Vision*. doi:<https://doi.org/10.1167/jov.20.8.22>
 
 * <a name="ref8"> \[8\] Jean-Nicolas Jérémie, Emmanuel Daucé, Laurent U Perrinet (2020). « Retinotopic Mapping Enhances the Robustness of Convolutional Neural Networks ». arXiv https://arxiv.org/abs/2402.15480
-
-
 

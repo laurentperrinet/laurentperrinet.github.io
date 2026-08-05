@@ -36,10 +36,4 @@ categories:
 projects:
 - ''
 ---
-
-
-
-
-
-
 ![header](masson-12.png)

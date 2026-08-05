@@ -13,12 +13,8 @@ List of publications that were funded by the
 <a href="http://facets.kip.uni-heidelberg.de/" class="http">FACETS</a>
 project (more
 <a href="http://en.wikipedia.org/wiki/Facets_%28Science%29" class="http">info</a>).
-
-
 -   also available on the FACET's
     <a href="http://facets.kip.uni-heidelberg.de/jss/Publications/author_Perrinet" class="http">website</a>
-
-
 See also:
 
 -   The [FACETS research project](http://facets.kip.uni-heidelberg.de) which

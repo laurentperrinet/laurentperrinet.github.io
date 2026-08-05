@@ -42,9 +42,3 @@ categories:
 projects:
 - ''
 ---
-
-
-
-
-
-

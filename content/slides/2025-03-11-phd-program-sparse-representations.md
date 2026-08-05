@@ -32,8 +32,6 @@ projects: [""]
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 <img src="https://laurentperrinet.github.io/qrcode.png" alt="QR code" height="80" width="80">
 
-
-
 {{< speaker_note >}}
 - outline = 
   - to summarize= sparse representations help understand neuroscience biological vision
@@ -48,8 +46,6 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 - Not only the speaker can read these notes, Press `S` key to view
 - more on [doc](https://raw.githubusercontent.com/wowchemy/starter-hugo-academic/master/exampleSite/content/slides/example/index.md)
-
-
 {{< /speaker_note >}}
 
 </section>
@@ -66,10 +62,6 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 {{< speaker_note >}}
 
 you may have heard of it but do you know what it is ?
-
-
-
-
 {{< /speaker_note >}}
 
 ---
@@ -87,8 +79,6 @@ to rephrase the expression ["The Unreasonable Effectiveness of Mathematics"](htt
 the whole is the sum of a few parts
 
 Sparse coding is a technique used in signal processing and machine learning to represent data in a more concise and efficient manner. It aims to find a sparse representation of the data, which means representing the data with only a small number of non-zero coefficients or activations. In sparse coding, a set of basis functions or atoms is typically defined, and the goal is to find a linear combination of these atoms that best represents the input data. The coefficients of this linear combination are often constrained to be sparse, meaning that only a few of them are allowed to be non-zero. 
-
-
 
 {{< /speaker_note >}}
 
@@ -109,8 +99,6 @@ link with autoencoder
 ---
 
 ## Sparse representations in computer vision
-
-
 <!-- <img src="https://laurentperrinet.github.io/publication/perrinet-03-ieee/v1_tiger.gif"  width="60%"/>
 
 {{< speaker_note >}}
@@ -118,8 +106,6 @@ link with autoencoder
 ça marche très bien!
 
 {{< /speaker_note >}}
-
-
 ---
 
 ## Convolutional Sparse Coding -->
@@ -128,8 +114,6 @@ link with autoencoder
 
 Code @ [A hitchhiker guide to Matching Pursuit](https://laurentperrinet.github.io/sciblog/posts/2015-05-22-a-hitchhiker-guide-to-matching-pursuit.html)
 {{< speaker_note >}}
-
-
 
 {{< /speaker_note >}}
 
@@ -158,11 +142,7 @@ an extreme case: astrophysics
 ---
 
 ## Sparse representations in neuromorphic engineering
-
-
 <img src="https://laurentperrinet.github.io/publication/grimaldi-24/DVSGesture_arm-roll.webp"  width="33%"/><img src="https://laurentperrinet.github.io/publication/grimaldi-24/DVSGesture_hand-clap.webp"  width="33%"/><img src="https://laurentperrinet.github.io/publication/grimaldi-24/DVSGesture_air-guitar.webp"  width="33%"/>
-
-
 <!-- {{< figure src="https://lenzgregor.com/posts/event-cameras/post-rethinking/events.gif" title="[[Gregor Lenz, 2020](https://lenzgregor.com/posts/event-cameras/)]" width="100%" >}} -->
 
 {{< speaker_note >}}
@@ -171,8 +151,6 @@ Ultimately, we get a list of events for each pixel that can be *merged* to repre
 It's interesting to draw a parallel between this process and the optic nerve that connects our retina to the brain. In fact, the output of the retina consists of a million ganglion cells that emit action potentials, which are the only source of information transmitted by the *optic nerve*.
 
 - https://www.researchgate.net/profile/Guido-Croon/publication/313221316/figure/fig2/AS:668997448134663@1536512829861/Picture-of-the-event-based-camera-employed-in-this-work-the-DVS_W640.jpg
-
-
 {{< /speaker_note >}}
 <!-- 
 ---
@@ -188,8 +166,6 @@ It's interesting to draw a parallel between this process and the optic nerve tha
 - can we force a sparse connectivity (beware that's diferent from sparse activity)
 
 {{< /speaker_note >}}
-
-
 ---
 
 ## Sparse representations in neuromorphic engineering
@@ -211,8 +187,6 @@ It's interesting to draw a parallel between this process and the optic nerve tha
 
 {{< speaker_note >}}
 Phase diagrams of sparsely connected networks of excitatory and inhibitory spiking neurons
-
-
 healthy network = 1Hz = sparse activity (stronger in auditory, in insects, ...)
 
 {{< /speaker_note >}}
@@ -272,8 +246,6 @@ vinje et gallant
 {{< speaker_note >}}
 in summary: Sparse representations resulting from these processes have been successfully applied in various domains such as image processing, computer vision, and audio signal processing. It has shown promise in tasks such as noise reduction, compression, feature extraction, and pattern recognition. By capturing the essential structure and characteristics of the data in a sparse representation, sparse coding can help reduce redundancy and noise, and extract meaningful features for further analysis or processing.
 {{< /speaker_note >}}
-
-
 </section>
 
 ---
@@ -281,20 +253,12 @@ in summary: Sparse representations resulting from these processes have been succ
 <section>
 
 ## Sparse representations in a nutshell
-
-
 {{< figure src="https://i.giphy.com/26xBtPbmDlugFxUiY.webp" width="90%" >}}
 
 {{< speaker_note >}}
 - ...let's delve into a computational theory of sparse coding
-
-
 review_bib = s.content_bib("LP", "2015", '"Sparse models" in <a href="https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/">Biologically Inspired Computer Vision</a>')
-
-
 {{< /speaker_note >}}
-
-
 ---
 
 ## Sparse representations in a nutshell
@@ -302,8 +266,6 @@ review_bib = s.content_bib("LP", "2015", '"Sparse models" in <a href="https://la
 {{< figure src="https://laurentperrinet.github.io/publication/perrinet-04-tauc/featured.png" title="[[LP *et al*, 2004](https://laurentperrinet.github.io/publication/perrinet-04-tauc/)]" height="90%" >}}
 
 {{< speaker_note >}}
-
-
 
 {{< /speaker_note >}}
 
@@ -315,11 +277,7 @@ review_bib = s.content_bib("LP", "2015", '"Sparse models" in <a href="https://la
 
 {{< speaker_note >}}
 
-
-
 {{< /speaker_note >}}
-
-
 ---
 
 ## Sparse representations in a nutshell
@@ -329,8 +287,6 @@ Generative model of image synthesis:
 $I[x, y] =  $ 
 {{< fragment >}} $\sum_{i=1}^{K} a[i] \cdot \phi[i, x, y]$ {{< /fragment >}}
 {{< fragment >}} $ + \varepsilon[x, y]$ {{< /fragment >}}
-
-
 {{< fragment >}}
 Where $\phi$ is a dictionary of $K$ atoms, $a$ is a sparse vector of coefficients, and $\varepsilon$ is a noise term.
 {{< /fragment >}}
@@ -352,8 +308,6 @@ generative model
 {{< figure src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/Olshausen_1.png" title="[[Olshausen and Field (1997)](http://mplab.ucsd.edu/~marni/Igert/Olshaussen_1997.pdf)]" width="90%" >}}
 
 {{< speaker_note >}}
-
-
 
 {{< /speaker_note >}}
 
@@ -395,8 +349,6 @@ $$
   &amp; = \frac{1}{2\sigma_n^2} \sum_{x, y} ( I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi[i, x, y])^2 - \sum_{i=1}^{K} \log Pr( a[i] )
   \end{aligned} 
   $$
-
-
 {{< speaker_note >}}
 
 Probabilistic model
@@ -431,8 +383,6 @@ The problem is formalized as an optimization problem $a^\ast = \arg \min_a \math
 $$
 \mathcal{L}(a) = \frac{1}{2} \sum_{x, y} ( I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi[i, x, y])^2 + \lambda \cdot \sum_{i=1}^{K} | a[i] |
 $$
-
-
 {{< speaker_note >}}
 
 exponential prior => L1 norm
@@ -446,11 +396,7 @@ exponential prior => L1 norm
 {{< figure src="https://laurentperrinet.github.io/publication/rentzeperis-23/featured.png" title="[[Rentzeperis *et al* (2023)](https://laurentperrinet.github.io/publication/rentzeperis-23/)]" height="90%" >}}
 
 {{< speaker_note >}}
-
-
 {{< /speaker_note >}}
-
-
 ---
 
 ## Sparse representations in a nutshell
@@ -474,8 +420,6 @@ FISTA (Fast Iterative Shrinkage-Thresholding Algorithm): FISTA is an accelerated
 ADMM (Alternating Direction Method of Multipliers): ADMM is an optimization technique that decomposes the original problem into smaller subproblems and solves them iteratively. It is often used for convex optimization problems with L1 regularization. ADMM has been applied to solve sparse coding problems efficiently.
 
 {{< /speaker_note >}}
-
-
 </section>
 
 ---
@@ -505,8 +449,6 @@ instead of finding the exact solution to the approximate problem, let's solve ap
 - while $\frac{1}{2} \sum_{x, y} R[x, y]^2 > \vartheta $, do :
   - compute $c[i] = \sum_{x, y} (R[x, y] -  a[i] \cdot \phi[i, x, y])^2$
   - Match: $i^\ast = \arg \min_i c[i]$
-
-
 {{< speaker_note >}}
 greedy, one by one
 {{< /speaker_note >}}
@@ -520,8 +462,6 @@ greedy, one by one
 - while $\frac{1}{2} \sum_{x, y} R[x, y]^2 > \vartheta $, do :
 
   - Match : $i^\ast = \arg \max_i \sum_{x, y} R[x, y] \cdot \phi[i, x, y]$
-
-
 {{< speaker_note >}}
 use of correlation instead of energy
 assign th first value of the sparse vector to the winning one
@@ -548,8 +488,6 @@ assign th first value of the sparse vector to the winning one
 ---
 
 ## Matching pursuit algorithm
-
-
 - Init : $R = I$, $\forall i$, $a[i] = 0$, and normalize $\sum_{x, y} \phi[i, x, y]^2 = 1$ 
 
 - while $\frac{1}{2} \sum_{x, y} R[x, y]^2 > \vartheta $, do :
@@ -565,8 +503,6 @@ assign th first value of the sparse vector to the winning one
 ---
 
 ## Matching pursuit algorithm
-
-
 - Init : $R = I$, $\forall i$, $a[i] = 0$, $\sum_{x, y} \phi[i, x, y]^2 = 1$ 
 
 - while $\frac{1}{2} \sum_{x, y} R[x, y]^2 > \vartheta $, do :
@@ -600,8 +536,6 @@ assign th first value of the sparse vector to the winning one
 use of correlation
 assign th first value of the sparse vector to the winning one
 {{< /speaker_note >}}
-
-
 ---
 
 ## Matching pursuit algorithm
@@ -613,8 +547,6 @@ assign th first value of the sparse vector to the winning one
 ça marche très bien!
 
 {{< /speaker_note >}}
-
-
 ---
 
 ## Convolutional Sparse Coding -->
@@ -623,8 +555,6 @@ assign th first value of the sparse vector to the winning one
 
 Code @ [A hitchhiker guide to Matching Pursuit](https://laurentperrinet.github.io/sciblog/posts/2015-05-22-a-hitchhiker-guide-to-matching-pursuit.html)
 {{< speaker_note >}}
-
-
 {{< /speaker_note >}}
 
 ---
@@ -636,8 +566,6 @@ Hebbian learning (once the sparse code is known):
 $$
 \phi_{i}[x, y] \leftarrow \phi_{i}[x, y] + \eta \cdot a[i] \cdot (I[x, y] - \sum_{i=1}^{K} a[i] \cdot \phi_{i}[x, y] )
 $$
-
-
 [[LP (2015)](https://laurentperrinet.github.io/publication/perrinet-15-bicv/)]
 
 {{< speaker_note >}}
@@ -647,8 +575,6 @@ Unsupervised Learning of the dictionary
 Hebbian learning
 
 {{< /speaker_note >}}
-
-
 ---
 
 ## Matching pursuit algorithm
@@ -657,11 +583,7 @@ Hebbian learning
 
 {{< speaker_note >}}
 
-
-
 {{< /speaker_note >}}
-
-
 ---
 
 ## Sparse representations in a nutshell
@@ -669,8 +591,6 @@ Hebbian learning
 {{< figure src="https://laurentperrinet.github.io/publication/perrinet-04-tauc/featured.png" title="[[LP *et al*, 2004](https://laurentperrinet.github.io/publication/perrinet-04-tauc/)]" width="55%" >}}
 
 {{< speaker_note >}}
-
-
 
 {{< /speaker_note >}}
 
@@ -708,8 +628,6 @@ Hebbian learning
 {{< speaker_note >}}
 - sota...
 {{< /speaker_note >}}
-
-
 ---
 
 ### Convolution: Mathematics
@@ -790,8 +708,6 @@ $$
 {{< speaker_note >}}
 - now we get to the full CNN 
 {{< /speaker_note >}}
-
-
 ---
 
 ### CNN: the HMAX model
@@ -835,8 +751,6 @@ $$
 
 Code @ [A hitchhiker guide to Matching Pursuit](https://laurentperrinet.github.io/sciblog/posts/2015-05-22-a-hitchhiker-guide-to-matching-pursuit.html)
 {{< speaker_note >}}
-
-
 {{< /speaker_note >}}
 
 ---
@@ -882,8 +796,6 @@ Code @ [SparseEdges](https://nbviewer.org/github/bicv/SparseEdges/blob/master/Sp
 - novel challenges for CNNs
 - 1/ backpropagation is not bioplausible 
 {{< /speaker_note >}}
-
-
 ---
 
 ### CNN: Predictive processing
@@ -955,8 +867,6 @@ Code @ [SparseEdges](https://nbviewer.org/github/bicv/SparseEdges/blob/master/Sp
 {{< /speaker_note >}}
 
 </section>
-
-
 ---
 
 <section>
@@ -968,8 +878,6 @@ Code @ [SparseEdges](https://nbviewer.org/github/bicv/SparseEdges/blob/master/Sp
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
 [Code](https://github.com/laurentperrinet/2024-04_sparse-representations) / 
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
-
-
 {{< speaker_note >}}
 - to summarize= sparse representations help understand neuroscience biological vision
 - they have practical applications in machine learning
