@@ -17,10 +17,10 @@ tags:
 categories:
 - Behavioural Neuroscience
 - Computational Neuroscience
-- Outreach & Public Engagement
 projects:
 - codde
 
 grants:
 - codde
 ---
+

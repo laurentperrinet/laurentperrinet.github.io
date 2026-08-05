@@ -12,8 +12,8 @@ publication_types:
 title: What adaptive code for efficient spiking representations? A model for the formation
   of receptive fields of simple cells
 tags: ["sparse-coding", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
-projects: [""]
+categories: ["Computational Neuroscience"]
+projects: ["", "tout-public"]
 projects:
 - facets
 ---

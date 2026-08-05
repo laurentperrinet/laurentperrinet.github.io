@@ -47,11 +47,11 @@ categories:
 - Computer Vision
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 - Visual Neuroscience
 projects:
 - ''
 ---
+
 * [supplementary information](https://www.nature.com/article-assets/npg/srep/2015/150622/srep11400/extref/srep11400-s1.pdf)
 * [supplementary material](PerrinetBednar15supplementary.pdf)
 # A study of how people can quickly spot animals by sight is helping uncover the workings of the human brain.

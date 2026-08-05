@@ -35,7 +35,7 @@ tags:
 categories:
 - Biological Neuroscience
 - Education
-- Outreach & Public Engagement
 projects:
 - ''
 ---
+

@@ -28,8 +28,8 @@ tags:
 categories:
 - Computational Neuroscience
 - Education
-- Outreach & Public Engagement
 projects:
 - ''
 ---
+
 ![header](perrinet-02-stdp.png)

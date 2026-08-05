@@ -52,8 +52,8 @@ categories:
 - Computer Vision
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - ''
 ---
+
 * the code is openly available on [GitHub](https://github.com/neuromorphic-paris/ETTCM) with the accompanying data [VL.zip](https://www.dropbox.com/scl/fi/lw9ztsopinnjfztt82oxt/VL.zip?rlkey=6uccvu486iulvityrvrom50e4&dl=0).

@@ -39,8 +39,8 @@ tags:
 categories:
 - Computational Neuroscience
 - Education
-- Outreach & Public Engagement
 projects:
 - facets
 ---
+
 ![header](kremkow-10-jcns.png)

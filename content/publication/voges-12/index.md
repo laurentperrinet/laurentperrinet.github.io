@@ -44,9 +44,9 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - ''
 ---
+
 ![header](voges-12.png)
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}

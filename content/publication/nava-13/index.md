@@ -34,9 +34,9 @@ tags:
 - vision
 categories:
 - Computer Vision
-- Outreach & Public Engagement
 - Theoretical Neuroscience
 projects:
 - ''
 ---
+
 * relies on log-Gabor filters: {{< cite page="/publication/fischer-07-cv" view="4" >}}

@@ -31,9 +31,9 @@ categories:
 - Behavioural Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - tout-public
 ---
+
 * Ce texte est disponible dans cet article de [The Conversation](https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388).
 * Une [version longue](https://laurentperrinet.github.io/2021_theconversation_hasard/) (et son [code](https://github.com/laurentperrinet/2021_theconversation_hasard)) sont aussi disponibles.

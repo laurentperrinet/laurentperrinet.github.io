@@ -39,7 +39,7 @@ categories:
 - Biological Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - facets-itn
 ---
+

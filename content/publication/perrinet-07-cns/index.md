@@ -36,8 +36,8 @@ publication_types:
 title: On efficient sparse spike coding schemes for learning natural scenes in the
   primary visual cortex
 tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding"]
-categories: ["Computational Neuroscience", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
-projects: [""]
+categories: ["Computational Neuroscience", "Theoretical Neuroscience", "Visual Neuroscience"]
+projects: ["", "tout-public"]
 projects:
 - facets-itn
 ---

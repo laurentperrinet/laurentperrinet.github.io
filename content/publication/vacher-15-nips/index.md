@@ -25,9 +25,9 @@ tags:
 - visual-illusions
 categories:
 - Computational Neuroscience
-- Outreach & Public Engagement
 projects:
 - ''
 ---
+
 * Talk @ NeurIPS: https://neurips.cc/Conferences/2015/Schedule?showEvent=5418
 * See a followup in {{< cite page="/publication/vacher-16" view="4" >}}

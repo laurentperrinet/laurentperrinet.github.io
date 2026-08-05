@@ -20,8 +20,8 @@ tags:
 - motion-perception
 categories:
 - Computational Neuroscience
-- Outreach & Public Engagement
 - Theoretical Neuroscience
 projects:
 - facets
 ---
+

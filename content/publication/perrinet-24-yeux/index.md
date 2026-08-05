@@ -29,10 +29,10 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - tout-public
 ---
+
 <!--  bluesky link="https://bsky.app/profile/laurentperrinet.bsky.social/post/3lgcyozmqgs2m"  -->
 * Ce texte est disponible dans cet article de [The Conversation](https://theconversation.com/chats-mouches-humains-comment-la-vision-a-evolue-en-de-multiples-facettes-220083).
 * Une [version longue](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/latest/index.html) (et son [code](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux)) sont aussi disponibles.

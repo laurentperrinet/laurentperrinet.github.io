@@ -56,10 +56,10 @@ categories:
 - Biological Neuroscience
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 - Theoretical Neuroscience
 - Visual Neuroscience
 projects:
 - ''
 ---
+
 * This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}

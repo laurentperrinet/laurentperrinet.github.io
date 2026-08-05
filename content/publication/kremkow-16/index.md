@@ -47,8 +47,8 @@ tags:
 categories:
 - Computational Neuroscience
 - Education
-- Outreach & Public Engagement
 - Visual Neuroscience
 projects:
 - facets
 ---
+

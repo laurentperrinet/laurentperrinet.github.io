@@ -16,7 +16,7 @@ tags:
 - visual-illusions
 categories:
 - Computational Neuroscience
-- Outreach & Public Engagement
 projects:
 - facets
 ---
+

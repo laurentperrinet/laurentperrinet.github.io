@@ -49,7 +49,7 @@ tags:
 categories:
 - Behavioural Neuroscience
 - Education
-- Outreach & Public Engagement
 projects:
 - pace-itn
 ---
+

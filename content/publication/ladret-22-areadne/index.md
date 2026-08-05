@@ -40,11 +40,11 @@ categories:
 - Biological Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 - Visual Neuroscience
 projects:
 - aprovis3D
 ---
+
 ![](@laurentperrinet_1542724828658016256_tweetcapture.png)
 * for a follow-up, check out {{< cite page="/publication/ladret-22-fens" view="4" >}}
 * This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}

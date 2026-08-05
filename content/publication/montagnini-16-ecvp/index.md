@@ -23,7 +23,7 @@ tags:
 - motion-perception
 categories:
 - Computational Neuroscience
-- Outreach & Public Engagement
 projects:
 - ''
 ---
+

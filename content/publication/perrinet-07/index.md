@@ -35,8 +35,8 @@ publication_types:
 - inbook
 title: 'Dynamical Neural Networks: modeling low-level vision at short latencies'
 tags: ["bayesian-modelling", "motion-perception", "sparse-coding", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+projects: ["", "tout-public"]
 projects:
 - facets-itn
 ---

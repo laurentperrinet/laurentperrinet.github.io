@@ -50,9 +50,9 @@ tags:
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 - Visual Neuroscience
 projects:
 - ''
 ---
+
 * See also [Ladret and Perrinet, 2019]({{< ref "/publication/ladret-19-sfn" >}})

@@ -41,7 +41,7 @@ tags:
 categories:
 - Biological Neuroscience
 - Computational Neuroscience
-- Outreach & Public Engagement
 projects:
 - facets
 ---
+

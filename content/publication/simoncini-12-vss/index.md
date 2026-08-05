@@ -39,9 +39,9 @@ categories:
 - Behavioural Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - codde
 grants:
 - codde
 ---
+

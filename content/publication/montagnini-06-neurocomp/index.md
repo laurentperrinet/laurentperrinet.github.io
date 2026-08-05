@@ -40,9 +40,9 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 - Theoretical Neuroscience
 projects:
 - facets
 ---
+
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

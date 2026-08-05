@@ -59,8 +59,8 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 - Visual Neuroscience
 projects:
 - facets
 ---
+

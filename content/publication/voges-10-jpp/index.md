@@ -36,9 +36,9 @@ categories:
 - Biological Neuroscience
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - facets
 ---
+
 ![header](voges-10-jpp.png)
 * see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

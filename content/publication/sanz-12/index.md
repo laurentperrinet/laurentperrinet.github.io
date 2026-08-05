@@ -44,11 +44,11 @@ categories:
 - Biological Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 - Theoretical Neuroscience
 projects:
 - motion-clouds
 ---
+
 ![header](sanz-12.png)
 **MotionClouds** are random dynamic stimuli optimized to study motion perception.
 * [Web-site](https://neuralensemble.github.io/MotionClouds/)

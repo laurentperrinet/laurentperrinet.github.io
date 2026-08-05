@@ -120,8 +120,8 @@ tags:
 categories:
 - Biological Neuroscience
 - Computational Neuroscience
-- Outreach & Public Engagement
 projects:
 - open-science
 ---
+
 * see a follow-up: {{< cite page="/publication/davison-08" view="4" >}}

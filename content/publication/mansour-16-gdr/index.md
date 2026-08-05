@@ -22,7 +22,7 @@ tags:
 - motion-detection
 categories:
 - Behavioural Neuroscience
-- Outreach & Public Engagement
 projects:
 - pace-itn
 ---
+

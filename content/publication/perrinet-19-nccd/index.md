@@ -56,8 +56,8 @@ categories:
 - Biological Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 - Visual Neuroscience
 projects:
 - ''
 ---
+

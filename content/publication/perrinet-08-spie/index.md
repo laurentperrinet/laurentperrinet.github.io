@@ -33,8 +33,8 @@ publication_types:
 title: 'Adaptive Sparse Spike Coding : applications of Neuroscience to the compression
   of natural images'
 tags: ["neuromorphic-computing", "primary-visual-cortex", "sparse-coding", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
-projects: [""]
+categories: ["Computational Neuroscience", "Theoretical Neuroscience", "Visual Neuroscience"]
+projects: ["", "tout-public"]
 projects:
 - facets
 ---

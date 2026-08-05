@@ -54,8 +54,8 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 - Theoretical Neuroscience
 projects:
 - facets-itn
 ---
+

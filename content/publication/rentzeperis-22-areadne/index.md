@@ -43,8 +43,8 @@ categories:
 - Behavioural Neuroscience
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - ''
 ---
+
 * Follow-up paper {{< cite page="/publication/rentzeperis-23" view="4" >}}

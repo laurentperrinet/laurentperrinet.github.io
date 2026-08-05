@@ -39,11 +39,11 @@ categories:
 - Behavioural Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 - Visual Neuroscience
 projects:
 - pace-itn
 ---
+
 * poster présenté au [GDR vision, Paris](https://gdrvision2018.sciencesconf.org).
 * program : https://gdrvision2018.sciencesconf.org/data/pages/posters_GDRVision2018.pdf
 * [Poster (pdf)](https://github.com/hugoladret/InternshipM1/raw/master/2018-06_POSTER_final.pdf)

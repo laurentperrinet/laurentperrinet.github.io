@@ -42,8 +42,8 @@ tags:
 categories:
 - Behavioural Neuroscience
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 - Theoretical Neuroscience
 projects:
 - facets
 ---
+

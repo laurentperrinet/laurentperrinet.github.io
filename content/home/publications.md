@@ -35,9 +35,10 @@ design:
   view: list
   columns: '2'
 tags: [""]
-categories: ["Education", "Outreach & Public Engagement"]
-projects: [""]
+categories: ["Education"]
+projects: ["", "tout-public"]
 ---
+
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}

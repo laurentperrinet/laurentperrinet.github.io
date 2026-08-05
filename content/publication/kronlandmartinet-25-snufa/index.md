@@ -22,7 +22,7 @@ tags:
 - temporal-coding
 categories:
 - Computational Neuroscience
-- Outreach & Public Engagement
 projects:
 - ''
 ---
+

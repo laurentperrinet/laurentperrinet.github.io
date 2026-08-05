@@ -45,9 +45,9 @@ tags:
 categories:
 - Behavioural Neuroscience
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 - Visual Neuroscience
 projects:
 - ''
 ---
+
 * see a follow-up: {{< cite page="/publication/perrinet-bednar-15" view="4" >}}

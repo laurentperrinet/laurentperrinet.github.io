@@ -30,6 +30,6 @@ links:
 - name: URL
   url: https://theses.fr/2019AIXM0137
 tags: ["aperture-problem", "bayesian-modeling", "motion-perception", "predictive-coding", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning"]
+projects: ["", "tout-public"]
 ---

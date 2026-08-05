@@ -45,10 +45,10 @@ tags:
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - ''
 ---
+
 * see accompanying papers
  * for neural data: {{< cite page="/publication/perrinet-23-icann" view="4" >}}
  * for event-based cameras: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}
