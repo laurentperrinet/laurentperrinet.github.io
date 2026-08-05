@@ -12,6 +12,9 @@ tags: ["bayesian-modelling"]
 categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
 projects: ["open-science"]
 ---
+
+
+
 # PhD Program: course in Computational Neuroscience
 
 Context
@@ -63,7 +66,9 @@ Pre-required
 Basic knowledge of statistics and probability and calculus (differential equations,...) is useful, but steps will be explained and complex math avoided as much as possible. Practical exercises are in python and/or MATLAB, so basic knowledge of these environments is a plus.
 
 program
--------
+
+
+-
 
 ### day 1 : 2018-03-26 : an introduction to Computational Neuroscience
 
@@ -83,7 +88,18 @@ program
 -   09:30-12:30 = Practical course on Information theory (DaB)
 
 More material related to the course
------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+--
 
 ### day 1 - morning : the single neuron
 
@@ -125,7 +141,9 @@ More material related to the course
 -   solutions to the tutorial : <https://laurentperrinet.github.io/sciblog/posts/2017-01-15-bogacz-2017-a-tutorial-on-free-energy.html>
 
 contacts
---------
+
+
+--
 
 -   LaP: Laurent Pezard <<Laurent.Pezard@univ-amu.fr>>
 

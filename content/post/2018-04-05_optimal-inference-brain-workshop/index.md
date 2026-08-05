@@ -19,6 +19,7 @@ projects: [""]
 ---
 
 
+
 ![participants](IMG_20180406_164630.jpg)
 
 # Probabilities and Optimal Inference to understand the Brain

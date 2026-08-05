@@ -28,6 +28,7 @@ projects:
 
 
 
+
 # "Neural computations with precise spiking motifs for dynamic vision" Soutenance de thèse Antoine Grimaldi
 
 * Date : Jeudi 16 mai à 15h (CEST)

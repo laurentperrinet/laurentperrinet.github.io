@@ -34,6 +34,7 @@ projects:
 
 
 
+
 - Date: 27-28 May 2010
 
 - Location: Amphithéâtre Charve at the Saint-Charles' University campus

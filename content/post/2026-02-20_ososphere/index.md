@@ -25,7 +25,9 @@ categories:
 - NeuroAI & Machine Learning
 - Outreach & Public Engagement
 projects:
-- art-science---
+- art-science
+---
+
 
 
 

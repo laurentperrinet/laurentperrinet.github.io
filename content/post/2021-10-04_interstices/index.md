@@ -5,40 +5,28 @@ authors:
 date: 2021-10-03 00:00:00
 draft: false
 lastmod: 2021-10-03 00:00:00
-- art-science
 subtitle: Horizon Faille @ interstices, Caen, 2021
 summary: Horizon Faille @ interstices, Orangerie du jardin des plantes, Caen, 2021.
 title: Horizon Faille @ interstices
 image:
   caption: 'Crédit image : Étienne Rey'
-
 gallery_item:
-- album: 2021-10-04_interstices
-  image: DJI_20211005_115239_695.JPG
-  caption: 'Gros plan sur Trames. Crédit image : Étienne Rey'
-- album: 2021-10-04_interstices
-  image: DJI_20211005_115905_633.JPG
-  caption: 'Vague. Crédit image : Étienne Rey'
-- album: 2021-10-04_interstices
-  image: DJI_20211005_115354_945.JPG
-  caption: 'Vague (détail). Crédit image : Étienne Rey'
-- album: 2021-10-04_interstices
-  image: DJI_20211005_115401_307.JPG
-  caption: 'Vague (détail). Crédit image : Étienne Rey'
-- album: 2021-10-04_interstices
-  image: DJI_20211005_122124_962.JPG
-  caption: 'Trames (macro). Crédit image : Étienne Rey'
-- album: 2021-10-04_interstices
-  image: DJI_20211005_122134_038.JPG
-  caption: 'Trames (mésoscopique). Crédit image : Étienne Rey'
 - album: 2021-10-04_interstices
   image: DJI_20211005_122145_287.JPG
   caption: 'Trames (microscopique). Crédit image : Étienne Rey'
-
-tags: ["art-science"]
-categories: ["Education", "NeuroAI & Machine Learning"]
-projects: ["art-science"]
+tags:
+- art-science
+categories:
+- Education
+- NeuroAI & Machine Learning
+projects:
+- art-science
 ---
+
+
+
+
+
 # Horizon Faille
 
 ## Festival Interstice, du 5 au 17 octobre 2021 (du mercredi au dimanche, de 14 h à 18 h)

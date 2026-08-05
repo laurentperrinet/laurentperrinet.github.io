@@ -22,8 +22,9 @@ categories:
 - NeuroAI & Machine Learning
 - Outreach & Public Engagement
 projects:
-- ''
+- bicv
 ---
+
 
 
 

@@ -10,6 +10,7 @@ tags: ["bayesian-modelling", "eye-movements", "foveated-vision", "log-polar-mapp
 categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
 projects: [""]
 ---
+
 Jean-Nicolas Jérémie soutiendra publiquement ses travaux de thèse intitulés: *Foveal Retinotopy and Dual Pathways: A Computational Model for Active Visual Search*
 
 dirigés par Monsieur Laurent PERRINET et Monsieur Emmanuel DAUCE
@@ -22,7 +23,42 @@ dirigés par Monsieur Laurent PERRINET et Monsieur Emmanuel DAUCE
 
 **Composition du jury proposé**
 | Name                         | Affiliation                                          | Role                  |
-|------------------------------|------------------------------------------------------|-----------------------|
+|
+
+
+
+
+
+
+
+
+
+|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|
+
+
+
+
+
+
+--|
 | M. Ronan SICRE               | IRIT (UMR 5505) – Université de Toulouse III          | Rapporteur            |
 | M. Jean‑Julien AUCOUTURIER   | FEMTO‑ST (UMR 6174) – Université de Bourgogne Franche‑Comté | Rapporteur            |
 | Mme Teresa SERRANO‑GOTARREDONA| IMSE‑CNM‑CSIC – Universidad de Sevilla                | Examinatrice          |

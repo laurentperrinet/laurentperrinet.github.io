@@ -22,8 +22,10 @@ categories:
 - NeuroAI & Machine Learning
 - Outreach & Public Engagement
 projects:
-- ''
+- facets
+- brain-scales
 ---
+
 
 
 

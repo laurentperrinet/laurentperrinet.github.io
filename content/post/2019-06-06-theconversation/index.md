@@ -18,8 +18,10 @@ categories:
 - NeuroAI & Machine Learning
 - Outreach & Public Engagement
 projects:
-- ''
+- tout-public
+- art-science
 ---
+
 
 
 

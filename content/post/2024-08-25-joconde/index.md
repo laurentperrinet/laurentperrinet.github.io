@@ -6,15 +6,23 @@ date: 2024-08-25 20:00:00
 publishDate: '2024-08-25T09:59:44.385734Z'
 draft: false
 featured: false
-- art-science
-- tout-public
-summary: "Le mystère de la Joconde éclairé par les neurosciences"
-title: 'Le mystère de la Joconde éclairé par les neurosciences'
+summary: Le mystère de la Joconde éclairé par les neurosciences
+title: Le mystère de la Joconde éclairé par les neurosciences
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/ladret-24-joconde/
-tags: ["visual-illusions"]
-categories: ["NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- visual-illusions
+categories:
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- art-science
+- tout-public
 ---
+
+
+
+
+
 Publication d'un nouvel article généraliste intitulé "Le mystère de la Joconde éclairé par les neurosciences" à découvrir sur le numéro de Septembre 2024 de [Cerveau & Psycho](https://laurentperrinet.github.io/publication/ladret-24-joconde/).

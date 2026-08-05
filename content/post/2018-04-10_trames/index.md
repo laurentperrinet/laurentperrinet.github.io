@@ -16,8 +16,9 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 projects:
-- ''
+- art-science
 ---
+
 
 
 

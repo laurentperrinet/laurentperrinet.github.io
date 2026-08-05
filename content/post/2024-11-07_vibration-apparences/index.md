@@ -5,19 +5,31 @@ authors:
 date: 2024-10-04 00:00:00
 draft: false
 lastmod: 2024-10-04 00:00:00
-- art-science
 title: La vibration des apparences
-subtitle: "Une exposition in situ d’Étienne Rey pour le musée Granet."
-summary: "À l'occasion de la Biennale d’Aix-en-Provence, dans le cadre de CHRONIQUES – Biennale des Imaginaires Numériques, l'association Arts Vivants présente au musée Granet, du 8 novembre 2024 au 19 janvier 2025, une exposition consacrée à l'artiste contemporain Étienne Rey, intitulée *La vibration des apparences*."
+subtitle: Une exposition in situ d’Étienne Rey pour le musée Granet.
+summary: À l'occasion de la Biennale d’Aix-en-Provence, dans le cadre de CHRONIQUES
+  – Biennale des Imaginaires Numériques, l'association Arts Vivants présente au musée
+  Granet, du 8 novembre 2024 au 19 janvier 2025, une exposition consacrée à l'artiste
+  contemporain Étienne Rey, intitulée *La vibration des apparences*.
 links:
 - name: Code
   url: https://laurentperrinet.github.io/sciblog/posts/2025-01-18_la-vibration-des-apparences.html
 image:
-  caption: "Étienne Rey, affiche pour l'exposition *La vibration des apparences*."
-tags: ["visual-illusions"]
-categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: ["art-science"]
+  caption: Étienne Rey, affiche pour l'exposition *La vibration des apparences*.
+tags:
+- visual-illusions
+categories:
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- art-science
 ---
+
+
+
+
+
 À voir également : une présentation, dans le cadre des *Journées d’Ouverture Scientifique (JOS)*, qui prolonge le travail exposé ici :
 
 {{< cite page="/talk/2025-04-18-vibration-apparences/" view="4" >}}
