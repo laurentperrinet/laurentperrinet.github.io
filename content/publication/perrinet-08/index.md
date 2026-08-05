@@ -1,4 +1,5 @@
----authors:
+---
+authors:
 - Laurent U Perrinet
 date: 2008-01-01
 featured: false
@@ -18,6 +19,7 @@ projects: [""]
 projects:
 - facets
 ---
+
 
 
 

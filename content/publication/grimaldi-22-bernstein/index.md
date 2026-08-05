@@ -26,7 +26,6 @@ authors:
 date: 2022-09-11
 draft: false
 featured: false
-- aprovis3D
 grants:
 - anr-anr
 - polychronies
@@ -35,7 +34,6 @@ image:
   focal_point: Smart
   preview_only: false
 lastmod: 2023-07-21 13:12:04+02:00
-
 publication: '*Bernstein Conference 2022*'
 publication_types:
 - inproceedings
@@ -43,8 +41,24 @@ publishDate: '2023-07-21T11:11:54.651024Z'
 subtitle: ''
 title: Detection of precise spiking motifs using spike-time dependent weight and delay
   plasticity
-tags: ["metaplasticity", "sparse-coding", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- metaplasticity
+- sparse-coding
+- spiking-neural-networks
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- aprovis3D
+- anr-anr
+- polychronies
 ---
+
+
+
+
+
+
 * see a follow-up as journal paper: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}

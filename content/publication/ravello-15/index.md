@@ -16,8 +16,18 @@ publication_types:
 - inproceedings
 title: Spatiotemporal tuning of retinal ganglion cells dependent on the context of
   signal presentation
-tags: ["motion-perception"]
-categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- motion-perception
+categories:
+- Computational Neuroscience
+- Outreach & Public Engagement
+projects:
+- motion-clouds
 ---
+
+
+
+
+
+
 * Follow-up paper {{< cite page="/publication/ravello-19" view="4" >}}

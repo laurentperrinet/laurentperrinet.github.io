@@ -1,4 +1,5 @@
----title: 'ANEMO: Quantitative tools for the ANalysis of Eye MOvements'
+---
+title: 'ANEMO: Quantitative tools for the ANalysis of Eye MOvements'
 authors:
 - Chloé Pasturel
 - Anna Montagnini
@@ -27,6 +28,7 @@ categories:
 - Education
 - Outreach & Public Engagement
 ---
+
 
 
 

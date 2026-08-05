@@ -1,4 +1,5 @@
----abstract: Neurons in the neocortex receive a large number of excitatory and inhibitory
+---
+abstract: Neurons in the neocortex receive a large number of excitatory and inhibitory
   synaptic inputs. Excitation and inhibition dynamically balance each other, with
   inhibition lagging excitation by only few milliseconds. To characterize the functional
   consequences of such correlated excitation and inhibition, we studied models in
@@ -42,6 +43,7 @@ categories:
 projects:
 - facets
 ---
+
 
 
 

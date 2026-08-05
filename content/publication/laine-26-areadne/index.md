@@ -1,4 +1,5 @@
----title: Population decoding of visual motion direction
+---
+title: Population decoding of visual motion direction
 authors:
 - Alexandre Lainé
 - Nicholas J. Priebe
@@ -26,6 +27,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

@@ -1,4 +1,5 @@
----authors:
+---
+authors:
 - Nicole Voges
 - Jens Kremkow
 - Laurent U Perrinet
@@ -19,6 +20,7 @@ categories:
 projects:
 - facets
 ---
+
 
 
 

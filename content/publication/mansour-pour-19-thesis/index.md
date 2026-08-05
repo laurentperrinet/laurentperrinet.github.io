@@ -1,4 +1,5 @@
----title: Effet de La Variabilité de La Vitesse Sur Le Mouvement de Poursuite Oculaire
+---
+title: Effet de La Variabilité de La Vitesse Sur Le Mouvement de Poursuite Oculaire
   Lente et Sur La Perception de La Vitesse
 authors:
 - Kiana Mansour Pour
@@ -32,6 +33,7 @@ tags: ["aperture-problem", "bayesian-modeling", "motion-perception", "predictive
 categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
 projects: [""]
 ---
+
 
 
 

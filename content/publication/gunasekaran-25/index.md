@@ -1,4 +1,5 @@
----title: A Predictive Approach to Enhance Time-Series Forecasting
+---
+title: A Predictive Approach to Enhance Time-Series Forecasting
 authors:
 - Skye Gunasekaran
 - Assel Kembay
@@ -54,6 +55,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

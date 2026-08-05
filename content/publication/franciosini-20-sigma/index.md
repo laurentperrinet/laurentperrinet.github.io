@@ -57,9 +57,6 @@ authors:
 - Laurent U Perrinet
 date: 2020-03-30
 featured: false
-- doc-2-amu
-- phd-icn
-- mesocentre
 links:
 - name: URL
   url: https://conferences.cirm-math.fr/2152.html
@@ -69,9 +66,28 @@ publication_types:
 - inproceedings
 title: Modelling Complex-cells and topological structure in the visual cortex of mammals
   using Sparse Predictive Coding
-tags: ["bayesian-modelling", "predictive-coding", "primary-visual-cortex", "sparse-coding"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- predictive-coding
+- primary-visual-cortex
+- sparse-coding
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+- Visual Neuroscience
+projects:
+- doc-2-amu
+- phd-icn
+- mesocentre
 ---
+
+
+
+
+
+
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

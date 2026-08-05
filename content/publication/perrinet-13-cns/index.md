@@ -22,7 +22,6 @@ authors:
 - Karl Friston
 date: 2013-01-01
 featured: false
-- codde
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-13-cns
@@ -31,7 +30,23 @@ publication: '*Annual Computational Neuroscience Meeting: CNS 2013, Paris*'
 publication_types:
 - inproceedings
 title: Active inference, eye movements and oculomotor delays
-tags: ["bayesian-modelling", "eye-movements", "motion-perception", "predictive-coding"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- bayesian-modelling
+- eye-movements
+- motion-perception
+- predictive-coding
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- codde
+grants:
+- codde
 ---
+
+
+
+
+
+

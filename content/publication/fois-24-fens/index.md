@@ -19,7 +19,6 @@ authors:
 date: 2024-06-27
 draft: false
 featured: false
-- polychronies
 image:
   caption: ''
   focal_point: Smart
@@ -35,7 +34,20 @@ publication_types:
 publishDate: '2024-04-05T08:22:04.452494Z'
 subtitle: ''
 title: Self-Supervised Learning of Spiking Motifs in Neurobiological Data
-tags: ["homeostasis", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- homeostasis
+- spiking-neural-networks
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+projects:
+- ''
 ---
+
+
+
+
+
+

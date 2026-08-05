@@ -1,4 +1,5 @@
----authors:
+---
+authors:
 - Adrien Wohrer
 - Guillaume S Masson
 - Laurent U Perrinet
@@ -22,6 +23,7 @@ categories:
 projects:
 - facets
 ---
+
 
 
 

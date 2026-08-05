@@ -19,6 +19,7 @@ authors:
 date: 2024-06-27
 draft: false
 featured: false
+grants:
 - polychronies
 image:
   caption: ''
@@ -38,10 +39,23 @@ publishDate: '2024-04-05T08:22:04.452494Z'
 subtitle: ''
 title: Accurate Detection of Spiking Motifs in Neurobiological Data by Learning Heterogeneous
   Delays of a Spiking Neural Network
-tags: ["neuromorphic-computing", "predictive-coding", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- neuromorphic-computing
+- predictive-coding
+- spiking-neural-networks
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
+
+
+
+
 * see accompanying papers
  * for neural data: {{< cite page="/publication/perrinet-23-icann" view="4" >}}
  * for event-based cameras: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}

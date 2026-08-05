@@ -16,7 +16,18 @@ publication: '*Proceedings of GDR Vision (Lyon, France)*'
 publication_types:
 - inproceedings
 title: On the nature of anticipatory eye movements and the factors affecting them
-tags: ["eye-movements"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- eye-movements
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
+
+
+
+

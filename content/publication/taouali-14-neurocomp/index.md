@@ -12,8 +12,19 @@ publication: '*6th Workshop of the Computational Neuroscience Network in Marseil
 publication_types:
 - inproceedings
 title: A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise
-tags: ["primary-visual-cortex"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- primary-visual-cortex
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
+
+
+
+
 * see a follow-up in this [publication]({{< ref "/publication/taouali-16" >}})

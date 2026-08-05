@@ -6,7 +6,6 @@ date: 2020-12-17
 doi: 10.1007/978-3-030-64919-7_17
 draft: false
 featured: false
-- aprovis-3-d
 image:
   caption: ''
   focal_point: Smart
@@ -27,10 +26,26 @@ publication_types:
 - inproceedings
 subtitle: ''
 title: Visual search as active inference
-tags: ["active-inference", "bayesian-modelling", "deep-learning", "object-localization", "visual-search", "visuomotor-control"]
-categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- active-inference
+- bayesian-modelling
+- deep-learning
+- object-localization
+- visual-search
+- visuomotor-control
+categories:
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- aprovis-3-d
 ---
+
+
+
+
+
+
 * a follow-up of: {{< cite page="/publication/dauce-20" view="4" >}}
 ![](@laurentperrinet_1305488089989754883_tweetcapture.png)
 {{< figure src="https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true" >}}

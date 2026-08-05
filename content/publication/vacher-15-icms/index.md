@@ -1,4 +1,5 @@
----authors:
+---
+authors:
 - Jonathan Vacher
 - Andrew Isaac Meso
 - Laurent U Perrinet
@@ -21,6 +22,7 @@ categories:
 projects:
 - motion-clouds
 ---
+
 
 
 

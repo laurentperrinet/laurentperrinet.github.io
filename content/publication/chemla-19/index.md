@@ -27,6 +27,66 @@ grants:
 - anr-bala-v1
 grants:
 - anr-trajectory
+grants:
+- anr-bala-v1
+grants:
+- anr-trajectory
+grants:
+- anr-bala-v1
+grants:
+- anr-trajectory
+grants:
+- anr-bala-v1
+grants:
+- anr-trajectory
+grants:
+- anr-bala-v1
+grants:
+- anr-trajectory
+grants:
+- anr-bala-v1
+grants:
+- anr-trajectory
+grants:
+- anr-bala-v1
+grants:
+- anr-trajectory
+grants:
+- anr-bala-v1
+grants:
+- anr-trajectory
+grants:
+- anr-bala-v1
+grants:
+- anr-trajectory
+grants:
+- anr-bala-v1
+grants:
+- anr-trajectory
+grants:
+- anr-bala-v1
+grants:
+- anr-trajectory
+grants:
+- anr-bala-v1
+grants:
+- anr-trajectory
+grants:
+- anr-bala-v1
+grants:
+- anr-trajectory
+grants:
+- anr-bala-v1
+grants:
+- anr-trajectory
+grants:
+- anr-bala-v1
+grants:
+- anr-trajectory
+grants:
+- anr-bala-v1
+grants:
+- anr-trajectory
 links:
 - name: URL
   url: https://www.jneurosci.org/content/39/22/4282
@@ -49,7 +109,25 @@ summary: Traveling waves have recently been observed in different animal species
   by downstream areas.
 title: Suppressive waves disambiguate the representation of long-range apparent motion
   in awake monkey V1
-tags: ["foveated-vision", "log-polar-mapping", "motion-perception", "primary-visual-cortex", "retinotopy", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
-projects: [""]
+tags:
+- foveated-vision
+- log-polar-mapping
+- motion-perception
+- primary-visual-cortex
+- retinotopy
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Visual Neuroscience
+projects:
+- ''
 ---
+
+
+
+
+
+

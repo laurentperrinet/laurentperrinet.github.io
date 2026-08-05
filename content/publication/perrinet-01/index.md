@@ -1,4 +1,5 @@
----authors:
+---
+authors:
 - Laurent U Perrinet
 - Arnaud Delorme
 - Simon J Thorpe
@@ -20,6 +21,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

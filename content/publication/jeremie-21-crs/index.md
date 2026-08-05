@@ -5,7 +5,6 @@ authors:
 date: 2021-10-15
 draft: false
 featured: false
-- aprovis3D
 grants:
 - anr-anr
 image:
@@ -22,9 +21,23 @@ publication_types:
 - inproceedings
 subtitle: ''
 title: Ultra-fast categorization of images containing animals in vivo and in computo
-tags: ["deep-learning", "object-categorization", "psychophysics"]
-categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- deep-learning
+- object-categorization
+- psychophysics
+categories:
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- aprovis3D
+- anr-anr
 ---
+
+
+
+
+
+
 * see a follow-up in: {{< cite page="/publication/jeremie-23-ultra-fast-cat" view="4" >}}
 * see an extension to visual search in: {{< cite page="/publication/jeremie-22-areadne" view="4" >}}

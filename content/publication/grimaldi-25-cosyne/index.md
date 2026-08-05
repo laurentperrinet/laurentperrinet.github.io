@@ -38,7 +38,19 @@ links:
 - name: URL
   url: 
     https://www.world-wide.org/cosyne-25/robust-unsupervised-learning-spike-fa46f105/
-tags: [""]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- ''
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
+
+
+
+

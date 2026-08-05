@@ -1,4 +1,5 @@
----abstract: 'Humans are able to interact successfully with moving objects in our dynamic
+---
+abstract: 'Humans are able to interact successfully with moving objects in our dynamic
   world and the visual system effi ciently performs the motion computation that makes
   this possible. Object speed and direction are estimated following the integration
   of information across cortical motion sensitive channels. Speed estimation along
@@ -51,6 +52,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

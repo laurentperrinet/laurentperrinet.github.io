@@ -20,9 +20,23 @@ publication: '*Doc2AMU Doctoral Day - 2018-11-23*'
 publication_types:
 - inproceedings
 title: Unsupervised Hierarchical Sparse Coding algorithm inspired by Biological Vision
-tags: ["predictive-coding", "sparse-coding"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- predictive-coding
+- sparse-coding
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+projects:
+- doc-2-amu
+- phd-icn
 ---
+
+
+
+
+
+
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

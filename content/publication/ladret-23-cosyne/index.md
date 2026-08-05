@@ -1,4 +1,5 @@
----abstract: 'Our daily endeavors occur in a complex visual environment, whose intrinsic
+---
+abstract: 'Our daily endeavors occur in a complex visual environment, whose intrinsic
   variability shapes the way we integrate information to make decisions. By processing
   thousands of parallel sensory inputs, our brain is theoretically able to compute
   the uncertainty of its environment, which would allow it to perform Bayesian integration
@@ -61,6 +62,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

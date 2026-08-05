@@ -1,4 +1,5 @@
----abstract: 'It is still not fully understood how visual system integrates motion energy
+---
+abstract: 'It is still not fully understood how visual system integrates motion energy
   across different spatial and temporal frequencies to build a coherent percept of
   the global motion under the complex, noisy naturalistic conditions. We addressed
   this question by manipulating local speed variability distribution (i. e. speed
@@ -54,6 +55,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

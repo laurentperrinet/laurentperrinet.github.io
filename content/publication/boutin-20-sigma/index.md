@@ -29,9 +29,6 @@ authors:
 - Laurent U Perrinet
 date: 2019-03-03
 featured: false
-- doc-2-amu
-- phd-icn
-- mesocentre
 links:
 - name: URL
   url: https://conferences.cirm-math.fr/2152.html
@@ -43,10 +40,29 @@ publication_types:
 - inproceedings
 title: Sparse Deep Predictive Coding captures contour integration capabilities of
   the early visual system
-tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- predictive-coding
+- primary-visual-cortex
+- sparse-coding
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+projects:
+- doc-2-amu
+- phd-icn
+- mesocentre
 ---
+
+
+
+
+
+
  * presented during this [talk]({{< ref "/talk/2019-03-25-hdr-robin-baures/index.md" >}})
  * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
  * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

@@ -1,4 +1,5 @@
----abstract: Natural images follow statistics inherited by the structure of our physical
+---
+abstract: Natural images follow statistics inherited by the structure of our physical
   (visual) environment. In particular, a prominent facet of this structure is that
   images can be described by a relatively sparse number of features. We designed a
   sparse coding algorithm biologically-inspired by the architecture of the primary
@@ -38,6 +39,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

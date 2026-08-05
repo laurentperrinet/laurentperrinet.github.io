@@ -19,7 +19,6 @@ authors:
 date: 2022-06-29
 draft: false
 featured: false
-- aprovis3D
 image:
   caption: ''
   focal_point: Smart
@@ -35,10 +34,23 @@ publication_types:
 publishDate: '2022-06-16T11:51:41.890310Z'
 subtitle: ''
 title: A resilient neural code in V1 to process natural images
-tags: ["primary-visual-cortex"]
-categories: ["Biological Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
-projects: [""]
+tags:
+- primary-visual-cortex
+categories:
+- Biological Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Visual Neuroscience
+projects:
+- aprovis3D
 ---
+
+
+
+
+
+
 ![](@laurentperrinet_1542724828658016256_tweetcapture.png)
 * for a follow-up, check out {{< cite page="/publication/ladret-22-fens" view="4" >}}
 * This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}

@@ -1,4 +1,5 @@
----abstract: 'We study cortical network dynamics for a spatially embedded network model.
+---
+abstract: 'We study cortical network dynamics for a spatially embedded network model.
   It represents, in terms of spatial scale, a large piece of cortex allowing for long-range
   connections, resulting in a rather sparse connectivity. The spatial embedding also
   permits us to include distance-dependent conduction delays. We use two different
@@ -39,6 +40,7 @@ categories:
 projects:
 - facets
 ---
+
 
 
 

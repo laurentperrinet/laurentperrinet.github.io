@@ -1,4 +1,5 @@
----abstract: Choosing an appropriate set of stimuli is essential to characterize the
+---
+abstract: Choosing an appropriate set of stimuli is essential to characterize the
   response of a sensory system to a particular functional dimension, such as the eye
   movement following the motion of a visual scene. Here, we describe a framework to
   generate random texture movies with controlled information content, i.e., Motion
@@ -48,6 +49,7 @@ categories:
 projects:
 - motion-clouds
 ---
+
 
 
 

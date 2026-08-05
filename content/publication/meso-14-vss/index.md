@@ -1,4 +1,5 @@
----abstract: Estimating object speed in visual scenes is a critical part of perception.
+---
+abstract: Estimating object speed in visual scenes is a critical part of perception.
   While various aspects of speed computation including discrimination thresholds,
   neural mechanisms and spatial integration mechanisms have been studied, there remain
   areas to elucidate. One is the integration of information across spatio-temporal
@@ -54,6 +55,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

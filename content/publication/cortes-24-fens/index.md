@@ -15,7 +15,17 @@ publication_types:
 publishDate: '2024-08-25T16:27:28.685482Z'
 title: 'Diverse Neuronal Responses to Visual Precision in Cat Cortical Area 21a: Unraveling
   the Complexity of Orientation Processing'
-tags: [""]
-categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- ''
+categories:
+- Computational Neuroscience
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
+
+
+
+

@@ -1,4 +1,5 @@
----title: Une Approche Computationnelle de La Dépendance Au Mouvement Du Codage de La
+---
+title: Une Approche Computationnelle de La Dépendance Au Mouvement Du Codage de La
   Position Dans La Système Visuel
 authors:
 - Mina Aliakbari khoei
@@ -33,6 +34,7 @@ tags: ["bayesian-modelling", "primary-visual-cortex"]
 categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
 projects: [""]
 ---
+
 
 
 

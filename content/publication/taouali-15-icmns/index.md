@@ -35,8 +35,22 @@ publication: '*ICMNS 2015 conference*'
 publication_types:
 - inproceedings
 title: On overdispersion in neuronal evoked activity
-tags: ["bayesian-modelling", "primary-visual-cortex", "spiking-neural-networks"]
-categories: ["Biological Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- bayesian-modelling
+- primary-visual-cortex
+- spiking-neural-networks
+categories:
+- Biological Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
+
+
+
+
 * see a follow-up in this [publication]({{< ref "/publication/taouali-16" >}})

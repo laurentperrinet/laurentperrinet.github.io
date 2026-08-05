@@ -1,4 +1,5 @@
----abstract: The selectivity of the visual system to oriented patterns is very well documented
+---
+abstract: The selectivity of the visual system to oriented patterns is very well documented
   in a wide range of species, especially in mammals. In particular, neurons of the
   primary visual cortex are anatomically grouped by their preference to a given oriented
   visual stimulus. Interactions between such groups of neurons have been successfully
@@ -43,6 +44,7 @@ categories:
 projects:
 - pace-itn
 ---
+
 
 
 

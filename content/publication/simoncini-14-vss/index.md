@@ -30,8 +30,6 @@ authors:
 date: 2014-08-22
 doi: 10.1167/14.10.110
 featured: false
-- brain-scales
-- codde
 links:
 - name: URL
   url: https://doi.org/10.1167/14.10.110
@@ -41,7 +39,27 @@ publication_types:
 - inproceedings
 title: The characteristics of microsaccadic eye movements varied with the change of
   strategy in a match-to-sample task
-tags: ["eye-movements", "motion-perception", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- eye-movements
+- motion-perception
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
+
+
+grants:
+- brain-scales
+- codde
 ---
+
+
+
+
+
+

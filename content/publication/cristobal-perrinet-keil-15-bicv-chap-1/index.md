@@ -16,7 +16,6 @@ authors:
 date: 2015-11-01
 doi: 10.1002/9783527680863.ch1
 featured: false
-- brain-scales
 links:
 - name: URL
   url: https://bicv.github.io/chap1/
@@ -24,8 +23,24 @@ publication: '*Biologically Inspired Computer Vision*'
 publication_types:
 - inbook
 title: Introduction
-tags: ["vision"]
-categories: ["Computational Neuroscience", "Computer Vision", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- vision
+categories:
+- Computational Neuroscience
+- Computer Vision
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
+
+
+grants:
+- brain-scales
 ---
+
+
+
+
+
+
 {{< figure src="mindmap.png" title="Mindmap of the book contents. Cross-links between chapters have been indicated as thin lines." >}}

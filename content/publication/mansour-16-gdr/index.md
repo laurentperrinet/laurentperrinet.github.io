@@ -1,4 +1,5 @@
----authors:
+---
+authors:
 - Kiana Mansour Pour
 - Laurent U Perrinet
 - Guillaume S Masson
@@ -25,6 +26,7 @@ categories:
 projects:
 - pace-itn
 ---
+
 
 
 

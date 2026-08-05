@@ -1,4 +1,5 @@
----authors:
+---
+authors:
 - Laurent U Perrinet
 - Jens Kremkow
 - Frédéric V Barthélemy
@@ -24,6 +25,7 @@ categories:
 projects:
 - facets
 ---
+
 
 
 

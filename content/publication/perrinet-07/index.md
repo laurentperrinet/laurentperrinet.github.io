@@ -1,4 +1,5 @@
----abstract: 'The machinery behind the visual perception of motion and the subsequent
+---
+abstract: 'The machinery behind the visual perception of motion and the subsequent
   sensori-motor transformation, such as in ocular following response (OFR), is confronted
   to uncertainties which are efficiently resolved in the primate''s visual system.
   We may understand this response as an ideal observer in a probabilistic framework
@@ -41,6 +42,7 @@ projects: [""]
 projects:
 - facets-itn
 ---
+
 
 
 

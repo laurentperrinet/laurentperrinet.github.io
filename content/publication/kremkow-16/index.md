@@ -1,4 +1,5 @@
----abstract: Neurons in the primary visual cortex are known for responding vigorously
+---
+abstract: Neurons in the primary visual cortex are known for responding vigorously
   but with high variability to classical stimuli such as drifting bars or gratings.
   By contrast, natural scenes are encoded more efficiently by sparse and temporal
   precise spiking responses. We used a conductance-based model of the visual system
@@ -51,6 +52,7 @@ categories:
 projects:
 - facets
 ---
+
 
 
 

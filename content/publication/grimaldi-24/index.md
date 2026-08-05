@@ -29,7 +29,6 @@ date: 2024-10-01
 doi: 10.1016/j.neunet.2024.106415
 draft: false
 featured: false
-- aprovis3D
 image:
   caption: ''
   focal_point: Smart
@@ -50,10 +49,23 @@ publication_types:
 - article-journal
 subtitle: ''
 title: A Robust Event-Driven Approach to Always-on Object Recognition
-tags: ["event-based-vision", "homeostasis", "neuromorphic-computing", "spiking-neural-networks"]
-categories: ["NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- event-based-vision
+- homeostasis
+- neuromorphic-computing
+- spiking-neural-networks
+categories:
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- aprovis3D
 ---
+
+
+
+
+
+
 Main contributions:
 - Builds an adaptive, back to  back event-based pattern recognition architecture, inspired by neuroscience and capable of always-on decision, that is, that the decision can be taken it can be needed,
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-24/hots.png" title="The HOTS architecture." width="100%" >}}

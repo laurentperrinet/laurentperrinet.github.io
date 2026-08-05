@@ -15,7 +15,17 @@ publication: '*Proceedings of ECVP*'
 publication_types:
 - inproceedings
 title: Modeling the effect of dynamic contingencies on anticipatory eye movements
-tags: ["eye-movements"]
-categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- eye-movements
+categories:
+- Computational Neuroscience
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
+
+
+
+

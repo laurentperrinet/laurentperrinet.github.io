@@ -17,7 +17,17 @@ publication_types:
 - inproceedings
 title: 'Dynamic modulation of volatility by reward contingencies: effects on anticipatory
   smooth eye movement'
-tags: ["eye-movements"]
-categories: ["Computational Neuroscience", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- eye-movements
+categories:
+- Computational Neuroscience
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
+
+
+
+

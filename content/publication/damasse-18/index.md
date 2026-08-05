@@ -11,6 +11,66 @@ grants:
 - anr-rem
 grants:
 - pace-itn
+grants:
+- anr-rem
+grants:
+- pace-itn
+grants:
+- anr-rem
+grants:
+- pace-itn
+grants:
+- anr-rem
+grants:
+- pace-itn
+grants:
+- anr-rem
+grants:
+- pace-itn
+grants:
+- anr-rem
+grants:
+- pace-itn
+grants:
+- anr-rem
+grants:
+- pace-itn
+grants:
+- anr-rem
+grants:
+- pace-itn
+grants:
+- anr-rem
+grants:
+- pace-itn
+grants:
+- anr-rem
+grants:
+- pace-itn
+grants:
+- anr-rem
+grants:
+- pace-itn
+grants:
+- anr-rem
+grants:
+- pace-itn
+grants:
+- anr-rem
+grants:
+- pace-itn
+grants:
+- anr-rem
+grants:
+- pace-itn
+grants:
+- anr-rem
+grants:
+- pace-itn
+grants:
+- anr-rem
+grants:
+- pace-itn
 links:
 - name: URL
   url: https://jov.arvojournals.org/article.aspx?articleid=2707670
@@ -21,7 +81,19 @@ publication: '*Journal of Vision*'
 publication_types:
 - article-journal
 title: Reinforcement effects in anticipatory smooth eye movements
-tags: ["eye-movements", "primary-visual-cortex"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- eye-movements
+- primary-visual-cortex
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
+
+
+
+

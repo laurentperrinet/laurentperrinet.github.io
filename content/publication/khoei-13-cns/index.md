@@ -1,4 +1,5 @@
----authors:
+---
+authors:
 - Mina A Khoei
 - Giacomo Benvenuti
 - Frédéric Y Chavane
@@ -26,6 +27,7 @@ categories:
 projects:
 - facets-itn
 ---
+
 
 
 

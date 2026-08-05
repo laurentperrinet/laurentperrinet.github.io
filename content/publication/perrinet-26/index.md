@@ -1,4 +1,5 @@
----title: Working Memory with Polychronous Chains
+---
+title: Working Memory with Polychronous Chains
 authors:
 - Laurent U Perrinet
 date: '2026-01-01'
@@ -24,6 +25,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

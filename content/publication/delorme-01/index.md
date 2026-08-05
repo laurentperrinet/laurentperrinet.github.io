@@ -22,7 +22,19 @@ publication_types:
 - article-journal
 title: 'Network of integrate-and-fire neurons using Rank Order Coding B: spike timing
   dependant plasticity and emergence of orientation selectivity'
-tags: ["metaplasticity", "primary-visual-cortex"]
-categories: ["Education", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- metaplasticity
+- primary-visual-cortex
+categories:
+- Education
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+projects:
+- ''
 ---
+
+
+
+
+
+

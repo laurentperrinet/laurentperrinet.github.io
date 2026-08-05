@@ -1,4 +1,5 @@
----abstract: Computations in a cortical column are characterized by the dynamical, event-based
+---
+abstract: Computations in a cortical column are characterized by the dynamical, event-based
   nature of neuronal signals and are structured by the layered and parallel structure
   of cortical areas. But they are also characterized by their efficiency in terms
   of rapidity and robustness. We propose and study here a model of information integration
@@ -63,6 +64,7 @@ categories:
 projects:
 - facets
 ---
+
 
 
 

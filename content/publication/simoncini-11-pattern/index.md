@@ -1,4 +1,5 @@
----abstract: In order to analyze the characteristics of a rich dynamic visual environment,
+---
+abstract: In order to analyze the characteristics of a rich dynamic visual environment,
   the visual system must integrate information collected at different scales through
   different spatiotemporal frequency channels. Still, it remains unclear how reliable
   representations of motion direction or speed are elaborated when presented with
@@ -51,6 +52,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

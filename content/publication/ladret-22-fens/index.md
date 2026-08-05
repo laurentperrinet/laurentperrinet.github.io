@@ -1,4 +1,5 @@
----authors:
+---
+authors:
 - Hugo Ladret
 - Laurent U Perrinet
 date: 2022-07-11
@@ -31,6 +32,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

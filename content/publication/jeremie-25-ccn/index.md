@@ -15,7 +15,7 @@ abstract: "Convolutional Neural Networks (CNNs) have been widely used for catego
   such as transformers, which excel at large-scale benchmarks. However, these approaches
   often come at a high computational cost. We take a different approach, prioritizing
   ecological plausibility to achieve high accuracy with minimal computational cost.
-  We focus on visual search --- a task requiring both localisation and categorisation
+  We focus on visual search, a task requiring both localisation and categorisation
   of a target object in natural scenes. Our work is inspired by the organisation of
   the primate visual system, which processes visual information through two distinct
   pathways: the ventral ''What'' pathway, responsible for object recognition, and

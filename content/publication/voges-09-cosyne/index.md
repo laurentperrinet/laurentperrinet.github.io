@@ -1,4 +1,5 @@
----abstract: 'Most studies of cor tical network dynamics are either based on purely random
+---
+abstract: 'Most studies of cor tical network dynamics are either based on purely random
   wiring or neighborhood couplings, e.g., [Kumar, Schrader, Aer tsen, Rotter, 2008,
   Neural Computation 20, 1--43]. Neuronal connections in the cor tex, however, show
   a complex spatial pattern composed of local and long-range connections, the latter
@@ -62,6 +63,7 @@ categories:
 projects:
 - facets
 ---
+
 
 
 

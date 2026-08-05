@@ -33,7 +33,6 @@ authors:
 date: 2012-01-01
 doi: 10.3389/conf.fnins.2012.86.00016
 featured: false
-- codde
 links:
 - name: URL
   url: https://www.frontiersin.org/myfrontiers/abstractdetails.aspx?abs_doi=10.3389/conf.fnins.2012.86.00016
@@ -44,7 +43,23 @@ publication_types:
 - inproceedings
 title: 'Measuring speed of moving textures: Different pooling of motion information
   for human ocular following and perception.'
-tags: ["eye-movements", "motion-perception", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- eye-movements
+- motion-perception
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- codde
+grants:
+- codde
 ---
+
+
+
+
+
+

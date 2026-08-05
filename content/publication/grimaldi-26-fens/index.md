@@ -39,8 +39,9 @@ links:
   url: https://fens2026.abstractserver.com/program/#/details/presentations/3594
 tags:
 - optimal-transport
-- emd
-- spike-timing
-- autoencoders
-- spatiotemporal-patterns
 ---
+
+
+
+
+

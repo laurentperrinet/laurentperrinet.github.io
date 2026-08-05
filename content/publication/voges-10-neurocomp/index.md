@@ -1,4 +1,5 @@
----abstract: 'We study cortical network dynamics for a more realistic network model.
+---
+abstract: 'We study cortical network dynamics for a more realistic network model.
   It represents, in terms of spatial scale, a large piece of cortex allowing for long-range
   connections, resulting in a rather sparse connectivity. We use two different types
   of conductance-based I&F neurons as excitatory and inhibitory units, as well as
@@ -34,6 +35,7 @@ categories:
 projects:
 - facets
 ---
+
 
 
 

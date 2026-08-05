@@ -1,4 +1,5 @@
----abstract: Motion detection represents one of the critical tasks of the visual system
+---
+abstract: Motion detection represents one of the critical tasks of the visual system
   and has motivated a large body of research. However, it remains unclear precisely
   why the response of retinal ganglion cells (RGCs) to simple artificial stimuli does
   not predict their response to complex, naturalistic stimuli. To explore this topic,
@@ -48,6 +49,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

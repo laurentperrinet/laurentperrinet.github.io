@@ -10,16 +10,27 @@ authors:
 - Laurent U Perrinet
 date: 2017-01-01
 featured: false
-- doc-2-amu
-- phd-icn
-
 publication: '*Doc2AMU Doctoral Day - 2017-10-13*'
 publication_types:
 - inproceedings
 title: Controlling an aerial robot with human gestures using bio-inspired algorithm
-tags: ["predictive-coding", "sparse-coding"]
-categories: ["Behavioural Neuroscience", "Computer Vision", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- predictive-coding
+- sparse-coding
+categories:
+- Behavioural Neuroscience
+- Computer Vision
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- doc-2-amu
+- phd-icn
 ---
+
+
+
+
+
+
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

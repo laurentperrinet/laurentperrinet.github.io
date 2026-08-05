@@ -1,4 +1,5 @@
----title: Working Memory in Recurrent Spiking Neural Networks With Heterogeneous Synaptic
+---
+title: Working Memory in Recurrent Spiking Neural Networks With Heterogeneous Synaptic
   Delays
 authors:
 - Laurent U Perrinet
@@ -17,6 +18,7 @@ tags: ["neuromorphic-computing", "spiking-neural-networks"]
 categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
 projects: [""]
 ---
+
 
 
 

@@ -17,17 +17,29 @@ authors:
 - Laurent U Perrinet
 date: 2019-01-01
 featured: false
-- doc-2-amu
-- phd-icn
-- mesocentre
-
 publication: '*GdR Robotics - 2019-06-05*'
 publication_types:
 - inproceedings
 title: Top-down connection in Hierarchical Sparse Coding
-tags: ["bayesian-modelling", "predictive-coding", "sparse-coding"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- predictive-coding
+- sparse-coding
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+projects:
+- doc-2-amu
+- phd-icn
+- mesocentre
 ---
+
+
+
+
+
+
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

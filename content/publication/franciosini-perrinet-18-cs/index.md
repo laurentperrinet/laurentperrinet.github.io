@@ -45,8 +45,6 @@ authors:
 - Laurent U Perrinet
 date: 2018-01-01
 featured: false
-- doc-2-amu
-- phd-icn
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/franciosini-perrinet-18-cs/
@@ -55,9 +53,24 @@ publication: '*Curves and Surfaces 2018, Arcachon*'
 publication_types:
 - inproceedings
 title: On the Origins of Hierarchy in Visual Processing
-tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding"]
-categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
-projects: [""]
+tags:
+- predictive-coding
+- primary-visual-cortex
+- sparse-coding
+categories:
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Visual Neuroscience
+projects:
+- doc-2-amu
+- phd-icn
 ---
+
+
+
+
+
+
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

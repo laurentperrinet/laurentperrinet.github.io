@@ -1,4 +1,5 @@
----authors:
+---
+authors:
 - Laurent U Perrinet
 - Jens Kremkow
 date: 2006-01-01
@@ -20,6 +21,7 @@ categories:
 projects:
 - facets
 ---
+
 
 
 

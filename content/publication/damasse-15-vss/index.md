@@ -41,7 +41,22 @@ publication: '*Proceedings of VSS*'
 publication_types:
 - inproceedings
 title: Anticipatory smooth eye movements and reinforcement
-tags: ["bayesian-modelling", "eye-movements", "motion-perception", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- eye-movements
+- motion-perception
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+projects:
+- ''
 ---
+
+
+
+
+
+

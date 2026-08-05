@@ -1,4 +1,5 @@
----authors:
+---
+authors:
 - Jean-Nicolas Jérémie
 - Emmanuel Daucé
 - Laurent U Perrinet
@@ -39,6 +40,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

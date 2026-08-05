@@ -16,7 +16,6 @@ authors:
 - Stéphane Viollet
 date: 2018-01-01
 featured: false
-- doc-2-amu
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/abstract/document/8351433
@@ -28,7 +27,22 @@ publication_types:
 - inproceedings
 title: 'M2APix: a bio-inspired auto-adaptive visual sensor for robust ground height
   estimation'
-tags: ["bio-inspired", "motion-detection", "motion-perception", "neuro-inspired", "optic-flow"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- bio-inspired
+- motion-detection
+- motion-perception
+- neuro-inspired
+- optic-flow
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- doc-2-amu
 ---
+
+
+
+
+
+

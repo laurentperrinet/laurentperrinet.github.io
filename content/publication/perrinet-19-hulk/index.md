@@ -32,6 +32,66 @@ grants:
 - anr-horizontal-v1
 grants:
 - spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
 links:
 - name: Code
   url: https://github.com/SpikeAI/HULK
@@ -41,10 +101,26 @@ publication: '*Vision*'
 publication_types:
 - article-journal
 title: An adaptive homeostatic algorithm for the unsupervised learning of visual features
-tags: ["homeostasis", "primary-visual-cortex", "sparse-coding", "spiking-neural-networks"]
-categories: ["Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- homeostasis
+- primary-visual-cortex
+- sparse-coding
+- spiking-neural-networks
+categories:
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+projects:
+- ''
 ---
+
+
+
+
+
+
 # "An adaptive algorithm for unsupervised learning"
 {{< video src="https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4" controls="yes" >}}
  * supplementary info : https://spikeai.github.io/HULK/

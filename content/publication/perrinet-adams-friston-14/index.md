@@ -1,4 +1,5 @@
----abstract: This paper considers the problem of sensorimotor delays in the optimal control
+---
+abstract: This paper considers the problem of sensorimotor delays in the optimal control
   of (smooth) eye movements under uncertainty. Specifically, we consider delays in
   the visuo-oculomotor loop and their implications for active inference. Active inference
   uses a generalisation of Kalman filtering to provide Bayes optimal estimates of
@@ -46,6 +47,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

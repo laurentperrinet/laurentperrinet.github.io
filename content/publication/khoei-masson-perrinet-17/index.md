@@ -1,4 +1,5 @@
----abstract: Due to its inherent neural delays, the visual system has an outdated access
+---
+abstract: Due to its inherent neural delays, the visual system has an outdated access
   to sensory information about the current position of moving objects. In contrast,
   living organisms are remarkably able to track and intercept moving objects under
   a large range of challenging environmental conditions. Physiological, behavioral
@@ -68,6 +69,7 @@ categories:
 projects:
 - facets-itn
 ---
+
 
 
 

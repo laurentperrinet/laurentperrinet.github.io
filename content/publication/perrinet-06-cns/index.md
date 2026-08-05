@@ -1,4 +1,5 @@
----abstract: 'We describe the theoretical formulation of a learning algorithm in a model
+---
+abstract: 'We describe the theoretical formulation of a learning algorithm in a model
   of the primary visual cortex (V1) and present results of the efficiency of this
   algorithm by comparing it to the SparseNet algorithm (Olshausen, 1996). As the SparseNet
   algorithm, it is based on a model of signal synthesis as a Linear Generative Model
@@ -32,6 +33,7 @@ projects: [""]
 projects:
 - facets
 ---
+
 
 
 

@@ -41,7 +41,21 @@ publication: '*Journal of Neurophysiology*'
 publication_types:
 - article-journal
 title: Testing the odds of inherent vs. observed overdispersion in neural spike counts
-tags: ["bayesian-modelling", "primary-visual-cortex", "spiking-neural-networks"]
-categories: ["Biological Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- bayesian-modelling
+- primary-visual-cortex
+- spiking-neural-networks
+categories:
+- Biological Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
+
+
+
+

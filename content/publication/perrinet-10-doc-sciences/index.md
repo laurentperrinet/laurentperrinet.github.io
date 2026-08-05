@@ -1,4 +1,5 @@
----authors:
+---
+authors:
 - Laurent U Perrinet
 date: 2011-06-20
 featured: false
@@ -20,6 +21,7 @@ categories:
 projects:
 - tout-public
 ---
+
 
 
 

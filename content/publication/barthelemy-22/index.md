@@ -55,7 +55,22 @@ publishDate: '2022-06-30T05:54:01.160596Z'
 subtitle: ''
 title: 'A Behavioral Receptive Field for Ocular Following in Monkeys: Spatial Summation
   and Its Spatial Frequency Tuning'
-tags: ["eye-movements", "motion-perception", "sparse-coding"]
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- eye-movements
+- motion-perception
+- sparse-coding
+categories:
+- Behavioural Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
+
+
+
+

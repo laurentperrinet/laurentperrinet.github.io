@@ -1,4 +1,5 @@
----abstract: Sensory informations such as visual images are inherently variable. We use
+---
+abstract: Sensory informations such as visual images are inherently variable. We use
   probabilistic models to describe how the low-level visual system could describe
   superposed and ambiguous information. This allows to describe the interactions of
   neighboring populations of neurons as inference rules that dynamically build up
@@ -22,6 +23,7 @@ tags: ["bayesian-modelling", "motion-perception"]
 categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
 projects: [""]
 ---
+
 
 
 

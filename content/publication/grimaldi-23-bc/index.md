@@ -6,7 +6,6 @@ date: 2023-09-11
 doi: 10.1007/s00422-023-00975-8
 draft: false
 featured: false
-- aprovis3D
 grants:
 - anr-anr
 - polychronies
@@ -29,10 +28,28 @@ publishDate: '2022-11-17T11:15:57.021954Z'
 subtitle: ''
 title: Learning heterogeneous delays in a layer of spiking neurons for fast motion
   detection
-tags: ["motion-detection", "motion-perception", "neuromorphic-computing", "polychrony", "spiking-motifs", "spiking-neural-networks"]
-categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- motion-detection
+- motion-perception
+- neuromorphic-computing
+- polychrony
+- spiking-motifs
+- spiking-neural-networks
+categories:
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- aprovis3D
+- anr-anr
+- polychronies
 ---
+
+
+
+
+
+
 {{< video src="2023-09-14_HDSNN_video-abstract.mp4" controls="yes" >}}
 
  * read the paper [online](https://doi.org/10.1007/s00422-023-00975-8) (paywall) or read the reprint as [PDF](https://laurentperrinet.github.io/publication/grimaldi-23-bc/grimaldi-23-bc.pdf)

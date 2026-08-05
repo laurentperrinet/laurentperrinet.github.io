@@ -16,7 +16,7 @@ doi: 10.1167/jov.25.11.2
 abstract: The visual systems of animals work in diverse and constantly changing environments
   where organism survival requires effective senses. To study the hierarchical brain
   networks that perform visual information processing, vision scientists require suitable
-  tools, and Motion Clouds (MCs)---a dense mixture of drifting Gabor textons---serve
+  tools, and Motion Clouds (MCs), a dense mixture of drifting Gabor textons, serve
   as a versatile solution. Here, we present an open toolbox intended for the bespoke
   use of MC functions and objects within modeling or experimental psychophysics contexts,
   including easy integration within Psychtoolbox or PsychoPy environments. The toolbox
@@ -40,6 +40,7 @@ tags: ["motion-clouds", "motion-perception", "predictive-coding"]
 categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
 projects: ["open-science"]
 ---
+
 🚀 Excited to share our new paper: 
 
 > "DynTex: A real-time generative model of dynamic naturalistic luminance textures"

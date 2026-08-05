@@ -1,4 +1,5 @@
----authors:
+---
+authors:
 - Laurent U Perrinet
 date: 2023-01-01
 draft: false
@@ -25,6 +26,7 @@ projects:
 - tout-public
 - art-science
 ---
+
 
 
 

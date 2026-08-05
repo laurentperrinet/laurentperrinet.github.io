@@ -14,10 +14,13 @@ links:
 - name: HAL
   url: https://hal.science/hal-05364582
 tags:
+- polychrony
+- spiking-motifs
 - spiking-neural-networks
 - temporal-coding
-- synaptic-delays
-- motif-recognition
-- leaky-integrate-and-fire
-- neuromorphic-computing
 ---
+
+
+
+
+

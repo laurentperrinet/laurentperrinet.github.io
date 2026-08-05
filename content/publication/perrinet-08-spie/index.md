@@ -1,4 +1,5 @@
----abstract: 'If modern computers are sometimes superior to cognition in some specialized
+---
+abstract: 'If modern computers are sometimes superior to cognition in some specialized
   tasks such as playing chess or browsing a large database, they can''t beat the efficiency
   of biological vision for such simple tasks as recognizing a relative or following
   an object in a complex background. We present in this paper our attempt at outlining
@@ -39,6 +40,7 @@ projects: [""]
 projects:
 - facets
 ---
+
 
 
 

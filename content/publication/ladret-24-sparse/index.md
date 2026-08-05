@@ -1,4 +1,5 @@
----abstract: 'Both biological and artificial neural networks inherently balance their
+---
+abstract: 'Both biological and artificial neural networks inherently balance their
   performance with their operational cost, which balances their computational abilities.
   Typically, an efficient neuromorphic neural network is one that learns representations
   that reduce the redundancies and dimensionality of its input. This is for instance
@@ -66,6 +67,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

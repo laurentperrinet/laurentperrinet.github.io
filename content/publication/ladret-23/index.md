@@ -26,6 +26,81 @@ grants:
 grants:
 - anr-anr
 - polychronies
+grants:
+- anr-horizontal-v1
+grants:
+- anr-anr
+- polychronies
+grants:
+- anr-horizontal-v1
+grants:
+- anr-anr
+- polychronies
+grants:
+- anr-horizontal-v1
+grants:
+- anr-anr
+- polychronies
+grants:
+- anr-horizontal-v1
+grants:
+- anr-anr
+- polychronies
+grants:
+- anr-horizontal-v1
+grants:
+- anr-anr
+- polychronies
+grants:
+- anr-horizontal-v1
+grants:
+- anr-anr
+- polychronies
+grants:
+- anr-horizontal-v1
+grants:
+- anr-anr
+- polychronies
+grants:
+- anr-horizontal-v1
+grants:
+- anr-anr
+- polychronies
+grants:
+- anr-horizontal-v1
+grants:
+- anr-anr
+- polychronies
+grants:
+- anr-horizontal-v1
+grants:
+- anr-anr
+- polychronies
+grants:
+- anr-horizontal-v1
+grants:
+- anr-anr
+- polychronies
+grants:
+- anr-horizontal-v1
+grants:
+- anr-anr
+- polychronies
+grants:
+- anr-horizontal-v1
+grants:
+- anr-anr
+- polychronies
+grants:
+- anr-horizontal-v1
+grants:
+- anr-anr
+- polychronies
+grants:
+- anr-horizontal-v1
+grants:
+- anr-anr
+- polychronies
 links:
 - name: Dataset
   url: https://figshare.com/articles/dataset/Data_for_Ladret_et_al_2023_Cortical_recurrence_supports_resilience_to_sensory_variance_in_the_primary_visual_cortex_/23366588
@@ -43,10 +118,28 @@ publication_types:
 - article-journal
 title: Cortical recurrence supports resilience to sensory variance in the primary
   visual cortex
-tags: ["bayesian-modelling", "motion-perception", "predictive-coding", "primary-visual-cortex", "visual-illusions"]
-categories: ["Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- motion-perception
+- predictive-coding
+- primary-visual-cortex
+- visual-illusions
+categories:
+- Biological Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+projects:
+- ''
 ---
+
+
+
+
+
+
 * open access: https://www.nature.com/articles/s42003-023-05042-3
 * 5 minutes summary: https://hugoladret.github.io/publications/ladret_et_al_variance_v1/
 ![Artboard](Artboard.png)

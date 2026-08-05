@@ -26,7 +26,6 @@ authors:
 date: 2021-02-26
 draft: false
 featured: false
-- aprovis3D
 image:
   caption: ''
   focal_point: Smart
@@ -43,10 +42,24 @@ publication_types:
 - inproceedings
 subtitle: ''
 title: A robust bio-inspired approach to event-driven object recognition
-tags: ["homeostasis", "metaplasticity", "neuromorphic-computing"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- homeostasis
+- metaplasticity
+- neuromorphic-computing
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- aprovis3D
 ---
+
+
+
+
+
+
 ![](@laurentperrinet_1364962423120265218_tweetcapture.png)
 {{< figure src="poster.png" width="100%" >}}
 * see the poster online on the [Hopin platform](https://app.hopin.com/events/cosyne-2021/expo/377631)

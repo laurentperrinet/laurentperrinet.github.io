@@ -24,15 +24,31 @@ authors:
 - Guillaume S Masson
 date: 2013-01-01
 featured: false
-- brain-scales
-- codde
-
 publication: '*VSS Conference Abstract*'
 publication_types:
 - inproceedings
 title: 'Measuring speed of moving textures: Different pooling of motion information
   for human ocular following and perception'
-tags: ["eye-movements", "motion-perception", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- eye-movements
+- motion-perception
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
+
+
+grants:
+- brain-scales
+- codde
 ---
+
+
+
+
+
+

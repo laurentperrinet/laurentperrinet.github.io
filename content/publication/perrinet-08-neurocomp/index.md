@@ -1,4 +1,5 @@
----authors:
+---
+authors:
 - Laurent U Perrinet
 - Emmanuel Daucé
 date: 2008-10-01
@@ -22,6 +23,7 @@ categories:
 projects:
 - facets-itn
 ---
+
 
 
 

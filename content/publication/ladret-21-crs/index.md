@@ -5,7 +5,6 @@ authors:
 date: 2021-10-15
 draft: false
 featured: false
-- aprovis3D
 grants:
 - anr-anr
 image:
@@ -22,8 +21,20 @@ publication_types:
 - inproceedings
 subtitle: ''
 title: Decoding orientation distributions from noisy observations in V1
-tags: ["primary-visual-cortex"]
-categories: ["Computational Neuroscience", "Education", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- primary-visual-cortex
+categories:
+- Computational Neuroscience
+- Education
+- Outreach & Public Engagement
+projects:
+- aprovis3D
+- anr-anr
 ---
+
+
+
+
+
+
 * This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}

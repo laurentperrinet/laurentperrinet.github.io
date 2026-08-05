@@ -30,16 +30,30 @@ authors:
 code: https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars
 date: 2017-01-01
 featured: false
-- doc-2-amu
-
 publication: '*SPARS2017, Lisbon*'
 publication_types:
 - inproceedings
 title: Efficient learning of sparse image representations using homeostatic regulation
-tags: ["homeostasis", "metaplasticity", "sparse-coding", "spiking-neural-networks"]
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- homeostasis
+- metaplasticity
+- sparse-coding
+- spiking-neural-networks
+categories:
+- Behavioural Neuroscience
+- Computational Neuroscience
+- Education
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+projects:
+- doc-2-amu
 ---
+
+
+
+
+
+
 * This work is a followup of [Perrinet, 2010, Neural Computation]({{< ref "/publication/perrinet-10-shl" >}})
 * code is available @ https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars and heavily uses https://github.com/bicv/SparseHebbianLearning
 * the [poster (PDF)](https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars/raw/master/docs/BoutinRuffierPerrinet17spars.pdf)  will be presented Thursday, June 8 @ [SPARS, Lisbon](https://spars2017.lx.it.pt/index_files/SPARS2017_program.html).

@@ -24,9 +24,6 @@ authors:
 date: 2020-02-04
 doi: 10.1162/neco_a_01325
 featured: false
-- mesocentre
-- doc-2-amu
-- phd-icn
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/
@@ -37,10 +34,26 @@ publication: '*Neural Computation*'
 publication_types:
 - article-journal
 title: Effect of top-down connections in Hierarchical Sparse Coding
-tags: ["bayesian-modelling", "predictive-coding", "sparse-coding"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- bayesian-modelling
+- predictive-coding
+- sparse-coding
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- mesocentre
+- doc-2-amu
+- phd-icn
 ---
+
+
+
+
+
+
 ![](@laurentperrinet_1323549136088694790_tweetcapture.png)
  * get the code @ https://github.com/VictorBoutin/SPC_2L
 * see a related work describing SDPC in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}

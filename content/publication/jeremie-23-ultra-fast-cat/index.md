@@ -31,7 +31,6 @@ date: 2023-03-21
 doi: 10.3390/vision7020029
 draft: false
 featured: false
-- aprovis3D
 grants:
 - anr-anr
 image:
@@ -47,10 +46,28 @@ publication: '*Vision*'
 publication_types:
 - article-journal
 title: Ultra-Fast Image Categorization in biology and in neural models
-tags: ["classification", "deep-learning", "efficient-coding", "psychophysics", "ultra-fast-categorization"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- classification
+- deep-learning
+- efficient-coding
+- psychophysics
+- ultra-fast-categorization
+categories:
+- Behavioural Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+projects:
+- aprovis3D
+- anr-anr
 ---
+
+
+
+
+
+
 {{< video src="Jeremie-etal-Vision_video-abstract.mp4" controls="yes" >}}
  * read the paper [online](https://www.mdpi.com/2411-5150/7/2/29) or in [PDF](https://www.mdpi.com/2411-5150/7/2/29/pdf)
  * [full code](https://github.com/SpikeAI/2022-09_UltraFastCat) with extensive [Supplementary Material](https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.py)

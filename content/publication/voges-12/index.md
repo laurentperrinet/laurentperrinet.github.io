@@ -26,10 +26,10 @@ authors:
 date: 2012-01-01
 doi: 10.3389/fncom.2012.00041
 featured: false
-- brain-scales
-- codde
 grants:
 - facets
+- brain-scales
+- codde
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/voges-12
@@ -39,9 +39,21 @@ publication_types:
 - article-journal
 title: Complex dynamics in recurrent cortical networks based on spatially realistic
   connectivities
-tags: ["spiking-neural-networks"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- spiking-neural-networks
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
+
+
+
+
 ![header](voges-12.png)
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}

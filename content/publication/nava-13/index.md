@@ -1,4 +1,5 @@
----abstract: In recent years, with the advent of High-resolution Computed Tomography
+---
+abstract: In recent years, with the advent of High-resolution Computed Tomography
   (HRCT), there has been an increased interest for diagnosing Chronic Obstructive
   Pulmonary Disease (COPD), which is commonly presented as emphysema. Since low-attenuation
   areas in HRCT images describe different emphysema patterns, the discrimination problem
@@ -38,6 +39,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

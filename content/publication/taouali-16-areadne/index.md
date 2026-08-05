@@ -55,7 +55,25 @@ publication_types:
 - inproceedings
 title: A dynamic model for decoding direction and orientation in macaque primary visual
   cortex
-tags: ["homeostasis", "metaplasticity", "motion-perception", "primary-visual-cortex", "sparse-coding"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
-projects: [""]
+tags:
+- homeostasis
+- metaplasticity
+- motion-perception
+- primary-visual-cortex
+- sparse-coding
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Visual Neuroscience
+projects:
+- ''
 ---
+
+
+
+
+
+

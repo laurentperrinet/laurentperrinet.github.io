@@ -29,7 +29,81 @@ authors:
 - Andrew P Davison
 date: 2009-01-01
 featured: false
-- brain-scales
+grants:
+- facets
+grants:
+- facets-itn
+- open-science
+grants:
+- facets
+grants:
+- facets-itn
+- open-science
+grants:
+- facets
+grants:
+- facets-itn
+- open-science
+grants:
+- facets
+grants:
+- facets-itn
+- open-science
+grants:
+- facets
+grants:
+- facets-itn
+- open-science
+grants:
+- facets
+grants:
+- facets-itn
+- open-science
+grants:
+- facets
+grants:
+- facets-itn
+- open-science
+grants:
+- facets
+grants:
+- facets-itn
+- open-science
+grants:
+- facets
+grants:
+- facets-itn
+- open-science
+grants:
+- facets
+grants:
+- facets-itn
+- open-science
+grants:
+- facets
+grants:
+- facets-itn
+- open-science
+grants:
+- facets
+grants:
+- facets-itn
+- open-science
+grants:
+- facets
+grants:
+- facets-itn
+- open-science
+grants:
+- facets
+grants:
+- facets-itn
+- open-science
+grants:
+- facets
+grants:
+- facets-itn
+- open-science
 grants:
 - facets
 grants:
@@ -39,8 +113,21 @@ publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'
 publication_types:
 - inproceedings
 title: 'NeuralEnsemble: Towards a meta-environment for network modeling and data analysis'
-tags: ["neuromorphic-computing", "pynn", "spiking-neural-networks"]
-categories: ["Biological Neuroscience", "Computational Neuroscience", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- neuromorphic-computing
+- pynn
+- spiking-neural-networks
+categories:
+- Biological Neuroscience
+- Computational Neuroscience
+- Outreach & Public Engagement
+projects:
+- open-science
 ---
+
+
+
+
+
+
 * see a follow-up: {{< cite page="/publication/davison-08" view="4" >}}

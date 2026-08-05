@@ -1,4 +1,5 @@
----abstract: I will illustrate in this talk how computational neuroscience may inspire
+---
+abstract: I will illustrate in this talk how computational neuroscience may inspire
   and be inspired by mathematical image processing. Focusing on efficiently representing
   natural images in the primary visual cortex, we derive an event-based adaptive algorithm
   inspired by statistical inference, Matching Pursuit and Hebbian learning. This algorithm
@@ -28,6 +29,7 @@ projects: [""]
 projects:
 - facets-itn
 ---
+
 
 
 

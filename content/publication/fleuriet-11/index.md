@@ -36,7 +36,21 @@ publication: '*Journal of Neurophysiology*'
 publication_types:
 - article-journal
 title: Saccadic foveation of a moving visual target in the rhesus monkey
-tags: ["eye-movements", "motion-detection"]
-categories: ["Biological Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- eye-movements
+- motion-detection
+categories:
+- Biological Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+projects:
+- ''
 ---
+
+
+
+
+
+

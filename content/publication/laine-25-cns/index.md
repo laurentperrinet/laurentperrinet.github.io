@@ -1,4 +1,5 @@
----title: 'Population decoding of visual motion direction in V1 marmoset monkey : effects
+---
+title: 'Population decoding of visual motion direction in V1 marmoset monkey : effects
   of uncertainty'
 authors:
 - Alexandre Lainé
@@ -26,6 +27,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

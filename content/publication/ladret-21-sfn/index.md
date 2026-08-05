@@ -1,4 +1,5 @@
----abstract: The primary visual cortex (V1) processes complex mixtures of orientations
+---
+abstract: The primary visual cortex (V1) processes complex mixtures of orientations
   to build neural representations of our everyday visual environment. It remains unclear
   how V1 adapts to the highly volatile distributions of orientations found in natural
   images. We used naturalistic stimuli and measured the response of V1 neurons to
@@ -46,6 +47,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

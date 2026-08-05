@@ -33,6 +33,66 @@ grants:
 - anr-horizontal-v1
 grants:
 - spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
+grants:
+- anr-horizontal-v1
+grants:
+- spikeai
 links:
 - name: Code
   url: https://github.com/laurentperrinet/Perrinet20PredictiveProcessing_manubot
@@ -45,10 +105,32 @@ publication_types:
 - inbook
 title: 'From the retina to action: Dynamics of predictive processing in the visual
   system'
-tags: ["bayesian-modelling", "foveated-vision", "log-polar-mapping", "motion-perception", "predictive-coding", "primary-visual-cortex", "retinotopy"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- foveated-vision
+- log-polar-mapping
+- motion-perception
+- predictive-coding
+- primary-visual-cortex
+- retinotopy
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+- Visual Neuroscience
+projects:
+- ''
 ---
+
+
+
+
+
+
  * Find the text at https://laurentperrinet.github.io/Perrinet20PredictiveProcessing/
  * The source code of the text is available at https://github.com/laurentperrinet/Perrinet20PredictiveProcessing
 This chapter is available as part of the book "[The Philosophy and Science of Predictive Processing](https://www.bloomsbury.com/uk/the-philosophy-and-science-of-predictive-processing-9781350099753/)" :

@@ -19,7 +19,19 @@ publication_types:
 - inproceedings
 title: 'Operant reinforcement versus reward expectancy: effects on anticipatory eye
   movements'
-tags: ["eye-movements", "smooth-pursuit-eye-movement"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- eye-movements
+- smooth-pursuit-eye-movement
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
+
+
+
+

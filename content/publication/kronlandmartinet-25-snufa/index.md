@@ -1,4 +1,5 @@
----title: Detection of spiking motifs of arbitrary length in neural activity using bounded
+---
+title: Detection of spiking motifs of arbitrary length in neural activity using bounded
   synaptic delays
 authors:
 - Thomas Kronland-Martinet
@@ -15,7 +16,7 @@ links:
 - name: HAL
   url: https://amu.hal.science/hal-05368448
 tags:
-- polychronicity
+- polychrony
 - spiking-motifs
 - spiking-neural-networks
 - temporal-coding
@@ -25,6 +26,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

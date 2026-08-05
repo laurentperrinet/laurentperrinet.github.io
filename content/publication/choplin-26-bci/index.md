@@ -29,7 +29,24 @@ links:
   url: https://hal.science/hal-05627987
 - name: IEEE
   url: https://ieeexplore.ieee.org/document/11435104
-tags: ["classification", "electroencephalogram", "mental-state-monitoring", "mental-workload", "riemannian-geometry", "spatial-covariance-matrices", "temporal-generalization"]
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- classification
+- electroencephalogram
+- mental-state-monitoring
+- mental-workload
+- riemannian-geometry
+- spatial-covariance-matrices
+- temporal-generalization
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- ''
 ---
+
+
+
+
+
+

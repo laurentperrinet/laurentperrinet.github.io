@@ -1,4 +1,5 @@
----abstract: A common practice to account for psychophysical biases in vision is to frame
+---
+abstract: A common practice to account for psychophysical biases in vision is to frame
   them as consequences of a dynamic process relying on optimal inference with respect
   to a generative model. The present study details the complete formulation of such
   a generative model intended to probe visual motion perception. It is first derived
@@ -54,6 +55,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

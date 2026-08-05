@@ -1,4 +1,5 @@
----authors:
+---
+authors:
 - Nicole Voges
 - Laurent U Perrinet
 date: 2008-10-01
@@ -19,6 +20,7 @@ categories:
 projects:
 - facets
 ---
+
 
 
 

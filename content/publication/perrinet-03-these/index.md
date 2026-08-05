@@ -1,4 +1,5 @@
----authors:
+---
+authors:
 - Laurent U Perrinet
 date: 2003-01-01
 featured: false
@@ -22,6 +23,7 @@ categories:
 projects:
 - ''
 ---
+
 
 
 

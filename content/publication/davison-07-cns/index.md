@@ -42,8 +42,24 @@ publication: '*Sixteenth Annual Computational Neuroscience Meeting: CNS*2007, To
 publication_types:
 - inproceedings
 title: 'PyNN: towards a universal neural simulator API in Python'
-tags: ["neural-simulator", "neuromorphic-computing", "pynn", "python", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- neural-simulator
+- neuromorphic-computing
+- pynn
+- python
+- spiking-neural-networks
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- facets
+- open-science
 ---
+
+
+
+
+
+
 * see a follow-up: {{< cite page="/publication/davison-08" view="4" >}}

@@ -1,4 +1,5 @@
----abstract: ''
+---
+abstract: ''
 abstract_short: A mobile visual clothing search system is presented whereby a smart
   phone user can either choose a social networking image or capture a new photo of
   a person wearing clothing of interest and search for similar clothing in a large
@@ -45,6 +46,7 @@ projects: [""]
 projects:
 - internal-project
 ---
+
 
 
 

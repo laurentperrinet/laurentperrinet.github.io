@@ -31,9 +31,6 @@ authors:
 - Laurent U Perrinet
 date: 2019-01-01
 featured: false
-- doc-2-amu
-- phd-icn
-- mesocentre
 links:
 - name: URL
   url: https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/790
@@ -44,9 +41,28 @@ publication_types:
 - inproceedings
 title: A hierarchical, multi-layer convolutional sparse coding algorithm based on
   predictive coding
-tags: ["bayesian-modelling", "predictive-coding", "primary-visual-cortex", "sparse-coding"]
-categories: ["Computational Neuroscience", "Computer Vision", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- predictive-coding
+- primary-visual-cortex
+- sparse-coding
+categories:
+- Computational Neuroscience
+- Computer Vision
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+- Visual Neuroscience
+projects:
+- doc-2-amu
+- phd-icn
+- mesocentre
 ---
+
+
+
+
+
+
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

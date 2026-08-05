@@ -1,4 +1,5 @@
----authors:
+---
+authors:
 - Jens Kremkow
 - Laurent U Perrinet
 - Ad M Aertsen
@@ -22,6 +23,7 @@ categories:
 projects:
 - facets
 ---
+
 
 
 

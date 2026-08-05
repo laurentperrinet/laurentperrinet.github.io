@@ -29,7 +29,22 @@ publication: '*bioRxiv*'
 publication_types:
 - article-journal
 title: Anticipatory Responses along Motion Trajectories in Awake Monkey Area V1
-tags: ["motion-perception", "primary-visual-cortex", "spiking-neural-networks"]
-categories: ["Biological Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
-projects: [""]
+tags:
+- motion-perception
+- primary-visual-cortex
+- spiking-neural-networks
+categories:
+- Biological Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Visual Neuroscience
+projects:
+- ''
 ---
+
+
+
+
+
+

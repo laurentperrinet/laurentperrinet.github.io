@@ -40,10 +40,27 @@ publication: '*International Journal of Computer Vision*'
 publication_types:
 - article-journal
 title: Self-Invertible 2D Log-Gabor Wavelets
-tags: ["log-gabor", "primary-visual-cortex", "sparse-coding", "visual-illusions"]
-categories: ["Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
-projects: [""]
+tags:
+- log-gabor
+- primary-visual-cortex
+- sparse-coding
+- visual-illusions
+categories:
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Theoretical Neuroscience
+- Visual Neuroscience
+projects:
+- facets
 ---
+
+
+
+
+
+
 This library defines the set of [LogGabor](https://pythonhosted.org/LogGabor/) kernels. These are generic edge-like filters at different scales, phases and orientations. The library develops a simple method to construct a simple multi-scale linear transform.
 * [Web-site](https://pythonhosted.org/LogGabor)
 * [Source code](https://github.com/bicv/LogGabor/)

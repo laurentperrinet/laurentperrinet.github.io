@@ -27,6 +27,66 @@ grants:
 - aprovis3D
 grants:
 - anr-anr
+grants:
+- aprovis3D
+grants:
+- anr-anr
+grants:
+- aprovis3D
+grants:
+- anr-anr
+grants:
+- aprovis3D
+grants:
+- anr-anr
+grants:
+- aprovis3D
+grants:
+- anr-anr
+grants:
+- aprovis3D
+grants:
+- anr-anr
+grants:
+- aprovis3D
+grants:
+- anr-anr
+grants:
+- aprovis3D
+grants:
+- anr-anr
+grants:
+- aprovis3D
+grants:
+- anr-anr
+grants:
+- aprovis3D
+grants:
+- anr-anr
+grants:
+- aprovis3D
+grants:
+- anr-anr
+grants:
+- aprovis3D
+grants:
+- anr-anr
+grants:
+- aprovis3D
+grants:
+- anr-anr
+grants:
+- aprovis3D
+grants:
+- anr-anr
+grants:
+- aprovis3D
+grants:
+- anr-anr
+grants:
+- aprovis3D
+grants:
+- anr-anr
 image:
   caption: ''
   focal_point: Smart
@@ -42,10 +102,33 @@ publication_types:
 publishDate: '2022-06-16T11:51:41.890310Z'
 subtitle: ''
 title: Ultra-rapid visual search in natural images using active deep learning
-tags: ["eye-movements", "foveated-vision", "log-polar-mapping", "primary-visual-cortex", "retinotopy", "spiking-neural-networks", "ultra-fast-categorization", "visual-search"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
-projects: [""]
+tags:
+- eye-movements
+- foveated-vision
+- log-polar-mapping
+- primary-visual-cortex
+- retinotopy
+- spiking-neural-networks
+- ultra-fast-categorization
+- visual-search
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+- Visual Neuroscience
+projects:
+- aprovis3D
+- anr-anr
 ---
+
+
+
+
+
+
 * This work extends to natural scenes a previous work on visual search on a simplified task formulated in  {{< cite page="/publication/dauce-20" view="4" >}}
 * It is based on a first work on transfer learning and its application to a natural task : {{< cite page="/publication/jeremie-23-ultra-fast-cat" view="4" >}}
 * in particular, we found retinotopic mapping to be adapted to that extension : {{< cite page="/talk/2022-06-19-neuro-vision-retinotopic" view="4" >}}

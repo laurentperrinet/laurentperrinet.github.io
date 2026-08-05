@@ -24,7 +24,6 @@ authors:
 date: 2012-01-01
 doi: 10.1167/12.9.1014
 featured: false
-- codde
 links:
 - name: URL
   url: https://www.journalofvision.org/content/12/9/1014.abstract?sid=9c51ff88-5b9a-4d1b-aaf1-a1219bd02b0a
@@ -33,7 +32,22 @@ publication: '*VSS Conference Abstract*'
 publication_types:
 - inproceedings
 title: Effect of image statistics on fixational eye movements
-tags: ["eye-movements", "motion-perception"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- eye-movements
+- motion-perception
+categories:
+- Behavioural Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Outreach & Public Engagement
+projects:
+- codde
+grants:
+- codde
 ---
+
+
+
+
+
+

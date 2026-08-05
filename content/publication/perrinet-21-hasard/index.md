@@ -1,4 +1,5 @@
----abstract: Dans la pièce de théâtre la plus célèbre de Marivaux Le jeu de l'amour et
+---
+abstract: Dans la pièce de théâtre la plus célèbre de Marivaux Le jeu de l'amour et
   du hasard, l'auteur joue à inverser le rôle des personnages, et le hasard est invité
   à guider leurs destins. De la même façon, notre cerveau est ballotté au gré du hasard,
   aussi bien dans une loterie que dans les incertitudes et ambiguı̈tés révélées dans
@@ -34,6 +35,7 @@ categories:
 projects:
 - tout-public
 ---
+
 
 
 
