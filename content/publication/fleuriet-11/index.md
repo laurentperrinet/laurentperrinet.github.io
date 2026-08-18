@@ -43,8 +43,8 @@ categories:
 - Biological Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 - Theoretical Neuroscience
 projects:
 - ''
 ---
+

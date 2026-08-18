@@ -32,7 +32,7 @@ tags:
 categories:
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - ''
 ---
+

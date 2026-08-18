@@ -27,8 +27,8 @@ tags:
 - primary-visual-cortex
 categories:
 - Education
-- Outreach & Public Engagement
 - Theoretical Neuroscience
 projects:
 - ''
 ---
+

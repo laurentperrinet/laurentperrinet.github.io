@@ -35,11 +35,11 @@ categories:
 - Biological Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 - Visual Neuroscience
 projects:
 - ''
 ---
+
 ![](@laurentperrinet_1546389505917206531_tweetcapture.png)
 * This work extends to natural scenes a previous work on visual search on a simplified task formulated in  {{< cite page="/publication/dauce-20" view="4" >}}
 * follows {{< cite page="/publication/jeremie-22-areadne" view="4" >}}

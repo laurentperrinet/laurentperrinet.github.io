@@ -47,12 +47,12 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 - Theoretical Neuroscience
 - Visual Neuroscience
 projects:
 - ''
 ---
+
 ![](@laurentperrinet_1555506825289662466_tweetcapture.png)
 
 * this paper follows this COSYNE presentation : {{< cite page="/publication/franciosini-20-cosyne" view="4" >}}

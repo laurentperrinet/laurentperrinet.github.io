@@ -41,9 +41,9 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 - Visual Neuroscience
 projects:
 - ''
 ---
+
 * Read the corresponding paper {{< cite page="/publication/jeremie-25" view="4" >}}

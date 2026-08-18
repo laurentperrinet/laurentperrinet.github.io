@@ -14,9 +14,10 @@ summary: La deuxième conférence française de Neurosciences Computationnelles,
   s'est déroulée à la Faculté de Médecine de Marseille du 8 au 11 octobre 2008.
 title: '2010-05-27 : Neurocomp08'
 tags: ["computational-neuroscience"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
+projects: ["", "tout-public"]
 ---
+
 
 # 2008-10-08 : Deuxième conférence française de Neurosciences Computationnelles, "Neurocomp08"
 

@@ -49,10 +49,10 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - aprovis3D
 ---
+
 * see a follow-up as journal paper: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}
 * presented at [ICIP 2022](https://2022.ieeeicip.org) 16-19 October 2022 in Bordeaux, France
 * paper [3241](https://cmsworkshops.com/ICIP2022/papers/accepted_papers.php) (note that the title of the paper was slightly changed)

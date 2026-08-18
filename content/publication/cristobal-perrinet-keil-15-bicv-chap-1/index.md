@@ -29,10 +29,10 @@ categories:
 - Computational Neuroscience
 - Computer Vision
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - ''
 grants:
 - brain-scales
 ---
+
 {{< figure src="mindmap.png" title="Mindmap of the book contents. Cross-links between chapters have been indicated as thin lines." >}}

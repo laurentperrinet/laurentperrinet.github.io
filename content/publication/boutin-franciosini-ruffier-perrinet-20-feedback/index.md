@@ -42,12 +42,12 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - mesocentre
 - doc-2-amu
 - phd-icn
 ---
+
 ![](@laurentperrinet_1323549136088694790_tweetcapture.png)
  * get the code @ https://github.com/VictorBoutin/SPC_2L
 * see a related work describing SDPC in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}

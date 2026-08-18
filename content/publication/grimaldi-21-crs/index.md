@@ -51,11 +51,11 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - aprovis3D
 - anr-anr
 ---
+
 {{< youtube aIt5OAleMR8 >}}
 * this proceedings paper follows up the poster presented at CBMI : {{< cite page="/publication/grimaldi-21-cbmi" view="4" >}}
 * read the follow-up paper : {{< cite page="/publication/grimaldi-24" view="4" >}}

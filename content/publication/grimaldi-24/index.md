@@ -56,10 +56,10 @@ tags:
 - spiking-neural-networks
 categories:
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - aprovis3D
 ---
+
 Main contributions:
 - Builds an adaptive, back to  back event-based pattern recognition architecture, inspired by neuroscience and capable of always-on decision, that is, that the decision can be taken it can be needed,
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-24/hots.png" title="The HOTS architecture." width="100%" >}}

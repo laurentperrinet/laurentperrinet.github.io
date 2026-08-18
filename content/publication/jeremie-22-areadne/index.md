@@ -117,12 +117,12 @@ categories:
 - Computer Vision
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 - Visual Neuroscience
 projects:
 - aprovis3D
 - anr-anr
 ---
+
 * This work extends to natural scenes a previous work on visual search on a simplified task formulated in  {{< cite page="/publication/dauce-20" view="4" >}}
 * It is based on a first work on transfer learning and its application to a natural task : {{< cite page="/publication/jeremie-23-ultra-fast-cat" view="4" >}}
 * in particular, we found retinotopic mapping to be adapted to that extension : {{< cite page="/talk/2022-06-19-neuro-vision-retinotopic" view="4" >}}

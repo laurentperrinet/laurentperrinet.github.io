@@ -44,9 +44,9 @@ categories:
 - Behavioural Neuroscience
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - aprovis3D
 ---
+
 * see a follow-up as journal paper: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}
 * presented at [GDR vision 2023 2022](https://gdr-vision-2023.sciencesconf.org/) January 2023 in Toulouse, France

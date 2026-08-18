@@ -21,7 +21,7 @@ tags:
 - eye-movements
 categories:
 - Computational Neuroscience
-- Outreach & Public Engagement
 projects:
 - ''
 ---
+

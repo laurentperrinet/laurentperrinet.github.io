@@ -30,8 +30,8 @@ categories:
 - Biological Neuroscience
 - Computational Neuroscience
 - Education
-- Outreach & Public Engagement
 - Theoretical Neuroscience
 projects:
 - ''
 ---
+

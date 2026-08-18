@@ -35,10 +35,10 @@ categories:
 - Behavioural Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - ''
 ---
+
 This year at #CCN2025 we will be showcasing our  research on the classification of Mental Workload 🥵 Spatial Effects using Riemannian Manifold. 
 📅 When: Wednesday, August 13, 1:00 – 4:00 pm
 📍 Where: CCN 2025 Conference Venue, de Brug & E-Hall

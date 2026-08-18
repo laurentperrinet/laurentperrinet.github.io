@@ -120,8 +120,8 @@ categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 - Visual Neuroscience
 projects:
 - ''
 ---
+

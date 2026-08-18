@@ -36,7 +36,7 @@ tags:
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - doc-2-amu
 ---
+

@@ -19,7 +19,7 @@ tags:
 - ''
 categories:
 - Computational Neuroscience
-- Outreach & Public Engagement
 projects:
 - ''
 ---
+

@@ -14,10 +14,10 @@ tags:
 - visual-illusions
 categories:
 - Education
-- Outreach & Public Engagement
 projects:
 - art-science
 ---
+
 
 # TROPIQUE
 

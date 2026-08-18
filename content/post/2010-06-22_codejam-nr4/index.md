@@ -20,11 +20,11 @@ tags:
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - facets
 - brain-scales
 ---
+
 
 # FACETS Code Jam Workshop \#4
 We held a CodeJam 22nd-24th June 2010, in Marseille.
