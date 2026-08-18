@@ -68,7 +68,7 @@ We showed that Spike Timing Dependant Plasticity (STDP) and recurrence are key c
 
 # Neuroscience Specialist for Artistic Creation (2018-07 / 2018-09)
 
-I developed computational neuroscience and computational physics models, in collaboration with well-known contemporary artist [Etienne Rey]({{< relref "/authors/etienne-rey" >}})
+I developed computational neuroscience and computational physics models, in collaboration with well-known contemporary artist [Étienne Rey]({{< relref "/authors/etienne-rey" >}})
  at Friche la Belle de Mai (Marseille) and AI researcher Laurent Perrinet. The idea behind our project was to create works of art by distributing particles in a constrained, semi-stable space, thereby creating discrete illusory perceptions.
 
 To dive into more technical details, my work included the implementation of a Boltzmann lattice for computational fluid dynamics (D2Q9 structure), as well as various electro-magnetic interaction models. On the neuroscience side, I used Deep Convoluted Generative Adverserial Networks (DCGAN), Kohonen maps and Canny edge detectors to generate triangulated graphs with a hidden underlying structure.

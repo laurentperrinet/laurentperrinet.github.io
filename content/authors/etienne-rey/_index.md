@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - etienne-rey
 title: Étienne Rey
@@ -21,16 +21,9 @@ social:
 superuser: false
 user_groups:
 - Collaborators
-tags:
-- visual-illusions
-projects:
-- ''
-categories:
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
-- Outreach & Public Engagement
 ---
+# collaboration avec Étienne Rey
+
 
 Le travail d’Étienne Rey explore la notion même d’espace. L’enjeu est de produire des déplacements de perception. Les questions du lieu, de l’environnement, de l’*in situ* et de l’architecture participent à la découverte de structures spatiales, par le biais de déplacements et de la démultiplication des points de vue.
 

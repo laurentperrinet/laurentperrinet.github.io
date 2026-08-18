@@ -20,7 +20,7 @@ abstract: La vision utilise un faisceau d'informations de différentes qualités
   des limites perceptives, et aussi les résultats apportés par une telle collaboration.
 authors:
 - Laurent U Perrinet
-- Etienne Rey
+- Étienne Rey
 date: 2017-01-01
 featured: false
 links:

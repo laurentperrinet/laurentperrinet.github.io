@@ -4,7 +4,7 @@ authors:
 date: 2019-10-21 09:00:00
 draft: false
 image:
-  caption: Artwork by [Etienne Rey](https://laurentperrinet.github.io/post/2019-06-22_ardemone/),
+  caption: Artwork by [Étienne Rey](https://laurentperrinet.github.io/post/2019-06-22_ardemone/),
     photo [Jean Luc Cougy](https://www.enrevenantdelexpo.com/2019/05/17/sans-gravite-une-poetique-de-air-ardenome-avignon/)
   focal_point: Smart
   placement: 2

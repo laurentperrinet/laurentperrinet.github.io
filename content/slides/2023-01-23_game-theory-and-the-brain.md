@@ -83,11 +83,11 @@ https://theconversation.com/daniel-kahneman-on-noise-the-flaw-in-human-judgement
 
 ---
 
-{{< figure src="https://laurentperrinet.github.io/post/2018-09-09_artorama/featured.png" title="[Instabilité, Etienne Rey.](https://laurentperrinet.github.io/post/2018-09-09_artorama/)" width="100%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2018-09-09_artorama/featured.png" title="[Instabilité, Étienne Rey.](https://laurentperrinet.github.io/post/2018-09-09_artorama/)" width="100%" >}}
 
 {{< speaker_note >}}
 
-- this was for instance used by the artist Etienne Rey to generate large panels
+- this was for instance used by the artist Étienne Rey to generate large panels
 - our perception will generate objects out of nowhere: surfaces, groups, holes...
 
 - this explains many cognitive biases, for instance that we expect noise to have some regularity and that we wish to explain any cluster of events by some god-like divinity...
