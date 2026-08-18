@@ -10,7 +10,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects: []
 ---
 <a href="https://laurentperrinet.github.io/grant/anr-anr">
 <img src="https://laurentperrinet.github.io/grant/anr-anr/header.png" alt="header" height="450">

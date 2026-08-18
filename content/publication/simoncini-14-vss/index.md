@@ -47,7 +47,6 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects: []
 grants:
 - brain-scales
 - codde

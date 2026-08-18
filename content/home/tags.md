@@ -1,10 +1,9 @@
----
+--- 
 widget: tag_cloud
 active: false
 headless: true
 weight: 70
 title: Tag Cloud
-subtitle: ''
 content:
   taxonomy:
   - HTML

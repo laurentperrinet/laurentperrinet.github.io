@@ -27,7 +27,6 @@ date: 2021-02-26
 draft: false
 featured: false
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2021-02-25 17:01:28+01:00
@@ -39,7 +38,6 @@ links:
 publication: '*Computational and Systems Neuroscience (Cosyne) 2021*'
 publication_types:
 - inproceedings
-subtitle: ''
 title: A robust bio-inspired approach to event-driven object recognition
 tags:
 - homeostasis

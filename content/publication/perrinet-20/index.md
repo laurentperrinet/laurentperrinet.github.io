@@ -59,7 +59,6 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects: []
 ---
 
  * Find the text at https://laurentperrinet.github.io/Perrinet20PredictiveProcessing/

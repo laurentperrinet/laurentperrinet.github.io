@@ -24,7 +24,6 @@ featured: false
 grants:
 - polychronies
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2023-07-21 13:12:04+02:00
@@ -38,7 +37,6 @@ publication_types:
 - inproceedings
 publishDate: '2023-07-21T11:12:04.721342Z'
 slides: 2023-09-27_icann
-subtitle: ''
 title: Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a
   Spiking Neural Network
 tags:
@@ -48,7 +46,6 @@ categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects: []
 ---
 
 * paper presented during the [32nd International Conference on Artificial Neural Networks (ICANN 2023)](https://e-nns.org/icann2023/)

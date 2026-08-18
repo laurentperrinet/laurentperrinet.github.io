@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - jenna-fradin
 title: Jenna Fradin
@@ -16,12 +16,5 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jenna-fradin-686845189/
-
-tags:
-- ''
-projects:
-- ''
-categories:
-- Education
 ---
 

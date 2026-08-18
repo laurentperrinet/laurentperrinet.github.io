@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - maria-jose-escobar
 title: Maria Jose Escobar
@@ -12,12 +12,4 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=EQfyAUAAAAAJ
-
-tags:
-- ''
-projects:
-- ''
-categories:
-- ''
 ---
-

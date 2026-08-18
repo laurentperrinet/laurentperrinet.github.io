@@ -21,7 +21,6 @@ tags:
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-projects: []
 ---
 
 * See the accompanying code: https://github.com/laurentperrinet/MNESIS

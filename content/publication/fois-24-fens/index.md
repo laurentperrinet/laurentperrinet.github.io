@@ -20,7 +20,6 @@ date: 2024-06-27
 draft: false
 featured: false
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2024-04-05 10:22:08+02:00
@@ -31,7 +30,6 @@ publication: '*Proceedings of the FENS Forum 2024*'
 publication_types:
 - inproceedings
 publishDate: '2024-04-05T08:22:04.452494Z'
-subtitle: ''
 title: Self-Supervised Learning of Spiking Motifs in Neurobiological Data
 tags:
 - homeostasis
@@ -40,6 +38,5 @@ categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects: []
 ---
 

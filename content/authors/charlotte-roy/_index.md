@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - charlotte-roy
 bio: During my PhD, I am focusing on Embodied cognition.
@@ -14,12 +14,6 @@ social:
 superuser: false
 user_groups:
 - Current Students
-tags:
-- ''
-projects:
-- ''
-categories:
-- Behavioral Neuroscience
 ---
 
 ## Metaverse, Avatar and Well-Being: Impact of avatar embodiment on well-being and decision-making in the Metaverse

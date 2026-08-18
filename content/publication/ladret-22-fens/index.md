@@ -8,7 +8,6 @@ featured: false
 grants:
 - anr-anr
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2022-06-08 13:33:46+02:00
@@ -19,7 +18,6 @@ publication: '*Proceedings of the FENS Forum 2022*'
 publication_types:
 - inproceedings
 publishDate: '2022-06-16T11:51:41.890310Z'
-subtitle: ''
 title: Recurrent cortical connectivity in the primary visual cortex supports robust
   encoding of natural sensory inputs
 tags:
@@ -27,7 +25,6 @@ tags:
 categories:
 - Computational Neuroscience
 - Visual Neuroscience
-projects: []
 ---
 
 ![](@laurentperrinet_1545743191198121985_tweetcapture.png)

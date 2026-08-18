@@ -21,7 +21,6 @@ abstract: 'Both biological and artificial neural networks inherently balance the
   computational efficiency, emphasizing the benefits of kernel heterogeneity to leverage
   naturalistic and variant input structures and possible applications to improve the
   throughput of neuromorphic hardware. '
-author_notes: []
 authors:
 - Hugo Ladret
 - Christian Casanova
@@ -30,7 +29,6 @@ date: 2024-08-20
 doi: 10.1088/2634-4386/ad5d0f
 featured: false
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 links:
@@ -39,18 +37,11 @@ links:
 - name: HAL
   url: https://hal.science/hal-04842588
 publication: Neuromorphic Computing and Engineering
-publication_short: ''
 publication_types:
 - article-journal
 publishDate: '2024-01-09T10:17:44.040592Z'
 title: Kernel Heterogeneity Improves Sparseness of Natural Images Representations
-url_code: ''
 url_dataset: https://figshare.com/articles/media/HD_natural_images_database_for_sparse_coding/24167265?file=42404574
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
 tags:
 - neuromorphic-computing
 - primary-visual-cortex
@@ -62,7 +53,6 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects: []
 ---
 
 ![Artboard](2024_ladret.gif)

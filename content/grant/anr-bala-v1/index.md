@@ -1,4 +1,4 @@
----
+--- 
 date: 2016-04-27 00:00:00
 summary: 'ANR BalaV1: Balanced states in area V1 (2013--2016)'
 authors:
@@ -13,7 +13,6 @@ categories:
 - Education
 - Grants & Funding
 - Visual Neuroscience
-projects: []
 ---
 # ANR BalaV1: Balanced states in area V1 (2013/2016)
 

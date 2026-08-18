@@ -5,7 +5,6 @@ date: 2019-10-10 09:30:00
 draft: false
 featured: false
 image:
-  caption: ''
   focal_point: Smart
 grants:
 - spikeai

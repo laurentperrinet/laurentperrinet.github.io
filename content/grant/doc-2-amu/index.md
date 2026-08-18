@@ -1,4 +1,4 @@
----
+--- 
 date: 2016-04-27 00:00:00
 summary: 'DOC2AMU: An Excellence Fellowship (2016/2019).'
 authors:
@@ -13,7 +13,6 @@ tags:
 categories:
 - Grants & Funding
 - NeuroAI & Machine Learning
-projects: []
 ---
 [DOC2AMU](https://doc2amu.univ-amu.fr/en) is co-funded by the prestigious Marie Skłodowska-Curie COFUND action within the H2020 Research and Innovation programme of the European Union and by the Regional Council of Provence-Alpes-Côte d’Azur, with a contribution from A*MIDEX Foundation.
 

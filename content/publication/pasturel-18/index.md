@@ -27,7 +27,6 @@ links:
   url: https://github.com/chloepasturel/AnticipatorySPEM/
 - name: URL
   url: https://laurentperrinet.github.io/publication/pasturel-18
-publication: ''
 publication_types:
 - inproceedings
 title: Estimating and anticipating a dynamic probabilistic bias in visual motion direction

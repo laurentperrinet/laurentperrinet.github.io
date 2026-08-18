@@ -69,7 +69,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects: []
 ---
 
 * see a follow-up in this [poster]({{< ref "/publication/taouali-16-areadne" >}})

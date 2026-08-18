@@ -1,19 +1,20 @@
----
+--- 
 authors:
 - hugo-ladret
 bio: My PhD subject focused on the role of precision in natural and artificial neural
   networks.
 education:
   courses:
-    - course:  Now a Postdoc in Georg Keller’s lab
-      institution: FMI (Friedrich Miescher Institute for Biomedical Research), Basel, Switzerland
-      year: 2024
-    - course: Phd candidate in Computational Neuroscience
-      institution: Aix-Marseille Université
-      year: 2023
-    - course: Master in Neuroscience
-      institution: Aix-Marseille Université
-      year: 2019
+  - course: Now a Postdoc in Georg Keller’s lab
+    institution: FMI (Friedrich Miescher Institute for Biomedical Research), Basel,
+      Switzerland
+    year: 2024
+  - course: Phd candidate in Computational Neuroscience
+    institution: Aix-Marseille Université
+    year: 2023
+  - course: Master in Neuroscience
+    institution: Aix-Marseille Université
+    year: 2019
 title: Hugo Ladret
 role: Postdoctoral Researcher at Friedrich Miescher Institute for Biomedical Research
 social:
@@ -29,20 +30,6 @@ social:
 superuser: false
 user_groups:
 - Former Students
-tags:
-- predictive-coding
-- primary-visual-cortex
-- spiking-neural-networks
-- visual-illusions
-projects:
-- art-science
-categories:
-- Biological Neuroscience
-- Education
-- NeuroAI & Machine Learning
-- Outreach & Public Engagement
-- Theoretical Neuroscience
-- Visual Neuroscience
 ---
 
 # PhD Student (2019-09 / 2024-02): A multiscale cortical model to account for orientation selectivity in natural-like stimulations
@@ -51,17 +38,23 @@ categories:
  * Université de Montréal, Laboratoire des Neurosciences de la Vision
 
 Hugo Ladret focuses on predictive coding, an influential brain theory that promises to account for the many seemingly disparate results neuroscientists have gathered over decades of experiments. Using neurobiology with a theory-driven approach, his experimental work deals about vision, and to find theoretical insights for neural network modelling.
+
+
 ## Relevant publications
 
 {{< cite page="/publication/ladret-24-thesis" view="4" >}}
 {{< cite page="publication/ladret-23-iclr" view="4" >}}
 {{< cite page="publication/ladret-23" view="4" >}}
 {{< cite page="publication/ladret-24-joconde" view="4" >}}
+
+
 # previous experience
 
 ## master 2B (undergrad, 2019-01-12 / 2019-05-24)
 
 * Université de Montréal, Laboratoire des Neurosciences de la Vision
+
+
 ## master 2A (undergrad, 2018-09-10 / 2019-01-11) : Learning temporal integrations in a visual spiking neural network
 
 Building upon our previous work, we are investigating how recurrent neural networks learn to integrate temporal information, a dimension which is absent in most deep learning networks but provides a wealth of information in biological neural networks.

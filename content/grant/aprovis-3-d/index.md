@@ -1,4 +1,4 @@
----
+--- 
 date: 2019-09-10 10:00:00
 summary: Analog PROcessing of bioinspired VIsion Sensors for 3D reconstruction (APROVIS3D)
   is [2018 *CHIST-ERA* laureate](http://www.chistera.eu/projects/aprovis3d).
@@ -15,7 +15,6 @@ categories:
 - Education
 - Grants & Funding
 - NeuroAI & Machine Learning
-projects: []
 ---
 * Le projet APROVIS3D est lauréat de l'[appel à projets 2018 *CHIST-ERA*](http://www.chistera.eu/projects/aprovis3d) :
 

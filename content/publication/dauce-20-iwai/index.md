@@ -7,7 +7,6 @@ doi: 10.1007/978-3-030-64919-7_17
 draft: false
 featured: false
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2020-12-21 12:51:20+01:00
@@ -23,7 +22,6 @@ links:
 publication: '*IWAI 2020*'
 publication_types:
 - inproceedings
-subtitle: ''
 title: Visual search as active inference
 tags:
 - active-inference

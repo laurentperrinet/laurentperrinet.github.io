@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - agathe-choplin
 bio: During my PhD, I am focusing on Physiological States using Machine Learning.
@@ -17,13 +17,6 @@ social:
 superuser: false
 user_groups:
 - Current Students
-tags:
-- bayesian-modelling
-projects:
-- ''
-categories:
-- Education
-- Outreach & Public Engagement
 ---
 
 ## Characterization of Physiological States using Machine Learning
@@ -39,6 +32,8 @@ categories:
 ### Relevant publications
 
 {{< cite page="/publication/choplin-25-ccn" view="4" >}}
+
+
 ### Project Description
 
 The continuous increase in automation and embedded artificial intelligence in techno-industrial systems makes them both increasingly capable and complex, particularly in the aeronautical field: autopilots, multi-drone supervision systems, etc. The human operator's role gradually shifts from "low-level" regulation to system supervision. The performance of human-machine systems depends on numerous factors, including:

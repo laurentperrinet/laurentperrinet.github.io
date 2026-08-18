@@ -24,7 +24,6 @@ tags:
 - visual-illusions
 categories:
 - Computational Neuroscience
-projects: []
 ---
 
 * Talk @ NeurIPS: https://neurips.cc/Conferences/2015/Schedule?showEvent=5418

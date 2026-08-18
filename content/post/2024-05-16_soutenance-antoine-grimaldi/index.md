@@ -1,4 +1,4 @@
----
+--- 
 title: Soutenance de thèse Antoine Grimaldi
 authors:
 - laurent-u-perrinet
@@ -21,8 +21,6 @@ categories:
 - Biological Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- ''
 ---
 
 # "Neural computations with precise spiking motifs for dynamic vision" Soutenance de thèse Antoine Grimaldi

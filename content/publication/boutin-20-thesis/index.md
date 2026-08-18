@@ -1,4 +1,4 @@
----
+--- 
 title: 'Etude d’un Algorithme Hiérarchique de Codage Épars et Prédictif : Vers Un
   Modèle Bio-Inspiré de La Perception Visuelle'
 authors:
@@ -30,7 +30,11 @@ abstract: La représentation concise et efficace de l'information est un problè
 links:
 - name: URL
   url: https://theses.fr/2020AIXM0028
-tags: ["primary-visual-cortex", "visual-illusions"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- primary-visual-cortex
+- visual-illusions
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
 ---

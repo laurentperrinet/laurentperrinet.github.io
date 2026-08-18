@@ -28,7 +28,6 @@ tags:
 categories:
 - Computational Neuroscience
 - Education
-projects: []
 ---
 
 ![header](perrinet-02-stdp.png)

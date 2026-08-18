@@ -4,12 +4,10 @@ headless: true
 active: false
 weight: 40
 title: Experience
-subtitle: null
 date_format: Jan 2006
 experience:
 - title: CEO
   company: University X
-  company_url: ''
   company_logo: org-x
   location: California
   date_start: '2016-01-01'
@@ -17,9 +15,7 @@ experience:
   description: Taught electronic engineering and researched semiconductor physics.
 design:
   columns: '2'
-tags: []
 categories:
 - Education
-projects: []
 ---
 

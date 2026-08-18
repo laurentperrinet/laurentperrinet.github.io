@@ -28,8 +28,6 @@ content:
   directions: When you reach the INT building, take the stairs to the second floor,
     then enter the open space on the left and follow it to the end of the room; my
     office is on the right-hand side.
-  office_hours: []
-  appointment_url: ''
   contact_links:
   - icon: orcid
     icon_pack: ai
@@ -97,8 +95,6 @@ content:
     link: https://www.last.fm/fr/user/meduz
 design:
   columns: '2'
-tags: []
 categories:
 - Education
-projects: []
 ---

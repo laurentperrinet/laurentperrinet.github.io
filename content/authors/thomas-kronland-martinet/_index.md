@@ -12,15 +12,10 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=QQL7gpYAAAAJ&hl=fr
 superuser: false
-grants:
+tags:
 - polychronies
 user_groups:
 - Former Students
-tags: []
-projects: []
-categories:
-- Computer Vision
-- Education
 ---
 
 #  Ultra-fast processing of sensor inputs acquired by an event camera

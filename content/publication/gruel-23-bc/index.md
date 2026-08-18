@@ -11,7 +11,6 @@ date: 2023-01-01
 draft: false
 featured: false
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2022-11-17 12:15:57+01:00
@@ -22,7 +21,6 @@ publication: '*Biological Cybernetics*'
 publication_types:
 - article-journal
 publishDate: '2022-11-17T11:15:57.623607Z'
-subtitle: ''
 title: 'Stakes of Neuromorphic Foveation: a promising future for embedded event cameras'
 tags:
 - efficient-coding
@@ -31,6 +29,5 @@ tags:
 categories:
 - Education
 - NeuroAI & Machine Learning
-projects: []
 ---
 

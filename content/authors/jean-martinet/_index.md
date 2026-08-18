@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - jean-martinet
 title: Jean Martinet
@@ -12,17 +12,4 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=dyxxR_gAAAAJ&hl
-
-tags:
-- ''
-projects:
-- ''
-categories:
-- ''
-- Computational Neuroscience
-- Computer Vision
-- Education
-- Grants & Funding
-- NeuroAI & Machine Learning
 ---
-

@@ -30,7 +30,6 @@ grants:
 - anr-anr
 - polychronies
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2023-07-21 13:12:04+02:00
@@ -38,7 +37,6 @@ publication: '*Bernstein Conference 2022*'
 publication_types:
 - inproceedings
 publishDate: '2023-07-21T11:11:54.651024Z'
-subtitle: ''
 title: Detection of precise spiking motifs using spike-time dependent weight and delay
   plasticity
 tags:

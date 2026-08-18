@@ -19,7 +19,6 @@ date: 2023-01-27
 draft: false
 featured: false
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2023-03-22 16:35:38+01:00
@@ -30,7 +29,6 @@ publication: '*GDR Vision, Toulouse, 2023*'
 publication_types:
 - inproceedings
 publishDate: '2023-03-22T15:35:38.869745Z'
-subtitle: ''
 title: Learning heterogeneous delays of spiking neurons for motion detection
 tags:
 - bayesian-modelling

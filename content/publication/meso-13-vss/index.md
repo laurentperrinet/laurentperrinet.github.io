@@ -47,6 +47,5 @@ categories:
 - Behavioural Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects: []
 ---
 

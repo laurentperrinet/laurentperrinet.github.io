@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - emmanuel-daucé
 title: Emmanuel Daucé
@@ -15,20 +15,6 @@ social:
 - icon: external-link-alt
   icon_pack: fas
   link: http://emmanuel.dauce.free.fr/
-tags:
-- ''
-projects:
-- ''
-categories:
-- Behavioural Neuroscience
-- Biological Neuroscience
-- Computational Neuroscience
-- Computer Vision
-- Education
-- Grants & Funding
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
-- Visual Neuroscience
 ---
 
 Emmanuel Daucé is associate professor at the Ecole Centrale de Marseille, doing his research in Computational Neuroscience at the Institut de Neurosciences de la Timone (France), a joint research unit (CNRS / Aix-Marseille Université). His research lies at the crossroad of machine learning, artificial intelligence and neuroscience, seeking to develop innovative computational models and methods though remaining consistent with the principles of biological systems.

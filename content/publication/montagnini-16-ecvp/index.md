@@ -22,6 +22,5 @@ tags:
 - motion-perception
 categories:
 - Computational Neuroscience
-projects: []
 ---
 

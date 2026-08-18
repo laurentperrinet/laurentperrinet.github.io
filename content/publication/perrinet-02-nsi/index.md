@@ -13,6 +13,5 @@ tags:
 categories:
 - Computational Neuroscience
 - Education
-projects: []
 ---
 

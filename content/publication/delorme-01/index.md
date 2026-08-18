@@ -28,6 +28,5 @@ tags:
 categories:
 - Education
 - Theoretical Neuroscience
-projects: []
 ---
 

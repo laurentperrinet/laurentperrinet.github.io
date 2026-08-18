@@ -23,7 +23,6 @@ featured: false
 grants:
 - anr-anr
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2023-09-05 10:59:11+02:00
@@ -40,7 +39,6 @@ publication: '*International Conference on Computer Vision 2023 (ICCV2023)*'
 publication_types:
 - inproceedings
 publishDate: '2023-09-05T08:59:11.517138Z'
-subtitle: ''
 title: Time-to-Contact Map by Joint Estimation of Up-to-Scale Inverse Depth and Global
   Motion using a Single Event Camera
 tags:
@@ -51,7 +49,6 @@ categories:
 - Computer Vision
 - Education
 - NeuroAI & Machine Learning
-projects: []
 ---
 
 * the code is openly available on [GitHub](https://github.com/neuromorphic-paris/ETTCM) with the accompanying data [VL.zip](https://www.dropbox.com/scl/fi/lw9ztsopinnjfztt82oxt/VL.zip?rlkey=6uccvu486iulvityrvrom50e4&dl=0).

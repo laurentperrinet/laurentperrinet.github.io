@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - stéphane-viollet
 title: Stéphane Viollet
@@ -11,13 +11,6 @@ social:
   link: https://scholar.google.com/citations?user=iIGoymcAAAAJ
 - icon: external-link-alt
   icon_pack: fas
-  link: http://www.ism.univ-amu.fr/viollet/  
-
-tags:
-- ''
-projects:
-- ''
-categories:
-- ''
+  link: http://www.ism.univ-amu.fr/viollet/
 ---
 

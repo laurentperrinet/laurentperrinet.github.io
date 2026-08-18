@@ -20,6 +20,5 @@ tags:
 - eye-movements
 categories:
 - Computational Neuroscience
-projects: []
 ---
 

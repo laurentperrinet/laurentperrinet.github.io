@@ -49,7 +49,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects: []
 ---
 
 # "An adaptive algorithm for unsupervised learning"

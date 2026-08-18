@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - karl-friston
 title: Karl Friston
@@ -12,19 +12,8 @@ social:
 - icon: external-link-alt
   icon_pack: fas
   link: https://www.fil.ion.ucl.ac.uk/~karl/
-
-tags:
-- bayesian-modelling
-- eye-movements
-- predictive-coding
-- visual-illusions
-projects:
-- ''
-categories:
-- Education
-- Outreach & Public Engagement
-- Theoretical Neuroscience
 ---
+
 
 Karl Friston is a theoretical neuroscientist and authority on brain imaging. He invented statistical parametric mapping (SPM), voxel-based morphometry (VBM) and dynamic causal modelling (DCM). These contributions were motivated by schizophrenia research and theoretical studies of value-learning, formulated as the dysconnection hypothesis of schizophrenia. Mathematical contributions include variational Laplacian procedures and generalized filtering for hierarchical Bayesian model inversion. Friston currently works on models of functional integration in the human brain and the principles that underlie neuronal interactions. His main contribution to theoretical neurobiology is a free-energy principle for action and perception (active inference). 
 

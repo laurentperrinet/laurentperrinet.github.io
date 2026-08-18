@@ -32,7 +32,6 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects: []
 ---
 
 {{< figure src="graphical.png" title="*Foveated Retinotopy in CNNs.* We represent Left an input image and how it is transformed by foveated retinotopy. We show below a representative reconstruction showing that it also acts as a cortical zoom on the image around the point of fixation. The transformed image is then fed to the ResNet deep learning architecture." >}}

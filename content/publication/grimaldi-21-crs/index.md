@@ -30,7 +30,6 @@ featured: false
 grants:
 - anr-anr
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2021-10-12 12:44:34+02:00
@@ -40,7 +39,6 @@ links:
 publication: '*Champalimaud Research Symposium (CRS21)*'
 publication_types:
 - inproceedings
-subtitle: ''
 title: From event-based computations to a bio-plausible Spiking Neural Network
 url_video: https://www.youtube.com/watch?v=aIt5OAleMR8
 tags:

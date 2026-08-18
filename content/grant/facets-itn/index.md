@@ -1,4 +1,4 @@
----
+--- 
 date: 2015-04-27 00:00:00
 summary: 'FACETS-ITN: From Neuroscience to neuro-inspired computing (2010/2013)'
 authors:

@@ -1,8 +1,10 @@
----
+--- 
 date: 2020-04-05 00:00:00
 summary: Je distribue de façon libre une série de cours et tutoriels.
 title: Cours et tutoriels
-tags: ["research-interests"]
-categories: ["Education", "Research Projects"]
-projects: [""]
+tags:
+- research-interests
+categories:
+- Education
+- Research Projects
 ---

@@ -34,6 +34,5 @@ tags:
 categories:
 - Biological Neuroscience
 - Education
-projects: []
 ---
 

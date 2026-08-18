@@ -48,6 +48,5 @@ categories:
 - Biological Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects: []
 ---
 

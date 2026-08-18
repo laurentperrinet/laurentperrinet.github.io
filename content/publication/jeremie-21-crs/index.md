@@ -8,7 +8,6 @@ featured: false
 grants:
 - anr-anr
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2021-10-12 13:44:14+02:00
@@ -18,7 +17,6 @@ links:
 publication: '*Champalimaud Research Symposium (CRS21)*'
 publication_types:
 - inproceedings
-subtitle: ''
 title: Ultra-fast categorization of images containing animals in vivo and in computo
 tags:
 - deep-learning

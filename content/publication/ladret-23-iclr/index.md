@@ -18,7 +18,6 @@ date: 2023-05-05
 draft: false
 featured: false
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2023-04-07 12:45:44+02:00
@@ -29,7 +28,6 @@ publication: '*ICLR 2023 SNN Workshop*'
 publication_types:
 - inproceedings
 publishDate: '2023-04-07T10:45:44.753196Z'
-subtitle: ''
 title: Convolutional Sparse Coding is improved by heterogeneous uncertainty modeling
 tags:
 - primary-visual-cortex
@@ -42,7 +40,6 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects: []
 ---
 
 * Accepted paper (poster) at the [ICLR 2023 Workshop on

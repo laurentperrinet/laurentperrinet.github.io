@@ -43,7 +43,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects: []
 ---
 
 ![header](perrinet-03-ieee.png)

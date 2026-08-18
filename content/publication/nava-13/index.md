@@ -35,7 +35,6 @@ tags:
 categories:
 - Computer Vision
 - Theoretical Neuroscience
-projects: []
 ---
 
 * relies on log-Gabor filters: {{< cite page="/publication/fischer-07-cv" view="4" >}}

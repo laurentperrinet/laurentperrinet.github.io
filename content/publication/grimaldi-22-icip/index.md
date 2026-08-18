@@ -22,7 +22,6 @@ doi: 10.1109/ICIP46576.2022.9897394
 draft: false
 featured: false
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2022-06-21 10:00:51+02:00
@@ -35,7 +34,6 @@ publication: '*Proceedings of ICIP 2022*'
 publication_types:
 - inproceedings
 publishDate: '2022-06-21T08:00:50.371310Z'
-subtitle: ''
 title: Learning heterogeneous delays of spiking neurons for motion detection
 tags:
 - bayesian-modelling

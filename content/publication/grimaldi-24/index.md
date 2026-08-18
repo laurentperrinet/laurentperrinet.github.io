@@ -30,7 +30,6 @@ doi: 10.1016/j.neunet.2024.106415
 draft: false
 featured: false
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2022-01-13 15:27:10+01:00
@@ -46,7 +45,6 @@ links:
 publication: Neural Networks
 publication_types:
 - article-journal
-subtitle: ''
 title: A Robust Event-Driven Approach to Always-on Object Recognition
 tags:
 - event-based-vision

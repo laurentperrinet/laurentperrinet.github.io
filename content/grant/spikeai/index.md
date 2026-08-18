@@ -1,4 +1,4 @@
----
+--- 
 date: 2019-04-15 10:00:00
 summary: Algorithmes événementiels d’Intelligence Artificielle / Event-Based Artificial
   Inteligence (2019).

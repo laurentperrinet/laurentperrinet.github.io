@@ -34,7 +34,6 @@ featured: false
 grants:
 - anr-anr
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2022-05-11 09:32:04+02:00

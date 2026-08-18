@@ -44,7 +44,6 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects: []
 ---
 
 * [Press release](https://www4.cnrs-dir.fr/insb/recherche/parutions/articles2019/l-perrinet.html)

@@ -25,7 +25,6 @@ categories:
 - Behavioural Neuroscience
 - Computational Neuroscience
 - Education
-projects: []
 ---
 
 * see a write-up in {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}

@@ -1,4 +1,4 @@
----
+--- 
 date: 2020-12-07 00:00:00
 summary: Robots aériens agiles bio-mimetiques pour le vol en conditions réelles
 authors:
@@ -18,7 +18,6 @@ categories:
 - Grants & Funding
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects: []
 ---
 <!-- youtube-dl https://www.youtube.com/watch\?v\=36CTDiJjQ8I -->
 

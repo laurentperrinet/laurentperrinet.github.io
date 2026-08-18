@@ -24,7 +24,6 @@ featured: false
 grants:
 - anr-horizontal-v1
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2021-11-08 10:31:18+01:00
@@ -34,7 +33,6 @@ links:
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - inproceedings
-subtitle: ''
 title: Modulation of orientation selectivity by orientation precision
 tags:
 - primary-visual-cortex
@@ -42,7 +40,6 @@ categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects: []
 ---
 
 ![](@laurentperrinet_1457644824723705856_tweetcapture.png)

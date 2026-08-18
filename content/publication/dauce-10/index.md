@@ -31,6 +31,5 @@ categories:
 - Computational Neuroscience
 - Education
 - Theoretical Neuroscience
-projects: []
 ---
 

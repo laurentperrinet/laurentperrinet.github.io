@@ -22,7 +22,6 @@ featured: false
 grants:
 - anr-runbinvase
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2022-05-20 13:42:38+02:00
@@ -34,7 +33,6 @@ publication_types:
 - inproceedings
 publishDate: '2022-06-16T11:51:41.890310Z'
 show_authors_only: false
-subtitle: ''
 title: Which sparsity problem does the brain solve?
 tags:
 - primary-visual-cortex
@@ -43,7 +41,6 @@ categories:
 - Behavioural Neuroscience
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-projects: []
 ---
 
 * Follow-up paper {{< cite page="/publication/rentzeperis-23" view="4" >}}

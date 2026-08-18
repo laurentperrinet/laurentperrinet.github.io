@@ -34,7 +34,6 @@ date: 2023-03-09
 draft: false
 featured: false
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2023-03-13 12:29:25+01:00
@@ -45,7 +44,6 @@ publication: '*Computational and Systems Neuroscience (Cosyne) 2023*'
 publication_types:
 - inproceedings
 publishDate: '2023-03-13T11:29:25.141921Z'
-subtitle: ''
 title: Resilience to sensory uncertainty in the primary visual cortex
 tags:
 - bayesian-modelling
@@ -57,7 +55,6 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects: []
 ---
 
 * This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}

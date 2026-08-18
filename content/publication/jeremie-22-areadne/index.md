@@ -26,7 +26,6 @@ featured: false
 grants:
 - anr-anr
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2022-05-20 13:42:38+02:00
@@ -37,7 +36,6 @@ publication: '*Proceedings of AREADNE*'
 publication_types:
 - inproceedings
 publishDate: '2022-06-16T11:51:41.890310Z'
-subtitle: ''
 title: Ultra-rapid visual search in natural images using active deep learning
 tags:
 - eye-movements

@@ -7,13 +7,13 @@ education:
     institution: Aix-Marseille Université
     year: 2020
   - course: Post-doc with Thomas Serre
-    institution: ANITI (ToulouseFrance)
+    institution: ANITI (Toulouse, France)
     year: 2021
   - course: Post-doc with Thomas Serre
-    institution: Brown University (BostonUSA)
+    institution: Brown University (Boston, USA)
     year: 2022
   - course: Post-doc
-    institution: CerCo (ToulouseFrance).
+    institution: CerCo (Toulouse, France).
     year: 2023
 title: Victor Boutin
 role: CNRS researcher at CerCo (Toulouse, France).
@@ -35,18 +35,12 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Z-YF5FsAAAAJ
 superuser: false
-grants:
+tags:
 - doc-2-amu
+grants:
 - anr-horizontal-v1
 user_groups:
 - Former Students
-tags: []
-projects: []
-categories:
-- Computer Vision
-- Education
-- Grants & Funding
-- NeuroAI & Machine Learning
 ---
 
 Vicotr obtained a PhD in the Institute of Neuroscience of Marseille, at the Aix-Marseille university. My PhD was supervised by Laurent U Perrinet. He did his post-doc with Thomas Serre at ANITI (Toulouse, France) & Brown University (Boston, USA). He is now a permanent CNRS researcher (CR) at Cerco, Toulouse, France.

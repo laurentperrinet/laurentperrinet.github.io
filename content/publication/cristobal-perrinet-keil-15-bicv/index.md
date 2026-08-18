@@ -34,7 +34,6 @@ links:
   url: https://bicv.github.io/toc/
 - name: URL
   url: https://onlinelibrary.wiley.com/book/10.1002/9783527680863
-publication: ''
 publication_types:
 - book
 title: Biologically Inspired Computer Vision
@@ -44,7 +43,6 @@ categories:
 - Computational Neuroscience
 - Computer Vision
 - Education
-projects: []
 grants:
 - brain-scales
 ---

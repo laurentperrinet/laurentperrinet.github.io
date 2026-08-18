@@ -46,7 +46,6 @@ categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects: []
 ---
 
 ![header](perrinet-10-shl.png)

@@ -50,7 +50,6 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects: []
 ---
 
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}

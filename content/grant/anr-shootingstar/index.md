@@ -1,4 +1,4 @@
----
+--- 
 date: 2020-04-27 00:00:00
 summary: Processing of naturalistic motion in early vision
 authors:
@@ -15,7 +15,6 @@ categories:
 - Grants & Funding
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects: []
 ---
 The natural visual environments in which we have evolved have shaped and constrained the neural mechanisms of vision. Rapid progress has been made in recent years in understanding how the retina and visual cortex are specifically adapted to processing natural scenes.1–3 However, studies in this research tradition have mainly addressed the processing of natural images in the spatial domain. Although the processing of temporal properties of visual stimuli is just as important as spatial properties, **stimuli with naturalistically valid temporal dynamics have not been sufficiently investigated**. Although objects and creatures we view undergo a variety of intrinsic movements, probably the most common motions on the retina are image shifts due to our own eye movements: in free viewing in humans, ocular saccades occur about three times every second, shifting the retinal image at speeds of 100-500 degrees of visual angle per second.4 How these very fast shifts are suppressed, leading to clear, accurate and stable representations of the visual scene is an fundamental unsolved problem in visual neuroscience known as **saccadic suppression**. One reason why this problem is difficult is technological: to make progress we need to visually simulate these fast retinal shifts, but computer displays have been too slow to produce adequate simulations.
 

@@ -43,7 +43,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects: []
 ---
 
 # Active Inference, tracking eye movements and oculomotor delays

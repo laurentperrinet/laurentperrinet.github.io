@@ -1,4 +1,4 @@
----
+--- 
 abstract: To understand possible strategies of temporal spike coding in the central
   nervous system, we study functional neuromimetic models of visual processing for
   static images. We will first present the retinal model which was introduced by Van
@@ -32,7 +32,10 @@ publication_types:
 - article-journal
 title: 'Finding Independent Components using spikes : a natural result of Hebbian
   learning in a sparse spike coding scheme'
-tags: ["sparse-coding", "spiking-neural-networks"]
-categories: ["Education", "Theoretical Neuroscience"]
-projects: ["", "tout-public"]
+tags:
+- sparse-coding
+- spiking-neural-networks
+categories:
+- Education
+- Theoretical Neuroscience
 ---

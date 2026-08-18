@@ -46,8 +46,6 @@ categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects:
-- facets-itn
 ---
 
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}

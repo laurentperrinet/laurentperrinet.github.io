@@ -17,7 +17,6 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/1611.06834
 - motion-clouds
-publication: ''
 publication_types:
 - preprint
 title: Differential response of the retinal neural code with respect to the sparseness

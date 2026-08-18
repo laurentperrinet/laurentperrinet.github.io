@@ -68,7 +68,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects: []
 ---
 
 * See a followup in {{< cite page="/publication/perrinet-bednar-15" view="4" >}}

@@ -1,4 +1,4 @@
----
+--- 
 date: 2016-04-27 00:00:00
 summary: 'ANR SPEED: Traitement de la vitesse dans les scènes visuelles naturelles
   (2013/2016).'
@@ -13,7 +13,6 @@ categories:
 - Computational Neuroscience
 - Education
 - Grants & Funding
-projects: []
 ---
 Measuring speed and direction of moving objects is an essential computational step in order to move our eyes, hands or other body parts with respect to the environment. Whereas encoding and decoding of direction information is now largely understood in various neuronal systems, how the human brain accurately represents speed information remains largely unknown. Speed tuned neurons have been identified in several early cortical visual areas in monkeys. However, how such speed tuning emerges is not yet understood. A working hypothesis is that speed tuned neurons nonlinearly combine motion information extracted at different spatial and temporal scales, taking advantage of the statistical spatiotemporal properties of natural scenes. However, such pooling of information must be context dependent, varying with the spatial perceptual organization of the visual scenes. Furthermore, the population code underlying perceived speed is not elucidated either and therefore we are still far from understanding how speed information is decoded to drive and control motor responses or perceptual judgments.
 

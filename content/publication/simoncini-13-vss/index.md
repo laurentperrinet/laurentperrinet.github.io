@@ -37,7 +37,6 @@ categories:
 - Behavioural Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects: []
 grants:
 - brain-scales
 - codde

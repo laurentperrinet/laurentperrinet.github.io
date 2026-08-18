@@ -5,7 +5,6 @@ date: 2019-10-10 12:00:00
 draft: false
 featured: false
 image:
-  caption: ''
   focal_point: Smart
 summary: Le GDR Vision réunit toute la communauté des chercheurs en France travaillant
   sur la perception visuelle (de la perception des attributs visuels comme la couleur

@@ -48,7 +48,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects: []
 ---
 
 * [supplementary information](https://www.nature.com/article-assets/npg/srep/2015/150622/srep11400/extref/srep11400-s1.pdf)

@@ -52,7 +52,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects: []
 ---
 
 * open access: https://www.nature.com/articles/s42003-023-05042-3

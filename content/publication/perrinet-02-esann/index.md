@@ -15,7 +15,6 @@ tags:
 categories:
 - Computational Neuroscience
 - Education
-projects: []
 ---
 
 {{< figure src="lena256pyr.gif" title="*Progressive reconstruction of a static image using spikes in a Laplacian pyramid.*" >}}

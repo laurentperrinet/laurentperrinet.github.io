@@ -22,7 +22,6 @@ featured: false
 grants:
 - polychronies
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2024-04-05 10:22:08+02:00
@@ -35,7 +34,6 @@ publication: '*Proceedings of the FENS Forum 2024*'
 publication_types:
 - inproceedings
 publishDate: '2024-04-05T08:22:04.452494Z'
-subtitle: ''
 title: Accurate Detection of Spiking Motifs in Neurobiological Data by Learning Heterogeneous
   Delays of a Spiking Neural Network
 tags:
@@ -45,7 +43,6 @@ tags:
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-projects: []
 ---
 
 * see accompanying papers

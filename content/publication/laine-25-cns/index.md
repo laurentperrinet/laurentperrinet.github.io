@@ -23,7 +23,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects: []
 ---
 
 🧠 Excited to share our latest research led by Alexandre Lainé and presented this summer at CNS2025 in beautiful Firenze, Italy!

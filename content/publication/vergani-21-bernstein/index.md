@@ -17,7 +17,6 @@ tags:
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-projects: []
 ---
 
 * poster number: 94

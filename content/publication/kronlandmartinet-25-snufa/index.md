@@ -22,6 +22,5 @@ tags:
 - temporal-coding
 categories:
 - Computational Neuroscience
-projects: []
 ---
 

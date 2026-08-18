@@ -1,4 +1,4 @@
----
+--- 
 date: 2016-04-27 00:00:00
 summary: Connectivité Horizontale et Prédiction de Cohérences dans l'Intégration de
   Contour et Mouvement dans le Cortex Visuel Primaire

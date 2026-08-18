@@ -25,16 +25,6 @@ social:
 superuser: false
 user_groups:
 - Former Students
-tags:
-- motion-perception
-- neuromorphic-computing
-- primary-visual-cortex
-projects: []
-categories:
-- Biological Neuroscience
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
 ---
 # Motion Integration By V1 Population  (Post-Doc, 2013-03 / 2015-01)
 

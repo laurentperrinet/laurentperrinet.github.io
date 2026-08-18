@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - angelo-franciosini
 - laurent-u-perrinet
@@ -15,7 +15,6 @@ categories:
 - Education
 - Grants & Funding
 - NeuroAI & Machine Learning
-projects: []
 ---
 ## Description
 

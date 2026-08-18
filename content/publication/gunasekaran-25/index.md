@@ -50,7 +50,6 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects: []
 ---
 
 The lead author, Jason Eshragian, speaks most clearly about it: 

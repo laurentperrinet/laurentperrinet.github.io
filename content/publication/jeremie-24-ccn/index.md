@@ -42,7 +42,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects: []
 ---
 
 * Read the corresponding paper {{< cite page="/publication/jeremie-25" view="4" >}}

@@ -20,6 +20,5 @@ tags:
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-projects: []
 ---
 

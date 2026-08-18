@@ -40,7 +40,6 @@ categories:
 - Computer Vision
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects: []
 grants:
 - brain-scales
 ---

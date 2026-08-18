@@ -1,8 +1,7 @@
----
+--- 
 title: Matthieu Gilson
 authors:
 - matthieu-gilson
-
 superuser: false
 role: Researcher in Computational Neuroscience
 organizations:
@@ -11,6 +10,7 @@ organizations:
 bio: Computational Neuroscience for Cognition and Neuropahtologies
 interests:
 - Computational Neuroscience
+- Machine Learning
 social:
 - icon: orcid
   icon_pack: ai
@@ -20,13 +20,6 @@ social:
   link: https://matthieugilson.eu
 user_groups:
 - Collaborators
-tags:
-- ''
-projects:
-- ''
-categories:
-- Education
-- Outreach & Public Engagement
 ---
 
 How does the brain integrate information about the subject's environment with internal processes like motivation to produce behavior? What are the neuronal mechanisms and circuits that implement those functions? 

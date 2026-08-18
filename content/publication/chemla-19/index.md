@@ -58,6 +58,5 @@ categories:
 - Biological Neuroscience
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects: []
 ---
 

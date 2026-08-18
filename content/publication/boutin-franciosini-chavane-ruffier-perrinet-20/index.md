@@ -58,7 +58,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects: []
 ---
 
 ![](@laurentperrinet_1355810283835564033_tweetcapture.png)

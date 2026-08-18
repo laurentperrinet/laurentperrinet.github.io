@@ -9,7 +9,6 @@ featured: false
 grants:
 - anr-anr
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2022-05-20 13:42:38+02:00
@@ -20,7 +19,6 @@ publication: '*Proceedings of the FENS Forum 2022*'
 publication_types:
 - inproceedings
 publishDate: '2022-06-16T11:51:41.890310Z'
-subtitle: ''
 title: Ultra-rapid visual search in natural images using active deep learning
 tags:
 - foveated-vision
@@ -35,7 +33,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects: []
 ---
 
 ![](@laurentperrinet_1546389505917206531_tweetcapture.png)

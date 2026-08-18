@@ -21,7 +21,6 @@ categories:
 - Biological Neuroscience
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-projects: []
 ---
 
 {{% callout note %}}

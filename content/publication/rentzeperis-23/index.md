@@ -11,7 +11,6 @@ featured: false
 grants:
 - anr-runbinvase
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2022-05-20 13:42:38+02:00
@@ -23,14 +22,12 @@ publication_types:
 - article-journal
 publishDate: '2022-06-16T11:51:41.890310Z'
 show_authors_only: false
-subtitle: ''
 title: Beyond $\ell_1$ sparse coding in V1
 tags:
 - primary-visual-cortex
 - sparse-coding
 categories:
 - Computational Neuroscience
-projects: []
 ---
 
 * Follows {{< cite page="/publication/rentzeperis-22-areadne" view="4" >}}

@@ -10,7 +10,6 @@ grants:
 - anr-anr
 - polychronies
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2022-11-17 12:15:57+01:00
@@ -25,7 +24,6 @@ publication: '*Biological Cybernetics*'
 publication_types:
 - article-journal
 publishDate: '2022-11-17T11:15:57.021954Z'
-subtitle: ''
 title: Learning heterogeneous delays in a layer of spiking neurons for fast motion
   detection
 tags:

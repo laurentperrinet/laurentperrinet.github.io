@@ -22,7 +22,6 @@ tags:
 categories:
 - Computational Neuroscience
 - Visual Neuroscience
-projects: []
 ---
 
 * see a follow-up: {{< cite page="/publication/perrinet-bednar-15" view="4" >}}

@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - emmanuel-daucé
 - laurent-u-perrinet
@@ -27,8 +27,6 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects:
-- ''
 ---
 
 - Date: 27-28 May 2010

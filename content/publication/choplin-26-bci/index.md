@@ -40,6 +40,5 @@ tags:
 categories:
 - Behavioural Neuroscience
 - NeuroAI & Machine Learning
-projects: []
 ---
 

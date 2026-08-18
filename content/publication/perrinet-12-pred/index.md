@@ -41,7 +41,6 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects: []
 ---
 
 ![header](perrinet-12-pred.png)

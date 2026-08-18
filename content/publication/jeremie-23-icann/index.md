@@ -10,7 +10,6 @@ featured: false
 grants:
 - anr-anr
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2022-11-17 12:15:57+01:00
@@ -22,7 +21,6 @@ publication: '*32nd International Conference on Artificial Neural Networks (ICAN
 publication_types:
 - inproceedings
 publishDate: '2022-11-17T11:15:57.788793Z'
-subtitle: ''
 title: Retinotopy improves the categorisation and localisation of visual objects in
   CNNs
 tags:
@@ -38,7 +36,6 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects: []
 ---
 
 * as was presented at the *32nd International Conference on Artificial Neural Networks (ICANN 2023)* in Heraklion (Greece).

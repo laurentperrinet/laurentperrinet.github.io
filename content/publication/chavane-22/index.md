@@ -49,7 +49,6 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects: []
 ---
 
 ![](@laurentperrinet_1490717893750935552_tweetcapture.png)

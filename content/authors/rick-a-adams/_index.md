@@ -14,15 +14,6 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=dAi_S_MAAAAJ
-tags:
-- bayesian-modelling
-- eye-movements
-- predictive-coding
-- visual-illusions
-projects: []
-categories:
-- Clinical Neuroscience
-- Theoretical Neuroscience
 ---
 
 ## Collaborative publications

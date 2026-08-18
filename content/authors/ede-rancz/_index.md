@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - ede-rancz
 title: Ede Rancz
@@ -21,20 +21,6 @@ social:
 - icon: bluesky
   icon_pack: fab
   link: https://bsky.app/profile/ederancz.bsky.social
-
-tags:
-- motion-perception
-- predictive-coding
-- primary-visual-cortex
-- spiking-neural-networks
-- visual-illusions
-projects:
-- ''
-categories:
-- Biological Neuroscience
-- Education
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
 ---
 
 Ede Rancz is a Research Director at the Mediterranean Institute of Neurobiology, Marseille, France. He is interested in the neural circuits underlying visual perception and decision-making. He uses a combination of in vivo and in vitro electrophysiology, optogenetics, and computational modeling to study the function of the visual cortex. He is also interested in the development of new tools and methods for studying neural circuits.

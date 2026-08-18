@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - jonathan-vacher
 title: Jonathan Vacher
@@ -16,12 +16,6 @@ social:
 - icon: stackoverflow
   icon_pack: ai
   link: https://stackoverflow.com/users/8684783/Jonathan%20Vacher
-tags:
-- ''
-projects:
-- ''
-categories:
-- Outreach & Public Engagement
 ---
 
 Main collaborative work:

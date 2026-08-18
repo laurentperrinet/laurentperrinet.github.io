@@ -16,17 +16,10 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/matthis-dallain-3aaa26281/
 superuser: false
+tags:
+- emergences
 user_groups:
 - Current Students
-tags:
-- bayesian-modelling
-- foveated-vision
-- log-polar-mapping
-- retinotopy
-projects: []
-categories:
-- Education
-- Visual Neuroscience
 ---
 
 # PhD Student (2024-10 / 2027-09): Focus of attention: a sensory-motor task for energy reduction in spiking neural networks.

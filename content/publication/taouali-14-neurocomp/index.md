@@ -16,7 +16,6 @@ tags:
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-projects: []
 ---
 
 * see a follow-up in this [publication]({{< ref "/publication/taouali-16" >}})

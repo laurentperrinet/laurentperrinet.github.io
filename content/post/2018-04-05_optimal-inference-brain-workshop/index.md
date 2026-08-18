@@ -5,7 +5,6 @@ date: 2018-04-05 00:00:00
 draft: false
 featured: false
 image:
-  caption: ''
   focal_point: Smart
 summary: 'We organize a Symposium at NeuroFrance 2019 entitled Active Inference: Bridging
   theoretical and experimental neurosciences. This is part of a series of theoretical
@@ -20,7 +19,6 @@ categories:
 - Behavioural Neuroscience
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects: []
 ---
 
 ![participants](IMG_20180406_164630.jpg)

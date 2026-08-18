@@ -24,7 +24,6 @@ featured: false
 grants:
 - anr-anr
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2022-05-11 12:51:44+02:00
@@ -34,7 +33,6 @@ links:
 publication: '*IJCNN 2022 : International Joint Conference on Neural Networks*'
 publication_types:
 - inproceedings
-subtitle: ''
 title: 'What You See Is What You Transform: Foveated Spatial Transformers as a Bio-Inspired
   Attention Mechanism'
 tags:
@@ -49,7 +47,6 @@ categories:
 - Computer Vision
 - Education
 - NeuroAI & Machine Learning
-projects: []
 ---
 
 IJCNN page: https://www.techrxiv.org/articles/preprint/What_You_See_Is_What_You_Transform_Foveated_Spatial_Transformers_as_a_bio-inspired_attention_mechanism/16550391/1

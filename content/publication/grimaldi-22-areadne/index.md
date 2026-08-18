@@ -21,7 +21,6 @@ date: 2022-06-29
 draft: false
 featured: false
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2022-05-20 13:42:38+02:00
@@ -33,7 +32,6 @@ publication_types:
 - inproceedings
 publishDate: '2022-06-16T11:51:41.890310Z'
 slides: 2022-07-01_grimaldi-22-areadne
-subtitle: ''
 title: Decoding spiking motifs using neurons with heterogeneous delays
 tags:
 - bayesian-modelling

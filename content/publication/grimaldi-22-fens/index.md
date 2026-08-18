@@ -6,7 +6,6 @@ date: 2022-07-12
 draft: false
 featured: false
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2022-06-13 13:42:38+02:00
@@ -17,7 +16,6 @@ publication: '*Proceedings of the FENS Forum 2022*'
 publication_types:
 - inproceedings
 publishDate: '2022-06-16T11:51:41.890310Z'
-subtitle: ''
 title: Learning heterogeneous delays of spiking neurons for motion detection
 tags:
 - motion-perception
