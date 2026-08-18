@@ -18,18 +18,16 @@ image:
 links:
 - name: URL
   url: https://theconversation.com/chats-mouches-humains-comment-la-vision-a-evolue-en-de-multiples-facettes-220083
+projects:
 - tout-public
 publication: '*The Conversation*'
 publication_types:
 - article-journal
 title: 'Chats, mouches, humains : comment la vision a évolué en de multiples facettes'
-tags: []
 categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- tout-public
 ---
 
 <!--  bluesky link="https://bsky.app/profile/laurentperrinet.bsky.social/post/3lgcyozmqgs2m"  -->

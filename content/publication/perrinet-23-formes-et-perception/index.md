@@ -22,7 +22,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 projects:
-- tout-public
 - art-science
 ---
 

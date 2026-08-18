@@ -26,14 +26,10 @@ education:
   - course: PhD in Computer Science and Mathematics
     institution: University of Insubria, Varese, Italy
     year: 2018
-grants:
-- anr-horizontal-v1
 user_groups:
 - Former Students
-categories:
-- Computational Neuroscience
-- Outreach & Public Engagement
-- Visual Neuroscience
+grants:
+- phd-icn
 ---
 
 ## Main contributions to the project:

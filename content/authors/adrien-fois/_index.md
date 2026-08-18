@@ -9,10 +9,10 @@ social:
   icon_pack: ai
   link: https://www.researchgate.net/profile/Adrien-Fois-3
 superuser: false
-tags:
-- polychronies
 user_groups:
 - Former Students
+grants:
+- polychronies
 ---
 
 #  "Accurate detection of precise spiking motifs in neurobiological data" (09/2023 - 03/2025)

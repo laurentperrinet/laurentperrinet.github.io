@@ -24,10 +24,10 @@ social:
   icon_pack: ai
   link: https://www.researchgate.net/profile/Antoine-Grimaldi-2
 superuser: false
-tags:
-- aprovis-3-d
 user_groups:
 - Former Students
+grants:
+- aprovis-3-d
 ---
 #  "Ultra-fast vision using Spiking Neural Networks" (PhD position, 2020-09 / 2024-03)
 

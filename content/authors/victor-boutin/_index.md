@@ -35,10 +35,9 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Z-YF5FsAAAAJ
 superuser: false
-tags:
-- doc-2-amu
 grants:
 - anr-horizontal-v1
+- doc-2-amu
 user_groups:
 - Former Students
 ---

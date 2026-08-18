@@ -23,10 +23,10 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/angelo-franciosini/
 superuser: false
-tags:
-- phd-icn
 user_groups:
 - Former Students
+grants:
+- phd-icn
 ---
 
 # Trajectories in natural images and the sensory processing of contours (PhD position, 2017-09 / 2021-03)

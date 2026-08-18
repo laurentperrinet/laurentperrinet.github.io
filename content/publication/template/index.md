@@ -17,7 +17,6 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: Smart
 math: true
-- internal-project
 publication: ''
 publication_short: In *ICMEW*
 publication_types:
@@ -39,8 +38,8 @@ url_source: '#'
 url_video: '#'
 publishDate: '2020-12-12T13:31:46.868407Z'
 tags: ["motion-perception", "sparse-coding", "visual-illusions"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
+projects: ["", "tout-public"]
 projects:
 - internal-project
 ---

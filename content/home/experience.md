@@ -15,7 +15,5 @@ experience:
   description: Taught electronic engineering and researched semiconductor physics.
 design:
   columns: '2'
-categories:
-- Education
 ---
 

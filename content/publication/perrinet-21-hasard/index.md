@@ -20,6 +20,7 @@ image:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-21-hasard/
+projects:
 - tout-public
 publication: '*The Conversation*'
 publication_types:

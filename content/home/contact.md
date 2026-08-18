@@ -95,6 +95,4 @@ content:
     link: https://www.last.fm/fr/user/meduz
 design:
   columns: '2'
-categories:
-- Education
 ---
