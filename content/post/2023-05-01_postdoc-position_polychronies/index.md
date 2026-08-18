@@ -1,23 +1,30 @@
----
-title: Postdoc position "Accurate detection of precise spiking motifs in neurobiological data"
-# subtitle: THE POSITION HAS BEEN FILLED. CD Doctorant "Vision ultra-rapide par réseaux de neurones impulsionnels" H/F (MARSEILLE)
-# summary: THE POSITION HAS BEEN FILLED. Offre de thèse "Vision ultra-rapide par réseaux de neurones impulsionnels" à Marseille
+--- 
+title: Postdoc position "Accurate detection of precise spiking motifs in neurobiological
+  data"
 authors:
 - laurent-u-perrinet
 date: 2023-05-01 09:00:00
 draft: false
 image:
-  caption: © [Motion Exposure](http://www.motionexposure.com) - Stephen Orlando. With permission by the artist.
+  caption: © [Motion Exposure](http://www.motionexposure.com) - Stephen Orlando. With
+    permission by the artist.
   focal_point: Smart
   placement: 2
   preview_only: false
 lastmod: 2023-05-01 09:00:00
-
 subtitle: THE POSITION HAS BEEN FILLED!
-tags: ["motion-perception", "neuromorphic-computing", "primary-visual-cortex", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- motion-perception
+- neuromorphic-computing
+- primary-visual-cortex
+- spiking-neural-networks
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
 ---
+
 
 {{% callout warning %}}
 THE POSITION HAS BEEN FILLED.

@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - laurent-u-perrinet
 date: 2016-04-20 00:00:00
@@ -6,9 +6,6 @@ draft: false
 lastmod: 2023-08-16 00:00:00
 summary: Proverbes et citations glanés au cours des années
 title: Proverbes Et Citations
-tags: ["motion-perception", "spiking-neural-networks", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning"]
-projects: [""]
 ---
 
 *  "Anything that is in the world when you're born is normal and ordinary and is just a natural part of the way the world works. Anything that's invented between when you’re 15 and 35 is new and exciting and revolutionary and you can probably get a career in it. Anything invented after you're 35 is against the natural order of things." Douglas Adams
