@@ -1,13 +1,18 @@
----
+--- 
 date: 2015-04-27 00:00:00
 summary: 'PACE-ITN: ITN Marie Curie network (2015/2019).'
 authors:
 - anna-montagnini
 - laurent-u-perrinet
 title: PACE-ITN (2015/2019)
-tags: ["'eye-movements'", "'motion-perception'", "'predictive-coding'", "'visual-illusions'"]
-categories: ["Behavioural Neuroscience", "Grants & Funding", "NeuroAI & Machine Learning"]
-projects: [""]
+tags:
+- eye-movements
+- motion-perception
+- predictive-coding
+categories:
+- Behavioural Neuroscience
+- Grants & Funding
+- NeuroAI & Machine Learning
 ---
 The PACE ITN project involved over 50 researchers spread across 10 full and 5 associated partners, from academia and the private sector, established in 7 different European and Associated countries, the PACE network gathers a broad range of expertise from experimental psychology, cognitive neurosciences, brain imaging, technology and clinical sciences.
 

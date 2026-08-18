@@ -1,14 +1,18 @@
----
+--- 
 date: 2015-04-27 00:00:00
 summary: 'FACETS: Fast Analog Computing with Emergent Transient States (2006/2010).'
 authors:
 - yves-fregnac
 - laurent-u-perrinet
 title: FACETS (2006/2010)
-tags: ["neuromorphic-computing"]
-categories: ["Biological Neuroscience", "Computational Neuroscience", "Education", "Grants & Funding", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- neuromorphic-computing
+categories:
+- Biological Neuroscience
+- Computational Neuroscience
+- Grants & Funding
 ---
+
 List of publications that were funded by the
 <a href="http://facets.kip.uni-heidelberg.de/" class="http">FACETS</a>
 project (more
