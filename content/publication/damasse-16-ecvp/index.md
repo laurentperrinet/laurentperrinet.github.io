@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Jean-Bernard Damasse
 - Anna Montagnini
@@ -10,7 +10,6 @@ grants:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/damasse-16-ecvp
-
 publication: '*Proceedings of ECVP*'
 publication_types:
 - inproceedings
@@ -19,7 +18,6 @@ tags:
 - eye-movements
 categories:
 - Computational Neuroscience
-projects:
-- ''
+projects: []
 ---
 

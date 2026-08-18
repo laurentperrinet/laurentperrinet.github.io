@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Laurent U Perrinet
 - Manuel Samuelides
@@ -13,7 +13,6 @@ tags:
 categories:
 - Computational Neuroscience
 - Education
-projects:
-- ''
+projects: []
 ---
 

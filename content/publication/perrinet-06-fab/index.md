@@ -1,4 +1,4 @@
----
+--- 
 abstract: Computations in a cortical column are characterized by the dynamical, event-based
   nature of neuronal signals and are structured by the layered and parallel structure
   of cortical areas. But they are also characterized by their efficiency in terms

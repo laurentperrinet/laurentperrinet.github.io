@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Nicole Voges
 - Jens Kremkow
@@ -7,7 +7,6 @@ date: 2008-01-01
 featured: false
 grants:
 - facets
-
 publication: '*Proceedings of the FENS Forum 2008*'
 publication_types:
 - inproceedings

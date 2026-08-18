@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'Most studies of cortical network dynamics are either based on purely random
   wiring or neighborhood couplings [1], focussing on a rather local scale. Neuronal
   connections in the cortex, however, show a more complex spatial pattern composed
@@ -33,7 +33,6 @@ date: 2009-01-01
 featured: false
 grants:
 - facets
-
 publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'
 publication_types:
 - inproceedings

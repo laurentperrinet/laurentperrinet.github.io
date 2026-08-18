@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Laurent U Perrinet
 date: 2020-01-07
@@ -16,7 +16,6 @@ links:
   url: https://laurentperrinet.github.io/publication/perrinet-20-dr/
 - name: PDF
   url: https://tel.archives-ouvertes.fr/tel-00002693/file/tel-000026931.pdf
-
 publication: ''
 publication_types:
 - thesis
@@ -29,8 +28,7 @@ tags:
 categories:
 - Computational Neuroscience
 - Education
-projects:
-- ''
+projects: []
 ---
 
 * Suite de mes travaux d'habilitation à diriger des recherches (HDR) sur le thème de la vision comme processus prédictif. {{< cite page="/publication/perrinet-14-hdr" view="4" >}}

@@ -1,4 +1,4 @@
----
+--- 
 abstract: Accuracy in estimating an object's global motion over time is not only affected
   by the noise in visual motion information but also by the spatial limitation of
   the local motion analyzers (aperture problem). Perceptual and oculomotor data demonstrate
@@ -35,7 +35,6 @@ featured: false
 links:
 - name: URL
   url: https://doi.org/10.1016/j.visres.2010.10.021
-
 publication: '*Vision research*'
 publication_types:
 - article-journal
@@ -50,12 +49,12 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 - Theoretical Neuroscience
 projects:
 - codde
 grants:
 - codde
 ---
+
 ![header](bogadhi-11.png)
 * See a followup in {{< cite page="/publication/perrinet-12-pred" view="4" >}}

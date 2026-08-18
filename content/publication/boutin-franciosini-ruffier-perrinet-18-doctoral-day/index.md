@@ -1,4 +1,4 @@
----
+--- 
 abstract: ' The brain has to solve inverse problems to correctly interpret sensory
   data and infer the set of causes that generated the sensory inputs. Such a problem
   is typically ill-posed, and thus requires constraint the narrow down the number

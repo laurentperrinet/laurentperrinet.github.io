@@ -1,4 +1,4 @@
----
+--- 
 abstract: Recently, there has been an increase in interest in exploring the hypothesis
   that neural activity conveys information through precise spiking motifs. To investigate
   this phenomenon, several algorithms have been proposed to detect such motifs in
@@ -45,8 +45,7 @@ tags:
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 
 * see accompanying papers

@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - etienne-rey
 - laurent-u-perrinet
@@ -19,10 +19,10 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - art-science
 ---
+
 
 # Trame Élasticité @  Fondation Vasarely à Aix-en-Provence
 

@@ -1,4 +1,4 @@
----
+--- 
 abstract: Computational neuroscience has produced a diversity of software for simulations
   of networks of spiking neurons, with both negative and positive consequences. On
   the one hand, each simulator uses its own programming or configuration language,

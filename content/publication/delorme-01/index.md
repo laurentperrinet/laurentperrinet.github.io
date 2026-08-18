@@ -1,4 +1,4 @@
----
+--- 
 abstract: Rank Order Coding is an alternative to conventional rate coding schemes
   that uses the order in which a neuron's inputs fire to encode information. In a
   visual system framework, we simulated the asynchronous waves of retinal spikes produced
@@ -28,7 +28,6 @@ tags:
 categories:
 - Education
 - Theoretical Neuroscience
-projects:
-- ''
+projects: []
 ---
 

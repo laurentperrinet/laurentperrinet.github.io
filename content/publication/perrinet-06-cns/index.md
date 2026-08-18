@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'We describe the theoretical formulation of a learning algorithm in a model
   of the primary visual cortex (V1) and present results of the efficiency of this
   algorithm by comparing it to the SparseNet algorithm (Olshausen, 1996). As the SparseNet
@@ -25,9 +25,15 @@ publication_types:
 - inproceedings
 title: An efficiency razor for model selection and adaptation in the primary visual
   cortex
-tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience", "Visual Neuroscience"]
-projects: ["", "tout-public"]
+tags:
+- predictive-coding
+- primary-visual-cortex
+- sparse-coding
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+- Visual Neuroscience
 projects:
 - facets
 ---

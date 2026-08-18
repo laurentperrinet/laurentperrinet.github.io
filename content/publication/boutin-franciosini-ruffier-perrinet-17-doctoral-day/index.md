@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'Improve performances of existing recognition computer vision algorithms
   with biological concepts. The gain are expected in the following: Recognition latency
   and accuracy (faster and better), less data needed to train algorithms and of decreased

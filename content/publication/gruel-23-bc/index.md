@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Amélie Gruel
 - Dalia Hareb
@@ -18,7 +18,6 @@ lastmod: 2022-11-17 12:15:57+01:00
 links:
 - name: Preprint
   url: https://www.researchsquare.com/article/rs-2120721
-
 publication: '*Biological Cybernetics*'
 publication_types:
 - article-journal
@@ -32,7 +31,6 @@ tags:
 categories:
 - Education
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 

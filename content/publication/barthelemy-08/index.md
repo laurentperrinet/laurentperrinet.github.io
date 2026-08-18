@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'Integrating information is essential to measure the physical 2D motion
   of a surface from both ambiguous local 1D motion of its elongated edges and non-ambiguous
   2D motion of its features such as corners or texture elements. The dynamics of this
@@ -35,7 +35,6 @@ grants:
 links:
 - name: URL
   url: https://doi.org/10.1016/j.visres.2007.10.020
-
 publication: '*Vision research*'
 publication_types:
 - article-journal
@@ -49,7 +48,7 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - facets
 ---
+

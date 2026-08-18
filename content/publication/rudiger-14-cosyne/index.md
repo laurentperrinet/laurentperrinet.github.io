@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - P Philipp Rudiger
 - Jean-Luc Stevens
@@ -12,7 +12,6 @@ grants:
 links:
 - name: URL
   url: https://goo.gl/RJpJR4
-
 publication: '*Proceedings of COSYNE*'
 publication_types:
 - inproceedings
@@ -23,8 +22,7 @@ tags:
 categories:
 - Computational Neuroscience
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 * see a follow-up: {{< cite page="/publication/perrinet-bednar-15" view="4" >}}

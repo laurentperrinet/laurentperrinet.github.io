@@ -1,4 +1,4 @@
----
+--- 
 abstract: During normal viewing, the continuous stream of visual input is regularly
   interrupted, for instance by blinks of the eye. Despite these frequents blanks (that
   is the transient absence of a raw sensory source), the visual system is most often
@@ -39,7 +39,6 @@ grants:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/khoei-13-jpp/
-
 publication: '*Journal of Physiology-Paris*'
 publication_types:
 - article-journal

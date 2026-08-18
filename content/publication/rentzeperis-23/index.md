@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Ilias Rentzeperis
 - Luca Calatroni
@@ -30,8 +30,7 @@ tags:
 - sparse-coding
 categories:
 - Computational Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 * Follows {{< cite page="/publication/rentzeperis-22-areadne" view="4" >}}

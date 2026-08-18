@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'Neurons in the input layer of primary visual cortex in primates develop
   edge-like receptive fields. One approach to understanding the emergence of this
   response is to state that neural activity has to efficiently represent sensory data
@@ -46,8 +46,7 @@ categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 ![header](perrinet-10-shl.png)

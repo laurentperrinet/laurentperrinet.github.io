@@ -1,4 +1,4 @@
----
+--- 
 abstract: We consider the problem of sensorimotor delays in the optimal control of
   movement under uncertainty. Specifically, we consider axonal conduction delays in
   the visuo-oculomotor loop and their implications for active inference. Active inference
@@ -40,7 +40,6 @@ categories:
 - Theoretical Neuroscience
 projects:
 - codde
-
 grants:
 - codde
 ---

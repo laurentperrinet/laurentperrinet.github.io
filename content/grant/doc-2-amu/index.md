@@ -5,9 +5,15 @@ authors:
 - victor-boutin
 - laurent-u-perrinet
 title: DOC2AMU (2016/2019)
-tags: ["neuromorphic-computing", "predictive-coding", "sparse-coding", "spiking-neural-networks"]
-categories: ["Grants & Funding", "NeuroAI & Machine Learning"]
-projects: [""]
+tags:
+- neuromorphic-computing
+- predictive-coding
+- sparse-coding
+- spiking-neural-networks
+categories:
+- Grants & Funding
+- NeuroAI & Machine Learning
+projects: []
 ---
 [DOC2AMU](https://doc2amu.univ-amu.fr/en) is co-funded by the prestigious Marie Skłodowska-Curie COFUND action within the H2020 Research and Innovation programme of the European Union and by the Regional Council of Provence-Alpes-Côte d’Azur, with a contribution from A*MIDEX Foundation.
 

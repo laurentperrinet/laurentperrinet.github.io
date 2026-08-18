@@ -5,9 +5,15 @@ authors:
 - frédéric-y-chavane
 - laurent-u-perrinet
 title: ANR BalaV1 (2013/2016)
-tags: ["primary-visual-cortex"]
-categories: ["Biological Neuroscience", "Computational Neuroscience", "Education", "Grants & Funding", "Visual Neuroscience"]
-projects: [""]
+tags:
+- primary-visual-cortex
+categories:
+- Biological Neuroscience
+- Computational Neuroscience
+- Education
+- Grants & Funding
+- Visual Neuroscience
+projects: []
 ---
 # ANR BalaV1: Balanced states in area V1 (2013/2016)
 

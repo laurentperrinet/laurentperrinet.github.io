@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Jean-Nicolas Jérémie
 - Emmanuel Daucé
@@ -16,7 +16,6 @@ lastmod: 2022-05-20 13:42:38+02:00
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/jeremie-22-fens/
-
 publication: '*Proceedings of the FENS Forum 2022*'
 publication_types:
 - inproceedings
@@ -36,8 +35,7 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 ![](@laurentperrinet_1546389505917206531_tweetcapture.png)

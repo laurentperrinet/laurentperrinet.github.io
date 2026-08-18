@@ -1,4 +1,4 @@
----
+--- 
 abstract: One core advantage of sparse representations is the efficient coding of
   complex signals using compact codes. For instance, it allows for the representation
   of any image as a combination of few elements drawn from a large dictionary of basis

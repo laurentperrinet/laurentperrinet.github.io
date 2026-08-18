@@ -1,4 +1,4 @@
----
+--- 
 abstract: Short-latency ocular following are reflexive, tracking eye movements that
   are observed in human and non-human primates in response to a sudden and brief translation
   of the image. Initial, open-loop part of the eye acceleration reflects many of the
@@ -32,8 +32,7 @@ tags:
 categories:
 - Behavioural Neuroscience
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 
 ![header](masson-12.png)

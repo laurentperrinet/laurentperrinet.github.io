@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'Most studies of cor tical network dynamics are either based on purely random
   wiring or neighborhood couplings, e.g., [Kumar, Schrader, Aer tsen, Rotter, 2008,
   Neural Computation 20, 1--43]. Neuronal connections in the cor tex, however, show
@@ -45,7 +45,6 @@ date: 2009-01-01
 featured: false
 grants:
 - facets
-
 publication: '*Proceedings of COSYNE*'
 publication_types:
 - inproceedings

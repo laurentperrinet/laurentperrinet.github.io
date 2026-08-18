@@ -1,15 +1,30 @@
----
-title: 'Soutenance de Jean-Nicolas Jérémie "Foveal Retinotopy and Dual Pathways: A Computational Model for Active Visual Search"'
+--- 
+title: 'Soutenance de Jean-Nicolas Jérémie "Foveal Retinotopy and Dual Pathways: A
+  Computational Model for Active Visual Search"'
 authors:
 - Jean-Nicolas Jérémie
 date: '2025-10-10'
 publishDate: '2025-09-04T07:19:00.636355Z'
 publication_types:
 - thesis
-tags: ["bayesian-modelling", "eye-movements", "foveated-vision", "log-polar-mapping", "retinotopy"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- eye-movements
+- foveated-vision
+- log-polar-mapping
+- retinotopy
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+projects:
+- tout-public
 ---
+
 
 Jean-Nicolas Jérémie soutiendra publiquement ses travaux de thèse intitulés: *Foveal Retinotopy and Dual Pathways: A Computational Model for Active Visual Search*
 

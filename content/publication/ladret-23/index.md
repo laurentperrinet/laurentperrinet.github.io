@@ -1,4 +1,4 @@
----
+--- 
 abstract: Our daily endeavors occur in a complex visual environment, whose intrinsic
   variability challenges the way we integrate information to make decisions. By processing
   myriads of parallel sensory inputs, our brain is theoretically able to compute the
@@ -22,83 +22,6 @@ date: 2023-06-06
 doi: 10.1038/s42003-023-05042-3
 featured: true
 grants:
-- anr-horizontal-v1
-grants:
-- anr-anr
-- polychronies
-grants:
-- anr-horizontal-v1
-grants:
-- anr-anr
-- polychronies
-grants:
-- anr-horizontal-v1
-grants:
-- anr-anr
-- polychronies
-grants:
-- anr-horizontal-v1
-grants:
-- anr-anr
-- polychronies
-grants:
-- anr-horizontal-v1
-grants:
-- anr-anr
-- polychronies
-grants:
-- anr-horizontal-v1
-grants:
-- anr-anr
-- polychronies
-grants:
-- anr-horizontal-v1
-grants:
-- anr-anr
-- polychronies
-grants:
-- anr-horizontal-v1
-grants:
-- anr-anr
-- polychronies
-grants:
-- anr-horizontal-v1
-grants:
-- anr-anr
-- polychronies
-grants:
-- anr-horizontal-v1
-grants:
-- anr-anr
-- polychronies
-grants:
-- anr-horizontal-v1
-grants:
-- anr-anr
-- polychronies
-grants:
-- anr-horizontal-v1
-grants:
-- anr-anr
-- polychronies
-grants:
-- anr-horizontal-v1
-grants:
-- anr-anr
-- polychronies
-grants:
-- anr-horizontal-v1
-grants:
-- anr-anr
-- polychronies
-grants:
-- anr-horizontal-v1
-grants:
-- anr-anr
-- polychronies
-grants:
-- anr-horizontal-v1
-grants:
 - anr-anr
 - polychronies
 links:
@@ -112,7 +35,6 @@ links:
   url: https://www.biorxiv.org/content/10.1101/2021.03.30.437692
 - name: HAL
   url: https://hal.science/hal-04142490
-
 publication: '*Nature Communications Biology*'
 publication_types:
 - article-journal
@@ -130,8 +52,7 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 * open access: https://www.nature.com/articles/s42003-023-05042-3

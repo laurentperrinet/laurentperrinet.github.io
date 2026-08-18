@@ -1,4 +1,4 @@
----
+--- 
 title: Working Memory with Polychronous Chains
 authors:
 - Laurent U Perrinet
@@ -21,8 +21,7 @@ tags:
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 
 * See the accompanying code: https://github.com/laurentperrinet/MNESIS

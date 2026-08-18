@@ -1,4 +1,4 @@
----
+--- 
 abstract: Low-level perceptual computations may be understood in terms of efficient
   codes (Simoncelli and Olshausen, 2001, Annual Review of Neuroscience 24 1193-216).
   Following this argument, we explore models of representation for natural static

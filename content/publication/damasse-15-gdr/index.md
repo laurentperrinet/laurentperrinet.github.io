@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Jean-Bernard Damasse
 - Laurent Madelain
@@ -11,7 +11,6 @@ grants:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/damasse-15-gdr
-
 publication: '*Proceedings of GDR Vision (Lyon, France)*'
 publication_types:
 - inproceedings
@@ -21,7 +20,6 @@ tags:
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 

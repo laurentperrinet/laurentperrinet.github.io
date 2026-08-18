@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Emmanuel Daucé
 - Laurent U Perrinet
@@ -20,7 +20,6 @@ links:
   url: https://github.com/laurentperrinet/2020-09-14_IWAI/
 - name: URL
   url: https://laurentperrinet.github.io/publication/dauce-20-iwai
-
 publication: '*IWAI 2020*'
 publication_types:
 - inproceedings

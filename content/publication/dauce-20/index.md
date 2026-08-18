@@ -1,4 +1,4 @@
----
+--- 
 abstract: In computer vision, the visual search task consists in extracting a scarce
   and specific visual information (the target) from a large and crowded visual display.
   This task is usually implemented by scanning the different possible target identities
@@ -40,7 +40,6 @@ links:
   url: https://laurentperrinet.github.io/publication/dauce-20/
 - name: bioRxiv
   url: https://www.biorxiv.org/content/10.1101/725879
-
 publication: '*Journal of Vision*'
 publication_types:
 - article-journal
@@ -66,8 +65,7 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 {{< figure src="https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true" >}}

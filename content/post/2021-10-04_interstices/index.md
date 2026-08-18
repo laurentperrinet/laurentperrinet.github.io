@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - etienne-rey
 - laurent-u-perrinet

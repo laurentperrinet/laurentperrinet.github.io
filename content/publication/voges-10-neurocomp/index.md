@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'We study cortical network dynamics for a more realistic network model.
   It represents, in terms of spatial scale, a large piece of cortex allowing for long-range
   connections, resulting in a rather sparse connectivity. We use two different types
@@ -20,7 +20,6 @@ date: 2010-01-01
 featured: false
 grants:
 - facets
-
 publication: '*Proceedings of NeuroComp*'
 publication_types:
 - inproceedings

@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - alexandre-laine
 title: Alexandre Lainé
@@ -11,7 +11,6 @@ education:
   - course: Master in Neuroscience
     institution: Aix-Marseille Université
     year: 2024
-
 social:
 - icon: github
   icon_pack: fab
@@ -22,7 +21,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/alexandre-lain%C3%A9-6593a4221/
-
 superuser: false
 user_groups:
 - Current Students
@@ -30,7 +28,6 @@ tags:
 - spiking-neural-networks
 categories:
 - Education
-- Outreach & Public Engagement
 ---
 
 # PhD Student (2024-10 / 2027-09): Model-based analysis of neurobiological data
@@ -56,6 +53,8 @@ Recent technological advances in neurobiology have paved the way for the recordi
 To achieve this, the project will draw on a theoretical approach developed in our group, which allows us to formalize this consistency by deducing a measure of the efficiency of processing spikes. The analysis algorithm will be optimized by minimizing a cost function reflecting these principles. Existing encoding and decoding models, which we have already validated on neurophysiological data, will then be combined using this approach. By studying the role of principles such as the energy efficiency of neural processing and the consideration of physiological constraints, we will then be able to deduce the role of each of these principles in neural information by measuring changes in processing efficiency.
 
 Ultimately, the aim is to develop new analysis methods enabling predictive links to be established between recorded multidimensional neural activity and functional hypotheses such as object detection or spatial navigation. This method will also enable us to test various hypotheses on the role of temporal precision in information processing. The risks associated with the innovative aspect of the project will be mitigated by the supervisors' expertise in machine learning, neural modeling and computational neuroscience.
+
+
 ### :fr:  Description de la problématique de recherche 
 
 Les récentes avancées technologiques en neurobiologie ont ouvert la voie à l'enregistrement de très grandes populations de neurones à

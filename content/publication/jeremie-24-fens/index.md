@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Jean-Nicolas Jérémie
 - Emmanuel Daucé
@@ -24,8 +24,7 @@ tags:
 categories:
 - Computational Neuroscience
 - Education
-projects:
-- ''
+projects: []
 ---
 
 * Read the corresponding paper {{< cite page="/publication/jeremie-25" view="4" >}}

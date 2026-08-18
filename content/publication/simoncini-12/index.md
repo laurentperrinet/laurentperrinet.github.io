@@ -1,4 +1,4 @@
----
+--- 
 abstract: Moving objects generate motion information at different scales, which are
   processed in the visual system with a bank of spatiotemporal frequency channels.
   It is not known how the brain pools this information to reconstruct object speed
@@ -23,7 +23,6 @@ featured: true
 links:
 - name: URL
   url: https://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.3229.html
-
 publication: '*Nature Neuroscience*'
 publication_types:
 - article-journal

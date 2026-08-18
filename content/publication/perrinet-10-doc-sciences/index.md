@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Laurent U Perrinet
 date: 2011-06-20
@@ -11,8 +11,7 @@ publication: '*DocSciences*'
 publication_types:
 - article-journal
 title: Qui créera le premier ordinateur intelligent?
-tags:
-- ''
+tags: []
 categories:
 - Computational Neuroscience
 - Education

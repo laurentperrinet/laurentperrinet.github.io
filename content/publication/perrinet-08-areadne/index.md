@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'The machinery behind the visual perception of motion and the subsequent
   sensorimotor transformation, such as in Ocular Following Response (OFR), is confronted
   to uncertainties which are efficiently resolved in the primate''s visual system.

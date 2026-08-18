@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - jean-bernard-damasse
 role: MD, Marseille, France.
@@ -16,11 +16,15 @@ title: Jean-Bernard Damasse
 superuser: false
 user_groups:
 - Former Students
-tags: ["bayesian-modelling", "eye-movements", "motion-perception"]
-projects: [""]
-categories: ["Behavioural Neuroscience", "Education"]
+tags:
+- bayesian-modelling
+- eye-movements
+- motion-perception
+projects: []
+categories:
+- Behavioural Neuroscience
+- Education
 ---
-
 # Smooth pursuit eye movements and learning: Role of motion probability and reinforcement contingencies (PhD, 2014-2017)
 
 * Thesis director: Anna Montagnini

@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - laurent-u-perrinet
 date: 2025-11-24 08:30:00
@@ -14,10 +14,10 @@ tags:
 categories:
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - tout-public
 ---
+
 
 Le 24 novembre 2025, j'ai eu l'opportunité de participer au Neurotalk, un événement organisé par l'association [#neuronautes](https://www.instagram.com/neuronautes/) sur le campus Saint-Charles à Marseille. Cette soirée était dédiée à l'exploration des carrières dans le domaine des neurosciences.
 

@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'To measure speed and direction of moving objects, the cortical motion system
   pools information across different spatiotemporal channels. One yet unsolved question
   is to understand how the brain pools this information and whether this pooling is
@@ -36,7 +36,6 @@ featured: false
 links:
 - name: URL
   url: https://www.frontiersin.org/myfrontiers/abstractdetails.aspx?abs_doi=10.3389/conf.fnins.2012.86.00016
-
 publication: '*Front. Neurosci. Conference Abstract: Neural Coding, Decision-Making
   and Integration in Time*'
 publication_types:

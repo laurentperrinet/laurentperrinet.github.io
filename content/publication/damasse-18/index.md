@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Jean-Bernard Damasse
 - Laurent U Perrinet
@@ -8,75 +8,12 @@ date: 2018-10-01
 doi: 10.1167/18.11.14
 featured: false
 grants:
-- anr-rem
-grants:
-- pace-itn
-grants:
-- anr-rem
-grants:
-- pace-itn
-grants:
-- anr-rem
-grants:
-- pace-itn
-grants:
-- anr-rem
-grants:
-- pace-itn
-grants:
-- anr-rem
-grants:
-- pace-itn
-grants:
-- anr-rem
-grants:
-- pace-itn
-grants:
-- anr-rem
-grants:
-- pace-itn
-grants:
-- anr-rem
-grants:
-- pace-itn
-grants:
-- anr-rem
-grants:
-- pace-itn
-grants:
-- anr-rem
-grants:
-- pace-itn
-grants:
-- anr-rem
-grants:
-- pace-itn
-grants:
-- anr-rem
-grants:
-- pace-itn
-grants:
-- anr-rem
-grants:
-- pace-itn
-grants:
-- anr-rem
-grants:
-- pace-itn
-grants:
-- anr-rem
-grants:
-- pace-itn
-grants:
-- anr-rem
-grants:
 - pace-itn
 links:
 - name: URL
   url: https://jov.arvojournals.org/article.aspx?articleid=2707670
 - name: HAL
   url: https://hal.science/hal-01901640v1
-
 publication: '*Journal of Vision*'
 publication_types:
 - article-journal
@@ -87,7 +24,6 @@ tags:
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 

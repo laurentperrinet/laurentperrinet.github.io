@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'Oriented edges in images of natural scenes tend to be aligned in collinear
   or co-circular arrangements, with lines and smooth curves more common than other
   possible arrangements of edges (Geisler et al., Vis Res 41:711-24, 2001). The visual
@@ -53,7 +53,6 @@ grants:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-11-sfn
-
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - inproceedings
@@ -69,8 +68,7 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 * See a followup in {{< cite page="/publication/perrinet-bednar-15" view="4" >}}

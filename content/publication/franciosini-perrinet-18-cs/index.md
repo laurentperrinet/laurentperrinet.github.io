@@ -1,4 +1,4 @@
----
+--- 
 abstract: ' It is widely assumed that visual processing follows a forward sequence
   of processing steps along a hierarchy of laminar sub-populations of the neural system.
   Taking the example of the early visual system of mammals, most models are consequently
@@ -48,7 +48,6 @@ featured: false
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/franciosini-perrinet-18-cs/
-
 publication: '*Curves and Surfaces 2018, Arcachon*'
 publication_types:
 - inproceedings

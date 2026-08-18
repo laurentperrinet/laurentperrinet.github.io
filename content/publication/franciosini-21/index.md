@@ -1,4 +1,4 @@
----
+--- 
 abstract: Neurons in the primary visual cortex are selective to orientation with various
   degrees of selectivity to the spatial phase, from high selectivity in simple cells
   to low selectivity in complex cells. Various computational models have suggested
@@ -33,7 +33,6 @@ links:
   url: https://laurentperrinet.github.io/publication/franciosini-21
 - name: bioRxiv
   url: https://www.biorxiv.org/content/10.1101/2021.04.19.440444
-
 publication: '*PLoS Computational Biology*'
 publication_types:
 - article-journal
@@ -49,8 +48,7 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 ![](@laurentperrinet_1555506825289662466_tweetcapture.png)

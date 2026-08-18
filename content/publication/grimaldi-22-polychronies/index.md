@@ -1,4 +1,4 @@
----
+--- 
 abstract: Why do neurons communicate through spikes? By definition, spikes are all-or-none
   neural events which occur at continuous times. In other words, spikes are on one
   side binary, existing or not without further details, and on the other can occur

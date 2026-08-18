@@ -1,4 +1,4 @@
----
+--- 
 abstract: Visual search, that is, the simultaneous localization and detection of a
   visual target of interest, is a vital task. Applied to the case of natural scenes,
   searching for example to an animal (either a prey, a predator or a partner) constitutes
@@ -24,68 +24,6 @@ date: 2022-06-29
 draft: false
 featured: false
 grants:
-- aprovis3D
-grants:
-- anr-anr
-grants:
-- aprovis3D
-grants:
-- anr-anr
-grants:
-- aprovis3D
-grants:
-- anr-anr
-grants:
-- aprovis3D
-grants:
-- anr-anr
-grants:
-- aprovis3D
-grants:
-- anr-anr
-grants:
-- aprovis3D
-grants:
-- anr-anr
-grants:
-- aprovis3D
-grants:
-- anr-anr
-grants:
-- aprovis3D
-grants:
-- anr-anr
-grants:
-- aprovis3D
-grants:
-- anr-anr
-grants:
-- aprovis3D
-grants:
-- anr-anr
-grants:
-- aprovis3D
-grants:
-- anr-anr
-grants:
-- aprovis3D
-grants:
-- anr-anr
-grants:
-- aprovis3D
-grants:
-- anr-anr
-grants:
-- aprovis3D
-grants:
-- anr-anr
-grants:
-- aprovis3D
-grants:
-- anr-anr
-grants:
-- aprovis3D
-grants:
 - anr-anr
 image:
   caption: ''
@@ -95,7 +33,6 @@ lastmod: 2022-05-20 13:42:38+02:00
 links:
 - name: Venue
   url: https://areadne.org/
-
 publication: '*Proceedings of AREADNE*'
 publication_types:
 - inproceedings

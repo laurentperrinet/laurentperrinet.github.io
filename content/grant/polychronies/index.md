@@ -4,18 +4,29 @@ authors:
 - thomas-schatz
 - laurent-u-perrinet
 date: 2022-07-18 14:00:00
-summary: A grant from the Ph.D. program in Integrative and Clinical Neuroscience (Post-doctoral position, 2022 / 2025).
+summary: A grant from the Ph.D. program in Integrative and Clinical Neuroscience (Post-doctoral
+  position, 2022 / 2025).
 image:
-  caption: © [Motion Exposure](http://www.motionexposure.com) - Stephen Orlando. With permission by the artist.
+  caption: © [Motion Exposure](http://www.motionexposure.com) - Stephen Orlando. With
+    permission by the artist.
   focal_point: Smart
   placement: 2
   preview_only: false
-
 title: Polychronies (2022 / 2025)
-tags: ["delayed-coding", "motion-perception", "neuromorphic-computing", "polychronous-groups", "predictive-coding", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "Grants & Funding", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- delayed-coding
+- motion-perception
+- neuromorphic-computing
+- polychronous-groups
+- predictive-coding
+- spiking-neural-networks
+categories:
+- Computational Neuroscience
+- Grants & Funding
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
 ---
+
 {{% callout warning %}}
 THE POSITION HAS BEEN FILLED.
 {{% /callout %}}

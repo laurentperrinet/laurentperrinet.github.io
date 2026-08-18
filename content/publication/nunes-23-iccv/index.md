@@ -1,4 +1,4 @@
----
+--- 
 abstract: Event cameras asynchronously report brightness changes with a temporal resolution
   in the order of microseconds, which makes them inherently suitable to address problems
   that involve rapid motion perception, such as ventral landing and fast obstacle
@@ -36,7 +36,6 @@ links:
   url: https://github.com/neuromorphic-paris/ETTCM
 - name: URL
   url: https://laurentperrinet.github.io/publication/nunes-23-iccv/
-
 publication: '*International Conference on Computer Vision 2023 (ICCV2023)*'
 publication_types:
 - inproceedings
@@ -52,8 +51,7 @@ categories:
 - Computer Vision
 - Education
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 
 * the code is openly available on [GitHub](https://github.com/neuromorphic-paris/ETTCM) with the accompanying data [VL.zip](https://www.dropbox.com/scl/fi/lw9ztsopinnjfztt82oxt/VL.zip?rlkey=6uccvu486iulvityrvrom50e4&dl=0).

@@ -1,4 +1,4 @@
----
+--- 
 abstract: Timing is essential for neural processing, but evidence for such temporal
   precision is still lacking. We have developed a theoretical model of representation
   based on spatio-temporal spiking motifs. Our goal is to develop a self-supervised
@@ -27,7 +27,6 @@ lastmod: 2024-04-05 10:22:08+02:00
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/fois-24-fens/
-
 publication: '*Proceedings of the FENS Forum 2024*'
 publication_types:
 - inproceedings
@@ -41,7 +40,6 @@ categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects:
-- ''
+projects: []
 ---
 

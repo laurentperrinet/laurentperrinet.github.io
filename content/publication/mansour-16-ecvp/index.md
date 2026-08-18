@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Kiana Mansour Pour
 - Laurent U Perrinet
@@ -11,7 +11,6 @@ grants:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/mansour-16-ecvp
-
 publication: '*Proceedings of ECVP*'
 publication_types:
 - inproceedings

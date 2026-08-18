@@ -1,4 +1,4 @@
----
+--- 
 abstract: The quality of the representation of an object's motion is limited by the
   noise in the sensory input as well as by an intrinsic ambiguity due to the spatial
   limitation of the visual motion analyzers (aperture problem). Perceptual and oculomotor

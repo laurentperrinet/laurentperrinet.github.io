@@ -1,4 +1,4 @@
----
+--- 
 abstract: As the state-of-the-art imaging technologies became more and more advanced,
   yielding scientific data at unprecedented detail and volume, the need to process
   and interpret all the data has made image processing and computer vision also increasingly
@@ -44,8 +44,7 @@ categories:
 - Computational Neuroscience
 - Computer Vision
 - Education
-projects:
-- ''
+projects: []
 grants:
 - brain-scales
 ---

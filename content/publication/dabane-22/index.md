@@ -1,4 +1,4 @@
----
+--- 
 abstract: Convolutional Neural Networks have been considered the go-to option for
   object recognition in computer vision for the last couple of years. However, their
   invariance to object's translations is still deemed as a weak point and remains
@@ -31,7 +31,6 @@ lastmod: 2022-05-11 12:51:44+02:00
 links:
 - name: URL
   url: https://www.techrxiv.org/articles/preprint/What_You_See_Is_What_You_Transform_Foveated_Spatial_Transformers_as_a_bio-inspired_attention_mechanism/16550391/1
-
 publication: '*IJCNN 2022 : International Joint Conference on Neural Networks*'
 publication_types:
 - inproceedings
@@ -50,8 +49,7 @@ categories:
 - Computer Vision
 - Education
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 
 IJCNN page: https://www.techrxiv.org/articles/preprint/What_You_See_Is_What_You_Transform_Foveated_Spatial_Transformers_as_a_bio-inspired_attention_mechanism/16550391/1

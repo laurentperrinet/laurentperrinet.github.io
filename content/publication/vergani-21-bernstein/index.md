@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Alberto Vergani
 - Laurent U Perrinet
@@ -7,7 +7,6 @@ doi: 10.12751/nncn.bc2021.p094
 featured: false
 grants:
 - anr-horizontal-v1
-
 publication: '*Bernstein Conference 2021*'
 publication_types:
 - inproceedings
@@ -18,8 +17,7 @@ tags:
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 
 * poster number: 94

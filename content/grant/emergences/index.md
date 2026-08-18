@@ -4,20 +4,27 @@ authors:
 date: 2023-10-05 14:00:00
 summary: Near-physics emerging models for embedded AI (PhD position, 2023 / 2027).
 image:
-  caption: Rufous Hummingbird "Super fast little hummer on a scarlet Kunzea plant, (thanks for the plant ID, Teddy) El Chorro regional park" photo [Anita Ritenour](https://www.flickr.com/photos/puliarfanita/13322040205) - Attribution 2.0 Generic (CC BY 2.0)
+  caption: Rufous Hummingbird "Super fast little hummer on a scarlet Kunzea plant,
+    (thanks for the plant ID, Teddy) El Chorro regional park" photo [Anita Ritenour](https://www.flickr.com/photos/puliarfanita/13322040205)
+    - Attribution 2.0 Generic (CC BY 2.0)
   focal_point: Smart
   placement: 2
   preview_only: false
-
 links:
 - name: URL
   url: https://emergences.lirmm.fr/
-  
-title: "Emergences (2023 / 2027)"
-tags: ["bayesian-modelling", "neuromorphic-computing", "sparse-coding", "spiking-neural-networks"]
-categories: ["Education", "Grants & Funding", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+title: Emergences (2023 / 2027)
+tags:
+- bayesian-modelling
+- neuromorphic-computing
+- sparse-coding
+- spiking-neural-networks
+categories:
+- Education
+- Grants & Funding
+- NeuroAI & Machine Learning
 ---
+
 {{% callout note %}}
 TL;DR: Conventional deep learning models consume too much energy. Inspired by biology, we will explore new models that are more energy efficient.
 {{% /callout %}}

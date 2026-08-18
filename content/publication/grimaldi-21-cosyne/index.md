@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'We propose a neuromimetic  architecture able to perform online pattern
   recognition. To achieve this, we extended the existing event-based algorithm from
   Lagorce et al (2017) which introduced novel spatio-temporal features: time-surfaces.
@@ -36,7 +36,6 @@ links:
   url: https://www.researchgate.net/profile/Antoine-Grimaldi-2/publication/349715111_A_robust_bio-inspired_approach_to_event-driven_object_recognition/links/603e41d84585154e8c6e6a7c/A-robust-bio-inspired-approach-to-event-driven-object-recognition.pdf
 - name: URL
   url: https://laurentperrinet.github.io/publication/grimaldi-21-cosyne/
-
 publication: '*Computational and Systems Neuroscience (Cosyne) 2021*'
 publication_types:
 - inproceedings

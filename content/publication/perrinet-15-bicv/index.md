@@ -1,4 +1,4 @@
----
+--- 
 abstract: The representation of images in the brain is known to be sparse. That is,
   as neural activity is recorded in a visual area, for instance the primary visual
   cortex of primates, only a few neurons are active at a given time with respect to
@@ -40,8 +40,7 @@ categories:
 - Computer Vision
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects:
-- ''
+projects: []
 grants:
 - brain-scales
 ---

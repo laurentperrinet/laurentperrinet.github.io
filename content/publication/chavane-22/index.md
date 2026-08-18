@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'Horizontal connections in the primary visual cortex of carnivores, ungulates
   and primates organize on a near-regular lattice. Given the similar length scale
   for the regularity found in cortical orientation maps, the currently accepted theoretical
@@ -29,7 +29,6 @@ grants:
 links:
 - name: URL
   url: https://doi.org/10.1007/s00429-022-02455-4
-
 publication: '*Brain Structure and Function*'
 publication_types:
 - article-journal
@@ -50,8 +49,7 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 ![](@laurentperrinet_1490717893750935552_tweetcapture.png)

@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - frédéric-y-chavane
 title: Frédéric Chavane
@@ -13,4 +13,3 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=LT0P6OwAAAAJ
 ---
-

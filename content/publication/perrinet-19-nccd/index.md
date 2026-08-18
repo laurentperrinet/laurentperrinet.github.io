@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'When objects are in motion, the local orientation of their contours and
   the direction of motion are two essential components of visual information which
   are processed in parallel in the early visual areas. Generally, to probe a neuron''s
@@ -43,7 +43,6 @@ grants:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-19-nccd
-
 publication: '*Proceedings of NCCD, Capbreton*'
 publication_types:
 - inproceedings
@@ -57,7 +56,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 

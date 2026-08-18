@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Mina A Khoei
 - Laurent U Perrinet
@@ -10,7 +10,6 @@ grants:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/khoei-12-sfn
-
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - inproceedings

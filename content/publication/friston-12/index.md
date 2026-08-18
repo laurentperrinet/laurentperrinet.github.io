@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'If perception corresponds to hypothesis testing (Gregory, 1980); then visual
   searches might be construed as experiments that generate sensory data. In this work,
   we explore the idea that saccadic eye movements are optimal experiments, in which
@@ -43,8 +43,7 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 
 ![header](friston-12.png)

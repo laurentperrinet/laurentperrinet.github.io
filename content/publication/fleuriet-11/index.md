@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'When generating a saccade toward a moving target, the target displacement
   that occurs during the period spanning from its detection to the saccade end must
   be taken into account to accurately foveate the target and to initiate its pursuit.
@@ -44,7 +44,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects:
-- ''
+projects: []
 ---
 

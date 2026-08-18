@@ -1,4 +1,4 @@
----
+--- 
 abstract: Aleatoric uncertainty characterizes the variability of features found in
   natural images, and echoes the epistemic uncertainty ubiquitously found in computer
   vision models. We explore this ''uncertainty in, uncertainty out'' relationship
@@ -25,7 +25,6 @@ lastmod: 2023-04-07 12:45:44+02:00
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/ladret-23-iclr/
-
 publication: '*ICLR 2023 SNN Workshop*'
 publication_types:
 - inproceedings
@@ -43,8 +42,7 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 * Accepted paper (poster) at the [ICLR 2023 Workshop on

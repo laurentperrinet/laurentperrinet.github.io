@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'We propose a neuromimetic architecture able to perform pattern recognition.
   To achieve this, we extended the existing event-based algorithm from Lagorce et
   al (2017) which introduced novel spatio-temporal features: time surfaces. Built
@@ -37,7 +37,6 @@ links:
   url: https://hal.science/hal-03336554
 - name: Video
   url: https://www.youtube.com/watch?v=KxX4pZKexCo&t=3335s
-
 publication: '*Content-Based Multimedia Indexing (CBMI) 2021*'
 publication_types:
 - inproceedings

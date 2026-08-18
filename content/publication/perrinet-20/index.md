@@ -1,4 +1,4 @@
----
+--- 
 abstract: Within the central nervous system, visual areas are essential in transforming
   the raw luminous signal into a representation which efficiently conveys information
   about the environment. This process is constrained by the necessity of being robust
@@ -30,68 +30,6 @@ date: 2020-01-01
 doi: 10.5040/9781350099784.ch-005
 featured: false
 grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
 - spikeai
 links:
 - name: Code
@@ -121,8 +59,7 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 
  * Find the text at https://laurentperrinet.github.io/Perrinet20PredictiveProcessing/

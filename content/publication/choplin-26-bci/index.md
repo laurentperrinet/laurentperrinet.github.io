@@ -1,4 +1,4 @@
----
+--- 
 title: 'Physiological state Monitoring: a Riemannian Geometry based-model'
 authors:
 - A Choplin
@@ -40,7 +40,6 @@ tags:
 categories:
 - Behavioural Neuroscience
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 

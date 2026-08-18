@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - etienne-rey
 - laurent-u-perrinet
@@ -13,10 +13,10 @@ tags:
 categories:
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - art-science
 ---
+
 
 {{< vimeo 317504725 >}}
 

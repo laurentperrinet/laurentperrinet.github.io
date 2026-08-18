@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Mina A Khoei
 - Laurent U Perrinet
@@ -8,73 +8,10 @@ authors:
 date: 2011-01-01
 featured: false
 grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
 - facets-itn
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/khoei-11-ecvp/
-
 publication: '*Perception*'
 publication_types:
 - inproceedings

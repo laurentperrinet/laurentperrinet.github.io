@@ -1,15 +1,11 @@
----
+--- 
 title: Latest News
-
-# Listing view
 view: compact
-
-# Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
   image: ''
-tags: [""]
-categories: [""]
-projects: [""]
+tags: []
+categories: []
+projects: []
 ---
 

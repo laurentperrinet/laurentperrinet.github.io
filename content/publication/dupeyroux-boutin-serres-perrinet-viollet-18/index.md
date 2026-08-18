@@ -1,4 +1,4 @@
----
+--- 
 abstract: This paper presents for the first time the embedded stand-alone version
   of the bio-inspired M2APix (Michaelis-Menten auto-adaptive pixels) sensor as a ventral
   optic flow sensor to endow glider-type unmanned aerial vehicles with autonomous
@@ -21,7 +21,6 @@ links:
   url: https://ieeexplore.ieee.org/abstract/document/8351433
 - name: HAL
   url: https://hal.science/hal-01899440
-
 publication: '*ISCAS2018, IEEE International Symposium on Circuits and Systems*'
 publication_types:
 - inproceedings

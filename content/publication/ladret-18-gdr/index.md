@@ -1,4 +1,4 @@
----
+--- 
 abstract: The selectivity of the visual system to oriented patterns is very well documented
   in a wide range of species, especially in mammals. In particular, neurons of the
   primary visual cortex are anatomically grouped by their preference to a given oriented
@@ -27,7 +27,6 @@ links:
   url: https://github.com/hugoladret/InternshipM1
 - name: PDF
   url: https://github.com/hugoladret/InternshipM1/raw/master/2018-06_POSTER_final.pdf
-
 publication: '*GDR Vision, Paris, 2018*'
 publication_types:
 - inproceedings

@@ -1,4 +1,4 @@
----
+--- 
 abstract: It is generally assumed that neurons in the central nervous system communicate
   through temporal firing patterns. As a first step, we will study the learning of
   a layer of realistic neurons in the particular case where the relevant messages
@@ -28,8 +28,7 @@ tags:
 categories:
 - Computational Neuroscience
 - Education
-projects:
-- ''
+projects: []
 ---
 
 ![header](perrinet-02-stdp.png)

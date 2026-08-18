@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'Cells in the primary visual cortex of mammals (V1) have historically been
   divided into two classes: simple and complex. Simple cells exhibit a rectified linear
   response to oriented visual stimuli while complex cells show various degrees of
@@ -60,7 +60,6 @@ featured: false
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/franciosini-20-cosyne/
-
 publication: '*Computational and Systems Neuroscience (Cosyne) 2020*'
 publication_types:
 - inproceedings

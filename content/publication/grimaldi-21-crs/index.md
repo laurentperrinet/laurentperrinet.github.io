@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'We propose a neuromimetic online classifier for always-on digit recognition.
   To achieve this, we extend an existing event-based algorithm which introduced novel
   spatio-temporal features: time surfaces. Built from asynchronous events acquired
@@ -37,7 +37,6 @@ lastmod: 2021-10-12 12:44:34+02:00
 links:
 - name: Venue
   url: https://symposium.fchampalimaud.science
-
 publication: '*Champalimaud Research Symposium (CRS21)*'
 publication_types:
 - inproceedings

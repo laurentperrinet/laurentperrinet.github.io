@@ -1,4 +1,4 @@
----
+--- 
 abstract: A key property of the neurons in the primary visual cortex (V1) is their
   selectivity to oriented stimuli in the visual field. Orientation selectivity allows
   the segmentation of objects in natural visual scenes, which is the first step in
@@ -38,7 +38,6 @@ grants:
 links:
 - name: URL
   url: https://www.abstractsonline.com/pp8/#!/7883/presentation/65859
-
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - inproceedings
@@ -54,8 +53,7 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 ![](@laurentperrinet_1186513282326257665_tweetcapture.png)

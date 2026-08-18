@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Laurent U Perrinet
 date: 2003-01-01
@@ -19,8 +19,7 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 
 {{< figure src="jury.jpg" title="Le jury était consistué (de gauche à droite) de Jeanny Hérault (Rapporteur), Michel Imbert (Président), Yves Burnod (Rapporteur, absent de la photo), Manuel Samuelides (Directeur de thèse) et Simon Thorpe (Co-directeur de thèse)."  width="100%" >}}

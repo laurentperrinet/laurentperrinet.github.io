@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'Under natural viewing conditions, large eye movements are interspace by
   small eye movements (microsaccade). Recent works have shown that these two kinds
   of eye movements are generate by the same oculomotor mechanisms (Goffart et al.,
@@ -33,7 +33,6 @@ featured: false
 links:
 - name: URL
   url: https://doi.org/10.1167/14.10.110
-
 publication: '*Journal of Vision*'
 publication_types:
 - inproceedings
@@ -48,8 +47,7 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 grants:
 - brain-scales
 - codde

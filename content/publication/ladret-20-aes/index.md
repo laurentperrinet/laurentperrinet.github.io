@@ -1,4 +1,4 @@
----
+--- 
 abstract: '*Background*: The primary visual cortex (V1) is a key component of the
   visual system that builds some of the first levels of coherent visual representations
   from sparse visual inputs. While the study of its dynamics has been the focus of
@@ -36,7 +36,6 @@ grants:
 links:
 - name: URL
   url: https://aes.amegroups.com/article/view/5214
-
 publication: '*Annals of Eye Science*'
 publication_types:
 - inproceedings
@@ -51,8 +50,7 @@ categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 * See also [Ladret and Perrinet, 2019]({{< ref "/publication/ladret-19-sfn" >}})

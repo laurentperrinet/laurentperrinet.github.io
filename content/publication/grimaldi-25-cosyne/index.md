@@ -1,4 +1,4 @@
----
+--- 
 title: Robust Unsupervised Learning of Spike Patterns with Optimal Transport Theory
 authors:
 - Antoine Grimaldi
@@ -36,15 +36,12 @@ abstract: Temporal sequences are an important feature of neural information proc
   sequences, and can be readily generalized to other sequence detection applications.
 links:
 - name: URL
-  url: 
-    https://www.world-wide.org/cosyne-25/robust-unsupervised-learning-spike-fa46f105/
-tags:
-- ''
+  url: https://www.world-wide.org/cosyne-25/robust-unsupervised-learning-spike-fa46f105/
+tags: []
 categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 

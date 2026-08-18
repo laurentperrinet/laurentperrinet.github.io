@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'Natural scenes generally contain objects in motion. The local orientation
   of their contours and the direction of motion are two essential components of visual
   information which are processed in parallel in the early visual areas. Focusing
@@ -49,7 +49,6 @@ featured: false
 grants:
 - anr-bala-v1
 - brain-scales
-
 publication: '*Proceedings of AREADNE*'
 publication_types:
 - inproceedings
@@ -67,7 +66,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 

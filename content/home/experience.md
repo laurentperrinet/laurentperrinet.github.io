@@ -1,4 +1,4 @@
----
+--- 
 widget: experience
 headless: true
 active: false
@@ -17,11 +17,9 @@ experience:
   description: Taught electronic engineering and researched semiconductor physics.
 design:
   columns: '2'
-tags:
-- ''
+tags: []
 categories:
 - Education
-projects:
-- ''
+projects: []
 ---
 

@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Angelo Franciosini
 - Victor Boutin
@@ -8,7 +8,6 @@ featured: false
 links:
 - name: URL
   url: https://www.cnsorg.org/cns-2019-poster-presentation-guide
-
 publication: '*Annual Computational Neuroscience Meeting: CNS*2019, Barcelona*'
 publication_types:
 - inproceedings

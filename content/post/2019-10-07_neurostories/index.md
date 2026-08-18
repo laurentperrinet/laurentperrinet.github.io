@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - laurent-u-perrinet
 date: 2019-10-07 18:00:00
@@ -15,10 +15,10 @@ tags:
 categories:
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - tout-public
 ---
+
 
 * Cette présentation lors des [NeuroStories](http://neuroschool-stories.com/) vise à aborder la notion de temps dans le cerveau.
 

@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Bruno Cessac
 - Emmanuel Daucé

@@ -1,4 +1,4 @@
----
+--- 
 abstract: The formation of connections between neural cells is essentially emerging
   from an unsupervised learning process. During the development of primary visual
   cortex (V1) of mammals, for example, one may observe the emergence of cells selective
@@ -26,7 +26,6 @@ links:
   url: https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-18-itwist/
 - name: arXiv
   url: https://arxiv.org/abs/1812.01335
-
 publication: '*iTwist, 2018*'
 publication_types:
 - inproceedings

@@ -1,4 +1,4 @@
----
+--- 
 abstract: Motion detection represents one of the critical tasks of the visual system
   and has motivated a large body of research. However, it remains unclear precisely
   why the response of retinal ganglion cells (RGCs) to simple artificial stimuli does
@@ -32,7 +32,6 @@ links:
   url: https://doi.org/10.1038%2Fs41598-018-36861-8
 - name: HAL
   url: https://hal.science/hal-02007905
-
 publication: '*Scientific Reports*'
 publication_types:
 - article-journal
@@ -45,8 +44,7 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 
 * [Press release](https://www4.cnrs-dir.fr/insb/recherche/parutions/articles2019/l-perrinet.html)

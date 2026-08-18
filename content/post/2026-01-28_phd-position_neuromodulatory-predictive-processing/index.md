@@ -1,4 +1,4 @@
----
+--- 
 title: 'Open PhD Position in Computational & Systems Neuroscience : ''Neuromodulatory
   control of predictive processing in visual cortical circuits'''
 subtitle: ⏰ *The position has been filled.*
@@ -21,8 +21,7 @@ categories:
 - Biological Neuroscience
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 
 {{% callout note %}}

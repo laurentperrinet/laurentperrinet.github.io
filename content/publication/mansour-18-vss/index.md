@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'It is still not fully understood how visual system integrates motion energy
   across different spatial and temporal frequencies to build a coherent percept of
   the global motion under the complex, noisy naturalistic conditions. We addressed
@@ -51,7 +51,6 @@ categories:
 - Behavioural Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 

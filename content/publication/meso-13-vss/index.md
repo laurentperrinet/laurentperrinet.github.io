@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'Humans are able to interact successfully with moving objects in our dynamic
   world and the visual system effi ciently performs the motion computation that makes
   this possible. Object speed and direction are estimated following the integration
@@ -36,7 +36,6 @@ grants:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/meso-13-vss
-
 publication: '*VSS Conference Abstract*'
 publication_types:
 - inproceedings
@@ -48,7 +47,6 @@ categories:
 - Behavioural Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 

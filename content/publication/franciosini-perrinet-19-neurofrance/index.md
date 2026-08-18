@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'Sparse coding holds the idea that signals can be concisely described as
   a linear mixture of few components (called atoms) picked from a bigger set of primary
   kernels (called dictionary). This framework has long been used to model the strategy
@@ -34,7 +34,6 @@ featured: false
 links:
 - name: URL
   url: https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/790
-
 publication: '*NeuroFrance 2019, International Conference from the Société des Neurosciences,
   Marseille, France*'
 publication_types:

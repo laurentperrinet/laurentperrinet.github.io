@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - kiana-mansour-pour
 bio: During my PhD, I focused on smooth eye movements.
@@ -16,9 +16,17 @@ social:
 superuser: false
 user_groups:
 - Former Students
-tags: ["bayesian-modelling", "eye-movements", "motion-perception", "spiking-neural-networks", "visual-illusions"]
-projects: [""]
-categories: ["Behavioural Neuroscience", "Computer Vision", "Education"]
+tags:
+- bayesian-modelling
+- eye-movements
+- motion-perception
+- spiking-neural-networks
+- visual-illusions
+projects: []
+categories:
+- Behavioural Neuroscience
+- Computer Vision
+- Education
 ---
 
 # Predicting and selecting sensory events: inference for smooth eye movements (PhD: 2015 - 2019)

@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'The response of a biological neuron depends largely on the precise timing
   of presynaptic spikes that reach the basal dendritic tree. However, most neuronal
   models do not take advantage of this minute temporal dimension, especially in exploiting
@@ -31,7 +31,6 @@ links:
   url: https://2022.ieeeicip.org/
 - name: URL
   url: https://ieeexplore.ieee.org/document/9897394/
-
 publication: '*Proceedings of ICIP 2022*'
 publication_types:
 - inproceedings

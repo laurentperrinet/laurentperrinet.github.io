@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'If modern computers are sometimes superior to cognition in some specialized
   tasks such as playing chess or browsing a large database, they can''t beat the efficiency
   of biological vision for such simple tasks as recognizing a relative or following
@@ -25,16 +25,21 @@ grants:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/0804.4830
-
 publication: '*Optical and Digital Image Processing Conference 7000 - Proceedings
   of SPIE Volume 7000, 7 - 11 April 2008*'
 publication_types:
 - inproceedings
 title: 'Adaptive Sparse Spike Coding : applications of Neuroscience to the compression
   of natural images'
-tags: ["neuromorphic-computing", "primary-visual-cortex", "sparse-coding", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "Theoretical Neuroscience", "Visual Neuroscience"]
-projects: ["", "tout-public"]
+tags:
+- neuromorphic-computing
+- primary-visual-cortex
+- sparse-coding
+- spiking-neural-networks
+categories:
+- Computational Neuroscience
+- Theoretical Neuroscience
+- Visual Neuroscience
 projects:
 - facets
 ---

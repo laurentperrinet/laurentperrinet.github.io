@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'The repeated presentation of an identical visual stimulus in the receptive
   field of a neuron may evoke different spiking patterns at each trial. Probabilistic
   methods are essential to understand the functional role of this variance within
@@ -36,7 +36,6 @@ links:
   url: https://www.ncbi.nlm.nih.gov/pubmed/26445864
 - name: HAL
   url: https://hal.science/hal-01396311
-
 publication: '*Journal of Neurophysiology*'
 publication_types:
 - article-journal
@@ -49,7 +48,6 @@ categories:
 - Biological Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 

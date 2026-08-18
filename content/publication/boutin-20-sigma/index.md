@@ -1,4 +1,4 @@
----
+--- 
 abstract: Both neurophysiological and psychophysical experiments have pointed out
   the crucial role of recurrent and feedback connections to process context-dependent
   information in the early visual cortex. While numerous models have accounted for
@@ -34,7 +34,6 @@ links:
   url: https://conferences.cirm-math.fr/2152.html
 - name: arXiv
   url: https://arxiv.org/abs/1902.07651
-
 publication: '*SIGMA''2020 (Signal, Image, Geometry, Modelling, Approximation)*'
 publication_types:
 - inproceedings
@@ -50,13 +49,13 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 - Theoretical Neuroscience
 projects:
 - doc-2-amu
 - phd-icn
 - mesocentre
 ---
+
  * presented during this [talk]({{< ref "/talk/2019-03-25-hdr-robin-baures/index.md" >}})
  * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
  * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

@@ -1,4 +1,4 @@
----
+--- 
 abstract: Humans are able to accurately track a moving object with a combination of
   saccades and smooth eye  movements.  These  movements  allow  us  to  align  and  stabilize  the  object  on  the  fovea,  thus  enabling  high-resolution  visual  analysis.  When  predictive  information  is  available  about  target  motion,  anticipatory  smooth  pursuit  eye  movements  (aSPEM)  are  efficiently  generated  before  target  appearance,  which  reduce  the  typical  sensorimotor  delay  between  target  motion  onset  and  foveation.  It  is  generally  assumed  that  the  role  of  anticipatory  eye  movements  is  to  limit  the  behavioral  impairment  due  to  eye*to*target  position  and  velocity  mismatch.  By  manipulating  the  probability  for  target  motion  direction  we  were  able  to  bias  the  direction  and  mean  velocity  of  aSPEM,
   as measured during a fixed duration gap before target ramp*motion onset. This suggests
@@ -27,7 +27,6 @@ links:
   url: https://github.com/chloepasturel/AnticipatorySPEM/
 - name: URL
   url: https://laurentperrinet.github.io/publication/pasturel-18
-
 publication: ''
 publication_types:
 - inproceedings

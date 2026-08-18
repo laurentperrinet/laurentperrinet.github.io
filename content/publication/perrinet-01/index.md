@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Laurent U Perrinet
 - Arnaud Delorme
@@ -17,7 +17,6 @@ tags:
 categories:
 - Computational Neuroscience
 - Education
-projects:
-- ''
+projects: []
 ---
 

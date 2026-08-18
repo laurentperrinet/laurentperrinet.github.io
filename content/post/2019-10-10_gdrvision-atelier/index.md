@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - laurent-u-perrinet
 date: 2019-10-10 09:30:00
@@ -14,10 +14,15 @@ summary: 'Le GDR Vision réunit toute la communauté française de chercheurs en
   Deep Learning pour les sciences de la vision: Utiliser l''apprentissage profond
   en vision.'
 title: '2019-10-10: Atelier Utiliser l''apprentissage profond en vision'
-tags: ["vision"]
-categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- vision
+categories:
+- Education
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---
+
 
 Date : jeudi 10 octobre de 9h30 à 12h30
 

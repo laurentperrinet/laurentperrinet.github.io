@@ -1,4 +1,4 @@
----
+--- 
 title: Classification of Mental Workload Spatial Effects using Riemannian Manifold
 authors:
 - A Choplin
@@ -35,8 +35,7 @@ categories:
 - Behavioural Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 
 This year at #CCN2025 we will be showcasing our  research on the classification of Mental Workload 🥵 Spatial Effects using Riemannian Manifold. 

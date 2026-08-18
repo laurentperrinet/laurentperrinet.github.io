@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Jens Kremkow
 - Laurent U Perrinet
@@ -13,7 +13,6 @@ grants:
 links:
 - name: URL
   url: https://doi.org/10.1186/1471-2202-8-S2-P180
-
 publication: '*Annual Computational Neuroscience Meeting: BMC Neuroscience*'
 publication_types:
 - inproceedings

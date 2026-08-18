@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Mina A Khoei
 - Giacomo Benvenuti
@@ -12,7 +12,6 @@ grants:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/khoei-13-cns
-
 publication: '*Annual Computational Neuroscience Meeting: CNS*2013, Paris*'
 publication_types:
 - inproceedings

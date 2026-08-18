@@ -1,4 +1,4 @@
----
+--- 
 abstract: In order to analyze the characteristics of a rich dynamic visual environment,
   the visual system must integrate information collected at different scales through
   different spatiotemporal frequency channels. Still, it remains unclear how reliable
@@ -48,7 +48,6 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 

@@ -1,4 +1,4 @@
----
+--- 
 abstract: While foveated vision, a trait shared by many animals including humans,
   is a major contributor to biological visual performance, it has been underutilized
   in machine learning applications. This study investigates whether retinotopic mapping,
@@ -42,8 +42,7 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 * Read the corresponding paper {{< cite page="/publication/jeremie-25" view="4" >}}

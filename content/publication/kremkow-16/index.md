@@ -1,4 +1,4 @@
----
+--- 
 abstract: Neurons in the primary visual cortex are known for responding vigorously
   but with high variability to classical stimuli such as drifting bars or gratings.
   By contrast, natural scenes are encoded more efficiently by sparse and temporal
@@ -34,7 +34,6 @@ links:
   url: https://journal.frontiersin.org/article/10.3389/fncir.2016.00037/full
 - name: HAL
   url: https://hal.science/hal-02062034
-
 publication: '*Frontiers in Neural Circuits*'
 publication_types:
 - article-journal

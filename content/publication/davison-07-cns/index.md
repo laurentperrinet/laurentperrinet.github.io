@@ -1,4 +1,4 @@
----
+--- 
 abstract: Trends in programming language development and adoption point to Python
   as the high-level systems integration language of choice. Python leverages a vast
   developer-base external to the neuroscience community, and promises leaps in simulation

@@ -1,4 +1,4 @@
----
+--- 
 date: 2018-09-09 00:00:00
 draft: false
 linktitle: Example Page
@@ -9,9 +9,10 @@ menu:
 title: Example Page
 toc: true
 type: docs
-tags: [""]
-categories: ["Education"]
-projects: [""]
+tags: []
+categories:
+- Education
+projects: []
 ---
 In this tutorial, I'll share my top 10 tips for getting started with Academic:
 

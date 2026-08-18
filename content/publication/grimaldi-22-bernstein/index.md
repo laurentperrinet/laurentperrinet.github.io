@@ -1,4 +1,4 @@
----
+--- 
 abstract: The spiking response of a biological neuron depends on the precise timing
   of afferent spikes. This temporal aspect of the neuronal code is essential in understanding
   information processing in neurobiology. In this model, raster plot analysis showed

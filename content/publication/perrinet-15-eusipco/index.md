@@ -1,4 +1,4 @@
----
+--- 
 abstract: Oriented edges in images of natural scenes tend to be aligned in co-linear
   or co-circular arrangements, with lines and smooth curves more common than other
   possible arrangements of edges (the good continuation law of Gestalt psychology).
@@ -21,7 +21,6 @@ grants:
 links:
 - name: URL
   url: https://doi.org/10.1109/EUSIPCO.2015.7362781
-
 publication: '*European Signal Processing Conference 2015 (EUSIPCO 2015)*'
 publication_types:
 - inproceedings
@@ -33,7 +32,6 @@ tags:
 categories:
 - Behavioural Neuroscience
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 

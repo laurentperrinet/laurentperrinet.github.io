@@ -1,4 +1,4 @@
----
+--- 
 abstract: Estimating object speed in visual scenes is a critical part of perception.
   While various aspects of speed computation including discrimination thresholds,
   neural mechanisms and spatial integration mechanisms have been studied, there remain
@@ -37,7 +37,6 @@ grants:
 links:
 - name: URL
   url: https://doi.org/10.1167/14.10.491
-
 publication: '*Journal of Vision*'
 publication_types:
 - inproceedings
@@ -51,7 +50,6 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 

@@ -1,4 +1,4 @@
----
+--- 
 abstract: In human and non-human primates, reflexive tracking eye movements can be
   initiated at very short latency in response to a rapid shift of the image. Previous
   studies in humans have shown that only a part of the central visual field is optimal
@@ -47,7 +47,6 @@ lastmod: 2022-06-30 08:54:01+03:00
 links:
 - name: HAL
   url: https://hal.science/hal-03741144
-
 publication: '*eNeuro*'
 publication_types:
 - article-journal
@@ -64,7 +63,6 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
-projects:
-- ''
+projects: []
 ---
+

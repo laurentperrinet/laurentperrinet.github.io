@@ -1,4 +1,4 @@
----
+--- 
 abstract: Most studies on the dynamics of recurrent cortical networks are either based
   on purely random wiring or neighborhood couplings. Neuronal cortical connectivity,
   however, shows a complex spatial pattern composed of local and remote patchy connections.
@@ -44,8 +44,7 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 
 ![header](voges-12.png)

@@ -1,4 +1,4 @@
----
+--- 
 abstract: Despite the long and fruitful history of neuroscience, a global, multi-level
   description of cardinal brain functions is still far from reach. Using analytical
   or numerical approaches, emphComputational Neuroscience aims at the emergence of
@@ -31,7 +31,6 @@ categories:
 - Computational Neuroscience
 - Education
 - Theoretical Neuroscience
-projects:
-- ''
+projects: []
 ---
 

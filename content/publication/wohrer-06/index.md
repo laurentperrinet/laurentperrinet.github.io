@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Adrien Wohrer
 - Guillaume S Masson

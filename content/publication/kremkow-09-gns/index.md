@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'Neurons receive a large number of excitatory and inhibitory synaptic inputs
   whose temporal interplay determines their spiking behavior. On average, excitation
   (Gexc) and inhibition (Ginh) balance each other, such that spikes are elicited by
@@ -39,7 +39,6 @@ date: 2009-01-01
 featured: false
 grants:
 - facets
-
 publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'
 publication_types:
 - inproceedings

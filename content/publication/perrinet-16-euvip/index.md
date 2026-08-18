@@ -1,4 +1,4 @@
----
+--- 
 abstract: Natural images follow statistics inherited by the structure of our physical
   (visual) environment. In particular, a prominent facet of this structure is that
   images can be described by a relatively sparse number of features. We designed a
@@ -24,7 +24,6 @@ links:
   url: https://ieeexplore.ieee.org/document/7764592/
 - name: arXiv
   url: https://arxiv.org/abs/1702.02485
-
 publication: '*2016 6th European Workshop on Visual Information Processing (EUVIP)*'
 publication_types:
 - inproceedings
@@ -35,7 +34,6 @@ tags:
 categories:
 - Biological Neuroscience
 - Education
-projects:
-- ''
+projects: []
 ---
 

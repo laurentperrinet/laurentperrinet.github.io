@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Wahiba Taouali
 - Laurent U Perrinet
@@ -7,7 +7,6 @@ featured: false
 grants:
 - anr-bala-v1
 - brain-scales
-
 publication: '*6th Workshop of the Computational Neuroscience Network in Marseille*'
 publication_types:
 - inproceedings
@@ -17,8 +16,7 @@ tags:
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 
 * see a follow-up in this [publication]({{< ref "/publication/taouali-16" >}})

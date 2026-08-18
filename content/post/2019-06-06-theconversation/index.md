@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - laurent-u-perrinet
 date: 2019-06-13 00:00:00
@@ -16,11 +16,11 @@ categories:
 - Behavioural Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - tout-public
 - art-science
 ---
+
 
 Publication d'un nouvel article généraliste autour des "Illusions et hallucinations visuelles" à découvrir sur le site [TheConversation](https://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389):
 

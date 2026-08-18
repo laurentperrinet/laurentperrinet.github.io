@@ -1,4 +1,4 @@
----
+--- 
 abstract: Hierarchical Sparse Coding (HSC) is a powerful model to efficiently represent
   multi-dimensional, structured data such as images. The simplest solution to solve
   this computationally hard problem is to decompose it into independent layer-wise
@@ -29,7 +29,6 @@ links:
   url: https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/
 - name: arXiv
   url: https://arxiv.org/abs/2002.00892
-
 publication: '*Neural Computation*'
 publication_types:
 - article-journal

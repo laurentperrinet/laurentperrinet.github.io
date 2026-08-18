@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - etienne-rey
 - laurent-u-perrinet
@@ -21,10 +21,10 @@ tags:
 categories:
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - art-science
 ---
+
 
 À voir également : une présentation, dans le cadre des *Journées d’Ouverture Scientifique (JOS)*, qui prolonge le travail exposé ici :
 

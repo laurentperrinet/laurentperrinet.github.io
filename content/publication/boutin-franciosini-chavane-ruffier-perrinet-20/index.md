@@ -1,4 +1,4 @@
----
+--- 
 abstract: Both neurophysiological and psychophysical experiments have pointed out
   the crucial role of recurrent and feedback connections to process context-dependent
   information in the early visual cortex. While numerous models have accounted for
@@ -41,7 +41,6 @@ links:
   url: https://doi.org/10.1371/journal.pcbi.1008629
 - name: arXiv
   url: https://arxiv.org/abs/1902.07651
-
 publication: '*PLoS Computational Biology*'
 publication_types:
 - article-journal
@@ -59,8 +58,7 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 ![](@laurentperrinet_1355810283835564033_tweetcapture.png)

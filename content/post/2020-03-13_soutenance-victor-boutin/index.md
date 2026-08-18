@@ -1,4 +1,4 @@
----
+--- 
 title: '2020-03-13: Soutenance de thèse Victor Boutin'
 authors:
 - laurent-u-perrinet
@@ -29,8 +29,7 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 ![](@laurentperrinet_1235128290458951680_tweetcapture.png)

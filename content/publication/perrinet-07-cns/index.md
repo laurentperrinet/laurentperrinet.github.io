@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'We describe the theoretical formulation of a learning algorithm in a model
   of the primary visual cortex (V1) and present results of the efficiency of this
   algorithm by comparing it to the SparseNet algorithm [1]. As the SparseNet algorithm,
@@ -12,8 +12,8 @@ abstract: 'We describe the theoretical formulation of a learning algorithm in a 
   inhibition and provides a dynamical implementation close to the concept of neural
   assemblies from Hebb [3]). We present here results of simulation of this network
   with small natural images and compare it to the Sparsenet solution. Extending it
-  to realistic images and to the NEST simulator https://www.nest-initiative.org/, we
-  show that this learning algorithm based on the properties of neural computations
+  to realistic images and to the NEST simulator https://www.nest-initiative.org/,
+  we show that this learning algorithm based on the properties of neural computations
   produces adaptive and efficient representations in V1. 1. Olshausen B, Field DJ:
   Sparse coding with an overcomplete basis set: A strategy employed by V1? Vision
   Res 1997, 37:3311-3325. 2. Perrinet L: Feature detection using spikes: the greedy
@@ -35,9 +35,14 @@ publication_types:
 - inproceedings
 title: On efficient sparse spike coding schemes for learning natural scenes in the
   primary visual cortex
-tags: ["predictive-coding", "primary-visual-cortex", "sparse-coding"]
-categories: ["Computational Neuroscience", "Theoretical Neuroscience", "Visual Neuroscience"]
-projects: ["", "tout-public"]
+tags:
+- predictive-coding
+- primary-visual-cortex
+- sparse-coding
+categories:
+- Computational Neuroscience
+- Theoretical Neuroscience
+- Visual Neuroscience
 projects:
 - facets-itn
 ---

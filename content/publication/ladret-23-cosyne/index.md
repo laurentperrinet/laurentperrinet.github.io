@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'Our daily endeavors occur in a complex visual environment, whose intrinsic
   variability shapes the way we integrate information to make decisions. By processing
   thousands of parallel sensory inputs, our brain is theoretically able to compute
@@ -41,7 +41,6 @@ lastmod: 2023-03-13 12:29:25+01:00
 links:
 - name: URL
   url: https://www.world-wide.org/cosyne-23/resilience-sensory-uncertainty-primary-88600879/
-
 publication: '*Computational and Systems Neuroscience (Cosyne) 2023*'
 publication_types:
 - inproceedings
@@ -58,8 +57,7 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 * This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}

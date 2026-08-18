@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'In low-level sensory systems, it is still unclear how the noisy information
   collected locally by neurons may give rise to a coherent global percept. This is
   well demonstrated for the detection of motion in the aperture problem: as luminance
@@ -24,7 +24,6 @@ featured: false
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/masson-12-areadne
-
 publication: '*Proceedings of AREADNE*'
 publication_types:
 - inproceedings

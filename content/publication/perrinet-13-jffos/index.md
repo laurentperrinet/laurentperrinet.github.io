@@ -1,4 +1,4 @@
----
+--- 
 abstract: We consider the problem of sensorimotor delays in the optimal control of
   movement under uncertainty. Specifically, we consider axonal conduction delays in
   the visuo-oculomotor loop and their implications for active inference. Active inference
@@ -25,7 +25,6 @@ featured: false
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-13-jffos
-
 publication: '*The 7th Japanese-French Frontiers of Science Symposium*'
 publication_types:
 - inproceedings

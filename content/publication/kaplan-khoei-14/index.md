@@ -1,4 +1,4 @@
----
+--- 
 abstract: As it is confronted to inherent neural delays, how does the visual system
   create a coherent representation of a rapidly changing environment? In this paper,
   we investigate the role of motion-based prediction in estimating motion trajectories
@@ -32,7 +32,6 @@ grants:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/kaplan-khoei-14
-
 publication: '*IEEE International Joint Conference on Neural Networks (IJCNN) 2014
   Beijing, China*'
 publication_types:
@@ -51,8 +50,7 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}

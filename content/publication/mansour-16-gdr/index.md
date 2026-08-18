@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Kiana Mansour Pour
 - Laurent U Perrinet
@@ -11,7 +11,6 @@ grants:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/mansour-16-gdr
-
 publication: '*GDR Vision, Toulouse, Nov 3rd, 2016*'
 publication_types:
 - inproceedings

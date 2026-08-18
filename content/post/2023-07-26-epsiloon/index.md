@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - laurent-u-perrinet
 date: 2023-07-26 00:00:00
@@ -15,10 +15,10 @@ tags:
 categories:
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - tout-public
 ---
+
 
 Participation à un article de dissémination pour l'excellent magazine Epsiloon, écrit par Alexandra Pihen: qu'est-ce que qe l'étrange et le paranormal peut révéler sur notre cerveau
 

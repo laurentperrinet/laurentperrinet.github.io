@@ -2,9 +2,16 @@
 date: 2016-04-27 00:00:00
 summary: 'ANR CausaL (2018/2020) : Cognitive​ ​architectures​ ​of​ Causal​ ​Learning.'
 title: ANR CausaL (2018/2020)
-tags: ["metaplasticity", "spiking-neural-networks"]
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "Grants & Funding", "NeuroAI & Machine Learning"]
-projects: [""]
+tags:
+- metaplasticity
+- spiking-neural-networks
+categories:
+- Behavioural Neuroscience
+- Computational Neuroscience
+- Education
+- Grants & Funding
+- NeuroAI & Machine Learning
+projects: []
 ---
 With Andrea Brovelli (INT), Mateus Joffily (GATE)...
 

@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'Grâce à nos yeux, l’organe sensible de la vision, nous pouvons aisément
   et instantanément explorer le monde visible qui nous entoure. C’est littéralement
   incroyable : la vision opère sans effort malgré la complexité des processus qui
@@ -23,8 +23,7 @@ publication: '*The Conversation*'
 publication_types:
 - article-journal
 title: 'Chats, mouches, humains : comment la vision a évolué en de multiples facettes'
-tags:
-- ''
+tags: []
 categories:
 - Computational Neuroscience
 - Education

@@ -1,4 +1,4 @@
----
+--- 
 abstract: Analysis and interpretation of a visual scene to extract its category, such
   as whether it contains an animal, is typically assumed to involve higher-level associative
   brain areas. Previous proposals have been based on a series of processing steps
@@ -34,7 +34,6 @@ grants:
 links:
 - name: URL
   url: https://doi.org/10.1167/14.10.1310
-
 publication: '*Journal of Vision*'
 publication_types:
 - inproceedings
@@ -46,8 +45,7 @@ categories:
 - Behavioural Neuroscience
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 * see a follow-up: {{< cite page="/publication/perrinet-bednar-15" view="4" >}}

@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - laurent-u-perrinet
 date: 2016-10-26 00:00:00
@@ -20,10 +20,10 @@ categories:
 - Computer Vision
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - bicv
 ---
+
 
 # 2016-10-26 : EUVIP Special Session on *Biologically Inspired Computer Vision*
 

@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - laurent-u-perrinet
 date: 2018-04-05 00:00:00
@@ -13,9 +13,14 @@ summary: 'We organize a Symposium at NeuroFrance 2019 entitled Active Inference:
   Neursocience Society.'
 title: '2018-04-05 : *Probabilities and Optimal Inference to understand the Brain*
   Workshop'
-tags: ["bayesian-modelling", "probalistic-inference"]
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- probalistic-inference
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+projects: []
 ---
 
 ![participants](IMG_20180406_164630.jpg)

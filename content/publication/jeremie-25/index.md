@@ -1,9 +1,8 @@
----
+--- 
 authors:
 - Jean-Nicolas Jérémie
 - Emmanuel Daucé
 - Laurent U Perrinet
-
 date: 2026-02-23
 doi: 10.3390/vision10020017
 grants:
@@ -33,8 +32,7 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 {{< figure src="graphical.png" title="*Foveated Retinotopy in CNNs.* We represent Left an input image and how it is transformed by foveated retinotopy. We show below a representative reconstruction showing that it also acts as a cortical zoom on the image around the point of fixation. The transformed image is then fed to the ResNet deep learning architecture." >}}

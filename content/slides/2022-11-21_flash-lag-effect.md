@@ -12,8 +12,8 @@ slides:
 title: 2022-11-21_flash-lag-effect
 
 tags: [""]
-categories: ["Education", "Outreach & Public Engagement"]
-projects: [""]
+categories: ["Education"]
+projects: ["", "tout-public"]
 ---
 <table width="100%"> 
 <tr>

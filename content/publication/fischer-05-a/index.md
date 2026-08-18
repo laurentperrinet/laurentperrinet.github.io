@@ -1,4 +1,4 @@
----
+--- 
 abstract: Efficient sparse coding of overcomplete transforms remains still anopen
   problem. Different methods have been proposed in theliterature, but most of them
   are limited by a heavy computationalcost and by difficulties to find the optimal

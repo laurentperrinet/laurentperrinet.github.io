@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'The repeated presentation of an identical visual stimulus in the receptive
   field of a neuron may evoke different spiking patterns at each trial. Probabilistic
   methods are essential to understand its functional role within the neural activity.
@@ -30,7 +30,6 @@ featured: false
 grants:
 - anr-bala-v1
 - brain-scales
-
 publication: '*ICMNS 2015 conference*'
 publication_types:
 - inproceedings
@@ -43,8 +42,7 @@ categories:
 - Biological Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 
 * see a follow-up in this [publication]({{< ref "/publication/taouali-16" >}})

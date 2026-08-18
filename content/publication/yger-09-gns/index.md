@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'NeuralEnsemble (https://neuralensemble.org) is a multilateral effort to
   coordinate and organise neuroscience software development efforts based around the
   Python programming language into a larger, meta-simulator software system. To this
@@ -29,83 +29,6 @@ authors:
 - Andrew P Davison
 date: 2009-01-01
 featured: false
-grants:
-- facets
-grants:
-- facets-itn
-- open-science
-grants:
-- facets
-grants:
-- facets-itn
-- open-science
-grants:
-- facets
-grants:
-- facets-itn
-- open-science
-grants:
-- facets
-grants:
-- facets-itn
-- open-science
-grants:
-- facets
-grants:
-- facets-itn
-- open-science
-grants:
-- facets
-grants:
-- facets-itn
-- open-science
-grants:
-- facets
-grants:
-- facets-itn
-- open-science
-grants:
-- facets
-grants:
-- facets-itn
-- open-science
-grants:
-- facets
-grants:
-- facets-itn
-- open-science
-grants:
-- facets
-grants:
-- facets-itn
-- open-science
-grants:
-- facets
-grants:
-- facets-itn
-- open-science
-grants:
-- facets
-grants:
-- facets-itn
-- open-science
-grants:
-- facets
-grants:
-- facets-itn
-- open-science
-grants:
-- facets
-grants:
-- facets-itn
-- open-science
-grants:
-- facets
-grants:
-- facets-itn
-- open-science
-grants:
-- facets
 grants:
 - facets-itn
 - open-science

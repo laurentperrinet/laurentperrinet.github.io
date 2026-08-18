@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'Meanwhile biorthogonal wavelets got a very popular image processing tool,
   alternative multiresolution transforms have been proposed for solving some of their
   drawbacks, namely the poor selectivity in orientation and the lack of translation

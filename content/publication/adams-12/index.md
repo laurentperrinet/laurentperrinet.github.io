@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'This paper introduces a model of oculomotor control during the smooth pursuit
   of occluded visual targets. This model is based upon active inference, in which
   subjects try to minimise their (proprioceptive) prediction error based upon posterior
@@ -44,8 +44,7 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
-projects:
-- ''
+projects: []
 ---
+
 ![header](adams-12.png)

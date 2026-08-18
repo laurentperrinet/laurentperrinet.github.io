@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - laurent-u-perrinet
 date: 2019-10-21 09:00:00
@@ -10,19 +10,37 @@ image:
   placement: 2
   preview_only: false
 lastmod: 2019-10-21 09:00:00
-
-subtitle: THE POSITION HAS BEEN FILLED. 18 month Post-doc position coordinated by [Laurent Perrinet](https://laurentperrinet.github.io/),
-  supported by (INT, Marseille) and [Yves Frégnac](http://neuro-psi.cnrs.fr/spip.php?article934&lang=fr)
-  (UNIC-NeuroPSI, Gif).
-summary: THE POSITION HAS BEEN FILLED. 18 month Post-doc position coordinated by [Laurent Perrinet](https://laurentperrinet.github.io/),
-  supported by (INT, Marseille) and [Yves Frégnac](http://neuro-psi.cnrs.fr/spip.php?article934&lang=fr)
-  (UNIC-NeuroPSI, Gif).
+subtitle: THE POSITION HAS BEEN FILLED. 18 month Post-doc position coordinated by
+  [Laurent Perrinet](https://laurentperrinet.github.io/), supported by (INT, Marseille)
+  and [Yves Frégnac](http://neuro-psi.cnrs.fr/spip.php?article934&lang=fr) (UNIC-NeuroPSI,
+  Gif).
+summary: THE POSITION HAS BEEN FILLED. 18 month Post-doc position coordinated by [Laurent
+  Perrinet](https://laurentperrinet.github.io/), supported by (INT, Marseille) and
+  [Yves Frégnac](http://neuro-psi.cnrs.fr/spip.php?article934&lang=fr) (UNIC-NeuroPSI,
+  Gif).
 title: Postdoc position on Visual computations using Spatio-temporal Diffusion Kernels
   and Traveling Waves
-tags: ["motion-perception", "predictive-coding", "primary-visual-cortex", "sparse-coding", "spiking-neural-networks", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
-projects: ["art-science"]
+tags:
+- motion-perception
+- predictive-coding
+- primary-visual-cortex
+- sparse-coding
+- spiking-neural-networks
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+- Visual Neuroscience
+projects:
+- art-science
+- tout-public
 ---
+
 
 {{% callout warning %}}
 THE POSITION HAS BEEN FILLED.
@@ -80,7 +98,7 @@ This project is funded by the French National Research Agency (ANR) under the [A
 
 * <a name="Frégnac2012"> Frégnac, Y. (2012)  </a> "[Reading out the synaptic echoes of low-level perception in V1.](https://hal.archives-ouvertes.fr/hal-01685152/)" *European Conference in Computer Vision* 486-495. Springer, Berlin, Heidelberg.
 
-* <a name="Frégnac2016"> Frégnac, Y., Fournier, J., Gerard-Mercier, F., Monier, C., Carelli, P., , M., Troncoso, X. (2016).  </a> "[The Visual Brain: Computing Through Multiscale Complexity.](https://link-springer-com.insb.bib.cnrs.fr/content/pdf/10.1007%2F978-3-319-28802-4_4.pdf)" In *Micro-, Meso- and Macro-Dynamics of the Brain* pp 43-57.
+* <a name="Frégnac2016"> Frégnac, Y., Fournier, J., Gerard-Mercier, F., Monier, C., Carelli, P., M., Troncoso, X. (2016).  </a> "[The Visual Brain: Computing Through Multiscale Complexity.](https://link-springer-com.insb.bib.cnrs.fr/content/pdf/10.1007%2F978-3-319-28802-4_4.pdf)" In *Micro-, Meso- and Macro-Dynamics of the Brain* pp 43-57.
 
 * <a name="gerard2016synaptic"> Gerard-Mercier, Florian, Pedro V Carelli, Marc Pananceau, Xoana G Troncoso, and Yves Frégnac. (2016). </a> "[Synaptic Correlates of Low-Level Perception in V1.](https://www.jneurosci.org/content/36/14/3925)" *Journal of Neuroscience* 36 (14): 3925--42.
 

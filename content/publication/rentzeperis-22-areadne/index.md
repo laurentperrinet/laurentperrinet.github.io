@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'Experimental evidence suggests that activity in sensory cortices is sparse
   in that only few neurons out of a large pool that could respond to sensed stimuli,
   are active at a time. Generative learning models that aim to replicate sensory systems
@@ -43,8 +43,7 @@ categories:
 - Behavioural Neuroscience
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 
 * Follow-up paper {{< cite page="/publication/rentzeperis-23" view="4" >}}

@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'On a daily basis, the primary visual cortex (V1) detects oriented elements
   from sensory inputs made of orientation distributions. To remain selective to a
   large variety of possible input configurations, V1 has to account for the precision
@@ -27,7 +27,6 @@ lastmod: 2022-06-08 13:33:46+02:00
 links:
 - name: Venue
   url: https://areadne.org/
-
 publication: '*Proceedings of AREADNE*'
 publication_types:
 - inproceedings

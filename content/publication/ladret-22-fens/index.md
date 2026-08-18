@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Hugo Ladret
 - Laurent U Perrinet
@@ -15,7 +15,6 @@ lastmod: 2022-06-08 13:33:46+02:00
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/ladret-22-fens/
-
 publication: '*Proceedings of the FENS Forum 2022*'
 publication_types:
 - inproceedings
@@ -28,8 +27,7 @@ tags:
 categories:
 - Computational Neuroscience
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 ![](@laurentperrinet_1545743191198121985_tweetcapture.png)

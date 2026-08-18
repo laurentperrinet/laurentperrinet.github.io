@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - laurent-u-perrinet
 date: 2019-05-20 00:00:00
@@ -12,10 +12,22 @@ summary: 'We organized a Symposium at NeuroFrance 2019 entitled *Active Inferenc
   theoretical neuroscience symposia organized in this international conference from
   the french Neursocience Society.'
 title: '2019-05-20: Symposium on Active Inference at NeuroFrance 2019'
-tags: ["bayesian-modelling", "motion-perception", "predictive-coding", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: ["art-science", "tout-public"]
+tags:
+- bayesian-modelling
+- motion-perception
+- predictive-coding
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+projects:
+- art-science
+- tout-public
 ---
+
 
 ## Active Inference: Bridging theoretical and experimental neurosciences. / Inference Active: Un pont entre neurosciences théoriques et expérimentales.
 

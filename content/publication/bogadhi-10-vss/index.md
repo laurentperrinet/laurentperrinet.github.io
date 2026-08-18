@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Amarender Bogadhi
 - Anna Montagnini
@@ -11,7 +11,6 @@ featured: false
 links:
 - name: URL
   url: https://doi.org/10.1167/10.7.545
-
 publication: '*Vision Science Society*'
 publication_types:
 - inproceedings
@@ -20,9 +19,9 @@ tags:
 - motion-perception
 categories:
 - Computational Neuroscience
-- Outreach & Public Engagement
 projects:
 - codde
 grants:
 - codde
 ---
+

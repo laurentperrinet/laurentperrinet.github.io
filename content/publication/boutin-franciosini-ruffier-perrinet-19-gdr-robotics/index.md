@@ -1,4 +1,4 @@
----
+--- 
 abstract: The brain has to solve inverse problems to correctly interpret sensory data
   and infer the set of causes that generated the sensory inputs. When imposing sparse
   prior and hierarchical structure this problem is called Hierarchical Sparse Coding

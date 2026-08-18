@@ -1,4 +1,4 @@
----
+--- 
 abstract: Motion Clouds are a generative model for naturalistic visual stimulation
   that offer full parametric control and more naturalism than the widely used alternatives
   of Random Dot Kinematograms (RDKs) or luminance gratings. We previously released
@@ -47,7 +47,6 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 

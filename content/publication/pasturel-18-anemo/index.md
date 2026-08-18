@@ -1,4 +1,4 @@
----
+--- 
 title: 'ANEMO: Quantitative tools for the ANalysis of Eye MOvements'
 authors:
 - Chloé Pasturel

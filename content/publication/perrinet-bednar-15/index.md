@@ -1,4 +1,4 @@
----
+--- 
 abstract: Making a judgment about the semantic category of a visual scene, such as
   whether it contains an animal, is typically assumed to involve high-level associative
   brain areas. Previous explanations require progressively analyzing the scene hierarchically
@@ -48,8 +48,7 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 * [supplementary information](https://www.nature.com/article-assets/npg/srep/2015/150622/srep11400/extref/srep11400-s1.pdf)

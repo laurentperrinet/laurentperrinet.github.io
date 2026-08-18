@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - laurent-u-perrinet
 date: 2024-05-23 08:30:00
@@ -16,10 +16,10 @@ tags:
 categories:
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - tout-public
 ---
+
 
 ![14eme du RISC](http://festivalrisc.org/wp-content/uploads/2023/11/RISCV02rvb-web-WP.jpg)
 

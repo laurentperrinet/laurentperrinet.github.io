@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Laurent U Perrinet
 date: 2014-04-17
@@ -14,7 +14,6 @@ links:
   url: https://laurentperrinet.github.io/post/2014-04-17_hdr/
 - name: PDF
   url: https://tel.archives-ouvertes.fr/tel-00002693/file/tel-000026931.pdf
-
 publication: ''
 publication_types:
 - thesis
@@ -26,8 +25,7 @@ tags:
 - visuo-motor
 categories:
 - Computational Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 * {{< cite page="/post/2014-04-17_hdr" view="4" >}}

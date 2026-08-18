@@ -1,4 +1,4 @@
----
+--- 
 abstract: Due to its inherent neural delays, the visual system has an outdated access
   to sensory information about the current position of moving objects. In contrast,
   living organisms are remarkably able to track and intercept moving objects under
@@ -43,7 +43,6 @@ links:
   url: https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/
 - name: HAL
   url: https://hal.science/hal-01771125
-
 publication: '*PLoS Computational Biology*'
 publication_types:
 - article-journal

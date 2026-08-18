@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Mina A Khoei
 - Laurent U Perrinet
@@ -6,73 +6,10 @@ authors:
 date: 2010-01-01
 featured: false
 grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
-- facets-itn
-grants:
-- facets
-grants:
 - facets-itn
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/khoei-10-tauc/
-
 publication: '*Proceedings of Tauc*'
 publication_types:
 - inproceedings

@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Jean-Nicolas Jérémie
 - Emmanuel Daucé
@@ -16,7 +16,6 @@ lastmod: 2022-11-17 12:15:57+01:00
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/jeremie-23-ccn
-
 publication: '*In preparation*'
 publication_types:
 - inproceedings
@@ -36,8 +35,7 @@ tags:
 categories:
 - Computational Neuroscience
 - Education
-projects:
-- ''
+projects: []
 ---
 
 * as was presented at the *Computational Cognitive Neuroscience Society Meeting 2023* in Oxford

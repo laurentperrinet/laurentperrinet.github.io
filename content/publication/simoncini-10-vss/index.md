@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Claudio Simoncini
 - Laurent U Perrinet
@@ -19,7 +19,6 @@ categories:
 - Computational Neuroscience
 projects:
 - codde
-
 grants:
 - codde
 ---

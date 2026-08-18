@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Anna Montagnini
 - Jean-Bernard Damasse
@@ -11,7 +11,6 @@ grants:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/montagnini-16-ecvp
-
 publication: '*Proceedings of ECVP*'
 publication_types:
 - inproceedings
@@ -23,7 +22,6 @@ tags:
 - motion-perception
 categories:
 - Computational Neuroscience
-projects:
-- ''
+projects: []
 ---
 

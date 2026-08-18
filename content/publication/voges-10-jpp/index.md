@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'We study cortical network dynamics for a spatially embedded network model.
   It represents, in terms of spatial scale, a large piece of cortex allowing for long-range
   connections, resulting in a rather sparse connectivity. The spatial embedding also
@@ -25,7 +25,6 @@ grants:
 links:
 - name: URL
   url: https://doi.org/10.1016/j.jphysparis.2009.11.004
-
 publication: '*Journal of Physiology-Paris*'
 publication_types:
 - article-journal

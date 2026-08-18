@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'Short presentation of a large moving pattern elicits an Ocular Following
   Response (OFR) that exhibits many of the properties attributed to low-level motion
   processing such as spatial and temporal integration, contrast gain control and divisive
@@ -57,7 +57,6 @@ date: 2009-01-01
 featured: false
 grants:
 - facets
-
 publication: '*Proceedings of COSYNE*'
 publication_types:
 - inproceedings

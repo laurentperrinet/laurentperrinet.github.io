@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - matthis-dallain
 title: Matthis Dallain
@@ -11,12 +11,10 @@ education:
   - course: Master in Neuroscience
     institution: Aix-Marseille Université
     year: 2024
-
 social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/matthis-dallain-3aaa26281/
-
 superuser: false
 user_groups:
 - Current Students
@@ -25,11 +23,9 @@ tags:
 - foveated-vision
 - log-polar-mapping
 - retinotopy
-projects:
-- ''
+projects: []
 categories:
 - Education
-- Outreach & Public Engagement
 - Visual Neuroscience
 ---
 
@@ -43,6 +39,8 @@ categories:
 ## Publications
 
 * {{< cite page="/publication/dallain-26" view="4" >}}
+
+
 ## Context
 
 This project takes place in the context of the [EMERGENCES project (ANR
@@ -141,6 +139,8 @@ model will draw on the dynamics at play in a sensory-motor approach to
 perception and will thus reconsider the classical perception tasks in
 order to better fit with the continuous flow of information coming from
 the environment.
+
+
 ## References
 
 * <a name="ref1"> \[1\] L. Itti et C. Koch, « Computational modelling of visual attention ». *Nat Rev Neurosci*, vol. 2, 3, 3, mars 2001, doi:

@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'The visual system does not process information instantaneously, but rather
   integrates over time. Integration occurs both for stationary objects and moving
   objects, with very similar time constants (Burr, 1981). We measured, as a function
@@ -37,8 +37,7 @@ categories:
 - Behavioural Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 grants:
 - brain-scales
 - codde

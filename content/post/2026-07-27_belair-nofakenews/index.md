@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - laurent-u-perrinet
 date: 2026-07-27 21:30:00
@@ -15,10 +15,10 @@ tags:
 categories:
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - tout-public
 ---
+
 
 {{% callout note %}}
 Bienvenue dans l’une des écoles les plus novatrices du monde : *l’école des Fake News* ! Située à Marseille, en France, cette école haut de gamme a vu le jour grâce aux généreux financements des plus puissantes entreprises numériques chinoises et américaines.

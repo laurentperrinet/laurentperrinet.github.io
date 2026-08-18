@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - laurent-u-perrinet
 date: 2023-12-16 20:00:00
@@ -17,10 +17,10 @@ tags:
 categories:
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - tout-public
 ---
+
 
 # 14ème RENCONTRES INTERNATIONALES SCIENCES & CINÉMAS (RISC)
 

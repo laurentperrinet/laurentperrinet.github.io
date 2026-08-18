@@ -1,4 +1,4 @@
----
+--- 
 title: A Predictive Approach to Enhance Time-Series Forecasting
 authors:
 - Skye Gunasekaran
@@ -44,15 +44,13 @@ links:
   url: https://arxiv.org/abs/2410.15217
 - name: HAL
   url: https://hal.science/hal-05293576
-  
 tags:
 - predictive-coding
 categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 
 The lead author, Jason Eshragian, speaks most clearly about it: 

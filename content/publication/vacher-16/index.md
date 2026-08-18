@@ -1,4 +1,4 @@
----
+--- 
 abstract: A common practice to account for psychophysical biases in vision is to frame
   them as consequences of a dynamic process relying on optimal inference with respect
   to a generative model. The present study details the complete formulation of such
@@ -35,7 +35,6 @@ links:
   url: https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01142
 - name: arXiv
   url: https://arxiv.org/abs/1611.01390
-
 publication: '*Neural Computation*'
 publication_types:
 - article-journal
@@ -51,7 +50,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects:
-- ''
+projects: []
 ---
 

@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - laurent-u-perrinet
 date: 2021-04-06 00:00:00
@@ -16,10 +16,10 @@ categories:
 - Behavioural Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - tout-public
 ---
+
 
 Publication d'un nouvel article généraliste autour des illusions visuelles, "*Les illusions sèment le trouble dans les esprits*" à découvrir dans lee dossier [La Recherche n°565](https://www.larecherche.fr/les-illusions-s%C3%A8ment-le-trouble-dans-les-esprits) (trimestriel N°565 daté avril-juin 2021):
 

@@ -1,4 +1,4 @@
----
+--- 
 abstract: The primary visual cortex (V1) processes complex mixtures of orientations
   to build neural representations of our everyday visual environment. It remains unclear
   how V1 adapts to the highly volatile distributions of orientations found in natural
@@ -31,7 +31,6 @@ lastmod: 2021-11-08 10:31:18+01:00
 links:
 - name: URL
   url: https://www.abstractsonline.com/pp8/#!/10485/presentation/22078
-
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - inproceedings
@@ -43,8 +42,7 @@ categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 ![](@laurentperrinet_1457644824723705856_tweetcapture.png)

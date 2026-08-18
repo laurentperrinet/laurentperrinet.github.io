@@ -1,4 +1,4 @@
----
+--- 
 abstract: Predictive coding hypothesizes that the brain explicitly infers upcoming
   sensory input to establish a coherent representation of the world. Although it is
   becoming generally accepted, it is not clear on which level spiking neural networks
@@ -26,7 +26,6 @@ grants:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/kaplan-13
-
 publication: '*Frontiers in Computational Neuroscience*'
 publication_types:
 - article-journal

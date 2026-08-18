@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Fréderic Danion
 - Caroline Landelle
@@ -12,7 +12,6 @@ grants:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/danion-15-sfn
-
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - inproceedings
@@ -22,7 +21,6 @@ tags:
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 

@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'The formation of structure in the visual system, that is, of the connections
   between cells within neural populations, is by large an unsupervised learning process:
   the emergence of this architecture is mostly self-organized. In the primary visual
@@ -29,68 +29,6 @@ date: 2019-01-01
 doi: 10.3390/vision3030047
 featured: false
 grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
-- spikeai
-grants:
-- anr-horizontal-v1
-grants:
 - spikeai
 links:
 - name: Code
@@ -111,8 +49,7 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 # "An adaptive algorithm for unsupervised learning"

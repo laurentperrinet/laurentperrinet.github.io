@@ -1,4 +1,4 @@
----
+--- 
 title: Soutenance de thèse Angelo Franciosini
 authors:
 - laurent-u-perrinet
@@ -22,8 +22,7 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 # "SDPC : a sparse and predictive model of the early visual system" Soutenance de thèse Angelo Franciosini

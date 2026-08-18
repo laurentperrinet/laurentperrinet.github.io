@@ -13,8 +13,8 @@ slides:
 title: 2023-01-23_game-theory-and-the-brain
 
 tags: [""]
-categories: ["Education", "Outreach & Public Engagement", "Visual Neuroscience"]
-projects: ["art-science"]
+categories: ["Education", "Visual Neuroscience"]
+projects: ["art-science", "tout-public"]
 ---
 # Game theory and brain strategies
 

@@ -1,4 +1,4 @@
----
+--- 
 abstract: In recent years, with the advent of High-resolution Computed Tomography
   (HRCT), there has been an increased interest for diagnosing Chronic Obstructive
   Pulmonary Disease (COPD), which is commonly presented as emphysema. Since low-attenuation
@@ -35,8 +35,7 @@ tags:
 categories:
 - Computer Vision
 - Theoretical Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 * relies on log-Gabor filters: {{< cite page="/publication/fischer-07-cv" view="4" >}}

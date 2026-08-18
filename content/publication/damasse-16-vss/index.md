@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Jean-Bernard Damasse
 - Laurent U Perrinet
@@ -13,7 +13,6 @@ grants:
 links:
 - name: URL
   url: https://jov.arvojournals.org/article.aspx?doi=10.1167/16.12.1356
-
 publication: '*Proceedings of VSS*'
 publication_types:
 - inproceedings
@@ -25,7 +24,6 @@ tags:
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 

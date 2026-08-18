@@ -1,4 +1,4 @@
----
+--- 
 abstract: Choosing an appropriate set of stimuli is essential to characterize the
   response of a sensory system to a particular functional dimension, such as the eye
   movement following the motion of a visual scene. Here, we describe a framework to
@@ -28,7 +28,6 @@ links:
   url: https://arxiv.org/abs/1208.6467
 - name: Supp
   url: https://neuralensemble.org/MotionClouds/ms/MotionClouds_Supplementary.pdf
-
 publication: '*Journal of Neurophysiology*'
 publication_types:
 - article-journal

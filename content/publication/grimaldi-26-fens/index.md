@@ -1,4 +1,4 @@
----
+--- 
 title: Optimal Transport Theory to extract Spiking Motifs
 authors:
 - Antoine Grimaldi

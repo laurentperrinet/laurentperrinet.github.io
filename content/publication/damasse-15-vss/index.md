@@ -1,4 +1,4 @@
----
+--- 
 abstract: When an object is moving in the visual field, we are able to accurately
   track it with a combination of saccades and smooth eye movements. These movements
   allow us to align and stabilize the object on the fovea, thus enabling visual analysis
@@ -36,7 +36,6 @@ grants:
 links:
 - name: URL
   url: https://jov.arvojournals.org/article.aspx?articleid=2434129
-
 publication: '*Proceedings of VSS*'
 publication_types:
 - inproceedings
@@ -50,7 +49,6 @@ categories:
 - Behavioural Neuroscience
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects:
-- ''
+projects: []
 ---
 

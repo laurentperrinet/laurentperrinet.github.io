@@ -1,4 +1,4 @@
----
+--- 
 abstract: The ``apparent motion'' illusion is evoked when stationary stimuli are successively
   flashed in spatially separated positions. It depends on the precise spatial and
   temporal separations of the stimuli. For large spatiotemporal separation, the long-range
@@ -24,75 +24,12 @@ date: 2019-03-18
 doi: 10.1523/JNEUROSCI.2792-18.2019
 featured: false
 grants:
-- anr-bala-v1
-grants:
-- anr-trajectory
-grants:
-- anr-bala-v1
-grants:
-- anr-trajectory
-grants:
-- anr-bala-v1
-grants:
-- anr-trajectory
-grants:
-- anr-bala-v1
-grants:
-- anr-trajectory
-grants:
-- anr-bala-v1
-grants:
-- anr-trajectory
-grants:
-- anr-bala-v1
-grants:
-- anr-trajectory
-grants:
-- anr-bala-v1
-grants:
-- anr-trajectory
-grants:
-- anr-bala-v1
-grants:
-- anr-trajectory
-grants:
-- anr-bala-v1
-grants:
-- anr-trajectory
-grants:
-- anr-bala-v1
-grants:
-- anr-trajectory
-grants:
-- anr-bala-v1
-grants:
-- anr-trajectory
-grants:
-- anr-bala-v1
-grants:
-- anr-trajectory
-grants:
-- anr-bala-v1
-grants:
-- anr-trajectory
-grants:
-- anr-bala-v1
-grants:
-- anr-trajectory
-grants:
-- anr-bala-v1
-grants:
-- anr-trajectory
-grants:
-- anr-bala-v1
-grants:
 - anr-trajectory
 links:
 - name: URL
   url: https://www.jneurosci.org/content/39/22/4282
 - name: HAL
   url: https://hal.science/hal-02190752
-
 publication: '*Journal of Neuroscience*'
 publication_types:
 - article-journal
@@ -121,7 +58,6 @@ categories:
 - Biological Neuroscience
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 

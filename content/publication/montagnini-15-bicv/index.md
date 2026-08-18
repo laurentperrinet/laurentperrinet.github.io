@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Anna Montagnini
 - Laurent U Perrinet
@@ -15,7 +15,6 @@ links:
   url: https://laurentperrinet.github.io/publication/montagnini-15-bicv/
 - name: arXiv
   url: https://arxiv.org/abs/1611.07831
-
 publication: '*Biologically Inspired Computer Vision*'
 publication_types:
 - inbook
@@ -25,8 +24,7 @@ tags:
 categories:
 - Behavioural Neuroscience
 - Computer Vision
-projects:
-- ''
+projects: []
 ---
 
 * Appeared in this book: {{< cite page="/publication/cristobal-perrinet-keil-15-bicv" view="4" >}}

@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - laurent-u-perrinet
 date: 2023-07-28 00:00:00
@@ -13,10 +13,10 @@ tags:
 categories:
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 projects:
 - tout-public
 ---
+
 
 Participation à un article de dissémination pour le magazine en ligne Sciences & Avenir, écrit par Alice Carliez: Comment notre cerveau fait-il face à l’incertitude ?
 

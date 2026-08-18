@@ -1,4 +1,4 @@
----
+--- 
 title: Population decoding of visual motion direction
 authors:
 - Alexandre Lainé
@@ -23,8 +23,7 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 🧠 Excited to share our latest research led by Alexandre Lainé and presented this summer at AREADNE 2026!

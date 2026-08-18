@@ -1,17 +1,25 @@
----
+--- 
 authors:
 - laurent-u-perrinet
 date: 2018-03-26 00:00:00
 draft: false
 lastmod: 2018-03-26 00:00:00
-
 subtitle: 'PhD Program: course in Computational Neuroscience.'
 summary: 'PhD Program: course in Computational Neuroscience.'
 title: '2018-03-26 : PhD Program: course in Computational Neuroscience'
-tags: ["bayesian-modelling"]
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: ["open-science"]
+tags:
+- bayesian-modelling
+categories:
+- Behavioural Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+projects:
+- open-science
+- tout-public
 ---
+
 
 # PhD Program: course in Computational Neuroscience
 

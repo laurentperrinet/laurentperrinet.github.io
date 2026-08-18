@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'Humans are able to robustly categorize images and can, for instance, detect
   the presence of an animal in a briefly flashed image in as little as 120 ms. Initially
   inspired by neuroscience, deep-learning algorithms literally bloomed up in the last
@@ -41,7 +41,6 @@ lastmod: 2022-05-11 09:32:04+02:00
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2205.03635
-
 publication: '*Vision*'
 publication_types:
 - article-journal

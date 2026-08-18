@@ -1,4 +1,4 @@
----
+--- 
 title: Detection of spiking motifs of arbitrary length in neural activity using bounded
   synaptic delays
 authors:
@@ -22,7 +22,6 @@ tags:
 - temporal-coding
 categories:
 - Computational Neuroscience
-projects:
-- ''
+projects: []
 ---
 

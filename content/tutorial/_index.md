@@ -1,4 +1,4 @@
----
+--- 
 date: 2018-09-09 00:00:00
 draft: true
 menu:
@@ -8,7 +8,6 @@ menu:
 title: Overview
 toc: true
 type: docs
-
 ---
 TODO
 This feature can be used for publishing content such as:

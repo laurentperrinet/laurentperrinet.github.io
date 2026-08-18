@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Jonathan Vacher
 - Andrew Isaac Meso
@@ -15,7 +15,6 @@ links:
   url: https://papers.nips.cc/paper/5769-biologically-inspired-dynamic-textures-for-probing-motion-perception.pdf
 - name: arXiv
   url: https://arxiv.org/abs/1511.02705
-
 publication: '*Advances in Neural Information Processing Systems*'
 publication_types:
 - article-journal
@@ -25,8 +24,7 @@ tags:
 - visual-illusions
 categories:
 - Computational Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 * Talk @ NeurIPS: https://neurips.cc/Conferences/2015/Schedule?showEvent=5418

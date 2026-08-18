@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'Both biological and artificial neural networks inherently balance their
   performance with their operational cost, which balances their computational abilities.
   Typically, an efficient neuromorphic neural network is one that learns representations
@@ -38,7 +38,6 @@ links:
   url: https://iopscience.iop.org/article/10.1088/2634-4386/ad5d0f
 - name: HAL
   url: https://hal.science/hal-04842588
-
 publication: Neuromorphic Computing and Engineering
 publication_short: ''
 publication_types:
@@ -63,8 +62,7 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 ![Artboard](2024_ladret.gif)

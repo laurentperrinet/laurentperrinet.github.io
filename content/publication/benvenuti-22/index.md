@@ -1,4 +1,4 @@
----
+--- 
 abstract: What are the neural mechanisms underlying motion integration of translating
   objects? Visual motion integration is generally conceived of as a feedforward, hierarchical,
   information processing. However, feedforward models fail to account for many contextual
@@ -37,8 +37,7 @@ categories:
 - Biological Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Outreach & Public Engagement
 - Visual Neuroscience
-projects:
-- ''
+projects: []
 ---
+

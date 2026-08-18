@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'The response of a biological neuron depends largely on the precise timing
   of presynaptic spikes that reach the basal dendritic tree. However, most neuronal
   models do not take advantage of this minute temporal dimension, especially in exploiting
@@ -28,7 +28,6 @@ lastmod: 2022-05-20 13:42:38+02:00
 links:
 - name: Venue
   url: https://areadne.org/
-
 publication: '*Proceedings of AREADNE*'
 publication_types:
 - inproceedings

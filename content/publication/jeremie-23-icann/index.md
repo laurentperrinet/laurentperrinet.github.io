@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Jean-Nicolas Jérémie
 - Emmanuel Daucé
@@ -17,7 +17,6 @@ lastmod: 2022-11-17 12:15:57+01:00
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/jeremie-23-icann
-
 publication: '*32nd International Conference on Artificial Neural Networks (ICANN
   2023)*'
 publication_types:
@@ -39,8 +38,7 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 ---
 
 * as was presented at the *32nd International Conference on Artificial Neural Networks (ICANN 2023)* in Heraklion (Greece).

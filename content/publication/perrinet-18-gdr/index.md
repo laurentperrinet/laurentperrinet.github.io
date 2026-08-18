@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'Recording eye movements is a technique that attracts an increasing number
   of scientists, but also in the general public. Indeed, this allows to quantitatively
   measure a number of useful dimensions of perception and behavior in general. However,
@@ -26,7 +26,6 @@ links:
   url: https://github.com/laurentperrinet/Perrinet18gdr/raw/master/Perrinet18gdr.pdf
 - name: URL
   url: https://github.com/laurentperrinet/Perrinet18gdr
-
 publication: '*GDR Vision, Paris, 2018*'
 publication_types:
 - inproceedings

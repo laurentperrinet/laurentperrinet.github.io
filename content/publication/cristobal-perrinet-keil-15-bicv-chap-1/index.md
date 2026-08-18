@@ -1,4 +1,4 @@
----
+--- 
 abstract: This is the introductory chapter of the book, which serves as a comprehensive
   but rigorous reference in the area of biologically inspired computer vision modeling.
   Biological vision shows excellence in terms of performance and robustness. Biologically
@@ -29,8 +29,7 @@ categories:
 - Computational Neuroscience
 - Computer Vision
 - NeuroAI & Machine Learning
-projects:
-- ''
+projects: []
 grants:
 - brain-scales
 ---

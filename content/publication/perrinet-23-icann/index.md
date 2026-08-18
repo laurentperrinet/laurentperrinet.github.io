@@ -1,4 +1,4 @@
----
+--- 
 abstract: Recently, interest has grown in exploring the hypothesis that neural activity
   conveys information through precise spiking motifs. To investigate this phenomenon,
   various algorithms have been proposed to detect such motifs in Single Unit Activity
@@ -33,7 +33,6 @@ links:
   url: https://github.com/laurentperrinet/2023-09-27_HDSNN-ICANN
 - name: arXiv
   url: https://arxiv.org/abs/2307.11555
-
 publication: '*ICANN Special Session on Recent Advances in Spiking Neural Networks*'
 publication_types:
 - inproceedings
@@ -49,8 +48,7 @@ categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects:
-- ''
+projects: []
 ---
 
 * paper presented during the [32nd International Conference on Artificial Neural Networks (ICANN 2023)](https://e-nns.org/icann2023/)

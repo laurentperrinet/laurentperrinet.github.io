@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Victor Boutin
 - Angelo Franciosini
@@ -10,7 +10,6 @@ featured: false
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19-sfn/
-
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - inproceedings

@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'We propose a neuromimetic architecture able to perform always-on pattern
   recognition. To achieve this, we extended an existing event-based algorithm [1],
   which introduced novel spatio-temporal features as a Hierarchy Of Time-Surfaces
@@ -43,7 +43,6 @@ links:
   url: https://github.com/AntoineGrimaldi/hotsline
 - name: URL
   url: https://laurentperrinet.github.io/publication/grimaldi-24/
-
 publication: Neural Networks
 publication_types:
 - article-journal

@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Jean-Bernard Damasse
 - Anna Montagnini
@@ -11,7 +11,6 @@ grants:
 links:
 - name: URL
   url: https://jov.arvojournals.org/article.aspx?doi=10.1167/17.10.273
-
 publication: '*Proceedings of Vision Sciences Society Annual Meeting*'
 publication_types:
 - inproceedings
@@ -21,7 +20,6 @@ tags:
 - eye-movements
 categories:
 - Computational Neuroscience
-projects:
-- ''
+projects: []
 ---
 
