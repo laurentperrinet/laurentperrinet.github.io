@@ -18,11 +18,9 @@ user_groups:
 tags:
 - deep-learning
 - retinal-dystrophies
-projects: []
 categories:
 - Biological Neuroscience
 - Clinical Neuroscience
-- Education
 - NeuroAI & Machine Learning
 ---
 
