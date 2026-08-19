@@ -39,6 +39,6 @@ subtitle: ''
 title: Artificial neural networks and machine learning applied to the understanding
   of biological vision
 tags: ["bayesian-modelling", "motion-perception", "neuromorphic-computing", "predictive-coding"]
-categories: ["Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-projects: ["", "tout-public"]
+  categories: ["Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+  projects: ["courses", "tout-public"]
 ---

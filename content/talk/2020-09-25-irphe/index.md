@@ -42,7 +42,7 @@ publication: '*Séminaire à l''Institut de Recherche sur les Phénomènes Hors 
 publication_types:
 - inproceedings
 title: Understanding natural vision using deep predictive coding
-tags: ["predictive-coding", "sparse-coding", "visual-illusions"]
+  tags: ["predictive-coding", "sparse-coding"]
 categories: ["Biological Neuroscience", "Computational Neuroscience", "Computer Vision", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 projects: ["", "tout-public"]
 ---

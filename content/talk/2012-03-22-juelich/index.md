@@ -14,7 +14,7 @@ publication: '*2nd BrainScaleS Plenary Meeting - Friday, March 22nd, 2012*'
 title: 'MotionClouds: Model-based stimulus synthesis of natural-like random textures
   for the study of motion perception'
 url_slides: perrinet12wp4_handout.pdf
-tags: ["motion-clouds", "motion-perception", "neuromorphic-computing", "visual-illusions"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
+  tags: ["motion-clouds", "motion-perception", "neuromorphic-computing"]
+  categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 projects: ["open-science", "tout-public"]
 ---
