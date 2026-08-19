@@ -22,7 +22,7 @@ slides: 2025-04-18-vibration-apparences
 subtitle: ''
 title: 'La vibration des apparences'
 tags: ["visual-illusions"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 projects: ["art-science", "tout-public"]
 ---
 Cette présentation, dans le cadre des *Journées d’Ouverture Scientifique (JOS)*, explore le travail présenté lors de l’exposition *La vibration des apparences*, au musée Granet :

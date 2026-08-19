@@ -28,6 +28,6 @@ links:
 publication: '*Brain meeting at FIL, London - Friday, January 27th, 2012*'
 title: Grabbing, tracking and sniffing as models for motion detection and eye movements
 tags: ["eye-movements", "motion-perception"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
 projects: ["", "tout-public"]
 ---

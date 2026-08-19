@@ -33,6 +33,6 @@ slides: 2023-12-01-biocomp
 subtitle: '*Séminaire colloque BioComp 2023*'
 title: Event-based vision
 tags: ["motion-perception", "neuromorphic-computing"]
-categories: ["Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning"]
+categories: ["Computational Neuroscience", "Computer Vision", "NeuroAI & Machine Learning"]
 projects: ["", "tout-public"]
 ---

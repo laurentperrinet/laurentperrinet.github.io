@@ -21,7 +21,7 @@ publication_types:
 - inproceedings
 title: Rencontre avec les collégiens marseillais
 tags: ["visual-illusions"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 projects: ["tout-public"]
 ---
 # Cinéma et sciences : rencontre avec les collégiens marseillais

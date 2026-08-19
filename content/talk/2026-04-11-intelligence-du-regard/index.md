@@ -16,7 +16,7 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-04-11-intelligence-du-regard
 tags: ["visual-illusions"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
 projects: ["art-science", "tout-public"]
 ---
 Cette présentation (dans le cadre du *Forum des Sciences Cognitives*) explore la collaboration avec Étienne Rey, notamment le travail exposé lors de l’exposition *La vibration des apparences*, qui a eu lieu au musée Granet :

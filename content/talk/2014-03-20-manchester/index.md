@@ -40,6 +40,6 @@ publication: '*4th BrainScaleS Plenary meeting - March 20th, 2014*'
 title: 'WP5 - Demo 1.3 : Spiking model of motion-based prediction'
 url_slides: 14-03-20_BK_LP_MK_handout.pdf
 tags: ["bayesian-modelling", "motion-perception", "neuromorphic-computing", "primary-visual-cortex", "spiking-neural-networks"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Education", "NeuroAI & Machine Learning", "Theoretical Neuroscience", "Visual Neuroscience"]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience", "Visual Neuroscience"]
 projects: ["", "tout-public"]
 ---

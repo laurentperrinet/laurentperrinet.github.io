@@ -20,7 +20,7 @@ title: Unsupervised learning applied to robotic vision
 url_code: ''
 url_slides: ''
 tags: ["sparse-coding"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 projects: ["", "tout-public"]
 ---
 * see a related work describing SDPC in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="1" >}}

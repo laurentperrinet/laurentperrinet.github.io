@@ -23,7 +23,7 @@ slides: 2024-03-27-emergences
 subtitle: 'Seminar at the *Emergences (PEPR AI) workshop, Autrans, France*'
 title: 'Analyser de larges volumes de données neurobiologiques, vers une approche biomimétique'
 tags: ["neuromorphic-computing"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 projects: ["", "tout-public"]
 ---
 * Related papers

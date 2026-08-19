@@ -17,7 +17,7 @@ publication_types:
 - inproceedings
 title: Participation au jury
 tags: ["primary-visual-cortex"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 projects: ["", "tout-public"]
 ---
 # FESTIVAL INTERFÉRENCES​

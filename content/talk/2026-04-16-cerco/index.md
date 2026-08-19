@@ -33,7 +33,7 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-04-16-cerco/
 tags: ["neuromorphic-computing", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning"]
+categories: ["Computational Neuroscience", "Computer Vision", "NeuroAI & Machine Learning"]
 projects: [""]
 * Invited seminar at CerCo, Toulouse, France, 2026-04-16
 

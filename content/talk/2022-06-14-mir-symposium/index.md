@@ -25,7 +25,7 @@ subtitle: ''
 title: Contributions of neuroscience to the detection and localization of objects
   in visual inputs
 tags: ["eye-movements", "foveated-vision", "log-polar-mapping", "motion-perception", "neuromorphic-computing", "primary-visual-cortex", "retinotopy"]
-categories: ["Biological Neuroscience", "Education", "NeuroAI & Machine Learning", "Visual Neuroscience"]
+categories: ["Biological Neuroscience", "NeuroAI & Machine Learning", "Visual Neuroscience"]
 projects: ["", "tout-public"]
 ---
 * for visual search see: {{< cite page="/publication/dauce-20" view="1" >}}

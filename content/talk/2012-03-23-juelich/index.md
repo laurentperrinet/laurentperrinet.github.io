@@ -14,6 +14,6 @@ publication: '*2nd BrainScaleS Plenary Meeting - Friday, March 23rd, 2012*'
 title: Apparent motion in V1 - Probabilistic approaches
 url_slides: perrinet12wp5_handout.pdf
 tags: ["bayesian-modelling", "motion-perception", "neuromorphic-computing", "primary-visual-cortex"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 projects: ["", "tout-public"]
 ---

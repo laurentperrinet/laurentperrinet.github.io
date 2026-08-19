@@ -19,7 +19,7 @@ location: Salle des voutes campus Saint Charles
 publication: '*Meetup Art et Neurosciences*'
 title: Expériences autour de la perception de la forme en art et science
 tags: ["visual-illusions"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 projects: ["art-science", "tout-public"]
 ---
 {{< figure src="https://www.proarti.fr/uploads/media/project/0001/07/thumb_6988_project_medium.png" title="Elasticité dynamique est composée des pièces Expansion, Trame et Lignes sonores. Volume hexagonal en miroir de 7 mètres de diamètre, Expansion fonctionne comme une chambre d'écho. A l'intérieur de ce volume se situe Trame. Constituée de 25 lames de miroir en rotation, cette pièce réoriente continuellement le regard. Quant à Lignes sonores, elle est formée de quatre monolithes orientés vers Expansion et émet des sons qui se réorientent en fonction du mouvement des lames. (© Étienne Rey, Adagp Paris" numbered="false" >}}

@@ -16,7 +16,7 @@ publication_types:
 - inproceedings
 title: Intervention fête de la science 2018
 tags: ["visual-illusions"]
-categories: ["Computational Neuroscience", "Education"]
+categories: ["Computational Neuroscience"]
 projects: ["tout-public"]
 ---
 # FÊTE DE LA SCIENCE 2018 : Alcazar / MERLAN

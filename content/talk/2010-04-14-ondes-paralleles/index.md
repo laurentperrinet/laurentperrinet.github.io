@@ -28,7 +28,7 @@ publication_types:
 - inproceedings
 title: Diffraction monochromatique, spectre audiographique
 tags: ["homeostasis", "sparse-coding", "spiking-neural-networks", "visual-illusions"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 projects: ["art-science", "tout-public"]
 ---
 # Diffraction monochromatique, spectre audiographique

@@ -39,7 +39,7 @@ publication_types:
 - inproceedings
 title: Visual search as active inference
 tags: ["bayesian-modelling", "eye-movements"]
-categories: ["Education", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+categories: ["NeuroAI & Machine Learning", "Theoretical Neuroscience"]
 projects: ["", "tout-public"]
 ---
 * see proceedings paper: {{< cite page="/publication/dauce-20-iwai" view="1" >}}

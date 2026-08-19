@@ -23,6 +23,6 @@ publication: '*LACONEU 2019: 5th Latin-American Summer School in Computational N
   Valparaiso (Chile)*'
 title: Modelling spiking neural networks using Brian, Nest and pyNN
 tags: ["primary-visual-cortex", "pynn", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 projects: ["", "tout-public"]
 ---

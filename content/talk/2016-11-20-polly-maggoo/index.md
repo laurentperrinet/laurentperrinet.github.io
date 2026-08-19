@@ -16,7 +16,7 @@ publication_types:
 - inproceedings
 title: Participation au jury et entretien avec Clara Delmon
 tags: ["visual-illusions"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 projects: ["art-science", "tout-public"]
 ---
 # RENCONTRES INTERNATIONALES SCIENCES & CINÉMAS

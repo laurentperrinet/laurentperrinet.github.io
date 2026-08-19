@@ -32,7 +32,7 @@ publication_types:
 - inproceedings
 title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
 tags: ["visual-illusions"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning"]
+categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
 projects: ["tout-public"]
 ---
 > Nous aurons le plaisir d’échanger avec notre conférencier Laurent Perrinet et nous vous espérons nombreux. Pour situer le conférencier : https://laurentperrinet.github.io/2019-05_illusions-visuelles/
