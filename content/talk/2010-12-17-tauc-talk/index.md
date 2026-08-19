@@ -26,8 +26,6 @@ categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects:
-- tout-public
 ---
 An event ranging "From Mathematical Image Analysis to Neurogeometry of the Brain" Ladislav Tauc & GDR MSPC neurosciences conference.
 * related publication from Mina Khoei @ [TAUC 2012]({{< ref "/publication/khoei-10-tauc/index.md" >}})

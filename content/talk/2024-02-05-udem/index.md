@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'The biological retina represents changes in light intensity and communicates
   them to the brain by means of spikes. Similarly, event-based cameras mimic the way
   the biological retina processes visual information: each pixel independently reports
@@ -16,25 +16,27 @@ draft: false
 event: Seminar at UdeM’s School of Optometry, UdeM
 featured: false
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2024-02-05-udem
 location: Montréal (Canada)
-- computational neuroscience
-- event-based vision
-- neuromorphic hardware
 publication_types:
 - inproceedings
 publishDate: '2024-01-19T07:59:44.385734Z'
 slides: 2024-02-05-udem
 subtitle: '*Seminar at UdeM’s School of Optometry, Montréal*'
 title: Event-based vision
-tags: ["motion-perception", "neuromorphic-computing"]
-categories: ["Computational Neuroscience", "Computer Vision", "NeuroAI & Machine Learning"]
-projects: ["", "tout-public"]
+tags:
+- motion-perception
+- neuromorphic-computing
+categories:
+- Computational Neuroscience
+- Computer Vision
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---
 # When brains meet computing machines
 * https://neurosciences.umontreal.ca/wp-content/uploads/sites/6/2024/02/conferenceNikon_Laurent_Perrinet.pdf

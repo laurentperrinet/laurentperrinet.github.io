@@ -1,4 +1,4 @@
----
+--- 
 abstract: Moving objects generate sensory information that may be noisy and ambiguous,
   yet it is important to be able to reconstruct object speed as fast as possible.
   One unsolved question is to understand how the brain pools motion information to
@@ -20,14 +20,19 @@ authors:
 date: 2012-01-27
 event: Brain meeting at FIL, London - Friday, January 27th, 2012
 featured: false
-- brain-scales
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2012-01-27-fil/
-
 publication: '*Brain meeting at FIL, London - Friday, January 27th, 2012*'
 title: Grabbing, tracking and sniffing as models for motion detection and eye movements
-tags: ["eye-movements", "motion-perception"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
-projects: ["", "tout-public"]
+tags:
+- eye-movements
+- motion-perception
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---

@@ -42,7 +42,5 @@ categories:
 - Behavioural Neuroscience
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects:
-- facets
 ---
 

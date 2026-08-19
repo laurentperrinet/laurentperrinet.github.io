@@ -1,4 +1,4 @@
----
+--- 
 abstract: Les illusions visuelles sont des créations d'artistes, de scientifiques
   et plus récemment, grâce aux réseaux sociaux, du grand public qui proposent des
   situations souvent incongrues, dans lesquelles l'eau remonte une cascade, les personnes
@@ -31,9 +31,13 @@ publication: '*Neurocercle : Découvrir les neurosciences à Grenoble*'
 publication_types:
 - inproceedings
 title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
-tags: ["visual-illusions"]
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
-projects: ["tout-public"]
+tags:
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---
 > Nous aurons le plaisir d’échanger avec notre conférencier Laurent Perrinet et nous vous espérons nombreux. Pour situer le conférencier : https://laurentperrinet.github.io/2019-05_illusions-visuelles/
 > « C'est toujours fascinant de voir ou de revoir des illusions visuelles. C'est encore plus fascinant de plonger dans leurs explications. »

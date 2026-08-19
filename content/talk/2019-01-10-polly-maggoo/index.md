@@ -1,4 +1,4 @@
----
+--- 
 abstract: Le jeudi 10 janvier 2019, je suis venu échanger au côté de Serge Dentin
   autour de films traitant du rapport fiction/réel, des illusion visuelles (\" Qu'est
   ce qu'une image? \"), des rapports d'échelles, de la perception, ... et qui sont
@@ -20,9 +20,13 @@ publication: '**'
 publication_types:
 - inproceedings
 title: Rencontre avec les collégiens marseillais
-tags: ["visual-illusions"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
-projects: ["tout-public"]
+tags:
+- visual-illusions
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---
 # Cinéma et sciences : rencontre avec les collégiens marseillais
 L'Association Polly Maggoo <http://www.pollymaggoo.org/> met en place

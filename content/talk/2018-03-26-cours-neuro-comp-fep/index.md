@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Laurent U Perrinet
 date: 2018-03-26 13:00:00
@@ -15,11 +15,11 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2018-03-26-cours-neuro-comp-fep/
 location: INT, Marseille
-- courses
-- open-science
 publication: '*PhD program in  Neuroscience, Marseille - March 27th, 2018*'
 title: Probabilities, Bayes and the Free-energy principle
-tags: [""]
-  categories: ["Computational Neuroscience"]
-  projects: ["courses", "tout-public"]
+categories:
+- Computational Neuroscience
+projects:
+- courses
+- tout-public
 ---

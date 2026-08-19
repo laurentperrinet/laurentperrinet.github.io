@@ -35,8 +35,6 @@ categories:
 - Biological Neuroscience
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-projects:
-- facets
 ---
 
 ![header](voges-10-jpp.png)

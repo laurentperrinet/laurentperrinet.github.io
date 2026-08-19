@@ -38,8 +38,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects:
-- aprovis3D
 grants:
 - aprovis-3-d
 ---

@@ -50,8 +50,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects:
-- facets-itn
 ---
 
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}

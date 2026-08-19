@@ -7,9 +7,6 @@ date: 2022-06-19 09:00:00
 draft: false
 event: NeuroVision Workshop in conjunction with CVPR 2022
 featured: false
-grants:
-- anr-anr
-- aprovis3D
 image:
   focal_point: Smart
   preview_only: false
@@ -38,8 +35,6 @@ categories:
 - Computer Vision
 - Education
 - Visual Neuroscience
-projects:
-- tout-public
 ---
 * Follows a previous work {{< cite page="/publication/dauce-20" view="1" >}}
 {{< video src="2022-06-10_Jeremie-etal-NeuroVision_video-abstract.mp4" controls="yes" >}}

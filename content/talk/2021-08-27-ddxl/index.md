@@ -39,8 +39,6 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects:
-- tout-public
 ---
 * This is 40th edition of Dynamicsdays
 * Nice, 23-27 August 2021 - https://dynamicsdays2021.univ-cotedazur.fr

@@ -58,8 +58,6 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- facets
 ---
 
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}

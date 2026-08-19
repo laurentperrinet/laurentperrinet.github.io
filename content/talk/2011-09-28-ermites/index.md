@@ -1,4 +1,4 @@
----
+--- 
 abstract: Oriented edges in images of natural scenes tend to be aligned in collinear
   or co-circular arrangements, with lines and smooth curves more common than other
   possible arrangements of edges (Geisler et al., Vis Res 41:711-24, 2001). The visual
@@ -45,12 +45,18 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2011-09-28-ermites/
 location: Porquerolles la Perle des Iles d'Or - Var (France)
-
 publication: '*Proceedings of SfN, 2011*'
 title: 'Edge statistics in natural images versus laboratory animal environments: implications
   for understanding lateral connectivity in V1'
-tags: ["bayesian-modelling", "primary-visual-cortex", "sparse-coding"]
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Visual Neuroscience"]
-projects: ["", "tout-public"]
+tags:
+- bayesian-modelling
+- primary-visual-cortex
+- sparse-coding
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
+- Visual Neuroscience
+projects:
+- tout-public
 ---
 * See a followup in {{< cite page="/publication/perrinet-bednar-15" view="1" >}}

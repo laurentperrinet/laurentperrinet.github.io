@@ -17,7 +17,5 @@ tags:
 - visual-cortex
 categories:
 - Computational Neuroscience
-projects:
-- tout-public
 ---
 * see this more recent talk @ [UCL, London]({{< ref "/talk/2012-01-12-vision-at-ucl/index.md" >}})

@@ -7,8 +7,6 @@ date: 2018-04-05 14:00:00
 event: Probabilities and Optimal Inference to Understand the Brain
 event_url: https://laurentperrinet.github.io/post/2018-04-05_optimal-inference-brain-workshop/
 featured: false
-grants:
-- pace-itn
 links:
 - name: Conference
   url: https://laurentperrinet.github.io/post/2018-04-05_optimal-inference-brain-workshop/
@@ -28,8 +26,6 @@ tags:
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-projects:
-- tout-public
 ---
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="1" >}}
 * previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})

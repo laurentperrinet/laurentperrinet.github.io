@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Laurent U Perrinet
 date: 2016-11-20 09:00:00
@@ -15,9 +15,14 @@ publication: '*Cinésciences, collège Clair Soleil (Marseille)*'
 publication_types:
 - inproceedings
 title: Participation au jury et entretien avec Clara Delmon
-tags: ["visual-illusions"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
-projects: ["art-science", "tout-public"]
+tags:
+- visual-illusions
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- art-science
+- tout-public
 ---
 # RENCONTRES INTERNATIONALES SCIENCES & CINÉMAS
 ## cinéma les Variétés

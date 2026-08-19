@@ -52,7 +52,6 @@ categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 projects:
-- facets
 - open-science
 ---
 

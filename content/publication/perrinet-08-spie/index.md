@@ -40,6 +40,4 @@ categories:
 - Computational Neuroscience
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects:
-- facets
 ---

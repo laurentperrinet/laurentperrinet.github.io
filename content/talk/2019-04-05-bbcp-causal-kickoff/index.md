@@ -25,8 +25,6 @@ authors:
 date: 2019-04-05 15:45:00
 event: CausaL Kick-off
 featured: false
-grants:
-- anr-causal
 links:
 - name: Slides
   url: https://laurentperrinet.github.io/2019-04-05_BBCP_causal_kickoff
@@ -48,8 +46,6 @@ categories:
 - Behavioural Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- tout-public
 ---
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="1" >}}
 * previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})

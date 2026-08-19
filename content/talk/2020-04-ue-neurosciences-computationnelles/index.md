@@ -1,4 +1,4 @@
----
+--- 
 abstract: Visual areas are essential in transforming the raw luminous signal into
   a representation which efficiently conveys information about the environment. This
   process is constrained by various factors such as a wide variety of changes in the
@@ -16,8 +16,6 @@ authors:
 date: 2020-04-03 16:00:00
 event: Master Neurosciences et Sciences Cognitives
 featured: false
-grants:
-- anr-horizontal-v1
 links:
 - name: Slides
   url: https://laurentperrinet.github.io/2020-04_UE-neurosciences-computationnelles
@@ -26,14 +24,23 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2020-04-ue-neurosciences-computationnelles
 location: Marseille (France)
-- courses
 publication: '*Master Neurosciences et Sciences Cognitives*'
 publication_types:
 - inproceedings
 title: 'From the retina to action: Understanding visual processing'
-tags: ["bayesian-modelling", "motion-perception", "predictive-coding", "primary-visual-cortex"]
-  categories: ["Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-  projects: ["courses", "tout-public"]
+tags:
+- bayesian-modelling
+- motion-perception
+- predictive-coding
+- primary-visual-cortex
+categories:
+- Biological Neuroscience
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+projects:
+- courses
+- tout-public
 ---
 # 2020-04_UE-neurosciences-computationnelles, matériel pour le cours de modélisation
 * Où: Marseille (France)

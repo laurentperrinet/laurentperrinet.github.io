@@ -1,4 +1,4 @@
----
+--- 
 abstract: Visual areas are essential in transforming the raw luminous signal into
   a representation which efficiently conveys information about the environment. This
   process is constrained by various factors such as a wide variety of changes in the
@@ -24,7 +24,6 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2022-03-23-ue-neurosciences-computationnelles
 location: Marseille (France)
-- courses
 publication: '*Master 1 Neurosciences et Sciences Cognitives*'
 publication_types:
 - inproceedings
@@ -32,9 +31,18 @@ publishDate: '2022-03-21T10:44:45.446866Z'
 slides: 2022-03-23_ue-neurosciences-computationnelles
 title: Réseaux de neurones artificiels et apprentissage machine appliqués à la compréhension
   de la vision
-tags: ["bayesian-modelling", "motion-perception", "predictive-coding"]
-  categories: ["Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-  projects: ["courses", "tout-public"]
+tags:
+- bayesian-modelling
+- motion-perception
+- predictive-coding
+categories:
+- Biological Neuroscience
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+projects:
+- courses
+- tout-public
 ---
 * Où: Salle PHY51 - Marseille (France)
 * Quoi: [Master 1 Neurosciences et Sciences Cognitives](https://ametice.univ-amu.fr/course/view.php?id=89069)

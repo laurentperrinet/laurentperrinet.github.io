@@ -64,8 +64,6 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects:
-- facets-itn
 ---
 
 * [Press release](https://www.insb.cnrs.fr/fr/cnrsinfo/illusions-visuelles-leur-origine-est-dans-la-prediction)

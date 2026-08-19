@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Laurent U Perrinet
 date: 2023-09-27 11:30:00
@@ -6,9 +6,7 @@ doi: 10.1007/978-3-031-44207-0_31
 draft: false
 event: ICANN Special Session on Recent Advances in Spiking Neural Networks
 featured: false
-- polychronies
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2023-09-10 17:59:14+02:00
@@ -16,20 +14,21 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-23-icann/
 location: Heraklion (Greece)
-- computational neuroscience
-- event-based computing
-- spiking neural networks
 publication: '*ICANN Special Session on Recent Advances in Spiking Neural Networks*'
 publication_types:
 - inproceedings
 publishDate: '2023-09-10T15:59:14.546901Z'
 slides: 2023-09-27_icann
-subtitle: ''
 title: Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a
   Spiking Neural Network
-tags: ["neuromorphic-computing", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
-projects: ["", "tout-public"]
+tags:
+- neuromorphic-computing
+- spiking-neural-networks
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---
 * Hybrid Session, Room 2
 * Chair: Sander Bohté, Sebastian Otte

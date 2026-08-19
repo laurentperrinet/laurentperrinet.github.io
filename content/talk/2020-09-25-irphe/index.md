@@ -1,4 +1,4 @@
----
+--- 
 abstract: Building models which efficiently process images is a great source of inspiration
   to better understand the processes which underly our visual perception. I will present
   some classical models stemming from the Machine Learning community and propose some
@@ -36,15 +36,22 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2020-09-25-irphe
 location: Marseille (France)
-- aprovis-3-d
 publication: '*Séminaire à l''Institut de Recherche sur les Phénomènes Hors Équilibre
   (IRPHÉ)*'
 publication_types:
 - inproceedings
 title: Understanding natural vision using deep predictive coding
-  tags: ["predictive-coding", "sparse-coding"]
-categories: ["Biological Neuroscience", "Computational Neuroscience", "Computer Vision", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-projects: ["", "tout-public"]
+tags:
+- predictive-coding
+- sparse-coding
+categories:
+- Biological Neuroscience
+- Computational Neuroscience
+- Computer Vision
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+projects:
+- tout-public
 ---
 * What:: talk @ [Séminaire à l'Institut de Recherche sur les Phénomènes Hors Équilibre (IRPHÉ)](https://laurentperrinet.github.io/talk/2020-09-25-irphe)
 * Who:: Perrinet, Laurent U

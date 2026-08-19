@@ -23,8 +23,6 @@ categories:
 - Computer Vision
 - Education
 - NeuroAI & Machine Learning
-projects:
-- tout-public
 ---
 ## References
  - unsupervised learning : [Perrinet (2010)](https://laurentperrinet.github.io/publication/perrinet-10-shl/)

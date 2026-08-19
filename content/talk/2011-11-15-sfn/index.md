@@ -54,8 +54,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects:
-- tout-public
 ---
 * Abstract Control Number: 17671
 * Presentation Number: 530.04

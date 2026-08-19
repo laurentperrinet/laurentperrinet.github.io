@@ -60,7 +60,5 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects:
-- facets
 ---
 

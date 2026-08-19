@@ -20,8 +20,6 @@ tags:
 - motion-detection
 categories:
 - Computational Neuroscience
-projects:
-- facets
 ---
 
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}

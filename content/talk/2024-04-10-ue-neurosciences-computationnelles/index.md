@@ -15,7 +15,6 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2024-04-10-ue-neurosciences-computationnelles
 location: Marseille (France)
-- courses
 publication: '*Master 1 Neurosciences et Sciences Cognitives*'
 publication_types:
 - inproceedings

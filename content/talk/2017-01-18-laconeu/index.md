@@ -5,8 +5,6 @@ date: 2017-01-18 09:00:00
 event: Workshop on Computational Neuroscience \"New trends and challenges for 2030\"
 event_url: http://cinv.uv.cl/laconeu-workshop
 featured: false
-grants:
-- anr-trajectory
 links:
 - name: Conference
   url: http://cinv.uv.cl/laconeu-workshop
@@ -21,7 +19,5 @@ title: 'Back to the present: how neurons deal with delays'
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-projects:
-- tout-public
 ---
 ![Chile](http://laconeu.cl/wp-content/uploads/2018/04/Valparaiso-3.jpg)

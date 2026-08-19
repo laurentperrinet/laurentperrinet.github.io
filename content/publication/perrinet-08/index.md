@@ -15,6 +15,4 @@ tags:
 - spiking-neural-networks
 categories:
 - Computational Neuroscience
-projects:
-- facets
 ---

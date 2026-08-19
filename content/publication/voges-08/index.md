@@ -15,8 +15,6 @@ tags:
 - visual-cortex
 categories:
 - Computational Neuroscience
-projects:
-- facets
 ---
 
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}

@@ -6,8 +6,6 @@ date: 2021-06-15 11:15:00
 draft: false
 event: Society for Mathematical Biology * 2021
 featured: false
-grants:
-- anr-horizontal-v1
 image:
   focal_point: Smart
   preview_only: false
@@ -27,8 +25,6 @@ tags:
 categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects:
-- tout-public
 ---
 ![](@laurentperrinet_1384940135419101187_tweetcapture.png)
 {{< figure src="poster.jpg" width="100%" >}}

@@ -48,8 +48,6 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects:
-- tout-public
 ---
  * see previous work: https://laurentperrinet.github.io/sciblog/posts/2018-11-05-statistics-of-the-natural-input-to-a-ring-model.html
 ## Mini-Symposium "Learning from vision: Efficient representation, sparse coding, and modelling"

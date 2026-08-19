@@ -17,8 +17,6 @@ authors:
 - Guillaume S Masson
 date: 2009-04-01
 featured: false
-grants:
-- facets
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2008-04-01-incm/
@@ -30,7 +28,5 @@ categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects:
-- tout-public
 ---
 * see this more recent talk @ [UCL, London]({{< ref "/talk/2012-01-12-vision-at-ucl/index.md" >}})

@@ -38,8 +38,6 @@ tags:
 categories:
 - Computational Neuroscience
 - Education
-projects:
-- facets
 ---
 
 ![header](kremkow-10-jcns.png)

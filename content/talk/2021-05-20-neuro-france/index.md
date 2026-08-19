@@ -38,8 +38,6 @@ categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects:
-- tout-public
 ---
  * As presented during the [NeuroFrance 2021](https://www.neurosciences.asso.fr/SN21/) meeting
  ![](@laurentperrinet_1395351843035828224_tweetcapture.png)

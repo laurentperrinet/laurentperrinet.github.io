@@ -1,4 +1,4 @@
----
+--- 
 abstract: Visual areas are essential in transforming the raw luminous signal into
   a representation which efficiently conveys information about the environment. This
   process is constrained by various factors such as a wide variety of changes in the
@@ -16,8 +16,6 @@ authors:
 date: 2019-04-03 16:00:00
 event: Licence Sciences et Humanité
 featured: false
-grants:
-- anr-horizontal-v1
 links:
 - name: Slides
   url: https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization
@@ -26,13 +24,23 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2019-04-03-a-course-on-vision-and-modelization
 location: Marseille (France)
-- courses
 publication: '*Licence Sciences & Humanité*'
 publication_types:
 - inproceedings
 title: 'From the retina to action: Understanding visual processing'
-tags: ["bayesian-modelling", "motion-perception", "predictive-coding", "primary-visual-cortex"]
-  categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-  projects: ["courses", "tout-public"]
+tags:
+- bayesian-modelling
+- motion-perception
+- predictive-coding
+- primary-visual-cortex
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+projects:
+- courses
+- tout-public
 ---
 Cours de Licence Sciences & Humanité, 3/4/2019

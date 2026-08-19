@@ -1,4 +1,4 @@
----
+--- 
 abstract: Les illusions visuelles sont des créations d'artistes, de scientifiques
   et plus récemment, grâce aux réseaux sociaux, du grand public qui proposent des
   situations souvent incongrues, dans lesquelles l'eau remonte une cascade, les personnes
@@ -35,9 +35,13 @@ publication_types:
 - inproceedings
 slides: https://laurentperrinet.github.io/2020-01-20_atelier_sciences_cinema
 title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
-tags: ["visual-illusions"]
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
-projects: ["tout-public"]
+tags:
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---
 ![](@laurentperrinet_1284791644240347138_tweetcapture.png)
 {{< vimeo 398661322 >}}

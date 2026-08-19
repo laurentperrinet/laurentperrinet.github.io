@@ -1,4 +1,4 @@
----
+--- 
 abstract: Ce lundi 25 avril de 9h à 12h, je suis venu échanger au côté de Serge Dentin
   autour de films traitant du rapport fiction/réel, des illusion visuelles (\" Qu'est
   ce qu'une image? \"), des rapports d'échelles, de la perception, ... et qui sont
@@ -17,14 +17,17 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/sciblog/files/2016-04-25_pollymagoo/
 location: Marseille, France
-- tout-public
 publication: '**'
 publication_types:
 - inproceedings
 title: Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
-tags: ["visual-illusions"]
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
-projects: ["", "tout-public"]
+tags:
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---
 # Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
 ## Cinésciences, collège Clair Soleil

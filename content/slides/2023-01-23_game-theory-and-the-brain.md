@@ -1,21 +1,20 @@
----
+--- 
 authors:
 - Laurent U Perrinet
 date: 2023-01-23
 publishDate: 2023-01-21
-
-
 slides:
- theme: "white" # Reveal JS theme name
-
+  theme: white
 title: 2023-01-23_game-theory-and-the-brain
-
-tags: 
+tags:
 - Bayesian model
 - neuroscience
 - psychophysics
-categories: ["Visual Neuroscience"]
-projects: ["art-science", "tout-public"]
+categories:
+- Visual Neuroscience
+projects:
+- art-science
+- tout-public
 ---
 # Game theory and brain strategies
 

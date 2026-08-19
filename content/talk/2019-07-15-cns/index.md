@@ -27,8 +27,6 @@ authors:
 date: 2019-07-15 12:20:00
 event: 'Annual Computational Neuroscience Meeting: CNS*2019 Barcelona, Spain'
 featured: false
-grants:
-- spikeai
 links:
 - name: Slides
   url: https://SpikeAI.github.io/2019-07-15_CNS
@@ -58,8 +56,6 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects:
-- tout-public
 ---
  - download a [preliminary PDF](https://laurentperrinet.github.io/talk/2019-07-15-cns/2019-07-15-cns.pdf)
  ![](@laurentperrinet_1150713758643380226_tweetcapture.png)

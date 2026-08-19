@@ -23,6 +23,4 @@ tags:
 categories:
 - Computational Neuroscience
 - Computer Vision
-projects:
-- tout-public
 ---

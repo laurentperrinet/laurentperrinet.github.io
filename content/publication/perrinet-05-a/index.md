@@ -46,7 +46,5 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- facets
 ---
 

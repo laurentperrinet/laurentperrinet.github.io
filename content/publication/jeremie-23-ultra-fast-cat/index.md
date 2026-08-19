@@ -57,7 +57,6 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 projects:
-- aprovis3D
 - anr-anr
 ---
 

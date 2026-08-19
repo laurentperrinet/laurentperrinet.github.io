@@ -29,8 +29,6 @@ date: 2009-11-30
 event: 'Macroscopic aspects of neuronal activity: ''''Macroscopic models, LFP models
   and VSD models'''' a FACETS workshop in Marseille, Nov. 30th /Dec. 1st'
 featured: false
-grants:
-- facets
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2009-11-30-vss/
@@ -46,7 +44,5 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
-projects:
-- tout-public
 ---
 * see this more recent poster @ [VSS]({{< ref "/publication/perrinet-09-vss/index.md" >}})

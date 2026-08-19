@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'En perception, les neurones « parlent » tous en même temps par de brèves
   impulsions électrochimiques, générant un mélange de signaux, un bruit. Pourtant
   c''est par eux que nous pensons, voyons, sentons. Les ordinateurs sont différents,
@@ -27,9 +27,17 @@ publication: '*intervention autour du vernissage de "Diffraction monochromatique
 publication_types:
 - inproceedings
 title: Diffraction monochromatique, spectre audiographique
-tags: ["homeostasis", "sparse-coding", "spiking-neural-networks", "visual-illusions"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
-projects: ["art-science", "tout-public"]
+tags:
+- homeostasis
+- sparse-coding
+- spiking-neural-networks
+- visual-illusions
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- art-science
+- tout-public
 ---
 # Diffraction monochromatique, spectre audiographique
 ![Diffraction](https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg)

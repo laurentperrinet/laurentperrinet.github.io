@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Laurent U Perrinet
 date: 2018-10-10 18:30:00
@@ -15,9 +15,12 @@ publication: '**'
 publication_types:
 - inproceedings
 title: Intervention fête de la science 2018
-tags: ["visual-illusions"]
-categories: ["Computational Neuroscience"]
-projects: ["tout-public"]
+tags:
+- visual-illusions
+categories:
+- Computational Neuroscience
+projects:
+- tout-public
 ---
 # FÊTE DE LA SCIENCE 2018 : Alcazar / MERLAN
 L'Association Polly Maggoo <http://www.pollymaggoo.org/> met en place

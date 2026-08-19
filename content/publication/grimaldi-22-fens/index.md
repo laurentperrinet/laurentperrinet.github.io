@@ -23,8 +23,6 @@ tags:
 - spiking-neural-networks
 categories:
 - NeuroAI & Machine Learning
-projects:
-- aprovis3D
 grants:
 - aprovis-3-d
 ---

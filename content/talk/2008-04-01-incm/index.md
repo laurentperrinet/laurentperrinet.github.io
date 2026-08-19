@@ -28,8 +28,6 @@ authors:
 date: 2008-04-01
 event: Séminaires de l'INCM, April 11th, 2008
 featured: false
-grants:
-- facets
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2008-04-01-incm/
@@ -45,6 +43,4 @@ categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects:
-- tout-public
 ---

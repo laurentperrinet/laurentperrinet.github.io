@@ -1,4 +1,4 @@
----
+--- 
 abstract: Moving objects generate sensory information that may be noisy and ambiguous,
   yet it is important to be able to reconstruct object speed as fast as possible.
   One unsolved question is to understand how the brain pools motion information to
@@ -20,14 +20,23 @@ authors:
 date: 2014-01-10
 event: Marseille INT Fest, January 10th, 2014
 featured: false
-- brain-scales
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2014-01-10-int-fest/
-
 publication: '*Marseille INT Fest, January 10th, 2014*'
 title: Axonal delays and on-time control of eye movements
-tags: ["bayesian-modeling", "dynamics", "eye-movements", "free-energy", "motion-detection", "predictive-coding"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
-projects: ["", "tout-public"]
+tags:
+- bayesian-modeling
+- dynamics
+- eye-movements
+- free-energy
+- motion-detection
+- predictive-coding
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---

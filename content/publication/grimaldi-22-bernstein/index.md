@@ -49,7 +49,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 projects:
-- aprovis3D
 - anr-anr
 - polychronies
 ---

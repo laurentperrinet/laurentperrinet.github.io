@@ -26,7 +26,6 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2024-05-13-master-m-4-nc
 location: Sophia-Antipolis (France)
-- courses
 publication: '*Master M4NC de l''institut NeuroMod, cours Prospective Innovation and
   Research.*'
 publication_types:

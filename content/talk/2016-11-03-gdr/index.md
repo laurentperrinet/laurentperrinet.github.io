@@ -31,8 +31,6 @@ authors:
 date: 2016-11-03
 event: GDR Vision, Toulouse, Nov 3rd, 2016
 featured: false
-grants:
-- pace-itn
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2016-11-03-gdr/
@@ -46,6 +44,4 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- tout-public
 ---

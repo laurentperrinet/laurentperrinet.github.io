@@ -1,4 +1,4 @@
----
+--- 
 abstract: The question how the visual system is able to create a coherent representation
   of a rapidly changing environment in the presence of neural delays is not fully
   resolved. In this paper we use an abstract probabilistic framework and a spiking
@@ -28,18 +28,27 @@ date: 2014-03-20 13:00:00
 event: 4th BrainScaleS Plenary meeting
 event_url: https://brainscales.kip.uni-heidelberg.de/internal/jss/AttendMeeting?m=showAgenda&meetingID=45
 featured: false
-- brain-scales
 links:
 - name: Conference
   url: https://brainscales.kip.uni-heidelberg.de/internal/jss/AttendMeeting?m=showAgenda&meetingID=45
 - name: URL
   url: https://laurentperrinet.github.io/talk/2014-03-20-manchester/
 location: Manchester (UK)
-- open-science
 publication: '*4th BrainScaleS Plenary meeting - March 20th, 2014*'
 title: 'WP5 - Demo 1.3 : Spiking model of motion-based prediction'
 url_slides: 14-03-20_BK_LP_MK_handout.pdf
-tags: ["bayesian-modelling", "motion-perception", "neuromorphic-computing", "primary-visual-cortex", "spiking-neural-networks"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience", "Visual Neuroscience"]
-projects: ["", "tout-public"]
+tags:
+- bayesian-modelling
+- motion-perception
+- neuromorphic-computing
+- primary-visual-cortex
+- spiking-neural-networks
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+- Visual Neuroscience
+projects:
+- tout-public
 ---

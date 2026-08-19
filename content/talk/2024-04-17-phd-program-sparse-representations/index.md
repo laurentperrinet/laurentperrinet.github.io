@@ -29,7 +29,6 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2024-04-17-phd-program-sparse-representations
 location: Marseille (France)
-- courses
 publication: '*NeuroSchool PhD Program in Neuroscience*'
 publication_types:
 - inproceedings

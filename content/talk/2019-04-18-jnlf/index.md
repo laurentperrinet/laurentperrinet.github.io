@@ -1,4 +1,4 @@
----
+--- 
 abstract: Les illusions visuelles sont des créations d'artistes, de scientifiques
   et plus récemment, grâce aux réseaux sociaux, du grand public qui proposent des
   situations souvent incongrues, dans lesquelles l'eau remonte une cascade, les personnes
@@ -25,8 +25,6 @@ draft: false
 event: JNLF 2019, Revue Neurologique, Volume 175, Supplement 1, Page S165
 event_url: https://www.jnlf.fr/agenda/jnlf-lille-2019
 featured: false
-grants:
-- anr-horizontal-v1
 links:
 - name: Conference
   url: https://www.jnlf.fr/agenda/jnlf-lille-2019
@@ -46,9 +44,14 @@ summary: 'Les objectifs sont : -- mieux comprendre la fonction de la perception 
   en explorant certaines limites ; -- mieux comprendre l''importance de l''aspect
   dynamique de la perception ; -- mieux comprendre le rôle de l''action dans la perception.'
 title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
-tags: ["primary-visual-cortex", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
-projects: ["tout-public"]
+tags:
+- primary-visual-cortex
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---
 * Le texte de cette présentation est reprise dans cet article de [The Conversation](https://laurentperrinet.github.io/publication/perrinet-19-temps/) ([lien direct](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567)).
 * Voir la @ [présentation au NeuroStories]({{< ref "/post/2019-10-07_neurostories/index.md" >}})

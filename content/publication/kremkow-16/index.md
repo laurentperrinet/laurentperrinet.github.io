@@ -47,7 +47,5 @@ categories:
 - Computational Neuroscience
 - Education
 - Visual Neuroscience
-projects:
-- facets
 ---
 

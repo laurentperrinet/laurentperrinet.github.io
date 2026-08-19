@@ -41,7 +41,5 @@ tags:
 categories:
 - Biological Neuroscience
 - Computational Neuroscience
-projects:
-- facets
 ---
 

@@ -23,7 +23,5 @@ tags:
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-projects:
-- tout-public
 ---
 * see [Kaplan and al, 2014]({{< ref "/publication/kaplan-khoei-14" >}})

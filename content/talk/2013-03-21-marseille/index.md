@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'This session aims at presenting new ideas that emerged during the first
   years of BrainScaleS. Indeed, the collaborations that were initiated within the
   consortium led to the creation of novel tools as planned in the proposal but also
@@ -12,15 +12,19 @@ authors:
 date: 2013-03-21
 event: 3rd BrainScaleS Plenary Meeting - Friday, March 21st, 2013
 featured: false
-- brain-scales
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2013-03-21-marseille/
-- open-science
 publication: '*3rd BrainScaleS Plenary Meeting - Friday, March 21st, 2013*'
 title: Why methods and tools are the key to artificial brain-like systems
-tags: ["motion-perception", "neuromorphic-computing"]
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning"]
-projects: ["", "tout-public"]
+tags:
+- motion-perception
+- neuromorphic-computing
+categories:
+- Behavioural Neuroscience
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---
 * see also: {{< cite page="/publication/davison-08" view="1" >}}

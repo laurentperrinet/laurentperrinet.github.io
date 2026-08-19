@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'In low-level sensory systems, it is still unclear how the noisy information
   collected locally by neurons may give rise to a coherent global percept. This is
   well demonstrated for the detection of motion in the aperture problem: as luminance
@@ -21,17 +21,25 @@ authors:
 date: 2012-01-12 17:00:00
 event: Vision@UCL seminar
 featured: false
-- brain-scales
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/
 location: Malet Place Eng Bldg 1.03 (first floor).
-
 publication: '*Vision@UCL seminar - Thursday, 12th January, 5pm*'
-
 title: Motion-based prediction is sufficient to solve the aperture problem
-tags: ["bayesian-modeling", "bayesian-modelling", "dynamics", "eye-movements", "motion-detection", "motion-perception", "predictive-coding", "visual-cortex"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
-projects: ["", "tout-public"]
+tags:
+- bayesian-modeling
+- bayesian-modelling
+- dynamics
+- eye-movements
+- motion-detection
+- motion-perception
+- predictive-coding
+- visual-cortex
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

@@ -15,7 +15,5 @@ tags:
 - visual-illusions
 categories:
 - Computational Neuroscience
-projects:
-- facets
 ---
 

@@ -1,4 +1,4 @@
----
+--- 
 abstract: Visual search is an essential cognitive ability, offering a prototypical
   control problem to be addressed with Active Inference. Under a Naive Bayes assumption,
   the maximization of the information gain objective is consistent with the separation
@@ -25,7 +25,6 @@ date: 2020-09-14 18:00:00
 doi: 10.1007/978-3-030-64919-7_17
 event: IWAI 2020
 featured: false
-- aprovis-3-d
 links:
 - name: Slides
   url: https://laurentperrinet.github.io/2020-09-14_IWAI
@@ -38,9 +37,14 @@ publication: '*IWAI 2020*'
 publication_types:
 - inproceedings
 title: Visual search as active inference
-tags: ["bayesian-modelling", "eye-movements"]
-categories: ["NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-projects: ["", "tout-public"]
+tags:
+- bayesian-modelling
+- eye-movements
+categories:
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+projects:
+- tout-public
 ---
 * see proceedings paper: {{< cite page="/publication/dauce-20-iwai" view="1" >}}
 ![](@laurentperrinet_1305488089989754883_tweetcapture.png)

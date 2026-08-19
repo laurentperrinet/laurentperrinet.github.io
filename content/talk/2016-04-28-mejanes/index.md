@@ -1,4 +1,4 @@
----
+--- 
 abstract: Les illusions visuelles sont des créations d'artistes, de scientifiques
   et plus récemment, grâce aux réseaux sociaux, du grand public qui proposent des
   situations souvent incongrues, dans lesquelles l'eau remonte une cascade, les personnes
@@ -15,7 +15,6 @@ authors:
 - Laurent U Perrinet
 date: 2016-04-28 18:30:00
 event: Cycle de conférences \"Tous connectés\", Bibliothèque de Méjanes
-event_url: ''
 featured: false
 links:
 - name: URL
@@ -25,9 +24,13 @@ publication: '**'
 publication_types:
 - inproceedings
 title: Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
-tags: ["visual-illusions"]
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning"]
-projects: ["tout-public"]
+tags:
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---
 # Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
 ## Cycle de conférences "Tous connectés", Bibliothèque de Méjanes

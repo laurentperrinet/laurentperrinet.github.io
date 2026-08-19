@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Laurent U Perrinet
 date: 2023-01-23 18:00:00
@@ -19,17 +19,19 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2023-01-23-game-theory-and-the-brain
 location: Marseille (France)
-- tout-public
 publication: '*Atelier jeu et cerveau - M2 MASCO*'
 publication_types:
 - inproceedings
 publishDate: '2023-01-24T10:51:27.451314Z'
 slides: 2023-01-23_game-theory-and-the-brain
-subtitle: ''
 title: Game theory and brain strategies
-tags: ["bayesian-modelling"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
-projects: ["", "tout-public"]
+tags:
+- bayesian-modelling
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---
 * workshop organisé par les étudiants du master de sciences cognitives les 23 et 24 janvier 2023.
  

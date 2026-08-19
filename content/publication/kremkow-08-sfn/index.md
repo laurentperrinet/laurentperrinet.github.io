@@ -57,8 +57,6 @@ categories:
 - Computational Neuroscience
 - Education
 - Visual Neuroscience
-projects:
-- facets
 ---
 
 * see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publication/kremkow-10-jcns/index.md" >}})

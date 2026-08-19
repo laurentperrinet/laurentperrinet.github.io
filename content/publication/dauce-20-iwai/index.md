@@ -33,8 +33,6 @@ tags:
 categories:
 - Education
 - NeuroAI & Machine Learning
-projects:
-- aprovis-3-d
 grants:
 - aprovis-3-d
 ---

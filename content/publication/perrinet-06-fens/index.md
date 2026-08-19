@@ -21,7 +21,5 @@ tags:
 categories:
 - Computational Neuroscience
 - Theoretical Neuroscience
-projects:
-- facets
 ---
 

@@ -17,8 +17,6 @@ authors:
 - Laurent U Perrinet
 date: 2019-03-25 14:30:00
 event: HDR Robin Baurès, Toulouse (France)
-grants:
-- anr-horizontal-v1
 links:
 - name: Slides
   url: https://laurentperrinet.github.io/2019-03-25_HDR_RobinBaures
@@ -38,8 +36,6 @@ categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects:
-- tout-public
 ---
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="1" >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="1" >}}
