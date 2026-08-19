@@ -26,7 +26,7 @@ The configuration is primarily managed via:
 - Metadata sync via Python scripts & BibTeX
 ## Key Commands
 - **Development**:
-make test
+`make test`: Builds the site in memory using `hugo server --gc --disableFastRender --renderToMemory` to catch formatting and YAML syntax errors before deployment.
 - **Deployment**: The site is deployed to GitHub Pages. The deployment process can be triggered manually via the `make gitpages` command or automatically through GitHub Actions workflows defined in `.github/workflows/`.
 make gitpages
 (commits and pushes to main)

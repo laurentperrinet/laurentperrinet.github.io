@@ -1,4 +1,4 @@
---- 
+---
 title: Working Memory in Recurrent Spiking Neural Networks Using Heterogeneous Synaptic
   Delays
 authors:
@@ -25,16 +25,20 @@ abstract: 'Working memory, the ability to store and retrieve precise temporal pa
   on edge devices.'
 projects:
 - tout-public
----
+categories:
+  - Computational Neuroscience
+  - Computer Vision
+  - NeuroAI & Machine Learning
+tags:
+  - neuromorphic-computing
+  - spiking-neural-networks
 
 slides: 2026-04-16-cerco
 
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-04-16-cerco/
-tags: ["neuromorphic-computing", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "Computer Vision", "NeuroAI & Machine Learning"]
-projects: [""]
+---
 * Invited seminar at CerCo, Toulouse, France, 2026-04-16
 
 * See the accompanying code: https://github.com/laurentperrinet/MNESIS

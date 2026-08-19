@@ -4,8 +4,6 @@ authors:
 - Laurent U Perrinet
 date: '2026-02-03'
 publishDate: '2026-01-31T14:47:34.189424Z'
-publication_types:
-- paper-conference
 publication: '*AI and Neuroscience Day*'
 slides: 2026-02-03-ai-and-neuroscience-day
 links:
@@ -15,8 +13,6 @@ tags:
 - neuromorphic-computing
 categories:
 - NeuroAI & Machine Learning
-projects:
-- tout-public
 ---
 * check out https://neuro-marseille.org/en/events/workshop-on-artificial-intelligence-in-neuroscience-projects-tools-and-perspectives/
 

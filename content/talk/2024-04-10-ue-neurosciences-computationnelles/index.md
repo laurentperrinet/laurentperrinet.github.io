@@ -3,7 +3,7 @@ authors:
 - Laurent U Perrinet
 date: 2024-04-10 09:00:00
 draft: false
-event: 'Master 1 Neurosciences et Sciences Cognitives'
+event: Master 1 Neurosciences et Sciences Cognitives
 featured: false
 image:
   caption: ''
@@ -22,7 +22,10 @@ publishDate: '2024-04-10T07:47:11.286659Z'
 slides: 2024-04-10-ue-neurosciences-computationnelles
 subtitle: ''
 title: Artificial neural networks applied to the understanding of biological vision
-tags: [""]
-  categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
-  projects: ["courses", "tout-public"]
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- courses
+- tout-public
 ---

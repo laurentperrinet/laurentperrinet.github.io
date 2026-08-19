@@ -35,7 +35,16 @@ slides: 2024-05-13-master-m-4-nc
 subtitle: ''
 title: Artificial neural networks and machine learning applied to the understanding
   of biological vision
-tags: ["bayesian-modelling", "motion-perception", "predictive-coding"]
-  categories: ["Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-  projects: ["courses", "tout-public"]
+tags:
+- bayesian-modelling
+- motion-perception
+- predictive-coding
+categories:
+- Biological Neuroscience
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+projects:
+- courses
+- tout-public
 ---

@@ -36,9 +36,16 @@ publishDate: '2024-04-15T07:47:11.286659Z'
 slides: 2024-04-17-phd-program-sparse-representations
 subtitle: ''
 title: Sparse representations
-tags: ["deep-learning", "sparse-coding"]
-  categories: ["Computational Neuroscience", "Computer Vision", "NeuroAI & Machine Learning"]
-  projects: ["courses", "tout-public"]
+tags:
+- deep-learning
+- sparse-coding
+categories:
+- Computational Neuroscience
+- Computer Vision
+- NeuroAI & Machine Learning
+projects:
+- courses
+- tout-public
 ---
 Timeline of the whole course:
 

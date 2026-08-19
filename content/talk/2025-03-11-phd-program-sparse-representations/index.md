@@ -36,7 +36,12 @@ publishDate: '2025-03-11'
 slides: 2025-03-11-phd-program-sparse-representations
 subtitle: ''
 title: 'NeuroSchool PhD Program in Neuroscience: Sparse representations'
-tags: ["sparse-coding"]
-  categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
-  projects: ["courses", "tout-public"]
+tags:
+- sparse-coding
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- courses
+- tout-public
 ---

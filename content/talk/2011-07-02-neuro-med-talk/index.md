@@ -25,8 +25,6 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- tout-public
 ---
 La finalité de cette manifestation est de permettre à nos chercheurs de se réunir en groupes de travail et en ateliers afin de découvrir la thématique des neurosciences et son interdisciplinarité. La manifestation se tient dans le cadre des activités du laboratoire LAMS, de ABC MATHINFO, du GDRI NeurO et du réseau méditerranéen [NeuroMed](http://www.neuromedproject.eu/).
 * related publication @ [SPIE 2008]({{< ref "/publication/khoei-10-tauc/index.md" >}})
