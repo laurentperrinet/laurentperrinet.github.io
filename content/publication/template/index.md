@@ -38,7 +38,7 @@ url_source: '#'
 url_video: '#'
 publishDate: '2020-12-12T13:31:46.868407Z'
 tags: ["motion-perception", "sparse-coding", "visual-illusions"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
 projects: ["", "tout-public"]
 projects:
 - internal-project

@@ -25,6 +25,8 @@ categories:
 - NeuroAI & Machine Learning
 projects:
 - aprovis3D
+grants:
+- aprovis-3-d
 ---
 
 ![](@laurentperrinet_1546471536571342849_tweetcapture.png)

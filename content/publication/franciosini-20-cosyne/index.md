@@ -80,6 +80,10 @@ projects:
 - doc-2-amu
 - phd-icn
 - mesocentre
+grants:
+- doc-2-amu
+- mesocentre
+- phd-icn
 ---
 
 {{< figure src="poster.jpg" width="100%" >}}

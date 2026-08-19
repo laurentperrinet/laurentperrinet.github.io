@@ -6,6 +6,7 @@ authors:
 date: 2010-01-01
 featured: false
 grants:
+- facets
 - facets-itn
 links:
 - name: URL
@@ -21,7 +22,6 @@ categories:
 - Computational Neuroscience
 projects:
 - facets
-- facets-itn
 ---
 
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}

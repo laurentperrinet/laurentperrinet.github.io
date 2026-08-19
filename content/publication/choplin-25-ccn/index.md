@@ -35,6 +35,8 @@ categories:
 - Behavioural Neuroscience
 - Education
 - NeuroAI & Machine Learning
+grants:
+- anr-anr
 ---
 
 This year at #CCN2025 we will be showcasing our  research on the classification of Mental Workload 🥵 Spatial Effects using Riemannian Manifold. 

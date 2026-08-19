@@ -40,6 +40,8 @@ categories:
 - Visual Neuroscience
 projects:
 - aprovis3D
+grants:
+- aprovis-3-d
 ---
 
 ![](@laurentperrinet_1542724828658016256_tweetcapture.png)

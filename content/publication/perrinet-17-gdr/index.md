@@ -29,8 +29,9 @@ links:
 - name: Code
   url: https://github.com/NaturalPatterns/2017-10-12_GDR
 grants:
-- pace-itn
+- anr-rem
 - art-science
+- pace-itn
 - tout-public
 publication: '*GDR Vision, Lille, 2017*'
 publication_types:

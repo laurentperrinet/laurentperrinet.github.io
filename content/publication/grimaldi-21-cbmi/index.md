@@ -49,6 +49,8 @@ categories:
 - NeuroAI & Machine Learning
 projects:
 - aprovis3D
+grants:
+- aprovis-3-d
 ---
 
 * was presented at the [Bio-inspired circuits, systems and algorithms for multimedia](https://cbmi2021.univ-lille.fr/call-for-contributions#callforpapersspecialbioinspired) special session of the [Content-Based Multimedia Indexing (CBMI) 2021](https://cbmi2021.univ-lille.fr/) conference that you can [watch on Youtube](https://www.youtube.com/watch?v=KxX4pZKexCo&t=3335s).

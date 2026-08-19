@@ -29,6 +29,8 @@ date: 2019-01-01
 doi: 10.3390/vision3030047
 featured: false
 grants:
+- anr-horizontal-v1
+- mesocentre
 - spikeai
 links:
 - name: Code

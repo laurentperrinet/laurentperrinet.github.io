@@ -38,5 +38,7 @@ categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+grants:
+- polychronies
 ---
 

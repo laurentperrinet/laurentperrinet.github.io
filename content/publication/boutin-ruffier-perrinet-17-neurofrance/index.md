@@ -46,6 +46,8 @@ categories:
 - Theoretical Neuroscience
 projects:
 - doc-2-amu
+grants:
+- doc-2-amu
 ---
 
 * This work is a followup of {{< cite page="/publication/perrinet-10-shl" view="4" >}}

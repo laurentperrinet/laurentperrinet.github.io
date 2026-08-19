@@ -19,6 +19,8 @@ tags:
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
+grants:
+- polychronies
 ---
 * The code and results at the time of the submission of this camera-ready paper is accessible [in this commit](https://github.com/laurentperrinet/MNESIS/tree/7d53c2fd47f253f4c78772e99f5b54c38d57faf9)
 

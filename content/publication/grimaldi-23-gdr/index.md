@@ -43,6 +43,8 @@ categories:
 - NeuroAI & Machine Learning
 projects:
 - aprovis3D
+grants:
+- aprovis-3-d
 ---
 
 * see a follow-up as journal paper: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}

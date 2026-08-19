@@ -39,6 +39,8 @@ categories:
 - Behavioural Neuroscience
 - Education
 - NeuroAI & Machine Learning
+grants:
+- pace-itn
 ---
 
 * see a write-up in {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}

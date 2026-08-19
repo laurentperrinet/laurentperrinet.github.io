@@ -24,6 +24,10 @@ projects:
 - doc-2-amu
 - phd-icn
 - mesocentre
+grants:
+- doc-2-amu
+- mesocentre
+- phd-icn
 ---
 
 ![](@laurentperrinet_1186196186170044421_tweetcapture.png)

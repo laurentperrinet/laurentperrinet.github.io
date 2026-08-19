@@ -12,7 +12,7 @@ slides:
 title: 2022-11-21_flash-lag-effect
 
 tags: [""]
-categories: ["Education"]
+categories: []
 projects: ["", "tout-public"]
 ---
 <table width="100%"> 

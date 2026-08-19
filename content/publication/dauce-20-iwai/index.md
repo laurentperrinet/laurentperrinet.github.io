@@ -35,6 +35,8 @@ categories:
 - NeuroAI & Machine Learning
 projects:
 - aprovis-3-d
+grants:
+- aprovis-3-d
 ---
 
 * a follow-up of: {{< cite page="/publication/dauce-20" view="4" >}}

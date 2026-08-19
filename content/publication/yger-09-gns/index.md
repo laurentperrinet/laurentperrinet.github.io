@@ -30,6 +30,8 @@ authors:
 date: 2009-01-01
 featured: false
 grants:
+- brain-scales
+- facets
 - facets-itn
 - open-science
 publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'

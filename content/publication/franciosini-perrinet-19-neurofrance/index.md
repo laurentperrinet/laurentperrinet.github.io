@@ -55,6 +55,10 @@ projects:
 - doc-2-amu
 - phd-icn
 - mesocentre
+grants:
+- doc-2-amu
+- mesocentre
+- phd-icn
 ---
 
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}

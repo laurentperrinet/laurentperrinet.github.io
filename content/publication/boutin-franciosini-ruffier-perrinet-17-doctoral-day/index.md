@@ -24,6 +24,9 @@ categories:
 projects:
 - doc-2-amu
 - phd-icn
+grants:
+- doc-2-amu
+- phd-icn
 ---
 
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}

@@ -54,6 +54,10 @@ projects:
 - doc-2-amu
 - phd-icn
 - mesocentre
+grants:
+- doc-2-amu
+- mesocentre
+- phd-icn
 ---
 
  * presented during this [talk]({{< ref "/talk/2019-03-25-hdr-robin-baures/index.md" >}})

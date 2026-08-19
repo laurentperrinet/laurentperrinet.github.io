@@ -37,5 +37,7 @@ categories:
 - NeuroAI & Machine Learning
 projects:
 - doc-2-amu
+grants:
+- doc-2-amu
 ---
 
