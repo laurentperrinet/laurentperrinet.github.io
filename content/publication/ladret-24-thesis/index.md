@@ -1,4 +1,4 @@
----
+--- 
 title: Modélisation multi-échelle de la sélectivité à l'orientation dans les stimulations
   visuelles naturelles
 authors:
@@ -38,7 +38,8 @@ abstract: Cette thèse vise à comprendre les fondements et les fonctions des ca
 links:
 - name: URL
   url: https://theses.fr/s377438
-tags: [""]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
-projects: ["", "tout-public"]
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
 ---

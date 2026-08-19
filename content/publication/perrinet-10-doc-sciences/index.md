@@ -11,13 +11,10 @@ publication: '*DocSciences*'
 publication_types:
 - article-journal
 title: Qui créera le premier ordinateur intelligent?
-tags: []
 categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- tout-public
 ---
 
 # Qui créera le premier ordinateur intelligent?
