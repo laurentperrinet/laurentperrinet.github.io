@@ -35,12 +35,8 @@ tags:
 - spiking-motifs
 - spiking-neural-networks
 categories:
-- Education
 - NeuroAI & Machine Learning
-projects:
-- aprovis3D
-- anr-anr
-- polychronies
+
 ---
 
 {{< video src="2023-09-14_HDSNN_video-abstract.mp4" controls="yes" >}}

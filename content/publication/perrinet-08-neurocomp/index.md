@@ -19,7 +19,5 @@ tags:
 categories:
 - Computational Neuroscience
 - Education
-projects:
-- facets-itn
 ---
 

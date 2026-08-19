@@ -52,12 +52,7 @@ tags:
 - temporal-coding
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
-projects:
-- aprovis3D
-- anr-anr
-- polychronies
 ---
 
 {{< video src="2022-12-23_polychrony-review_video-abstract.mp4" controls="yes" >}}

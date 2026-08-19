@@ -24,11 +24,7 @@ tags:
 - object-categorization
 - psychophysics
 categories:
-- Education
 - NeuroAI & Machine Learning
-projects:
-- aprovis3D
-- anr-anr
 ---
 
 * see a follow-up in: {{< cite page="/publication/jeremie-23-ultra-fast-cat" view="4" >}}

@@ -39,7 +39,6 @@ tags:
 - spiking-neural-networks
 categories:
 - Behavioural Neuroscience
-- Education
 - NeuroAI & Machine Learning
 grants:
 - aprovis-3-d

@@ -22,26 +22,15 @@ publication_short: In *ICMEW*
 publication_types:
 - article-journal
 title: template
-url_code: '#'
-url_custom:
-- !!python/object/new:toml.decoder.DynamicInlineTableDict
-  dictitems:
-    name: Custom Link
-    url: http://example.org
-url_dataset: '#'
-url_pdf: https://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_poster: '#'
-url_preprint: https://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_project: ''
-url_slides: '#'
-url_source: '#'
-url_video: '#'
 publishDate: '2020-12-12T13:31:46.868407Z'
-tags: ["motion-perception", "sparse-coding", "visual-illusions"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
-projects: ["", "tout-public"]
+tags:
+  - motion-perception
+  - sparse-coding
+  - visual-illusions
+categories:
+  - Computational Neuroscience
+  - NeuroAI & Machine Learning
 projects:
-- internal-project
+  - tout-public
 ---
-
 More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

@@ -45,8 +45,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects:
-- facets-itn
 ---
 
 ![header](perrinet-07-neurocomp.png)

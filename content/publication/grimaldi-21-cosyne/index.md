@@ -45,7 +45,6 @@ tags:
 - neuromorphic-computing
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 grants:
 - aprovis-3-d

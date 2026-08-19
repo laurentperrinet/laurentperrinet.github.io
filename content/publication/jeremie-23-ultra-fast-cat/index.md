@@ -56,8 +56,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects:
-- anr-anr
 ---
 
 {{< video src="Jeremie-etal-Vision_video-abstract.mp4" controls="yes" >}}

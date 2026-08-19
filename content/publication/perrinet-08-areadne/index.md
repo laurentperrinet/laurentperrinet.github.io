@@ -55,7 +55,5 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects:
-- facets-itn
 ---
 

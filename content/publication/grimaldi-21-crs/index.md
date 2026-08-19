@@ -49,8 +49,6 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- anr-anr
 ---
 
 {{< youtube aIt5OAleMR8 >}}
