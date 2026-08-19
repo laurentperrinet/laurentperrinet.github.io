@@ -5,7 +5,6 @@ date: 2011-10-05 13:00:00
 event: Using the ESS + Neuromorphic hardware Workshop
 event_url: https://brainscales.kip.uni-heidelberg.de/jss/AttendMeeting?m=showAgenda&meetingID=15
 featured: false
-- brain-scales
 links:
 - name: Conference
   url: https://brainscales.kip.uni-heidelberg.de/jss/AttendMeeting?m=showAgenda&meetingID=15

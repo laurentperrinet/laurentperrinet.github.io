@@ -24,7 +24,6 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2009-11-24-intelligence-mecanique/
 location: Marseille, France
-- tout-public
 publication: '*Cycle de conférences organisé par l’Association Science Technologie
   Société - PACA ayant pour thème cette année : "Biologie et civilisation : les chemins
   de l’intelligence". *'

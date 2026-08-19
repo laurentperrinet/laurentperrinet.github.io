@@ -39,7 +39,6 @@ date: 2011-09-28 13:00:00
 event: Proceedings of SfN, 2011
 event_url: http://glotin.univ-tln.fr/ERMITES11/index.xhtml
 featured: false
-- brain-scales
 links:
 - name: Conference
   url: http://glotin.univ-tln.fr/ERMITES11/index.xhtml

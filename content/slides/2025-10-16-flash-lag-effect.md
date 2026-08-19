@@ -12,11 +12,8 @@ tags:
 - motion-perception
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects:
-- tout-public
 ---
 <section>
 
