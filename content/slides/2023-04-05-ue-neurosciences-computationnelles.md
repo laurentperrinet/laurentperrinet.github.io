@@ -1,24 +1,30 @@
----
+--- 
 slides:
- # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: white
-  transition: 'fade'
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
+  transition: fade
 date: '2023-04-05'
 all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2023-03-29T12:47:11+02:00"
-
+publishDate: '2023-03-29T12:47:11+02:00'
 title: 2023-04-05-ue-neurosciences-computationnelles
-
-summary: Artificial neural networks and machine learning applied to the understanding of biological vision
-
-tags: ["deep-learning", "motion-perception", "neuromorphic-computing", "predictive-coding", "primary-visual-cortex", "sparse-coding", "spiking-neural-networks", "visual-illusions"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
-projects: [""]
+summary: Artificial neural networks and machine learning applied to the understanding
+  of biological vision
+tags:
+- deep-learning
+- motion-perception
+- neuromorphic-computing
+- predictive-coding
+- primary-visual-cortex
+- sparse-coding
+- spiking-neural-networks
+- visual-illusions
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+- Visual Neuroscience
+projects:
+- tout-public
 ---
 <section>
 

@@ -13,7 +13,7 @@ authors:
 - Laurent U Perrinet
 date: 2010-04-14 19:00:00
 event: intervention autour du vernissage de \"Diffraction monochromatique, spectre
-  audiographique\" d'Etienne Rey.
+  audiographique\" d'Étienne Rey.
 event_url: http://ondesparalleles.org/projets/vortex-polychromatique-diffraction/
 featured: false
 links:
@@ -22,20 +22,18 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2010-04-14-ondes-paralleles/
 location: Aix-enProvence (France)
-- art-science
-- tout-public
 publication: '*intervention autour du vernissage de "Diffraction monochromatique,
-  spectre audiographique" d''Etienne Rey. *'
+  spectre audiographique" d''Étienne Rey. *'
 publication_types:
 - inproceedings
 title: Diffraction monochromatique, spectre audiographique
 tags: ["homeostasis", "sparse-coding", "spiking-neural-networks", "visual-illusions"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: ["art-science"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
+projects: ["art-science", "tout-public"]
 ---
 # Diffraction monochromatique, spectre audiographique
 ![Diffraction](https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg)
- - Diffraction est une sculpture en suspension composée d’une multitude de plaques de matière transparente et réfléchissante. L’installation met en jeu notre perception de l’espace par des phénomènes de résonance et de réflection de la lumière. Chaque lieu d’exposition donne à expérimenter et à élaborer, in situ, de nouvelles formes. A Seconde Nature, [Etienne Rey]({{< relref "/authors/etienne-rey" >}}) abordera la relation entre le volume et le son en prenant comme base de construction un spectre audio, en collaboration avec l’artiste sonore Mathias Delplanque.
+ - Diffraction est une sculpture en suspension composée d’une multitude de plaques de matière transparente et réfléchissante. L’installation met en jeu notre perception de l’espace par des phénomènes de résonance et de réflection de la lumière. Chaque lieu d’exposition donne à expérimenter et à élaborer, in situ, de nouvelles formes. A Seconde Nature, [Étienne Rey]({{< relref "/authors/etienne-rey" >}}) abordera la relation entre le volume et le son en prenant comme base de construction un spectre audio, en collaboration avec l’artiste sonore Mathias Delplanque.
  - Live de Mathias Delplanque et rencontre autour de Diffraction, le Mercredi 14 avril 2010: A l’occasion de cette rencontre publique, quatre chercheurs spécialistes de l’architecture, de la perception, du son, et de la lumière exposeront depuis leurs domaines de recherches les processus engagés autour de Diffraction.`
   - Farid Ameziane, Ecole Nationale Supérieure d’Architecture de Marseille Luminy (EAML), Directeur de l’InsARTis, Marseille
   - Guillaume Bonello, Chargé de mission, POPsud, co/OAMP, Marseille
@@ -72,7 +70,7 @@ les neurones pour communiquer (code neuronal ? existe-t-il un même
 **vocabulaire** au sens homomorphique ?). En pratique, on apprend par
 exemple la sélectivité à l'orientation. Les phénomènes d’orientation
 sont radicaux à la fin de l’expérience, « gelant » son évolution. Un
-lien évident avec l’installation *Phytosphère* d’Etienne Rey.
+lien évident avec l’installation *Phytosphère* d’Étienne Rey.
 L’information dans le cerveau se propage **par diffusion, par
 diffraction** (contamination des informations entre neurones pour
 occuper l’espace), en **lien avec le travail sur la lumière d’Etienne
@@ -81,7 +79,7 @@ vers l’arrière du crâne et 85 millisecondes pour produire un réflexe
 oculaire. Les neurosciences cherchent à savoir comment comprendre la
 **globalité par l'émergence**.
 Il y a donc une **superposition d’états**, comme dans la *diffraction*
-d’Etienne Rey.
+d’Étienne Rey.
 En perception, le mécanisme
 neuronal cherche à **sortir de l’ambiguïté** première quand il connaît
 une image : il **superpose** des particules élémentaires d'information,
@@ -111,7 +109,7 @@ visuellement par l’autiste en plusieurs morceaux distincts. Il ne
 généralise pas l’information.
 ![diffractionFriche_0134.jpg](featured.jpg)
 Comment être sûr d’une perception globale
-en désignant les modules de l’installation d’Etienne Rey, ou signifiants
+en désignant les modules de l’installation d’Étienne Rey, ou signifiants
 des atomes, dans ce passage du local au global ? Les modules ne se
 voient pas forcément dans l’installation, mais d’autres aspects sont
 perçus. La relation à l’atome, même si elle n’est pas signifiante pour
@@ -123,7 +121,7 @@ globalité de l’œuvre: on a alors passage de l’atome à la forme globale.
 Cette résolution rejoint Giotto et les débuts de la perspective en art
 pictural. Il a révélé la question du point de vue, par positionnement et
 déplacement. En effet, les personnes penchent la tête dans
-l’installation s*pirale* en container, d’Etienne Rey, pour le festival
+l’installation s*pirale* en container, d’Étienne Rey, pour le festival
 Ozosphère à Strasbourg. Ce phénomène est à rattaché aux théories sur la
 perception.
 **Biographie** Laurent Perrinet, chercheur à l’Institut de Neurosciences

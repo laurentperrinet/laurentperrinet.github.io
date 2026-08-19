@@ -1,28 +1,37 @@
----
+--- 
 slides:
- # Choose a theme from https://github.com/hakimel/reveal.js#theming
- theme: white
- transition: 'fade'
- width: 1280
- height: 780
- margin: 0.01
-
-# Talk start and end times. 
-# End time can optionally be hidden by prefixing the line with `#`.
+  theme: white
+  transition: fade
+  width: 1280
+  height: 780
+  margin: 0.01
 date: '2025-02-11'
 all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2025-02-04T12:47:11+02:00"
-
+publishDate: '2025-02-04T12:47:11+02:00'
 title: 2025-02-11-neuromath
-
-summary: "When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Processing"
-
-# printing = https://revealjs.com/pdf-export/
-tags: ["bayesian-modelling", "foveated-vision", "log-polar-mapping", "motion-perception", "neuromorphic-computing", "predictive-coding", "primary-visual-cortex", "retinotopy", "sparse-coding", "spiking-neural-networks", "visual-illusions"]
-categories: ["Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
-projects: ["art-science"]
+summary: 'When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Processing'
+tags:
+- bayesian-modelling
+- foveated-vision
+- log-polar-mapping
+- motion-perception
+- neuromorphic-computing
+- predictive-coding
+- primary-visual-cortex
+- retinotopy
+- sparse-coding
+- spiking-neural-networks
+- visual-illusions
+categories:
+- Computational Neuroscience
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+- Visual Neuroscience
+projects:
+- art-science
+- tout-public
 ---
 <section>
 <h2><u>
@@ -79,7 +88,7 @@ Today, I will address our current knowledge about **horizontal connectivity rule
 
 to rephrase the expression ["The Unreasonable Effectiveness of Mathematics"](https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences) by Wigner, the "Unreasonable efficiency of vision" is playfully illustrated in this painting from Joan Miró, which allows us to depict this Catalan landscape with the a few strokes where our imagination will fill the gaps and signify the landscape, allowing us to imagine the hunter, the sardine or the plane. 
 
-This is so striking that lines or contours may appear even when they do not exist, such as in this display created with the visual artist Etienne Rey (beware! it will likely tickle your eyes).
+This is so striking that lines or contours may appear even when they do not exist, such as in this display created with the visual artist Étienne Rey (beware! it will likely tickle your eyes).
 
 {{< /speaker_note >}}
 
@@ -90,7 +99,7 @@ This is so striking that lines or contours may appear even when they do not exis
 <table>
 <tr >
 	<th>
-		 <a href ="https://laurentperrinet.github.io/post/2018-04-10_trames/">Trames (Etienne Rey)</a>
+		 <a href ="https://laurentperrinet.github.io/post/2018-04-10_trames/">Trames (Étienne Rey)</a>
 	</th>	
 </tr>
 <tr style="height:600px;">

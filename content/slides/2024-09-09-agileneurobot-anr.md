@@ -1,25 +1,25 @@
----
+--- 
 slides:
- # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: white
-  transition: 'fade'
-
-# Talk start and end times. 2023-05-13-master-m-4-nc
-#   End time can optionally be hidden by prefixing the line with `#`.
+  transition: fade
 date: '2024-09-09'
 all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2024-09-06T12:47:11+02:00"
-
+publishDate: '2024-09-06T12:47:11+02:00'
 title: 2024-09-09-agileneurobot-anr
-
-summary: "Robots aériens agiles bio-mimetiques pour le vol en conditions réelles: Enjeux pour l'IA embarqué"
-
-# printing = https://revealjs.com/pdf-export/
-tags: ["eye-movements", "neuromorphic-computing", "spiking-neural-networks", "visual-illusions"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+summary: 'Robots aériens agiles bio-mimetiques pour le vol en conditions réelles:
+  Enjeux pour l''IA embarqué'
+tags:
+- eye-movements
+- neuromorphic-computing
+- spiking-neural-networks
+- visual-illusions
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+projects:
+- tout-public
 ---
 <section>
 

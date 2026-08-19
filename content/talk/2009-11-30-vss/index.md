@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'Short presentation of a large moving pattern elicits an ocular following
   response that exhibits many of the properties attributed to low-level motion processing
   such as spatial and temporal integration, contrast gain control and divisive interaction
@@ -34,13 +34,19 @@ grants:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2009-11-30-vss/
-
 publication: '*Macroscopic aspects of neuronal activity: ''''Macroscopic models, LFP
   models and VSD models'''' a FACETS workshop in Marseille, Nov. 30th /Dec. 1st*'
 title: Reading out the dynamics of lateral interactions in the primary visual cortex
   from VSD data
-tags: ["motion-perception", "primary-visual-cortex"]
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
-projects: [""]
+tags:
+- motion-perception
+- primary-visual-cortex
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+- Visual Neuroscience
+projects:
+- tout-public
 ---
 * see this more recent poster @ [VSS]({{< ref "/publication/perrinet-09-vss/index.md" >}})

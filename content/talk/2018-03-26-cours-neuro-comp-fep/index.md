@@ -20,6 +20,6 @@ location: INT, Marseille
 publication: '*PhD program in  Neuroscience, Marseille - March 27th, 2018*'
 title: Probabilities, Bayes and the Free-energy principle
 tags: [""]
-categories: ["Computational Neuroscience", "Education", "Outreach & Public Engagement"]
-projects: [""]
+categories: ["Computational Neuroscience", "Education"]
+projects: ["", "tout-public"]
 ---

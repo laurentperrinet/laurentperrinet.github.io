@@ -1,4 +1,4 @@
----
+--- 
 abstract: In computer vision, the visual search task consists in extracting a scarce
   and specific visual information (the target) from a large and crowded visual display.
   This task is usually implemented by scanning the different possible target identities
@@ -38,14 +38,28 @@ links:
   url: https://github.com/SpikeAI/2019-07-15_CNS/
 - name: URL
   url: https://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-019-0538-0#Sec73
-
 publication: '*CNS*2019 Barcelona, Spain*'
 publication_types:
 - inproceedings
 title: 'Learning where to look: a foveated visuomotor control model'
-tags: ["bayesian-modelling", "eye-movements", "foveated-vision", "log-polar-mapping", "primary-visual-cortex", "retinotopy"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- eye-movements
+- foveated-vision
+- log-polar-mapping
+- primary-visual-cortex
+- retinotopy
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+- Visual Neuroscience
+projects:
+- tout-public
 ---
  - download a [preliminary PDF](https://laurentperrinet.github.io/talk/2019-07-15-cns/2019-07-15-cns.pdf)
  ![](@laurentperrinet_1150713758643380226_tweetcapture.png)

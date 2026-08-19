@@ -1,4 +1,4 @@
----
+--- 
 abstract: Computational Neuroscience is a synthetic, inter-disciplinary approach aiming
   at understanding cognition by analyzing the mechanisms underlying neural computations.
   We present in this seminar our attempt in modeling low-level vision by bridging
@@ -33,11 +33,18 @@ grants:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2008-04-01-incm/
-
 publication: '*Séminaires de l''INCM, April 11th, 2008*'
 title: 'From neural activity to behavior: computational neuroscience as a synthetic
   approach for understanding the neural code.'
-tags: ["bayesian-modelling", "primary-visual-cortex", "spiking-neural-networks"]
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- primary-visual-cortex
+- spiking-neural-networks
+categories:
+- Behavioural Neuroscience
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Visual Neuroscience
+projects:
+- tout-public
 ---

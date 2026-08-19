@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'We stand at a point in history where our phones have become smart but lack
   a feature which prevails in most forms of living intelligence: vision. The ability
   to see is indeed an essential facet of intelligence which is developed in an autonomous
@@ -22,11 +22,17 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2015-11-05-chile/
 location: Universidad Tecnica Federico Santa Maria, Valparaiso (Chile)
-
 publication: '*Universidad Técnica Federico Santa María, Valparaíso, Chile, November
   5th, 2015*'
 title: Motion-based prediction with neuromorphic hardware
-tags: ["bayesian-modelling", "motion-perception", "neuromorphic-computing", "primary-visual-cortex"]
-categories: ["Behavioural Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- bayesian-modelling
+- motion-perception
+- neuromorphic-computing
+- primary-visual-cortex
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---

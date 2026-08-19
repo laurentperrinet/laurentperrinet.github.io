@@ -11,13 +11,12 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2016-11-20-polly-maggoo/
 location: Marseille, France
-- tout-public
 publication: '*Cinésciences, collège Clair Soleil (Marseille)*'
 publication_types:
 - inproceedings
 title: Participation au jury et entretien avec Clara Delmon
 tags: ["visual-illusions"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
 projects: ["art-science", "tout-public"]
 ---
 # RENCONTRES INTERNATIONALES SCIENCES & CINÉMAS
@@ -78,7 +77,7 @@ permettent aussi de mieux comprendre l’intérêt public pour le cerveau
 dans son fonctionnement normal mais aussi dans ses dysfonctions. C’est
 aussi une source d’inspiration pour savoir dans quelle direction il est
 important de plus creuser nos recherches.
-**2 / Vous travaillez notamment avec Etienne Rey sur des installations
+**2 / Vous travaillez notamment avec Étienne Rey sur des installations
 interactives, où la place et le ressenti du spectateur font l’œuvre. La
 vue est alors votre outil de travail essentiel, pourquoi ce sens est-il
 plus sensiblement exposé à l’expérience de l’illusion ? Qu’apporte
@@ -143,7 +142,7 @@ à nous représenter ce monde.
 Nos « lunettes » sont donc propres à notre expérience mais elles ont
 sûrement beaucoup en commun entre individus.
 **7 / Peut-on enlever ces lunettes? Des expérimentations optiques comme
-celles d’Etienne Rey ou celles de designers graphiques conduisants une
+celles d’Étienne Rey ou celles de designers graphiques conduisants une
 réflexion sur notre vision peuvent-elles amener une nouvelle
 expérience visuelle remettant en question notre activité
 perceptive?**

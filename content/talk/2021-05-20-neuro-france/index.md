@@ -1,4 +1,4 @@
----
+--- 
 abstract: The primary visual cortex (V1) processes complex mixtures of orientations
   to build neural representations of our visual environment. It remains unclear how
   V1 adapts to the highly volatile distributions of orientations found in natural
@@ -22,22 +22,24 @@ draft: false
 event: NeuroFrance 2021
 featured: false
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2021-07-12 16:15:38+02:00
 links:
 - name: URL
   url: https://virtualnf21.neurosciences.asso.fr/meetings/virtual/m3LQJKS4fbaWkg7rE
-
 publication: '*NeuroFrance 2021*'
 publication_types:
 - inproceedings
-subtitle: ''
 title: Dynamical processing of orientation precision in the primary visual cortex
-tags: ["primary-visual-cortex"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
-projects: [""]
+tags:
+- primary-visual-cortex
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Visual Neuroscience
+projects:
+- tout-public
 ---
  * As presented during the [NeuroFrance 2021](https://www.neurosciences.asso.fr/SN21/) meeting
  ![](@laurentperrinet_1395351843035828224_tweetcapture.png)

@@ -32,8 +32,8 @@ publication_types:
 - inproceedings
 title: 'From the retina to action: Understanding visual processing'
 tags: ["bayesian-modelling", "motion-perception", "predictive-coding", "primary-visual-cortex"]
-categories: ["Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+categories: ["Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+projects: ["", "tout-public"]
 ---
 # 2020-04_UE-neurosciences-computationnelles, matériel pour le cours de modélisation
 * Où: Marseille (France)

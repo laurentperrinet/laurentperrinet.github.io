@@ -1,4 +1,4 @@
----
+--- 
 abstract: Sensory informations such as visual images are inherently variable. We use
   probabilistic models to describe how the low-level visual system could describe
   superposed and ambiguous information. This allows to describe the interactions of
@@ -19,8 +19,12 @@ publication_types:
 - inproceedings
 title: 'Probabilistic models of the low-level visual system: the role of prediction
   in detecting motion'
-tags: ["bayesian-modelling", "motion-perception"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-projects: ["", "tout-public"]
+tags:
+- bayesian-modelling
+- motion-perception
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
 ---
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

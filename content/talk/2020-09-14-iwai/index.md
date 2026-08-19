@@ -39,8 +39,8 @@ publication_types:
 - inproceedings
 title: Visual search as active inference
 tags: ["bayesian-modelling", "eye-movements"]
-categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+categories: ["Education", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+projects: ["", "tout-public"]
 ---
 * see proceedings paper: {{< cite page="/publication/dauce-20-iwai" view="1" >}}
 ![](@laurentperrinet_1305488089989754883_tweetcapture.png)

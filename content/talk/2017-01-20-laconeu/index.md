@@ -21,6 +21,6 @@ publication: '*LACONEU2017:  4th Latin-American Summer School in Computational N
 title: 'Tutorial: Active inference for eye movements: Bayesian methods, neural inference,
   dynamics'
 tags: ["bayesian-modelling", "eye-movements"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
+projects: ["", "tout-public"]
 ---

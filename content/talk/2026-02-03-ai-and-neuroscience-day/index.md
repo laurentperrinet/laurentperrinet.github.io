@@ -1,4 +1,4 @@
----
+--- 
 title: Al for visual processing and energy-efficient algorithms
 authors:
 - Laurent U Perrinet
@@ -11,9 +11,12 @@ slides: 2026-02-03-ai-and-neuroscience-day
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-02-03-ai-and-neuroscience-day
-tags: ["neuromorphic-computing"]
-categories: ["NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- neuromorphic-computing
+categories:
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---
 * check out https://neuro-marseille.org/en/events/workshop-on-artificial-intelligence-in-neuroscience-projects-tools-and-perspectives/
 

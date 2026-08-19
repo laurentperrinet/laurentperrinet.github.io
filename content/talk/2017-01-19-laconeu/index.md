@@ -20,6 +20,6 @@ location: Valparaiso (Chile)
 publication: '*LACONEU2017:  4th Latin-American Summer School in Computational Neuroscience*'
 title: 'Tutorial: Sparse optimization in neural computations'
 tags: ["sparse-coding"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
+projects: ["", "tout-public"]
 ---

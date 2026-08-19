@@ -1,12 +1,10 @@
----
+--- 
 authors:
 - Laurent U Perrinet
 date: 2016-10-13 10:00:00
 event: Lyon Active inference Workshop (LAW)
 event_url: https://law2016.sciencesconf.org/
 featured: false
-grants:
-- anr-rem
 grants:
 - pace-itn
 links:
@@ -17,14 +15,17 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2016-10-13-law/
 location: Lyon, France
-
 publication: '*Lyon Active Inference Workshop (LAW) https://law2016.sciencesconf.org/
   - October 13th, 2016*'
 title: Eye movements as a model for active inference
-url_code: ''
-tags: ["bayesian-modelling", "eye-movements"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- bayesian-modelling
+- eye-movements
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="1" >}}
 * next talk @ [INVIBE FEST, Paris]({{< ref "/talk/2018-02-01-bcp-invibe-fest/index.md" >}})

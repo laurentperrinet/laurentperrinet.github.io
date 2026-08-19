@@ -1,4 +1,4 @@
----
+--- 
 abstract: This seminar is an exercise to introduce the AMU masters into the format
   of international conferences. As such, we will try to introduce new concepts and
   results which will not be found in textbooks.
@@ -18,9 +18,13 @@ location: Aix-Marseille Université, Campus Saint-Charles, Salle des voûtes
 publication: '*Colloque : "CODAGES ET REPRESENTATIONS", MASTER DE NEUROSCIENCES 2ème
   année*'
 title: What dynamic neural codes for efficient visual processing
-tags: [""]
-categories: ["Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+categories:
+- Computational Neuroscience
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---
 ## References
  - unsupervised learning : [Perrinet (2010)](https://laurentperrinet.github.io/publication/perrinet-10-shl/)

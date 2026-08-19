@@ -1,4 +1,4 @@
----
+--- 
 title: A New Look for Convolutional Deep Networks
 authors:
 - Laurent U Perrinet
@@ -7,7 +7,7 @@ publishDate: '2025-11-26T09:59:39.745256Z'
 publication_types:
 - paper-conference
 publication: '*Symposium of the Neuroschool Master, Marseille, December 1 and 2 2025.*'
-abstract: "By construction, deep convolutional networks treat all pixels equally.
+abstract: 'By construction, deep convolutional networks treat all pixels equally.
   Result: they are energy-hungry, fragile to rotations or zooms, and poor at object
   localization. This contrasts sharply with biological vision, which demonstrates
   remarkable efficiency. Think of an eagle spotting prey from kilometers away or a
@@ -19,12 +19,21 @@ abstract: "By construction, deep convolutional networks treat all pixels equally
   while dropping only to 66%. Critically, without additional learning, this foveated
   CNN reveals high sensitivity to fixation point location: the maximum likelihood
   position points to ground truth bounding boxes with 85% accuracy, compared to 71%
-  for classical CNNs. This suggests that this specific Nature's million-year solution
-  may offer deep learning visual networks a fundamentally new architectural look."
+  for classical CNNs. This suggests that this specific Nature''s million-year solution
+  may offer deep learning visual networks a fundamentally new architectural look.'
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-12-02-symposium-masters
-tags: ["eye-movements", "foveated-vision", "log-polar-mapping", "retinotopy"]
-categories: ["Behavioural Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- eye-movements
+- foveated-vision
+- log-polar-mapping
+- retinotopy
+categories:
+- Behavioural Neuroscience
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---

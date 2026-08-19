@@ -44,7 +44,6 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects: []
 ---
 
 ![header](adams-12.png)

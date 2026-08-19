@@ -33,8 +33,8 @@ slides: 2024-02-05-udem
 subtitle: '*Seminar at UdeM’s School of Optometry, Montréal*'
 title: Event-based vision
 tags: ["motion-perception", "neuromorphic-computing"]
-categories: ["Computational Neuroscience", "Computer Vision", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+categories: ["Computational Neuroscience", "Computer Vision", "NeuroAI & Machine Learning"]
+projects: ["", "tout-public"]
 ---
 # When brains meet computing machines
 * https://neurosciences.umontreal.ca/wp-content/uploads/sites/6/2024/02/conferenceNikon_Laurent_Perrinet.pdf

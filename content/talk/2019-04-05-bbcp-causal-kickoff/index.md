@@ -1,4 +1,4 @@
----
+--- 
 abstract: Animal behavior has to constantly adapt to changes, for instance when unexpectedly
   switching the state of an environmental context. For an agent interacting with this
   kind of volatile environment, it is important to respond to such switches accurately
@@ -35,15 +35,21 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff
 location: INT, Marseille (France)
-
 publication: '*CausaL Kick-off*'
 publication_types:
 - inproceedings
 title: Should I stay or should I go? Adaption of human observers to the volatility
   of visual inputs
-tags: ["bayesian-modelling", "eye-movements", "motion-perception"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- bayesian-modelling
+- eye-movements
+- motion-perception
+categories:
+- Behavioural Neuroscience
+- Education
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="1" >}}
 * previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})

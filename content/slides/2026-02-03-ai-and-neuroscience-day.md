@@ -1,25 +1,26 @@
----
+--- 
 slides:
-  # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: white
   reveal_options:
-    transition: 'fade'
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
+    transition: fade
 date: '2026-02-03'
 all_day: false
-
-## Schedule page publish date (NOT talk date).
-publishDate: "2026-01-31T12:47:11+02:00"
-
+publishDate: '2026-01-31T12:47:11+02:00'
 title: 2026-02-03-ai-and-neuroscience-day
-
 summary: Al for visual processing and energy-efficient algorithms.
-
-tags: ["eye-movements", "motion-perception", "neuromorphic-computing", "sparse-coding", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- eye-movements
+- motion-perception
+- neuromorphic-computing
+- sparse-coding
+- spiking-neural-networks
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+projects:
+- tout-public
 ---
 # [Neuroscience & AI: Energy-efficient visual processing algorithms](https://laurentperrinet.github.io/slides/2026-02-03-ai-and-neuroscience-day/?transition=fade)
 ##	*[Laurent Perrinet](https://laurentperrinet.github.io/talk/2026-02-03-ai-and-neuroscience-day/)*

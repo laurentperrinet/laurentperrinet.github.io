@@ -14,7 +14,6 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences
 location: Marseille (France)
-- art-science
 publication: '*Journées d’Ouverture Scientifique (JOS)*'
 publication_types:
 - inproceedings
@@ -23,8 +22,8 @@ slides: 2025-04-18-vibration-apparences
 subtitle: ''
 title: 'La vibration des apparences'
 tags: ["visual-illusions"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: ["art-science"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
+projects: ["art-science", "tout-public"]
 ---
 Cette présentation, dans le cadre des *Journées d’Ouverture Scientifique (JOS)*, explore le travail présenté lors de l’exposition *La vibration des apparences*, au musée Granet :
 

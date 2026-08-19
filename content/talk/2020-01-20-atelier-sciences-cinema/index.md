@@ -30,14 +30,13 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2020-01-20-atelier-sciences-cinema
 location: Lycée Professionnel Domaine Eguille, Vedène (France)
-- tout-public
 publication: '*Cinéma et sciences  = rencontre avec les élèves du lycée des métiers*'
 publication_types:
 - inproceedings
 slides: https://laurentperrinet.github.io/2020-01-20_atelier_sciences_cinema
 title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
 tags: ["visual-illusions"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning"]
 projects: ["tout-public"]
 ---
 ![](@laurentperrinet_1284791644240347138_tweetcapture.png)

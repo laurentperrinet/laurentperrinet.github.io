@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Laurent U Perrinet
 date: 2017-06-28 13:00:00
@@ -17,7 +17,12 @@ location: Telluride, CO
 publication: '*Telluride Neuromorphic Workshop, Workgroup on Compound Eyes and Event-based
   Vision*'
 title: Tutorial on predictive coding
-tags: ["neuromorphic-computing", "predictive-coding"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- neuromorphic-computing
+- predictive-coding
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---

@@ -27,6 +27,6 @@ publication: '*First GDR BioComp workshop, Saint-Paul de Vence, October 7th, 201
 title: Motion-based prediction with neuromorphic hardware
 url_slides: https://laurentperrinet.github.io/sciblog/files/2015-10-07_Perrinet15biocomp_slides.pdf
 tags: ["bayesian-modelling", "motion-perception", "neuromorphic-computing"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning"]
+projects: ["", "tout-public"]
 ---

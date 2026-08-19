@@ -1,4 +1,4 @@
----
+--- 
 abstract: Natural environments potentially contain several interesting targets for
   goal-directed behavior. Thus sensorimotor systems need to operate a competitive
   selection based on behaviorally meaningful parameters. Recently, it has been observed
@@ -32,16 +32,20 @@ date: 2016-11-03
 event: GDR Vision, Toulouse, Nov 3rd, 2016
 featured: false
 grants:
-- anr-rem
-grants:
 - pace-itn
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2016-11-03-gdr/
-
 publication: '*GDR Vision, Toulouse, Nov 3rd, 2016*'
 title: Reinforcement contingencies modulate anticipatory smooth eye movements
-tags: ["eye-movements", "motion-perception"]
-categories: ["Behavioural Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- eye-movements
+- motion-perception
+categories:
+- Behavioural Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---

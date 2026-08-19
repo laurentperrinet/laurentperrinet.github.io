@@ -1,4 +1,4 @@
----
+--- 
 title: 'Ciné-Sciences : Ouvrez grand les yeux'
 authors:
 - Laurent U Perrinet
@@ -17,9 +17,14 @@ abstract: 'Ouvrez grand les yeux… mais méfiez-vous de ce qu’ils vous montre
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-06-10_explore-cine-sciences
-tags: ["visual-illusions"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Education
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---
 Dans le cadre de la deuxième édition du Festival EXPLORE, l'association Polly Maggoo vous propose de découvrir trois projections gratuites de courts métrages autour de thématiques de recherche de scientifiques, en leur présence.
 

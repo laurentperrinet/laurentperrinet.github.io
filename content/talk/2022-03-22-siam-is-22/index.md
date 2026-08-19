@@ -1,4 +1,4 @@
----
+--- 
 abstract: In most mammals, the primary visual cortex (V1) processes complex mixtures
   of orientations to construct an accurate neural representation of our visual environment.
   Sparse coding has been used to model the emergence of orientation-selective localized
@@ -23,23 +23,33 @@ draft: false
 event: 2022 SIAM Conference on Imaging Science (IS22)
 featured: false
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2021-10-12 12:44:45+02:00
 links:
 - name: URL
   url: https://www.siam.org/conferences/cm/conference/is22
-
 publication: '*2022 SIAM Conference on Imaging Science (IS22)*'
 publication_types:
 - inproceedings
 publishDate: '2021-10-12T10:44:45.446866Z'
-subtitle: ''
 title: Statistics of the sparse representations of natural images
-tags: ["bayesian-modelling", "predictive-coding", "primary-visual-cortex", "sparse-coding", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- predictive-coding
+- primary-visual-cortex
+- sparse-coding
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+- Visual Neuroscience
+projects:
+- tout-public
 ---
  * see previous work: https://laurentperrinet.github.io/sciblog/posts/2018-11-05-statistics-of-the-natural-input-to-a-ring-model.html
 ## Mini-Symposium "Learning from vision: Efficient representation, sparse coding, and modelling"

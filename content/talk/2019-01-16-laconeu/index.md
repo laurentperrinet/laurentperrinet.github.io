@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Laurent U Perrinet
 date: 2019-01-16 10:45:00
@@ -17,11 +17,14 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2019-01-16-laconeu/
 location: Valparaiso (Chile)
-
 publication: '*LACONEU 2019: 5th Latin-American Summer School in Computational Neuroscience,
   Valparaiso (Chile)*'
 title: Efficient coding of visual information in neural computations
-tags: ["primary-visual-cortex"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- primary-visual-cortex
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---

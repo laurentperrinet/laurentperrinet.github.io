@@ -17,7 +17,6 @@ date: 2016-04-28 18:30:00
 event: Cycle de conférences \"Tous connectés\", Bibliothèque de Méjanes
 event_url: ''
 featured: false
-- tout-public
 links:
 - name: URL
   url: https://laurentperrinet.github.io/sciblog/files/2016-04-28_mejanes/
@@ -27,7 +26,7 @@ publication_types:
 - inproceedings
 title: Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
 tags: ["visual-illusions"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning"]
 projects: ["tout-public"]
 ---
 # Les illusions visuelles, un révélateur du fonctionnement de notre cerveau

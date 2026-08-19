@@ -36,8 +36,8 @@ slides: 2025-05-26-master-m-4-nc
 subtitle: ''
 title: Artificial neural networks and machine learning applied to the understanding of biological vision
 tags: ["bayesian-modelling", "motion-perception", "predictive-coding"]
-categories: ["Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+categories: ["Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+projects: ["", "tout-public"]
 ---
 ## Master M4NC de l'institut NeuroMod, cours Prospective Innovation and Research.
 

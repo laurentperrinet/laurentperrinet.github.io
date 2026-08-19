@@ -19,6 +19,6 @@ title: 'Demo 1, Task4: Implementation of models showing emergence of cortical fi
   and maps'
 url_slides: 2011-10-05-brain-scales-ess-talk.pdf
 tags: ["neuromorphic-computing", "sparse-coding"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+projects: ["", "tout-public"]
 ---

@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Jens Kremkow
 - Laurent U Perrinet
@@ -13,13 +13,14 @@ event: 'Eighteenth Annual Computational Neuroscience Meeting: CNS*2009 Berlin, G
 featured: false
 grants:
 - facets
-
 publication: '*Eighteenth Annual Computational Neuroscience Meeting: CNS*2009 Berlin,
   Germany. 18–23 July 2009*'
 title: Control of the temporal interplay between excitation and inhibition by the
   statistics of visual input
-tags: [""]
-categories: ["Computational Neuroscience", "Education", "Outreach & Public Engagement"]
-projects: [""]
+categories:
+- Computational Neuroscience
+- Education
+projects:
+- tout-public
 ---
 * see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publication/kremkow-10-jcns/index.md" >}})

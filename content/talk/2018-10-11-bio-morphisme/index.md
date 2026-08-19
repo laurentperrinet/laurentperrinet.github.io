@@ -19,8 +19,8 @@ publication_types:
 - inproceedings
 title: La modélisation biomorphique de la perception visuelle
 tags: ["visual-illusions"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning"]
+projects: ["", "tout-public"]
 ---
 ## in "La modélisation de la genèse physico-mathématique du vivant"
 ## BIOMORPHISME ET CREATION ARTISTIQUE – Session 3

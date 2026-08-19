@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Lionel Fillatre
 - Michel Barlaud
@@ -21,8 +21,12 @@ publication: '*EUVIP (Special Session): Biologically Inspired Computer Vision - 
   16th, 2016*'
 title: Categorization of microscopy images using a biologically inspired edge co-occurrences
   descriptor
-tags: ["vision"]
-categories: ["Computational Neuroscience", "Computer Vision", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- vision
+categories:
+- Computational Neuroscience
+- Computer Vision
+projects:
+- tout-public
 ---
 * See a followup in {{< cite page="/publication/perrinet-bednar-15" view="1" >}}

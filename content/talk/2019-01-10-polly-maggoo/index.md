@@ -16,13 +16,12 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2019-01-10-polly-maggoo/
 location: Marseille, France
-- tout-public
 publication: '**'
 publication_types:
 - inproceedings
 title: Rencontre avec les collégiens marseillais
 tags: ["visual-illusions"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
 projects: ["tout-public"]
 ---
 # Cinéma et sciences : rencontre avec les collégiens marseillais

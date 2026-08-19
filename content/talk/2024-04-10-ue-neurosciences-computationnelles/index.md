@@ -24,6 +24,6 @@ slides: 2024-04-10-ue-neurosciences-computationnelles
 subtitle: ''
 title: Artificial neural networks applied to the understanding of biological vision
 tags: [""]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
+projects: ["", "tout-public"]
 ---

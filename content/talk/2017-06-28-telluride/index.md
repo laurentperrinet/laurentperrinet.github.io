@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Laurent U Perrinet
 date: 2017-06-28 13:00:00
@@ -17,7 +17,11 @@ location: Telluride, CO
 publication: '*Workshop on Computational Neuroscience entitled "New trends and challenges
   for 2030"*'
 title: 'Back to the present: dealing with delays in biological and neuromorphic systems'
-tags: ["neuromorphic-computing"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- neuromorphic-computing
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---

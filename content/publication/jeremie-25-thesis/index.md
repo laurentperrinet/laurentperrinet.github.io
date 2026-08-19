@@ -1,4 +1,4 @@
----
+--- 
 title: 'Foveal Retinotopy and Dual Pathways: A Computational Model for Active Visual
   Search'
 authors:
@@ -7,9 +7,20 @@ date: '2025-10-10'
 publishDate: '2025-09-04T07:19:00.636355Z'
 publication_types:
 - thesis
-tags: ["bayesian-modelling", "eye-movements", "foveated-vision", "log-polar-mapping", "retinotopy"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- eye-movements
+- foveated-vision
+- log-polar-mapping
+- retinotopy
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
 ---
 ## Abstract
 This thesis investigates visual search through the lens of the dual visual pathways found in biological systems : the ventral (“what”) pathway, involved in object recognition, and the dorsal (“where”) pathway, responsible for spatial localisation and saccadic planning. Drawing from both neuroscience and computer vision, we propose a computational framework that integrates deep convolutional neural networks (DCNNs) within a biologically inspired architecture grounded in foveal retinotopy. As a proof of concept, prior work has demonstrated that incorporating saccadic planning improves digit categorisation performance in a controlled environment. Building upon this foundation, the primary objective of this thesis is to extend the computational framework to natural images in more ecologically valid settings. Our contributions are as follows : (1) We introduce a novel framework for training and evaluating DCNNs using semantically grounded, task-specific labels ; (2) We bridge the gap between artificial models and biological substrates by emphasizing the role of foveal retinotopy in robust object categorisation and precise localisation ; (3) We disentangle the interplay between categorisation and localisation by proposing a novel "localisation-frame" dataset, aimed at guiding the design of a biologically plausible dorsal stream model ; and (4) We present an initial model of the dorsal pathway, leveraging the new dataset to develop interpretable and efficient active vision systems—where interpretability is achieved through modular and spatially structured representations, and efficiency is reflected in reduced computational cost during inference with saccade planning. Overall, this thesis extends the dual-stream computational paradigm for visual search, contributes tools for explainable active vision, and offers a platform to explore hypotheses about functional specialisation in the human visual cortex.   

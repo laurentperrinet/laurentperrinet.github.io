@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Laurent U Perrinet
 - Chloé Pasturel
@@ -19,14 +19,17 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/
 location: INT, Marseille (France)
-
 publication: '*Probabilities and Optimal Inference to Understand the Brain, INT, Marseille
   (France)*'
 title: Principles and psychophysics of Active Inference in anticipating a dynamic,
   switching probabilistic bias
-tags: ["bayesian-modelling"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- bayesian-modelling
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="1" >}}
 * previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})

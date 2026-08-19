@@ -40,7 +40,6 @@ doi: 10.1523/ENEURO.0374-21.2022
 draft: false
 featured: false
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2022-06-30 08:54:01+03:00
@@ -51,7 +50,6 @@ publication: '*eNeuro*'
 publication_types:
 - article-journal
 publishDate: '2022-06-30T05:54:01.160596Z'
-subtitle: ''
 title: 'A Behavioral Receptive Field for Ocular Following in Monkeys: Spatial Summation
   and Its Spatial Frequency Tuning'
 tags:
@@ -63,6 +61,5 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects: []
 ---
 

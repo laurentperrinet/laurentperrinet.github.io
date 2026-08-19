@@ -24,6 +24,6 @@ subtitle: ''
 title: Interactions between machine learning, artificial neural networks and our understanding
   of biological vision
 tags: [""]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
+projects: ["", "tout-public"]
 ---

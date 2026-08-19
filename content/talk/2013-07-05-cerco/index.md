@@ -16,7 +16,7 @@ publication: '*A  seminar at the CerCo, Toulouse, France*'
 title: Edge co-occurrences and categorizing natural images
 url_slides: perrinet13cerco.pdf
 tags: ["vision"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+projects: ["", "tout-public"]
 ---
 * See a followup in {{< cite page="/publication/perrinet-bednar-15" view="1" >}}

@@ -28,8 +28,8 @@ slides: 2023-01-23_game-theory-and-the-brain
 subtitle: ''
 title: Game theory and brain strategies
 tags: ["bayesian-modelling"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
+projects: ["", "tout-public"]
 ---
 * workshop organisé par les étudiants du master de sciences cognitives les 23 et 24 janvier 2023.
  

@@ -1,4 +1,4 @@
----
+--- 
 title: Analyse Des Données Neurobiologiques Guidée Par La Modélisation
 authors:
 - Alexandre Laine
@@ -37,7 +37,8 @@ abstract: Les récentes avancées technologiques en neurobiologie ont ouvert la 
 links:
 - name: URL
   url: https://theses.fr/s400564
-tags: [""]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
-projects: ["", "tout-public"]
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
 ---

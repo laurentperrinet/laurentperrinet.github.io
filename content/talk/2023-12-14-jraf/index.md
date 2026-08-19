@@ -35,8 +35,8 @@ slides: 2023-12-14-jraf
 subtitle: '*Journées sur l''apprentissage frugal (JRAF)*'
 title: Event-based vision
 tags: ["motion-perception", "neuromorphic-computing"]
-categories: ["Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+categories: ["Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning"]
+projects: ["", "tout-public"]
 ---
 * Journées sur l'apprentissage frugal (JRAF) 
 * 13-14 décembre 2023

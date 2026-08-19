@@ -1,4 +1,4 @@
----
+--- 
 title: Effet de La Variabilité de La Vitesse Sur Le Mouvement de Poursuite Oculaire
   Lente et Sur La Perception de La Vitesse
 authors:
@@ -29,7 +29,14 @@ abstract: Nous avons expliqué comment le système visuel intègre les informati
 links:
 - name: URL
   url: https://theses.fr/2019AIXM0137
-tags: ["aperture-problem", "bayesian-modeling", "motion-perception", "predictive-coding", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning"]
-projects: ["", "tout-public"]
+tags:
+- aperture-problem
+- bayesian-modeling
+- motion-perception
+- predictive-coding
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Education
+- NeuroAI & Machine Learning
 ---

@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Laurent U Perrinet
 - Angelo Franciosini
@@ -9,7 +9,6 @@ featured: false
 grants:
 - anr-horizontal-v1
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2021-06-14 21:26:49+02:00
@@ -17,16 +16,19 @@ links:
 - name: URL
   url: http://schedule.smb2021.org/MS05/
 location: Everywhere (World)
-
 publication: '*Society for Mathematical Biology * 2021*'
 publication_types:
 - inproceedings
-subtitle: ''
 title: Pooling in a predictive model of V1 explains functional and structural diversity
   across species
-tags: ["predictive-coding", "primary-visual-cortex"]
-categories: ["NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- predictive-coding
+- primary-visual-cortex
+categories:
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+projects:
+- tout-public
 ---
 ![](@laurentperrinet_1384940135419101187_tweetcapture.png)
 {{< figure src="poster.jpg" width="100%" >}}

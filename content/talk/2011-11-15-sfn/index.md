@@ -1,4 +1,4 @@
----
+--- 
 abstract: Oriented edges in images of natural scenes tend to be aligned in collinear
   or co-circular arrangements, with lines and smooth curves more common than other
   possible arrangements of edges (Geisler et al., Vis Res 41:711-24, 2001). The visual
@@ -45,9 +45,17 @@ location: Washington, DC
 publication: '*Society for Neuroscience Abstracts*'
 title: 'Edge statistics in natural images versus laboratory animal environments: implications
   for understanding lateral connectivity in V1'
-tags: ["bayesian-modelling", "primary-visual-cortex", "sparse-coding"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- primary-visual-cortex
+- sparse-coding
+categories:
+- Behavioural Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Visual Neuroscience
+projects:
+- tout-public
 ---
 * Abstract Control Number: 17671
 * Presentation Number: 530.04

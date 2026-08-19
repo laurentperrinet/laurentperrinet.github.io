@@ -1,4 +1,4 @@
----
+--- 
 abstract: 'The machinery behind the visual perception of motion and the subsequent
   sensorimotor transformation, such as in Ocular Following Response (OFR), is confronted
   to uncertainties which are efficiently resolved in the primate''s visual system.
@@ -42,13 +42,21 @@ grants:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2008-06-01-ulm/
-
-publication: ''
 title: Decoding the population dynamics underlying ocular following response using
   a probabilistic framework
-tags: ["bayesian-modelling", "motion-perception", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- motion-perception
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+projects:
+- tout-public
 ---
 * related publications  @ [FENS 2006]({{< ref "/publication/perrinet-06-fens/index.md" >}}),   @ [NeuroComp 2008]({{< ref "/publication/perrinet-08-neurocomp/index.md" >}}) and   @ [AREADNE 2008]({{< ref "/publication/perrinet-08-areadne/index.md" >}})
 * see this more recent talk @ [UCL, London]({{< ref "/talk/2012-01-12-vision-at-ucl/index.md" >}})

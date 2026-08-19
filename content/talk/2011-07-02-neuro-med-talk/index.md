@@ -1,4 +1,4 @@
----
+--- 
 abstract: Sensory informations such as visual images are inherently variable. We use
   probabilistic models to describe how the low-level visual system could describe
   superposed and ambiguous information. This allows to describe the interactions of
@@ -18,9 +18,15 @@ publication: '*Atelier Neurosciences Computationnelles, 2-3 Juillet 2011 Khemiss
   Maroc*'
 title: Propriétés émergentes d'un modèle de prédiction probabiliste utilisant un champ
   neural
-tags: ["bayesian-modelling", "motion-perception"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- bayesian-modelling
+- motion-perception
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---
 La finalité de cette manifestation est de permettre à nos chercheurs de se réunir en groupes de travail et en ateliers afin de découvrir la thématique des neurosciences et son interdisciplinarité. La manifestation se tient dans le cadre des activités du laboratoire LAMS, de ABC MATHINFO, du GDRI NeurO et du réseau méditerranéen [NeuroMed](http://www.neuromedproject.eu/).
 * related publication @ [SPIE 2008]({{< ref "/publication/khoei-10-tauc/index.md" >}})

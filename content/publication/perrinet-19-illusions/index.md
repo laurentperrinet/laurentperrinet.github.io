@@ -22,6 +22,7 @@ grants:
 links:
 - name: URL
   url: https://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389
+projects:
 - tout-public
 publication: '*The Conversation*'
 publication_types:
@@ -35,8 +36,6 @@ categories:
 - Behavioural Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- tout-public
 ---
 
 * Ce texte est disponible dans cet article de [The Conversation](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567).

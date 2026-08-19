@@ -15,6 +15,6 @@ title: 'MotionClouds: Model-based stimulus synthesis of natural-like random text
   for the study of motion perception'
 url_slides: perrinet12wp4_handout.pdf
 tags: ["motion-clouds", "motion-perception", "neuromorphic-computing", "visual-illusions"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: ["open-science"]
+categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning"]
+projects: ["open-science", "tout-public"]
 ---

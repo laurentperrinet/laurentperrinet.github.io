@@ -1,25 +1,29 @@
----
+--- 
 slides:
-  # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: white
   reveal_options:
-    transition: 'fade'
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
+    transition: fade
 date: '2026-01-29'
 all_day: false
-
-## Schedule page publish date (NOT talk date).
-publishDate: "2026-01-25T12:47:11+02:00"
-
+publishDate: '2026-01-25T12:47:11+02:00'
 title: 2026-01-29-emergences
-
-summary: Sparse representations in biological vision applied to the effciency of machine learning.
-
-tags: ["bayesian-modelling", "motion-perception", "neuromorphic-computing", "predictive-coding", "sparse-coding", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+summary: Sparse representations in biological vision applied to the effciency of machine
+  learning.
+tags:
+- bayesian-modelling
+- motion-perception
+- neuromorphic-computing
+- predictive-coding
+- sparse-coding
+- spiking-neural-networks
+categories:
+- Computational Neuroscience
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+projects:
+- tout-public
 ---
 <section>
 

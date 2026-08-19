@@ -1,4 +1,4 @@
----
+--- 
 abstract: Sensory informations such as visual images are inherently variable. We use
   probabilistic models to describe how the low-level visual system could describe
   superposed and ambiguous information. This allows to describe the interactions of
@@ -19,9 +19,15 @@ publication: '*LADISLAV TAUC & GDR MSPC NEUROSCIENCES CONFERENCE, From Mathemati
   Image Analysis to Neurogeometry of the Brain*'
 title: 'Probabilistic models of the low-level visual system: the role of prediction
   in detecting motion'
-tags: ["bayesian-modelling", "motion-perception"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- motion-perception
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+projects:
+- tout-public
 ---
 An event ranging "From Mathematical Image Analysis to Neurogeometry of the Brain" Ladislav Tauc & GDR MSPC neurosciences conference.
 * related publication from Mina Khoei @ [TAUC 2012]({{< ref "/publication/khoei-10-tauc/index.md" >}})

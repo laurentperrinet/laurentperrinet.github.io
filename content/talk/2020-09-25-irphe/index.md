@@ -43,8 +43,8 @@ publication_types:
 - inproceedings
 title: Understanding natural vision using deep predictive coding
 tags: ["predictive-coding", "sparse-coding", "visual-illusions"]
-categories: ["Biological Neuroscience", "Computational Neuroscience", "Computer Vision", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+categories: ["Biological Neuroscience", "Computational Neuroscience", "Computer Vision", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+projects: ["", "tout-public"]
 ---
 * What:: talk @ [Séminaire à l'Institut de Recherche sur les Phénomènes Hors Équilibre (IRPHÉ)](https://laurentperrinet.github.io/talk/2020-09-25-irphe)
 * Who:: Perrinet, Laurent U

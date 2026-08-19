@@ -33,6 +33,6 @@ slides: 2023-09-08_fresnel
 subtitle: '*Séminaire à l''Institut Fresnel*'
 title: Event-based vision
 tags: ["motion-perception", "neuromorphic-computing"]
-categories: ["Computational Neuroscience", "Computer Vision", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+categories: ["Computational Neuroscience", "Computer Vision", "NeuroAI & Machine Learning"]
+projects: ["", "tout-public"]
 ---

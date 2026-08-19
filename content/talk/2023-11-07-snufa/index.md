@@ -27,8 +27,8 @@ subtitle: ''
 title: Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a
   Spiking Neural Network
 tags: ["neuromorphic-computing", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+categories: ["Computational Neuroscience", "NeuroAI & Machine Learning"]
+projects: ["", "tout-public"]
 ---
 * Poster Session at https://snufa.net/2023/
 * https://snufa.net/2023/abstracts/laurent-perrinet-accurate.html

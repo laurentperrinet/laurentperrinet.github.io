@@ -1,4 +1,4 @@
----
+--- 
 title: How and why foveated retinotopy provides efficient vision
 authors:
 - Laurent U Perrinet
@@ -23,9 +23,22 @@ abstract: The retinas of many animals, including humans, have a specialized area
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-01-08-brain-seminar
-tags: ["bayesian-modelling", "eye-movements", "foveated-vision", "log-polar-mapping", "primary-visual-cortex", "retinotopy"]
-categories: ["Biological Neuroscience", "Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- eye-movements
+- foveated-vision
+- log-polar-mapping
+- primary-visual-cortex
+- retinotopy
+categories:
+- Biological Neuroscience
+- Computational Neuroscience
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
+- Visual Neuroscience
+projects:
+- tout-public
 ---
 * When: Wednesday 9th of January, 2025 at 12 noon.
 * Where: CRN seminar room, Montreal General Hospital, Livingston Hall, L7-140, with hybrid option.

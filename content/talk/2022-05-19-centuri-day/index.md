@@ -23,8 +23,8 @@ publication_types:
 publishDate: 2022-05-19T10:44:45.446866Z
 title: Polychrony detection using heterogeneous delays
 tags: ["efficient-coding", "event-based-vision", "homeostasis", "motion-perception", "neuromorphic-computing"]
-categories: ["NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+categories: ["NeuroAI & Machine Learning"]
+projects: ["", "tout-public"]
 ---
 * Follow this future presentations {{< cite page="/talk/2022-06-19-neuro-vision-heterogeneous" view="1" >}}
 ![](@laurentperrinet_1527604282043813888_tweetcapture.png)

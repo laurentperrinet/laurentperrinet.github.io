@@ -24,8 +24,8 @@ publishDate: '2022-05-20T10:34:17.824678Z'
 subtitle: ''
 title: Learning heterogeneous delays of Spiking Neurons for motion detection
 tags: ["efficient-coding", "event-based-vision", "homeostasis", "neuromorphic-computing", "spiking-neural-networks"]
-categories: ["NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+categories: ["NeuroAI & Machine Learning"]
+projects: ["", "tout-public"]
 ---
 ![](@laurentperrinet_1538417555911720963_tweetcapture.png)
 * for a follow-up, check out {{< cite page="/publication/grimaldi-22-icip" view="1" >}}

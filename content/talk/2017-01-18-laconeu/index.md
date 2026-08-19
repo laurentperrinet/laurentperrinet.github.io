@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Laurent U Perrinet
 date: 2017-01-18 09:00:00
@@ -15,12 +15,13 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2017-01-18-laconeu/
 location: Valparaiso (Chile)
-
 publication: '*Workshop on Computational Neuroscience entitled "New trends and challenges
   for 2030"*'
 title: 'Back to the present: how neurons deal with delays'
-tags: [""]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---
 ![Chile](http://laconeu.cl/wp-content/uploads/2018/04/Valparaiso-3.jpg)

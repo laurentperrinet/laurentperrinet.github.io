@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Jean-Nicolas Jérémie
 - Emmanuel Daucé
@@ -11,7 +11,6 @@ grants:
 - anr-anr
 - aprovis3D
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2022-05-20 13:12:28+02:00
@@ -19,16 +18,28 @@ links:
 - name: URL
   url: https://sites.google.com/uci.edu/neurovision2022/schedule
 location: New Orleans (virtual)
-
 publication: '*NeuroVision Workshop in conjunction with CVPR 2022*'
 publication_types:
 - inproceedings
 publishDate: '2022-05-20T11:12:27.976406Z'
-subtitle: ''
 title: Retinotopic mapping improves the reliability of image classification
-tags: ["active-inference", "bayesian-modelling", "deep-learning", "foveated-vision", "log-polar-mapping", "object-localization", "retinotopy", "visual-search", "visuomotor-control"]
-categories: ["Biological Neuroscience", "Computer Vision", "Education", "Outreach & Public Engagement", "Visual Neuroscience"]
-projects: [""]
+tags:
+- active-inference
+- bayesian-modelling
+- deep-learning
+- foveated-vision
+- log-polar-mapping
+- object-localization
+- retinotopy
+- visual-search
+- visuomotor-control
+categories:
+- Biological Neuroscience
+- Computer Vision
+- Education
+- Visual Neuroscience
+projects:
+- tout-public
 ---
 * Follows a previous work {{< cite page="/publication/dauce-20" view="1" >}}
 {{< video src="2022-06-10_Jeremie-etal-NeuroVision_video-abstract.mp4" controls="yes" >}}

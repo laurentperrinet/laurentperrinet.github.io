@@ -42,13 +42,12 @@ links:
   url: https://www.em-consulte.com/e-tap/1283936/ftafhrsrftfxjyjaaumj
 location: Lille, France
 math: true
-- tout-public
 summary: 'Les objectifs sont : -- mieux comprendre la fonction de la perception visuelle
   en explorant certaines limites ; -- mieux comprendre l''importance de l''aspect
   dynamique de la perception ; -- mieux comprendre le rôle de l''action dans la perception.'
 title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
 tags: ["primary-visual-cortex", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning"]
 projects: ["tout-public"]
 ---
 * Le texte de cette présentation est reprise dans cet article de [The Conversation](https://laurentperrinet.github.io/publication/perrinet-19-temps/) ([lien direct](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567)).

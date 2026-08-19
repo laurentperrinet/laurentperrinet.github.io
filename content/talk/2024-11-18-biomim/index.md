@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Laurent U Perrinet
 date: 2024-11-18
@@ -16,8 +16,13 @@ publication_types:
 publishDate: '2024-10-03T07:45:42.692151Z'
 title: 'NeuroAI: interactions multiples entre Neurosciences et Intelligence artificielle'
 slides: 2024-11-18-journee-biomometisme
-tags: ["neuromorphic-computing", "visual-illusions"]
-categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- neuromorphic-computing
+- visual-illusions
+categories:
+- Education
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---
 * présentation de 15:50:00 à 16:20:00

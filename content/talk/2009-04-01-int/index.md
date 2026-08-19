@@ -1,4 +1,4 @@
----
+--- 
 abstract: ' Moving the eyes rapidly to track a visual object moving in a cluttered
   environment is an essential function. However, doing so rapidly and efficiently
   is constrained by a number of noise sources in the visual system and by the fact
@@ -22,11 +22,15 @@ grants:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2008-04-01-incm/
-
-publication: ''
 title: Decoding low-level neural information to track visual motion
-tags: ["bayesian-modelling", "motion-perception"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- motion-perception
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+projects:
+- tout-public
 ---
 * see this more recent talk @ [UCL, London]({{< ref "/talk/2012-01-12-vision-at-ucl/index.md" >}})

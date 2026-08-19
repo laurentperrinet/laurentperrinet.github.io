@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Bernhard A Kaplan
 - Mina A Khoei
@@ -15,8 +15,15 @@ location: Beijing, China
 publication: '*2014 International Joint Conference on Neural Networks (IJCNN)*'
 title: Signature of an anticipatory response in area V1 as modeled by a probabilistic
   model and a spiking neural network
-tags: ["bayesian-modelling", "motion-perception", "primary-visual-cortex", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- bayesian-modelling
+- motion-perception
+- primary-visual-cortex
+- spiking-neural-networks
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---
 * see [Kaplan and al, 2014]({{< ref "/publication/kaplan-khoei-14" >}})

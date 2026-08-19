@@ -1,4 +1,4 @@
----
+--- 
 abstract: The primary visual cortex (V1) processes complex mixtures of orientations
   to build neural representations of our visual environment. It remains unclear how
   V1 adapts to the highly volatile distributions of orientations found in natural
@@ -22,22 +22,25 @@ draft: false
 event: DynamicsDays - XL
 featured: false
 image:
-  caption: ''
   focal_point: Smart
   preview_only: false
 lastmod: 2021-07-12 15:52:49+02:00
 links:
 - name: Venue
   url: https://dynamicsdays2021.univ-cotedazur.fr/minisymposia2021/The_dynamics_of_vision/
-
 publication: '*DynamicsDays - XL*'
 publication_types:
 - inproceedings
-subtitle: ''
 title: Dynamical processing of orientation precision in the primary visual cortex
-tags: ["primary-visual-cortex"]
-categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
-projects: [""]
+tags:
+- primary-visual-cortex
+categories:
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+- Visual Neuroscience
+projects:
+- tout-public
 ---
 * This is 40th edition of Dynamicsdays
 * Nice, 23-27 August 2021 - https://dynamicsdays2021.univ-cotedazur.fr

@@ -1,25 +1,31 @@
----
+--- 
 slides:
- # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: white
   reveal_options:
-    transition: 'fade'
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
+    transition: fade
 date: '2024-04-10'
 all_day: false
-
-## Schedule page publish date (NOT talk date).
-publishDate: "2024-03-29T12:47:11+02:00"
-
+publishDate: '2024-03-29T12:47:11+02:00'
 title: 2024-04-17-phd-program-sparse-representations
-
-summary: Sparse representations in machine learning applied to the understanding of biological vision
-
-tags: ["bayesian-modelling", "deep-learning", "motion-perception", "neuromorphic-computing", "predictive-coding", "primary-visual-cortex", "sparse-coding", "spiking-neural-networks"]
-categories: ["Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+summary: Sparse representations in machine learning applied to the understanding of
+  biological vision
+tags:
+- bayesian-modelling
+- deep-learning
+- motion-perception
+- neuromorphic-computing
+- predictive-coding
+- primary-visual-cortex
+- sparse-coding
+- spiking-neural-networks
+categories:
+- Computational Neuroscience
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+projects:
+- tout-public
 ---
 <section>
 

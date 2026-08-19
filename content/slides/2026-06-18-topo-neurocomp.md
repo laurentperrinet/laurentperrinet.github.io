@@ -1,25 +1,21 @@
----
+--- 
 slides:
- # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: white
   reveal_options:
-    transition: 'fade'
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
+    transition: fade
 date: '2026-06-18'
 all_day: false
-
-## Schedule page publish date (NOT talk date).
-publishDate: "2026-04-09T12:47:11+02:00"
-
+publishDate: '2026-04-09T12:47:11+02:00'
 title: 2026-06-18-topo-neurocomp
-
 summary: Topo Neurosciences Computationnelles
-
-tags: ["motion-perception", "visual-illusions"]
-categories: ["Education", "Outreach & Public Engagement"]
-projects: ["art-science", "tout-public"]
+tags:
+- motion-perception
+- visual-illusions
+categories:
+- Education
+projects:
+- art-science
+- tout-public
 ---
 <section>
 
@@ -143,9 +139,9 @@ Un autre artiste de cette période est François Morellet — nous célébrons c
 
 ## La perception comme processus émergent
 
-{{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png"  title="[Etienne Rey, Trames](https://laurentperrinet.github.io/post/2018-04-10_trames/)" width="72%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png"  title="[Étienne Rey, Trames](https://laurentperrinet.github.io/post/2018-04-10_trames/)" width="72%" >}}
 {{< speaker_note >}}
-C'est dans ce cadre que nous avons expérimenté avec Etienne Rey sur des trames, qui crée ces interférences. Émergence de nouvelles formes — hexagones comme utilisés à l'Alhambra — espaces tridimensionnels.
+C'est dans ce cadre que nous avons expérimenté avec Étienne Rey sur des trames, qui crée ces interférences. Émergence de nouvelles formes — hexagones comme utilisés à l'Alhambra — espaces tridimensionnels.
 
 Je reviendrai sur le fait que vous pouvez transformer l'image en bougeant les yeux.
 {{< /speaker_note >}}
@@ -154,7 +150,7 @@ Je reviendrai sur le fait que vous pouvez transformer l'image en bougeant les ye
 
 ## La perception comme processus émergent
 
-{{< figure src="https://laurentperrinet.github.io/post/2026-02-20_ososphere/643545855_18444436261109562_1480440487903792518_n.jpg" title="[Etienne Rey (2025) Variable Density, série Delaunay](https://laurentperrinet.github.io/post/2026-02-20_ososphere/)" width="61.8%" >}} 
+{{< figure src="https://laurentperrinet.github.io/post/2026-02-20_ososphere/643545855_18444436261109562_1480440487903792518_n.jpg" title="[Étienne Rey (2025) Variable Density, série Delaunay](https://laurentperrinet.github.io/post/2026-02-20_ososphere/)" width="61.8%" >}} 
 
 {{< speaker_note >}}
 Comment rassembler les pièces du puzzle ?

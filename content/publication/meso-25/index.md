@@ -1,4 +1,4 @@
----
+--- 
 title: 'DynTex: A Real-Time Generative Model of Dynamic Naturalistic Luminance Textures'
 authors:
 - Andrew Isaac Meso
@@ -36,9 +36,20 @@ links:
   url: https://doi.org/10.1167/jov.25.11.2
 - name: HAL
   url: https://hal.science/hal-05288188
-tags: ["motion-clouds", "motion-perception", "predictive-coding"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Computer Vision", "Education", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
-projects: ["open-science", "tout-public"]
+tags:
+- motion-clouds
+- motion-perception
+- predictive-coding
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+projects:
+- open-science
 ---
 
 🚀 Excited to share our new paper: 

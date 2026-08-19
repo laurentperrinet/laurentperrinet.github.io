@@ -51,7 +51,7 @@ publication: '*Proceedings of SfN, 2011*'
 title: 'Edge statistics in natural images versus laboratory animal environments: implications
   for understanding lateral connectivity in V1'
 tags: ["bayesian-modelling", "primary-visual-cortex", "sparse-coding"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
-projects: [""]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Visual Neuroscience"]
+projects: ["", "tout-public"]
 ---
 * See a followup in {{< cite page="/publication/perrinet-bednar-15" view="1" >}}

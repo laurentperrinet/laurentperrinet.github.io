@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Laurent U Perrinet
 date: 2016-07-07 13:00:00
@@ -16,13 +16,17 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2016-07-07-edp-proba/
 location: CIRM, Marseille
-
 publication: '*Summer School: PDE and Probability for Life Sciences @ CIRM, Marseille
   - http://scientific-events.weebly.com/prog-1426.html - CIRM, July 7th, 2016*'
 title: 'Modelling the dynamics of cognitive processes: from the Bayesian brain to
   particles'
-tags: ["primary-visual-cortex", "spiking-neural-networks"]
-categories: ["NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- primary-visual-cortex
+- spiking-neural-networks
+categories:
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+projects:
+- tout-public
 ---
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

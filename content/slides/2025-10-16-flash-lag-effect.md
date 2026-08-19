@@ -1,25 +1,22 @@
----
+--- 
 slides:
-  # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: white
-  transition: 'fade'
-  title: "Mislocalization by Design: The Flash-Lag Effect as Prediction"
-
-# Talk start and end times. 2023-05-13-master-m-4-nc
-#   End time can optionally be hidden by prefixing the line with `#`.
+  transition: fade
+  title: 'Mislocalization by Design: The Flash-Lag Effect as Prediction'
 date: '2025-10-16'
 all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2025-10-14T06:47:11+02:00"
-
+publishDate: '2025-10-14T06:47:11+02:00'
 title: 2025-10-16-flash-lag-effect
-
 summary: Suresh Krishna's lab meeting
-
-tags: ["motion-perception"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- motion-perception
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+projects:
+- tout-public
 ---
 <section>
 

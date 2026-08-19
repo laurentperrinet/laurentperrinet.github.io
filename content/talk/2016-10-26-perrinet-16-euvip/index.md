@@ -1,4 +1,4 @@
----
+--- 
 authors:
 - Laurent U Perrinet
 date: 2016-10-26 13:00:00
@@ -18,7 +18,11 @@ location: Ecole Centrale Marseille
 publication: '*EUVIP (Special Session): Biologically Inspired Computer Vision - October
   16th, 2016*'
 title: Biologically-inspired characterization of sparseness in natural images
-tags: ["sparse-coding"]
-categories: ["Computational Neuroscience", "Computer Vision", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- sparse-coding
+categories:
+- Computational Neuroscience
+- Computer Vision
+projects:
+- tout-public
 ---

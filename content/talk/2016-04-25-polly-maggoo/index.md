@@ -23,8 +23,8 @@ publication_types:
 - inproceedings
 title: Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
 tags: ["visual-illusions"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning"]
+projects: ["", "tout-public"]
 ---
 # Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
 ## Cinésciences, collège Clair Soleil

@@ -1,4 +1,4 @@
----
+--- 
 title: Recréer des réseaux neuronaux pour améliorer la compréhension de notre cerveau
 authors:
 - Laurent U Perrinet
@@ -11,9 +11,12 @@ slides: 2026-02-10-biomplus
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-02-10-biomplus
-tags: [""]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---
 Rendez-vous ce mardi 10 février 2026 / 9h-10h30 pour plonger dans le monde fascinant des neurosciences.
 

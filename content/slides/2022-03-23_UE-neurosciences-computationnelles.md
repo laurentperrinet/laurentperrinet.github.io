@@ -1,24 +1,27 @@
----
+--- 
 slides:
-  # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: white
   transition: fade
   backgroundTransition: fade
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-03-23T09:00:00Z"
+date: '2022-03-23T09:00:00Z'
 all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2012-03-21T06:00:00Z"
+publishDate: '2012-03-21T06:00:00Z'
 title: 2022-03-23_UE-neurosciences-computationnelles
-
-summary: Réseaux de neurones artificiels et apprentissage machine appliqués à la compréhension de la vision
-
-tags: ["deep-learning", "neuromorphic-computing", "primary-visual-cortex", "spiking-neural-networks", "visual-illusions"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+summary: Réseaux de neurones artificiels et apprentissage machine appliqués à la compréhension
+  de la vision
+tags:
+- deep-learning
+- neuromorphic-computing
+- primary-visual-cortex
+- spiking-neural-networks
+- visual-illusions
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+projects:
+- tout-public
 ---
 # [Réseaux de neurones artificiels et apprentissage machine appliqués à la compréhension de la vision](https://github.com/laurentperrinet/2022_UE-neurosciences-computationnelles)
 ####	*[Laurent Perrinet](https://laurentperrinet.github.io/talk/2022-03-23-ue-neurosciences-computationnelles/)*

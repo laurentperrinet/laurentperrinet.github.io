@@ -32,7 +32,7 @@ publication_types:
 - inproceedings
 title: 'From the retina to action: Understanding visual processing'
 tags: ["bayesian-modelling", "motion-perception", "predictive-coding", "primary-visual-cortex"]
-categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+categories: ["Behavioural Neuroscience", "Biological Neuroscience", "Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Theoretical Neuroscience"]
+projects: ["", "tout-public"]
 ---
 Cours de Licence Sciences & Humanité, 3/4/2019

@@ -1,4 +1,4 @@
----
+--- 
 title: 'Conférence immersive : La vision, réalité ou perception ?'
 authors:
 - Laurent U Perrinet
@@ -21,10 +21,15 @@ links:
   url: https://laurentperrinet.github.io/talk/2025-06-12_explore-conference-immersive
 - name: Tout public!
   url: https://laurentperrinet.github.io/project/tout-public/
-- tout-public  
-tags: ["visual-illusions"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: ["tout-public"]
+- tout-public
+tags:
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Education
+- NeuroAI & Machine Learning
+projects:
+- tout-public
 ---
 * https://explore.univ-amu.fr/programme
 

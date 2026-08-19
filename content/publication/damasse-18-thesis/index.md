@@ -1,4 +1,4 @@
----
+--- 
 title: 'Smooth Pursuit Eye Movements and Learning : Role of Motion Probability and
   Reinforcement Contingencies'
 authors:
@@ -31,7 +31,11 @@ abstract: Un défi majeur pour les organismes vivants est leur capacité d’ada
 links:
 - name: URL
   url: https://theses.fr/2018AIXM0223
-tags: ["eye-movements", "motion-perception"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: [""]
+tags:
+- eye-movements
+- motion-perception
+categories:
+- Behavioural Neuroscience
+- Education
+- NeuroAI & Machine Learning
 ---

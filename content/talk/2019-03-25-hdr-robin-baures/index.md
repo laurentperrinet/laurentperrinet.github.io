@@ -1,4 +1,4 @@
----
+--- 
 abstract: Visual areas are essential in transforming the raw luminous signal into
   a representation which efficiently conveys information about the environment. This
   process is constrained by various factors such as a wide variety of changes in the
@@ -27,11 +27,19 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/2019-03-25_HDR_RobinBaures
 location: Toulouse (France)
-
 title: 'From the retina to action: Predictive processing in the visual system'
-tags: ["bayesian-modelling", "motion-perception", "predictive-coding", "primary-visual-cortex"]
-categories: ["Biological Neuroscience", "Computational Neuroscience", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: [""]
+tags:
+- bayesian-modelling
+- motion-perception
+- predictive-coding
+- primary-visual-cortex
+categories:
+- Biological Neuroscience
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+projects:
+- tout-public
 ---
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="1" >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="1" >}}

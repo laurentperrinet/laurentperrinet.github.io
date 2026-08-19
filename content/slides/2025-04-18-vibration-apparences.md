@@ -1,25 +1,23 @@
----
+--- 
 slides:
- # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: white
   reveal_options:
-    transition: 'fade'
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
+    transition: fade
 date: '2025-04-18'
 all_day: false
-
-## Schedule page publish date (NOT talk date).
-publishDate: "2025-03-10T12:47:11+02:00"
-
+publishDate: '2025-03-10T12:47:11+02:00'
 title: 2025-04-18-vibration-apparences
-
 summary: La vibration des apparences
-
-tags: ["eye-movements", "sparse-coding", "visual-illusions"]
-categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement"]
-projects: ["art-science"]
+tags:
+- eye-movements
+- sparse-coding
+- visual-illusions
+categories:
+- Education
+- NeuroAI & Machine Learning
+projects:
+- art-science
+- tout-public
 ---
 <section>
 
@@ -193,7 +191,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 ## Art & Sciences 
 
 {{% fragment %}} 
-{{< figure src="https://laurentperrinet.github.io/author/etienne-rey/avatar.jpg" title="[Etienne Rey](https://laurentperrinet.github.io/author/etienne-rey/)" width="50%" >}}
+{{< figure src="https://laurentperrinet.github.io/author/etienne-rey/avatar.jpg" title="[Étienne Rey](https://laurentperrinet.github.io/author/etienne-rey/)" width="50%" >}}
  {{% /fragment %}}
 {{< speaker_note >}}
 https://github.com/NaturalPatterns/2013_Tropique
@@ -202,7 +200,7 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 ---
 
-{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Etienne Rey, SPECTRE AUDIOGRAPHIQUE – DIFFRACTION](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="100%" >}}
+{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Étienne Rey, SPECTRE AUDIOGRAPHIQUE – DIFFRACTION](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="100%" >}}
 {{< speaker_note >}}
 /Users/laurentperrinet/sdrive_cnrs/blog/laurentperrinet.github.io_hugo/content/talk/2010-04-14-ondes-paralleles/index.md
 {{< /speaker_note >}}
@@ -211,7 +209,7 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 ## Tropique
 
-{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_b.jpg" title="[Etienne Rey, Tropique](https://ondesparalleles.org/projets/tropique-7/)" width="100%" >}}
+{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_b.jpg" title="[Étienne Rey, Tropique](https://ondesparalleles.org/projets/tropique-7/)" width="100%" >}}
 {{< speaker_note >}}
 {{< /speaker_note >}}
 ---
@@ -228,13 +226,13 @@ https://github.com/NaturalPatterns/2013_Tropique
 
 ---
 
-{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/04/etienne_rey_horizons_variables_news2.jpg" title="[Etienne Rey, Cristal n2](https://ondesparalleles.org/projets/cristal-n2__trashed/)" width="100%" >}}
+{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/04/etienne_rey_horizons_variables_news2.jpg" title="[Étienne Rey, Cristal n2](https://ondesparalleles.org/projets/cristal-n2__trashed/)" width="100%" >}}
 {{< speaker_note >}}
 {{< /speaker_note >}}
 
 ---
 
-{{< figure src="https://laurentperrinet.github.io/post/2016-06-02_elasticite/TRAME_Elasticité.jpg" title="[Etienne Rey, TRAME ÉLASTICITÉ](https://ondesparalleles.org/projets/trame-elasticite-vasarely/)" width="100%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2016-06-02_elasticite/TRAME_Elasticité.jpg" title="[Étienne Rey, TRAME ÉLASTICITÉ](https://ondesparalleles.org/projets/trame-elasticite-vasarely/)" width="100%" >}}
 {{< speaker_note >}}
 {{< /speaker_note >}}
 ---
@@ -265,14 +263,14 @@ Par <a href="//commons.wikimedia.org/wiki/User:Cmglee" title="User:Cmglee">Cmgle
 {{< /speaker_note >}}
 ---
 
-{{< figure src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/featured.png"  title="[Etienne Rey, Densité flou](https://laurentperrinet.github.io/post/2019-06-22_ardemone/)" width="100%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/featured.png"  title="[Étienne Rey, Densité flou](https://laurentperrinet.github.io/post/2019-06-22_ardemone/)" width="100%" >}}
 
 {{< speaker_note >}}
 {{< /speaker_note >}}
 
 ---
 
-{{< figure src="https://laurentperrinet.github.io/post/2021-10-04_interstices/featured.jpg"  title="[Etienne Rey, Horizon Faille](https://laurentperrinet.github.io/post/2021-10-04_interstices/)" width="100%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2021-10-04_interstices/featured.jpg"  title="[Étienne Rey, Horizon Faille](https://laurentperrinet.github.io/post/2021-10-04_interstices/)" width="100%" >}}
 
 {{< speaker_note >}}
 
@@ -313,7 +311,7 @@ Par <a href="//commons.wikimedia.org/wiki/User:Cmglee" title="User:Cmglee">Cmgle
 {{< /speaker_note >}}
 ---
 
-{{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png"  title="[Etienne Rey, Trames](https://laurentperrinet.github.io/post/2018-04-10_trames/)" width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png"  title="[Étienne Rey, Trames](https://laurentperrinet.github.io/post/2018-04-10_trames/)" width="80%" >}}
 
 {{< speaker_note >}}
 
@@ -380,13 +378,13 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 ---
  ## La vibration des apparences
 
-{{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png"  title="[Etienne Rey, La vibration des apparences](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)" width="60%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png"  title="[Étienne Rey, La vibration des apparences](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)" width="60%" >}}
 
 {{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" controls="yes" height="420" >}} 
 -->
 ---
 
-{{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png"  title="[Etienne Rey, La vibration des apparences](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)" height="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png"  title="[Étienne Rey, La vibration des apparences](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)" height="80%" >}}
 ---
 {{< video src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2025-01-18_la-vibration-des-apparences.mp4" type="video/mp4" controls="yes" height="80%" >}}
 ---

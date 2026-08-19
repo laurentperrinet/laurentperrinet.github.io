@@ -1,24 +1,29 @@
----
+--- 
 slides:
- # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: white
-  transition: 'fade'
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
+  transition: fade
 date: '2024-04-10'
 all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2024-03-29T12:47:11+02:00"
-
+publishDate: '2024-03-29T12:47:11+02:00'
 title: 2024-04-10-ue-neurosciences-computationnelles
-
 summary: Artificial neural networks applied to the understanding of biological vision
-
-tags: ["deep-learning", "eye-movements", "motion-perception", "neuromorphic-computing", "primary-visual-cortex", "sparse-coding", "spiking-neural-networks", "visual-illusions"]
-categories: ["Computational Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience", "Visual Neuroscience"]
-projects: [""]
+tags:
+- deep-learning
+- eye-movements
+- motion-perception
+- neuromorphic-computing
+- primary-visual-cortex
+- sparse-coding
+- spiking-neural-networks
+- visual-illusions
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+- Visual Neuroscience
+projects:
+- tout-public
 ---
 <section>
 

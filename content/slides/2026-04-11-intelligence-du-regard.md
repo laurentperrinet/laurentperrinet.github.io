@@ -1,25 +1,29 @@
----
+--- 
 slides:
- # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: white
   reveal_options:
-    transition: 'fade'
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
+    transition: fade
 date: '2026-04-11'
 all_day: false
-
-## Schedule page publish date (NOT talk date).
-publishDate: "2026-04-09T12:47:11+02:00"
-
+publishDate: '2026-04-09T12:47:11+02:00'
 title: 2026-04-11-intelligence-du-regard
-
 summary: L'intelligence du regard
-
-tags: ["eye-movements", "foveated-vision", "log-polar-mapping", "motion-perception", "retinotopy", "sparse-coding", "visual-illusions"]
-categories: ["Behavioural Neuroscience", "Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Theoretical Neuroscience"]
-projects: ["art-science"]
+tags:
+- eye-movements
+- foveated-vision
+- log-polar-mapping
+- motion-perception
+- retinotopy
+- sparse-coding
+- visual-illusions
+categories:
+- Behavioural Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+projects:
+- art-science
+- tout-public
 ---
 <section>
 
@@ -47,11 +51,11 @@ Les objectifs de cet exposé seront multiples :
 ## Art & Sciences révèlent la diversité de notre vision
 
 {{% fragment %}} 
-{{< figure src="https://laurentperrinet.github.io/author/etienne-rey/avatar.jpg" title="[Etienne Rey](https://laurentperrinet.github.io/author/etienne-rey/)" width="35%" >}}
+{{< figure src="https://laurentperrinet.github.io/author/etienne-rey/avatar.jpg" title="[Étienne Rey](https://laurentperrinet.github.io/author/etienne-rey/)" width="35%" >}}
 {{% /fragment %}}
 
 {{< speaker_note >}}
-Tout d'abord, laissez-moi vous présenter mon acolyte dans cette exploration qui m'a permis de lier mon propre projet de recherche avec son travail d'artiste plasticien. Je vous présente Etienne Rey, artiste plasticien résident à la Friche Belle de Mai à Marseille. C'est un artiste reconnu dont on peut voir les œuvres, soit dans l'espace public, soit à Montréal, à Paris ou à Marseille, dans les galeries ou dans des festivals comme Ososphère. Plasticien, ça veut dire créer des œuvres tangibles : tableaux, sculptures ou installations vidéo et interactives.
+Tout d'abord, laissez-moi vous présenter mon acolyte dans cette exploration qui m'a permis de lier mon propre projet de recherche avec son travail d'artiste plasticien. Je vous présente Étienne Rey, artiste plasticien résident à la Friche Belle de Mai à Marseille. C'est un artiste reconnu dont on peut voir les œuvres, soit dans l'espace public, soit à Montréal, à Paris ou à Marseille, dans les galeries ou dans des festivals comme Ososphère. Plasticien, ça veut dire créer des œuvres tangibles : tableaux, sculptures ou installations vidéo et interactives.
 {{< /speaker_note >}}
 
 </section>
@@ -61,7 +65,7 @@ Tout d'abord, laissez-moi vous présenter mon acolyte dans cette exploration qui
 <section>
 ## Art & Sciences révèlent la diversité de notre vision
 
-{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Etienne Rey (2010) Spectre audiographique](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="100%" >}}
+{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Étienne Rey (2010) Spectre audiographique](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="100%" >}}
 {{< speaker_note >}}
 Notre collaboration a commencé quand il m'a invité à présenter mon travail sur la perception visuelle au vernissage de cette œuvre qui représente une visualisation spatio-temporelle du spectre audiographique du son d'une cloche. Il est composé de multiples plaques semi-transparentes et dichroïques, c'est-à-dire ayant la capacité de présenter différentes couleurs selon l'angle de vue. Ce volume sculptural donne, de façon furtive, toute la profondeur de cette expérience sensorielle.
 
@@ -220,9 +224,9 @@ Un autre artiste de cette période est François Morellet — nous célébrons c
 
 ## La perception comme processus émergent
 
-{{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png"  title="[Etienne Rey, Trames](https://laurentperrinet.github.io/post/2018-04-10_trames/)" width="72%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png"  title="[Étienne Rey, Trames](https://laurentperrinet.github.io/post/2018-04-10_trames/)" width="72%" >}}
 {{< speaker_note >}}
-C'est dans ce cadre que nous avons expérimenté avec Etienne Rey sur des trames, qui crée ces interférences. Émergence de nouvelles formes — hexagones comme utilisés à l'Alhambra — espaces tridimensionnels.
+C'est dans ce cadre que nous avons expérimenté avec Étienne Rey sur des trames, qui crée ces interférences. Émergence de nouvelles formes — hexagones comme utilisés à l'Alhambra — espaces tridimensionnels.
 
 Je reviendrai sur le fait que vous pouvez transformer l'image en bougeant les yeux.
 {{< /speaker_note >}}
@@ -230,7 +234,7 @@ Je reviendrai sur le fait que vous pouvez transformer l'image en bougeant les ye
 
 ## La perception comme processus émergent
 
-{{< figure src="https://laurentperrinet.github.io/post/2026-02-20_ososphere/643545855_18444436261109562_1480440487903792518_n.jpg" title="[Etienne Rey (2025) Variable Density, série Delaunay](https://laurentperrinet.github.io/post/2026-02-20_ososphere/)" width="61.8%" >}} 
+{{< figure src="https://laurentperrinet.github.io/post/2026-02-20_ososphere/643545855_18444436261109562_1480440487903792518_n.jpg" title="[Étienne Rey (2025) Variable Density, série Delaunay](https://laurentperrinet.github.io/post/2026-02-20_ososphere/)" width="61.8%" >}} 
 
 {{< speaker_note >}}
 Comment rassembler les pièces du puzzle ?
@@ -282,7 +286,7 @@ La première est Densité Floue : des réseaux de Delaunay à haute entropie, ma
 
 ---
 
-{{< figure src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/Avignon-02.jpg" title="Etienne Rey  (2019) Horizon faille - Densité flou - Sans gravité - une poétique de l’air à Ardenome Avignon  https://www.enrevenantdelexpo.com" lightbox="true" height="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/Avignon-02.jpg" title="Étienne Rey  (2019) Horizon faille - Densité flou - Sans gravité - une poétique de l’air à Ardenome Avignon  https://www.enrevenantdelexpo.com" lightbox="true" height="80%" >}}
 {{< speaker_note >}}
 Limite entre perçu et non perçu.
 {{< /speaker_note >}}
@@ -300,7 +304,7 @@ Dans Caustiques, nous explorons la notion de forme par transformation. C'est une
 
 {{< slide background-image="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png" height="80%" >}}
 
-<!-- {{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png"  title="[Etienne Rey, La vibration des apparences](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)" height="80%" >}} -->
+<!-- {{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png"  title="[Étienne Rey, La vibration des apparences](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)" height="80%" >}} -->
 {{< speaker_note >}}
 Une œuvre centrale est celle-ci — notre affiche. Elle consiste en deux grilles polaires hexagonales, de deux couleurs, celles des supernovæ — oxygène et hydrogène.
 {{< /speaker_note >}}
@@ -308,7 +312,7 @@ Une œuvre centrale est celle-ci — notre affiche. Elle consiste en deux grille
 ---
 
 ## La vibration des apparences
-{{< figure src="https://laurentperrinet.github.io/talk/2026-01-19-art-and-science/featured.jpg" title="[Etienne rey (2025) Polaire](https://laurentperrinet.github.io/author/etienne-rey/)" width="62%" >}}
+{{< figure src="https://laurentperrinet.github.io/talk/2026-01-19-art-and-science/featured.jpg" title="[Étienne Rey (2025) Polaire](https://laurentperrinet.github.io/author/etienne-rey/)" width="62%" >}}
 
 {{< speaker_note >}}
 un zoom permet d'apprécier iterferences - moiré (mohair)
@@ -500,7 +504,7 @@ Encore une fois, Akiyoshi Kitaoka a frappé. Scientifique et vrai artiste. Je vo
 
 ## Art & Sciences révèlent la vision en action 
 
-{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Etienne Rey, Spectre audiographique](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="100%" >}}
+{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Étienne Rey, Spectre audiographique](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="100%" >}}
 {{< speaker_note >}}
 
 donc la vision n'est pas un processus actif, mais un processus actif
@@ -530,7 +534,7 @@ Felice Varini.
 
 ## Art & Sciences révèlent la vision en action : Tropique
 
-{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_b.jpg" title="[Etienne Rey, Tropique](https://ondesparalleles.org/projets/tropique-7/)" width="100%" >}}
+{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_b.jpg" title="[Étienne Rey, Tropique](https://ondesparalleles.org/projets/tropique-7/)" width="100%" >}}
 
 {{< speaker_note >}}
 Nous avons fait cette expérience sur notre première collaboration — Marseille, capitale de la culture 2013. Un vrai péplum : une salle remplie de gouttelettes microscopiques en suspension. Six vidéo projecteurs, douze Kinect, six Raspberry, des Arduino. Et du son.
@@ -555,14 +559,14 @@ Pourquoi les Kinects ? Interaction. Exteroceptif à introspectif. Vraie expérie
 
 ---
 
-{{< figure src="https://laurentperrinet.github.io/post/2016-06-02_elasticite/TRAME_Elasticité.jpg" title="[Etienne Rey, TRAME ÉLASTICITÉ](https://ondesparalleles.org/projets/trame-elasticite-vasarely/)" width="100%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2016-06-02_elasticite/TRAME_Elasticité.jpg" title="[Étienne Rey, TRAME ÉLASTICITÉ](https://ondesparalleles.org/projets/trame-elasticite-vasarely/)" width="100%" >}}
 {{< speaker_note >}}
 
 Autre collaboration de taille: 
 
 DIMENSIONS : 3 M DE HAUT 5 M DE LARGE
 INOX POLI MIROIR / ALUMINIUM / ACIER / MOTEURS / PROGRAMME TEMPS RÉEL
-À la Fondation Vasarely à Aix-en-Provence, Etienne Rey a choisi d’installer dans la salle des Intégrations architectoniques un ballet visuel hypnotique.
+À la Fondation Vasarely à Aix-en-Provence, Étienne Rey a choisi d’installer dans la salle des Intégrations architectoniques un ballet visuel hypnotique.
 Composé d’une succession de lames de miroirs, verticales et rotatives, l’installation Trame se joue des reflets et de la démultiplication de l’espace, offrant au spectateur une multiplicité de points de vue dans lesquels il peut se perdre à loisir. Par un effet de « porosité » recherché par l’artiste, le dispositif dialogue intensément avec les Intégrations.
 {{< /speaker_note >}}
 ---
@@ -679,7 +683,7 @@ L'intelligence du regard est dans son incarnation — cognition incarnée, Varel
 {{< /speaker_note >}}
 
 ---
-{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/04/etienne_rey_horizons_variables_news2.jpg" title="[Etienne Rey, Cristal n2](https://ondesparalleles.org/projets/cristal-n2__trashed/)" width="100%" >}}
+{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/04/etienne_rey_horizons_variables_news2.jpg" title="[Étienne Rey, Cristal n2](https://ondesparalleles.org/projets/cristal-n2__trashed/)" width="100%" >}}
 {{< speaker_note >}}
 {{< /speaker_note >}}
 ---

@@ -1,5 +1,12 @@
----
-abstarct: "In this seminar we will challenge the traditional understanding of neuronal connectivity in primary visual cortex. While current theory suggests that neurons connect preferentially to others with similar orientation preferences, I will present evidence for a more complex connectivity pattern based on a distance-dependent rule: short-range connections show a like-to-like bias, while long-range connections connect more widely. This revised model better explains how the visual cortex processes complex stimuli and accounts for observed variations in neuronal interactions at different scales."
+--- 
+abstarct: 'In this seminar we will challenge the traditional understanding of neuronal
+  connectivity in primary visual cortex. While current theory suggests that neurons
+  connect preferentially to others with similar orientation preferences, I will present
+  evidence for a more complex connectivity pattern based on a distance-dependent rule:
+  short-range connections show a like-to-like bias, while long-range connections connect
+  more widely. This revised model better explains how the visual cortex processes
+  complex stimuli and accounts for observed variations in neuronal interactions at
+  different scales.'
 title: 'When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Processing'
 authors:
 - Laurent U Perrinet
@@ -12,9 +19,16 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-02-11-neuromath
 slides: 2025-02-11-neuromath
-tags: ["lateral-connections", "orientation-selectivity", "primary-visual-cortex"]
-categories: ["Education", "NeuroAI & Machine Learning", "Outreach & Public Engagement", "Visual Neuroscience"]
-projects: [""]
+tags:
+- lateral-connections
+- orientation-selectivity
+- primary-visual-cortex
+categories:
+- Education
+- NeuroAI & Machine Learning
+- Visual Neuroscience
+projects:
+- tout-public
 ---
 > In this seminar we will challenge the traditional understanding of neuronal connectivity in primary visual cortex. While current theory suggests that neurons connect preferentially to others with similar orientation preferences, I will present evidence for a more complex connectivity pattern based on a distance-dependent rule: short-range connections show a like-to-like bias, while long-range connections connect more widely. This revised model better explains how the visual cortex processes complex stimuli and accounts for observed variations in neuronal interactions at different scales.
 * When: Wednesday 11th of February, 2025 from 14:30 to 16h30.
