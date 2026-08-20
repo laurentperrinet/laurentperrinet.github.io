@@ -23,7 +23,6 @@ abstract: The formation of connections between neural cells is essentially emerg
   architectures.
 featured: false
 categories:
-- Education
 - NeuroAI & Machine Learning
 tags:
 - predictive-coding

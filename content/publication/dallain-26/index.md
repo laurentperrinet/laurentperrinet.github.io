@@ -11,7 +11,6 @@ authors:
 categories:
 - Computational Neuroscience
 - Computer Vision
-- Education
 - NeuroAI & Machine Learning
 tags:
 - eye-movements

@@ -21,7 +21,6 @@ abstract: Humans are able to accurately track a moving object with a combination
 featured: false
 categories:
 - Behavioural Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - bayesian-modelling

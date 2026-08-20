@@ -8,7 +8,6 @@ subtitle: '2010-05-27 : Deuxième conférence française de Neurosciences Comput
 draft: false
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - computational-neuroscience

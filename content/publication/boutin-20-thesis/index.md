@@ -27,7 +27,6 @@ abstract: La représentation concise et efficace de l'information est un problè
   vision artificielles plus performants et plus robustes.
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - primary-visual-cortex

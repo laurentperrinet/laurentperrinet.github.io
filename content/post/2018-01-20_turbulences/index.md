@@ -9,7 +9,6 @@ subtitle: Installation in situ, 2018; Collection of the François Schneider Foun
   Wattwiller I 2018
 draft: false
 categories:
-- Education
 - NeuroAI & Machine Learning
 tags:
 - visual-illusions

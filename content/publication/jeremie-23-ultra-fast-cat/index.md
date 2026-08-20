@@ -34,7 +34,6 @@ featured: false
 draft: false
 categories:
 - Behavioural Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:

@@ -22,7 +22,6 @@ abstract: 'Un des objectifs des neurosciences visuelles est de comprendre commen
   servir de modèle général du système visuel.'
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - predictive-coding

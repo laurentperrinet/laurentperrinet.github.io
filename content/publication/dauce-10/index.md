@@ -19,7 +19,6 @@ featured: false
 categories:
 - Biological Neuroscience
 - Computational Neuroscience
-- Education
 - Theoretical Neuroscience
 tags:
 - dynamics

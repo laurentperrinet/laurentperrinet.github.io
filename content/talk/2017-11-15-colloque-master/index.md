@@ -10,7 +10,6 @@ featured: false
 categories:
 - Computational Neuroscience
 - Computer Vision
-- Education
 - NeuroAI & Machine Learning
 publication: '*Colloque : "CODAGES ET REPRESENTATIONS", MASTER DE NEUROSCIENCES 2ème
   année*'

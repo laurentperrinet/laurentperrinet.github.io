@@ -23,7 +23,6 @@ abstract: The primary visual cortex (V1) processes complex mixtures of orientati
 featured: false
 draft: false
 categories:
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience

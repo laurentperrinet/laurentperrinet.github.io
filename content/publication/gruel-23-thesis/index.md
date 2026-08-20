@@ -45,7 +45,6 @@ abstract: 'La vision par ordinateur embarquée est récemment devenue omniprése
   concerne le prétraitement des données événementielles.'
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - spiking-neural-networks

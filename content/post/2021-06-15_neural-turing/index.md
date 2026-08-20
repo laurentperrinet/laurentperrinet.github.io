@@ -9,7 +9,6 @@ subtitle: Modèles de Turing neuronaux
 draft: false
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - visual-illusions

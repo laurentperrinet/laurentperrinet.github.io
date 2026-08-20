@@ -4,7 +4,6 @@ date: '2024-11-18'
 publishDate: '2024-11-03T12:47:11+02:00'
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - eye-movements

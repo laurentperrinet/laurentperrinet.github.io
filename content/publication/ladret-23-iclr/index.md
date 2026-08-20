@@ -23,7 +23,6 @@ draft: false
 categories:
 - Biological Neuroscience
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience

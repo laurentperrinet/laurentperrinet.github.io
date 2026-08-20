@@ -44,7 +44,6 @@ abstract: 'The primary visual cortex (V1) is one of the most studied cortical ar
   models of the visual system.'
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
 tags:

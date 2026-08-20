@@ -5,7 +5,6 @@ publishDate: '2024-10-03T07:45:42.692151Z'
 authors:
 - Laurent U Perrinet
 categories:
-- Education
 - NeuroAI & Machine Learning
 tags:
 - neuromorphic-computing

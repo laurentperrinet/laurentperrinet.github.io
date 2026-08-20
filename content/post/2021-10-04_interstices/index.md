@@ -8,7 +8,6 @@ authors:
 subtitle: Horizon Faille @ interstices, Caen, 2021
 draft: false
 categories:
-- Education
 - NeuroAI & Machine Learning
 tags:
 - art-science

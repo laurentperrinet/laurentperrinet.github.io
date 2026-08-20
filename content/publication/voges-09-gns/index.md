@@ -34,7 +34,6 @@ abstract: 'Most studies of cortical network dynamics are either based on purely 
 featured: false
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - pynn

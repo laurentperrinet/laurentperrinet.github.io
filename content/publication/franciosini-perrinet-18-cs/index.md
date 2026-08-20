@@ -47,7 +47,6 @@ abstract: ' It is widely assumed that visual processing follows a forward sequen
   is made robust by dynamical processes.'
 featured: false
 categories:
-- Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
 tags:

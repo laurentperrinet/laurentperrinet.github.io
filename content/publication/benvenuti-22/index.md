@@ -24,7 +24,6 @@ abstract: What are the neural mechanisms underlying motion integration of transl
 featured: false
 categories:
 - Biological Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
 tags:

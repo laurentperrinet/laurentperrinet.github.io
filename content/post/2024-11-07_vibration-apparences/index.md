@@ -8,7 +8,6 @@ authors:
 subtitle: Une exposition in situ d’Étienne Rey pour le musée Granet.
 draft: false
 categories:
-- Education
 - NeuroAI & Machine Learning
 tags:
 - visual-illusions

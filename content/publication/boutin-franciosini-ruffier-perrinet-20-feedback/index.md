@@ -26,7 +26,6 @@ abstract: Hierarchical Sparse Coding (HSC) is a powerful model to efficiently re
 featured: false
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - bayesian-modelling

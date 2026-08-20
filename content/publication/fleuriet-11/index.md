@@ -31,7 +31,6 @@ abstract: 'When generating a saccade toward a moving target, the target displace
 featured: false
 categories:
 - Biological Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:

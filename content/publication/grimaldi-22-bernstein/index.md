@@ -32,7 +32,6 @@ featured: false
 draft: false
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - metaplasticity

@@ -7,7 +7,6 @@ authors:
 - Hugo Ladret
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 projects:
 - tout-public

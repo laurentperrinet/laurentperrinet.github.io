@@ -33,7 +33,6 @@ abstract: Temporal sequences are an important feature of neural information proc
   sequences, and can be readily generalized to other sequence detection applications.
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 publication: '*Computational and Systems Neuroscience (Cosyne)  2025*'
 publication_types:

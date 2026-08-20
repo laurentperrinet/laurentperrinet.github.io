@@ -29,7 +29,6 @@ abstract: Most studies on the dynamics of recurrent cortical networks are either
 featured: false
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - spiking-neural-networks

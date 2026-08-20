@@ -26,7 +26,6 @@ abstract: Animal behavior must constantly adapt to changes, for example when the
 featured: false
 categories:
 - Behavioural Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - bayesian-modelling

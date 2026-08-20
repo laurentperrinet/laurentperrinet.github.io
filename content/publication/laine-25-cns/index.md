@@ -11,7 +11,6 @@ authors:
 - Laurent U Perrinet
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
 tags:

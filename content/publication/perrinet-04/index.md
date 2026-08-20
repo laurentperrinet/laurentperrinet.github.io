@@ -26,7 +26,6 @@ abstract: To understand possible strategies of temporal spike coding in the cent
   of the visual input.
 featured: false
 categories:
-- Education
 - Theoretical Neuroscience
 tags:
 - sparse-coding

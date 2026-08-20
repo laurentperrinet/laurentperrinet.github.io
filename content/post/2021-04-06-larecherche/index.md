@@ -7,7 +7,6 @@ featured: true
 draft: false
 categories:
 - Behavioural Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - visual-illusions

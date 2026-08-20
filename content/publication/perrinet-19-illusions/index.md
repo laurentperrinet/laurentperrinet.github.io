@@ -20,7 +20,6 @@ abstract: Les illusions visuelles sont des créations d'artistes, de scientifiqu
 featured: false
 categories:
 - Behavioural Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - primary-visual-cortex

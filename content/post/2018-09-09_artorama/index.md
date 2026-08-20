@@ -9,7 +9,6 @@ subtitle: Installation (sérigraphie, dessin mural, lumière), 2018;  Guest arti
   Mécènes du Sud / Art-O-Rama (Fair), Marseille I 2018.
 draft: false
 categories:
-- Education
 - NeuroAI & Machine Learning
 tags:
 - art-science

@@ -7,7 +7,6 @@ authors:
 featured: false
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - sparse-coding

@@ -8,7 +8,6 @@ authors:
 featured: false
 categories:
 - Computational Neuroscience
-- Education
 tags:
 - computational-neuroscience
 publication: '*Proceedings of NeuroComp08, Marseille*'

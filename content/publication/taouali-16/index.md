@@ -30,7 +30,6 @@ abstract: 'The repeated presentation of an identical visual stimulus in the rece
 featured: false
 categories:
 - Biological Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - bayesian-modelling

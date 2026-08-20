@@ -5,7 +5,6 @@ publishDate: '2025-02-04T12:47:11+02:00'
 categories:
 - Computational Neuroscience
 - Computer Vision
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience

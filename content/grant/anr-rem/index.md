@@ -3,7 +3,6 @@ title: ANR REM (2013/2016)
 date: 2016-04-27 00:00:00
 categories:
 - Behavioural Neuroscience
-- Education
 - Theoretical Neuroscience
 tags:
 - past-grant

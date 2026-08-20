@@ -2,7 +2,6 @@
 title: 2020-12-10_agileneurobot_anr
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:

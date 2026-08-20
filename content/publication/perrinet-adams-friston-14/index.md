@@ -26,7 +26,6 @@ abstract: This paper considers the problem of sensorimotor delays in the optimal
 categories:
 - Behavioural Neuroscience
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:

@@ -8,7 +8,6 @@ authors:
 featured: false
 categories:
 - Behavioural Neuroscience
-- Education
 tags:
 - eye-movements
 - motion-clouds

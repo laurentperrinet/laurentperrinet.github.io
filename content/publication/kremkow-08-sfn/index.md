@@ -46,7 +46,6 @@ categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
 - Computational Neuroscience
-- Education
 - Visual Neuroscience
 tags:
 - primary-visual-cortex

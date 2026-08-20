@@ -10,7 +10,6 @@ authors:
 featured: false
 categories:
 - Computational Neuroscience
-- Education
 tags:
 - motion-clouds
 - motion-perception

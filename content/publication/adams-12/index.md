@@ -30,7 +30,6 @@ categories:
 - Behavioural Neuroscience
 - Clinical Neuroscience
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - bayesian-modelling

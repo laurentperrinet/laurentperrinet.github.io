@@ -4,7 +4,6 @@ date: '2026-03-05'
 publishDate: '2026-03-05T06:47:11+02:00'
 categories:
 - Behavioural Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience

@@ -11,7 +11,6 @@ featured: false
 draft: false
 categories:
 - Biological Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
 tags:

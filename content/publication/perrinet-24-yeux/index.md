@@ -13,7 +13,6 @@ abstract: 'Grâce à nos yeux, l’organe sensible de la vision, nous pouvons ai
 featured: false
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 projects:
 - tout-public

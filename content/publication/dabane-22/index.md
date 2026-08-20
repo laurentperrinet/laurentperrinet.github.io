@@ -26,7 +26,6 @@ draft: false
 categories:
 - Computational Neuroscience
 - Computer Vision
-- Education
 - NeuroAI & Machine Learning
 tags:
 - attention-mechanism

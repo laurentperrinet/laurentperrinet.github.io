@@ -8,7 +8,6 @@ categories:
 - Biological Neuroscience
 - Computational Neuroscience
 - Computer Vision
-- Education
 - Visual Neuroscience
 tags:
 - past-grant

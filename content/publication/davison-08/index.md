@@ -32,7 +32,6 @@ abstract: Computational neuroscience has produced a diversity of software for si
 featured: false
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - neural-simulation

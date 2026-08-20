@@ -17,7 +17,6 @@ abstract: It is generally assumed that neurons in the central nervous system com
 featured: false
 categories:
 - Computational Neuroscience
-- Education
 tags:
 - sparse-coding
 - spiking-neural-networks

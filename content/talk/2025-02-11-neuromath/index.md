@@ -5,7 +5,6 @@ publishDate: '2024-12-23T15:12:20.504112Z'
 authors:
 - Laurent U Perrinet
 categories:
-- Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
 tags:

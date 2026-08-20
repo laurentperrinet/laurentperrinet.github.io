@@ -32,7 +32,6 @@ abstract: 'Accurate time-series forecasting is essential across a multitude of s
   learning.'
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - predictive-coding

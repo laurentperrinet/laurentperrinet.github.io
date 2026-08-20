@@ -61,7 +61,6 @@ abstract: 'Cells in the primary visual cortex of mammals (V1) have historically 
 featured: false
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience

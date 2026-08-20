@@ -26,7 +26,6 @@ abstract: Nous avons expliqué comment le système visuel intègre les informati
   et à l'incohérence complète.
 categories:
 - Behavioural Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - aperture-problem

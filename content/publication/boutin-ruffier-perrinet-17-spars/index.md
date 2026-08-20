@@ -33,7 +33,6 @@ featured: false
 categories:
 - Behavioural Neuroscience
 - Computational Neuroscience
-- Education
 - Theoretical Neuroscience
 tags:
 - homeostasis

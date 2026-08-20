@@ -7,7 +7,6 @@ authors:
 featured: false
 categories:
 - Computational Neuroscience
-- Education
 tags:
 - sparse-coding
 publication: '*Actes de Neurosciences et Sciences de l''Ingenieur, L''Agelonde,*'

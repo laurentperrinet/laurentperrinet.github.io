@@ -23,7 +23,6 @@ abstract: Moving objects generate motion information at different scales, which 
 featured: true
 categories:
 - Behavioural Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - eye-movements

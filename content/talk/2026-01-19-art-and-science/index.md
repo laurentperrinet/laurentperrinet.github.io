@@ -22,7 +22,6 @@ abstract: 'By construction, deep convolutional networks treat all pixels equally
 categories:
 - Computational Neuroscience
 - Computer Vision
-- Education
 - NeuroAI & Machine Learning
 tags:
 - eye-movements

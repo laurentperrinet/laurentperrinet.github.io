@@ -26,7 +26,6 @@ abstract: Neurons in the primary visual cortex are selective to orientation with
 featured: true
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience

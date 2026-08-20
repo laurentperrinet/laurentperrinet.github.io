@@ -30,7 +30,6 @@ abstract: 'The formation of structure in the visual system, that is, of the conn
 featured: false
 categories:
 - Computer Vision
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:

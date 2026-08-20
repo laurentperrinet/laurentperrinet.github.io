@@ -28,7 +28,6 @@ abstract: 'The visual system does not process information instantaneously, but r
 featured: false
 categories:
 - Behavioural Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - eye-movements

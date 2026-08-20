@@ -8,7 +8,6 @@ authors:
 subtitle: Sans gravité – une poétique de l’air – Ardenome à Avignon
 draft: false
 categories:
-- Education
 - NeuroAI & Machine Learning
 tags:
 - visual-illusions

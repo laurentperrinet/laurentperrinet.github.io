@@ -9,7 +9,6 @@ authors:
 featured: false
 categories:
 - Computational Neuroscience
-- Education
 tags:
 - feed-forward-inhibition
 - large-scale-networks

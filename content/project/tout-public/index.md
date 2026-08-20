@@ -2,7 +2,6 @@
 title: Tout public!
 date: 2016-04-27 00:00:00
 categories:
-- Education
 tags:
 - etiennerey
 - research-interests

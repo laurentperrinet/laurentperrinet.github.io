@@ -20,7 +20,6 @@ abstract: Visual areas are essential in transforming the raw luminous signal int
 categories:
 - Biological Neuroscience
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:

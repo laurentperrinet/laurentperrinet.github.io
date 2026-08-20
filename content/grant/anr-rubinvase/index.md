@@ -4,7 +4,6 @@ date: 2021-04-01 00:00:00
 authors:
 - laurent-u-perrinet
 categories:
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:

@@ -26,7 +26,6 @@ featured: false
 categories:
 - Behavioural Neuroscience
 - Computer Vision
-- Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
 tags:

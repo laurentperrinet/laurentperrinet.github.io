@@ -35,7 +35,6 @@ featured: false
 categories:
 - Biological Neuroscience
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - eye-movements

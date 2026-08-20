@@ -7,7 +7,6 @@ authors:
 featured: false
 categories:
 - Computational Neuroscience
-- Education
 tags:
 - sparse-coding
 - spiking-neural-networks

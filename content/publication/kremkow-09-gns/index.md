@@ -41,7 +41,6 @@ abstract: 'Neurons receive a large number of excitatory and inhibitory synaptic 
 featured: false
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - spiking-neural-networks

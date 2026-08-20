@@ -6,7 +6,6 @@ authors:
 - laurent-u-perrinet
 categories:
 - Behavioural Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
 tags:

@@ -6,7 +6,6 @@ authors:
 - laurent-u-perrinet
 categories:
 - Biological Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - past-grant

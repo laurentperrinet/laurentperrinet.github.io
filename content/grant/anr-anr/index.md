@@ -8,7 +8,6 @@ authors:
 - laurent-u-perrinet
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:

@@ -10,7 +10,6 @@ featured: false
 categories:
 - Behavioural Neuroscience
 - Computational Neuroscience
-- Education
 tags:
 - bayesian-modelling
 - eye-movements

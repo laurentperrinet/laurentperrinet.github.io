@@ -30,7 +30,6 @@ categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
 - Computer Vision
-- Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
 tags:

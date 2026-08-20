@@ -24,7 +24,6 @@ abstract: 'In low-level sensory systems, it is still unclear how the noisy infor
 featured: false
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - bayesian-modelling

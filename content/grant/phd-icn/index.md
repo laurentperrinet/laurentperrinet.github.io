@@ -5,7 +5,6 @@ authors:
 - angelo-franciosini
 - laurent-u-perrinet
 categories:
-- Education
 - NeuroAI & Machine Learning
 tags:
 - past-grant

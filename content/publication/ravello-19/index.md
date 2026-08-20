@@ -26,7 +26,6 @@ abstract: Motion detection represents one of the critical tasks of the visual sy
 featured: false
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - motion-perception

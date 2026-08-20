@@ -17,7 +17,6 @@ abstract: Natural images follow statistics inherited by the structure of our phy
 featured: false
 categories:
 - Biological Neuroscience
-- Education
 tags:
 - primary-visual-cortex
 - sparse-coding

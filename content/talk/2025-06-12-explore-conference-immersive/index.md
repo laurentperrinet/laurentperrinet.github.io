@@ -14,7 +14,6 @@ abstract: 'Ouvrez grand les yeux… mais méfiez-vous de ce qu’ils vous montre
   : ce que nous voyons n’est pas toujours ce qui est.'
 categories:
 - Behavioural Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - visual-illusions

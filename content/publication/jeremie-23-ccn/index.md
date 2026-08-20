@@ -12,7 +12,6 @@ featured: false
 draft: false
 categories:
 - Computational Neuroscience
-- Education
 tags:
 - efficient-coding
 - foveated-vision

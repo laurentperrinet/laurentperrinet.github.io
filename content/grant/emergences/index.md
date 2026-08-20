@@ -4,7 +4,6 @@ date: 2023-10-05 14:00:00
 authors:
 - laurent-u-perrinet
 categories:
-- Education
 - NeuroAI & Machine Learning
 tags:
 - current-grant

@@ -37,7 +37,6 @@ abstract: 'It is still not fully understood how visual system integrates motion 
 featured: false
 categories:
 - Behavioural Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - motion-perception

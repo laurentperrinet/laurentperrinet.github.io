@@ -32,7 +32,6 @@ featured: true
 categories:
 - Computational Neuroscience
 - Computer Vision
-- Education
 tags:
 - neuromorphic-computing
 publication_types:

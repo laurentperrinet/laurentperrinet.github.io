@@ -9,7 +9,6 @@ featured: false
 draft: false
 categories:
 - Computational Neuroscience
-- Education
 tags:
 - bio-mimetic
 - predictive-coding

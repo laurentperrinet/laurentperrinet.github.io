@@ -23,7 +23,6 @@ featured: false
 categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:

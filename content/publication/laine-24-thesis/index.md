@@ -34,7 +34,6 @@ abstract: Les récentes avancées technologiques en neurobiologie ont ouvert la 
   et neurosciences computationnelles.
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 publication_types:
 - thesis

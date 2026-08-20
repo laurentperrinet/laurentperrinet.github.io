@@ -10,7 +10,6 @@ categories:
 - Behavioural Neuroscience
 - Computational Neuroscience
 - Computer Vision
-- Education
 - NeuroAI & Machine Learning
 tags:
 - neuromorphic-computing

@@ -3,7 +3,6 @@ title: Example Page
 date: 2018-09-09 00:00:00
 draft: false
 categories:
-- Education
 linktitle: Example Page
 menu:
   tutorial:

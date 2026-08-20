@@ -9,7 +9,6 @@ authors:
 featured: false
 categories:
 - Behavioural Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - eye-movements

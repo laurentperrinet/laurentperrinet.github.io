@@ -4,7 +4,6 @@ date: 2019-04-15 10:00:00
 categories:
 - Computational Neuroscience
 - Computer Vision
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:

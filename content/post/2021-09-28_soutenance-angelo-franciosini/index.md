@@ -10,7 +10,6 @@ subtitle: Angelo Franciosini (Equipe NeOpTo) a soutenu sa thèse de doctorat le 
 draft: false
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience

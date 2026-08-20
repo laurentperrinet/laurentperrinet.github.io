@@ -33,7 +33,6 @@ abstract: The flash lag effect (FLE) is a well known visual illusion that reveal
 featured: false
 categories:
 - Behavioural Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:

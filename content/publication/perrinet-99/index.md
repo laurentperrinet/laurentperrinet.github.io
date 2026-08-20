@@ -6,7 +6,6 @@ authors:
 featured: false
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - rank-order-coding

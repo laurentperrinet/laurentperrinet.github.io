@@ -9,7 +9,6 @@ categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
 - Computational Neuroscience
-- Education
 - Visual Neuroscience
 tags:
 - past-grant

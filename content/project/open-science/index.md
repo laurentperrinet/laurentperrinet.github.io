@@ -3,7 +3,6 @@ title: Open Science
 date: 2016-04-27 00:00:00
 categories:
 - Computer Vision
-- Education
 tags:
 - motion-clouds
 - pynn

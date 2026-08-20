@@ -8,7 +8,6 @@ authors:
 - laurent-madelain
 categories:
 - Behavioural Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:

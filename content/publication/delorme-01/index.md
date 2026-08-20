@@ -16,7 +16,6 @@ abstract: Rank Order Coding is an alternative to conventional rate coding scheme
   the ...
 featured: false
 categories:
-- Education
 - Theoretical Neuroscience
 tags:
 - metaplasticity

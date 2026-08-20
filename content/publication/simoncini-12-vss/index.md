@@ -26,7 +26,6 @@ abstract: Under natural viewing conditions, small movements of the eyes prevent 
 featured: false
 categories:
 - Behavioural Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - eye-movements

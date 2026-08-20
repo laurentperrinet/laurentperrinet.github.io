@@ -33,7 +33,6 @@ abstract: 'Humans are able to interact successfully with moving objects in our d
 featured: false
 categories:
 - Behavioural Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - motion-perception

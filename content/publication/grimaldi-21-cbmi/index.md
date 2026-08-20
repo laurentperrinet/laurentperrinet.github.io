@@ -27,7 +27,6 @@ abstract: 'We propose a neuromimetic architecture able to perform pattern recogn
 featured: false
 draft: false
 categories:
-- Education
 - NeuroAI & Machine Learning
 tags:
 - homeostasis

@@ -2,7 +2,6 @@
 title: Art <> Sciences
 subtitle: Interactions entre art et sciences
 categories:
-- Education
 - Research Projects
 tags:
 - research-interests

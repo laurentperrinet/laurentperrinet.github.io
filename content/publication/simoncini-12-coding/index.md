@@ -36,7 +36,6 @@ abstract: 'To measure speed and direction of moving objects, the cortical motion
 featured: false
 categories:
 - Behavioural Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - eye-movements

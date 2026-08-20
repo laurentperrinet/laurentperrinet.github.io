@@ -37,7 +37,6 @@ featured: false
 categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - bayesian-modeling

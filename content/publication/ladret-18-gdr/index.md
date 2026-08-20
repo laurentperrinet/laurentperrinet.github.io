@@ -23,7 +23,6 @@ abstract: The selectivity of the visual system to oriented patterns is very well
 featured: false
 categories:
 - Behavioural Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
 tags:

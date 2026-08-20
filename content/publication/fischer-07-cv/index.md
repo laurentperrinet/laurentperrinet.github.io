@@ -31,7 +31,6 @@ abstract: 'Meanwhile biorthogonal wavelets got a very popular image processing t
 featured: false
 categories:
 - Computer Vision
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience

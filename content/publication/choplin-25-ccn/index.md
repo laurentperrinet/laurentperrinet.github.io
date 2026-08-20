@@ -17,7 +17,6 @@ abstract: This study investigates the use of Riemannian geometry to classify men
   that spatial information is distributed evenly across all explored frequency bands.
 categories:
 - Behavioural Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - classification

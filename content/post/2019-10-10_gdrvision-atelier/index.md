@@ -6,7 +6,6 @@ authors:
 featured: false
 draft: false
 categories:
-- Education
 - NeuroAI & Machine Learning
 tags:
 - vision

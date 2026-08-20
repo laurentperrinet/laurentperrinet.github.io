@@ -28,7 +28,6 @@ abstract: Un défi majeur pour les organismes vivants est leur capacité d’ada
   et par renforcement.
 categories:
 - Behavioural Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - eye-movements

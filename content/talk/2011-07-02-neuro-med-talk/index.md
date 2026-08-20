@@ -14,7 +14,6 @@ abstract: Sensory informations such as visual images are inherently variable. We
 featured: false
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - bayesian-modelling

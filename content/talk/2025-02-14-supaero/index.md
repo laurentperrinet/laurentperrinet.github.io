@@ -23,7 +23,6 @@ abstract: L'intelligence artificielle, plus précisément l'apprentissage profon
   pour des applications de vision par ordinateur efficaces et peu gourmandes en énergie,
   particulièrement adaptées à la robotique.
 categories:
-- Education
 - NeuroAI & Machine Learning
 tags:
 - deep-learning

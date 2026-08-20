@@ -8,7 +8,6 @@ authors:
 featured: false
 categories:
 - Computational Neuroscience
-- Education
 tags:
 - sparse-coding
 publication: '*Neurocomputing*'

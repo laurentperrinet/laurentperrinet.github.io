@@ -12,7 +12,6 @@ draft: false
 categories:
 - Biological Neuroscience
 - Computer Vision
-- Education
 - Visual Neuroscience
 tags:
 - active-inference

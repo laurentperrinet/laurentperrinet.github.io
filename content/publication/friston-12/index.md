@@ -24,7 +24,6 @@ featured: true
 categories:
 - Behavioural Neuroscience
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - active-inference

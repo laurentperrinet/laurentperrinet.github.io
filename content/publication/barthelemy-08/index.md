@@ -33,7 +33,6 @@ abstract: 'Integrating information is essential to measure the physical 2D motio
 featured: false
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - bayesian-modelling

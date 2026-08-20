@@ -25,7 +25,6 @@ featured: false
 draft: false
 categories:
 - Computer Vision
-- Education
 - NeuroAI & Machine Learning
 tags:
 - motion-perception

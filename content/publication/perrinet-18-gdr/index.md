@@ -22,7 +22,6 @@ abstract: 'Recording eye movements is a technique that attracts an increasing nu
 featured: false
 categories:
 - Computer Vision
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:

@@ -35,7 +35,6 @@ abstract: Cette thèse vise à comprendre les fondements et les fonctions des ca
   la récurrence dans l'ensemble du cortex.
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 publication_types:
 - thesis

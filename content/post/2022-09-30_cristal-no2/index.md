@@ -8,7 +8,6 @@ authors:
 subtitle: Cristal N°2 - Arbre théorique / 2014
 draft: false
 categories:
-- Education
 - NeuroAI & Machine Learning
 tags:
 - visual-illusions

@@ -30,7 +30,6 @@ abstract: Neurons in the primary visual cortex are known for responding vigorous
 featured: false
 categories:
 - Computational Neuroscience
-- Education
 - Visual Neuroscience
 tags:
 - primary-visual-cortex

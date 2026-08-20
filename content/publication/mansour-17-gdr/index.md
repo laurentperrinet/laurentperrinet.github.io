@@ -36,7 +36,6 @@ abstract: 'The properties of motion processing for driving smooth eye movements 
 featured: false
 categories:
 - Behavioural Neuroscience
-- Education
 tags:
 - eye-movements
 - motion-perception

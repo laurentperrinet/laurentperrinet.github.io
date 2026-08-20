@@ -41,7 +41,6 @@ abstract: Oriented edges in images of natural scenes tend to be aligned in colli
 featured: false
 categories:
 - Behavioural Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
 tags:

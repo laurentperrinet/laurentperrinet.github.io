@@ -40,7 +40,6 @@ abstract: 'Notre cerveau est extrêmement efficace pour résoudre des tâches vi
   des enregistrements de neurones réels.'
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 publication_types:
 - thesis

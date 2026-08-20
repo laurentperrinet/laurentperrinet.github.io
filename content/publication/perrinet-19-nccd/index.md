@@ -42,7 +42,6 @@ abstract: 'When objects are in motion, the local orientation of their contours a
 featured: false
 categories:
 - Biological Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
 tags:

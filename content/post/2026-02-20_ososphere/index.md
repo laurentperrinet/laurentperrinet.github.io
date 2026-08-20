@@ -8,7 +8,6 @@ authors:
 subtitle: 'Du 20 février au 8 mars 2026 : exposition Ososphère à la Laiterie (Strasbourg).'
 draft: false
 categories:
-- Education
 - NeuroAI & Machine Learning
 tags:
 - visual-illusions

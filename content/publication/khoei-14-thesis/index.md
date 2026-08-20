@@ -27,7 +27,6 @@ abstract: 'Cette thèse est centralisée sur cette question : comment est-ce que
   et robuste peut être fortement dépendant de l''intégration le long de la trajectoire.'
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - bayesian-modelling

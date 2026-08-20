@@ -4,7 +4,6 @@ date: '2024-09-09'
 publishDate: '2024-09-06T12:47:11+02:00'
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:

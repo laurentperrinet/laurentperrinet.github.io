@@ -32,7 +32,6 @@ abstract: One core advantage of sparse representations is the efficient coding o
 featured: false
 categories:
 - Computational Neuroscience
-- Education
 - Theoretical Neuroscience
 tags:
 - homeostasis

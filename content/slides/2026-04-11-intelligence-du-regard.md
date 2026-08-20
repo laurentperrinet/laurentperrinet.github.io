@@ -4,7 +4,6 @@ date: '2026-04-11'
 publishDate: '2026-04-09T12:47:11+02:00'
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
 tags:

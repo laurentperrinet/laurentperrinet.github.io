@@ -2,7 +2,6 @@
 title: 2022-07-01_grimaldi-22-areadne
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:

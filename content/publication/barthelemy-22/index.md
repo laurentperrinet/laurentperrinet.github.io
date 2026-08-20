@@ -45,7 +45,6 @@ draft: false
 categories:
 - Behavioural Neuroscience
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - eye-movements

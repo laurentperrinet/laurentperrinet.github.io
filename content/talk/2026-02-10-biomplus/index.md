@@ -6,7 +6,6 @@ authors:
 - Laurent U Perrinet
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 publication: '*Séminaire en ligne biomimétisme et neurosciences*'
 links:

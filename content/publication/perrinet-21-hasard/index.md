@@ -15,7 +15,6 @@ abstract: Dans la pièce de théâtre la plus célèbre de Marivaux Le jeu de l'
 featured: false
 categories:
 - Behavioural Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - visual-illusions

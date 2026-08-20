@@ -47,7 +47,6 @@ abstract: 'Most studies of cor tical network dynamics are either based on purely
 featured: false
 categories:
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 tags:
 - bayesian-modelling

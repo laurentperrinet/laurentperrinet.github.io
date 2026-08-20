@@ -33,7 +33,6 @@ categories:
 - Biological Neuroscience
 - Computational Neuroscience
 - Computer Vision
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience

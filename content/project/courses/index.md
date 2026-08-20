@@ -2,7 +2,6 @@
 title: Cours et tutoriels
 date: 2020-04-05 00:00:00
 categories:
-- Education
 - Research Projects
 tags:
 - research-interests

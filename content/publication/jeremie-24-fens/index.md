@@ -8,7 +8,6 @@ authors:
 - Laurent U Perrinet
 categories:
 - Computational Neuroscience
-- Education
 tags:
 - convolutional-neural-networks
 - foveated-vision

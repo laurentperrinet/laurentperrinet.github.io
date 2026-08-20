@@ -29,7 +29,6 @@ categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
 - Computational Neuroscience
-- Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:

@@ -11,7 +11,6 @@ authors:
 featured: false
 categories:
 - Computational Neuroscience
-- Education
 tags:
 - pynn
 publication: '*Annual Computational Neuroscience Meeting: BMC Neuroscience*'
