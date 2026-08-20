@@ -9,20 +9,16 @@ grants:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/2023-01-31_formes-et-perception
-- tout-public
-- art-science
 title: Formes et perception
 tags:
 - foveated-vision
-- log-polar-mapping
 - retinotopy
 - visual-illusions
 categories:
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
+- Visual Neuroscience
 projects:
 - art-science
+- tout-public
 ---
 
 {{< figure src="retinotopy_dpi800.png" title="*Rétinotopie.* L’image du tableau “Les Ambassadeurs” de Hans Holbein le Jeune peut être représentée sur une grille régulière représentée par des lignes verticales (rouges) et horizontales (bleues). La rétinotopie transforme radicalement cette grille, et en particulier la zone représentant la fovéa (en gris) occupe environ la moitié de l’espace dans l’espace rétinien. Appliquée à l’image originale du portrait, l’image est fortement déformée et représente plus finalement les parties situées sous l’axe de vision (ici la main)." numbered="true" >}}

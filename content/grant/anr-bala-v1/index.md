@@ -10,8 +10,6 @@ tags:
 categories:
 - Biological Neuroscience
 - Computational Neuroscience
-- Education
-- Grants & Funding
 - Visual Neuroscience
 ---
 # ANR BalaV1: Balanced states in area V1 (2013/2016)

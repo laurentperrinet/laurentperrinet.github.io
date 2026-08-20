@@ -13,8 +13,7 @@ tags:
 - eye-movements
 - visual-illusions
 categories:
-- Education
-- NeuroAI & Machine Learning
+- Visual Neuroscience
 projects:
 - art-science
 ---

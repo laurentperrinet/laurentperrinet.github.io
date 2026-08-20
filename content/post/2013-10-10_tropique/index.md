@@ -13,7 +13,7 @@ tags:
 - art-science
 - visual-illusions
 categories:
-- Education
+- Visual Neuroscience
 projects:
 - art-science
 ---

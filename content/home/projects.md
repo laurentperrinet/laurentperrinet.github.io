@@ -8,6 +8,6 @@ content:
   filter_default: 0
 design:
   columns: '1'
-  view: 3
+  view: card
   flip_alt_rows: true
 ---

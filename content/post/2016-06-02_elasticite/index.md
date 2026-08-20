@@ -16,9 +16,7 @@ tags:
 - spiking-neural-networks
 - visual-illusions
 categories:
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
+- Visual Neuroscience
 projects:
 - art-science
 ---

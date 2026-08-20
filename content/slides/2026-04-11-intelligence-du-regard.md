@@ -17,10 +17,10 @@ tags:
 - sparse-coding
 - visual-illusions
 categories:
-- Behavioural Neuroscience
+- Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-- Theoretical Neuroscience
+- Visual Neuroscience
 projects:
 - art-science
 - tout-public

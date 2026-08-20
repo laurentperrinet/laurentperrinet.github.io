@@ -41,9 +41,7 @@ tags:
 - motion-perception
 - visual-illusions
 categories:
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
+- Visual Neuroscience
 projects:
 - art-science
 ---

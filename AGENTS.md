@@ -73,7 +73,6 @@ Select one or more based on the primary contribution of the work:
 - `NeuroAI & Machine Learning`: Actual AI architectures, neuromorphic hardware, or ML optimization.
 - `Computer Vision`: Computer vision algorithms, benchmarks, and image processing tools.
 - `Clinical Neuroscience`: Medical/clinical applications (Specialty).
-- `Education`: Courses, teaching material, PhD training.
 
 #### 2. Tags (Topics & Tooling)
 Use kebab-case for all tags.
@@ -86,6 +85,7 @@ Link works to one of these core projects via the `projects:` field:
 - `art-science`: Collaborative art, exhibitions (e.g., Étienne Rey), and museum work.
 - `open-science`: Open source software (MotionClouds), open data, reproducibility.
 - `tout-public`: Content specifically designed for a non-specialist audience.
+- `courses`: Courses, teaching material, PhD training.
 
 #### 4. Grants & Author Logic
 - **Grants**: Must use the `grants:` key followed by a list of identifiers (e.g., `- facets`). Never leave orphaned grant items without the key.
