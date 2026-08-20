@@ -10,9 +10,6 @@ image:
   focal_point: Smart
   placement: 2
   preview_only: false
-links:
-- name: URL
-  url: https://emergences.lirmm.fr/
 title: Emergences (2023 / 2027)
 tags:
 - bayesian-modelling
