@@ -19,8 +19,6 @@ tags:
 - foveated-vision
 - log-polar-mapping
 - retinotopy
-projects:
-- tout-public
 publication_types:
 - thesis
 ---
