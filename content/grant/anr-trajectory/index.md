@@ -9,7 +9,6 @@ categories:
 - Computational Neuroscience
 - Computer Vision
 - Education
-- Grants & Funding
 - Visual Neuroscience
 tags:
 - past-grant

@@ -5,7 +5,6 @@ authors:
 - laurent-u-perrinet
 categories:
 - Computational Neuroscience
-- Grants & Funding
 - NeuroAI & Machine Learning
 tags:
 - current-grant

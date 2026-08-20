@@ -7,7 +7,6 @@ authors:
 categories:
 - Biological Neuroscience
 - Education
-- Grants & Funding
 - NeuroAI & Machine Learning
 tags:
 - past-grant

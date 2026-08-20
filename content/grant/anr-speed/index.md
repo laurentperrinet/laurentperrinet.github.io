@@ -5,7 +5,6 @@ categories:
 - Behavioural Neuroscience
 - Computational Neuroscience
 - Education
-- Grants & Funding
 tags:
 - past-grant
 - eye-movements

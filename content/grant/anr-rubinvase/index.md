@@ -5,7 +5,6 @@ authors:
 - laurent-u-perrinet
 categories:
 - Education
-- Grants & Funding
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:

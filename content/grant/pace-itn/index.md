@@ -6,7 +6,6 @@ authors:
 - laurent-u-perrinet
 categories:
 - Behavioural Neuroscience
-- Grants & Funding
 - NeuroAI & Machine Learning
 tags:
 - past-grant

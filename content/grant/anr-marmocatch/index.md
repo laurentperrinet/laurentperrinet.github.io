@@ -8,7 +8,6 @@ authors:
 categories:
 - Biological Neuroscience
 - Education
-- Grants & Funding
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:

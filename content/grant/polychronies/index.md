@@ -7,7 +7,6 @@ authors:
 - laurent-u-perrinet
 categories:
 - Computational Neuroscience
-- Grants & Funding
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:

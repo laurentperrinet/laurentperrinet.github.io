@@ -9,7 +9,6 @@ categories:
 - Biological Neuroscience
 - Computational Neuroscience
 - Education
-- Grants & Funding
 - NeuroAI & Machine Learning
 tags:
 - past-grant

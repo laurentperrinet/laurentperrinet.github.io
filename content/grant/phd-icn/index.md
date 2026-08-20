@@ -6,7 +6,6 @@ authors:
 - laurent-u-perrinet
 categories:
 - Education
-- Grants & Funding
 - NeuroAI & Machine Learning
 tags:
 - past-grant

@@ -5,7 +5,6 @@ categories:
 - Computational Neuroscience
 - Computer Vision
 - Education
-- Grants & Funding
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:

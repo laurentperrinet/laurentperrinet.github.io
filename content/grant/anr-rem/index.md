@@ -4,7 +4,6 @@ date: 2016-04-27 00:00:00
 categories:
 - Behavioural Neuroscience
 - Education
-- Grants & Funding
 - Theoretical Neuroscience
 tags:
 - past-grant

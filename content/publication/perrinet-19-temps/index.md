@@ -13,7 +13,7 @@ featured: false
 categories:
 - Behavioural Neuroscience
 - Computational Neuroscience
-- Education
+- Theoretical Neuroscience
 - NeuroAI & Machine Learning
 tags:
 - primary-visual-cortex

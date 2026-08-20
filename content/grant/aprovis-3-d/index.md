@@ -8,7 +8,6 @@ categories:
 - Computational Neuroscience
 - Computer Vision
 - Education
-- Grants & Funding
 - NeuroAI & Machine Learning
 tags:
 - past-grant

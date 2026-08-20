@@ -5,7 +5,6 @@ authors:
 - victor-boutin
 - laurent-u-perrinet
 categories:
-- Grants & Funding
 - NeuroAI & Machine Learning
 tags:
 - past-grant

@@ -7,7 +7,6 @@ authors:
 categories:
 - Biological Neuroscience
 - Computational Neuroscience
-- Grants & Funding
 tags:
 - past-grant
 - neuromorphic-computing

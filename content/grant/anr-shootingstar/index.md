@@ -7,7 +7,6 @@ authors:
 categories:
 - Behavioural Neuroscience
 - Education
-- Grants & Funding
 - NeuroAI & Machine Learning
 - Visual Neuroscience
 tags:

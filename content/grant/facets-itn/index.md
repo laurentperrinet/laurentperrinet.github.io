@@ -8,7 +8,6 @@ categories:
 - Biological Neuroscience
 - Computational Neuroscience
 - Education
-- Grants & Funding
 tags:
 - past-grant
 - neuromorphic-computing

@@ -10,7 +10,6 @@ categories:
 - Biological Neuroscience
 - Computational Neuroscience
 - Education
-- Grants & Funding
 - Visual Neuroscience
 tags:
 - past-grant

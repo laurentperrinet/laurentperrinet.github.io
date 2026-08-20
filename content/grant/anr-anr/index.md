@@ -9,7 +9,6 @@ authors:
 categories:
 - Computational Neuroscience
 - Education
-- Grants & Funding
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:
