@@ -1,4 +1,8 @@
---- 
+---
+title: Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
+date: 2016-04-28 18:30:00
+authors:
+- Laurent U Perrinet
 abstract: Les illusions visuelles sont des créations d'artistes, de scientifiques
   et plus récemment, grâce aux réseaux sociaux, du grand public qui proposent des
   situations souvent incongrues, dans lesquelles l'eau remonte une cascade, les personnes
@@ -11,26 +15,22 @@ abstract: Les illusions visuelles sont des créations d'artistes, de scientifiqu
   de comprendre le fonctionnement de notre perception visuelle sur les bases d'une
   théorie de la vision non pas comme une simple caméra qui enregistre des images mais
   comme un processus actif en relation avec le monde qui nous entoure.
-authors:
-- Laurent U Perrinet
-date: 2016-04-28 18:30:00
-event: Cycle de conférences \"Tous connectés\", Bibliothèque de Méjanes
 featured: false
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/sciblog/files/2016-04-28_mejanes/
-location: Marseille, France
-publication: '**'
-publication_types:
-- inproceedings
-title: Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
-tags:
-- visual-illusions
 categories:
 - Behavioural Neuroscience
 - NeuroAI & Machine Learning
+tags:
+- visual-illusions
 projects:
 - tout-public
+publication: '**'
+publication_types:
+- inproceedings
+event: Cycle de conférences \"Tous connectés\", Bibliothèque de Méjanes
+location: Marseille, France
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/sciblog/files/2016-04-28_mejanes/
 ---
 # Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
 ## Cycle de conférences "Tous connectés", Bibliothèque de Méjanes

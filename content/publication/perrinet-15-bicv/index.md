@@ -1,4 +1,8 @@
---- 
+---
+title: Sparse Models for Computer Vision
+date: 2015-11-01
+authors:
+- Laurent U Perrinet
 abstract: The representation of images in the brain is known to be sparse. That is,
   as neural activity is recorded in a visual area, for instance the primary visual
   cortex of primates, only a few neurons are active at a given time with respect to
@@ -15,11 +19,20 @@ abstract: The representation of images in the brain is known to be sparse. That 
   applying such algorithms to computer vision. More specifically, we will propose
   that bio-inspired approaches may be applied to computer vision using predictive
   coding schemes, sparse models being one simple and efficient instance of such schemes.
-authors:
-- Laurent U Perrinet
-date: 2015-11-01
-doi: 10.1002/9783527680863.ch14
 featured: false
+categories:
+- Behavioural Neuroscience
+- Computer Vision
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+tags:
+- bayesian-modelling
+- primary-visual-cortex
+- sparse-coding
+publication: '*Biologically Inspired Computer Vision*'
+publication_types:
+- inbook
+doi: 10.1002/9783527680863.ch14
 links:
 - name: Code
   url: https://github.com/bicv/Perrinet2015BICV_sparse
@@ -27,21 +40,7 @@ links:
   url: https://onlinelibrary.wiley.com/doi/10.1002/9783527680863.ch14/summary
 - name: arXiv
   url: https://arxiv.org/abs/1701.06859
-publication: '*Biologically Inspired Computer Vision*'
-publication_types:
-- inbook
-title: Sparse Models for Computer Vision
-tags:
-- bayesian-modelling
-- primary-visual-cortex
-- sparse-coding
-categories:
-- Behavioural Neuroscience
-- Computer Vision
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
 grants:
 - brain-scales
 ---
-
 * Appeared in this book: {{< cite page="/publication/cristobal-perrinet-keil-15-bicv" view="4" >}}

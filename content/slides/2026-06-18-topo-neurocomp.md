@@ -1,24 +1,24 @@
---- 
-slides:
-  theme: white
-  reveal_options:
-    transition: fade
-date: '2026-06-18'
-all_day: false
-publishDate: '2026-04-09T12:47:11+02:00'
+---
 title: 2026-06-18-topo-neurocomp
-summary: Topo Neurosciences Computationnelles
-tags:
-- motion-perception
-- visual-illusions
+date: '2026-06-18'
+publishDate: '2026-04-09T12:47:11+02:00'
 categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
+tags:
+- motion-perception
+- visual-illusions
 projects:
 - art-science
 - tout-public
+slides:
+  theme: white
+  reveal_options:
+    transition: fade
+all_day: false
+summary: Topo Neurosciences Computationnelles
 ---
 <section>
 

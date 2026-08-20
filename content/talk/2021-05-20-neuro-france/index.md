@@ -1,4 +1,14 @@
---- 
+---
+title: Dynamical processing of orientation precision in the primary visual cortex
+date: 2021-05-20 14:00:00
+lastmod: 2021-07-12 16:15:38+02:00
+authors:
+- Hugo Ladret
+- Nelson Cortes
+- Lamyae Ikan
+- Frédéric Chavane
+- Christian Casanova
+- Laurent U Perrinet
 abstract: The primary visual cortex (V1) processes complex mixtures of orientations
   to build neural representations of our visual environment. It remains unclear how
   V1 adapts to the highly volatile distributions of orientations found in natural
@@ -10,34 +20,24 @@ abstract: The primary visual cortex (V1) processes complex mixtures of orientati
   decoding performances. This internal representation is mediated by temporally distinct
   neural dynamics and supports a precision-weighted description of neuronal message
   passing in the visual cortex.
-authors:
-- Hugo Ladret
-- Nelson Cortes
-- Lamyae Ikan
-- Frédéric Chavane
-- Christian Casanova
-- Laurent U Perrinet
-date: 2021-05-20 14:00:00
-draft: false
-event: NeuroFrance 2021
 featured: false
-image:
-  focal_point: Smart
-  preview_only: false
-lastmod: 2021-07-12 16:15:38+02:00
-links:
-- name: URL
-  url: https://virtualnf21.neurosciences.asso.fr/meetings/virtual/m3LQJKS4fbaWkg7rE
-publication: '*NeuroFrance 2021*'
-publication_types:
-- inproceedings
-title: Dynamical processing of orientation precision in the primary visual cortex
-tags:
-- primary-visual-cortex
+draft: false
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Visual Neuroscience
+tags:
+- primary-visual-cortex
+publication: '*NeuroFrance 2021*'
+publication_types:
+- inproceedings
+event: NeuroFrance 2021
+image:
+  focal_point: Smart
+  preview_only: false
+links:
+- name: URL
+  url: https://virtualnf21.neurosciences.asso.fr/meetings/virtual/m3LQJKS4fbaWkg7rE
 ---
  * As presented during the [NeuroFrance 2021](https://www.neurosciences.asso.fr/SN21/) meeting
  ![](@laurentperrinet_1395351843035828224_tweetcapture.png)

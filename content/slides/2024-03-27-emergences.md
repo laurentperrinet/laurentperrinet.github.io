@@ -1,27 +1,27 @@
---- 
-slides:
-  theme: simple
-  reveal_options:
-    transition: fade
-date: '2024-03-27'
-all_day: false
-publishDate: '2024-03-12T07:59:44.385734Z'
+---
 title: 2024-03-27-emergences.md
-summary: 'Analyser de larges volumes de données neurobiologiques : modèles émergents
-  bio-inspirés, a Seminar at *the Emergences workshop, Autrans, France*'
+date: '2024-03-27'
+publishDate: '2024-03-12T07:59:44.385734Z'
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
 tags:
 - motion-perception
 - neuromorphic-computing
 - primary-visual-cortex
 - spiking-neural-networks
 - visual-illusions
-categories:
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
 projects:
 - tout-public
+slides:
+  theme: simple
+  reveal_options:
+    transition: fade
+all_day: false
+summary: 'Analyser de larges volumes de données neurobiologiques : modèles émergents
+  bio-inspirés, a Seminar at *the Emergences workshop, Autrans, France*'
 ---
 <section>
 

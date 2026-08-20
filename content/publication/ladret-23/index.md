@@ -1,4 +1,14 @@
---- 
+---
+title: Cortical recurrence supports resilience to sensory variance in the primary
+  visual cortex
+date: 2023-06-06
+authors:
+- Hugo Ladret
+- Nelson Cortes
+- Lamyae Ikan
+- Frédéric Chavane
+- Christian Casanova
+- Laurent U Perrinet
 abstract: Our daily endeavors occur in a complex visual environment, whose intrinsic
   variability challenges the way we integrate information to make decisions. By processing
   myriads of parallel sensory inputs, our brain is theoretically able to compute the
@@ -11,20 +21,23 @@ abstract: Our daily endeavors occur in a complex visual environment, whose intri
   responses can be accounted for by a model of intracortical recurrent connectivity.
   We thus propose that local recurrent circuits process uncertainty as a generic computation,
   advancing our understanding of how the brain handles naturalistic inputs.
-authors:
-- Hugo Ladret
-- Nelson Cortes
-- Lamyae Ikan
-- Frédéric Chavane
-- Christian Casanova
-- Laurent U Perrinet
-date: 2023-06-06
-doi: 10.1038/s42003-023-05042-3
 featured: true
-grants:
-- anr-anr
-- anr-horizontal-v1
-- polychronies
+categories:
+- Biological Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+tags:
+- bayesian-modelling
+- motion-perception
+- predictive-coding
+- primary-visual-cortex
+- visual-illusions
+publication: '*Nature Communications Biology*'
+publication_types:
+- article-journal
+doi: 10.1038/s42003-023-05042-3
 links:
 - name: Dataset
   url: https://figshare.com/articles/dataset/Data_for_Ladret_et_al_2023_Cortical_recurrence_supports_resilience_to_sensory_variance_in_the_primary_visual_cortex_/23366588
@@ -36,25 +49,11 @@ links:
   url: https://www.biorxiv.org/content/10.1101/2021.03.30.437692
 - name: HAL
   url: https://hal.science/hal-04142490
-publication: '*Nature Communications Biology*'
-publication_types:
-- article-journal
-title: Cortical recurrence supports resilience to sensory variance in the primary
-  visual cortex
-tags:
-- bayesian-modelling
-- motion-perception
-- predictive-coding
-- primary-visual-cortex
-- visual-illusions
-categories:
-- Biological Neuroscience
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
+grants:
+- anr-anr
+- anr-horizontal-v1
+- polychronies
 ---
-
 * open access: https://www.nature.com/articles/s42003-023-05042-3
 * 5 minutes summary: https://hugoladret.github.io/publications/ladret_et_al_variance_v1/
 ![Artboard](Artboard.png)

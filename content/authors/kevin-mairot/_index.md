@@ -1,7 +1,14 @@
---- 
+---
+title: Kevin Mairot
 authors:
 - kevin-mairot
-title: Kevin Mairot
+categories:
+- Biological Neuroscience
+- Clinical Neuroscience
+- NeuroAI & Machine Learning
+tags:
+- deep-learning
+- retinal-dystrophies
 role: Phd candidate in Ophtalmology
 bio: During my PhD, I am focusing on spiking neural networks with heterogeneous delays.
 education:
@@ -15,15 +22,7 @@ social:
 superuser: false
 user_groups:
 - Current Students
-tags:
-- deep-learning
-- retinal-dystrophies
-categories:
-- Biological Neuroscience
-- Clinical Neuroscience
-- NeuroAI & Machine Learning
 ---
-
 # PhD Student (2023-10 / 2027-09): L'intelligence artificielle comme aide au diagnostic des dystrophies rétiniennes
 
  * Institut des Neurosciences de la Timone, Aix-Marseille Université / CNRS

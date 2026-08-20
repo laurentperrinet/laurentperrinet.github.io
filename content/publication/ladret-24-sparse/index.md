@@ -1,4 +1,11 @@
---- 
+---
+title: Kernel Heterogeneity Improves Sparseness of Natural Images Representations
+date: 2024-08-20
+publishDate: '2024-01-09T10:17:44.040592Z'
+authors:
+- Hugo Ladret
+- Christian Casanova
+- Laurent U Perrinet
 abstract: 'Both biological and artificial neural networks inherently balance their
   performance with their operational cost, which balances their computational abilities.
   Typically, an efficient neuromorphic neural network is one that learns representations
@@ -21,13 +28,23 @@ abstract: 'Both biological and artificial neural networks inherently balance the
   computational efficiency, emphasizing the benefits of kernel heterogeneity to leverage
   naturalistic and variant input structures and possible applications to improve the
   throughput of neuromorphic hardware. '
-authors:
-- Hugo Ladret
-- Christian Casanova
-- Laurent U Perrinet
-date: 2024-08-20
-doi: 10.1088/2634-4386/ad5d0f
 featured: false
+categories:
+- Biological Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+- Visual Neuroscience
+tags:
+- neuromorphic-computing
+- primary-visual-cortex
+- sparse-coding
+publication: Neuromorphic Computing and Engineering
+publication_types:
+- article-journal
+doi: 10.1088/2634-4386/ad5d0f
+url_dataset: https://figshare.com/articles/media/HD_natural_images_database_for_sparse_coding/24167265?file=42404574
 image:
   focal_point: Smart
   preview_only: false
@@ -36,25 +53,7 @@ links:
   url: https://iopscience.iop.org/article/10.1088/2634-4386/ad5d0f
 - name: HAL
   url: https://hal.science/hal-04842588
-publication: Neuromorphic Computing and Engineering
-publication_types:
-- article-journal
-publishDate: '2024-01-09T10:17:44.040592Z'
-title: Kernel Heterogeneity Improves Sparseness of Natural Images Representations
-url_dataset: https://figshare.com/articles/media/HD_natural_images_database_for_sparse_coding/24167265?file=42404574
-tags:
-- neuromorphic-computing
-- primary-visual-cortex
-- sparse-coding
-categories:
-- Biological Neuroscience
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
-- Visual Neuroscience
 ---
-
 ![Artboard](2024_ladret.gif)
 * 5 minutes summary: https://hugoladret.github.io/publications/ladret_et_al_sparsecoding/
 ![](@laurentperrinet_1826586440773275942_tweetcapture.png)

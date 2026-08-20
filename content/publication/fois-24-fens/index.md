@@ -1,4 +1,11 @@
---- 
+---
+title: Self-Supervised Learning of Spiking Motifs in Neurobiological Data
+date: 2024-06-27
+publishDate: '2024-04-05T08:22:04.452494Z'
+lastmod: 2024-04-05 10:22:08+02:00
+authors:
+- Adrien Fois
+- Laurent U Perrinet
 abstract: Timing is essential for neural processing, but evidence for such temporal
   precision is still lacking. We have developed a theoretical model of representation
   based on spatio-temporal spiking motifs. Our goal is to develop a self-supervised
@@ -13,32 +20,24 @@ abstract: Timing is essential for neural processing, but evidence for such tempo
   on this realistic yet synthetic dataset, future work will aim to apply his algorithm
   to neurological data to challenge the hypothesis of the role of precise spike timing
   in neural processes.
-authors:
-- Adrien Fois
-- Laurent U Perrinet
-date: 2024-06-27
-draft: false
 featured: false
-image:
-  focal_point: Smart
-  preview_only: false
-lastmod: 2024-04-05 10:22:08+02:00
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/fois-24-fens/
-publication: '*Proceedings of the FENS Forum 2024*'
-publication_types:
-- inproceedings
-publishDate: '2024-04-05T08:22:04.452494Z'
-title: Self-Supervised Learning of Spiking Motifs in Neurobiological Data
-tags:
-- homeostasis
-- spiking-neural-networks
+draft: false
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- homeostasis
+- spiking-neural-networks
+publication: '*Proceedings of the FENS Forum 2024*'
+publication_types:
+- inproceedings
+image:
+  focal_point: Smart
+  preview_only: false
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/fois-24-fens/
 grants:
 - polychronies
 ---
-

@@ -1,11 +1,10 @@
---- 
+---
 title: Artificial neural networks and machine learning applied to the understanding
   of biological vision
-authors:
-- Laurent U Perrinet
 date: '2026-03-05'
 publishDate: '2026-03-05T10:42:17.076066Z'
-publication: '*Master 1 Neuroscience, UE Natural Cognition, Artificial Cognition.*'
+authors:
+- Laurent U Perrinet
 abstract: Visual areas are essential in transforming the raw luminous signal into
   a representation which efficiently conveys information about the environment. This
   process is constrained by various factors such as a wide variety of changes in the
@@ -18,20 +17,21 @@ abstract: Visual areas are essential in transforming the raw luminous signal int
   framework to offer a unified theory to explain many of the mechanisms at the different
   levels of the visual system and which were unveiled by decades of study in neurophysiology
   and psychophysics.
-slides: 2026-03-05-ue-natural-cognition
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/talk/2026-03-05-ue-natural-cognition
-tags:
-- bayesian-modelling
-- motion-perception
-- predictive-coding
 categories:
 - Biological Neuroscience
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- bayesian-modelling
+- motion-perception
+- predictive-coding
+publication: '*Master 1 Neuroscience, UE Natural Cognition, Artificial Cognition.*'
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2026-03-05-ue-natural-cognition
+slides: 2026-03-05-ue-natural-cognition
 ---
 Practical work: https://github.com/laurentperrinet/2026-03_UE-neurosciences-computationnelles/
 

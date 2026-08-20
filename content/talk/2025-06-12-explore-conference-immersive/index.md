@@ -1,11 +1,9 @@
---- 
+---
 title: 'Conférence immersive : La vision, réalité ou perception ?'
-authors:
-- Laurent U Perrinet
 date: '2025-06-12'
 publishDate: '2025-06-03T07:46:11.967619Z'
-publication: '*Festival EXPLORE organisé par Aix Marseille Université et la DR12 du
-  CNRS.*'
+authors:
+- Laurent U Perrinet
 abstract: 'Ouvrez grand les yeux… mais méfiez-vous de ce qu’ils vous montrent. Cette
   conférence immersive vous emmène dans un voyage fascinant au cœur du phénomène de
   la vision : de la biologie de l’œil humain aux incroyables capacités visuelles du
@@ -14,17 +12,19 @@ abstract: 'Ouvrez grand les yeux… mais méfiez-vous de ce qu’ils vous montre
   voit son monde. Mais la vision ne s’arrête pas aux yeux. Notre cerveau, grand interprète
   de la réalité, nous joue parfois des tours. Illusions d’optique, déformations, interprétations
   : ce que nous voyons n’est pas toujours ce qui est.'
+categories:
+- Behavioural Neuroscience
+- Education
+- NeuroAI & Machine Learning
+tags:
+- visual-illusions
+publication: '*Festival EXPLORE organisé par Aix Marseille Université et la DR12 du
+  CNRS.*'
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-06-12_explore-conference-immersive
 - name: Tout public!
   url: https://laurentperrinet.github.io/project/tout-public/
-tags:
-- visual-illusions
-categories:
-- Behavioural Neuroscience
-- Education
-- NeuroAI & Machine Learning
 ---
 * https://explore.univ-amu.fr/programme
 

@@ -1,4 +1,9 @@
---- 
+---
+title: Decoding low-level neural information to track visual motion
+date: 2009-04-01
+authors:
+- Laurent U Perrinet
+- Guillaume S Masson
 abstract: ' Moving the eyes rapidly to track a visual object moving in a cluttered
   environment is an essential function. However, doing so rapidly and efficiently
   is constrained by a number of noise sources in the visual system and by the fact
@@ -12,21 +17,16 @@ abstract: ' Moving the eyes rapidly to track a visual object moving in a clutter
   this theoretical approach \"in computo\", we will illustrate how we may better understand
   results which are observed \"in vivo\" (optical imaging) as a neural code linking
   actively sensation and behavior.'
-authors:
-- Laurent U Perrinet
-- Guillaume S Masson
-date: 2009-04-01
 featured: false
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/talk/2008-04-01-incm/
-title: Decoding low-level neural information to track visual motion
-tags:
-- bayesian-modelling
-- motion-perception
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- bayesian-modelling
+- motion-perception
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2008-04-01-incm/
 ---
 * see this more recent talk @ [UCL, London]({{< ref "/talk/2012-01-12-vision-at-ucl/index.md" >}})

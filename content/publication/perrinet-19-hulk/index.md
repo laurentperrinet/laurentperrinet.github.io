@@ -1,4 +1,8 @@
---- 
+---
+title: An adaptive homeostatic algorithm for the unsupervised learning of visual features
+date: 2019-01-01
+authors:
+- Laurent U Perrinet
 abstract: 'The formation of structure in the visual system, that is, of the connections
   between cells within neural populations, is by large an unsupervised learning process:
   the emergence of this architecture is mostly self-organized. In the primary visual
@@ -23,36 +27,31 @@ abstract: 'The formation of structure in the visual system, that is, of the conn
   results demonstrate the potential application of such a strategy in computer vision
   and machine learning and we illustrate it with a result in a convolutional neural
   network.'
-authors:
-- Laurent U Perrinet
-date: 2019-01-01
-doi: 10.3390/vision3030047
 featured: false
-grants:
-- anr-horizontal-v1
-- mesocentre
-- spikeai
-links:
-- name: Code
-  url: https://github.com/SpikeAI/HULK
-- name: URL
-  url: https://spikeai.github.io/HULK/
-publication: '*Vision*'
-publication_types:
-- article-journal
-title: An adaptive homeostatic algorithm for the unsupervised learning of visual features
-tags:
-- homeostasis
-- primary-visual-cortex
-- sparse-coding
-- spiking-neural-networks
 categories:
 - Computer Vision
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- homeostasis
+- primary-visual-cortex
+- sparse-coding
+- spiking-neural-networks
+publication: '*Vision*'
+publication_types:
+- article-journal
+doi: 10.3390/vision3030047
+links:
+- name: Code
+  url: https://github.com/SpikeAI/HULK
+- name: URL
+  url: https://spikeai.github.io/HULK/
+grants:
+- anr-horizontal-v1
+- mesocentre
+- spikeai
 ---
-
 # "An adaptive algorithm for unsupervised learning"
 {{< video src="https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4" controls="yes" >}}
  * supplementary info : https://spikeai.github.io/HULK/

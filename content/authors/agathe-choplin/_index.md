@@ -1,8 +1,8 @@
---- 
+---
+title: Agathe Choplin
 authors:
 - agathe-choplin
 bio: During my PhD, I am focusing on Physiological States using Machine Learning.
-title: Agathe Choplin
 role: PhD candidate in Neuroscience
 social:
 - icon: linkedin
@@ -18,7 +18,6 @@ superuser: false
 user_groups:
 - Current Students
 ---
-
 ## Characterization of Physiological States using Machine Learning
 ### PhD position (2024-10 / 2027-09)
 

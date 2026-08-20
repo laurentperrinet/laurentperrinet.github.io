@@ -1,4 +1,10 @@
---- 
+---
+title: Edge co-occurrences can account for rapid categorization of natural versus
+  animal images
+date: 2015-01-01
+authors:
+- Laurent U Perrinet
+- James A Bednar
 abstract: Making a judgment about the semantic category of a visual scene, such as
   whether it contains an animal, is typically assumed to involve high-level associative
   brain areas. Previous explanations require progressively analyzing the scene hierarchically
@@ -16,14 +22,23 @@ abstract: Making a judgment about the semantic category of a visual scene, such 
   about the flow of computations in the visual system. The results also suggest new
   algorithms for image classification and signal processing that exploit correlations
   between low-level structure and the underlying semantic category.
-authors:
-- Laurent U Perrinet
-- James A Bednar
-date: 2015-01-01
-doi: 10.1038/srep11400
 featured: false
-grants:
-- anr-bala-v1
+categories:
+- Behavioural Neuroscience
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
+- Visual Neuroscience
+tags:
+- bayesian-modelling
+- primary-visual-cortex
+- sparse-coding
+- visual-illusions
+publication: '*Scientific Reports*'
+publication_types:
+- article-journal
+doi: 10.1038/srep11400
+math: true
 links:
 - name: Code
   url: https://github.com/laurentperrinet/PerrinetBednar15
@@ -31,25 +46,9 @@ links:
   url: https://www.nature.com/articles/srep11400
 - name: HAL
   url: https://hal.science/hal-01202447
-math: true
-publication: '*Scientific Reports*'
-publication_types:
-- article-journal
-title: Edge co-occurrences can account for rapid categorization of natural versus
-  animal images
-tags:
-- bayesian-modelling
-- primary-visual-cortex
-- sparse-coding
-- visual-illusions
-categories:
-- Behavioural Neuroscience
-- Computer Vision
-- Education
-- NeuroAI & Machine Learning
-- Visual Neuroscience
+grants:
+- anr-bala-v1
 ---
-
 * [supplementary information](https://www.nature.com/article-assets/npg/srep/2015/150622/srep11400/extref/srep11400-s1.pdf)
 * [supplementary material](PerrinetBednar15supplementary.pdf)
 # A study of how people can quickly spot animals by sight is helping uncover the workings of the human brain.

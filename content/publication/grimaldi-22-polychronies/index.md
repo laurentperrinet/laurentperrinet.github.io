@@ -1,4 +1,13 @@
---- 
+---
+title: Precise spiking motifs in neurobiological and neuromorphic data
+date: 2022-12-23
+authors:
+- Antoine Grimaldi
+- Amélie Gruel
+- Camille Besnainou
+- Jean-Nicolas Jérémie
+- Jean Martinet
+- Laurent U Perrinet
 abstract: Why do neurons communicate through spikes? By definition, spikes are all-or-none
   neural events which occur at continuous times. In other words, spikes are on one
   side binary, existing or not without further details, and on the other can occur
@@ -15,21 +24,22 @@ abstract: Why do neurons communicate through spikes? By definition, spikes are a
   the digital economy and global warming. In this review paper, we provide evidence
   from biology, theory and engineering that the precise timing of spikes plays a crucial
   role in our understanding of the efficiency of neural networks.
-authors:
-- Antoine Grimaldi
-- Amélie Gruel
-- Camille Besnainou
-- Jean-Nicolas Jérémie
-- Jean Martinet
-- Laurent U Perrinet
-date: 2022-12-23
-doi: 10.3390/brainsci13010068
-draft: false
 featured: true
-grants:
-- anr-anr
-- aprovis-3-d
-- polychronies
+draft: false
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+tags:
+- motion-perception
+- neuromorphic-computing
+- polychronization
+- primary-visual-cortex
+- spiking-motifs
+- spiking-neural-networks
+- temporal-coding
+publication_types:
+- article-journal
+doi: 10.3390/brainsci13010068
 links:
 - name: Hal
   url: https://hal.science/hal-03918338
@@ -39,22 +49,11 @@ links:
   url: https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/
 - name: arXiv
   url: https://arxiv.org/abs/2404.07866
-publication_types:
-- article-journal
-title: Precise spiking motifs in neurobiological and neuromorphic data
-tags:
-- motion-perception
-- neuromorphic-computing
-- polychronization
-- primary-visual-cortex
-- spiking-motifs
-- spiking-neural-networks
-- temporal-coding
-categories:
-- Computational Neuroscience
-- NeuroAI & Machine Learning
+grants:
+- anr-anr
+- aprovis-3-d
+- polychronies
 ---
-
 {{< video src="2022-12-23_polychrony-review_video-abstract.mp4" controls="yes" >}}
  * read the paper [online](https://arxiv.org/html/2404.07866v1) or in [PDF](https://arxiv.org/pdf/2404.07866v1.pdf)
  * [Video Abstract](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/2022-12-23_polychrony-review_video-abstract.mp4)

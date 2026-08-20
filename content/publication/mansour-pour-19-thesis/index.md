@@ -1,12 +1,10 @@
---- 
+---
 title: Effet de La Variabilité de La Vitesse Sur Le Mouvement de Poursuite Oculaire
   Lente et Sur La Perception de La Vitesse
-authors:
-- Kiana Mansour Pour
 date: '2019-04-01'
 publishDate: '2025-01-11T16:13:35.551847Z'
-publication_types:
-- thesis
+authors:
+- Kiana Mansour Pour
 abstract: Nous avons expliqué comment le système visuel intègre les informations de
   mouvement en manipulant la distribution de vitesse locale à l'aide d'une classe
   bien contrôlée de stimuli de texture aléatoires à large bande appelée Motion Clouds
@@ -26,17 +24,19 @@ abstract: Nous avons expliqué comment le système visuel intègre les informati
   identifié trois régimes dans la plage des valeurs de différence de vitesse testées
   qui correspondraient à la cohérence de mouvement, à la transparence de mouvement
   et à l'incohérence complète.
-links:
-- name: URL
-  url: https://theses.fr/2019AIXM0137
+categories:
+- Behavioural Neuroscience
+- Education
+- NeuroAI & Machine Learning
 tags:
 - aperture-problem
 - bayesian-modeling
 - motion-perception
 - predictive-coding
 - visual-illusions
-categories:
-- Behavioural Neuroscience
-- Education
-- NeuroAI & Machine Learning
+publication_types:
+- thesis
+links:
+- name: URL
+  url: https://theses.fr/2019AIXM0137
 ---

@@ -1,4 +1,11 @@
---- 
+---
+title: Statistics of the sparse representations of natural images
+date: 2022-03-22 00:00:00
+publishDate: '2021-10-12T10:44:45.446866Z'
+lastmod: 2021-10-12 12:44:45+02:00
+authors:
+- Hugo Ladret
+- Laurent U Perrinet
 abstract: In most mammals, the primary visual cortex (V1) processes complex mixtures
   of orientations to construct an accurate neural representation of our visual environment.
   Sparse coding has been used to model the emergence of orientation-selective localized
@@ -15,31 +22,8 @@ abstract: In most mammals, the primary visual cortex (V1) processes complex mixt
   precisions followed different dynamics, a prior information which could be further
   exploited in a dynamical model. This model-based hypothesis is finally confronted
   with neurophysiological recordings made in V1.
-authors:
-- Hugo Ladret
-- Laurent U Perrinet
-date: 2022-03-22 00:00:00
-draft: false
-event: 2022 SIAM Conference on Imaging Science (IS22)
 featured: false
-image:
-  focal_point: Smart
-  preview_only: false
-lastmod: 2021-10-12 12:44:45+02:00
-links:
-- name: URL
-  url: https://www.siam.org/conferences/cm/conference/is22
-publication: '*2022 SIAM Conference on Imaging Science (IS22)*'
-publication_types:
-- inproceedings
-publishDate: '2021-10-12T10:44:45.446866Z'
-title: Statistics of the sparse representations of natural images
-tags:
-- bayesian-modelling
-- predictive-coding
-- primary-visual-cortex
-- sparse-coding
-- visual-illusions
+draft: false
 categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
@@ -48,6 +32,22 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
+tags:
+- bayesian-modelling
+- predictive-coding
+- primary-visual-cortex
+- sparse-coding
+- visual-illusions
+publication: '*2022 SIAM Conference on Imaging Science (IS22)*'
+publication_types:
+- inproceedings
+event: 2022 SIAM Conference on Imaging Science (IS22)
+image:
+  focal_point: Smart
+  preview_only: false
+links:
+- name: URL
+  url: https://www.siam.org/conferences/cm/conference/is22
 ---
  * see previous work: https://laurentperrinet.github.io/sciblog/posts/2018-11-05-statistics-of-the-natural-input-to-a-ring-model.html
 ## Mini-Symposium "Learning from vision: Efficient representation, sparse coding, and modelling"

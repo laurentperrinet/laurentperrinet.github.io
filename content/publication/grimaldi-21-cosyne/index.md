@@ -1,4 +1,13 @@
---- 
+---
+title: A robust bio-inspired approach to event-driven object recognition
+date: 2021-02-26
+lastmod: 2021-02-25 17:01:28+01:00
+authors:
+- Antoine Grimaldi
+- Victor Boutin
+- Sio-Hoi Ieng
+- Laurent U Perrinet
+- Ryad Benosman
 abstract: 'We propose a neuromimetic  architecture able to perform online pattern
   recognition. To achieve this, we extended the existing event-based algorithm from
   Lagorce et al (2017) which introduced novel spatio-temporal features: time-surfaces.
@@ -17,39 +26,29 @@ abstract: 'We propose a neuromimetic  architecture able to perform online patter
   without homeostasis. Finally, by studying the impact of input jitter on classification
   highlights resilience of this method. We expect to extend this fully event-driven
   approach to more naturalistic tasks, notably for ultra-fast object categorization.'
-authors:
-- Antoine Grimaldi
-- Victor Boutin
-- Sio-Hoi Ieng
-- Laurent U Perrinet
-- Ryad Benosman
-date: 2021-02-26
-draft: false
 featured: false
+draft: false
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+tags:
+- homeostasis
+- metaplasticity
+- neuromorphic-computing
+publication: '*Computational and Systems Neuroscience (Cosyne) 2021*'
+publication_types:
+- inproceedings
 image:
   focal_point: Smart
   preview_only: false
-lastmod: 2021-02-25 17:01:28+01:00
 links:
 - name: Pdf
   url: https://www.researchgate.net/profile/Antoine-Grimaldi-2/publication/349715111_A_robust_bio-inspired_approach_to_event-driven_object_recognition/links/603e41d84585154e8c6e6a7c/A-robust-bio-inspired-approach-to-event-driven-object-recognition.pdf
 - name: URL
   url: https://laurentperrinet.github.io/publication/grimaldi-21-cosyne/
-publication: '*Computational and Systems Neuroscience (Cosyne) 2021*'
-publication_types:
-- inproceedings
-title: A robust bio-inspired approach to event-driven object recognition
-tags:
-- homeostasis
-- metaplasticity
-- neuromorphic-computing
-categories:
-- Computational Neuroscience
-- NeuroAI & Machine Learning
 grants:
 - aprovis-3-d
 ---
-
 ![](@laurentperrinet_1364962423120265218_tweetcapture.png)
 {{< figure src="poster.png" width="100%" >}}
 * see the poster online on the [Hopin platform](https://app.hopin.com/events/cosyne-2021/expo/377631)

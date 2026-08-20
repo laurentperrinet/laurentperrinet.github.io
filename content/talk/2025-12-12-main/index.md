@@ -1,10 +1,9 @@
---- 
+---
 title: A New Look for Convolutional Deep Networks
-authors:
-- Laurent U Perrinet
 date: '2025-12-12'
 publishDate: '2025-11-26T09:59:39.757451Z'
-publication: '*Montreal AI and Neuroscience conference, Dec 11-13th, 2025*'
+authors:
+- Laurent U Perrinet
 abstract: 'By construction, deep convolutional networks treat all pixels equally.
   Result: they are energy-hungry, fragile to rotations or zooms, and poor at object
   localization. This contrasts sharply with biological vision, which demonstrates
@@ -19,13 +18,13 @@ abstract: 'By construction, deep convolutional networks treat all pixels equally
   position points to ground truth bounding boxes with 85% accuracy, compared to 71%
   for classical CNNs. This suggests that this specific Nature''s million-year solution
   may offer deep learning visual networks a fundamentally new architectural look.'
-links:
-- name: MAIN
-  url: https://main2025.org
-- name: Slides
-  url: https://laurentperrinet.github.io/2025-12-13_Perrinet-talk-MAIN2025
-- name: YouTube
-  url: https://www.youtube.com/watch?v=1BUidO5GY98
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
+- Visual Neuroscience
 tags:
 - computer-vision
 - deep-learning
@@ -34,13 +33,14 @@ tags:
 - log-polar-mapping
 - primary-visual-cortex
 - retinotopy
-categories:
-- Behavioural Neuroscience
-- Biological Neuroscience
-- Computer Vision
-- Education
-- NeuroAI & Machine Learning
-- Visual Neuroscience
+publication: '*Montreal AI and Neuroscience conference, Dec 11-13th, 2025*'
+links:
+- name: MAIN
+  url: https://main2025.org
+- name: Slides
+  url: https://laurentperrinet.github.io/2025-12-13_Perrinet-talk-MAIN2025
+- name: YouTube
+  url: https://www.youtube.com/watch?v=1BUidO5GY98
 ---
 🔬 Excited to present our latest research at the #MAIN2025 conference today!
 

@@ -1,4 +1,16 @@
---- 
+---
+title: 'NeuralEnsemble: Towards a meta-environment for network modeling and data analysis'
+date: 2009-01-01
+authors:
+- Pierre Yger
+- Daniel Bruderle
+- Jochen Eppler
+- Jens Kremkow
+- Dejan Pecevski
+- Laurent U Perrinet
+- Michael Schmuker
+- Eilif Muller
+- Andrew P Davison
 abstract: 'NeuralEnsemble (https://neuralensemble.org) is a multilateral effort to
   coordinate and organise neuroscience software development efforts based around the
   Python programming language into a larger, meta-simulator software system. To this
@@ -17,36 +29,23 @@ abstract: 'NeuralEnsemble (https://neuralensemble.org) is a multilateral effort 
   neuroscience, enhancing collaboration between different groups and increasing the
   confidence in correctness of results. NeuralEnsemble efforts are supported by the
   European FACETS project (EU-IST-2005-15879)'
-authors:
-- Pierre Yger
-- Daniel Bruderle
-- Jochen Eppler
-- Jens Kremkow
-- Dejan Pecevski
-- Laurent U Perrinet
-- Michael Schmuker
-- Eilif Muller
-- Andrew P Davison
-date: 2009-01-01
 featured: false
+categories:
+- Biological Neuroscience
+- Computational Neuroscience
+tags:
+- neuromorphic-computing
+- pynn
+- spiking-neural-networks
+projects:
+- open-science
+publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'
+publication_types:
+- inproceedings
 grants:
 - brain-scales
 - facets
 - facets-itn
 - open-science
-publication: '*Eighth Göttingen Meeting of the German Neuroscience Society*'
-publication_types:
-- inproceedings
-title: 'NeuralEnsemble: Towards a meta-environment for network modeling and data analysis'
-tags:
-- neuromorphic-computing
-- pynn
-- spiking-neural-networks
-categories:
-- Biological Neuroscience
-- Computational Neuroscience
-projects:
-- open-science
 ---
-
 * see a follow-up: {{< cite page="/publication/davison-08" view="4" >}}

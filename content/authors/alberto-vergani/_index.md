@@ -1,7 +1,7 @@
---- 
+---
+title: Alberto Arturo Vergani
 authors:
 - alberto-vergani
-title: Alberto Arturo Vergani
 role: Post-doctoral Researcher @ Sant'Anna School of Advanced Studies, Pisa, Italy.
 bio: Post-Doc in Computational Neuroscience (04/2020 - 09/2021)
 social:
@@ -31,7 +31,6 @@ user_groups:
 grants:
 - phd-icn
 ---
-
 ## Main contributions to the project:
 
 * {{< cite page="/publication/vergani-21-bernstein" view="4" >}}

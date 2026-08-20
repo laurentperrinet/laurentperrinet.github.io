@@ -1,4 +1,11 @@
---- 
+---
+title: Saccadic foveation of a moving visual target in the rhesus monkey
+date: 2011-02-01
+authors:
+- Jérôme Fleuriet
+- Sandrine Hugues
+- Laurent U Perrinet
+- Laurent Goffart
 abstract: 'When generating a saccade toward a moving target, the target displacement
   that occurs during the period spanning from its detection to the saccade end must
   be taken into account to accurately foveate the target and to initiate its pursuit.
@@ -21,28 +28,20 @@ abstract: 'When generating a saccade toward a moving target, the target displace
   target and those aimed at a moving target questions the late influence of the compensatory
   mechanism. The results are discussed within the framework of the dual drive and
   mapping hypotheses.'
-authors:
-- Jérôme Fleuriet
-- Sandrine Hugues
-- Laurent U Perrinet
-- Laurent Goffart
-date: 2011-02-01
-doi: 10.1152/jn.00622.2010
 featured: false
-links:
-- name: URL
-  url: https://doi.org/10.1152/jn.00622.2010
-publication: '*Journal of Neurophysiology*'
-publication_types:
-- article-journal
-title: Saccadic foveation of a moving visual target in the rhesus monkey
-tags:
-- eye-movements
-- motion-detection
 categories:
 - Biological Neuroscience
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- eye-movements
+- motion-detection
+publication: '*Journal of Neurophysiology*'
+publication_types:
+- article-journal
+doi: 10.1152/jn.00622.2010
+links:
+- name: URL
+  url: https://doi.org/10.1152/jn.00622.2010
 ---
-

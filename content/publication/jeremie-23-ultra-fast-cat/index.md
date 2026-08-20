@@ -1,4 +1,10 @@
---- 
+---
+title: Ultra-Fast Image Categorization in biology and in neural models
+date: 2023-03-21
+lastmod: 2022-05-11 09:32:04+02:00
+authors:
+- Jean-Nicolas Jérémie
+- Laurent U Perrinet
 abstract: 'Humans are able to robustly categorize images and can, for instance, detect
   the presence of an animal in a briefly flashed image in as little as 120 ms. Initially
   inspired by neuroscience, deep-learning algorithms literally bloomed up in the last
@@ -24,40 +30,33 @@ abstract: 'Humans are able to robustly categorize images and can, for instance, 
   of visual objects. We expect to apply this framework to guide future model-based
   psychophysical experiments and biomimetic deep neuronal architectures designed for
   such tasks.'
-authors:
-- Jean-Nicolas Jérémie
-- Laurent U Perrinet
-date: 2023-03-21
-doi: 10.3390/vision7020029
-draft: false
 featured: false
-grants:
-- anr-anr
-- aprovis-3-d
-image:
-  focal_point: Smart
-  preview_only: false
-lastmod: 2022-05-11 09:32:04+02:00
-links:
-- name: arXiv
-  url: https://arxiv.org/abs/2205.03635
-publication: '*Vision*'
-publication_types:
-- article-journal
-title: Ultra-Fast Image Categorization in biology and in neural models
+draft: false
+categories:
+- Behavioural Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
 tags:
 - classification
 - deep-learning
 - efficient-coding
 - psychophysics
 - ultra-fast-categorization
-categories:
-- Behavioural Neuroscience
-- Education
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
+publication: '*Vision*'
+publication_types:
+- article-journal
+doi: 10.3390/vision7020029
+image:
+  focal_point: Smart
+  preview_only: false
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2205.03635
+grants:
+- anr-anr
+- aprovis-3-d
 ---
-
 {{< video src="Jeremie-etal-Vision_video-abstract.mp4" controls="yes" >}}
  * read the paper [online](https://www.mdpi.com/2411-5150/7/2/29) or in [PDF](https://www.mdpi.com/2411-5150/7/2/29/pdf)
  * [full code](https://github.com/SpikeAI/2022-09_UltraFastCat) with extensive [Supplementary Material](https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.py)

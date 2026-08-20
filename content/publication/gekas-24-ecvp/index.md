@@ -1,4 +1,15 @@
---- 
+---
+title: An open-source vision-science tool for the auto-regressive generation of dynamic
+  stochastic textures Motion Clouds
+date: 2024-08-27
+publishDate: '2024-08-25T16:05:27.274458Z'
+authors:
+- Nikos Gekas
+- Andrew Isaac Meso
+- Jonathan Vacher
+- Laurent U aPerrinet
+- Pascal Mamassian
+- Guillaume S Masson
 abstract: Motion Clouds are a generative model for naturalistic visual stimulation
   that offer full parametric control and more naturalism than the widely used alternatives
   of Random Dot Kinematograms (RDKs) or luminance gratings. We previously released
@@ -18,34 +29,22 @@ abstract: Motion Clouds are a generative model for naturalistic visual stimulati
   tool can enhance visual perception experiments in a range of contexts and would
   like it to be open to extensive testing, use and further development by the psychophysics,
   computational modelling, functional imaging and neurophysiology communities.
-authors:
-- Nikos Gekas
-- Andrew Isaac Meso
-- Jonathan Vacher
-- Laurent U aPerrinet
-- Pascal Mamassian
-- Guillaume S Masson
-date: 2024-08-27
-links:
-- name: Pdf
-  url: https://ecvp2024.abdn.ac.uk/wp-content/uploads/sites/23/2024/08/ECVP2024_Abstract_Book.pdf
-- name: URL
-  url: https://laurentperrinet.github.io/publication/gekas-24-ecvp/
-publication: '*European Conference on Visual Perception 2024*'
-publication_types:
-- paper-conference
-publishDate: '2024-08-25T16:05:27.274458Z'
-title: An open-source vision-science tool for the auto-regressive generation of dynamic
-  stochastic textures Motion Clouds
-tags:
-- motion-perception
-- predictive-coding
-- visual-illusions
 categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
+tags:
+- motion-perception
+- predictive-coding
+- visual-illusions
+publication: '*European Conference on Visual Perception 2024*'
+publication_types:
+- paper-conference
+links:
+- name: Pdf
+  url: https://ecvp2024.abdn.ac.uk/wp-content/uploads/sites/23/2024/08/ECVP2024_Abstract_Book.pdf
+- name: URL
+  url: https://laurentperrinet.github.io/publication/gekas-24-ecvp/
 ---
-

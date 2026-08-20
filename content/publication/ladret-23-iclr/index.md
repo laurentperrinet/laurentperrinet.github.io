@@ -1,4 +1,11 @@
---- 
+---
+title: Convolutional Sparse Coding is improved by heterogeneous uncertainty modeling
+date: 2023-05-05
+publishDate: '2023-04-07T10:45:44.753196Z'
+lastmod: 2023-04-07 12:45:44+02:00
+authors:
+- Hugo Ladret
+- Laurent U Perrinet
 abstract: Aleatoric uncertainty characterizes the variability of features found in
   natural images, and echoes the epistemic uncertainty ubiquitously found in computer
   vision models. We explore this ''uncertainty in, uncertainty out'' relationship
@@ -11,28 +18,8 @@ abstract: Aleatoric uncertainty characterizes the variability of features found 
   conventional images, with additional beneficial computational properties. Overall,
   this work empirically demonstrates the advantage of partitioning epistemic uncertainty
   in sparse coding algorithms.
-authors:
-- Hugo Ladret
-- Laurent U Perrinet
-date: 2023-05-05
-draft: false
 featured: false
-image:
-  focal_point: Smart
-  preview_only: false
-lastmod: 2023-04-07 12:45:44+02:00
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/ladret-23-iclr/
-publication: '*ICLR 2023 SNN Workshop*'
-publication_types:
-- inproceedings
-publishDate: '2023-04-07T10:45:44.753196Z'
-title: Convolutional Sparse Coding is improved by heterogeneous uncertainty modeling
-tags:
-- primary-visual-cortex
-- sparse-coding
-- spiking-neural-networks
+draft: false
 categories:
 - Biological Neuroscience
 - Computational Neuroscience
@@ -40,8 +27,20 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
+tags:
+- primary-visual-cortex
+- sparse-coding
+- spiking-neural-networks
+publication: '*ICLR 2023 SNN Workshop*'
+publication_types:
+- inproceedings
+image:
+  focal_point: Smart
+  preview_only: false
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/ladret-23-iclr/
 ---
-
 * Accepted paper (poster) at the [ICLR 2023 Workshop on
 Sparsity in Neural Networks](https://www.sparseneural.net/accepted-papers):
  * the focus of the WS is on "On practical limitations and tradeoffs between sustainability and efficiency" in Kigali, Rwanda / May 5th 2023

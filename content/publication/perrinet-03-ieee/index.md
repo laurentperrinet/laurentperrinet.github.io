@@ -1,4 +1,10 @@
---- 
+---
+title: 'Coding static natural images using spiking event times: do neurons cooperate?'
+date: 2004-09-01
+authors:
+- Laurent U Perrinet
+- Manuel Samuelides
+- Simon J Thorpe
 abstract: To understand possible strategies of temporal spike coding in the central
   nervous system, we study functional neuromimetic models of visual processing for
   static images. We will first present the retinal model which was introduced by Van
@@ -19,31 +25,24 @@ abstract: To understand possible strategies of temporal spike coding in the cent
   representations in the retina. Results show that this algorithm provides an efficient
   spike coding strategy for low-level visual processing which may adapt to the complexity
   of the visual input.
-authors:
-- Laurent U Perrinet
-- Manuel Samuelides
-- Simon J Thorpe
-date: 2004-09-01
-doi: 10.1109/TNN.2004.833303
 featured: false
+categories:
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+tags:
+- primary-visual-cortex
+- sparse-coding
+- spiking-neural-networks
+publication: '*IEEE Transactions on Neural Networks*'
+publication_types:
+- article-journal
+doi: 10.1109/TNN.2004.833303
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/1333080
 - name: arXiv
   url: https://arxiv.org/abs/q-bio/0611002
-publication: '*IEEE Transactions on Neural Networks*'
-publication_types:
-- article-journal
-title: 'Coding static natural images using spiking event times: do neurons cooperate?'
-tags:
-- primary-visual-cortex
-- sparse-coding
-- spiking-neural-networks
-categories:
-- Education
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
 ---
-
 ![header](perrinet-03-ieee.png)
 {{< figure src="v1_tiger.gif" title="*Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.*" >}}

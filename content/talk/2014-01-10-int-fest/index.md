@@ -1,4 +1,8 @@
---- 
+---
+title: Axonal delays and on-time control of eye movements
+date: 2014-01-10
+authors:
+- Laurent U Perrinet
 abstract: Moving objects generate sensory information that may be noisy and ambiguous,
   yet it is important to be able to reconstruct object speed as fast as possible.
   One unsolved question is to understand how the brain pools motion information to
@@ -15,16 +19,12 @@ abstract: Moving objects generate sensory information that may be noisy and ambi
   that through the convergent use of models, electrophysiology or behavioural responses,
   the study of motion detection is an essential tool in our understanding of neural
   computations.
-authors:
-- Laurent U Perrinet
-date: 2014-01-10
-event: Marseille INT Fest, January 10th, 2014
 featured: false
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/talk/2014-01-10-int-fest/
-publication: '*Marseille INT Fest, January 10th, 2014*'
-title: Axonal delays and on-time control of eye movements
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- NeuroAI & Machine Learning
 tags:
 - bayesian-modeling
 - dynamics
@@ -32,11 +32,11 @@ tags:
 - free-energy
 - motion-detection
 - predictive-coding
-categories:
-- Behavioural Neuroscience
-- Biological Neuroscience
-- Computational Neuroscience
-- NeuroAI & Machine Learning
 projects:
 - tout-public
+publication: '*Marseille INT Fest, January 10th, 2014*'
+event: Marseille INT Fest, January 10th, 2014
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2014-01-10-int-fest/
 ---

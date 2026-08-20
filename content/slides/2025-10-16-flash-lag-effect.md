@@ -1,19 +1,19 @@
---- 
-slides:
-  theme: white
-  transition: fade
-  title: 'Mislocalization by Design: The Flash-Lag Effect as Prediction'
-date: '2025-10-16'
-all_day: false
-publishDate: '2025-10-14T06:47:11+02:00'
+---
 title: 2025-10-16-flash-lag-effect
-summary: Suresh Krishna's lab meeting
-tags:
-- motion-perception
+date: '2025-10-16'
+publishDate: '2025-10-14T06:47:11+02:00'
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- motion-perception
+slides:
+  theme: white
+  transition: fade
+  title: 'Mislocalization by Design: The Flash-Lag Effect as Prediction'
+all_day: false
+summary: Suresh Krishna's lab meeting
 ---
 <section>
 

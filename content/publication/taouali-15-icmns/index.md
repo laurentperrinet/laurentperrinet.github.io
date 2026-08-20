@@ -1,4 +1,12 @@
---- 
+---
+title: On overdispersion in neuronal evoked activity
+date: 2015-01-01
+authors:
+- Wahiba Taouali
+- Giacomo Benvenuti
+- Pascal Wallisch
+- Frédéric Y Chavane
+- Laurent U Perrinet
 abstract: 'The repeated presentation of an identical visual stimulus in the receptive
   field of a neuron may evoke different spiking patterns at each trial. Probabilistic
   methods are essential to understand its functional role within the neural activity.
@@ -19,29 +27,20 @@ abstract: 'The repeated presentation of an identical visual stimulus in the rece
   performance of this model to the Poisson model on a population decoding task. This
   shows that more knowledge about the form of dispersion tuning is necessary to have
   a significant gain, uncovering a possible feature of the neural spiking code.'
-authors:
-- Wahiba Taouali
-- Giacomo Benvenuti
-- Pascal Wallisch
-- Frédéric Y Chavane
-- Laurent U Perrinet
-date: 2015-01-01
 featured: false
-grants:
-- anr-bala-v1
-- brain-scales
-publication: '*ICMNS 2015 conference*'
-publication_types:
-- inproceedings
-title: On overdispersion in neuronal evoked activity
-tags:
-- bayesian-modelling
-- primary-visual-cortex
-- spiking-neural-networks
 categories:
 - Biological Neuroscience
 - Education
 - NeuroAI & Machine Learning
+tags:
+- bayesian-modelling
+- primary-visual-cortex
+- spiking-neural-networks
+publication: '*ICMNS 2015 conference*'
+publication_types:
+- inproceedings
+grants:
+- anr-bala-v1
+- brain-scales
 ---
-
 * see a follow-up in this [publication]({{< ref "/publication/taouali-16" >}})

@@ -1,4 +1,8 @@
---- 
+---
+title: Diffraction monochromatique, spectre audiographique
+date: 2010-04-14 19:00:00
+authors:
+- Laurent U Perrinet
 abstract: 'En perception, les neurones « parlent » tous en même temps par de brèves
   impulsions électrochimiques, générant un mélange de signaux, un bruit. Pourtant
   c''est par eux que nous pensons, voyons, sentons. Les ordinateurs sont différents,
@@ -9,35 +13,31 @@ abstract: 'En perception, les neurones « parlent » tous en même temps par de 
   sont présentes dans le cerveau. Comparée à la chaı̂ne logique du langage, dans cet
   algorithme, beaucoup d''autres chan̂es et logiques se mêlent. Comment vont-elles
   « parler » entre elles ? Existe-t-il des algorithmes biologiques ? '
-authors:
-- Laurent U Perrinet
-date: 2010-04-14 19:00:00
-event: intervention autour du vernissage de \"Diffraction monochromatique, spectre
-  audiographique\" d'Étienne Rey.
-event_url: http://ondesparalleles.org/projets/vortex-polychromatique-diffraction/
 featured: false
-links:
-- name: Conference
-  url: http://ondesparalleles.org/projets/vortex-polychromatique-diffraction/
-- name: URL
-  url: https://laurentperrinet.github.io/talk/2010-04-14-ondes-paralleles/
-location: Aix-enProvence (France)
-publication: '*intervention autour du vernissage de "Diffraction monochromatique,
-  spectre audiographique" d''Étienne Rey. *'
-publication_types:
-- inproceedings
-title: Diffraction monochromatique, spectre audiographique
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
 tags:
 - homeostasis
 - sparse-coding
 - spiking-neural-networks
 - visual-illusions
-categories:
-- Computational Neuroscience
-- NeuroAI & Machine Learning
 projects:
 - art-science
 - tout-public
+publication: '*intervention autour du vernissage de "Diffraction monochromatique,
+  spectre audiographique" d''Étienne Rey. *'
+publication_types:
+- inproceedings
+event: intervention autour du vernissage de \"Diffraction monochromatique, spectre
+  audiographique\" d'Étienne Rey.
+event_url: http://ondesparalleles.org/projets/vortex-polychromatique-diffraction/
+location: Aix-enProvence (France)
+links:
+- name: Conference
+  url: http://ondesparalleles.org/projets/vortex-polychromatique-diffraction/
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2010-04-14-ondes-paralleles/
 ---
 # Diffraction monochromatique, spectre audiographique
 ![Diffraction](https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg)

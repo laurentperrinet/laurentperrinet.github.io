@@ -1,4 +1,10 @@
---- 
+---
+title: Compensation of oculomotor delays in the visual system's network
+date: 2016-01-01
+authors:
+- Laurent U Perrinet
+- Rick A Adams
+- Karl Friston
 abstract: We consider the problem of sensorimotor delays in the optimal control of
   movement under uncertainty. Specifically, we consider axonal conduction delays in
   the visuo-oculomotor loop and their implications for active inference. Active inference
@@ -16,30 +22,23 @@ abstract: We consider the problem of sensorimotor delays in the optimal control 
   to the generic problem of integrating information from different sources with different
   temporal delays and the particular difficulties encountered when a system, like
   the oculomotor system, tries to control its environment with delayed signals.
-authors:
-- Laurent U Perrinet
-- Rick A Adams
-- Karl Friston
-date: 2016-01-01
 featured: false
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/perrinet-16-networks
-publication: '*Complex Networks: from theory to interdisciplinary applications*'
-publication_types:
-- inproceedings
-title: Compensation of oculomotor delays in the visual system's network
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
 tags:
 - bayesian-modelling
 - eye-movements
 - motion-perception
 - predictive-coding
-categories:
-- Computational Neuroscience
-- NeuroAI & Machine Learning
 projects:
 - codde
+publication: '*Complex Networks: from theory to interdisciplinary applications*'
+publication_types:
+- inproceedings
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/perrinet-16-networks
 grants:
 - codde
 ---
-

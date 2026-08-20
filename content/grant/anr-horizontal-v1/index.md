@@ -1,12 +1,17 @@
---- 
+---
+title: ANR Horizontal-V1 (2017/2021)
 date: 2016-04-27 00:00:00
-summary: Connectivité Horizontale et Prédiction de Cohérences dans l'Intégration de
-  Contour et Mouvement dans le Cortex Visuel Primaire
 authors:
 - yves-fregnac
 - frédéric-y-chavane
 - laurent-u-perrinet
-title: ANR Horizontal-V1 (2017/2021)
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- Education
+- Grants & Funding
+- Visual Neuroscience
 tags:
 - bayesian-modelling
 - foveated-vision
@@ -18,15 +23,9 @@ tags:
 - sparse-coding
 - spiking-neural-networks
 - visual-illusions
-categories:
-- Behavioural Neuroscience
-- Biological Neuroscience
-- Computational Neuroscience
-- Education
-- Grants & Funding
-- Visual Neuroscience
+summary: Connectivité Horizontale et Prédiction de Cohérences dans l'Intégration de
+  Contour et Mouvement dans le Cortex Visuel Primaire
 ---
-
 * Description on the official website of the [ANR](http://www.agence-nationale-recherche.fr/Project-ANR-17-CE37-0006)
 
 The Horizontal-V1 project aimed at understanding the emergence of sensory predictions linking local shape attributes (orientation, contour) to global indices of movement (direction, speed, trajectory) at the earliest stage of cortical processing (primary visual cortex, i.e. V1). We studied how the long-distance "horizontal" connectivity, intrinsic to V1 and the feedback from higher cortical areas contribute to a dynamic processing of local-to-global features as a function of the context (eg displacement along a trajectory; during reafference change induced by eye-movements...). We characterized the dynamic processes based on lateral propagation intra-V1, through which spatio-temporal inferences (continuous movement or apparent motion sequences) facilitating spatial ("filling-in") or positional ("flash-lag") future expected responses may be generated. 

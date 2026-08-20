@@ -1,4 +1,5 @@
---- 
+---
+title: Nicole Voges
 authors:
 - nicole-voges
 bio: Neuroscientist & Data Analyst, Wennigsen, Lower Saxony, Germany.
@@ -10,7 +11,6 @@ education:
   - course: PostDoc in Computational Neuroscience
     institution: Aix-Marseille Université
     year: 2013
-title: Nicole Voges
 role: PostDoc in Computational Neuroscience
 social:
 - icon: google-scholar

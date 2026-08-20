@@ -1,17 +1,13 @@
---- 
+---
 title: 'Physiological state Monitoring: a Riemannian Geometry based-model'
+date: '2026-01-01'
+publishDate: '2026-01-19T08:15:25.705257Z'
 authors:
 - A Choplin
 - T Rakotomamonjy
 - Laurent U Perrinet
 - N Lantos
 - S Angelliaume
-date: '2026-01-01'
-publishDate: '2026-01-19T08:15:25.705257Z'
-publication_types:
-- paper-conference
-publication: '*The 14th International Winter Conference on Brain-Computer Interface,
-  February 23~25, 2026*'
 abstract: 'This study investigates the use of Riemannian geometry to detect and monitor
   physiological states such as mental workload (MWL) from an EEG dataset collected
   in an aeronautical context. The analysis, based on EEG data recorded from 14 participants
@@ -22,13 +18,9 @@ abstract: 'This study investigates the use of Riemannian geometry to detect and 
   indicating a consistent neural signature of MWL throughout the trials. Results demonstrate
   spatial effects of mental workload irrespective of the investigated time domain:
   spatial information is distributed evenly across all explored timescale.'
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/choplin-26-bci
-- name: HAL
-  url: https://hal.science/hal-05627987
-- name: IEEE
-  url: https://ieeexplore.ieee.org/document/11435104
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
 tags:
 - classification
 - electroencephalogram
@@ -37,8 +29,15 @@ tags:
 - riemannian-geometry
 - spatial-covariance-matrices
 - temporal-generalization
-categories:
-- Behavioural Neuroscience
-- NeuroAI & Machine Learning
+publication: '*The 14th International Winter Conference on Brain-Computer Interface,
+  February 23~25, 2026*'
+publication_types:
+- paper-conference
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/choplin-26-bci
+- name: HAL
+  url: https://hal.science/hal-05627987
+- name: IEEE
+  url: https://ieeexplore.ieee.org/document/11435104
 ---
-

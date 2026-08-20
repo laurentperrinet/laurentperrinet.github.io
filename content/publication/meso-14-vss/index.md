@@ -1,4 +1,11 @@
---- 
+---
+title: 'Beyond simply faster and slower: exploring paradoxes in speed perception'
+date: 2014-08-22
+authors:
+- Andrew Isaac Meso
+- Claudio Simoncini
+- Laurent U Perrinet
+- Guillaume S Masson
 abstract: Estimating object speed in visual scenes is a critical part of perception.
   While various aspects of speed computation including discrimination thresholds,
   neural mechanisms and spatial integration mechanisms have been studied, there remain
@@ -24,31 +31,23 @@ abstract: Estimating object speed in visual scenes is a critical part of percept
   energy like computation. We characterise an underlying spatial frequency response
   which is shifted towards lower frequencies, unlike the perceptual responses and
   is probably separate from perception.
-authors:
-- Andrew Isaac Meso
-- Claudio Simoncini
-- Laurent U Perrinet
-- Guillaume S Masson
-date: 2014-08-22
-doi: 10.1167/14.10.491
 featured: false
-grants:
-- anr-speed
-links:
-- name: URL
-  url: https://doi.org/10.1167/14.10.491
-publication: '*Journal of Vision*'
-publication_types:
-- inproceedings
-title: 'Beyond simply faster and slower: exploring paradoxes in speed perception'
-tags:
-- eye-movements
-- motion-perception
-- visual-illusions
 categories:
 - Behavioural Neuroscience
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
+tags:
+- eye-movements
+- motion-perception
+- visual-illusions
+publication: '*Journal of Vision*'
+publication_types:
+- inproceedings
+doi: 10.1167/14.10.491
+links:
+- name: URL
+  url: https://doi.org/10.1167/14.10.491
+grants:
+- anr-speed
 ---
-

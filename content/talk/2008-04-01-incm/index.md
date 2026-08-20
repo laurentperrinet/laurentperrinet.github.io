@@ -1,4 +1,9 @@
---- 
+---
+title: 'From neural activity to behavior: computational neuroscience as a synthetic
+  approach for understanding the neural code.'
+date: 2008-04-01
+authors:
+- Laurent U Perrinet
 abstract: Computational Neuroscience is a synthetic, inter-disciplinary approach aiming
   at understanding cognition by analyzing the mechanisms underlying neural computations.
   We present in this seminar our attempt in modeling low-level vision by bridging
@@ -23,24 +28,19 @@ abstract: Computational Neuroscience is a synthetic, inter-disciplinary approach
   More generally, it proves that the use of a probabilistic representation is a particularly
   efficient method for bridging biological versus computational neuroscience and illustrates
   the advantage of such an interdisciplinary approach.
-authors:
-- Laurent U Perrinet
-date: 2008-04-01
-event: Séminaires de l'INCM, April 11th, 2008
 featured: false
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/talk/2008-04-01-incm/
-publication: '*Séminaires de l''INCM, April 11th, 2008*'
-title: 'From neural activity to behavior: computational neuroscience as a synthetic
-  approach for understanding the neural code.'
-tags:
-- bayesian-modelling
-- primary-visual-cortex
-- spiking-neural-networks
 categories:
 - Behavioural Neuroscience
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Visual Neuroscience
+tags:
+- bayesian-modelling
+- primary-visual-cortex
+- spiking-neural-networks
+publication: '*Séminaires de l''INCM, April 11th, 2008*'
+event: Séminaires de l'INCM, April 11th, 2008
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2008-04-01-incm/
 ---

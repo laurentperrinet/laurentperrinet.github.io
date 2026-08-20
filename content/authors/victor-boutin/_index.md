@@ -1,4 +1,5 @@
---- 
+---
+title: Victor Boutin
 authors:
 - victor-boutin
 education:
@@ -15,7 +16,6 @@ education:
   - course: Post-doc
     institution: CerCo (Toulouse, France).
     year: 2023
-title: Victor Boutin
 role: CNRS researcher at CerCo (Toulouse, France).
 bio: Phd in Computational Neuroscience
 social:
@@ -41,7 +41,6 @@ grants:
 user_groups:
 - Former Students
 ---
-
 Vicotr obtained a PhD in the Institute of Neuroscience of Marseille, at the Aix-Marseille university. My PhD was supervised by Laurent U Perrinet. He did his post-doc with Thomas Serre at ANITI (Toulouse, France) & Brown University (Boston, USA). He is now a permanent CNRS researcher (CR) at Cerco, Toulouse, France.
 
 # Controlling an aerial robot by human semaphore gestures using a bio-inspired neural network (PhD, 12/2016 - 02/2020)

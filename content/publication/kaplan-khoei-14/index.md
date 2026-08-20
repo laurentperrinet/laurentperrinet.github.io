@@ -1,4 +1,12 @@
---- 
+---
+title: Signature of an anticipatory response in area V1 as modeled by a probabilistic
+  model and a spiking neural network
+date: 2014-07-06
+authors:
+- Bernhard A Kaplan
+- Mina A Khoei
+- Anders Lansner
+- Laurent U Perrinet
 abstract: As it is confronted to inherent neural delays, how does the visual system
   create a coherent representation of a rapidly changing environment? In this paper,
   we investigate the role of motion-based prediction in estimating motion trajectories
@@ -19,30 +27,7 @@ abstract: As it is confronted to inherent neural delays, how does the visual sys
   we highlight requirements for the development of a trajectory-dependent anticipatory
   response, and in particular the anisotropic nature of the connectivity pattern which
   leads to the motion extrapolation mechanism.
-authors:
-- Bernhard A Kaplan
-- Mina A Khoei
-- Anders Lansner
-- Laurent U Perrinet
-date: 2014-07-06
-doi: 10.1109/IJCNN.2014.6889847
 featured: false
-grants:
-- brain-scales
-- facets-itn
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/kaplan-khoei-14
-publication: '*IEEE International Joint Conference on Neural Networks (IJCNN) 2014
-  Beijing, China*'
-publication_types:
-- inproceedings
-title: Signature of an anticipatory response in area V1 as modeled by a probabilistic
-  model and a spiking neural network
-tags:
-- bayesian-modeling
-- bayesian-modelling
-- motion-detection
 categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
@@ -51,8 +36,22 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
+tags:
+- bayesian-modeling
+- bayesian-modelling
+- motion-detection
+publication: '*IEEE International Joint Conference on Neural Networks (IJCNN) 2014
+  Beijing, China*'
+publication_types:
+- inproceedings
+doi: 10.1109/IJCNN.2014.6889847
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/kaplan-khoei-14
+grants:
+- brain-scales
+- facets-itn
 ---
-
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}
 * see  follow-up on motion extrapolation: {{< cite page="/publication/khoei-13-jpp" view="4" >}}
 * see  follow-up on the flash-lag effect: {{< cite page="/publication/khoei-masson-perrinet-17" view="4" >}}

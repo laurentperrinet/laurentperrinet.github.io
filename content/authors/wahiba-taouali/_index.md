@@ -1,4 +1,5 @@
---- 
+---
+title: Wahiba Taouali
 authors:
 - wahiba-taouali
 education:
@@ -9,7 +10,6 @@ education:
   - course: PostDoc in Computational Neuroscience
     institution: Aix-Marseille Université
     year: 2013
-title: Wahiba Taouali
 role: Consulting manager @ Enthought, Cambridge, United Kingdom.
 bio: PostDoc in Computational Neuroscience
 social:

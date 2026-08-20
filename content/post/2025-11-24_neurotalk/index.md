@@ -1,24 +1,22 @@
---- 
-authors:
-- laurent-u-perrinet
+---
+title: NeuroTalk sur le thème des métiers du cerveau
 date: 2025-11-24 08:30:00
 publishDate: '2025-11-24T09:59:44.385734Z'
-draft: false
+authors:
+- laurent-u-perrinet
 featured: false
-summary: NeuroTalk sur le thème des métiers du cerveau, organisé par les neuronautes
-location: Marseille, France
-title: NeuroTalk sur le thème des métiers du cerveau
-tags:
-- neuroscience
-- recherche
+draft: false
 categories:
 - Education
 - NeuroAI & Machine Learning
+tags:
+- neuroscience
+- recherche
 projects:
 - tout-public
+location: Marseille, France
+summary: NeuroTalk sur le thème des métiers du cerveau, organisé par les neuronautes
 ---
-
-
 Le 24 novembre 2025, j'ai eu l'opportunité de participer au Neurotalk, un événement organisé par l'association [#neuronautes](https://www.instagram.com/neuronautes/) sur le campus Saint-Charles à Marseille. Cette soirée était dédiée à l'exploration des carrières dans le domaine des neurosciences.
 
 L'événement s'est articulé en deux temps :

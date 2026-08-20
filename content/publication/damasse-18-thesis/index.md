@@ -1,12 +1,10 @@
---- 
+---
 title: 'Smooth Pursuit Eye Movements and Learning : Role of Motion Probability and
   Reinforcement Contingencies'
-authors:
-- Jean-Bernard Damasse
 date: '2018-06-11'
 publishDate: '2025-01-11T16:13:35.511400Z'
-publication_types:
-- thesis
+authors:
+- Jean-Bernard Damasse
 abstract: Un défi majeur pour les organismes vivants est leur capacité d’adapter constamment
   leurs comportements moteurs. Dans la première étude de cette thèse, nous avons étudié
   le rôle des régularités statistiques et du conditionnement opérant sur la poursuite
@@ -28,14 +26,16 @@ abstract: Un défi majeur pour les organismes vivants est leur capacité d’ada
   de la taille optimale de mémoire. Nos résultats suggèrent que les modèles adaptatifs
   pourraient contribuer dans le futur à mieux comprendre l’apprentissage statistique
   et par renforcement.
-links:
-- name: URL
-  url: https://theses.fr/2018AIXM0223
-tags:
-- eye-movements
-- motion-perception
 categories:
 - Behavioural Neuroscience
 - Education
 - NeuroAI & Machine Learning
+tags:
+- eye-movements
+- motion-perception
+publication_types:
+- thesis
+links:
+- name: URL
+  url: https://theses.fr/2018AIXM0223
 ---

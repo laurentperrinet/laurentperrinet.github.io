@@ -1,4 +1,13 @@
---- 
+---
+title: Sparse Deep Predictive Coding captures contour integration capabilities of
+  the early visual system
+date: 2021-01-26
+authors:
+- Victor Boutin
+- Angelo Franciosini
+- Frédéric Y Chavane
+- Franck Ruffier
+- Laurent U Perrinet
 abstract: Both neurophysiological and psychophysical experiments have pointed out
   the crucial role of recurrent and feedback connections to process context-dependent
   information in the early visual cortex. While numerous models have accounted for
@@ -21,36 +30,6 @@ abstract: Both neurophysiological and psychophysical experiments have pointed ou
   are able to overcome noise in input images. Therefore, the SDPC captures the association
   field principle at the neural level which results in better disambiguation of blurred
   images at the representational level.
-authors:
-- Victor Boutin
-- Angelo Franciosini
-- Frédéric Y Chavane
-- Franck Ruffier
-- Laurent U Perrinet
-date: 2021-01-26
-doi: 10.1371/journal.pcbi.1008629
-grants:
-- anr-horizontal-v1
-- doc-2-amu
-- phd-icn
-- mesocentre
-links:
-- name: Code
-  url: https://github.com/VictorBoutin/InteractionMap
-- name: URL
-  url: https://doi.org/10.1371/journal.pcbi.1008629
-- name: arXiv
-  url: https://arxiv.org/abs/1902.07651
-publication: '*PLoS Computational Biology*'
-publication_types:
-- article-journal
-title: Sparse Deep Predictive Coding captures contour integration capabilities of
-  the early visual system
-tags:
-- predictive-coding
-- primary-visual-cortex
-- sparse-coding
-- visual-illusions
 categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
@@ -58,8 +37,28 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- predictive-coding
+- primary-visual-cortex
+- sparse-coding
+- visual-illusions
+publication: '*PLoS Computational Biology*'
+publication_types:
+- article-journal
+doi: 10.1371/journal.pcbi.1008629
+links:
+- name: Code
+  url: https://github.com/VictorBoutin/InteractionMap
+- name: URL
+  url: https://doi.org/10.1371/journal.pcbi.1008629
+- name: arXiv
+  url: https://arxiv.org/abs/1902.07651
+grants:
+- anr-horizontal-v1
+- doc-2-amu
+- phd-icn
+- mesocentre
 ---
-
 ![](@laurentperrinet_1355810283835564033_tweetcapture.png)
 {{< figure src="https://journals.plos.org/ploscompbiol/article/figure/image?size=large&download=&id=10.1371/journal.pcbi.1008629.g001" width="80%" title="Fig 1. Architecture of a 2-layered SDPC model." >}}
 One often compares biological vision to a camera-like system where an image would be processed according to a sequence of successive transformations. In particular, this “feedforward” view is prevalent in models of visual processing such as deep learning. However, neuroscientists have long stressed that more complex information flow is necessary to reach natural vision efficiency. In particular, recurrent and feedback connections in the visual cortex allow to integrate contextual information in our representation of visual stimuli. These modulations have been observed both at the low-level of neural activity and at the higher level of perception.

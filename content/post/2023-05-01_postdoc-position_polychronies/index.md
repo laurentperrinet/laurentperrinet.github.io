@@ -1,31 +1,29 @@
---- 
+---
 title: Postdoc position "Accurate detection of precise spiking motifs in neurobiological
   data"
+date: 2023-05-01 09:00:00
+lastmod: 2023-05-01 09:00:00
 authors:
 - laurent-u-perrinet
-date: 2023-05-01 09:00:00
+subtitle: THE POSITION HAS BEEN FILLED!
 draft: false
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+tags:
+- motion-perception
+- neuromorphic-computing
+- primary-visual-cortex
+- spiking-neural-networks
 image:
   caption: © [Motion Exposure](http://www.motionexposure.com) - Stephen Orlando. With
     permission by the artist.
   focal_point: Smart
   placement: 2
   preview_only: false
-lastmod: 2023-05-01 09:00:00
-subtitle: THE POSITION HAS BEEN FILLED!
-tags:
-- motion-perception
-- neuromorphic-computing
-- primary-visual-cortex
-- spiking-neural-networks
-categories:
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
 ---
-
-
 {{% callout warning %}}
 THE POSITION HAS BEEN FILLED.
 {{% /callout %}}

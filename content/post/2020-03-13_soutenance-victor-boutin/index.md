@@ -1,27 +1,13 @@
---- 
+---
 title: '2020-03-13: Soutenance de thèse Victor Boutin'
+date: 2020-03-04 14:00:00
+lastmod: 2020-03-04 09:00:00
 authors:
 - laurent-u-perrinet
 - victor-boutin
-date: 2020-03-04 14:00:00
-draft: false
-image:
-  caption: '[ilbusca / Getty Images ](https://www.thoughtco.com/abbreviations-and-titles-used-in-college-1857653)'
-  focal_point: Smart
-  placement: 2
-  preview_only: false
-lastmod: 2020-03-04 09:00:00
 subtitle: Victor Boutin (Equipe NeOpTo) a soutenu sa thèse de doctorat le Vendredi
   13 mars à 14h
-summary: 'Victor Boutin (Equipe NeOpTo) a soutenu sa thèse de doctorat intitulée:
-  *Sparse deep predictive coding: a bio-inspired model of visual perception* / **Etude
-  d’un algorithme hiérarchique et codage épars et prédictif : vers un modèle bio-inspiré
-  de la perception visuelle** le Vendredi 13 mars à 14h'
-tags:
-- predictive-coding
-- primary-visual-cortex
-- sparse-coding
-- visual-illusions
+draft: false
 categories:
 - Biological Neuroscience
 - Computational Neuroscience
@@ -29,8 +15,21 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- predictive-coding
+- primary-visual-cortex
+- sparse-coding
+- visual-illusions
+image:
+  caption: '[ilbusca / Getty Images ](https://www.thoughtco.com/abbreviations-and-titles-used-in-college-1857653)'
+  focal_point: Smart
+  placement: 2
+  preview_only: false
+summary: 'Victor Boutin (Equipe NeOpTo) a soutenu sa thèse de doctorat intitulée:
+  *Sparse deep predictive coding: a bio-inspired model of visual perception* / **Etude
+  d’un algorithme hiérarchique et codage épars et prédictif : vers un modèle bio-inspiré
+  de la perception visuelle** le Vendredi 13 mars à 14h'
 ---
-
 ![](@laurentperrinet_1235128290458951680_tweetcapture.png)
 
 * Date : Vendredi 13 mars à 14h

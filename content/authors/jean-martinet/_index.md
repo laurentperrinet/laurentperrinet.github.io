@@ -1,7 +1,7 @@
---- 
+---
+title: Jean Martinet
 authors:
 - jean-martinet
-title: Jean Martinet
 superuser: false
 user_groups:
 - Collaborators

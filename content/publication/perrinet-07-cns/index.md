@@ -1,4 +1,9 @@
---- 
+---
+title: On efficient sparse spike coding schemes for learning natural scenes in the
+  primary visual cortex
+date: 2007-01-01
+authors:
+- Laurent U Perrinet
 abstract: 'We describe the theoretical formulation of a learning algorithm in a model
   of the primary visual cortex (V1) and present results of the efficiency of this
   algorithm by comparing it to the SparseNet algorithm [1]. As the SparseNet algorithm,
@@ -19,28 +24,23 @@ abstract: 'We describe the theoretical formulation of a learning algorithm in a 
   Res 1997, 37:3311-3325. 2. Perrinet L: Feature detection using spikes: the greedy
   approach. J Physiol Paris 2004, 98(4--6):530-539. 3. Hebb DO: The organization of
   behavior. Wiley, New York; 1949.'
-authors:
-- Laurent U Perrinet
-date: 2007-01-01
-doi: 10.1186/1471-2202-8-S2-P206
 featured: false
-grants:
-- facets-itn
-links:
-- name: URL
-  url: https://doi.org/10.1186/1471-2202-8-S2-P206
-publication: '*Sixteenth Annual Computational Neuroscience Meeting: CNS*2007, Toronto,
-  Canada. 7--12 July 2007*'
-publication_types:
-- inproceedings
-title: On efficient sparse spike coding schemes for learning natural scenes in the
-  primary visual cortex
-tags:
-- predictive-coding
-- primary-visual-cortex
-- sparse-coding
 categories:
 - Computational Neuroscience
 - Theoretical Neuroscience
 - Visual Neuroscience
+tags:
+- predictive-coding
+- primary-visual-cortex
+- sparse-coding
+publication: '*Sixteenth Annual Computational Neuroscience Meeting: CNS*2007, Toronto,
+  Canada. 7--12 July 2007*'
+publication_types:
+- inproceedings
+doi: 10.1186/1471-2202-8-S2-P206
+links:
+- name: URL
+  url: https://doi.org/10.1186/1471-2202-8-S2-P206
+grants:
+- facets-itn
 ---

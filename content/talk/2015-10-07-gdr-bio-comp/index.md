@@ -1,4 +1,8 @@
---- 
+---
+title: Motion-based prediction with neuromorphic hardware
+date: 2015-10-07 13:00:00
+authors:
+- Laurent U Perrinet
 abstract: 'We stand at a point in history where our phones have become smart but lack
   a feature which prevails in most forms of living intelligence: vision. The ability
   to see is indeed an essential facet of intelligence which is developed in an autonomous
@@ -8,28 +12,24 @@ abstract: 'We stand at a point in history where our phones have become smart but
   will demonstrate at different levels of description, from probabilistic models to
   neuromorphic hardware,  a surprising solution: The visual system models the world
   and uses the eye to probe this model.'
-authors:
-- Laurent U Perrinet
-date: 2015-10-07 13:00:00
+featured: false
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
+tags:
+- bayesian-modelling
+- motion-perception
+- neuromorphic-computing
+projects:
+- tout-public
+publication: '*First GDR BioComp workshop, Saint-Paul de Vence, October 7th, 2015*'
+url_slides: https://laurentperrinet.github.io/sciblog/files/2015-10-07_Perrinet15biocomp_slides.pdf
 event: First GDR BioComp workshop
 event_url: http://gdr-biocomp.fr/colloque/
-featured: false
+location: Saint-Paul de Vence
 links:
 - name: Conference
   url: http://gdr-biocomp.fr/colloque/
 - name: URL
   url: https://laurentperrinet.github.io/talk/2015-10-07-gdr-bio-comp/
-location: Saint-Paul de Vence
-publication: '*First GDR BioComp workshop, Saint-Paul de Vence, October 7th, 2015*'
-title: Motion-based prediction with neuromorphic hardware
-url_slides: https://laurentperrinet.github.io/sciblog/files/2015-10-07_Perrinet15biocomp_slides.pdf
-tags:
-- bayesian-modelling
-- motion-perception
-- neuromorphic-computing
-categories:
-- Behavioural Neuroscience
-- NeuroAI & Machine Learning
-projects:
-- tout-public
 ---

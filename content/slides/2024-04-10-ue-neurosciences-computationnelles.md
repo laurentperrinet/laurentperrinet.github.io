@@ -1,12 +1,13 @@
---- 
-slides:
-  theme: white
-  transition: fade
-date: '2024-04-10'
-all_day: false
-publishDate: '2024-03-29T12:47:11+02:00'
+---
 title: 2024-04-10-ue-neurosciences-computationnelles
-summary: Artificial neural networks applied to the understanding of biological vision
+date: '2024-04-10'
+publishDate: '2024-03-29T12:47:11+02:00'
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+- Visual Neuroscience
 tags:
 - deep-learning
 - eye-movements
@@ -16,14 +17,13 @@ tags:
 - sparse-coding
 - spiking-neural-networks
 - visual-illusions
-categories:
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
-- Visual Neuroscience
 projects:
 - tout-public
+slides:
+  theme: white
+  transition: fade
+all_day: false
+summary: Artificial neural networks applied to the understanding of biological vision
 ---
 <section>
 

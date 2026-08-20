@@ -1,4 +1,13 @@
---- 
+---
+title: 'Measuring speed of moving textures: Different pooling of motion information
+  for human ocular following and perception.'
+date: 2012-01-01
+authors:
+- Claudio Simoncini
+- Laurent U Perrinet
+- Anna Montagnini
+- Pascal Mamassian
+- Guillaume S Masson
 abstract: 'To measure speed and direction of moving objects, the cortical motion system
   pools information across different spatiotemporal channels. One yet unsolved question
   is to understand how the brain pools this information and whether this pooling is
@@ -24,35 +33,25 @@ abstract: 'To measure speed and direction of moving objects, the cortical motion
   for primate tracking eye movements. Neurosci. BioBehav. Review 36, 1-25 (2011).
   Schrater, P.R., Knill, D.C. & Simoncelli, E.P. Mechanism of visual motion detection.
   Nat. Neurosci. 3, 64-68 (2000).'
-authors:
-- Claudio Simoncini
-- Laurent U Perrinet
-- Anna Montagnini
-- Pascal Mamassian
-- Guillaume S Masson
-date: 2012-01-01
-doi: 10.3389/conf.fnins.2012.86.00016
 featured: false
-links:
-- name: URL
-  url: https://www.frontiersin.org/myfrontiers/abstractdetails.aspx?abs_doi=10.3389/conf.fnins.2012.86.00016
-publication: '*Front. Neurosci. Conference Abstract: Neural Coding, Decision-Making
-  and Integration in Time*'
-publication_types:
-- inproceedings
-title: 'Measuring speed of moving textures: Different pooling of motion information
-  for human ocular following and perception.'
-tags:
-- eye-movements
-- motion-perception
-- visual-illusions
 categories:
 - Behavioural Neuroscience
 - Education
 - NeuroAI & Machine Learning
+tags:
+- eye-movements
+- motion-perception
+- visual-illusions
 projects:
 - codde
+publication: '*Front. Neurosci. Conference Abstract: Neural Coding, Decision-Making
+  and Integration in Time*'
+publication_types:
+- inproceedings
+doi: 10.3389/conf.fnins.2012.86.00016
+links:
+- name: URL
+  url: https://www.frontiersin.org/myfrontiers/abstractdetails.aspx?abs_doi=10.3389/conf.fnins.2012.86.00016
 grants:
 - codde
 ---
-

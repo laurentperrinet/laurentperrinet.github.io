@@ -1,4 +1,5 @@
---- 
+---
+title: Mina A Khoei
 authors:
 - mina-a-khoei
 education:
@@ -9,7 +10,6 @@ education:
   - course: Phd in Computational Neuroscience
     institution: Aix-Marseille Université
     year: 2014
-title: Mina A Khoei
 role: Senior AI/ML scientist @ SynSense, Zurich, Switzerland.
 bio: Phd in Computational Neuroscience
 social:

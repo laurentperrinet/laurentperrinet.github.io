@@ -1,4 +1,12 @@
---- 
+---
+title: Reinforcement contingencies modulate anticipatory smooth eye movements
+date: 2016-11-03
+authors:
+- Jean-Bernard Damasse
+- Laurent U Perrinet
+- Jérémie Jozefowiez
+- Laurent Madelain
+- Anna Montagnini
 abstract: Natural environments potentially contain several interesting targets for
   goal-directed behavior. Thus sensorimotor systems need to operate a competitive
   selection based on behaviorally meaningful parameters. Recently, it has been observed
@@ -22,26 +30,18 @@ abstract: Natural environments potentially contain several interesting targets f
   to behavior. An additional classical conditioning paradigm confirmed that reinforcement
   contingencies have to be operant to be effective and that they have a role in solving
   the credit assignment problem during aSPEM.
-authors:
-- Jean-Bernard Damasse
-- Laurent U Perrinet
-- Jérémie Jozefowiez
-- Laurent Madelain
-- Anna Montagnini
-date: 2016-11-03
-event: GDR Vision, Toulouse, Nov 3rd, 2016
 featured: false
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/talk/2016-11-03-gdr/
-publication: '*GDR Vision, Toulouse, Nov 3rd, 2016*'
-title: Reinforcement contingencies modulate anticipatory smooth eye movements
-tags:
-- eye-movements
-- motion-perception
 categories:
 - Behavioural Neuroscience
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
+tags:
+- eye-movements
+- motion-perception
+publication: '*GDR Vision, Toulouse, Nov 3rd, 2016*'
+event: GDR Vision, Toulouse, Nov 3rd, 2016
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2016-11-03-gdr/
 ---

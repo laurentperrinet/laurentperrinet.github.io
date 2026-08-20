@@ -1,4 +1,10 @@
---- 
+---
+title: 'From the retina to action: Predictive processing in the visual system'
+date: 2019-03-25 14:30:00
+authors:
+- Victor Boutin
+- Angelo Franciosini
+- Laurent U Perrinet
 abstract: Visual areas are essential in transforming the raw luminous signal into
   a representation which efficiently conveys information about the environment. This
   process is constrained by various factors such as a wide variety of changes in the
@@ -10,13 +16,18 @@ abstract: Visual areas are essential in transforming the raw luminous signal int
   of visual objects. As such, the predictive coding framework offers a unified theory
   to explain many of the mechanisms at the different levels of the visual system and
   which were unveiled by decades of study in neurophysiology and psychophysics.
-all_day: false
-authors:
-- Victor Boutin
-- Angelo Franciosini
-- Laurent U Perrinet
-date: 2019-03-25 14:30:00
+categories:
+- Biological Neuroscience
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+tags:
+- bayesian-modelling
+- motion-perception
+- predictive-coding
+- primary-visual-cortex
 event: HDR Robin Baurès, Toulouse (France)
+location: Toulouse (France)
 links:
 - name: Slides
   url: https://laurentperrinet.github.io/2019-03-25_HDR_RobinBaures
@@ -24,18 +35,7 @@ links:
   url: https://github.com/laurentperrinet/2019-03-25_HDR_RobinBaures/
 - name: URL
   url: https://laurentperrinet.github.io/2019-03-25_HDR_RobinBaures
-location: Toulouse (France)
-title: 'From the retina to action: Predictive processing in the visual system'
-tags:
-- bayesian-modelling
-- motion-perception
-- predictive-coding
-- primary-visual-cortex
-categories:
-- Biological Neuroscience
-- Computational Neuroscience
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
+all_day: false
 ---
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="1" >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="1" >}}

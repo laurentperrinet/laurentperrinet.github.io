@@ -1,26 +1,24 @@
---- 
-authors:
-- laurent-u-perrinet
+---
+title: Rencontre cinémas & sciences à la prison des Baumettes
 date: 2024-05-23 08:30:00
 publishDate: '2024-05-21T09:59:44.385734Z'
-draft: false
+authors:
+- laurent-u-perrinet
 featured: false
-summary: Participation à Structure d’Accompagnement à la Sortie de la prison des Baumettes
-location: Marseille, France
-title: Rencontre cinémas & sciences à la prison des Baumettes
-links:
-- name: URL
-  url: http://www.lieuxfictifs.org/actualites/article/inauguration-de-la-salle-de-cinema
-tags:
-- visual-illusions
+draft: false
 categories:
 - Education
 - NeuroAI & Machine Learning
+tags:
+- visual-illusions
 projects:
 - tout-public
+location: Marseille, France
+links:
+- name: URL
+  url: http://www.lieuxfictifs.org/actualites/article/inauguration-de-la-salle-de-cinema
+summary: Participation à Structure d’Accompagnement à la Sortie de la prison des Baumettes
 ---
-
-
 ![14eme du RISC](http://festivalrisc.org/wp-content/uploads/2023/11/RISCV02rvb-web-WP.jpg)
 
 À la suite des [14ème RENCONTRES INTERNATIONALES SCIENCES & CINÉMAS (RISC)](https://laurentperrinet.github.io/post/2023-12-16-risc/), organisées par l’association Polly Maggoo depuis 2006  l’association Lieux Fictifs, diffuse l’ensemble des films primés au sein de la [Structure d’Accompagnement à la Sortie](http://www.lieuxfictifs.org/actualites/article/inauguration-de-la-salle-de-cinema) de la prison des Baumettes.

@@ -1,8 +1,8 @@
---- 
+---
+title: Recent Events
 widget: pages
 headless: true
 weight: 15
-title: Recent Events
 content:
   filters:
     folders:
@@ -17,4 +17,3 @@ design:
   view: compact
   columns: 1
 ---
-

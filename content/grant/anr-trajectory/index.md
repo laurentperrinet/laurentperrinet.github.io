@@ -1,10 +1,16 @@
---- 
+---
+title: ANR TRAJECTORY (2016/2019)
 date: 2016-04-27 00:00:00
-summary: ANR TRAJECTORY (2016/2019).
 authors:
 - frédéric-y-chavane
 - laurent-u-perrinet
-title: ANR TRAJECTORY (2016/2019)
+categories:
+- Biological Neuroscience
+- Computational Neuroscience
+- Computer Vision
+- Education
+- Grants & Funding
+- Visual Neuroscience
 tags:
 - foveated-vision
 - log-polar-mapping
@@ -13,15 +19,9 @@ tags:
 - primary-visual-cortex
 - retinotopy
 - visual-illusions
-categories:
-- Biological Neuroscience
-- Computational Neuroscience
-- Computer Vision
-- Education
-- Grants & Funding
-- Visual Neuroscience
 projects:
 - open-science
+summary: ANR TRAJECTORY (2016/2019).
 ---
 Global motion processing is a major computational task of biological visual systems. When an object moves across the visual field, the sequence of visited positions is strongly correlated in space and time, forming a trajectory. These correlated images generate a sequence of local activation of the feed-forward stream. Local properties such as position, direction and orientation can be extracted at each time step by a feed-forward cascade of linear filters and static non-linearities. However such local, piecewise, analysis ignores the recent history of motion and faces several difficulties, such as systematic delays, ambiguous information processing (e.g., aperture and correspondence problems61) high sensitivity to noise and segmentation problems when several objects are present. Indeed, two main aspects of visual processing have been largely ignored by the dominant, classical feed-forward scheme. First, natural inputs are often ambiguous, dynamic and non-stationary as, e.g., objects moving along complex trajectories. To process them, the visual system must segment them from the scene, estimate their position and direction over time and predict their future location and velocity. Second, each of these processing steps, from the retina to the highest cortical areas, is implemented by an intricate interplay of feed-forward, feedback and horizontal interactions1. Thus, at each stage, a moving object will not only be processed locally, but also generate a lateral propagation of information. Despite decades of motion processing research, it is still unclear how the early visual system processes motion trajectories. We, among others, have proposed that anisotropic diffusion of motion information in retinotopic maps can contribute resolving many of these difficulties25 13. Under this perspective, motion integration, anticipation and prediction would be jointly achieved through the interactions between feed-forward, lateral and feedback propagations within a common spatial reference frame, the retinotopic maps.
 

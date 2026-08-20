@@ -1,32 +1,15 @@
---- 
+---
+title: Postdoc position on Visual computations using Spatio-temporal Diffusion Kernels
+  and Traveling Waves
+date: 2019-10-21 09:00:00
+lastmod: 2019-10-21 09:00:00
 authors:
 - laurent-u-perrinet
-date: 2019-10-21 09:00:00
-draft: false
-image:
-  caption: Artwork by [Étienne Rey](https://laurentperrinet.github.io/post/2019-06-22_ardemone/),
-    photo [Jean Luc Cougy](https://www.enrevenantdelexpo.com/2019/05/17/sans-gravite-une-poetique-de-air-ardenome-avignon/)
-  focal_point: Smart
-  placement: 2
-  preview_only: false
-lastmod: 2019-10-21 09:00:00
 subtitle: THE POSITION HAS BEEN FILLED. 18 month Post-doc position coordinated by
   [Laurent Perrinet](https://laurentperrinet.github.io/), supported by (INT, Marseille)
   and [Yves Frégnac](http://neuro-psi.cnrs.fr/spip.php?article934&lang=fr) (UNIC-NeuroPSI,
   Gif).
-summary: THE POSITION HAS BEEN FILLED. 18 month Post-doc position coordinated by [Laurent
-  Perrinet](https://laurentperrinet.github.io/), supported by (INT, Marseille) and
-  [Yves Frégnac](http://neuro-psi.cnrs.fr/spip.php?article934&lang=fr) (UNIC-NeuroPSI,
-  Gif).
-title: Postdoc position on Visual computations using Spatio-temporal Diffusion Kernels
-  and Traveling Waves
-tags:
-- motion-perception
-- predictive-coding
-- primary-visual-cortex
-- sparse-coding
-- spiking-neural-networks
-- visual-illusions
+draft: false
 categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
@@ -36,12 +19,27 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
+tags:
+- motion-perception
+- predictive-coding
+- primary-visual-cortex
+- sparse-coding
+- spiking-neural-networks
+- visual-illusions
 projects:
 - art-science
 - tout-public
+image:
+  caption: Artwork by [Étienne Rey](https://laurentperrinet.github.io/post/2019-06-22_ardemone/),
+    photo [Jean Luc Cougy](https://www.enrevenantdelexpo.com/2019/05/17/sans-gravite-une-poetique-de-air-ardenome-avignon/)
+  focal_point: Smart
+  placement: 2
+  preview_only: false
+summary: THE POSITION HAS BEEN FILLED. 18 month Post-doc position coordinated by [Laurent
+  Perrinet](https://laurentperrinet.github.io/), supported by (INT, Marseille) and
+  [Yves Frégnac](http://neuro-psi.cnrs.fr/spip.php?article934&lang=fr) (UNIC-NeuroPSI,
+  Gif).
 ---
-
-
 {{% callout warning %}}
 THE POSITION HAS BEEN FILLED.
 {{% /callout %}}

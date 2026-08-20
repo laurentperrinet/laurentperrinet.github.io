@@ -1,4 +1,11 @@
---- 
+---
+title: 'Edge statistics in natural images versus laboratory animal environments: implications
+  for understanding lateral connectivity in V1'
+date: 2011-09-28 13:00:00
+authors:
+- Laurent U Perrinet
+- David Fitzpatrick
+- James A Bednar
 abstract: Oriented edges in images of natural scenes tend to be aligned in collinear
   or co-circular arrangements, with lines and smooth curves more common than other
   possible arrangements of edges (Geisler et al., Vis Res 41:711-24, 2001). The visual
@@ -31,32 +38,25 @@ abstract: Oriented edges in images of natural scenes tend to be aligned in colli
   those measured by Bosking et al. (1997), with shorter-range correlations and less
   emphasis on collinear continuations. This prediction can be tested in future experiments
   on matching groups of animals reared in different environments.
-authors:
-- Laurent U Perrinet
-- David Fitzpatrick
-- James A Bednar
-date: 2011-09-28 13:00:00
+featured: false
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
+- Visual Neuroscience
+tags:
+- bayesian-modelling
+- primary-visual-cortex
+- sparse-coding
+projects:
+- tout-public
+publication: '*Proceedings of SfN, 2011*'
 event: Proceedings of SfN, 2011
 event_url: http://glotin.univ-tln.fr/ERMITES11/index.xhtml
-featured: false
+location: Porquerolles la Perle des Iles d'Or - Var (France)
 links:
 - name: Conference
   url: http://glotin.univ-tln.fr/ERMITES11/index.xhtml
 - name: URL
   url: https://laurentperrinet.github.io/talk/2011-09-28-ermites/
-location: Porquerolles la Perle des Iles d'Or - Var (France)
-publication: '*Proceedings of SfN, 2011*'
-title: 'Edge statistics in natural images versus laboratory animal environments: implications
-  for understanding lateral connectivity in V1'
-tags:
-- bayesian-modelling
-- primary-visual-cortex
-- sparse-coding
-categories:
-- Behavioural Neuroscience
-- NeuroAI & Machine Learning
-- Visual Neuroscience
-projects:
-- tout-public
 ---
 * See a followup in {{< cite page="/publication/perrinet-bednar-15" view="1" >}}

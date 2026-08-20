@@ -1,4 +1,9 @@
---- 
+---
+title: Should I stay or should I go? Adaption of human observers to the volatility
+  of visual inputs
+date: 2019-04-05 15:45:00
+authors:
+- Laurent U Perrinet
 abstract: Animal behavior has to constantly adapt to changes, for instance when unexpectedly
   switching the state of an environmental context. For an agent interacting with this
   kind of volatile environment, it is important to respond to such switches accurately
@@ -20,11 +25,20 @@ abstract: Animal behavior has to constantly adapt to changes, for instance when 
   use this representation for sensorimotor control as well as for explicit judgments.
   This work proposes a novel approach to more generically test human cognitive abilities
   in uncertain and dynamic environments.
-authors:
-- Laurent U Perrinet
-date: 2019-04-05 15:45:00
-event: CausaL Kick-off
 featured: false
+categories:
+- Behavioural Neuroscience
+- Education
+- NeuroAI & Machine Learning
+tags:
+- bayesian-modelling
+- eye-movements
+- motion-perception
+publication: '*CausaL Kick-off*'
+publication_types:
+- inproceedings
+event: CausaL Kick-off
+location: INT, Marseille (France)
 links:
 - name: Slides
   url: https://laurentperrinet.github.io/2019-04-05_BBCP_causal_kickoff
@@ -32,20 +46,6 @@ links:
   url: https://github.com/laurentperrinet/2019-04-05_BBCP_causal_kickoff/
 - name: URL
   url: https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff
-location: INT, Marseille (France)
-publication: '*CausaL Kick-off*'
-publication_types:
-- inproceedings
-title: Should I stay or should I go? Adaption of human observers to the volatility
-  of visual inputs
-tags:
-- bayesian-modelling
-- eye-movements
-- motion-perception
-categories:
-- Behavioural Neuroscience
-- Education
-- NeuroAI & Machine Learning
 ---
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="1" >}}
 * previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})

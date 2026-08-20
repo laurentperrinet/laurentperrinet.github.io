@@ -1,8 +1,8 @@
---- 
+---
+title: Recent & Upcoming Talks
 widget: pages
 headless: true
 weight: 45
-title: Recent & Upcoming Talks
 content:
   page_type: talk
   count: 5

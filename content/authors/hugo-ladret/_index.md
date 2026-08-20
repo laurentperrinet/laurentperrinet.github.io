@@ -1,4 +1,5 @@
---- 
+---
+title: Hugo Ladret
 authors:
 - hugo-ladret
 bio: My PhD subject focused on the role of precision in natural and artificial neural
@@ -15,7 +16,6 @@ education:
   - course: Master in Neuroscience
     institution: Aix-Marseille Université
     year: 2019
-title: Hugo Ladret
 role: Postdoctoral Researcher at Friedrich Miescher Institute for Biomedical Research
 social:
 - icon: github
@@ -31,7 +31,6 @@ superuser: false
 user_groups:
 - Former Students
 ---
-
 # PhD Student (2019-09 / 2024-02): A multiscale cortical model to account for orientation selectivity in natural-like stimulations
 
  * Aix-Marseille Université, Institut des Neurosciences de la Timone

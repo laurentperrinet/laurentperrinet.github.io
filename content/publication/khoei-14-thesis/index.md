@@ -1,12 +1,10 @@
---- 
+---
 title: Une Approche Computationnelle de La Dépendance Au Mouvement Du Codage de La
   Position Dans La Système Visuel
-authors:
-- Mina Aliakbari khoei
 date: '2014-10-06'
 publishDate: '2025-01-11T16:13:35.496301Z'
-publication_types:
-- thesis
+authors:
+- Mina Aliakbari khoei
 abstract: 'Cette thèse est centralisée sur cette question : comment est-ce que le
   système visuel peut coder efficacement la position des objets en mouvement, en dépit
   des diverses sources d''incertitude ? Cette  étude déploie une hypothèse sur la
@@ -27,14 +25,16 @@ abstract: 'Cette thèse est centralisée sur cette question : comment est-ce que
   diagonal et avons reproduit la réponse anticipée de populations de neurones dans
   l''aire cortical V1. Nos résultats indiquent qu''un codage en position efficace
   et robuste peut être fortement dépendant de l''intégration le long de la trajectoire.'
-links:
-- name: URL
-  url: https://theses.fr/2014AIXM4041
-tags:
-- bayesian-modelling
-- primary-visual-cortex
 categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
+tags:
+- bayesian-modelling
+- primary-visual-cortex
+publication_types:
+- thesis
+links:
+- name: URL
+  url: https://theses.fr/2014AIXM4041
 ---

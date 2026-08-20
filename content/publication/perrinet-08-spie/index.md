@@ -1,4 +1,9 @@
---- 
+---
+title: 'Adaptive Sparse Spike Coding : applications of Neuroscience to the compression
+  of natural images'
+date: 2008-01-01
+authors:
+- Laurent U Perrinet
 abstract: 'If modern computers are sometimes superior to cognition in some specialized
   tasks such as playing chess or browsing a large database, they can''t beat the efficiency
   of biological vision for such simple tasks as recognizing a relative or following
@@ -16,28 +21,23 @@ abstract: 'If modern computers are sometimes superior to cognition in some speci
   Pursuit algorithm where the ArgMax function is optimized for competition, or Competition
   Optimized Matching Pursuit (COMP). We will particularly focus on bridging neuroscience
   and image processing and on the advantages of such an interdisciplinary approach.'
-authors:
-- Laurent U Perrinet
-date: 2008-01-01
 featured: false
-grants:
-- facets
-links:
-- name: arXiv
-  url: https://arxiv.org/abs/0804.4830
-publication: '*Optical and Digital Image Processing Conference 7000 - Proceedings
-  of SPIE Volume 7000, 7 - 11 April 2008*'
-publication_types:
-- inproceedings
-title: 'Adaptive Sparse Spike Coding : applications of Neuroscience to the compression
-  of natural images'
+categories:
+- Computational Neuroscience
+- Theoretical Neuroscience
+- Visual Neuroscience
 tags:
 - neuromorphic-computing
 - primary-visual-cortex
 - sparse-coding
 - spiking-neural-networks
-categories:
-- Computational Neuroscience
-- Theoretical Neuroscience
-- Visual Neuroscience
+publication: '*Optical and Digital Image Processing Conference 7000 - Proceedings
+  of SPIE Volume 7000, 7 - 11 April 2008*'
+publication_types:
+- inproceedings
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/0804.4830
+grants:
+- facets
 ---

@@ -1,25 +1,24 @@
---- 
+---
+title: SNUFA 2024
+date: 2024-11-06 00:00:00
+lastmod: 2024-11-06 00:00:00
 authors:
 - laurent-u-perrinet
-date: 2024-11-06 00:00:00
-draft: false
-lastmod: 2024-11-06 00:00:00
-title: SNUFA 2024
 subtitle: 'SNUFA 2024: Spiking Neural networks as Universal Function Approximators'
+draft: false
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+tags:
+- neuromorphic-computing
+- spiking-neural-networks
 summary: This online workshop brings together researchers in the fields of computational
   neuroscience, machine learning, and neuromorphic engineering to present their work
   and discuss ways of translating these findings into a better understanding of neural
   circuits. Topics include artificial and biologically plausible learning algorithms
   and the dissection of trained spiking circuits toward understanding neural processing.
   We have a manageable number of talks with ample time for discussions.
-tags:
-- neuromorphic-computing
-- spiking-neural-networks
-categories:
-- Computational Neuroscience
-- NeuroAI & Machine Learning
 ---
-
 This online workshop brings together researchers in the fields of computational neuroscience, machine learning, and neuromorphic engineering to present their work and discuss ways of translating these findings into a better understanding of neural circuits. Topics include artificial and biologically plausible learning algorithms and the dissection of trained spiking circuits toward understanding neural processing. We have a manageable number of talks with ample time for discussions.
 
 ## Executive committee. 

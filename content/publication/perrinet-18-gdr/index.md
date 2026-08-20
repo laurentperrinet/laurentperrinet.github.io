@@ -1,4 +1,8 @@
---- 
+---
+title: A low-cost, accessible eye tracking framework
+date: 2018-01-01
+authors:
+- Laurent U Perrinet
 abstract: 'Recording eye movements is a technique that attracts an increasing number
   of scientists, but also in the general public. Indeed, this allows to quantitatively
   measure a number of useful dimensions of perception and behavior in general. However,
@@ -15,34 +19,29 @@ abstract: 'Recording eye movements is a technique that attracts an increasing nu
   97 percent. We also provide with an integration with the psychopy library which
   shows that frames can be processed on a standard laptop at a rate of approximately
   25 Hz.'
-authors:
-- Laurent U Perrinet
-date: 2018-01-01
 featured: false
-grants:
-- pace-itn
-links:
-- name: Pdf
-  url: https://github.com/laurentperrinet/Perrinet18gdr/raw/master/Perrinet18gdr.pdf
-- name: URL
-  url: https://github.com/laurentperrinet/Perrinet18gdr
-publication: '*GDR Vision, Paris, 2018*'
-publication_types:
-- inproceedings
-title: A low-cost, accessible eye tracking framework
-tags:
-- eye-movements
-- motion-perception
-- visual-illusions
 categories:
 - Computer Vision
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- eye-movements
+- motion-perception
+- visual-illusions
 projects:
 - pace-itn
+publication: '*GDR Vision, Paris, 2018*'
+publication_types:
+- inproceedings
+links:
+- name: Pdf
+  url: https://github.com/laurentperrinet/Perrinet18gdr/raw/master/Perrinet18gdr.pdf
+- name: URL
+  url: https://github.com/laurentperrinet/Perrinet18gdr
+grants:
+- pace-itn
 ---
-
  - poster presented @ [[https://gdrvision2018.sciencesconf.org/|GDR vision, Paris]].
  - program : https://gdrvision2018.sciencesconf.org/data/pages/posters_GDRVision2018.pdf
  - poster : https://github.com/laurentperrinet/Perrinet18gdr/raw/master/Perrinet18gdr.pdf

@@ -1,4 +1,15 @@
---- 
+---
+title: Resilience to sensory uncertainty in the primary visual cortex
+date: 2023-03-09
+publishDate: '2023-03-13T11:29:25.141921Z'
+lastmod: 2023-03-13 12:29:25+01:00
+authors:
+- Hugo Ladret
+- Nelson Cortes
+- Lamyae Ikan
+- Frédéric Chavane
+- Christian Casanova
+- Laurent U Perrinet
 abstract: 'Our daily endeavors occur in a complex visual environment, whose intrinsic
   variability shapes the way we integrate information to make decisions. By processing
   thousands of parallel sensory inputs, our brain is theoretically able to compute
@@ -23,31 +34,8 @@ abstract: 'Our daily endeavors occur in a complex visual environment, whose intr
   sensory uncertainty. This fits theoretical considerations on canonical microcircuit
   in the cortex, potentially establishing uncertainty computations as a new general
   role for local recurrent cortical connectivity.'
-authors:
-- Hugo Ladret
-- Nelson Cortes
-- Lamyae Ikan
-- Frédéric Chavane
-- Christian Casanova
-- Laurent U Perrinet
-date: 2023-03-09
-draft: false
 featured: false
-image:
-  focal_point: Smart
-  preview_only: false
-lastmod: 2023-03-13 12:29:25+01:00
-links:
-- name: URL
-  url: https://www.world-wide.org/cosyne-23/resilience-sensory-uncertainty-primary-88600879/
-publication: '*Computational and Systems Neuroscience (Cosyne) 2023*'
-publication_types:
-- inproceedings
-publishDate: '2023-03-13T11:29:25.141921Z'
-title: Resilience to sensory uncertainty in the primary visual cortex
-tags:
-- bayesian-modelling
-- primary-visual-cortex
+draft: false
 categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
@@ -55,6 +43,17 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
+tags:
+- bayesian-modelling
+- primary-visual-cortex
+publication: '*Computational and Systems Neuroscience (Cosyne) 2023*'
+publication_types:
+- inproceedings
+image:
+  focal_point: Smart
+  preview_only: false
+links:
+- name: URL
+  url: https://www.world-wide.org/cosyne-23/resilience-sensory-uncertainty-primary-88600879/
 ---
-
 * This poster is presented in the following paper (published in Nature Comm Biology): {{< cite page="/publication/ladret-23" view="4" >}}

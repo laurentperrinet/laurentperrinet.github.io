@@ -1,4 +1,12 @@
---- 
+---
+title: A dynamic model for decoding direction and orientation in macaque primary visual
+  cortex
+date: 2016-01-01
+authors:
+- Wahiba Taouali
+- Giacomo Benvenuti
+- Frédéric Y Chavane
+- Laurent U Perrinet
 abstract: 'Natural scenes generally contain objects in motion. The local orientation
   of their contours and the direction of motion are two essential components of visual
   information which are processed in parallel in the early visual areas. Focusing
@@ -38,33 +46,24 @@ abstract: 'Natural scenes generally contain objects in motion. The local orienta
   Spike Counts. ıt Journal of Neurophysiology, 2015. $[5]$ C. Pack, R. Born. Temporal
   dynamics of a neural solution to the aperture problem in visual area MT of macaque
   brain. ıt Nature, 409(6823), 1040--1042. 2001.'
-authors:
-- Wahiba Taouali
-- Giacomo Benvenuti
-- Frédéric Y Chavane
-- Laurent U Perrinet
-date: 2016-01-01
-doi: 10.1167/15.12.484
 featured: false
-grants:
-- anr-bala-v1
-- brain-scales
-publication: '*Proceedings of AREADNE*'
-publication_types:
-- inproceedings
-title: A dynamic model for decoding direction and orientation in macaque primary visual
-  cortex
-tags:
-- homeostasis
-- metaplasticity
-- motion-perception
-- primary-visual-cortex
-- sparse-coding
 categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
+tags:
+- homeostasis
+- metaplasticity
+- motion-perception
+- primary-visual-cortex
+- sparse-coding
+publication: '*Proceedings of AREADNE*'
+publication_types:
+- inproceedings
+doi: 10.1167/15.12.484
+grants:
+- anr-bala-v1
+- brain-scales
 ---
-

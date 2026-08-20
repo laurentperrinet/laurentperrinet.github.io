@@ -1,14 +1,25 @@
---- 
+---
+title: Differential response of the retinal neural code with respect to the sparseness
+  of natural images
+date: 2016-11-01
 authors:
 - Cesar U Ravello
 - Maria-José Escobar
 - Adrián G Palacios
 - Laurent U Perrinet
-date: 2016-11-01
-doi: 10.5281/zenodo.5823016
 featured: false
-grants:
-- anr-trajectory
+categories:
+- Computational Neuroscience
+- Education
+tags:
+- motion-clouds
+- motion-perception
+- sparse-coding
+projects:
+- motion-clouds
+publication_types:
+- preprint
+doi: 10.5281/zenodo.5823016
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/ravello-16-droplets
@@ -16,22 +27,9 @@ links:
   url: https://github.com/laurentperrinet/2016_DropLets
 - name: arXiv
   url: https://arxiv.org/abs/1611.06834
-- motion-clouds
-publication_types:
-- preprint
-title: Differential response of the retinal neural code with respect to the sparseness
-  of natural images
-tags:
-- motion-clouds
-- motion-perception
-- sparse-coding
-categories:
-- Computational Neuroscience
-- Education
-projects:
-- motion-clouds
+grants:
+- anr-trajectory
 ---
-
 {{< figure src="retina.png" title="Sparse coding of images in the retina follows regular statistics at the global, not the local scale" numbered="true" >}}
 See [supplementray code](https://laurentperrinet.github.io/sciblog/posts/2017-11-21_retina_sparseness.html).
 # How does the retina respond to stimuli with different sparseness?

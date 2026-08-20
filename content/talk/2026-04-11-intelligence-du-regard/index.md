@@ -1,10 +1,9 @@
---- 
+---
 title: 'Dans l’intelligence du regard : l’art révèle la diversité de notre vision'
-authors:
-- Laurent U Perrinet
 date: '2026-04-11'
 publishDate: '2026-04-01T09:35:03.446115Z'
-publication: '*Forum des Sciences Cognitives 2026*'
+authors:
+- Laurent U Perrinet
 abstract: 'La vision reste un paradoxe : comment un processus aussi complexe qu’apprendre
   à « faire sens de nos sens » peut-il être si simple à acquérir et à utiliser ? Pas
   besoin de mode d’emploi pour le nouveau-né qui ouvre les yeux pour la première fois.
@@ -14,18 +13,19 @@ abstract: 'La vision reste un paradoxe : comment un processus aussi complexe qu�
   jusqu’à l’art contemporain. Grâce à ma collaboration avec l’artiste plasticien Étienne
   Rey, je montrerai comment ces créations deviennent des outils pour décrypter certains
   mécanismes cachés de la vision, à l’heure où l’IA interroge notre rapport au réel.'
-slides: 2026-04-11-intelligence-du-regard
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/talk/2026-04-11-intelligence-du-regard
-tags:
-- visual-illusions
 categories:
 - Behavioural Neuroscience
 - NeuroAI & Machine Learning
+tags:
+- visual-illusions
 projects:
 - art-science
 - tout-public
+publication: '*Forum des Sciences Cognitives 2026*'
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2026-04-11-intelligence-du-regard
+slides: 2026-04-11-intelligence-du-regard
 ---
 Cette présentation (dans le cadre du *Forum des Sciences Cognitives*) explore la collaboration avec Étienne Rey, notamment le travail exposé lors de l’exposition *La vibration des apparences*, qui a eu lieu au musée Granet :
 

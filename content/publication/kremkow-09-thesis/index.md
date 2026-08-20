@@ -1,12 +1,10 @@
---- 
+---
 title: 'Correlating Excitation and Inhibition in Visual Cortical Circuits : Functional
   Consequences and Biological Feasibility'
-authors:
-- Jens Oliver Kremkow
 date: '2009-01-01'
 publishDate: '2025-01-11T16:13:35.487525Z'
-publication_types:
-- thesis
+authors:
+- Jens Oliver Kremkow
 abstract: 'The primary visual cortex (V1) is one of the most studied cortical area
   in the brain. Together with the retina and the lateral geniculate nucleus (LGN)
   it forms the early visual system, which has become a common model for studying computational
@@ -44,18 +42,20 @@ abstract: 'The primary visual cortex (V1) is one of the most studied cortical ar
   new perspectives on the processing of the early visual system, in particular on
   the importance of correlated conductances. It thus opens the door for more elaborated
   models of the visual system.'
-links:
-- name: URL
-  url: https://theses.fr/2009AIX20677
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Visual Neuroscience
 tags:
 - neuromorphic-computing
 - primary-visual-cortex
 - pynn
 - sparse-coding
 - spiking-neural-networks
-categories:
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
-- Visual Neuroscience
+publication_types:
+- thesis
+links:
+- name: URL
+  url: https://theses.fr/2009AIX20677
 ---

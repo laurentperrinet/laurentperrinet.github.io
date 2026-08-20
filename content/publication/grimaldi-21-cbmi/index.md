@@ -1,4 +1,13 @@
---- 
+---
+title: A homeostatic gain control mechanism to improve event-driven object recognition
+date: 2021-06-24
+lastmod: 2021-04-20 17:01:28+01:00
+authors:
+- Antoine Grimaldi
+- Victor Boutin
+- Sio-Hoi Ieng
+- Laurent U Perrinet
+- Ryad Benosman
 abstract: 'We propose a neuromimetic architecture able to perform pattern recognition.
   To achieve this, we extended the existing event-based algorithm from Lagorce et
   al (2017) which introduced novel spatio-temporal features: time surfaces. Built
@@ -15,20 +24,22 @@ abstract: 'We propose a neuromimetic architecture able to perform pattern recogn
   phase. In order to compare with state-of-the-art methods, we replicated past results
   on the same dataset as Lagorce et al (2017) and extended results in this study to
   the widely used N-MNIST dataset.'
-authors:
-- Antoine Grimaldi
-- Victor Boutin
-- Sio-Hoi Ieng
-- Laurent U Perrinet
-- Ryad Benosman
-date: 2021-06-24
-doi: 10.1109/CBMI50038.2021.9461901
-draft: false
 featured: false
+draft: false
+categories:
+- Education
+- NeuroAI & Machine Learning
+tags:
+- homeostasis
+- metaplasticity
+- neuromorphic-computing
+publication: '*Content-Based Multimedia Indexing (CBMI) 2021*'
+publication_types:
+- inproceedings
+doi: 10.1109/CBMI50038.2021.9461901
 image:
   focal_point: Smart
   preview_only: false
-lastmod: 2021-04-20 17:01:28+01:00
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/grimaldi-21-cbmi/
@@ -36,21 +47,9 @@ links:
   url: https://hal.science/hal-03336554
 - name: Video
   url: https://www.youtube.com/watch?v=KxX4pZKexCo&t=3335s
-publication: '*Content-Based Multimedia Indexing (CBMI) 2021*'
-publication_types:
-- inproceedings
-title: A homeostatic gain control mechanism to improve event-driven object recognition
-tags:
-- homeostasis
-- metaplasticity
-- neuromorphic-computing
-categories:
-- Education
-- NeuroAI & Machine Learning
 grants:
 - aprovis-3-d
 ---
-
 * was presented at the [Bio-inspired circuits, systems and algorithms for multimedia](https://cbmi2021.univ-lille.fr/call-for-contributions#callforpapersspecialbioinspired) special session of the [Content-Based Multimedia Indexing (CBMI) 2021](https://cbmi2021.univ-lille.fr/) conference that you can [watch on Youtube](https://www.youtube.com/watch?v=KxX4pZKexCo&t=3335s).
 * this proceedings paper follows up he poster presented in : {{< cite page="/publication/grimaldi-21-cosyne" view="4" >}}
 * this proceedings paper was followed by the poster presented at CRS : {{< cite page="/publication/grimaldi-21-crs" view="4" >}}

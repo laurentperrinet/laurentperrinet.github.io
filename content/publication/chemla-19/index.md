@@ -1,4 +1,15 @@
---- 
+---
+title: Suppressive waves disambiguate the representation of long-range apparent motion
+  in awake monkey V1
+date: 2019-03-18
+authors:
+- Sandrine Chemla
+- Alexandre Reynaud
+- Matteo diVolo
+- Yann Zerlaut
+- Laurent U Perrinet
+- Alain Destexhe
+- Frédéric Y Chavane
 abstract: The ``apparent motion'' illusion is evoked when stationary stimuli are successively
   flashed in spatially separated positions. It depends on the precise spatial and
   temporal separations of the stimuli. For large spatiotemporal separation, the long-range
@@ -12,28 +23,31 @@ abstract: The ``apparent motion'' illusion is evoked when stationary stimuli are
   control fed by the horizontal intra-cortical network. Such non-linearities explain
   away ambiguous correspondence problems of the stimulus along the motion path, preformating
   V1 population response for an optimal read-out by downstream areas.
-authors:
-- Sandrine Chemla
-- Alexandre Reynaud
-- Matteo diVolo
-- Yann Zerlaut
-- Laurent U Perrinet
-- Alain Destexhe
-- Frédéric Y Chavane
-date: 2019-03-18
-doi: 10.1523/JNEUROSCI.2792-18.2019
 featured: false
-grants:
-- anr-bala-v1
-- anr-trajectory
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- NeuroAI & Machine Learning
+- Visual Neuroscience
+tags:
+- foveated-vision
+- log-polar-mapping
+- motion-perception
+- primary-visual-cortex
+- retinotopy
+- visual-illusions
+publication: '*Journal of Neuroscience*'
+publication_types:
+- article-journal
+doi: 10.1523/JNEUROSCI.2792-18.2019
 links:
 - name: URL
   url: https://www.jneurosci.org/content/39/22/4282
 - name: HAL
   url: https://hal.science/hal-02190752
-publication: '*Journal of Neuroscience*'
-publication_types:
-- article-journal
+grants:
+- anr-bala-v1
+- anr-trajectory
 summary: Traveling waves have recently been observed in different animal species,
   brain areas and behavioral states. However, it is still unclear what are their functional
   roles. In the case of cortical visual processing, waves propagate across retinotopic
@@ -45,19 +59,4 @@ summary: Traveling waves have recently been observed in different animal species
   motion stimuli. Our study suggests that cortical waves shape the representation
   of illusory moving stimulus within retinotopic maps for an straightforward read-out
   by downstream areas.
-title: Suppressive waves disambiguate the representation of long-range apparent motion
-  in awake monkey V1
-tags:
-- foveated-vision
-- log-polar-mapping
-- motion-perception
-- primary-visual-cortex
-- retinotopy
-- visual-illusions
-categories:
-- Behavioural Neuroscience
-- Biological Neuroscience
-- NeuroAI & Machine Learning
-- Visual Neuroscience
 ---
-

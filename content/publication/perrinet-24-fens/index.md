@@ -1,4 +1,11 @@
---- 
+---
+title: Accurate Detection of Spiking Motifs in Neurobiological Data by Learning Heterogeneous
+  Delays of a Spiking Neural Network
+date: 2024-06-27
+publishDate: '2024-04-05T08:22:04.452494Z'
+lastmod: 2024-04-05 10:22:08+02:00
+authors:
+- Laurent U Perrinet
 abstract: Recently, there has been an increase in interest in exploring the hypothesis
   that neural activity conveys information through precise spiking motifs. To investigate
   this phenomenon, several algorithms have been proposed to detect such motifs in
@@ -14,37 +21,29 @@ abstract: Recently, there has been an increase in interest in exploring the hypo
   its potential for further applications. In the future, we aim to extend this method
   to real neurobiological data, where the ground truth is unknown, to explore and
   detect spiking motifs in a more natural and biologically relevant context.
-authors:
-- Laurent U Perrinet
-date: 2024-06-27
-draft: false
 featured: false
-grants:
-- polychronies
+draft: false
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+tags:
+- neuromorphic-computing
+- predictive-coding
+- spiking-neural-networks
+publication: '*Proceedings of the FENS Forum 2024*'
+publication_types:
+- inproceedings
 image:
   focal_point: Smart
   preview_only: false
-lastmod: 2024-04-05 10:22:08+02:00
 links:
 - name: Code
   url: https://github.com/laurentperrinet/2024-06-26_Perrinet24FENS
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-24-fens/
-publication: '*Proceedings of the FENS Forum 2024*'
-publication_types:
-- inproceedings
-publishDate: '2024-04-05T08:22:04.452494Z'
-title: Accurate Detection of Spiking Motifs in Neurobiological Data by Learning Heterogeneous
-  Delays of a Spiking Neural Network
-tags:
-- neuromorphic-computing
-- predictive-coding
-- spiking-neural-networks
-categories:
-- Computational Neuroscience
-- NeuroAI & Machine Learning
+grants:
+- polychronies
 ---
-
 * see accompanying papers
  * for neural data: {{< cite page="/publication/perrinet-23-icann" view="4" >}}
  * for event-based cameras: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}

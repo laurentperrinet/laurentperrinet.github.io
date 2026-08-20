@@ -1,20 +1,20 @@
---- 
+---
+title: PhD ICN (2017 / 2021)
+date: 2016-04-27 00:00:00
 authors:
 - angelo-franciosini
 - laurent-u-perrinet
-date: 2016-04-27 00:00:00
-summary: A grant from the Ph.D. program in Integrative and Clinical Neuroscience (PhD
-  position, 2017 / 2021).
-title: PhD ICN (2017 / 2021)
+categories:
+- Education
+- Grants & Funding
+- NeuroAI & Machine Learning
 tags:
 - bayesian-modelling
 - eye-movements
 - motion-perception
 - predictive-coding
-categories:
-- Education
-- Grants & Funding
-- NeuroAI & Machine Learning
+summary: A grant from the Ph.D. program in Integrative and Clinical Neuroscience (PhD
+  position, 2017 / 2021).
 ---
 ## Description
 

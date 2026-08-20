@@ -1,4 +1,9 @@
---- 
+---
+title: La vibration des apparences
+date: 2025-04-18
+publishDate: '2025-04-17'
+authors:
+- Laurent U Perrinet
 abstract: Le travail d’Étienne Rey met en relation des phénomènes naturels et physiques
   avec notre perception. Ses œuvres se révèlent et se concrétisent dans l’expérience
   personnelle des spectateurs. La lumière, élément central de sa démarche, active
@@ -7,33 +12,28 @@ abstract: Le travail d’Étienne Rey met en relation des phénomènes naturels 
   de la Timone. Ensemble, ils explorent le domaine de la perception à l’intersection
   de leurs disciplines respectives, et combinent science et art pour développer de
   nouvelles approches perceptives.
-authors:
-- Laurent U Perrinet
-date: 2025-04-18
-draft: false
-event: Journées d’Ouverture Scientifique (JOS)
 featured: false
+draft: false
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+tags:
+- visual-illusions
+projects:
+- art-science
+- tout-public
+publication: '*Journées d’Ouverture Scientifique (JOS)*'
+publication_types:
+- inproceedings
+event: Journées d’Ouverture Scientifique (JOS)
+location: Marseille (France)
 image:
   focal_point: Smart
   preview_only: false
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences
-location: Marseille (France)
-publication: '*Journées d’Ouverture Scientifique (JOS)*'
-publication_types:
-- inproceedings
-publishDate: '2025-04-17'
 slides: 2025-04-18-vibration-apparences
-title: La vibration des apparences
-tags:
-- visual-illusions
-categories:
-- Computational Neuroscience
-- NeuroAI & Machine Learning
-projects:
-- art-science
-- tout-public
 ---
 Cette présentation, dans le cadre des *Journées d’Ouverture Scientifique (JOS)*, explore le travail présenté lors de l’exposition *La vibration des apparences*, au musée Granet :
 

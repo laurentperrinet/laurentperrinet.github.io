@@ -1,23 +1,22 @@
---- 
+---
+title: Contrast sensitivity adaptation in a virtual spiking retina and its adequation
+  with mammalians retinas
+date: 2006-01-01
 authors:
 - Adrien Wohrer
 - Guillaume S Masson
 - Laurent U Perrinet
 - Pierre Kornprobst
 - Thierry Vieville
-date: 2006-01-01
 featured: false
-grants:
-- facets
-publication: '*Perception*'
-publication_types:
-- inproceedings
-title: Contrast sensitivity adaptation in a virtual spiking retina and its adequation
-  with mammalians retinas
+categories:
+- Computational Neuroscience
 tags:
 - spiking-neural-networks
 - visual-illusions
-categories:
-- Computational Neuroscience
+publication: '*Perception*'
+publication_types:
+- inproceedings
+grants:
+- facets
 ---
-

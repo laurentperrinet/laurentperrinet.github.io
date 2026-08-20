@@ -1,8 +1,8 @@
---- 
+---
+title: Publications
 widget: pages
 headless: true
 weight: 40
-title: Publications
 content:
   filters:
     folders:
@@ -18,7 +18,6 @@ design:
   view: list
   columns: '2'
 ---
-
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}

@@ -1,4 +1,13 @@
---- 
+---
+title: Sparse Deep Predictive Coding captures contour integration capabilities of
+  the early visual system
+date: 2019-03-03
+authors:
+- Victor Boutin
+- Angelo Franciosini
+- Frédéric Y Chavane
+- Franck Ruffier
+- Laurent U Perrinet
 abstract: Both neurophysiological and psychophysical experiments have pointed out
   the crucial role of recurrent and feedback connections to process context-dependent
   information in the early visual cortex. While numerous models have accounted for
@@ -21,28 +30,7 @@ abstract: Both neurophysiological and psychophysical experiments have pointed ou
   are able to overcome noise in input images. Therefore, the SDPC captures the association
   field principle at the neural level which results in better disambiguation of blurred
   images at the representational level.
-authors:
-- Victor Boutin
-- Angelo Franciosini
-- Frédéric Y Chavane
-- Franck Ruffier
-- Laurent U Perrinet
-date: 2019-03-03
 featured: false
-links:
-- name: URL
-  url: https://conferences.cirm-math.fr/2152.html
-- name: arXiv
-  url: https://arxiv.org/abs/1902.07651
-publication: '*SIGMA''2020 (Signal, Image, Geometry, Modelling, Approximation)*'
-publication_types:
-- inproceedings
-title: Sparse Deep Predictive Coding captures contour integration capabilities of
-  the early visual system
-tags:
-- predictive-coding
-- primary-visual-cortex
-- sparse-coding
 categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
@@ -50,16 +38,27 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- predictive-coding
+- primary-visual-cortex
+- sparse-coding
 projects:
 - doc-2-amu
 - phd-icn
 - mesocentre
+publication: '*SIGMA''2020 (Signal, Image, Geometry, Modelling, Approximation)*'
+publication_types:
+- inproceedings
+links:
+- name: URL
+  url: https://conferences.cirm-math.fr/2152.html
+- name: arXiv
+  url: https://arxiv.org/abs/1902.07651
 grants:
 - doc-2-amu
 - mesocentre
 - phd-icn
 ---
-
  * presented during this [talk]({{< ref "/talk/2019-03-25-hdr-robin-baures/index.md" >}})
  * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
  * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

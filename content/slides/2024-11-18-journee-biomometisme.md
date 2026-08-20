@@ -1,23 +1,23 @@
---- 
-slides:
-  theme: white
-  transition: fade
-date: '2024-11-18'
-all_day: false
-publishDate: '2024-11-03T12:47:11+02:00'
+---
 title: 2024-11-18-journee-biomometisme
-summary: 'NeuroAI: interactions multiples entre Neurosciences et Intelligence artificielle'
+date: '2024-11-18'
+publishDate: '2024-11-03T12:47:11+02:00'
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
 tags:
 - eye-movements
 - neuromorphic-computing
 - spiking-neural-networks
 - visual-illusions
-categories:
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
 projects:
 - tout-public
+slides:
+  theme: white
+  transition: fade
+all_day: false
+summary: 'NeuroAI: interactions multiples entre Neurosciences et Intelligence artificielle'
 ---
 <section>
 <h2><u>

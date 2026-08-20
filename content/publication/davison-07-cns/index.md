@@ -1,4 +1,12 @@
---- 
+---
+title: 'PyNN: towards a universal neural simulator API in Python'
+date: 2007-01-01
+authors:
+- Andrew P Davison
+- Pierre Yger
+- Jens Kremkow
+- Laurent U Perrinet
+- Eilif Muller
 abstract: Trends in programming language development and adoption point to Python
   as the high-level systems integration language of choice. Python leverages a vast
   developer-base external to the neuroscience community, and promises leaps in simulation
@@ -22,37 +30,28 @@ abstract: Trends in programming language development and adoption point to Pytho
   visualization tools, and simulation accounting. The resulting, community-developed
   'meta-simulator' system would then represent a powerful tool for overcoming the
   so-called complexity bottleneck that is presently a major roadblock for neural modeling.
-authors:
-- Andrew P Davison
-- Pierre Yger
-- Jens Kremkow
-- Laurent U Perrinet
-- Eilif Muller
-date: 2007-01-01
-doi: 10.1186/1471-2202-8-S2-P2
 featured: false
-grants:
-- facets
-- open-science
-links:
-- name: URL
-  url: https://doi.org/10.1186/1471-2202-8-S2-P2
-publication: '*Sixteenth Annual Computational Neuroscience Meeting: CNS*2007, Toronto,
-  Canada. 7--12 July 2007*'
-publication_types:
-- inproceedings
-title: 'PyNN: towards a universal neural simulator API in Python'
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
 tags:
 - neural-simulator
 - neuromorphic-computing
 - pynn
 - python
 - spiking-neural-networks
-categories:
-- Computational Neuroscience
-- NeuroAI & Machine Learning
 projects:
 - open-science
+publication: '*Sixteenth Annual Computational Neuroscience Meeting: CNS*2007, Toronto,
+  Canada. 7--12 July 2007*'
+publication_types:
+- inproceedings
+doi: 10.1186/1471-2202-8-S2-P2
+links:
+- name: URL
+  url: https://doi.org/10.1186/1471-2202-8-S2-P2
+grants:
+- facets
+- open-science
 ---
-
 * see a follow-up: {{< cite page="/publication/davison-08" view="4" >}}

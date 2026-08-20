@@ -1,11 +1,9 @@
---- 
+---
 title: Analyse Des Données Neurobiologiques Guidée Par La Modélisation
-authors:
-- Alexandre Laine
 date: '2024-01-01'
 publishDate: '2025-01-11T16:13:35.543305Z'
-publication_types:
-- thesis
+authors:
+- Alexandre Laine
 abstract: Les récentes avancées technologiques en neurobiologie ont ouvert la voie
   à l'enregistrement de très grandes populations de neurones à la résolution du potentiel
   d'action (PA). Elles apportent un éclairage nouveau sur la structure de l'activité
@@ -34,11 +32,13 @@ abstract: Les récentes avancées technologiques en neurobiologie ont ouvert la 
   de l'information. Les risques associés à l'aspect innovant du projet seront mitigés
   par l'expertise des encadrants en apprentissage automatique, modélisation neuronale
   et neurosciences computationnelles.
-links:
-- name: URL
-  url: https://theses.fr/s400564
 categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
+publication_types:
+- thesis
+links:
+- name: URL
+  url: https://theses.fr/s400564
 ---

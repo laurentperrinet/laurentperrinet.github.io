@@ -1,13 +1,13 @@
---- 
-slides:
-  theme: white
-  transition: fade
-date: '2023-05-10'
-all_day: false
-publishDate: '2023-05-10T08:47:11+02:00'
+---
 title: 2023-05-10-phd-program_neurosciences-computationnelles.md
-summary: Interactions between machine learning, artificial neural networks and our
-  understanding of biological vision
+date: '2023-05-10'
+publishDate: '2023-05-10T08:47:11+02:00'
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+- Visual Neuroscience
 tags:
 - deep-learning
 - motion-perception
@@ -17,14 +17,14 @@ tags:
 - sparse-coding
 - spiking-neural-networks
 - visual-illusions
-categories:
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
-- Visual Neuroscience
 projects:
 - tout-public
+slides:
+  theme: white
+  transition: fade
+all_day: false
+summary: Interactions between machine learning, artificial neural networks and our
+  understanding of biological vision
 ---
 <section>
 

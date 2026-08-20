@@ -1,4 +1,12 @@
---- 
+---
+title: A dynamic model for decoding direction and orientation in macaque primary visual
+  cortex
+date: 2019-09-23
+authors:
+- Wahiba Taouali
+- Giacomo Benvenuti
+- Frédéric Y Chavane
+- Laurent U Perrinet
 abstract: 'When objects are in motion, the local orientation of their contours and
   the direction of motion are two essential components of visual information which
   are processed in parallel in the early visual areas. Generally, to probe a neuron''s
@@ -31,30 +39,21 @@ abstract: 'When objects are in motion, the local orientation of their contours a
   in Neural Spike Counts. Journal of Neurophysiology, 2015. [3] C. Pack, R. Born.
   Temporal dynamics of a neural solution to the aperture problem in visual area MT
   of macaque brain. Nature, 409(6823), 1040--1042. 2001.'
-authors:
-- Wahiba Taouali
-- Giacomo Benvenuti
-- Frédéric Y Chavane
-- Laurent U Perrinet
-date: 2019-09-23
 featured: false
-grants:
-- anr-horizontal-v1
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/perrinet-19-nccd
-publication: '*Proceedings of NCCD, Capbreton*'
-publication_types:
-- inproceedings
-title: A dynamic model for decoding direction and orientation in macaque primary visual
-  cortex
-tags:
-- motion-perception
-- primary-visual-cortex
 categories:
 - Biological Neuroscience
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
+tags:
+- motion-perception
+- primary-visual-cortex
+publication: '*Proceedings of NCCD, Capbreton*'
+publication_types:
+- inproceedings
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/perrinet-19-nccd
+grants:
+- anr-horizontal-v1
 ---
-

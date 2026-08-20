@@ -1,33 +1,31 @@
---- 
+---
+title: Variable Density, série Delaunay
+date: 2026-02-20 00:00:00
+lastmod: 2026-03-01 00:00:00
 authors:
 - etienne-rey
 - laurent-u-perrinet
-date: 2026-02-20 00:00:00
-draft: false
-lastmod: 2026-03-01 00:00:00
-title: Variable Density, série Delaunay
 subtitle: 'Du 20 février au 8 mars 2026 : exposition Ososphère à la Laiterie (Strasbourg).'
+draft: false
+categories:
+- Education
+- NeuroAI & Machine Learning
+tags:
+- visual-illusions
+projects:
+- art-science
+image:
+  caption: Étienne Rey, *Variable Density, série Delaunay*.
+links:
+- name: Ososphère
+  url: https://www.artefact.org/l-ososphere/evenements/du-20-fevrier-au-08-mars-2026-exposition-lososphere-a-la-laiterie-40-oeuvres-sur-3-lieux/
 summary: À la croisée des arts plastiques et de l'architecture, Étienne Rey explore
   les dimensions comme une matière première propice à la construction de formes évolutives.
   À travers ses œuvres, où l'expérience est primordiale, il joue avec les composantes
   de la lumière, de l'espace et, pour certaines, du son. La démarche de ce sociétaire
   de l'Ososphère tend à révéler les mécanismes d'organisation, d'interrelation et
   d'interaction qui définissent notre monde.
-links:
-- name: Ososphère
-  url: https://www.artefact.org/l-ososphere/evenements/du-20-fevrier-au-08-mars-2026-exposition-lososphere-a-la-laiterie-40-oeuvres-sur-3-lieux/
-image:
-  caption: Étienne Rey, *Variable Density, série Delaunay*.
-tags:
-- visual-illusions
-categories:
-- Education
-- NeuroAI & Machine Learning
-projects:
-- art-science
 ---
-
-
 **Du 20 février au 8 mars 2026 : exposition Ososphère à la Laiterie (Strasbourg).**
 À la croisée des arts plastiques et de l'architecture, Étienne Rey explore les dimensions comme une matière première propice à la construction de formes évolutives. À travers ses œuvres, où l'expérience est primordiale, il joue avec les composantes de la lumière, de l'espace et, pour certaines, du son. La démarche de ce sociétaire de l'Ososphère tend à révéler les mécanismes d'organisation, d'interrelation et d'interaction qui définissent notre monde.
 

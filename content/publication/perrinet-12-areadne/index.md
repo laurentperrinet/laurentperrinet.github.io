@@ -1,4 +1,10 @@
---- 
+---
+title: Active inference, smooth pursuit and oculomotor delays
+date: 2012-01-01
+authors:
+- Laurent U Perrinet
+- Rick A Adams
+- Karl Friston
 abstract: We consider the problem of sensorimotor delays in the optimal control of
   movement under uncertainty. Specifically, we consider axonal conduction delays in
   the visuo-oculomotor loop and their implications for active inference. Active inference
@@ -18,29 +24,22 @@ abstract: We consider the problem of sensorimotor delays in the optimal control 
   the oculomotor system, tries to control its environment with delayed signals. This
   work was supported from the European Community's Seventh Framework Program FP7/2007-2013
   under grant agreement number 214728-2, (CODDE)
-authors:
-- Laurent U Perrinet
-- Rick A Adams
-- Karl Friston
-date: 2012-01-01
 featured: false
-publication: '*Proceedings of AREADNE, Santorini, Greece, 21-24 June 2012, published
-  by The AREADNE Foundation, Inc., Cambridge, Massachusetts, USA, https://areadne.org*'
-publication_types:
-- inproceedings
-title: Active inference, smooth pursuit and oculomotor delays
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
 tags:
 - bayesian-modelling
 - eye-movements
 - motion-perception
 - predictive-coding
-categories:
-- Computational Neuroscience
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
 projects:
 - codde
+publication: '*Proceedings of AREADNE, Santorini, Greece, 21-24 June 2012, published
+  by The AREADNE Foundation, Inc., Cambridge, Massachusetts, USA, https://areadne.org*'
+publication_types:
+- inproceedings
 grants:
 - codde
 ---
-

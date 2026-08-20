@@ -1,6 +1,13 @@
---- 
+---
 title: Tout public!
 date: 2016-04-27 00:00:00
+categories:
+- Education
+tags:
+- etiennerey
+- research-interests
+projects:
+- tout-public
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
@@ -19,12 +26,4 @@ content:
 design:
   view: citation
   columns: '2'
-tags:
-- etiennerey
-- research-interests
-categories:
-- Education
-projects:
-- tout-public
 ---
-

@@ -1,4 +1,11 @@
---- 
+---
+title: Effect of top-down connections in Hierarchical Sparse Coding
+date: 2020-02-04
+authors:
+- Victor Boutin
+- Angelo Franciosini
+- Franck Ruffier
+- Laurent U Perrinet
 abstract: Hierarchical Sparse Coding (HSC) is a powerful model to efficiently represent
   multi-dimensional, structured data such as images. The simplest solution to solve
   this computationally hard problem is to decompose it into independent layer-wise
@@ -16,41 +23,33 @@ abstract: Hierarchical Sparse Coding (HSC) is a powerful model to efficiently re
   accelerates the learning process. Finally, the qualitative analysis of both models
   dictionaries, supported by their activation probability, show that the 2L-SPC features
   are more generic and informative.
-authors:
-- Victor Boutin
-- Angelo Franciosini
-- Franck Ruffier
-- Laurent U Perrinet
-date: 2020-02-04
-doi: 10.1162/neco_a_01325
 featured: false
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+tags:
+- bayesian-modelling
+- predictive-coding
+- sparse-coding
+projects:
+- mesocentre
+- doc-2-amu
+- phd-icn
+publication: '*Neural Computation*'
+publication_types:
+- article-journal
+doi: 10.1162/neco_a_01325
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/
 - name: arXiv
   url: https://arxiv.org/abs/2002.00892
-publication: '*Neural Computation*'
-publication_types:
-- article-journal
-title: Effect of top-down connections in Hierarchical Sparse Coding
-tags:
-- bayesian-modelling
-- predictive-coding
-- sparse-coding
-categories:
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
-projects:
-- mesocentre
-- doc-2-amu
-- phd-icn
 grants:
 - doc-2-amu
 - mesocentre
 - phd-icn
 ---
-
 ![](@laurentperrinet_1323549136088694790_tweetcapture.png)
  * get the code @ https://github.com/VictorBoutin/SPC_2L
 * see a related work describing SDPC in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}

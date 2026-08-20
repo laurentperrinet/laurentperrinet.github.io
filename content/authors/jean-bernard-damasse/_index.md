@@ -1,4 +1,5 @@
---- 
+---
+title: Jean-Bernard Damasse
 authors:
 - jean-bernard-damasse
 role: MD, Marseille, France.
@@ -12,7 +13,6 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Jean-Bernard-Damasse-2
-title: Jean-Bernard Damasse
 superuser: false
 user_groups:
 - Former Students

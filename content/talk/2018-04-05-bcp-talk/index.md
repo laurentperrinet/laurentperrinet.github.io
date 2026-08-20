@@ -1,12 +1,22 @@
---- 
+---
+title: Principles and psychophysics of Active Inference in anticipating a dynamic,
+  switching probabilistic bias
+date: 2018-04-05 14:00:00
 authors:
 - Laurent U Perrinet
 - Chloé Pasturel
 - Anna Montagnini
-date: 2018-04-05 14:00:00
+featured: false
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+tags:
+- bayesian-modelling
+publication: '*Probabilities and Optimal Inference to Understand the Brain, INT, Marseille
+  (France)*'
 event: Probabilities and Optimal Inference to Understand the Brain
 event_url: https://laurentperrinet.github.io/post/2018-04-05_optimal-inference-brain-workshop/
-featured: false
+location: INT, Marseille (France)
 links:
 - name: Conference
   url: https://laurentperrinet.github.io/post/2018-04-05_optimal-inference-brain-workshop/
@@ -16,16 +26,6 @@ links:
   url: https://github.com/laurentperrinet/2018-04-05_BCP_talk/
 - name: URL
   url: https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/
-location: INT, Marseille (France)
-publication: '*Probabilities and Optimal Inference to Understand the Brain, INT, Marseille
-  (France)*'
-title: Principles and psychophysics of Active Inference in anticipating a dynamic,
-  switching probabilistic bias
-tags:
-- bayesian-modelling
-categories:
-- Computational Neuroscience
-- NeuroAI & Machine Learning
 ---
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="1" >}}
 * previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})

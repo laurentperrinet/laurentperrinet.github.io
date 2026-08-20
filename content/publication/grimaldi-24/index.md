@@ -1,4 +1,13 @@
---- 
+---
+title: A Robust Event-Driven Approach to Always-on Object Recognition
+date: 2024-10-01
+lastmod: 2022-01-13 15:27:10+01:00
+authors:
+- Antoine Grimaldi
+- Victor Boutin
+- Sio-Hoi Ieng
+- Ryad Benosman
+- Laurent U Perrinet
 abstract: 'We propose a neuromimetic architecture able to perform always-on pattern
   recognition. To achieve this, we extended an existing event-based algorithm [1],
   which introduced novel spatio-temporal features as a Hierarchy Of Time-Surfaces
@@ -19,20 +28,22 @@ abstract: 'We propose a neuromimetic architecture able to perform always-on patt
   DVS barrel [3], Poker-DVS [4] and N-MNIST [5]. We foresee to develop the SNN version
   of the method and to extend this fully event-driven approach to more naturalistic
   tasks, notably for always-on, ultra-fast object categorization. '
-authors:
-- Antoine Grimaldi
-- Victor Boutin
-- Sio-Hoi Ieng
-- Ryad Benosman
-- Laurent U Perrinet
-date: 2024-10-01
-doi: 10.1016/j.neunet.2024.106415
-draft: false
 featured: false
+draft: false
+categories:
+- NeuroAI & Machine Learning
+tags:
+- event-based-vision
+- homeostasis
+- neuromorphic-computing
+- spiking-neural-networks
+publication: Neural Networks
+publication_types:
+- article-journal
+doi: 10.1016/j.neunet.2024.106415
 image:
   focal_point: Smart
   preview_only: false
-lastmod: 2022-01-13 15:27:10+01:00
 links:
 - name: Press
   url: https://neuromatch.social/@laurentperrinet/113119379508706565
@@ -42,21 +53,9 @@ links:
   url: https://github.com/AntoineGrimaldi/hotsline
 - name: URL
   url: https://laurentperrinet.github.io/publication/grimaldi-24/
-publication: Neural Networks
-publication_types:
-- article-journal
-title: A Robust Event-Driven Approach to Always-on Object Recognition
-tags:
-- event-based-vision
-- homeostasis
-- neuromorphic-computing
-- spiking-neural-networks
-categories:
-- NeuroAI & Machine Learning
 grants:
 - aprovis-3-d
 ---
-
 Main contributions:
 - Builds an adaptive, back to  back event-based pattern recognition architecture, inspired by neuroscience and capable of always-on decision, that is, that the decision can be taken it can be needed,
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-24/hots.png" title="The HOTS architecture." width="100%" >}}

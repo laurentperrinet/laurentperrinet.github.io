@@ -1,14 +1,13 @@
---- 
-slides:
-  theme: white
-  reveal_options:
-    transition: fade
-date: '2024-04-10'
-all_day: false
-publishDate: '2024-03-29T12:47:11+02:00'
+---
 title: 2024-04-17-phd-program-sparse-representations
-summary: Sparse representations in machine learning applied to the understanding of
-  biological vision
+date: '2024-04-10'
+publishDate: '2024-03-29T12:47:11+02:00'
+categories:
+- Computational Neuroscience
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
 tags:
 - bayesian-modelling
 - deep-learning
@@ -18,14 +17,15 @@ tags:
 - primary-visual-cortex
 - sparse-coding
 - spiking-neural-networks
-categories:
-- Computational Neuroscience
-- Computer Vision
-- Education
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
 projects:
 - tout-public
+slides:
+  theme: white
+  reveal_options:
+    transition: fade
+all_day: false
+summary: Sparse representations in machine learning applied to the understanding of
+  biological vision
 ---
 <section>
 

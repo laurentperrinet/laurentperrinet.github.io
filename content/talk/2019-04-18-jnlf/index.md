@@ -1,4 +1,8 @@
---- 
+---
+title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
+date: 2019-04-18 13:00:00
+authors:
+- Laurent U Perrinet
 abstract: Les illusions visuelles sont des créations d'artistes, de scientifiques
   et plus récemment, grâce aux réseaux sociaux, du grand public qui proposent des
   situations souvent incongrues, dans lesquelles l'eau remonte une cascade, les personnes
@@ -16,15 +20,21 @@ abstract: Les illusions visuelles sont des créations d'artistes, de scientifiqu
 abstract_short: 'Mieux comprendre la fonction de la perception visuelle en explorant
   certaines limites; Mieux comprendre l''importance de l''aspect dynamique de la perception;
   Mieux comprendre le rôle de l''action dans la perception. '
-all_day: false
-authors:
-- Laurent U Perrinet
-date: 2019-04-18 13:00:00
-doi: 10.1016/j.neurol.2019.01.031
+featured: false
 draft: false
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
+tags:
+- primary-visual-cortex
+- visual-illusions
+projects:
+- tout-public
+doi: 10.1016/j.neurol.2019.01.031
 event: JNLF 2019, Revue Neurologique, Volume 175, Supplement 1, Page S165
 event_url: https://www.jnlf.fr/agenda/jnlf-lille-2019
-featured: false
+location: Lille, France
+math: true
 links:
 - name: Conference
   url: https://www.jnlf.fr/agenda/jnlf-lille-2019
@@ -38,20 +48,10 @@ links:
   url: https://github.com/laurentperrinet/2019-04-18_JNLF/
 - name: URL
   url: https://www.em-consulte.com/e-tap/1283936/ftafhrsrftfxjyjaaumj
-location: Lille, France
-math: true
+all_day: false
 summary: 'Les objectifs sont : -- mieux comprendre la fonction de la perception visuelle
   en explorant certaines limites ; -- mieux comprendre l''importance de l''aspect
   dynamique de la perception ; -- mieux comprendre le rôle de l''action dans la perception.'
-title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
-tags:
-- primary-visual-cortex
-- visual-illusions
-categories:
-- Behavioural Neuroscience
-- NeuroAI & Machine Learning
-projects:
-- tout-public
 ---
 * Le texte de cette présentation est reprise dans cet article de [The Conversation](https://laurentperrinet.github.io/publication/perrinet-19-temps/) ([lien direct](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567)).
 * Voir la @ [présentation au NeuroStories]({{< ref "/post/2019-10-07_neurostories/index.md" >}})

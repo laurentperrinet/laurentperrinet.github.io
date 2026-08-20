@@ -1,4 +1,14 @@
---- 
+---
+title: Dynamical processing of orientation precision in the primary visual cortex
+date: 2021-08-27 00:00:00
+lastmod: 2021-07-12 15:52:49+02:00
+authors:
+- Hugo Ladret
+- Nelson Cortes
+- Lamyae Ikan
+- Frédéric Chavane
+- Christian Casanova
+- Laurent U Perrinet
 abstract: The primary visual cortex (V1) processes complex mixtures of orientations
   to build neural representations of our visual environment. It remains unclear how
   V1 adapts to the highly volatile distributions of orientations found in natural
@@ -10,35 +20,25 @@ abstract: The primary visual cortex (V1) processes complex mixtures of orientati
   decoding performances. This internal representation is mediated by temporally distinct
   neural dynamics and supports a precision-weighted description of neuronal message
   passing in the visual cortex.
-authors:
-- Hugo Ladret
-- Nelson Cortes
-- Lamyae Ikan
-- Frédéric Chavane
-- Christian Casanova
-- Laurent U Perrinet
-date: 2021-08-27 00:00:00
-draft: false
-event: DynamicsDays - XL
 featured: false
-image:
-  focal_point: Smart
-  preview_only: false
-lastmod: 2021-07-12 15:52:49+02:00
-links:
-- name: Venue
-  url: https://dynamicsdays2021.univ-cotedazur.fr/minisymposia2021/The_dynamics_of_vision/
-publication: '*DynamicsDays - XL*'
-publication_types:
-- inproceedings
-title: Dynamical processing of orientation precision in the primary visual cortex
-tags:
-- primary-visual-cortex
+draft: false
 categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
+tags:
+- primary-visual-cortex
+publication: '*DynamicsDays - XL*'
+publication_types:
+- inproceedings
+event: DynamicsDays - XL
+image:
+  focal_point: Smart
+  preview_only: false
+links:
+- name: Venue
+  url: https://dynamicsdays2021.univ-cotedazur.fr/minisymposia2021/The_dynamics_of_vision/
 ---
 * This is 40th edition of Dynamicsdays
 * Nice, 23-27 August 2021 - https://dynamicsdays2021.univ-cotedazur.fr

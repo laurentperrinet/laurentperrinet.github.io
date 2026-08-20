@@ -1,4 +1,15 @@
---- 
+---
+title: 'Push-Pull Receptive Field Organization and Synaptic Depression: Mechanisms
+  for Reliably Encoding Naturalistic Stimuli in V1'
+date: 2016-01-01
+authors:
+- Jens Kremkow
+- Laurent U Perrinet
+- Cyril Monier
+- Jose-Manuel Alonso
+- Ad M Aertsen
+- Yves Frégnac
+- Guillaume S Masson
 abstract: Neurons in the primary visual cortex are known for responding vigorously
   but with high variability to classical stimuli such as drifting bars or gratings.
   By contrast, natural scenes are encoded more efficiently by sparse and temporal
@@ -16,36 +27,24 @@ abstract: Neurons in the primary visual cortex are known for responding vigorous
   synaptic depression by simple cells receiving a direct structured input from thalamus
   composes a generic computational mechanism for generating a sparse and reliable
   encoding of natural sensory events.
-authors:
-- Jens Kremkow
-- Laurent U Perrinet
-- Cyril Monier
-- Jose-Manuel Alonso
-- Ad M Aertsen
-- Yves Frégnac
-- Guillaume S Masson
-date: 2016-01-01
-doi: 10.3389/fncir.2016.00037
 featured: false
-grants:
-- facets
+categories:
+- Computational Neuroscience
+- Education
+- Visual Neuroscience
+tags:
+- primary-visual-cortex
+- sparse-coding
+- spiking-neural-networks
+publication: '*Frontiers in Neural Circuits*'
+publication_types:
+- article-journal
+doi: 10.3389/fncir.2016.00037
 links:
 - name: URL
   url: https://journal.frontiersin.org/article/10.3389/fncir.2016.00037/full
 - name: HAL
   url: https://hal.science/hal-02062034
-publication: '*Frontiers in Neural Circuits*'
-publication_types:
-- article-journal
-title: 'Push-Pull Receptive Field Organization and Synaptic Depression: Mechanisms
-  for Reliably Encoding Naturalistic Stimuli in V1'
-tags:
-- primary-visual-cortex
-- sparse-coding
-- spiking-neural-networks
-categories:
-- Computational Neuroscience
-- Education
-- Visual Neuroscience
+grants:
+- facets
 ---
-

@@ -1,27 +1,27 @@
---- 
-slides:
-  theme: white
-  transition: fade
-  backgroundTransition: fade
-date: '2022-03-23T09:00:00Z'
-all_day: false
-publishDate: '2012-03-21T06:00:00Z'
+---
 title: 2022-03-23_UE-neurosciences-computationnelles
-summary: Réseaux de neurones artificiels et apprentissage machine appliqués à la compréhension
-  de la vision
+date: '2022-03-23T09:00:00Z'
+publishDate: '2012-03-21T06:00:00Z'
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
 tags:
 - deep-learning
 - neuromorphic-computing
 - primary-visual-cortex
 - spiking-neural-networks
 - visual-illusions
-categories:
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
 projects:
 - tout-public
+slides:
+  theme: white
+  transition: fade
+  backgroundTransition: fade
+all_day: false
+summary: Réseaux de neurones artificiels et apprentissage machine appliqués à la compréhension
+  de la vision
 ---
 # [Réseaux de neurones artificiels et apprentissage machine appliqués à la compréhension de la vision](https://github.com/laurentperrinet/2022_UE-neurosciences-computationnelles)
 ####	*[Laurent Perrinet](https://laurentperrinet.github.io/talk/2022-03-23-ue-neurosciences-computationnelles/)*

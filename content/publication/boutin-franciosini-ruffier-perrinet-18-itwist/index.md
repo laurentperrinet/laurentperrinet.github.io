@@ -1,4 +1,11 @@
---- 
+---
+title: From biological vision to unsupervised hierarchical sparse coding
+date: 2018-01-01
+authors:
+- Victor Boutin
+- Angelo Franciosini
+- Franck Ruffier
+- Laurent U Perrinet
 abstract: The formation of connections between neural cells is essentially emerging
   from an unsupervised learning process. During the development of primary visual
   cortex (V1) of mammals, for example, one may observe the emergence of cells selective
@@ -14,37 +21,29 @@ abstract: The formation of connections between neural cells is essentially emerg
   Furthermore, our results demonstrate the potential application of such a strategy
   to the fast classification of images, for example in hierarchical and dynamical
   architectures.
-authors:
-- Victor Boutin
-- Angelo Franciosini
-- Franck Ruffier
-- Laurent U Perrinet
-date: 2018-01-01
 featured: false
+categories:
+- Education
+- NeuroAI & Machine Learning
+tags:
+- predictive-coding
+- primary-visual-cortex
+- sparse-coding
+projects:
+- doc-2-amu
+- phd-icn
+publication: '*iTwist, 2018*'
+publication_types:
+- inproceedings
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-18-itwist/
 - name: arXiv
   url: https://arxiv.org/abs/1812.01335
-publication: '*iTwist, 2018*'
-publication_types:
-- inproceedings
-title: From biological vision to unsupervised hierarchical sparse coding
-tags:
-- predictive-coding
-- primary-visual-cortex
-- sparse-coding
-categories:
-- Education
-- NeuroAI & Machine Learning
-projects:
-- doc-2-amu
-- phd-icn
 grants:
 - doc-2-amu
 - phd-icn
 ---
-
 1. accepted submission @ [iTWIST: international Traveling Workshop on Interactions between low-complexity data models and Sensing Techniques](https://sites.google.com/view/itwist18), 21 - 23 November​, 2018
 2. [poster session](https://sites.google.com/view/itwist18/program#h.p_9OOcrreKb--s) scheduled on Thursday, November 22th, from 10h30 till 12h00.
 3. CIRM, Marseille, France. <span id="line-10" class="anchor"></span>

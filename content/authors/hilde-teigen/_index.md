@@ -1,8 +1,8 @@
---- 
+---
+title: Hilde Langengen-Teigen
 authors:
 - hilde-teigen
 bio: During my PhD, I am focusing on Ultra-fast vision using Spiking Neural Networks.
-title: Hilde Langengen-Teigen
 role: Phd candidate in Neuroscience
 social:
 - icon: house-user
@@ -15,7 +15,6 @@ superuser: false
 user_groups:
 - Former Students
 ---
-
 #  "Neuromodulatory mechanisms of predictive processing in the mouse visual cortex" (PhD position, 2023-10 / 2026-09)
 
 * Thesis director: [Dr. Ede Rancz](https://laurentperrinet.github.io/author/ede-rancz/), Mediterranean Institute of Neurobiology, Marseille

@@ -1,4 +1,8 @@
---- 
+---
+title: 'Dynamical Neural Networks: modeling low-level vision at short latencies'
+date: 2007-03-01
+authors:
+- Laurent U Perrinet
 abstract: 'The machinery behind the visual perception of motion and the subsequent
   sensori-motor transformation, such as in ocular following response (OFR), is confronted
   to uncertainties which are efficiently resolved in the primate''s visual system.
@@ -22,23 +26,7 @@ abstract: 'The machinery behind the visual perception of motion and the subseque
   accounted for the contrast gain control mechanisms observed in the behavioral data
   for center-surround stimuli. However, another inhibitory mechanism had to be added
   to account for suppressive effects of the surround.'
-authors:
-- Laurent U Perrinet
-date: 2007-03-01
-doi: 10.1140/epjst/e2007-00061-7
 featured: false
-grants:
-- facets-itn
-publication: '*Topics in Dynamical Neural Networks: From Large Scale Neural Networks
-  to Motor Control and Vision*'
-publication_types:
-- inbook
-title: 'Dynamical Neural Networks: modeling low-level vision at short latencies'
-tags:
-- bayesian-modelling
-- motion-perception
-- sparse-coding
-- visual-illusions
 categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
@@ -46,6 +34,18 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- bayesian-modelling
+- motion-perception
+- sparse-coding
+- visual-illusions
+publication: '*Topics in Dynamical Neural Networks: From Large Scale Neural Networks
+  to Motor Control and Vision*'
+publication_types:
+- inbook
+doi: 10.1140/epjst/e2007-00061-7
+grants:
+- facets-itn
 ---
 Dynamical Neural Networks (DyNNs) are a class of models for networks of neurons where particular focus is put on the role of time in the emergence of functional computational properties. The definition and study of these models involves the cooperation of a large range of scientific fields from statistical physics, probabilistic modelling, neuroscience and psychology to control theory. It focuses on the mechanisms that may be relevant for studying cognition by hypothesizing that information is distributed in the activity of the neurons in the system and that the timing helps in maintaining this information to lastly form decisions or actions. The system responds at best to the constraints of the outside world and learning strategies tune this internal dynamics to achieve optimal performance.
 This chapter introduces the book. See also:

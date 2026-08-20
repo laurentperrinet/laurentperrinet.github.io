@@ -1,24 +1,24 @@
---- 
+---
+title: Turbulences
+date: 2016-04-20 00:00:00
+lastmod: 2018-01-13 00:00:00
 authors:
 - etienne-rey
 - laurent-u-perrinet
-date: 2016-04-20 00:00:00
-draft: false
-lastmod: 2018-01-13 00:00:00
 subtitle: Installation in situ, 2018; Collection of the François Schneider Foundation,
   Wattwiller I 2018
+draft: false
+categories:
+- Education
+- NeuroAI & Machine Learning
+tags:
+- visual-illusions
+projects:
+- art-science
 summary: L’installation Turbulences explore l’émergence de caustiques, phénomènes
   caractéristiques de la relation entre l’eau, la lumière et l’air. Le mouvement y
   perturbe un état optique stable. La turbulence des plis lumineux donne l’illusion
   d’un corps flottant.
-title: Turbulences
-tags:
-- visual-illusions
-categories:
-- Education
-- NeuroAI & Machine Learning
-projects:
-- art-science
 ---
 # Turbulences
 {{< vimeo 303255760 >}}

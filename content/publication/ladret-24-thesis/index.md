@@ -1,12 +1,10 @@
---- 
+---
 title: Modélisation multi-échelle de la sélectivité à l'orientation dans les stimulations
   visuelles naturelles
-authors:
-- Hugo Ladret
 date: '2024-02-08'
 publishDate: '2025-01-11T16:13:35.534674Z'
-publication_types:
-- thesis
+authors:
+- Hugo Ladret
 abstract: Cette thèse vise à comprendre les fondements et les fonctions des calculs
   probabilistes impliqués dans les processus visuels. Nous nous appuyons sur une double
   stratégie, qui implique le développement de modèles dans le cadre du codage prédictif
@@ -35,11 +33,13 @@ abstract: Cette thèse vise à comprendre les fondements et les fonctions des ca
   par l'intermédiaire du noyau pulvinaire du thalamus. Cela ouvre la voie à des études
   sur les calculs de variance en tant que calculs neuronaux génériques soutenus par
   la récurrence dans l'ensemble du cortex.
-links:
-- name: URL
-  url: https://theses.fr/s377438
 categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
+publication_types:
+- thesis
+links:
+- name: URL
+  url: https://theses.fr/s377438
 ---

@@ -1,7 +1,7 @@
---- 
+---
+title: Étienne Rey
 authors:
 - etienne-rey
-title: Étienne Rey
 social:
 - icon: linkedin
   icon_pack: fab

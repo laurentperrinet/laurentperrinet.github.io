@@ -1,4 +1,11 @@
---- 
+---
+title: Top-down connection in Hierarchical Sparse Coding
+date: 2019-01-01
+authors:
+- Victor Boutin
+- Angelo Franciosini
+- Franck Ruffier
+- Laurent U Perrinet
 abstract: The brain has to solve inverse problems to correctly interpret sensory data
   and infer the set of causes that generated the sensory inputs. When imposing sparse
   prior and hierarchical structure this problem is called Hierarchical Sparse Coding
@@ -10,34 +17,26 @@ abstract: The brain has to solve inverse problems to correctly interpret sensory
   that we will call Hierarchical Lasso (Hi-La), we propose to leverage PC into a hierarchical
   and sparse model called Sparse Deep Predictive Coding (SDPC) network. This poster
   shows computational differences between SDPC and Hi-La.
-authors:
-- Victor Boutin
-- Angelo Franciosini
-- Franck Ruffier
-- Laurent U Perrinet
-date: 2019-01-01
 featured: false
-publication: '*GdR Robotics - 2019-06-05*'
-publication_types:
-- inproceedings
-title: Top-down connection in Hierarchical Sparse Coding
-tags:
-- bayesian-modelling
-- predictive-coding
-- sparse-coding
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- bayesian-modelling
+- predictive-coding
+- sparse-coding
 projects:
 - doc-2-amu
 - phd-icn
 - mesocentre
+publication: '*GdR Robotics - 2019-06-05*'
+publication_types:
+- inproceedings
 grants:
 - doc-2-amu
 - mesocentre
 - phd-icn
 ---
-
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

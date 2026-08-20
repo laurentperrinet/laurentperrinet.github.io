@@ -1,4 +1,9 @@
---- 
+---
+title: Expériences autour de la perception de la forme en art et science
+date: 2017-01-01
+authors:
+- Laurent U Perrinet
+- Étienne Rey
 abstract: La vision utilise un faisceau d'informations de différentes qualités pour
   atteindre une perception unifiée du monde environnant. Nous avons utilisé lors de
   plusieurs projets art-science (voir https://github.com/NaturalPatterns) des installations
@@ -18,11 +23,17 @@ abstract: La vision utilise un faisceau d'informations de différentes qualités
   afin de faire émerger  des structures selon le point de vue du spectateur. De manière
   générale, nous montrerons ici les différentes méthodes utilisées, comme l'utilisation
   des limites perceptives, et aussi les résultats apportés par une telle collaboration.
-authors:
-- Laurent U Perrinet
-- Étienne Rey
-date: 2017-01-01
 featured: false
+categories:
+- Visual Neuroscience
+tags:
+- motion-perception
+- visual-illusions
+projects:
+- art-science
+publication: '*GDR Vision, Lille, 2017*'
+publication_types:
+- inproceedings
 links:
 - name: Pdf
   url: https://github.com/NaturalPatterns/2017-10-12_GDR/raw/master/2017-10-12_PerrinetRey2017poster.pdf
@@ -33,19 +44,7 @@ grants:
 - art-science
 - pace-itn
 - tout-public
-publication: '*GDR Vision, Lille, 2017*'
-publication_types:
-- inproceedings
-title: Expériences autour de la perception de la forme en art et science
-tags:
-- motion-perception
-- visual-illusions
-categories:
-- Visual Neuroscience
-projects:
-- art-science
 ---
-
 # Expériences autour de la perception de la forme en art et science
 La vision utilise un faisceau d'informations de différentes qualités pour atteindre une perception unifiée du monde environnant. Nous avons utilisé lors de plusieurs projets art-science (voir https://github.com/NaturalPatterns) des installations permettant de manipuler explicitement des composantes de ce flux d'information et de révéler des ambiguités dans notre perception.
 ![Tropique](https://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_b.jpg)

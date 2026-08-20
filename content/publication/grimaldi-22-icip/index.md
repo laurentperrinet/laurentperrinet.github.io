@@ -1,4 +1,13 @@
---- 
+---
+title: Learning heterogeneous delays of spiking neurons for motion detection
+date: 2022-10-16
+publishDate: '2022-06-21T08:00:50.371310Z'
+lastmod: 2022-06-21 10:00:51+02:00
+authors:
+- Antoine Grimaldi
+- Camille Besnainou
+- Hugo Ladret
+- Laurent U Perrinet
 abstract: 'The response of a biological neuron depends largely on the precise timing
   of presynaptic spikes that reach the basal dendritic tree. However, most neuronal
   models do not take advantage of this minute temporal dimension, especially in exploiting
@@ -12,44 +21,34 @@ abstract: 'The response of a biological neuron depends largely on the precise ti
   defining the generation of the raster plot as a probabilistic combination of PGs,
   we build and train the network in order to optimize the inversion of this generative
   model. '
-authors:
-- Antoine Grimaldi
-- Camille Besnainou
-- Hugo Ladret
-- Laurent U Perrinet
-date: 2022-10-16
-doi: 10.1109/ICIP46576.2022.9897394
-draft: false
 featured: false
-image:
-  focal_point: Smart
-  preview_only: false
-lastmod: 2022-06-21 10:00:51+02:00
-links:
-- name: Venue
-  url: https://2022.ieeeicip.org/
-- name: URL
-  url: https://ieeexplore.ieee.org/document/9897394/
-publication: '*Proceedings of ICIP 2022*'
-publication_types:
-- inproceedings
-publishDate: '2022-06-21T08:00:50.371310Z'
-title: Learning heterogeneous delays of spiking neurons for motion detection
+draft: false
+categories:
+- Behavioural Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
 tags:
 - bayesian-modelling
 - motion-perception
 - neuromorphic-computing
 - spiking-neural-networks
 - visual-illusions
-categories:
-- Behavioural Neuroscience
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
+publication: '*Proceedings of ICIP 2022*'
+publication_types:
+- inproceedings
+doi: 10.1109/ICIP46576.2022.9897394
+image:
+  focal_point: Smart
+  preview_only: false
+links:
+- name: Venue
+  url: https://2022.ieeeicip.org/
+- name: URL
+  url: https://ieeexplore.ieee.org/document/9897394/
 grants:
 - aprovis-3-d
 ---
-
 * see a follow-up as journal paper: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}
 * presented at [ICIP 2022](https://2022.ieeeicip.org) 16-19 October 2022 in Bordeaux, France
 * paper [3241](https://cmsworkshops.com/ICIP2022/papers/accepted_papers.php) (note that the title of the paper was slightly changed)

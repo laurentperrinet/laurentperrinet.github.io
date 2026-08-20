@@ -1,23 +1,23 @@
---- 
+---
+title: ANR AgileNeuRobot (2021/2025)
 date: 2020-12-07 00:00:00
-summary: Robots aériens agiles bio-mimetiques pour le vol en conditions réelles
 authors:
 - emmanuel-daucé
 - stéphane-viollet
 - ryad-benosman
 - laurent-u-perrinet
-title: ANR AgileNeuRobot (2021/2025)
-slides: 2020-12-10_agileneurobot_anr
-tags:
-- neuromorphic-computing
-- sparse-coding
-- spiking-neural-networks
 categories:
 - Computational Neuroscience
 - Education
 - Grants & Funding
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- neuromorphic-computing
+- sparse-coding
+- spiking-neural-networks
+slides: 2020-12-10_agileneurobot_anr
+summary: Robots aériens agiles bio-mimetiques pour le vol en conditions réelles
 ---
 <!-- youtube-dl https://www.youtube.com/watch\?v\=36CTDiJjQ8I -->
 

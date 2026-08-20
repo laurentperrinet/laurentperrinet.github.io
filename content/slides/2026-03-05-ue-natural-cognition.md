@@ -1,15 +1,13 @@
---- 
-slides:
-  theme: white
-  transition: fade
-  title: Artificial neural networks and machine learning applied to the understanding
-    of biological vision
-date: '2026-03-05'
-all_day: false
-publishDate: '2026-03-05T06:47:11+02:00'
+---
 title: 2026-03-05-ue-natural-cognition
-summary: Artificial neural networks and machine learning applied to the understanding
-  of biological vision
+date: '2026-03-05'
+publishDate: '2026-03-05T06:47:11+02:00'
+categories:
+- Behavioural Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+- Visual Neuroscience
 tags:
 - deep-learning
 - eye-movements
@@ -19,14 +17,16 @@ tags:
 - sparse-coding
 - spiking-neural-networks
 - visual-illusions
-categories:
-- Behavioural Neuroscience
-- Education
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
-- Visual Neuroscience
 projects:
 - tout-public
+slides:
+  theme: white
+  transition: fade
+  title: Artificial neural networks and machine learning applied to the understanding
+    of biological vision
+all_day: false
+summary: Artificial neural networks and machine learning applied to the understanding
+  of biological vision
 ---
 <section>
 

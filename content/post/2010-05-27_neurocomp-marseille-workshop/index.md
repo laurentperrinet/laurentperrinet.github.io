@@ -1,23 +1,12 @@
---- 
+---
+title: 'Computational Neuroscience: From Representations to Behavior'
+date: 2008-10-08 00:00:00
+lastmod: 2008-10-08 00:00:00
 authors:
 - emmanuel-daucé
 - laurent-u-perrinet
-date: 2008-10-08 00:00:00
-draft: false
-image:
-  focal_point: Smart
-  placement: 2
-  preview_only: false
-lastmod: 2008-10-08 00:00:00
 subtitle: Second NeuroComp Marseille Workshop
-summary: 'Computational Neuroscience: From Representations to Behavior, the Second
-  NeuroComp Marseille Workshop.'
-title: 'Computational Neuroscience: From Representations to Behavior'
-tags:
-- bayesian-modelling
-- foveated-vision
-- log-polar-mapping
-- retinotopy
+draft: false
 categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
@@ -27,8 +16,18 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
+tags:
+- bayesian-modelling
+- foveated-vision
+- log-polar-mapping
+- retinotopy
+image:
+  focal_point: Smart
+  placement: 2
+  preview_only: false
+summary: 'Computational Neuroscience: From Representations to Behavior, the Second
+  NeuroComp Marseille Workshop.'
 ---
-
 - Date: 27-28 May 2010
 
 - Location: Amphithéâtre Charve at the Saint-Charles' University campus

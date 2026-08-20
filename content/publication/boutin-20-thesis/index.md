@@ -1,12 +1,10 @@
---- 
+---
 title: 'Etude d’un Algorithme Hiérarchique de Codage Épars et Prédictif : Vers Un
   Modèle Bio-Inspiré de La Perception Visuelle'
-authors:
-- Victor Boutin
 date: '2020-03-13'
 publishDate: '2025-01-11T16:13:35.504013Z'
-publication_types:
-- thesis
+authors:
+- Victor Boutin
 abstract: La représentation concise et efficace de l'information est un problème qui
   occupe une place centrale dans l'apprentissage machine. Le cerveau, et plus particulièrement
   le cortex visuel, ont depuis longtemps trouvé des solutions performantes et robustes
@@ -27,14 +25,16 @@ abstract: La représentation concise et efficace de l'information est un problè
   reconstruction des images bruitées. Nos résultats suggèrent que l'inspiration des
   neurosciences fournit un cadre prometteur afin de développer des algorithmes de
   vision artificielles plus performants et plus robustes.
-links:
-- name: URL
-  url: https://theses.fr/2020AIXM0028
-tags:
-- primary-visual-cortex
-- visual-illusions
 categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
+tags:
+- primary-visual-cortex
+- visual-illusions
+publication_types:
+- thesis
+links:
+- name: URL
+  url: https://theses.fr/2020AIXM0028
 ---

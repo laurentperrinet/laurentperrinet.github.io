@@ -1,4 +1,9 @@
---- 
+---
+title: On the Origins of Hierarchy in Visual Processing
+date: 2018-01-01
+authors:
+- Angelo Franciosini
+- Laurent U Perrinet
 abstract: ' It is widely assumed that visual processing follows a forward sequence
   of processing steps along a hierarchy of laminar sub-populations of the neural system.
   Taking the example of the early visual system of mammals, most models are consequently
@@ -40,33 +45,27 @@ abstract: ' It is widely assumed that visual processing follows a forward sequen
   images containing an animal (Perrinet and Bednar, 2015). Crucially, as the geometrical
   transformations develop in time, we expect that the detection of these features
   is made robust by dynamical processes.'
-authors:
-- Angelo Franciosini
-- Laurent U Perrinet
-date: 2018-01-01
 featured: false
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/franciosini-perrinet-18-cs/
-publication: '*Curves and Surfaces 2018, Arcachon*'
-publication_types:
-- inproceedings
-title: On the Origins of Hierarchy in Visual Processing
-tags:
-- predictive-coding
-- primary-visual-cortex
-- sparse-coding
 categories:
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
+tags:
+- predictive-coding
+- primary-visual-cortex
+- sparse-coding
 projects:
 - doc-2-amu
 - phd-icn
+publication: '*Curves and Surfaces 2018, Arcachon*'
+publication_types:
+- inproceedings
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/franciosini-perrinet-18-cs/
 grants:
 - doc-2-amu
 - phd-icn
 ---
-
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

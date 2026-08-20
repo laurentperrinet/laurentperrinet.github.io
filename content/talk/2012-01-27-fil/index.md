@@ -1,4 +1,8 @@
---- 
+---
+title: Grabbing, tracking and sniffing as models for motion detection and eye movements
+date: 2012-01-27
+authors:
+- Laurent U Perrinet
 abstract: Moving objects generate sensory information that may be noisy and ambiguous,
   yet it is important to be able to reconstruct object speed as fast as possible.
   One unsolved question is to understand how the brain pools motion information to
@@ -15,24 +19,20 @@ abstract: Moving objects generate sensory information that may be noisy and ambi
   that through the convergent use of models, electrophysiology or behavioural responses,
   the study of motion detection is an essential tool in our understanding of neural
   computations.
-authors:
-- Laurent U Perrinet
-date: 2012-01-27
-event: Brain meeting at FIL, London - Friday, January 27th, 2012
 featured: false
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/talk/2012-01-27-fil/
-publication: '*Brain meeting at FIL, London - Friday, January 27th, 2012*'
-title: Grabbing, tracking and sniffing as models for motion detection and eye movements
-tags:
-- eye-movements
-- motion-perception
 categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
 - Computational Neuroscience
 - NeuroAI & Machine Learning
+tags:
+- eye-movements
+- motion-perception
 projects:
 - tout-public
+publication: '*Brain meeting at FIL, London - Friday, January 27th, 2012*'
+event: Brain meeting at FIL, London - Friday, January 27th, 2012
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2012-01-27-fil/
 ---

@@ -1,10 +1,9 @@
---- 
+---
 title: 'Mislocalization by Design: The Flash-Lag Effect as Prediction'
-authors:
-- Laurent U Perrinet
 date: '2025-10-16'
 publishDate: '2025-10-14T20:07:40.008472Z'
-publication: '*Suresh Krishna''s lab meeting at McGill.*'
+authors:
+- Laurent U Perrinet
 abstract: 'Why do we sometimes misjudge where visual objects are? This talk explores
   how predictive processing may cause systematic perceptual mislocalizations. Indeed,
   the early visual system doesn''t passively process information—it actively predicts
@@ -16,14 +15,15 @@ abstract: 'Why do we sometimes misjudge where visual objects are? This talk expl
   visual coding. I''ll discuss how these principles illuminate both biological vision
   and artificial visual system design, demonstrating that what we perceive as *now*
   is actually the brain''s best prediction of the present.'
-slides: 2025-10-16-flash-lag-effect
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/talk/2025-10-16-flash-lag-effect
-tags:
-- motion-perception
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- motion-perception
+publication: '*Suresh Krishna''s lab meeting at McGill.*'
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2025-10-16-flash-lag-effect
+slides: 2025-10-16-flash-lag-effect
 ---

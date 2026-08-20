@@ -1,4 +1,10 @@
---- 
+---
+title: Event-based vision
+date: 2023-12-01 09:45:00
+publishDate: '2023-11-29T09:59:44.385734Z'
+lastmod: 2023-11-29 11:59:44+02:00
+authors:
+- Laurent U Perrinet
 abstract: 'Event-based cameras mimic the way biological retinas process visual information:
   each pixel independently reports brightness changes as asynchronous temporal events.
   This departs from conventional cameras that capture static frames at fixed intervals.
@@ -8,33 +14,27 @@ abstract: 'Event-based cameras mimic the way biological retinas process visual i
   I will highlight recent works applying event cameras to tasks such as visual odometry,
   motion detection or gesture recognition. The goal is to demonstrate the advantages
   for computer vision that emulate biological principles inspired by neurosciences.'
-authors:
-- Laurent U Perrinet
-date: 2023-12-01 09:45:00
-draft: false
-event: Séminaire colloque BioComp 2023
-featured: false
-image:
-  focal_point: Smart
-  preview_only: false
-lastmod: 2023-11-29 11:59:44+02:00
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/talk/2023-12-01-biocomp
-location: Banyuls-sur-Mer (France)
-publication_types:
-- inproceedings
-publishDate: '2023-11-29T09:59:44.385734Z'
-slides: 2023-12-01-biocomp
 subtitle: '*Séminaire colloque BioComp 2023*'
-title: Event-based vision
-tags:
-- motion-perception
-- neuromorphic-computing
+featured: false
+draft: false
 categories:
 - Computational Neuroscience
 - Computer Vision
 - NeuroAI & Machine Learning
+tags:
+- motion-perception
+- neuromorphic-computing
 projects:
 - tout-public
+publication_types:
+- inproceedings
+event: Séminaire colloque BioComp 2023
+location: Banyuls-sur-Mer (France)
+image:
+  focal_point: Smart
+  preview_only: false
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2023-12-01-biocomp
+slides: 2023-12-01-biocomp
 ---

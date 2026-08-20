@@ -1,4 +1,12 @@
---- 
+---
+title: Testing the odds of inherent vs. observed overdispersion in neural spike counts
+date: 2016-01-22
+authors:
+- Wahiba Taouali
+- Giacomo Benvenuti
+- Pascal Wallisch
+- Frédéric Y Chavane
+- Laurent U Perrinet
 abstract: 'The repeated presentation of an identical visual stimulus in the receptive
   field of a neuron may evoke different spiking patterns at each trial. Probabilistic
   methods are essential to understand the functional role of this variance within
@@ -19,34 +27,25 @@ abstract: 'The repeated presentation of an identical visual stimulus in the rece
   pathway. Finally, we compare the performance of this model to the Poisson model
   on a population decoding task. We show that the decoding accuracy is improved when
   accounting for over-dispersion, especially under the hypothesis of tuned over-dispersion. '
-authors:
-- Wahiba Taouali
-- Giacomo Benvenuti
-- Pascal Wallisch
-- Frédéric Y Chavane
-- Laurent U Perrinet
-date: 2016-01-22
-doi: 10.1152/jn.00194.2015
 featured: false
-grants:
-- anr-bala-v1
-- brain-scales
+categories:
+- Biological Neuroscience
+- Education
+- NeuroAI & Machine Learning
+tags:
+- bayesian-modelling
+- primary-visual-cortex
+- spiking-neural-networks
+publication: '*Journal of Neurophysiology*'
+publication_types:
+- article-journal
+doi: 10.1152/jn.00194.2015
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/26445864
 - name: HAL
   url: https://hal.science/hal-01396311
-publication: '*Journal of Neurophysiology*'
-publication_types:
-- article-journal
-title: Testing the odds of inherent vs. observed overdispersion in neural spike counts
-tags:
-- bayesian-modelling
-- primary-visual-cortex
-- spiking-neural-networks
-categories:
-- Biological Neuroscience
-- Education
-- NeuroAI & Machine Learning
+grants:
+- anr-bala-v1
+- brain-scales
 ---
-

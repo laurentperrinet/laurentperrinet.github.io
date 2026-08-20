@@ -1,4 +1,9 @@
---- 
+---
+title: Phase space analysis of networks based on biologically realistic parameters
+date: 2010-11-10
+authors:
+- Nicole Voges
+- Laurent U Perrinet
 abstract: 'We study cortical network dynamics for a spatially embedded network model.
   It represents, in terms of spatial scale, a large piece of cortex allowing for long-range
   connections, resulting in a rather sparse connectivity. The spatial embedding also
@@ -14,28 +19,22 @@ abstract: 'We study cortical network dynamics for a spatially embedded network m
   the phase space. More notably, our boundary between high and low activity states
   depends predominantly on the relation between excitatory and inhibitory synaptic
   strength instead of the input rate.'
-authors:
-- Nicole Voges
-- Laurent U Perrinet
-date: 2010-11-10
-doi: 10.1016/j.jphysparis.2009.11.004
 featured: false
-grants:
-- facets
-links:
-- name: URL
-  url: https://doi.org/10.1016/j.jphysparis.2009.11.004
-publication: '*Journal of Physiology-Paris*'
-publication_types:
-- article-journal
-title: Phase space analysis of networks based on biologically realistic parameters
-tags:
-- sparse-coding
 categories:
 - Biological Neuroscience
 - Computational Neuroscience
 - NeuroAI & Machine Learning
+tags:
+- sparse-coding
+publication: '*Journal of Physiology-Paris*'
+publication_types:
+- article-journal
+doi: 10.1016/j.jphysparis.2009.11.004
+links:
+- name: URL
+  url: https://doi.org/10.1016/j.jphysparis.2009.11.004
+grants:
+- facets
 ---
-
 ![header](voges-10-jpp.png)
 * see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

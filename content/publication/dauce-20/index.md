@@ -1,4 +1,11 @@
---- 
+---
+title: A dual foveal-peripheral visual processing model implements efficient saccade
+  selection
+date: 2020-06-05
+authors:
+- Emmanuel Daucé
+- Pierre Albigès
+- Laurent U Perrinet
 abstract: In computer vision, the visual search task consists in extracting a scarce
   and specific visual information (the target) from a large and crowded visual display.
   This task is usually implemented by scanning the different possible target identities
@@ -20,31 +27,16 @@ abstract: In computer vision, the visual search task consists in extracting a sc
   is preserved up to the action selection level, highlighting the advantages of bio-mimetic
   strategies with regards to traditional computer vision when computing resources
   are at stake.
-authors:
-- Emmanuel Daucé
-- Pierre Albigès
-- Laurent U Perrinet
-date: 2020-06-05
-doi: 10.1167/jov.20.8.22
 featured: false
-grants:
-- spikeai
-- mesocentre
-- aprovis-3-d
-links:
-- name: Pdf
-  url: https://doi.org/10.1101/725879
-- name: Code
-  url: https://github.com/laurentperrinet/WhereIsMyMNIST
-- name: URL
-  url: https://laurentperrinet.github.io/publication/dauce-20/
-- name: bioRxiv
-  url: https://www.biorxiv.org/content/10.1101/725879
-publication: '*Journal of Vision*'
-publication_types:
-- article-journal
-title: A dual foveal-peripheral visual processing model implements efficient saccade
-  selection
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+- Visual Neuroscience
 tags:
 - bayesian-modelling
 - eye-movements
@@ -56,17 +48,24 @@ tags:
 - retinotopy
 - saccades
 - visual-search
-categories:
-- Behavioural Neuroscience
-- Biological Neuroscience
-- Computational Neuroscience
-- Computer Vision
-- Education
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
-- Visual Neuroscience
+publication: '*Journal of Vision*'
+publication_types:
+- article-journal
+doi: 10.1167/jov.20.8.22
+links:
+- name: Pdf
+  url: https://doi.org/10.1101/725879
+- name: Code
+  url: https://github.com/laurentperrinet/WhereIsMyMNIST
+- name: URL
+  url: https://laurentperrinet.github.io/publication/dauce-20/
+- name: bioRxiv
+  url: https://www.biorxiv.org/content/10.1101/725879
+grants:
+- spikeai
+- mesocentre
+- aprovis-3-d
 ---
-
 {{< figure src="https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true" >}}
 * for a more mathematical treatment, see {{< cite page="/publication/dauce-20-iwai" view="4" >}}
 ![](@laurentperrinet_1305488088412688385_tweetcapture.png)

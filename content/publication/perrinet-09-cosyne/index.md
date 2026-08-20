@@ -1,4 +1,12 @@
---- 
+---
+title: Decoding center-surround interactions in population of neurons for the ocular
+  following response
+date: 2009-01-01
+authors:
+- Laurent U Perrinet
+- Nicole Voges
+- Jens Kremkow
+- Guillaume S Masson
 abstract: 'Short presentation of a large moving pattern elicits an Ocular Following
   Response (OFR) that exhibits many of the properties attributed to low-level motion
   processing such as spatial and temporal integration, contrast gain control and divisive
@@ -48,25 +56,7 @@ abstract: 'Short presentation of a large moving pattern elicits an Ocular Follow
   Lastly, we explore how a surrounding velocity non congruous with the central excitation
   information shunts the ocular response and how it is topographically represented
   in the cortical activity.'
-authors:
-- Laurent U Perrinet
-- Nicole Voges
-- Jens Kremkow
-- Guillaume S Masson
-date: 2009-01-01
 featured: false
-grants:
-- facets
-publication: '*Proceedings of COSYNE*'
-publication_types:
-- inproceedings
-title: Decoding center-surround interactions in population of neurons for the ocular
-  following response
-tags:
-- bayesian-modelling
-- motion-perception
-- primary-visual-cortex
-- visual-illusions
 categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
@@ -74,5 +64,14 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- bayesian-modelling
+- motion-perception
+- primary-visual-cortex
+- visual-illusions
+publication: '*Proceedings of COSYNE*'
+publication_types:
+- inproceedings
+grants:
+- facets
 ---
-

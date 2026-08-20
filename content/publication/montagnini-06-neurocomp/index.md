@@ -1,4 +1,12 @@
---- 
+---
+title: Bayesian modeling of dynamic motion integration
+date: 2006-01-01
+authors:
+- Anna Montagnini
+- Pascal Mamassian
+- Laurent U Perrinet
+- Eric Castet
+- Guillaume S Masson
 abstract: The quality of the representation of an object's motion is limited by the
   noise in the sensory input as well as by an intrinsic ambiguity due to the spatial
   limitation of the visual motion analyzers (aperture problem). Perceptual and oculomotor
@@ -14,33 +22,24 @@ abstract: The quality of the representation of an object's motion is limited by 
   phase. In addition, we propose a recursive extension of the Bayesian model, motivated
   and constrained by our oculomotor data, to describe the dynamical integration of
   1D and 2D motion information.
-authors:
-- Anna Montagnini
-- Pascal Mamassian
-- Laurent U Perrinet
-- Eric Castet
-- Guillaume S Masson
-date: 2006-01-01
-doi: 10.1016/j.jphysparis.2007.10.013
 featured: false
-grants:
-- facets
-publication: '*1ère conférence francophone NEUROsciences COMPutationnelles (NeuroComp)*'
-publication_types:
-- inproceedings
-title: Bayesian modeling of dynamic motion integration
-tags:
-- aperture-problem
-- bayesian-modeling
-- eye-movements
-- motion-perception
-- visual-illusions
 categories:
 - Behavioural Neuroscience
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- aperture-problem
+- bayesian-modeling
+- eye-movements
+- motion-perception
+- visual-illusions
+publication: '*1ère conférence francophone NEUROsciences COMPutationnelles (NeuroComp)*'
+publication_types:
+- inproceedings
+doi: 10.1016/j.jphysparis.2007.10.013
+grants:
+- facets
 ---
-
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

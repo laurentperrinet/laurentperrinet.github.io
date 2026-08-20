@@ -1,4 +1,11 @@
---- 
+---
+title: Anticipatory smooth eye movements and reinforcement
+date: 2015-09-01
+authors:
+- Jean-Bernard Damasse
+- Laurent Madelain
+- Laurent U Perrinet
+- Anna Montagnini
 abstract: When an object is moving in the visual field, we are able to accurately
   track it with a combination of saccades and smooth eye movements. These movements
   allow us to align and stabilize the object on the fovea, thus enabling visual analysis
@@ -23,31 +30,23 @@ abstract: When an object is moving in the visual field, we are able to accuratel
   of aSPEM. This experiment taps on the very reason to produce anticipatory tracking
   movement, that is to grant a quicker high-acuity vision of the moving target. We
   compare predictive anticipatory eye movements across these conditions.
-authors:
-- Jean-Bernard Damasse
-- Laurent Madelain
-- Laurent U Perrinet
-- Anna Montagnini
-date: 2015-09-01
-doi: 10.1167/15.12.1019
 featured: false
-grants:
-- anr-rem
-links:
-- name: URL
-  url: https://jov.arvojournals.org/article.aspx?articleid=2434129
-publication: '*Proceedings of VSS*'
-publication_types:
-- inproceedings
-title: Anticipatory smooth eye movements and reinforcement
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
 tags:
 - bayesian-modelling
 - eye-movements
 - motion-perception
 - visual-illusions
-categories:
-- Behavioural Neuroscience
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
+publication: '*Proceedings of VSS*'
+publication_types:
+- inproceedings
+doi: 10.1167/15.12.1019
+links:
+- name: URL
+  url: https://jov.arvojournals.org/article.aspx?articleid=2434129
+grants:
+- anr-rem
 ---
-

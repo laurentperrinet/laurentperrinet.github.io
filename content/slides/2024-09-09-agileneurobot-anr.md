@@ -1,25 +1,25 @@
---- 
-slides:
-  theme: white
-  transition: fade
-date: '2024-09-09'
-all_day: false
-publishDate: '2024-09-06T12:47:11+02:00'
+---
 title: 2024-09-09-agileneurobot-anr
-summary: 'Robots aériens agiles bio-mimetiques pour le vol en conditions réelles:
-  Enjeux pour l''IA embarqué'
-tags:
-- eye-movements
-- neuromorphic-computing
-- spiking-neural-networks
-- visual-illusions
+date: '2024-09-09'
+publishDate: '2024-09-06T12:47:11+02:00'
 categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- eye-movements
+- neuromorphic-computing
+- spiking-neural-networks
+- visual-illusions
 projects:
 - tout-public
+slides:
+  theme: white
+  transition: fade
+all_day: false
+summary: 'Robots aériens agiles bio-mimetiques pour le vol en conditions réelles:
+  Enjeux pour l''IA embarqué'
 ---
 <section>
 

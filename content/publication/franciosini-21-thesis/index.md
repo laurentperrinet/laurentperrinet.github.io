@@ -1,11 +1,9 @@
---- 
+---
 title: 'SDPC : A Sparse and Predictive Model of the Early Visual System'
-authors:
-- Angelo Franciosini
 date: '2021-09-28'
 publishDate: '2025-01-11T16:13:35.518925Z'
-publication_types:
-- thesis
+authors:
+- Angelo Franciosini
 abstract: 'Un des objectifs des neurosciences visuelles est de comprendre comment
   le cerveau interprète les informations sensorielles et de décrire les représentations
   corticales grâce à un modèle computationnel. Dans cette thèse, nous décrivons comment
@@ -22,16 +20,18 @@ abstract: 'Un des objectifs des neurosciences visuelles est de comprendre commen
   de plus haut niveau comme les cartes d''orientation corticales, et ceci pour différentes
   espèces. Enfin, nous proposerons quelques extensions qui permettront au SDPC de
   servir de modèle général du système visuel.'
-links:
-- name: URL
-  url: https://theses.fr/2021AIXM0346
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
 tags:
 - predictive-coding
 - primary-visual-cortex
 - sparse-coding
 - visual-illusions
-categories:
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
+publication_types:
+- thesis
+links:
+- name: URL
+  url: https://theses.fr/2021AIXM0346
 ---

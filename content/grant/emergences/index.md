@@ -1,8 +1,17 @@
---- 
+---
+title: Emergences (2023 / 2027)
+date: 2023-10-05 14:00:00
 authors:
 - laurent-u-perrinet
-date: 2023-10-05 14:00:00
-summary: Near-physics emerging models for embedded AI (PhD position, 2023 / 2027).
+categories:
+- Education
+- Grants & Funding
+- NeuroAI & Machine Learning
+tags:
+- bayesian-modelling
+- neuromorphic-computing
+- sparse-coding
+- spiking-neural-networks
 image:
   caption: Rufous Hummingbird "Super fast little hummer on a scarlet Kunzea plant,
     (thanks for the plant ID, Teddy) El Chorro regional park" photo [Anita Ritenour](https://www.flickr.com/photos/puliarfanita/13322040205)
@@ -10,18 +19,8 @@ image:
   focal_point: Smart
   placement: 2
   preview_only: false
-title: Emergences (2023 / 2027)
-tags:
-- bayesian-modelling
-- neuromorphic-computing
-- sparse-coding
-- spiking-neural-networks
-categories:
-- Education
-- Grants & Funding
-- NeuroAI & Machine Learning
+summary: Near-physics emerging models for embedded AI (PhD position, 2023 / 2027).
 ---
-
 {{% callout note %}}
 TL;DR: Conventional deep learning models consume too much energy. Inspired by biology, we will explore new models that are more energy efficient.
 {{% /callout %}}

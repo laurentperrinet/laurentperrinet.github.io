@@ -1,12 +1,10 @@
---- 
+---
 title: Vision dynamique utilisant la précision temporelle des motifs d'impulsions
   dans les calculs neuronaux
-authors:
-- Antoine Grimaldi
 date: '2024-05-16'
 publishDate: '2025-01-11T16:13:35.526062Z'
-publication_types:
-- thesis
+authors:
+- Antoine Grimaldi
 abstract: 'Notre cerveau est extrêmement efficace pour résoudre des tâches visuelles
   très complexes. En quelques centaines de millisecondes, nous sommes capables de
   reconnaître différents objets de manière invariante à diverses caractéristiques,
@@ -40,11 +38,13 @@ abstract: 'Notre cerveau est extrêmement efficace pour résoudre des tâches vi
   peut être employée par le cerveau. Dans la dernière partie de ce travail, nous détaillerons
   le développement d''un nouvel algorithme pour détecter ce type d''activité dans
   des enregistrements de neurones réels.'
-links:
-- name: URL
-  url: https://theses.fr/2024AIXM0117
 categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
+publication_types:
+- thesis
+links:
+- name: URL
+  url: https://theses.fr/2024AIXM0117
 ---

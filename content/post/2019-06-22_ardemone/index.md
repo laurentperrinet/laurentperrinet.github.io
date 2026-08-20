@@ -1,23 +1,21 @@
---- 
+---
+title: Sans gravité – une poétique de l’air
+date: 2016-04-20 00:00:00
+lastmod: 2018-01-13 00:00:00
 authors:
 - etienne-rey
 - laurent-u-perrinet
-date: 2016-04-20 00:00:00
-draft: false
-lastmod: 2018-01-13 00:00:00
 subtitle: Sans gravité – une poétique de l’air – Ardenome à Avignon
-summary: Sans gravité – une poétique de l’air – Ardenome à Avignon.
-title: Sans gravité – une poétique de l’air
-tags:
-- visual-illusions
+draft: false
 categories:
 - Education
 - NeuroAI & Machine Learning
+tags:
+- visual-illusions
 projects:
 - art-science
+summary: Sans gravité – une poétique de l’air – Ardenome à Avignon.
 ---
-
-
 {{< vimeo 317504725 >}}
 
 # « Densité flou » (2019)

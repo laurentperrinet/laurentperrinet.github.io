@@ -1,4 +1,8 @@
---- 
+---
+title: 'From the retina to action: Understanding visual processing'
+date: 2020-04-03 16:00:00
+authors:
+- Laurent U Perrinet
 abstract: Visual areas are essential in transforming the raw luminous signal into
   a representation which efficiently conveys information about the environment. This
   process is constrained by various factors such as a wide variety of changes in the
@@ -11,11 +15,25 @@ abstract: Visual areas are essential in transforming the raw luminous signal int
   framework to offer a unified theory to explain many of the mechanisms at the different
   levels of the visual system and which were unveiled by decades of study in neurophysiology
   and psychophysics.
-authors:
-- Laurent U Perrinet
-date: 2020-04-03 16:00:00
-event: Master Neurosciences et Sciences Cognitives
 featured: false
+categories:
+- Biological Neuroscience
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+tags:
+- bayesian-modelling
+- motion-perception
+- predictive-coding
+- primary-visual-cortex
+projects:
+- courses
+- tout-public
+publication: '*Master Neurosciences et Sciences Cognitives*'
+publication_types:
+- inproceedings
+event: Master Neurosciences et Sciences Cognitives
+location: Marseille (France)
 links:
 - name: Slides
   url: https://laurentperrinet.github.io/2020-04_UE-neurosciences-computationnelles
@@ -23,24 +41,6 @@ links:
   url: https://github.com/laurentperrinet/2020-04_UE-neurosciences-computationnelles
 - name: URL
   url: https://laurentperrinet.github.io/talk/2020-04-ue-neurosciences-computationnelles
-location: Marseille (France)
-publication: '*Master Neurosciences et Sciences Cognitives*'
-publication_types:
-- inproceedings
-title: 'From the retina to action: Understanding visual processing'
-tags:
-- bayesian-modelling
-- motion-perception
-- predictive-coding
-- primary-visual-cortex
-categories:
-- Biological Neuroscience
-- Computational Neuroscience
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
-projects:
-- courses
-- tout-public
 ---
 # 2020-04_UE-neurosciences-computationnelles, matériel pour le cours de modélisation
 * Où: Marseille (France)

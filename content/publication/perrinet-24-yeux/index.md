@@ -1,4 +1,8 @@
---- 
+---
+title: 'Chats, mouches, humains : comment la vision a évolué en de multiples facettes'
+date: 2024-02-23
+authors:
+- Laurent U Perrinet
 abstract: 'Grâce à nos yeux, l’organe sensible de la vision, nous pouvons aisément
   et instantanément explorer le monde visible qui nous entoure. C’est littéralement
   incroyable : la vision opère sans effort malgré la complexité des processus qui
@@ -6,30 +10,25 @@ abstract: 'Grâce à nos yeux, l’organe sensible de la vision, nous pouvons ai
   pouvons-nous tirer de leur diversité dans le règne animal ? Est-il possible de remonter
   aux origines de leur évolution pour comprendre comment les yeux ont émergé au cours
   de l’évolution du vivant ?'
-authors:
-- Laurent U Perrinet
-date: 2024-02-23
 featured: false
-grants:
-- anr-anr
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+projects:
+- tout-public
+publication: '*The Conversation*'
+publication_types:
+- article-journal
 image:
   caption: 'Image credit: Naser Tamimi [**Unsplash**](https://unsplash.com/photos/yG9pCqSOrAg)'
   focal_point: Smart
 links:
 - name: URL
   url: https://theconversation.com/chats-mouches-humains-comment-la-vision-a-evolue-en-de-multiples-facettes-220083
-projects:
-- tout-public
-publication: '*The Conversation*'
-publication_types:
-- article-journal
-title: 'Chats, mouches, humains : comment la vision a évolué en de multiples facettes'
-categories:
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
+grants:
+- anr-anr
 ---
-
 <!--  bluesky link="https://bsky.app/profile/laurentperrinet.bsky.social/post/3lgcyozmqgs2m"  -->
 * Ce texte est disponible dans cet article de [The Conversation](https://theconversation.com/chats-mouches-humains-comment-la-vision-a-evolue-en-de-multiples-facettes-220083).
 * Une [version longue](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/latest/index.html) (et son [code](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux)) sont aussi disponibles.

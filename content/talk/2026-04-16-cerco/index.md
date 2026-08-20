@@ -1,13 +1,10 @@
 ---
 title: Working Memory in Recurrent Spiking Neural Networks Using Heterogeneous Synaptic
   Delays
-authors:
-- Laurent U Perrinet
 date: '2026-04-16'
 publishDate: '2026-04-09T06:52:10.397771Z'
-publication_types:
-- paper-conference
-publication: '*Seminar at CerCo*'
+authors:
+- Laurent U Perrinet
 abstract: 'Working memory, the ability to store and retrieve precise temporal patterns
   of neural activity, remains a fundamental challenge for spiking neural networks
   (SNNs). We introduce a recurrent SNN in which each synapse is modeled as a three-dimensional
@@ -23,8 +20,6 @@ abstract: 'Working memory, the ability to store and retrieve precise temporal pa
   that heterogeneous synaptic delays provide an efficient, biologically plausible
   substrate for working memory in SNNs, enabling energy-efficient neuromorphic implementations
   on edge devices.'
-projects:
-- tout-public
 categories:
 - Computational Neuroscience
 - Computer Vision
@@ -32,12 +27,15 @@ categories:
 tags:
 - neuromorphic-computing
 - spiking-neural-networks
-
-slides: 2026-04-16-cerco
-
+projects:
+- tout-public
+publication: '*Seminar at CerCo*'
+publication_types:
+- paper-conference
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-04-16-cerco/
+slides: 2026-04-16-cerco
 ---
 * Invited seminar at CerCo, Toulouse, France, 2026-04-16
 

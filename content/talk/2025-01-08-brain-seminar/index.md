@@ -1,10 +1,9 @@
---- 
+---
 title: How and why foveated retinotopy provides efficient vision
-authors:
-- Laurent U Perrinet
 date: '2025-01-08'
 publishDate: '2024-12-23T13:47:40.899550Z'
-publication: '*BRaIN Seminar,  CRN and McGill Vision Research*'
+authors:
+- Laurent U Perrinet
 abstract: The retinas of many animals, including humans, have a specialized area of
   high visual acuity called the fovea, while peripheral regions have lower resolution.
   This spatial organization, known as retinotopy, is important for biological vision,
@@ -18,16 +17,6 @@ abstract: The retinas of many animals, including humans, have a specialized area
   Overall, this study suggests why retinotopic mapping in foveated vision implements
   prior knowledge about visual object geometry, providing an efficient solution to
   the visual search problem, an essential function for predators.
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/talk/2025-01-08-brain-seminar
-tags:
-- bayesian-modelling
-- eye-movements
-- foveated-vision
-- log-polar-mapping
-- primary-visual-cortex
-- retinotopy
 categories:
 - Biological Neuroscience
 - Computational Neuroscience
@@ -35,6 +24,17 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
+tags:
+- bayesian-modelling
+- eye-movements
+- foveated-vision
+- log-polar-mapping
+- primary-visual-cortex
+- retinotopy
+publication: '*BRaIN Seminar,  CRN and McGill Vision Research*'
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2025-01-08-brain-seminar
 ---
 * When: Wednesday 9th of January, 2025 at 12 noon.
 * Where: CRN seminar room, Montreal General Hospital, Livingston Hall, L7-140, with hybrid option.

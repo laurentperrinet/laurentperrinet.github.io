@@ -1,18 +1,18 @@
---- 
+---
 title: Recréer des réseaux neuronaux pour améliorer la compréhension de notre cerveau
-authors:
-- Laurent U Perrinet
 date: '2026-02-10'
 publishDate: '2026-01-26T11:48:02.451044Z'
-publication: '*Séminaire en ligne biomimétisme et neurosciences*'
-slides: 2026-02-10-biomplus
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/talk/2026-02-10-biomplus
+authors:
+- Laurent U Perrinet
 categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
+publication: '*Séminaire en ligne biomimétisme et neurosciences*'
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2026-02-10-biomplus
+slides: 2026-02-10-biomplus
 ---
 Rendez-vous ce mardi 10 février 2026 / 9h-10h30 pour plonger dans le monde fascinant des neurosciences.
 

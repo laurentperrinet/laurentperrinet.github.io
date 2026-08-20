@@ -1,4 +1,11 @@
---- 
+---
+title: 'Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards
+  like-to-All'
+date: 2022-02-05
+authors:
+- Frédéric Chavane
+- Laurent U Perrinet
+- James Rankin
 abstract: 'Horizontal connections in the primary visual cortex of carnivores, ungulates
   and primates organize on a near-regular lattice. Given the similar length scale
   for the regularity found in cortical orientation maps, the currently accepted theoretical
@@ -17,23 +24,14 @@ abstract: 'Horizontal connections in the primary visual cortex of carnivores, un
   at long horizontal distance. This generic rule accounts for the observed high heterogeneity
   in interactions between the orientation and retinotopic domains, that we argue is
   necessary to process non-trivial stimuli in a task-dependent manner.'
-authors:
-- Frédéric Chavane
-- Laurent U Perrinet
-- James Rankin
-date: 2022-02-05
-doi: 10.1007/s00429-022-02455-4
 featured: false
-grants:
-- anr-trajectory
-links:
-- name: URL
-  url: https://doi.org/10.1007/s00429-022-02455-4
-publication: '*Brain Structure and Function*'
-publication_types:
-- article-journal
-title: 'Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards
-  like-to-All'
+categories:
+- Biological Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+- Visual Neuroscience
 tags:
 - foveated-vision
 - horizontal-connectivity
@@ -42,15 +40,16 @@ tags:
 - orientation-maps
 - primary-visual-cortex
 - retinotopy
-categories:
-- Biological Neuroscience
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
-- Visual Neuroscience
+publication: '*Brain Structure and Function*'
+publication_types:
+- article-journal
+doi: 10.1007/s00429-022-02455-4
+links:
+- name: URL
+  url: https://doi.org/10.1007/s00429-022-02455-4
+grants:
+- anr-trajectory
 ---
-
 ![](@laurentperrinet_1490717893750935552_tweetcapture.png)
 
 * Check-out this presentation of the paper:  {{< cite page="/talk/2025-02-11-neuromath" view="2" >}}

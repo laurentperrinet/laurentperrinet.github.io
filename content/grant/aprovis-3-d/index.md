@@ -1,20 +1,20 @@
---- 
+---
+title: APROVIS3D (2019/2023)
 date: 2019-09-10 10:00:00
-summary: Analog PROcessing of bioinspired VIsion Sensors for 3D reconstruction (APROVIS3D)
-  is [2018 *CHIST-ERA* laureate](http://www.chistera.eu/projects/aprovis3d).
 authors:
 - jean-martinet
 - laurent-u-perrinet
-title: APROVIS3D (2019/2023)
-tags:
-- neuromorphic-computing
-- spiking-neural-networks
 categories:
 - Computational Neuroscience
 - Computer Vision
 - Education
 - Grants & Funding
 - NeuroAI & Machine Learning
+tags:
+- neuromorphic-computing
+- spiking-neural-networks
+summary: Analog PROcessing of bioinspired VIsion Sensors for 3D reconstruction (APROVIS3D)
+  is [2018 *CHIST-ERA* laureate](http://www.chistera.eu/projects/aprovis3d).
 ---
 * Le projet APROVIS3D est lauréat de l'[appel à projets 2018 *CHIST-ERA*](http://www.chistera.eu/projects/aprovis3d) :
 

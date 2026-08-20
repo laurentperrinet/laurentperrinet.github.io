@@ -1,4 +1,8 @@
---- 
+---
+title: Why methods and tools are the key to artificial brain-like systems
+date: 2013-03-21
+authors:
+- Laurent U Perrinet
 abstract: 'This session aims at presenting new ideas that emerged during the first
   years of BrainScaleS. Indeed, the collaborations that were initiated within the
   consortium led to the creation of novel tools as planned in the proposal but also
@@ -7,24 +11,20 @@ abstract: 'This session aims at presenting new ideas that emerged during the fir
   on: 1) tool chains from experimental (Davison), computational (Antolik) or integrative
   (Petrovici) perspectives, 2) original methods inspired by novel types of analysis
   for propagating waves (Schmidt, Muller) or by novel magnetrodes (Pannetier Lecoeur).'
-authors:
-- Laurent U Perrinet
-date: 2013-03-21
-event: 3rd BrainScaleS Plenary Meeting - Friday, March 21st, 2013
 featured: false
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/talk/2013-03-21-marseille/
-publication: '*3rd BrainScaleS Plenary Meeting - Friday, March 21st, 2013*'
-title: Why methods and tools are the key to artificial brain-like systems
-tags:
-- motion-perception
-- neuromorphic-computing
 categories:
 - Behavioural Neuroscience
 - Computational Neuroscience
 - NeuroAI & Machine Learning
+tags:
+- motion-perception
+- neuromorphic-computing
 projects:
 - tout-public
+publication: '*3rd BrainScaleS Plenary Meeting - Friday, March 21st, 2013*'
+event: 3rd BrainScaleS Plenary Meeting - Friday, March 21st, 2013
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2013-03-21-marseille/
 ---
 * see also: {{< cite page="/publication/davison-08" view="1" >}}

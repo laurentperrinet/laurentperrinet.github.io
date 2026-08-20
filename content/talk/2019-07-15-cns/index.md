@@ -1,4 +1,10 @@
---- 
+---
+title: 'Learning where to look: a foveated visuomotor control model'
+date: 2019-07-15 12:20:00
+authors:
+- Emmanuel Daucé
+- Pierre Albigès
+- Laurent U Perrinet
 abstract: In computer vision, the visual search task consists in extracting a scarce
   and specific visual information (the target) from a large and crowded visual display.
   This task is usually implemented by scanning the different possible target identities
@@ -20,33 +26,7 @@ abstract: In computer vision, the visual search task consists in extracting a sc
   is preserved up to the action selection level, highlighting the advantages of bio-mimetic
   strategies with regards to traditional computer vision when computing resources
   are at stake.
-authors:
-- Emmanuel Daucé
-- Pierre Albigès
-- Laurent U Perrinet
-date: 2019-07-15 12:20:00
-event: 'Annual Computational Neuroscience Meeting: CNS*2019 Barcelona, Spain'
 featured: false
-links:
-- name: Slides
-  url: https://SpikeAI.github.io/2019-07-15_CNS
-- name: Pdf
-  url: https://github.com/SpikeAI/2019-07-15_CNS/raw/master/2019-07-15_CNS.pdf
-- name: Code
-  url: https://github.com/SpikeAI/2019-07-15_CNS/
-- name: URL
-  url: https://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-019-0538-0#Sec73
-publication: '*CNS*2019 Barcelona, Spain*'
-publication_types:
-- inproceedings
-title: 'Learning where to look: a foveated visuomotor control model'
-tags:
-- bayesian-modelling
-- eye-movements
-- foveated-vision
-- log-polar-mapping
-- primary-visual-cortex
-- retinotopy
 categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
@@ -56,6 +36,26 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
+tags:
+- bayesian-modelling
+- eye-movements
+- foveated-vision
+- log-polar-mapping
+- primary-visual-cortex
+- retinotopy
+publication: '*CNS*2019 Barcelona, Spain*'
+publication_types:
+- inproceedings
+event: 'Annual Computational Neuroscience Meeting: CNS*2019 Barcelona, Spain'
+links:
+- name: Slides
+  url: https://SpikeAI.github.io/2019-07-15_CNS
+- name: Pdf
+  url: https://github.com/SpikeAI/2019-07-15_CNS/raw/master/2019-07-15_CNS.pdf
+- name: Code
+  url: https://github.com/SpikeAI/2019-07-15_CNS/
+- name: URL
+  url: https://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-019-0538-0#Sec73
 ---
  - download a [preliminary PDF](https://laurentperrinet.github.io/talk/2019-07-15-cns/2019-07-15-cns.pdf)
  ![](@laurentperrinet_1150713758643380226_tweetcapture.png)

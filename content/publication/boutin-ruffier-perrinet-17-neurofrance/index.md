@@ -1,4 +1,10 @@
---- 
+---
+title: Efficient learning of sparse image representations using homeostatic regulation
+date: 2017-01-01
+authors:
+- Victor Boutin
+- Franck Ruffier
+- Laurent U Perrinet
 abstract: One core advantage of sparse representations is the efficient coding of
   complex signals using compact codes. For instance, it allows for the representation
   of any image as a combination of few elements drawn from a large dictionary of basis
@@ -23,33 +29,26 @@ abstract: One core advantage of sparse representations is the efficient coding o
   robot. As a consequence, this biologically-inspired learning rule demonstrates that
   principles observed in neural computations can help improve real-life machine learning
   algorithms.
-authors:
-- Victor Boutin
-- Franck Ruffier
-- Laurent U Perrinet
-code: https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars
-date: 2017-01-01
 featured: false
-publication: '*NeuroFrance 2017, International Conference from the Société des Neurosciences,
-  Bordeaux, France*'
-publication_types:
-- inproceedings
-title: Efficient learning of sparse image representations using homeostatic regulation
+categories:
+- Computational Neuroscience
+- Education
+- Theoretical Neuroscience
 tags:
 - homeostasis
 - metaplasticity
 - sparse-coding
 - spiking-neural-networks
-categories:
-- Computational Neuroscience
-- Education
-- Theoretical Neuroscience
 projects:
 - doc-2-amu
+publication: '*NeuroFrance 2017, International Conference from the Société des Neurosciences,
+  Bordeaux, France*'
+publication_types:
+- inproceedings
+code: https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars
 grants:
 - doc-2-amu
 ---
-
 * This work is a followup of {{< cite page="/publication/perrinet-10-shl" view="4" >}}
 * the [poster (PDF)](https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars/raw/master/docs/BoutinRuffierPerrinet17neurofrance.pdf) will be presented Thursday, May 18 @ [NeuroFrance, Bordeaux](https://www.professionalabstracts.com/sn2017/programme-sn2017.pdf).
 * see a follow-up publication on {{< cite page="/publication/perrinet-19-hulk" view="4" >}}

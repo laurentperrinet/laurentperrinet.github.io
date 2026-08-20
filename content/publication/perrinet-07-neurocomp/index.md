@@ -1,4 +1,10 @@
---- 
+---
+title: Modeling spatial integration in the ocular following response using a probabilistic
+  framework
+date: 2007-01-01
+authors:
+- Laurent U Perrinet
+- Guillaume S Masson
 abstract: 'The machinery behind the visual perception of motion and the subsequent
   sensori-motor transformation, such as in Ocular Following Response (OFR), is confronted
   to uncertainties which are efficiently resolved in the primate''s visual system.
@@ -18,26 +24,7 @@ abstract: 'The machinery behind the visual perception of motion and the subseque
   accounted for the contrast gain control mechanisms observed in the behavioral data
   for center-surround stimuli. However, another inhibitory mechanism had to be added
   to account for suppressive effects of the surround.'
-authors:
-- Laurent U Perrinet
-- Guillaume S Masson
-date: 2007-01-01
-doi: 10.1016/j.jphysparis.2007.10.011
 featured: false
-grants:
-- facets-itn
-links:
-- name: URL
-  url: https://doi.org/10.1016/j.jphysparis.2007.10.011
-publication: '*Journal of Physiology-Paris*'
-publication_types:
-- article-journal
-title: Modeling spatial integration in the ocular following response using a probabilistic
-  framework
-tags:
-- bayesian-modelling
-- motion-perception
-- visual-illusions
 categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
@@ -45,6 +32,18 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- bayesian-modelling
+- motion-perception
+- visual-illusions
+publication: '*Journal of Physiology-Paris*'
+publication_types:
+- article-journal
+doi: 10.1016/j.jphysparis.2007.10.011
+links:
+- name: URL
+  url: https://doi.org/10.1016/j.jphysparis.2007.10.011
+grants:
+- facets-itn
 ---
-
 ![header](perrinet-07-neurocomp.png)

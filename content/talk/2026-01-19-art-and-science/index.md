@@ -1,11 +1,10 @@
---- 
+---
 title: Lab Tour for Art - Perception Collaboration
+date: '2026-01-01'
+publishDate: '2026-01-19T08:15:26.200728Z'
 authors:
 - Laurent U Perrinet
 - Étienne Rey
-date: '2026-01-01'
-publishDate: '2026-01-19T08:15:26.200728Z'
-publication: '*Lab Tour for Art - Perception Course, January 19th, 2026*'
 abstract: 'By construction, deep convolutional networks treat all pixels equally.
   Result: they are energy-hungry, fragile to rotations or zooms, and poor at object
   localization. This contrasts sharply with biological vision, which demonstrates
@@ -20,24 +19,25 @@ abstract: 'By construction, deep convolutional networks treat all pixels equally
   position points to ground truth bounding boxes with 85% accuracy, compared to 71%
   for classical CNNs. This suggests that this specific Nature''s million-year solution
   may offer deep learning visual networks a fundamentally new architectural look.'
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/talk/2026-01-19-art-and-science
-image:
-  caption: La vibration des apparences (2025)
-  focal_point: Smart
-  preview_only: false
+categories:
+- Computational Neuroscience
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
 tags:
 - eye-movements
 - foveated-vision
 - log-polar-mapping
 - retinotopy
 - visual-illusions
-categories:
-- Computational Neuroscience
-- Computer Vision
-- Education
-- NeuroAI & Machine Learning
+publication: '*Lab Tour for Art - Perception Course, January 19th, 2026*'
+image:
+  caption: La vibration des apparences (2025)
+  focal_point: Smart
+  preview_only: false
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2026-01-19-art-and-science
 ---
 👁️ Very glad to present our Art/Perception collaboration with Étienne Rey today!
 

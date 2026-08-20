@@ -1,4 +1,5 @@
---- 
+---
+title: Amélie Gruel
 authors:
 - amélie-gruel
 bio: During my PhD in Computer Sciences at i3S/CNRS, I was focusing on Ultra-fast
@@ -8,7 +9,6 @@ education:
   - course: PhD student in Computer Sciences at i3S/CNRS
     institution: Université Cote d'Azur
     year: 2023
-title: Amélie Gruel
 role: Post-doctoral researcher in neuromorphic computer science in Bordeaux, France
 social:
 - icon: linkedin
@@ -23,7 +23,6 @@ user_groups:
 grants:
 - aprovis-3-d
 ---
-
 #  "Design of bio-inspired spiking neural networks (spiking neurons) for event-based stereovision" (PhD position, 2020-09 / 2023-09)
 
 

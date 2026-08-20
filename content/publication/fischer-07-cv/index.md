@@ -1,4 +1,12 @@
---- 
+---
+title: Self-Invertible 2D Log-Gabor Wavelets
+date: 2007-01-13
+authors:
+- Sylvain Fischer
+- Filip Šroubek
+- Laurent U Perrinet
+- Rafael Redondo
+- Gabriel Cristóbal
 abstract: 'Meanwhile biorthogonal wavelets got a very popular image processing tool,
   alternative multiresolution transforms have been proposed for solving some of their
   drawbacks, namely the poor selectivity in orientation and the lack of translation
@@ -20,39 +28,30 @@ abstract: 'Meanwhile biorthogonal wavelets got a very popular image processing t
   thresholding and to code the image features through a reduced set of coefficients
   with large magnitude. Such characteristics make the transform a promising tool for
   general image processing tasks.'
-authors:
-- Sylvain Fischer
-- Filip Šroubek
-- Laurent U Perrinet
-- Rafael Redondo
-- Gabriel Cristóbal
-date: 2007-01-13
-doi: 10.1007/s11263-006-0026-8
 featured: false
-grants:
-- facets
-links:
-- name: Code
-  url: https://github.com/bicv/LogGabor
-- name: URL
-  url: https://doi.org/10.1007/s11263-006-0026-8
-publication: '*International Journal of Computer Vision*'
-publication_types:
-- article-journal
-title: Self-Invertible 2D Log-Gabor Wavelets
-tags:
-- log-gabor
-- primary-visual-cortex
-- sparse-coding
-- visual-illusions
 categories:
 - Computer Vision
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
+tags:
+- log-gabor
+- primary-visual-cortex
+- sparse-coding
+- visual-illusions
+publication: '*International Journal of Computer Vision*'
+publication_types:
+- article-journal
+doi: 10.1007/s11263-006-0026-8
+links:
+- name: Code
+  url: https://github.com/bicv/LogGabor
+- name: URL
+  url: https://doi.org/10.1007/s11263-006-0026-8
+grants:
+- facets
 ---
-
 This library defines the set of [LogGabor](https://pythonhosted.org/LogGabor/) kernels. These are generic edge-like filters at different scales, phases and orientations. The library develops a simple method to construct a simple multi-scale linear transform.
 * [Web-site](https://pythonhosted.org/LogGabor)
 * [Source code](https://github.com/bicv/LogGabor/)

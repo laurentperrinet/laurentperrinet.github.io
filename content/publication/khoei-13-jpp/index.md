@@ -1,4 +1,10 @@
---- 
+---
+title: Motion-based prediction explains the role of tracking in motion extrapolation
+date: 2013-11-01
+authors:
+- Mina A Khoei
+- Guillaume S Masson
+- Laurent U Perrinet
 abstract: During normal viewing, the continuous stream of visual input is regularly
   interrupted, for instance by blinks of the eye. Despite these frequents blanks (that
   is the transient absence of a raw sensory source), the visual system is most often
@@ -27,33 +33,26 @@ abstract: During normal viewing, the continuous stream of visual input is regula
   of relatively high levels of noise. Moreover, we found that tracking is necessary
   for motion extrapolation, this calls for further experimental work exploring the
   role of noise in motion extrapolation.
-authors:
-- Mina A Khoei
-- Guillaume S Masson
-- Laurent U Perrinet
-date: 2013-11-01
-doi: 10.1016/j.jphysparis.2013.08.001
 featured: false
-grants:
-- facets-itn
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/khoei-13-jpp/
-publication: '*Journal of Physiology-Paris*'
-publication_types:
-- article-journal
-title: Motion-based prediction explains the role of tracking in motion extrapolation
-tags:
-- bayesian-modeling
-- bayesian-modelling
-- motion-detection
 categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
 - Education
 - NeuroAI & Machine Learning
+tags:
+- bayesian-modeling
+- bayesian-modelling
+- motion-detection
+publication: '*Journal of Physiology-Paris*'
+publication_types:
+- article-journal
+doi: 10.1016/j.jphysparis.2013.08.001
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/khoei-13-jpp/
+grants:
+- facets-itn
 ---
-
 * Based on {{< cite page="/publication/perrinet-12-pred" view="4" >}}
 * see  follow-up on the flash-lag effect: {{< cite page="/publication/khoei-masson-perrinet-17" view="4" >}}
 * Based on [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

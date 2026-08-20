@@ -1,25 +1,25 @@
---- 
+---
 title: 'Ciné-Sciences : Ouvrez grand les yeux'
-authors:
-- Laurent U Perrinet
 date: '2025-06-10'
 publishDate: '2025-06-03T07:46:11.956208Z'
-publication: '*Festival EXPLORE organisé par Aix Marseille Université et la DR12 du
-  CNRS.*'
+authors:
+- Laurent U Perrinet
 abstract: 'Ouvrez grand les yeux… mais méfiez-vous de ce qu’ils vous montrent. Cette
   séance cinéma vous emmène dans un voyage fascinant au cœur du phénomène de la vision
   — vous découvrirez de nouveaux aspects liés au fonctionnement de notre cerveau,
   grand interprète de la réalité. Illusions d’optique, déformations, interprétations
   : ce que nous voyons n’est pas toujours ce qui est. - Projection et rencontre.'
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/talk/2025-06-10_explore-cine-sciences
-tags:
-- visual-illusions
 categories:
 - Behavioural Neuroscience
 - Education
 - NeuroAI & Machine Learning
+tags:
+- visual-illusions
+publication: '*Festival EXPLORE organisé par Aix Marseille Université et la DR12 du
+  CNRS.*'
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2025-06-10_explore-cine-sciences
 ---
 Dans le cadre de la deuxième édition du Festival EXPLORE, l'association Polly Maggoo vous propose de découvrir trois projections gratuites de courts métrages autour de thématiques de recherche de scientifiques, en leur présence.
 

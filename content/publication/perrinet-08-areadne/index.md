@@ -1,4 +1,10 @@
---- 
+---
+title: Decoding the population dynamics underlying ocular following response using
+  a probabilistic framework
+date: 2008-01-01
+authors:
+- Laurent U Perrinet
+- Guillaume S Masson
 abstract: 'The machinery behind the visual perception of motion and the subsequent
   sensorimotor transformation, such as in Ocular Following Response (OFR), is confronted
   to uncertainties which are efficiently resolved in the primate''s visual system.
@@ -32,22 +38,7 @@ abstract: 'The machinery behind the visual perception of motion and the subseque
   Y. Weiss, E. P. Simoncelli, and E. H. Adelson. Motion illusions as optimal percepts.
   Nature Neuroscience, 5(6):598--604, Jun 2002. doi: 10.1038/nn858. This work was
   supported by EC IP project FP6-015879, ''''FACETS''''.'
-authors:
-- Laurent U Perrinet
-- Guillaume S Masson
-date: 2008-01-01
 featured: false
-grants:
-- facets-itn
-publication: '*Proceedings of AREADNE, 2008*'
-publication_types:
-- inproceedings
-title: Decoding the population dynamics underlying ocular following response using
-  a probabilistic framework
-tags:
-- bayesian-modelling
-- motion-perception
-- visual-illusions
 categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
@@ -55,5 +46,13 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- bayesian-modelling
+- motion-perception
+- visual-illusions
+publication: '*Proceedings of AREADNE, 2008*'
+publication_types:
+- inproceedings
+grants:
+- facets-itn
 ---
-

@@ -1,24 +1,23 @@
---- 
+---
+title: Instabilité (series) @ Art-O-Rama
+date: 2016-04-20 00:00:00
+lastmod: 2018-01-13 00:00:00
 authors:
 - etienne-rey
 - laurent-u-perrinet
-date: 2016-04-20 00:00:00
-draft: false
-lastmod: 2018-01-13 00:00:00
 subtitle: Installation (sérigraphie, dessin mural, lumière), 2018;  Guest artist,
   Mécènes du Sud / Art-O-Rama (Fair), Marseille I 2018.
-summary: Installation (sérigraphie, dessin mural, lumière), 2018;  Guest artist, Mécènes
-  du Sud / Art-O-Rama (Fair), Marseille I 2018.
-title: Instabilité (series) @ Art-O-Rama
-tags:
-- art-science
+draft: false
 categories:
 - Education
 - NeuroAI & Machine Learning
+tags:
+- art-science
 projects:
 - art-science
+summary: Installation (sérigraphie, dessin mural, lumière), 2018;  Guest artist, Mécènes
+  du Sud / Art-O-Rama (Fair), Marseille I 2018.
 ---
-
 # Instabilité (series)
 
 ## Installation (sérigraphie, dessin mural, lumière), 2018;  Guest artist, Mécènes du Sud / Art-O-Rama (Fair), Marseille I 2018

@@ -1,4 +1,8 @@
---- 
+---
+title: Understanding natural vision using deep predictive coding
+date: 2020-09-25 15:45:00
+authors:
+- Laurent U Perrinet
 abstract: Building models which efficiently process images is a great source of inspiration
   to better understand the processes which underly our visual perception. I will present
   some classical models stemming from the Machine Learning community and propose some
@@ -23,11 +27,24 @@ abstract: Building models which efficiently process images is a great source of 
   These results from the SDPC model additionally demonstrate that neuro-inspiration
   might be the right methodology to design more powerful and more robust computer
   vision algorithms.
-authors:
-- Laurent U Perrinet
-date: 2020-09-25 15:45:00
-event: Séminaire à l'Institut de Recherche sur les Phénomènes Hors Équilibre
 featured: false
+categories:
+- Biological Neuroscience
+- Computational Neuroscience
+- Computer Vision
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+tags:
+- predictive-coding
+- sparse-coding
+projects:
+- tout-public
+publication: '*Séminaire à l''Institut de Recherche sur les Phénomènes Hors Équilibre
+  (IRPHÉ)*'
+publication_types:
+- inproceedings
+event: Séminaire à l'Institut de Recherche sur les Phénomènes Hors Équilibre
+location: Marseille (France)
 links:
 - name: Slides
   url: https://laurentperrinet.github.io/2020-09-25_IRPHE
@@ -35,23 +52,6 @@ links:
   url: https://github.com/laurentperrinet/2020-09-25_IRPHE/
 - name: URL
   url: https://laurentperrinet.github.io/talk/2020-09-25-irphe
-location: Marseille (France)
-publication: '*Séminaire à l''Institut de Recherche sur les Phénomènes Hors Équilibre
-  (IRPHÉ)*'
-publication_types:
-- inproceedings
-title: Understanding natural vision using deep predictive coding
-tags:
-- predictive-coding
-- sparse-coding
-categories:
-- Biological Neuroscience
-- Computational Neuroscience
-- Computer Vision
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
-projects:
-- tout-public
 ---
 * What:: talk @ [Séminaire à l'Institut de Recherche sur les Phénomènes Hors Équilibre (IRPHÉ)](https://laurentperrinet.github.io/talk/2020-09-25-irphe)
 * Who:: Perrinet, Laurent U

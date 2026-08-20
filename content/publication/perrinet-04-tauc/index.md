@@ -1,4 +1,8 @@
---- 
+---
+title: 'Feature detection using spikes : the greedy approach'
+date: 2004-07-01
+authors:
+- Laurent U Perrinet
 abstract: A goal of low-level neural processes is to build an efficient code extracting
   the relevant information from the sensory input. It is believed that this is implemented
   in cortical areas by elementary inferential computations dynamically extracting
@@ -17,29 +21,24 @@ abstract: A goal of low-level neural processes is to build an efficient code ext
   into a spatio-temporal pattern of binary events provides an accurate description
   of some complex neural patterns observed in the spiking activity of biological neural
   networks.
-authors:
-- Laurent U Perrinet
-date: 2004-07-01
-doi: 10.1016/j.jphysparis.2005.09.012
 featured: false
-grants:
-- facets
-links:
-- name: URL
-  url: https://doi.org/10.1016/j.jphysparis.2005.09.012
-- name: arXiv
-  url: https://arxiv.org/abs/q-bio/0611003
-publication: '*Journal of Physiology-Paris*'
-publication_types:
-- article-journal
-title: 'Feature detection using spikes : the greedy approach'
+categories:
+- Biological Neuroscience
+- Computational Neuroscience
 tags:
 - bayesian-modelling
 - primary-visual-cortex
 - sparse-coding
 - spiking-neural-networks
-categories:
-- Biological Neuroscience
-- Computational Neuroscience
+publication: '*Journal of Physiology-Paris*'
+publication_types:
+- article-journal
+doi: 10.1016/j.jphysparis.2005.09.012
+links:
+- name: URL
+  url: https://doi.org/10.1016/j.jphysparis.2005.09.012
+- name: arXiv
+  url: https://arxiv.org/abs/q-bio/0611003
+grants:
+- facets
 ---
-

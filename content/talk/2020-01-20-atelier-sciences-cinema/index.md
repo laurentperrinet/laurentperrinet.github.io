@@ -1,4 +1,8 @@
---- 
+---
+title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
+date: 2020-01-20 10:00:00
+authors:
+- Laurent U Perrinet
 abstract: Les illusions visuelles sont des créations d'artistes, de scientifiques
   et plus récemment, grâce aux réseaux sociaux, du grand public qui proposent des
   situations souvent incongrues, dans lesquelles l'eau remonte une cascade, les personnes
@@ -13,13 +17,20 @@ abstract: Les illusions visuelles sont des créations d'artistes, de scientifiqu
   perception visuelle sur les bases d'une théorie de la vision non pas comme une simple
   caméra qui enregistre des images mais comme un processus actif en relation avec
   le monde qui nous entoure.
-authors:
-- Laurent U Perrinet
-code: https://github.com/laurentperrinet/2020-01-20_atelier_sciences_cinema/
-date: 2020-01-20 10:00:00
+featured: false
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
+tags:
+- visual-illusions
+projects:
+- tout-public
+publication: '*Cinéma et sciences  = rencontre avec les élèves du lycée des métiers*'
+publication_types:
+- inproceedings
 event: 'Cinéma et sciences : rencontre avec les élèves du lycée des métiers'
 event_url: http://www.pollymaggoo.org/
-featured: false
+location: Lycée Professionnel Domaine Eguille, Vedène (France)
 links:
 - name: Conference
   url: http://www.pollymaggoo.org/
@@ -29,19 +40,8 @@ links:
   url: https://github.com/laurentperrinet/2020-01-20_atelier_sciences_cinema/
 - name: URL
   url: https://laurentperrinet.github.io/talk/2020-01-20-atelier-sciences-cinema
-location: Lycée Professionnel Domaine Eguille, Vedène (France)
-publication: '*Cinéma et sciences  = rencontre avec les élèves du lycée des métiers*'
-publication_types:
-- inproceedings
 slides: https://laurentperrinet.github.io/2020-01-20_atelier_sciences_cinema
-title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
-tags:
-- visual-illusions
-categories:
-- Behavioural Neuroscience
-- NeuroAI & Machine Learning
-projects:
-- tout-public
+code: https://github.com/laurentperrinet/2020-01-20_atelier_sciences_cinema/
 ---
 ![](@laurentperrinet_1284791644240347138_tweetcapture.png)
 {{< vimeo 398661322 >}}

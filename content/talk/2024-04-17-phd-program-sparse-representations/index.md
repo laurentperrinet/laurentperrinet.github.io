@@ -1,4 +1,9 @@
 ---
+title: Sparse representations
+date: 2024-04-17 14:00:00
+publishDate: '2024-04-15T07:47:11.286659Z'
+authors:
+- Laurent U Perrinet
 abstract: Sparse coding is a technique used in signal processing and machine learning
   to represent data in a more concise and efficient manner. It aims to find a sparse
   representation of the data, which means representing the data with only a small
@@ -13,12 +18,23 @@ abstract: Sparse coding is a technique used in signal processing and machine lea
   the essential structure and characteristics of the data in a sparse representation,
   sparse coding can help reduce redundancy and noise, and extract meaningful features
   for further analysis or processing.
-authors:
-- Laurent U Perrinet
-date: 2024-04-17 14:00:00
-draft: false
-event: NeuroSchool PhD Program in Neuroscience
 featured: false
+draft: false
+categories:
+- Computational Neuroscience
+- Computer Vision
+- NeuroAI & Machine Learning
+tags:
+- deep-learning
+- sparse-coding
+projects:
+- courses
+- tout-public
+publication: '*NeuroSchool PhD Program in Neuroscience*'
+publication_types:
+- inproceedings
+event: NeuroSchool PhD Program in Neuroscience
+location: Marseille (France)
 image:
   caption: ''
   focal_point: Smart
@@ -28,24 +44,7 @@ links:
   url: https://github.com/laurentperrinet/2024-04_sparse-representations
 - name: URL
   url: https://laurentperrinet.github.io/talk/2024-04-17-phd-program-sparse-representations
-location: Marseille (France)
-publication: '*NeuroSchool PhD Program in Neuroscience*'
-publication_types:
-- inproceedings
-publishDate: '2024-04-15T07:47:11.286659Z'
 slides: 2024-04-17-phd-program-sparse-representations
-subtitle: ''
-title: Sparse representations
-tags:
-- deep-learning
-- sparse-coding
-categories:
-- Computational Neuroscience
-- Computer Vision
-- NeuroAI & Machine Learning
-projects:
-- courses
-- tout-public
 ---
 Timeline of the whole course:
 

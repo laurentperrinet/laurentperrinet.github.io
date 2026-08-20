@@ -1,7 +1,7 @@
---- 
+---
+title: Jonathan Vacher
 authors:
 - jonathan-vacher
-title: Jonathan Vacher
 role: Maître de Conférence (Associate Professor) @ MAP5, Université Paris-Cité.
 superuser: false
 user_groups:
@@ -17,7 +17,6 @@ social:
   icon_pack: ai
   link: https://stackoverflow.com/users/8684783/Jonathan%20Vacher
 ---
-
 Main collaborative work:
 
 * {{< cite page="/publication/vacher-15-nips" view="4" >}}

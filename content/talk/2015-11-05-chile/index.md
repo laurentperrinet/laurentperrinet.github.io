@@ -1,4 +1,8 @@
---- 
+---
+title: Motion-based prediction with neuromorphic hardware
+date: 2015-11-05 13:00:00
+authors:
+- Laurent U Perrinet
 abstract: 'We stand at a point in history where our phones have become smart but lack
   a feature which prevails in most forms of living intelligence: vision. The ability
   to see is indeed an essential facet of intelligence which is developed in an autonomous
@@ -8,31 +12,27 @@ abstract: 'We stand at a point in history where our phones have become smart but
   will demonstrate at different levels of description, from probabilistic models to
   neuromorphic hardware,  a surprising solution: The visual system models the world
   and uses the eye to probe this model'
-authors:
-- Laurent U Perrinet
-date: 2015-11-05 13:00:00
-event: Charla
-event_url: http://www.eventos.usm.cl/evento/charla-motion-based-prediction-with-neuromorphic-hardware/
 featured: false
-grants:
-- anr-bala-v1
-links:
-- name: Conference
-  url: http://www.eventos.usm.cl/evento/charla-motion-based-prediction-with-neuromorphic-hardware/
-- name: URL
-  url: https://laurentperrinet.github.io/talk/2015-11-05-chile/
-location: Universidad Tecnica Federico Santa Maria, Valparaiso (Chile)
-publication: '*Universidad Técnica Federico Santa María, Valparaíso, Chile, November
-  5th, 2015*'
-title: Motion-based prediction with neuromorphic hardware
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
 tags:
 - bayesian-modelling
 - motion-perception
 - neuromorphic-computing
 - primary-visual-cortex
-categories:
-- Behavioural Neuroscience
-- NeuroAI & Machine Learning
 projects:
 - tout-public
+publication: '*Universidad Técnica Federico Santa María, Valparaíso, Chile, November
+  5th, 2015*'
+event: Charla
+event_url: http://www.eventos.usm.cl/evento/charla-motion-based-prediction-with-neuromorphic-hardware/
+location: Universidad Tecnica Federico Santa Maria, Valparaiso (Chile)
+links:
+- name: Conference
+  url: http://www.eventos.usm.cl/evento/charla-motion-based-prediction-with-neuromorphic-hardware/
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2015-11-05-chile/
+grants:
+- anr-bala-v1
 ---

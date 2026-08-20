@@ -1,4 +1,11 @@
---- 
+---
+title: Humans adapt their anticipatory eye movements to the volatility of visual motion
+  properties
+date: 2020-01-26
+authors:
+- Chloé Pasturel
+- Anna Montagnini
+- Laurent U Perrinet
 abstract: Humans are able to accurately track a moving object with a combination of
   saccades and smooth eye movements. These movements allow us to align and stabilize
   the object on the fovea, thus enabling high*resolution visual analysis. When predictive
@@ -27,15 +34,23 @@ abstract: Humans are able to accurately track a moving object with a combination
   responses (latency, gain, initial acceleration, catch*up saccades), we developed
   new tools based on best*fitting procedure of predefined patterns (i.e. the typical
   smooth pursuit velocity profile).
-authors:
-- Chloé Pasturel
-- Anna Montagnini
-- Laurent U Perrinet
-date: 2020-01-26
-doi: 10.1371/journal.pcbi.1007438
 featured: true
-grants:
+categories:
+- Behavioural Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+tags:
+- bayesian-modelling
+- eye-movements
+- motion-perception
+projects:
 - pace-itn
+publication: '*PLoS Computational Biology*'
+publication_types:
+- article-journal
+doi: 10.1371/journal.pcbi.1007438
 links:
 - name: Press
   url: https://www.insb.cnrs.fr/fr/cnrsinfo/la-reponse-du-cerveau-aux-changements-de-lenvironnement-sensoriel
@@ -47,25 +62,9 @@ links:
   url: https://hal.science/hal-02394142
 - name: bioRxiv
   url: https://www.biorxiv.org/content/10.1101/784116
-publication: '*PLoS Computational Biology*'
-publication_types:
-- article-journal
-title: Humans adapt their anticipatory eye movements to the volatility of visual motion
-  properties
-tags:
-- bayesian-modelling
-- eye-movements
-- motion-perception
-categories:
-- Behavioural Neuroscience
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
-projects:
+grants:
 - pace-itn
 ---
-
 # "Humans adapt their anticipatory eye movements to the volatility of visual motion properties"
 {{< video src="https://raw.githubusercontent.com/chloepasturel/AnticipatorySPEM/master/2020-03_video-abstract/PasturelMontagniniPerrinet2020_video-abstract.mp4" controls="yes" >}}
 ![](@laurentperrinet_1253715266124611586_tweetcapture.png)

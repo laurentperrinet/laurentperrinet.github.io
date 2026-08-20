@@ -1,16 +1,13 @@
---- 
+---
 title: Classification of Mental Workload Spatial Effects using Riemannian Manifold
+date: '2025-01-01'
+publishDate: '2025-06-03T07:46:10.998558Z'
 authors:
 - A Choplin
 - T Rakotomamonjy
 - Laurent U Perrinet
 - N Lantos
 - S Angelliaume
-date: '2025-01-01'
-publishDate: '2025-06-03T07:46:10.998558Z'
-publication_types:
-- paper-conference
-publication: '*Computational Cognitive Neuroscience Society Meeting (CCN) 2025*'
 abstract: This study investigates the use of Riemannian geometry to classify mental
   workload from an EEG dataset collected in an aeronautical context. The analysis,
   based on EEG data recorded from 16 participants performing a Simon task, aimed to
@@ -18,6 +15,19 @@ abstract: This study investigates the use of Riemannian geometry to classify men
   Minimum Distance to Mean (MDM) classifier, the results demonstrate spatial effects
   of mental workload irrespective of the investigated spectral domain. This demonstrates
   that spatial information is distributed evenly across all explored frequency bands.
+categories:
+- Behavioural Neuroscience
+- Education
+- NeuroAI & Machine Learning
+tags:
+- classification
+- covariance-matrices
+- electroencephalogram
+- mental-workload
+- riemannian-geometry
+publication: '*Computational Cognitive Neuroscience Society Meeting (CCN) 2025*'
+publication_types:
+- paper-conference
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/choplin-25-ccn
@@ -25,20 +35,9 @@ links:
   url: https://hal.science/hal-05288951
 - name: Abstract
   url: https://2025.ccneuro.org/abstract_pdf/CHOPLIN_2025_Classification_Mental_Workload_Spatial_Effects_using.pdf
-tags:
-- classification
-- covariance-matrices
-- electroencephalogram
-- mental-workload
-- riemannian-geometry
-categories:
-- Behavioural Neuroscience
-- Education
-- NeuroAI & Machine Learning
 grants:
 - anr-anr
 ---
-
 This year at #CCN2025 we will be showcasing our  research on the classification of Mental Workload 🥵 Spatial Effects using Riemannian Manifold. 
 📅 When: Wednesday, August 13, 1:00 – 4:00 pm
 📍 Where: CCN 2025 Conference Venue, de Brug & E-Hall

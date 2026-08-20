@@ -1,4 +1,12 @@
---- 
+---
+title: Bayesian modeling of dynamic motion integration
+date: 2007-01-01
+authors:
+- Anna Montagnini
+- Pascal Mamassian
+- Laurent U Perrinet
+- Eric Castet
+- Guillaume S Masson
 abstract: The quality of the representation of an object's motion is limited by the
   noise in the sensory input as well as by an intrinsic ambiguity due to the spatial
   limitation of the visual motion analyzers (aperture problem). Perceptual and oculomotor
@@ -14,34 +22,25 @@ abstract: The quality of the representation of an object's motion is limited by 
   phase. In addition, we propose a recursive extension of the Bayesian model, motivated
   and constrained by our oculomotor data, to describe the dynamical integration of
   1D and 2D motion information.
-authors:
-- Anna Montagnini
-- Pascal Mamassian
-- Laurent U Perrinet
-- Eric Castet
-- Guillaume S Masson
-date: 2007-01-01
-doi: 10.1016/j.jphysparis.2007.10.013
 featured: false
-grants:
-- facets-itn
-links:
-- name: URL
-  url: https://doi.org/10.1016/j.jphysparis.2007.10.013
-publication: '*Neuro-Computation: From Sensorimotor Integration to Computational Frameworks*'
-publication_types:
-- article-journal
-title: Bayesian modeling of dynamic motion integration
-tags:
-- eye-movements
-- motion-perception
-- visual-illusions
 categories:
 - Behavioural Neuroscience
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- eye-movements
+- motion-perception
+- visual-illusions
+publication: '*Neuro-Computation: From Sensorimotor Integration to Computational Frameworks*'
+publication_types:
+- article-journal
+doi: 10.1016/j.jphysparis.2007.10.013
+links:
+- name: URL
+  url: https://doi.org/10.1016/j.jphysparis.2007.10.013
+grants:
+- facets-itn
 ---
-
 ![header](montagnini-07.png)

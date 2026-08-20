@@ -1,7 +1,7 @@
---- 
+---
+title: Frédéric Chavane
 authors:
 - frédéric-y-chavane
-title: Frédéric Chavane
 superuser: false
 user_groups:
 - Collaborators

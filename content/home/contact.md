@@ -1,9 +1,9 @@
---- 
+---
+title: Contact
+subtitle: How to reach me
 widget: contact
 headless: true
 weight: 90
-title: Contact
-subtitle: How to reach me
 content:
   autolink: true
   form:

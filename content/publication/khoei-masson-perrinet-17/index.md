@@ -1,4 +1,10 @@
---- 
+---
+title: The flash-lag effect as a motion-based predictive shift
+date: 2017-01-26
+authors:
+- Mina A Khoei
+- Guillaume S Masson
+- Laurent U Perrinet
 abstract: Due to its inherent neural delays, the visual system has an outdated access
   to sensory information about the current position of moving objects. In contrast,
   living organisms are remarkably able to track and intercept moving objects under
@@ -25,15 +31,27 @@ abstract: Due to its inherent neural delays, the visual system has an outdated a
   that can be used to cancel out the detrimental effects of neural delays and illuminate
   the more general question of the dynamical representation of spatial information
   at the present time in the visual pathways.
-authors:
-- Mina A Khoei
-- Guillaume S Masson
-- Laurent U Perrinet
-date: 2017-01-26
-doi: 10.1371/journal.pcbi.1005068
 featured: true
-grants:
-- facets-itn
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+- Visual Neuroscience
+tags:
+- bayesian-modelling
+- foveated-vision
+- log-polar-mapping
+- motion-perception
+- primary-visual-cortex
+- retinotopy
+- visual-illusions
+publication: '*PLoS Computational Biology*'
+publication_types:
+- article-journal
+doi: 10.1371/journal.pcbi.1005068
 links:
 - name: Press
   url: hhttps://www.insb.cnrs.fr/fr/cnrsinfo/illusions-visuelles-leur-origine-est-dans-la-prediction
@@ -43,29 +61,10 @@ links:
   url: https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/
 - name: HAL
   url: https://hal.science/hal-01771125
-publication: '*PLoS Computational Biology*'
-publication_types:
-- article-journal
 slides: 2022-11-21_flash-lag-effect
-title: The flash-lag effect as a motion-based predictive shift
-tags:
-- bayesian-modelling
-- foveated-vision
-- log-polar-mapping
-- motion-perception
-- primary-visual-cortex
-- retinotopy
-- visual-illusions
-categories:
-- Behavioural Neuroscience
-- Biological Neuroscience
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
-- Visual Neuroscience
+grants:
+- facets-itn
 ---
-
 * [Press release](https://www.insb.cnrs.fr/fr/cnrsinfo/illusions-visuelles-leur-origine-est-dans-la-prediction)
 # Visual illusions: their origin lies in prediction
 {{< figure src="flash_lag.gif" title="*Flash-Lag Effect.* When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash. Still, after several decades of debates, there is no consensus regarding the underlying mechanisms." >}}

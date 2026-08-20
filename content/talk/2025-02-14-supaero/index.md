@@ -1,11 +1,10 @@
---- 
+---
 title: Qu'est-ce que les Neurosciences peuvent apporter à l'Intelligence Artificielle
   ?
-authors:
-- Laurent U Perrinet
 date: '2025-02-14'
 publishDate: '2025-02-13T08:44:04.279335Z'
-publication: '*Journée conviviale des anciens Sup''Aero*'
+authors:
+- Laurent U Perrinet
 abstract: L'intelligence artificielle, plus précisément l'apprentissage profond, a
   fait d'énormes progrès ces dernières années. Toutefois, deux obstacles majeurs subsistent
   pour son adoption dans les systèmes embarqués ou la robotique. Tout d'abord, la
@@ -23,15 +22,16 @@ abstract: L'intelligence artificielle, plus précisément l'apprentissage profon
   temps, je présenterai comment l'aspect temporel de ce signal peut être mis à profit
   pour des applications de vision par ordinateur efficaces et peu gourmandes en énergie,
   particulièrement adaptées à la robotique.
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/talk/2025-02-14-supaero
-slides: 2025-02-14-supaero
+categories:
+- Education
+- NeuroAI & Machine Learning
 tags:
 - deep-learning
 - natural-images
 - neuroai
-categories:
-- Education
-- NeuroAI & Machine Learning
+publication: '*Journée conviviale des anciens Sup''Aero*'
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2025-02-14-supaero
+slides: 2025-02-14-supaero
 ---

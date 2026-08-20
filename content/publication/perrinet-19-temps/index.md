@@ -1,38 +1,37 @@
---- 
+---
+title: 'Temps et cerveau : comment notre perception nous fait voyager dans le temps'
+date: 2019-01-01
+authors:
+- Laurent U Perrinet
 abstract: Lorsque nous observons un sablier, lorsque nous fixons notre regard sur
   les grains de sable qui tombent, nous avons le sentiment que le temps s'écoule de
   façon continue. Nous pensons qu'il en est ainsi depuis la naissance du monde, et
   que rien ne peut contredire cette vérité universelle. Pourtant, nos perceptions
   sensorielles et les neurones qui en sont à l'origine ont une toute autre manière
   de scander le temps. Une manière subjective et sensuelle, au sens propre du terme.
-authors:
-- Laurent U Perrinet
-date: 2019-01-01
 featured: false
-grants:
-- anr-horizontal-v1
+categories:
+- Behavioural Neuroscience
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+tags:
+- primary-visual-cortex
+- visual-illusions
+projects:
+- tout-public
+publication: '*The Conversation*'
+publication_types:
+- article-journal
 image:
   caption: 'Un pélican en vol photographié par Etienne-Jules Marey en 1882. https://commons.wikimedia.org/wiki/File:Marey_-_birds.jpg '
   focal_point: Smart
 links:
 - name: URL
   url: https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567
-projects:
-- tout-public
-publication: '*The Conversation*'
-publication_types:
-- article-journal
-title: 'Temps et cerveau : comment notre perception nous fait voyager dans le temps'
-tags:
-- primary-visual-cortex
-- visual-illusions
-categories:
-- Behavioural Neuroscience
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
+grants:
+- anr-horizontal-v1
 ---
-
 * Un article dans [The Conversation](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567) dont l'objectif est d'être accessible et réutilisable (dans des cours d'introduction aux neurosciences, sciences cognitives, vision, réseaux de neurones, intelligence artificielle).
 * Le flash-lag effect original:
 {{< video src="flash_lag.mp4" autoplay="yes" >}}

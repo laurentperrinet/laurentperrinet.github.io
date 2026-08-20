@@ -1,33 +1,33 @@
---- 
+---
+title: Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
+date: 2016-04-25 09:00:00
+authors:
+- Laurent U Perrinet
 abstract: Ce lundi 25 avril de 9h à 12h, je suis venu échanger au côté de Serge Dentin
   autour de films traitant du rapport fiction/réel, des illusion visuelles (\" Qu'est
   ce qu'une image? \"), des rapports d'échelles, de la perception, ... et qui sont
   projetés lors de la séance, avec des élèves de 4e lors d'une séance Cinésciences
   au collège Clair Soleil, 53 Boulevard Charles Moretti, 13014 Marseille. Une occasion
   aussi de parler du métier de chercheur.
-authors:
-- Laurent U Perrinet
-date: 2016-04-25 09:00:00
+featured: false
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
+tags:
+- visual-illusions
+projects:
+- tout-public
+publication: '**'
+publication_types:
+- inproceedings
 event: Cinésciences, collège Clair Soleil (Marseille)
 event_url: http://www.pollymaggoo.org/
-featured: false
+location: Marseille, France
 links:
 - name: Conference
   url: http://www.pollymaggoo.org/
 - name: URL
   url: https://laurentperrinet.github.io/sciblog/files/2016-04-25_pollymagoo/
-location: Marseille, France
-publication: '**'
-publication_types:
-- inproceedings
-title: Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
-tags:
-- visual-illusions
-categories:
-- Behavioural Neuroscience
-- NeuroAI & Machine Learning
-projects:
-- tout-public
 ---
 # Les illusions visuelles, un révélateur du fonctionnement de notre cerveau
 ## Cinésciences, collège Clair Soleil

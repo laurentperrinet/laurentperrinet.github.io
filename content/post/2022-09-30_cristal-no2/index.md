@@ -1,24 +1,23 @@
---- 
+---
+title: Cristal N°2
+date: 2022-09-30 00:00:00
+lastmod: 2022-09-30 00:00:00
 authors:
 - etienne-rey
 - laurent-u-perrinet
-date: 2022-09-30 00:00:00
-draft: false
-lastmod: 2022-09-30 00:00:00
-title: Cristal N°2
 subtitle: Cristal N°2 - Arbre théorique / 2014
-summary: Cristal N°2 - Arbre théorique / 2014
-image:
-  caption: 'Crédit image : Étienne Rey'
-tags:
-- visual-illusions
+draft: false
 categories:
 - Education
 - NeuroAI & Machine Learning
+tags:
+- visual-illusions
 projects:
 - art-science
+image:
+  caption: 'Crédit image : Étienne Rey'
+summary: Cristal N°2 - Arbre théorique / 2014
 ---
-
 # Cristal N°2 - Arbre théorique / 2014
 
 Cette installation est structurée autour d’un arbre fractal qui se déploie dans l’espace et qui est constitué de miroirs. L’arbre est généré par un algorithme permettant de créer des branches et des ramifications selon des règles de symétrie et de proportion. Les miroirs réfléchissent la lumière et produisent des effets visuels marquants, donnant l’impression que l’arbre s’étend à l’infini.

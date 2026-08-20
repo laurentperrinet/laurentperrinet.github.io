@@ -1,4 +1,8 @@
---- 
+---
+title: Role of homeostasis in learning sparse representations
+date: 2010-07-17
+authors:
+- Laurent U Perrinet
 abstract: 'Neurons in the input layer of primary visual cortex in primates develop
   edge-like receptive fields. One approach to understanding the emergence of this
   response is to state that neural activity has to efficiently represent sensory data
@@ -19,11 +23,20 @@ abstract: 'Neurons in the input layer of primary visual cortex in primates devel
   it is fair: By contributing to optimize statistical competition across neurons,
   homeostasis is crucial in providing a more efficient solution to the emergence of
   independent components.'
-authors:
-- Laurent U Perrinet
-date: 2010-07-17
-doi: 10.1162/neco.2010.05-08-795
 featured: false
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Visual Neuroscience
+tags:
+- homeostasis
+- motion-perception
+- primary-visual-cortex
+- sparse-coding
+publication: '*Neural Computation*'
+publication_types:
+- article-journal
+doi: 10.1162/neco.2010.05-08-795
 links:
 - name: Hal
   url: https://hal.science/hal-00156610
@@ -33,21 +46,7 @@ links:
   url: https://doi.org/10.1162/neco.2010.05-08-795
 - name: arXiv
   url: https://arxiv.org/abs/0706.3177
-publication: '*Neural Computation*'
-publication_types:
-- article-journal
-title: Role of homeostasis in learning sparse representations
-tags:
-- homeostasis
-- motion-perception
-- primary-visual-cortex
-- sparse-coding
-categories:
-- Computational Neuroscience
-- NeuroAI & Machine Learning
-- Visual Neuroscience
 ---
-
 ![header](perrinet-10-shl.png)
 * related publication : {{< cite page="/publication/perrinet-19-hulk" view="4" >}}
 ![header](ssc.gif)

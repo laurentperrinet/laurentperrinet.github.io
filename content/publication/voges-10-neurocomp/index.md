@@ -1,4 +1,9 @@
---- 
+---
+title: Phase space analysis of networks based on biologically realistic parameters
+date: 2010-01-01
+authors:
+- Nicole Voges
+- Laurent U Perrinet
 abstract: 'We study cortical network dynamics for a more realistic network model.
   It represents, in terms of spatial scale, a large piece of cortex allowing for long-range
   connections, resulting in a rather sparse connectivity. We use two different types
@@ -13,24 +18,18 @@ abstract: 'We study cortical network dynamics for a more realistic network model
   between excitatory and inhibitory synaptic strength instead of the input rate. Key
   words:Artificial neural networks, Data analysis, Simulation, Spiking neurons. This
   work is supported by EC IP project FP6-015879 (FACETS).'
-authors:
-- Nicole Voges
-- Laurent U Perrinet
-date: 2010-01-01
 featured: false
-grants:
-- facets
-publication: '*Proceedings of NeuroComp*'
-publication_types:
-- inproceedings
-title: Phase space analysis of networks based on biologically realistic parameters
-tags:
-- sparse-coding
-- spiking-neural-networks
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
+tags:
+- sparse-coding
+- spiking-neural-networks
+publication: '*Proceedings of NeuroComp*'
+publication_types:
+- inproceedings
+grants:
+- facets
 ---
-
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}
 * see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

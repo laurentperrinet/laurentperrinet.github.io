@@ -1,4 +1,12 @@
---- 
+---
+title: 'WP5 - Demo 1.3 : Spiking model of motion-based prediction'
+date: 2014-03-20 13:00:00
+authors:
+- Laurent U Perrinet
+- Bernhard A Kaplan
+- Mina A Khoei
+- Anders Lansner
+- Guillaume S Masson
 abstract: The question how the visual system is able to create a coherent representation
   of a rapidly changing environment in the presence of neural delays is not fully
   resolved. In this paper we use an abstract probabilistic framework and a spiking
@@ -18,37 +26,29 @@ abstract: The question how the visual system is able to create a coherent repres
   data qualitatively. Most importantly, we highlight requirements for the development
   of a trajectory-dependent anticipatory response, and in particular the anisotropic
   nature of the diagonal motion extrapolation mechanism.
-authors:
-- Laurent U Perrinet
-- Bernhard A Kaplan
-- Mina A Khoei
-- Anders Lansner
-- Guillaume S Masson
-date: 2014-03-20 13:00:00
-event: 4th BrainScaleS Plenary meeting
-event_url: https://brainscales.kip.uni-heidelberg.de/internal/jss/AttendMeeting?m=showAgenda&meetingID=45
 featured: false
-links:
-- name: Conference
-  url: https://brainscales.kip.uni-heidelberg.de/internal/jss/AttendMeeting?m=showAgenda&meetingID=45
-- name: URL
-  url: https://laurentperrinet.github.io/talk/2014-03-20-manchester/
-location: Manchester (UK)
-publication: '*4th BrainScaleS Plenary meeting - March 20th, 2014*'
-title: 'WP5 - Demo 1.3 : Spiking model of motion-based prediction'
-url_slides: 14-03-20_BK_LP_MK_handout.pdf
-tags:
-- bayesian-modelling
-- motion-perception
-- neuromorphic-computing
-- primary-visual-cortex
-- spiking-neural-networks
 categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
+tags:
+- bayesian-modelling
+- motion-perception
+- neuromorphic-computing
+- primary-visual-cortex
+- spiking-neural-networks
 projects:
 - tout-public
+publication: '*4th BrainScaleS Plenary meeting - March 20th, 2014*'
+url_slides: 14-03-20_BK_LP_MK_handout.pdf
+event: 4th BrainScaleS Plenary meeting
+event_url: https://brainscales.kip.uni-heidelberg.de/internal/jss/AttendMeeting?m=showAgenda&meetingID=45
+location: Manchester (UK)
+links:
+- name: Conference
+  url: https://brainscales.kip.uni-heidelberg.de/internal/jss/AttendMeeting?m=showAgenda&meetingID=45
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2014-03-20-manchester/
 ---

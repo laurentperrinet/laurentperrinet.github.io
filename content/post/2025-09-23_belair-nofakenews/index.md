@@ -1,23 +1,21 @@
---- 
-authors:
-- laurent-u-perrinet
+---
+title: Rencontre cinémas & sciences à l'école Air Bel
 date: 2025-09-23 08:30:00
 publishDate: '2025-08-21T09:59:44.385734Z'
-draft: false
+authors:
+- laurent-u-perrinet
 featured: false
-summary: 'Restitution film  #nofakenews | école Air Bel | Polly Maggoo'
-location: Marseille, France
-title: Rencontre cinémas & sciences à l'école Air Bel
-tags:
-- visual-illusions
+draft: false
 categories:
 - Education
 - NeuroAI & Machine Learning
+tags:
+- visual-illusions
 projects:
 - tout-public
+location: Marseille, France
+summary: 'Restitution film  #nofakenews | école Air Bel | Polly Maggoo'
 ---
-
-
 {{% callout note %}}
 Bienvenue dans l’une des écoles les plus novatrices du monde : *l’école des Fake news* ! Située à Marseille, en France, cette école haut de gamme a vu le jour grâce aux généreux financements des plus puissantes entreprises numériques chinoises et américaines. 
 

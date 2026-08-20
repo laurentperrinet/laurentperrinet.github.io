@@ -1,4 +1,11 @@
---- 
+---
+title: 'Edge statistics in natural images versus laboratory animal environments: implications
+  for understanding lateral connectivity in V1'
+date: 2012-01-24 13:00:00
+authors:
+- Laurent U Perrinet
+- David Fitzpatrick
+- James A Bednar
 abstract: Oriented edges in images of natural scenes tend to be aligned in collinear
   or co-circular arrangements, with lines and smooth curves more common than other
   possible arrangements of edges (Geisler et al., Vis Res 41:711-24, 2001). The visual
@@ -31,33 +38,26 @@ abstract: Oriented edges in images of natural scenes tend to be aligned in colli
   those measured by Bosking et al. (1997), with shorter-range correlations and less
   emphasis on collinear continuations. This prediction can be tested in future experiments
   on matching groups of animals reared in different environments.
-authors:
-- Laurent U Perrinet
-- David Fitzpatrick
-- James A Bednar
-date: 2012-01-24 13:00:00
+featured: false
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
+- Visual Neuroscience
+tags:
+- bayesian-modelling
+- primary-visual-cortex
+- sparse-coding
+projects:
+- tout-public
+publication: '*A  seminar from the Institute for Adaptive and Neural Computation (ANC)*'
 event: A seminar from the Institute for Adaptive and Neural Computation (ANC)
 event_url: http://www.anc.ed.ac.uk/events/anc-dtc-seminar-laurent-perrinet
-featured: false
+location: Room IF 4.31/4.33, Institute for Adaptive and Neural Computation (ANC) at
+  the University of Edinburgh
 links:
 - name: Conference
   url: http://www.anc.ed.ac.uk/events/anc-dtc-seminar-laurent-perrinet
 - name: URL
   url: https://laurentperrinet.github.io/talk/2012-01-24-edinburgh/
-location: Room IF 4.31/4.33, Institute for Adaptive and Neural Computation (ANC) at
-  the University of Edinburgh
-publication: '*A  seminar from the Institute for Adaptive and Neural Computation (ANC)*'
-title: 'Edge statistics in natural images versus laboratory animal environments: implications
-  for understanding lateral connectivity in V1'
-tags:
-- bayesian-modelling
-- primary-visual-cortex
-- sparse-coding
-categories:
-- Behavioural Neuroscience
-- NeuroAI & Machine Learning
-- Visual Neuroscience
-projects:
-- tout-public
 ---
 * See a followup in {{< cite page="/publication/perrinet-bednar-15" view="1" >}}

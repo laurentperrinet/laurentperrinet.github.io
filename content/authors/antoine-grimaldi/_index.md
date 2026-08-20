@@ -1,4 +1,5 @@
---- 
+---
+title: Antoine Grimaldi
 authors:
 - antoine-grimaldi
 bio: During my PhD, I was focusing on Ultra-fast vision using Spiking Neural Networks.
@@ -7,7 +8,6 @@ education:
   - course: Phd candidate in Computational Neuroscience
     institution: Aix-Marseille Université
     year: 2023
-title: Antoine Grimaldi
 role: PostDoc Researcher in Computational Neuroscience with Andrea Alamia in Toulouse,
   France
 social:

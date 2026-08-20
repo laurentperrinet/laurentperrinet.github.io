@@ -1,11 +1,9 @@
---- 
+---
 title: Réseaux de Neurones Impulsionnels Pour La Vision Embarquée Basée Sur Les Événements
-authors:
-- Amélie Gruel
 date: '2023-10-06'
 publishDate: '2025-01-11T16:13:35.475316Z'
-publication_types:
-- thesis
+authors:
+- Amélie Gruel
 abstract: 'La vision par ordinateur embarquée est récemment devenue omniprésente.
   Elle englobe des tâches telles que la détection, la reconnaissance et le suivi d''éléments
   visuels, avec des applications en robotique (conduite autonome), dans l''industrie
@@ -45,13 +43,15 @@ abstract: 'La vision par ordinateur embarquée est récemment devenue omniprése
   l''exploitation des avantages uniques de la combinaison des SNNs avec les caméras
   événementielles pour la vision par ordinateur embarquée, en particulier en ce qui
   concerne le prétraitement des données événementielles.'
-links:
-- name: URL
-  url: https://theses.fr/2023COAZ4070
-tags:
-- spiking-neural-networks
 categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
+tags:
+- spiking-neural-networks
+publication_types:
+- thesis
+links:
+- name: URL
+  url: https://theses.fr/2023COAZ4070
 ---

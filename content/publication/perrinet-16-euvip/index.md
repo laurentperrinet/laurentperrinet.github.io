@@ -1,4 +1,8 @@
---- 
+---
+title: Biologically-inspired characterization of sparseness in natural images
+date: 2016-10-01
+authors:
+- Laurent U Perrinet
 abstract: Natural images follow statistics inherited by the structure of our physical
   (visual) environment. In particular, a prominent facet of this structure is that
   images can be described by a relatively sparse number of features. We designed a
@@ -10,13 +14,17 @@ abstract: Natural images follow statistics inherited by the structure of our phy
   by measurements of natural images. Then, we provide with a method to synthesize
   random textures images with a given sparseness statistics that match that of some
   class of natural images and provide perspectives for their use in neurophysiology.
-authors:
-- Laurent U Perrinet
-date: 2016-10-01
-doi: 10.1109/EUVIP.2016.7764592
 featured: false
-grants:
-- anr-bala-v1
+categories:
+- Biological Neuroscience
+- Education
+tags:
+- primary-visual-cortex
+- sparse-coding
+publication: '*2016 6th European Workshop on Visual Information Processing (EUVIP)*'
+publication_types:
+- inproceedings
+doi: 10.1109/EUVIP.2016.7764592
 links:
 - name: Code
   url: https://github.com/bicv/Perrinet16EUVIP
@@ -24,15 +32,6 @@ links:
   url: https://ieeexplore.ieee.org/document/7764592/
 - name: arXiv
   url: https://arxiv.org/abs/1702.02485
-publication: '*2016 6th European Workshop on Visual Information Processing (EUVIP)*'
-publication_types:
-- inproceedings
-title: Biologically-inspired characterization of sparseness in natural images
-tags:
-- primary-visual-cortex
-- sparse-coding
-categories:
-- Biological Neuroscience
-- Education
+grants:
+- anr-bala-v1
 ---
-

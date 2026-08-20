@@ -1,7 +1,7 @@
---- 
+---
+title: Jenna Fradin
 authors:
 - jenna-fradin
-title: Jenna Fradin
 superuser: false
 user_groups:
 - Former Students
@@ -17,4 +17,3 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/jenna-fradin-686845189/
 ---
-

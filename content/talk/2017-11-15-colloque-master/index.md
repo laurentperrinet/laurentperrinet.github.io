@@ -1,28 +1,28 @@
---- 
+---
+title: What dynamic neural codes for efficient visual processing
+date: 2017-11-15 13:00:00
+authors:
+- Laurent U Perrinet
 abstract: This seminar is an exercise to introduce the AMU masters into the format
   of international conferences. As such, we will try to introduce new concepts and
   results which will not be found in textbooks.
-authors:
-- Laurent U Perrinet
-date: 2017-11-15 13:00:00
-event: 'Colloque : \"CODAGES ET REPRESENTATIONS\", MASTER DE NEUROSCIENCES 2ème année;
-  Comité d''organisation: Francesca SARGOLINI, Christian Bénar, Paolo GUBELLINI, Christian
-  GESTREAU'
 featured: false
-links:
-- name: Slides
-  url: https://laurentperrinet.github.io/sciblog/files/2017-11-15_ColloqueMaster.html
-- name: URL
-  url: https://laurentperrinet.github.io/talk/2017-11-15-colloque-master/
-location: Aix-Marseille Université, Campus Saint-Charles, Salle des voûtes
-publication: '*Colloque : "CODAGES ET REPRESENTATIONS", MASTER DE NEUROSCIENCES 2ème
-  année*'
-title: What dynamic neural codes for efficient visual processing
 categories:
 - Computational Neuroscience
 - Computer Vision
 - Education
 - NeuroAI & Machine Learning
+publication: '*Colloque : "CODAGES ET REPRESENTATIONS", MASTER DE NEUROSCIENCES 2ème
+  année*'
+event: 'Colloque : \"CODAGES ET REPRESENTATIONS\", MASTER DE NEUROSCIENCES 2ème année;
+  Comité d''organisation: Francesca SARGOLINI, Christian Bénar, Paolo GUBELLINI, Christian
+  GESTREAU'
+location: Aix-Marseille Université, Campus Saint-Charles, Salle des voûtes
+links:
+- name: Slides
+  url: https://laurentperrinet.github.io/sciblog/files/2017-11-15_ColloqueMaster.html
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2017-11-15-colloque-master/
 ---
 ## References
  - unsupervised learning : [Perrinet (2010)](https://laurentperrinet.github.io/publication/perrinet-10-shl/)

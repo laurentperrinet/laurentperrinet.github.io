@@ -1,28 +1,12 @@
---- 
+---
 title: PhD offer "Ultra-fast vision using Spiking Neural Networks"
-subtitle: THE POSITION HAS BEEN FILLED. CD Doctorant "Vision ultra-rapide par réseaux
-  de neurones impulsionnels" H/F (MARSEILLE)
-summary: THE POSITION HAS BEEN FILLED. Offre de thèse "Vision ultra-rapide par réseaux
-  de neurones impulsionnels" à Marseille
+date: 2020-06-30 09:00:00
+lastmod: 2020-06-30 09:00:00
 authors:
 - laurent-u-perrinet
-date: 2020-06-30 09:00:00
+subtitle: THE POSITION HAS BEEN FILLED. CD Doctorant "Vision ultra-rapide par réseaux
+  de neurones impulsionnels" H/F (MARSEILLE)
 draft: false
-image:
-  caption: Rufous Hummingbird "Super fast little hummer on a scarlet Kunzea plant,
-    (thanks for the plant ID, Teddy) El Chorro regional park" photo [Anita Ritenour](https://www.flickr.com/photos/puliarfanita/13322040205)
-    - Attribution 2.0 Generic (CC BY 2.0)
-  focal_point: Smart
-  placement: 2
-  preview_only: false
-lastmod: 2020-06-30 09:00:00
-tags:
-- neuromorphic-computing
-- predictive-coding
-- primary-visual-cortex
-- sparse-coding
-- spiking-neural-networks
-- visual-illusions
 categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
@@ -31,11 +15,25 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
+tags:
+- neuromorphic-computing
+- predictive-coding
+- primary-visual-cortex
+- sparse-coding
+- spiking-neural-networks
+- visual-illusions
 projects:
 - tout-public
+image:
+  caption: Rufous Hummingbird "Super fast little hummer on a scarlet Kunzea plant,
+    (thanks for the plant ID, Teddy) El Chorro regional park" photo [Anita Ritenour](https://www.flickr.com/photos/puliarfanita/13322040205)
+    - Attribution 2.0 Generic (CC BY 2.0)
+  focal_point: Smart
+  placement: 2
+  preview_only: false
+summary: THE POSITION HAS BEEN FILLED. Offre de thèse "Vision ultra-rapide par réseaux
+  de neurones impulsionnels" à Marseille
 ---
-
-
 {{% callout warning %}}
 THE POSITION HAS BEEN FILLED.
 {{% /callout %}}

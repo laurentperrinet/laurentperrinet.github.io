@@ -1,4 +1,11 @@
---- 
+---
+title: 'Smooth Pursuit and Visual Occlusion: Active Inference and Oculomotor Control
+  in Schizophrenia'
+date: 2012-10-26
+authors:
+- Rick A Adams
+- Laurent U Perrinet
+- Karl Friston
 abstract: 'This paper introduces a model of oculomotor control during the smooth pursuit
   of occluded visual targets. This model is based upon active inference, in which
   subjects try to minimise their (proprioceptive) prediction error based upon posterior
@@ -18,32 +25,24 @@ abstract: 'This paper introduces a model of oculomotor control during the smooth
   This model will form the basis of subsequent (dynamic causal) models of empirical
   eye tracking measurements, which we hope to validate, using psychopharmacology and
   studies of schizophrenia.'
-authors:
-- Rick A Adams
-- Laurent U Perrinet
-- Karl Friston
-date: 2012-10-26
-doi: 10.1371/journal.pone.0047502
 featured: false
-links:
-- name: URL
-  url: https://doi.org/10.1371/journal.pone.0047502
-publication: '*PLoS ONE*'
-publication_types:
-- article-journal
-title: 'Smooth Pursuit and Visual Occlusion: Active Inference and Oculomotor Control
-  in Schizophrenia'
-tags:
-- bayesian-modelling
-- eye-movements
-- motion-perception
-- predictive-coding
 categories:
 - Behavioural Neuroscience
 - Clinical Neuroscience
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
+tags:
+- bayesian-modelling
+- eye-movements
+- motion-perception
+- predictive-coding
+publication: '*PLoS ONE*'
+publication_types:
+- article-journal
+doi: 10.1371/journal.pone.0047502
+links:
+- name: URL
+  url: https://doi.org/10.1371/journal.pone.0047502
 ---
-
 ![header](adams-12.png)

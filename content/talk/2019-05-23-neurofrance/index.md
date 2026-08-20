@@ -1,4 +1,9 @@
---- 
+---
+title: Should I stay or should I go? Humans adapt to the volatility of visual motion
+  properties, and know about it
+date: 2019-05-23 01:30:00
+authors:
+- Laurent U Perrinet
 abstract: Animal behavior must constantly adapt to changes, for example when the state
   of an environmental context changes unexpectedly. For an agent that interacts with
   this volatile setting, it is important to react accurately and as quickly as possible.
@@ -18,11 +23,19 @@ abstract: Animal behavior must constantly adapt to changes, for example when the
   effectively represent an internal belief, and use this representation in their sensory-motor
   control system and for explicit judgments. This work offers an innovative approach
   to more generically test human cognitive abilities in uncertain and dynamic environments.
-authors:
-- Laurent U Perrinet
-date: 2019-05-23 01:30:00
-event: Colloque international de la Société Française des Neurosciences 2019
 featured: false
+categories:
+- Behavioural Neuroscience
+- Education
+- NeuroAI & Machine Learning
+tags:
+- bayesian-modelling
+- eye-movements
+- motion-perception
+publication: '*Probabilities and Optimal Inference to Understand the Brain, INT, Marseille
+  (France)*'
+event: Colloque international de la Société Française des Neurosciences 2019
+location: Marseille (France)
 links:
 - name: Slides
   url: https://invibe.github.io/2019-05-23_Neurofrance
@@ -32,19 +45,6 @@ links:
   url: https://github.com/invibe/2019-05-23_Neurofrance/
 - name: URL
   url: https://laurentperrinet.github.io/talk/2019-05-23-neurofrance
-location: Marseille (France)
-publication: '*Probabilities and Optimal Inference to Understand the Brain, INT, Marseille
-  (France)*'
-title: Should I stay or should I go? Humans adapt to the volatility of visual motion
-  properties, and know about it
-tags:
-- bayesian-modelling
-- eye-movements
-- motion-perception
-categories:
-- Behavioural Neuroscience
-- Education
-- NeuroAI & Machine Learning
 ---
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="1" >}}
 * This is part of the [Active Inference symposium]({{< ref "/post/2019-05-23-neurofrance/index.md" >}}) @ [NeuroFrance](https://www.neurosciences.asso.fr/V2/colloques/SN19/) SYMPOSIUM, Room 7

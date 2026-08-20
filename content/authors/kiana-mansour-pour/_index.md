@@ -1,4 +1,5 @@
---- 
+---
+title: Kiana Mansour-Pour
 authors:
 - kiana-mansour-pour
 bio: During my PhD, I focused on smooth eye movements.
@@ -7,7 +8,6 @@ education:
   - course: Phd in Computational Neuroscience
     institution: Aix-Marseille Université
     year: 2019
-title: Kiana Mansour-Pour
 role: Executive DirectorExecutive Director, Shotise
 social:
 - icon: linkedin
@@ -17,7 +17,6 @@ superuser: false
 user_groups:
 - Former Students
 ---
-
 # Predicting and selecting sensory events: inference for smooth eye movements (PhD: 2015 - 2019)
 
 * Funding: This position is funded by the Marie Skodowska-Curie program of the H2020 European Union program, as part of the [Innovative Training Network PACE (Perception and Action in Complex Environments)](https://laurentperrinet.github.io/grant/pace-itn/).

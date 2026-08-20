@@ -1,14 +1,11 @@
---- 
+---
 title: Integrating the What and Where Visual Pathways to Improve CNN Categorisation
+date: '2025-01-01'
+publishDate: '2025-06-03T07:46:10.985387Z'
 authors:
 - Jean-Nicolas Jérémie
 - Emmanuel Daucé
 - Laurent U Perrinet
-date: '2025-01-01'
-publishDate: '2025-06-03T07:46:10.985387Z'
-publication_types:
-- paper-conference
-publication: '*Computational Cognitive Neuroscience Society Meeting (CCN) 2025*'
 abstract: 'Convolutional Neural Networks (CNNs) have been widely used for categorisation
   tasks over the past decades. Many studies have attempted to improve their performance
   by increasing model complexity, adding parameters, or adopting alternative architectures
@@ -33,8 +30,19 @@ abstract: 'Convolutional Neural Networks (CNNs) have been widely used for catego
   in the precision of object localisation within the scene. Beyond its computational
   benefits, this What-Where framework serves as an experimental tool to further investigate
   the neural mechanisms underlying visual processing.'
-grants:
-- anr-anr
+categories:
+- Behavioural Neuroscience
+- Computational Neuroscience
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+tags:
+- bayesian-modelling
+- neuromorphic-computing
+publication: '*Computational Cognitive Neuroscience Society Meeting (CCN) 2025*'
+publication_types:
+- paper-conference
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/jeremie-25-ccn
@@ -44,16 +52,8 @@ links:
   url: https://2025.ccneuro.org/poster/?id=GXMCOQjF19
 - name: Abstract
   url: https://2025.ccneuro.org/abstract_pdf/Jeremie_2025_Unravelling_relationship_location_categorisation_improves_convolutional.pdf
-tags:
-- bayesian-modelling
-- neuromorphic-computing
-categories:
-- Behavioural Neuroscience
-- Computational Neuroscience
-- Computer Vision
-- Education
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
+grants:
+- anr-anr
 ---
 🧠 TODAY at #CCN2025 ! Poster A145, 1:30-4:30pm at de Brug & E‑Hall. We've developed a bio-inspired "What-Where" CNN that mimics primate visual pathways - achieving better classification with less computation. Come chat! 🎯
 

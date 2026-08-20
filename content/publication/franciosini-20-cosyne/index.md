@@ -1,4 +1,11 @@
---- 
+---
+title: Modelling Complex-cells and topological structure in the visual cortex of mammals
+  using Sparse Predictive Coding
+date: 2020-09-27
+authors:
+- Angelo Franciosini
+- Victor Boutin
+- Laurent U Perrinet
 abstract: 'Cells in the primary visual cortex of mammals (V1) have historically been
   divided into two classes: simple and complex. Simple cells exhibit a rectified linear
   response to oriented visual stimuli while complex cells show various degrees of
@@ -51,41 +58,33 @@ abstract: 'Cells in the primary visual cortex of mammals (V1) have historically 
   1078--1086. *[5]* Jaeson Jang, Min Song, and Se-Bum Paik. *Classification of columnar
   and salt-and-pepper organization in mammalian visual cortex*. In: bioRxiv (2019),
   p. 698043'
-authors:
-- Angelo Franciosini
-- Victor Boutin
-- Laurent U Perrinet
-date: 2020-09-27
 featured: false
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/franciosini-20-cosyne/
-publication: '*Computational and Systems Neuroscience (Cosyne) 2020*'
-publication_types:
-- inproceedings
-title: Modelling Complex-cells and topological structure in the visual cortex of mammals
-  using Sparse Predictive Coding
-tags:
-- bayesian-modelling
-- predictive-coding
-- primary-visual-cortex
-- sparse-coding
 categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
+tags:
+- bayesian-modelling
+- predictive-coding
+- primary-visual-cortex
+- sparse-coding
 projects:
 - doc-2-amu
 - phd-icn
 - mesocentre
+publication: '*Computational and Systems Neuroscience (Cosyne) 2020*'
+publication_types:
+- inproceedings
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/franciosini-20-cosyne/
 grants:
 - doc-2-amu
 - mesocentre
 - phd-icn
 ---
-
 {{< figure src="poster.jpg" width="100%" >}}
 * see the follow-up paper in: {{< cite page="/publication/franciosini-21" view="4" >}}
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}

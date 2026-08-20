@@ -1,5 +1,7 @@
---- 
+---
 title: Robust Unsupervised Learning of Spike Patterns with Optimal Transport Theory
+date: '2025-03-28'
+publishDate: '2025-03-27T16:16:39.715951Z'
 authors:
 - Antoine Grimaldi
 - Matthieu Gilson
@@ -7,11 +9,6 @@ authors:
 - Andrea Alamia
 - Boris Sotomayor-Gomez
 - Martin Vinck
-date: '2025-03-28'
-publishDate: '2025-03-27T16:16:39.715951Z'
-publication_types:
-- paper-conference
-publication: '*Computational and Systems Neuroscience (Cosyne)  2025*'
 abstract: Temporal sequences are an important feature of neural information processing
   in biology. Neurons can fire a spike with millisecond precision, and, at the network
   level, repetitions of spatiotemporal spike patterns are observed in neurobiological
@@ -34,12 +31,14 @@ abstract: Temporal sequences are an important feature of neural information proc
   in terms of robustness to various types of noise, speed and stability. Overall,
   our method provides a novel approach to reliably extract repetitive temporal spike
   sequences, and can be readily generalized to other sequence detection applications.
-links:
-- name: URL
-  url: https://www.world-wide.org/cosyne-25/robust-unsupervised-learning-spike-fa46f105/
 categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
+publication: '*Computational and Systems Neuroscience (Cosyne)  2025*'
+publication_types:
+- paper-conference
+links:
+- name: URL
+  url: https://www.world-wide.org/cosyne-25/robust-unsupervised-learning-spike-fa46f105/
 ---
-

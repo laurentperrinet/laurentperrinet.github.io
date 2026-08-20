@@ -1,16 +1,16 @@
---- 
+---
+title: Example Page
 date: 2018-09-09 00:00:00
 draft: false
+categories:
+- Education
 linktitle: Example Page
 menu:
   tutorial:
     parent: Example Topic
     weight: 1
-title: Example Page
 toc: true
 type: docs
-categories:
-- Education
 ---
 In this tutorial, I'll share my top 10 tips for getting started with Academic:
 

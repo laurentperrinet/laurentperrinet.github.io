@@ -1,4 +1,9 @@
---- 
+---
+title: 'Finding Independent Components using spikes : a natural result of Hebbian
+  learning in a sparse spike coding scheme'
+date: 2004-01-01
+authors:
+- Laurent U Perrinet
 abstract: To understand possible strategies of temporal spike coding in the central
   nervous system, we study functional neuromimetic models of visual processing for
   static images. We will first present the retinal model which was introduced by Van
@@ -19,23 +24,18 @@ abstract: To understand possible strategies of temporal spike coding in the cent
   representations in the retina. Results show that this algorithm provides an efficient
   spike coding strategy for low-level visual processing which may adapt to the complexity
   of the visual input.
-authors:
-- Laurent U Perrinet
-date: 2004-01-01
-doi: 10.1023/B:NACO.0000027753.27593.a7
 featured: false
-links:
-- name: URL
-  url: https://doi.org/10.1023/B:NACO.0000027753.27593.a7
-publication: '*Natural Computing*'
-publication_types:
-- article-journal
-title: 'Finding Independent Components using spikes : a natural result of Hebbian
-  learning in a sparse spike coding scheme'
-tags:
-- sparse-coding
-- spiking-neural-networks
 categories:
 - Education
 - Theoretical Neuroscience
+tags:
+- sparse-coding
+- spiking-neural-networks
+publication: '*Natural Computing*'
+publication_types:
+- article-journal
+doi: 10.1023/B:NACO.0000027753.27593.a7
+links:
+- name: URL
+  url: https://doi.org/10.1023/B:NACO.0000027753.27593.a7
 ---

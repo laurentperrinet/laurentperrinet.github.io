@@ -1,4 +1,13 @@
---- 
+---
+title: Anticipatory Responses along Motion Trajectories in Awake Monkey Area V1
+date: 2020-01-01
+authors:
+- Giacomo Benvenuti
+- Sandrine Chemla
+- Arjan Boonman
+- Laurent U Perrinet
+- Guillaume S Masson
+- Frédéric Y Chavane
 abstract: What are the neural mechanisms underlying motion integration of translating
   objects? Visual motion integration is generally conceived of as a feedforward, hierarchical,
   information processing. However, feedforward models fail to account for many contextual
@@ -12,31 +21,21 @@ abstract: What are the neural mechanisms underlying motion integration of transl
   this anticipatory response arises from the interplay between horizontal and feedback
   networks driving V1 neurons well ahead of their feedforward inputs. This mechanism
   could subtend several perceptual contextual effects observed with translating objects.
-authors:
-- Giacomo Benvenuti
-- Sandrine Chemla
-- Arjan Boonman
-- Laurent U Perrinet
-- Guillaume S Masson
-- Frédéric Y Chavane
-date: 2020-01-01
-doi: 10/ggqj77
 featured: false
-links:
-- name: bioRxiv
-  url: https://www.biorxiv.org/content/10.1101/2020.03.26.010017
-publication: '*bioRxiv*'
-publication_types:
-- article-journal
-title: Anticipatory Responses along Motion Trajectories in Awake Monkey Area V1
-tags:
-- motion-perception
-- primary-visual-cortex
-- spiking-neural-networks
 categories:
 - Biological Neuroscience
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
+tags:
+- motion-perception
+- primary-visual-cortex
+- spiking-neural-networks
+publication: '*bioRxiv*'
+publication_types:
+- article-journal
+doi: 10/ggqj77
+links:
+- name: bioRxiv
+  url: https://www.biorxiv.org/content/10.1101/2020.03.26.010017
 ---
-

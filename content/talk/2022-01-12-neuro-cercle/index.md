@@ -1,4 +1,8 @@
---- 
+---
+title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
+date: 2022-01-12 18:00:00
+authors:
+- Laurent U Perrinet
 abstract: Les illusions visuelles sont des créations d'artistes, de scientifiques
   et plus récemment, grâce aux réseaux sociaux, du grand public qui proposent des
   situations souvent incongrues, dans lesquelles l'eau remonte une cascade, les personnes
@@ -13,12 +17,20 @@ abstract: Les illusions visuelles sont des créations d'artistes, de scientifiqu
   perception visuelle sur les bases d'une théorie de la vision non pas comme une simple
   caméra qui enregistre des images mais comme un processus actif en relation avec
   le monde qui nous entoure.
-authors:
-- Laurent U Perrinet
-date: 2022-01-12 18:00:00
+featured: false
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
+tags:
+- visual-illusions
+projects:
+- tout-public
+publication: '*Neurocercle : Découvrir les neurosciences à Grenoble*'
+publication_types:
+- inproceedings
 event: 'Neurocercle : Découvrir les neurosciences à Grenoble'
 event_url: https://neurocercle.wordpress.com/
-featured: false
+location: Grenoble (France)
 links:
 - name: Slides
   url: https://laurentperrinet.github.io/2022-01-12_NeuroCercle
@@ -26,18 +38,6 @@ links:
   url: https://github.com/laurentperrinet/2022-01-12_NeuroCercle/
 - name: URL
   url: https://laurentperrinet.github.io/talk/2022-01-12-neuro-cercle
-location: Grenoble (France)
-publication: '*Neurocercle : Découvrir les neurosciences à Grenoble*'
-publication_types:
-- inproceedings
-title: 'Des illusions aux hallucinations visuelles: une porte sur la perception'
-tags:
-- visual-illusions
-categories:
-- Behavioural Neuroscience
-- NeuroAI & Machine Learning
-projects:
-- tout-public
 ---
 > Nous aurons le plaisir d’échanger avec notre conférencier Laurent Perrinet et nous vous espérons nombreux. Pour situer le conférencier : https://laurentperrinet.github.io/2019-05_illusions-visuelles/
 > « C'est toujours fascinant de voir ou de revoir des illusions visuelles. C'est encore plus fascinant de plonger dans leurs explications. »

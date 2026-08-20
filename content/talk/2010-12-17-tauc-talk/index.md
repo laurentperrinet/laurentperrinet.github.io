@@ -1,4 +1,9 @@
---- 
+---
+title: 'Probabilistic models of the low-level visual system: the role of prediction
+  in detecting motion'
+date: 2010-12-17
+authors:
+- Laurent U Perrinet
 abstract: Sensory informations such as visual images are inherently variable. We use
   probabilistic models to describe how the low-level visual system could describe
   superposed and ambiguous information. This allows to describe the interactions of
@@ -6,26 +11,21 @@ abstract: Sensory informations such as visual images are inherently variable. We
   the overall description of the visual scene. We focus here on temporal prediction,
   that is by the transport of information based on an estimate of local motion in
   the image.
-authors:
-- Laurent U Perrinet
-date: 2010-12-17
-event: LADISLAV TAUC and GDR MSPC NEUROSCIENCES CONFERENCE, From Mathematical Image
-  Analysis to Neurogeometry of the Brain
 featured: false
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/talk/2010-12-17-tauc-talk/
-publication: '*LADISLAV TAUC & GDR MSPC NEUROSCIENCES CONFERENCE, From Mathematical
-  Image Analysis to Neurogeometry of the Brain*'
-title: 'Probabilistic models of the low-level visual system: the role of prediction
-  in detecting motion'
-tags:
-- bayesian-modelling
-- motion-perception
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- bayesian-modelling
+- motion-perception
+publication: '*LADISLAV TAUC & GDR MSPC NEUROSCIENCES CONFERENCE, From Mathematical
+  Image Analysis to Neurogeometry of the Brain*'
+event: LADISLAV TAUC and GDR MSPC NEUROSCIENCES CONFERENCE, From Mathematical Image
+  Analysis to Neurogeometry of the Brain
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2010-12-17-tauc-talk/
 ---
 An event ranging "From Mathematical Image Analysis to Neurogeometry of the Brain" Ladislav Tauc & GDR MSPC neurosciences conference.
 * related publication from Mina Khoei @ [TAUC 2012]({{< ref "/publication/khoei-10-tauc/index.md" >}})

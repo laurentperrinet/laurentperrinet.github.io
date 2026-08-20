@@ -1,5 +1,7 @@
---- 
+---
 title: Optimal Transport Theory to extract Spiking Motifs
+date: '2026-07-07'
+publishDate: '2026-06-29T10:24:36.718992Z'
 authors:
 - Antoine Grimaldi
 - Matthieu Gilson
@@ -7,11 +9,6 @@ authors:
 - Andrea Alamia
 - Boris Sotomayor-Gomez
 - Martin Vinck
-date: '2026-07-07'
-publishDate: '2026-06-29T10:24:36.718992Z'
-publication_types:
-- paper-conference
-publication: '*Proceedings of the FENS Forum 2026*'
 abstract: Whether cortical neurons encode information through firing rates or precise
   spike timing remains a central question in neuroscience. Although spike timing can
   theoretically convey more information than firing rates, its utility is often challenged
@@ -32,12 +29,14 @@ abstract: Whether cortical neurons encode information through firing rates or pr
   achieved using averaged firing rates alone. Altogether, these results demonstrate
   that optimal transport theory provides an efficient tool for uncovering spatiotemporal
   structure in spiking activity.
+tags:
+- optimal-transport
+publication: '*Proceedings of the FENS Forum 2026*'
+publication_types:
+- paper-conference
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/grimaldi-26-fens/
 - name: FENS
   url: https://fens2026.abstractserver.com/program/#/details/presentations/3594
-tags:
-- optimal-transport
 ---
-

@@ -1,9 +1,9 @@
---- 
+---
+title: Accomplish&shy;ments
 widget: accomplishments
 active: false
 headless: true
 weight: 50
-title: Accomplish&shy;ments
 date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
@@ -15,4 +15,3 @@ item:
 design:
   columns: '2'
 ---
-

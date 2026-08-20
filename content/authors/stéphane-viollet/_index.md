@@ -1,7 +1,7 @@
---- 
+---
+title: Stéphane Viollet
 authors:
 - stéphane-viollet
-title: Stéphane Viollet
 superuser: false
 user_groups:
 - Collaborators
@@ -13,4 +13,3 @@ social:
   icon_pack: fas
   link: http://www.ism.univ-amu.fr/viollet/
 ---
-

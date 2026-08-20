@@ -1,5 +1,7 @@
---- 
+---
 title: A Predictive Approach to Enhance Time-Series Forecasting
+date: '2025-08-29'
+publishDate: '2024-12-23T13:47:40.425008Z'
 authors:
 - Skye Gunasekaran
 - Assel Kembay
@@ -8,10 +10,6 @@ authors:
 - Laurent U Perrinet
 - Omid Kavehei
 - Jason Eshraghian
-date: '2025-08-29'
-publishDate: '2024-12-23T13:47:40.425008Z'
-publication_types:
-- manuscript
 abstract: 'Accurate time-series forecasting is essential across a multitude of scientific
   and industrial domains, yet deep learning models often struggle with challenges
   such as capturing long-term dependencies and adapting to drift in data distributions
@@ -32,6 +30,14 @@ abstract: 'Accurate time-series forecasting is essential across a multitude of s
   a predictive feedback mechanism that adapts to data distribution drift, Future-Guided
   Learning offers a promising avenue for advancing time-series forecasting with deep
   learning.'
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+tags:
+- predictive-coding
+publication_types:
+- manuscript
 doi: 10.1038/s41467-025-63786-4
 links:
 - name: URL
@@ -44,14 +50,7 @@ links:
   url: https://arxiv.org/abs/2410.15217
 - name: HAL
   url: https://hal.science/hal-05293576
-tags:
-- predictive-coding
-categories:
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
 ---
-
 The lead author, Jason Eshragian, speaks most clearly about it: 
 
 For the amount of compute they burn, transformers are pretty bad at time-series data analysis. Which is pretty unsurprising if your objective is to predict the next token, one step at a time. 

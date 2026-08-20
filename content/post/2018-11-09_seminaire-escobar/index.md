@@ -1,22 +1,21 @@
---- 
+---
+title: '2018-11-09 : Retinal computations'
+date: 2018-11-09 00:00:00
+lastmod: 2018-11-09 00:00:00
 authors:
 - laurent-u-perrinet
-date: 2018-11-09 00:00:00
+subtitle: A seminar by [María José Escobar, Ph.D.](http://profesores.elo.utfsm.cl/~mjescobar/)
+  at the Institute of Neurosciences Timone in Marseille.
 draft: false
+categories:
+- Biological Neuroscience
 image:
   focal_point: Smart
   placement: 2
   preview_only: false
-lastmod: 2018-11-09 00:00:00
-subtitle: A seminar by [María José Escobar, Ph.D.](http://profesores.elo.utfsm.cl/~mjescobar/)
-  at the Institute of Neurosciences Timone in Marseille.
 summary: A seminar by [María José Escobar, Ph.D.](http://profesores.elo.utfsm.cl/~mjescobar/)
   at the Institute of Neurosciences Timone in Marseille.
-title: '2018-11-09 : Retinal computations'
-categories:
-- Biological Neuroscience
 ---
-
 # 2018-11-09 : "Retinal computations" by Maria José Escobar (Chile)
 
 During a seminar at the Institute of Neurosciences Timone in Marseille, [María José Escobar, Ph.D.](http://profesores.elo.utfsm.cl/~mjescobar/) :

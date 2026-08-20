@@ -1,29 +1,26 @@
---- 
+---
+title: '2010-06-22 : CodeJamNr4'
+date: 2010-06-22 00:00:00
+lastmod: 2010-06-22 00:00:00
 authors:
 - laurent-u-perrinet
-date: 2010-06-22 00:00:00
+subtitle: We held a CodeJam 22nd-24th June 2010, in Marseille.
 draft: false
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+tags:
+- neuromorphic-computing
+- spiking-neural-networks
 image:
   focal_point: Smart
   placement: 2
   preview_only: false
-lastmod: 2010-06-22 00:00:00
 grants:
 - facets
 - brain-scales
-subtitle: We held a CodeJam 22nd-24th June 2010, in Marseille.
 summary: We held a CodeJam 22nd-24th June 2010, in Marseille.
-title: '2010-06-22 : CodeJamNr4'
-tags:
-- neuromorphic-computing
-- spiking-neural-networks
-categories:
-- Computational Neuroscience
-- NeuroAI & Machine Learning
-
 ---
-
-
 # FACETS Code Jam Workshop \#4
 We held a CodeJam 22nd-24th June 2010, in Marseille.
 

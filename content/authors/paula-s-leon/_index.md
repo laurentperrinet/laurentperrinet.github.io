@@ -1,7 +1,7 @@
---- 
+---
+title: Paula Sanz Leon
 authors:
 - paula-s-leon
-title: Paula Sanz Leon
 superuser: false
 user_groups:
 - Collaborators
@@ -19,6 +19,4 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ZbJ97FAAAAAJ
 ---
-
-
 Main publication: {{< cite page="/publication/sanz-12" view="4" >}}

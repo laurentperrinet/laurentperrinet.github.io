@@ -1,8 +1,8 @@
---- 
+---
+title: Projects
 widget: portfolio
 headless: true
 weight: 20
-title: Projects
 content:
   page_type: project
   filter_default: 0

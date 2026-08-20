@@ -1,28 +1,28 @@
---- 
+---
+title: Participation au jury et entretien avec Clara Delmon
+date: 2016-11-20 09:00:00
 authors:
 - Laurent U Perrinet
-date: 2016-11-20 09:00:00
+featured: false
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+tags:
+- visual-illusions
+projects:
+- art-science
+- tout-public
+publication: '*Cinésciences, collège Clair Soleil (Marseille)*'
+publication_types:
+- inproceedings
 event: Rencontres Internationales Sciences Et Cinémas
 event_url: http://www.pollymaggoo.org/
-featured: false
+location: Marseille, France
 links:
 - name: Conference
   url: http://www.pollymaggoo.org/
 - name: URL
   url: https://laurentperrinet.github.io/talk/2016-11-20-polly-maggoo/
-location: Marseille, France
-publication: '*Cinésciences, collège Clair Soleil (Marseille)*'
-publication_types:
-- inproceedings
-title: Participation au jury et entretien avec Clara Delmon
-tags:
-- visual-illusions
-categories:
-- Computational Neuroscience
-- NeuroAI & Machine Learning
-projects:
-- art-science
-- tout-public
 ---
 # RENCONTRES INTERNATIONALES SCIENCES & CINÉMAS
 ## cinéma les Variétés

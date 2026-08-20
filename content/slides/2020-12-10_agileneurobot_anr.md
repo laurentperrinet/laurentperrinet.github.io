@@ -1,15 +1,15 @@
---- 
-slides:
-  theme: white
+---
 title: 2020-12-10_agileneurobot_anr
-tags:
-- neuromorphic-computing
-- spiking-neural-networks
 categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- neuromorphic-computing
+- spiking-neural-networks
+slides:
+  theme: white
 ---
 <a href="https://laurentperrinet.github.io/grant/anr-anr">
 <img src="https://laurentperrinet.github.io/grant/anr-anr/header.png" alt="header" height="450">

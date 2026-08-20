@@ -1,26 +1,25 @@
---- 
+---
+title: '2018-04-05 : *Probabilities and Optimal Inference to understand the Brain*
+  Workshop'
+date: 2018-04-05 00:00:00
 authors:
 - laurent-u-perrinet
-date: 2018-04-05 00:00:00
-draft: false
 featured: false
+draft: false
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+tags:
+- bayesian-modelling
+- probalistic-inference
 image:
   focal_point: Smart
 summary: 'We organize a Symposium at NeuroFrance 2019 entitled Active Inference: Bridging
   theoretical and experimental neurosciences. This is part of a series of theoretical
   neuroscience symposia organized in this international conference from the french
   Neursocience Society.'
-title: '2018-04-05 : *Probabilities and Optimal Inference to understand the Brain*
-  Workshop'
-tags:
-- bayesian-modelling
-- probalistic-inference
-categories:
-- Behavioural Neuroscience
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
 ---
-
 ![participants](IMG_20180406_164630.jpg)
 
 # Probabilities and Optimal Inference to understand the Brain

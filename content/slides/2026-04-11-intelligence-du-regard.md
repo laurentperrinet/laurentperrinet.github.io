@@ -1,13 +1,12 @@
---- 
-slides:
-  theme: white
-  reveal_options:
-    transition: fade
-date: '2026-04-11'
-all_day: false
-publishDate: '2026-04-09T12:47:11+02:00'
+---
 title: 2026-04-11-intelligence-du-regard
-summary: L'intelligence du regard
+date: '2026-04-11'
+publishDate: '2026-04-09T12:47:11+02:00'
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Visual Neuroscience
 tags:
 - eye-movements
 - foveated-vision
@@ -16,14 +15,15 @@ tags:
 - retinotopy
 - sparse-coding
 - visual-illusions
-categories:
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
-- Visual Neuroscience
 projects:
 - art-science
 - tout-public
+slides:
+  theme: white
+  reveal_options:
+    transition: fade
+all_day: false
+summary: L'intelligence du regard
 ---
 <section>
 

@@ -1,25 +1,19 @@
---- 
+---
+title: Ultra-rapid visual search in natural images using active deep learning
+date: 2022-07-10
+publishDate: '2022-06-16T11:51:41.890310Z'
+lastmod: 2022-05-20 13:42:38+02:00
 authors:
 - Jean-Nicolas Jérémie
 - Emmanuel Daucé
 - Laurent U Perrinet
-date: 2022-07-10
-draft: false
 featured: false
-grants:
-- anr-anr
-image:
-  focal_point: Smart
-  preview_only: false
-lastmod: 2022-05-20 13:42:38+02:00
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/jeremie-22-fens/
-publication: '*Proceedings of the FENS Forum 2022*'
-publication_types:
-- inproceedings
-publishDate: '2022-06-16T11:51:41.890310Z'
-title: Ultra-rapid visual search in natural images using active deep learning
+draft: false
+categories:
+- Biological Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Visual Neuroscience
 tags:
 - foveated-vision
 - log-polar-mapping
@@ -28,13 +22,18 @@ tags:
 - spiking-neural-networks
 - ultra-fast-categorization
 - visual-search
-categories:
-- Biological Neuroscience
-- Education
-- NeuroAI & Machine Learning
-- Visual Neuroscience
+publication: '*Proceedings of the FENS Forum 2022*'
+publication_types:
+- inproceedings
+image:
+  focal_point: Smart
+  preview_only: false
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/jeremie-22-fens/
+grants:
+- anr-anr
 ---
-
 ![](@laurentperrinet_1546389505917206531_tweetcapture.png)
 * This work extends to natural scenes a previous work on visual search on a simplified task formulated in  {{< cite page="/publication/dauce-20" view="4" >}}
 * follows {{< cite page="/publication/jeremie-22-areadne" view="4" >}}

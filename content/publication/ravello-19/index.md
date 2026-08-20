@@ -1,4 +1,12 @@
---- 
+---
+title: Speed-Selectivity in Retinal Ganglion Cells is Sharpened by Broad Spatial Frequency,
+  Naturalistic Stimuli
+date: 2019-01-24
+authors:
+- Cesar U Ravello
+- Laurent U Perrinet
+- Maria-José Escobar
+- Adrián G Palacios
 abstract: Motion detection represents one of the critical tasks of the visual system
   and has motivated a large body of research. However, it remains unclear precisely
   why the response of retinal ganglion cells (RGCs) to simple artificial stimuli does
@@ -15,16 +23,18 @@ abstract: Motion detection represents one of the critical tasks of the visual sy
   level of RGCs is modulated by the naturalness of the stimulus -in particular for
   motion- which suggests that the tuning to the statistics of natural images already
   emerges at the level of the retina.
-authors:
-- Cesar U Ravello
-- Laurent U Perrinet
-- Maria-José Escobar
-- Adrián G Palacios
-date: 2019-01-24
-doi: 10.1038/s41598-018-36861-8
 featured: false
-grants:
-- anr-trajectory
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+tags:
+- motion-perception
+- sparse-coding
+publication: '*Scientific Reports*'
+publication_types:
+- article-journal
+doi: 10.1038/s41598-018-36861-8
 links:
 - name: Press
   url: https://www.insb.cnrs.fr/fr/cnrsinfo/des-la-retine-le-systeme-visuel-prefere-des-images-naturelles
@@ -32,20 +42,9 @@ links:
   url: https://doi.org/10.1038%2Fs41598-018-36861-8
 - name: HAL
   url: https://hal.science/hal-02007905
-publication: '*Scientific Reports*'
-publication_types:
-- article-journal
-title: Speed-Selectivity in Retinal Ganglion Cells is Sharpened by Broad Spatial Frequency,
-  Naturalistic Stimuli
-tags:
-- motion-perception
-- sparse-coding
-categories:
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
+grants:
+- anr-trajectory
 ---
-
 * [Press release](https://www4.cnrs-dir.fr/insb/recherche/parutions/articles2019/l-perrinet.html)
 # Dès la rétine, le système visuel préfère des images naturelles
 *Dans la rétine, au premier étage du traitement de l'image visuelle, on peut obtenir des représentations extrêmement fines. Une collaboration entre des chercheurs français et chiliens a permis de mettre en évidence que, dans la rétine de rongeurs, une représentation de la vitesse de l'image visuelle est précisément codée. Dans cette collaboration pluridisciplinaire, l'utilisation d'un modèle du fonctionnement de la rétine a permis de générer un nouveau type de stimuli visuels qui a révélé des résultats expérimentaux surprenants.*

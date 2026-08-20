@@ -1,4 +1,12 @@
---- 
+---
+title: Pooling in a predictive model of V1 explains functional and structural diversity
+  across species
+date: 2022-07-18
+authors:
+- Victor Boutin
+- Angelo Franciosini
+- Frédéric Y Chavane
+- Laurent U Perrinet
 abstract: Neurons in the primary visual cortex are selective to orientation with various
   degrees of selectivity to the spatial phase, from high selectivity in simple cells
   to low selectivity in complex cells. Various computational models have suggested
@@ -15,41 +23,32 @@ abstract: Neurons in the primary visual cortex are selective to orientation with
   of structural and functional phenomena observed in V1. In particular, we show that
   orientation maps emerge naturally as the most cost-efficient structure to generate
   complex cells under the predictive coding principle.
-authors:
-- Victor Boutin
-- Angelo Franciosini
-- Frédéric Y Chavane
-- Laurent U Perrinet
-date: 2022-07-18
-doi: 10.1371/journal.pcbi.1010270
 featured: true
-grants:
-- anr-horizontal-v1
-- doc-2-amu
-- phd-icn
-- mesocentre
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/franciosini-21
-- name: bioRxiv
-  url: https://www.biorxiv.org/content/10.1101/2021.04.19.440444
-publication: '*PLoS Computational Biology*'
-publication_types:
-- article-journal
-title: Pooling in a predictive model of V1 explains functional and structural diversity
-  across species
-tags:
-- predictive-coding
-- primary-visual-cortex
-- sparse-coding
 categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
+tags:
+- predictive-coding
+- primary-visual-cortex
+- sparse-coding
+publication: '*PLoS Computational Biology*'
+publication_types:
+- article-journal
+doi: 10.1371/journal.pcbi.1010270
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/franciosini-21
+- name: bioRxiv
+  url: https://www.biorxiv.org/content/10.1101/2021.04.19.440444
+grants:
+- anr-horizontal-v1
+- doc-2-amu
+- phd-icn
+- mesocentre
 ---
-
 ![](@laurentperrinet_1555506825289662466_tweetcapture.png)
 
 * this paper follows this COSYNE presentation : {{< cite page="/publication/franciosini-20-cosyne" view="4" >}}

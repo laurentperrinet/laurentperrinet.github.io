@@ -1,26 +1,26 @@
---- 
-slides:
-  theme: white
-  reveal_options:
-    transition: fade
-date: '2026-02-03'
-all_day: false
-publishDate: '2026-01-31T12:47:11+02:00'
+---
 title: 2026-02-03-ai-and-neuroscience-day
-summary: Al for visual processing and energy-efficient algorithms.
+date: '2026-02-03'
+publishDate: '2026-01-31T12:47:11+02:00'
+categories:
+- Computational Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
 tags:
 - eye-movements
 - motion-perception
 - neuromorphic-computing
 - sparse-coding
 - spiking-neural-networks
-categories:
-- Computational Neuroscience
-- Education
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
 projects:
 - tout-public
+slides:
+  theme: white
+  reveal_options:
+    transition: fade
+all_day: false
+summary: Al for visual processing and energy-efficient algorithms.
 ---
 # [Neuroscience & AI: Energy-efficient visual processing algorithms](https://laurentperrinet.github.io/slides/2026-02-03-ai-and-neuroscience-day/?transition=fade)
 ##	*[Laurent Perrinet](https://laurentperrinet.github.io/talk/2026-02-03-ai-and-neuroscience-day/)*

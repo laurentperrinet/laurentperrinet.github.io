@@ -1,13 +1,16 @@
---- 
+---
 title: Markdown Slides Demo
 date: 2025-12-15
-description: A comprehensive demo of all Reveal.js features available in Hugo Blox
 authors:
 - me
 - Hugo Blox Team
-venue: Hugo Blox Tutorial
 featured: true
-type: slides
+tags:
+- demo
+- features
+- tutorial
+projects:
+- open-science
 slides:
   theme: black
   highlight_style: dracula
@@ -28,12 +31,9 @@ slides:
     footer:
       text: © 2026 HugoBlox
       position: bottom-center
-tags:
-- demo
-- features
-- tutorial
-projects:
-- open-science
+description: A comprehensive demo of all Reveal.js features available in Hugo Blox
+venue: Hugo Blox Tutorial
+type: slides
 ---
 <!-- no-branding -->
 # Markdown Slides

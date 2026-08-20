@@ -1,7 +1,7 @@
---- 
+---
+title: Manuel Samuelides
 authors:
 - manuel-samuelides
-title: Manuel Samuelides
 superuser: false
 user_groups:
 - Mentors
@@ -10,8 +10,6 @@ social:
   icon_pack: ai
   link: https://www.researchgate.net/profile/Manuel_Samuelides
 ---
-
-
 Ph.D. of Mathematics, Membre de la commission des titres d'ingénieur at Institut Supérieur de l'Aéronautique et de l'Espace (ISAE).
 
 ## Collaborative publications

@@ -1,4 +1,10 @@
---- 
+---
+title: Introduction
+date: 2015-11-01
+authors:
+- Gabriel Cristóbal
+- Laurent U Perrinet
+- Matthias S Keil
 abstract: This is the introductory chapter of the book, which serves as a comprehensive
   but rigorous reference in the area of biologically inspired computer vision modeling.
   Biological vision shows excellence in terms of performance and robustness. Biologically
@@ -9,28 +15,21 @@ abstract: This is the introductory chapter of the book, which serves as a compre
   and current state of the art of the research in this area. The book also provides
   an overview of bioinspired computer vision, starting from fundamentals to the most
   recent advances and applications in the field.
-authors:
-- Gabriel Cristóbal
-- Laurent U Perrinet
-- Matthias S Keil
-date: 2015-11-01
-doi: 10.1002/9783527680863.ch1
 featured: false
-links:
-- name: URL
-  url: https://bicv.github.io/chap1/
-publication: '*Biologically Inspired Computer Vision*'
-publication_types:
-- inbook
-title: Introduction
-tags:
-- vision
 categories:
 - Computational Neuroscience
 - Computer Vision
 - NeuroAI & Machine Learning
+tags:
+- vision
+publication: '*Biologically Inspired Computer Vision*'
+publication_types:
+- inbook
+doi: 10.1002/9783527680863.ch1
+links:
+- name: URL
+  url: https://bicv.github.io/chap1/
 grants:
 - brain-scales
 ---
-
 {{< figure src="mindmap.png" title="Mindmap of the book contents. Cross-links between chapters have been indicated as thin lines." >}}

@@ -1,28 +1,28 @@
---- 
+---
+title: La modélisation biomorphique de la perception visuelle
+date: 2018-10-11 18:30:00
 authors:
 - Laurent U Perrinet
-date: 2018-10-11 18:30:00
+featured: false
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
+tags:
+- visual-illusions
+projects:
+- tout-public
+publication: '**'
+publication_types:
+- inproceedings
 event: in 'La modélisation de la genèse physico-mathématique du vivant' / BIOMORPHISME
   ET CREATION ARTISTIQUE Session 3
 event_url: http://lesa.univ-amu.fr/?q=node/391
-featured: false
+location: Marseille, France
 links:
 - name: Conference
   url: http://lesa.univ-amu.fr/?q=node/391
 - name: URL
   url: https://laurentperrinet.github.io/sciblog/files/2018-10-11_BioMorphisme.html
-location: Marseille, France
-publication: '**'
-publication_types:
-- inproceedings
-title: La modélisation biomorphique de la perception visuelle
-tags:
-- visual-illusions
-categories:
-- Behavioural Neuroscience
-- NeuroAI & Machine Learning
-projects:
-- tout-public
 ---
 ## in "La modélisation de la genèse physico-mathématique du vivant"
 ## BIOMORPHISME ET CREATION ARTISTIQUE – Session 3

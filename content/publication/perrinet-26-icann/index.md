@@ -1,24 +1,24 @@
---- 
+---
 title: Working Memory in Recurrent Spiking Neural Networks With Heterogeneous Synaptic
   Delays
-authors:
-- Laurent U Perrinet
 date: '2026-09-14'
 publishDate: '2026-07-11T09:28:36.690544Z'
-publication_types:
-- paper-conference
+authors:
+- Laurent U Perrinet
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+tags:
+- neuromorphic-computing
+- spiking-neural-networks
 publication: '*35th International Conference on Artificial Neural Networks (ICANN
   2026)-  Special Session on Recent Advances in Spiking Neural Networks*'
+publication_types:
+- paper-conference
 doi: 10.48550/arXiv.2604.14096
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-26-icann
-tags:
-- neuromorphic-computing
-- spiking-neural-networks
-categories:
-- Computational Neuroscience
-- NeuroAI & Machine Learning
 grants:
 - polychronies
 ---

@@ -1,5 +1,7 @@
---- 
+---
 title: 'DynTex: A Real-Time Generative Model of Dynamic Naturalistic Luminance Textures'
+date: '2025-09-01'
+publishDate: '2025-09-04T07:19:00.649315Z'
 authors:
 - Andrew Isaac Meso
 - Jonathan Vacher
@@ -7,12 +9,6 @@ authors:
 - Pascal Mamassian
 - Laurent U Perrinet
 - Guillaume S Masson
-date: '2025-09-01'
-publishDate: '2025-09-04T07:19:00.649315Z'
-publication_types:
-- article-journal
-publication: '*Journal of Vision*'
-doi: 10.1167/jov.25.11.2
 abstract: The visual systems of animals work in diverse and constantly changing environments
   where organism survival requires effective senses. To study the hierarchical brain
   networks that perform visual information processing, vision scientists require suitable
@@ -31,15 +27,6 @@ abstract: The visual systems of animals work in diverse and constantly changing 
   models. We argue the case that in all these fields, MCs can bridge the gap between
   well- parameterized synthetic stimuli like dots or gratings and more complex and
   less controlled natural videos.
-links:
-- name: URL
-  url: https://doi.org/10.1167/jov.25.11.2
-- name: HAL
-  url: https://hal.science/hal-05288188
-tags:
-- motion-clouds
-- motion-perception
-- predictive-coding
 categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
@@ -48,10 +35,22 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- motion-clouds
+- motion-perception
+- predictive-coding
 projects:
 - open-science
+publication: '*Journal of Vision*'
+publication_types:
+- article-journal
+doi: 10.1167/jov.25.11.2
+links:
+- name: URL
+  url: https://doi.org/10.1167/jov.25.11.2
+- name: HAL
+  url: https://hal.science/hal-05288188
 ---
-
 🚀 Excited to share our new paper: 
 
 > "DynTex: A real-time generative model of dynamic naturalistic luminance textures"

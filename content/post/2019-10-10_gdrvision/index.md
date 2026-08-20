@@ -1,9 +1,17 @@
---- 
+---
+title: '2019-10-10: GDR vision 2019'
+date: 2019-10-10 12:00:00
 authors:
 - laurent-u-perrinet
-date: 2019-10-10 12:00:00
-draft: false
 featured: false
+draft: false
+categories:
+- Education
+- NeuroAI & Machine Learning
+tags:
+- visual-illusions
+projects:
+- tout-public
 image:
   focal_point: Smart
 summary: Le GDR Vision réunit toute la communauté des chercheurs en France travaillant
@@ -14,17 +22,7 @@ summary: Le GDR Vision réunit toute la communauté des chercheurs en France tra
   de l'espace et les processus décisionnels. Il s'agit d'un réseau pluridisciplinaire
   réunissant psychophysiciens, psychologues, chercheurs en neurosciences (électrophysiologie
   et imagerie chez l'animal et l'Homme), et modélisateurs.
-title: '2019-10-10: GDR vision 2019'
-tags:
-- visual-illusions
-categories:
-- Education
-- NeuroAI & Machine Learning
-projects:
-- tout-public
 ---
-
-
 Avec Anna Montagnini, Manuel Vidal et Françoise Vitu, nous organisons cette année le GDR Vision à Marseille les journées du 10 et 11 octobre.
 
 * plus d'infos sur https://gdrvision2019.sciencesconf.org/

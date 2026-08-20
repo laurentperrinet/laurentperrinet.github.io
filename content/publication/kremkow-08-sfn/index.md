@@ -1,4 +1,17 @@
---- 
+---
+title: 'Control of the temporal interplay between excitation and inhibition by the
+  statistics of visual input: a V1 network modelling study'
+date: 2008-01-01
+authors:
+- Jens Kremkow
+- Laurent U Perrinet
+- Pierre Baudot
+- Manu Levy
+- Olivier Marre
+- Cyril Monier
+- Yves Frégnac
+- Guillaume S Masson
+- Ad M Aertsen
 abstract: In the primary visual cortex (V1), single cell responses to simple visual
   stimuli (gratings) are usually dense but with a high trial-by-trial variability.
   In contrast, when exposed to full field natural scenes, the firing patterns of these
@@ -28,35 +41,21 @@ abstract: In the primary visual cortex (V1), single cell responses to simple vis
   to gratings exhibits sparse and precise spiking to natural scenes. Work is under
   way to show to which extent this feature is specific for the feedforward vs recurrent
   nature of the modelled circuit.
-authors:
-- Jens Kremkow
-- Laurent U Perrinet
-- Pierre Baudot
-- Manu Levy
-- Olivier Marre
-- Cyril Monier
-- Yves Frégnac
-- Guillaume S Masson
-- Ad M Aertsen
-date: 2008-01-01
 featured: false
-grants:
-- facets
-publication: '*Proceedings of the Society for Neuroscience conference*'
-publication_types:
-- inproceedings
-title: 'Control of the temporal interplay between excitation and inhibition by the
-  statistics of visual input: a V1 network modelling study'
-tags:
-- primary-visual-cortex
-- sparse-coding
-- spiking-neural-networks
 categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
 - Computational Neuroscience
 - Education
 - Visual Neuroscience
+tags:
+- primary-visual-cortex
+- sparse-coding
+- spiking-neural-networks
+publication: '*Proceedings of the Society for Neuroscience conference*'
+publication_types:
+- inproceedings
+grants:
+- facets
 ---
-
 * see this subsequent paper in the [Journal of Computational Neuroscience]({{< ref "/publication/kremkow-10-jcns/index.md" >}})

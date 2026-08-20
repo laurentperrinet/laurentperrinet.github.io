@@ -1,19 +1,19 @@
---- 
+---
+title: 2022-11-21_flash-lag-effect
+date: 2022-11-21
 authors:
 - Laurent U Perrinet
-date: 2022-11-21
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
 tags:
 - motion-perception
 - Bayesian model
 - motion prediction
 - psychophysics
-categories:
-- Computational Neuroscience
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
 slides:
   theme: white
-title: 2022-11-21_flash-lag-effect
 ---
 <table width="100%"> 
 <tr>

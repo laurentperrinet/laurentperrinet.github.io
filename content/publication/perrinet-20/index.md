@@ -1,4 +1,9 @@
---- 
+---
+title: 'From the retina to action: Dynamics of predictive processing in the visual
+  system'
+date: 2020-01-01
+authors:
+- Laurent U Perrinet
 abstract: Within the central nervous system, visual areas are essential in transforming
   the raw luminous signal into a representation which efficiently conveys information
   about the environment. This process is constrained by the necessity of being robust
@@ -24,34 +29,7 @@ abstract: Within the central nervous system, visual areas are essential in trans
   from feed-forward prediction error to feed-back anticipation error. Still, the design
   of such a generic predictive processing circuit is still not fully understood and
   we will enumerate some possible implementations using biomimetic neural networks.
-authors:
-- Laurent U Perrinet
-date: 2020-01-01
-doi: 10.5040/9781350099784.ch-005
 featured: false
-grants:
-- anr-horizontal-v1
-- spikeai
-links:
-- name: Code
-  url: https://github.com/laurentperrinet/Perrinet20PredictiveProcessing_manubot
-- name: URL
-  url: https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/latest/index.html
-- name: HAL
-  url: https://hal.science/hal-03031128
-publication: '*The Philosophy and Science of Predictive Processing*'
-publication_types:
-- inbook
-title: 'From the retina to action: Dynamics of predictive processing in the visual
-  system'
-tags:
-- bayesian-modelling
-- foveated-vision
-- log-polar-mapping
-- motion-perception
-- predictive-coding
-- primary-visual-cortex
-- retinotopy
 categories:
 - Behavioural Neuroscience
 - Biological Neuroscience
@@ -60,8 +38,29 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
+tags:
+- bayesian-modelling
+- foveated-vision
+- log-polar-mapping
+- motion-perception
+- predictive-coding
+- primary-visual-cortex
+- retinotopy
+publication: '*The Philosophy and Science of Predictive Processing*'
+publication_types:
+- inbook
+doi: 10.5040/9781350099784.ch-005
+links:
+- name: Code
+  url: https://github.com/laurentperrinet/Perrinet20PredictiveProcessing_manubot
+- name: URL
+  url: https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/latest/index.html
+- name: HAL
+  url: https://hal.science/hal-03031128
+grants:
+- anr-horizontal-v1
+- spikeai
 ---
-
  * Find the text at https://laurentperrinet.github.io/Perrinet20PredictiveProcessing/
  * The source code of the text is available at https://github.com/laurentperrinet/Perrinet20PredictiveProcessing
 This chapter is available as part of the book "[The Philosophy and Science of Predictive Processing](https://www.bloomsbury.com/uk/the-philosophy-and-science-of-predictive-processing-9781350099753/)" :

@@ -1,15 +1,15 @@
---- 
-date: 2016-04-27 00:00:00
-summary: 'ANR REM : Renforcement et mouvements oculaires (2013/2016).'
+---
 title: ANR REM (2013/2016)
-tags:
-- eye-movements
-- spiking-neural-networks
+date: 2016-04-27 00:00:00
 categories:
 - Behavioural Neuroscience
 - Education
 - Grants & Funding
 - Theoretical Neuroscience
+tags:
+- eye-movements
+- spiking-neural-networks
+summary: 'ANR REM : Renforcement et mouvements oculaires (2013/2016).'
 ---
 {{< figure src="http://static.tvtropes.org/pmwiki/pub/images/R.E.M..jpg" alt="We were open :-)" lightbox="true" >}}
 Reinforcement learning theory provides a general conceptual framework to account for behavioral changes. Recently the idea that reinforcement may be used to explain learning in motor responses has emerged. In particular, there is a growing interest in studying the effects of reinforcement learning in arm movements trajectories (Dam, Kording, & Wei, 2013), pointing movements (Trommershauser, Landy, & Maloney, 2006), or eye movements (Madelain, Champrenaut, & Chauvin, 2007; Madelain & Krauzlis, 2003b; Madelain, Paeye, & Wallman, 2011; Sugrue, Corrado, & Newsome, 2004; Takikawa, Kawagoe, Itoh, Nakahara, & Hikosaka, 2002; Xu-Wilson, Zee, & Shadmehr, 2009). However, and despite these few seminal studies, much is still unknown about both the details of the effects of reward on motor control and the underlying mechanisms. **This proposal aims at a better understanding of how skilled motor responses are learned focusing on voluntary eye movements.**

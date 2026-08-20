@@ -1,4 +1,12 @@
---- 
+---
+title: Functional consequences of correlated excitatory and inhibitory conductances
+  in cortical networks
+date: 2010-06-01
+authors:
+- Jens Kremkow
+- Laurent U Perrinet
+- Guillaume S Masson
+- Ad M Aertsen
 abstract: Neurons in the neocortex receive a large number of excitatory and inhibitory
   synaptic inputs. Excitation and inhibition dynamically balance each other, with
   inhibition lagging excitation by only few milliseconds. To characterize the functional
@@ -14,30 +22,21 @@ abstract: Neurons in the neocortex receive a large number of excitatory and inhi
   recurrent network, the stabilizing effect of effective inhibition creates an suitable
   substrate for signal propagation. In conclusion, correlated excitation and inhibition
   support the notion that synchronous spiking may be important for cortical processing.
-authors:
-- Jens Kremkow
-- Laurent U Perrinet
-- Guillaume S Masson
-- Ad M Aertsen
-date: 2010-06-01
-doi: 10.1007/s10827-010-0240-9
 featured: false
-grants:
-- facets
-links:
-- name: URL
-  url: https://www.ncbi.nlm.nih.gov/pubmed/20490645
-publication: '*Journal of Computational Neuroscience*'
-publication_types:
-- article-journal
-title: Functional consequences of correlated excitatory and inhibitory conductances
-  in cortical networks
-tags:
-- sparse-coding
-- spiking-neural-networks
 categories:
 - Computational Neuroscience
 - Education
+tags:
+- sparse-coding
+- spiking-neural-networks
+publication: '*Journal of Computational Neuroscience*'
+publication_types:
+- article-journal
+doi: 10.1007/s10827-010-0240-9
+links:
+- name: URL
+  url: https://www.ncbi.nlm.nih.gov/pubmed/20490645
+grants:
+- facets
 ---
-
 ![header](kremkow-10-jcns.png)

@@ -1,15 +1,14 @@
---- 
-slides:
-  theme: white
-  transition: fade
-  width: 1280
-  height: 780
-  margin: 0.01
-date: '2025-02-11'
-all_day: false
-publishDate: '2025-02-04T12:47:11+02:00'
+---
 title: 2025-02-11-neuromath
-summary: 'When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Processing'
+date: '2025-02-11'
+publishDate: '2025-02-04T12:47:11+02:00'
+categories:
+- Computational Neuroscience
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+- Visual Neuroscience
 tags:
 - bayesian-modelling
 - foveated-vision
@@ -22,16 +21,17 @@ tags:
 - sparse-coding
 - spiking-neural-networks
 - visual-illusions
-categories:
-- Computational Neuroscience
-- Computer Vision
-- Education
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
-- Visual Neuroscience
 projects:
 - art-science
 - tout-public
+slides:
+  theme: white
+  transition: fade
+  width: 1280
+  height: 780
+  margin: 0.01
+all_day: false
+summary: 'When Cortical Neurons Talk Sideways: Beyond Feedforward Visual Processing'
 ---
 <section>
 <h2><u>

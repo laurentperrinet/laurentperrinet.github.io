@@ -1,27 +1,27 @@
---- 
+---
+title: Participation au jury
+date: 2017-11-17 18:30:00
 authors:
 - Laurent U Perrinet
-date: 2017-11-17 18:30:00
+featured: false
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+tags:
+- primary-visual-cortex
+projects:
+- tout-public
+publication: '**'
+publication_types:
+- inproceedings
 event: Festival Interférences - Cinéma Documentaire et Débat Public
 event_url: http://www.lacitedoc.com/interferences-programmation​
-featured: false
+location: Lyon, France
 links:
 - name: Conference
   url: http://www.lacitedoc.com/interferences-programmation​
 - name: URL
   url: https://laurentperrinet.github.io/talk/2017-11-17-festival-interferences/
-location: Lyon, France
-publication: '**'
-publication_types:
-- inproceedings
-title: Participation au jury
-tags:
-- primary-visual-cortex
-categories:
-- Computational Neuroscience
-- NeuroAI & Machine Learning
-projects:
-- tout-public
 ---
 # FESTIVAL INTERFÉRENCES​
 ## Cinéma Documentaire et Débat Public

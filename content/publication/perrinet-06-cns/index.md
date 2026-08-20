@@ -1,4 +1,9 @@
---- 
+---
+title: An efficiency razor for model selection and adaptation in the primary visual
+  cortex
+date: 2006-01-01
+authors:
+- Laurent U Perrinet
 abstract: 'We describe the theoretical formulation of a learning algorithm in a model
   of the primary visual cortex (V1) and present results of the efficiency of this
   algorithm by comparing it to the SparseNet algorithm (Olshausen, 1996). As the SparseNet
@@ -11,27 +16,22 @@ abstract: 'We describe the theoretical formulation of a learning algorithm in a 
   simulation of this network of small natural images (available at https://github.com/bicv/SparseHebbianLearning)
   and compare it to the SparseNet solution. We show that this solution based on neural
   computations produces an adaptive algorithm for efficient representations in V1.'
-authors:
-- Laurent U Perrinet
-date: 2006-01-01
 featured: false
-grants:
-- facets
-links:
-- name: PDF
-  url: https://ocns.memberclicks.net/assets/docs/CNS_Program_books/2006booklet.pdf
-publication: '*Fifteenth Annual Computational Neuroscience Meeting: CNS*2006*'
-publication_types:
-- inproceedings
-title: An efficiency razor for model selection and adaptation in the primary visual
-  cortex
-tags:
-- predictive-coding
-- primary-visual-cortex
-- sparse-coding
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
+tags:
+- predictive-coding
+- primary-visual-cortex
+- sparse-coding
+publication: '*Fifteenth Annual Computational Neuroscience Meeting: CNS*2006*'
+publication_types:
+- inproceedings
+links:
+- name: PDF
+  url: https://ocns.memberclicks.net/assets/docs/CNS_Program_books/2006booklet.pdf
+grants:
+- facets
 ---

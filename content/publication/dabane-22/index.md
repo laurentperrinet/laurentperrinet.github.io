@@ -1,4 +1,12 @@
---- 
+---
+title: 'What You See Is What You Transform: Foveated Spatial Transformers as a Bio-Inspired
+  Attention Mechanism'
+date: 2022-01-01
+lastmod: 2022-05-11 12:51:44+02:00
+authors:
+- Ghassan Dabane
+- Laurent U Perrinet
+- Emmanuel Daucé
 abstract: Convolutional Neural Networks have been considered the go-to option for
   object recognition in computer vision for the last couple of years. However, their
   invariance to object's translations is still deemed as a weak point and remains
@@ -13,28 +21,13 @@ abstract: Convolutional Neural Networks have been considered the go-to option fo
   training scheme and an efficient log-polar visual space entry, provides better performance
   when compared to the What/Where model, all this without the need for any extra supervision
   whatsoever.
-authors:
-- Ghassan Dabane
-- Laurent U Perrinet
-- Emmanuel Daucé
-date: 2022-01-01
-doi: 10.36227/techrxiv.16550391
-draft: false
 featured: false
-grants:
-- anr-anr
-image:
-  focal_point: Smart
-  preview_only: false
-lastmod: 2022-05-11 12:51:44+02:00
-links:
-- name: URL
-  url: https://www.techrxiv.org/articles/preprint/What_You_See_Is_What_You_Transform_Foveated_Spatial_Transformers_as_a_bio-inspired_attention_mechanism/16550391/1
-publication: '*IJCNN 2022 : International Joint Conference on Neural Networks*'
-publication_types:
-- inproceedings
-title: 'What You See Is What You Transform: Foveated Spatial Transformers as a Bio-Inspired
-  Attention Mechanism'
+draft: false
+categories:
+- Computational Neuroscience
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
 tags:
 - attention-mechanism
 - computer-vision
@@ -42,11 +35,17 @@ tags:
 - foveated-vision
 - log-polar-mapping
 - retinotopy
-categories:
-- Computational Neuroscience
-- Computer Vision
-- Education
-- NeuroAI & Machine Learning
+publication: '*IJCNN 2022 : International Joint Conference on Neural Networks*'
+publication_types:
+- inproceedings
+doi: 10.36227/techrxiv.16550391
+image:
+  focal_point: Smart
+  preview_only: false
+links:
+- name: URL
+  url: https://www.techrxiv.org/articles/preprint/What_You_See_Is_What_You_Transform_Foveated_Spatial_Transformers_as_a_bio-inspired_attention_mechanism/16550391/1
+grants:
+- anr-anr
 ---
-
 IJCNN page: https://www.techrxiv.org/articles/preprint/What_You_See_Is_What_You_Transform_Foveated_Spatial_Transformers_as_a_bio-inspired_attention_mechanism/16550391/1

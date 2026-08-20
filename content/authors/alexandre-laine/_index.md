@@ -1,7 +1,7 @@
---- 
+---
+title: Alexandre Lainé
 authors:
 - alexandre-laine
-title: Alexandre Lainé
 role: Phd candidate in Computational Neuroscience
 bio: During my PhD, I am focusing on spiking neural networks with heterogeneous delays.
 education:
@@ -25,7 +25,6 @@ superuser: false
 user_groups:
 - Current Students
 ---
-
 # PhD Student (2024-10 / 2027-09): Model-based analysis of neurobiological data
 
  * a fellowship from the doctoral school "Ecole Doctorale Sciences de la Vie et de la Santé, Aix Marseille Université"

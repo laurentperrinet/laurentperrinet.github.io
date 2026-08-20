@@ -1,9 +1,9 @@
---- 
+---
+title: Experience
 widget: experience
 headless: true
 active: false
 weight: 40
-title: Experience
 date_format: Jan 2006
 experience:
 - title: CEO
@@ -16,4 +16,3 @@ experience:
 design:
   columns: '2'
 ---
-

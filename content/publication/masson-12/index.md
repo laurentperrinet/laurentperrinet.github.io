@@ -1,4 +1,10 @@
---- 
+---
+title: The behavioral receptive field underlying motion integration for primate tracking
+  eye movements
+date: 2012-03-21
+authors:
+- Guillaume S Masson
+- Laurent U Perrinet
 abstract: Short-latency ocular following are reflexive, tracking eye movements that
   are observed in human and non-human primates in response to a sudden and brief translation
   of the image. Initial, open-loop part of the eye acceleration reflects many of the
@@ -9,29 +15,22 @@ abstract: Short-latency ocular following are reflexive, tracking eye movements t
   for context-dependent spatial integration and gain control. Functional models similar
   to that used for describing neuronal properties of receptive fields can then be
   applied successfully.
-authors:
-- Guillaume S Masson
-- Laurent U Perrinet
-date: 2012-03-21
-doi: 10.1016/j.neubiorev.2011.03.009
 featured: false
-links:
-- name: URL
-  url: https://view.ncbi.nlm.nih.gov/pubmed/21421006
-publication: '*Neuroscience and biobehavioral reviews*'
-publication_types:
-- article-journal
-title: The behavioral receptive field underlying motion integration for primate tracking
-  eye movements
+categories:
+- Behavioural Neuroscience
+- NeuroAI & Machine Learning
 tags:
 - aperture-problem
 - bayesian-modeling
 - eye-movements
 - motion-detection
 - predictive-coding
-categories:
-- Behavioural Neuroscience
-- NeuroAI & Machine Learning
+publication: '*Neuroscience and biobehavioral reviews*'
+publication_types:
+- article-journal
+doi: 10.1016/j.neubiorev.2011.03.009
+links:
+- name: URL
+  url: https://view.ncbi.nlm.nih.gov/pubmed/21421006
 ---
-
 ![header](masson-12.png)

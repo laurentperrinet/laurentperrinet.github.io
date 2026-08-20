@@ -1,4 +1,10 @@
---- 
+---
+title: Estimating and anticipating a dynamic probabilistic bias in visual motion direction
+date: 2018-01-01
+authors:
+- Laurent U Perrinet
+- Chloé Pasturel
+- Anna Montagnini
 abstract: Humans are able to accurately track a moving object with a combination of
   saccades and smooth eye  movements.  These  movements  allow  us  to  align  and  stabilize  the  object  on  the  fovea,  thus  enabling  high*resolution  visual  analysis.  When  predictive  information  is  available  about  target  motion,  anticipatory  smooth  pursuit  eye  movements  (aSPEM)  are  efficiently  generated  before  target  appearance,  which  reduce  the  typical  sensorimotor  delay  between  target  motion  onset  and  foveation.  It  is  generally  assumed  that  the  role  of  anticipatory  eye  movements  is  to  limit  the  behavioral  impairment  due  to  eye*to*target  position  and  velocity  mismatch.  By  manipulating  the  probability  for  target  motion  direction  we  were  able  to  bias  the  direction  and  mean  velocity  of  aSPEM,
   as measured during a fixed duration gap before target ramp*motion onset. This suggests
@@ -12,34 +18,27 @@ abstract: Humans are able to accurately track a moving object with a combination
   screen accordingly. In a second session the participants eye  movements are recorded
   during the observation of the same sequence of random*direction trials. In  parallel,  we  are  developing  new  automatic  routines  for  the  advanced  analysis  of  oculomotor  traces.  In  order  to  extract  the  relevant  parameters  of  the  oculomotor  responses  (latency,  gain,  initial  acceleration,  catch*up  saccades),  we  developed  new  tools  based  on  best*fitting  procedure  of  predefined
   patterns (i.e. the typical smooth pursuit velocity profile).
-authors:
-- Laurent U Perrinet
-- Chloé Pasturel
-- Anna Montagnini
-date: 2018-01-01
 featured: false
-grants:
-- pace-itn
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/pasturel-18-grenoble
-publication: '*Grenoble Workshop on Models and Analysis of Eye Movements, Grenoble,
-  France*'
-publication_types:
-- inproceedings
-title: Estimating and anticipating a dynamic probabilistic bias in visual motion direction
-tags:
-- bayesian-modelling
-- eye-movements
-- motion-perception
 categories:
 - Behavioural Neuroscience
 - Education
 - NeuroAI & Machine Learning
+tags:
+- bayesian-modelling
+- eye-movements
+- motion-perception
 projects:
 - pace-itn
+publication: '*Grenoble Workshop on Models and Analysis of Eye Movements, Grenoble,
+  France*'
+publication_types:
+- inproceedings
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/pasturel-18-grenoble
+grants:
+- pace-itn
 ---
-
 * see a write-up in {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="4" >}}
 * as presented at https://eyemovements.sciencesconf.org/
 * get the [poster](https://github.com/chloepasturel/AnticipatorySPEM/raw/master/Poster/2018-06-05_Poster_Workshop_Grenoble/Pasturel_etal2018grenoble.pdf)

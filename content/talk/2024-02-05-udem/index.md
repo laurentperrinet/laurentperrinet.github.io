@@ -1,4 +1,9 @@
---- 
+---
+title: Event-based vision
+date: 2023-12-01 09:45:00
+publishDate: '2024-01-19T07:59:44.385734Z'
+authors:
+- Laurent U Perrinet
 abstract: 'The biological retina represents changes in light intensity and communicates
   them to the brain by means of spikes. Similarly, event-based cameras mimic the way
   the biological retina processes visual information: each pixel independently reports
@@ -9,34 +14,29 @@ abstract: 'The biological retina represents changes in light intensity and commu
   motion detection, or gesture recognition. The goal is to demonstrate the benefits
   for computer vision of emulating biological principles inspired by neuroscience,
   but also to deepen our understanding of visual processes.'
-authors:
-- Laurent U Perrinet
-date: 2023-12-01 09:45:00
-draft: false
-event: Seminar at UdeM’s School of Optometry, UdeM
+subtitle: '*Seminar at UdeM’s School of Optometry, Montréal*'
 featured: false
+draft: false
+categories:
+- Computational Neuroscience
+- Computer Vision
+- NeuroAI & Machine Learning
+tags:
+- motion-perception
+- neuromorphic-computing
+projects:
+- tout-public
+publication_types:
+- inproceedings
+event: Seminar at UdeM’s School of Optometry, UdeM
+location: Montréal (Canada)
 image:
   focal_point: Smart
   preview_only: false
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2024-02-05-udem
-location: Montréal (Canada)
-publication_types:
-- inproceedings
-publishDate: '2024-01-19T07:59:44.385734Z'
 slides: 2024-02-05-udem
-subtitle: '*Seminar at UdeM’s School of Optometry, Montréal*'
-title: Event-based vision
-tags:
-- motion-perception
-- neuromorphic-computing
-categories:
-- Computational Neuroscience
-- Computer Vision
-- NeuroAI & Machine Learning
-projects:
-- tout-public
 ---
 # When brains meet computing machines
 * https://neurosciences.umontreal.ca/wp-content/uploads/sites/6/2024/02/conferenceNikon_Laurent_Perrinet.pdf

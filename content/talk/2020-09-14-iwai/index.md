@@ -1,4 +1,9 @@
---- 
+---
+title: Visual search as active inference
+date: 2020-09-14 18:00:00
+authors:
+- Emmanuel Daucé
+- Laurent U Perrinet
 abstract: Visual search is an essential cognitive ability, offering a prototypical
   control problem to be addressed with Active Inference. Under a Naive Bayes assumption,
   the maximization of the information gain objective is consistent with the separation
@@ -18,13 +23,21 @@ abstract: Visual search is an essential cognitive ability, offering a prototypic
   accuracy map. More importantly, it is expected to draw connections toward a more
   general actor-critic principle in action selection, with the accuracy of the central
   processing taking the role of a value (or intrinsic reward) of the previous saccade.
-authors:
-- Emmanuel Daucé
-- Laurent U Perrinet
-date: 2020-09-14 18:00:00
+featured: false
+categories:
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+tags:
+- bayesian-modelling
+- eye-movements
+projects:
+- tout-public
+publication: '*IWAI 2020*'
+publication_types:
+- inproceedings
 doi: 10.1007/978-3-030-64919-7_17
 event: IWAI 2020
-featured: false
+location: Ghent (Belgium), gone virtual
 links:
 - name: Slides
   url: https://laurentperrinet.github.io/2020-09-14_IWAI
@@ -32,19 +45,6 @@ links:
   url: https://github.com/laurentperrinet/2020-09-14_IWAI/
 - name: URL
   url: https://whova.com/embedded/subsession/ecmlp_202009/1215095/1215123/
-location: Ghent (Belgium), gone virtual
-publication: '*IWAI 2020*'
-publication_types:
-- inproceedings
-title: Visual search as active inference
-tags:
-- bayesian-modelling
-- eye-movements
-categories:
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
-projects:
-- tout-public
 ---
 * see proceedings paper: {{< cite page="/publication/dauce-20-iwai" view="1" >}}
 ![](@laurentperrinet_1305488089989754883_tweetcapture.png)

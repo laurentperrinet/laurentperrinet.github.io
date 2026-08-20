@@ -1,30 +1,29 @@
---- 
+---
 title: Population decoding of visual motion direction
+date: '2026-01-01'
+publishDate: '2026-06-29T10:24:36.735834Z'
 authors:
 - Alexandre Lainé
 - Nicholas J. Priebe
 - Guillaume S. Masson
 - Laurent U Perrinet
-date: '2026-01-01'
-publishDate: '2026-06-29T10:24:36.735834Z'
-publication_types:
-- paper-conference
-publication: '*Proceedings of AREADNE*'
-links:
-- name: Poster
-  url: https://alexandre-laine.github.io/files/2026_AREADNE-Poster.pdf
-- name: LinkedIn
-  url: https://www.linkedin.com/posts/ugcPost-7477633136114348033-Jze9
-tags:
-- motion-perception
-- primary-visual-cortex
 categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
+tags:
+- motion-perception
+- primary-visual-cortex
+publication: '*Proceedings of AREADNE*'
+publication_types:
+- paper-conference
+links:
+- name: Poster
+  url: https://alexandre-laine.github.io/files/2026_AREADNE-Poster.pdf
+- name: LinkedIn
+  url: https://www.linkedin.com/posts/ugcPost-7477633136114348033-Jze9
 ---
-
 🧠 Excited to share our latest research led by Alexandre Lainé and presented this summer at AREADNE 2026!
 
 "Population decoding of visual motion direction"

@@ -1,19 +1,18 @@
---- 
+---
+title: FACETS-ITN (2010/2013)
 date: 2015-04-27 00:00:00
-summary: 'FACETS-ITN: From Neuroscience to neuro-inspired computing (2010/2013)'
 authors:
 - yves-fregnac
 - laurent-u-perrinet
-title: FACETS-ITN (2010/2013)
-tags:
-- neuromorphic-computing
 categories:
 - Biological Neuroscience
 - Computational Neuroscience
 - Education
 - Grants & Funding
+tags:
+- neuromorphic-computing
+summary: 'FACETS-ITN: From Neuroscience to neuro-inspired computing (2010/2013)'
 ---
-
 # FACETS-ITN: From Neuroscience to neuro-inspired computing (2010/2013)
 
 <a href="http://facets.kip.uni-heidelberg.de/ITN/index.html" class="http"><img src="http://facets.kip.uni-heidelberg.de/images/e/e3/Public--ITN_PositionsPoster2.png" title="http://facets.kip.uni-heidelberg.de/ITN/index.html" alt="http://facets.kip.uni-heidelberg.de/ITN/index.html" class="external_image" style="width:25.0%" /></a>

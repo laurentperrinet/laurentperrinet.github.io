@@ -1,4 +1,12 @@
---- 
+---
+title: 'Motion Clouds: Model-based stimulus synthesis of natural-like random textures
+  for the study of motion perception'
+date: 2012-03-14
+authors:
+- Paula S Leon
+- Ivo Vanzetta
+- Guillaume S Masson
+- Laurent U Perrinet
 abstract: Choosing an appropriate set of stimuli is essential to characterize the
   response of a sensory system to a particular functional dimension, such as the eye
   movement following the motion of a visual scene. Here, we describe a framework to
@@ -11,14 +19,24 @@ abstract: Choosing an appropriate set of stimuli is essential to characterize th
   and propose an open-source Python-based implementation. Examples of the use of this
   framework are shown. We also propose extensions to other modalities such as color
   vision, touch, and audition.
-authors:
-- Paula S Leon
-- Ivo Vanzetta
-- Guillaume S Masson
-- Laurent U Perrinet
-date: 2012-03-14
-doi: 10.1152/jn.00737.2011
 featured: false
+categories:
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
+tags:
+- motion-clouds
+- motion-perception
+- predictive-coding
+- visual-illusions
+projects:
+- motion-clouds
+publication: '*Journal of Neurophysiology*'
+publication_types:
+- article-journal
+doi: 10.1152/jn.00737.2011
 links:
 - name: HAL
   url: https://hal.science/hal-00726828
@@ -28,26 +46,7 @@ links:
   url: https://arxiv.org/abs/1208.6467
 - name: Supp
   url: https://neuralensemble.org/MotionClouds/ms/MotionClouds_Supplementary.pdf
-publication: '*Journal of Neurophysiology*'
-publication_types:
-- article-journal
-title: 'Motion Clouds: Model-based stimulus synthesis of natural-like random textures
-  for the study of motion perception'
-tags:
-- motion-clouds
-- motion-perception
-- predictive-coding
-- visual-illusions
-categories:
-- Behavioural Neuroscience
-- Biological Neuroscience
-- Education
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
-projects:
-- motion-clouds
 ---
-
 ![header](sanz-12.png)
 **MotionClouds** are random dynamic stimuli optimized to study motion perception.
 * [Web-site](https://neuralensemble.github.io/MotionClouds/)

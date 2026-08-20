@@ -1,17 +1,17 @@
---- 
-slides:
-  theme: white
+---
 title: 2022-07-01_grimaldi-22-areadne
-tags:
-- neuromorphic-computing
-- spiking-neural-networks
 categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- neuromorphic-computing
+- spiking-neural-networks
 projects:
 - tout-public
+slides:
+  theme: white
 ---
 <img src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/brain-logo-240.jpg" alt="header" height="350">
 <table>

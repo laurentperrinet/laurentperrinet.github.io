@@ -1,11 +1,6 @@
---- 
-date: 2019-04-15 10:00:00
-summary: Algorithmes événementiels d’Intelligence Artificielle / Event-Based Artificial
-  Inteligence (2019).
+---
 title: 'SpikeAI: laureat du Défi Biomimétisme (2019)'
-tags:
-- neuromorphic-computing
-- spiking-neural-networks
+date: 2019-04-15 10:00:00
 categories:
 - Computational Neuroscience
 - Computer Vision
@@ -13,8 +8,12 @@ categories:
 - Grants & Funding
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- neuromorphic-computing
+- spiking-neural-networks
+summary: Algorithmes événementiels d’Intelligence Artificielle / Event-Based Artificial
+  Inteligence (2019).
 ---
-
 # Description
 
 * Le projet SpikeAI est lauréat de l'[appel à projets 2019 *Biomimétisme*](http://www.cnrs.fr/mi/spip.php?article1452&lang=fr) :

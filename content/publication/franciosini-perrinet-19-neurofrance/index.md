@@ -1,4 +1,11 @@
---- 
+---
+title: A hierarchical, multi-layer convolutional sparse coding algorithm based on
+  predictive coding
+date: 2019-01-01
+authors:
+- Angelo Franciosini
+- Victor Boutin
+- Laurent U Perrinet
 abstract: 'Sparse coding holds the idea that signals can be concisely described as
   a linear mixture of few components (called atoms) picked from a bigger set of primary
   kernels (called dictionary). This framework has long been used to model the strategy
@@ -25,41 +32,33 @@ abstract: 'Sparse coding holds the idea that signals can be concisely described 
   applications in signal processing (data compression), computer vision (by extending
   it to dynamic scenes) and computational neuroscience, notably by using more complex
   priors like group sparsity to model topological organization in the brain cortex.'
-authors:
-- Angelo Franciosini
-- Victor Boutin
-- Laurent U Perrinet
-date: 2019-01-01
 featured: false
-links:
-- name: URL
-  url: https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/790
-publication: '*NeuroFrance 2019, International Conference from the Société des Neurosciences,
-  Marseille, France*'
-publication_types:
-- inproceedings
-title: A hierarchical, multi-layer convolutional sparse coding algorithm based on
-  predictive coding
-tags:
-- bayesian-modelling
-- predictive-coding
-- primary-visual-cortex
-- sparse-coding
 categories:
 - Computational Neuroscience
 - Computer Vision
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 - Visual Neuroscience
+tags:
+- bayesian-modelling
+- predictive-coding
+- primary-visual-cortex
+- sparse-coding
 projects:
 - doc-2-amu
 - phd-icn
 - mesocentre
+publication: '*NeuroFrance 2019, International Conference from the Société des Neurosciences,
+  Marseille, France*'
+publication_types:
+- inproceedings
+links:
+- name: URL
+  url: https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/790
 grants:
 - doc-2-amu
 - mesocentre
 - phd-icn
 ---
-
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

@@ -1,27 +1,25 @@
---- 
-authors:
-- laurent-u-perrinet
+---
+title: Participation au jury du RISC
 date: 2023-12-16 20:00:00
 publishDate: '2023-12-04T09:59:44.385734Z'
-draft: false
+authors:
+- laurent-u-perrinet
 featured: false
-summary: Rencontres Internationales Sciences Et Cinémas
-event_url: http://www.pollymaggoo.org/
-location: Marseille, France
-title: Participation au jury du RISC
-links:
-- name: URL
-  url: http://festivalrisc.org/14e-edition/
-tags:
-- visual-illusions
+draft: false
 categories:
 - Education
 - NeuroAI & Machine Learning
+tags:
+- visual-illusions
 projects:
 - tout-public
+event_url: http://www.pollymaggoo.org/
+location: Marseille, France
+links:
+- name: URL
+  url: http://festivalrisc.org/14e-edition/
+summary: Rencontres Internationales Sciences Et Cinémas
 ---
-
-
 # 14ème RENCONTRES INTERNATIONALES SCIENCES & CINÉMAS (RISC)
 
 ![14eme du RISC](http://festivalrisc.org/wp-content/uploads/2023/11/RISCV02rvb-web-WP.jpg)

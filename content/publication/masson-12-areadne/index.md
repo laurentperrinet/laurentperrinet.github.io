@@ -1,4 +1,9 @@
---- 
+---
+title: Motion-based prediction is sufficient to solve the aperture problem
+date: 2012-01-01
+authors:
+- Guillaume S Masson
+- Laurent U Perrinet
 abstract: 'In low-level sensory systems, it is still unclear how the noisy information
   collected locally by neurons may give rise to a coherent global percept. This is
   well demonstrated for the detection of motion in the aperture problem: as luminance
@@ -16,26 +21,21 @@ abstract: 'In low-level sensory systems, it is still unclear how the noisy infor
   that motion-based predictive coding, as it is implemented in this functional model,
   is sufficient to solve the aperture problem. This simpler solution may give insights
   in the role of prediction underlying a large class of sensory computations.'
-authors:
-- Guillaume S Masson
-- Laurent U Perrinet
-date: 2012-01-01
 featured: false
-links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/masson-12-areadne
-publication: '*Proceedings of AREADNE*'
-publication_types:
-- inproceedings
-title: Motion-based prediction is sufficient to solve the aperture problem
+categories:
+- Computational Neuroscience
 tags:
 - aperture-problem
 - bayesian-modeling
 - bayesian-modelling
 - motion-perception
 - predictive-coding
-categories:
-- Computational Neuroscience
+publication: '*Proceedings of AREADNE*'
+publication_types:
+- inproceedings
+links:
+- name: URL
+  url: https://laurentperrinet.github.io/publication/masson-12-areadne
 grants:
 - codde
 ---

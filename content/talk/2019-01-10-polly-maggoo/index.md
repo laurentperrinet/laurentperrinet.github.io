@@ -1,32 +1,32 @@
---- 
+---
+title: Rencontre avec les collégiens marseillais
+date: 2019-01-10 09:30:00
+authors:
+- Laurent U Perrinet
 abstract: Le jeudi 10 janvier 2019, je suis venu échanger au côté de Serge Dentin
   autour de films traitant du rapport fiction/réel, des illusion visuelles (\" Qu'est
   ce qu'une image? \"), des rapports d'échelles, de la perception, ... et qui sont
   projetés lors de la séance, avec les élèves de deux classes de 4ème. Une occasion
   aussi de parler du métier de chercheur.
-authors:
-- Laurent U Perrinet
-date: 2019-01-10 09:30:00
+featured: false
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+tags:
+- visual-illusions
+projects:
+- tout-public
+publication: '**'
+publication_types:
+- inproceedings
 event: 'Cinéma et sciences : rencontre avec les collégiens marseillais'
 event_url: http://www.pollymaggoo.org/
-featured: false
+location: Marseille, France
 links:
 - name: Conference
   url: http://www.pollymaggoo.org/
 - name: URL
   url: https://laurentperrinet.github.io/talk/2019-01-10-polly-maggoo/
-location: Marseille, France
-publication: '**'
-publication_types:
-- inproceedings
-title: Rencontre avec les collégiens marseillais
-tags:
-- visual-illusions
-categories:
-- Computational Neuroscience
-- NeuroAI & Machine Learning
-projects:
-- tout-public
 ---
 # Cinéma et sciences : rencontre avec les collégiens marseillais
 L'Association Polly Maggoo <http://www.pollymaggoo.org/> met en place

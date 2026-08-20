@@ -1,10 +1,9 @@
---- 
+---
+title: Grants
 widget: portfolio
 headless: true
 active: true
 weight: 50
-title: Grants
-subtitle: ""
 content:
   page_type: grant
   filter_default: 0

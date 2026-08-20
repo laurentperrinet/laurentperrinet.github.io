@@ -1,14 +1,13 @@
---- 
-slides:
-  theme: white
-  reveal_options:
-    transition: fade
-date: '2026-01-29'
-all_day: false
-publishDate: '2026-01-25T12:47:11+02:00'
+---
 title: 2026-01-29-emergences
-summary: Sparse representations in biological vision applied to the effciency of machine
-  learning.
+date: '2026-01-29'
+publishDate: '2026-01-25T12:47:11+02:00'
+categories:
+- Computational Neuroscience
+- Computer Vision
+- Education
+- NeuroAI & Machine Learning
+- Theoretical Neuroscience
 tags:
 - bayesian-modelling
 - motion-perception
@@ -16,14 +15,15 @@ tags:
 - predictive-coding
 - sparse-coding
 - spiking-neural-networks
-categories:
-- Computational Neuroscience
-- Computer Vision
-- Education
-- NeuroAI & Machine Learning
-- Theoretical Neuroscience
 projects:
 - tout-public
+slides:
+  theme: white
+  reveal_options:
+    transition: fade
+all_day: false
+summary: Sparse representations in biological vision applied to the effciency of machine
+  learning.
 ---
 <section>
 

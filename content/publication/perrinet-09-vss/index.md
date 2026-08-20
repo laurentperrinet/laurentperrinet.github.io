@@ -1,4 +1,12 @@
---- 
+---
+title: Inferring monkey ocular following responses from V1 population dynamics using
+  a probabilistic model of motion integration
+date: 2009-01-01
+authors:
+- Laurent U Perrinet
+- Alexandre Reynaud
+- Frédéric Y Chavane
+- Guillaume S Masson
 abstract: 'Short presentation of a large moving pattern elicits an ocular following
   response that exhibits many of the properties attributed to low-level motion processing
   such as spatial and temporal integration, contrast gain control and divisive interaction
@@ -20,27 +28,18 @@ abstract: 'Short presentation of a large moving pattern elicits an ocular follow
   non congruous with the central excitation information shunts the ocular response
   and how it is topographically represented in the cortical activity. Acknowledgment:
   European integrated project FACETS IST-15879.'
-authors:
-- Laurent U Perrinet
-- Alexandre Reynaud
-- Frédéric Y Chavane
-- Guillaume S Masson
-date: 2009-01-01
 featured: false
-grants:
-- facets
-publication: '*Vision Science Society*'
-publication_types:
-- inproceedings
-title: Inferring monkey ocular following responses from V1 population dynamics using
-  a probabilistic model of motion integration
-tags:
-- bayesian-modelling
-- motion-perception
-- primary-visual-cortex
 categories:
 - Behavioural Neuroscience
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
+tags:
+- bayesian-modelling
+- motion-perception
+- primary-visual-cortex
+publication: '*Vision Science Society*'
+publication_types:
+- inproceedings
+grants:
+- facets
 ---
-

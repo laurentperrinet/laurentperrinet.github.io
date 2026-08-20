@@ -1,22 +1,22 @@
---- 
-slides:
-  theme: white
-  reveal_options:
-    transition: fade
-date: '2025-04-18'
-all_day: false
-publishDate: '2025-03-10T12:47:11+02:00'
+---
 title: 2025-04-18-vibration-apparences
-summary: La vibration des apparences
+date: '2025-04-18'
+publishDate: '2025-03-10T12:47:11+02:00'
+categories:
+- Visual Neuroscience
 tags:
 - eye-movements
 - sparse-coding
 - visual-illusions
-categories:
-- Visual Neuroscience
 projects:
 - art-science
 - tout-public
+slides:
+  theme: white
+  reveal_options:
+    transition: fade
+all_day: false
+summary: La vibration des apparences
 ---
 <section>
 
