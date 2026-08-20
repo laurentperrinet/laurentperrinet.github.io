@@ -12,6 +12,7 @@ categories:
 - Grants & Funding
 - NeuroAI & Machine Learning
 tags:
+- past-grant
 - bayesian-modelling
 - motion-perception
 summary: Integration sensory and prior information to control behavior (CRCNS US-French

@@ -11,6 +11,7 @@ categories:
 - Grants & Funding
 - NeuroAI & Machine Learning
 tags:
+- past-grant
 - neuromorphic-computing
 - spiking-neural-networks
 summary: Analog PROcessing of bioinspired VIsion Sensors for 3D reconstruction (APROVIS3D)

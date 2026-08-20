@@ -10,6 +10,7 @@ categories:
 - Grants & Funding
 - NeuroAI & Machine Learning
 tags:
+- past-grant
 - bayesian-modelling
 - eye-movements
 - motion-perception

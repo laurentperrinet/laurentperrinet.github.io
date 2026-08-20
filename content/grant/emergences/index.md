@@ -8,6 +8,7 @@ categories:
 - Grants & Funding
 - NeuroAI & Machine Learning
 tags:
+- current-grant
 - bayesian-modelling
 - neuromorphic-computing
 - sparse-coding

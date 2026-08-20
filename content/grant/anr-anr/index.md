@@ -13,6 +13,7 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:
+- past-grant
 - neuromorphic-computing
 - sparse-coding
 - spiking-neural-networks

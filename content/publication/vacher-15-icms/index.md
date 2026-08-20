@@ -12,8 +12,6 @@ categories:
 tags:
 - motion-perception
 - visual-illusions
-projects:
-- motion-clouds
 publication: '*ICMS 2015 conference*'
 publication_types:
 - inproceedings

@@ -1,10 +1,14 @@
 ---
 title: MesoCentre (2018/2026)
 date: 2024-10-25
+authors:
+- laurent-u-perrinet
 categories:
 - Computational Neuroscience
 - Grants & Funding
 - NeuroAI & Machine Learning
+tags:
+- current-grant
 type: page
 summary: 'MesoCentre (2018/2022) : access to the HPC resources of Aix-Marseille Université.'
 sections:

@@ -8,6 +8,7 @@ categories:
 - Grants & Funding
 - NeuroAI & Machine Learning
 tags:
+- past-grant
 - neuromorphic-computing
 - predictive-coding
 - sparse-coding

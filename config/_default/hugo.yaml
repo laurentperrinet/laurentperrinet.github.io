@@ -63,6 +63,7 @@ taxonomies:
   tag: tags
   category: categories
   grant: grants
+  project: projects
   publication_type: publication_types
 markup:
   _merge: deep

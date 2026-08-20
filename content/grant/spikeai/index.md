@@ -9,6 +9,7 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:
+- past-grant
 - neuromorphic-computing
 - spiking-neural-networks
 summary: Algorithmes événementiels d’Intelligence Artificielle / Event-Based Artificial

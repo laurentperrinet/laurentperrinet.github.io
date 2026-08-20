@@ -8,6 +8,7 @@ categories:
 - Grants & Funding
 - NeuroAI & Machine Learning
 tags:
+- past-grant
 - eye-movements
 - motion-perception
 - predictive-coding

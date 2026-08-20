@@ -13,6 +13,7 @@ categories:
 - Grants & Funding
 - Visual Neuroscience
 tags:
+- past-grant
 - bayesian-modelling
 - foveated-vision
 - log-polar-mapping

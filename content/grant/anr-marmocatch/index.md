@@ -3,6 +3,7 @@ title: ANR MarmoCatch (2023-10/2029-04)
 date: 2023-10-27 00:00:00
 authors:
 - frédéric-y-chavane
+- sophie-deneve
 - laurent-u-perrinet
 categories:
 - Biological Neuroscience
@@ -11,6 +12,7 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:
+- current-grant
 - motion-perception
 summary: ANR MarmoCatch (2023-10/2029-04)
 ---

@@ -7,6 +7,7 @@ categories:
 - Grants & Funding
 - Theoretical Neuroscience
 tags:
+- past-grant
 - eye-movements
 - spiking-neural-networks
 summary: 'ANR REM : Renforcement et mouvements oculaires (2013/2016).'

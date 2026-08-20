@@ -10,6 +10,7 @@ categories:
 - Education
 - Grants & Funding
 tags:
+- past-grant
 - neuromorphic-computing
 summary: 'FACETS-ITN: From Neuroscience to neuro-inspired computing (2010/2013)'
 ---

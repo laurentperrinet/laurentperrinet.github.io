@@ -9,6 +9,7 @@ categories:
 - Grants & Funding
 - NeuroAI & Machine Learning
 tags:
+- past-grant
 - neuromorphic-computing
 summary: 'BrainScaleS: Brain-inspired multiscale computation in neuromorphic hybrid
   systems (2011/2014).'

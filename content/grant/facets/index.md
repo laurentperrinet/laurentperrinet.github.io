@@ -9,6 +9,7 @@ categories:
 - Computational Neuroscience
 - Grants & Funding
 tags:
+- past-grant
 - neuromorphic-computing
 summary: 'FACETS: Fast Analog Computing with Emergent Transient States (2006/2010).'
 ---

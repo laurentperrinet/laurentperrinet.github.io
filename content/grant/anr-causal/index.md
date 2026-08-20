@@ -8,6 +8,7 @@ categories:
 - Grants & Funding
 - NeuroAI & Machine Learning
 tags:
+- past-grant
 - metaplasticity
 - spiking-neural-networks
 summary: 'ANR CausaL (2018/2020) : Cognitive​ ​architectures​ ​of​ Causal​ ​Learning.'

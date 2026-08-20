@@ -12,6 +12,7 @@ categories:
 - Grants & Funding
 - Visual Neuroscience
 tags:
+- past-grant
 - foveated-vision
 - log-polar-mapping
 - motion-clouds

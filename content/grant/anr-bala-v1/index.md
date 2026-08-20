@@ -9,6 +9,7 @@ categories:
 - Computational Neuroscience
 - Visual Neuroscience
 tags:
+- past-grant
 - primary-visual-cortex
 summary: 'ANR BalaV1: Balanced states in area V1 (2013--2016)'
 ---

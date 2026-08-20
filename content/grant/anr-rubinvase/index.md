@@ -9,6 +9,7 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:
+- past-grant
 - '''visual-illusions'''
 summary: RedUndancy-free neuro-BIological desigN of Visual and Auditory SEnsing
 ---

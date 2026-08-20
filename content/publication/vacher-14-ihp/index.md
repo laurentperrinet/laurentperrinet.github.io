@@ -15,8 +15,6 @@ tags:
 - motion-clouds
 - motion-perception
 - visual-illusions
-projects:
-- motion-clouds
 publication: '*IHP workshop*'
 publication_types:
 - inproceedings

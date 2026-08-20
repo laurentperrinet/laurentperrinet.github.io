@@ -13,6 +13,7 @@ categories:
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
 tags:
+- past-grant
 - bayesian-modelling
 - eye-movements
 summary: Assignment of credit and constraints on eye movement learning (2022/2026).
