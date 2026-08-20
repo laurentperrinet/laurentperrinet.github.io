@@ -5,8 +5,6 @@ authors:
 - Laurent U Perrinet
 date: '2026-03-05'
 publishDate: '2026-03-05T10:42:17.076066Z'
-publication_types:
-- paper-conference
 publication: '*Master 1 Neuroscience, UE Natural Cognition, Artificial Cognition.*'
 abstract: Visual areas are essential in transforming the raw luminous signal into
   a representation which efficiently conveys information about the environment. This
@@ -34,8 +32,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects:
-- tout-public
 ---
 Practical work: https://github.com/laurentperrinet/2026-03_UE-neurosciences-computationnelles/
 

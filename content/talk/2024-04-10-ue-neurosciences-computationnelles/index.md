@@ -5,10 +5,6 @@ date: 2024-04-10 09:00:00
 draft: false
 event: Master 1 Neurosciences et Sciences Cognitives
 featured: false
-image:
-  caption: ''
-  focal_point: Smart
-  preview_only: false
 links:
 - name: Code
   url: https://github.com/laurentperrinet/2024-04_UE-neurosciences-computationnelles

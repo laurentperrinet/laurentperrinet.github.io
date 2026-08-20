@@ -5,8 +5,6 @@ authors:
 - Laurent U Perrinet
 date: '2025-02-14'
 publishDate: '2025-02-13T08:44:04.279335Z'
-publication_types:
-- paper-conference
 publication: '*Journée conviviale des anciens Sup''Aero*'
 abstract: L'intelligence artificielle, plus précisément l'apprentissage profond, a
   fait d'énormes progrès ces dernières années. Toutefois, deux obstacles majeurs subsistent
@@ -36,6 +34,4 @@ tags:
 categories:
 - Education
 - NeuroAI & Machine Learning
-projects:
-- tout-public
 ---

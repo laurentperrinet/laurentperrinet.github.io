@@ -5,8 +5,6 @@ authors:
 - Étienne Rey
 date: '2026-01-01'
 publishDate: '2026-01-19T08:15:26.200728Z'
-publication_types:
-- paper-conference
 publication: '*Lab Tour for Art - Perception Course, January 19th, 2026*'
 abstract: 'By construction, deep convolutional networks treat all pixels equally.
   Result: they are energy-hungry, fragile to rotations or zooms, and poor at object
@@ -40,9 +38,6 @@ categories:
 - Computer Vision
 - Education
 - NeuroAI & Machine Learning
-projects:
-- art-science
-- tout-public
 ---
 👁️ Very glad to present our Art/Perception collaboration with Étienne Rey today!
 

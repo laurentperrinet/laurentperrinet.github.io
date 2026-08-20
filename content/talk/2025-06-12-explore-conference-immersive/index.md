@@ -4,8 +4,6 @@ authors:
 - Laurent U Perrinet
 date: '2025-06-12'
 publishDate: '2025-06-03T07:46:11.967619Z'
-publication_types:
-- paper-conference
 publication: '*Festival EXPLORE organisé par Aix Marseille Université et la DR12 du
   CNRS.*'
 abstract: 'Ouvrez grand les yeux… mais méfiez-vous de ce qu’ils vous montrent. Cette
@@ -21,15 +19,12 @@ links:
   url: https://laurentperrinet.github.io/talk/2025-06-12_explore-conference-immersive
 - name: Tout public!
   url: https://laurentperrinet.github.io/project/tout-public/
-- tout-public
 tags:
 - visual-illusions
 categories:
 - Behavioural Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- tout-public
 ---
 * https://explore.univ-amu.fr/programme
 

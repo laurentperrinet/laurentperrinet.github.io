@@ -4,8 +4,6 @@ authors:
 - Laurent U Perrinet
 date: '2025-10-16'
 publishDate: '2025-10-14T20:07:40.008472Z'
-publication_types:
-- paper-conference
 publication: '*Suresh Krishna''s lab meeting at McGill.*'
 abstract: 'Why do we sometimes misjudge where visual objects are? This talk explores
   how predictive processing may cause systematic perceptual mislocalizations. Indeed,
@@ -28,6 +26,4 @@ categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 - Theoretical Neuroscience
-projects:
-- tout-public
 ---

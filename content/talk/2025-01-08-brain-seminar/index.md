@@ -4,8 +4,6 @@ authors:
 - Laurent U Perrinet
 date: '2025-01-08'
 publishDate: '2024-12-23T13:47:40.899550Z'
-publication_types:
-- paper-conference
 publication: '*BRaIN Seminar,  CRN and McGill Vision Research*'
 abstract: The retinas of many animals, including humans, have a specialized area of
   high visual acuity called the fovea, while peripheral regions have lower resolution.
@@ -37,8 +35,6 @@ categories:
 - Education
 - NeuroAI & Machine Learning
 - Visual Neuroscience
-projects:
-- tout-public
 ---
 * When: Wednesday 9th of January, 2025 at 12 noon.
 * Where: CRN seminar room, Montreal General Hospital, Livingston Hall, L7-140, with hybrid option.

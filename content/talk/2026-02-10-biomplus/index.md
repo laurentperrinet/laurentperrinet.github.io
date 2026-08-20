@@ -4,8 +4,6 @@ authors:
 - Laurent U Perrinet
 date: '2026-02-10'
 publishDate: '2026-01-26T11:48:02.451044Z'
-publication_types:
-- paper-conference
 publication: '*Séminaire en ligne biomimétisme et neurosciences*'
 slides: 2026-02-10-biomplus
 links:
@@ -15,8 +13,6 @@ categories:
 - Computational Neuroscience
 - Education
 - NeuroAI & Machine Learning
-projects:
-- tout-public
 ---
 Rendez-vous ce mardi 10 février 2026 / 9h-10h30 pour plonger dans le monde fascinant des neurosciences.
 

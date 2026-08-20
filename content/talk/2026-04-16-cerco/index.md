@@ -26,12 +26,12 @@ abstract: 'Working memory, the ability to store and retrieve precise temporal pa
 projects:
 - tout-public
 categories:
-  - Computational Neuroscience
-  - Computer Vision
-  - NeuroAI & Machine Learning
+- Computational Neuroscience
+- Computer Vision
+- NeuroAI & Machine Learning
 tags:
-  - neuromorphic-computing
-  - spiking-neural-networks
+- neuromorphic-computing
+- spiking-neural-networks
 
 slides: 2026-04-16-cerco
 

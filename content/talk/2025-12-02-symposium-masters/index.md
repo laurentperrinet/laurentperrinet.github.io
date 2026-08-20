@@ -4,8 +4,6 @@ authors:
 - Laurent U Perrinet
 date: '2025-12-02'
 publishDate: '2025-11-26T09:59:39.745256Z'
-publication_types:
-- paper-conference
 publication: '*Symposium of the Neuroschool Master, Marseille, December 1 and 2 2025.*'
 abstract: 'By construction, deep convolutional networks treat all pixels equally.
   Result: they are energy-hungry, fragile to rotations or zooms, and poor at object
@@ -34,6 +32,4 @@ categories:
 - Computer Vision
 - Education
 - NeuroAI & Machine Learning
-projects:
-- tout-public
 ---
