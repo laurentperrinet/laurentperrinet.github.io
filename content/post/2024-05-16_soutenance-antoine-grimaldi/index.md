@@ -21,6 +21,7 @@ summary: 'Antoine Grimaldi (Equipe NeOpTo) a soutenu sa thèse de doctorat intit
   *Neural computations with precise spiking motifs for dynamic vision* le Jeudi 16
   mai à 15h'
 ---
+
 # "Neural computations with precise spiking motifs for dynamic vision" Soutenance de thèse Antoine Grimaldi
 
 * Date : Jeudi 16 mai à 15h (CEST)

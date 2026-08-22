@@ -22,6 +22,7 @@ image:
   preview_only: false
 summary: 'EUVIP Session 7: Biologically Inspired Computer Vision (Special Session).'
 ---
+
 # 2016-10-26 : EUVIP Special Session on *Biologically Inspired Computer Vision*
 
 ## description of the session

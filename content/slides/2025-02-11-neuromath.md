@@ -244,6 +244,7 @@ However, this organization shows important **species-specific variations**. Most
 This figure shows landmark results by Bosking et al. (1997) combining orientation preference maps with retrograde tracers. After injecting tracers (white arrow), they found labeled synapses (black dots) primarily connecting neurons of similar orientation preference, leading to the influential "like-to-like" connectivity hypothesis. However, later studies by Hunt, Goodhill and others revealed significant diversity in these connection patterns across cortical regions and species, suggesting more complex connectivity rules than initially proposed. This nuanced understanding has important implications for how we think about the functional organization of horizontal connections in V1.
 
 {{< /speaker_note >}}
+
 ---
 
 ## Contour detection and the Association Field
@@ -265,6 +266,7 @@ However, we should be cautious about overstating these relationships. While hori
 During the **remainder of this talk**, I will try to shed light on our current knowledege on horizontal connectivities.
 
 {{< /speaker_note >}}
+
 ---
 
 ## Supplementary: the HMAX model
@@ -468,6 +470,7 @@ Panel C displays intracellular recordings of subthreshold responses visualized a
 These shows a direct functional evidence for a diversity of tuning profile in th horizontal connectivity.
 
 {{< /speaker_note >}}
+
 ---
 
 ## Challenging the like-to-like hypothesis
@@ -644,6 +647,7 @@ The probability distribution function p(ψ,θ) represents the distribution of th
 {{< /speaker_note >}}
 
 ---
+
 ## Edge co-occurences in natural images
 
 {{< figure src="https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_chevrons2.png" title="Edge co-occurrences can account for rapid categorization of natural versus animal images [[LP and Bednar, 2015]](https://laurentperrinet.github.io/publication/perrinet-bednar-15/)" height="420" >}}
@@ -723,6 +727,7 @@ To understand the diversity in horizontal connectivity patterns, we developed a 
 3. Hierarchical processing through multiple layers
 
 {{< /speaker_note >}}
+
 ---
 
 ## Predictive processing
@@ -745,6 +750,7 @@ To bridge the gap between anatomical observations and functional requirements of
 
 By defining a **cost on minimizing the prediction error** in each layer, everything stays derivable, such that we can use a classical gradient descent. These additions should allow us to better understand how feedback shapes visual processing in biological neural networks.
 {{< /speaker_note >}}
+
 ---
 
 ## Predictive processing
@@ -831,6 +837,7 @@ It is worth noting that extending the model with additional architectural featur
 ---
 
 <section>
+
 ## Challenging the like-to-like hypothesis
 
 {{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" title="[Bosking *et al*, 1997]" height="420" >}}
@@ -917,6 +924,7 @@ Thanks for your attention, I would be happy to take your questions.
 {{< /speaker_note >}}
 
 ---
+
 ## Dynamics of vision
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/tsonga.jpg" title="Sensorimotor delays ([Perrinet & Friston 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))" height="420" >}}
@@ -926,6 +934,7 @@ Thanks for your attention, I would be happy to take your questions.
 {{< /speaker_note >}}
 
 ---
+
 ## Dynamics of vision
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/figure-tsonga.jpg" title="Sensorimotor delays ([Perrinet & Friston, 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))" height="420" >}}
@@ -935,6 +944,7 @@ Thanks for your attention, I would be happy to take your questions.
 {{< /speaker_note >}}
 
 ---
+
 ## Dynamics of vision
 
 {{< video src="https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag.mp4" autoplay="yes" >}}
@@ -1062,6 +1072,7 @@ We used this theoretical principle in an algorithm for detecting movement in an 
 
 We then used a neural network with a classical architecture, which we enhanced by using an impulse representation that takes into account different possible synaptic delays. In this figure, we have represented the input in the left grid, which represents the occurrence of spikes of positive or negative polarity. Then we have represented different processing channels denoted by the colors green and orange, which are applied to this input to produce membrane activity. As illustrated above, this activity will produce output pulses, notably in synaptic connection nuclei, with heterogeneous delays corresponding to the detection of precise spatio-temporal patterns.
 {{< /speaker_note >}}
+
 ---
 
 ## Spiking Neural Networks: HD-SNN
@@ -1075,6 +1086,7 @@ One advantage of this network is that it is differentiable, enabling us to apply
 Such spatio-temporal filtering is observed in neurobiology, but to my knowledge had never been observed in a model of spiking neurons trained under natural conditions.
 
 {{< /speaker_note >}}
+
 ---
 
 ## Spiking Neural Networks: HD-SNN

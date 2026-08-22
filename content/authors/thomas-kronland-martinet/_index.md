@@ -17,6 +17,7 @@ user_groups:
 grants:
 - polychronies
 ---
+
 #  Ultra-fast processing of sensor inputs acquired by an event camera
 The mission aims to develop a spiking neural network (SNN) capable of ultra-fast processing of sensor inputs acquired by an event camera, enabling the extraction of fundamental video stream features such as optical flow or the presence of specific objects like birds. The mission will focus on developing an end-to-end event-based algorithm and evaluating its energy efficiency compared to the state of the art.
 

@@ -111,6 +111,7 @@ link with autoencoder
 ça marche très bien!
 
 {{< /speaker_note >}}
+
 ---
 
 ## Convolutional Sparse Coding -->
@@ -171,6 +172,7 @@ It's interesting to draw a parallel between this process and the optic nerve tha
 - can we force a sparse connectivity (beware that's diferent from sparse activity)
 
 {{< /speaker_note >}}
+
 ---
 
 ## Sparse representations in neuromorphic engineering
@@ -264,6 +266,7 @@ in summary: Sparse representations resulting from these processes have been succ
 - ...let's delve into a computational theory of sparse coding
 review_bib = s.content_bib("LP", "2015", '"Sparse models" in <a href="https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/">Biologically Inspired Computer Vision</a>')
 {{< /speaker_note >}}
+
 ---
 
 ## Sparse representations in a nutshell
@@ -283,6 +286,7 @@ review_bib = s.content_bib("LP", "2015", '"Sparse models" in <a href="https://la
 {{< speaker_note >}}
 
 {{< /speaker_note >}}
+
 ---
 
 ## Sparse representations in a nutshell
@@ -402,6 +406,7 @@ exponential prior => L1 norm
 
 {{< speaker_note >}}
 {{< /speaker_note >}}
+
 ---
 
 ## Sparse representations in a nutshell
@@ -541,6 +546,7 @@ assign th first value of the sparse vector to the winning one
 use of correlation
 assign th first value of the sparse vector to the winning one
 {{< /speaker_note >}}
+
 ---
 
 ## Matching pursuit algorithm
@@ -552,6 +558,7 @@ assign th first value of the sparse vector to the winning one
 ça marche très bien!
 
 {{< /speaker_note >}}
+
 ---
 
 ## Convolutional Sparse Coding -->
@@ -580,6 +587,7 @@ Unsupervised Learning of the dictionary
 Hebbian learning
 
 {{< /speaker_note >}}
+
 ---
 
 ## Matching pursuit algorithm
@@ -589,6 +597,7 @@ Hebbian learning
 {{< speaker_note >}}
 
 {{< /speaker_note >}}
+
 ---
 
 ## Sparse representations in a nutshell
@@ -633,6 +642,7 @@ Hebbian learning
 {{< speaker_note >}}
 - sota...
 {{< /speaker_note >}}
+
 ---
 
 ### Convolution: Mathematics
@@ -713,6 +723,7 @@ $$
 {{< speaker_note >}}
 - now we get to the full CNN 
 {{< /speaker_note >}}
+
 ---
 
 ### CNN: the HMAX model
@@ -801,6 +812,7 @@ Code @ [SparseEdges](https://nbviewer.org/github/bicv/SparseEdges/blob/master/Sp
 - novel challenges for CNNs
 - 1/ backpropagation is not bioplausible 
 {{< /speaker_note >}}
+
 ---
 
 ### CNN: Predictive processing

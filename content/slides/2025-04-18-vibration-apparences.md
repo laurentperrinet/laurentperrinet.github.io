@@ -44,6 +44,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 ---
 
 <section>
+
 ## "L'irraisonnable efficacité de la vision"
 
 {{< figure src="https://images.theconversation.com/files/568221/original/file-20240108-17-78s0cj.png" title="Comment la vision a évolué... [[Perrinet, 2024]](https://theconversation.com/chats-mouches-humains-comment-la-vision-a-evolue-en-de-multiples-facettes-220083) " width="100%" >}}
@@ -52,6 +53,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 {{< /speaker_note >}}
 
 ---
+
 ## [Illusions visuelles](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg" title="[Rotating Snakes *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)" width="70%" >}}
@@ -130,6 +132,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 ---
 
 <section>
+
 ## Neurosciences computationnelles de la vision
 {{< figure src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Churchland92.png" title="[[Sejnowski, Koch & Churchland (1998)](http://www.hms.harvard.edu/bss/neuro/bornlab/nb204/papers/sejnowski-koch-churchland-science1988.pdf)]" width="50%" >}}
 
@@ -187,6 +190,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 ---
 
 <section>
+
 ## Art & Sciences 
 
 {{% fragment %}} 
@@ -211,6 +215,7 @@ https://github.com/NaturalPatterns/2013_Tropique
 {{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_b.jpg" title="[Étienne Rey, Tropique](https://ondesparalleles.org/projets/tropique-7/)" width="100%" >}}
 {{< speaker_note >}}
 {{< /speaker_note >}}
+
 ---
 
 ## Tropique
@@ -234,6 +239,7 @@ https://github.com/NaturalPatterns/2013_Tropique
 {{< figure src="https://laurentperrinet.github.io/post/2016-06-02_elasticite/TRAME_Elasticité.jpg" title="[Étienne Rey, TRAME ÉLASTICITÉ](https://ondesparalleles.org/projets/trame-elasticite-vasarely/)" width="100%" >}}
 {{< speaker_note >}}
 {{< /speaker_note >}}
+
 ---
 
 ## TRAME ÉLASTICITÉ
@@ -244,6 +250,7 @@ https://github.com/NaturalPatterns/2013_Tropique
 ---
 
 <section>
+
 ## De la nature des choses
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/90/Phyllotaxis_golden_angle.svg"  title="[Phyllotaxie](https://fr.wikipedia.org/wiki/Phyllotaxie)" width="50%" >}}
 
@@ -260,6 +267,7 @@ Par <a href="//commons.wikimedia.org/wiki/User:Cmglee" title="User:Cmglee">Cmgle
 
 {{< speaker_note >}}
 {{< /speaker_note >}}
+
 ---
 
 {{< figure src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/featured.png"  title="[Étienne Rey, Densité flou](https://laurentperrinet.github.io/post/2019-06-22_ardemone/)" width="100%" >}}
@@ -286,6 +294,7 @@ Par <a href="//commons.wikimedia.org/wiki/User:Cmglee" title="User:Cmglee">Cmgle
 ---
 
 <section>
+
 <!-- {{< slide background-image="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" >}} -->
 
 {{< figure src="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" width="50%" >}}
@@ -295,19 +304,23 @@ Par <a href="//commons.wikimedia.org/wiki/User:Cmglee" title="User:Cmglee">Cmgle
 {{< /speaker_note >}}
 
 ---
+
 ## La vibration des apparences
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Montagne_Sainte-Victoire%2C_par_Paul_C%C3%A9zanne_108.jpg" title="[Paul Cézanne, Montagne Sainte-Victoire, 1904](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne)" width="62%" >}}
 
 {{< speaker_note >}}
 
 {{< /speaker_note >}}
+
 ---
+
 ## La vibration des apparences
 {{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/Merleau-Ponty_Sens-et-non-sens.png" title="[Merleau-Ponty, Sens et non-sens](https://laurentperrinet.github.io/author/etienne-rey/)" width="62%" >}}
 
 {{< speaker_note >}}
 
 {{< /speaker_note >}}
+
 ---
 
 {{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png"  title="[Étienne Rey, Trames](https://laurentperrinet.github.io/post/2018-04-10_trames/)" width="80%" >}}
@@ -397,6 +410,7 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 ---
 
 <section>
+
 # [La vibration des apparences](https://laurentperrinet.github.io/slides/2025-04-18-vibration-apparences/?transition=fade)
 ##	*[Laurent Perrinet](https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/)*
 ###	<u>[Journées d’Ouverture Scientifique (JOS)](https://jos.lis-lab.fr/)</u>

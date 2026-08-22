@@ -28,6 +28,7 @@ slides:
 </tr>
 </table>
 ---
+
 ## Spiking Neural Networks
 
 {{< figure src="../../grant/anr-anr/event_driven_computations.png" title="From frame-based to event-based cameras." >}}
@@ -55,6 +56,7 @@ slides:
 {{< video src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/HSD_conductance_speeds.mp4" autoplay="yes" title="...we propose to add heterogeneous delays." >}}
 
 ---
+
 ## supervised learning
 ---
 {{< video src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/2022-06-23_Supervised_MC_input_1.mp4" autoplay="yes" >}}
@@ -71,6 +73,7 @@ slides:
 
 {{< video src="https://laurentperrinet.github.io/talk/2022-06-19-neuro-vision-heterogeneous/2022-05-24_Supervised_MC_MC.mp4" autoplay="yes" >}}
 ---
+
 ## Learned heterogeneous weights
 ---
 
@@ -85,6 +88,7 @@ slides:
 {{< figure src="../../publication/grimaldi-22-areadne/2022-07-08_Supervised_nat_joint_ON-OFF.png" title="Scatter of ON versus OFF weights." >}}
 
 ---
+
 ## Frugal computing
 
 {{< figure src="../../publication/grimaldi-22-areadne/accuracy.png" title="Stable accuracy while pruning ~99% weights." >}}

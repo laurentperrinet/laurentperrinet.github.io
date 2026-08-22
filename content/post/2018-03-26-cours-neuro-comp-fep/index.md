@@ -18,6 +18,7 @@ projects:
 - tout-public
 summary: 'PhD Program: course in Computational Neuroscience.'
 ---
+
 # PhD Program: course in Computational Neuroscience
 
 Context

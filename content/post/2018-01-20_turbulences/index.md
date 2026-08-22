@@ -19,6 +19,7 @@ summary: L’installation Turbulences explore l’émergence de caustiques, phé
   perturbe un état optique stable. La turbulence des plis lumineux donne l’illusion
   d’un corps flottant.
 ---
+
 # Turbulences
 {{< vimeo 303255760 >}}
 ## Installation in situ, 2018; Collection of the François Schneider Foundation, Wattwiller I 2018

@@ -25,6 +25,7 @@ summary: 'We organized a Symposium at NeuroFrance 2019 entitled *Active Inferenc
   theoretical neuroscience symposia organized in this international conference from
   the french Neursocience Society.'
 ---
+
 ## Active Inference: Bridging theoretical and experimental neurosciences. / Inference Active: Un pont entre neurosciences théoriques et expérimentales.
 
 [![Site NeuroFrance](https://neuro-marseille.org/wp-content/uploads/2018/07/capture-decran-2018-07-06-a-190423.png)](https://www.neurosciences.asso.fr/V2/colloques/SN19/index_en.php)

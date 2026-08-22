@@ -24,6 +24,7 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/sciblog/files/2018-10-11_BioMorphisme.html
 ---
+
 ## in "La modélisation de la genèse physico-mathématique du vivant"
 ## BIOMORPHISME ET CREATION ARTISTIQUE – Session 3
   - Date  

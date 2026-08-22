@@ -60,6 +60,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 {{< /speaker_note >}}
 
 ---
+
 ## What is the function of vision?
 
 {{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_001.jpg" title="[An Unexpected Visitor (Ilya Repin, 1884)](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
@@ -67,6 +68,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 - seeing= interacting with the visual world
 - social animals: looking at emotions
 {{< /speaker_note >}}
+
 ---
 
 ## What is the function of vision?
@@ -79,6 +81,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 - "1) examine the painting freely"
 - consistency of eye traces / interindividual differences
 {{< /speaker_note >}}
+
 ---
 
 ## What is the function of vision?
@@ -88,6 +91,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 - active: depends on task:
 - "3) assess the ages of the characters"
 {{< /speaker_note >}}
+
 ---
 
 ## What is the function of vision?
@@ -169,7 +173,9 @@ in that specific case...
 {{< speaker_note >}}
 - of showing an effect of context -> 3D
 {{< /speaker_note >}}
+
 ---
+
 ## Principles of vision?
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
@@ -251,6 +257,7 @@ https://laurentperrinet.github.io/talk/2023-05-10-phd-program-neurosciences-comp
 - backpropagation is not bioplausible 
 - modification
 {{< /speaker_note >}}
+
 ---
 
 ## Convolutional Neural Networks : Mathematics
@@ -314,6 +321,7 @@ $$
 {{< speaker_note >}}
 - adding sparse coding + feedback
 {{< /speaker_note >}}
+
 ---
 
 ## Convolutional Neural Networks : Predictive coding
@@ -347,17 +355,20 @@ $$
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
 ---
+
 # Dynamics of vision
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
 
 <!--
 ---
+
 ## Dynamics of vision
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/scheme_thorpe.jpg" title="[[Thorpe, 2001]](https://laurentperrinet.github.io/2022-01-12_NeuroCercle/#/2/1)" width="70%" >}} -->
 <!--
 ---
+
 ## Dynamics of vision
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency-estimate.jpg" title="Precise Spiking Motifs] ([see review](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))." width="80%" >}} -->
@@ -395,15 +406,18 @@ $$
 {{< /speaker_note >}}
 
 ---
+
 ## Dynamics of vision
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/tsonga.jpg" title="Sensorimotor delays ([Perrinet & Friston 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))" width="75%" >}}
 ---
+
 ## Dynamics of vision
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/figure-tsonga.jpg" title="Sensorimotor delays ([Perrinet & Friston, 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))" width="75%" >}}
 
 ---
+
 ## Dynamics of vision
 {{< video src="https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag.mp4" autoplay="yes" >}}
 ---
@@ -461,6 +475,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 {{< /speaker_note >}}
 
 ---
+
 ## Spiking Neural Networks in neurobiology
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/replicating_MainenSejnowski1995.png" title="[[Mainen & Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]" width="99%" >}}
@@ -472,6 +487,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 {{< /speaker_note >}}
 
 ---
+
 ## Spiking Neural Networks in neurobiology
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/Diesmann_et_al_1999.png" title="[[Diesmann et al. 1999](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_3_Diesmann_et_al_1999.py)]" width="99%" >}}
@@ -484,6 +500,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 {{< /speaker_note >}}
 
 ---
+
 ## Spiking Neural Networks in neurobiology
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/haimerl2019.jpg" title="[[Haimerl et al, 2019](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)]" width="99%" >}}
@@ -535,6 +552,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 - A nice HSD neuron
 
 {{< /speaker_note >}}
+
 ---
 
 ## Spiking Neural Networks in neuromorphic engineering
@@ -547,6 +565,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 - event-based cameras
 
 {{< /speaker_note >}}
+
 ---
 
 ## Spiking Neural Networks in neuromorphic engineering
@@ -558,6 +577,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 - For instance, we show how precise spike times may be used to detect the direction of motion from such a stream of events in an ultrafast fashion.
 {{< /speaker_note >}}
+
 ---
 
 ## Spiking Neural Networks in neuromorphic engineering
@@ -571,6 +591,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 For instance, we show how precise spike times may be used to detect the direction of motion from such a stream of events in an ultrafast fashion.
 {{< /speaker_note >}}
+
 ---
 
 ## Spiking Neural Networks in neuromorphic engineering
@@ -583,6 +604,7 @@ For instance, we show how precise spike times may be used to detect the directio
 - nice kernels
 
 {{< /speaker_note >}}
+
 ---
 
 ## Spiking Neural Networks in neuromorphic engineering
@@ -600,6 +622,7 @@ For instance, we show how precise spike times may be used to detect the directio
 ---
 
 <section>
+
 ## Artificial neural networks and machine learning applied to the understanding of biological vision
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}

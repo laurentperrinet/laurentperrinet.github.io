@@ -39,6 +39,7 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2010-04-14-ondes-paralleles/
 ---
+
 # Diffraction monochromatique, spectre audiographique
 ![Diffraction](https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg)
  - Diffraction est une sculpture en suspension composée d’une multitude de plaques de matière transparente et réfléchissante. L’installation met en jeu notre perception de l’espace par des phénomènes de résonance et de réflection de la lumière. Chaque lieu d’exposition donne à expérimenter et à élaborer, in situ, de nouvelles formes. A Seconde Nature, [Étienne Rey]({{< relref "/authors/etienne-rey" >}}) abordera la relation entre le volume et le son en prenant comme base de construction un spectre audio, en collaboration avec l’artiste sonore Mathias Delplanque.

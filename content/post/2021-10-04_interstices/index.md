@@ -21,6 +21,7 @@ gallery_item:
   image: DJI_20211005_122145_287.JPG
   caption: 'Trames (microscopique). Crédit image : Étienne Rey'
 ---
+
 # Horizon Faille
 
 ## Festival Interstice, du 5 au 17 octobre 2021 (du mercredi au dimanche, de 14 h à 18 h)

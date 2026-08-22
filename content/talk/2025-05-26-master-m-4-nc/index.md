@@ -47,5 +47,6 @@ links:
   url: https://laurentperrinet.github.io/talk/2025-05-26-master-m-4-nc
 slides: 2025-05-26-master-m-4-nc
 ---
+
 ## Master M4NC de l'institut NeuroMod, cours Prospective Innovation and Research.
 

@@ -42,6 +42,7 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2020-04-ue-neurosciences-computationnelles
 ---
+
 # 2020-04_UE-neurosciences-computationnelles, matériel pour le cours de modélisation
 * Où: Marseille (France)
 * Quoi: Master Neurosciences et Sciences Cognitives

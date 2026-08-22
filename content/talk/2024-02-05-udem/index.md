@@ -38,6 +38,7 @@ links:
   url: https://laurentperrinet.github.io/talk/2024-02-05-udem
 slides: 2024-02-05-udem
 ---
+
 # When brains meet computing machines
 * https://neurosciences.umontreal.ca/wp-content/uploads/sites/6/2024/02/conferenceNikon_Laurent_Perrinet.pdf
 * Related papers {{< cite page="/publication/grimaldi-24" view="1" >}} {{< cite page="/publication/grimaldi-23-bc" view="1" >}}

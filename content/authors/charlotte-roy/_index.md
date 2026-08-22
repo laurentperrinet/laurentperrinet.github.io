@@ -15,6 +15,7 @@ superuser: false
 user_groups:
 - Current Students
 ---
+
 ## Metaverse, Avatar and Well-Being: Impact of avatar embodiment on well-being and decision-making in the Metaverse
 ### PhD position (2024-09 / 2027-09)
 

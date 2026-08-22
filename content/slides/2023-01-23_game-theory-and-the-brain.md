@@ -16,6 +16,7 @@ projects:
 slides:
   theme: white
 ---
+
 # Game theory and brain strategies
 
 <img src="https://laurentperrinet.github.io/publication/perrinet-21-hasard/featured.jpg" width="50%" >
@@ -199,6 +200,7 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 - The aleatoric noise is transformed into a measure of knowledge = epistemic noise
 
 {{< /speaker_note >}}
+
 ---
 
 # Epistemic noise
@@ -294,7 +296,9 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 - For this, it represents explictly uncertainty (epistemic noise)
 
 {{< /speaker_note >}}
+
 ---
+
 # Questions?
 
 Ask info @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)

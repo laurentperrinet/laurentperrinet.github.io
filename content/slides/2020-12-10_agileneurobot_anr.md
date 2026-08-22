@@ -40,16 +40,19 @@ slides:
 * Budget total: 435 k€
 
 ---
+
 ## Spiking Neural Networks
 
 {{< figure src="https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations.png" title="From frame-based to event-based cameras." numbered="true" >}}
 
 ---
+
 ## Recurrent processing
 
 {{< figure src="https://laurentperrinet.github.io/grant/anr-anr/principe_agile.jpg" title="Our system is divided into 3 units to process visual inputs communicating by event-driven, feed-forward and feed-back communications." numbered="true" >}}
 
 ---
+
 ## Consortium:
 <img src="https://laurentperrinet.github.io/author/stéphane-viollet/avatar.jpg" alt="SV" height="150"> | <img src="https://laurentperrinet.github.io/author/ryad-benosman/avatar.jpg" alt="RB" height="150"> | <img src="https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.png" alt="LP" height="150">
 ------ | ------ | ------
@@ -58,6 +61,7 @@ Julien Diperi | Sio-Hoï Ieng | Emmanuel Daucé
 Inst Sciences Mouvement | Inst de la Vision | Inst Neurosci de la Timone
 
 ---
+
 ## Gantt Chart of project
 {{< figure src="https://laurentperrinet.github.io/grant/anr-anr/gantt.png" numbered="true" >}}
 

@@ -31,6 +31,7 @@ superuser: false
 user_groups:
 - Former Students
 ---
+
 # PhD Student (2019-09 / 2024-02): A multiscale cortical model to account for orientation selectivity in natural-like stimulations
 
  * Aix-Marseille Université, Institut des Neurosciences de la Timone

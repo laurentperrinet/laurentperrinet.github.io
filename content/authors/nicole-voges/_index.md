@@ -23,6 +23,7 @@ superuser: false
 user_groups:
 - Former Students
 ---
+
 # Complex dynamics in recurrent cortical networks based on spatially realistic connectivities (Post-Doc, 2008 / 2010)
 
 ## Description

@@ -18,6 +18,7 @@ superuser: false
 user_groups:
 - Current Students
 ---
+
 ## Characterization of Physiological States using Machine Learning
 ### PhD position (2024-10 / 2027-09)
 

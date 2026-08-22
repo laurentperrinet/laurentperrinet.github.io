@@ -21,6 +21,7 @@ image:
   preview_only: false
 summary: Neural Turing Patterns
 ---
+
 # Neural Turing Patterns
 
 Il y a des structures dans la nature qui émergent spontanément. Ils ont été étudiés pour la première fois par le mathématicien anglais Alan Turing (1912 – 1954), qui a également introduit le concept de machine informatique contemporaine. Des exemples de ces formes sont les rayures, les taches, les grilles, les pavages, les bulles, les spirales, les mousses et les vagues. Dans le cas spécifique de cette œuvre, il est montré une collection de modèles de Turing générés via des simulations neuronales. Chaque carré est un réseau neuronal de cellules qui se déclenchent avec des intensités faibles (bleues), moyennes (blanches) et élevées (rouge). Beaucoup d'entre eux se ressemblent beaucoup, tandis que d'autres sont très différents. Regroupées comme elles le sont, les images semblent avoir une continuité graphique avec leurs voisins plus proches. Mais, cette fonctionnalité visuelle est bien une illusion de la Gestalt, car ce sont des résultats de simulation complètement indépendants.

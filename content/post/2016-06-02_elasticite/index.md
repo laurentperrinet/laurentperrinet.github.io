@@ -20,6 +20,7 @@ summary: L'installation ''Elasticité dynamique'' agit comme un filtre et génè
   points de vue ; le mouvement permanent requalifie continuellement ce qui est regardé
   et entendu.
 ---
+
 # Trame Élasticité @  Fondation Vasarely à Aix-en-Provence
 
 * Dans « Trame Élasticité », présentée en 2016 dans le cadre d’un hommage à Victor Vasarely à la Fondation d’Aix-en-Provence, 25 monolithes de 3 m de hauteur et 40 cm de largeur étaient placés sur un socle rectiligne de 5 m de long et pouvaient tourner indépendamment suivant leur axe vertical. Cette chorégraphie produisait des moments de calme cristallin qui rapidement se transformaient en instants de chaos. Ce procédé permettait de projeter son propre reflet tout en le fragmentant dans l’environnent de l’œuvre, notamment les rythmes colorés de Vasarely, afin de produire un va-et-vient entre les mondes réels et perçus. Les observateurs devaient alors changer de perspective pour résoudre cette incertitude et explorer le lien entre le monde réel et le monde perçu  (voir aussi [cet article](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/#fig:Élasticité)).

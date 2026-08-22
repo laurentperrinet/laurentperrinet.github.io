@@ -66,6 +66,7 @@ Comme le démontre la justesse de cette meute de lions — ou est-ce un seul lio
 
 Reste cette complicité que nous pouvons avoir à apprécier aujourd'hui la représentation de notre environnement par des artistes si éloignés dans le temps et pourtant si proches dans leur sensibilité.
 {{< /speaker_note >}}
+
 ---
 
 ## "L'irraisonnable efficacité de la vision"
@@ -79,6 +80,7 @@ Premier miracle : de l'énergie lumineuse est transformée en un signal electro-
 
 Je ne vais pas rentrer dans les détails — il faudrait des heures — mais explorons plutôt ce que nous appelons...
 {{< /speaker_note >}}
+
 ---
 
 ## [Illusions visuelles](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
@@ -115,6 +117,7 @@ L'explication se trouverait dans le fait que nous interprétons l'image en 3D et
 
 La vision montre là toute sa créativité à créer elle-même des illusions.
 {{< /speaker_note >}}
+
 ---
 
 ## La perception comme processus émergent
@@ -164,6 +167,7 @@ Plus récemment, au festival Ososphère à Strasbourg, Delaunay : un assemblage 
 ---
 
 <section>
+
 # Neurosciences computationnelles
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}

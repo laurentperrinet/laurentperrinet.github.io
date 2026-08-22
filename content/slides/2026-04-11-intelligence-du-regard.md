@@ -62,6 +62,7 @@ Tout d'abord, laissez-moi vous présenter mon acolyte dans cette exploration qui
 ---
 
 <section>
+
 ## Art & Sciences révèlent la diversité de notre vision
 
 {{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Étienne Rey (2010) Spectre audiographique](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="100%" >}}
@@ -121,6 +122,7 @@ Premier miracle : de l'énergie lumineuse est transformée en un signal electro-
 
 Je ne vais pas rentrer dans les détails — il faudrait des heures — mais explorons plutôt ce que nous appelons...
 {{< /speaker_note >}}
+
 ---
 
 ## [Illusions visuelles](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
@@ -229,6 +231,7 @@ C'est dans ce cadre que nous avons expérimenté avec Étienne Rey sur des trame
 
 Je reviendrai sur le fait que vous pouvez transformer l'image en bougeant les yeux.
 {{< /speaker_note >}}
+
 ---
 
 ## La perception comme processus émergent
@@ -249,6 +252,7 @@ Plus récemment, au festival Ososphère à Strasbourg, Delaunay : un assemblage 
 {{< speaker_note >}}
 Pour faire le lien, Etienne a organisé une exposition au musée Granet — première pour de l'art contemporain. Elle reprend plusieurs des travaux issus de notre collaboration, dont l'affiche que je vais vous décrire.
 {{< /speaker_note >}}
+
 ---
 
 ## La vibration des apparences
@@ -260,6 +264,7 @@ le muset Granet est le musée de Cézanne
 
 le titre de l'exposition fait référence...
 {{< /speaker_note >}}
+
 ---
 
 ## La vibration des apparences
@@ -371,6 +376,7 @@ On peut jouer avec ce décalage — expérimentation artistique. Une première r
 ---
 
 <section>
+
 ## À quoi sert la vision ?
 
 {{% fragment %}} 
@@ -382,6 +388,7 @@ Nous avons vu que la vision est un processus qui essaie de faire du sens — mê
 
 C'est là qu'intervient Yarbus et cette peinture d'Ilya Repin : un soldat rentrant à la maison, tension liée à la surprise évoquée par le titre de la peinture.
 {{< /speaker_note >}}
+
 ---
 
 ## À quoi sert la vision ?
@@ -529,6 +536,7 @@ C'est un thème récurrent dans l'art cinétique. Ici, Carlos Cruz-Diez — qui 
 {{< speaker_note >}}
 Felice Varini.
 {{< /speaker_note >}}
+
 ---
 
 ## Art & Sciences révèlent la vision en action : Tropique
@@ -547,6 +555,7 @@ Nous avons fait cette expérience sur notre première collaboration — Marseill
 {{< speaker_note >}}
 Désolé de la qualité. Matérialité des lames de lumière.
 {{< /speaker_note >}}
+
 ---
 
 ## Art & Sciences révèlent la vision en action : Tropique
@@ -568,6 +577,7 @@ INOX POLI MIROIR / ALUMINIUM / ACIER / MOTEURS / PROGRAMME TEMPS RÉEL
 À la Fondation Vasarely à Aix-en-Provence, Étienne Rey a choisi d’installer dans la salle des Intégrations architectoniques un ballet visuel hypnotique.
 Composé d’une succession de lames de miroirs, verticales et rotatives, l’installation Trame se joue des reflets et de la démultiplication de l’espace, offrant au spectateur une multiplicité de points de vue dans lesquels il peut se perdre à loisir. Par un effet de « porosité » recherché par l’artiste, le dispositif dialogue intensément avec les Intégrations.
 {{< /speaker_note >}}
+
 ---
 
 ## Art & Sciences révèlent la vision en action : TRAME ÉLASTICITÉ
@@ -685,6 +695,7 @@ L'intelligence du regard est dans son incarnation — cognition incarnée, Varel
 {{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/04/etienne_rey_horizons_variables_news2.jpg" title="[Étienne Rey, Cristal n2](https://ondesparalleles.org/projets/cristal-n2__trashed/)" width="100%" >}}
 {{< speaker_note >}}
 {{< /speaker_note >}}
+
 ---
 
 ## La vibration des apparences

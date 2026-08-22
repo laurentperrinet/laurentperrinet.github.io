@@ -21,6 +21,7 @@ slides:
 all_day: false
 summary: Al for visual processing and energy-efficient algorithms.
 ---
+
 # [Neuroscience & AI: Energy-efficient visual processing algorithms](https://laurentperrinet.github.io/slides/2026-02-03-ai-and-neuroscience-day/?transition=fade)
 ##	*[Laurent Perrinet](https://laurentperrinet.github.io/talk/2026-02-03-ai-and-neuroscience-day/)*
 ###	<u>[Journée *Neurosciences et IA / IA et Neurosciences* de NeuroMarseille](https://neuro-marseille.org/en/events/workshop-on-artificial-intelligence-in-neuroscience-projects-tools-and-perspectives/)</u>
@@ -67,6 +68,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 - For instance, we show how precise spike times may be used to detect the direction of motion from such a stream of events in an ultrafast fashion.
 {{< /speaker_note >}}
+
 ---
 
 ## Spiking Neural Networks
@@ -80,6 +82,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 For instance, we show how precise spike times may be used to detect the direction of motion from such a stream of events in an ultrafast fashion.
 {{< /speaker_note >}}
+
 ---
 
 ## Spiking Neural Networks
@@ -92,6 +95,7 @@ For instance, we show how precise spike times may be used to detect the directio
 - frugal computing
 
 {{< /speaker_note >}}
+
 ---
 
 ## Attention in Vision Transformers and in Natural Vision
@@ -172,6 +176,7 @@ More generally,
 More generally, 
 
 {{< /speaker_note >}}
+
 ---
 
 # [Neuroscience & AI: Energy-efficient visual processing algorithms](https://laurentperrinet.github.io/slides/2026-02-03-ai-and-neuroscience-day/?transition=fade)

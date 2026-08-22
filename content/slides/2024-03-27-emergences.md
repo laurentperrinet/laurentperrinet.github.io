@@ -57,6 +57,7 @@ Nous allons passer en revue différentes techniques d'enregistrement de données
 {{< /speaker_note >}}
 
 ---
+
 ### Enregistrement extracellulaire
 
 {{< figure width="80%" src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/scientists.jpg" title="[Hubel & Wiesel, 1962]" >}}
@@ -66,7 +67,9 @@ Même si ce ne sont pas les premiers à avoir enregistré l'activité électriqu
 
 La technique principale utilisée par Hubel et Wiesel dans leurs expériences était la microélectrode d'enregistrement extracellulaire. Ils ont inséré de fines électrodes dans le cortex visuel primaire (aussi appelé cortex strié) de chats et de singes anesthésiés. Ces électrodes leur ont permis d'enregistrer l'activité électrique des neurones individuels lors de la présentation de stimuli visuels.
 {{< /speaker_note >}}
+
 ---
+
 ### Aire visuelle primaire
 
 {{< figure src="https://www.readkong.com/static/06/b0/06b09f0235ae7fcf29438ce317c10e60/optogenetic-visual-cortical-prosthesis-9612386-7.jpg" width="61%" >}}
@@ -74,6 +77,7 @@ La technique principale utilisée par Hubel et Wiesel dans leurs expériences é
 {{< speaker_note >}}
 L'aire visuelle primaire est une région du cerveau spécialisée dans le traitement des informations visuelles. Située à l'arrière du lobe occipital, elle joue un rôle clé dans la perception visuelle en analysant des caractéristiques telles que l'orientation, la couleur et la taille des stimuli. Son organisation topographique et l'activité électrique de ses neurones permettent la construction d'une représentation visuelle cohérente.
 {{< /speaker_note >}}
+
 ---
 
 ### Enregistrement extracellulaire
@@ -92,6 +96,7 @@ mais aussi:  sharp electrodes, patch-clamp
 {{< /speaker_note >}}
 
 ---
+
 ### Multi-électrodes
 
 {{< figure src="https://medtech.citeline.com/-/media/editorial/medtech-insight/2021/12/mt2112_utah_array.jpg" title="[[Microelectrode array (MEAs)](https://en.wikipedia.org/wiki/Microelectrode_array)]" width="90%" >}}
@@ -109,6 +114,7 @@ une aire, à plusieures aires mesoscopique (parler taille cerveau)
 {{< /speaker_note >}}
 
 ---
+
 ### Différentes échelles
 
 {{< figure src="https://laurentperrinet.github.io/talk/2024-03-27-emergences/scales.png" title="[[Chemla *et al*, 2017](https://dx.doi.org/10.1117/1.NPh.4.3.031215)]" width="70%" >}}
@@ -120,6 +126,7 @@ big initiatives: BRAIN, HBP, Human Connectome Project, Allen Institute, Blue Bra
 {{< /speaker_note >}}
 
 ---
+
 ### Vers des données massives
 
 {{< figure src="https://laurentperrinet.github.io/talk/2024-03-27-emergences/featured.png" title="[[Stevenson and Kording, 2011](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC3410539&blobtype=pdf)]" width="90%" >}}
@@ -130,6 +137,7 @@ Ian H Stevenson & Konrad P Kording
 {{< /speaker_note >}}
 
 ---
+
 ### Vers des données massives
 
 {{< figure src="https://www.ucl.ac.uk/neuropixels/sites/neuropixels/files/styles/medium_image/public/neuropixels_1_and_2.png" title="[[Steinmetz *et al*, 2017](https://www.ucl.ac.uk/neuropixels/)]" width="80%" >}}
@@ -156,6 +164,7 @@ Données Priebe: utilisation de GPUs... mais jusqu'à quand?
 {{< /speaker_note >}}
 
 ---
+
 ### Méthodes statistiques
 
 {{< figure src="https://laurentperrinet.github.io/publication/ladret-23/featured.png" title="[[Ladret *et al*, 2023](https://laurentperrinet.github.io/publication/ladret-23/)]" width="90%" >}}
@@ -170,6 +179,7 @@ manifold churchland
 {{< /speaker_note >}}
 
 ---
+
 ### Méthodes statistiques
 
 {{< figure src="https://hugoladret.github.io/publications/imgs/ladret_et_al_variance_V1_2.png" title="[[Ladret *et al*, 2023](https://laurentperrinet.github.io/publication/ladret-23/)]" width="80%" >}}
@@ -179,6 +189,7 @@ Pour donner un peu plus de détails, nous avons conduit ce protocole, afin de co
 {{< /speaker_note >}}
 
 ---
+
 ### Méthodes statistiques
 
 {{< figure src="https://hugoladret.github.io/publications/imgs/ladret_et_al_variance_V1_4.png" title="[[Ladret *et al*, 2023](https://laurentperrinet.github.io/publication/ladret-23/)]" width="80%" >}}
@@ -188,6 +199,7 @@ Cette première analyse statistique nous a permis de caractériser la réponse d
 {{< /speaker_note >}}
 
 ---
+
 ### ... et au-delà!
 
 {{< figure src="https://www.thetransmitter.org/wp-content/uploads/2023/11/teach-a-paper.png" title="[[Churchland & Cunningham et al. (2012)](https://www.thetransmitter.org/how-to-teach-this-paper/how-to-teach-this-paper-neural-population-dynamics-during-reaching-by-churchland-cunningham-et-al-2012-3/)]" width="90%" >}}
@@ -197,6 +209,7 @@ dans tous ces types d'enregistrement avec plusieurs neurones simultanés, on obs
 {{< /speaker_note >}}
 
 ---
+
 ### ... et au-delà: le décodage
 
 {{< figure src="https://hugoladret.github.io/publications/imgs/ladret_et_al_variance_V1_6.png" title="[[Ladret *et al*, 2023](https://laurentperrinet.github.io/publication/ladret-23/)]" width="90%" >}}
@@ -206,6 +219,7 @@ Une autre méthode consiste à utiliser un procédé de décodage qui va appliqu
 {{< /speaker_note >}}
 
 ---
+
 ### ... et au-delà: le décodage
 
 {{< figure src="https://hugoladret.github.io/publications/imgs/ladret_et_al_variance_V1_7.png" title="[[Ladret *et al*, 2023](https://laurentperrinet.github.io/publication/ladret-23/)]" width="90%" >}}
@@ -215,6 +229,7 @@ The next question was: what exactly do these different neurons do? To figure thi
 {{< /speaker_note >}}
 
 ---
+
 ### ... et au-delà: le décodage
 
 {{< figure src="https://hugoladret.github.io/publications/imgs/ladret_et_al_variance_V1_8.png" title="[[Ladret *et al*, 2023](https://laurentperrinet.github.io/publication/ladret-23/)]" width="90%" >}}
@@ -226,6 +241,7 @@ ICA, SVM auto-encoder Gallant
 {{< /speaker_note >}}
 
 ---
+
 ### Brain-Computer Interface (BCI)
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/InterfaceNeuronaleDirecte-fr.svg/2560px-InterfaceNeuronaleDirecte-fr.svg.png" title="[[Interface neuronale directe (BCI)](https://fr.wikipedia.org/wiki/Interface_neuronale_directe)]" width="75%" >}}
 
@@ -250,6 +266,7 @@ causal par rapport à ce que fait l'activité (?)
 {{< /speaker_note >}}
 
 ---
+
 ### Exploitation d'un timing précis
 
 {{< figure src="https://i.sstatic.net/ixnrz.png" title="[[Mainen & Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]" width="80%" >}}
@@ -260,6 +277,7 @@ diesmann
 {{< /speaker_note >}}
 
 ---
+
 ### Exploitation d'un timing précis
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/replicating_MainenSejnowski1995.png" title="[[Mainen & Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]" width="99%" >}}
@@ -270,6 +288,7 @@ diesmann
 {{< /speaker_note >}}
 
 ---
+
 ### Exploitation d'un timing précis
 
 {{< figure src="https://laurentperrinet.github.io/publication/kremkow-16/featured.png" title="[[Kremkow *et al*, 2016](https://laurentperrinet.github.io/publication/kremkow-16/)]" width="90%" >}}
@@ -280,6 +299,7 @@ diesmann
 {{< /speaker_note >}}
 
 ---
+
 ### Exploitation d'un timing précis
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/Diesmann_et_al_1999.png" title="[[Diesmann et al. 1999](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_3_Diesmann_et_al_1999.py)]" width="99%" >}}
@@ -289,6 +309,7 @@ diesmann
 {{< /speaker_note >}}
 
 ---
+
 ### Codage par latence
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/haimerl2019.jpg" title="[[Haimerl et al, 2019](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)]" width="99%" >}}
@@ -298,6 +319,7 @@ thorpe
 {{< /speaker_note >}}
 
 ---
+
 ### Codage par latence
 
 {{< figure width="70%" src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/scheme_thorpe.jpg" title="[[Thorpe (2001)]](https://laurentperrinet.github.io/2022-01-12_NeuroCercle/#/2/1)" >}}
@@ -335,6 +357,7 @@ thorpe
 {{< /speaker_note >}}
 
 ---
+
 ### Always-on classification using HOTS
 
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-24/hots.png" title="[[Grimaldi, Boutin, Sio-Ieng, Benosman & LP, 2023](https://laurentperrinet.github.io/publication/grimaldi-24/)]" width="80%" >}}
@@ -344,6 +367,7 @@ always-on
 {{< /speaker_note >}}
 
 ---
+
 ### Always-on classification using HOTS
 
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-24/gesture_offline.png" title="[[Grimaldi, Boutin, Sio-Ieng, Benosman & LP, 2023](https://laurentperrinet.github.io/publication/grimaldi-24/)]" width="75%" >}}
@@ -352,6 +376,7 @@ always-on
 {{< /speaker_note >}}
 
 ---
+
 ### Always-on classification using HOTS
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-24/gesture_online.png" title="[[Grimaldi, Boutin, Sio-Ieng, Benosman & LP, 2023](https://laurentperrinet.github.io/publication/grimaldi-24/)]" width="75%" >}}
 {{< speaker_note >}}
@@ -359,6 +384,7 @@ always-on
 {{< /speaker_note >}}
 
 ---
+
 ### Spiking motifs in vision
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png" title="[Grimaldi *et al*, 2023, [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)]" width="80%" >}}
@@ -368,6 +394,7 @@ thorpe
 {{< /speaker_note >}}
 
 ---
+
 ### Spiking motifs in vision
 {{< video src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/FastMotionDetection_input.mp4" autoplay="yes" title="[Grimaldi & LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" >}}
 
@@ -376,6 +403,7 @@ thorpe
 {{< /speaker_note >}}
 
 ---
+
 ### Spiking motifs in vision
 
 {{< figure src="https://raw.githubusercontent.com/laurentperrinet/figures/7f382a8074552de1a6a0c5728c60d48788b5a9f8/animated_neurons/conv_HDSNN.svg" title="[Grimaldi & LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" width="100%" >}}
@@ -385,6 +413,7 @@ thorpe
 {{< /speaker_note >}}
 
 ---
+
 ### Spiking motifs in vision
 
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/motion_kernels.png" title="[Grimaldi & LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" width="80%" >}}
@@ -393,6 +422,7 @@ thorpe
 {{< /speaker_note >}}
 
 ---
+
 ### Spiking motifs in vision
 
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/quant_accuracy_raw.svg" title="[Grimaldi & LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" width="80%" >}}
@@ -402,6 +432,7 @@ thorpe
 {{< /speaker_note >}}
 
 ---
+
 ### Spiking motifs in vision
 
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/quant_accuracy_shortening.svg" title="[Grimaldi & LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" width="80%" >}}
@@ -411,6 +442,7 @@ thorpe
 {{< /speaker_note >}}
 
 ---
+
 ### Spiking motifs in vision
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/quant_accuracy.svg" title="[Grimaldi & LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" width="80%" >}}
 
@@ -419,6 +451,7 @@ thorpe
 {{< /speaker_note >}}
 
 ---
+
 ### Spiking motifs pour la bio (HD-SNN)
 
 <img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/THC_toy-a_k.svg" width="42%">
@@ -430,6 +463,7 @@ spiking motifs
 {{< /speaker_note >}}
 
 ---
+
 ### Spiking motifs pour la bio (HD-SNN)
 
 {{% fragment %}} <img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/THC_N_SMs.svg" width="31%">     {{% /fragment %}}
@@ -465,6 +499,7 @@ First, by increasing the number of motifs, we show that the accuracy of our meth
 {{< /speaker_note >}}
 <!-- 
 ---
+
 ### unsupervised
 
 {{< speaker_note >}}
@@ -472,6 +507,7 @@ unsupervised / contrastive learning
 {{< /speaker_note >}}
 
 ---
+
 ### high-throughput
 
 {{< speaker_note >}}
@@ -479,6 +515,7 @@ puces neuromorphiques, spike sorting on electrode
 {{< /speaker_note >}}
 
 ---
+
 ### real-time using  neuromorphic hardware
 
 {{< figure src="https://cdn.cnx-software.com/wp-content/uploads/2022/09/Intel-Loihi-2.jpg" title="Loihi 2" width="100%" >}}

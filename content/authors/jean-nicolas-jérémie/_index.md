@@ -24,6 +24,7 @@ superuser: false
 user_groups:
 - Former Students
 ---
+
 # PhD Student (2021-10 / 2025-10): Bio-mimetic agile aerial robots flying in real-life conditions
 
  * this fellowship is part of the [AgileNeuRobot project](https://laurentperrinet.github.io/grant/anr-anr/)

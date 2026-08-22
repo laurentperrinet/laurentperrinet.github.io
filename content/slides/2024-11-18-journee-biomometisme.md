@@ -73,6 +73,7 @@ Le projet ANR AgileNeuRobot est donc un projet interdisciplinaire financé par l
 {{< /speaker_note >}}
 
 ---
+
 ## AgileNeuRobot: Consortium:
 <img src="https://laurentperrinet.github.io/author/stéphane-viollet/avatar.jpg" alt="SV" height="150"> | <img src="https://laurentperrinet.github.io/author/ryad-benosman/avatar.jpg" alt="RB" height="150"> | <img src="https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.png" alt="LP" height="150">
 ------ | ------ | ------
@@ -94,6 +95,7 @@ Ensemble, nous travaillons à la fois sur les aspects techniques et scientifique
 {{< /speaker_note >}}
 
 ---
+
 ## AgileNeuRobot: Agile = Performant et efficace
 
 {{< figure src="https://laurentperrinet.github.io/grant/anr-anr/principe_agile.jpg" title="The system includes 3 units to process event-driven visual inputs communicating by feed-forward and feed-back paths." numbered="true" >}}
@@ -129,6 +131,7 @@ Si les délais dans un système embarqué sont plus rapides, il reste que les in
 {{< /speaker_note >}}
 
 ---
+
 ## Enjeux de l'IA embarquée : budget énergétique
 
 {{< figure src="/grant/anr-anr/prototype.jpg" title="Prototype avec caméra événementielle et calculateur."  width="50%" >}}
@@ -160,7 +163,9 @@ Je vais proposer deux leviers, inspirés de la biologie, pour faire avancer le d
 
 - le mode de représentation de l'information est différent : le signal consiste à émettre un événement si et seulement si un changement a été observé par ce pixel, ce qui est représenté ici par ces flux d’événements. 
 {{< /speaker_note >}}
+
 ---
+
 ## Levier #1: Réseaux de neurones impulsionnels (SNNs)
 
 | Sensor           | Range   | Framerate   | Resolution  | Power |
@@ -182,6 +187,7 @@ Par rapport aux caméras classiques, qui consomment plusieurs watts, les caméra
 https://en.wikipedia.org/wiki/Event_camera#Functional_description
 
 {{< /speaker_note >}}
+
 ---
 
 ## Levier #1: Réseaux de neurones impulsionnels (SNNs)
@@ -200,6 +206,7 @@ Quels résultats ? Peut-on les évaluer avant d'avoir ces puces ?
 {{< /speaker_note >}}
 
 ---
+
 ## Levier #1: Réseaux de neurones impulsionnels (SNNs)
 
 {{< figure src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/accuracy.png" title="The HD-SNN neural network [[Grimaldi *et al*, 2023]](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" width="80%" >}}
@@ -234,6 +241,7 @@ En effet, notre vision possède cette propriété d’être focalisée, de telle
 {{< /speaker_note >}}
 
 ---
+
 ## Levier #2: Vision active / *Active Vision*
 
 {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/featured.jpg" title="[[Jérémie *et al*, 2024](https://laurentperrinet.github.io/publication/jeremie-25/)]" width="65%" >}}
@@ -245,6 +253,7 @@ Pour cela, nous avons utilisé une transformée de type log-polaire qui concentr
 {{< /speaker_note >}}
 
 ---
+
 ## Levier #2: Vision active / *Active Vision*
 
 {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/fig_attack_rotation_imagenet.png" title="[[Jérémie *et al*, 2024](https://laurentperrinet.github.io/publication/jeremie-25/)]" width="90%" >}}
@@ -261,6 +270,7 @@ Pour cela, nous avons utilisé une transformée de type log-polaire qui concentr
 {{< /speaker_note >}}
 
 ---
+
 ## Levier #2: Vision active / *Active Vision*
 
 {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/fig_areadne.png" title="[[Jérémie *et al*, 2024](https://laurentperrinet.github.io/publication/jeremie-25/)]" width="90%" >}}

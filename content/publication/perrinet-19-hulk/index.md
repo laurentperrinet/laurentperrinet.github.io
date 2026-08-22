@@ -51,6 +51,7 @@ grants:
 - mesocentre
 - spikeai
 ---
+
 # "An adaptive algorithm for unsupervised learning"
 {{< video src="https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4" controls="yes" >}}
  * supplementary info : https://spikeai.github.io/HULK/

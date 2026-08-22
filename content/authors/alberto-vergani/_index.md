@@ -31,6 +31,7 @@ user_groups:
 grants:
 - phd-icn
 ---
+
 ## Main contributions to the project:
 
 * {{< cite page="/publication/vergani-21-bernstein" view="4" >}}

@@ -77,6 +77,7 @@ First: What is the function of vision?
 {{< /speaker_note >}}
 
 ---
+
 ## What is the function of vision?
 
 {{< video src="http://laurentperrinet.github.io/talk/2025-12-12-main/50_fixation_sequence.mp4" loop="yes" width="45%" >}}
@@ -94,6 +95,7 @@ More generally,
 - seeing= interacting with the visual world
 - social animals: looking at emotions
 {{< /speaker_note >}}
+
 ---
 
 ## What is the function of vision?
@@ -105,6 +107,7 @@ More generally,
 - https://fr.wikipedia.org/wiki/Alfred_Iarbous
 - consistency of eye traces
 {{< /speaker_note >}}
+
 ---
 
 ## What is the function of vision?
@@ -113,6 +116,7 @@ More generally,
 {{< speaker_note >}}
 - social animals: looking at emotions
 {{< /speaker_note >}}
+
 ---
 
 ## What is the function of vision?
@@ -287,6 +291,7 @@ More generally,
 - a single neuron is selective to some visual features...
 
 {{< /speaker_note >}}
+
 ---
 
 # Principles of vision?
@@ -302,6 +307,7 @@ More generally,
 ---
 
 <section>
+
 # Convolutional Neural Nets (CNN)
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
@@ -339,6 +345,7 @@ First: What is the function of vision?
 {{< speaker_note >}}
 - sota...
 {{< /speaker_note >}}
+
 ---
 
 ## CNN: Mathematics
@@ -446,6 +453,7 @@ $$
 ---
 
 <section>
+
 # Principles of Vision
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
@@ -471,6 +479,7 @@ First: What is the function of vision?
 {{< speaker_note >}}
 - modifications= adding sparse coding + feedback
 {{< /speaker_note >}}
+
 ---
 
 ## CNN: Predictive processing
@@ -512,6 +521,7 @@ First: What is the function of vision?
 {{< speaker_note >}}
 - neuroAI
 {{< /speaker_note >}}
+
 ---
 
 <section>
@@ -557,6 +567,7 @@ First: What is the function of vision?
 {{< /speaker_note >}}
 
 ---
+
 ## Dynamics of vision
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/tsonga.jpg" title="Sensorimotor delays ([Perrinet & Friston 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))" width="75%" >}}
@@ -566,6 +577,7 @@ First: What is the function of vision?
 {{< /speaker_note >}}
 
 ---
+
 ## Dynamics of vision
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/figure-tsonga.jpg" title="Sensorimotor delays ([Perrinet & Friston, 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))" width="75%" >}}
@@ -575,6 +587,7 @@ First: What is the function of vision?
 {{< /speaker_note >}}
 
 ---
+
 ## Dynamics of vision
 
 {{< video src="https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag.mp4" autoplay="yes" >}}
@@ -606,6 +619,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 {{< speaker_note >}}
 - ...
 {{< /speaker_note >}}
+
 ---
 
 # Dynamics of vision
@@ -656,6 +670,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 {{< /speaker_note >}}
 
 ---
+
 ## SNN in neurobiology
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/replicating_MainenSejnowski1995.png" title="[[Mainen & Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]" width="99%" >}}
@@ -667,6 +682,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 {{< /speaker_note >}}
 
 ---
+
 ## SNN in neurobiology
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/Diesmann_et_al_1999.png" title="[[Diesmann et al. 1999](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_3_Diesmann_et_al_1999.py)]" width="99%" >}}
@@ -679,6 +695,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 {{< /speaker_note >}}
 
 ---
+
 ## SNN in neurobiology
 
 {{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/haimerl2019.jpg" title="[[Haimerl et al, 2019](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)]" width="99%" >}}
@@ -730,6 +747,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 - A nice HSD neuron
 
 {{< /speaker_note >}}
+
 ---
 
 ## SNN in neuromorphic engineering
@@ -742,6 +760,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 - event-based cameras
 
 {{< /speaker_note >}}
+
 ---
 
 ## SNN in neuromorphic engineering
@@ -753,6 +772,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 - For instance, we show how precise spike times may be used to detect the direction of motion from such a stream of events in an ultrafast fashion.
 {{< /speaker_note >}}
+
 ---
 
 ## SNN in neuromorphic engineering
@@ -766,6 +786,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 For instance, we show how precise spike times may be used to detect the direction of motion from such a stream of events in an ultrafast fashion.
 {{< /speaker_note >}}
+
 ---
 
 ## SNN in neuromorphic engineering
@@ -778,6 +799,7 @@ For instance, we show how precise spike times may be used to detect the directio
 - nice kernels
 
 {{< /speaker_note >}}
+
 ---
 
 ## SNN in neuromorphic engineering
@@ -806,6 +828,7 @@ For instance, we show how precise spike times may be used to detect the directio
 ---
 
 <section>
+
 # Artificial neural networks applied to the understanding of biological vision
 
 {{< figure src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" title="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" width="90%" >}}
@@ -817,6 +840,7 @@ For instance, we show how precise spike times may be used to detect the directio
 {{< /speaker_note >}}
 
 ---
+
 # [Artificial neural networks and machine learning applied to the understanding of biological vision](https://laurentperrinet.github.io/slides/2026-03-05-ue-natural-cognition/?transition=fade)
 ###	*[Laurent Perrinet](https://laurentperrinet.github.io)*
 ###	<u>[[2026-03-05]](https://laurentperrinet.github.io/talk/2026-03-05-ue-natural-cognition/) [Master 1 Neuroscience, UE Natural Cognition, Artificial Cognition](https://sciences.univ-amu.fr/fr/formation/masters/master-neurosciences)</u>

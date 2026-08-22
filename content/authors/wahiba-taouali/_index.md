@@ -26,6 +26,7 @@ superuser: false
 user_groups:
 - Former Students
 ---
+
 # Motion Integration By V1 Population  (Post-Doc, 2013-03 / 2015-01)
 
 ## Description

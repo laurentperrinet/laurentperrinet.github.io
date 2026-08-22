@@ -166,6 +166,7 @@ diesmann
 mainen et sejnowski
 diesmann
 {{< /speaker_note >}}
+
 ---
 
 ## Neurosciences and sparsity
@@ -193,6 +194,7 @@ in summary: Sparse representations resulting from these processes have been succ
 
 review_bib = s.content_bib("LP", "2015", '"Sparse models" in <a href="https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/">Biologically Inspired Computer Vision</a>')
 {{< /speaker_note >}}
+
 ---
 
 ## Sparse representations in a nutshell
@@ -212,6 +214,7 @@ review_bib = s.content_bib("LP", "2015", '"Sparse models" in <a href="https://la
 {{< speaker_note >}}
 
 {{< /speaker_note >}}
+
 ---
 
 ## Sparse representations in a nutshell
@@ -335,6 +338,7 @@ exponential prior => L1 norm
 ---
 
 <section>
+
 ## Sparse representations and learning
 
 {{< video src="https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/ssc.mp4" title="[[LP (2010)](https://laurentperrinet.github.io/publication/perrinet-10-shl/)]" controls="yes" width="55%" >}}
@@ -364,6 +368,7 @@ exponential prior => L1 norm
 - novel challenges for CNNs
 - 1/ backpropagation is not bioplausible 
 {{< /speaker_note >}}
+
 ---
 
 ### CNN: Predictive processing
@@ -413,6 +418,7 @@ exponential prior => L1 norm
 {{< speaker_note >}}
 - result= interpretable features
 {{< /speaker_note >}}
+
 ---
 
 ## SNN in neuromorphic engineering
@@ -424,6 +430,7 @@ exponential prior => L1 norm
 
 - For instance, we show how precise spike times may be used to detect the direction of motion from such a stream of events in an ultrafast fashion.
 {{< /speaker_note >}}
+
 ---
 
 ## SNN in neuromorphic engineering
@@ -437,6 +444,7 @@ exponential prior => L1 norm
 
 For instance, we show how precise spike times may be used to detect the direction of motion from such a stream of events in an ultrafast fashion.
 {{< /speaker_note >}}
+
 ---
 
 ## SNN in neuromorphic engineering
@@ -449,6 +457,7 @@ For instance, we show how precise spike times may be used to detect the directio
 - nice kernels
 
 {{< /speaker_note >}}
+
 ---
 
 ## SNN in neuromorphic engineering
@@ -461,6 +470,7 @@ For instance, we show how precise spike times may be used to detect the directio
 - frugal computing
 
 {{< /speaker_note >}}
+
 ---
 
 <section>

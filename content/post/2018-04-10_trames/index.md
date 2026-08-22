@@ -17,6 +17,7 @@ projects:
 summary: À la Fondation Vasarely à Aix-en-Provence, Étienne Rey a choisi d’installer
   dans la salle des Intégrations architectoniques un ballet visuel hypnotique.
 ---
+
 # TRAMES
 
 {{< vimeo 191830797 >}}

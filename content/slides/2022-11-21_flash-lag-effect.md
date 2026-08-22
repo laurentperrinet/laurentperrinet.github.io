@@ -63,6 +63,7 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
  -->
 
 ---
+
 ## Timing in the visual pathways
 
 ---
@@ -78,6 +79,7 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/figure-tsonga.jpg" title="Compensating visual delays ([Perrinet Adams & Friston, 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))." width="80%" >}}
 
 ---
+
 ## Travelling waves?
 
 {{< video src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/line_motion.mp4" autoplay="yes" title="Line-motion" >}}
@@ -91,6 +93,7 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
 {{< figure src="https://raw.githubusercontent.com/laurentperrinet/2019-04-18_JNLF/master/figures/Chemla_etal2019.png" title="Suppressive travelling waves ([Chemla *et al*, 2019](https://laurentperrinet.github.io/publication/chemla-19/))." width="50%" >}}
 
 ---
+
 ## Predictive coding
 
 ---
@@ -129,6 +132,7 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
 Motion-based prediction ([Perrinet *et al*, 2012](https://laurentperrinet.github.io/publication/perrinet-12-pred/)).
 
 ---
+
 ## Flash-lag effect
 
 ---
@@ -250,6 +254,7 @@ src="../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4" khoei-m
 
 {{< figure src="https://eyewiki.aao.org/w/images/1/e/eb/Pulfrich.png" width="95%" title="Application to the [Pulfrich phenomenon](https://eyewiki.aao.org/Pulfrich_Phenomenon)?" >}}
 ---
+
 # Questions?
 
 Ask info @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)

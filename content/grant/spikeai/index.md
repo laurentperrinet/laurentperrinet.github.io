@@ -13,6 +13,7 @@ tags:
 summary: Algorithmes événementiels d’Intelligence Artificielle / Event-Based Artificial
   Inteligence (2019).
 ---
+
 # Description
 
 * Le projet SpikeAI est lauréat de l'[appel à projets 2019 *Biomimétisme*](http://www.cnrs.fr/mi/spip.php?article1452&lang=fr) :

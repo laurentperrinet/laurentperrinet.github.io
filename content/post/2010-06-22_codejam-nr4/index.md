@@ -21,6 +21,7 @@ grants:
 - brain-scales
 summary: We held a CodeJam 22nd-24th June 2010, in Marseille.
 ---
+
 # FACETS Code Jam Workshop \#4
 We held a CodeJam 22nd-24th June 2010, in Marseille.
 
