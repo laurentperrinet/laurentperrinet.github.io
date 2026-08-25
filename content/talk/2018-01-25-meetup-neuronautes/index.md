@@ -3,7 +3,7 @@ title: Expériences autour de la perception de la forme en art et science
 date: 2018-01-25 18:30:00
 authors:
 - Laurent U Perrinet
-- Étienne Rey
+- Etienne Rey
 featured: false
 categories:
 - Computational Neuroscience

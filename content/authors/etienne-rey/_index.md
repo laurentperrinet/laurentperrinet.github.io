@@ -1,5 +1,5 @@
 ---
-title: Étienne Rey
+title: Etienne Rey
 authors:
 - etienne-rey
 social:

@@ -3,7 +3,7 @@ title: Expériences autour de la perception de la forme en art et science
 date: 2017-01-01
 authors:
 - Laurent U Perrinet
-- Étienne Rey
+- Etienne Rey
 abstract: La vision utilise un faisceau d'informations de différentes qualités pour
   atteindre une perception unifiée du monde environnant. Nous avons utilisé lors de
   plusieurs projets art-science (voir https://github.com/NaturalPatterns) des installations

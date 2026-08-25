@@ -4,7 +4,7 @@ date: '2026-01-01'
 publishDate: '2026-01-19T08:15:26.200728Z'
 authors:
 - Laurent U Perrinet
-- Étienne Rey
+- Etienne Rey
 abstract: 'By construction, deep convolutional networks treat all pixels equally.
   Result: they are energy-hungry, fragile to rotations or zooms, and poor at object
   localization. This contrasts sharply with biological vision, which demonstrates
