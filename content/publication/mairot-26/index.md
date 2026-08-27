@@ -11,7 +11,7 @@ authors:
 - Danièle Denis
 - Thierry David
 - Frederic Matonti
-- Laurent Udo Perrinet
+- Laurent U Perrinet
 date: -01-01
 publishDate: '2026-08-27T07:39:03.379659Z'
 publication_types:

@@ -139,7 +139,7 @@ contacts
 
 -   DaB: Demian Battaglia <<demian.battaglia@univ-amu.fr>>, INS
 
--   LuP: Laurent Udo Perrinet <<laurent.perrinet@univ-amu.fr>>, INT
+-   LuP: Laurent U Perrinet <<laurent.perrinet@univ-amu.fr>>, INT
 
 -   PhD program: Nicole Malfait <<Nicole.Malfait@univ-amu.fr>>, Anna Montagnini <<anna.montagnini@univ-amu.fr>>
 
