@@ -23,3 +23,5 @@ links:
 - name: HAL
   url: https://amu.hal.science/hal-05368448
 ---
+
+* follow-up paper: {{< cite page="/publication/kronlandmartinet-25-snufa" view="4" >}}

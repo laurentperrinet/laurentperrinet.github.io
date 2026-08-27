@@ -15,6 +15,7 @@ tags:
 publication: '*Biological Cybernetics*'
 publication_types:
 - article-journal
+doi: https://doi.org/10.1007/s00422-026-01051-7
 links:
 - name: HAL
   url: https://hal.science/hal-05364582
