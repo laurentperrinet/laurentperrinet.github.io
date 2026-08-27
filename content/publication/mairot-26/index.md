@@ -12,7 +12,7 @@ authors:
 - Thierry David
 - Frederic Matonti
 - Laurent U Perrinet
-date: -01-01
+date: 2026-08-27
 publishDate: '2026-08-27T07:39:03.379659Z'
 publication_types:
 - article-journal
