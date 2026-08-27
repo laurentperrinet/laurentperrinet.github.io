@@ -28,3 +28,5 @@ user_groups:
 
  * Institut des Neurosciences de la Timone, Aix-Marseille Université / CNRS
  * Thesis co-direction: [Laurent Perrinet (principal supervisor)](https://laurentperrinet.github.io/author/laurent-u-perrinet/) and [Frédéric Matonti (ophtalmologue, Marseille)](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-matonti-86952082/?originalSubdomain=fr)
+
+{{< cite page="publication/mairot-26" view="4" >}}
