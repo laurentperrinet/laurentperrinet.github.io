@@ -29,3 +29,10 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-26-neurocomp/
 ---
+* See the accompanying code: https://github.com/laurentperrinet/MNESIS
+
+* The code and results at the time of the presentation is accessible [in this commit](https://github.com/laurentperrinet/MNESIS/commit/6d2d2872eb72d87c053737a92305e7cbc3863d48)
+
+* see a follow-up: {{< cite page="/talk/2026-09-18-int" view="4" >}}
+
+* A follow-up paper: {{< cite page="/publication/perrinet-26" view="4" >}}

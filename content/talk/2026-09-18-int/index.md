@@ -25,3 +25,9 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/2026-09-18-int/
 ---
+
+* NeOpTo's team seminar at INT, Marseille, France, 2026-04-16
+
+* See the accompanying code: https://github.com/laurentperrinet/MNESIS
+
+* A follow-up paper: {{< cite page="/publication/perrinet-26" view="4" >}}
