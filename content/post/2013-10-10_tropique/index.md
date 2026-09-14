@@ -81,3 +81,6 @@ Installation [Tropique](http://ondesparalleles.org/projets/tropique-7/) : Festiv
  - [Arte creative](http://creative.arte.tv/en/space/Tropique/messages/)
  - Tropique @ [RAN (Enghien-les-Bains)](http://www.ran-dan.net/eng/?p=22)
  - [Étienne Rey Tropique Experimentation Film2](http://vimeo.com/33718945)
+
+
+![Frédéric D.](etopie-1.jpeg)
