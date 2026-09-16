@@ -27,4 +27,3 @@ grants:
 * see a related presentation: {{< cite page="/talk/2026-04-16-cerco" view="4" >}}
 
 * A follow-up paper: {{< cite page="/publication/perrinet-26" view="4" >}}
-

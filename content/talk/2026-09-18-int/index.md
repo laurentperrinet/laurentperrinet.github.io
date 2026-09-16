@@ -24,6 +24,7 @@ abstract: 'Modelling working memory ---the ability to store and recall precise t
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/2026-09-18-int/
+slides: 2026-09-18-int
 ---
 
 * NeOpTo's team seminar at INT, Marseille, France, 2026-04-16
