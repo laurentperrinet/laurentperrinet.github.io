@@ -58,7 +58,8 @@ slides:
 ---
 
 ## supervised learning
----
+
+
 {{< video src="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/2022-06-23_Supervised_MC_input_1.mp4" autoplay="yes" >}}
 
 ---
