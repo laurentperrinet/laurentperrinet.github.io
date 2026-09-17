@@ -23,7 +23,7 @@ abstract: 'Modelling working memory ---the ability to store and recall precise t
   AI systems.'
 links:
 - name: URL
-  url: https://laurentperrinet.github.io/publication/2026-09-18-int/
+  url: https://laurentperrinet.github.io/talk/2026-09-18-int/
 slides: 2026-09-18-int
 ---
 
