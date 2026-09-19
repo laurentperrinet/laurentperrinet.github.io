@@ -18,4 +18,4 @@ links:
 - name: PDF
   url: https://tel.archives-ouvertes.fr/tel-00002693/file/tel-000026931.pdf
 ---
-{{< figure src="jury.jpg" title="Le jury était consistué (de gauche à droite) de Jeanny Hérault (Rapporteur), Michel Imbert (Président), Yves Burnod (Rapporteur, absent de la photo), Manuel Samuelides (Directeur de thèse) et Simon Thorpe (Co-directeur de thèse)."  width="100%" >}}
+{{< figure src="jury.jpg" title="Le jury était consistué (de gauche à droite) de Jeanny Hérault (Rapporteur), Michel Imbert (Président), Yves Burnod (Rapporteur, absent de la photo), Manuel Samuelides (Directeur de thèse) et Simon Thorpe (Co-directeur de thèse)."  width="100%" alt="Photo of the thesis jury (from left to right: Jeanny Hérault, Michel Imbert, Yves Burnod, Manuel Samuelides, and Simon Thorpe)." >}}

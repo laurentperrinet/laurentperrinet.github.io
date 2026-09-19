@@ -22,6 +22,10 @@ image:
   focal_point: Smart
   placement: 2
   preview_only: false
+publications:
+- grimaldi-22-polychronies
+- grimaldi-23-bc
+- perrinet-23-icann
 ---
 {{% callout warning %}}
 THE POSITION HAS BEEN FILLED.

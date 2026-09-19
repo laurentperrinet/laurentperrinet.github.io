@@ -48,7 +48,7 @@ links:
 ---
 * see proceedings paper: {{< cite page="/publication/dauce-20-iwai" view="1" >}}
 ![](@laurentperrinet_1305488089989754883_tweetcapture.png)
-{{< figure src="https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true" >}}
+{{< figure src="https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true" alt="Video abstract of Visual search as active inference." >}}
 * What:: talk @ [1st International Workshop on Active Inference (IWAI 2020)](https://iwaiworkshop.github.io/)
 * Who:: Emmanuel Daucé and Laurent Perrinet
 * Where: Ghent (Belgium), gone virtual, see https://laurentperrinet.github.io/talk/2020-09-14-iwai

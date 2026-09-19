@@ -46,7 +46,7 @@ Le titre de l’exposition fait écho au texte *Le Doute de Cézanne* de Merleau
 
 L’exposition s’inscrit dans le prolongement de cette pensée, en illustrant la vibration des apparences à travers le concept d’interférence. Ce phénomène physique, dans lequel deux ondes de même nature en superposition se renforcent ou s’annulent, inspire Étienne Rey dans l’élaboration d’un parallèle visuel. Il reprend, décale et transpose des motifs dont émergent des « interférences optiques » et des « ondes chromatiques ».
 
-{{< figure src="/post/2024-11-07_vibration-apparences/variations.jpg" title="Étienne Rey, *Variations* © ADAGP, Paris 2024. Crédit image : Étienne Rey" >}}
+{{< figure src="/post/2024-11-07_vibration-apparences/variations.jpg" title="Étienne Rey, *Variations* © ADAGP, Paris 2024. Crédit image : Étienne Rey" alt="Étienne Rey, Variations, 2024." >}}
 
 ### Voir aussi
 

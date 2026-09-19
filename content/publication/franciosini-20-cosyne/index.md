@@ -84,7 +84,7 @@ grants:
 - mesocentre
 - phd-icn
 ---
-{{< figure src="poster.jpg" width="100%" >}}
+{{< figure src="poster.jpg" width="100%" alt="Conference poster for Cosyne 2020: Modelling Complex-cells and topological structure in the visual cortex of mammals." >}}
 * see the follow-up paper in: {{< cite page="/publication/franciosini-21" view="4" >}}
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="4" >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="4" >}}

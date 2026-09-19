@@ -34,9 +34,9 @@ Pour l'exposition de l'Ososphère, se déploie ainsi une distribution aléatoire
 Sélection de réalisations : [Tropiques (2013) et Space Odyssey (2015-2024)](/post/2013-10-10_tropique/), [Trame Elasticité (2016)](/post/2018-04-10_trames/), [Turbulences (2018)](/post/2018-01-20_turbulences/), [Instabilités et Delaunay (2019)](/post/2021-10-04_interstices/), Azur (2028).
 {{% /callout %}}
 
-{{< figure src="643545855_18444436261109562_1480440487903792518_n.jpg" title="Étienne Rey, *Variable Density, série Delaunay*. Crédit image : Étienne Rey." >}}
-{{< figure src="642495844_18444436183109562_654533462198023062_n.jpg" title="Étienne Rey, *Variable Density, série Delaunay*. Crédit image : Étienne Rey." >}}
-{{< figure src="featured.jpg" title="Étienne Rey, *Variable Density, série Delaunay*. Crédit image : Étienne Rey." >}}
+{{< figure src="643545855_18444436261109562_1480440487903792518_n.jpg" title="Étienne Rey, *Variable Density, série Delaunay*. Crédit image : Étienne Rey." alt="Variable Density, série Delaunay by Étienne Rey." >}}
+{{< figure src="642495844_18444436183109562_654533462198023062_n.jpg" title="Étienne Rey, *Variable Density, série Delaunay*. Crédit image : Étienne Rey." alt="Variable Density, série Delaunay by Étienne Rey." >}}
+{{< figure src="featured.jpg" title="Étienne Rey, *Variable Density, série Delaunay*. Crédit image : Étienne Rey." alt="Variable Density, série Delaunay by Étienne Rey." >}}
 
 ### Voir aussi
 

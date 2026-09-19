@@ -44,4 +44,4 @@ links:
   url: https://arxiv.org/abs/q-bio/0611002
 ---
 ![header](perrinet-03-ieee.png)
-{{< figure src="v1_tiger.gif" title="*Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.*" >}}
+{{< figure src="v1_tiger.gif" title="*Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.*" alt="Progressive reconstruction of a static image using spikes in a multi-scale oriented representation." >}}

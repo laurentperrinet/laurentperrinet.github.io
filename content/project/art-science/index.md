@@ -8,6 +8,10 @@ tags:
 summary: L'art permet de dépasser la rigidité requise par les normes académiques.
   C'est aussi un moyen d'expression et de communication. Une collaboration avec Étienne
   Rey.
+publications:
+- ladret-24-joconde
+- perrinet-17-gdr
+- perrinet-23-formes-et-perception
 count: 0
 filters:
   projects: art-science

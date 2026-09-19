@@ -23,11 +23,11 @@ La perception est notre capacité à interpréter les informations que nous rece
 
 Ce phénomène est mobilisé dans *Densité flou*, présentée à Avignon en 2019 (figure 3), qui consiste en un ensemble de triangles accolés et disposés aléatoirement sur une surface. La forte densité des triangles induit la perception de formes imaginaires, comme des voiles, des perspectives ou des visages (voir [cet article](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/#fig:Densité)).
 
-{{< figure src="Avignon-02.jpg" title="Étienne Rey, *Horizon faille - Densité flou* (2019), exposition *Sans gravité - une poétique de l’air*, Ardenome, Avignon. © En revenant de l’expo" lightbox="true" >}}
+{{< figure src="Avignon-02.jpg" title="Étienne Rey, *Horizon faille - Densité flou* (2019), exposition *Sans gravité - une poétique de l’air*, Ardenome, Avignon. © En revenant de l’expo" alt="Installation Horizon faille - Densité flou by Étienne Rey at Ardenome, Avignon." lightbox="true" >}}
 
 # « Tension superficielle » (2019)
 
-{{< figure src="https://i1.wp.com/www.enrevenantdelexpo.com/wp-content/uploads/2019/05/%C3%89tienne-Rey-Horizon-faille-Tension-superficielle-2019-Sans-gravit%C3%A9-une-po%C3%A9tique-de-l%E2%80%99air-%C3%A0-Ardenome-Avignon-00_1.jpg" title="Étienne Rey, *Horizon faille - Tension superficielle* (2019), exposition *Sans gravité - une poétique de l’air*, Ardenome, Avignon. © En revenant de l’expo" lightbox="true" >}}
+{{< figure src="https://i1.wp.com/www.enrevenantdelexpo.com/wp-content/uploads/2019/05/%C3%89tienne-Rey-Horizon-faille-Tension-superficielle-2019-Sans-gravit%C3%A9-une-po%C3%A9tique-de-l%E2%80%99air-%C3%A0-Ardenome-Avignon-00_1.jpg" title="Étienne Rey, *Horizon faille - Tension superficielle* (2019), exposition *Sans gravité - une poétique de l’air*, Ardenome, Avignon. © En revenant de l’expo" alt="Installation Horizon faille - Tension superficielle by Étienne Rey at Ardenome, Avignon." lightbox="true" >}}
 
 # Dans le cadre de « Sans gravité, une poétique de l’air »
 

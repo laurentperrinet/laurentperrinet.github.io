@@ -65,6 +65,6 @@ grants:
 - mesocentre
 - aprovis-3-d
 ---
-{{< figure src="https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true" >}}
+{{< figure src="https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true" alt="Video abstract of the dual foveal-peripheral visual processing model." >}}
 * for a more mathematical treatment, see {{< cite page="/publication/dauce-20-iwai" view="4" >}}
 ![](@laurentperrinet_1305488088412688385_tweetcapture.png)

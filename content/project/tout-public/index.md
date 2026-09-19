@@ -14,6 +14,16 @@ summary: L'entreprise scientifique s'accompagne nécessairement d'actions de dif
   de diffusion de son travail auprès de la communauté scientifique, et auprès de la
   société en général. Je participe à différentes formes d'actions destinées à la culture
   scientifique.
+publications:
+- ladret-24-joconde
+- perrinet-10-doc-sciences
+- perrinet-17-gdr
+- perrinet-19-illusions
+- perrinet-19-temps
+- perrinet-21-hasard
+- perrinet-23-formes-et-perception
+- perrinet-24-yeux
+- template
 content:
   filters:
     tag: tout-public

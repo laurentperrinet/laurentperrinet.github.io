@@ -14,6 +14,10 @@ tags:
 - predictive-coding
 projects:
 - tout-public
+publications:
+- perrinet-14-hdr
+- perrinet-20
+- perrinet-20-dr
 summary: 'J''ai soutenu mon habilitation à diriger des recherche (HDR) le 17 avril
   2014, celle-ci ayant pour titre: **Codage prédictif dans les transformations visuo-motrices**'
 ---
@@ -28,9 +32,7 @@ Lieu: salle Henri Gastaut, au rez de chaussée de l'INT  (how to [get there](htt
 La soutenance a été suivie d’un pot au R+4 de l’[Institut de Neurosciences de la Timone](http://www.int.univ-amu.fr/?lang=en) (how to [get there](http://www.int.univ-amu.fr/contact))
 ## Jury
 
-La soutenance est ouverte à tous, merci d’annoncer votre présence à laurent.perrinet@univ-amu.fr
-
-Le jury est composé par::
+La soutenance était ouverte à tous. Le jury est composé par::
 
  * Prof. Laurent Madelain, Université Lille III
  * Dr. Alain Destexhe, Université Paris XI (Rapporteur)

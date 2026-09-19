@@ -41,7 +41,7 @@ Plus d’infos :
 - [Ateliers - publication 2 (LinkedIn)](https://www.linkedin.com/posts/forum-ateliers-science-ugcPost-7447730429412962304--n5f)
 - [Instagram](https://www.instagram.com/forum_sciences_cognitives)
 - [LinkedIn Cognivence](https://www.linkedin.com/company/cognivence/posts/)
-{{< figure src="/post/2024-11-07_vibration-apparences/variations.jpg" title="Étienne Rey, *Variations* © ADAGP, Paris, 2024. Crédit image : Étienne Rey" >}}
+{{< figure src="/post/2024-11-07_vibration-apparences/variations.jpg" title="Étienne Rey, *Variations* © ADAGP, Paris, 2024. Crédit image : Étienne Rey" alt="Étienne Rey, Variations, 2024." >}}
 Plus de liens :
 
 - https://www.instagram.com/p/DWq88aRjH0I/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==

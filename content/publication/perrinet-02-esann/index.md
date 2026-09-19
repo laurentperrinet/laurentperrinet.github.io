@@ -15,4 +15,4 @@ publication: '*Proceedings of ESANN*'
 publication_types:
 - inproceedings
 ---
-{{< figure src="lena256pyr.gif" title="*Progressive reconstruction of a static image using spikes in a Laplacian pyramid.*" >}}
+{{< figure src="lena256pyr.gif" title="*Progressive reconstruction of a static image using spikes in a Laplacian pyramid.*" alt="Progressive reconstruction of a static image using spikes in a Laplacian pyramid." >}}

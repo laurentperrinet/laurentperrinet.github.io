@@ -32,4 +32,4 @@ links:
 grants:
 - brain-scales
 ---
-{{< figure src="mindmap.png" title="Mindmap of the book contents. Cross-links between chapters have been indicated as thin lines." >}}
+{{< figure src="mindmap.png" title="Mindmap of the book contents. Cross-links between chapters have been indicated as thin lines." alt="Mindmap of the book contents." >}}
