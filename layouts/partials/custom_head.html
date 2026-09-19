@@ -11,6 +11,11 @@
   "datePublished": {{ .Date.Format "2006-01-02" | jsonify }},
   "url": {{ .Permalink | jsonify }},
   "description": {{ .Params.abstract | jsonify }},
+  "author": {
+    "@type": "Person",
+    "name": "Laurent Perrinet",
+    "identifier": "http://orcid.org/0000-0002-9536-010X"
+  },
   {{ with .Params.doi }}"sameAs": "https://doi.org/{{ . }}"{{ end }}
 }
 </script>
