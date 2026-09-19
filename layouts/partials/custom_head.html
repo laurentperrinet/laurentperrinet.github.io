@@ -2,6 +2,24 @@
 <link rel="me" href="https://neuromatch.social/@laurentperrinet" />
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 
+{{ if .IsPage }}
+  <meta property="og:title" content="{{ .Title }}" />
+  <meta name="twitter:title" content="{{ .Title }}" />
+
+  {{ $description := .Params.abstract | default .Description }}
+  {{ if $description }}
+    <meta property="og:description" content="{{ $description }}" />
+    <meta name="twitter:description" content="{{ $description }}" />
+  {{ end }}
+
+  {{ if .Params.image }}
+    <meta property="og:image" content="{{ absURL .Params.image }}" />
+    <meta name="twitter:image" content="{{ absURL .Params.image }}" />
+  {{ end }}
+
+  <meta name="twitter:card" content="summary_large_image" />
+{{ end }}
+
 {{ if eq .Type "publication" }}
 <script type="application/ld+json">
 {
