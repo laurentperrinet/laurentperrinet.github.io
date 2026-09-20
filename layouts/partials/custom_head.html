@@ -21,20 +21,78 @@
 {{ end }}
 
 {{ if eq .Type "publication" }}
+   {{ $authors := .Params.authors }}
+   {{ if not $authors }}{{ $authors = (slice "Laurent U Perrinet") }}{{ else if not (reflect.IsSlice $authors) }}{{ $authors = (slice $authors) }}{{ end }}
+   {{ $ld := dict
+     "@context" "https://schema.org"
+     "@type" "ScholarlyArticle"
+     "headline" .Title
+     "datePublished" (.Date.Format "2006-01-02")
+     "dateModified" (.Lastmod.Format "2006-01-02")
+     "url" .Permalink
+   }}
+   {{ with .Params.abstract }}{{ $_ := set $ld "description" . }}{{ end }}
+   {{ $people := slice }}
+   {{ range $authors }}
+     {{ $person := dict "@type" "Person" "name" . }}
+     {{ if eq . "Laurent U Perrinet" }}{{ $_ := set $person "identifier" "https://orcid.org/0000-0002-9536-010X" }}{{ end }}
+     {{ $people = $people | append $person }}
+   {{ end }}
+   {{ $_ := set $ld "author" $people }}
+   {{ with .Params.publication }}
+     {{ $venue := . | replace "*" "" | strings.Trim " " }}
+     {{ if $venue }}{{ $_ := set $ld "isPartOf" (dict "@type" "Periodical" "name" $venue) }}{{ end }}
+   {{ end }}
+   {{ with .Params.categories }}{{ if reflect.IsSlice . }}{{ $_ := set $ld "keywords" (delimit . ", ") }}{{ else }}{{ $_ := set $ld "keywords" . }}{{ end }}{{ end }}
+   {{ with .Params.publication_types }}{{ if reflect.IsSlice . }}{{ $_ := set $ld "genre" (delimit . ", ") }}{{ else }}{{ $_ := set $ld "genre" . }}{{ end }}{{ end }}
+   {{ with .Params.doi }}{{ $_ := set $ld "sameAs" (printf "https://doi.org/%s" .) }}{{ end }}
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "ScholarlyArticle",
-  "headline": {{ .Title | jsonify }},
-  "datePublished": {{ .Date.Format "2006-01-02" | jsonify }},
-  "url": {{ .Permalink | jsonify }},
-  "description": {{ .Params.abstract | jsonify }},
-  "author": {
-    "@type": "Person",
-    "name": "Laurent Perrinet",
-    "identifier": "http://orcid.org/0000-0002-9536-010X"
-  },
-  {{ with .Params.doi }}"sameAs": "https://doi.org/{{ . }}"{{ end }}
-}
+{{ $ld | jsonify (dict "prefix" "   " "indent" "   ") }}
+</script>
+{{ end }}
+
+{{ if and (eq .Type "authors") (.Params.authors) }}
+    {{ $ld := dict
+      "@context" "https://schema.org"
+      "@type" "Person"
+      "name" .Title
+      "url" .Permalink
+    }}
+    {{ with .Params.bio }}{{ $_ := set $ld "description" . }}{{ end }}
+    {{ with .Params.role }}{{ $_ := set $ld "jobTitle" . }}{{ end }}
+    {{ with .Params.interests }}{{ $_ := set $ld "knowsAbout" . }}{{ end }}
+    {{ with .Params.organizations }}
+      {{ $orgs := slice }}
+      {{ range . }}
+        {{ if .title }}
+          {{ $org := dict "@type" "Organization" "name" .title }}
+          {{ with .url }}{{ $_ := set $org "url" . }}{{ end }}
+          {{ $orgs = $orgs | append $org }}
+        {{ end }}
+      {{ end }}
+      {{ if $orgs }}{{ $_ := set $ld "affiliation" $orgs }}{{ end }}
+    {{ end }}
+    {{ $orcid := "" }}
+    {{ $sameAs := slice }}
+    {{ with .Params.social }}
+      {{ range . }}
+        {{ $link := .link | default "" }}
+        {{ if findRE "(?i)^https?://(www\\.)?orcid\\.org/" $link }}
+          {{ if not $orcid }}{{ $orcid = $link }}{{ end }}
+        {{ else if hasPrefix $link "http" }}
+          {{ $sameAs = $sameAs | append $link }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    {{ if $orcid }}{{ $_ := set $ld "identifier" $orcid }}{{ end }}
+    {{ if $sameAs }}{{ $_ := set $ld "sameAs" $sameAs }}{{ end }}
+    {{ $avatar := .Resources.GetMatch "avatar*" }}
+    {{ if $avatar }}
+      {{ $_ := set $ld "image" $avatar.Permalink }}
+    {{ else }}
+      {{ with .Params.avatar }}{{ $_ := set $ld "image" (printf "media/avatar.%s" . | absURL) }}{{ end }}
+    {{ end }}
+<script type="application/ld+json">
+{{ $ld | jsonify (dict "prefix" "    " "indent" "    ") }}
 </script>
 {{ end }}
