@@ -32,6 +32,9 @@ metadata:
 academic:
 	sh update_hugoblox.sh
 
+check:
+	hugo --gc --renderToMemory
+
 test:
 # 	hugo --gc --cleanDestinationDir
 	hugo server --gc --disableFastRender --renderToMemory
