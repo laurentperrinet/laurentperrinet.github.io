@@ -26,6 +26,7 @@ publication_types:
 image:
   caption: 'Image credit: Naser Tamimi [**Unsplash**](https://unsplash.com/photos/yG9pCqSOrAg)'
   focal_point: Smart
+doi: 10.64628/aak.erjttwvdp
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-21-hasard/

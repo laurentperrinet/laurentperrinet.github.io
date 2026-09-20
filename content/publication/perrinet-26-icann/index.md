@@ -15,7 +15,7 @@ publication: '*35th International Conference on Artificial Neural Networks (ICAN
   2026)-  Special Session on Recent Advances in Spiking Neural Networks*'
 publication_types:
 - paper-conference
-doi: 10.48550/arXiv.2604.14096
+doi: 10.1007/978-3-032-38398-3_22
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-26-icann

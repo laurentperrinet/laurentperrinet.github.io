@@ -35,6 +35,7 @@ publication: '*Optical and Digital Image Processing Conference 7000 - Proceeding
   of SPIE Volume 7000, 7 - 11 April 2008*'
 publication_types:
 - inproceedings
+doi: 10.1117/12.787076
 links:
 - name: arXiv
   url: https://arxiv.org/abs/0804.4830

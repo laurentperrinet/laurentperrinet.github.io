@@ -26,6 +26,7 @@ publication_types:
 image:
   caption: 'Un pélican en vol photographié par Etienne-Jules Marey en 1882. https://commons.wikimedia.org/wiki/File:Marey_-_birds.jpg '
   focal_point: Smart
+doi: 10.64628/aak.ktksa6fr5
 links:
 - name: URL
   url: https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567

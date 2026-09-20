@@ -35,6 +35,7 @@ tags:
 - visual-illusions
 publication_types:
 - thesis
+doi: 10.70675/d53c5b36zd868z43c3z889cz7924eb1417cf
 links:
 - name: URL
   url: https://theses.fr/2019AIXM0137

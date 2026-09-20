@@ -33,7 +33,7 @@ tags:
 publication: '*bioRxiv*'
 publication_types:
 - article-journal
-doi: 10/ggqj77
+doi: 10.1101/2020.03.26.010017
 links:
 - name: bioRxiv
   url: https://www.biorxiv.org/content/10.1101/2020.03.26.010017

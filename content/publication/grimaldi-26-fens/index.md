@@ -34,6 +34,7 @@ tags:
 publication: '*Proceedings of the FENS Forum 2026*'
 publication_types:
 - paper-conference
+doi: 10.21203/rs.3.rs-9518938/v1
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/grimaldi-26-fens/

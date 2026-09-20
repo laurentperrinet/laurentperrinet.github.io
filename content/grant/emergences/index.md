@@ -43,7 +43,7 @@ The [*Emergences* project](https://emergences.lirmm.fr/) aims at advancing the s
 
 - 2023-10-05: Kick-off meeting!
 
-{{< figure src="2024-09-26_paris.png" numbered="false" >}}
+{{< figure src="2024-09-26_paris.png" numbered="false"  alt="Emergences project event announcement (Paris, September 26, 2024)." >}}
 
 ## Description of the "*Emergences*" project
 
@@ -60,7 +60,7 @@ The *Emergences* project aims at advancing the state-of-the art on near-physics 
 * attention mechanisms based on our cognitive architecture using a dual pathway: {{< cite page="/publication/dauce-20" view="4" >}}
 
 * implementation in a spiking neural network based: {{< cite page="/publication/grimaldi-23-bc" view="4" >}}
-{{< figure src="carte_partenaire.jpg" title="Carte des partenaires du projet Emergences." numbered="false" >}}
+{{< figure src="carte_partenaire.jpg" title="Carte des partenaires du projet Emergences." numbered="false"  alt="Carte des partenaires du projet Emergences." >}}
 
 {{% callout note %}}
 L'intelligence artificielle induit des changements profonds dans les paysages scientifiques, économiques, politiques et sociétaux contemporains. Une décennie après sa « renaissance », l'apprentissage automatique continue à réaliser des avancées sur de nombreux fronts, au prix cependant d'une boulimie de ressources informatiques induisant une consommation électrique préoccupante. Les modèles de langage actuels comportent quelques centaines de milliards de paramètres et consomment pour leur entraînement seul plusieurs GWh, ce qui aujourd'hui motive la recherche d'approches (de rupture) plus sobres.
@@ -80,6 +80,6 @@ Toutes ces investigations sont menées dans un cadre d’expérimentations basé
 
 - This work is supported by a public grant overseen by the French National Research Agency (ANR) under the grant number ANR-23-PEIA-0002 EMERGENCES.
 
-{{< figure src="logo_PEPR-IA.png" numbered="false" >}}
+{{< figure src="logo_PEPR-IA.png" numbered="false"  alt="Logo of the PEPR-IA funding program." >}}
 
 ![Funded by...](ackno.jpg)

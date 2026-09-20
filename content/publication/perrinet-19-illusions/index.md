@@ -30,6 +30,7 @@ publication: '*The Conversation*'
 publication_types:
 - article-journal
 url_video: https://www.youtube.com/watch?v=jJKTdlChefc
+doi: 10.64628/aak.pwc9p7tpd
 links:
 - name: URL
   url: https://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389

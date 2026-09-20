@@ -23,7 +23,7 @@ tags:
 publication: '*Neurocomputing*'
 publication_types:
 - article-journal
-doi: 10.1.1.18.4990
+doi: 10.1016/S0925-2312(01)00403-9
 links:
 - name: PDF
   url: https://cerco.cnrs.fr/pagesp/arno/mypapers/Delorme.cns2000.pdf

@@ -33,6 +33,7 @@ publication: '*The 14th International Winter Conference on Brain-Computer Interf
   February 23~25, 2026*'
 publication_types:
 - paper-conference
+doi: 10.1109/BCI69045.2026.11435104
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/choplin-26-bci

@@ -36,6 +36,7 @@ projects:
 publication: '*Annual Computational Neuroscience Meeting: CNS 2013, Paris*'
 publication_types:
 - inproceedings
+doi: 10.1186/1471-2202-14-s1-p133
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-13-cns

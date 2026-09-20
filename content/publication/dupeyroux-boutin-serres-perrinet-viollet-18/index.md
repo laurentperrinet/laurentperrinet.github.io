@@ -32,6 +32,7 @@ projects:
 publication: '*ISCAS2018, IEEE International Symposium on Circuits and Systems*'
 publication_types:
 - inproceedings
+doi: 10.1109/ISCAS.2018.8351433
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/abstract/document/8351433

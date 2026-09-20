@@ -16,6 +16,7 @@ tags:
 - eye-movements
 publication_types:
 - preprint
+doi: 10.48550/arXiv.2603.09613
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2603.09613

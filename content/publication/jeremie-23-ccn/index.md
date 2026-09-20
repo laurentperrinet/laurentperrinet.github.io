@@ -27,6 +27,7 @@ publication_types:
 image:
   focal_point: Smart
   preview_only: false
+doi: 10.32470/ccn.2023.1706-0
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/jeremie-23-ccn

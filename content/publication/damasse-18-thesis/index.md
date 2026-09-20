@@ -34,6 +34,7 @@ tags:
 - motion-perception
 publication_types:
 - thesis
+doi: 10.70675/193e9600zb9f9z4bcazb4c1z4369b97dce0c
 links:
 - name: URL
   url: https://theses.fr/2018AIXM0223

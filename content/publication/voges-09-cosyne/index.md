@@ -57,6 +57,7 @@ publication_types:
 - inproceedings
 grants:
 - facets
+doi: 10.3389/conf.neuro.06.2009.03.207
 ---
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}
 * see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

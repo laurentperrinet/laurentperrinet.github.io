@@ -25,6 +25,7 @@ publication_types:
 image:
   focal_point: Smart
   preview_only: false
+doi: 10.1007/s00422-023-00974-9
 links:
 - name: Preprint
   url: https://www.researchsquare.com/article/rs-2120721
