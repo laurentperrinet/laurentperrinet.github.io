@@ -3,6 +3,7 @@
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 
 {{ if .IsPage }}
+  {{ $page := . }}
   <meta property="og:title" content="{{ .Title }}" />
   <meta name="twitter:title" content="{{ .Title }}" />
 
@@ -12,9 +13,19 @@
     <meta name="twitter:description" content="{{ $description }}" />
   {{ end }}
 
-  {{ if .Params.image }}
-    <meta property="og:image" content="{{ absURL .Params.image }}" />
-    <meta name="twitter:image" content="{{ absURL .Params.image }}" />
+  {{ $ogImage := "" }}
+  {{ with .Params.image }}
+    {{ with partial "blox-core/functions/get_featured_image.html" $page }}
+      {{ $ogImage = .Permalink }}
+    {{ else }}
+      {{ if not (reflect.IsMap $.Params.image) }}
+        {{ $ogImage = absURL $.Params.image }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ with $ogImage }}
+    <meta property="og:image" content="{{ . }}" />
+    <meta name="twitter:image" content="{{ . }}" />
   {{ end }}
 
   <meta name="twitter:card" content="summary_large_image" />
@@ -31,21 +42,21 @@
      "dateModified" (.Lastmod.Format "2006-01-02")
      "url" .Permalink
    }}
-   {{ with .Params.abstract }}{{ $_ := set $ld "description" . }}{{ end }}
+   {{ with .Params.abstract }}{{ $ld = merge $ld (dict "description" .) }}{{ end }}
    {{ $people := slice }}
    {{ range $authors }}
      {{ $person := dict "@type" "Person" "name" . }}
-     {{ if eq . "Laurent U Perrinet" }}{{ $_ := set $person "identifier" "https://orcid.org/0000-0002-9536-010X" }}{{ end }}
+     {{ if eq . "Laurent U Perrinet" }}{{ $person = merge $person (dict "identifier" "https://orcid.org/0000-0002-9536-010X") }}{{ end }}
      {{ $people = $people | append $person }}
    {{ end }}
-   {{ $_ := set $ld "author" $people }}
+   {{ $ld = merge $ld (dict "author" $people) }}
    {{ with .Params.publication }}
      {{ $venue := . | replace "*" "" | strings.Trim " " }}
-     {{ if $venue }}{{ $_ := set $ld "isPartOf" (dict "@type" "Periodical" "name" $venue) }}{{ end }}
+     {{ if $venue }}{{ $ld = merge $ld (dict "isPartOf" (dict "@type" "Periodical" "name" $venue)) }}{{ end }}
    {{ end }}
-   {{ with .Params.categories }}{{ if reflect.IsSlice . }}{{ $_ := set $ld "keywords" (delimit . ", ") }}{{ else }}{{ $_ := set $ld "keywords" . }}{{ end }}{{ end }}
-   {{ with .Params.publication_types }}{{ if reflect.IsSlice . }}{{ $_ := set $ld "genre" (delimit . ", ") }}{{ else }}{{ $_ := set $ld "genre" . }}{{ end }}{{ end }}
-   {{ with .Params.doi }}{{ $_ := set $ld "sameAs" (printf "https://doi.org/%s" .) }}{{ end }}
+   {{ with .Params.categories }}{{ if reflect.IsSlice . }}{{ $ld = merge $ld (dict "keywords" (delimit . ", ")) }}{{ else }}{{ $ld = merge $ld (dict "keywords" .) }}{{ end }}{{ end }}
+   {{ with .Params.publication_types }}{{ if reflect.IsSlice . }}{{ $ld = merge $ld (dict "genre" (delimit . ", ")) }}{{ else }}{{ $ld = merge $ld (dict "genre" .) }}{{ end }}{{ end }}
+   {{ with .Params.doi }}{{ $ld = merge $ld (dict "sameAs" (printf "https://doi.org/%s" .)) }}{{ end }}
 <script type="application/ld+json">
 {{ $ld | jsonify (dict "prefix" "   " "indent" "   ") }}
 </script>
@@ -58,19 +69,19 @@
       "name" .Title
       "url" .Permalink
     }}
-    {{ with .Params.bio }}{{ $_ := set $ld "description" . }}{{ end }}
-    {{ with .Params.role }}{{ $_ := set $ld "jobTitle" . }}{{ end }}
-    {{ with .Params.interests }}{{ $_ := set $ld "knowsAbout" . }}{{ end }}
+    {{ with .Params.bio }}{{ $ld = merge $ld (dict "description" .) }}{{ end }}
+    {{ with .Params.role }}{{ $ld = merge $ld (dict "jobTitle" .) }}{{ end }}
+    {{ with .Params.interests }}{{ $ld = merge $ld (dict "knowsAbout" .) }}{{ end }}
     {{ with .Params.organizations }}
       {{ $orgs := slice }}
       {{ range . }}
         {{ if .title }}
           {{ $org := dict "@type" "Organization" "name" .title }}
-          {{ with .url }}{{ $_ := set $org "url" . }}{{ end }}
+          {{ with .url }}{{ $org = merge $org (dict "url" .) }}{{ end }}
           {{ $orgs = $orgs | append $org }}
         {{ end }}
       {{ end }}
-      {{ if $orgs }}{{ $_ := set $ld "affiliation" $orgs }}{{ end }}
+      {{ if $orgs }}{{ $ld = merge $ld (dict "affiliation" $orgs) }}{{ end }}
     {{ end }}
     {{ $orcid := "" }}
     {{ $sameAs := slice }}
@@ -84,13 +95,13 @@
         {{ end }}
       {{ end }}
     {{ end }}
-    {{ if $orcid }}{{ $_ := set $ld "identifier" $orcid }}{{ end }}
-    {{ if $sameAs }}{{ $_ := set $ld "sameAs" $sameAs }}{{ end }}
+    {{ if $orcid }}{{ $ld = merge $ld (dict "identifier" $orcid) }}{{ end }}
+    {{ if $sameAs }}{{ $ld = merge $ld (dict "sameAs" $sameAs) }}{{ end }}
     {{ $avatar := .Resources.GetMatch "avatar*" }}
     {{ if $avatar }}
-      {{ $_ := set $ld "image" $avatar.Permalink }}
+      {{ $ld = merge $ld (dict "image" $avatar.Permalink) }}
     {{ else }}
-      {{ with .Params.avatar }}{{ $_ := set $ld "image" (printf "media/avatar.%s" . | absURL) }}{{ end }}
+      {{ with .Params.avatar }}{{ $ld = merge $ld (dict "image" (printf "media/avatar.%s" . | absURL)) }}{{ end }}
     {{ end }}
 <script type="application/ld+json">
 {{ $ld | jsonify (dict "prefix" "    " "indent" "    ") }}
