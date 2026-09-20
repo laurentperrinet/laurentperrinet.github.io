@@ -15,12 +15,12 @@
 
   {{ $ogImage := "" }}
   {{ with .Params.image }}
-    {{ with partial "blox-core/functions/get_featured_image.html" $page }}
-      {{ $ogImage = .Permalink }}
-    {{ else }}
-      {{ if not (reflect.IsMap $.Params.image) }}
-        {{ $ogImage = absURL $.Params.image }}
+    {{ if reflect.IsMap . }}
+      {{ with partial "blox-core/functions/get_featured_image.html" $page }}
+        {{ $ogImage = .Permalink }}
       {{ end }}
+    {{ else }}
+      {{ $ogImage = absURL . }}
     {{ end }}
   {{ end }}
   {{ with $ogImage }}
