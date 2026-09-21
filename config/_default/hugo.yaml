@@ -63,7 +63,10 @@ taxonomies:
   tag: tags
   category: categories
   grant: grants
-  project: projects
+  # /!\ Do NOT register `project: projects` here: the `projects:` front-matter
+  # key is a plain Hugo Blox parameter (used for the "Project" buttons and
+  # widgets). Registering it as a taxonomy makes Hugo emit a taxonomy term page
+  # at /project/<term>/ which overwrites the real content/project/<term>/ page.
   publication_type: publication_types
 markup:
   _merge: deep
