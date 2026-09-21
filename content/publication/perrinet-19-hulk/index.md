@@ -37,6 +37,8 @@ tags:
 - primary-visual-cortex
 - sparse-coding
 - spiking-neural-networks
+projects:
+- open-science
 publication: '*Vision*'
 publication_types:
 - article-journal

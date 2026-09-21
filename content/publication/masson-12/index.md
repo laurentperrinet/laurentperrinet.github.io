@@ -33,4 +33,4 @@ links:
 - name: URL
   url: https://view.ncbi.nlm.nih.gov/pubmed/21421006
 ---
-![header](masson-12.png)
+![Header image](masson-12.png)

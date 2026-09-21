@@ -45,4 +45,4 @@ links:
 grants:
 - facets-itn
 ---
-![header](perrinet-07-neurocomp.png)
+![Header image](perrinet-07-neurocomp.png)

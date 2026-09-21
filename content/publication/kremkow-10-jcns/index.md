@@ -38,4 +38,4 @@ links:
 grants:
 - facets
 ---
-![header](kremkow-10-jcns.png)
+![Header image](kremkow-10-jcns.png)

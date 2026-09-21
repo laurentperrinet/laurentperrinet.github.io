@@ -44,5 +44,5 @@ grants:
 - brain-scales
 - codde
 ---
-![header](voges-12.png)
+![Header image](voges-12.png)
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}

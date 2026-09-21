@@ -44,4 +44,4 @@ links:
 - name: URL
   url: https://doi.org/10.1371/journal.pone.0047502
 ---
-![header](adams-12.png)
+![Header image](adams-12.png)

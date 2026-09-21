@@ -36,5 +36,5 @@ links:
 grants:
 - facets
 ---
-![header](voges-10-jpp.png)
+![Header image](voges-10-jpp.png)
 * see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

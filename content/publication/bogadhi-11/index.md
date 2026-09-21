@@ -54,5 +54,5 @@ links:
 grants:
 - codde
 ---
-![header](bogadhi-11.png)
+![Header image](bogadhi-11.png)
 * See a followup in {{< cite page="/publication/perrinet-12-pred" view="4" >}}

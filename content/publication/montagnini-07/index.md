@@ -42,4 +42,4 @@ links:
 grants:
 - facets-itn
 ---
-![header](montagnini-07.png)
+![Header image](montagnini-07.png)

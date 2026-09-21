@@ -39,6 +39,8 @@ tags:
 - primary-visual-cortex
 - sparse-coding
 - visual-illusions
+projects:
+- open-science
 publication: '*International Journal of Computer Vision*'
 publication_types:
 - article-journal

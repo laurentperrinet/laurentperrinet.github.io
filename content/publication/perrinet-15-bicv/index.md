@@ -29,6 +29,8 @@ tags:
 - bayesian-modelling
 - primary-visual-cortex
 - sparse-coding
+projects:
+- open-science
 publication: '*Biologically Inspired Computer Vision*'
 publication_types:
 - inbook
