@@ -46,7 +46,7 @@ links:
 - name: Supp
   url: https://neuralensemble.org/MotionClouds/ms/MotionClouds_Supplementary.pdf
 ---
-![header](sanz-12.png)
+{{< figure src="sanz-12.png" alt="Header image">}}
 **MotionClouds** are random dynamic stimuli optimized to study motion perception.
 * [Web-site](https://neuralensemble.github.io/MotionClouds/)
 * [Source code](https://github.com/NeuralEnsemble/MotionClouds) using {{< icon name="python" pack="fab" >}} Python.
