@@ -58,7 +58,7 @@
    {{ with .Params.publication_types }}{{ if reflect.IsSlice . }}{{ $ld = merge $ld (dict "genre" (delimit . ", ")) }}{{ else }}{{ $ld = merge $ld (dict "genre" .) }}{{ end }}{{ end }}
    {{ with .Params.doi }}{{ $ld = merge $ld (dict "sameAs" (printf "https://doi.org/%s" .)) }}{{ end }}
 <script type="application/ld+json">
-{{ $ld | jsonify (dict "prefix" "   " "indent" "   ") }}
+{{ $ld | jsonify (dict "prefix" "   " "indent" "   ") | safeJS }}
 </script>
 {{ end }}
 
@@ -104,6 +104,6 @@
       {{ with .Params.avatar }}{{ $ld = merge $ld (dict "image" (printf "media/avatar.%s" . | absURL)) }}{{ end }}
     {{ end }}
 <script type="application/ld+json">
-{{ $ld | jsonify (dict "prefix" "    " "indent" "    ") }}
+{{ $ld | jsonify (dict "prefix" "    " "indent" "    ") | safeJS }}
 </script>
 {{ end }}
