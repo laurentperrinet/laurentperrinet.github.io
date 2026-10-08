@@ -12,8 +12,8 @@ tags:
 - past-grant
 - primary-visual-cortex
 summary: 'ANR BalaV1: Balanced states in area V1 (2013--2016)'
+show_date: false
 ---
-
 # ANR BalaV1: Balanced states in area V1 (2013/2016)
 
 * [Official website](http://www.agence-nationale-recherche.fr/Project-ANR-13-BSV4-0014)

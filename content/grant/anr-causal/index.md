@@ -10,6 +10,7 @@ tags:
 - metaplasticity
 - spiking-neural-networks
 summary: 'ANR CausaL (2018/2020) : Cognitive​ ​architectures​ ​of​ Causal​ ​Learning.'
+show_date: false
 ---
 With Andrea Brovelli (INT), Mateus Joffily (GATE)...
 

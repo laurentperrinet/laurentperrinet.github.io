@@ -16,6 +16,8 @@ links:
   url: https://laurentperrinet.github.io/talk/2026-03-24-phd-program-spiking-neural-nets
 - name: Code
   url: https://github.com/CONECT-INT/2026-03_PhDProgram-course-in-computational-neuroscience/
+projects:
+- courses
 ---
 This repository contains all the material for this practical course about the "Introduction to SNN torch".
 

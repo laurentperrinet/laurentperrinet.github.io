@@ -39,4 +39,5 @@ publication_types:
 grants:
 - brain-scales
 - codde
+doi: 10.3389/conf.fnins.2012.86.00016
 ---

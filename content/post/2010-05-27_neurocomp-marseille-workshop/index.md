@@ -26,6 +26,8 @@ image:
   preview_only: false
 summary: 'Computational Neuroscience: From Representations to Behavior, the Second
   NeuroComp Marseille Workshop.'
+projects:
+- courses
 ---
 - Date: 27-28 May 2010
 

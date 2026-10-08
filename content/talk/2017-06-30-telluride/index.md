@@ -23,4 +23,6 @@ links:
   url: https://laurentperrinet.github.io/sciblog/files/2017-06-30_Telluride.html
 - name: URL
   url: https://laurentperrinet.github.io/talk/2017-06-30-telluride
+projects:
+- courses
 ---

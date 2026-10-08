@@ -25,6 +25,7 @@ image:
   preview_only: false
 summary: A grant from the Ph.D. program in Integrative and Clinical Neuroscience (Post-doctoral
   position, 2022 / 2025).
+show_date: false
 ---
 {{% callout warning %}}
 THE POSITION HAS BEEN FILLED.

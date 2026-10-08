@@ -31,6 +31,8 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-03-05-ue-natural-cognition
 slides: 2026-03-05-ue-natural-cognition
+projects:
+- courses
 ---
 Practical work: https://github.com/laurentperrinet/2026-03_UE-neurosciences-computationnelles/
 

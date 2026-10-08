@@ -13,6 +13,7 @@ tags:
 - sparse-coding
 - spiking-neural-networks
 summary: 'DOC2AMU: An Excellence Fellowship (2016/2019).'
+show_date: false
 ---
 [DOC2AMU](https://doc2amu.univ-amu.fr/en) is co-funded by the prestigious Marie Skłodowska-Curie COFUND action within the H2020 Research and Innovation programme of the European Union and by the Regional Council of Provence-Alpes-Côte d’Azur, with a contribution from A*MIDEX Foundation.
 

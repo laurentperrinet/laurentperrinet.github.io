@@ -11,6 +11,7 @@ tags:
 - past-grant
 - neuromorphic-computing
 summary: 'FACETS: Fast Analog Computing with Emergent Transient States (2006/2010).'
+show_date: false
 ---
 List of publications that were funded by the
 <a href="http://facets.kip.uni-heidelberg.de/" class="http">FACETS</a>

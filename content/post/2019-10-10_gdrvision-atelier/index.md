@@ -11,6 +11,7 @@ tags:
 - vision
 projects:
 - tout-public
+- courses
 image:
   focal_point: Smart
 grants:

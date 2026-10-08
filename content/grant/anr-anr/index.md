@@ -17,6 +17,7 @@ tags:
 - spiking-neural-networks
 slides: 2020-12-10_agileneurobot_anr
 summary: Robots aériens agiles bio-mimetiques pour le vol en conditions réelles
+show_date: false
 ---
 <!-- youtube-dl https://www.youtube.com/watch\?v\=36CTDiJjQ8I -->
 

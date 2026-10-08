@@ -11,5 +11,6 @@ tags:
 - motion-perception
 - predictive-coding
 summary: 'CODDE: understanding brain and behaviour (2008/2012).'
+show_date: false
 ---
  The [CODDE](http://www.optimaldecisions.org/) network studies the links between sensory input, brain activity and motor output. It does this by combining behavioural techniques, brain imaging, movement recording and computational modelling.

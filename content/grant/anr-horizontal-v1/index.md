@@ -24,6 +24,7 @@ tags:
 - visual-illusions
 summary: Connectivité Horizontale et Prédiction de Cohérences dans l'Intégration de
   Contour et Mouvement dans le Cortex Visuel Primaire
+show_date: false
 ---
 * Description on the official website of the [ANR](http://www.agence-nationale-recherche.fr/Project-ANR-17-CE37-0006)
 

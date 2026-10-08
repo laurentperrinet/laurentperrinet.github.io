@@ -13,6 +13,7 @@ tags:
 - computational-neuroscience
 projects:
 - tout-public
+- courses
 image:
   focal_point: Smart
   placement: 2

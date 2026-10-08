@@ -12,7 +12,8 @@ tags:
 - bayesian-modelling
 - eye-movements
 projects:
-- tout-public
+- courses
+- open-science
 publication: '*LACONEU2017:  4th Latin-American Summer School in Computational Neuroscience*'
 event: 'LACONEU 2017: 4th Latin-American Summer School in Computational Neuroscience'
 event_url: http://www.laconeu.cl

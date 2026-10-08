@@ -14,6 +14,7 @@ tags:
 - spiking-neural-networks
 summary: Analog PROcessing of bioinspired VIsion Sensors for 3D reconstruction (APROVIS3D)
   is [2018 *CHIST-ERA* laureate](http://www.chistera.eu/projects/aprovis3d).
+show_date: false
 ---
 * Le projet APROVIS3D est lauréat de l'[appel à projets 2018 *CHIST-ERA*](http://www.chistera.eu/projects/aprovis3d) :
 

@@ -18,4 +18,5 @@ publication_types:
 - inproceedings
 grants:
 - facets
+doi: 10.1016/j.jphysparis.2007.10.011
 ---

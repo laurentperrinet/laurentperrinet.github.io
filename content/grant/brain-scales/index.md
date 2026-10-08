@@ -12,6 +12,7 @@ tags:
 - neuromorphic-computing
 summary: 'BrainScaleS: Brain-inspired multiscale computation in neuromorphic hybrid
   systems (2011/2014).'
+show_date: false
 ---
 List of publications that were funded by European Union's project Number FP7-269921, "[BrainScales](http://brainscales.kip.uni-heidelberg.de/)".
 

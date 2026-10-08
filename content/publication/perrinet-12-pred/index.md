@@ -38,8 +38,7 @@ links:
   url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3472550/
 - name: arXiv
   url: https://arxiv.org/abs/1208.6471
-- name: Doi
-  url: https://doi.org/10.1162/NECO_a_00332
+doi: 10.1162/NECO_a_00332
 ---
 ![Header image](perrinet-12-pred.png)
 {{< figure src="line_particles.gif" width="80%" title="The estimation of the motion of an elongated, slanted segment (here moving horizontally to the right) on a limited area (such as the receptive field of a neuron) leads to ambiguous velocity measurements compared to physical motion: it’s the aperture problem. We represent as arrows the velocity vectors that are most likely detected by a motion energy model; hue indicates direction angle. Introducing predictive coding resolves the aperture problem." alt="The aperture problem and its resolution via predictive coding." >}}

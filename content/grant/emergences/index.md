@@ -19,6 +19,7 @@ image:
   placement: 2
   preview_only: false
 summary: Near-physics emerging models for embedded AI (PhD position, 2023 / 2027).
+show_date: false
 ---
 {{% callout note %}}
 TL;DR: Conventional deep learning models consume too much energy. Inspired by biology, we will explore new models that are more energy efficient.

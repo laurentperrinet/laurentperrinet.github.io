@@ -30,6 +30,7 @@ publication_types:
 - inproceedings
 grants:
 - facets
+doi: 10.1016/j.jphysparis.2009.11.004
 ---
 * Based on {{< cite page="/publication/voges-10-jpp" view="4" >}}
 * see  follow-up : {{< cite page="/publication/voges-12" view="4" >}}

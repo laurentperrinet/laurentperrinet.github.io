@@ -24,7 +24,6 @@ publication: '*Cycle de conférences organisé par l’Association Science Techn
   de l’intelligence". *'
 publication_types:
 - inproceedings
-doi: 10.1016/j.neurol.2019.01.031
 event: 'Cycle de conférences organisé par l''Association Science Technologie Société
   - PACA ayant pour thème cette année : ``Biologie et civilisation : les chemins de
   l''intelligence''''.'
