@@ -39,5 +39,8 @@ publication_types:
 - paper-conference
 links:
 - name: URL
-  url: https://www.world-wide.org/cosyne-25/robust-unsupervised-learning-spike-fa46f105/
+  url: https://laurentperrinet.github.io/publication/grimaldi-25-cosyne/
 ---
+
+
+* https://www.linkedin.com/posts/laurent-perrinet-1857b9_cosyne2025-neuroscience-spikes-share-7311061556190990337-0Us8/
