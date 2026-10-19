@@ -16,33 +16,13 @@
       {{ $page := . }}
       {{ $project := .File.ContentBaseName }}
 
-      {{ $items := where (where site.RegularPages "Type" "post") ".Params.projects" "intersect" (slice $project) }}
-      {{ $count := len $items }}
-      {{ if ge $count 1 }}
-        <h2>{{ (i18n "posts") }}</h2>
-        {{ range $index, $item := $items }}
-          {{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.projects.post_view | default "compact") "index" $index) }}
-        {{end}}
-      {{ end }}
-
-      {{ $items := where (where site.RegularPages "Type" "publication") ".Params.projects" "intersect" (slice $project) }}
-      {{ $pubs_len := len $items }}
-      {{ if ge $pubs_len 1 }}
-        <h2>{{ (i18n "publications") }}</h2>
-        {{ range $index, $item := $items }}
-          {{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.projects.publication_view | default "compact") "index" $index) }}
-        {{end}}
-      {{ end }}
-
-      {{/* Site override of blox-bootstrap v5.9.7: our talks use Type "talk" (as in content/home/talks.md),
-          not Wowchemy-era "event", otherwise the Talks section never renders on project pages. */}}
-      {{ $items := where (where site.RegularPages "Type" "talk") ".Params.projects" "intersect" (slice $project) }}
-      {{ $talks_len := len $items }}
-      {{ if ge $talks_len 1 }}
-        <h2>{{ (i18n "talks") }}</h2>
-        {{ range $index, $item := $items }}
-          {{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.projects.talk_view | default "compact") "index" $index) }}
-        {{end}}
+      {{/* Site override of blox-bootstrap v5.9.7: posts, publications and talks (our talks use Type "talk",
+          not Wowchemy-era "event") are merged into one reverse-chronological list instead of one section per type. */}}
+      {{ $items := where (where site.RegularPages "Type" "in" (slice "post" "publication" "talk")) ".Params.projects" "intersect" (slice $project) }}
+      {{ $items = sort $items "Date" "desc" }}
+      {{ $views := dict "post" (site.Params.projects.post_view | default "compact") "publication" (site.Params.projects.publication_view | default "compact") "talk" (site.Params.projects.talk_view | default "compact") }}
+      {{ range $index, $item := $items }}
+        {{ partial "functions/render_view" (dict "page" $ "item" . "view" (index $views .Type) "index" $index) }}
       {{ end }}
     </div>
   </div>
