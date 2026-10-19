@@ -9,20 +9,13 @@ subtitle: THE POSITION HAS BEEN FILLED. CD Doctorant "Vision ultra-rapide par r√
 draft: false
 categories:
 - Behavioural Neuroscience
-- Biological Neuroscience
-- Computational Neuroscience
 - Computer Vision
 - NeuroAI & Machine Learning
-- Visual Neuroscience
 tags:
 - neuromorphic-computing
 - predictive-coding
-- primary-visual-cortex
 - sparse-coding
 - spiking-neural-networks
-- visual-illusions
-projects:
-- tout-public
 image:
   caption: Rufous Hummingbird "Super fast little hummer on a scarlet Kunzea plant,
     (thanks for the plant ID, Teddy) El Chorro regional park" photo [Anita Ritenour](https://www.flickr.com/photos/puliarfanita/13322040205)
