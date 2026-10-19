@@ -1,0 +1,9 @@
+{{- /*
+  Inline PyPI badges (version and monthly downloads) for a package.
+  Raw HTML is used because the theme wraps Markdown images in centred blocks.
+  Usage: {{< pypi-badges SparseEdges >}}
+*/ -}}
+{{- $pkg := .Get 0 -}}
+{{- $url := printf "https://pypi.org/project/%s/" $pkg -}}
+<a href="{{ $url }}" style="display:inline-block;margin:0 0.25em;vertical-align:middle"><img src="https://img.shields.io/pypi/v/{{ $pkg }}.svg" alt="PyPI version of {{ $pkg }}" style="display:inline;margin:0"></a>
+<a href="{{ $url }}" style="display:inline-block;margin:0 0.25em;vertical-align:middle"><img src="https://img.shields.io/pypi/dm/{{ $pkg }}.svg" alt="PyPI monthly downloads of {{ $pkg }}" style="display:inline;margin:0"></a>
