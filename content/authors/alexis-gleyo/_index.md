@@ -34,7 +34,6 @@ social:
 superuser: false
 user_groups:
 - Current Students
-draft: true
 ---
 
 # PhD Student (2026-10 / 2029-09): Apprentissage auto-supervisé bio-inspiré de la dynamique du contrôle d'une tâche d'interception dans les cortex visuel et moteur

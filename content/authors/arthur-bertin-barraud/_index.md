@@ -19,7 +19,6 @@ social:
 superuser: false
 user_groups:
 - Current Students
-draft: true
 ---
 
 # CENTURI PhD Student (2026-10 / 2029-09): Neuromodulatory control of predictive processing in visual cortical circuits
