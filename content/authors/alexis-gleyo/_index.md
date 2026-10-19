@@ -3,15 +3,27 @@ title: Alexis Gleyo
 authors:
 - alexis-gleyo
 role: Phd candidate in Computational Neuroscience
-bio: During my PhD, I am focusing on spiking neural networks implementing world models.
+bio: Trained in mathematics and artificial intelligence, I study spiking neural networks and population coding, and during my PhD I focus on spiking neural networks implementing world models.
 education:
   courses:
   - course: Phd candidate in Computational Neuroscience
     institution: Aix-Marseille Université
     year: 2026
-  - course: Master in Neuroscience
-    institution: Aix-Marseille Université
+  - course: M2 Mathematics and Artificial Intelligence
+    institution: Université Paris-Saclay, Orsay
     year: 2026
+  - course: M1 Mathematics and Artificial Intelligence
+    institution: Université Paris-Saclay, Orsay
+    year: 2024
+  - course: L3 Computer Science, Mathematics (LDD3)
+    institution: Université Paris-Saclay, Orsay
+    year: 2024
+  - course: L2 Mathematics and Magistère (L3 level)
+    institution: Université Paris-Saclay, Orsay
+    year: 2023
+  - course: L1-L2 Mathematics, CUPGE Maths, Physics, Computer Science
+    institution: Université de Lorraine, Nancy
+    year: 2022
 social:
 - icon: github
   icon_pack: fab
@@ -47,6 +59,14 @@ La première année sera consacrée à l’analyse des données neuronales et co
 L’accent sera mis durant la deuxième année sur la validation et l’affinement du modèle d’inférence probabiliste, en le testant contre les données empiriques et en introduisant des perturbations contrôlées dans la tâche pour évaluer ses prédictions. Une analyse computationnelle approfondie permettra de comparer les résultats du modèle avec les dynamiques neuronales observées, tout en intégrant des méthodes avancées de modélisation pour améliorer sa robustesse et son interprétabilité.
 La dernière année sera dédiée à l’analyse complète des données, en combinant décodage classique et modélisation dynamique pour consolider les résultats théoriques. Le modèle final sera utilisé pour générer des prédictions sur le comportement du système en réponse à des perturbations, et ces prédictions seront confrontées aux données expérimentales. La synthèse des résultats computationnels sera intégrée dans la rédaction de la thèse, avec un focus sur les implications théoriques pour la compréhension des mécanismes d’anticipation visuo-motrice.
 
-# Ouverture internationale : 
+# Research experience
 
-Il est prévu de participer activement à des conférences internationales majeures en neurosciences computationnelles (NeurIPS, COSYNE, CCN) et expérimentales (SfN, FENS) pour présenter et discuter nos résultats, favorisant ainsi les échanges scientifiques et la visibilité du projet. Une collaboration est déjà engagée avec Martin Vinck (Université de Nijmegen, https://www.martinvinck.com), expert en neurosciences des systèmes, pour co-développer des modèles bio-inspirés intégrant des données d’enregistrements haute densité (Neuropixels). Cette collaboration inclut des séjours dans son laboratoire afin d’acquérir des compétences en analyse de signaux neuronaux à grande échelle et en modélisation computationnelle, renforçant ainsi l’ancrage international du projet. Par ailleurs, des missions courtes pourraient être organisées pour accéder à des plateformes expérimentales ou des infrastructures spécialisées, selon les besoins méthodologiques émergents.
+* 2025-04 / 2025-07: research internship, BISCUIT team, LORIA (UMR 7503) — robustness of population coding in spiking neural networks to hardware failures.
+* 2024-05 / 2024-07: research internship, BISCUIT team, LORIA (UMR 7503) — density function estimation from neural gases, studying the effect of the neural-gas topology on kernel density estimation.
+* 2023-06 / 2023-07: research internship, BIRD team, LORIA (UMR 7503) — generative adversarial networks and synthetic data: review and implementation of quality metrics for synthetic datasets generated from personal data.
+* 2023-03 / 2023-05: TER project (LDD3 Mathematics and Magistère) — spectra and pseudo-spectra of matrices: proofs, numerical analyses in Python and a statistical study of pseudo-spectra properties.
+
+# Skills
+
+* Programming languages: C, C++, Python, OCaml, Java, SQL, MATLAB & Simulink.
+* English: Cambridge Certificate of Advanced English (C1), grade B.
