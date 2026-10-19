@@ -38,6 +38,10 @@ user_groups:
 
 # PhD Student (2026-10 / 2029-09): Apprentissage auto-supervisé bio-inspiré de la dynamique du contrôle d'une tâche d'interception dans les cortex visuel et moteur
 
+## Main publications
+
+* {{< cite page="/publication/gleyo-26-snufa" view="4" >}}
+
 ## Mots clés en francais (6)
 
 * processus prédictifs
