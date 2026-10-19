@@ -73,7 +73,7 @@ This library collects different Image Processing tools for use with the [LogGabo
 
 * [Web-site](https://pythonhosted.org/SLIP/)
 * [Source code](https://github.com/bicv/SLIP/)
-* [![Research software impact](http://depsy.org/api/package/pypi/SLIP/badge.svg)](http://depsy.org/package/python/SLIP)
+* [![PyPI version](https://img.shields.io/pypi/v/SLIP.svg)](https://pypi.org/project/SLIP/) [![PyPI downloads](https://img.shields.io/pypi/dm/SLIP.svg)](https://pypi.org/project/SLIP/)
 
 ## LogGabor: a Simple Library for Image Processing
 
@@ -83,7 +83,7 @@ This library defines the set of [LogGabor](https://pythonhosted.org/LogGabor/) k
 * [Source code](https://github.com/bicv/LogGabor/)
 * This library is detailed in the following publication {{< cite page="/publication/fischer-07-cv" view="4" >}}
 * LogGabor filters are used in numerous computer vision applications and reaches 177 citations on [Google Scholar](https://scholar.google.com/scholar?cluster=15692697050569088559&hl=fr&as_sdt=7,39) (last updated 22/10/2021).
-* [![Research software impact](http://depsy.org/api/package/pypi/LogGabor/badge.svg)](http://depsy.org/package/python/LogGabor)
+* [![PyPI version](https://img.shields.io/pypi/v/LogGabor.svg)](https://pypi.org/project/LogGabor/) [![PyPI downloads](https://img.shields.io/pypi/dm/LogGabor.svg)](https://pypi.org/project/LogGabor/)
 ## SparseEdges: sparse coding of natural images
 
 Our goal here is to build practical algorithms of sparse coding for computer vision.
@@ -93,7 +93,7 @@ This class exploits the [SLIP](https://pythonhosted.org/SLIP/) and [LogGabor](ht
 * [Source code](https://github.com/bicv/SparseEdges/)
 * This algorithm was presented in the following paper, which is available as a reprint {{< cite page="/publication/perrinet-15-bicv" view="4" >}}
 * It was notably used in the following paper {{< cite page="/publication/perrinet-bednar-15" view="4" >}}
-* [![Research software impact](http://depsy.org/api/package/pypi/SparseEdges/badge.svg)](http://depsy.org/package/python/SparseEdges)
+* [![PyPI version](https://img.shields.io/pypi/v/SparseEdges.svg)](https://pypi.org/project/SparseEdges/) [![PyPI downloads](https://img.shields.io/pypi/dm/SparseEdges.svg)](https://pypi.org/project/SparseEdges/)
 
 ##  Sparse Hebbian Learning : unsupervised learning of natural images
 
@@ -115,7 +115,7 @@ This is a collection of python scripts to test learning strategies to efficientl
 * examples of use: https://laurentperrinet.github.io/sciblog/categories/motionclouds.html
 * Follow-up paper {{< cite page="/publication/vacher-16" view="4" >}} {{< cite page="/publication/vacher-16" view="4" >}}
 * This library was notably used in the following papers: {{< cite page="/publication/simoncini-12" view="4" >}}  {{< cite page="/publication/ravello-19" view="4" >}}  {{< cite page="/publication/ladret-23" view="4" >}}
-[![Research software impact](http://depsy.org/api/package/pypi/MotionClouds/badge.svg)](http://depsy.org/package/python/MotionClouds)
+[![PyPI version](https://img.shields.io/pypi/v/MotionClouds.svg)](https://pypi.org/project/MotionClouds/) [![PyPI downloads](https://img.shields.io/pypi/dm/MotionClouds.svg)](https://pypi.org/project/MotionClouds/)
 
 # PyNN
 
