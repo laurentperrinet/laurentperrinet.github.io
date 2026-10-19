@@ -47,8 +47,6 @@ tags:
 - bayesian-modelling
 - primary-visual-cortex
 - sparse-coding
-projects:
-- tout-public
 publication: '*Proceedings of SfN, 2011*'
 event: Proceedings of SfN, 2011
 event_url: http://glotin.univ-tln.fr/ERMITES11/index.xhtml

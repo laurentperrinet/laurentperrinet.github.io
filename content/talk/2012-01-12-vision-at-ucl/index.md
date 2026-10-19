@@ -33,8 +33,6 @@ tags:
 - motion-perception
 - predictive-coding
 - visual-cortex
-projects:
-- tout-public
 publication: '*Vision@UCL seminar - Thursday, 12th January, 5pm*'
 event: Vision@UCL seminar
 location: Malet Place Eng Bldg 1.03 (first floor).

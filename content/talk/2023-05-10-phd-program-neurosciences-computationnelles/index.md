@@ -13,7 +13,6 @@ categories:
 - NeuroAI & Machine Learning
 projects:
 - courses
-- tout-public
 publication: '*NeuroSchool PhD Program in Neuroscience*'
 publication_types:
 - inproceedings

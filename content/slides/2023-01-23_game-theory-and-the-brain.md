@@ -12,7 +12,6 @@ tags:
 - psychophysics
 projects:
 - art-science
-- tout-public
 slides:
   theme: white
 ---

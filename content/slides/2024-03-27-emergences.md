@@ -12,8 +12,6 @@ tags:
 - primary-visual-cortex
 - spiking-neural-networks
 - visual-illusions
-projects:
-- tout-public
 slides:
   theme: simple
   reveal_options:

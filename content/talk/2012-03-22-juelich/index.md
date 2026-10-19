@@ -14,7 +14,6 @@ tags:
 - neuromorphic-computing
 projects:
 - open-science
-- tout-public
 publication: '*2nd BrainScaleS Plenary Meeting - Friday, March 22nd, 2012*'
 url_slides: perrinet12wp4_handout.pdf
 event: Second BrainScaleS plenary Meeting - WP4

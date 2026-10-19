@@ -8,7 +8,6 @@ categories:
 - Computational Neuroscience
 projects:
 - courses
-- tout-public
 publication: '*PhD program in  Neuroscience, Marseille - March 27th, 2018*'
 event: Course in Computational Neuroscience @ PhD program
 event_url: https://laurentperrinet.github.io/post/2018-03-26-cours-neuro-comp-fep/

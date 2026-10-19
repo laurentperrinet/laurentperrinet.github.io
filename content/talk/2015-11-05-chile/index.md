@@ -21,8 +21,6 @@ tags:
 - motion-perception
 - neuromorphic-computing
 - primary-visual-cortex
-projects:
-- tout-public
 publication: '*Universidad Técnica Federico Santa María, Valparaíso, Chile, November
   5th, 2015*'
 event: Charla

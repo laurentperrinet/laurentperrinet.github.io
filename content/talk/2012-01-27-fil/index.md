@@ -28,8 +28,6 @@ categories:
 tags:
 - eye-movements
 - motion-perception
-projects:
-- tout-public
 publication: '*Brain meeting at FIL, London - Friday, January 27th, 2012*'
 event: Brain meeting at FIL, London - Friday, January 27th, 2012
 links:

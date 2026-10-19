@@ -24,8 +24,6 @@ categories:
 tags:
 - motion-perception
 - neuromorphic-computing
-projects:
-- tout-public
 publication_types:
 - inproceedings
 event: Seminar at UdeM’s School of Optometry, UdeM

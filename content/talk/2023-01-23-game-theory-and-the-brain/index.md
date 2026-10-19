@@ -12,8 +12,6 @@ categories:
 - NeuroAI & Machine Learning
 tags:
 - bayesian-modelling
-projects:
-- tout-public
 publication: '*Atelier jeu et cerveau - M2 MASCO*'
 publication_types:
 - inproceedings

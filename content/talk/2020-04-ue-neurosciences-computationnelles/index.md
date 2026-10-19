@@ -28,7 +28,6 @@ tags:
 - primary-visual-cortex
 projects:
 - courses
-- tout-public
 publication: '*Master Neurosciences et Sciences Cognitives*'
 publication_types:
 - inproceedings

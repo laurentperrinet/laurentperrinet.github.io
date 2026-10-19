@@ -12,8 +12,6 @@ tags:
 - neuromorphic-computing
 - sparse-coding
 - spiking-neural-networks
-projects:
-- tout-public
 slides:
   theme: white
   reveal_options:

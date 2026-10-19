@@ -32,8 +32,6 @@ tags:
 - free-energy
 - motion-detection
 - predictive-coding
-projects:
-- tout-public
 publication: '*Marseille INT Fest, January 10th, 2014*'
 event: Marseille INT Fest, January 10th, 2014
 links:

@@ -14,8 +14,6 @@ tags:
 - homeostasis
 - motion-perception
 - neuromorphic-computing
-projects:
-- tout-public
 publication: '*second CENTURI Scientific Day*'
 publication_types:
 - inproceedings

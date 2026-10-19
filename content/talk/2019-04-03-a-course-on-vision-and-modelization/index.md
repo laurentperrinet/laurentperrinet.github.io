@@ -29,7 +29,6 @@ tags:
 - primary-visual-cortex
 projects:
 - courses
-- tout-public
 publication: '*Licence Sciences & Humanité*'
 publication_types:
 - inproceedings

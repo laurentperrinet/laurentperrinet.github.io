@@ -32,8 +32,6 @@ tags:
 - eye-movements
 - motion-perception
 - visual-illusions
-projects:
-- tout-public
 publication: '*1ère conférence francophone NEUROsciences COMPutationnelles - NeuroComp*'
 event: 1ère conférence francophone NEUROsciences COMPutationnelles - NeuroComp
 links:

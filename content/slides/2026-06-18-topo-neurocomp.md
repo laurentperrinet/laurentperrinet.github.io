@@ -11,7 +11,6 @@ tags:
 - visual-illusions
 projects:
 - art-science
-- tout-public
 slides:
   theme: white
   reveal_options:

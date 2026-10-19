@@ -37,8 +37,6 @@ categories:
 tags:
 - predictive-coding
 - sparse-coding
-projects:
-- tout-public
 publication: '*Séminaire à l''Institut de Recherche sur les Phénomènes Hors Équilibre
   (IRPHÉ)*'
 publication_types:

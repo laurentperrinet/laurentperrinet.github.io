@@ -11,8 +11,6 @@ tags:
 - primary-visual-cortex
 - pynn
 - spiking-neural-networks
-projects:
-- tout-public
 publication: '*LACONEU 2019: 5th Latin-American Summer School in Computational Neuroscience,
   Valparaiso (Chile)*'
 event: 'LACONEU 2019: 5th Latin-American Summer School in Computational Neuroscience'

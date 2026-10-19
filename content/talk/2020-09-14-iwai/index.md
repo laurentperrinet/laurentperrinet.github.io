@@ -30,8 +30,6 @@ categories:
 tags:
 - bayesian-modelling
 - eye-movements
-projects:
-- tout-public
 publication: '*IWAI 2020*'
 publication_types:
 - inproceedings

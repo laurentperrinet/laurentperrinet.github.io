@@ -16,8 +16,6 @@ tags:
 - sparse-coding
 - spiking-neural-networks
 - visual-illusions
-projects:
-- tout-public
 slides:
   theme: white
   transition: fade

@@ -16,8 +16,6 @@ tags:
 - homeostasis
 - neuromorphic-computing
 - spiking-neural-networks
-projects:
-- tout-public
 publication: '*NeuroVision Workshop in conjunction with CVPR 2022*'
 publication_types:
 - inproceedings

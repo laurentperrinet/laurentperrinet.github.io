@@ -11,8 +11,6 @@ tags:
 - neuromorphic-computing
 - spiking-neural-networks
 - visual-illusions
-projects:
-- tout-public
 slides:
   theme: white
   transition: fade

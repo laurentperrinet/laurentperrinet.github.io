@@ -12,8 +12,6 @@ categories:
 - NeuroAI & Machine Learning
 tags:
 - neuromorphic-computing
-projects:
-- tout-public
 publication_types:
 - inproceedings
 event: Séminaire au colloque du PEPR AI Emergences 2024

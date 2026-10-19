@@ -21,8 +21,6 @@ tags:
 - neuromorphic-computing
 - primary-visual-cortex
 - retinotopy
-projects:
-- tout-public
 publication: '*MIR Symposium 2022 bio-inspired & Marine Robotics*'
 publication_types:
 - inproceedings

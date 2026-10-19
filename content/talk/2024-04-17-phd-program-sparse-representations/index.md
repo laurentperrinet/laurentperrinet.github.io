@@ -29,7 +29,6 @@ tags:
 - sparse-coding
 projects:
 - courses
-- tout-public
 publication: '*NeuroSchool PhD Program in Neuroscience*'
 publication_types:
 - inproceedings

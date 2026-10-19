@@ -11,8 +11,6 @@ categories:
 - NeuroAI & Machine Learning
 tags:
 - vision
-projects:
-- tout-public
 publication: '*A  seminar at the CerCo, Toulouse, France*'
 url_slides: perrinet13cerco.pdf
 event: CerCo 20th anniversary

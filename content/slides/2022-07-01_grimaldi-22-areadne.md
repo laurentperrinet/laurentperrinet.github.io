@@ -7,8 +7,6 @@ categories:
 tags:
 - neuromorphic-computing
 - spiking-neural-networks
-projects:
-- tout-public
 slides:
   theme: white
 ---

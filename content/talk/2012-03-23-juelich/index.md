@@ -12,8 +12,6 @@ tags:
 - motion-perception
 - neuromorphic-computing
 - primary-visual-cortex
-projects:
-- tout-public
 publication: '*2nd BrainScaleS Plenary Meeting - Friday, March 23rd, 2012*'
 url_slides: perrinet12wp5_handout.pdf
 event: Second BrainScaleS plenary Meeting - WP5

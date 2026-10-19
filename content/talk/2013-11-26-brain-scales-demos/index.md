@@ -15,8 +15,6 @@ tags:
 - neuromorphic-computing
 - primary-visual-cortex
 - spiking-neural-networks
-projects:
-- tout-public
 publication: '*Demo 1-3: Apparent Motion in V1/ MT/MST: Neural Implementation of Probabilistic
   Approaches*'
 event: 'Demo 1-3: Apparent Motion in V1/ MT/MST: Neural Implementation of Probabilistic

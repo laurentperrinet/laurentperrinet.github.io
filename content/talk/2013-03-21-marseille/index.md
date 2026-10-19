@@ -19,8 +19,6 @@ categories:
 tags:
 - motion-perception
 - neuromorphic-computing
-projects:
-- tout-public
 publication: '*3rd BrainScaleS Plenary Meeting - Friday, March 21st, 2013*'
 event: 3rd BrainScaleS Plenary Meeting - Friday, March 21st, 2013
 links:

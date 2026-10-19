@@ -11,8 +11,6 @@ categories:
 - NeuroAI & Machine Learning
 tags:
 - sparse-coding
-projects:
-- tout-public
 publication: '*Journee du GT 8 (Neurosciences - Robotique)*'
 event: Journee du GT 8 (Neurosciences - Robotique)
 event_url: http://www.isir.upmc.fr/index.php?op=view_page&id=1463&menuid=17

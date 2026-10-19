@@ -31,7 +31,6 @@ tags:
 - predictive-coding
 projects:
 - courses
-- tout-public
 publication: '*Master M4NC de l''institut NeuroMod, cours Prospective Innovation and
   Research.*'
 publication_types:

@@ -29,7 +29,6 @@ tags:
 - predictive-coding
 projects:
 - courses
-- tout-public
 publication: '*Master 1 Neurosciences et Sciences Cognitives*'
 publication_types:
 - inproceedings

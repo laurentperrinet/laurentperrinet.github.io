@@ -47,8 +47,6 @@ tags:
 - bayesian-modelling
 - primary-visual-cortex
 - sparse-coding
-projects:
-- tout-public
 publication: '*A  seminar from the Institute for Adaptive and Neural Computation (ANC)*'
 event: A seminar from the Institute for Adaptive and Neural Computation (ANC)
 event_url: http://www.anc.ed.ac.uk/events/anc-dtc-seminar-laurent-perrinet

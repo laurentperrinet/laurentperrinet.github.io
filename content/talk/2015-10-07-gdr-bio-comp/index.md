@@ -20,8 +20,6 @@ tags:
 - bayesian-modelling
 - motion-perception
 - neuromorphic-computing
-projects:
-- tout-public
 publication: '*First GDR BioComp workshop, Saint-Paul de Vence, October 7th, 2015*'
 url_slides: https://laurentperrinet.github.io/sciblog/files/2015-10-07_Perrinet15biocomp_slides.pdf
 event: First GDR BioComp workshop

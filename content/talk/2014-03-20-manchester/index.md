@@ -39,8 +39,6 @@ tags:
 - neuromorphic-computing
 - primary-visual-cortex
 - spiking-neural-networks
-projects:
-- tout-public
 publication: '*4th BrainScaleS Plenary meeting - March 20th, 2014*'
 url_slides: 14-03-20_BK_LP_MK_handout.pdf
 event: 4th BrainScaleS Plenary meeting
