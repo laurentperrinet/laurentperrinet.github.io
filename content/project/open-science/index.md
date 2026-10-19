@@ -82,8 +82,9 @@ This library defines the set of [LogGabor](https://pythonhosted.org/LogGabor/) k
 * [Web-site](https://pythonhosted.org/LogGabor)
 * [Source code](https://github.com/bicv/LogGabor/)
 * This library is detailed in the following publication {{< cite page="/publication/fischer-07-cv" view="4" >}}
-* LogGabor filters are used in numerous computer vision applications and reaches 177 citations on [Google Scholar](https://scholar.google.com/scholar?cluster=15692697050569088559&hl=fr&as_sdt=7,39) (last updated 22/10/2021).
+* LogGabor filters are used in numerous computer vision applications and reaches 179 citations on [OpenAlex](https://openalex.org/W2124701069) ([Google Scholar](https://scholar.google.com/scholar?cluster=15692697050569088559&hl=fr&as_sdt=7,39), last updated 2026-10-19).
 * [![PyPI version](https://img.shields.io/pypi/v/LogGabor.svg)](https://pypi.org/project/LogGabor/) [![PyPI downloads](https://img.shields.io/pypi/dm/LogGabor.svg)](https://pypi.org/project/LogGabor/)
+
 ## SparseEdges: sparse coding of natural images
 
 Our goal here is to build practical algorithms of sparse coding for computer vision.
@@ -101,7 +102,7 @@ This is a collection of python scripts to test learning strategies to efficientl
 
 * [Source code](https://github.com/bicv/SparseHebbianLearning/)
 * This algorithm was presented in the following paper {{< cite page="/publication/perrinet-10-shl" view="4" >}}
-* 54 citations on [Google Scholar](https://scholar.google.com/scholar?cluster=3780829296605136744&hl=fr&as_sdt=7,39) (last updated 22/10/2021)
+* 40 citations on [OpenAlex](https://openalex.org/W2065954672) ([Google Scholar](https://scholar.google.com/scholar?cluster=3780829296605136744&hl=fr&as_sdt=7,39), last updated 2026-10-19)
 * Follow-up paper {{< cite page="/publication/perrinet-19-hulk" view="4" >}}
 
 # MotionClouds
@@ -111,11 +112,11 @@ This is a collection of python scripts to test learning strategies to efficientl
 * [Web-site](https://neuralensemble.github.io/MotionClouds/)
 * [Source code](https://github.com/NeuralEnsemble/MotionClouds) using {{< icon name="python" pack="fab" >}} Python.
 * This algorithm was presented in the following paper {{< cite page="/publication/sanz-12" view="4" >}}
-* 3746 citations on [Google Scholar](https://scholar.google.com/scholar?cluster=3286688289699014452&hl=fr&as_sdt=7,39) (last updated 04/09/2025)
+* 45 citations on [OpenAlex](https://openalex.org/W2012189712) ([Google Scholar](https://scholar.google.com/scholar?cluster=3286688289699014452&hl=fr&as_sdt=7,39), last updated 2026-10-19)
 * examples of use: https://laurentperrinet.github.io/sciblog/categories/motionclouds.html
 * Follow-up paper {{< cite page="/publication/vacher-16" view="4" >}} {{< cite page="/publication/vacher-16" view="4" >}}
 * This library was notably used in the following papers: {{< cite page="/publication/simoncini-12" view="4" >}}  {{< cite page="/publication/ravello-19" view="4" >}}  {{< cite page="/publication/ladret-23" view="4" >}}
-[![PyPI version](https://img.shields.io/pypi/v/MotionClouds.svg)](https://pypi.org/project/MotionClouds/) [![PyPI downloads](https://img.shields.io/pypi/dm/MotionClouds.svg)](https://pypi.org/project/MotionClouds/)
+* [![PyPI version](https://img.shields.io/pypi/v/MotionClouds.svg)](https://pypi.org/project/MotionClouds/) [![PyPI downloads](https://img.shields.io/pypi/dm/MotionClouds.svg)](https://pypi.org/project/MotionClouds/)
 
 # PyNN
 
@@ -124,4 +125,4 @@ This is a collection of python scripts to test learning strategies to efficientl
 * [Web-site](https://neuralensemble.github.io/PyNN/)
 * [Source code](https://github.com/NeuralEnsemble/PyNN)
 * This algorithm was presented in the following paper {{< cite page="/publication/davison-08" view="4" >}}
-* 619 citations on [Google Scholar](https://scholar.google.com/scholar?cluster=4324955271726120014&hl=fr&as_sdt=7,39) (last updated 22/10/2021)
+* 621 citations on [OpenAlex](https://openalex.org/W2140886546) ([Google Scholar](https://scholar.google.com/scholar?cluster=4324955271726120014&hl=fr&as_sdt=7,39), last updated 2026-10-19)
