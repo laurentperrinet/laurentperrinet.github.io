@@ -15,9 +15,6 @@ tags:
 - motion-perception
 - predictive-coding
 - visual-illusions
-projects:
-- art-science
-- tout-public
 image:
   focal_point: Smart
 summary: 'We organized a Symposium at NeuroFrance 2019 entitled *Active Inference:

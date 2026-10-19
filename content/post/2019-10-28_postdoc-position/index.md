@@ -25,9 +25,6 @@ tags:
 - sparse-coding
 - spiking-neural-networks
 - visual-illusions
-projects:
-- art-science
-- tout-public
 image:
   caption: Artwork by [Étienne Rey](https://laurentperrinet.github.io/post/2019-06-22_ardemone/),
     photo [Jean Luc Cougy](https://www.enrevenantdelexpo.com/2019/05/17/sans-gravite-une-poetique-de-air-ardenome-avignon/)

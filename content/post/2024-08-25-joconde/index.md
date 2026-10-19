@@ -12,7 +12,6 @@ categories:
 tags:
 - visual-illusions
 projects:
-- art-science
 - tout-public
 links:
 - name: URL

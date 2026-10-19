@@ -14,8 +14,6 @@ categories:
 tags:
 - neuromorphic-computing
 - spiking-neural-networks
-projects:
-- tout-public
 publication: '*SNUFA: Spiking Neural networks as Universal Function Approximators*'
 publication_types:
 - inproceedings

@@ -14,8 +14,6 @@ categories:
 tags:
 - neuromorphic-computing
 - spiking-neural-networks
-projects:
-- tout-public
 publication: '*ICANN Special Session on Recent Advances in Spiking Neural Networks*'
 publication_types:
 - inproceedings

@@ -27,8 +27,6 @@ categories:
 tags:
 - neuromorphic-computing
 - spiking-neural-networks
-projects:
-- tout-public
 publication: '*Seminar at CerCo*'
 publication_types:
 - paper-conference
