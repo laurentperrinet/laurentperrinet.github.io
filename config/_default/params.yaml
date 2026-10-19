@@ -6,6 +6,7 @@
 # Appearance
 appearance:
   theme_day: minimal
+  # Left empty on purpose: the theme enables dark mode only when both themes are set
   theme_night:
   font: native
   font_size: L
@@ -16,7 +17,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'CNRS / Aix-Marseille Université'
-    description: "Laurent Perrinet — Computational Neuroscience & Neuromorphic AI — computational neuroscientist at CNRS Marseille. Research on predictive processing, spiking neural networks, and neuromorphic computing. 63+ publications, h-index 30."
+    description: "Laurent Perrinet — Computational Neuroscience & Neuromorphic AI — computational neuroscientist at CNRS Marseille. Research on predictive processing, spiking neural networks, and neuromorphic computing."
 
   analytics:
     google_analytics: ''
@@ -44,10 +45,10 @@ header:
       text: ""
       # Logo filename in `assets/media/` folder
       filename: "logo.svg"
-    # Shop a call-to-action button in the top right?
+    # Show a call-to-action button in the top right? Not read by the blox-bootstrap theme, kept disabled.
     button:
-      enable: true
-      text: "Laurent Perrinet — Computational Neuroscience & Neuromorphic AI — computational neuroscientist at CNRS Marseille. Research on predictive processing, spiking neural networks, and neuromorphic computing. 63+ publications, h-index 30."
+      enable: false
+      text: "Home"
       url: "https://laurentperrinet.github.io"
     # Let the user choose between light or dark mode?
     show_theme_chooser: false
@@ -59,6 +60,7 @@ header:
     show_translations: false
     # If `show_translations` is enabled, do you wish to hide the current language name?
     hide_language_name: true
+
 # Site footer
 footer:
   copyright:
