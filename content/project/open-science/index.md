@@ -114,7 +114,7 @@ This is a collection of python scripts to test learning strategies to efficientl
 * This algorithm was presented in the following paper {{< cite page="/publication/sanz-12" view="4" >}}
 * 45 citations on [OpenAlex](https://openalex.org/W2012189712) ([Google Scholar](https://scholar.google.com/scholar?cluster=3286688289699014452&hl=fr&as_sdt=7,39), last updated 2026-10-19)
 * examples of use: https://laurentperrinet.github.io/sciblog/categories/motionclouds.html
-* Follow-up paper {{< cite page="/publication/vacher-16" view="4" >}} {{< cite page="/publication/vacher-16" view="4" >}}
+* Follow-up paper {{< cite page="/publication/vacher-16" view="4" >}}
 * This library was notably used in the following papers: {{< cite page="/publication/simoncini-12" view="4" >}}  {{< cite page="/publication/ravello-19" view="4" >}}  {{< cite page="/publication/ladret-23" view="4" >}}
 * {{< pypi-badges MotionClouds >}}
 

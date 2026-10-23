@@ -50,7 +50,7 @@ links:
 **MotionClouds** are random dynamic stimuli optimized to study motion perception.
 * [Web-site](https://neuralensemble.github.io/MotionClouds/)
 * [Source code](https://github.com/NeuralEnsemble/MotionClouds) using {{< icon name="python" pack="fab" >}} Python.
-* 37 citations on [Google Scholar](https://scholar.google.com/scholar?cluster=3286688289699014452&hl=fr&as_sdt=7,39) (last updated 22/10/2021)
+* 45 citations on [OpenAlex](https://openalex.org/W2012189712) ([Google Scholar](https://scholar.google.com/scholar?cluster=3286688289699014452&hl=fr&as_sdt=7,39), last updated 2026-10-19)
 * [Supplementary information](https://neuralensemble.org/MotionClouds/ms/MotionClouds_Supplementary.pdf)
 * Follow-up paper {{< cite page="/publication/vacher-16" view="4" >}} {{< cite page="/publication/vacher-15-nips" view="4" >}}
 * This library was notably used in the following paper {{< cite page="/publication/simoncini-12" view="4" >}}
