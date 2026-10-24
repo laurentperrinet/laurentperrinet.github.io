@@ -6,8 +6,8 @@ date: '2026-11-09'
 publishDate: '2026-10-23T17:13:20.092295Z'
 publication_types:
 - paper-conference
-publication: "*Forum Numerica seminar series, Academy of Excellence \\\"Networks,
-  Information and Digital society\\\", Université Côte d'Azur*"
+publication: '*Forum Numerica seminar series, Academy of Excellence "Networks, Information
+  and Digital society", Université Côte d''Azur*'
 abstract: 'Modelling working memory ---the ability to store and recall precise temporal
   patterns--- remains an open challenge in computational neuroscience. While recent
   advances evolved from Long Short-Term Memory networks to transformer architectures,
@@ -22,6 +22,12 @@ abstract: 'Modelling working memory ---the ability to store and recall precise t
   information. This work aims to bridge the gap between biologically grounded models
   and scalable computational solutions, paving the way for more efficient and interpretable
   AI systems.'
+categories:
+- Computational Neuroscience
+- NeuroAI & Machine Learning
+tags:
+- spiking-neural-networks
+- neuromorphic-computing
 projects:
 - open-science
 links:
