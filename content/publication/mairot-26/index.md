@@ -12,11 +12,11 @@ authors:
 - Thierry David
 - Frederic Matonti
 - Laurent U Perrinet
-date: 2026-08-27
+date: 2026-10-01
 publishDate: '2026-08-27T07:39:03.379659Z'
 publication_types:
 - article-journal
-publication: '*Elsevier*'
+publication: '*Ophthalmology Science*'
 doi: 10.1016/j.xops.2026.101378
 abstract: Objective - To develop and validate deep learning models to differentiate choroideremia
   (CHM), USH2A-associated rod-cone dystrophy, and healthy controls using macular optical
