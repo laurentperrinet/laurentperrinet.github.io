@@ -43,6 +43,6 @@ links:
 
 * See the [seminar page](https://ds4h.univ-cotedazur.eu/research-and-labs/forum-numerica-seminar-series/forum-numerica-laurent-perrinet-cnrs-aix-marseille-university-modelling-memory-to-understand-the-brain) and the [LinkedIn event](https://www.linkedin.com/events/7518936067618566144/)
 
-* See the accompanying code: https://github.com/laurentperrinet/MNESIS
+* See the accompanying code: https://github.com/SpikeAI/MNESIS
 
 * A follow-up paper: {{< cite page="/publication/perrinet-26" view="4" >}}
