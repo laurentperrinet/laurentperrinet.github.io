@@ -29,6 +29,7 @@ tags:
 - neuromorphic-computing
 projects:
 - open-science
+slides: 2026-11-03-grenoble
 ---
 
 * Invited seminar at Université Grenoble Alpes, 2026-11-03, 10:30
