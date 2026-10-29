@@ -30,8 +30,8 @@ links:
   url: https://laurentperrinet.github.io/publication/grimaldi-23-bc/
 - name: Code
   url: https://github.com/SpikeAI/2023_GrimaldiPerrinet_HeterogeneousDelaySNN
-- name: Supplementary Material
-  url: https://nbviewer.org/github/SpikeAI/2023_GrimaldiPerrinet_HeterogeneousDelaySNN/blob/master/FastMotionDetection.ipynb
+- name: Notebook
+  url: https://spikeai.github.io/2023_GrimaldiPerrinet_HeterogeneousDelaySNN/
 grants:
 - anr-anr
 - aprovis-3-d
@@ -41,7 +41,7 @@ grants:
 
  * read the paper [online](https://doi.org/10.1007/s00422-023-00975-8) (paywall) or read the reprint as [PDF](https://laurentperrinet.github.io/publication/grimaldi-23-bc/grimaldi-23-bc.pdf)
 
- * [full code](https://github.com/SpikeAI/2023_GrimaldiPerrinet_HeterogeneousDelaySNN) with extensive [Supplementary Material](https://nbviewer.org/github/SpikeAI/2023_GrimaldiPerrinet_HeterogeneousDelaySNN/blob/master/FastMotionDetection.ipynb)
+ * [full code](https://github.com/SpikeAI/2023_GrimaldiPerrinet_HeterogeneousDelaySNN) with an extensive [notebook](https://spikeai.github.io/2023_GrimaldiPerrinet_HeterogeneousDelaySNN/)
 
  * join the [Zotero group](https://www.zotero.org/groups/4776796/fastmotiondetection) to add and discuss more items
  
