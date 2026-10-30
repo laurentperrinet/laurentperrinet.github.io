@@ -71,5 +71,5 @@ La dernière année sera dédiée à l’analyse complète des données, en comb
 
 # Skills
 
-* Programming languages: C, C++, Python, OCaml, Java, SQL, MATLAB & Simulink.
+* Programming languages: Python, C, C++, OCaml, Java, SQL.
 * English: Cambridge Certificate of Advanced English (C1), grade B.
