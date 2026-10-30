@@ -1,7 +1,7 @@
 ---
 title: 'Smooth Pursuit Eye Movements and Learning : Role of Motion Probability and
   Reinforcement Contingencies'
-date: '2018-06-11'
+date: 2018-06-11
 publishDate: '2025-01-11T16:13:35.511400Z'
 authors:
 - Jean-Bernard Damasse

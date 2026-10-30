@@ -26,12 +26,12 @@ image:
   focal_point: Smart
   preview_only: false
 links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/grimaldi-23-bc/
-- name: Code
-  url: https://github.com/SpikeAI/2023_GrimaldiPerrinet_HeterogeneousDelaySNN
 - name: Notebook
   url: https://spikeai.github.io/2023_GrimaldiPerrinet_HeterogeneousDelaySNN/
+- name: Code
+  url: https://github.com/SpikeAI/2023_GrimaldiPerrinet_HeterogeneousDelaySNN
+- name: URL
+  url: https://laurentperrinet.github.io/publication/grimaldi-23-bc/
 grants:
 - anr-anr
 - aprovis-3-d

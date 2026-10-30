@@ -30,6 +30,8 @@ publication: '*Fifteenth Annual Computational Neuroscience Meeting: CNS*2006*'
 publication_types:
 - inproceedings
 links:
+- name: Code
+  url: https://github.com/bicv/SparseHebbianLearning
 - name: PDF
   url: https://ocns.memberclicks.net/assets/docs/CNS_Program_books/2006booklet.pdf
 grants:

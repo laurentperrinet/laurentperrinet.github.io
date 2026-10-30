@@ -45,6 +45,8 @@ links:
   url: https://github.com/laurentperrinet/2019-04-05_BBCP_causal_kickoff/
 - name: URL
   url: https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff
+grants:
+- anr-causal
 ---
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="1" >}}
 * previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})

@@ -1,6 +1,6 @@
 ---
 title: La vibration des apparences
-date: 2025-04-18
+date: 2025-04-18 11:00:00
 publishDate: '2025-04-17'
 authors:
 - Laurent U Perrinet

@@ -48,10 +48,10 @@ image:
   focal_point: Smart
   preview_only: false
 links:
-- name: URL
-  url: https://iopscience.iop.org/article/10.1088/2634-4386/ad5d0f
 - name: HAL
   url: https://hal.science/hal-04842588
+- name: URL
+  url: https://iopscience.iop.org/article/10.1088/2634-4386/ad5d0f
 ---
 ![Artboard](2024_ladret.gif)
 * 5 minutes summary: https://hugoladret.github.io/publications/ladret_et_al_sparsecoding/

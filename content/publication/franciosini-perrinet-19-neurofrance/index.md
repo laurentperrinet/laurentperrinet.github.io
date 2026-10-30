@@ -46,8 +46,8 @@ tags:
 - sparse-coding
 projects:
 - doc-2-amu
-- phd-icn
 - mesocentre
+- phd-icn
 publication: '*NeuroFrance 2019, International Conference from the Société des Neurosciences,
   Marseille, France*'
 publication_types:

@@ -1,6 +1,6 @@
 ---
 title: 'SDPC : A Sparse and Predictive Model of the Early Visual System'
-date: '2021-09-28'
+date: 2021-09-28
 publishDate: '2025-01-11T16:13:35.518925Z'
 authors:
 - Angelo Franciosini

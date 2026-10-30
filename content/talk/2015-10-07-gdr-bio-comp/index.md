@@ -30,4 +30,6 @@ links:
   url: http://gdr-biocomp.fr/colloque/
 - name: URL
   url: https://laurentperrinet.github.io/talk/2015-10-07-gdr-bio-comp/
+grants:
+- brain-scales
 ---

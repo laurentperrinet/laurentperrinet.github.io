@@ -42,7 +42,7 @@ image:
   focal_point: Smart
   preview_only: false
 links:
-- name: Pdf
+- name: PDF
   url: https://www.researchgate.net/profile/Antoine-Grimaldi-2/publication/349715111_A_robust_bio-inspired_approach_to_event-driven_object_recognition/links/603e41d84585154e8c6e6a7c/A-robust-bio-inspired-approach-to-event-driven-object-recognition.pdf
 - name: URL
   url: https://laurentperrinet.github.io/publication/grimaldi-21-cosyne/

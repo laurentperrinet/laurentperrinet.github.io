@@ -1,6 +1,6 @@
 ---
 title: Robust Unsupervised Learning of Spike Patterns with Optimal Transport Theory
-date: '2025-03-28'
+date: 2025-03-28
 publishDate: '2025-03-27T16:16:39.715951Z'
 authors:
 - Antoine Grimaldi

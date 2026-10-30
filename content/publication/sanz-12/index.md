@@ -37,14 +37,16 @@ publication_types:
 - article-journal
 doi: 10.1152/jn.00737.2011
 links:
+- name: Supp
+  url: https://neuralensemble.org/MotionClouds/ms/MotionClouds_Supplementary.pdf
 - name: HAL
   url: https://hal.science/hal-00726828
+- name: Code
+  url: https://github.com/NeuralEnsemble/MotionClouds
 - name: URL
   url: https://doi.org/10.1152/jn.00737.2011
 - name: arXiv
   url: https://arxiv.org/abs/1208.6467
-- name: Supp
-  url: https://neuralensemble.org/MotionClouds/ms/MotionClouds_Supplementary.pdf
 ---
 {{< figure src="sanz-12.png" alt="Header image">}}
 **MotionClouds** are random dynamic stimuli optimized to study motion perception.

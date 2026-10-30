@@ -2,7 +2,7 @@
 title: Modelling working memory for neuroscience
 authors:
 - Laurent U Perrinet
-date: '2026-09-18'
+date: 2026-09-18
 publishDate: '2026-09-10T10:34:21.101112Z'
 publication_types:
 - paper-conference
@@ -24,7 +24,10 @@ abstract: 'Modelling working memory ---the ability to store and recall precise t
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-09-18-int/
+- name: arXiv
+  url: http://arxiv.org/abs/2604.14096
 slides: 2026-09-18-int
+event: Seminar at INT
 ---
 
 * NeOpTo's team seminar at INT, Marseille, France, 2026-04-16

@@ -18,10 +18,10 @@ event: Meetup Art et Neurosciences, Association NeuroNautes
 event_url: https://www.facebook.com/events/211121069456116/
 location: Salle des voutes campus Saint Charles
 links:
-- name: Conference
-  url: https://www.facebook.com/events/211121069456116/
 - name: Slides
   url: https://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.html
+- name: Conference
+  url: https://www.facebook.com/events/211121069456116/
 - name: URL
   url: https://laurentperrinet.github.io/talk/2018-01-25-meetup-neuronautes/
 ---

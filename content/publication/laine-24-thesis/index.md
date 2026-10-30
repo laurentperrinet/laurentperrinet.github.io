@@ -1,6 +1,6 @@
 ---
 title: Analyse Des Données Neurobiologiques Guidée Par La Modélisation
-date: '2024-01-01'
+date: 2024-01-01
 publishDate: '2025-01-11T16:13:35.543305Z'
 authors:
 - Alexandre Laine

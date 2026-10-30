@@ -45,6 +45,8 @@ publication_types:
 - article-journal
 doi: 10.3389/neuro.11.011.2008
 links:
+- name: Code
+  url: https://github.com/NeuralEnsemble/PyNN
 - name: URL
   url: https://doi.org/10.3389/neuro.11.011.2008
 - name: HAL

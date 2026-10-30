@@ -1,7 +1,7 @@
 ---
 title: Qu'est-ce que les Neurosciences peuvent apporter à l'Intelligence Artificielle
   ?
-date: '2025-02-14'
+date: 2025-02-14 15:30:00
 publishDate: '2025-02-13T08:44:04.279335Z'
 authors:
 - Laurent U Perrinet
@@ -35,4 +35,5 @@ links:
 slides: 2025-02-14-supaero
 projects:
 - courses
+event: Journée conviviale des anciens Sup'Aero
 ---

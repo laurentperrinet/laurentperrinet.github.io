@@ -27,6 +27,8 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-23-icann/
 slides: 2023-09-27_icann
+grants:
+- polychronies
 ---
 * Hybrid Session, Room 2
 * Chair: Sander Bohté, Sebastian Otte

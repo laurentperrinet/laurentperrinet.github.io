@@ -1,6 +1,6 @@
 ---
 title: A Predictive Approach to Enhance Time-Series Forecasting
-date: '2025-08-29'
+date: 2025-08-29
 publishDate: '2024-12-23T13:47:40.425008Z'
 authors:
 - Skye Gunasekaran
@@ -39,16 +39,16 @@ publication_types:
 - manuscript
 doi: 10.1038/s41467-025-63786-4
 links:
-- name: URL
-  url: https://www.nature.com/articles/s41467-025-63786-4
-- name: Code
-  url: https://github.com/SkyeGunasekaran/FutureGuidedLearning
 - name: PDF
   url: https://www.nature.com/articles/s41467-025-63786-4.epdf
-- name: arXiv
-  url: https://arxiv.org/abs/2410.15217
 - name: HAL
   url: https://hal.science/hal-05293576
+- name: Code
+  url: https://github.com/SkyeGunasekaran/FutureGuidedLearning
+- name: URL
+  url: https://www.nature.com/articles/s41467-025-63786-4
+- name: arXiv
+  url: https://arxiv.org/abs/2410.15217
 ---
 The lead author, Jason Eshragian, speaks most clearly about it: 
 
@@ -65,4 +65,3 @@ In our preprint, we show how drawing upon neuroscience-inspired ideas actually h
 https://www.linkedin.com/feed/update/urn:li:activity:7378797683425296385/
 https://bsky.app/profile/laurentperrinet.bsky.social/post/3m26xgwaisc2t
 https://neuromatch.social/@laurentperrinet/115303186807684381
-

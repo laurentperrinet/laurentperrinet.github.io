@@ -43,4 +43,7 @@ event: GDR Vision, Toulouse, Nov 3rd, 2016
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2016-11-03-gdr/
+grants:
+- anr-rem
+- pace-itn
 ---

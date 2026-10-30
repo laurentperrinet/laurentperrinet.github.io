@@ -1,7 +1,7 @@
 ---
 title: Working Memory in Recurrent Spiking Neural Networks With Heterogeneous Synaptic
   Delays
-date: '2026-09-14'
+date: 2026-09-14
 publishDate: '2026-07-11T09:28:36.690544Z'
 authors:
 - Laurent U Perrinet
@@ -17,8 +17,12 @@ publication_types:
 - paper-conference
 doi: 10.1007/978-3-032-38398-3_22
 links:
+- name: Code
+  url: https://github.com/SpikeAI/MNESIS
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-26-icann
+- name: arXiv
+  url: http://arxiv.org/abs/2604.14096
 grants:
 - polychronies
 ---

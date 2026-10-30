@@ -1,7 +1,7 @@
 ---
 title: 'Correlating Excitation and Inhibition in Visual Cortical Circuits : Functional
   Consequences and Biological Feasibility'
-date: '2009-01-01'
+date: 2009-01-01
 publishDate: '2025-01-11T16:13:35.487525Z'
 authors:
 - Jens Oliver Kremkow

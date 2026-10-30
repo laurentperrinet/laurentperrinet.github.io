@@ -1,7 +1,7 @@
 ---
 title: Artificial neural networks and machine learning applied to the understanding
   of biological vision
-date: '2026-03-05'
+date: 2026-03-05 15:30:00
 publishDate: '2026-03-05T10:42:17.076066Z'
 authors:
 - Laurent U Perrinet
@@ -33,6 +33,7 @@ links:
 slides: 2026-03-05-ue-natural-cognition
 projects:
 - courses
+event: Master 1 Neuroscience, UE Natural Cognition, Artificial Cognition.
 ---
 Practical work: https://github.com/laurentperrinet/2026-03_UE-neurosciences-computationnelles/
 

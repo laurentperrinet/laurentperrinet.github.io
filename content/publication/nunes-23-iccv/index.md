@@ -40,7 +40,7 @@ image:
 links:
 - name: Venue
   url: https://openaccess.thecvf.com/content/ICCV2023/html/Nunes_Time-to-Contact_Map_by_Joint_Estimation_of_Up-to-Scale_Inverse_Depth_and_ICCV_2023_paper.html
-- name: Pdf
+- name: PDF
   url: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Nunes_Time-to-Contact_Map_by_ICCV_2023_supplemental.pdf
 - name: Code
   url: https://github.com/neuromorphic-paris/ETTCM

@@ -32,12 +32,12 @@ event: 'Neurocercle : Découvrir les neurosciences à Grenoble'
 event_url: https://neurocercle.wordpress.com/
 location: Grenoble (France)
 links:
+- name: Venue
+  url: https://www.echosciences-grenoble.fr/communautes/atout-cerveau/evenements/des-illusions-visuelles-aux-hallucinations-une-porte-sur-la-perception
 - name: Slides
   url: https://laurentperrinet.github.io/2022-01-12_NeuroCercle
 - name: Code
   url: https://github.com/laurentperrinet/2022-01-12_NeuroCercle/
-- name: Venue
-  url: https://www.echosciences-grenoble.fr/communautes/atout-cerveau/evenements/des-illusions-visuelles-aux-hallucinations-une-porte-sur-la-perception
 - name: URL
   url: https://laurentperrinet.github.io/talk/2022-01-12-neuro-cercle
 ---

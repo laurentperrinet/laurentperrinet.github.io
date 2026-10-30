@@ -1,6 +1,6 @@
 ---
 title: 'Ciné-Sciences : Ouvrez grand les yeux'
-date: '2025-06-10'
+date: 2025-06-10 19:00:00
 publishDate: '2025-06-03T07:46:11.956208Z'
 authors:
 - Laurent U Perrinet
@@ -19,6 +19,7 @@ publication: '*Festival EXPLORE organisé par Aix Marseille Université et la DR
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-06-10_explore-cine-sciences
+event: Festival EXPLORE organisé par Aix Marseille Université et la DR12 du CNRS.
 ---
 Dans le cadre de la deuxième édition du Festival EXPLORE, l'association Polly Maggoo vous propose de découvrir trois projections gratuites de courts métrages autour de thématiques de recherche de scientifiques, en leur présence.
 

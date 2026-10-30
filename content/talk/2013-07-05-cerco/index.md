@@ -18,5 +18,7 @@ location: CerCo, Toulouse
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2013-07-05-cerco/
+grants:
+- brain-scales
 ---
 * See a followup in {{< cite page="/publication/perrinet-bednar-15" view="1" >}}

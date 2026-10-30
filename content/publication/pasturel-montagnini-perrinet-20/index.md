@@ -53,7 +53,7 @@ doi: 10.1371/journal.pcbi.1007438
 links:
 - name: Press
   url: https://www.insb.cnrs.fr/fr/cnrsinfo/la-reponse-du-cerveau-aux-changements-de-lenvironnement-sensoriel
-- name: Pdf
+- name: PDF
   url: https://www.biorxiv.org/content/10.1101/784116v3.full.pdf
 - name: Code
   url: https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020

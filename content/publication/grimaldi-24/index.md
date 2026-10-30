@@ -47,7 +47,7 @@ image:
 links:
 - name: Press
   url: https://neuromatch.social/@laurentperrinet/113119379508706565
-- name: Hal
+- name: HAL
   url: https://hal.science/hal-04694717
 - name: Code
   url: https://github.com/AntoineGrimaldi/hotsline

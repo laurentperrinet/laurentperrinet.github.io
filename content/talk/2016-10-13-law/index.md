@@ -16,10 +16,10 @@ event: Lyon Active inference Workshop (LAW)
 event_url: https://law2016.sciencesconf.org/
 location: Lyon, France
 links:
-- name: Conference
-  url: https://law2016.sciencesconf.org/
 - name: Slides
   url: https://laurentperrinet.github.io/sciblog/files/2016-10-13_LAW.html
+- name: Conference
+  url: https://law2016.sciencesconf.org/
 - name: URL
   url: https://laurentperrinet.github.io/talk/2016-10-13-law/
 grants:

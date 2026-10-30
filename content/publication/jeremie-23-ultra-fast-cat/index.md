@@ -50,6 +50,8 @@ image:
   focal_point: Smart
   preview_only: false
 links:
+- name: Code
+  url: https://github.com/SpikeAI/2022-09_UltraFastCat
 - name: arXiv
   url: https://arxiv.org/abs/2205.03635
 grants:

@@ -36,6 +36,8 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/2019-03-25_HDR_RobinBaures
 all_day: false
+grants:
+- anr-horizontal-v1
 ---
 * see a follow-up in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="1" >}}
 * more about the role of top-down connections: {{< cite page="/publication/boutin-franciosini-ruffier-perrinet-20-feedback" view="1" >}}

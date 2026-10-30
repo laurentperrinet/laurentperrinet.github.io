@@ -32,10 +32,10 @@ event: 'Cinéma et sciences : rencontre avec les élèves du lycée des métiers
 event_url: http://www.pollymaggoo.org/
 location: Lycée Professionnel Domaine Eguille, Vedène (France)
 links:
-- name: Conference
-  url: http://www.pollymaggoo.org/
 - name: Slides
   url: https://laurentperrinet.github.io/2020-01-20_atelier_sciences_cinema
+- name: Conference
+  url: http://www.pollymaggoo.org/
 - name: Code
   url: https://github.com/laurentperrinet/2020-01-20_atelier_sciences_cinema/
 - name: URL

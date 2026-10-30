@@ -1,6 +1,6 @@
 ---
 title: 'Physiological state Monitoring: a Riemannian Geometry based-model'
-date: '2026-01-01'
+date: 2026-01-01
 publishDate: '2026-01-19T08:15:25.705257Z'
 authors:
 - A Choplin
@@ -35,10 +35,10 @@ publication_types:
 - paper-conference
 doi: 10.1109/BCI69045.2026.11435104
 links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/choplin-26-bci
-- name: HAL
-  url: https://hal.science/hal-05627987
 - name: IEEE
   url: https://ieeexplore.ieee.org/document/11435104
+- name: HAL
+  url: https://hal.science/hal-05627987
+- name: URL
+  url: https://laurentperrinet.github.io/publication/choplin-26-bci
 ---

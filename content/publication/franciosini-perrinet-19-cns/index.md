@@ -14,8 +14,8 @@ tags:
 - sparse-coding
 projects:
 - doc-2-amu
-- phd-icn
 - mesocentre
+- phd-icn
 publication: '*Annual Computational Neuroscience Meeting: CNS*2019, Barcelona*'
 publication_types:
 - inproceedings

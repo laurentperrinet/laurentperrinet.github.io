@@ -36,14 +36,14 @@ event_url: https://www.jnlf.fr/agenda/jnlf-lille-2019
 location: Lille, France
 math: true
 links:
-- name: Conference
-  url: https://www.jnlf.fr/agenda/jnlf-lille-2019
 - name: Video
   url: https://www.youtube.com/watch?v=jJKTdlChefc
 - name: Venue
   url: https://www.em-consulte.com/e-tap/1283936/ftafhrsrftfxjyjaaumj
 - name: Slides
   url: https://laurentperrinet.github.io/2019-04-18_JNLF
+- name: Conference
+  url: https://www.jnlf.fr/agenda/jnlf-lille-2019
 - name: Code
   url: https://github.com/laurentperrinet/2019-04-18_JNLF/
 - name: URL
@@ -52,6 +52,8 @@ all_day: false
 summary: 'Les objectifs sont : -- mieux comprendre la fonction de la perception visuelle
   en explorant certaines limites ; -- mieux comprendre l''importance de l''aspect
   dynamique de la perception ; -- mieux comprendre le rôle de l''action dans la perception.'
+grants:
+- anr-horizontal-v1
 ---
 * Le texte de cette présentation est reprise dans cet article de [The Conversation](https://laurentperrinet.github.io/publication/perrinet-19-temps/) ([lien direct](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567)).
 * Voir la @ [présentation au NeuroStories]({{< ref "/post/2019-10-07_neurostories/index.md" >}})

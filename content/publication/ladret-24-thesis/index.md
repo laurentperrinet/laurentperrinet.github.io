@@ -1,7 +1,7 @@
 ---
 title: Modélisation multi-échelle de la sélectivité à l'orientation dans les stimulations
   visuelles naturelles
-date: '2024-02-08'
+date: 2024-02-08
 publishDate: '2025-01-11T16:13:35.534674Z'
 authors:
 - Hugo Ladret

@@ -19,6 +19,8 @@ publication: '*Grenoble Workshop on Models and Analysis of Eye Movements, Grenob
 publication_types:
 - inproceedings
 links:
+- name: Code
+  url: https://github.com/invibe/ANEMO
 - name: URL
   url: https://laurentperrinet.github.io/publication/pasturel-18-anemo
 - name: HAL

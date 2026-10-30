@@ -1,7 +1,7 @@
 ---
 title: Working Memory in Recurrent Spiking Neural Networks Using Heterogeneous Synaptic
   Delays
-date: '2026-04-16'
+date: 2026-04-16
 publishDate: '2026-04-09T06:52:10.397771Z'
 authors:
 - Laurent U Perrinet
@@ -34,6 +34,7 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-04-16-cerco/
 slides: 2026-04-16-cerco
+event: Seminar at CerCo
 ---
 * Invited seminar at CerCo, Toulouse, France, 2026-04-16
 

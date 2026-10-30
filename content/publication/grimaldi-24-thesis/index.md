@@ -1,7 +1,7 @@
 ---
 title: Vision dynamique utilisant la précision temporelle des motifs d'impulsions
   dans les calculs neuronaux
-date: '2024-05-16'
+date: 2024-05-16
 publishDate: '2025-01-11T16:13:35.526062Z'
 authors:
 - Antoine Grimaldi

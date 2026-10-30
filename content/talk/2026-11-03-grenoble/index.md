@@ -2,7 +2,7 @@
 title: Modelling memory to understand the brain
 authors:
 - Laurent U Perrinet
-date: '2026-11-03'
+date: 2026-11-03 10:30:00
 publishDate: '2026-10-28T09:25:23.000000Z'
 publication_types:
 - paper-conference
@@ -25,11 +25,12 @@ categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 tags:
-- spiking-neural-networks
 - neuromorphic-computing
+- spiking-neural-networks
 projects:
 - open-science
 slides: 2026-11-03-grenoble
+event: Seminar at Université Grenoble Alpes
 ---
 
 * Invited seminar at Université Grenoble Alpes, 2026-11-03, 10:30

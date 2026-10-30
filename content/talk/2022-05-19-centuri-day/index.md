@@ -29,6 +29,8 @@ image:
 links:
 - name: URL
   url: https://centuri-livingsystems.org/events/centuri-scientific-day-3/
+grants:
+- aprovis-3-d
 ---
 * Follow this future presentations {{< cite page="/talk/2022-06-19-neuro-vision-heterogeneous" view="1" >}}
 ![](@laurentperrinet_1527604282043813888_tweetcapture.png)

@@ -1,6 +1,6 @@
 ---
 title: Spiking neural nets
-date: '2026-03-24'
+date: 2026-03-24 12:00:00
 publishDate: '2026-03-23T09:30:36.807178Z'
 authors:
 - Laurent U Perrinet
@@ -12,12 +12,13 @@ tags:
 - spiking-neural-networks
 publication: '*NeuroSchool PhD Program in Neuroscience*'
 links:
-- name: URL
-  url: https://laurentperrinet.github.io/talk/2026-03-24-phd-program-spiking-neural-nets
 - name: Code
   url: https://github.com/CONECT-INT/2026-03_PhDProgram-course-in-computational-neuroscience/
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2026-03-24-phd-program-spiking-neural-nets
 projects:
 - courses
+event: NeuroSchool PhD Program in Neuroscience
 ---
 This repository contains all the material for this practical course about the "Introduction to SNN torch".
 

@@ -16,10 +16,12 @@ publication: '*Advances in Neural Information Processing Systems*'
 publication_types:
 - article-journal
 links:
-- name: Pdf
-  url: https://hal.science/hal-01225867
 - name: PDF
   url: https://papers.nips.cc/paper/5769-biologically-inspired-dynamic-textures-for-probing-motion-perception.pdf
+- name: PDF
+  url: https://hal.science/hal-01225867
+- name: PDF
+  url: http://papers.nips.cc/paper/5769-biologically-inspired-dynamic-textures-for-probing-motion-perception.pdf
 - name: arXiv
   url: https://arxiv.org/abs/1511.02705
 grants:

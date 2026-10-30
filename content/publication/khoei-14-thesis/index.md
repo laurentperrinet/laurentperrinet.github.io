@@ -1,7 +1,7 @@
 ---
 title: Une Approche Computationnelle de La Dépendance Au Mouvement Du Codage de La
   Position Dans La Système Visuel
-date: '2014-10-06'
+date: 2014-10-06
 publishDate: '2025-01-11T16:13:35.496301Z'
 authors:
 - Mina Aliakbari khoei

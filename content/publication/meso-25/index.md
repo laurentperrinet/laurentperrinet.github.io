@@ -1,6 +1,6 @@
 ---
 title: 'DynTex: A Real-Time Generative Model of Dynamic Naturalistic Luminance Textures'
-date: '2025-09-01'
+date: 2025-09-01
 publishDate: '2025-09-04T07:19:00.649315Z'
 authors:
 - Andrew Isaac Meso
@@ -45,10 +45,10 @@ publication_types:
 - article-journal
 doi: 10.1167/jov.25.11.2
 links:
-- name: URL
-  url: https://doi.org/10.1167/jov.25.11.2
 - name: HAL
   url: https://hal.science/hal-05288188
+- name: URL
+  url: https://doi.org/10.1167/jov.25.11.2
 ---
 🚀 Excited to share our new paper: 
 

@@ -13,11 +13,13 @@ event: Workshop on Computational Neuroscience \"New trends and challenges for 20
 event_url: http://cinv.uv.cl/laconeu-workshop
 location: Valparaiso (Chile)
 links:
-- name: Conference
-  url: http://cinv.uv.cl/laconeu-workshop
 - name: Slides
   url: https://laurentperrinet.github.io/sciblog/files/2017-01-18_LACONEU.html
+- name: Conference
+  url: http://cinv.uv.cl/laconeu-workshop
 - name: URL
   url: https://laurentperrinet.github.io/talk/2017-01-18-laconeu/
+grants:
+- anr-trajectory
 ---
 ![Chile](http://laconeu.cl/wp-content/uploads/2018/04/Valparaiso-3.jpg)

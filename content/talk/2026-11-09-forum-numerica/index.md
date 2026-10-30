@@ -2,7 +2,7 @@
 title: Modelling memory to understand the brain
 authors:
 - Laurent U Perrinet
-date: '2026-11-09'
+date: 2026-11-09 14:00:00
 publishDate: '2026-10-23T17:13:20.092295Z'
 publication_types:
 - paper-conference
@@ -26,15 +26,17 @@ categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
 tags:
-- spiking-neural-networks
 - neuromorphic-computing
+- spiking-neural-networks
 projects:
 - open-science
 links:
-- name: URL
-  url: https://ds4h.univ-cotedazur.eu/research-and-labs/forum-numerica-seminar-series/forum-numerica-laurent-perrinet-cnrs-aix-marseille-university-modelling-memory-to-understand-the-brain
 - name: LinkedIn
   url: https://www.linkedin.com/events/7518936067618566144/
+- name: URL
+  url: https://ds4h.univ-cotedazur.eu/research-and-labs/forum-numerica-seminar-series/forum-numerica-laurent-perrinet-cnrs-aix-marseille-university-modelling-memory-to-understand-the-brain
+event: Forum Numerica seminar series, Academy of Excellence \"Networks, Information
+  and Digital society\", Université Côte d'Azur
 ---
 
 * Invited seminar in the Forum Numerica series (Academy of Excellence "Networks, Information and Digital society", DS4H), Université Côte d'Azur, 2026-11-09, 14:00–15:00

@@ -1,7 +1,7 @@
 ---
 title: 'Foveal Retinotopy and Dual Pathways: A Computational Model for Active Visual
   Search'
-date: '2025-10-10'
+date: 2025-10-10
 publishDate: '2025-09-04T07:19:00.636355Z'
 authors:
 - Jean-Nicolas Jérémie

@@ -1,6 +1,6 @@
 ---
 title: Lab Tour for Art - Perception Collaboration
-date: '2026-01-01'
+date: 2026-01-01
 publishDate: '2026-01-19T08:15:26.200728Z'
 authors:
 - Laurent U Perrinet
@@ -37,6 +37,7 @@ image:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-01-19-art-and-science
+event: Lab Tour for Art - Perception Course, January 19th, 2026
 ---
 👁️ Very glad to present our Art/Perception collaboration with Étienne Rey today!
 

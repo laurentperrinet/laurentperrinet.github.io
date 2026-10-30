@@ -2,7 +2,7 @@
 title: Efficient Working Memory in a recurrent Spiking Neural Network
 authors:
 - Laurent U Perrinet
-date: '2026-09-03'
+date: 2026-09-03
 publishDate: '2026-09-10T10:34:20.736649Z'
 publication_types:
 - paper-conference
@@ -26,8 +26,14 @@ abstract: 'Working memory --- the ability to store and recall precise temporal p
   and scalable substrate for working memory in SNNs, with direct implications for
   neuromorphic edge deployment.'
 links:
+- name: Code
+  url: https://github.com/SpikeAI/MNESIS
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-26-neurocomp/
+- name: arXiv
+  url: http://arxiv.org/abs/2604.14096
+grants:
+- polychronies
 ---
 * See the accompanying code: https://github.com/SpikeAI/MNESIS
 

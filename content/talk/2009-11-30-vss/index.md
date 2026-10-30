@@ -44,5 +44,7 @@ event: 'Macroscopic aspects of neuronal activity: ''''Macroscopic models, LFP mo
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2009-11-30-vss/
+grants:
+- facets
 ---
 * see this more recent poster @ [VSS]({{< ref "/publication/perrinet-09-vss/index.md" >}})

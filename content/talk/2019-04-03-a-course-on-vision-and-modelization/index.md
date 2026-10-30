@@ -41,5 +41,7 @@ links:
   url: https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/
 - name: URL
   url: https://laurentperrinet.github.io/talk/2019-04-03-a-course-on-vision-and-modelization
+grants:
+- anr-horizontal-v1
 ---
 Cours de Licence Sciences & Humanité, 3/4/2019

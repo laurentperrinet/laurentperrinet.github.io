@@ -25,6 +25,8 @@ image:
 links:
 - name: URL
   url: http://schedule.smb2021.org/MS05/
+grants:
+- anr-horizontal-v1
 ---
 ![](@laurentperrinet_1384940135419101187_tweetcapture.png)
 {{< figure src="poster.jpg" width="100%" alt="Conference poster for SMB 2021: Pooling in a predictive model of V1." >}}

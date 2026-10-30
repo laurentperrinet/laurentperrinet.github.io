@@ -16,7 +16,7 @@ publication_types:
 - inbook
 doi: 10.1002/9783527680863.ch12
 links:
-- name: Pdf
+- name: PDF
   url: https://hal.science/hal-01400748
 - name: URL
   url: https://laurentperrinet.github.io/publication/montagnini-15-bicv/

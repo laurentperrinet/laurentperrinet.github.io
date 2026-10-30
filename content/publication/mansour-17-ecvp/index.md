@@ -19,7 +19,7 @@ publication: '*Proceedings of ECVP*'
 publication_types:
 - inproceedings
 links:
-- name: Pdf
+- name: PDF
   url: https://www.ecvp.org/2017/assets/ecvp2017_programme_web_2408.pdf
 - name: URL
   url: https://laurentperrinet.github.io/publication/mansour-17-ecvp/

@@ -17,10 +17,10 @@ event: 'Summer School: PDE and Probability for Life Sciences'
 event_url: http://scientific-events.weebly.com/prog-1426.html
 location: CIRM, Marseille
 links:
-- name: Conference
-  url: http://scientific-events.weebly.com/prog-1426.html
 - name: Slides
   url: https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba
+- name: Conference
+  url: http://scientific-events.weebly.com/prog-1426.html
 - name: URL
   url: https://laurentperrinet.github.io/talk/2016-07-07-edp-proba/
 grants:

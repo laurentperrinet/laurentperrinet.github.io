@@ -26,6 +26,8 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-23-snufa/
 slides: 2023-11-07-snufa
+grants:
+- polychronies
 ---
 * Poster Session at https://snufa.net/2023/
 * https://snufa.net/2023/abstracts/laurent-perrinet-accurate.html

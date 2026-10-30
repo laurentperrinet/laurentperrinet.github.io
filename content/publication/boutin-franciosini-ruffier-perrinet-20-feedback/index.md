@@ -32,14 +32,16 @@ tags:
 - predictive-coding
 - sparse-coding
 projects:
-- mesocentre
 - doc-2-amu
+- mesocentre
 - phd-icn
 publication: '*Neural Computation*'
 publication_types:
 - article-journal
 doi: 10.1162/neco_a_01325
 links:
+- name: Code
+  url: https://github.com/VictorBoutin/SPC_2L
 - name: URL
   url: https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/
 - name: arXiv

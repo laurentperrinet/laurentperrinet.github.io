@@ -1,7 +1,7 @@
 ---
 title: Effet de La Variabilité de La Vitesse Sur Le Mouvement de Poursuite Oculaire
   Lente et Sur La Perception de La Vitesse
-date: '2019-04-01'
+date: 2019-04-01
 publishDate: '2025-01-11T16:13:35.551847Z'
 authors:
 - Kiana Mansour Pour

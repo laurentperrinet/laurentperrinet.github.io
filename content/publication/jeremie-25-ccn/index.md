@@ -1,6 +1,6 @@
 ---
 title: Integrating the What and Where Visual Pathways to Improve CNN Categorisation
-date: '2025-01-01'
+date: 2025-01-01
 publishDate: '2025-06-03T07:46:10.985387Z'
 authors:
 - Jean-Nicolas Jérémie
@@ -44,13 +44,13 @@ publication_types:
 - paper-conference
 links:
 - name: URL
-  url: https://laurentperrinet.github.io/publication/jeremie-25-ccn
+  url: https://2025.ccneuro.org/poster/?id=GXMCOQjF19
 - name: HAL
   url: https://hal.science/view/index/docid/5295299
-- name: URL
-  url: https://2025.ccneuro.org/poster/?id=GXMCOQjF19
 - name: Abstract
   url: https://2025.ccneuro.org/abstract_pdf/Jeremie_2025_Unravelling_relationship_location_categorisation_improves_convolutional.pdf
+- name: URL
+  url: https://laurentperrinet.github.io/publication/jeremie-25-ccn
 grants:
 - anr-anr
 ---

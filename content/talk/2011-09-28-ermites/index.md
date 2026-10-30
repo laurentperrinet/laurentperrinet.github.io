@@ -56,5 +56,7 @@ links:
   url: http://glotin.univ-tln.fr/ERMITES11/index.xhtml
 - name: URL
   url: https://laurentperrinet.github.io/talk/2011-09-28-ermites/
+grants:
+- brain-scales
 ---
 * See a followup in {{< cite page="/publication/perrinet-bednar-15" view="1" >}}

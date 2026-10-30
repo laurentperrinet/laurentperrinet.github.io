@@ -1,7 +1,7 @@
 ---
 title: 'Etude d’un Algorithme Hiérarchique de Codage Épars et Prédictif : Vers Un
   Modèle Bio-Inspiré de La Perception Visuelle'
-date: '2020-03-13'
+date: 2020-03-13
 publishDate: '2025-01-11T16:13:35.504013Z'
 authors:
 - Victor Boutin

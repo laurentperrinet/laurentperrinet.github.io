@@ -50,12 +50,12 @@ publication_types:
 - inbook
 doi: 10.5040/9781350099784.ch-005
 links:
+- name: HAL
+  url: https://hal.science/hal-03031128
 - name: Code
   url: https://github.com/laurentperrinet/Perrinet20PredictiveProcessing_manubot
 - name: URL
   url: https://laurentperrinet.github.io/Perrinet20PredictiveProcessing_manubot/v/latest/index.html
-- name: HAL
-  url: https://hal.science/hal-03031128
 grants:
 - anr-horizontal-v1
 - spikeai

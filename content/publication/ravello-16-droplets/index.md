@@ -20,10 +20,10 @@ publication_types:
 - preprint
 doi: 10.5281/zenodo.5823016
 links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/ravello-16-droplets
 - name: Code
   url: https://github.com/laurentperrinet/2016_DropLets
+- name: URL
+  url: https://laurentperrinet.github.io/publication/ravello-16-droplets
 - name: arXiv
   url: https://arxiv.org/abs/1611.06834
 grants:

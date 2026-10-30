@@ -34,7 +34,7 @@ publication: '*Neural Computation*'
 publication_types:
 - article-journal
 links:
-- name: Pdf
+- name: PDF
   url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3472550/
 - name: arXiv
   url: https://arxiv.org/abs/1208.6471

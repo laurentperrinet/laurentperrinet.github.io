@@ -43,8 +43,8 @@ tags:
 - sparse-coding
 projects:
 - doc-2-amu
-- phd-icn
 - mesocentre
+- phd-icn
 publication: '*SIGMA''2020 (Signal, Image, Geometry, Modelling, Approximation)*'
 publication_types:
 - inproceedings

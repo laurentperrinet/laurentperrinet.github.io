@@ -1,7 +1,7 @@
 ---
 title: 'Population decoding of visual motion direction in V1 marmoset monkey : effects
   of uncertainty'
-date: '2025-01-01'
+date: 2025-01-01
 publishDate: '2025-06-03T08:20:45.497040Z'
 authors:
 - Alexandre Lainé

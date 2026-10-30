@@ -37,4 +37,6 @@ event: Marseille INT Fest, January 10th, 2014
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2014-01-10-int-fest/
+grants:
+- brain-scales
 ---

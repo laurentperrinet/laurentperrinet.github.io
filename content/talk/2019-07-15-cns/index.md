@@ -49,12 +49,14 @@ event: 'Annual Computational Neuroscience Meeting: CNS*2019 Barcelona, Spain'
 links:
 - name: Slides
   url: https://SpikeAI.github.io/2019-07-15_CNS
-- name: Pdf
+- name: PDF
   url: https://github.com/SpikeAI/2019-07-15_CNS/raw/master/2019-07-15_CNS.pdf
 - name: Code
   url: https://github.com/SpikeAI/2019-07-15_CNS/
 - name: URL
   url: https://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-019-0538-0#Sec73
+grants:
+- spikeai
 ---
  - download a [preliminary PDF](https://laurentperrinet.github.io/talk/2019-07-15-cns/2019-07-15-cns.pdf)
  ![](@laurentperrinet_1150713758643380226_tweetcapture.png)

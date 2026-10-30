@@ -1,6 +1,6 @@
 ---
 title: Population decoding of visual motion direction
-date: '2026-01-01'
+date: 2026-01-01
 publishDate: '2026-06-29T10:24:36.735834Z'
 authors:
 - Alexandre Lainé
@@ -22,6 +22,8 @@ links:
   url: https://alexandre-laine.github.io/files/2026_AREADNE-Poster.pdf
 - name: LinkedIn
   url: https://www.linkedin.com/posts/ugcPost-7477633136114348033-Jze9
+- name: URL
+  url: https://laurentperrinet.github.io/publication/laine-26-areadne
 ---
 🧠 Excited to share our latest research led by Alexandre Lainé and presented this summer at AREADNE 2026!
 

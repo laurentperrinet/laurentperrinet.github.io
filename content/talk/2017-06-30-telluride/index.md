@@ -17,10 +17,10 @@ event: Telluride Neuromorphic Workshop, Workgroup on Compound Eyes and Event-bas
 event_url: http://telluride.iniforum.ch/2017/workgroups/neuromorphic-event-based-compound-eyes-and-vision/
 location: Telluride, CO
 links:
-- name: Conference
-  url: http://telluride.iniforum.ch/2017/workgroups/neuromorphic-event-based-compound-eyes-and-vision/
 - name: Slides
   url: https://laurentperrinet.github.io/sciblog/files/2017-06-30_Telluride.html
+- name: Conference
+  url: http://telluride.iniforum.ch/2017/workgroups/neuromorphic-event-based-compound-eyes-and-vision/
 - name: URL
   url: https://laurentperrinet.github.io/talk/2017-06-30-telluride
 projects:

@@ -1,6 +1,6 @@
 ---
 title: 'Mislocalization by Design: The Flash-Lag Effect as Prediction'
-date: '2025-10-16'
+date: 2025-10-16 11:00:00
 publishDate: '2025-10-14T20:07:40.008472Z'
 authors:
 - Laurent U Perrinet
@@ -26,4 +26,5 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-10-16-flash-lag-effect
 slides: 2025-10-16-flash-lag-effect
+event: Suresh Krishna's lab meeting at McGill.
 ---

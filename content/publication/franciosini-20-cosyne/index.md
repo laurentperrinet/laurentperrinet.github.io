@@ -71,8 +71,8 @@ tags:
 - sparse-coding
 projects:
 - doc-2-amu
-- phd-icn
 - mesocentre
+- phd-icn
 publication: '*Computational and Systems Neuroscience (Cosyne) 2020*'
 publication_types:
 - inproceedings

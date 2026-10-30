@@ -40,6 +40,8 @@ links:
   url: https://github.com/laurentperrinet/2020-04_UE-neurosciences-computationnelles
 - name: URL
   url: https://laurentperrinet.github.io/talk/2020-04-ue-neurosciences-computationnelles
+grants:
+- anr-horizontal-v1
 ---
 
 # 2020-04_UE-neurosciences-computationnelles, matériel pour le cours de modélisation

@@ -1,6 +1,6 @@
 ---
 title: Optimal Transport Theory to extract Spiking Motifs
-date: '2026-07-07'
+date: 2026-07-07
 publishDate: '2026-06-29T10:24:36.718992Z'
 authors:
 - Antoine Grimaldi
@@ -36,8 +36,8 @@ publication_types:
 - paper-conference
 doi: 10.21203/rs.3.rs-9518938/v1
 links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/grimaldi-26-fens/
 - name: FENS
   url: https://fens2026.abstractserver.com/program/#/details/presentations/3594
+- name: URL
+  url: https://laurentperrinet.github.io/publication/grimaldi-26-fens/
 ---

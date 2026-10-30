@@ -18,9 +18,9 @@ publication_types:
 - article-journal
 publication: '*Ophthalmology Science*'
 doi: 10.1016/j.xops.2026.101378
-abstract: Objective - To develop and validate deep learning models to differentiate choroideremia
-  (CHM), USH2A-associated rod-cone dystrophy, and healthy controls using macular optical
-  coherence tomography (OCT) volumes.
+abstract: Objective - To develop and validate deep learning models to differentiate
+  choroideremia (CHM), USH2A-associated rod-cone dystrophy, and healthy controls using
+  macular optical coherence tomography (OCT) volumes.
 categories:
 - Clinical Neuroscience
 - NeuroAI & Machine Learning

@@ -21,4 +21,6 @@ location: Forschungszentrum Jülich
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2012-03-22-juelich/
+grants:
+- brain-scales
 ---

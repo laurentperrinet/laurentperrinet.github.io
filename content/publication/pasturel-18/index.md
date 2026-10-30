@@ -32,7 +32,7 @@ projects:
 publication_types:
 - inproceedings
 links:
-- name: Pdf
+- name: PDF
   url: https://github.com/chloepasturel/AnticipatorySPEM/raw/master/2018-06-05_Poster_Workshop_Grenoble/Pasturel_etal2018grenoble.pdf
 - name: Code
   url: https://github.com/chloepasturel/AnticipatorySPEM/

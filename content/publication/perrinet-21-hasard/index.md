@@ -28,6 +28,8 @@ image:
   focal_point: Smart
 doi: 10.64628/aak.erjttwvdp
 links:
+- name: Code
+  url: https://github.com/laurentperrinet/2021_theconversation_hasard
 - name: URL
   url: https://laurentperrinet.github.io/publication/perrinet-21-hasard/
 grants:

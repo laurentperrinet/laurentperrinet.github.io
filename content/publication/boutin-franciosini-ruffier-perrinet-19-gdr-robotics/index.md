@@ -28,8 +28,8 @@ tags:
 - sparse-coding
 projects:
 - doc-2-amu
-- phd-icn
 - mesocentre
+- phd-icn
 publication: '*GdR Robotics - 2019-06-05*'
 publication_types:
 - inproceedings

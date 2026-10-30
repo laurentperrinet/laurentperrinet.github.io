@@ -42,7 +42,7 @@ publication: '*European Conference on Visual Perception 2024*'
 publication_types:
 - paper-conference
 links:
-- name: Pdf
+- name: PDF
   url: https://ecvp2024.abdn.ac.uk/wp-content/uploads/sites/23/2024/08/ECVP2024_Abstract_Book.pdf
 - name: URL
   url: https://laurentperrinet.github.io/publication/gekas-24-ecvp/

@@ -1,6 +1,6 @@
 ---
 title: Working Memory with Polychronous Chains
-date: '2026-01-01'
+date: 2026-01-01
 publishDate: '2026-07-17T10:38:05.683231Z'
 authors:
 - Laurent U Perrinet
@@ -15,14 +15,14 @@ publication: '*arXiv preprint arXiv:2604.14096*'
 publication_types:
 - article-journal
 links:
-- name: URL
-  url: https://laurentperrinet.github.io/publication/perrinet-26
-- name: Preprint
-  url: http://arxiv.org/abs/2604.14096
 - name: Code
   url: https://github.com/SpikeAI/MNESIS
+- name: URL
+  url: https://laurentperrinet.github.io/publication/perrinet-26
+- name: arXiv
+  url: http://arxiv.org/abs/2604.14096
+doi: 10.48550/arXiv.2604.14096
 ---
 * See the accompanying code: https://github.com/SpikeAI/MNESIS
 * see a related presentation: {{< cite page="/talk/2026-04-16-cerco" view="4" >}}
 * This paper is a follow-up of the ICANN conference paper: {{< cite page="/publication/perrinet-26-icann" view="4" >}}
-

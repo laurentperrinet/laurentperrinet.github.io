@@ -57,5 +57,7 @@ links:
   url: http://www.anc.ed.ac.uk/events/anc-dtc-seminar-laurent-perrinet
 - name: URL
   url: https://laurentperrinet.github.io/talk/2012-01-24-edinburgh/
+grants:
+- brain-scales
 ---
 * See a followup in {{< cite page="/publication/perrinet-bednar-15" view="1" >}}

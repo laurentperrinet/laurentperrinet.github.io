@@ -52,7 +52,7 @@ publication_types:
 - article-journal
 doi: 10.1167/jov.20.8.22
 links:
-- name: Pdf
+- name: PDF
   url: https://doi.org/10.1101/725879
 - name: Code
   url: https://github.com/laurentperrinet/WhereIsMyMNIST

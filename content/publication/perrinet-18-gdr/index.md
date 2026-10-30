@@ -34,8 +34,10 @@ publication: '*GDR Vision, Paris, 2018*'
 publication_types:
 - inproceedings
 links:
-- name: Pdf
+- name: PDF
   url: https://github.com/laurentperrinet/Perrinet18gdr/raw/master/Perrinet18gdr.pdf
+- name: Code
+  url: https://github.com/laurentperrinet/Perrinet18gdr
 - name: URL
   url: https://github.com/laurentperrinet/Perrinet18gdr
 grants:

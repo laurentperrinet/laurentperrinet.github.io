@@ -1,6 +1,6 @@
 ---
 title: 'Dans l’intelligence du regard : l’art révèle la diversité de notre vision'
-date: '2026-04-11'
+date: 2026-04-11 11:00:00
 publishDate: '2026-04-01T09:35:03.446115Z'
 authors:
 - Laurent U Perrinet
@@ -26,6 +26,7 @@ links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2026-04-11-intelligence-du-regard
 slides: 2026-04-11-intelligence-du-regard
+event: Forum des Sciences Cognitives 2026
 ---
 Cette présentation (dans le cadre du *Forum des Sciences Cognitives*) explore la collaboration avec Étienne Rey, notamment le travail exposé lors de l’exposition *La vibration des apparences*, qui a eu lieu au musée Granet :
 

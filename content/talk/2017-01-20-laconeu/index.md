@@ -19,10 +19,12 @@ event: 'LACONEU 2017: 4th Latin-American Summer School in Computational Neurosci
 event_url: http://www.laconeu.cl
 location: Valparaiso (Chile)
 links:
-- name: Conference
-  url: http://www.laconeu.cl
 - name: Slides
   url: https://laurentperrinet.github.io/sciblog/files/2017-01-20_LACONEU.html
+- name: Conference
+  url: http://www.laconeu.cl
 - name: URL
   url: https://laurentperrinet.github.io/talk/2017-01-20-laconeu/
+grants:
+- anr-trajectory
 ---

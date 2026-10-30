@@ -41,7 +41,7 @@ publication_types:
 - article-journal
 doi: 10.3390/brainsci13010068
 links:
-- name: Hal
+- name: HAL
   url: https://hal.science/hal-03918338
 - name: Code
   url: https://github.com/SpikeAI/2022_polychronies-review
@@ -53,7 +53,6 @@ grants:
 - anr-anr
 - aprovis-3-d
 - polychronies
-
 ---
 {{< video src="2022-12-23_polychrony-review_video-abstract.mp4" controls="yes" >}}
  * read the paper [online](https://arxiv.org/html/2404.07866v1) or in [PDF](https://arxiv.org/pdf/2404.07866v1.pdf)

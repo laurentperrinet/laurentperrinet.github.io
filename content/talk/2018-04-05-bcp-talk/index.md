@@ -18,14 +18,16 @@ event: Probabilities and Optimal Inference to Understand the Brain
 event_url: https://laurentperrinet.github.io/post/2018-04-05_optimal-inference-brain-workshop/
 location: INT, Marseille (France)
 links:
-- name: Conference
-  url: https://laurentperrinet.github.io/post/2018-04-05_optimal-inference-brain-workshop/
 - name: Slides
   url: https://laurentperrinet.github.io/2018-04-05_BCP_talk/
+- name: Conference
+  url: https://laurentperrinet.github.io/post/2018-04-05_optimal-inference-brain-workshop/
 - name: Code
   url: https://github.com/laurentperrinet/2018-04-05_BCP_talk/
 - name: URL
   url: https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/
+grants:
+- pace-itn
 ---
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="1" >}}
 * previous talk @ [LAW, Lyon]({{< ref "/talk/2016-10-13-law/index.md" >}})

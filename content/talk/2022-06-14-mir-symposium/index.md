@@ -32,6 +32,8 @@ image:
 links:
 - name: location
   url: SeaTech building, University of Toulon
+grants:
+- aprovis-3-d
 ---
 * for visual search see: {{< cite page="/publication/dauce-20" view="1" >}}
 * for retinotopy, see: {{< cite page="/talk/2022-06-19-neuro-vision-retinotopic" view="1" >}}

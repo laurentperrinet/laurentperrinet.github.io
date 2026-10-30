@@ -38,12 +38,14 @@ location: Marseille (France)
 links:
 - name: Slides
   url: https://invibe.github.io/2019-05-23_Neurofrance
-- name: Pdf
+- name: PDF
   url: https://github.com/invibe/2019-05-23_Neurofrance/raw/master/2019-05-23_Neurofrance.pdf
 - name: Code
   url: https://github.com/invibe/2019-05-23_Neurofrance/
 - name: URL
   url: https://laurentperrinet.github.io/talk/2019-05-23-neurofrance
+grants:
+- pace-itn
 ---
 * See the final publication @ {{< cite page="/publication/pasturel-montagnini-perrinet-20" view="1" >}}
 * This is part of the [Active Inference symposium]({{< ref "/post/2019-05-23-neurofrance/index.md" >}}) @ [NeuroFrance](https://www.neurosciences.asso.fr/V2/colloques/SN19/) SYMPOSIUM, Room 7

@@ -24,6 +24,8 @@ image:
   focal_point: Smart
 doi: 10.64628/aak.raq4wvhhj
 links:
+- name: Code
+  url: https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux
 - name: URL
   url: https://theconversation.com/chats-mouches-humains-comment-la-vision-a-evolue-en-de-multiples-facettes-220083
 grants:

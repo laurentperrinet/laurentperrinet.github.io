@@ -16,8 +16,8 @@ tags:
 - sparse-coding
 projects:
 - doc-2-amu
-- phd-icn
 - mesocentre
+- phd-icn
 publication: '*Proceedings of the Society for Neuroscience conference*'
 publication_types:
 - inproceedings

@@ -50,6 +50,8 @@ links:
   url: https://github.com/laurentperrinet/2020-09-25_IRPHE/
 - name: URL
   url: https://laurentperrinet.github.io/talk/2020-09-25-irphe
+grants:
+- aprovis-3-d
 ---
 * What:: talk @ [Séminaire à l'Institut de Recherche sur les Phénomènes Hors Équilibre (IRPHÉ)](https://laurentperrinet.github.io/talk/2020-09-25-irphe)
 * Who:: Perrinet, Laurent U

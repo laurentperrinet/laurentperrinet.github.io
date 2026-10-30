@@ -34,6 +34,8 @@ image:
 links:
 - name: URL
   url: https://sites.google.com/uci.edu/neurovision2022/schedule
+grants:
+- aprovis-3-d
 ---
 * Follows a previous work {{< cite page="/publication/dauce-20" view="1" >}}
 {{< video src="2022-06-10_Jeremie-etal-NeuroVision_video-abstract.mp4" controls="yes" >}}

@@ -38,6 +38,8 @@ publication_types:
 - article-journal
 doi: 10.1038/s42003-023-05042-3
 links:
+- name: HAL
+  url: https://hal.science/hal-04142490
 - name: Dataset
   url: https://figshare.com/articles/dataset/Data_for_Ladret_et_al_2023_Cortical_recurrence_supports_resilience_to_sensory_variance_in_the_primary_visual_cortex_/23366588
 - name: Code
@@ -46,8 +48,6 @@ links:
   url: https://www.nature.com/articles/s42003-023-05042-3
 - name: bioRxiv
   url: https://www.biorxiv.org/content/10.1101/2021.03.30.437692
-- name: HAL
-  url: https://hal.science/hal-04142490
 grants:
 - anr-anr
 - anr-horizontal-v1

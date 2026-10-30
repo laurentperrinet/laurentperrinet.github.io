@@ -15,6 +15,8 @@ projects:
 - art-science
 - tout-public
 links:
+- name: Code
+  url: https://github.com/laurentperrinet/2023-01-31_formes-et-perception
 - name: URL
   url: https://laurentperrinet.github.io/2023-01-31_formes-et-perception
 grants:

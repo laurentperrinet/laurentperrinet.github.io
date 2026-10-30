@@ -44,9 +44,11 @@ publication: '*NeuroFrance 2017, International Conference from the Société des
   Bordeaux, France*'
 publication_types:
 - inproceedings
-code: https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars
 grants:
 - doc-2-amu
+links:
+- name: Code
+  url: https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars
 ---
 * This work is a followup of {{< cite page="/publication/perrinet-10-shl" view="4" >}}
 * the [poster (PDF)](https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars/raw/master/docs/BoutinRuffierPerrinet17neurofrance.pdf) will be presented Thursday, May 18 @ [NeuroFrance, Bordeaux](https://www.professionalabstracts.com/sn2017/programme-sn2017.pdf).

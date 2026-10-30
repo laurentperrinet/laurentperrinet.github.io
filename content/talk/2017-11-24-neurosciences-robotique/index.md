@@ -20,5 +20,7 @@ links:
   url: http://www.isir.upmc.fr/index.php?op=view_page&id=1463&menuid=17
 - name: URL
   url: https://laurentperrinet.github.io/talk/2017-11-24-neurosciences-robotique/
+grants:
+- doc-2-amu
 ---
 * see a related work describing SDPC in: {{< cite page="/publication/boutin-franciosini-chavane-ruffier-perrinet-20" view="1" >}}

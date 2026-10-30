@@ -1,6 +1,6 @@
 ---
 title: A New Look for Convolutional Deep Networks
-date: '2025-12-02'
+date: 2025-12-02 09:00:00
 publishDate: '2025-11-26T09:59:39.745256Z'
 authors:
 - Laurent U Perrinet
@@ -31,4 +31,5 @@ publication: '*Symposium of the Neuroschool Master, Marseille, December 1 and 2 
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-12-02-symposium-masters
+event: Symposium of the Neuroschool Master, Marseille, December 1 and 2 2025.
 ---

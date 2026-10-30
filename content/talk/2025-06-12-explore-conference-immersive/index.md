@@ -1,6 +1,6 @@
 ---
 title: 'Conférence immersive : La vision, réalité ou perception ?'
-date: '2025-06-12'
+date: 2025-06-12 16:00:00
 publishDate: '2025-06-03T07:46:11.967619Z'
 authors:
 - Laurent U Perrinet
@@ -20,10 +20,11 @@ tags:
 publication: '*Festival EXPLORE organisé par Aix Marseille Université et la DR12 du
   CNRS.*'
 links:
-- name: URL
-  url: https://laurentperrinet.github.io/talk/2025-06-12_explore-conference-immersive
 - name: Tout public!
   url: https://laurentperrinet.github.io/project/tout-public/
+- name: URL
+  url: https://laurentperrinet.github.io/talk/2025-06-12_explore-conference-immersive
+event: Festival EXPLORE organisé par Aix Marseille Université et la DR12 du CNRS.
 ---
 * https://explore.univ-amu.fr/programme
 

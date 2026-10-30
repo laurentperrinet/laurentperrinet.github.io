@@ -1,6 +1,6 @@
 ---
 title: Réseaux de Neurones Impulsionnels Pour La Vision Embarquée Basée Sur Les Événements
-date: '2023-10-06'
+date: 2023-10-06
 publishDate: '2025-01-11T16:13:35.475316Z'
 authors:
 - Amélie Gruel

@@ -18,8 +18,10 @@ publication: '*GDR Vision, Lille, 2017*'
 publication_types:
 - inproceedings
 links:
-- name: Pdf
+- name: PDF
   url: https://github.com/chloepasturel/AnticipatorySPEM/raw/master/2017-10-13_Poster_GDR2017/Pasturel_etal2017gdr.pdf
+- name: Code
+  url: https://github.com/chloepasturel/AnticipatorySPEM
 - name: URL
   url: https://laurentperrinet.github.io/publication/pasturel-17-gdr
 grants:

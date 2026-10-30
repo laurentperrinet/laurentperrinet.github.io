@@ -1,6 +1,6 @@
 ---
 title: 'NeuroSchool PhD Program in Neuroscience: Sparse representations'
-date: 2025-03-11
+date: 2025-03-11 12:00:00
 publishDate: '2025-03-11'
 authors:
 - Laurent U Perrinet

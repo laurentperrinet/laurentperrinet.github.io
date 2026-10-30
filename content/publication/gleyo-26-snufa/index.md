@@ -3,7 +3,7 @@ title: Bio-plausible statistical regularizer for spiking LeJEPA
 authors:
 - Alexis Gleyo
 - Laurent U Perrinet
-date: '2026-11-01'
+date: 2026-11-01
 publishDate: '2026-10-19T09:35:54.426161Z'
 publication_types:
 - paper-conference
@@ -24,7 +24,9 @@ abstract: Joint Embedding Predictive Architectures (JEPA) offer a promising path
   benchmark. Future work will focus on scaling up experiments to larger datasets and
   more complex architectures.
 tags:
-- Spiking Neural Networks ; Temporal Coding ; JEPA ; Neuromorphic Computing
+- neuromorphic-computing
+- spiking-neural-networks
+- temporal-coding
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/gleyo-26-snufa/

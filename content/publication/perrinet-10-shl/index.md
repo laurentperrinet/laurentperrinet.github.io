@@ -38,7 +38,7 @@ publication_types:
 - article-journal
 doi: 10.1162/neco.2010.05-08-795
 links:
-- name: Hal
+- name: HAL
   url: https://hal.science/hal-00156610
 - name: Code
   url: https://github.com/bicv/SparseHebbianLearning

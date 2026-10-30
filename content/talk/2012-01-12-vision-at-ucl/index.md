@@ -39,5 +39,7 @@ location: Malet Place Eng Bldg 1.03 (first floor).
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/
+grants:
+- brain-scales
 ---
 * See a followup in [Perrinet et al, 2012]({{< ref "/publication/perrinet-12-pred" >}})

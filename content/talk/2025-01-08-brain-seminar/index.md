@@ -1,6 +1,6 @@
 ---
 title: How and why foveated retinotopy provides efficient vision
-date: '2025-01-08'
+date: 2025-01-08 12:00:00
 publishDate: '2024-12-23T13:47:40.899550Z'
 authors:
 - Laurent U Perrinet
@@ -34,6 +34,7 @@ publication: '*BRaIN Seminar,  CRN and McGill Vision Research*'
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2025-01-08-brain-seminar
+event: BRaIN Seminar,  CRN and McGill Vision Research
 ---
 * When: Wednesday 9th of January, 2025 at 12 noon.
 * Where: CRN seminar room, Montreal General Hospital, Livingston Hall, L7-140, with hybrid option.

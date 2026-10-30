@@ -26,7 +26,7 @@ image:
 links:
 - name: Slides
   url: https://laurentperrinet.github.io/2020-09-14_IWAI
-- name: Pdf
+- name: PDF
   url: https://iwaiworkshop.github.io/papers/2020/IWAI_2020_paper_19.pdf
 - name: Code
   url: https://github.com/laurentperrinet/2020-09-14_IWAI/

@@ -1,6 +1,6 @@
 ---
 title: A New Look for Convolutional Deep Networks
-date: '2025-12-12'
+date: 2025-12-12 09:00:00
 publishDate: '2025-11-26T09:59:39.757451Z'
 authors:
 - Laurent U Perrinet
@@ -34,12 +34,13 @@ tags:
 - retinotopy
 publication: '*Montreal AI and Neuroscience conference, Dec 11-13th, 2025*'
 links:
-- name: MAIN
-  url: https://main2025.org
-- name: Slides
-  url: https://laurentperrinet.github.io/2025-12-13_Perrinet-talk-MAIN2025
 - name: YouTube
   url: https://www.youtube.com/watch?v=1BUidO5GY98
+- name: Slides
+  url: https://laurentperrinet.github.io/2025-12-13_Perrinet-talk-MAIN2025
+- name: MAIN
+  url: https://main2025.org
+event: Montreal AI and Neuroscience conference, Dec 11-13th, 2025..
 ---
 🔬 Excited to present our latest research at the #MAIN2025 conference today!
 

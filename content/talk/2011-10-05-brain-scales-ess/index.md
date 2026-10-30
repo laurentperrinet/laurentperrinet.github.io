@@ -22,4 +22,6 @@ links:
   url: https://brainscales.kip.uni-heidelberg.de/jss/AttendMeeting?m=showAgenda&meetingID=15
 - name: URL
   url: https://laurentperrinet.github.io/talk/2011-10-05-brain-scales-ess/
+grants:
+- brain-scales
 ---

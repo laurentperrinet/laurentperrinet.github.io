@@ -40,12 +40,12 @@ image:
   focal_point: Smart
   preview_only: false
 links:
+- name: Video
+  url: https://www.youtube.com/watch?v=KxX4pZKexCo&t=3335s
 - name: URL
   url: https://laurentperrinet.github.io/publication/grimaldi-21-cbmi/
 - name: HAL
   url: https://hal.science/hal-03336554
-- name: Video
-  url: https://www.youtube.com/watch?v=KxX4pZKexCo&t=3335s
 grants:
 - aprovis-3-d
 ---

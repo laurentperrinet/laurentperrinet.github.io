@@ -43,6 +43,8 @@ links:
   url: https://github.com/laurentperrinet/2020-09-14_IWAI/
 - name: URL
   url: https://whova.com/embedded/subsession/ecmlp_202009/1215095/1215123/
+grants:
+- aprovis-3-d
 ---
 * see proceedings paper: {{< cite page="/publication/dauce-20-iwai" view="1" >}}
 ![](@laurentperrinet_1305488089989754883_tweetcapture.png)
