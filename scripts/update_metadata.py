@@ -61,7 +61,8 @@ def import_bibtex(
         if not new_key in ['___template___',  'person-re-id', 'template']:
             with open(file_path, 'r', encoding='utf-8') as source_file:
                 page = source_file.read() + '\n'
-            metadata = page.split('---')
+            # only split on delimiter lines: abstracts use LaTeX em-dashes (---)
+            metadata = re.split(r'^---$', page, maxsplit=2, flags=re.M)
             # print(metadata)
             parsed_yaml = yaml.load(metadata[1], Loader=yaml.FullLoader)
 
@@ -156,7 +157,9 @@ def import_bibtex(
                     parsed_yaml['event'] = f'{clean_bibtex_str(entry["booktitle"])}'
 
                 if 'time_start' in entry:
-                    parsed_yaml['time_start'] = getDateTimeFromISO8601String(f'{clean_bibtex_str(entry["time_start"])}', full=True)
+                    time_start = clean_bibtex_str(entry["time_start"])
+                    # a bare day stays a date instead of becoming midnight
+                    parsed_yaml['time_start'] = getDateTimeFromISO8601String(time_start, full=len(time_start) > 10)
                     parsed_yaml['date'] = parsed_yaml['time_start']  # overwrite date
                     # HACK to show the entry = Scheduled page publish date.
 
@@ -200,27 +203,11 @@ def import_bibtex(
                     # print(parsed_yaml['projects'])
 
             for url_key in entry.keys():
-                if url_key in ['url', 'preprint', 'url_slides', 'url_venue', 'url_code', 'url_video', 'url_dataset', 'url_poster', 'url_project', 'url_arXiv', 'url_hal', 'url_pdf', 'url_press', 'url_preprint']:
+                if is_link_key(url_key):
                     sane_url = clean_bibtex_str(entry[url_key])
                     print(">>>>>", url_key, sane_url)
-                    if '_' in url_key:
-                        # url_type = url_key.strip('url_').capitalize()
-                        url_type = url_key[4:].capitalize()
-                        print('°°°°°°°°°°°°°°°°', url_key, url_type)
-                    elif sane_url[-4:]=='.pdf':
-                        url_type = 'PDF'
-                    elif url_key=='preprint':
-                        if 'arxiv' in sane_url:
-                            url_type = 'arXiv'
-                        elif 'hal' in sane_url:
-                            url_type = 'HAL'
-                        elif 'biorxiv' in sane_url:
-                            url_type = 'bioRxiv'
-                        else:
-                            url_type = "Preprint"
-                    else:
-                        url_type = "URL"
-                    
+                    url_type = link_name(url_key, sane_url)
+
                     try:
                         parsed_yaml.pop(url_key)
                     except:
@@ -259,21 +246,40 @@ def import_bibtex(
             # except:
             #     pass
 
-            metadata[1] = yaml.dump(parsed_yaml, encoding=('utf-8'), allow_unicode=True)
+            # keep the page's key order so that a sync only shows real changes
+            metadata[1] = yaml.dump(parsed_yaml, encoding=('utf-8'), allow_unicode=True, sort_keys=False)
             metadata[1] = metadata[1].decode('utf-8')
-
-            # clean-up: strip double lines
-            while '\n\n' in metadata[2]:
-                metadata[2] = metadata[2].replace('\n\n', '\n')
 
             # Save Markdown file.
             try:
                 log.info(f"Saving Markdown to '{file_path}'")
-                page = '---\n'.join(metadata).strip('\n')
+                # metadata[2] starts with the end of the closing '---' line, so the body is kept verbatim
+                page = (metadata[0] + '---\n' + metadata[1] + '---' + metadata[2]).strip('\n')
                 with open(file_path, 'w', encoding='utf-8') as f:
                     f.write(page + '\n')
             except IOError:
                 log.error("Could not save file.")
+# button labels that `capitalize()` cannot produce; any other `url_<name>` key is shown as `Name`
+LINK_NAMES = {
+    'url': 'URL', 'hal': 'HAL', 'arxiv': 'arXiv', 'biorxiv': 'bioRxiv', 'pdf': 'PDF',
+    'event': 'Conference', 'linkedin': 'LinkedIn', 'youtube': 'YouTube', 'ieee': 'IEEE',
+    'fens': 'FENS', 'main': 'MAIN', 'toutpublic': 'Tout public!', 'location': 'location',
+}
+def is_link_key(key):
+    return key in ('url', 'preprint') or key.startswith('url_')
+def link_name(key, url):
+    """Button label for a bib URL field; a trailing digit (`url_press2`) allows several links with the same label."""
+    if key.startswith('url_'):
+        token = key[4:].lower().rstrip('0123456789')
+        return LINK_NAMES.get(token, token.capitalize())
+    if url[-4:] == '.pdf':
+        return 'PDF'
+    if key == 'preprint':
+        for host, name in (('arxiv', 'arXiv'), ('hal', 'HAL'), ('biorxiv', 'bioRxiv')):
+            if host in url:
+                return name
+        return 'Preprint'
+    return 'URL'
 def slugify(s, lower=True):
     bad_symbols = (".", "_", ":")  # Symbols to replace with hyphen delimiter.
     delimiter = "-"
