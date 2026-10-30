@@ -31,7 +31,6 @@ tags:
 - bayesian-modelling
 - eye-movements
 - motion-perception
-- visual-illusions
 publication: '*1ère conférence francophone NEUROsciences COMPutationnelles - NeuroComp*'
 event: 1ère conférence francophone NEUROsciences COMPutationnelles - NeuroComp
 links:

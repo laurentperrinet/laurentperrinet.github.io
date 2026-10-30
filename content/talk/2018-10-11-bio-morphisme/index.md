@@ -7,8 +7,7 @@ featured: false
 categories:
 - Behavioural Neuroscience
 - NeuroAI & Machine Learning
-tags:
-- visual-illusions
+tags: null
 projects:
 - tout-public
 publication: '**'

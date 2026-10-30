@@ -37,7 +37,6 @@ tags:
 - bayesian-modelling
 - motion-perception
 - predictive-coding
-- visual-illusions
 publication: '*Neural Computation*'
 publication_types:
 - article-journal

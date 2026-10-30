@@ -8,8 +8,7 @@ featured: false
 categories:
 - Computational Neuroscience
 - NeuroAI & Machine Learning
-tags:
-- visual-illusions
+tags: null
 projects:
 - art-science
 - tout-public

@@ -8,7 +8,6 @@ categories:
 - NeuroAI & Machine Learning
 tags:
 - neuromorphic-computing
-- visual-illusions
 publication: '*Journée Scientifique Biomimove 2024 : Action, Perception et Traitement*'
 event: 'Journée Scientifique Biomimove 2024 : Action, Perception et Traitement'
 event_url: https://biomimove2024.sciencesconf.org

@@ -28,7 +28,6 @@ categories:
 - Visual Neuroscience
 tags:
 - motion-perception
-- visual-illusions
 projects:
 - art-science
 publication: '*GDR Vision, Lille, 2017*'

@@ -23,7 +23,6 @@ tags:
 - primary-visual-cortex
 - retinotopy
 - spiking-neural-networks
-- visual-illusions
 image:
   caption: 'Animal camouflage illustrates the importance of exploration in vision:
     looking straight ahead reveals only vegetation, while making the right saccade

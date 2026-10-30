@@ -29,7 +29,6 @@ tags:
 - motion-clouds
 - motion-perception
 - predictive-coding
-- visual-illusions
 projects:
 - motion-clouds
 publication: '*Journal of Neurophysiology*'

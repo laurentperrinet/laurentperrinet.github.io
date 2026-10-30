@@ -10,7 +10,6 @@ draft: false
 categories:
 - NeuroAI & Machine Learning
 tags:
-- visual-illusions
 projects:
 - art-science
 image:

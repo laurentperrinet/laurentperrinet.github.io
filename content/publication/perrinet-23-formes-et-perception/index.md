@@ -10,7 +10,6 @@ categories:
 tags:
 - foveated-vision
 - retinotopy
-- visual-illusions
 projects:
 - art-science
 - tout-public

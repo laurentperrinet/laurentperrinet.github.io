@@ -37,7 +37,6 @@ categories:
 tags:
 - motion-perception
 - predictive-coding
-- visual-illusions
 publication: '*European Conference on Visual Perception 2024*'
 publication_types:
 - paper-conference

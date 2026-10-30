@@ -30,7 +30,6 @@ categories:
 - NeuroAI & Machine Learning
 tags:
 - primary-visual-cortex
-- visual-illusions
 publication_types:
 - thesis
 links:

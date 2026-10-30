@@ -19,7 +19,6 @@ categories:
 tags:
 - motion-perception
 - sparse-coding
-- visual-illusions
 projects:
 - tout-public
 publication_types:

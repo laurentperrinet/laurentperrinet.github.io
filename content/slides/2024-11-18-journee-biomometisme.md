@@ -9,7 +9,6 @@ tags:
 - eye-movements
 - neuromorphic-computing
 - spiking-neural-networks
-- visual-illusions
 projects:
 - tout-public
 slides:

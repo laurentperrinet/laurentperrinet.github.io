@@ -18,7 +18,6 @@ tags:
 - predictive-coding
 - primary-visual-cortex
 - sparse-coding
-- visual-illusions
 image:
   caption: '[ilbusca / Getty Images ](https://www.thoughtco.com/abbreviations-and-titles-used-in-college-1857653)'
   focal_point: Smart

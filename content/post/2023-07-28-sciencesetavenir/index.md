@@ -8,7 +8,6 @@ draft: false
 categories:
 - NeuroAI & Machine Learning
 tags:
-- visual-illusions
 projects:
 - tout-public
 links:

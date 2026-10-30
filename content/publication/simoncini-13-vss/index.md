@@ -32,7 +32,6 @@ categories:
 tags:
 - eye-movements
 - motion-perception
-- visual-illusions
 publication: '*VSS Conference Abstract*'
 publication_types:
 - inproceedings

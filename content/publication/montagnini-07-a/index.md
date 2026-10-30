@@ -29,7 +29,6 @@ categories:
 tags:
 - bayesian-modelling
 - motion-perception
-- visual-illusions
 publication: '*Perception 36 ECVP Abstract Supplement*'
 publication_types:
 - inproceedings

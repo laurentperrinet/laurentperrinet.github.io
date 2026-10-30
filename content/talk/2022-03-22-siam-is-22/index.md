@@ -36,7 +36,6 @@ tags:
 - predictive-coding
 - primary-visual-cortex
 - sparse-coding
-- visual-illusions
 publication: '*2022 SIAM Conference on Imaging Science (IS22)*'
 publication_types:
 - inproceedings

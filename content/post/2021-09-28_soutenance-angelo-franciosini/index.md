@@ -17,7 +17,6 @@ tags:
 - predictive-coding
 - primary-visual-cortex
 - sparse-coding
-- visual-illusions
 summary: 'Angelo Franciosini (Equipe NeOpTo) a soutenu sa thèse de doctorat intitulée:
   *SDPC : a sparse and predictive model of the early visual system* le Mardi 28 septembre
   2021 à 13h à 15h30'

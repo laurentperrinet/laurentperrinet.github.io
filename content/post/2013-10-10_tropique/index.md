@@ -11,7 +11,6 @@ categories:
 - Visual Neuroscience
 tags:
 - art-science
-- visual-illusions
 projects:
 - art-science
 summary: Tropique is an immersive installation which puts in link the perception of

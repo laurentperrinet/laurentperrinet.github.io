@@ -27,7 +27,6 @@ tags:
 - predictive-coding
 - primary-visual-cortex
 - sparse-coding
-- visual-illusions
 publication_types:
 - thesis
 links:

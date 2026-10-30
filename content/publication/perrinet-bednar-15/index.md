@@ -32,7 +32,6 @@ tags:
 - bayesian-modelling
 - primary-visual-cortex
 - sparse-coding
-- visual-illusions
 publication: '*Scientific Reports*'
 publication_types:
 - article-journal

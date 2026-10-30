@@ -27,7 +27,6 @@ categories:
 tags:
 - eye-movements
 - motion-perception
-- visual-illusions
 projects:
 - pace-itn
 publication: '*GDR Vision, Paris, 2018*'

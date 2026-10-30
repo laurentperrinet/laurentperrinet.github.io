@@ -37,7 +37,6 @@ tags:
 - bayesian-modelling
 - motion-perception
 - sparse-coding
-- visual-illusions
 publication: '*Topics in Dynamical Neural Networks: From Large Scale Neural Networks
   to Motor Control and Vision*'
 publication_types:

@@ -46,7 +46,6 @@ tags:
 - primary-visual-cortex
 - retinotopy
 - sparse-coding
-- visual-illusions
 publication: '*Perception*'
 publication_types:
 - inproceedings

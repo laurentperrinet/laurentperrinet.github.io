@@ -46,7 +46,6 @@ tags:
 - retinotopy
 - sparse-coding
 - spiking-neural-networks
-- visual-illusions
 publication: '*Perception*'
 publication_types:
 - inproceedings

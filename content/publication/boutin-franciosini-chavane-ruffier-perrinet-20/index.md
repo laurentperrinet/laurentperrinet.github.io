@@ -40,7 +40,6 @@ tags:
 - predictive-coding
 - primary-visual-cortex
 - sparse-coding
-- visual-illusions
 publication: '*PLoS Computational Biology*'
 publication_types:
 - article-journal

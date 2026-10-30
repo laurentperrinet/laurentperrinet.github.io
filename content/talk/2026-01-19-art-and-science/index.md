@@ -28,7 +28,6 @@ tags:
 - foveated-vision
 - log-polar-mapping
 - retinotopy
-- visual-illusions
 publication: '*Lab Tour for Art - Perception Course, January 19th, 2026*'
 image:
   caption: La vibration des apparences (2025)

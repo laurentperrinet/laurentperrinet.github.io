@@ -34,7 +34,6 @@ categories:
 tags:
 - bayesian-modelling
 - motion-perception
-- visual-illusions
 publication: '*Journal of Physiology-Paris*'
 publication_types:
 - article-journal

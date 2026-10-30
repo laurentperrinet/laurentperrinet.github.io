@@ -27,7 +27,6 @@ categories:
 tags:
 - eye-movements
 - motion-perception
-- visual-illusions
 projects:
 - codde
 publication: '*Nature Neuroscience*'

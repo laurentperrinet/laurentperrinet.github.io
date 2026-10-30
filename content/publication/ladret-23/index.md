@@ -32,7 +32,6 @@ tags:
 - motion-perception
 - predictive-coding
 - primary-visual-cortex
-- visual-illusions
 publication: '*Nature Communications Biology*'
 publication_types:
 - article-journal

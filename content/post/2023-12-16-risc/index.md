@@ -9,7 +9,6 @@ draft: false
 categories:
 - NeuroAI & Machine Learning
 tags:
-- visual-illusions
 projects:
 - tout-public
 event_url: http://www.pollymaggoo.org/

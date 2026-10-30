@@ -9,7 +9,6 @@ categories:
 - Computational Neuroscience
 tags:
 - motion-perception
-- visual-illusions
 publication: '*Proceedings of AREADNE*'
 publication_types:
 - inproceedings

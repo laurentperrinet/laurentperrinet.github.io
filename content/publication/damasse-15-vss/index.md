@@ -39,7 +39,6 @@ tags:
 - bayesian-modelling
 - eye-movements
 - motion-perception
-- visual-illusions
 publication: '*Proceedings of VSS*'
 publication_types:
 - inproceedings

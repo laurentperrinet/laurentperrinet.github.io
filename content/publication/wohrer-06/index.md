@@ -13,7 +13,6 @@ categories:
 - Computational Neuroscience
 tags:
 - spiking-neural-networks
-- visual-illusions
 publication: '*Perception*'
 publication_types:
 - inproceedings

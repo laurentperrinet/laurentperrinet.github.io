@@ -32,7 +32,6 @@ tags:
 - motion-perception
 - neuromorphic-computing
 - spiking-neural-networks
-- visual-illusions
 publication: '*Proceedings of ICIP 2022*'
 publication_types:
 - inproceedings

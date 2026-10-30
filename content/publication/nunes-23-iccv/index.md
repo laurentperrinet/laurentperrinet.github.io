@@ -29,7 +29,6 @@ categories:
 tags:
 - motion-perception
 - neuromorphic-computing
-- visual-illusions
 publication: '*International Conference on Computer Vision 2023 (ICCV2023)*'
 publication_types:
 - inproceedings

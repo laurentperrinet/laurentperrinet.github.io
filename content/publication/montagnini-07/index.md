@@ -31,7 +31,6 @@ categories:
 tags:
 - eye-movements
 - motion-perception
-- visual-illusions
 publication: '*Neuro-Computation: From Sensorimotor Integration to Computational Frameworks*'
 publication_types:
 - article-journal

@@ -12,7 +12,6 @@ categories:
 tags:
 - bayesian-modelling
 - motion-perception
-- visual-illusions
 publication: '*Proceedings of COSYNE*'
 publication_types:
 - inproceedings

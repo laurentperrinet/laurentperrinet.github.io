@@ -11,7 +11,6 @@ categories:
 - Theoretical Neuroscience
 tags:
 - motion-perception
-- visual-illusions
 publication: '*ICMS 2015 conference*'
 publication_types:
 - inproceedings

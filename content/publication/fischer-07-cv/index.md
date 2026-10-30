@@ -38,7 +38,6 @@ tags:
 - log-gabor
 - primary-visual-cortex
 - sparse-coding
-- visual-illusions
 projects:
 - open-science
 publication: '*International Journal of Computer Vision*'

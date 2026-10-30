@@ -10,7 +10,6 @@ draft: false
 categories:
 - NeuroAI & Machine Learning
 tags:
-- visual-illusions
 projects:
 - art-science
 summary: Sans gravité – une poétique de l’air – Ardenome à Avignon.

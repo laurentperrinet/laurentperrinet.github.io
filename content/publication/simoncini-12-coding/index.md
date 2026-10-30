@@ -40,7 +40,6 @@ categories:
 tags:
 - eye-movements
 - motion-perception
-- visual-illusions
 projects:
 - codde
 publication: '*Front. Neurosci. Conference Abstract: Neural Coding, Decision-Making

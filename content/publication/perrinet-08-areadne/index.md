@@ -48,7 +48,6 @@ categories:
 tags:
 - bayesian-modelling
 - motion-perception
-- visual-illusions
 publication: '*Proceedings of AREADNE, 2008*'
 publication_types:
 - inproceedings

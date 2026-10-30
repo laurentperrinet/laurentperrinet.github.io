@@ -21,7 +21,6 @@ tags:
 - homeostasis
 - sparse-coding
 - spiking-neural-networks
-- visual-illusions
 projects:
 - art-science
 - tout-public

@@ -39,7 +39,6 @@ categories:
 - NeuroAI & Machine Learning
 tags:
 - motion-perception
-- visual-illusions
 publication: '*Journal of Vision*'
 publication_types:
 - inproceedings

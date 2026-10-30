@@ -10,7 +10,6 @@ tags:
 - eye-movements
 - neuromorphic-computing
 - spiking-neural-networks
-- visual-illusions
 slides:
   theme: white
   transition: fade

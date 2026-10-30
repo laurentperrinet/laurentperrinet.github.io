@@ -39,7 +39,6 @@ categories:
 - NeuroAI & Machine Learning
 tags:
 - motion-perception
-- visual-illusions
 projects:
 - codde
 publication: '*VSS Conference Abstract*'

@@ -48,7 +48,6 @@ categories:
 tags:
 - bayesian-modelling
 - motion-perception
-- visual-illusions
 links:
 - name: URL
   url: https://laurentperrinet.github.io/talk/2008-06-01-ulm/

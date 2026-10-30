@@ -38,7 +38,6 @@ categories:
 tags:
 - eye-movements
 - motion-perception
-- visual-illusions
 publication: '*Journal of Vision*'
 publication_types:
 - inproceedings

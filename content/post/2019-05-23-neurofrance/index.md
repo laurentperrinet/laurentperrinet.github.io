@@ -14,7 +14,6 @@ tags:
 - bayesian-modelling
 - motion-perception
 - predictive-coding
-- visual-illusions
 image:
   focal_point: Smart
 summary: 'We organized a Symposium at NeuroFrance 2019 entitled *Active Inference:

@@ -11,7 +11,6 @@ categories:
 - Computational Neuroscience
 tags:
 - motion-perception
-- visual-illusions
 publication: '*Advances in Neural Information Processing Systems*'
 publication_types:
 - article-journal
