@@ -129,3 +129,8 @@ publications:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+# Slides (Reveal.js): Google Fonts used by layouts/slides/baseof.html; a deck can override them in its front matter
+slides:
+  fonts:
+    heading: Poppins
+    body: Lora

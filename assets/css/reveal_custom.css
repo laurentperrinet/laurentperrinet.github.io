@@ -50,3 +50,50 @@
     text-align: center; 
   }
   
+/* Numbered columns for outline / conclusion slides: <ol class="outline"><li><strong>Title</strong><span>subtitle</span></li></ol> */
+.reveal ol.outline {
+  --outline-accent: #2a6f97;
+  display: flex;
+  gap: 1.2em;
+  width: 100%;
+  margin: 1.5em 0 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: outline;
+}
+
+.reveal ol.outline > li {
+  flex: 1;
+  counter-increment: outline;
+  padding-top: 0.6em;
+  border-top: 4px solid var(--outline-accent);
+  text-align: left;
+}
+
+.reveal ol.outline > li::before {
+  content: counter(outline, decimal-leading-zero);
+  display: block;
+  margin-bottom: 0.25em;
+  font-family: var(--r-heading-font);
+  font-size: 1.6em;
+  font-weight: 700;
+  line-height: 1;
+  color: var(--outline-accent);
+}
+
+.reveal ol.outline strong {
+  display: block;
+  font-family: var(--r-heading-font);
+  font-size: 0.85em;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.reveal ol.outline span {
+  display: block;
+  margin-top: 0.6em;
+  font-size: 0.6em;
+  font-style: italic;
+  line-height: 1.4;
+  color: #555;
+}
