@@ -1,5 +1,5 @@
 ---
-title: Modelling memory to understand the brain
+title: A New Look for Convolutional Deep Networks
 authors:
 - Laurent U Perrinet
 date: 2026-11-03 10:30:00
@@ -7,29 +7,34 @@ publishDate: '2026-10-28T09:25:23.000000Z'
 publication_types:
 - paper-conference
 publication: '*Seminar at Université Grenoble Alpes*'
-abstract: 'Modelling working memory ---the ability to store and recall precise temporal
-  patterns--- remains an open challenge in computational neuroscience. While recent
-  advances evolved from Long Short-Term Memory networks to transformer architectures,
-  which excel at linking long-range associations, these models deviate from biological
-  plausibility: they are massive and energy-intensive. I will present our recent work
-  on recurrent spiking neural networks (SNNs), inspired by the structure of information
-  processing in biological systems. Based on the dynamics of realistic yet simple
-  single-neuron models, our approach sheds light on fundamental neural phenomena,
-  such as pattern formation in neural populations, the organization of high-dimensional
-  brain activity, and traveling waves in sensory areas. It also demonstrates practical
-  applications, including the production of gait patterns or the storage of textual
-  information. This work aims to bridge the gap between biologically grounded models
-  and scalable computational solutions, paving the way for more efficient and interpretable
-  AI systems.'
+abstract: 'By construction, deep convolutional networks treat all pixels equally.
+  Result: they are energy-hungry, fragile to rotations or zooms, and poor at object
+  localization. This contrasts sharply with biological vision, which demonstrates
+  remarkable efficiency. Think of an eagle spotting prey from kilometers away or a
+  human recognizing a face within an eye blink time. We propose that by using a mechanism
+  concentrating processing at the center of gaze, biological vision is optimally suited
+  for object localization. To test this hypothesis, we embed foveated retinotopy into
+  CNN inputs. We observe that while standard ResNets drop from 80% accuracy to 46%
+  under rotation attacks, our retrained networks achieve comparable accuracy (76%)
+  while dropping only to 66%. Critically, without additional learning, this foveated
+  CNN reveals high sensitivity to fixation point location: the maximum likelihood
+  position points to ground truth bounding boxes with 85% accuracy, compared to 71%
+  for classical CNNs. This suggests that this specific Nature''s million-year solution
+  may offer deep learning visual networks a fundamentally new architectural look.'
 categories:
-- Computational Neuroscience
+- Behavioural Neuroscience
+- Biological Neuroscience
+- Computer Vision
 - NeuroAI & Machine Learning
+- Visual Neuroscience
 tags:
-- neuromorphic-computing
-- spiking-neural-networks
-projects:
-- open-science
-slides: 2026-11-03-grenoble
+- computer-vision
+- deep-learning
+- eye-movements
+- foveated-vision
+- log-polar-mapping
+- primary-visual-cortex
+- retinotopy
 event: Seminar at Université Grenoble Alpes
 ---
 
@@ -37,6 +42,16 @@ event: Seminar at Université Grenoble Alpes
 
 * Room A6, Bâtiment Michel Dubois (or MSH amphitheatre), Saint-Martin-d'Hères, Grenoble, France
 
-* See the accompanying code: https://github.com/SpikeAI/MNESIS
+* Same topic as the talk given at the [MAIN 2025 conference](/talk/2025-12-12-main/) (see also the [slides](https://laurentperrinet.github.io/2025-12-13_Perrinet-talk-MAIN2025))
 
-* A follow-up paper: {{< cite page="/publication/perrinet-26" view="4" >}}
+* Paper: {{< cite page="publication/jeremie-25" view="4" >}}
+
+{{< figure src="/talk/2025-12-12-main/where_1.jpg" width="95%" >}}
+
+{{< figure src="/talk/2025-12-12-main/where_2.jpg" width="95%" >}}
+
+{{< figure src="/talk/2025-12-12-main/where_3.jpg" width="95%" >}}
+
+{{< figure src="/talk/2025-12-12-main/where_4.jpg" width="95%" >}}
+
+{{< figure src="/talk/2025-12-12-main/where_5.jpg" width="95%" >}}
