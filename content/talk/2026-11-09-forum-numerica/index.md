@@ -37,6 +37,7 @@ links:
   url: https://ds4h.univ-cotedazur.eu/research-and-labs/forum-numerica-seminar-series/forum-numerica-laurent-perrinet-cnrs-aix-marseille-university-modelling-memory-to-understand-the-brain
 event: Forum Numerica seminar series, Academy of Excellence \"Networks, Information
   and Digital society\", Université Côte d'Azur
+slides: 2026-11-09-forum-numerica
 ---
 
 * Invited seminar in the Forum Numerica series (Academy of Excellence "Networks, Information and Digital society", DS4H), Université Côte d'Azur, 2026-11-09, 14:00–15:00

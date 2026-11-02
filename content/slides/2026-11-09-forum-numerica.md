@@ -1,6 +1,6 @@
 ---
-title: 2026-11-03-grenoble
-date: '2026-11-03T09:30:00Z'
+title: 2026-11-09-forum-numerica
+date: '2026-11-09T14:00:00Z'
 publishDate: '2026-10-28T09:28:26Z'
 authors:
 - Laurent U Perrinet
@@ -41,10 +41,10 @@ type: slides
 
 <!-- no-branding -->
 
-# [Modelling memory to understand the brain](https://laurentperrinet.github.io/slides/2026-11-03-grenoble/?transition=fade)
-## *[Laurent U Perrinet](https://laurentperrinet.github.io/talk/2026-11-03-grenoble/)*
-### <u>Seminar at Université Grenoble Alpes</u>
-### [2026-11-03]
+# [Modelling memory to understand the brain](https://laurentperrinet.github.io/slides/2026-11-09-forum-numerica/?transition=fade)
+## *[Laurent U Perrinet](https://laurentperrinet.github.io/talk/2026-11-09-forum-numerica/)*
+### <u>Forum Numerica seminar, Université Côte d'Azur</u>
+### [2026-11-09]
 
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
 
@@ -53,14 +53,14 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 {{< speaker_note >}}
 **≈ 45 s**
 
-- thank the hosts; who I am (INT, Marseille)
+- thank the Forum Numerica organisers (Academy of Excellence "Networks, Information and Digital society", DS4H); who I am (INT, Marseille; CNRS / Aix-Marseille Université)
 - topic: neural networks that store patterns for seconds
 - the problem: spiking neurons forget in tens of ms
 - my answer: working memory in SNNs with polychronous chains and heterogeneous delays
 - slides + references on my web-site; first, why model memory?
 
 
-*Hello*, and thanks for the invitation. I'm Laurent Perrinet from the Institut de Neurosciences de la Timone in Marseille. Today I will speak about modelling memory: neural networks that store patterns for seconds. This is hard, because spiking neurons forget very fast, within tens of milliseconds. So how can we stretch this memory by two orders of magnitude? I will present a method to build *working memory in spiking neural networks, using chains of polychronous groups with heterogeneous delays*. The slides are on my web-site, with the references. But first, why is memory so important? Let's start with a philosophical insight.
+*Hello*, and thanks to the Forum Numerica organisers for the invitation. I'm Laurent Perrinet from the Institut de Neurosciences de la Timone in Marseille. Today I will speak about modelling memory: neural networks that store patterns for seconds. This is hard, because spiking neurons forget very fast, within tens of milliseconds. So how can we stretch this memory by two orders of magnitude? I will present a method to build *working memory in spiking neural networks, using chains of polychronous groups with heterogeneous delays*. The slides are on my web-site, with the references. But first, why is memory so important? Let's start with a philosophical insight.
 
 
 - time scale: the membrane time constant of cortical neurons is typically 10-20 ms, whereas working memory operates over seconds (Baddeley, 2003; Goldman-Rakic, 1995)
@@ -75,7 +75,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 ## Why Modelling Memory?
 
-{{% fragment %}}{{< figure src="https://laurentperrinet.github.io/talk/2026-11-03-grenoble/featured.png" width="60%" >}}{{% /fragment %}}
+{{% fragment %}}{{< figure src="https://laurentperrinet.github.io/talk/2026-11-09-forum-numerica/featured.png" width="60%" >}}{{% /fragment %}}
 
 {{< speaker_note >}}
 **≈ 2 min 30 s** (without digressions; the story is the longest part of the intro)
@@ -1081,10 +1081,10 @@ To conclude: we built a working memory lasting seconds with spiking neurons that
 
 ---
 
-# [Modelling memory to understand the brain](https://laurentperrinet.github.io/slides/2026-11-03-grenoble/?transition=fade)
-## *[Laurent U Perrinet](https://laurentperrinet.github.io/talk/2026-11-03-grenoble/)*
-### <u>Seminar at Université Grenoble Alpes</u>
-### [2026-11-03]
+# [Modelling memory to understand the brain](https://laurentperrinet.github.io/slides/2026-11-09-forum-numerica/?transition=fade)
+## *[Laurent U Perrinet](https://laurentperrinet.github.io/talk/2026-11-09-forum-numerica/)*
+### <u>Forum Numerica seminar, Université Côte d'Azur</u>
+### [2026-11-09]
 
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
 
@@ -1095,7 +1095,7 @@ Code: [SpikeAI/MNESIS](https://github.com/SpikeAI/MNESIS) · Paper: [arXiv:2604.
 {{< speaker_note >}}
 **≈ 15 s, then questions**
 
-- thank the audience and the hosts
+- thank the audience and the Forum Numerica organisers (room 007 at i3S, and the Zoom audience)
 - code and paper links on the slide
 
 
