@@ -97,3 +97,18 @@
   line-height: 1.4;
   color: #555;
 }
+
+/* Bullet list of next steps under an outline item, styled like the item title;
+   set on the li too because the theme's generic list rules would otherwise win */
+.reveal ol.outline ul {
+  margin: 0.3em 0 0 1.1em;
+  padding: 0;
+}
+
+.reveal ol.outline ul li {
+  margin-top: 0.3em;
+  font-family: var(--r-heading-font);
+  font-size: 0.85em;
+  font-weight: 600;
+  line-height: 1.25;
+}
