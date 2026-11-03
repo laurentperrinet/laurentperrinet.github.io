@@ -46,12 +46,4 @@ event: Seminar at Université Grenoble Alpes
 
 * Paper: {{< cite page="publication/jeremie-25" view="4" >}}
 
-{{< figure src="/talk/2025-12-12-main/where_1.jpg" width="95%" >}}
-
-{{< figure src="/talk/2025-12-12-main/where_2.jpg" width="95%" >}}
-
-{{< figure src="/talk/2025-12-12-main/where_3.jpg" width="95%" >}}
-
-{{< figure src="/talk/2025-12-12-main/where_4.jpg" width="95%" >}}
-
 {{< figure src="/talk/2025-12-12-main/where_5.jpg" width="95%" >}}
