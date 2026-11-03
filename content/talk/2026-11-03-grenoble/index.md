@@ -27,6 +27,9 @@ categories:
 - Computer Vision
 - NeuroAI & Machine Learning
 - Visual Neuroscience
+links:
+- name: Slides
+  url: https://laurentperrinet.github.io/2025-12-13_Perrinet-talk-MAIN2025
 tags:
 - computer-vision
 - deep-learning
