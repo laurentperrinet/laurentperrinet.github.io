@@ -50,6 +50,8 @@ type: slides
 
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
+Paper: [arXiv:2604.14096](https://arxiv.org/abs/2604.14096) · Code: [SpikeAI/MNESIS](https://github.com/SpikeAI/MNESIS) 
+
 {{< speaker_note >}}
 **≈ 45 s**
 
