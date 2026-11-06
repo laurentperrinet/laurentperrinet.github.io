@@ -774,9 +774,9 @@ These three curves summarise the same manipulations with the recall score. On th
 ## Results: free replay of periodic motifs
 
 <div class="r-stack">
-{{< figure src="https://github.com/SpikeAI/MNESIS/raw/COMMIT/figures/periodic_scores_0.svg" width="80%" >}}
-{{% fragment %}}{{< figure src="https://github.com/SpikeAI/MNESIS/raw/COMMIT/figures/periodic_scores_1.svg" width="80%" >}}{{% /fragment %}}
-{{% fragment %}}{{< figure src="https://github.com/SpikeAI/MNESIS/raw/COMMIT/figures/periodic_scores.svg" width="80%" >}}{{% /fragment %}}
+{{< figure src="https://github.com/SpikeAI/MNESIS/raw/ /figures/periodic_scores_0.svg" width="80%" >}}
+{{% fragment %}}{{< figure src="https://github.com/SpikeAI/MNESIS/raw/7cc3e79bd13230c5415d0371566a5620bb947e04/figures/periodic_scores_1.svg" width="80%" >}}{{% /fragment %}}
+{{% fragment %}}{{< figure src="https://github.com/SpikeAI/MNESIS/raw/7cc3e79bd13230c5415d0371566a5620bb947e04/figures/periodic_scores.svg" width="80%" >}}{{% /fragment %}}
 </div>
 
 {{< speaker_note >}}
@@ -841,7 +841,6 @@ Let us look inside the network. This is the histogram of the weights after learn
 - the number of delays $D$ and of neurons $N$ matter most: the recall needs enough spikes per context window
 - the number of stored patterns hardly matters (up to 26 tested)
 
-
 Finally, the role of the parameters, varied one at a time. The score grows with the number of neurons and with the number of delays, and decreases only slowly with the duration of the patterns. What matters is the number of spikes in a context window, which is the number of neurons times the number of delays times the spike probability. Increasing the delays is the most economical way to raise it.
 
 
@@ -874,6 +873,8 @@ So far the patterns were random. Can such a network store activity that resemble
 - three cases: travelling waves, a chaotic trajectory (Lorenz attractor), and text
 {{< /speaker_note >}}
 
+
+<!-- 
 ---
 
 ## Applications to neuroscience: travelling waves
@@ -913,13 +914,14 @@ This figure shows the transitions between waves: [TODO: describe, e.g. the netwo
 
 - TODO: say what is on the axes and what the transition probabilities mean
 - link with the retrieval slide: the same network holds several motifs
-{{< /speaker_note >}}
+{{< /speaker_note >}} 
+-->
 
 ---
 
 ## Applications to neuroscience: Lorenz attractor
 
-{{< video src="https://github.com/SpikeAI/MNESIS/raw/06c5537e11dbddb7508ae607a9490890739c4cfc/figures/lorenz_chaotic_raw.mp4" autoplay="yes" loop="yes" >}}
+{{< video src="https://github.com/SpikeAI/MNESIS/raw/4f5ad04d9f4c8403004b322aca5d41a98bcb7b1d/figures/lorenz_chaotic_code_decoding.svg" autoplay="yes" loop="yes" >}}
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -939,26 +941,7 @@ A harder target is a chaotic trajectory: the Lorenz attractor, encoded as spikes
 
 ## Applications to neuroscience: Lorenz attractor
 
-{{< figure src="https://github.com/SpikeAI/MNESIS/raw/06c5537e11dbddb7508ae607a9490890739c4cfc/figures/lorenz_chaotic_decoding_XYZ.svg" width="60%" >}}
-
-{{< speaker_note >}}
-**≈ 30 s**
-
-- decoding of X, Y, Z from the spikes of the network
-- compared with the original trajectory
-
-
-To check, we decode the X, Y and Z coordinates from the spikes produced by the network, and compare them with the original trajectory.
-
-
-- TODO: say how well they match, and after how long they diverge
-{{< /speaker_note >}}
-
----
-
-## Applications to neuroscience: Lorenz attractor
-
-{{< video src="https://github.com/SpikeAI/MNESIS/raw/06c5537e11dbddb7508ae607a9490890739c4cfc/figures/lorenz_chaotic_decoding.mp4" autoplay="yes" loop="yes" >}}
+{{< video src="https://github.com/SpikeAI/MNESIS/raw/4f5ad04d9f4c8403004b322aca5d41a98bcb7b1d/figures/lorenz_chaotic_decoding.mp4" autoplay="yes" loop="yes" >}}
 
 {{< speaker_note >}}
 **≈ 20 s**
@@ -971,6 +954,25 @@ In three dimensions, the decoded trajectory shows that the network replays the b
 
 
 - the replay stays on the attractor even when the exact trajectory is lost (to check)
+{{< /speaker_note >}}
+
+---
+
+## Applications to neuroscience: Lorenz attractor
+
+{{< figure src="https://github.com/SpikeAI/MNESIS/raw/4f5ad04d9f4c8403004b322aca5d41a98bcb7b1do/figures/lorenz_chaotic_decoding.svg" width="60%" >}}
+
+{{< speaker_note >}}
+**≈ 30 s**
+
+- decoding of X, Y, Z from the spikes of the network
+- compared with the original trajectory
+
+
+To check, we decode the X, Y and Z coordinates from the spikes produced by the network, and compare them with the original trajectory.
+
+
+- TODO: say how well they match, and after how long they diverge
 {{< /speaker_note >}}
 
 ---
@@ -1055,7 +1057,7 @@ An intermediate case: a few errors at the start, then the network recovers and c
 
 <!-- no-branding -->
 
-## Modelling memory to understand the brain: Conclusion
+## Modelling memory to understand the brain 
 
 <ol class="outline">
   <li class="fragment"><strong>Efficient initialisation and learning</strong><span>Next:</span><ul><li>local</li><li>event-based learning</li></ul></li>
