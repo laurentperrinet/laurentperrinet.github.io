@@ -921,7 +921,8 @@ This figure shows the transitions between waves: [TODO: describe, e.g. the netwo
 
 ## Applications to neuroscience: Lorenz attractor
 
-{{< video src="https://github.com/SpikeAI/MNESIS/raw/4f5ad04d9f4c8403004b322aca5d41a98bcb7b1d/figures/lorenz_chaotic_code_decoding.svg" autoplay="yes" loop="yes" >}}
+{{< figure src="https://github.com/SpikeAI/MNESIS/raw/4f5ad04d9f4c8403004b322aca5d41a98bcb7b1d/figures/lorenz_chaotic_code_decoding.svg" width="60%" >}}
+
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -941,7 +942,7 @@ A harder target is a chaotic trajectory: the Lorenz attractor, encoded as spikes
 
 ## Applications to neuroscience: Lorenz attractor
 
-{{< video src="https://github.com/SpikeAI/MNESIS/raw/4f5ad04d9f4c8403004b322aca5d41a98bcb7b1d/figures/lorenz_chaotic_decoding.mp4" autoplay="yes" loop="yes" >}}
+{{< video src="https://github.com/SpikeAI/MNESIS/raw/4f5ad04d9f4c8403004b322aca5d41a98bcb7b1d/figures/orenz_chaotic_prediction_decoding.mp4" autoplay="yes" loop="yes" >}}
 
 {{< speaker_note >}}
 **≈ 20 s**
@@ -949,7 +950,7 @@ A harder target is a chaotic trajectory: the Lorenz attractor, encoded as spikes
 - decoded trajectory in 3D
 - the network replays the butterfly-shaped attractor
 
-
+ 
 In three dimensions, the decoded trajectory shows that the network replays the butterfly-shaped attractor.
 
 
@@ -960,7 +961,8 @@ In three dimensions, the decoded trajectory shows that the network replays the b
 
 ## Applications to neuroscience: Lorenz attractor
 
-{{< figure src="https://github.com/SpikeAI/MNESIS/raw/4f5ad04d9f4c8403004b322aca5d41a98bcb7b1do/figures/lorenz_chaotic_decoding.svg" width="60%" >}}
+{{< figure src="https://github.com/SpikeAI/MNESIS/raw/4f5ad04d9f4c8403004b322aca5d41a98bcb7b1d/figures/lorenz_chaotic_decoding.svg" width="60%" >}}
+
 
 {{< speaker_note >}}
 **≈ 30 s**
@@ -1092,7 +1094,7 @@ To conclude: we built a working memory lasting seconds with spiking neurons that
 
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
-Code: [SpikeAI/MNESIS](https://github.com/SpikeAI/MNESIS) · Paper: [arXiv:2604.14096](https://arxiv.org/abs/2604.14096)
+Paper: [arXiv:2604.14096](https://arxiv.org/abs/2604.14096) · Code: [SpikeAI/MNESIS](https://github.com/SpikeAI/MNESIS) 
 
 {{< speaker_note >}}
 **≈ 15 s, then questions**
