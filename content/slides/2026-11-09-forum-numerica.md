@@ -383,8 +383,7 @@ However, if the timing of the presynaptic spikes forms a *spiking motif*, such t
 {{< /speaker_note >}}
 
 ---
-
-## Heterogeneous delays: detecting a spiking motif
+## Detecting spiking motifs using a HD-SNN
 
 <iframe src="https://spikeai.github.io/MNESIS/HD-SNN.html" width="100%" height="550" frameborder="0" allowfullscreen></iframe>
 
@@ -558,10 +557,10 @@ Here is the model. The input current to neuron $j$ is the sum, over all neurons 
 ## Methods: weight initialisation
 
 {{% fragment %}}
-- $$ \mathbf{W} \mathbf{C} \approx \mathbf{S} $$
+$$ \mathbf{W} \mathbf{C} \approx \mathbf{S} $$
 {{% /fragment %}}
 {{% fragment %}}
-$$ w_{j, i, d} = \frac{1}{N \cdot D \cdot p_A} \sum_{\mu=1}^{M} \sum_{t=D+1}^{T} s_i^{\mu}(t-d) \cdot \bigl( s_{j}^{\mu}(t) - \beta \cdot s_{j}^{\mu}(t-1) \bigr) $$
+$$ \begin{aligned} w_{j, i, d} &= \frac{1}{N \cdot D \cdot p_A} \sum_{\mu=1}^{M} \sum_{t=D+1}^{T} s_i^{\mu}(t-d) \cr &\qquad \cdot \bigl( s_{j}^{\mu}(t) - \beta \cdot s_{j}^{\mu}(t-1) \bigr) \end{aligned} $$
 {{% /fragment %}}
 {{% fragment %}}
 <small>$\mathbf{S}$: target spikes, $\mathbf{C}$: context (spikes of the $D$ preceding time steps), $M$: number of target motifs (index $\mu$), $T$: duration of a motif (time steps), $p_A$: average spike probability per neuron and per time step, $\beta$: membrane decay constant.</small>
@@ -744,7 +743,7 @@ Here only a fraction of the neurons receive the trigger. This is pattern complet
 
 <div class="r-hstack" style="gap: 0.1rem;">
   <div style="flex: 1; margin: 0; text-align: center; display: grid;">
-    <div class="fragment fade-out" data-fragment-index="0" style="grid-area: 1 / 1;">{{< figure src="https://github.com/SpikeAI/MNESIS/raw/827a6d88fd31196347cce007832f3311a065df18/figures/p_flip_score_raw.svg" height="550" >}}</div>
+    <div class="fragment fade-out" data-fragment-index="0" style="grid-area: 1 / 1;">{{< figure src="https://github.com/SpikeAI/MNESIS/raw/4f5ad04d9f4c8403004b322aca5d41a98bcb7b1d/figures/p_flip_score_raw.svg" height="550" >}}</div>
     <div class="fragment" data-fragment-index="0" style="grid-area: 1 / 1;">{{< figure src="https://github.com/SpikeAI/MNESIS/raw/827a6d88fd31196347cce007832f3311a065df18/figures/p_flip_score.svg" height="550" >}}</div>
   </div>
   <div style="flex: 1; margin: 0; text-align: center;">

@@ -47,9 +47,17 @@
   .reveal div {
     font-size: 80%;
     color: black;
-    text-align: center; 
+    text-align: center;
   }
-  
+
+/* The theme sets `vertical-align: top` on every descendant of <small>, whereas KaTeX relies on
+   the default baseline alignment (except for .vlist and .vlist-s, which set their own): without
+   this rule, the sub/superscripts of inline maths in a <small> legend float above the line. */
+.reveal small .katex,
+.reveal small .katex *:not(.vlist):not(.vlist-s) {
+  vertical-align: baseline;
+}
+
 /* Numbered columns for outline / conclusion slides: <ol class="outline"><li><strong>Title</strong><span>subtitle</span></li></ol> */
 .reveal ol.outline {
   --outline-accent: #2a6f97;
