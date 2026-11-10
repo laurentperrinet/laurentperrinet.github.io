@@ -43,7 +43,7 @@ type: slides
 
 # [Modelling memory to understand the brain](https://laurentperrinet.github.io/slides/2026-11-09-forum-numerica/?transition=fade)
 ## *[Laurent U Perrinet](https://laurentperrinet.github.io/talk/2026-11-09-forum-numerica/)*
-### <u>Forum Numerica seminar, Université Côte d'Azur</u>
+### <u>[Forum Numerica seminar, Université Côte d'Azur](https://ds4h.univ-cotedazur.eu/research-and-labs/forum-numerica-seminar-series/forum-numerica-laurent-perrinet-cnrs-aix-marseille-university-modelling-memory-to-understand-the-brain)</u>
 ### [2026-11-09]
 
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
@@ -83,8 +83,8 @@ Paper: [arXiv:2604.14096](https://arxiv.org/abs/2604.14096) · Code: [SpikeAI/MN
 **≈ 2 min 30 s** (without digressions; the story is the longest part of the intro)
 
 - living systems are amazing, they keep their order from birth to death, without collapsing
-- Shannon: order/disorder is measurable in bits (entropy, mutual information)
 - 2nd law: random collisions -> entropy grows (gas in a box with a hole)
+- Shannon: order/disorder is measurable in bits (entropy, mutual information)
 - Maxwell's demon: a sorter that uses information to undo it = needs a memory
 - the baby piling up blocks is a demon (and he pays the bill: he eats)
 - Crick: the mind is the behaviour of nerve cells -> let's model them
@@ -1088,7 +1088,7 @@ To conclude: we built a working memory lasting seconds with spiking neurons that
 
 # [Modelling memory to understand the brain](https://laurentperrinet.github.io/slides/2026-11-09-forum-numerica/?transition=fade)
 ## *[Laurent U Perrinet](https://laurentperrinet.github.io/talk/2026-11-09-forum-numerica/)*
-### <u>Forum Numerica seminar, Université Côte d'Azur</u>
+### <u>[Forum Numerica seminar, Université Côte d'Azur](https://ds4h.univ-cotedazur.eu/research-and-labs/forum-numerica-seminar-series/forum-numerica-laurent-perrinet-cnrs-aix-marseille-university-modelling-memory-to-understand-the-brain)</u>
 ### [2026-11-09]
 
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
