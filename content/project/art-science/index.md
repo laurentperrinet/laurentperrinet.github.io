@@ -7,7 +7,8 @@ tags:
 - research-interests
 summary: L'art permet de dépasser la rigidité requise par les normes académiques.
   C'est aussi un moyen d'expression et de communication. Une collaboration avec Étienne
-  Rey.
+  Rey, des installations immersives aux commandes publiques de 2026 (Villeurbanne,
+  Créon).
 
 filters:
   projects: art-science

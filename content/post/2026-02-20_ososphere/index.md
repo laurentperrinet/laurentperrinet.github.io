@@ -30,7 +30,7 @@ summary: À la croisée des arts plastiques et de l'architecture, Étienne Rey e
 {{% callout note %}}
 Issue d'une collaboration avec le Dr [Laurent Perrinet](/author/laurent-u-perrinet/) (INT, Institut de Neurosciences de la Timone), qui consiste à élaborer un algorithme graphique propice à faire apparaître des figures visuelles, la série *Variable Density, Delaunay* explore l'émergence de la texture d'un espace optimisé selon des ordonnancements de bulles ou de cristaux.
 Pour l'exposition de l'Ososphère, se déploie ainsi une distribution aléatoire de points ; ceux-ci sont connectés selon des règles de rapports de tension. Une manière de faire converser le lieu avec les œuvres qui y trouvent place.
-Sélection de réalisations : [Tropiques (2013) et Space Odyssey (2015-2024)](/post/2013-10-10_tropique/), [Trame Elasticité (2016)](/post/2018-04-10_trames/), [Turbulences (2018)](/post/2018-01-20_turbulences/), [Instabilités et Delaunay (2019)](/post/2021-10-04_interstices/), Azur (2028).
+Sélection de réalisations : [Tropiques (2013) et Space Odyssey (2015-2024)](/post/2013-10-10_tropique/), [Trame Elasticité (2016)](/post/2018-04-10_trames/), [Turbulences (2018)](/post/2018-01-20_turbulences/), [Instabilités et Delaunay (2019)](/post/2021-10-04_interstices/), [Apparitions transitoires (2026)](/post/2026-10-24_apparitions-transitoires/), [Horizon commun (2026)](/post/2026-10-24_horizon-commun/), Azur (2028).
 {{% /callout %}}
 
 {{< figure src="643545855_18444436261109562_1480440487903792518_n.jpg" title="Étienne Rey, *Variable Density, série Delaunay*. Crédit image : Étienne Rey." alt="Variable Density, série Delaunay by Étienne Rey." >}}

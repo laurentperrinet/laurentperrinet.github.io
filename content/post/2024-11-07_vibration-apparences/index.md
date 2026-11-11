@@ -36,7 +36,7 @@ Le travail d’Étienne Rey met en relation des phénomènes naturels et physiqu
 {{% callout note %}}
 Depuis 2011, Étienne Rey collabore avec le Dr [Laurent Perrinet](/author/laurent-u-perrinet/), de l’[Institut de Neurosciences de la Timone](https://www.int.univ-amu.fr/). Ensemble, ils explorent le domaine de la perception à l’intersection de leurs disciplines respectives, en combinant science et art pour développer de nouvelles approches perceptives.
 
-Sélection de réalisations : [Tropiques (2013) et Space Odyssey (2015-2024)](/post/2013-10-10_tropique/), [Trame Elasticité (2016)](/post/2018-04-10_trames/), [Turbulences (2018)](/post/2018-01-20_turbulences/), [Instabilités et Delaunay (2019)](/post/2021-10-04_interstices/), Azur (2028).
+Sélection de réalisations : [Tropiques (2013) et Space Odyssey (2015-2024)](/post/2013-10-10_tropique/), [Trame Elasticité (2016)](/post/2018-04-10_trames/), [Turbulences (2018)](/post/2018-01-20_turbulences/), [Instabilités et Delaunay (2019)](/post/2021-10-04_interstices/), [Apparitions transitoires (2026)](/post/2026-10-24_apparitions-transitoires/), [Horizon commun (2026)](/post/2026-10-24_horizon-commun/), Azur (2028).
 {{% /callout %}}
 
 {{< figure src="2024-11-08_provence.png" title="Encart dans *La Provence* du 8 novembre 2024." alt="Press clipping from La Provence, November 8, 2024." >}}
