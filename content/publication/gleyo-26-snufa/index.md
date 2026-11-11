@@ -30,4 +30,6 @@ tags:
 links:
 - name: URL
   url: https://laurentperrinet.github.io/publication/gleyo-26-snufa/
+- name: YouTube
+  url: https://youtu.be/HK7Q22MZE6E?si=j4ZWUvSt-tQRmXCP&t=587
 ---
