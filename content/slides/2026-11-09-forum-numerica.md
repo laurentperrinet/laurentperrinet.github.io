@@ -192,7 +192,7 @@ So what about spiking neurons? The *outline* of the talk is as follows. First, I
 - so let's explore spiking neural networks (SNNs)
 
 
-These models work, but at a high price in energy: training a large model takes megawatt-hours, whereas the brain runs on about twenty watts. The brain computes with spikes: all-or-none events, sparse in time, so energy is spent only when something happens. This is why I want to explore spiking neural networks, or SNNs.
+These models work, but at a high price in energy: training GPT-3 took about 1,300 megawatt-hours, whereas the brain runs on about twenty watts, that is about 14 megawatt-hours over eighty years. So one training run costs roughly ninety human lifetimes of brain energy. The brain computes with spikes: all-or-none events, sparse in time, so energy is spent only when something happens. This is why I want to explore spiking neural networks, or SNNs.
 
 
 
@@ -200,7 +200,6 @@ These models work, but at a high price in energy: training a large model takes m
 - training cost: Patterson et al. (2021) estimate about 1,300 MWh for GPT-3 (check before quoting)
 - Roy, Jaiswal & Panda (2019), *Towards spike-based machine intelligence with neuromorphic computing*, Nature 575:607-617
 - hardware exploiting sparse spikes: Loihi (Intel), SpiNNaker, TrueNorth (IBM)
-- TODO: pick one concrete energy comparison for this audience
 {{< /speaker_note >}}
 
 ---
@@ -423,9 +422,7 @@ Here the 128 inputs fire as background noise, and each of the 5 output neurons l
 - next slide: a live demo of this chain
 
 
-We have just seen that delays turn a temporal pattern into a coincidence. Now let us close the loop: in a recurrent network, the synapses act on the same population.
-TODO: say it's going back to the roiginal Izhikevich recurrent architecture but...
- Deviating from Izhikevich, we define motifs such that, given one context window, the green shaded area, the network predicts the spikes at the next time step. This creates a new context, and a new prediction: the motifs chain, and the pattern is sustained much longer than the membrane time constant. Let me show how this looks in a simulation.
+We have just seen that delays turn a temporal pattern into a coincidence. Now let us close the loop: in a recurrent network, the synapses act on the same population. This takes us back to Izhikevich's original recurrent architecture, but with a twist: instead of letting groups emerge from random activity, we define motifs such that, given one context window, the green shaded area, the network predicts the spikes at the next time step.
 
 
 - the context window has the length of the longest delay: $D = 41$ time steps of 1 ms
@@ -443,20 +440,19 @@ TODO: say it's going back to the roiginal Izhikevich recurrent architecture but.
 {{< speaker_note >}}
 **≈ 2 min**
 
-1. show the raw raster of the 100 neurons, then slow it down so the individual spikes become visible
-2. pause with `space`, then press `c` to show a chain and `d` to show its delays
-3. press `n` several times to step through to the next spikes
-4. press `space` again to make it dynamic again
+1. press `s` repeatedly: the caption says what is shown (raw raster, slow down, zoom to 3 x 41 ms)
+2. next presses: pause on a spike, chain mode, then the prediction in 3 steps (next spike and its 41 ms window, delays, window moves)
+3. keep pressing `s`: a second prediction, then `n` steps with the delays
+4. last presses of `s`: play (the chain unrolls by itself), then reset
 
 
-This is the recurrent network of the previous slide, as a toy of 100 neurons. At first it looks like noise: a raster of random spikes. Let me slow it down: now we see individual spikes. I pause, and show a chain: a group of neurons firing in a precise order, and the delays that make their spikes converge on the next neuron at the same time. Each group is the context window that predicts the next one. Let me step to the next spikes: this group triggers the next one, and so on. If I let it run again, the pattern keeps itself going for much longer than the 10 to 20 milliseconds of a single neuron. So the question becomes: how do we build, and learn, such chains in a large network?
+This is the recurrent network of the previous slide, as a toy of 100 neurons. At first it looks like noise: a raster of random spikes. Let me slow it down: now we see individual spikes. I pause, and show a chain: a group of neurons firing in a precise order, and the delays that make their spikes converge on the next neuron at the same time. Each group is the context window that predicts the next one. Let me step to the next spikes: this group triggers the next one, and so on. The pattern lasts three seconds, about 1,500 spikes, and each of them is predicted by the 41 milliseconds before it. If I let it run again, the pattern keeps itself going for much longer than the 10 to 20 milliseconds of a single neuron. So the question becomes: how do we build, and learn, such chains in a large network?
 
 
 - demo: https://spikeai.github.io/MNESIS/izhikevich.html (code in the MNESIS repository)
-TODO: the keys are now simplified and I should use "s" in sequence
-- keys: `space` pause/play, `c` chain, `d` delays, `n` next spikes
+- keys: `s` next step of the scenario (shift + `S`: previous step); `space` pause/play, `c` chain, `d` delays, `n` / `b` next / back spike, `k` / `l` slower / faster, `?` help
 - backup if the iframe does not load: open the link in a new tab, or use a screenshot
-- TODO: say how many groups are in the chain and how long the chain lasts
+- the chain: about 1,500 groups (one per spike: 512 neurons x 1 Hz x 3 s), replayed in a loop of 3 s
 {{< /speaker_note >}}
 
 </section>
@@ -516,16 +512,15 @@ As you saw in the demo, a context window predicts the next spikes, which creates
 - implementation in snnTorch: delays add one more level in the unrolled graph (delay line, bottom)
 - network: 1024 neurons, 41 delays, 16 patterns
 - task: repeat *exactly* all the spikes of a random target (0.16 spikes/s/neuron)
-- loss: F1-score; fast-sigmoid surrogate gradient; about 25 min (256 epochs)
+- loss: F1-score; fast-sigmoid surrogate gradient; about 25 min (256 epochs), a refinement of the analytical initialisation
 
 
-We implement the network with snnTorch. The delays add just another level of propagation in the unrolled computational graph, here represented by the delay line at the bottom. The network has 1024 neurons, 41 delays, and has to learn 16 different patterns. The task is to repeat exactly all the spikes of a randomly drawn target, with a mean firing rate of 0.16 spikes per second per neuron. The loss is the F1-score, the harmonic mean of recall and precision. With a fast-sigmoid surrogate gradient, the network learns the targets in about 25 minutes, 256 epochs.
+We implement the network with snnTorch. The delays add just another level of propagation in the unrolled computational graph, here represented by the delay line at the bottom. The network has 1024 neurons, 41 delays, and has to learn 16 different patterns. The task is to repeat exactly all the spikes of a randomly drawn target, with a mean firing rate of 0.16 spikes per second per neuron. The loss is the F1-score, the harmonic mean of recall and precision. With a fast-sigmoid surrogate gradient, training takes about 25 minutes, 256 epochs. But as we will see, most of the work is already done by the initialisation of the weights: it alone reaches an F1-score of about 0.8, and training only refines it.
 
 
 - Eshraghian et al. (2023), *Training spiking neural networks using lessons from deep learning*, Proceedings of the IEEE 111(9):1016-1054 (snnTorch)
 - $p_A = 1.6 \cdot 10^{-4}$ per 1 ms time step, i.e. 0.16 Hz: a pattern of 1 s has about 160 spikes in total
 - the spike is a non-differentiable step: the surrogate gradient replaces its derivative with a smooth one in the backward pass (Neftci, Mostafa & Zenke, 2019, IEEE Signal Processing Magazine)
-- TODO: reconcile "25 min of training" with the paper's statement that the analytical initialisation alone reaches F1 about 0.8 and training changes the readout by 0.17% (check which is the best story)
 {{< /speaker_note >}}
 
 ---
@@ -599,14 +594,14 @@ However, convergence is quite slow, in particular because some regions of the we
 ## Results
 
 {{< speaker_note >}}
-**≈ 15 s**
+**≈ 25 s**
 
 - does it work?
+- difficulty: the baby's tower, one misplaced block and it collapses
 - test the recall of the stored patterns, and how robust it is
 
 
-Does it work? We now test the network on its ability to recall the stored patterns, and on how robust this recall is.
-TODO: hiughlight how difficult it is with the analogy of the cubes for the baby
+Does it work? Remember the baby and his blocks. Our task is just as unforgiving: the network has to replay a random pattern of about 160 spikes, in the right order, over a full second. One misplaced block and the tower collapses; likewise, one wrong spike changes the next context window, and the error propagates along the chain. We test the recall of the stored patterns, and how robust it is.
 
 - plan: recall of one target -> retrieval among 16 -> robustness (noise, shorter trigger, fewer neurons) -> periodic replay -> analysis of the network
 {{< /speaker_note >}}
@@ -618,18 +613,18 @@ TODO: hiughlight how difficult it is with the analogy of the cubes for the baby
 {{< figure src="https://github.com/SpikeAI/MNESIS/raw/main/figures/pattern_full.svg" width="100%" >}}
 
 {{< speaker_note >}}
-**≈ 40 s**
+**≈ 50 s**
 
 - one target pattern: raster of random spikes, neurons (y) vs time (x)
 - the network is triggered with the first time steps, then runs on its own
 - content-addressable memory (as in Hopfield networks), for spatio-temporal patterns
 
 
-Here is one of the target patterns: a raster plot of randomly drawn spikes, with neurons on the vertical axis and time on the horizontal axis, over one second. The network is triggered with the first time steps of the pattern, the first context window, and then it runs on its own.
+Here is one of the target patterns: a raster plot of randomly drawn spikes, with neurons on the vertical axis and time on the horizontal axis, over one second. The network is triggered with the first time steps of the pattern, the first context window, and then it runs on its own. The two dashed lines delimit the trigger window, 41 milliseconds, the length of a context window. The green crosses are the spikes given to the network, with a few errors, and the red circles are the target: the network is left alone after the blue line.
 
 - $N = 1024$ neurons, $T = 1000$ steps (1 s), about 160 spikes in total at 0.16 Hz per neuron
 - the pattern is random: no structure to exploit, a hard test for a memory
-- TODO: describe the trigger window on the figure
+- trigger: window of D = 41 ms between the two dashed lines; green crosses = noisy trigger spikes, red circles = target
 {{< /speaker_note >}}
 
 ---
@@ -639,15 +634,15 @@ Here is one of the target patterns: a raster plot of randomly drawn spikes, with
 {{< figure src="https://github.com/SpikeAI/MNESIS/raw/main/figures/target.svg" width="100%" >}}
 
 {{< speaker_note >}}
-**≈ 45 s**
+**≈ 55 s**
 
 - comparison between the target and the activity produced by the network
 - the spikes of the motif are reproduced well beyond the trigger, over 1 s, much longer than the membrane time constant
 - mean F1 about 0.8; 9 of 16 motifs replayed exactly (F1 = 1)
+- transition: the same network holds the 16 patterns (next slide: retrieval)
 
 
-Here is the comparison between the target and the activity produced by the network. The network reproduces the spikes of the motif well beyond the trigger, over one second, much longer than the membrane time constant. Over the 16 motifs, the mean F1-score is about 0.8, and nine motifs are replayed exactly.
-TODO: says that this workd for multiple patterns for the transition
+Here is the comparison between the target and the activity produced by the network. The network reproduces the spikes of the motif well beyond the trigger, over one second, much longer than the membrane time constant. Over the 16 motifs, the mean F1-score is about 0.8, and nine motifs are replayed exactly. And this is not true for one pattern only: the same network stores all 16 patterns at once, and a trigger recalls the right one. Let us see how.
 
 
 - paper §3.1 (check): 9 of 16 motifs have F1 = 1 under a noisy trigger ($p_\mathrm{flip} = 0.01$)
@@ -666,7 +661,7 @@ TODO: says that this workd for multiple patterns for the transition
 **≈ 1 min**
 
 - the same network stores 16 patterns; the beginning of one recalls that one and not the others
-- TODO explain F1 score: harmonic mean of recall and precision
+- to quantify we use the F1 score: harmonic mean of recall and precision
 - 12 of 16 retrieved cleanly (mean F1 0.96); the 4 gap motifs collapse after 200-600 steps
 
 
@@ -687,19 +682,20 @@ Now the same network stores 16 different patterns. Triggering it with the beginn
 {{< figure src="https://github.com/SpikeAI/MNESIS/raw/827a6d88fd31196347cce007832f3311a065df18/figures/p_flip_target.svg" width="100%" >}}
  
 {{< speaker_note >}}
-**≈ 45 s**
+**≈ 55 s**
 
-- robustness to noise: a fraction of the trigger spikes is flipped (removed or added)
+- robustness to noise: a fraction of the bins of the trigger window is redrawn (spikes removed or added)
+- the window holds only about 7 spikes: at 25%, about 2 are missing and about 2 are spurious
 - graceful degradation: 25% flips still give F1 about 0.53
 - below 0.1 only beyond 60% noise
 
 
-How robust is the recall? We flip a fraction of the spikes of the trigger, removing or adding spikes. The recall degrades gracefully: with a quarter of the spikes flipped, the F1-score is still about 0.5, and it falls below 0.1 only beyond 60% of noise.
+How robust is the recall? We redraw a fraction of the bins of the trigger window, so that spikes are removed and as many are added. The window holds only about seven spikes, so with a quarter of the bins redrawn, about two spikes are missing and about two are spurious. The recall degrades gracefully: with a quarter of the bins redrawn, the F1-score is still about 0.5, and it falls below 0.1 only beyond 60% of noise.
 
 
 - paper §3.4 (check): at $p_\mathrm{flip} = 0.25$, F1 about 0.531 (precision 0.731, recall 0.419)
 - the cascade model fits the curve (RMS error about 0.04)
-- TODO: say what $p_\mathrm{flip}$ means in terms of the number of wrong spikes in the trigger
+- $p_\mathrm{flip}$: each of the $N \times D$ bins of the trigger window is redrawn with probability $p_\mathrm{flip}$ and filled with a spike with probability $p_A$; a window holds $p_A N D \approx 6.7$ spikes, so $p_\mathrm{flip} = 0.01$ gives about 0.07 spike removed and 0.07 added, and $p_\mathrm{flip} = 0.25$ about 1.7 removed and 1.7 added
 {{< /speaker_note >}}
 
 ---
@@ -737,11 +733,11 @@ Here we shorten the trigger: the network sees fewer time steps of the pattern be
 - how many neurons are needed?
 
 
-Here only a fraction of the neurons receive the trigger. This is pattern completion: the network fills in the missing neurons from a partial cue. The score degrades smoothly with the fraction of missing neurons, and the recall remains good for a substantial fraction.
+Here only a fraction of the neurons receive the trigger. This is pattern completion: the network fills in the missing neurons from a partial cue. The score degrades smoothly with the fraction of missing neurons. With one neuron in eight silenced, the F1-score is still about 0.76; it falls to about 0.5 when 30% are silent, and the network only fails completely when most of the neurons of the trigger are inactive.
 
 
 - paper §3.4 (check): with 128 of 1024 neurons silenced (N/8), F1 about 0.76; F1 levels off near 0.2 beyond N/2 silenced; cascade model RMS error about 0.06
-- TODO: check that the figure shows the same manipulation as the paper's lesion experiment, and state the minimal fraction
+- fractions: F1 about 0.76 with 128 of 1024 silenced (paper); about 0.5 near 300 silenced, i.e. about 30% (read from the figure, not stated in the paper); plateau at about 0.2 beyond N/2 silenced, a finite-size effect (2 of the 16 motifs keep igniting), and F1 = 0 near 870 silenced
 {{< /speaker_note >}}
 
 ---
@@ -762,21 +758,20 @@ Here only a fraction of the neurons receive the trigger. This is pattern complet
 </div>
 
 {{< speaker_note >}}
-**≈ 1 min**
+**≈ 1 min 10 s**
 
 - the same three manipulations summarised by the recall score
 - the first is left: noise in the trigger; 
 - and a simple cascade theory may account for the results 
 - middle: duration of the trigger; right: fraction of neurons in the trigger
-- smooth degradation, no sharp cliff
+- smooth on average; per motif: all-or-none (threshold), except under random flips
 
 
-These three curves summarise the same manipulations with the recall score. On the left, the noise in the trigger; in the middle, the duration of the trigger; on the right, the fraction of neurons in the trigger. In all cases the score degrades smoothly, without a sharp cliff, and a simple cascade model of the chain reproduces the curves.
+These three curves summarise the same manipulations with the recall score. On the left, the noise in the trigger; in the middle, the duration of the trigger; on the right, the fraction of neurons in the trigger. On average the score degrades smoothly, but this hides an all-or-none behaviour: each motif either ignites and is replayed, or it does not, and each one has its own threshold; the smooth mean is the sum of many such steps. A simple cascade model of the chain reproduces the curves.
 
 
 - cascade model: each spike is a test for igniting the next ones; RMS errors 0.042 (spike noise), 0.052-0.055 (truncated trigger), 0.061 (lesion)
 - the fragments reveal the three panels one after the other
-- TODO: confirm the shape of the curves on the figure (smooth or threshold-like?)
 {{< /speaker_note >}}
 
 ---
@@ -790,14 +785,15 @@ These three curves summarise the same manipulations with the recall score. On th
 </div>
 
 {{< speaker_note >}}
-**≈ 1 min 30 s**
+**≈ 1 min 45 s**
 
-- TODO explain how we buyild the periodic motif: the trigger window is copied onto the last $D$ steps, so that the period is 959 milliseconds, about one second
+
+- the last context window is then identical to the trigger window: a faithful replay of the end of the motif triggers its beginning again, the chain closes on itself; trained on a single period of 1000 steps, the network never saw this transition
 - axes only: F1 of each period against time, one period lasts about 1 s (959 ms); one noisy trigger, then 100 periods of free replay (96 s)
 - click 1, p_drop = 0 (data and theory): the score settles on a limit cycle after the first period -> a stable working memory
 - click 2, the other levels (10^-4 to 10^-2): replay decays as predicted by the cascade model (dashed), each spike being a new ignition test
 
-What happens if the chain closes on itself? For a periodic motif, the trigger window is copied onto the last $D$ steps, so that the period is 959 milliseconds, about one second. We give one noisy trigger, and let the network run freely for 100 periods, that is 96 seconds. Without failures, the score settles on a limit cycle after the first period: this is a stable working memory. To test its limits, each emitted spike is dropped with a probability from $10^{-4}$ to $10^{-2}$. The replay then decays, as predicted by the cascade model: each spike is a new ignition test. The mean lifetime goes from about 280 periods down to 2 periods.
+What happens if the chain closes on itself? For a periodic motif, the trigger window is copied onto the last $D$ steps, so that the period is 959 milliseconds, about one second. The last context window is then identical to the trigger window, so a faithful replay of the end of the motif triggers its beginning again, and the chain closes on itself. The network was trained on a single period and never saw this transition. We give one noisy trigger, and let the network run freely for 100 periods, that is 96 seconds. Without failures, the score settles on a limit cycle after the first period: this is a stable working memory. To test its limits, each emitted spike is dropped with a probability from $10^{-4}$ to $10^{-2}$. The replay then decays, as predicted by the cascade model: each spike is a new ignition test. The mean lifetime goes from about 280 periods down to 2 periods.
 
 
 - details: $T - D = 959$ ms; $p_\mathrm{flip} = 0.01$; thin lines = 5 seeds, thick = mean; each period scored ($F_1$) against the frozen motif; survival $\exp(-ht)$ (dashed)
@@ -813,17 +809,16 @@ What happens if the chain closes on itself? For a periodic motif, the trigger wi
 {{< figure src="https://github.com/SpikeAI/MNESIS/raw/827a6d88fd31196347cce007832f3311a065df18/figures/histogram_log.svg" width="80%" >}}
 
 {{< speaker_note >}}
-**≈ 30 s**
+**≈ 50 s**
 
 - histogram of the weights (log scale) after learning
-- TODO: what does the distribution tell us?
-
-
-Let us look inside the network. This is the histogram of the weights after learning, on a logarithmic scale.
-
-
-- TODO: describe the distribution (heavy tails? sparsity? balance of excitation and inhibition?), not found in the text of the paper I could access
+- most weights are close to zero (a sharp peak), a few are strong, with heavy tails of both signs and more excitation than inhibition
 - idea: a few strong weights carry the chain, most are close to zero
+
+
+Let us look inside the network. This is the histogram of the weights after learning, on a logarithmic scale. Most weights are close to zero, a sharp peak, and a few are strong, with heavy tails on both sides: both excitatory and inhibitory synapses, with more excitation. The strongest weights sit on the delayed coincidences of a polychronous group, so that each spike is supported by a handful of synapses. The network is sparse in practice, and pruning the weak synapses could save memory and energy.
+
+
 {{< /speaker_note >}}
 
 ---
@@ -846,13 +841,14 @@ Let us look inside the network. This is the histogram of the weights after learn
 </div>
 
 {{< speaker_note >}}
-**≈ 1 min**
+**≈ 1 min 15 s**
 
 - parameters varied one at a time: duration of patterns, number of neurons, number of delays
+- panels (fragments order): top left $T$, top right $M$, bottom left $N$, bottom right $D$
 - the number of delays $D$ and of neurons $N$ matter most: the recall needs enough spikes per context window
 - the number of stored patterns hardly matters (up to 26 tested)
 
-Finally, the role of the parameters, varied one at a time. The score grows with the number of neurons and with the number of delays, and decreases only slowly with the duration of the patterns. What matters is the number of spikes in a context window, which is the number of neurons times the number of delays times the spike probability. Increasing the delays is the most economical way to raise it.
+Finally, the role of the parameters, varied one at a time. The score decreases only slowly with the duration of the patterns, from 0.97 at 100 milliseconds to 0.78 at one and a half seconds; it does not depend on the number of stored patterns, up to 26; and it rises steeply with the number of neurons, from nothing below 430 to 0.93 at about a thousand, and with the number of delays, from nothing below 15 to 0.86 at 40. What matters is the number of spikes in a context window, which is the number of neurons times the number of delays times the spike probability. Increasing the delays is the most economical way to raise it.
 
 
 - paper §3.6 (check), 10 seeds per condition:
@@ -861,7 +857,6 @@ Finally, the role of the parameters, varied one at a time. The score grows with 
   - $T$: 0.97 at $T = 100$, 0.88 at 945, 0.78 at 1558
   - $M$: F1 between 0.84 and 0.94 for 3 to 26 motifs, no trend (load about 0.59 at $M = 26$)
 - $\lambda_0 = p_A N D$: the mean number of spikes per context window; $D$ and $N$ act through it
-- TODO: map each of the four panels (scan_N_time, scan_N_pattern, scan_N_neuron, scan_num_delay) to the numbers above
 {{< /speaker_note >}}
 
 </section>
@@ -893,18 +888,18 @@ So far the patterns were random. Can such a network store activity that resemble
 {{< video src="https://github.com/SpikeAI/MNESIS/raw/06c5537e11dbddb7508ae607a9490890739c4cfc/figures/TW.mp4" autoplay="yes" width="80%" loop="yes" >}}
 
 {{< speaker_note >}}
-**≈ 45 s**
+**≈ 55 s**
 
 - travelling waves are observed in sensory areas, e.g. visual cortex
-- the target is a wave of activity sweeping the population
-- the network learns to reproduce it
+- the target is a wave of activity sweeping the population, in one of 16 directions
+- the network learns to reproduce it: F1 about 0.92 over one period, about 0.98 over ten periods
 
 
-Travelling waves are observed in sensory areas, for instance in the visual cortex. Here the target is a wave of activity that sweeps across the population, and the network learns to reproduce it.
+Travelling waves are observed in sensory areas, for instance in the visual cortex. Here the 1,024 neurons are laid out on a 32 by 32 grid, and the target is a wave of activity sweeping across it, in one of 16 directions. Over one second, the network reproduces it with an F1-score of about 0.92, and about 0.98 when the wave is replayed ten times in a row.
 
 
 - Muller, Chavane, Reynolds & Sejnowski (2018), *Cortical travelling waves: mechanisms and computational principles*, Nature Reviews Neuroscience 19:255-268
-- TODO: speed and direction of the wave, number of neurons involved, F1 reached
+- source: MotionClouds movie (v = 0.2, spatial frequency 0.15, angular bandwidth 10 degrees) turned into spikes with probability sigmoid(logit(p_A) + 2 x movie), p_A = 1.61e-4; about 216 spikes per 1 s motif
 {{< /speaker_note >}}
 
 ---
@@ -914,16 +909,17 @@ Travelling waves are observed in sensory areas, for instance in the visual corte
 {{< figure src="https://github.com/SpikeAI/MNESIS/raw/ad569d0f974e78c3f7da4a5122499c260ed7fd66/figures/TW_target_transitions.svg" width="60%" >}}
 
 {{< speaker_note >}}
-**≈ 45 s**
+**≈ 55 s**
 
-- transitions between waves
-- TODO: describe the figure
-
-
-This figure shows the transitions between waves: [TODO: describe, e.g. the network switching from one wave to another depending on the trigger].
+- transitions between waves: the 16 waves chained one after the other, about 16 s
+- each wave: a trigger of 41 ms (between the red and the blue dashed lines), then the network runs alone
+- red circles = target, blue crosses = network
 
 
-- TODO: say what is on the axes and what the transition probabilities mean
+Here the 16 waves, one for each direction, are chained one after the other, over 16 seconds. Each time, the network receives only the first 41 milliseconds of a wave, between the red and the blue dashed lines, and then runs alone. The red circles are the target, the blue crosses are the spikes of the network: they almost always sit on a red circle, with one visible error. So the same network holds the 16 waves and switches from one to the next depending on its trigger.
+
+
+- axes: neuron address (0 to 1023) against time step (ms, 0 to about 16,300); 16 waves of 1,000 steps with 10 ms of silence on each side (16 x 1,020 = 16,320 steps)
 - link with the retrieval slide: the same network holds several motifs
 {{< /speaker_note >}} 
 -->
@@ -936,17 +932,21 @@ This figure shows the transitions between waves: [TODO: describe, e.g. the netwo
 
 
 {{< speaker_note >}}
-**≈ 45 s**
+**≈ 1 min**
 
 - a harder target: a chaotic trajectory (Lorenz attractor) encoded as spikes
+- code: 2,048 neurons, each preferring a point of the attractor, with an ON spike on entering it and an OFF spike on leaving it: 4,096 neurons
+- figure: true trajectory (blue) and trajectory decoded from the spikes of the code (red)
 - in a chaotic system, small errors grow exponentially: a demanding test for a memory
 
 
-A harder target is a chaotic trajectory: the Lorenz attractor, encoded as spikes. In a chaotic system small errors grow exponentially, so it is a demanding test for a memory.
+A harder target is a chaotic trajectory: the Lorenz attractor. We encode its position in space with 2,048 neurons, each preferring a point of the attractor, and use an ON spike when a point is entered and an OFF spike when it is left, 4,096 neurons in all. Decoding the spikes gives back the trajectory, here in red, on top of the true one in blue. The network stores two seconds of it. A chaotic system amplifies small errors exponentially, so this is a demanding test for a memory.
 
 
 - Lorenz (1963), *Deterministic nonperiodic flow*, Journal of the Atmospheric Sciences 20:130-141
-- TODO: how the three coordinates are encoded as spikes, and for how long the network replays the trajectory
+- Lorenz: sigma = 10, rho = 28, beta = 8/3, RK4 with dt = 0.01 per 1 ms step; 2,000 steps (+ 41 for the trigger window), about 2 s, that is 20 Lorenz time units
+- code: the nearest of 2,048 centroids, regularly spaced along a very long trajectory of the attractor, is active at each step; ON spike at onset, OFF spike at offset; about 0.8 spike per step; decoding: cumulated (ON - OFF), then weighted mean of the active centroids
+- network: 4,096 neurons, D = 41, 4 trajectories; the notebook reports F1 = 1.000 on the evoked window
 {{< /speaker_note >}}
 
 ---
@@ -982,10 +982,10 @@ In three dimensions, the decoded trajectory shows that the network replays the b
 - compared with the original trajectory
 
 
-To check, we decode the X, Y and Z coordinates from the spikes produced by the network, and compare them with the original trajectory.
+To check, we decode the X, Y and Z coordinates from the spikes produced by the network, in red, and compare them with the original trajectory, in blue. The network follows the two lobes of the attractor, with some noise from the decoding, but a single error is enough to send the trajectory on a long excursion away from it: this is the signature of a chaotic system.
 
 
-- TODO: say how well they match, and after how long they diverge
+- figure: true trajectory (blue) and trajectory decoded from the network (red), no time axis
 {{< /speaker_note >}}
 
 ---
@@ -1011,7 +1011,6 @@ Now text. The characters of *Alice in Wonderland* are encoded as spikes. The net
 
 - Carroll (1865), *Alice's Adventures in Wonderland* (public domain)
 - each line appears as a fragment: trigger, real, prediction
-- TODO: how characters are encoded (one-hot over neurons?) and how many characters are stored
 {{< /speaker_note >}}
 
 ---
@@ -1035,7 +1034,6 @@ This is a failure case: the network gets stuck repeating the same character. The
 
 
 - a loop is an attractor of the chain; it plays the role of the gap failures seen on random patterns
-- TODO: how often this happens
 {{< /speaker_note >}}
 
 ---
@@ -1059,7 +1057,6 @@ An intermediate case: a few errors at the start, then the network recovers and c
 
 
 - links with the robustness to noise seen before
-- TODO: how many characters were wrong before recovery
 {{< /speaker_note >}}
 
 </section>
