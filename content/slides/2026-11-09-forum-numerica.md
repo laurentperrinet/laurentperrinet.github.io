@@ -83,20 +83,20 @@ Paper: [arXiv:2604.14096](https://arxiv.org/abs/2604.14096) · Code: [SpikeAI/MN
 **≈ 2 min 30 s** (without digressions; the story is the longest part of the intro)
 
 - living systems are amazing, they keep their order from birth to death, without collapsing
-- 2nd law: random collisions -> entropy grows (gas in a box with a hole)
+- 2nd law: random collisions -> entropy grows (gas in two boxes with a hole distribute pressure)
 - Shannon: order/disorder is measurable in bits (entropy, mutual information)
 - Maxwell's demon: a sorter that uses information to undo it = needs a memory
 - the baby piling up blocks is a demon (and he pays the bill: he eats)
 - Crick: the mind is the behaviour of nerve cells -> let's model them
 
 
-Living systems are amazing: from birth to death, they do not collapse into disorder, they maintain their structure and function over time. Yet quantifying this order is surprisingly simple: thanks to Claude Shannon, a system can be described by the information it holds, in bits, through its entropy or the mutual information between its parts, which are immensely useful in neuroscience. Now, the second law of thermodynamics says that the entropy of an isolated system never decreases, because its parts interact randomly, and this gives time its arrow. Imagine a box with two compartments, one full of gas, one empty. Open a small hole between them: by random collisions the gas spreads into both compartments, and entropy increases. Can we go back? Maxwell imagined a little demon sitting at the hole, who lets a molecule through only when it is heading to the left. Order emerges again, and the entropy of the gas decreases! The trick is that the demon uses information: it must observe each molecule and remember what it saw. Knowing dependencies across space and time is what lets a system locally resist disorder, and holding such information over time is what we call memory. Here is a picture of such a Maxwell demon: this baby is piling up blocks. He knows, and that is why he is happy, that if he does not act, the second law will win and the tower will collapse. And unlike Maxwell's demon, he pays his thermodynamic bill: he eats. As Francis Crick put it, we are "no more than the behavior of a vast assembly of nerve cells and their associated molecules". So let's model them, and see how memory is modelled today.
+Living systems are amazing: from birth to death, they do not collapse into disorder, they maintain their structure and function over time. Yet quantifying this order is surprisingly simple: thanks to Claude Shannon, a system can be described by the information it holds, in bits, through its entropy or the mutual information between its parts, which are immensely useful in neuroscience. Now, the second law of thermodynamics says that the entropy of an isolated system never decreases, because its parts interact randomly, and this gives absolute, newtonian time its arrow. Imagine a box with two compartments, one full of gas, one empty. Open a small hole between them: by random collisions the gas spreads into both compartments, and entropy increases. Can we go back? Maxwell imagined a little demon sitting at the hole, who lets a molecule through only when it is heading to the left. Order emerges again, and the entropy of the gas decreases! The trick is that the demon uses information: it must observe each molecule and remember what it saw. Knowing dependencies across space and time is what lets a system locally resist disorder, and holding such information over time is what we call memory. Here is a picture of such a Maxwell demon: this baby is piling up blocks. He knows, and that is why he is happy, that if he does not act, the second law will win and the tower will collapse. And unlike Maxwell's demon, he pays his thermodynamic bill: he eats. As Francis Crick put it, we are "no more than the behavior of a vast assembly of nerve cells and their associated molecules". So let's model them, and see how memory is modelled today.
 
 
 - the second law concerns isolated systems; living systems are open and export entropy (heat) to their environment (Schrödinger, 1944, *What is Life?*): they do not violate it
+- Shannon (1948), *A Mathematical Theory of Communication*, Bell System Technical Journal 27:379-423
 - the demon does not violate it either: Szilard (1929) and Brillouin (1951) showed that measuring costs entropy; Landauer (1961) and Bennett (1982) showed that the cost is paid when the demon's memory is erased, at least k T ln 2 per bit. The demon's memory is the key
 - Maxwell (1867, letter to Tait); the original demon sorts fast from slow molecules, the one-way door is the Szilard-style simplification
-- Shannon (1948), *A Mathematical Theory of Communication*, Bell System Technical Journal 27:379-423
 - experimental demon: Toyabe et al. (2010), Nature Physics 6:988-992
 - Crick (1994), *The Astonishing Hypothesis*: "You, your joys and your sorrows, your memories and your ambition, your sense of personal identity and free will, are in fact no more than the behavior of a vast assembly of nerve cells and their associated molecules." The previous wording was a paraphrase, not a verbatim quote
 {{< /speaker_note >}}
@@ -195,7 +195,8 @@ So what about spiking neurons? The *outline* of the talk is as follows. First, I
 These models work, but at a high price in energy: training a large model takes megawatt-hours, whereas the brain runs on about twenty watts. The brain computes with spikes: all-or-none events, sparse in time, so energy is spent only when something happens. This is why I want to explore spiking neural networks, or SNNs.
 
 
-- brain power: about 20 W (commonly quoted figure); cortical neurons fire a few Hz on average, so activity is very sparse
+
+- brain power: about 20 W (commonly quoted figure); cortical neurons fire below 1 Hz on average (Lennie), so activity is very sparse
 - training cost: Patterson et al. (2021) estimate about 1,300 MWh for GPT-3 (check before quoting)
 - Roy, Jaiswal & Panda (2019), *Towards spike-based machine intelligence with neuromorphic computing*, Nature 575:607-617
 - hardware exploiting sparse spikes: Loihi (Intel), SpiNNaker, TrueNorth (IBM)
@@ -312,33 +313,12 @@ Do we see such precise motifs in the brain, at the scale of seconds? Here is an 
 - each connection: a weight and a delay (travel time of the spike)
 
 
-The core idea of the method follows the polychronous groups defined by Izhikevich in 2006. Suppose three presynaptic neurons are connected to two postsynaptic neurons, with certain weights and certain delays. A delay is the time it takes for a spike to travel from one neuron to the next.
+The core idea of the method follows the polychronous groups defined by Izhikevich in 2006 which we simplify first by framing it as an input/output neural network. Suppose three presynaptic neurons are connected to two postsynaptic neurons, with certain weights and certain delays. A delay is the time it takes for a spike to travel from one neuron to the next.
 
 
 - Izhikevich (2006), *Polychronization: computation with spikes*, Neural Computation 18(2):245-282
 - axonal conduction delays in the cortex range from about 1 to several tens of ms
 - Izhikevich's claim: the number of coexisting polychronous groups can far exceed the number of neurons, hence a large potential memory capacity
-{{< /speaker_note >}}
-
----
-
-## Spiking Neural Networks: Polychronization
-
-{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/c509f781ac0d6d874c92e54080d6f96a520c32a7/figures/HSD.gif" title="Review on Precise Spiking Motifs ([Grimaldi *et al*, 2023](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))." width="80%" >}}
-
-{{< speaker_note >}}
-**≈ 40 s**
-
-- a neuron with heterogeneous synaptic delays (HSD): each input reaches the soma after its own delay
-- delays shift the incoming spikes: a given temporal pattern arrives *synchronously*
-- the neuron detects a precise spiking motif, not only a firing rate
-
-
-Here is a neuron with heterogeneous synaptic delays: each input reaches the soma after its own delay. These delays shift the incoming spikes in time, so that a given temporal pattern arrives synchronously at the soma. The neuron then acts as a detector of a precise spiking motif, not just of a firing rate.
-
-
-- animation from Grimaldi et al. (2023); same family of ideas as coincidence detection (Jeffress model for sound localisation)
-- a rate code would ignore the order of the spikes; here the order is what matters
 {{< /speaker_note >}}
 
 ---
@@ -382,6 +362,29 @@ However, if the timing of the presynaptic spikes forms a *spiking motif*, such t
 - the same neurons, with another timing, activate another neuron (e.g. $b_2$): neurons are shared across groups
 {{< /speaker_note >}}
 
+
+
+---
+
+## Spiking Neural Networks: Polychronization
+
+{{< figure src="https://github.com/SpikeAI/2022_polychronies-review/raw/c509f781ac0d6d874c92e54080d6f96a520c32a7/figures/HSD.gif" title="Review on Precise Spiking Motifs ([Grimaldi *et al*, 2023](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/))." width="80%" >}}
+
+{{< speaker_note >}}
+**≈ 40 s**
+
+- a neuron with heterogeneous synaptic delays (HSD): each input reaches the soma after its own delay
+- delays shift the incoming spikes: a given temporal pattern arrives *synchronously*
+- the neuron detects a precise spiking motif, not only a firing rate
+
+
+Here is such a neuron with heterogeneous synaptic delays: each input reaches the soma after its own delay. These delays shift the incoming spikes in time, so that a given temporal pattern arrives synchronously at the soma. The neuron then acts as a detector of a precise spiking motif, not just of a firing rate.
+
+
+- animation from Grimaldi et al. (2023); same family of ideas as coincidence detection (Jeffress model for sound localisation)
+- a rate code would ignore the order of the spikes; here the order is what matters
+{{< /speaker_note >}}
+
 ---
 ## Detecting spiking motifs using a HD-SNN
 
@@ -420,7 +423,9 @@ Here the 128 inputs fire as background noise, and each of the 5 output neurons l
 - next slide: a live demo of this chain
 
 
-We have just seen that delays turn a temporal pattern into a coincidence. Now let us close the loop: in a recurrent network, the synapses act on the same population. Deviating from Izhikevich, we define motifs such that, given one context window, the green shaded area, the network predicts the spikes at the next time step. This creates a new context, and a new prediction: the motifs chain, and the pattern is sustained much longer than the membrane time constant. Let me show how this looks in a simulation.
+We have just seen that delays turn a temporal pattern into a coincidence. Now let us close the loop: in a recurrent network, the synapses act on the same population.
+TODO: say it's going back to the roiginal Izhikevich recurrent architecture but...
+ Deviating from Izhikevich, we define motifs such that, given one context window, the green shaded area, the network predicts the spikes at the next time step. This creates a new context, and a new prediction: the motifs chain, and the pattern is sustained much longer than the membrane time constant. Let me show how this looks in a simulation.
 
 
 - the context window has the length of the longest delay: $D = 41$ time steps of 1 ms
@@ -448,6 +453,7 @@ This is the recurrent network of the previous slide, as a toy of 100 neurons. At
 
 
 - demo: https://spikeai.github.io/MNESIS/izhikevich.html (code in the MNESIS repository)
+TODO: the keys are now simplified and I should use "s" in sequence
 - keys: `space` pause/play, `c` chain, `d` delays, `n` next spikes
 - backup if the iframe does not load: open the link in a new tab, or use a screenshot
 - TODO: say how many groups are in the chain and how long the chain lasts
@@ -600,7 +606,7 @@ However, convergence is quite slow, in particular because some regions of the we
 
 
 Does it work? We now test the network on its ability to recall the stored patterns, and on how robust this recall is.
-
+TODO: hiughlight how difficult it is with the analogy of the cubes for the baby
 
 - plan: recall of one target -> retrieval among 16 -> robustness (noise, shorter trigger, fewer neurons) -> periodic replay -> analysis of the network
 {{< /speaker_note >}}
@@ -616,10 +622,10 @@ Does it work? We now test the network on its ability to recall the stored patter
 
 - one target pattern: raster of random spikes, neurons (y) vs time (x)
 - the network is triggered with the first time steps, then runs on its own
+- content-addressable memory (as in Hopfield networks), for spatio-temporal patterns
 
 
 Here is one of the target patterns: a raster plot of randomly drawn spikes, with neurons on the vertical axis and time on the horizontal axis, over one second. The network is triggered with the first time steps of the pattern, the first context window, and then it runs on its own.
-
 
 - $N = 1024$ neurons, $T = 1000$ steps (1 s), about 160 spikes in total at 0.16 Hz per neuron
 - the pattern is random: no structure to exploit, a hard test for a memory
@@ -641,6 +647,7 @@ Here is one of the target patterns: a raster plot of randomly drawn spikes, with
 
 
 Here is the comparison between the target and the activity produced by the network. The network reproduces the spikes of the motif well beyond the trigger, over one second, much longer than the membrane time constant. Over the 16 motifs, the mean F1-score is about 0.8, and nine motifs are replayed exactly.
+TODO: says that this workd for multiple patterns for the transition
 
 
 - paper §3.1 (check): 9 of 16 motifs have F1 = 1 under a noisy trigger ($p_\mathrm{flip} = 0.01$)
@@ -659,7 +666,7 @@ Here is the comparison between the target and the activity produced by the netwo
 **≈ 1 min**
 
 - the same network stores 16 patterns; the beginning of one recalls that one and not the others
-- content-addressable memory (as in Hopfield networks), for spatio-temporal patterns
+- TODO explain F1 score: harmonic mean of recall and precision
 - 12 of 16 retrieved cleanly (mean F1 0.96); the 4 gap motifs collapse after 200-600 steps
 
 
@@ -758,7 +765,9 @@ Here only a fraction of the neurons receive the trigger. This is pattern complet
 **≈ 1 min**
 
 - the same three manipulations summarised by the recall score
-- left: noise in the trigger; middle: duration of the trigger; right: fraction of neurons in the trigger
+- the first is left: noise in the trigger; 
+- and a simple cascade theory may account for the results 
+- middle: duration of the trigger; right: fraction of neurons in the trigger
 - smooth degradation, no sharp cliff
 
 
@@ -783,6 +792,7 @@ These three curves summarise the same manipulations with the recall score. On th
 {{< speaker_note >}}
 **≈ 1 min 30 s**
 
+- TODO explain how we buyild the periodic motif: the trigger window is copied onto the last $D$ steps, so that the period is 959 milliseconds, about one second
 - axes only: F1 of each period against time, one period lasts about 1 s (959 ms); one noisy trigger, then 100 periods of free replay (96 s)
 - click 1, p_drop = 0 (data and theory): the score settles on a limit cycle after the first period -> a stable working memory
 - click 2, the other levels (10^-4 to 10^-2): replay decays as predicted by the cascade model (dashed), each spike being a new ignition test
@@ -1074,7 +1084,6 @@ An intermediate case: a few errors at the start, then the network recovers and c
 - learning: BPTT is not realistic and compute heavy -> local, event-based learning, optimise the encoding
 - reservoir of memories: could be more realistic -> hierarchical, modular, multi-scale
 - applications to neuroscience: could be more advanced -> neural data, behavioural data, closed-loop experiments
-
 
 To conclude: we built a working memory lasting seconds with spiking neurons that forget in milliseconds, by putting the memory in the delays, with chains of polychronous groups. There are three directions. First, learning: backpropagation through time is not realistic and is compute heavy, so we aim at local, event-based learning, and at optimising the encoding. Second, a reservoir of memories: it can be more realistic, hierarchical, modular and multi-scale. Third, applications to neuroscience, with neural data, behavioural data and closed-loop experiments.
 
