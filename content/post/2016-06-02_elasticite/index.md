@@ -86,3 +86,14 @@ Devant l’œuvre en constante métamorphose, l’alphabet plastique de Vasarely
  * ARCADI
  * La Muse en Circuit. Centre National de Création Musicale
  * CNRS-AMU / INT, Institut de Neurosciences de la Timone
+
+## Fiche technique (Documents d'artistes)
+
+ * *Trame Elasticité*, 2015.
+ * Matériaux : inox poli miroir, aluminium, acier, moteurs, programme temps réel.
+ * Dimensions : 3 × 5 × 1 m.
+ * Coproducteurs et soutiens : Mécènes du Sud, Seconde Nature, Arcadi Île-de-France, CNRS-AMU / INT (Institut de Neurosciences de la Timone, Marseille), DRAC PACA.
+ * Source : [fiche *Trame* sur Documents d'artistes PACA](https://www.documentsdartistes.org/artistes/rey/repro8.html).
+
+{{< figure src="trame-elasticite-1.jpg" title="Étienne Rey, *Trame Elasticité* (2015). © Étienne Rey - ADAGP. Source : Documents d'artistes PACA." alt="Installation Trame Elasticité : une succession de lames de miroir verticales qui reflètent les couleurs de l'environnement." >}}
+{{< figure src="trame-elasticite-3.jpg" title="Étienne Rey, *Trame Elasticité* (2015). © Étienne Rey - ADAGP. Source : Documents d'artistes PACA." alt="Installation Trame Elasticité : des lames de miroir verticales dans lesquelles se reflètent des visiteurs." >}}

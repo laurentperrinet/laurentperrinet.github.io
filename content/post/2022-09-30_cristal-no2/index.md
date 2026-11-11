@@ -26,8 +26,13 @@ L’œuvre questionne notre perception de l’espace et de la profondeur. Elle i
 * Matériaux : miroirs, bois
 
 * Don de l’artiste à l’[Institut de Neurosciences de la Timone](https://www.int.univ-amu.fr/)
+* Collection : INT / CNRS
 
 Source : [fiche du projet sur Ondes Parallèles](https://ondesparalleles.org/projets/cristal-n2-2/?lang=en)
+
+Source complémentaire : [fiche *Cristal n°2 - Arbre théorique* sur Documents d'artistes PACA](https://www.documentsdartistes.org/artistes/rey/repro21.html) (rubrique « Reflexion » : 2014, miroirs, bois, 134 × 91 × 21 cm, collection INT / CNRS).
+
+{{< figure src="cristal-n2-detail.jpg" title="Étienne Rey, *Cristal n°2 - Arbre théorique* (2014), détail. © Étienne Rey - ADAGP. Source : Documents d'artistes PACA." alt="Détail de Cristal n°2 : des plaques de miroir de tailles variées, suspendues et orientées dans plusieurs directions." >}}
 
 ### Voir aussi
 

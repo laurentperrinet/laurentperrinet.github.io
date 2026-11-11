@@ -24,6 +24,11 @@ Ce phénomène est mobilisé dans *Densité flou*, présentée à Avignon en 201
 
 {{< figure src="Avignon-02.jpg" title="Étienne Rey, *Horizon faille - Densité flou* (2019), exposition *Sans gravité - une poétique de l’air*, Ardenome, Avignon. © En revenant de l’expo" alt="Installation Horizon faille - Densité flou by Étienne Rey at Ardenome, Avignon." lightbox="true" >}}
 
+Dans le catalogue de [Documents d'artistes PACA](https://www.documentsdartistes.org/artistes/rey/repro13.html), la série *Flou* est représentée par *Densité - Flou / Série n°1*, un polyptyque de cinq tableaux de 100 × 100 cm.
+
+{{< figure src="densite-flou-1.jpg" title="Étienne Rey, *Densité - Flou / Série n°1*, polyptyque de 5 tableaux de 100 × 100 cm (premier tableau). © Étienne Rey - ADAGP. Source : Documents d'artistes PACA." alt="Premier tableau du polyptyque Densité - Flou : un réseau très dense de lignes claires sur fond sombre." >}}
+{{< figure src="densite-flou-5.jpg" title="Étienne Rey, *Densité - Flou / Série n°1*, polyptyque de 5 tableaux de 100 × 100 cm (cinquième tableau). © Étienne Rey - ADAGP. Source : Documents d'artistes PACA." alt="Cinquième tableau du polyptyque Densité - Flou : un réseau très dense de lignes claires sur fond sombre." >}}
+
 # « Tension superficielle » (2019)
 
 {{< figure src="https://i1.wp.com/www.enrevenantdelexpo.com/wp-content/uploads/2019/05/%C3%89tienne-Rey-Horizon-faille-Tension-superficielle-2019-Sans-gravit%C3%A9-une-po%C3%A9tique-de-l%E2%80%99air-%C3%A0-Ardenome-Avignon-00_1.jpg" title="Étienne Rey, *Horizon faille - Tension superficielle* (2019), exposition *Sans gravité - une poétique de l’air*, Ardenome, Avignon. © En revenant de l’expo" alt="Installation Horizon faille - Tension superficielle by Étienne Rey at Ardenome, Avignon." lightbox="true" >}}
@@ -41,7 +46,7 @@ Ce phénomène est mobilisé dans *Densité flou*, présentée à Avignon en 201
 > Véronique Baton
 
 - Accompagnement réalisation : Atelier Ni et Guillaume Stagnaro.
-- *Variable Density* et *Tension superficielle* en collaboration avec [Laurent Perrinet](/author/laurent-u-perrinet/), chercheur à l’[Institut de Neurosciences de la Timone](https://www.int.univ-amu.fr/) (INT).
+- [*Variable Density*](/post/2026-02-20_ososphere/) et *Tension superficielle* en collaboration avec [Laurent Perrinet](/author/laurent-u-perrinet/), chercheur à l’[Institut de Neurosciences de la Timone](https://www.int.univ-amu.fr/) (INT).
 - Tirage sérigraphique : Atelier Tchikebe.
 
 ## Liens

@@ -51,6 +51,16 @@ summary: Tropique is an immersive installation which puts in link the perception
 
 Accueilli en résidence dans le cadre des résidences de recherche de l’IMéRA pendant 6 mois (3 périodes de 2 mois),et soutenu dans le cadre d'un Atelier de l'!EuroMéditerranée, ce projet est élaboré en collaboration avec des chercheurs. Nous abordons ainsi les questions de la cognition et de la perception de l’espace liées à la vue, à l’audition, et au déplacement, auxquelles nous lierons les questions relatives à la diffusion de phénomènes ondulatoires.
 
+## Fiche technique et crédits (Documents d'artistes)
+
+ * *Tropique*, 2013. Installation in situ (France, Canada).
+ * Matériel : brume, vidéoprojecteur, ordinateurs, capteurs ; dimensions variables.
+ * Équipe : Laurent Perrinet, chercheur en neurosciences à l’INT / CNRS ; Wilfried Wendling, compositeur ; Julien Marro Dauzat, ingénieur, Biogène.
+ * Coproduction : Marseille-Provence 2013 ; IMéRA, Institut méditerranéen de recherches avancées ; GMEM – Centre national de création musicale ; Ososphère / Quatre 4.0 ; Centre des arts d’Enghien-les-Bains ; CNRS / INT, Institut de Neurosciences de la Timone.
+ * Production déléguée : Seconde Nature.
+ * Avec le soutien de la Région PACA et du CNC Dicréam.
+ * Source : [fiche *Tropique* sur Documents d'artistes PACA](https://www.documentsdartistes.org/artistes/rey/repro12.html).
+
 ## news
 
 {{< vimeo 56198653 >}}

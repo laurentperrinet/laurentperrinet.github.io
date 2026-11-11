@@ -26,6 +26,26 @@ Mécènes du Sud invite chaque année un artiste lauréat pour concevoir un stan
 
  - En collaboration avec le chercheur Laurent Perrinet, CNRS-AMU / Institut de Neurosciences de la Timone
 
+## La série *Instabilité*
+
+Dans le catalogue de [Documents d'artistes PACA](https://www.documentsdartistes.org/artistes/rey/repro15.html), la série figure sous la rubrique « Principe de turbulences » :
+
+ * *Instabilité ½*, sérigraphie, 100 × 100 cm.
+ * *Instabilité 1,618*, sérigraphie, 100 × 100 cm (collection particulière).
+ * *Instabilité ½, variation*, sérigraphie, 100 × 100 cm.
+
+> Cette série est issue d’un travail de recherche en cours. Elle est le résultat d’une collaboration avec le Dr Laurent Perrinet, chercheur neuro-scientifique, AMU/CNRS / INT, Institut de Neurosciences de la Timone. L’objet de cette recherche a consisté à élaborer un algorithme graphique propice à faire apparaître des figures visuelles.
+>
+> Les dimensions et l’ordonnancement de la surface optique conduisent notre système visuel à créer des motifs construit[s] par notre cerveau.
+>
+> L’expérience donne à entrevoir des formes que l’on retrouve dans la nature ou les phénomènes naturels ou encore dans les modèles mathématiques de morphogenèse de Turing.
+
+{{< figure src="instabilite-demi.jpg" title="Étienne Rey, *Instabilité ½*, sérigraphie, 100 × 100 cm. © Étienne Rey - ADAGP. Source : Documents d'artistes PACA." alt="Instabilité ½ : sérigraphie d'un réseau régulier de petits points noirs sur fond clair." >}}
+{{< figure src="instabilite-1-618.jpg" title="Étienne Rey, *Instabilité 1,618*, sérigraphie, 100 × 100 cm, collection particulière. © Étienne Rey - ADAGP. Source : Documents d'artistes PACA." alt="Instabilité 1,618 : sérigraphie d'un réseau de petits points noirs sur fond clair." >}}
+{{< figure src="instabilite-demi-variation.jpg" title="Étienne Rey, *Instabilité ½, variation*, sérigraphie, 100 × 100 cm. © Étienne Rey - ADAGP. Source : Documents d'artistes PACA." alt="Instabilité ½, variation : sérigraphie d'un réseau de points jaunes sur fond sombre." >}}
+
+La série *Variable Density* (2018-2019), issue de la même collaboration, a été montrée au ShowRoom Mécènes du Sud à Art-O-Rama en 2018 : voir [Variable Density, série Delaunay](/post/2026-02-20_ososphere/).
+
 ## Links / Liens:
 
  - ART-O-RAMA - http://art-o-rama.fr/en

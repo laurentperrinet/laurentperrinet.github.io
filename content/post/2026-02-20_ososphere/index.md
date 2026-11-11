@@ -37,6 +37,17 @@ Sélection de réalisations : [Tropiques (2013) et Space Odyssey (2015-2024)](/p
 {{< figure src="642495844_18444436183109562_654533462198023062_n.jpg" title="Étienne Rey, *Variable Density, série Delaunay*. Crédit image : Étienne Rey." alt="Variable Density, série Delaunay by Étienne Rey." >}}
 {{< figure src="featured.jpg" title="Étienne Rey, *Variable Density, série Delaunay*. Crédit image : Étienne Rey." alt="Variable Density, série Delaunay by Étienne Rey." >}}
 
+### Fiche technique de la série *Variable Density* (Documents d'artistes)
+
+* *Variable Density*, 2018-2019.
+* Technique : tirage numérique, sérigraphie, verre, bois ; 100 × 100 × 5 cm.
+* Présentation : le catalogue montre une vue d'exposition au ShowRoom Mécènes du Sud, Art-O-Rama, Marseille, 2018 (voir [Instabilité (series) @ Art-O-Rama](/post/2018-09-09_artorama/)). Une pièce est en collection particulière.
+* Origine : travail de recherche en cours, issu d'une collaboration avec le Dr Laurent Perrinet, dont l'objet était d'élaborer un algorithme graphique propice à faire apparaître des figures visuelles.
+* Source : [fiche *Variable density* sur Documents d'artistes PACA](https://www.documentsdartistes.org/artistes/rey/repro17.html).
+
+{{< figure src="variable-density-art-o-rama-2018.jpg" title="Étienne Rey, *Variable Density* (2018-2019), vue d'exposition, ShowRoom Mécènes du Sud, Art-O-Rama, Marseille, 2018. © Étienne Rey - ADAGP ; photo : Jean-Christophe Lett." alt="Visiteurs devant deux cadres de la série Variable Density au ShowRoom Mécènes du Sud, Art-O-Rama 2018." >}}
+{{< figure src="variable-density-collection-particuliere.jpg" title="Étienne Rey, *Variable Density* (2018-2019), collection particulière. © Étienne Rey - ADAGP. Source : Documents d'artistes PACA." alt="Variable Density : réseau dense de cellules polygonales gris clair sur fond blanc." >}}
+
 ### Voir aussi
 
 * [Profil d'Étienne Rey](/author/etienne-rey/)
