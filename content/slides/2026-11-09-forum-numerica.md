@@ -39,8 +39,6 @@ type: slides
 
 <section>
 
-<!-- no-branding -->
-
 # [Modelling memory to understand the brain](https://laurentperrinet.github.io/slides/2026-11-09-forum-numerica/?transition=fade)
 ## *[Laurent U Perrinet](https://laurentperrinet.github.io/talk/2026-11-09-forum-numerica/)*
 ### <u>[Forum Numerica seminar, Université Côte d'Azur](https://ds4h.univ-cotedazur.eu/research-and-labs/forum-numerica-seminar-series/forum-numerica-laurent-perrinet-cnrs-aix-marseille-university-modelling-memory-to-understand-the-brain)</u>
@@ -1064,8 +1062,6 @@ An intermediate case: a few errors at the start, then the network recovers and c
 ---
 
 <section>
-
-<!-- no-branding -->
 
 ## Modelling memory to understand the brain 
 
