@@ -35,3 +35,4 @@ Or, ici plus que nulle part ailleurs, on sait qu’une pédagogie adaptée au mo
 * En savoir plus sur la genèse du projet : {{< cite page="/post/2025-09-23_belair-nofakenews" view="4" >}}
 * Voir le projet de médiation scientifique associé : [Tout public !](/project/tout-public/)
 * Programmation de la séance : [Ciné Plein Air Marseille](https://seances-speciales.fr/erin-brockovich-seule-contre-tous/)
+* Sélection en compétition au Festimaj, puis projection aux RISC 2026 : {{< cite page="/post/2026-12-14_festimaj-nofakenews" view="4" >}}

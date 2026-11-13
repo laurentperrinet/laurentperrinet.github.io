@@ -36,3 +36,8 @@ Cette action est mise en place conjointement par l’association Polly Maggoo (p
 
 2) *Éducation artistique et culturelle.* ***Diagnostic :*** Confrontés dans leur quotidien à un flux d’images et d’informations diffusées via internet et les réseaux sociaux, les jeunes n’ont bien souvent ni le temps ni l’occasion de s’interroger sur ces images, d’en comprendre l’origine, les modes de fabrication et les effets de réception (publicitaires, idéologiques, manipulatoires, ou laissant place au spectateur), et de prendre le recul nécessaire à une démarche critique. 
 > ***Objectifs :*** L’objectif de cet atelier est, d’une part, de faire découvrir aux plus jeunes des œuvres cinématographiques qui, par leur forme originale (documentaire, fiction, film d’artiste), ouvrent une réflexion sur les thématiques du projet ; d’autre part, de les amener, à travers la pratique du cinéma, à prendre conscience des possibilités de manipulation de l’image et du son, afin de les responsabiliser vis-à-vis d’un « message » qu’ils souhaiteraient faire passer sans chercher à l’imposer aux autres, tout en laissant libre cours à leur imaginaire créatif.
+
+### Liens utiles
+
+* Projection en plein air à Marseille, le film sur grand écran : {{< cite page="/post/2026-07-27_belair-nofakenews" view="4" >}}
+* Sélection en compétition au Festimaj, puis projection aux RISC 2026 : {{< cite page="/post/2026-12-14_festimaj-nofakenews" view="4" >}}
