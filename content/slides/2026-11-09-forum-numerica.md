@@ -528,7 +528,7 @@ We implement the network with snnTorch. The delays add just another level of pro
 {{% fragment %}}
 $$ I_j(t) = \sum_{i=1}^{N} \bigl ( \sum_{d=1}^{D} \mathbf{W}_{j, i, d} \cdot s_i(t-d) \bigr ) $$
 $$ u_j(t) = \beta \cdot u_j(t-1) \cdot (1 - s_j(t-1)) + I_j(t) $$
-$$ s_j(t) = \mathbf{H}[u_j(t) \geq \vartheta] $$
+$$ s_j(t) = \mathbf{H}[u_j(t) > \vartheta] $$
 {{% /fragment %}}
 {{% fragment %}}
 <small>$N$: number of neurons, $D$: number of delays (time steps of 1 ms), $\mathbf{W}_{j, i, d}$: weight from neuron $i$ to neuron $j$ with delay $d$, $s_i(t)$: spike (0 or 1) of neuron $i$, $I_j$: input current, $u_j$: membrane potential, $\beta$: membrane decay constant, $\vartheta$: firing threshold, $\mathbf{H}$: Heaviside step function.</small>
