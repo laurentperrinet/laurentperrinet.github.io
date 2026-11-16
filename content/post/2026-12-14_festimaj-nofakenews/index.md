@@ -1,7 +1,7 @@
 ---
 title: '*L’école des Fake News* en compétition au Festimaj #NOFAKENEWS'
-date: 2026-12-14 09:00:00
-publishDate: '2026-11-13T09:00:00Z'
+date: 2026-11-16 09:00:00
+publishDate: '2026-11-16T08:00:00Z'
 authors:
 - laurent-u-perrinet
 featured: false
