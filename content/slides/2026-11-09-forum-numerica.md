@@ -480,6 +480,7 @@ We have seen in the demo that chained polychronous groups sustain a pattern. Let
 ## Methods: chaining Polychronization
 
 {{< figure src="https://github.com/SpikeAI/MNESIS/raw/4bdeec0834c2bee1edf2ede1aaa8ab6829ca3457/figures/izhikevich_rec.svg" title="Working Memory in a Recurrent Spiking Neural Networks ([LP, 2026](https://arxiv.org/abs/2604.14096))" width="100%" >}}
+<!-- TODO: the arXiv reference is kept because Springer was unreachable; decide whether to cite the published version instead -->
 
 {{< speaker_note >}}
 **≈ 30 s**
@@ -508,6 +509,7 @@ As you saw in the demo, a context window predicts the next spikes, which creates
 **≈ 1 min**
 
 - implementation in snnTorch: delays add one more level in the unrolled graph (delay line, bottom)
+<!-- TODO: check the numbers (1024 neurons, 41 delays, 16 patterns, 0.16 spikes/s per neuron, about 25 min for 256 epochs) against arXiv v3 -->
 - network: 1024 neurons, 41 delays, 16 patterns
 - task: repeat *exactly* all the spikes of a random target (0.16 spikes/s/neuron)
 - loss: F1-score; fast-sigmoid surrogate gradient; about 25 min (256 epochs), a refinement of the analytical initialisation
@@ -524,6 +526,7 @@ We implement the network with snnTorch. The delays add just another level of pro
 ---
 
 ## Methods: leaky integrate-and-fire network
+<!-- TODO: check in a browser that the inline-math legend under this heading renders correctly -->
 
 {{% fragment %}}
 $$ I_j(t) = \sum_{i=1}^{N} \bigl ( \sum_{d=1}^{D} \mathbf{W}_{j, i, d} \cdot s_i(t-d) \bigr ) $$
@@ -554,6 +557,7 @@ Here is the model. The input current to neuron $j$ is the sum, over all neurons 
 ---
 
 ## Methods: weight initialisation
+<!-- TODO: check the index order of Eq. 5 (w_{j, i, d} here, W_{j, i, d} in Eq. 1 of the paper) and that the legend matches -->
 
 {{% fragment %}}
 $$ \mathbf{W} \mathbf{C} \approx \mathbf{S} $$
@@ -574,6 +578,7 @@ $$ \begin{aligned} w_{j, i, d} &= \frac{1}{N \cdot D \cdot p_A} \sum_{\mu=1}^{M}
 - per weight: a Hebbian-like rule (delayed presynaptic spikes x deconvolved postsynaptic target)
 
 
+<!-- TODO: the Hebbian-like note is drafted from Eq. 5 by Claude; check its wording against the paper -->
 However, convergence is quite slow, in particular because some regions of the weight space correspond to non-linear regimes, dead or epileptic. So we use a weight initialisation. Each prediction can be seen as a linear prediction of the next time step: the weights times the context should approximately give the target spikes. We concatenate all these equations together, and invert them with a Moore-Penrose pseudo-inverse to get the weights. Written for each weight, this solution is a Hebbian-like rule: a correlation between the delayed presynaptic spikes and the deconvolved postsynaptic target. That is why Hebbian-like learning may incidentally work for training this type of network.
 
 
@@ -863,6 +868,7 @@ Finally, the role of the parameters, varied one at a time. The score decreases o
 
 <section>
 
+<!-- TODO: the gait-pattern application is announced in the abstract but no slide shows it; add a slide or drop the claim -->
 ## Applications to neuroscience
 
 {{< speaker_note >}}
@@ -1098,6 +1104,7 @@ To conclude: we built a working memory lasting seconds with spiking neurons that
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 Paper: [arXiv:2604.14096](https://arxiv.org/abs/2604.14096) · Code: [SpikeAI/MNESIS](https://github.com/SpikeAI/MNESIS) 
+<!-- TODO: add acknowledgements (funding, collaborators) after the links of the last slide -->
 
 {{< speaker_note >}}
 **≈ 15 s, then questions**
