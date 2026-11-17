@@ -1,5 +1,5 @@
 ---
-title: 'Seeing through art: what artworks reveal about the mechanisms of vision'
+title: 'Seeing, Surprising, Understanding: When Art Becomes Neuroscience'
 authors:
 - Laurent U Perrinet
 date: 2026-11-26 09:45:00
@@ -7,40 +7,35 @@ publishDate: '2026-10-23T16:56:41.214606Z'
 publication_types:
 - paper-conference
 publication: '*NeuroDays 2026: The Art of Neuroscience*'
-abstract: 'Art and neuroscience share a common object: perception. Artists have long
-  exploited, often intuitively, the regularities and the limits of our visual system,
-  from the colour contrasts of the Impressionists to the illusory motion of Op Art.
-  Conversely, vision science has borrowed from art the stimuli that best reveal how
-  the brain constructs what we see. As an introduction to this session, I will review
-  this two-way dialogue from the perspective of computational neuroscience. Starting
-  from visual illusions, I will show how perception can be understood as an active
-  inference process, in which the brain combines noisy sensory evidence with prior
-  expectations about the structure of natural scenes. I will then present fifteen
-  years of collaboration with the visual artist Étienne Rey, in which installations
-  based on light, motion and textures become genuine experimental devices, raising
-  new questions about how we perceive emergence, instability and depth. Finally, at
-  a time when artificial intelligence generates images at scale and blurs our relationship
-  with reality, I will discuss what this dialogue between art and science teaches
-  us about the specificity of biological vision, and the new avenues of research it
-  opens in neuroscience.'
+abstract: 'To open these days devoted to the links between the arts and neuroscience, I will argue that artistic work is a form of research: a quest for knowledge and surprise that shares many features with the scientific approach, particularly in exploring our perception and cognition. I will first revisit a few classic, widely discussed works, looking at them from this specific angle. I will then present a long-standing collaboration with the artist Étienne Rey at the Friche la Belle de Mai, to show in concrete terms how we have brought artistic creation and neuroscience into dialogue.'
+categories:
+- Behavioural Neuroscience
+- Visual Neuroscience
+tags:
+- visual-illusions
 projects:
 - art-science
 links:
+- name: Conference
+  url: https://gisartseduc.hypotheses.org/1632
 - name: LinkedIn
   url: https://www.linkedin.com/posts/art-neuroscience-neurodays-share-7478527209096466433-mPA1/
 - name: URL
   url: https://neurodays2026.sciencesconf.org/resource/page/id/6
 event: 'NeuroDays 2026: The Art of Neuroscience'
+slides: 2026-11-26-neurodays
 ---
 
-* :gb: **Seeing through art: what artworks reveal about the mechanisms of vision** — *Art and neuroscience share a common object: perception. Artists have long exploited, often intuitively, the regularities and the limits of our visual system, from the colour contrasts of the Impressionists to the illusory motion of Op Art. Conversely, vision science has borrowed from art the stimuli that best reveal how the brain constructs what we see. As an introduction to this session, I will review this two-way dialogue from the perspective of computational neuroscience. Starting from visual illusions, I will show how perception can be understood as an active inference process, in which the brain combines noisy sensory evidence with prior expectations about the structure of natural scenes. I will then present fifteen years of collaboration with the visual artist Étienne Rey, in which installations based on light, motion and textures become genuine experimental devices, raising new questions about how we perceive emergence, instability and depth. Finally, at a time when artificial intelligence generates images at scale and blurs our relationship with reality, I will discuss what this dialogue between art and science teaches us about the specificity of biological vision, and the new avenues of research it opens in neuroscience.*
+* :gb: **Seeing, Surprising, Understanding: When Art Becomes Neuroscience** — *To open these days devoted to the links between the arts and neuroscience, I will argue that artistic work is a form of research: a quest for knowledge and surprise that shares many features with the scientific approach, particularly in exploring our perception and cognition. I will first revisit a few classic, widely discussed works, looking at them from this specific angle. I will then present a long-standing collaboration with the artist Étienne Rey at the Friche la Belle de Mai, to show in concrete terms how we have brought artistic creation and neuroscience into dialogue.*
 
-* :fr: **Voir à travers l’art : ce que les œuvres révèlent des mécanismes de la vision** — *L’art et les neurosciences partagent un même objet : la perception. Les artistes ont depuis longtemps exploité, souvent de façon intuitive, les régularités et les limites de notre système visuel, des contrastes colorés des impressionnistes aux mouvements illusoires de l’art optique. Réciproquement, les sciences de la vision ont emprunté à l’art les stimuli qui révèlent le mieux comment le cerveau construit ce que nous voyons. En introduction à cette session, je retracerai ce dialogue à double sens du point de vue des neurosciences computationnelles. En partant des illusions visuelles, je montrerai comment la perception peut se comprendre comme un processus d’inférence active, dans lequel le cerveau combine des informations sensorielles bruitées avec des attentes a priori sur la structure des scènes naturelles. Je présenterai ensuite quinze années de collaboration avec l’artiste plasticien Étienne Rey, où des installations fondées sur la lumière, le mouvement et les textures deviennent de véritables dispositifs expérimentaux, qui soulèvent de nouvelles questions sur notre perception de l’émergence, de l’instabilité et de la profondeur. Enfin, à l’heure où l’intelligence artificielle génère des images en masse et brouille notre rapport au réel, je discuterai de ce que ce dialogue entre art et science nous apprend sur la spécificité de la vision biologique, et des nouvelles pistes de recherche qu’il ouvre en neurosciences.*
+* :fr: **Voir, surprendre, comprendre : quand l’art se fait neuroscience** — *Pour ouvrir ces journées consacrées aux liens entre arts et neurosciences, je défendrai l’hypothèse que le travail artistique est une forme de recherche : une quête de connaissances et de surprises qui partage de nombreux traits avec la démarche scientifique, en particulier dans l’exploration de notre perception et de notre cognition. Je reviendrai d’abord sur quelques œuvres classiques et abondamment commentées, en les regardant sous cet angle précis. Je présenterai ensuite une collaboration au long cours avec l’artiste Étienne Rey à la Friche la Belle de Mai, pour montrer concrètement comment nous avons fait dialoguer création artistique et neurosciences.*
 
 * Invited talk (~50 minutes, followed by ~10 minutes of questions) at NeuroDays 2026: The Art of Neuroscience, Marseille, France, 2026-11-26, 09:45–10:45
 
 * Session "Introduction to Art & Science", Amphitheatre Sciences Naturelles, Aix-Marseille Université, Saint-Charles Campus (3 Place Victor Hugo, 13003 Marseille)
 
 * I am also the local chair of the conference
+
+* NeuroDays is the annual conference organised by the neuroscience PhD students of Aix-Marseille Université (2026-11-26 and 2026-11-27, Saint-Charles Campus). The 2026 edition, "The Art of Neuroscience", explores the interplay between neural processes and artistic practice: the neurobiological bases of creativity, the mechanisms of aesthetic perception, and the role of artistic approaches in research and science communication. See the [description of these days](https://gisartseduc.hypotheses.org/1632) on the blog of the GIS Arts & Éducation
 
 * See the [programme of the conference](https://neurodays2026.sciencesconf.org/resource/page/id/6) and the [announcement on LinkedIn](https://www.linkedin.com/posts/art-neuroscience-neurodays-share-7478527209096466433-mPA1/)
