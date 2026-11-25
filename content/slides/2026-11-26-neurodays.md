@@ -338,21 +338,22 @@ If we ask for the ages of the people, the structure changes again, and the gaze 
 
 ---
 
-## Art & science reveal vision in action
+## Perception as an emergent process
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/92/Cruz-Diez_2013_Grand_Palais_Paris_France.jpg" title="[Carlos Cruz-Diez (2013) Chromosaturation](https://en.wikipedia.org/wiki/Carlos_Cruz-Diez)" width="90%" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Mgmorellet.jpg" title="[François Morellet (1962) Mönchengladbach, Sphère - trames](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Morellet)" width="80%" >}}
 
 {{< speaker_note >}}
-**≈ 45 s** (optional)
+**≈ 1 min**
 
-- Cruz-Diez: rooms of saturated colour
-- the visual system renormalises colour: adaptation made visible
-
-
-Active vision is a recurring theme of kinetic art. Carlos Cruz-Diez immersed visitors in rooms saturated with a single colour. After a few minutes, the colour seems to fade, and when you move to the next room, you see its complement: the visual system constantly renormalises colour, and the artwork makes this adaptation visible.
+- Morellet: centenary of his birth this year (1926-2016)
+- a sphere made of grids: alignments appear and vanish as you move
+- kinetic art: the work exists only through the active perception of the viewer
 
 
-- Cruz-Diez (1923-2019), *Chromosaturation* (first version 1965); shown at the Grand Palais in the exhibition *Dynamo* (2013)
+Another artist of this period is François Morellet, born a century ago, in 1926. This sphere is made of superimposed grids: as you walk around it, alignments appear and vanish. This is kinetic art: the work does not exist on its own, it exists only through the active perception of the viewer. Keep this idea of superimposed grids in mind, we will come back to it with Étienne Rey.
+
+
+- Morellet (1926-2016), co-founder of the GRAV (Groupe de Recherche d'Art Visuel, 1960)
 {{< /speaker_note >}}
 
 ---
@@ -907,21 +908,6 @@ This simulation is based on a model of retinotopy, the map that projects the vis
 - Schwartz (1977), *Spatial mapping in the primate sensory projection: analytic structure and relevance to perception*, Biological Cybernetics 25:181-194, doi:10.1007/bf01885636
 {{< /speaker_note >}}
 
----
-
-## What is vision for: foveal retinotopy
-
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_dolphin.jpg" title="[JN Jérémie, E Daucé and LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
-
-{{< speaker_note >}}
-**≈ 30 s**
-
-- a great diversity of retinotopies across species (density maps)
-- dolphins: one or two high-density areas per eye
-
-
-Note the great diversity of retinotopies across species; we show here maps of photoreceptor density. Dolphins, for instance, may have not one but two high-density areas in each eye.
-{{< /speaker_note >}}
 
 ---
 
@@ -1074,11 +1060,40 @@ With Ede Rancz, at the Mediterranean Institute of Neurobiology, we use such stim
 - Ede Rancz, Institut de Neurobiologie de la Méditerranée (INMED), Marseille; see /author/ede-rancz/
 {{< /speaker_note >}}
 
+
 </section>
 
 ---
 
 <section>
+
+# [Seeing, Surprising, Understanding: When Art Becomes Neuroscience](https://laurentperrinet.github.io/slides/2026-11-26-neurodays/?transition=fade)
+## *[Laurent U Perrinet](https://laurentperrinet.github.io/talk/2026-11-26-neurodays/)*
+### <u>[NeuroDays 2026: The Art of Neuroscience](https://neurodays2026.sciencesconf.org/resource/page/id/6)</u>
+### [2026-11-26]
+![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
+[Art-Sciences](https://laurentperrinet.github.io/project/art-science/) / 
+Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
+
+<small>Thanks to Étienne Rey, Jean-Nicolas Jérémie, Emmanuel Daucé and Ede Rancz, and to CENTURI for the co-supervised PhD project on predictive processing.</small>
+
+{{< speaker_note >}}
+**≈ 2 min, then questions**
+
+- seeing: vision is active and creative
+- surprising: art and science both hunt for what defies expectations
+- understanding: artistic work is a form of research; the dialogue feeds both
+- thanks: Étienne Rey, JN Jérémie, E Daucé, E Rancz; CENTURI
+- embodied cognition (Varela); wish two inspiring days; thank you
+
+
+To sum up. Seeing: vision is not a camera, it is an active and creative process, which constantly makes sense of our senses. Surprising: artists, like scientists, look for what defies our expectations, and these surprises reveal the hidden mechanisms of perception, from Kitaoka's illusions to Yarbus's eye movements. Understanding: artistic work is a form of research, and the dialogue between art and neuroscience feeds both sides; the same grid can be an artwork at the Musée Granet and the input layer of a deep network. As Francisco Varela put it, cognition is embodied: the intelligence of the gaze lies in a body that moves through the world. I thank Étienne Rey, Jean-Nicolas Jérémie, Emmanuel Daucé and Ede Rancz, as well as CENTURI, who support our work on predictive processing. I wish you two inspiring NeuroDays. Thank you, and I am happy to take your questions.
+
+
+- Varela, Thompson & Rosch (1991), *The Embodied Mind: Cognitive Science and Human Experience*, MIT Press
+{{< /speaker_note >}}
+
+---
 
 {{< slide background-video="https://laurentperrinet.github.io/post/2026-10-24_impermanence/A_impermanence.mp4" background-video-loop="true" background-video-muted="true" background-size="contain" background-color="#000" >}}
 
@@ -1111,6 +1126,8 @@ Let me end this journey with a work that you can see right now, a short walk fro
 <video controls data-autoplay muted loop playsinline preload="auto" poster="https://laurentperrinet.github.io/post/2026-10-24_impermanence/E_impermanence.jpg" style="width: 25%; height: 100%; object-fit: cover; margin: 0;"><source src="https://laurentperrinet.github.io/post/2026-10-24_impermanence/E_impermanence.mp4" type="video/mp4"></video>
 </div>
 
+<small>*Souffles terrestres*, Centre de la Vieille Charité, Marseille, 2026-10-24 to 2026-12-13</small>
+
 {{< speaker_note >}}
 **≈ 45 s**
 
@@ -1123,38 +1140,6 @@ Here are four of the sculptures, which I filmed at the Vieille Charité. Nothing
 
 
 - videos: Laurent Perrinet, *Souffles terrestres*, Vieille Charité, 2026
-{{< /speaker_note >}}
-
-</section>
-
----
-
-<section>
-
-# [Seeing, Surprising, Understanding: When Art Becomes Neuroscience](https://laurentperrinet.github.io/slides/2026-11-26-neurodays/?transition=fade)
-## *[Laurent U Perrinet](https://laurentperrinet.github.io/talk/2026-11-26-neurodays/)*
-### <u>[NeuroDays 2026: The Art of Neuroscience](https://neurodays2026.sciencesconf.org/resource/page/id/6)</u>
-### [2026-11-26]
-![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
-[Art-Sciences](https://laurentperrinet.github.io/project/art-science/) / 
-Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
-
-<small>Thanks to Étienne Rey, Jean-Nicolas Jérémie, Emmanuel Daucé and Ede Rancz, and to CENTURI for the co-supervised PhD project on predictive processing.</small>
-
-{{< speaker_note >}}
-**≈ 2 min, then questions**
-
-- seeing: vision is active and creative
-- surprising: art and science both hunt for what defies expectations
-- understanding: artistic work is a form of research; the dialogue feeds both
-- thanks: Étienne Rey, JN Jérémie, E Daucé, E Rancz; CENTURI
-- embodied cognition (Varela); wish two inspiring days; thank you
-
-
-To sum up. Seeing: vision is not a camera, it is an active and creative process, which constantly makes sense of our senses. Surprising: artists, like scientists, look for what defies our expectations, and these surprises reveal the hidden mechanisms of perception, from Kitaoka's illusions to Yarbus's eye movements. Understanding: artistic work is a form of research, and the dialogue between art and neuroscience feeds both sides; the same grid can be an artwork at the Musée Granet and the input layer of a deep network. As Francisco Varela put it, cognition is embodied: the intelligence of the gaze lies in a body that moves through the world. I thank Étienne Rey, Jean-Nicolas Jérémie, Emmanuel Daucé and Ede Rancz, as well as CENTURI, who support our work on predictive processing. I wish you two inspiring NeuroDays. Thank you, and I am happy to take your questions.
-
-
-- Varela, Thompson & Rosch (1991), *The Embodied Mind: Cognitive Science and Human Experience*, MIT Press
 {{< /speaker_note >}}
 
 </section>
@@ -1223,6 +1208,41 @@ Decades later, a new probe photographed the same terrain with a much higher reso
 ## Victor Vasarely
 
 {{< figure src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_LmwCk716jFOMR8cAwmX96DUlrCFEGfgwJVp4SaDvk9AmlGiXA25N9-DViXxGW9zHE2AHBLxo1dVuHUg9TvRn2yEsmt-i_vvNX_h9rBqnnOFVqFUCbnXIPWVWtkv_tqKGcHRMzX4wUJQ/s1600/800px-FondationAix.JPG" title="[Victor Vasarely (1976) Fondation Vasarely, Aix-en-Provence](https://en.wikipedia.org/wiki/Fondation_Vasarely)" width="60%" >}}
+
+---
+
+## What is vision for: foveal retinotopy
+
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_dolphin.jpg" title="[JN Jérémie, E Daucé and LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
+
+{{< speaker_note >}}
+**≈ 30 s**
+
+- a great diversity of retinotopies across species (density maps)
+- dolphins: one or two high-density areas per eye
+
+
+Note the great diversity of retinotopies across species; we show here maps of photoreceptor density. Dolphins, for instance, may have not one but two high-density areas in each eye.
+{{< /speaker_note >}}
+
+---
+
+## Art & science reveal vision in action
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/92/Cruz-Diez_2013_Grand_Palais_Paris_France.jpg" title="[Carlos Cruz-Diez (2013) Chromosaturation](https://en.wikipedia.org/wiki/Carlos_Cruz-Diez)" width="90%" >}}
+
+{{< speaker_note >}}
+**≈ 45 s** (optional)
+
+- Cruz-Diez: rooms of saturated colour
+- the visual system renormalises colour: adaptation made visible
+
+
+Active vision is a recurring theme of kinetic art. Carlos Cruz-Diez immersed visitors in rooms saturated with a single colour. After a few minutes, the colour seems to fade, and when you move to the next room, you see its complement: the visual system constantly renormalises colour, and the artwork makes this adaptation visible.
+
+
+- Cruz-Diez (1923-2019), *Chromosaturation* (first version 1965); shown at the Grand Palais in the exhibition *Dynamo* (2013)
+{{< /speaker_note >}}
 
 ---
 
