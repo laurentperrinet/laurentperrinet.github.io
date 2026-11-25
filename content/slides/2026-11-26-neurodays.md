@@ -8,6 +8,10 @@ categories:
 - Behavioural Neuroscience
 - Visual Neuroscience
 tags:
+- eye-movements
+- foveated-vision
+- log-polar-mapping
+- retinotopy
 - visual-illusions
 projects:
 - art-science
@@ -83,11 +87,11 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 - thesis: artistic practice is a form of research (and vice versa)
 - three words of the title = three steps
 - first: classic, widely discussed works, seen from a specific angle
-- second: a long-standing collaboration with Étienne Rey (Friche la Belle de Mai) focused on action and perception
+- second: an active, long-standing collaboration with Étienne Rey (Friche la Belle de Mai) focused on action and perception
 - third: how this dialogue feeds back into models of vision by modelling the retinotopy of the retina and the visual cortex, and the dynamics of visual processing
 
 
-The title of this talk gives its plan. Seeing: vision is not a camera, it is an active and creative process. Surprising: artists, like scientists, look for what defies our expectations. And understanding: precisely because they surprise us, these works reveal the hidden mechanisms of perception. I will first revisit a few classic, widely discussed works, and look at them from this specific angle: what do they tell us about how we see? Then I will present a long-standing collaboration with the artist Étienne Rey, at the Friche la Belle de Mai, to show in concrete terms how artistic creation and neuroscience can enter into a dialogue. And finally, I will show how this dialogue comes back to the lab, into our models of vision.
+The title of this talk gives its plan. Seeing: vision is not a camera, it is an active and creative process. Surprising: artists, like scientists, look for what defies our expectations. And understanding: precisely because they surprise us, these works reveal the hidden mechanisms of perception. I will first revisit a few classic, widely discussed works, and look at them from this specific angle: what do they tell us about how we see? Then I will present an active, long-standing collaboration with the artist Étienne Rey, at the Friche la Belle de Mai, to show in concrete terms how artistic creation and neuroscience can enter into a dialogue. And finally, I will show how this dialogue comes back to the lab, into our models of vision.
 
 
 - surprise as a driving force of perception and learning: predictive coding (Rao & Ballard, 1999, Nature Neuroscience 2:79-87, doi:10.1038/4580); free energy (Friston, 2010, Nature Reviews Neuroscience 11:127-138, doi:10.1038/nrn2787)
@@ -390,7 +394,7 @@ Felice Varini paints on architecture shapes that only become coherent from a sin
 {{< figure src="https://laurentperrinet.github.io/author/etienne-rey/avatar.jpg" title="[Étienne Rey](https://laurentperrinet.github.io/author/etienne-rey/)" width="35%" >}}
 {{% /fragment %}}
 
-{{% fragment %}}**Hypothesis: artistic practice is a form of research**{{% /fragment %}}
+{{% fragment %}}Hypothesis: <br> **Artistic practice is a form of research**{{% /fragment %}}
 {{% fragment %}}***(and vice versa)***{{% /fragment %}}
 
 {{< speaker_note >}}
