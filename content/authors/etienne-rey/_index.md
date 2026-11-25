@@ -34,6 +34,7 @@ En 2026, deux commandes publiques (1 % artistique) prolongent notre collaboratio
 
 ### Voir aussi
 
+- [Impermanence](/post/2026-10-24_impermanence/) (2026, exposition *Souffles terrestres*)
 - [Apparitions transitoires](/post/2026-10-24_apparitions-transitoires/) (2026)
 - [Horizon commun](/post/2026-10-24_horizon-commun/) (2026)
 - [La vibration des apparences](/post/2024-11-07_vibration-apparences/)
