@@ -1,7 +1,9 @@
 name: Deploy website to GitHub Pages
 
 env:
-  WC_HUGO_VERSION: '0.150.1'
+  WC_HUGO_VERSION: '0.170.1'
+  # Same Dart Sass as on the development machine: Hugo 0.170 no longer bundles LibSass
+  DART_SASS_VERSION: '1.108.2'
   NODE_VERSION: '20'
 
 on:
@@ -55,6 +57,15 @@ jobs:
       with:
         hugo-version: ${{ env.WC_HUGO_VERSION }}
         extended: true
+
+    # Hugo compiles the theme's SCSS by calling the `sass` executable found in PATH
+    - name: Setup Dart Sass
+      run: |
+        curl -fsSL -o dart-sass.tar.gz \
+          "https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
+        tar -xzf dart-sass.tar.gz -C "${RUNNER_TEMP}"
+        rm dart-sass.tar.gz
+        echo "${RUNNER_TEMP}/dart-sass" >> "${GITHUB_PATH}"
 
       # Cache dependencies (Go modules, node_modules) - stable, rarely changes
     - uses: actions/cache@v4
