@@ -45,7 +45,7 @@ type: slides
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
 [Art-Sciences](https://laurentperrinet.github.io/project/art-science/) / 
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
-<!-- TODO: decide whether to add the NeuroDays logo next to the institutional logos -->
+<small>Thanks to Étienne Rey, Jean-Nicolas Jérémie, Emmanuel Daucé and Ede Rancz, and to CENTURI for the co-supervised PhD project on predictive processing.</small>
 
 {{< speaker_note >}}
 **≈ 1 min 30 s**
@@ -399,7 +399,6 @@ Active vision is a recurring theme of kinetic art. Carlos Cruz-Diez immersed vis
 ---
 
 {{< slide background-video="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/Varini.mp4" background-video-loop="true" background-video-muted="true" title="Felice Varini: anamorphosis painted on architecture" >}}
-<!-- TODO: this background video has no caption; add the title and year of the Varini work, and a credit -->
 
 {{< speaker_note >}}
 **≈ 45 s** (optional)
@@ -430,9 +429,6 @@ Felice Varini paints on architecture shapes that only become coherent from a sin
 **Hypothesis: artistic work is a form of research**
 {{% /fragment %}}
 
-<!-- TODO: insist on defending a simple hypothesis: artistic work is a form of research.  -->
-<!-- DONE: the hypothesis now appears as a fragment on the slide and is restated in the note -->
-
 {{< speaker_note >}}
 **≈ 45 s**
 
@@ -454,8 +450,7 @@ Remember my hypothesis: artistic work is a form of research, and this collaborat
 ## When art becomes neuroscience
 
 {{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Étienne Rey (2010) Spectre audiographique](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="100%" >}}
-<!-- TODO: first meeting is the talk of 2010-04-14 (talk/2010-04-14-ondes-paralleles) while the site says "since 2011"; harmonise the start date -->
-<!-- DONE: the note now says that it started in 2010 with this talk and that the regular collaboration dates from 2011, as on the site -->
+
 
 {{< speaker_note >}}
 **≈ 1 min 15 s**
@@ -476,8 +471,6 @@ It all started in 2010, when Étienne invited me to give a talk at the opening o
 ## Vision in action: Tropique
 
 {{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_b.jpg" title="[Étienne Rey, Tropique](https://ondesparalleles.org/projets/tropique-7/)" width="100%" >}}
-<!-- TODO: check the technical figures in the note (six video projectors, twelve Kinects, six Raspberry Pis); the site only gives the room size (20 m x 15 m) and the team -->
-<!-- DONE: the note no longer gives those figures (it says "video projectors, depth sensors, small computers"); the room size and the team match /post/2013-10-10_tropique/ -->
 
 {{< speaker_note >}}
 **≈ 1 min 15 s**
@@ -529,16 +522,13 @@ Please excuse the quality of the video. What you see are blades of light that be
 
 Why the sensors? For interaction. The light responds to the movements of the visitors: each person is surrounded by a luminous aura that follows them. The experience shifts from exteroceptive, looking at the world, to introspective, looking at the effect of one's own presence. Many visitors described it as a hallucinatory experience.
 {{< /speaker_note >}}
-<!-- TODO: Space Odyssey (2015-2024), listed with Tropique on the site, has no image on the site; add a slide if you have one -->
-<!-- DONE: Space Odyssey is mentioned in the reference block of the Tropique note; no slide, since the site has no image of it -->
+
 
 ---
 
 ## Reflection: Cristal N°2
 
 {{< figure src="https://laurentperrinet.github.io/post/2022-09-30_cristal-no2/cristal-n2-detail.jpg" title="[Étienne Rey (2014) Cristal n°2 - Arbre théorique, detail](https://laurentperrinet.github.io/post/2022-09-30_cristal-no2/)" width="70%" >}}
-<!-- TODO: slide added from the works shown on the site; remove it if superfluous -->
-<!-- DONE: kept (decision 2026-11-25); the note is marked "optional", so it can be skipped live -->
 
 {{< speaker_note >}}
 **≈ 45 s** (optional)
@@ -635,8 +625,6 @@ The series Instabilité pushes this principle further. We designed together a gr
 ## Caustics: Turbulences
 
 {{< figure src="https://laurentperrinet.github.io/post/2018-01-20_turbulences/featured.jpg" title="[Étienne Rey (2018) Turbulences](https://laurentperrinet.github.io/post/2018-01-20_turbulences/)" width="80%" >}}
-<!-- TODO: slide added from the works shown on the site; remove it if superfluous (it overlaps with the Caustiques slide of the next section) -->
-<!-- DONE: kept (decision 2026-11-25); the note is marked "optional", so it can be skipped live -->
 
 {{< speaker_note >}}
 **≈ 45 s** (optional)
@@ -656,8 +644,6 @@ With Turbulences, we started to work on caustics, these bright folds of light th
 ## Perception as an emergent process
 
 {{< figure src="https://laurentperrinet.github.io/post/2026-02-20_ososphere/643545855_18444436261109562_1480440487903792518_n.jpg" title="[Étienne Rey (2018-2019) Variable Density, Delaunay series, Ososphère 2026](https://laurentperrinet.github.io/post/2026-02-20_ososphere/)" width="61.8%" >}}
-<!-- TODO: check the year in the caption (2025); the site dates the Variable Density series 2018-2019 and its Ososphère showing 2026-02-20 to 2026-03-08 -->
-<!-- DONE: caption now gives the series dates from the site (2018-2019) and the Ososphère showing (2026), which is the source of the image -->
 
 {{< speaker_note >}}
 **≈ 1 min**
@@ -674,15 +660,11 @@ How do we put the pieces of the puzzle together? In the series Variable Density,
 {{< /speaker_note >}}
 
 
-<!-- DONE: the disabled slide "Horizon faille: Sans gravité" was removed (decision 2026-11-25): its nested TODO closed the outer comment early, so its speaker note leaked onto the Variable Density slide; Densité floue is covered in the next section -->
-
 ---
 
 ## Horizon faille @ Interstice
 
 {{< figure src="https://laurentperrinet.github.io/post/2021-10-04_interstices/featured.jpg" title="[Étienne Rey (2021) Horizon faille, festival Interstice, Caen](https://laurentperrinet.github.io/post/2021-10-04_interstices/)" width="80%" >}}
-<!-- TODO: slide added from the works shown on the site; remove it if superfluous -->
-<!-- DONE: kept (decision 2026-11-25); the note is marked "optional", so it can be skipped live -->
 
 {{< speaker_note >}}
 **≈ 45 s** (optional)
@@ -702,8 +684,6 @@ Horizon faille travelled to Caen in 2021, in the orangery of the botanical garde
 ## Public commissions (2026): Apparitions transitoires
 
 {{< figure src="https://laurentperrinet.github.io/post/2026-10-24_apparitions-transitoires/featured.jpg" title="[Étienne Rey (2026) Apparitions transitoires, campus Doua, Villeurbanne (project view)](https://laurentperrinet.github.io/post/2026-10-24_apparitions-transitoires/)" width="80%" >}}
-<!-- TODO: slide added from the works shown on the site; remove it if superfluous -->
-<!-- DONE: kept (decision 2026-11-25); the note is marked "optional", so it can be skipped live -->
 
 {{< speaker_note >}}
 **≈ 45 s** (optional)
@@ -724,8 +704,6 @@ Our collaboration is now entering public space. Apparitions transitoires, for th
 ## Public commissions (2026): Horizon commun
 
 {{< figure src="https://laurentperrinet.github.io/post/2026-10-24_horizon-commun/featured.jpg" title="[Étienne Rey (2026) Horizon commun, lycée Robert Badinter, Créon (project view)](https://laurentperrinet.github.io/post/2026-10-24_horizon-commun/)" width="80%" >}}
-<!-- TODO: slide added from the works shown on the site; remove it if superfluous -->
-<!-- DONE: kept (decision 2026-11-25); the note is marked "optional", so it can be skipped live -->
 
 {{< speaker_note >}}
 **≈ 45 s** (optional)
@@ -749,8 +727,6 @@ The second commission, Horizon commun, is a course of seven works for a high sch
 <section>
 
 {{< figure src="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" width="50%" >}}
-<!-- TODO: check the claim "a first for contemporary art at the Musée Granet" before saying it -->
-<!-- DONE: neither the note nor the site makes this claim; do not say it -->
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -786,8 +762,6 @@ The Musée Granet is, in a way, Cézanne's museum, and the Montagne Sainte-Victo
 ## La vibration des apparences
 
 {{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/Merleau-Ponty_Sens-et-non-sens.png" title="[Merleau-Ponty, *Le Doute de Cézanne*, in *Sens et non-sens* (1948)](https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/)" width="62%" >}}
-<!-- TODO: the caption links to Étienne Rey's profile; link to the text instead (Le Doute de Cézanne, in Sens et non-sens) or to the exhibition post -->
-<!-- DONE: the caption now names the text and links to the exhibition post, which quotes it -->
 
 {{< speaker_note >}}
 **≈ 1 min**
@@ -819,8 +793,6 @@ But let us start with a virtual tour of the two rooms of the exhibition. Notice 
 ---
 
 {{< slide background-image="https://laurentperrinet.github.io/post/2019-06-22_ardemone/Avignon-02.jpg" height="80%" >}}
-<!-- TODO: this image comes from Ardenome (Avignon, 2019); check whether Densité floue was also shown at the Musée Granet, as the note says -->
-<!-- DONE: the site only documents Densité floue in Avignon (2019), so the note now says so; if it was also in the Granet rooms, say it orally -->
 
 {{< speaker_note >}}
 **≈ 1 min**
@@ -926,8 +898,6 @@ opts = dict(N_rho=N_rho, N_phi=N_phi, N_H=N_H, N_V=N_V,
 def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 
 ```
-<!-- TODO: the signature of retino_grid is not valid Python (arguments without defaults after N_rho=34, N_phi=233); fix it or present the snippet as pseudo-code -->
-<!-- DONE: the arguments without defaults now come first, so the signature is valid Python; the calls use keywords (**opts), so they are unchanged -->
 
 {{< speaker_note >}}
 **≈ 45 s** (optional)
@@ -1059,8 +1029,6 @@ Note the great diversity of retinotopies across species; we show here maps of ph
 ## What is vision for: foveal retinotopy
 
 {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_hallucinations.jpg" title="[JN Jérémie, E Daucé and LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
-<!-- TODO: the April deck mentioned "a beautiful theoretical paper" here without a reference; check that it is Bressloff et al. (2001) -->
-<!-- DONE: the reference block of the note cites Bressloff et al. (2001), the standard theoretical paper on geometric hallucinations through the log-polar map (checked on Crossref); confirm it is the paper you meant in April -->
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -1099,8 +1067,6 @@ This is where art and modelling meet. This figure comes from an essay that Étie
 ## What is vision for: foveal retinotopy
 
 {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/graphical.png" title="[JN Jérémie, E Daucé and LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
-<!-- TODO: check the numbers of the note (80% -> 46% and 76% -> 66% under rotation, 85% vs 71% localisation) against the published version in Vision (2026) -->
-<!-- DONE: checked against the preprint PDF in publication/jeremie-25 (the 66% was the Cartesian networks, not the retinotopic one; localisation is the pointing game). Not yet compared with the published version of Vision 10(2):17 -->
 
 {{< speaker_note >}}
 **≈ 1 min 15 s**
@@ -1206,8 +1172,6 @@ With Ede Rancz, at the Mediterranean Institute of Neurobiology, we use such stim
 ## Art & science reveal vision in action
 
 {{< figure src="https://laurentperrinet.github.io/author/ede-rancz/rancz_free.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/author/ede-rancz/)" height="70%" >}}
-<!-- TODO: the April deck says "funded by an Arthur-Bertin grant" while the site mentions a CENTURI PhD (Hilde Langengen-Teigen); check which funding to acknowledge -->
-<!-- DONE: the last slide acknowledges CENTURI, the only funding documented on the site; Arthur-Bertin is not mentioned until you confirm that it funds this project -->
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -1230,17 +1194,13 @@ The question is the role of neuromodulators in active perception, in terms of pr
 <section>
 
 {{< slide background-video="https://laurentperrinet.github.io/post/2026-10-24_impermanence/A_impermanence.mp4" background-video-loop="true" background-video-muted="true" background-size="contain" background-color="#000" >}}
-<!-- TODO: the videos of this slide and the next one are served from post/2026-10-24_impermanence, which is not committed yet; deploy it before the talk -->
-<!-- DONE: the post is committed and pushed, and the five videos answer HTTP 200 on the site (checked 2026-11-25) -->
-<!-- TODO: the post does not say whether you took part in Impermanence (only "image credit: Laurent Perrinet"); decide how you present your role -->
-<!-- DONE: you are presented as the person who filmed the sculptures (decision 2026-11-25) -->
 
 {{< speaker_note >}}
 **≈ 1 min 15 s**
 
 - last work, on show right now in Marseille: Impermanence (Étienne Rey, 2026)
 - September 2023: a mountainside collapses into a Greenland fjord, weakened by global warming
-- the mega-tsunami turns into a seiche: for nine days, the whole Earth vibrates at a single, perfectly regular frequency, a signal scientists first could not identify
+- the mega-tsunami turns into a seiche: for nine days, the whole Earth vibrates at a single, perfectly regular frequency, a signal scientists first could not identify / science paper by Svennevig et al. (2024)
 - five water sculptures, driven by a mechatronic device; each vibration has a sonic echo; Heraclitus, *panta rhei*
 - free entry at the Vieille Charité until 2026-12-13: go and see it
 
@@ -1251,8 +1211,6 @@ Let me end this journey with a work that you can see right now, a short walk fro
 - *Impermanence* (2026), visual and sound installation (five water sculptures); team: Étienne Rey (visual artist), Max Bruckert (composer), Julien Réveillon and Hakim Hamdani (scientists, CORIA / INSA Rouen Normandie), Manoeuvre (construction), Sylvain Garnavault (mechatronics); project development: Oblique/s; coproduction CHRONIQUES, Station Mir, Ososphère, GMEM; see /post/2026-10-24_impermanence/
 - exhibition *Souffles terrestres* (with Stéphanie Roland), Centre de la Vieille Charité, Marseille, 2026-10-24 to 2026-12-13, Tuesday to Sunday 9:00-18:00, free entry; curators Jean Paul Fourmentraux and Mathieu Vabre
 - the seismic signal had a period of about 92 s: Svennevig et al. (2024), *A rockslide-generated tsunami in a Greenland fjord rang Earth for 9 days*, Science 385:1196-1205, doi:10.1126/science.adm9247
-<!-- TODO: the 92 s period and the Svennevig et al. (2024) reference were cited from memory; check them -->
-<!-- DONE: reference, volume, pages and DOI checked on Crossref; the abstract gives a 10.88 mHz (92 s) signal -->
 {{< /speaker_note >}}
 
 ---
@@ -1260,21 +1218,21 @@ Let me end this journey with a work that you can see right now, a short walk fro
 ## Impermanence
 
 <div class="r-stretch" style="display: flex; width: 100%; gap: 0;">
-<video controls preload="none" playsinline poster="https://laurentperrinet.github.io/post/2026-10-24_impermanence/B1_impermanence.jpg" style="width: 25%; height: 100%; object-fit: cover; margin: 0;"><source src="https://laurentperrinet.github.io/post/2026-10-24_impermanence/B1_impermanence.mp4" type="video/mp4"></video>
-<video controls preload="none" playsinline poster="https://laurentperrinet.github.io/post/2026-10-24_impermanence/B2_impermanence.jpg" style="width: 25%; height: 100%; object-fit: cover; margin: 0;"><source src="https://laurentperrinet.github.io/post/2026-10-24_impermanence/B2_impermanence.mp4" type="video/mp4"></video>
-<video controls preload="none" playsinline poster="https://laurentperrinet.github.io/post/2026-10-24_impermanence/D_impermanence.jpg" style="width: 25%; height: 100%; object-fit: cover; margin: 0;"><source src="https://laurentperrinet.github.io/post/2026-10-24_impermanence/D_impermanence.mp4" type="video/mp4"></video>
-<video controls preload="none" playsinline poster="https://laurentperrinet.github.io/post/2026-10-24_impermanence/E_impermanence.jpg" style="width: 25%; height: 100%; object-fit: cover; margin: 0;"><source src="https://laurentperrinet.github.io/post/2026-10-24_impermanence/E_impermanence.mp4" type="video/mp4"></video>
+<video controls data-autoplay muted loop playsinline preload="auto" poster="https://laurentperrinet.github.io/post/2026-10-24_impermanence/B1_impermanence.jpg" style="width: 25%; height: 100%; object-fit: cover; margin: 0;"><source src="https://laurentperrinet.github.io/post/2026-10-24_impermanence/B1_impermanence.mp4" type="video/mp4"></video>
+<video controls data-autoplay muted loop playsinline preload="auto" poster="https://laurentperrinet.github.io/post/2026-10-24_impermanence/B2_impermanence.jpg" style="width: 25%; height: 100%; object-fit: cover; margin: 0;"><source src="https://laurentperrinet.github.io/post/2026-10-24_impermanence/B2_impermanence.mp4" type="video/mp4"></video>
+<video controls data-autoplay muted loop playsinline preload="auto" poster="https://laurentperrinet.github.io/post/2026-10-24_impermanence/D_impermanence.jpg" style="width: 25%; height: 100%; object-fit: cover; margin: 0;"><source src="https://laurentperrinet.github.io/post/2026-10-24_impermanence/D_impermanence.mp4" type="video/mp4"></video>
+<video controls data-autoplay muted loop playsinline preload="auto" poster="https://laurentperrinet.github.io/post/2026-10-24_impermanence/E_impermanence.jpg" style="width: 25%; height: 100%; object-fit: cover; margin: 0;"><source src="https://laurentperrinet.github.io/post/2026-10-24_impermanence/E_impermanence.mp4" type="video/mp4"></video>
 </div>
 
 {{< speaker_note >}}
 **≈ 45 s**
 
-- click on each video to play it
+- the four videos start by themselves, muted and in a loop; use the controls to unmute one
 - forms are born, deform and vanish: we never see the same thing twice
 - transition: perception as an active process facing an unstable matter
 
 
-Here are four of the sculptures, which I filmed at the Vieille Charité; I will start them one by one. Nothing is fixed: forms are born, deform and vanish in a continuous cycle where water, sound and light answer each other, so that you never see the same thing twice. Faced with such an unstable matter, our perception does what it always does: it actively builds stable forms out of a world in flux. This brings me to my conclusion.
+Here are four of the sculptures, which I filmed at the Vieille Charité. Nothing is fixed: forms are born, deform and vanish in a continuous cycle where water, sound and light answer each other, so that you never see the same thing twice. Faced with such an unstable matter, our perception does what it always does: it actively builds stable forms out of a world in flux. This brings me to my conclusion.
 
 
 - videos: Laurent Perrinet, *Souffles terrestres*, Vieille Charité, 2026
@@ -1295,9 +1253,6 @@ Here are four of the sculptures, which I filmed at the Vieille Charité; I will 
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 <small>Thanks to Étienne Rey, Jean-Nicolas Jérémie, Emmanuel Daucé and Ede Rancz, and to CENTURI for the co-supervised PhD project on predictive processing.</small>
-
-<!-- TODO: add acknowledgements (Étienne Rey, JN Jérémie, E Daucé, E Rancz, funding) on this last slide -->
-<!-- DONE: acknowledgements added above; Arthur-Bertin is not mentioned (unconfirmed funding) -->
 
 {{< speaker_note >}}
 **≈ 2 min, then questions**
