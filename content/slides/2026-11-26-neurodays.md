@@ -36,13 +36,13 @@ slides:
       show: true
       text: © 2026 Laurent U Perrinet
       position: bottom-center
-summary: 'Seeing, Surprising, Understanding: When Art Becomes Neuroscience'
+summary: 'Art, Neuroscience and the Surprise of Seeing'
 type: slides
 ---
 
 <section>
 
-# [Seeing, Surprising, Understanding: When Art Becomes Neuroscience](https://laurentperrinet.github.io/slides/2026-11-26-neurodays/?transition=fade)
+# [Art, Neuroscience and the Surprise of Seeing](https://laurentperrinet.github.io/slides/2026-11-26-neurodays/?transition=fade)
 ## *[Laurent U Perrinet](https://laurentperrinet.github.io/talk/2026-11-26-neurodays/)*
 ### <u>[NeuroDays 2026: The Art of Neuroscience](https://neurodays2026.sciencesconf.org/resource/page/id/6)</u>
 ### [2026-11-26]
@@ -71,12 +71,12 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 ---
 
-## Vision: Seeing, surprising, understanding
+## Vision, Surprise, Understanding
 
 
 <ol class="outline">
-  <li class="fragment"><strong>**Seeing**</strong><span>Vision is an active, creative process</span></li>
-  <li class="fragment"><strong>**Surprising**</strong><span>Art and science both look for what defies our expectations</span></li>
+  <li class="fragment"><strong>**Vision**</strong><span>Seeing is an active, creative process</span></li>
+  <li class="fragment"><strong>**Surprise**</strong><span>Art and science both look for what defies our expectations</span></li>
   <li class="fragment"><strong>**Understanding**</strong><span>Surprises may reveal hidden mechanisms of perception</span></li>
 </ol>
 
@@ -85,13 +85,13 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 **≈ 1 min 30 s**
 
 - thesis: artistic practice is a form of research (and vice versa)
-- three words of the title = three steps
+- the three words = three steps
 - first: classic, widely discussed works, seen from a specific angle
 - second: an active, long-standing collaboration with Étienne Rey (Friche la Belle de Mai) focused on action and perception
 - third: how this dialogue feeds back into models of vision by modelling the retinotopy of the retina and the visual cortex, and the dynamics of visual processing
 
 
-The title of this talk gives its plan. Seeing: vision is not a camera, it is an active and creative process. Surprising: artists, like scientists, look for what defies our expectations. And understanding: precisely because they surprise us, these works reveal the hidden mechanisms of perception. I will first revisit a few classic, widely discussed works, and look at them from this specific angle: what do they tell us about how we see? Then I will present an active, long-standing collaboration with the artist Étienne Rey, at the Friche la Belle de Mai, to show in concrete terms how artistic creation and neuroscience can enter into a dialogue. And finally, I will show how this dialogue comes back to the lab, into our models of vision.
+The plan of this talk fits in three words. Vision: it is not a camera, it is an active and creative process. Surprise: artists, like scientists, look for what defies our expectations. And understanding: precisely because they surprise us, these works reveal the hidden mechanisms of perception. I will first revisit a few classic, widely discussed works, and look at them from this specific angle: what do they tell us about how we see? Then I will present an active, long-standing collaboration with the artist Étienne Rey, at the Friche la Belle de Mai, to show in concrete terms how artistic creation and neuroscience can enter into a dialogue. And finally, I will show how this dialogue comes back to the lab, into our models of vision.
 
 
 - surprise as a driving force of perception and learning: predictive coding (Rao & Ballard, 1999, Nature Neuroscience 2:79-87, doi:10.1038/4580); free energy (Friston, 2010, Nature Reviews Neuroscience 11:127-138, doi:10.1038/nrn2787)
@@ -388,7 +388,7 @@ Felice Varini paints on architecture shapes that only become coherent from a sin
 
 <section>
 
-## When art becomes neuroscience
+## Art and neuroscience in dialogue
 
 {{% fragment %}} 
 {{< figure src="https://laurentperrinet.github.io/author/etienne-rey/avatar.jpg" title="[Étienne Rey](https://laurentperrinet.github.io/author/etienne-rey/)" width="28.6%" >}}
@@ -415,7 +415,7 @@ Remember my hypothesis: artistic practice is a form of research, and vice versa.
 
 ---
 
-## When art becomes neuroscience
+## Art and neuroscience in dialogue
 
 {{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Étienne Rey (2010) Spectre audiographique](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="80.6%" >}}
 
@@ -1138,7 +1138,7 @@ Here are four of the sculptures, which I filmed at the Vieille Charité. Nothing
 
 ---
 
-# [Seeing, Surprising, Understanding: When Art Becomes Neuroscience](https://laurentperrinet.github.io/slides/2026-11-26-neurodays/?transition=fade)
+# [Art, Neuroscience and the Surprise of Seeing](https://laurentperrinet.github.io/slides/2026-11-26-neurodays/?transition=fade)
 ## *[Laurent U Perrinet](https://laurentperrinet.github.io/talk/2026-11-26-neurodays/)*
 ### <u>[NeuroDays 2026: The Art of Neuroscience](https://neurodays2026.sciencesconf.org/resource/page/id/6)</u>
 ### [2026-11-26]
@@ -1151,14 +1151,14 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 {{< speaker_note >}}
 **≈ 2 min, then questions**
 
-- seeing: vision is active and creative
-- surprising: art and science both hunt for what defies expectations
+- vision: seeing is active and creative
+- surprise: art and science both hunt for what defies expectations
 - understanding: artistic practice is a form of research (and vice versa); the dialogue feeds both
 - thanks: Étienne Rey, JN Jérémie, E Daucé, E Rancz; CENTURI
 - embodied cognition (Varela); wish two inspiring days; thank you
 
 
-To sum up. Seeing: vision is not a camera, it is an active and creative process, which constantly makes sense of our senses. Surprising: artists, like scientists, look for what defies our expectations, and these surprises reveal the hidden mechanisms of perception, from Kitaoka's illusions to Yarbus's eye movements. Understanding: artistic practice is a form of research, and vice versa, so the dialogue between art and neuroscience feeds both sides; the same grid can be an artwork at the Musée Granet and the input layer of a deep network. As Francisco Varela put it, cognition is embodied: the intelligence of the gaze lies in a body that moves through the world. I thank Étienne Rey, Jean-Nicolas Jérémie, Emmanuel Daucé and Ede Rancz, as well as CENTURI, who support our work on predictive processing. I wish you two inspiring NeuroDays. Thank you, and I am happy to take your questions.
+To sum up. Vision: it is not a camera, it is an active and creative process, which constantly makes sense of our senses. Surprise: artists, like scientists, look for what defies our expectations, and these surprises reveal the hidden mechanisms of perception, from Kitaoka's illusions to Yarbus's eye movements. Understanding: artistic practice is a form of research, and vice versa, so the dialogue between art and neuroscience feeds both sides; the same grid can be an artwork at the Musée Granet and the input layer of a deep network. As Francisco Varela put it, cognition is embodied: the intelligence of the gaze lies in a body that moves through the world. I thank Étienne Rey, Jean-Nicolas Jérémie, Emmanuel Daucé and Ede Rancz, as well as CENTURI, who support our work on predictive processing. I wish you two inspiring NeuroDays. Thank you, and I am happy to take your questions.
 
 
 - Varela, Thompson & Rosch (1991), *The Embodied Mind: Cognitive Science and Human Experience*, MIT Press
