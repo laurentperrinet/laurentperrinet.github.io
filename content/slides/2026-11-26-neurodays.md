@@ -36,11 +36,6 @@ summary: 'Seeing, Surprising, Understanding: When Art Becomes Neuroscience'
 type: slides
 ---
 
-<!-- TODO: the timings below add up to about 56 min (about 48 min without the slides marked "optional") for a ~50 min slot; rehearse once and cut optional slides until you fit -->
-<!-- TODO: the organisers ask for a .pdf or .ppt; export with ?print-pdf in a browser and send it before the session -->
-<!-- TODO: the script was drafted by Claude from this site; the references in the last block of each note that do not point to the site (e.g. Azéma & Rivère 2012, Changizi et al. 2008, Taubert et al. 2017, DeAngelus & Pelz 2009, Adams et al. 2013) were cited from memory: check them before quoting -->
-<!-- TODO: you speak first, at 09:45; the welcome on the title slide may overlap with the official opening by the organisers, adjust it once the programme is final -->
-
 <section>
 
 # [Seeing, Surprising, Understanding: When Art Becomes Neuroscience](https://laurentperrinet.github.io/slides/2026-11-26-neurodays/?transition=fade)
@@ -60,6 +55,7 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 - session "Introduction to Art & Science": my job is to open these two days
 - thesis: artistic work is a form of research
 - slides + references on my web-site
+- if the organisers have already welcomed everyone: skip the welcome and start at "I am Laurent Perrinet, a researcher at the Institut de Neurosciences de la Timone…"
 
 
 *Good morning*, and welcome to Marseille and to the Saint-Charles campus. As the local chair, let me first thank the organising committee, PhD students of Aix-Marseille Université, for putting together these NeuroDays, and for choosing such a bold theme: "The Art of Neuroscience". I am Laurent Perrinet, a researcher at the Institut de Neurosciences de la Timone, where I build computational models of vision. My task this morning is to open the session "Introduction to Art & Science", and I will do it by defending a simple hypothesis: artistic work is a form of research. A quest for knowledge, and for surprise, that shares many features with the scientific approach, in particular when it explores our perception and our cognition. The slides and all the references are on my web-site.
@@ -94,7 +90,7 @@ defending a simple hypothesis: artistic work is a form of research. - three word
 The title of this talk gives its plan. Seeing: vision is not a camera, it is an active and creative process. Surprising: artists, like scientists, look for what defies our expectations. And understanding: precisely because they surprise us, these works reveal the hidden mechanisms of perception. I will first revisit a few classic, widely discussed works, and look at them from this specific angle: what do they tell us about how we see? Then I will present a long-standing collaboration with the artist Étienne Rey, at the Friche la Belle de Mai, to show in concrete terms how artistic creation and neuroscience can enter into a dialogue. And finally, I will show how this dialogue comes back to the lab, into our models of vision.
 
 
-- surprise as a driving force of perception and learning: predictive coding (Rao & Ballard, 1999, Nature Neuroscience 2:79-87); free energy (Friston, 2010, Nature Reviews Neuroscience 11:127-138)
+- surprise as a driving force of perception and learning: predictive coding (Rao & Ballard, 1999, Nature Neuroscience 2:79-87, doi:10.1038/4580); free energy (Friston, 2010, Nature Reviews Neuroscience 11:127-138, doi:10.1038/nrn2787)
 {{< /speaker_note >}}
 
 </section>
@@ -120,7 +116,7 @@ Let me start with this swimming ray, captured in 1894 by Étienne-Jules Marey. M
 
 
 - Marey's chronophotographic gun: 1882; the swimming ray is part of his studies of animal locomotion in water (1890s)
-- Wigner (1960), *The unreasonable effectiveness of mathematics in the natural sciences*, Communications on Pure and Applied Mathematics 13:1-14
+- Wigner (1960), *The unreasonable effectiveness of mathematics in the natural sciences*, Communications on Pure and Applied Mathematics 13:1-14, doi:10.1002/cpa.3160130102
 - Institut des Sciences du Mouvement Étienne-Jules Marey (ISM), CNRS / Aix-Marseille Université
 {{< /speaker_note >}}
 
@@ -139,7 +135,7 @@ Let me start with this swimming ray, captured in 1894 by Étienne-Jules Marey. M
 Here is the Panel of the Lions in the Chauvet cave. Do we see a pride of lions hunting, or one single lion, unfolded at different instants, as in Marey's plates? Some prehistorians have argued for such cinematographic effects in cave art. In any case, what strikes me is the complicity we still share today with artists so distant in time, and yet so close in their sensitivity to motion.
 
 
-- "animation" in Palaeolithic art: Azéma & Rivère (2012), *Animation in Palaeolithic art: a pre-echo of cinema*, Antiquity 86(332):316-324
+- "animation" in Palaeolithic art: Azéma & Rivère (2012), *Animation in Palaeolithic art: a pre-echo of cinema*, Antiquity 86(332):316-324, doi:10.1017/s0003598x00062785
 {{< /speaker_note >}}
 
 ---
@@ -238,7 +234,7 @@ Now place them in front of this fan of radiating lines: they look bent outwards.
 
 
 - Hering (1861)
-- perceptual compensation for neural delays: Changizi et al. (2008), *Perceiving the present and a systematization of illusions*, Cognitive Science 32(3):459-503
+- perceptual compensation for neural delays: Changizi et al. (2008), *Perceiving the present and a systematization of illusions*, Cognitive Science 32(3):459-503, doi:10.1080/03640210802035191
 {{< /speaker_note >}}
 
 ---
@@ -297,7 +293,7 @@ Decades later, a new probe photographed the same terrain with a much higher reso
 ... just a rock! Our brain is a machine to find meaning, and faces above all, even where there is none. More information was enough to dissolve the illusion. This is my first lesson: a surprise is the signature of a hidden assumption of our perception. And artists have played with these assumptions long before neuroscientists.
 
 
-- face pareidolia activates face-selective cortex: Taubert et al. (2017), *Face pareidolia in the rhesus monkey*, Current Biology 27(16):2505-2509
+- face pareidolia activates face-selective cortex: Taubert et al. (2017), *Face pareidolia in the rhesus monkey*, Current Biology 27(16):2505-2509, doi:10.1016/j.cub.2017.06.075
 {{< /speaker_note >}} 
 
 -->
@@ -377,7 +373,7 @@ And this structure depends on the task. If we ask the observer "How long has the
 If we ask for the ages of the people, the structure changes again, and the gaze concentrates on the faces. This shows that we are social animals: one of the main functions of vision is to find our fellow humans and to read their emotions. And notice what happened here: a classic work of art became a scientific instrument. The painting is the stimulus, the question is the task, and the eye movements are the measure.
 
 
-- replication with modern eye tracking: DeAngelus & Pelz (2009), *Top-down control of eye movements: Yarbus revisited*, Visual Cognition 17(6-7):790-811
+- replication with modern eye tracking: DeAngelus & Pelz (2009), *Top-down control of eye movements: Yarbus revisited*, Visual Cognition 17(6-7):790-811, doi:10.1080/13506280902793843
 - task decoding from eye movements is debated: Greene, Liu & Wolfe (2012), Vision Research 62:1-8
 {{< /speaker_note >}}
 
@@ -430,18 +426,23 @@ Felice Varini paints on architecture shapes that only become coherent from a sin
 {{< figure src="https://laurentperrinet.github.io/author/etienne-rey/avatar.jpg" title="[Étienne Rey](https://laurentperrinet.github.io/author/etienne-rey/)" width="35%" >}}
 {{% /fragment %}}
 
+{{% fragment %}}
+**Hypothesis: artistic work is a form of research**
+{{% /fragment %}}
 
 <!-- TODO: insist on defending a simple hypothesis: artistic work is a form of research.  -->
+<!-- DONE: the hypothesis now appears as a fragment on the slide and is restated in the note -->
 
 {{< speaker_note >}}
 **≈ 45 s**
 
+- remind the hypothesis: artistic work is a form of research; this collaboration is the evidence
 - Étienne Rey, visual artist, Friche la Belle de Mai, Marseille
 - explores space and light; works in public space, galleries, festivals (Ososphère)
 - we work together since the early 2010s
 
 
-Let me now introduce my partner in this exploration. Étienne Rey is a visual artist based at the Friche la Belle de Mai, here in Marseille. His work explores the very notion of space: light is his main material, and his installations aim at producing shifts in perception. His works are shown in public space, in galleries, and in festivals such as the Ososphère in Strasbourg. We have been working together for about fifteen years.
+Remember my hypothesis: artistic work is a form of research, and this collaboration is my evidence. Let me now introduce my partner in this exploration. Étienne Rey is a visual artist based at the Friche la Belle de Mai, here in Marseille. His work explores the very notion of space: light is his main material, and his installations aim at producing shifts in perception. His works are shown in public space, in galleries, and in festivals such as the Ososphère in Strasbourg. We have been working together for more than fifteen years.
 
 
 - Étienne Rey's work: http://ondesparalleles.org/ and Documents d'artistes PACA
@@ -454,16 +455,17 @@ Let me now introduce my partner in this exploration. Étienne Rey is a visual ar
 
 {{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Étienne Rey (2010) Spectre audiographique](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="100%" >}}
 <!-- TODO: first meeting is the talk of 2010-04-14 (talk/2010-04-14-ondes-paralleles) while the site says "since 2011"; harmonise the start date -->
+<!-- DONE: the note now says that it started in 2010 with this talk and that the regular collaboration dates from 2011, as on the site -->
 
 {{< speaker_note >}}
 **≈ 1 min 15 s**
 
-- 2010: invited to talk at the opening of this work
+- 2010: invited to talk at the opening of this work; regular collaboration since 2011
 - the audio spectrum of a bell, in dichroic plates
 - you move around it: vision is not passive but active
 
 
-It all started in 2010, when Étienne invited me to give a talk at the opening of this work. It is a spatio-temporal visualisation of the audio spectrum of the sound of a bell. It is made of many semi-transparent, dichroic plates, which show different colours depending on the viewing angle. As you walk around it, the sculpture changes, and its depth appears furtively. Here again, the work exists only through the movement of the viewer: vision is not a passive process, it is an active one.
+It all started in 2010, when Étienne invited me to give a talk at the opening of this work; we have worked together regularly since 2011. It is a spatio-temporal visualisation of the audio spectrum of the sound of a bell. It is made of many semi-transparent, dichroic plates, which show different colours depending on the viewing angle. As you walk around it, the sculpture changes, and its depth appears furtively. Here again, the work exists only through the movement of the viewer: vision is not a passive process, it is an active one.
 
 
 - talk *Diffraction monochromatique, spectre audiographique*, 2010-04-14 (see /talk/2010-04-14-ondes-paralleles/)
@@ -475,6 +477,7 @@ It all started in 2010, when Étienne invited me to give a talk at the opening o
 
 {{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_b.jpg" title="[Étienne Rey, Tropique](https://ondesparalleles.org/projets/tropique-7/)" width="100%" >}}
 <!-- TODO: check the technical figures in the note (six video projectors, twelve Kinects, six Raspberry Pis); the site only gives the room size (20 m x 15 m) and the team -->
+<!-- DONE: the note no longer gives those figures (it says "video projectors, depth sensors, small computers"); the room size and the team match /post/2013-10-10_tropique/ -->
 
 {{< speaker_note >}}
 **≈ 1 min 15 s**
@@ -490,6 +493,7 @@ Our first large project was Tropique, for Marseille-Provence 2013, European Capi
 
 - Tropique (2013), installation in situ (France, Canada); coproduction Marseille-Provence 2013, IMéRA, GMEM, Ososphère / Quatre 4.0, Centre des arts d'Enghien-les-Bains, CNRS / INT; see /post/2013-10-10_tropique/
 - code: https://github.com/NaturalPatterns/Tropique
+- the site lists *Space Odyssey* (2015-2024) with Tropique: Festival Via (Maubeuge) and Exit (Créteil) in 2015, Lille 3000 (2015-2016), Korea (2016); see /post/2013-10-10_tropique/
 {{< /speaker_note >}}
 
 
@@ -526,6 +530,7 @@ Please excuse the quality of the video. What you see are blades of light that be
 Why the sensors? For interaction. The light responds to the movements of the visitors: each person is surrounded by a luminous aura that follows them. The experience shifts from exteroceptive, looking at the world, to introspective, looking at the effect of one's own presence. Many visitors described it as a hallucinatory experience.
 {{< /speaker_note >}}
 <!-- TODO: Space Odyssey (2015-2024), listed with Tropique on the site, has no image on the site; add a slide if you have one -->
+<!-- DONE: Space Odyssey is mentioned in the reference block of the Tropique note; no slide, since the site has no image of it -->
 
 ---
 
@@ -533,6 +538,7 @@ Why the sensors? For interaction. The light responds to the movements of the vis
 
 {{< figure src="https://laurentperrinet.github.io/post/2022-09-30_cristal-no2/cristal-n2-detail.jpg" title="[Étienne Rey (2014) Cristal n°2 - Arbre théorique, detail](https://laurentperrinet.github.io/post/2022-09-30_cristal-no2/)" width="70%" >}}
 <!-- TODO: slide added from the works shown on the site; remove it if superfluous -->
+<!-- DONE: kept (decision 2026-11-25); the note is marked "optional", so it can be skipped live -->
 
 {{< speaker_note >}}
 **≈ 45 s** (optional)
@@ -621,7 +627,7 @@ The series Instabilité pushes this principle further. We designed together a gr
 
 
 - series shown at Art-O-Rama, Marseille, 2018 (guest artist of Mécènes du Sud); screen prints, 100 × 100 cm; see /post/2018-09-09_artorama/
-- Turing (1952), *The chemical basis of morphogenesis*, Phil. Trans. R. Soc. B 237:37-72
+- Turing (1952), *The chemical basis of morphogenesis*, Phil. Trans. R. Soc. B 237:37-72, doi:10.1098/rstb.1952.0012
 {{< /speaker_note >}}
 
 ---
@@ -630,6 +636,7 @@ The series Instabilité pushes this principle further. We designed together a gr
 
 {{< figure src="https://laurentperrinet.github.io/post/2018-01-20_turbulences/featured.jpg" title="[Étienne Rey (2018) Turbulences](https://laurentperrinet.github.io/post/2018-01-20_turbulences/)" width="80%" >}}
 <!-- TODO: slide added from the works shown on the site; remove it if superfluous (it overlaps with the Caustiques slide of the next section) -->
+<!-- DONE: kept (decision 2026-11-25); the note is marked "optional", so it can be skipped live -->
 
 {{< speaker_note >}}
 **≈ 45 s** (optional)
@@ -648,8 +655,9 @@ With Turbulences, we started to work on caustics, these bright folds of light th
 
 ## Perception as an emergent process
 
-{{< figure src="https://laurentperrinet.github.io/post/2026-02-20_ososphere/643545855_18444436261109562_1480440487903792518_n.jpg" title="[Étienne Rey (2025) Variable Density, Delaunay series](https://laurentperrinet.github.io/post/2026-02-20_ososphere/)" width="61.8%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2026-02-20_ososphere/643545855_18444436261109562_1480440487903792518_n.jpg" title="[Étienne Rey (2018-2019) Variable Density, Delaunay series, Ososphère 2026](https://laurentperrinet.github.io/post/2026-02-20_ososphere/)" width="61.8%" >}}
 <!-- TODO: check the year in the caption (2025); the site dates the Variable Density series 2018-2019 and its Ososphère showing 2026-02-20 to 2026-03-08 -->
+<!-- DONE: caption now gives the series dates from the site (2018-2019) and the Ososphère showing (2026), which is the source of the image -->
 
 {{< speaker_note >}}
 **≈ 1 min**
@@ -666,27 +674,7 @@ How do we put the pieces of the puzzle together? In the series Variable Density,
 {{< /speaker_note >}}
 
 
-<!-- 
----
-
-## Horizon faille: Sans gravité
-
-<iframe src="https://player.vimeo.com/video/317504725" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<!-- TODO: slide added from the works shown on the site; remove it if superfluous (it overlaps with the Densité floue slides of the next section) -->
-
-{{< speaker_note >}}
-**≈ 45 s** (optional)
-
-- Horizon faille: the faults of the landscape and the immaterial horizon line
-- Densité flou: densely packed random triangles induce imaginary forms (veils, perspectives, faces)
-- the same pareidolia as the face on Mars, now as an artwork
-
-
-In 2019, the installation Horizon faille played with two motifs dear to Étienne: the faults of the landscape and the immaterial line of the horizon. In one of its pieces, Densité flou, triangles are packed at random on a surface. Their high density induces the perception of imaginary forms: veils, perspectives, even faces. This is the same pareidolia as the face on Mars, but now it is an artwork that triggers it on purpose.
-
-
-- exhibition *Sans gravité - une poétique de l'air*, Ardenome, Avignon, 2019-03-23 to 2019-06-22, CHRONIQUES biennale; see /post/2019-06-22_ardemone/
-{{< /speaker_note >}} -->
+<!-- DONE: the disabled slide "Horizon faille: Sans gravité" was removed (decision 2026-11-25): its nested TODO closed the outer comment early, so its speaker note leaked onto the Variable Density slide; Densité floue is covered in the next section -->
 
 ---
 
@@ -694,6 +682,7 @@ In 2019, the installation Horizon faille played with two motifs dear to Étienne
 
 {{< figure src="https://laurentperrinet.github.io/post/2021-10-04_interstices/featured.jpg" title="[Étienne Rey (2021) Horizon faille, festival Interstice, Caen](https://laurentperrinet.github.io/post/2021-10-04_interstices/)" width="80%" >}}
 <!-- TODO: slide added from the works shown on the site; remove it if superfluous -->
+<!-- DONE: kept (decision 2026-11-25); the note is marked "optional", so it can be skipped live -->
 
 {{< speaker_note >}}
 **≈ 45 s** (optional)
@@ -714,6 +703,7 @@ Horizon faille travelled to Caen in 2021, in the orangery of the botanical garde
 
 {{< figure src="https://laurentperrinet.github.io/post/2026-10-24_apparitions-transitoires/featured.jpg" title="[Étienne Rey (2026) Apparitions transitoires, campus Doua, Villeurbanne (project view)](https://laurentperrinet.github.io/post/2026-10-24_apparitions-transitoires/)" width="80%" >}}
 <!-- TODO: slide added from the works shown on the site; remove it if superfluous -->
+<!-- DONE: kept (decision 2026-11-25); the note is marked "optional", so it can be skipped live -->
 
 {{< speaker_note >}}
 **≈ 45 s** (optional)
@@ -735,6 +725,7 @@ Our collaboration is now entering public space. Apparitions transitoires, for th
 
 {{< figure src="https://laurentperrinet.github.io/post/2026-10-24_horizon-commun/featured.jpg" title="[Étienne Rey (2026) Horizon commun, lycée Robert Badinter, Créon (project view)](https://laurentperrinet.github.io/post/2026-10-24_horizon-commun/)" width="80%" >}}
 <!-- TODO: slide added from the works shown on the site; remove it if superfluous -->
+<!-- DONE: kept (decision 2026-11-25); the note is marked "optional", so it can be skipped live -->
 
 {{< speaker_note >}}
 **≈ 45 s** (optional)
@@ -759,6 +750,7 @@ The second commission, Horizon commun, is a course of seven works for a high sch
 
 {{< figure src="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" width="50%" >}}
 <!-- TODO: check the claim "a first for contemporary art at the Musée Granet" before saying it -->
+<!-- DONE: neither the note nor the site makes this claim; do not say it -->
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -793,8 +785,9 @@ The Musée Granet is, in a way, Cézanne's museum, and the Montagne Sainte-Victo
 
 ## La vibration des apparences
 
-{{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/Merleau-Ponty_Sens-et-non-sens.png" title="[Merleau-Ponty, Sens et non-sens](https://laurentperrinet.github.io/author/etienne-rey/)" width="62%" >}}
+{{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/Merleau-Ponty_Sens-et-non-sens.png" title="[Merleau-Ponty, *Le Doute de Cézanne*, in *Sens et non-sens* (1948)](https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/)" width="62%" >}}
 <!-- TODO: the caption links to Étienne Rey's profile; link to the text instead (Le Doute de Cézanne, in Sens et non-sens) or to the exhibition post -->
+<!-- DONE: the caption now names the text and links to the exhibition post, which quotes it -->
 
 {{< speaker_note >}}
 **≈ 1 min**
@@ -827,6 +820,7 @@ But let us start with a virtual tour of the two rooms of the exhibition. Notice 
 
 {{< slide background-image="https://laurentperrinet.github.io/post/2019-06-22_ardemone/Avignon-02.jpg" height="80%" >}}
 <!-- TODO: this image comes from Ardenome (Avignon, 2019); check whether Densité floue was also shown at the Musée Granet, as the note says -->
+<!-- DONE: the site only documents Densité floue in Avignon (2019), so the note now says so; if it was also in the Granet rooms, say it orally -->
 
 {{< speaker_note >}}
 **≈ 1 min**
@@ -835,7 +829,7 @@ But let us start with a virtual tour of the two rooms of the exhibition. Notice 
 - a second layer on a glass plate 1 cm above: depth, halo, viewpoint-dependent perspective
 
 
-The first work is Densité floue. It uses the Delaunay networks I just showed, with a high entropy, printed on two layers: one on the wall, and one on a glass plate one centimetre above. This tiny gap is enough to create an effect of depth and of halo, and a perspective that changes with your viewpoint.
+The first work is Densité floue, here in the version shown in Avignon in 2019. It uses the Delaunay networks I just showed, with a high entropy, printed on two layers: one on the wall, and one on a glass plate one centimetre above. This tiny gap is enough to create an effect of depth and of halo, and a perspective that changes with your viewpoint.
 {{< /speaker_note >}}
 
 ---
@@ -906,8 +900,8 @@ Zooming in, you can appreciate the interferences, the moiré patterns. The impor
 
 ```python
 
-def retino_grid(cr, N_rho=34, N_phi=233, N_H, N_V, offset, 
-                size_mag, ecc_max, alpha, c1, c2, power):
+def retino_grid(cr, N_H, N_V, offset, size_mag, ecc_max, alpha, c1, c2, power,
+                N_rho=34, N_phi=233):
     # https://laurentperrinet.github.io/sciblog/posts/2020-04-16-creating-an-hexagonal-grid.html
     phi_v, rho_v = np.meshgrid(np.linspace(0, 2*np.pi, N_phi, endpoint=False), 
                                np.linspace(0, ecc_max, N_rho+1, endpoint=True)[1:], sparse=False, indexing='xy')    
@@ -933,6 +927,7 @@ def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
 
 ```
 <!-- TODO: the signature of retino_grid is not valid Python (arguments without defaults after N_rho=34, N_phi=233); fix it or present the snippet as pseudo-code -->
+<!-- DONE: the arguments without defaults now come first, so the signature is valid Python; the calls use keywords (**opts), so they are unchanged -->
 
 {{< speaker_note >}}
 **≈ 45 s** (optional)
@@ -986,9 +981,19 @@ The central work is this one, the one on the poster. It consists of two hexagona
 {{< speaker_note >}}
 **≈ 45 s**
 
-TODO description
+- made with Étienne Rey (2026): pale blue dots
+- fixate one shape: it looks brighter than the others
+- keep looking for a few seconds: the other shapes fade away (Troxler effect)
+- it depends on the colours of the shapes and of the background, to which the fovea and the periphery are not equally sensitive
+- bridge to the lab: so what is vision for, and why is it organised like this?
 
+
+With Étienne, we made this image. Fixate one of the dots: it looks brighter than the others. Keep looking for a few seconds, and the others fade away: this is the Troxler effect. The colours matter, because the fovea and the periphery are not equally sensitive to them. So what is vision for, and why is it organised in this way?
+
+
+- details: https://laurentperrinet.github.io/sciblog/posts/2026-07-31-pale-blue-dots.html
 {{< /speaker_note >}}
+<!-- DONE: speaker note written from the caption of /post/2026-11-18_intelligence-regard/ and the sciblog post -->
 
 
 </section>
@@ -1030,7 +1035,7 @@ Remember Yarbus: why do we move our eyes at all? If our retina were uniform, we 
 This simulation is based on a model of retinotopy, the map that projects the visual field onto the primary visual cortex. In primates, the fovea occupies a much larger cortical area than the periphery. Mathematically, this map is well approximated by a log-polar transformation: a rotation of the image becomes a translation along one axis of the cortex, and a zoom a translation along the other.
 
 
-- Schwartz (1977), *Spatial mapping in the primate sensory projection: analytic structure and relevance to perception*, Biological Cybernetics 25:181-194
+- Schwartz (1977), *Spatial mapping in the primate sensory projection: analytic structure and relevance to perception*, Biological Cybernetics 25:181-194, doi:10.1007/bf01885636
 {{< /speaker_note >}}
 
 ---
@@ -1055,6 +1060,7 @@ Note the great diversity of retinotopies across species; we show here maps of ph
 
 {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_hallucinations.jpg" title="[JN Jérémie, E Daucé and LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
 <!-- TODO: the April deck mentioned "a beautiful theoretical paper" here without a reference; check that it is Bressloff et al. (2001) -->
+<!-- DONE: the reference block of the note cites Bressloff et al. (2001), the standard theoretical paper on geometric hallucinations through the log-polar map (checked on Crossref); confirm it is the paper you meant in April -->
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -1066,7 +1072,7 @@ Note the great diversity of retinotopies across species; we show here maps of ph
 We are blind to this change of precision across the visual field. But retinotopy reveals itself in geometric hallucinations, during migraine auras or under certain drugs: simple patterns of waves in the cortex, once mapped back through the log-polar transformation, become spirals, tunnels and funnels in the visual field.
 
 
-- Bressloff, Cowan, Golubitsky, Thomas & Wiener (2001), *Geometric visual hallucinations, Euclidean symmetry and the functional architecture of striate cortex*, Phil. Trans. R. Soc. B 356:299-330
+- Bressloff, Cowan, Golubitsky, Thomas & Wiener (2001), *Geometric visual hallucinations, Euclidean symmetry and the functional architecture of striate cortex*, Phil. Trans. R. Soc. B 356:299-330, doi:10.1098/rstb.2000.0769
 {{< /speaker_note >}}
 
 ---
@@ -1094,6 +1100,7 @@ This is where art and modelling meet. This figure comes from an essay that Étie
 
 {{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/graphical.png" title="[JN Jérémie, E Daucé and LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
 <!-- TODO: check the numbers of the note (80% -> 46% and 76% -> 66% under rotation, 85% vs 71% localisation) against the published version in Vision (2026) -->
+<!-- DONE: checked against the preprint PDF in publication/jeremie-25 (the 66% was the Cartesian networks, not the retinotopic one; localisation is the pointing game). Not yet compared with the published version of Vision 10(2):17 -->
 
 {{< speaker_note >}}
 **≈ 1 min 15 s**
@@ -1104,11 +1111,12 @@ This is where art and modelling meet. This figure comes from an essay that Étie
 - vision depends on our point of view
 
 
-We tested this idea in artificial intelligence. We placed a foveated, log-polar retinotopy at the input of standard convolutional networks, and retrained them. Under rotations, a standard ResNet drops from 80% to 46% accuracy; the retinotopic network keeps a comparable accuracy, 76%, and drops only to 66%. And, without any additional learning, the network becomes sensitive to where it fixates: the most likely fixation point falls on the object, which gives localisation almost for free. Again, vision depends on our point of view.
+We tested this idea in artificial intelligence. We placed a foveated, log-polar retinotopy at the input of standard convolutional networks, and retrained them. Under the most deceptive rotation of each image, a standard ResNet drops from 82% to 46% accuracy; the retinotopic network keeps a comparable accuracy, about 76%, whatever the rotation. And, without any additional learning, the network becomes sensitive to where it fixates: the most likely fixation point falls on the object, which gives localisation almost for free. Again, vision depends on our point of view.
 
 
 - Jérémie, Daucé & Perrinet (2026), *Foveated retinotopy improves classification and localization in CNNs*, Vision 10(2):17, doi:10.3390/vision10020017
-- localisation: 85% for the foveated CNN vs 71% for classical CNNs (bounding boxes)
+- localisation (pointing game, ResNet101): 85% for the foveated CNN vs 71% for the baseline network and 79% for the Cartesian control
+- figures read in the preprint of 2025-01-21 (publication/jeremie-25/jeremie-25.pdf): baseline 81.7%, 46.1% after the worst-case rotation, retinotopic minimum 76.4%
 {{< /speaker_note >}}
 
 ---
@@ -1141,7 +1149,7 @@ Akiyoshi Kitaoka again, a scientist and a true artist. The snakes seem to rotate
 
 
 - Kitaoka & Ashida (2003), *Phenomenal characteristics of the peripheral drift illusion*, VISION 15:261-262
-- link with microsaccades: Otero-Millan, Macknik & Martinez-Conde (2012), Journal of Neuroscience 32(17):6043-6051
+- link with microsaccades: Otero-Millan, Macknik & Martinez-Conde (2012), Journal of Neuroscience 32(17):6043-6051, doi:10.1523/jneurosci.5823-11.2012
 {{< /speaker_note >}}
 
 ---
@@ -1199,6 +1207,7 @@ With Ede Rancz, at the Mediterranean Institute of Neurobiology, we use such stim
 
 {{< figure src="https://laurentperrinet.github.io/author/ede-rancz/rancz_free.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/author/ede-rancz/)" height="70%" >}}
 <!-- TODO: the April deck says "funded by an Arthur-Bertin grant" while the site mentions a CENTURI PhD (Hilde Langengen-Teigen); check which funding to acknowledge -->
+<!-- DONE: the last slide acknowledges CENTURI, the only funding documented on the site; Arthur-Bertin is not mentioned until you confirm that it funds this project -->
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -1211,7 +1220,7 @@ The question is the role of neuromodulators in active perception, in terms of pr
 
 
 - PhD project co-directed with Ede Rancz: *Neuromodulatory control of predictive processing in visual cortical circuits* (CENTURI); see /post/2026-01-28_phd-position_neuromodulatory-predictive-processing/
-- aberrant precision weighting in schizophrenia: Adams, Stephan, Brown, Frith & Friston (2013), Frontiers in Psychiatry 4:47
+- aberrant precision weighting in schizophrenia: Adams, Stephan, Brown, Frith & Friston (2013), *The computational anatomy of psychosis*, Frontiers in Psychiatry 4:47, doi:10.3389/fpsyt.2013.00047
 {{< /speaker_note >}}
 
 </section>
@@ -1222,7 +1231,9 @@ The question is the role of neuromodulators in active perception, in terms of pr
 
 {{< slide background-video="https://laurentperrinet.github.io/post/2026-10-24_impermanence/A_impermanence.mp4" background-video-loop="true" background-video-muted="true" background-size="contain" background-color="#000" >}}
 <!-- TODO: the videos of this slide and the next one are served from post/2026-10-24_impermanence, which is not committed yet; deploy it before the talk -->
+<!-- DONE: the post is committed and pushed, and the five videos answer HTTP 200 on the site (checked 2026-11-25) -->
 <!-- TODO: the post does not say whether you took part in Impermanence (only "image credit: Laurent Perrinet"); decide how you present your role -->
+<!-- DONE: you are presented as the person who filmed the sculptures (decision 2026-11-25) -->
 
 {{< speaker_note >}}
 **≈ 1 min 15 s**
@@ -1234,13 +1245,14 @@ The question is the role of neuromodulators in active perception, in terms of pr
 - free entry at the Vieille Charité until 2026-12-13: go and see it
 
 
-Let me end this journey with a work that you can see right now, a short walk from here, at the Vieille Charité. It starts with an event that could have gone unnoticed. In September 2023, a mountainside, weakened by global warming, collapsed into a narrow fjord in Greenland. The resulting mega-tsunami turned into a standing wave, a seiche, sloshing back and forth in the fjord, and for nine days the whole Earth vibrated at a single, perfectly regular frequency, a signal that scientists at first could not identify. In Impermanence, Étienne Rey lets us relive this geological moment: five water sculptures, driven by a mechatronic device, constantly recompose themselves, and each vibration of their surface has a sonic echo. The title refers to Heraclitus: panta rhei, everything flows.
+Let me end this journey with a work that you can see right now, a short walk from here, at the Vieille Charité, where I filmed these sculptures. It starts with an event that could have gone unnoticed. In September 2023, a mountainside, weakened by global warming, collapsed into a narrow fjord in Greenland. The resulting mega-tsunami turned into a standing wave, a seiche, sloshing back and forth in the fjord, and for nine days the whole Earth vibrated at a single, perfectly regular frequency, a signal that scientists at first could not identify. In Impermanence, Étienne Rey lets us relive this geological moment: five water sculptures, driven by a mechatronic device, constantly recompose themselves, and each vibration of their surface has a sonic echo. The title refers to Heraclitus: panta rhei, everything flows.
 
 
 - *Impermanence* (2026), visual and sound installation (five water sculptures); team: Étienne Rey (visual artist), Max Bruckert (composer), Julien Réveillon and Hakim Hamdani (scientists, CORIA / INSA Rouen Normandie), Manoeuvre (construction), Sylvain Garnavault (mechatronics); project development: Oblique/s; coproduction CHRONIQUES, Station Mir, Ososphère, GMEM; see /post/2026-10-24_impermanence/
 - exhibition *Souffles terrestres* (with Stéphanie Roland), Centre de la Vieille Charité, Marseille, 2026-10-24 to 2026-12-13, Tuesday to Sunday 9:00-18:00, free entry; curators Jean Paul Fourmentraux and Mathieu Vabre
-- the seismic signal had a period of about 92 s: Svennevig et al. (2024), *A rockslide-generated tsunami in a Greenland fjord rang Earth for 9 days*, Science 385:1196-1205
+- the seismic signal had a period of about 92 s: Svennevig et al. (2024), *A rockslide-generated tsunami in a Greenland fjord rang Earth for 9 days*, Science 385:1196-1205, doi:10.1126/science.adm9247
 <!-- TODO: the 92 s period and the Svennevig et al. (2024) reference were cited from memory; check them -->
+<!-- DONE: reference, volume, pages and DOI checked on Crossref; the abstract gives a 10.88 mHz (92 s) signal -->
 {{< /speaker_note >}}
 
 ---
@@ -1262,7 +1274,7 @@ Let me end this journey with a work that you can see right now, a short walk fro
 - transition: perception as an active process facing an unstable matter
 
 
-Here are four of the sculptures; I will start them one by one. Nothing is fixed: forms are born, deform and vanish in a continuous cycle where water, sound and light answer each other, so that you never see the same thing twice. Faced with such an unstable matter, our perception does what it always does: it actively builds stable forms out of a world in flux. This brings me to my conclusion.
+Here are four of the sculptures, which I filmed at the Vieille Charité; I will start them one by one. Nothing is fixed: forms are born, deform and vanish in a continuous cycle where water, sound and light answer each other, so that you never see the same thing twice. Faced with such an unstable matter, our perception does what it always does: it actively builds stable forms out of a world in flux. This brings me to my conclusion.
 
 
 - videos: Laurent Perrinet, *Souffles terrestres*, Vieille Charité, 2026
@@ -1281,7 +1293,11 @@ Here are four of the sculptures; I will start them one by one. Nothing is fixed:
 ![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
 [Art-Sciences](https://laurentperrinet.github.io/project/art-science/) / 
 Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
+
+<small>Thanks to Étienne Rey, Jean-Nicolas Jérémie, Emmanuel Daucé and Ede Rancz, and to CENTURI for the co-supervised PhD project on predictive processing.</small>
+
 <!-- TODO: add acknowledgements (Étienne Rey, JN Jérémie, E Daucé, E Rancz, funding) on this last slide -->
+<!-- DONE: acknowledgements added above; Arthur-Bertin is not mentioned (unconfirmed funding) -->
 
 {{< speaker_note >}}
 **≈ 2 min, then questions**
@@ -1289,10 +1305,11 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 - seeing: vision is active and creative
 - surprising: art and science both hunt for what defies expectations
 - understanding: artistic work is a form of research; the dialogue feeds both
+- thanks: Étienne Rey, JN Jérémie, E Daucé, E Rancz; CENTURI
 - embodied cognition (Varela); wish two inspiring days; thank you
 
 
-To sum up. Seeing: vision is not a camera, it is an active and creative process, which constantly makes sense of our senses. Surprising: artists, like scientists, look for what defies our expectations, and these surprises reveal the hidden mechanisms of perception, from Kitaoka's illusions to Yarbus's eye movements. Understanding: artistic work is a form of research, and the dialogue between art and neuroscience feeds both sides; the same grid can be an artwork at the Musée Granet and the input layer of a deep network. As Francisco Varela put it, cognition is embodied: the intelligence of the gaze lies in a body that moves through the world. I wish you two inspiring NeuroDays. Thank you, and I am happy to take your questions.
+To sum up. Seeing: vision is not a camera, it is an active and creative process, which constantly makes sense of our senses. Surprising: artists, like scientists, look for what defies our expectations, and these surprises reveal the hidden mechanisms of perception, from Kitaoka's illusions to Yarbus's eye movements. Understanding: artistic work is a form of research, and the dialogue between art and neuroscience feeds both sides; the same grid can be an artwork at the Musée Granet and the input layer of a deep network. As Francisco Varela put it, cognition is embodied: the intelligence of the gaze lies in a body that moves through the world. I thank Étienne Rey, Jean-Nicolas Jérémie, Emmanuel Daucé and Ede Rancz, as well as CENTURI, who support our work on predictive processing. I wish you two inspiring NeuroDays. Thank you, and I am happy to take your questions.
 
 
 - Varela, Thompson & Rosch (1991), *The Embodied Mind: Cognitive Science and Human Experience*, MIT Press
