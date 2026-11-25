@@ -258,47 +258,6 @@ Talking about priors, this image is famous. In 1976, the Viking orbiter photogra
 - Schiaparelli's "canali" (1877), popularised by Percival Lowell
 {{< /speaker_note >}}
 
-<!-- 
-
-
----
-
-## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/): [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
-
-{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_low.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
-
-{{< speaker_note >}}
-**≈ 20 s**
-
-- decades later, a new probe images the same terrain at higher resolution
-
-
-Decades later, a new probe photographed the same terrain with a much higher resolution, revealing...
-{{< /speaker_note >}}
-
----
-
-## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/): [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
-
-{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_high.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
-
-{{< speaker_note >}}
-**≈ 45 s**
-
-- ... just a rock
-- the brain is a machine to find meaning, even where there is none
-- first lesson: surprise is the signature of the hidden assumptions of perception
-
-
-... just a rock! Our brain is a machine to find meaning, and faces above all, even where there is none. More information was enough to dissolve the illusion. This is my first lesson: a surprise is the signature of a hidden assumption of our perception. And artists have played with these assumptions long before neuroscientists.
-
-
-- face pareidolia activates face-selective cortex: Taubert et al. (2017), *Face pareidolia in the rhesus monkey*, Current Biology 27(16):2505-2509, doi:10.1016/j.cub.2017.06.075
-{{< /speaker_note >}} 
-
--->
-
-
 ---
 
 ## What is vision for?
@@ -620,27 +579,6 @@ The series Instabilité pushes this principle further. We designed together a gr
 - Turing (1952), *The chemical basis of morphogenesis*, Phil. Trans. R. Soc. B 237:37-72, doi:10.1098/rstb.1952.0012
 {{< /speaker_note >}}
 
-<!-- 
----
-
-## Caustics: Turbulences
-
-{{< figure src="https://laurentperrinet.github.io/post/2018-01-20_turbulences/featured.jpg" title="[Étienne Rey (2018) Turbulences](https://laurentperrinet.github.io/post/2018-01-20_turbulences/)" width="80%" >}}
-
-{{< speaker_note >}}
-**≈ 45 s** (optional)
-
-- caustics: the relation between water, light and air
-- movement perturbs a stable optical state; the folds of light look like a floating body
-
-
-With Turbulences, we started to work on caustics, these bright folds of light that you see at the bottom of a swimming pool, and that characterise the relation between water, light and air. In the installation, movement perturbs a stable optical state, and the turbulence of the luminous folds gives the illusion of a floating body.
-
-
-- installation in situ, 2018, Fondation François Schneider, Wattwiller (collection of the foundation), opened 2018-10-27; see /post/2018-01-20_turbulences/
-{{< /speaker_note >}} 
--->
-
 ---
 
 ## Perception as an emergent process
@@ -679,47 +617,6 @@ Horizon faille travelled to Caen in 2021, in the orangery of the botanical garde
 
 
 - festival Interstice, Orangerie du jardin des plantes, Caen, 2021-10-05 to 2021-10-17; see /post/2021-10-04_interstices/
-{{< /speaker_note >}}
-
----
-
-## Public commissions (2026): Apparitions transitoires
-
-{{< figure src="https://laurentperrinet.github.io/post/2026-10-24_apparitions-transitoires/featured.jpg" title="[Étienne Rey (2026) Apparitions transitoires, campus Doua, Villeurbanne (project view)](https://laurentperrinet.github.io/post/2026-10-24_apparitions-transitoires/)" width="80%" >}}
-
-{{< speaker_note >}}
-**≈ 45 s** (optional)
-
-- two superimposed pigment grids interact by moiré: the motif exists in neither layer
-- it reconfigures with every shift of the gaze of the passers-by
-- the work transposes a logic of observation: what we perceive depends on the act of observing
-
-
-Our collaboration is now entering public space. Apparitions transitoires, for the Doua campus in Villeurbanne, is a pigment painting made of two superimposed grids, which interact by moiré. The motif does not exist in either layer: it emerges from their superposition, and reconfigures with every shift of the gaze of passers-by. I contributed to the algorithmic development. The work does not represent physics, but it makes us feel that what we perceive depends on the act of observing.
-
-
-- pigment painting, two superimposed layers, 6 × 1.7 m and 4.1 × 1.7 m; public commission (1 % artistique), Métropole de Lyon; see /post/2026-10-24_apparitions-transitoires/
-{{< /speaker_note >}}
-
----
-
-## Public commissions (2026): Horizon commun
-
-{{< figure src="https://laurentperrinet.github.io/post/2026-10-24_horizon-commun/featured.jpg" title="[Étienne Rey (2026) Horizon commun, lycée Robert Badinter, Créon (project view)](https://laurentperrinet.github.io/post/2026-10-24_horizon-commun/)" width="80%" >}}
-
-{{< speaker_note >}}
-**≈ 45 s** (optional)
-
-- a course of seven works in a high school
-- outside: sculptures of reflection, multiplication and condensation of the landscape
-- inside: six chromatic surfaces from our collaboration, on how the visual system builds images
-- the gaze becomes an instrument of knowledge
-
-
-The second commission, Horizon commun, is a course of seven works for a high school near Bordeaux. Outside, sculptures play with reflection, multiplication and condensation of the landscape, associated with three gestures of the gaze: crossing, traversing, observing. Inside, six chromatic surfaces, born from our collaboration, explore how the visual system builds our images of the world. For the students who walk past them every day, the gaze becomes an instrument of knowledge.
-
-
-- seven works: outdoor sculptures and six *Surfaces chromatiques* (screen-printed aluminium); public commission (1 % artistique), Région Nouvelle-Aquitaine, lycée Robert Badinter, Créon; see /post/2026-10-24_horizon-commun/
 {{< /speaker_note >}}
 
 </section>
@@ -1270,6 +1167,41 @@ To sum up. Seeing: vision is not a camera, it is an active and creative process,
 
 ---
 
+## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/): [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
+
+{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_low.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
+
+{{< speaker_note >}}
+**≈ 20 s**
+
+- decades later, a new probe images the same terrain at higher resolution
+
+
+Decades later, a new probe photographed the same terrain with a much higher resolution, revealing...
+{{< /speaker_note >}}
+
+---
+
+## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/): [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
+
+{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_high.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
+
+{{< speaker_note >}}
+**≈ 45 s**
+
+- ... just a rock
+- the brain is a machine to find meaning, even where there is none
+- first lesson: surprise is the signature of the hidden assumptions of perception
+
+
+... just a rock! Our brain is a machine to find meaning, and faces above all, even where there is none. More information was enough to dissolve the illusion. This is my first lesson: a surprise is the signature of a hidden assumption of our perception. And artists have played with these assumptions long before neuroscientists.
+
+
+- face pareidolia activates face-selective cortex: Taubert et al. (2017), *Face pareidolia in the rhesus monkey*, Current Biology 27(16):2505-2509, doi:10.1016/j.cub.2017.06.075
+{{< /speaker_note >}}
+
+---
+
 ## Victor Vasarely
 
 {{< figure src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnqT-ltEk7fE-iUfHgea6HPeusGiz357ctHroJoxUxy02oXJ4U8EGbWoXPz0aEaTOtKQKNBCJ9IMsXMKBpS9ngmwWsAESV8Rrto9iM3mCBaYmRj6MiQqpyGy-uzomgMHtdXxE6QNwBqr8/s1600/fds.jpg" title="[Victor Vasarely](https://en.wikipedia.org/wiki/Victor_Vasarely)" width="100%" >}}
@@ -1291,6 +1223,66 @@ To sum up. Seeing: vision is not a camera, it is an active and creative process,
 ## Victor Vasarely
 
 {{< figure src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_LmwCk716jFOMR8cAwmX96DUlrCFEGfgwJVp4SaDvk9AmlGiXA25N9-DViXxGW9zHE2AHBLxo1dVuHUg9TvRn2yEsmt-i_vvNX_h9rBqnnOFVqFUCbnXIPWVWtkv_tqKGcHRMzX4wUJQ/s1600/800px-FondationAix.JPG" title="[Victor Vasarely (1976) Fondation Vasarely, Aix-en-Provence](https://en.wikipedia.org/wiki/Fondation_Vasarely)" width="60%" >}}
+
+---
+
+## Caustics: Turbulences
+
+{{< figure src="https://laurentperrinet.github.io/post/2018-01-20_turbulences/featured.jpg" title="[Étienne Rey (2018) Turbulences](https://laurentperrinet.github.io/post/2018-01-20_turbulences/)" width="80%" >}}
+
+{{< speaker_note >}}
+**≈ 45 s** (optional)
+
+- caustics: the relation between water, light and air
+- movement perturbs a stable optical state; the folds of light look like a floating body
+
+
+With Turbulences, we started to work on caustics, these bright folds of light that you see at the bottom of a swimming pool, and that characterise the relation between water, light and air. In the installation, movement perturbs a stable optical state, and the turbulence of the luminous folds gives the illusion of a floating body.
+
+
+- installation in situ, 2018, Fondation François Schneider, Wattwiller (collection of the foundation), opened 2018-10-27; see /post/2018-01-20_turbulences/
+{{< /speaker_note >}}
+
+---
+
+## Public commissions (2026): Apparitions transitoires
+
+{{< figure src="https://laurentperrinet.github.io/post/2026-10-24_apparitions-transitoires/featured.jpg" title="[Étienne Rey (2026) Apparitions transitoires, campus Doua, Villeurbanne (project view)](https://laurentperrinet.github.io/post/2026-10-24_apparitions-transitoires/)" width="80%" >}}
+
+{{< speaker_note >}}
+**≈ 45 s** (optional)
+
+- two superimposed pigment grids interact by moiré: the motif exists in neither layer
+- it reconfigures with every shift of the gaze of the passers-by
+- the work transposes a logic of observation: what we perceive depends on the act of observing
+
+
+Our collaboration is now entering public space. Apparitions transitoires, for the Doua campus in Villeurbanne, is a pigment painting made of two superimposed grids, which interact by moiré. The motif does not exist in either layer: it emerges from their superposition, and reconfigures with every shift of the gaze of passers-by. I contributed to the algorithmic development. The work does not represent physics, but it makes us feel that what we perceive depends on the act of observing.
+
+
+- pigment painting, two superimposed layers, 6 × 1.7 m and 4.1 × 1.7 m; public commission (1 % artistique), Métropole de Lyon; see /post/2026-10-24_apparitions-transitoires/
+{{< /speaker_note >}}
+
+---
+
+## Public commissions (2026): Horizon commun
+
+{{< figure src="https://laurentperrinet.github.io/post/2026-10-24_horizon-commun/featured.jpg" title="[Étienne Rey (2026) Horizon commun, lycée Robert Badinter, Créon (project view)](https://laurentperrinet.github.io/post/2026-10-24_horizon-commun/)" width="80%" >}}
+
+{{< speaker_note >}}
+**≈ 45 s** (optional)
+
+- a course of seven works in a high school
+- outside: sculptures of reflection, multiplication and condensation of the landscape
+- inside: six chromatic surfaces from our collaboration, on how the visual system builds images
+- the gaze becomes an instrument of knowledge
+
+
+The second commission, Horizon commun, is a course of seven works for a high school near Bordeaux. Outside, sculptures play with reflection, multiplication and condensation of the landscape, associated with three gestures of the gaze: crossing, traversing, observing. Inside, six chromatic surfaces, born from our collaboration, explore how the visual system builds our images of the world. For the students who walk past them every day, the gaze becomes an instrument of knowledge.
+
+
+- seven works: outdoor sculptures and six *Surfaces chromatiques* (screen-printed aluminium); public commission (1 % artistique), Région Nouvelle-Aquitaine, lycée Robert Badinter, Créon; see /post/2026-10-24_horizon-commun/
+{{< /speaker_note >}}
 
 
 </section>
