@@ -251,7 +251,7 @@ Now place them in front of this fan of radiating lines: they look bent outwards.
 - a face, seemingly carved in the rock
 
 
-This image is famous. In 1976, the Viking orbiter photographed the surface of Mars, until then only known through blurry telescope images. Since the end of the nineteenth century, some astronomers had seen "canals" on Mars, and with them the possibility of intelligent life, the "Martians". And then this image came out: a face, seemingly carved in the rock of the Cydonia region.
+Talking about priors, this image is famous. In 1976, the Viking orbiter photographed the surface of Mars, until then only known through blurry telescope images. Since the end of the nineteenth century, some astronomers had seen "canals" on Mars, and with them the possibility of intelligent life, the "Martians". And then this image came out: a face, seemingly carved in the rock of the Cydonia region.
 
 
 - Viking 1 orbiter, frame 35A72, 1976-07-25
@@ -620,6 +620,7 @@ The series Instabilité pushes this principle further. We designed together a gr
 - Turing (1952), *The chemical basis of morphogenesis*, Phil. Trans. R. Soc. B 237:37-72, doi:10.1098/rstb.1952.0012
 {{< /speaker_note >}}
 
+<!-- 
 ---
 
 ## Caustics: Turbulences
@@ -637,7 +638,8 @@ With Turbulences, we started to work on caustics, these bright folds of light th
 
 
 - installation in situ, 2018, Fondation François Schneider, Wattwiller (collection of the foundation), opened 2018-10-27; see /post/2018-01-20_turbulences/
-{{< /speaker_note >}}
+{{< /speaker_note >}} 
+-->
 
 ---
 
@@ -1120,51 +1122,20 @@ Akiyoshi Kitaoka again, a scientist and a true artist. The snakes seem to rotate
 
 ---
 
-{{< slide background-video="https://laurentperrinet.github.io/sciblog/files/2025-04-24-orienting-yourself-in-the-visual-flow.mp4" background-video-loop="true" background-video-muted="true" >}}
-
-{{< speaker_note >}}
-**≈ 45 s**
-
-- generative stimuli, born from the art projects, become experimental tools
-- optic flow while moving through space
-
-
-How can these explorations serve neuroscience directly? The same generative tools we built for the artworks let us create controlled visual stimulations, here simulating the optic flow you experience while moving through space...
-
-
-- see https://laurentperrinet.github.io/sciblog/ (post of 2025-04-24, *Orienting yourself in the visual flow*)
-{{< /speaker_note >}}
-
----
-
 {{< slide background-video="https://laurentperrinet.github.io/sciblog/files/2025-04-24-orienting-yourself-in-the-visual-flow-perturb.mp4" background-video-loop="true" background-video-muted="true" >}}
 
 {{< speaker_note >}}
-**≈ 45 s**
+**≈ 60 s**
 
+- generative stimuli, born from the art projects, become experimental tools
+- optic flow while moving through space
 - add perturbations that force postural adaptation or eye movements
 
 
-... and to add perturbations to this flow, which force a postural adaptation or eye movements. Exactly what Étienne's installations do to visitors, but now in a controlled experiment.
-{{< /speaker_note >}}
-
----
-
-## Art & science reveal vision in action
-
-{{< figure src="https://laurentperrinet.github.io/author/ede-rancz/rancz_lite.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/author/ede-rancz/)" height="70%" >}}
-
-{{< speaker_note >}}
-**≈ 45 s**
-
-- with Ede Rancz (INMED): closed-loop virtual reality
-- visual or motor perturbations: balance between vision and proprioception
+How can these explorations serve neuroscience directly? The same generative tools we built for the artworks let us create controlled visual stimulations, here simulating the optic flow you experience while moving through space, and adding perturbations to this flow, which force a postural adaptation or eye movements. Exactly what Étienne's installations do to visitors, but now in a controlled experiment.
 
 
-With Ede Rancz, at the Mediterranean Institute of Neurobiology, we use such stimuli in a closed-loop virtual reality setup. By perturbing the visual flow or the motor feedback, we can study how the brain balances vision and proprioception, and how it handles a mismatch between what it predicts and what it senses.
-
-
-- Ede Rancz, Institut de Neurobiologie de la Méditerranée (INMED), Marseille; see /author/ede-rancz/
+- see https://laurentperrinet.github.io/sciblog/ (post of 2025-04-24, *Orienting yourself in the visual flow*)
 {{< /speaker_note >}}
 
 ---
@@ -1185,6 +1156,25 @@ The question is the role of neuromodulators in active perception, in terms of pr
 
 - PhD project co-directed with Ede Rancz: *Neuromodulatory control of predictive processing in visual cortical circuits* (CENTURI); see /post/2026-01-28_phd-position_neuromodulatory-predictive-processing/
 - aberrant precision weighting in schizophrenia: Adams, Stephan, Brown, Frith & Friston (2013), *The computational anatomy of psychosis*, Frontiers in Psychiatry 4:47, doi:10.3389/fpsyt.2013.00047
+{{< /speaker_note >}}
+
+---
+
+## Art & science reveal vision in action
+
+{{< figure src="https://laurentperrinet.github.io/author/ede-rancz/rancz_lite.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/author/ede-rancz/)" height="70%" >}}
+
+{{< speaker_note >}}
+**≈ 45 s**
+
+- with Ede Rancz (INMED): closed-loop virtual reality
+- visual or motor perturbations: balance between vision and proprioception
+
+
+With Ede Rancz, at the Mediterranean Institute of Neurobiology, we use such stimuli in a closed-loop virtual reality setup. By perturbing the visual flow or the motor feedback, we can study how the brain balances vision and proprioception, and how it handles a mismatch between what it predicts and what it senses.
+
+
+- Ede Rancz, Institut de Neurobiologie de la Méditerranée (INMED), Marseille; see /author/ede-rancz/
 {{< /speaker_note >}}
 
 </section>
