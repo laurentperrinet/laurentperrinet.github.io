@@ -53,12 +53,12 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 - welcome to Marseille; I am the local chair: thank the organising committee (PhD students of Aix-Marseille Université) for the theme "The Art of Neuroscience"
 - who I am: computational neuroscience, Institut de Neurosciences de la Timone (CNRS / Aix-Marseille Université); I model vision
 - session "Introduction to Art & Science": my job is to open these two days
-- thesis: artistic work is a form of research
+- thesis: artistic practice is a form of research (and vice versa)
 - slides + references on my web-site
 - if the organisers have already welcomed everyone: skip the welcome and start at "I am Laurent Perrinet, a researcher at the Institut de Neurosciences de la Timone…"
 
 
-*Good morning*, and welcome to Marseille and to the Saint-Charles campus. As the local chair, let me first thank the organising committee, PhD students of Aix-Marseille Université, for putting together these NeuroDays, and for choosing such a bold theme: "The Art of Neuroscience". I am Laurent Perrinet, a researcher at the Institut de Neurosciences de la Timone, where I build computational models of vision. My task this morning is to open the session "Introduction to Art & Science", and I will do it by defending a simple hypothesis: artistic work is a form of research. A quest for knowledge, and for surprise, that shares many features with the scientific approach, in particular when it explores our perception and our cognition. The slides and all the references are on my web-site.
+*Good morning*, and welcome to Marseille and to the Saint-Charles campus. As the local chair, let me first thank the organising committee, PhD students of Aix-Marseille Université, for putting together these NeuroDays, and for choosing such a bold theme: "The Art of Neuroscience". I am Laurent Perrinet, a researcher at the Institut de Neurosciences de la Timone, where I build computational models of vision. My task this morning is to open the session "Introduction to Art & Science", and I will do it by defending a simple hypothesis: artistic practice is a form of research, and vice versa. A quest for knowledge, and for surprise, that shares many features with the scientific approach, in particular when it explores our perception and our cognition. The slides and all the references are on my web-site.
 
 
 - NeuroDays 2026: 2026-11-26 and 2026-11-27, Saint-Charles campus; description by the GIS Arts & Éducation: https://gisartseduc.hypotheses.org/1632
@@ -80,8 +80,8 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 {{< speaker_note >}}
 **≈ 1 min 30 s**
 
-defending a simple hypothesis: artistic work is a form of research. - three words of the title = three steps
-
+- thesis: artistic practice is a form of research (and vice versa)
+- three words of the title = three steps
 - first: classic, widely discussed works, seen from a specific angle
 - second: a long-standing collaboration with Étienne Rey (Friche la Belle de Mai) focused on action and perception
 - third: how this dialogue feeds back into models of vision by modelling the retinotopy of the retina and the visual cortex, and the dynamics of visual processing
@@ -244,18 +244,22 @@ Now place them in front of this fan of radiating lines: they look bent outwards.
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Face-on-mars.jpg" title="[Cydonia Mensae (1976) *Viking Orbiter image*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
 
 {{< speaker_note >}}
-**≈ 1 min**
+**≈ 1 min 30 s**
 
 - 1976: Viking orbiter photographs Mars
 - context: since the late 19th century, "canals" and the myth of Martians
 - a face, seemingly carved in the rock
+- punchline: a sharper image taken decades later shows just a rock (both images are in the supplementary slides)
+- the brain is a machine to find meaning, even where there is none
+- first lesson: surprise is the signature of the hidden assumptions of perception
 
 
-Talking about priors, this image is famous. In 1976, the Viking orbiter photographed the surface of Mars, until then only known through blurry telescope images. Since the end of the nineteenth century, some astronomers had seen "canals" on Mars, and with them the possibility of intelligent life, the "Martians". And then this image came out: a face, seemingly carved in the rock of the Cydonia region.
+Talking about priors, this image is famous. In 1976, the Viking orbiter photographed the surface of Mars, until then only known through blurry telescope images. Since the end of the nineteenth century, some astronomers had seen "canals" on Mars, and with them the possibility of intelligent life, the "Martians". And then this image came out: a face, seemingly carved in the rock of the Cydonia region. Decades later, a new probe imaged the same terrain with a much higher resolution: it is just a rock! Our brain is a machine to find meaning, and faces above all, even where there is none. This is my first lesson: a surprise is the signature of a hidden assumption of our perception. And artists have played with these assumptions long before neuroscientists.
 
 
 - Viking 1 orbiter, frame 35A72, 1976-07-25
 - Schiaparelli's "canali" (1877), popularised by Percival Lowell
+- face pareidolia activates face-selective cortex: Taubert et al. (2017), *Face pareidolia in the rhesus monkey*, Current Biology 27(16):2505-2509, doi:10.1016/j.cub.2017.06.075
 {{< /speaker_note >}}
 
 ---
@@ -293,7 +297,7 @@ We have seen that vision tries to make sense, even when there is none, by puttin
 - structured scan paths, even in free viewing: faces attract fixations
 
 
-In the 1960s, Alfred Yarbus recorded the eye movements of observers looking at this painting. First observation: the eye moves all the time, it is active. Second: even in free viewing, the scan paths are not random, they are structured, and faces attract most of the fixations.
+In the 1960s, Alfred Yarbus recorded the eye movements of observers looking at this painting. First observation: the eye moves all the time, it is active, and how it moves depends on the species and on the individual. Second: even in free viewing, the scan paths are not random, they are structured, and faces attract most of the fixations.
 
 
 - Yarbus (1965, Russian edition; English translation 1967), *Eye Movements and Vision*, Plenum Press
@@ -345,12 +349,13 @@ If we ask for the ages of the people, the structure changes again, and the gaze 
 {{< speaker_note >}}
 **≈ 1 min**
 
+- bridge from Yarbus: artists explored active vision long before eye trackers
 - Morellet: centenary of his birth this year (1926-2016)
 - a sphere made of grids: alignments appear and vanish as you move
 - kinetic art: the work exists only through the active perception of the viewer
 
 
-Another artist of this period is François Morellet, born a century ago, in 1926. This sphere is made of superimposed grids: as you walk around it, alignments appear and vanish. This is kinetic art: the work does not exist on its own, it exists only through the active perception of the viewer. Keep this idea of superimposed grids in mind, we will come back to it with Étienne Rey.
+Artists explored this active vision long before laboratories had eye trackers. One of them is François Morellet, born a century ago, in 1926. This sphere is made of superimposed grids: as you walk around it, alignments appear and vanish. This is kinetic art: the work does not exist on its own, it exists only through the active perception of the viewer. Keep this idea of superimposed grids in mind, we will come back to it with Étienne Rey.
 
 
 - Morellet (1926-2016), co-founder of the GRAV (Groupe de Recherche d'Art Visuel, 1960)
@@ -385,20 +390,19 @@ Felice Varini paints on architecture shapes that only become coherent from a sin
 {{< figure src="https://laurentperrinet.github.io/author/etienne-rey/avatar.jpg" title="[Étienne Rey](https://laurentperrinet.github.io/author/etienne-rey/)" width="35%" >}}
 {{% /fragment %}}
 
-{{% fragment %}}
-**Hypothesis: artistic work is a form of research**
-{{% /fragment %}}
+{{% fragment %}}**Hypothesis: artistic practice is a form of research**{{% /fragment %}}
+{{% fragment %}}***(and vice versa)***{{% /fragment %}}
 
 {{< speaker_note >}}
 **≈ 45 s**
 
-- remind the hypothesis: artistic work is a form of research; this collaboration is the evidence
+- remind the hypothesis: artistic practice is a form of research (and vice versa); this collaboration is the evidence
 - Étienne Rey, visual artist, Friche la Belle de Mai, Marseille
 - explores space and light; works in public space, galleries, festivals (Ososphère)
 - we work together since the early 2010s
 
 
-Remember my hypothesis: artistic work is a form of research, and this collaboration is my evidence. Let me now introduce my partner in this exploration. Étienne Rey is a visual artist based at the Friche la Belle de Mai, here in Marseille. His work explores the very notion of space: light is his main material, and his installations aim at producing shifts in perception. His works are shown in public space, in galleries, and in festivals such as the Ososphère in Strasbourg. We have been working together for more than fifteen years.
+Remember my hypothesis: artistic practice is a form of research, and vice versa. This collaboration is my evidence. Let me now introduce my partner in this exploration. Étienne Rey is a visual artist based at the Friche la Belle de Mai, here in Marseille. His work explores the very notion of space: light is his main material, and his installations aim at producing shifts in perception. His works are shown in public space, in galleries, and in festivals such as the Ososphère in Strasbourg. We have been working together for more than fifteen years.
 
 
 - Étienne Rey's work: http://ondesparalleles.org/ and Documents d'artistes PACA
@@ -516,7 +520,7 @@ Cristal N°2, or "theoretical tree", is a fractal tree made of mirrors. An algor
 - a real-time program drives the choreography: from crystalline calm to chaos
 
 
-Another large collaboration: Trame Élasticité, shown in 2016 at the Fondation Vasarely, in homage to Vasarely. Twenty-five mirror monoliths, three metres high, rotate independently around their vertical axis, driven by a real-time program that we wrote together. The installation reflects the room and the visitors, multiplies the viewpoints, and its choreography moves from moments of crystalline calm to moments of chaos.
+Another large collaboration: Trame Élasticité, shown in 2016 at the Fondation Vasarely, in homage to Victor Vasarely, the founder of Op Art. Twenty-five mirror monoliths, three metres high, rotate independently around their vertical axis, driven by a real-time program that we wrote together. The installation reflects the room and the visitors, multiplies the viewpoints, and its choreography moves from moments of crystalline calm to moments of chaos.
 
 
 - 25 monoliths, 3 m high, 40 cm wide, on a 5 m base; Fondation Vasarely, 2016-06-02 to 2016-10-02 (exhibition *Multiplicité*); first shown at the Biennale Némo, CENTQUATRE, Paris, 2015-2016; see /post/2016-06-02_elasticite/
@@ -701,7 +705,7 @@ But let us start with a virtual tour of the two rooms of the exhibition. Notice 
 - a second layer on a glass plate 1 cm above: depth, halo, viewpoint-dependent perspective
 
 
-The first work is Densité floue, here in the version shown in Avignon in 2019. It uses the Delaunay networks I just showed, with a high entropy, printed on two layers: one on the wall, and one on a glass plate one centimetre above. This tiny gap is enough to create an effect of depth and of halo, and a perspective that changes with your viewpoint.
+The first work is Densité floue, here in the version shown in Avignon in 2019. It uses the Delaunay networks I showed earlier, with a high entropy, printed on two layers: one on the wall, and one on a glass plate one centimetre above. This tiny gap is enough to create an effect of depth and of halo, and a perspective that changes with your viewpoint.
 {{< /speaker_note >}}
 
 ---
@@ -747,7 +751,20 @@ In Caustiques, we explore the notion of form through transformation. It is a sim
 - two hexagonal polar grids, two colours: those of supernovae (oxygen and hydrogen)
 
 
-The central work is this one, the one on the poster. It consists of two hexagonal polar grids, in two colours, those of the emission lines of supernovae, oxygen and hydrogen, a wink to Vasarely's Supernovae.
+The central work is this one, the one on the poster. It consists of two hexagonal polar grids, in two colours, those of the emission lines of supernovae, oxygen and hydrogen, a wink to Vasarely's Supernovae (see the supplementary slides on Vasarely).
+{{< /speaker_note >}}
+
+---
+
+{{< slide background-video="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" background-video-loop="true" background-video-muted="true" >}}
+
+{{< speaker_note >}}
+**≈ 30 s**
+
+- the same work in motion
+
+
+Here is the same work in motion.
 {{< /speaker_note >}}
 
 ---
@@ -821,32 +838,16 @@ My contribution is, prosaically, to write code, and here is a version of it. For
 
 - varying the offset: the artistic experimentation
 - first answer: vision puts things together, 1 + 1 > 2
-- but what is it for? back to the lab
+- one last image from our recent work, then back to the lab
 
 
-By varying this offset, we explore the space of possible works: this is the artistic experimentation, and it is very close to a parameter scan in a lab. A first answer emerges: vision is for putting things together, for creating something new, where one plus one makes more than two. But what is it for? Let us go back to the lab.
+By varying this offset, we explore the space of possible works: this is the artistic experimentation, and it is very close to a parameter scan in a lab. A first answer emerges: vision is for putting things together, for creating something new, where one plus one makes more than two. One last image from our recent work, before we go back to the lab.
 {{< /speaker_note >}}
 
 
 ---
 
-{{< slide background-video="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" background-video-loop="true" background-video-muted="true" >}}
-
-
-
-{{< speaker_note >}}
-**≈ 45 s**
-
-- the central work, on the poster
-- two hexagonal polar grids, two colours: those of supernovae (oxygen and hydrogen)
-
-
-The central work is this one, the one on the poster. It consists of two hexagonal polar grids, in two colours, those of the emission lines of supernovae, oxygen and hydrogen, a wink to Vasarely's Supernovae.
-{{< /speaker_note >}}
-
----
-
-{{< slide background-image="https://raw.githubusercontent.com/laurentperrinet/sciblog/refs/heads/master/files/2026-07-31-pale-blue-dots.svg" height="100%" >}}
+{{< slide background-image="https://raw.githubusercontent.com/laurentperrinet/sciblog/refs/heads/master/files/2026-07-31-pale-blue-dots.svg" background-color="#000" height="100%" >}}
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -863,14 +864,34 @@ With Étienne, we made this image. Fixate one of the dots: it looks brighter tha
 
 - details: https://laurentperrinet.github.io/sciblog/posts/2026-07-31-pale-blue-dots.html
 {{< /speaker_note >}}
-<!-- DONE: speaker note written from the caption of /post/2026-11-18_intelligence-regard/ and the sciblog post -->
-
 
 </section>
 
 ---
 
 <section>
+
+## What is vision for: foveal vision
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/0/03/Johannes_Vermeer_-_The_lacemaker_%28c.1669-1671%29.jpg" title="[Johannes Vermeer (c. 1669-1670) *The Lacemaker*, Musée du Louvre](https://en.wikipedia.org/wiki/The_Lacemaker_%28Vermeer%29)" height="80%" >}}
+
+{{< speaker_note >}}
+**≈ 45 s**
+
+- Vermeer, *The Lacemaker*: razor-sharp at the centre (fingers and thread), soft elsewhere
+- the painter renders what we experience: we see sharply only where we look
+- answers the question asked by the previous slide: why is vision organised like this?
+
+
+Let us start with a painting. In Vermeer's *The Lacemaker*, the focus is razor-sharp on the fingers and the thread, while the threads in the foreground and the edges of the canvas dissolve into softness. Whether or not he used a camera obscura, he paints the way we see: sharply at the point of fixation, and coarsely around it.
+
+
+- Vermeer (1632-1675), *The Lacemaker* (c. 1669-1670), oil on canvas, Musée du Louvre, Paris; see https://en.wikipedia.org/wiki/The_Lacemaker_(Vermeer)
+- image: public domain, https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_The_lacemaker_(c.1669-1671).jpg
+- the use of a camera obscura by Vermeer is debated; the sharp-centre, soft-surround rendering is my reading of the painting, not a measured property
+{{< /speaker_note >}}
+
+---
 
 {{< slide background-video="https://laurentperrinet.github.io/talk/2025-12-12-main/50_fixation_sequence.mp4" background-video-loop="true" background-video-muted="true" >}}
 
@@ -1015,7 +1036,7 @@ Akiyoshi Kitaoka again, a scientist and a true artist. The snakes seem to rotate
 - add perturbations that force postural adaptation or eye movements
 
 
-How can these explorations serve neuroscience directly? The same generative tools we built for the artworks let us create controlled visual stimulations, here simulating the optic flow you experience while moving through space, and adding perturbations to this flow, which force a postural adaptation or eye movements. Exactly what Étienne's installations do to visitors, but now in a controlled experiment.
+These explorations also serve neuroscience directly. The same generative tools we built for the artworks let us create controlled visual stimulations, here simulating the optic flow you experience while moving through space, and adding perturbations to this flow, which force a postural adaptation or eye movements. Exactly what Étienne's installations do to visitors, but now in a controlled experiment.
 
 
 - see https://laurentperrinet.github.io/sciblog/ (post of 2025-04-24, *Orienting yourself in the visual flow*)
@@ -1030,11 +1051,12 @@ How can these explorations serve neuroscience directly? The same generative tool
 {{< speaker_note >}}
 **≈ 45 s**
 
+- with Ede Rancz (INMED, Marseille), these stimuli feed a question
 - role of neuromodulators in active perception, in terms of predictive processing
 - relevance for disorders such as schizophrenia
 
 
-The question is the role of neuromodulators in active perception, in terms of predictive processing: how the brain weighs its predictions against the sensory evidence. An imbalance in this weighting is one of the hypotheses for disorders such as schizophrenia. This is a direct heir of the questions that art taught us to ask.
+With Ede Rancz, at the Institut de Neurobiologie de la Méditerranée, these stimuli feed a question: the role of neuromodulators in active perception, in terms of predictive processing: how the brain weighs its predictions against the sensory evidence. An imbalance in this weighting is one of the hypotheses for disorders such as schizophrenia. This is a direct heir of the questions that art taught us to ask.
 
 
 - PhD project co-directed with Ede Rancz: *Neuromodulatory control of predictive processing in visual cortical circuits* (CENTURI); see /post/2026-01-28_phd-position_neuromodulatory-predictive-processing/
@@ -1050,11 +1072,11 @@ The question is the role of neuromodulators in active perception, in terms of pr
 {{< speaker_note >}}
 **≈ 45 s**
 
-- with Ede Rancz (INMED): closed-loop virtual reality
+- concretely: closed-loop virtual reality
 - visual or motor perturbations: balance between vision and proprioception
 
 
-With Ede Rancz, at the Mediterranean Institute of Neurobiology, we use such stimuli in a closed-loop virtual reality setup. By perturbing the visual flow or the motor feedback, we can study how the brain balances vision and proprioception, and how it handles a mismatch between what it predicts and what it senses.
+Concretely, we use such stimuli in a closed-loop virtual reality setup. By perturbing the visual flow or the motor feedback, we can study how the brain balances vision and proprioception, and how it handles a mismatch between what it predicts and what it senses.
 
 
 - Ede Rancz, Institut de Neurobiologie de la Méditerranée (INMED), Marseille; see /author/ede-rancz/
@@ -1066,34 +1088,6 @@ With Ede Rancz, at the Mediterranean Institute of Neurobiology, we use such stim
 ---
 
 <section>
-
-# [Seeing, Surprising, Understanding: When Art Becomes Neuroscience](https://laurentperrinet.github.io/slides/2026-11-26-neurodays/?transition=fade)
-## *[Laurent U Perrinet](https://laurentperrinet.github.io/talk/2026-11-26-neurodays/)*
-### <u>[NeuroDays 2026: The Art of Neuroscience](https://neurodays2026.sciencesconf.org/resource/page/id/6)</u>
-### [2026-11-26]
-![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
-[Art-Sciences](https://laurentperrinet.github.io/project/art-science/) / 
-Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
-
-<small>Thanks to Étienne Rey, Jean-Nicolas Jérémie, Emmanuel Daucé and Ede Rancz, and to CENTURI for the co-supervised PhD project on predictive processing.</small>
-
-{{< speaker_note >}}
-**≈ 2 min, then questions**
-
-- seeing: vision is active and creative
-- surprising: art and science both hunt for what defies expectations
-- understanding: artistic work is a form of research; the dialogue feeds both
-- thanks: Étienne Rey, JN Jérémie, E Daucé, E Rancz; CENTURI
-- embodied cognition (Varela); wish two inspiring days; thank you
-
-
-To sum up. Seeing: vision is not a camera, it is an active and creative process, which constantly makes sense of our senses. Surprising: artists, like scientists, look for what defies our expectations, and these surprises reveal the hidden mechanisms of perception, from Kitaoka's illusions to Yarbus's eye movements. Understanding: artistic work is a form of research, and the dialogue between art and neuroscience feeds both sides; the same grid can be an artwork at the Musée Granet and the input layer of a deep network. As Francisco Varela put it, cognition is embodied: the intelligence of the gaze lies in a body that moves through the world. I thank Étienne Rey, Jean-Nicolas Jérémie, Emmanuel Daucé and Ede Rancz, as well as CENTURI, who support our work on predictive processing. I wish you two inspiring NeuroDays. Thank you, and I am happy to take your questions.
-
-
-- Varela, Thompson & Rosch (1991), *The Embodied Mind: Cognitive Science and Human Experience*, MIT Press
-{{< /speaker_note >}}
-
----
 
 {{< slide background-video="https://laurentperrinet.github.io/post/2026-10-24_impermanence/A_impermanence.mp4" background-video-loop="true" background-video-muted="true" background-size="contain" background-color="#000" >}}
 
@@ -1140,6 +1134,34 @@ Here are four of the sculptures, which I filmed at the Vieille Charité. Nothing
 
 
 - videos: Laurent Perrinet, *Souffles terrestres*, Vieille Charité, 2026
+{{< /speaker_note >}}
+
+---
+
+# [Seeing, Surprising, Understanding: When Art Becomes Neuroscience](https://laurentperrinet.github.io/slides/2026-11-26-neurodays/?transition=fade)
+## *[Laurent U Perrinet](https://laurentperrinet.github.io/talk/2026-11-26-neurodays/)*
+### <u>[NeuroDays 2026: The Art of Neuroscience](https://neurodays2026.sciencesconf.org/resource/page/id/6)</u>
+### [2026-11-26]
+![logo](https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/logotypes/troislogos.jpg)
+[Art-Sciences](https://laurentperrinet.github.io/project/art-science/) / 
+Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
+
+<small>Thanks to Étienne Rey, Jean-Nicolas Jérémie, Emmanuel Daucé and Ede Rancz, and to CENTURI for the co-supervised PhD project on predictive processing.</small>
+
+{{< speaker_note >}}
+**≈ 2 min, then questions**
+
+- seeing: vision is active and creative
+- surprising: art and science both hunt for what defies expectations
+- understanding: artistic practice is a form of research (and vice versa); the dialogue feeds both
+- thanks: Étienne Rey, JN Jérémie, E Daucé, E Rancz; CENTURI
+- embodied cognition (Varela); wish two inspiring days; thank you
+
+
+To sum up. Seeing: vision is not a camera, it is an active and creative process, which constantly makes sense of our senses. Surprising: artists, like scientists, look for what defies our expectations, and these surprises reveal the hidden mechanisms of perception, from Kitaoka's illusions to Yarbus's eye movements. Understanding: artistic practice is a form of research, and vice versa, so the dialogue between art and neuroscience feeds both sides; the same grid can be an artwork at the Musée Granet and the input layer of a deep network. As Francisco Varela put it, cognition is embodied: the intelligence of the gaze lies in a body that moves through the world. I thank Étienne Rey, Jean-Nicolas Jérémie, Emmanuel Daucé and Ede Rancz, as well as CENTURI, who support our work on predictive processing. I wish you two inspiring NeuroDays. Thank you, and I am happy to take your questions.
+
+
+- Varela, Thompson & Rosch (1991), *The Embodied Mind: Cognitive Science and Human Experience*, MIT Press
 {{< /speaker_note >}}
 
 </section>
@@ -1209,21 +1231,6 @@ Decades later, a new probe photographed the same terrain with a much higher reso
 
 {{< figure src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_LmwCk716jFOMR8cAwmX96DUlrCFEGfgwJVp4SaDvk9AmlGiXA25N9-DViXxGW9zHE2AHBLxo1dVuHUg9TvRn2yEsmt-i_vvNX_h9rBqnnOFVqFUCbnXIPWVWtkv_tqKGcHRMzX4wUJQ/s1600/800px-FondationAix.JPG" title="[Victor Vasarely (1976) Fondation Vasarely, Aix-en-Provence](https://en.wikipedia.org/wiki/Fondation_Vasarely)" width="60%" >}}
 
----
-
-## What is vision for: foveal retinotopy
-
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_dolphin.jpg" title="[JN Jérémie, E Daucé and LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
-
-{{< speaker_note >}}
-**≈ 30 s**
-
-- a great diversity of retinotopies across species (density maps)
-- dolphins: one or two high-density areas per eye
-
-
-Note the great diversity of retinotopies across species; we show here maps of photoreceptor density. Dolphins, for instance, may have not one but two high-density areas in each eye.
-{{< /speaker_note >}}
 
 ---
 
@@ -1302,6 +1309,22 @@ The second commission, Horizon commun, is a course of seven works for a high sch
 
 
 - seven works: outdoor sculptures and six *Surfaces chromatiques* (screen-printed aluminium); public commission (1 % artistique), Région Nouvelle-Aquitaine, lycée Robert Badinter, Créon; see /post/2026-10-24_horizon-commun/
+{{< /speaker_note >}}
+
+---
+
+## What is vision for: foveal retinotopy
+
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_dolphin.jpg" title="[JN Jérémie, E Daucé and LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
+
+{{< speaker_note >}}
+**≈ 30 s**
+
+- a great diversity of retinotopies across species (density maps)
+- dolphins: one or two high-density areas per eye
+
+
+Note the great diversity of retinotopies across species; we show here maps of photoreceptor density. Dolphins, for instance, may have not one but two high-density areas in each eye.
 {{< /speaker_note >}}
 
 
