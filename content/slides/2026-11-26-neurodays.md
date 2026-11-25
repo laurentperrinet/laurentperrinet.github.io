@@ -105,7 +105,7 @@ The title of this talk gives its plan. Seeing: vision is not a camera, it is an 
 
 ## "The unreasonable effectiveness of vision"
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/95/Nage_de_la_raie%2C_Marey%2C_1894.gif" title="Swimming ray, 1894 [[Étienne-Jules Marey]](https://en.wikipedia.org/wiki/%C3%89tienne-Jules_Marey)" width="100%" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/95/Nage_de_la_raie%2C_Marey%2C_1894.gif" title="[Étienne-Jules Marey (1894) *Swimming ray*](https://en.wikipedia.org/wiki/%C3%89tienne-Jules_Marey)" width="95%" >}}
 
 {{< speaker_note >}}
 **≈ 1 min 30 s**
@@ -126,7 +126,7 @@ Let me start with this swimming ray, captured in 1894 by Étienne-Jules Marey. M
 
 ---
 
-{{< slide background-image="https://upload.wikimedia.org/wikipedia/commons/5/5b/18_PanneauDesLions%28PartieDroite%29BisonsPoursuivisParDesLions.jpg" >}}
+{{< slide background-image="https://upload.wikimedia.org/wikipedia/commons/5/5b/18_PanneauDesLions%28PartieDroite%29BisonsPoursuivisParDesLions.jpg" background-size="contain" >}}
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -147,7 +147,7 @@ Here is the Panel of the Lions in the Chauvet cave. Do we see a pride of lions h
 ## "The unreasonable effectiveness of vision"
 
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/5/5b/18_PanneauDesLions%28PartieDroite%29BisonsPoursuivisParDesLions.jpg" title="Panel of the Lions [[Chauvet Cave, ~36 ka]](https://en.wikipedia.org/wiki/Chauvet_Cave)" width="90%" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/5/5b/18_PanneauDesLions%28PartieDroite%29BisonsPoursuivisParDesLions.jpg" title="Panel of the Lions [[Chauvet Cave, ~36 ka]](https://en.wikipedia.org/wiki/Chauvet_Cave)" width="68%" >}}
 
 {{< speaker_note >}}
 **≈ 30 s**
@@ -166,7 +166,7 @@ These paintings are tens of thousands of years old; if you have the chance, visi
 
 ## "The unreasonable effectiveness of vision"
 
-{{< figure src="https://images.theconversation.com/files/568221/original/file-20240108-17-78s0cj.png" title="How vision evolved... [[LP, 2024, The Conversation]](https://theconversation.com/chats-mouches-humains-comment-la-vision-a-evolue-en-de-multiples-facettes-220083)" width="100%" >}}
+{{< figure src="https://images.theconversation.com/files/568221/original/file-20240108-17-78s0cj.png" title="[LP (2024) *How vision evolved...*, The Conversation](https://theconversation.com/chats-mouches-humains-comment-la-vision-a-evolue-en-de-multiples-facettes-220083)" width="95%" >}}
 
 {{< speaker_note >}}
 **≈ 1 min**
@@ -186,7 +186,7 @@ The organ of vision is the eye, and evolution has produced a striking diversity 
 
 ## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
 
-{{< video src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Kitaoka.mp4" controls="yes" width="80%" >}}
+<video controls style="width: 80.6%; height: auto;"><source src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Kitaoka.mp4" type="video/mp4"></video>
 [Illusions of brightness or lightness *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 
 {{< speaker_note >}}
@@ -209,7 +209,7 @@ Visual illusions. Here is a simple demonstration by Akiyoshi Kitaoka, a vision s
 
 ## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
 
-{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion_without.svg" title="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" width="70%" >}}
+{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion_without.svg" title="[Ewald Hering (1861) *Hering illusion*](https://en.wikipedia.org/wiki/Hering_illusion)" width="60.7%" >}}
 
 {{< speaker_note >}}
 **≈ 20 s**
@@ -224,7 +224,7 @@ Vision can also play with geometry. Take these two lines: they are parallel and 
 
 ## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
 
-{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion.svg" title="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" width="70%" >}}
+{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion.svg" title="[Ewald Hering (1861) *Hering illusion*](https://en.wikipedia.org/wiki/Hering_illusion)" width="60.7%" >}}
 
 {{< speaker_note >}}
 **≈ 1 min**
@@ -245,7 +245,7 @@ Now place them in front of this fan of radiating lines: they look bent outwards.
 
 ## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/): [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
 
-{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Face-on-mars.jpg" title="[Cydonia Mensae (1976) *Viking Orbiter image*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
+{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Face-on-mars.jpg" title="[Cydonia Mensae (1976) *Viking Orbiter image*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="45.3%" >}}
 
 {{< speaker_note >}}
 **≈ 1 min 30 s**
@@ -271,7 +271,7 @@ Talking about priors, this image is famous. In 1976, the Viking orbiter photogra
 ## What is vision for?
 
 {{% fragment %}} 
-{{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_001.jpg" title="[Ilya Repin (1884) An Unexpected Visitor](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
+{{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_001.jpg" title="[Ilya Repin (1884) An Unexpected Visitor](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="47.3%" >}}
 {{% /fragment %}}
 
 {{< speaker_note >}}
@@ -291,7 +291,7 @@ We have seen that vision tries to make sense, even when there is none, by puttin
 
 ## What is vision for?
 
-{{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_002.jpg" title="[Yarbus (1965) An Unexpected Visitor](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
+{{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_002.jpg" title="[Yarbus (1965) An Unexpected Visitor](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="48.3%" >}}
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -311,7 +311,7 @@ In the 1960s, Alfred Yarbus recorded the eye movements of observers looking at t
 
 ## What is vision for?
 
-{{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_006.jpg" title="[Yarbus (1965) An Unexpected Visitor *How long?*](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
+{{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_006.jpg" title="[Yarbus (1965) An Unexpected Visitor *How long?*](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="48.3%" >}}
 
 {{< speaker_note >}}
 **≈ 40 s**
@@ -327,7 +327,7 @@ And this structure depends on the task. If we ask the observer "How long has the
 
 ## What is vision for?
 
-{{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_003.jpg" title="[Yarbus (1965) An Unexpected Visitor - *Age?*](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="45%" >}}
+{{< figure src="https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_003.jpg" title="[Yarbus (1965) An Unexpected Visitor - *Age?*](https://www.cabinetmagazine.org/issues/30/archibald.php)" width="48.3%" >}}
 
 {{< speaker_note >}}
 **≈ 1 min**
@@ -348,7 +348,7 @@ If we ask for the ages of the people, the structure changes again, and the gaze 
 
 ## Perception as an emergent process
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Mgmorellet.jpg" title="[François Morellet (1962) Sphère - trames](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Morellet)" width="80%" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Mgmorellet.jpg" title="[François Morellet (1962) Sphère - trames](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Morellet)" width="60.4%" >}}
 
 {{< speaker_note >}}
 **≈ 1 min**
@@ -367,7 +367,7 @@ Artists explored this active vision long before laboratories had eye trackers. O
 
 ---
 
-{{< slide background-video="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/Varini.mp4" background-video-loop="true" background-video-muted="true" title="Felice Varini: anamorphosis painted on architecture" >}}
+{{< slide background-video="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/Varini.mp4" background-video-loop="true" background-video-muted="true" title="Felice Varini: anamorphosis painted on architecture" background-size="contain" >}}
 
 {{< speaker_note >}}
 **≈ 45 s** (optional)
@@ -391,7 +391,7 @@ Felice Varini paints on architecture shapes that only become coherent from a sin
 ## When art becomes neuroscience
 
 {{% fragment %}} 
-{{< figure src="https://laurentperrinet.github.io/author/etienne-rey/avatar.jpg" title="[Étienne Rey](https://laurentperrinet.github.io/author/etienne-rey/)" width="35%" >}}
+{{< figure src="https://laurentperrinet.github.io/author/etienne-rey/avatar.jpg" title="[Étienne Rey](https://laurentperrinet.github.io/author/etienne-rey/)" width="28.6%" >}}
 {{% /fragment %}}
 
 {{% fragment %}}Hypothesis: <br> **Artistic practice is a form of research**{{% /fragment %}}
@@ -417,7 +417,7 @@ Remember my hypothesis: artistic practice is a form of research, and vice versa.
 
 ## When art becomes neuroscience
 
-{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Étienne Rey (2010) Spectre audiographique](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="100%" >}}
+{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Étienne Rey (2010) Spectre audiographique](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="80.6%" >}}
 
 
 {{< speaker_note >}}
@@ -438,7 +438,7 @@ It all started in 2010, when Étienne invited me to give a talk at the opening o
 
 ## Vision in action: Tropique
 
-{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_b.jpg" title="[Étienne Rey (2013) Tropique](https://ondesparalleles.org/projets/tropique-7/)" width="100%" >}}
+{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_b.jpg" title="[Étienne Rey (2013) Tropique](https://ondesparalleles.org/projets/tropique-7/)" width="80.6%" >}}
 
 {{< speaker_note >}}
 **≈ 1 min 15 s**
@@ -462,7 +462,7 @@ Our first large project was Tropique, for Marseille-Provence 2013, European Capi
 
 ## Vision in action: Tropique
 
-<iframe src="https://player.vimeo.com/video/66161665" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/66161665" width="1200" height="675" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 {{< speaker_note >}}
 **≈ 1 min**
@@ -478,7 +478,7 @@ Please excuse the quality of the video. What you see are blades of light that be
 
 ## Vision in action: Tropique
 
-<iframe src="https://player.vimeo.com/video/56198653" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/56198653" width="1200" height="675" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 {{< speaker_note >}}
 **≈ 1 min**
@@ -496,7 +496,7 @@ Why the sensors? For interaction. The light responds to the movements of the vis
 
 ## Reflection: Cristal N°2
 
-{{< figure src="https://laurentperrinet.github.io/post/2022-09-30_cristal-no2/cristal-n2-detail.jpg" title="[Étienne Rey (2014) Cristal n°2 - Arbre théorique, detail](https://laurentperrinet.github.io/post/2022-09-30_cristal-no2/)" width="70%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2022-09-30_cristal-no2/cristal-n2-detail.jpg" title="[Étienne Rey (2014) Cristal n°2 - Arbre théorique, detail](https://laurentperrinet.github.io/post/2022-09-30_cristal-no2/)" width="68.2%" >}}
 
 {{< speaker_note >}}
 **≈ 45 s** (optional)
@@ -514,7 +514,7 @@ Cristal N°2, or "theoretical tree", is a fractal tree made of mirrors. An algor
 
 ---
 
-{{< figure src="https://laurentperrinet.github.io/post/2016-06-02_elasticite/TRAME_Elasticité.jpg" title="[Étienne Rey (2016) Trame élasticité](https://ondesparalleles.org/projets/trame-elasticite-vasarely/)" width="100%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2016-06-02_elasticite/TRAME_Elasticité.jpg" title="[Étienne Rey (2016) Trame élasticité](https://ondesparalleles.org/projets/trame-elasticite-vasarely/)" width="76.2%" >}}
 
 {{< speaker_note >}}
 **≈ 1 min 15 s**
@@ -535,7 +535,7 @@ Another large collaboration: Trame Élasticité, shown in 2016 at the Fondation 
 
 ## Vision in action: Trame élasticité
 
-<iframe src="https://player.vimeo.com/video/198189587" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/198189587" width="1200" height="675" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 {{< speaker_note >}}
 **≈ 1 min**
@@ -551,7 +551,7 @@ An Instagram trap, as you can imagine! But scientifically, what interests us is 
 
 ## Perception as an emergent process
 
-{{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png" title="[Étienne Rey (2018) Trames](https://laurentperrinet.github.io/post/2018-04-10_trames/)" width="72%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png" title="[Étienne Rey (2018) Trames](https://laurentperrinet.github.io/post/2018-04-10_trames/)" width="56.8%" >}}
 
 {{< speaker_note >}}
 **≈ 1 min 15 s**
@@ -571,7 +571,7 @@ In the lineage of François Morellet, we experimented with superimposed grids. E
 
 ## Perception as an emergent process: Instabilité
 
-{{< figure src="https://laurentperrinet.github.io/post/2018-09-09_artorama/instabilite-1-618.jpg" title="[Étienne Rey (2018) *Instabilité 1,618* , 100 × 100 cm](https://laurentperrinet.github.io/post/2018-09-09_artorama/)" width="50%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2018-09-09_artorama/instabilite-1-618.jpg" title="[Étienne Rey (2018) *Instabilité 1,618* , 100 × 100 cm](https://laurentperrinet.github.io/post/2018-09-09_artorama/)" width="45.3%" >}}
 
 {{< speaker_note >}}
 **≈ 45 s** (optional)
@@ -592,7 +592,7 @@ The series Instabilité pushes this principle further. We designed together a gr
 
 ## Perception as an emergent process
 
-{{< figure src="https://laurentperrinet.github.io/post/2026-02-20_ososphere/643545855_18444436261109562_1480440487903792518_n.jpg" title="[Étienne Rey (2018-2019) Variable Density, Delaunay series, Ososphère 2026](https://laurentperrinet.github.io/post/2026-02-20_ososphere/)" width="61.8%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2026-02-20_ososphere/643545855_18444436261109562_1480440487903792518_n.jpg" title="[Étienne Rey (2018-2019) Variable Density, Delaunay series, Ososphère 2026](https://laurentperrinet.github.io/post/2026-02-20_ososphere/)" width="45.3%" >}}
 
 {{< speaker_note >}}
 **≈ 1 min**
@@ -613,7 +613,7 @@ How do we put the pieces of the puzzle together? In the series Variable Density,
 
 ## Horizon faille @ Interstice
 
-{{< figure src="https://laurentperrinet.github.io/post/2021-10-04_interstices/featured.jpg" title="[Étienne Rey (2021) Horizon faille, festival Interstice, Caen](https://laurentperrinet.github.io/post/2021-10-04_interstices/)" width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2021-10-04_interstices/featured.jpg" title="[Étienne Rey (2021) Horizon faille, festival Interstice, Caen](https://laurentperrinet.github.io/post/2021-10-04_interstices/)" width="55.2%" >}}
 
 {{< speaker_note >}}
 **≈ 45 s** (optional)
@@ -634,7 +634,7 @@ Horizon faille travelled to Caen in 2021, in the orangery of the botanical garde
 
 <section>
 
-{{< figure src="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" width="50%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/featured.jpg" title="[Étienne Rey (2024) *La vibration des apparences*](https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/)" width="34.8%" >}}
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -653,7 +653,7 @@ To bring all of this together, Étienne organised an exhibition at the Musée Gr
 
 ## La vibration des apparences
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Montagne_Sainte-Victoire%2C_par_Paul_C%C3%A9zanne_108.jpg" title="[Paul Cézanne, Montagne Sainte-Victoire, 1904](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne)" width="62%" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Montagne_Sainte-Victoire%2C_par_Paul_C%C3%A9zanne_108.jpg" title="[Paul Cézanne (1904) *Montagne Sainte-Victoire*](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne)" width="57.1%" >}}
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -669,7 +669,7 @@ The Musée Granet is, in a way, Cézanne's museum, and the Montagne Sainte-Victo
 
 ## La vibration des apparences
 
-{{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/Merleau-Ponty_Sens-et-non-sens.png" title="[Merleau-Ponty, *Le Doute de Cézanne* (1948)](https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/)" width="62%" >}}
+{{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/Merleau-Ponty_Sens-et-non-sens.png" title="[Maurice Merleau-Ponty (1948) *Le Doute de Cézanne*](https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/)" width="80.4%" >}}
 
 {{< speaker_note >}}
 **≈ 1 min**
@@ -687,7 +687,7 @@ The Musée Granet is, in a way, Cézanne's museum, and the Montagne Sainte-Victo
 
 ---
 
-{{< slide background-video="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/visite_virtuelle.mp4" background-video-loop="true" background-video-muted="true" >}}
+{{< slide background-video="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/visite_virtuelle.mp4" background-video-loop="true" background-video-muted="true" background-size="contain" >}}
 
 {{< speaker_note >}}
 **≈ 1 min**
@@ -700,7 +700,7 @@ But let us start with a virtual tour of the two rooms of the exhibition. Notice 
 
 ---
 
-{{< slide background-image="https://laurentperrinet.github.io/post/2019-06-22_ardemone/Avignon-02.jpg" height="80%" >}}
+{{< slide background-image="https://laurentperrinet.github.io/post/2019-06-22_ardemone/Avignon-02.jpg" background-size="contain" >}}
 
 {{< speaker_note >}}
 **≈ 1 min**
@@ -714,7 +714,7 @@ The first work is Densité floue, here in the version shown in Avignon in 2019. 
 
 ---
 
-{{< figure src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/Avignon-02.jpg" title="Étienne Rey (2019) Horizon faille - Densité floue - Sans gravité - une poétique de l’air à Ardenome Avignon https://www.enrevenantdelexpo.com" lightbox="true" height="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/Avignon-02.jpg" title="Étienne Rey (2019) Horizon faille - Densité floue - Sans gravité - une poétique de l’air à Ardenome Avignon https://www.enrevenantdelexpo.com" lightbox="true" width="90.3%" >}}
 
 {{< speaker_note >}}
 **≈ 30 s** (optional)
@@ -727,7 +727,7 @@ What we explore here is the boundary between what is perceived and what is not: 
 
 ---
 
-{{< slide background-video="https://github.com/NaturalPatterns/2020_caustiques/raw/main/iridiscence.mp4" background-video-loop="true" background-video-muted="true" >}}
+{{< slide background-video="https://github.com/NaturalPatterns/2020_caustiques/raw/main/iridiscence.mp4" background-video-loop="true" background-video-muted="true" background-size="contain" >}}
 
 {{< speaker_note >}}
 **≈ 1 min 15 s**
@@ -746,7 +746,7 @@ In Caustiques, we explore the notion of form through transformation. It is a sim
 
 ---
 
-{{< slide background-image="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png" height="80%" >}}
+{{< slide background-image="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2024-09-04_canaux_both.png" background-size="contain" >}}
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -760,7 +760,7 @@ The central work is this one, the one on the poster. It consists of two hexagona
 
 ---
 
-{{< slide background-video="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" background-video-loop="true" background-video-muted="true" >}}
+{{< slide background-video="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" background-video-loop="true" background-video-muted="true" background-size="contain" >}}
 
 {{< speaker_note >}}
 **≈ 30 s**
@@ -775,7 +775,7 @@ Here is the same work in motion.
 
 ## La vibration des apparences
 
-{{< figure src="https://laurentperrinet.github.io/talk/2026-01-19-art-and-science/featured.jpg" title="[Étienne Rey (2025) Polaire](https://laurentperrinet.github.io/author/etienne-rey/)" width="62%" >}}
+{{< figure src="https://laurentperrinet.github.io/talk/2026-01-19-art-and-science/featured.jpg" title="[Étienne Rey (2025) Polaire](https://laurentperrinet.github.io/author/etienne-rey/)" width="60.4%" >}}
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -831,7 +831,7 @@ My contribution is, prosaically, to write code, and here is a version of it. For
 
 ---
 
-{{< slide background-video="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2025-01-18_la-vibration-des-apparences.mp4" background-video-loop="true" background-video-muted="true" >}}
+{{< slide background-video="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/2025-01-18_la-vibration-des-apparences.mp4" background-video-loop="true" background-video-muted="true" background-size="contain" >}}
 
 {{< speaker_note >}}
 **≈ 1 min**
@@ -847,7 +847,7 @@ By varying this offset, we explore the space of possible works: this is the arti
 
 ---
 
-{{< slide background-image="https://raw.githubusercontent.com/laurentperrinet/sciblog/refs/heads/master/files/2026-07-31-pale-blue-dots_big.svg" background-color="#000" height="100%" >}}
+{{< slide background-image="https://raw.githubusercontent.com/laurentperrinet/sciblog/refs/heads/master/files/2026-07-31-pale-blue-dots_big.svg" background-color="#000" background-size="contain" >}}
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -873,7 +873,7 @@ With Étienne, we made this image. Fixate one of the dots: it looks brighter tha
 
 ## What is vision for: foveal vision
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/0/03/Johannes_Vermeer_-_The_lacemaker_%28c.1669-1671%29.jpg" title="[Johannes Vermeer (c. 1669-1670) *The Lacemaker*, Musée du Louvre](https://en.wikipedia.org/wiki/The_Lacemaker_%28Vermeer%29)" height="80%" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/0/03/Johannes_Vermeer_-_The_lacemaker_%28c.1669-1671%29.jpg" title="[Johannes Vermeer (c. 1669-1670) *The Lacemaker*, Musée du Louvre](https://en.wikipedia.org/wiki/The_Lacemaker_%28Vermeer%29)" width="39.5%" >}}
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -893,7 +893,7 @@ Let us start with a painting. In Vermeer's *The Lacemaker*, the focus is razor-s
 
 ---
 
-{{< slide background-video="https://laurentperrinet.github.io/talk/2025-12-12-main/50_fixation_sequence.mp4" background-video-loop="true" background-video-muted="true" >}}
+{{< slide background-video="https://laurentperrinet.github.io/talk/2025-12-12-main/50_fixation_sequence.mp4" background-video-loop="true" background-video-muted="true" background-size="contain" >}}
 
 {{< speaker_note >}}
 **≈ 1 min 15 s**
@@ -914,7 +914,7 @@ Remember Yarbus: why do we move our eyes at all? If our retina were uniform, we 
 
 ## What is vision for: foveal retinotopy
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_primate.jpg" title="[JN Jérémie, E Daucé and LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_primate.jpg" title="[JN Jérémie, E Daucé and LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="95%" >}}
 
 {{< speaker_note >}}
 **≈ 1 min**
@@ -934,7 +934,7 @@ This simulation is based on a model of retinotopy, the map that projects the vis
 
 ## What is vision for: foveal retinotopy
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_hallucinations.jpg" title="[JN Jérémie, E Daucé and LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_hallucinations.jpg" title="[JN Jérémie, E Daucé and LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="85.3%" >}}
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -953,7 +953,7 @@ We are blind to this change of precision across the visual field. But retinotopy
 
 ## What is vision for: foveal retinotopy
 
-{{< figure src="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/images/retinotopy.png" title="[E Rey and LP (2026) Formes & perception](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/)" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/2023-01-31_formes-et-perception/images/retinotopy.png" title="[E Rey and LP (2026) Formes & perception](https://laurentperrinet.github.io/2023-01-31_formes-et-perception/)" width="95%" >}}
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -972,7 +972,7 @@ This is where art and modelling meet. This figure comes from an essay that Étie
 
 ## What is vision for: foveal retinotopy
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/graphical.png" title="[JN Jérémie, E Daucé and LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/graphical.png" title="[JN Jérémie, E Daucé and LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="73.3%" >}}
 
 {{< speaker_note >}}
 **≈ 1 min 15 s**
@@ -993,7 +993,7 @@ We tested this idea in artificial intelligence. We placed a foveated, log-polar 
 
 ---
 
-{{< slide background-image="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg" >}}
+{{< slide background-image="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg" background-size="contain" >}}
 
 {{< speaker_note >}}
 **≈ 20 s**
@@ -1008,7 +1008,7 @@ And this dependence on the point of view is beautifully illustrated by this illu
 
 ## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/)
 
-{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg" title="[Rotating Snakes *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)" width="70%" >}}
+{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg" title="[Akiyoshi Kitaoka (2003) *Rotating Snakes*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)" width="61.2%" >}}
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -1026,7 +1026,7 @@ Akiyoshi Kitaoka again, a scientist and a true artist. The snakes seem to rotate
 
 ---
 
-{{< slide background-video="https://laurentperrinet.github.io/sciblog/files/2025-04-24-orienting-yourself-in-the-visual-flow-perturb.mp4" background-video-loop="true" background-video-muted="true" >}}
+{{< slide background-video="https://laurentperrinet.github.io/sciblog/files/2025-04-24-orienting-yourself-in-the-visual-flow-perturb.mp4" background-video-loop="true" background-video-muted="true" background-size="contain" >}}
 
 {{< speaker_note >}}
 **≈ 60 s**
@@ -1046,7 +1046,7 @@ These explorations also serve neuroscience directly. The same generative tools w
 
 ## Art & science reveal vision in action
 
-{{< figure src="https://laurentperrinet.github.io/author/ede-rancz/rancz_free.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/author/ede-rancz/)" height="70%" >}}
+{{< figure src="https://laurentperrinet.github.io/author/ede-rancz/rancz_free.png" title="[Ede Rancz (2026) *Neuromodulators in active perception*](https://laurentperrinet.github.io/author/ede-rancz/)" width="63.7%" >}}
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -1067,7 +1067,7 @@ With Ede Rancz, at the Institut de Neurobiologie de la Méditerranée, these sti
 
 ## Art & science reveal vision in action
 
-{{< figure src="https://laurentperrinet.github.io/author/ede-rancz/rancz_lite.png" title="[Ede Rancz, Role of neuromodulators in active perception](https://laurentperrinet.github.io/author/ede-rancz/)" height="70%" >}}
+{{< figure src="https://laurentperrinet.github.io/author/ede-rancz/rancz_lite.png" title="[Ede Rancz (2026) *Neuromodulators in active perception*](https://laurentperrinet.github.io/author/ede-rancz/)" width="62.6%" >}}
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -1120,7 +1120,7 @@ Let me end this journey with a work that you can see right now, a short walk fro
 <video controls data-autoplay muted loop playsinline preload="auto" poster="https://laurentperrinet.github.io/post/2026-10-24_impermanence/E_impermanence.jpg" style="width: 25%; height: 100%; object-fit: cover; margin: 0;"><source src="https://laurentperrinet.github.io/post/2026-10-24_impermanence/E_impermanence.mp4" type="video/mp4"></video>
 </div>
 
-<small>*Souffles terrestres*, Centre de la Vieille Charité, Marseille, 2026-10-24 to 2026-12-13</small>
+<small>[*Souffles terrestres*, Centre de la Vieille Charité, Marseille, 2026-10-24 to 2026-12-13](https://laurentperrinet.github.io/post/2026-10-24_impermanence/)</small>
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -1176,7 +1176,7 @@ To sum up. Seeing: vision is not a camera, it is an active and creative process,
 
 ## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/): [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
 
-{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_low.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
+{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_low.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="45.9%" >}}
 
 {{< speaker_note >}}
 **≈ 20 s**
@@ -1191,7 +1191,7 @@ Decades later, a new probe photographed the same terrain with a much higher reso
 
 ## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/): [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
 
-{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_high.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
+{{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_high.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="45.9%" >}}
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -1211,32 +1211,32 @@ Decades later, a new probe photographed the same terrain with a much higher reso
 
 ## Victor Vasarely
 
-{{< figure src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnqT-ltEk7fE-iUfHgea6HPeusGiz357ctHroJoxUxy02oXJ4U8EGbWoXPz0aEaTOtKQKNBCJ9IMsXMKBpS9ngmwWsAESV8Rrto9iM3mCBaYmRj6MiQqpyGy-uzomgMHtdXxE6QNwBqr8/s1600/fds.jpg" title="[Victor Vasarely](https://en.wikipedia.org/wiki/Victor_Vasarely)" width="100%" >}}
+{{< figure src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnqT-ltEk7fE-iUfHgea6HPeusGiz357ctHroJoxUxy02oXJ4U8EGbWoXPz0aEaTOtKQKNBCJ9IMsXMKBpS9ngmwWsAESV8Rrto9iM3mCBaYmRj6MiQqpyGy-uzomgMHtdXxE6QNwBqr8/s1600/fds.jpg" title="[Victor Vasarely](https://en.wikipedia.org/wiki/Victor_Vasarely)" width="68.5%" >}}
 
 ---
 
 ## Victor Vasarely
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/1/14/Hungary_pecs_-_vasarely0.jpg" title="[Victor Vasarely (1977) Outdoor Vasarely artwork at the church of Pálos in Pécs](https://en.wikipedia.org/wiki/Victor_Vasarely)" width="100%" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/1/14/Hungary_pecs_-_vasarely0.jpg" title="[Victor Vasarely (1977) Outdoor Vasarely artwork at the church of Pálos in Pécs](https://en.wikipedia.org/wiki/Victor_Vasarely)" width="60.4%" >}}
 
 ---
 
 ## Victor Vasarely
 
-{{< figure src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUqb-w6zGJ8ul1sTnh0gXi2PWwDC4uNM0Ctj_XNerPS-BuJR6_ZGNsNWO8fv5fl3S5is8faHPrgSsD1f7_KR8JDxbaYlDFJQ9ZMmRQ5S1LzBxgq-qA3vDb-_spbICOqtVNExc2bHdIiNM/s320/Supernovae.jpg" title="[Victor Vasarely (1962) Supernovae](https://en.wikipedia.org/wiki/Victor_Vasarely)" width="60%" >}}
+{{< figure src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUqb-w6zGJ8ul1sTnh0gXi2PWwDC4uNM0Ctj_XNerPS-BuJR6_ZGNsNWO8fv5fl3S5is8faHPrgSsD1f7_KR8JDxbaYlDFJQ9ZMmRQ5S1LzBxgq-qA3vDb-_spbICOqtVNExc2bHdIiNM/s320/Supernovae.jpg" title="[Victor Vasarely (1962) Supernovae](https://en.wikipedia.org/wiki/Victor_Vasarely)" width="34.8%" >}}
 
 ---
 
 ## Victor Vasarely
 
-{{< figure src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_LmwCk716jFOMR8cAwmX96DUlrCFEGfgwJVp4SaDvk9AmlGiXA25N9-DViXxGW9zHE2AHBLxo1dVuHUg9TvRn2yEsmt-i_vvNX_h9rBqnnOFVqFUCbnXIPWVWtkv_tqKGcHRMzX4wUJQ/s1600/800px-FondationAix.JPG" title="[Victor Vasarely (1976) Fondation Vasarely, Aix-en-Provence](https://en.wikipedia.org/wiki/Fondation_Vasarely)" width="60%" >}}
+{{< figure src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_LmwCk716jFOMR8cAwmX96DUlrCFEGfgwJVp4SaDvk9AmlGiXA25N9-DViXxGW9zHE2AHBLxo1dVuHUg9TvRn2yEsmt-i_vvNX_h9rBqnnOFVqFUCbnXIPWVWtkv_tqKGcHRMzX4wUJQ/s1600/800px-FondationAix.JPG" title="[Victor Vasarely (1976) Fondation Vasarely, Aix-en-Provence](https://en.wikipedia.org/wiki/Fondation_Vasarely)" width="60.4%" >}}
 
 
 ---
 
 ## Art & science reveal vision in action
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/92/Cruz-Diez_2013_Grand_Palais_Paris_France.jpg" title="[Carlos Cruz-Diez (2013) Chromosaturation](https://en.wikipedia.org/wiki/Carlos_Cruz-Diez)" width="90%" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/92/Cruz-Diez_2013_Grand_Palais_Paris_France.jpg" title="[Carlos Cruz-Diez (2013) Chromosaturation](https://en.wikipedia.org/wiki/Carlos_Cruz-Diez)" width="67.1%" >}}
 
 {{< speaker_note >}}
 **≈ 45 s** (optional)
@@ -1255,7 +1255,7 @@ Active vision is a recurring theme of kinetic art. Carlos Cruz-Diez immersed vis
 
 ## Caustics: Turbulences
 
-{{< figure src="https://laurentperrinet.github.io/post/2018-01-20_turbulences/featured.jpg" title="[Étienne Rey (2018) Turbulences](https://laurentperrinet.github.io/post/2018-01-20_turbulences/)" width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2018-01-20_turbulences/featured.jpg" title="[Étienne Rey (2018) Turbulences](https://laurentperrinet.github.io/post/2018-01-20_turbulences/)" width="63.9%" >}}
 
 {{< speaker_note >}}
 **≈ 45 s** (optional)
@@ -1274,7 +1274,7 @@ With Turbulences, we started to work on caustics, these bright folds of light th
 
 ## Public commissions (2026): Apparitions transitoires
 
-{{< figure src="https://laurentperrinet.github.io/post/2026-10-24_apparitions-transitoires/featured.jpg" title="[Étienne Rey (2026) Apparitions transitoires, campus Doua, Villeurbanne (project view)](https://laurentperrinet.github.io/post/2026-10-24_apparitions-transitoires/)" width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2026-10-24_apparitions-transitoires/featured.jpg" title="[Étienne Rey (2026) Apparitions transitoires, campus Doua, Villeurbanne (project view)](https://laurentperrinet.github.io/post/2026-10-24_apparitions-transitoires/)" width="80.6%" >}}
 
 {{< speaker_note >}}
 **≈ 45 s** (optional)
@@ -1294,7 +1294,7 @@ Our collaboration is now entering public space. Apparitions transitoires, for th
 
 ## Public commissions (2026): Horizon commun
 
-{{< figure src="https://laurentperrinet.github.io/post/2026-10-24_horizon-commun/featured.jpg" title="[Étienne Rey (2026) Horizon commun, lycée Robert Badinter, Créon (project view)](https://laurentperrinet.github.io/post/2026-10-24_horizon-commun/)" width="80%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2026-10-24_horizon-commun/featured.jpg" title="[Étienne Rey (2026) Horizon commun, lycée Robert Badinter, Créon (project view)](https://laurentperrinet.github.io/post/2026-10-24_horizon-commun/)" width="80.6%" >}}
 
 {{< speaker_note >}}
 **≈ 45 s** (optional)
@@ -1315,7 +1315,7 @@ The second commission, Horizon commun, is a course of seven works for a high sch
 
 ## What is vision for: foveal retinotopy
 
-{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_dolphin.jpg" title="[JN Jérémie, E Daucé and LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="90%" >}}
+{{< figure src="https://laurentperrinet.github.io/publication/jeremie-25/retinotopy_dolphin.jpg" title="[JN Jérémie, E Daucé and LP (2026)](https://laurentperrinet.github.io/publication/jeremie-25)" width="95%" >}}
 
 {{< speaker_note >}}
 **≈ 30 s**
