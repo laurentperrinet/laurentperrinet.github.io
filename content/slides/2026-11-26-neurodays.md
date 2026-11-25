@@ -73,15 +73,18 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 ## Seeing, surprising, understanding
 
-{{% fragment %}} **Seeing** — vision is an active, creative process {{% /fragment %}}
 
-{{% fragment %}} **Surprising** — art and science both look for what defies our expectations {{% /fragment %}}
+<ol class="outline">
+  <li class="fragment"><strong>**Seeing**</strong><span>Vision is an active, creative process</span></li>
+  <li class="fragment"><strong>**Surprising**</strong><span>Art and science both look for what defies our expectations</span></li>
+  <li class="fragment"><strong>**Understanding**</strong><span>Surprises reveal the hidden mechanisms of perception</span></li>
+</ol>
 
-{{% fragment %}} **Understanding** — surprises reveal the hidden mechanisms of perception {{% /fragment %}}
-<!-- TODO: this outline slide was drafted by Claude and has no image; keep it as text, illustrate it (e.g. with Polaire), or drop it -->
 
 {{< speaker_note >}}
 **≈ 1 min 30 s**
+
+defending a simple hypothesis: artistic work is a form of research. 
 
 - three words of the title = three steps
 - first: classic, widely discussed works, seen from a specific angle
@@ -298,49 +301,6 @@ Decades later, a new probe photographed the same terrain with a much higher reso
 - face pareidolia activates face-selective cortex: Taubert et al. (2017), *Face pareidolia in the rhesus monkey*, Current Biology 27(16):2505-2509
 {{< /speaker_note >}}
 
----
-
-## Perception as an emergent process
-
-{{% fragment %}} 
-{{< figure src="https://mcalp.fr/wp-content/uploads/2014/10/Gare-Montparnasse-10.jpg" title="[Victor Vasarely (1971) Gare Montparnasse](https://en.wikipedia.org/wiki/Victor_Vasarely)" width="90%" >}}
-{{% /fragment %}}
-<!-- TODO: check the date and title of the Vasarely work at the Gare Montparnasse (1971?) -->
-
-{{< speaker_note >}}
-**≈ 1 min**
-
-- Vasarely: Hungarian-born, founder of Op Art
-- in our public space: Renault logo, Gare Montparnasse; Fondation Vasarely in Aix
-- his works exploit the rules of the visual system to create depth and motion
-
-
-Other artists exploited these rules of vision systematically. You may think of Escher, and perhaps less of Victor Vasarely, the Hungarian-born artist who founded Op Art. His works are everywhere in our public space: the Renault logo, this mural at the Gare Montparnasse in Paris, and of course the Fondation Vasarely, a few kilometres from here, in Aix-en-Provence. With simple geometric elements, he creates depth, volume, and even motion, out of a flat surface.
-
-
-- Vasarely (1906-1997); Renault logo redesigned with Yvaral in 1972; Fondation Vasarely in Aix-en-Provence inaugurated in 1976
-- Op Art: exhibition *The Responsive Eye*, MoMA, 1965
-{{< /speaker_note >}}
-
----
-
-## Perception as an emergent process
-
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Mgmorellet.jpg" title="[François Morellet (1962) Mönchengladbach, Sphère - trames](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Morellet)" width="80%" >}}
-
-{{< speaker_note >}}
-**≈ 1 min**
-
-- Morellet: centenary of his birth this year (1926-2016)
-- a sphere made of grids: alignments appear and vanish as you move
-- kinetic art: the work exists only through the active perception of the viewer
-
-
-Another artist of this period is François Morellet, born a century ago, in 1926. This sphere is made of superimposed grids: as you walk around it, alignments appear and vanish. This is kinetic art: the work does not exist on its own, it exists only through the active perception of the viewer. Keep this idea of superimposed grids in mind, we will come back to it with Étienne Rey.
-
-
-- Morellet (1926-2016), co-founder of the GRAV (Groupe de Recherche d'Art Visuel, 1960)
-{{< /speaker_note >}}
 
 ---
 
@@ -441,7 +401,7 @@ Active vision is a recurring theme of kinetic art. Carlos Cruz-Diez immersed vis
 
 ---
 
-{{< slide background-video="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/Varini.mp4" background-video-loop="true" background-video-muted="true" >}}
+{{< slide background-video="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/Varini.mp4" background-video-loop="true" background-video-muted="true" title="Felice Varini: anamorphosis painted on architecture" >}}
 <!-- TODO: this background video has no caption; add the title and year of the Varini work, and a credit -->
 
 {{< speaker_note >}}
@@ -463,12 +423,14 @@ Felice Varini paints on architecture shapes that only become coherent from a sin
 
 <section>
 
-## A long-standing collaboration
+## Research in art: collaboration with Étienne Rey
 
 {{% fragment %}} 
 {{< figure src="https://laurentperrinet.github.io/author/etienne-rey/avatar.jpg" title="[Étienne Rey](https://laurentperrinet.github.io/author/etienne-rey/)" width="35%" >}}
 {{% /fragment %}}
-<!-- TODO: check that Étienne Rey's studio is still at the Friche la Belle de Mai -->
+
+
+<!-- TODO: insit on defending a simple hypothesis: artistic work is a form of research.  -->
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -487,7 +449,7 @@ Let me now introduce my partner in this exploration. Étienne Rey is a visual ar
 
 ---
 
-## A long-standing collaboration
+## Research in art: collaboration with Étienne Rey
 
 {{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Étienne Rey (2010) Spectre audiographique](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="100%" >}}
 <!-- TODO: first meeting is the talk of 2010-04-14 (talk/2010-04-14-ondes-paralleles) while the site says "since 2011"; harmonise the start date -->
@@ -702,6 +664,8 @@ How do we put the pieces of the puzzle together? In the series Variable Density,
 - see /post/2026-02-20_ososphere/; Ososphère, La Laiterie, Strasbourg, 2026-02-20 to 2026-03-08
 {{< /speaker_note >}}
 
+
+<!-- 
 ---
 
 ## Horizon faille: Sans gravité
@@ -721,7 +685,7 @@ In 2019, the installation Horizon faille played with two motifs dear to Étienne
 
 
 - exhibition *Sans gravité - une poétique de l'air*, Ardenome, Avignon, 2019-03-23 to 2019-06-22, CHRONIQUES biennale; see /post/2019-06-22_ardemone/
-{{< /speaker_note >}}
+{{< /speaker_note >}} -->
 
 ---
 
@@ -996,6 +960,13 @@ My contribution is, prosaically, to write code, and here is a version of it. For
 
 By varying this offset, we explore the space of possible works: this is the artistic experimentation, and it is very close to a parameter scan in a lab. A first answer emerges: vision is for putting things together, for creating something new, where one plus one makes more than two. But what is it for? Let us go back to the lab.
 {{< /speaker_note >}}
+
+
+---
+
+{{< slide background-video="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" background-video-loop="true" background-video-muted="true" >}}
+
+## La vibration des apparences
 
 </section>
 
@@ -1282,10 +1253,5 @@ To sum up. Seeing: vision is not a camera, it is an active and creative process,
 
 {{< figure src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_LmwCk716jFOMR8cAwmX96DUlrCFEGfgwJVp4SaDvk9AmlGiXA25N9-DViXxGW9zHE2AHBLxo1dVuHUg9TvRn2yEsmt-i_vvNX_h9rBqnnOFVqFUCbnXIPWVWtkv_tqKGcHRMzX4wUJQ/s1600/800px-FondationAix.JPG" title="[Victor Vasarely (1976) Fondation Vasarely, Aix-en-Provence](https://en.wikipedia.org/wiki/Fondation_Vasarely)" width="60%" >}}
 
----
-
-{{< slide background-video="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" background-video-loop="true" background-video-muted="true" >}}
-
-## La vibration des apparences
 
 </section>
