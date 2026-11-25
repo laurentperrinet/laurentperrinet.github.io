@@ -613,7 +613,7 @@ How do we put the pieces of the puzzle together? In the series Variable Density,
 
 ## Horizon faille @ Interstice
 
-{{< figure src="https://laurentperrinet.github.io/post/2021-10-04_interstices/featured.jpg" title="[Étienne Rey (2021) Horizon faille, festival Interstice, Caen](https://laurentperrinet.github.io/post/2021-10-04_interstices/)" width="55.2%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2021-10-04_interstices/featured.jpg" title="[Étienne Rey (2021) Horizon faille, festival Interstice](https://laurentperrinet.github.io/post/2021-10-04_interstices/)" width="55.2%" >}}
 
 {{< speaker_note >}}
 **≈ 45 s** (optional)
@@ -714,15 +714,16 @@ The first work is Densité floue, here in the version shown in Avignon in 2019. 
 
 ---
 
-{{< figure src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/Avignon-02.jpg" title="Étienne Rey (2019) Horizon faille - Densité floue - Sans gravité - une poétique de l’air à Ardenome Avignon https://www.enrevenantdelexpo.com" lightbox="true" width="90.3%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2019-06-22_ardemone/Avignon-02.jpg" title="Étienne Rey (2019) Horizon faille -  Sans gravité" lightbox="true" width="90.3%" >}}
 
 {{< speaker_note >}}
 **≈ 30 s** (optional)
 
 - the boundary between what is perceived and what is not
 
-
 What we explore here is the boundary between what is perceived and what is not: at a distance the texture is uniform, and as you get closer, the structure appears.
+ 
+ - une poétique de l’air à Ardenome Avignon https://www.enrevenantdelexpo.com
 {{< /speaker_note >}}
 
 ---
@@ -792,14 +793,15 @@ Zooming in, you can appreciate the interferences, the moiré patterns. The impor
 ## La vibration des apparences
 
 ```python
-def retino_grid(cr, N_H, N_V, offset, size_mag, ecc_max, alpha, c1, c2, power,
-                N_rho=34, N_phi=233, c_blue=240, dc=60):
+def retino_grid(cr, N_H, N_V, offset=0.07, size_mag=0.3, ecc_max=0.8, 
+                N_rho=34, N_phi=233, alpha=0.80, power=0.5, 
+                c_blue=240, dc=60):
     # https://laurentperrinet.github.io/sciblog/posts/2020-04-16-creating-an-hexagonal-grid.html
     phi_v, rho_v = np.meshgrid(np.linspace(0, 2*np.pi, N_phi, endpoint=False), 
                                np.linspace(0, ecc_max, N_rho+1, endpoint=True)[1:], sparse=False, indexing='xy')    
     phi_v[::2, :] += np.pi/N_phi
 
-    for offset_, color in zip([-offset, offset], [c1, c2]):
+    for offset_, color in zip([-offset, offset], [c_blue-dc, c_blue+dc]):
         # convert to cartesian coordinates
         X, Y = (rho_v * np.sin(phi_v) + offset_+1)/2, (rho_v * np.cos(phi_v)+1)/2
         R = size_mag * rho_v**power / N_rho
@@ -809,11 +811,8 @@ def retino_grid(cr, N_H, N_V, offset, size_mag, ecc_max, alpha, c1, c2, power,
             cr.set_source_rgba(*hue_to_rgba(color, alpha))
             cr.fill()
     return cr
-opts = dict(N_rho=N_rho, N_phi=N_phi, N_H=N_H, N_V=N_V,
-            offset=0.07, size_mag=0.3, ecc_max=0.8, alpha=0.80, 
-            c1=c_blue-dc, c2=c_blue+dc)
 @disp
-def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
+def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, N_H=N_H, N_V=N_V)
 ```
 
 {{< speaker_note >}}
@@ -873,7 +872,7 @@ With Étienne, we made this image. Fixate one of the dots: it looks brighter tha
 
 ## What is vision for: foveal vision
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/0/03/Johannes_Vermeer_-_The_lacemaker_%28c.1669-1671%29.jpg" title="[Johannes Vermeer (c. 1669-1670) *The Lacemaker*, Musée du Louvre](https://en.wikipedia.org/wiki/The_Lacemaker_%28Vermeer%29)" width="39.5%" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/0/03/Johannes_Vermeer_-_The_lacemaker_%28c.1669-1671%29.jpg" title="[Johannes Vermeer (c. 1669-1670) *The Lacemaker*](https://en.wikipedia.org/wiki/The_Lacemaker_%28Vermeer%29)" width="39.5%" >}}
 
 {{< speaker_note >}}
 **≈ 45 s**
