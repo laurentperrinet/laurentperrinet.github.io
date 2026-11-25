@@ -348,14 +348,14 @@ If we ask for the ages of the people, the structure changes again, and the gaze 
 
 ## Perception as an emergent process
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Mgmorellet.jpg" title="[François Morellet (1962) Mönchengladbach, Sphère - trames](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Morellet)" width="80%" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Mgmorellet.jpg" title="[François Morellet (1962) Sphère - trames](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Morellet)" width="80%" >}}
 
 {{< speaker_note >}}
 **≈ 1 min**
 
 - bridge from Yarbus: artists explored active vision long before eye trackers
 - Morellet: centenary of his birth this year (1926-2016)
-- a sphere made of grids: alignments appear and vanish as you move
+- Mönchengladbach : a sphere made of grids: alignments appear and vanish as you move
 - kinetic art: the work exists only through the active perception of the viewer
 
 
@@ -438,7 +438,7 @@ It all started in 2010, when Étienne invited me to give a talk at the opening o
 
 ## Vision in action: Tropique
 
-{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_b.jpg" title="[Étienne Rey, Tropique](https://ondesparalleles.org/projets/tropique-7/)" width="100%" >}}
+{{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_b.jpg" title="[Étienne Rey (2013) Tropique](https://ondesparalleles.org/projets/tropique-7/)" width="100%" >}}
 
 {{< speaker_note >}}
 **≈ 1 min 15 s**
@@ -514,7 +514,7 @@ Cristal N°2, or "theoretical tree", is a fractal tree made of mirrors. An algor
 
 ---
 
-{{< figure src="https://laurentperrinet.github.io/post/2016-06-02_elasticite/TRAME_Elasticité.jpg" title="[Étienne Rey, TRAME ÉLASTICITÉ](https://ondesparalleles.org/projets/trame-elasticite-vasarely/)" width="100%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2016-06-02_elasticite/TRAME_Elasticité.jpg" title="[Étienne Rey (2016) Trame élasticité](https://ondesparalleles.org/projets/trame-elasticite-vasarely/)" width="100%" >}}
 
 {{< speaker_note >}}
 **≈ 1 min 15 s**
@@ -533,7 +533,7 @@ Another large collaboration: Trame Élasticité, shown in 2016 at the Fondation 
 
 ---
 
-## Vision in action: TRAME ÉLASTICITÉ
+## Vision in action: Trame élasticité
 
 <iframe src="https://player.vimeo.com/video/198189587" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -551,7 +551,7 @@ An Instagram trap, as you can imagine! But scientifically, what interests us is 
 
 ## Perception as an emergent process
 
-{{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png" title="[Étienne Rey, Trames](https://laurentperrinet.github.io/post/2018-04-10_trames/)" width="72%" >}}
+{{< figure src="https://laurentperrinet.github.io/post/2018-04-10_trames/featured.png" title="[Étienne Rey (2018) Trames](https://laurentperrinet.github.io/post/2018-04-10_trames/)" width="72%" >}}
 
 {{< speaker_note >}}
 **≈ 1 min 15 s**
@@ -669,7 +669,7 @@ The Musée Granet is, in a way, Cézanne's museum, and the Montagne Sainte-Victo
 
 ## La vibration des apparences
 
-{{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/Merleau-Ponty_Sens-et-non-sens.png" title="[Merleau-Ponty, *Le Doute de Cézanne*, in *Sens et non-sens* (1948)](https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/)" width="62%" >}}
+{{< figure src="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/Merleau-Ponty_Sens-et-non-sens.png" title="[Merleau-Ponty, *Le Doute de Cézanne* (1948)](https://laurentperrinet.github.io/post/2024-11-07_vibration-apparences/)" width="62%" >}}
 
 {{< speaker_note >}}
 **≈ 1 min**
@@ -792,16 +792,14 @@ Zooming in, you can appreciate the interferences, the moiré patterns. The impor
 ## La vibration des apparences
 
 ```python
-
 def retino_grid(cr, N_H, N_V, offset, size_mag, ecc_max, alpha, c1, c2, power,
-                N_rho=34, N_phi=233):
+                N_rho=34, N_phi=233, c_blue=240, dc=60):
     # https://laurentperrinet.github.io/sciblog/posts/2020-04-16-creating-an-hexagonal-grid.html
     phi_v, rho_v = np.meshgrid(np.linspace(0, 2*np.pi, N_phi, endpoint=False), 
                                np.linspace(0, ecc_max, N_rho+1, endpoint=True)[1:], sparse=False, indexing='xy')    
     phi_v[::2, :] += np.pi/N_phi
 
-    offsets, colors = [-offset, offset], [c1, c2]
-    for offset_, color in zip(offsets, colors):
+    for offset_, color in zip([-offset, offset], [c1, c2]):
         # convert to cartesian coordinates
         X, Y = (rho_v * np.sin(phi_v) + offset_+1)/2, (rho_v * np.cos(phi_v)+1)/2
         R = size_mag * rho_v**power / N_rho
@@ -811,13 +809,11 @@ def retino_grid(cr, N_H, N_V, offset, size_mag, ecc_max, alpha, c1, c2, power,
             cr.set_source_rgba(*hue_to_rgba(color, alpha))
             cr.fill()
     return cr
-c_blue, dc = 240, 60
 opts = dict(N_rho=N_rho, N_phi=N_phi, N_H=N_H, N_V=N_V,
             offset=0.07, size_mag=0.3, ecc_max=0.8, alpha=0.80, 
             c1=c_blue-dc, c2=c_blue+dc)
 @disp
 def draw(cr, N_H=N_H, N_V=N_V): cr = retino_grid(cr, **opts)
-
 ```
 
 {{< speaker_note >}}
@@ -851,7 +847,7 @@ By varying this offset, we explore the space of possible works: this is the arti
 
 ---
 
-{{< slide background-image="https://raw.githubusercontent.com/laurentperrinet/sciblog/refs/heads/master/files/2026-07-31-pale-blue-dots.svg" background-color="#000" height="100%" >}}
+{{< slide background-image="https://raw.githubusercontent.com/laurentperrinet/sciblog/refs/heads/master/files/2026-07-31-pale-blue-dots_big.svg" background-color="#000" height="100%" >}}
 
 {{< speaker_note >}}
 **≈ 45 s**
