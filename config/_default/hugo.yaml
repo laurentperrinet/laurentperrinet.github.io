@@ -37,7 +37,9 @@ pagination:
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
-ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+# The last pattern skips the transient `<file>.tmp.<pid>.<hash>` files that editors write
+# when saving atomically: they vanish before Hugo publishes them and break `make test` rebuilds.
+ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$, '\.tmp\.[0-9]+\.[0-9a-f]+$']
 permalinks:
   events: '/post/:slug/'
   talks: '/talk/:slug/'

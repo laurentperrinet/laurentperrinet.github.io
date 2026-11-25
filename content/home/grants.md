@@ -16,8 +16,7 @@ content:
     tag: '*'
 design:
   columns: '2'
-  view: 3
-  flip_alt_rows: true
+  view: card
   background:
     color: SkyBlue
 ---
