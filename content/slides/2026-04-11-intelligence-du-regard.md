@@ -666,7 +666,7 @@ L'intelligence du regard est dans son incarnation — cognition incarnée, Varel
 
 ## Victor Vasarely
 
-{{< figure src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnqT-ltEk7fE-iUfHgea6HPeusGiz357ctHroJoxUxy02oXJ4U8EGbWoXPz0aEaTOtKQKNBCJ9IMsXMKBpS9ngmwWsAESV8Rrto9iM3mCBaYmRj6MiQqpyGy-uzomgMHtdXxE6QNwBqr8/s1600/fds.jpg" title="[Victor Vasarely (1962) Mönchengladbach, Sphère - trames](https://fr.wikipedia.org/wiki/Victor_Vasarely)" width="100%" >}}
+{{< figure src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnqT-ltEk7fE-iUfHgea6HPeusGiz357ctHroJoxUxy02oXJ4U8EGbWoXPz0aEaTOtKQKNBCJ9IMsXMKBpS9ngmwWsAESV8Rrto9iM3mCBaYmRj6MiQqpyGy-uzomgMHtdXxE6QNwBqr8/s1600/fds.jpg" title="[Victor Vasarely (1976) *Kettes*](https://fr.wikipedia.org/wiki/Victor_Vasarely)" width="100%" >}}
 {{< speaker_note >}}
 {{< /speaker_note >}}
 
