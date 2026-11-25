@@ -245,9 +245,7 @@ Now place them in front of this fan of radiating lines: they look bent outwards.
 
 ## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/): [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
 
-{{% fragment %}} 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Face-on-mars.jpg" title="[Cydonia Mensae (1976) *Viking Orbiter image*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
-{{% /fragment %}}
 
 {{< speaker_note >}}
 **≈ 1 min**
@@ -264,12 +262,14 @@ This image is famous. In 1976, the Viking orbiter photographed the surface of Ma
 - Schiaparelli's "canali" (1877), popularised by Percival Lowell
 {{< /speaker_note >}}
 
-<!-- ---
+<!-- 
+
+
+---
 
 ## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/): [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
 
 {{< figure src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_low.png" title="[Cydonia Mensae (2007) *Mars Global Surveyor*](https://en.wikipedia.org/wiki/Cydonia_(Mars))" width="50%" >}}
-<!-- TODO: check the captions of this slide and the next one; Mars Global Surveyor imaged Cydonia in 1998 and 2001, the 2007 images come from Mars Reconnaissance Orbiter (HiRISE) -->
 
 {{< speaker_note >}}
 **≈ 20 s**
@@ -298,7 +298,9 @@ Decades later, a new probe photographed the same terrain with a much higher reso
 
 
 - face pareidolia activates face-selective cortex: Taubert et al. (2017), *Face pareidolia in the rhesus monkey*, Current Biology 27(16):2505-2509
-{{< /speaker_note >}} -->
+{{< /speaker_note >}} 
+
+-->
 
 
 ---
@@ -422,14 +424,14 @@ Felice Varini paints on architecture shapes that only become coherent from a sin
 
 <section>
 
-## Research in art: collaboration with Étienne Rey
+## When art becomes neuroscience
 
 {{% fragment %}} 
 {{< figure src="https://laurentperrinet.github.io/author/etienne-rey/avatar.jpg" title="[Étienne Rey](https://laurentperrinet.github.io/author/etienne-rey/)" width="35%" >}}
 {{% /fragment %}}
 
 
-<!-- TODO: insit on defending a simple hypothesis: artistic work is a form of research.  -->
+<!-- TODO: insist on defending a simple hypothesis: artistic work is a form of research.  -->
 
 {{< speaker_note >}}
 **≈ 45 s**
@@ -448,7 +450,7 @@ Let me now introduce my partner in this exploration. Étienne Rey is a visual ar
 
 ---
 
-## Research in art: collaboration with Étienne Rey
+## When art becomes neuroscience
 
 {{< figure src="https://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg" title="[Étienne Rey (2010) Spectre audiographique](https://ondesparalleles.org/projets/cloche-spectre-audiographique-diffraction/)" width="100%" >}}
 <!-- TODO: first meeting is the talk of 2010-04-14 (talk/2010-04-14-ondes-paralleles) while the site says "since 2011"; harmonise the start date -->
@@ -489,6 +491,7 @@ Our first large project was Tropique, for Marseille-Provence 2013, European Capi
 - Tropique (2013), installation in situ (France, Canada); coproduction Marseille-Provence 2013, IMéRA, GMEM, Ososphère / Quatre 4.0, Centre des arts d'Enghien-les-Bains, CNRS / INT; see /post/2013-10-10_tropique/
 - code: https://github.com/NaturalPatterns/Tropique
 {{< /speaker_note >}}
+
 
 ---
 
@@ -594,7 +597,7 @@ An Instagram trap, as you can imagine! But scientifically, what interests us is 
 - forms found in nature (zebra coat, soap bubbles); they change with your eye movements
 
 
-In the lineage of Morellet, we experimented with superimposed grids. Elementary motifs are placed on a dense hexagonal grid, and a second grid is superimposed. What jumps to the eye is not the real motif, but virtual patterns that emerge from the relation between the physical grids and our perceptual physiology: hexagons, like in the Alhambra, three-dimensional spaces, or forms found in nature, like the coat of a zebra or a foam of soap bubbles. And notice that these forms change as you move your eyes.
+In the lineage of François Morellet, we experimented with superimposed grids. Elementary motifs are placed on a dense hexagonal grid, and a second grid is superimposed. What jumps to the eye is not the real motif, but virtual patterns that emerge from the relation between the physical grids and our perceptual physiology: hexagons, like in the Alhambra, three-dimensional spaces, or forms found in nature, like the coat of a zebra or a foam of soap bubbles. And notice that these forms change as you move your eyes.
 
 
 - *Trame instabilité*; see /post/2018-04-10_trames/ and the essay *Formes & perception* (https://laurentperrinet.github.io/2023-01-31_formes-et-perception/)
@@ -604,8 +607,7 @@ In the lineage of Morellet, we experimented with superimposed grids. Elementary 
 
 ## Perception as an emergent process: Instabilité
 
-{{< figure src="https://laurentperrinet.github.io/post/2018-09-09_artorama/instabilite-1-618.jpg" title="[Étienne Rey (2018) Instabilité 1,618, screen print, 100 × 100 cm](https://laurentperrinet.github.io/post/2018-09-09_artorama/)" width="50%" >}}
-<!-- TODO: slide added from the works shown on the site; remove it if superfluous -->
+{{< figure src="https://laurentperrinet.github.io/post/2018-09-09_artorama/instabilite-1-618.jpg" title="[Étienne Rey (2018) *Instabilité 1,618* , 100 × 100 cm](https://laurentperrinet.github.io/post/2018-09-09_artorama/)" width="50%" >}}
 
 {{< speaker_note >}}
 **≈ 45 s** (optional)
