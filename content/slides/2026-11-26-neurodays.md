@@ -36,7 +36,7 @@ summary: 'Seeing, Surprising, Understanding: When Art Becomes Neuroscience'
 type: slides
 ---
 
-<!-- TODO: the timings below add up to about 54 min (about 46 min without the slides marked "optional") for a ~50 min slot; rehearse once and cut optional slides until you fit -->
+<!-- TODO: the timings below add up to about 56 min (about 48 min without the slides marked "optional") for a ~50 min slot; rehearse once and cut optional slides until you fit -->
 <!-- TODO: the organisers ask for a .pdf or .ppt; export with ?print-pdf in a browser and send it before the session -->
 <!-- TODO: the script was drafted by Claude from this site; the references in the last block of each note that do not point to the site (e.g. Azéma & Rivère 2012, Changizi et al. 2008, Taubert et al. 2017, DeAngelus & Pelz 2009, Adams et al. 2013) were cited from memory: check them before quoting -->
 <!-- TODO: you speak first, at 09:45; the welcome on the title slide may overlap with the official opening by the organisers, adjust it once the programme is final -->
@@ -71,25 +71,24 @@ Contact me @ [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)
 
 ---
 
-## Seeing, surprising, understanding
+## Vision: Seeing, surprising, understanding
 
 
 <ol class="outline">
   <li class="fragment"><strong>**Seeing**</strong><span>Vision is an active, creative process</span></li>
   <li class="fragment"><strong>**Surprising**</strong><span>Art and science both look for what defies our expectations</span></li>
-  <li class="fragment"><strong>**Understanding**</strong><span>Surprises reveal the hidden mechanisms of perception</span></li>
+  <li class="fragment"><strong>**Understanding**</strong><span>Surprises may reveal hidden mechanisms of perception</span></li>
 </ol>
 
 
 {{< speaker_note >}}
 **≈ 1 min 30 s**
 
-defending a simple hypothesis: artistic work is a form of research. 
+defending a simple hypothesis: artistic work is a form of research. - three words of the title = three steps
 
-- three words of the title = three steps
 - first: classic, widely discussed works, seen from a specific angle
-- second: a long-standing collaboration with Étienne Rey (Friche la Belle de Mai)
-- third: how this dialogue feeds back into models of vision
+- second: a long-standing collaboration with Étienne Rey (Friche la Belle de Mai) focused on action and perception
+- third: how this dialogue feeds back into models of vision by modelling the retinotopy of the retina and the visual cortex, and the dynamics of visual processing
 
 
 The title of this talk gives its plan. Seeing: vision is not a camera, it is an active and creative process. Surprising: artists, like scientists, look for what defies our expectations. And understanding: precisely because they surprise us, these works reveal the hidden mechanisms of perception. I will first revisit a few classic, widely discussed works, and look at them from this specific angle: what do they tell us about how we see? Then I will present a long-standing collaboration with the artist Étienne Rey, at the Friche la Belle de Mai, to show in concrete terms how artistic creation and neuroscience can enter into a dialogue. And finally, I will show how this dialogue comes back to the lab, into our models of vision.
@@ -147,8 +146,8 @@ Here is the Panel of the Lions in the Chauvet cave. Do we see a pride of lions h
 
 ## "The unreasonable effectiveness of vision"
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/5/5b/18_PanneauDesLions%28PartieDroite%29BisonsPoursuivisParDesLions.jpg" title="Panel of the Lions [[Chauvet Cave, -30 ka]](https://en.wikipedia.org/wiki/Chauvet_Cave)" width="90%" >}}
-<!-- TODO: check the dating in the caption (-30 ka); the Chauvet paintings are often dated to about 36 ka cal BP -->
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/5/5b/18_PanneauDesLions%28PartieDroite%29BisonsPoursuivisParDesLions.jpg" title="Panel of the Lions [[Chauvet Cave, ~36 ka]](https://en.wikipedia.org/wiki/Chauvet_Cave)" width="90%" >}}
 
 {{< speaker_note >}}
 **≈ 30 s**
@@ -157,7 +156,7 @@ Here is the Panel of the Lions in the Chauvet cave. Do we see a pride of lions h
 - transition: but what is this sense, vision?
 
 
-These paintings are tens of thousands of years old; if you have the chance, visit the replica in the Ardèche. But what exactly is this sense, vision?
+These paintings are tens of thousands of years old; if you have the chance, visit the replica in the Ardèche, near Pont-de-l'Arc. But what exactly is this sense, vision?
 
 
 - Chauvet cave: discovered in 1994, UNESCO World Heritage since 2014; replica "Grotte Chauvet 2" opened in 2015
@@ -265,7 +264,7 @@ This image is famous. In 1976, the Viking orbiter photographed the surface of Ma
 - Schiaparelli's "canali" (1877), popularised by Percival Lowell
 {{< /speaker_note >}}
 
----
+<!-- ---
 
 ## [Visual illusions](https://laurentperrinet.github.io/publication/perrinet-19-illusions/): [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
 
@@ -299,7 +298,7 @@ Decades later, a new probe photographed the same terrain with a much higher reso
 
 
 - face pareidolia activates face-selective cortex: Taubert et al. (2017), *Face pareidolia in the rhesus monkey*, Current Biology 27(16):2505-2509
-{{< /speaker_note >}}
+{{< /speaker_note >}} -->
 
 
 ---
@@ -966,7 +965,29 @@ By varying this offset, we explore the space of possible works: this is the arti
 
 {{< slide background-video="https://laurentperrinet.github.io/talk/2025-04-18-vibration-apparences/video1.mp4" background-video-loop="true" background-video-muted="true" >}}
 
-## La vibration des apparences
+
+
+{{< speaker_note >}}
+**≈ 45 s**
+
+- the central work, on the poster
+- two hexagonal polar grids, two colours: those of supernovae (oxygen and hydrogen)
+
+
+The central work is this one, the one on the poster. It consists of two hexagonal polar grids, in two colours, those of the emission lines of supernovae, oxygen and hydrogen, a wink to Vasarely's Supernovae.
+{{< /speaker_note >}}
+
+---
+
+{{< slide background-image="https://raw.githubusercontent.com/laurentperrinet/sciblog/refs/heads/master/files/2026-07-31-pale-blue-dots.svg" height="100%" >}}
+
+{{< speaker_note >}}
+**≈ 45 s**
+
+TODO description
+
+{{< /speaker_note >}}
+
 
 </section>
 
@@ -1189,6 +1210,60 @@ The question is the role of neuromodulators in active perception, in terms of pr
 
 - PhD project co-directed with Ede Rancz: *Neuromodulatory control of predictive processing in visual cortical circuits* (CENTURI); see /post/2026-01-28_phd-position_neuromodulatory-predictive-processing/
 - aberrant precision weighting in schizophrenia: Adams, Stephan, Brown, Frith & Friston (2013), Frontiers in Psychiatry 4:47
+{{< /speaker_note >}}
+
+</section>
+
+---
+
+<section>
+
+{{< slide background-video="https://laurentperrinet.github.io/post/2026-10-24_impermanence/A_impermanence.mp4" background-video-loop="true" background-video-muted="true" background-size="contain" background-color="#000" >}}
+<!-- TODO: the videos of this slide and the next one are served from post/2026-10-24_impermanence, which is not committed yet; deploy it before the talk -->
+<!-- TODO: the post does not say whether you took part in Impermanence (only "image credit: Laurent Perrinet"); decide how you present your role -->
+
+{{< speaker_note >}}
+**≈ 1 min 15 s**
+
+- last work, on show right now in Marseille: Impermanence (Étienne Rey, 2026)
+- September 2023: a mountainside collapses into a Greenland fjord, weakened by global warming
+- the mega-tsunami turns into a seiche: for nine days, the whole Earth vibrates at a single, perfectly regular frequency, a signal scientists first could not identify
+- five water sculptures, driven by a mechatronic device; each vibration has a sonic echo; Heraclitus, *panta rhei*
+- free entry at the Vieille Charité until 2026-12-13: go and see it
+
+
+Let me end this journey with a work that you can see right now, a short walk from here, at the Vieille Charité. It starts with an event that could have gone unnoticed. In September 2023, a mountainside, weakened by global warming, collapsed into a narrow fjord in Greenland. The resulting mega-tsunami turned into a standing wave, a seiche, sloshing back and forth in the fjord, and for nine days the whole Earth vibrated at a single, perfectly regular frequency, a signal that scientists at first could not identify. In Impermanence, Étienne Rey lets us relive this geological moment: five water sculptures, driven by a mechatronic device, constantly recompose themselves, and each vibration of their surface has a sonic echo. The title refers to Heraclitus: panta rhei, everything flows.
+
+
+- *Impermanence* (2026), visual and sound installation (five water sculptures); team: Étienne Rey (visual artist), Max Bruckert (composer), Julien Réveillon and Hakim Hamdani (scientists, CORIA / INSA Rouen Normandie), Manoeuvre (construction), Sylvain Garnavault (mechatronics); project development: Oblique/s; coproduction CHRONIQUES, Station Mir, Ososphère, GMEM; see /post/2026-10-24_impermanence/
+- exhibition *Souffles terrestres* (with Stéphanie Roland), Centre de la Vieille Charité, Marseille, 2026-10-24 to 2026-12-13, Tuesday to Sunday 9:00-18:00, free entry; curators Jean Paul Fourmentraux and Mathieu Vabre
+- the seismic signal had a period of about 92 s: Svennevig et al. (2024), *A rockslide-generated tsunami in a Greenland fjord rang Earth for 9 days*, Science 385:1196-1205
+<!-- TODO: the 92 s period and the Svennevig et al. (2024) reference were cited from memory; check them -->
+{{< /speaker_note >}}
+
+---
+
+## Impermanence
+
+<div class="r-stretch" style="display: flex; width: 100%; gap: 0;">
+<video controls preload="none" playsinline poster="https://laurentperrinet.github.io/post/2026-10-24_impermanence/B1_impermanence.jpg" style="width: 25%; height: 100%; object-fit: cover; margin: 0;"><source src="https://laurentperrinet.github.io/post/2026-10-24_impermanence/B1_impermanence.mp4" type="video/mp4"></video>
+<video controls preload="none" playsinline poster="https://laurentperrinet.github.io/post/2026-10-24_impermanence/B2_impermanence.jpg" style="width: 25%; height: 100%; object-fit: cover; margin: 0;"><source src="https://laurentperrinet.github.io/post/2026-10-24_impermanence/B2_impermanence.mp4" type="video/mp4"></video>
+<video controls preload="none" playsinline poster="https://laurentperrinet.github.io/post/2026-10-24_impermanence/D_impermanence.jpg" style="width: 25%; height: 100%; object-fit: cover; margin: 0;"><source src="https://laurentperrinet.github.io/post/2026-10-24_impermanence/D_impermanence.mp4" type="video/mp4"></video>
+<video controls preload="none" playsinline poster="https://laurentperrinet.github.io/post/2026-10-24_impermanence/E_impermanence.jpg" style="width: 25%; height: 100%; object-fit: cover; margin: 0;"><source src="https://laurentperrinet.github.io/post/2026-10-24_impermanence/E_impermanence.mp4" type="video/mp4"></video>
+</div>
+
+{{< speaker_note >}}
+**≈ 45 s**
+
+- click on each video to play it
+- forms are born, deform and vanish: we never see the same thing twice
+- transition: perception as an active process facing an unstable matter
+
+
+Here are four of the sculptures; I will start them one by one. Nothing is fixed: forms are born, deform and vanish in a continuous cycle where water, sound and light answer each other, so that you never see the same thing twice. Faced with such an unstable matter, our perception does what it always does: it actively builds stable forms out of a world in flux. This brings me to my conclusion.
+
+
+- videos: Laurent Perrinet, *Souffles terrestres*, Vieille Charité, 2026
 {{< /speaker_note >}}
 
 </section>

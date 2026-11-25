@@ -31,7 +31,7 @@ slides: 2026-11-26-neurodays
 
 * :fr: **Voir, surprendre, comprendre : quand l’art se fait neuroscience** : *Pour ouvrir ces journées consacrées aux liens entre arts et neurosciences, je défendrai l’hypothèse que le travail artistique est une forme de recherche : une quête de connaissances et de surprises qui partage de nombreux traits avec la démarche scientifique, en particulier dans l’exploration de notre perception et de notre cognition. Je reviendrai d’abord sur quelques œuvres classiques et abondamment commentées, en les regardant sous cet angle précis. Je présenterai ensuite une collaboration au long cours avec l’artiste [Étienne Rey](/authors/etienne-rey/) à la Friche la Belle de Mai, pour montrer concrètement comment nous avons fait dialoguer création artistique et neurosciences.*
 
-{{< figure src="https://neurodays2026.sciencesconf.org/data/header/NeuroDays2026Banner_1_.png", alt="NeuroDays 2026: The Art of Neuroscience, Marseille, France, 2026-11-26", title="NeuroDays 2026: The Art of Neuroscience, Marseille, France, 2026-11-26" >}}
+{{< figure src="https://neurodays2026.sciencesconf.org/data/header/NeuroDays2026Banner_1_.png" alt="NeuroDays 2026: The Art of Neuroscience, Marseille, France, 2026-11-26" title="NeuroDays 2026: The Art of Neuroscience, Marseille, France, 2026-11-26" >}}
 
 * Invited talk (~50 minutes, followed by ~10 minutes of questions) at NeuroDays 2026: The Art of Neuroscience, Marseille, France, 2026-11-26, 09:45–10:45
 
